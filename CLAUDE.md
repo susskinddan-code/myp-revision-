@@ -13,12 +13,13 @@ Owner: Dan, who is himself sitting the MYP eAssessment in May (MYP 5 / Grade 10)
 - Server functions in `src/lib/ai.functions.ts` (`getQuestionFeedback`, `gradePaper`)
 - Package manager: bun (`bun.lock`); `npm i` also works. Scripts: `dev`, `build`, `lint`, `format`
 - `bun.lock` pins Lovable's private npm mirror (403 outside Lovable). Use `npm i` (a public-registry `package-lock.json` is committed; installs and `npm run build` succeed). Ignore `bun.lock`
+- Database now lives in Dan's own Supabase project `qntfyxrlnvdsqklaedcm` (moved off Lovable Cloud on 2026-10-07; schema applied and all content copied, 150 sub-topics / 5,458 questions / 1,242 flashcards / 323 notes / 216 papers). Supabase dashboard: supabase.com/dashboard/project/qntfyxrlnvdsqklaedcm
 - `.env` holds only the public Supabase URL/publishable key. Never commit service-role keys or API keys
 
 ## Known Lovable-specific dependencies (must be replaced to run outside Lovable)
 
 - AI feedback and paper marking now call the Anthropic API (`claude-sonnet-4-5`) through `src/lib/anthropic.server.ts`. It needs `ANTHROPIC_API_KEY` as a server-only env var (put it in an untracked `.env.local`, and in the host's secret settings when deployed). Paper marking uses forced tool-use for structured JSON. Not yet tested against the live API because no key was available when it was written
-- `src/integrations/lovable/index.ts` and `@lovable.dev/cloud-auth-js` handle Lovable Cloud sign-in. Check whether Google sign-in depends on it before touching auth
+- Google sign-in now uses `supabase.auth.signInWithOAuth` (no longer Lovable Cloud). It only works once the Google provider is enabled in the Supabase project (Authentication -> Providers -> Google, needs a Google Cloud OAuth client) and the site URL is in the redirect allow-list. Email/password sign-in works as is. `src/integrations/lovable/` is now unused
 - Database changes: prefer adding a new numbered SQL migration in `drizzle/migrations/` and telling Dan to apply it; do not assume direct DB write access from this environment
 
 ## Non-negotiable rules

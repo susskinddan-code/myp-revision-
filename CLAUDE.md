@@ -51,4 +51,5 @@ Done to flagship depth: Physics MYP 4 and Physics MYP 5 (55 sub-topics each). Pr
 - This repo may stay connected to Lovable. **Never rewrite pushed git history** (no force-push, rebase, amend or squash of pushed commits). Keep the main branch working, since pushes sync back into the Lovable editor
 - Dan prefers one comprehensive prompt and then an uninterrupted run, with screenshot-based UI feedback afterwards
 - Run `bun run build` (or `npm run build`) and `lint` before declaring work done
+- Content generation: `node scripts/generate-content.mjs --subject biology --grade 5 [--limit N] [--dry-run]` (needs ANTHROPIC_API_KEY, SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY in the shell, never committed). Always dry-run a few sub-topics and read the output before loading
 - Plans and review documents live in `.lovable/plan/`; `roadmap.md` tracks the checklist

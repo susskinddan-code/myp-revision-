@@ -1,5 +1,6 @@
 import { createServerFn } from "@tanstack/react-start";
 import { z } from "zod";
+import { claudeJson, claudeText } from "./anthropic.server";
 
 const FeedbackInput = z.object({
   subject: z.string(),
@@ -13,17 +14,12 @@ const FeedbackInput = z.object({
 });
 
 /**
- * Personalised feedback for an incorrect MCQ answer, via Lovable AI.
+ * Personalised feedback for an incorrect MCQ answer, via the Anthropic API.
  * MYP achievement is reported on Levels 1-8 — never 1-7 (that is the DP).
  */
 export const getQuestionFeedback = createServerFn({ method: "POST" })
   .inputValidator((input: unknown) => FeedbackInput.parse(input))
   .handler(async ({ data }) => {
-    const apiKey = process.env["LOVABLE_API_KEY"];
-    if (!apiKey) {
-      return { feedback: null, error: "AI feedback is not configured." };
-    }
-
     const prompt = [
       `You are an IB Middle Years Programme (MYP) tutor for a Grade ${data.grade} student.`,
       `MYP achievement is reported on Levels 1 to 8 (never 1 to 7 - that is the Diploma Programme).`,
@@ -38,76 +34,9 @@ export const getQuestionFeedback = createServerFn({ method: "POST" })
       .filter(Boolean)
       .join("\n");
 
-    let response: Response;
-    try {
-      response = await fetch("https://ai.gateway.lovable.dev/v1/responses", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          "Lovable-API-Key": apiKey,
-          "X-Lovable-AIG-SDK": "fetch",
-        },
-        body: JSON.stringify({
-          model: "openai/gpt-6-astra",
-          input: prompt,
-          stream: true,
-          reasoning: { effort: "low" },
-        }),
-      });
-    } catch {
-      return { feedback: null, error: "Could not reach the feedback service. Try again." };
-    }
-
-    if (!response.ok || !response.body) {
-      const status = response.status;
-      const message =
-        status === 429
-          ? "The feedback service is busy right now. Try again in a moment."
-          : status === 402
-            ? "AI credits have run out for this workspace."
-            : status === 403
-              ? "AI feedback is currently blocked for this workspace."
-              : "Feedback could not be generated for this question.";
-      return { feedback: null, error: message };
-    }
-
-    const reader = response.body.getReader();
-    const decoder = new TextDecoder();
-    let buffer = "";
-    let text = "";
-
-    while (true) {
-      const { value, done } = await reader.read();
-      if (done) break;
-      buffer += decoder.decode(value, { stream: true });
-      const lines = buffer.split("\n");
-      buffer = lines.pop() ?? "";
-      for (const line of lines) {
-        if (!line.startsWith("data:")) continue;
-        const payload = line.slice(5).trim();
-        if (!payload || payload === "[DONE]") continue;
-        try {
-          const event = JSON.parse(payload) as {
-            type?: string;
-            delta?: string;
-            response?: { output_text?: string };
-          };
-          if (event.type === "response.output_text.delta" && typeof event.delta === "string") {
-            text += event.delta;
-          } else if (event.type === "response.completed" && event.response?.output_text) {
-            if (!text) text = event.response.output_text;
-          }
-        } catch {
-          // ignore keep-alive and non-JSON frames
-        }
-      }
-    }
-
-    const trimmed = text.trim();
-    if (!trimmed) {
-      return { feedback: null, error: "No feedback was returned for this question." };
-    }
-    return { feedback: trimmed, error: null };
+    const result = await claudeText({ prompt, maxTokens: 300, what: "feedback" });
+    if (!result.ok) return { feedback: null, error: result.error };
+    return { feedback: result.value, error: null };
   });
 
 const GradePaperInput = z.object({
@@ -164,11 +93,6 @@ const GRADE_SCHEMA = {
 export const gradePaper = createServerFn({ method: "POST" })
   .inputValidator((input: unknown) => GradePaperInput.parse(input))
   .handler(async ({ data }) => {
-    const apiKey = process.env["LOVABLE_API_KEY"];
-    if (!apiKey) {
-      return { marks: null as PaperMark[] | null, error: "AI marking is not configured." };
-    }
-
     const prompt = [
       `You are an experienced IB Middle Years Programme (MYP) examiner marking a Grade ${data.grade} ${data.subject} practice paper: "${data.paperTitle}".`,
       data.criterion ? `Assessment criterion: ${data.criterion}.` : "",
@@ -188,91 +112,29 @@ export const gradePaper = createServerFn({ method: "POST" })
       .filter(Boolean)
       .join("\n");
 
-    let response: Response;
-    try {
-      response = await fetch("https://ai.gateway.lovable.dev/v1/responses", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          "Lovable-API-Key": apiKey,
-          "X-Lovable-AIG-SDK": "fetch",
-        },
-        body: JSON.stringify({
-          model: "openai/gpt-6-astra",
-          input: prompt,
-          stream: true,
-          reasoning: { effort: "medium" },
-          text: {
-            format: {
-              type: "json_schema",
-              name: "paper_marks",
-              strict: true,
-              schema: GRADE_SCHEMA,
-            },
-          },
-        }),
-      });
-    } catch {
-      return { marks: null, error: "Could not reach the marking service. Try again." };
+    const result = await claudeJson<{
+      marks: { position: number; marks_awarded: number; max_marks: number; feedback: string }[];
+    }>({
+      prompt,
+      maxTokens: 4000,
+      what: "marking",
+      toolName: "record_marks",
+      schema: GRADE_SCHEMA as unknown as Record<string, unknown>,
+    });
+    if (!result.ok) return { marks: null as PaperMark[] | null, error: result.error };
+
+    const parsed = result.value;
+    if (!Array.isArray(parsed.marks) || !parsed.marks.length) {
+      return { marks: null as PaperMark[] | null, error: "The marking result could not be read. Try submitting again." };
     }
-
-    if (!response.ok || !response.body) {
-      const message =
-        response.status === 429
-          ? "The marking service is busy right now. Try again in a moment."
-          : response.status === 402
-            ? "AI credits have run out for this workspace."
-            : response.status === 403
-              ? "AI marking is currently blocked for this workspace."
-              : "This paper could not be marked right now.";
-      return { marks: null, error: message };
-    }
-
-    const reader = response.body.getReader();
-    const decoder = new TextDecoder();
-    let buffer = "";
-    let text = "";
-
-    while (true) {
-      const { value, done } = await reader.read();
-      if (done) break;
-      buffer += decoder.decode(value, { stream: true });
-      const lines = buffer.split("\n");
-      buffer = lines.pop() ?? "";
-      for (const line of lines) {
-        if (!line.startsWith("data:")) continue;
-        const payload = line.slice(5).trim();
-        if (!payload || payload === "[DONE]") continue;
-        try {
-          const event = JSON.parse(payload) as {
-            type?: string;
-            delta?: string;
-            response?: { output_text?: string };
-          };
-          if (event.type === "response.output_text.delta" && typeof event.delta === "string") {
-            text += event.delta;
-          } else if (event.type === "response.completed" && event.response?.output_text) {
-            if (!text) text = event.response.output_text;
-          }
-        } catch {
-          // ignore keep-alive and non-JSON frames
-        }
-      }
-    }
-
-    try {
-      const parsed = JSON.parse(text.trim()) as {
-        marks: { position: number; marks_awarded: number; max_marks: number; feedback: string }[];
-      };
-      const marks: PaperMark[] = parsed.marks.map((m) => ({
+    const marks: PaperMark[] = parsed.marks.map((m) => {
+      const max = Math.max(1, Number(m.max_marks) || 1);
+      return {
         position: m.position,
-        marksAwarded: Math.max(0, Math.min(m.marks_awarded, m.max_marks)),
-        maxMarks: Math.max(1, m.max_marks),
-        feedback: m.feedback,
-      }));
-      if (!marks.length) throw new Error("empty");
-      return { marks, error: null };
-    } catch {
-      return { marks: null, error: "The marking result could not be read. Try submitting again." };
-    }
+        marksAwarded: Math.max(0, Math.min(Number(m.marks_awarded) || 0, max)),
+        maxMarks: max,
+        feedback: String(m.feedback ?? ""),
+      };
+    });
+    return { marks, error: null };
   });

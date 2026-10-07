@@ -12,12 +12,12 @@ Owner: Dan, who is himself sitting the MYP eAssessment in May (MYP 5 / Grade 10)
 - Schema/migrations in `drizzle/migrations/` (`drizzle/schema.ts` is auto-generated and intentionally blank). Supabase project id is in `supabase/config.toml`
 - Server functions in `src/lib/ai.functions.ts` (`getQuestionFeedback`, `gradePaper`)
 - Package manager: bun (`bun.lock`); `npm i` also works. Scripts: `dev`, `build`, `lint`, `format`
-- `bun.lock` pins Lovable's private npm mirror (403 outside Lovable). Install with `npm i` (verified: installs and `npm run build` succeeds), and regenerate the lockfile if you want one
+- `bun.lock` pins Lovable's private npm mirror (403 outside Lovable). Use `npm i` (a public-registry `package-lock.json` is committed; installs and `npm run build` succeed). Ignore `bun.lock`
 - `.env` holds only the public Supabase URL/publishable key. Never commit service-role keys or API keys
 
 ## Known Lovable-specific dependencies (must be replaced to run outside Lovable)
 
-- `src/lib/ai.functions.ts` calls the Lovable AI gateway (`LOVABLE_API_KEY`, model `openai/gpt-6-astra`). Outside Lovable this has no key. Replace with the Anthropic API (`claude-sonnet-4-5`, `ANTHROPIC_API_KEY` as a server-only env var) for MCQ feedback and paper marking
+- AI feedback and paper marking now call the Anthropic API (`claude-sonnet-4-5`) through `src/lib/anthropic.server.ts`. It needs `ANTHROPIC_API_KEY` as a server-only env var (put it in an untracked `.env.local`, and in the host's secret settings when deployed). Paper marking uses forced tool-use for structured JSON. Not yet tested against the live API because no key was available when it was written
 - `src/integrations/lovable/index.ts` and `@lovable.dev/cloud-auth-js` handle Lovable Cloud sign-in. Check whether Google sign-in depends on it before touching auth
 - Database changes: prefer adding a new numbered SQL migration in `drizzle/migrations/` and telling Dan to apply it; do not assume direct DB write access from this environment
 

@@ -1,0 +1,150 @@
+@import "tailwindcss" source(none);
+@source "../src";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+/*
+ * MYP Revision design system.
+ * Warm, organic, academic. All colour values are tokens — never hardcode
+ * colour utilities in components.
+ */
+
+@theme inline {
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 20px;
+  --radius-2xl: 24px;
+  --radius-3xl: 28px;
+  --radius-4xl: 32px;
+
+  --font-display: "Fraunces", ui-serif, Georgia, serif;
+  --font-sans: "DM Sans", ui-sans-serif, system-ui, sans-serif;
+
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-success: var(--success);
+  --color-warning: var(--warning);
+  --color-tertiary: var(--tertiary);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-surface-2: var(--surface-2);
+
+  --color-sciences: var(--sciences);
+  --color-mathematics: var(--mathematics);
+  --color-language-literature: var(--language-literature);
+  --color-language-acquisition: var(--language-acquisition);
+  --color-individuals-societies: var(--individuals-societies);
+  --color-arts: var(--arts);
+  --color-physical-health: var(--physical-health);
+  --color-design: var(--design);
+
+  --shadow-soft: 0 2px 8px rgba(44, 40, 37, 0.06);
+  --shadow-lift: 0 8px 24px rgba(44, 40, 37, 0.1);
+}
+
+:root {
+  --radius: 16px;
+  --background: #faf8f5;
+  --foreground: #2c2825;
+  --card: #ffffff;
+  --card-foreground: #2c2825;
+  --popover: #ffffff;
+  --popover-foreground: #2c2825;
+  --surface-2: #f3f0eb;
+  --primary: #7c9885;
+  --primary-foreground: #ffffff;
+  --secondary: #f3f0eb;
+  --secondary-foreground: #2c2825;
+  --muted: #f3f0eb;
+  --muted-foreground: #9a8f85;
+  --accent: #c4a882;
+  --accent-foreground: #2c2825;
+  --tertiary: #a89bc4;
+  --destructive: #d4756b;
+  --destructive-foreground: #ffffff;
+  --success: #7c9885;
+  --warning: #c4a882;
+  --border: #e8e2d9;
+  --input: #e8e2d9;
+  --ring: #7c9885;
+
+  --sciences: #a8d4d0;
+  --mathematics: #c4b8e8;
+  --language-literature: #f0c4a0;
+  --language-acquisition: #f0b8cc;
+  --individuals-societies: #a8cce8;
+  --arts: #f0e0a0;
+  --physical-health: #b8e0b8;
+  --design: #e8c4a0;
+}
+
+@layer base {
+  * {
+    border-color: var(--color-border);
+  }
+
+  body {
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-display);
+    font-weight: 600;
+    letter-spacing: -0.01em;
+  }
+}
+
+@utility dot-grid {
+  position: relative;
+  background-image: radial-gradient(circle, var(--border) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+@utility card-lift {
+  transition:
+    transform 250ms ease-out,
+    box-shadow 250ms ease-out;
+  box-shadow: var(--shadow-soft);
+  &:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-lift);
+  }
+}
+
+@utility page-fade {
+  animation: myp-fade 300ms ease-out both;
+}
+
+@keyframes myp-fade {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}

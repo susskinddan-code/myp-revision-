@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1789553705649,
+      "tag": "0000_myp_revision_core_schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1789553822850,
+      "tag": "0001_seed_subjects_and_sample_content",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1789561521086,
+      "tag": "0002_relax_option_checks_and_clear_seed_content",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1789565915570,
+      "tag": "0003_add_parent_topic_id",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1789594831187,
+      "tag": "0004_physics_myp5_subtopics",
+      "breakpoints": true
+    }
+  ]
+}

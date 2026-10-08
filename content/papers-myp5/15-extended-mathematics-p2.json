@@ -1,0 +1,59 @@
+[
+  {
+    "subject": "extended-mathematics",
+    "grade": 5,
+    "title": "Extended Mathematics MYP 5 eAssessment-style Practice Paper 2",
+    "criterion": null,
+    "questions": [
+      {
+        "content": "A science teacher uses the function F = f(C) = 1.8C + 32 to convert a temperature of C degrees Celsius into degrees Fahrenheit.\n\n(a) Calculate f(25). (1 mark)\n(b) Find the inverse function f⁻¹(F) and write it in its simplest form. (2 marks)\n(c) A graphics designer moves the graph of y = x² to the graph of y = (x − 3)² + 2. Describe fully the single transformation used. (2 marks)",
+        "marks": 5,
+        "criterion": "A",
+        "mark_scheme": "(a)\n[1] f(25) = 1.8 × 25 + 32 = 77\n(b)\n[1] Method: swap or rearrange: F = 1.8C + 32 → F − 32 = 1.8C\n[1] C = (F − 32) ÷ 1.8 (accept f⁻¹(F) = 5(F − 32)/9 or 5F/9 − 160/9)\nCommon error: dividing by 1.8 before subtracting 32.\n(c)\n[1] A translation (accept 'shift')\n[1] 3 units to the right and 2 units up (accept the vector with top 3 and bottom 2)\nCommon error: stating 3 units to the left.",
+        "position": 1
+      },
+      {
+        "content": "Mia saves money each week. In week 1 she saves £20, in week 2 she saves £26, in week 3 she saves £32, and so on, increasing by the same amount each week.\n\n(a) Find an expression for the amount she saves in week n. (2 marks)\n(b) Calculate the total amount she has saved after 20 weeks. (2 marks)\n(c) Sam saves £5 in week 1 and doubles the amount he saves every week. Find the first week in which he saves more than £500. (2 marks)",
+        "marks": 6,
+        "criterion": "B",
+        "mark_scheme": "(a)\n[1] Arithmetic sequence with common difference 6, so the expression starts 6n\n[1] 6n + 14 (check: n = 1 gives 20). Accept 20 + 6(n − 1).\n(b)\n[1] Method: week 20 = 6 × 20 + 14 = 134, and total = 20 ÷ 2 × (20 + 134) (or n/2 × (2a + (n − 1)d) = 10 × (40 + 114)). ECF from (a).\n[1] £1540\n(c)\n[1] Method: geometric sequence 5 × 2^(n − 1); week 7 gives 5 × 64 = 320 (not enough)\n[1] Week 8 gives 5 × 128 = 640, which is more than 500, so week 8.\nCommon error: stating 640 without identifying the week, or using 5 × 2^n.",
+        "position": 2
+      },
+      {
+        "content": "A ship leaves a harbour at point A. A lighthouse is at B, 8.5 km from A, and a buoy is at C, 6.2 km from A. The angle BAC is 64°.\n\n(a) Use the cosine rule to calculate the distance BC. Give your answer correct to 1 decimal place. (3 marks)\n(b) Use the sine rule to calculate angle ABC. Give your answer correct to 1 decimal place. (2 marks)",
+        "marks": 5,
+        "criterion": "A",
+        "mark_scheme": "(a)\n[1] Method: BC² = 8.5² + 6.2² − 2 × 8.5 × 6.2 × cos 64°\n[1] BC² = 64.49 (64.485... before rounding)\n[1] BC = 8.0 km (8.03 km before rounding). Unit required.\nCommon error: calculator in radians mode, or using 64° as an angle at B or C.\n(b)\n[1] Method: sin B ÷ 6.2 = sin 64° ÷ BC (angle B is opposite AC). ECF from (a).\n[1] Angle ABC = 43.9° (43.94° before rounding). Accept 43.8° to 44.0° if the rounded BC is used.",
+        "position": 3
+      },
+      {
+        "content": "A gardener measures the heights of 60 seedlings. The heights, h cm, are grouped as follows: 4 seedlings with 0 < h ≤ 10, 11 seedlings with 10 < h ≤ 20, 19 seedlings with 20 < h ≤ 30, 17 seedlings with 30 < h ≤ 40, and 9 seedlings with 40 < h ≤ 50.\n\n(a) Write down the cumulative frequencies for the upper class boundaries 10, 20, 30, 40 and 50. (1 mark)\n(b) Use a cumulative frequency graph (or interpolation) to estimate the median height. (2 marks)\n(c) Estimate the number of seedlings taller than 35 cm. (2 marks)\n(d) Explain why your answers to (b) and (c) are only estimates. (1 mark)",
+        "marks": 6,
+        "criterion": "C",
+        "mark_scheme": "(a)\n[1] 4, 15, 34, 51, 60\n(b)\n[1] Method: median is at the 30th value (60 ÷ 2), which lies in the class 20 < h ≤ 30\n[1] Median ≈ 27.9 cm (accept 27 to 29 cm read from a curve). ECF from (a).\n(c)\n[1] Method: height 35 cm is halfway through the class 30 to 40, so about 34 + 8.5 = 42.5 seedlings are 35 cm or less (accept 42 to 43 from a graph). ECF from (a).\n[1] About 60 − 42.5 = 17.5 seedlings, so accept 17 or 18. ECF from (a).\n(d)\n[1] The data are grouped, so the exact heights are not known; the graph and interpolation assume the values are spread evenly within each class.",
+        "position": 4
+      },
+      {
+        "content": "A new car costs £18 000. Its value falls by 15% each year.\n\n(a) Calculate the value of the car after 3 years, correct to the nearest pound. (2 marks)\n(b) Write a formula for the value, V pounds, of the car after n years. (1 mark)\n(c) Find the first whole number of years after which the value is less than £5000. Show your working. (2 marks)\n(d) A second car also costs £18 000 but loses £1500 in value every year. Which car is worth more after 8 years? Justify your answer. (1 mark)",
+        "marks": 6,
+        "criterion": "D",
+        "mark_scheme": "(a)\n[1] Method: 18 000 × 0.85³\n[1] £11 054 (11 054.25 before rounding)\nCommon error: using 1.15 or taking off 15% of 18 000 each year as a fixed amount.\n(b)\n[1] V = 18 000 × 0.85^n\n(c)\n[1] Method: trial of values, e.g. after 7 years V = 18 000 × 0.85⁷ = £5770 (more than £5000). ECF from (b).\n[1] After 8 years V = 18 000 × 0.85⁸ = £4905 (less than £5000), so the answer is 8 years. ECF from (b).\n(d)\n[1] The second car is worth £18 000 − 8 × 1500 = £6000, which is more than the first car's £4905, so the second car is worth more. ECF from (c).",
+        "position": 5
+      },
+      {
+        "content": "A circular pond has centre O. Points A and B lie on the edge of the pond and angle ACB = 38°, where C is another point on the edge on the major arc. The tangents to the pond at A and B meet at point P.\n\n(a) Find angle AOB and give a reason for your answer. (2 marks)\n(b) Find angle APB. Give a reason for each step of your working. (2 marks)\n(c) A scale model of the pond is similar to the real pond, with length scale 1 : 40. The surface area of the model is 700 cm². Calculate the surface area of the real pond in m². (2 marks)",
+        "marks": 6,
+        "criterion": "B",
+        "mark_scheme": "(a)\n[1] Angle AOB = 76°\n[1] Reason: the angle at the centre is twice the angle at the circumference (standing on the same arc AB). 2 × 38 = 76.\n(b)\n[1] Angles OAP and OBP are both 90° because a tangent is perpendicular to the radius at the point of contact\n[1] Angle APB = 360 − 90 − 90 − 76 = 104° (angles in a quadrilateral sum to 360°). ECF from (a).\n(c)\n[1] Method: area scale factor = 40² = 1600, so real area = 700 × 1600 = 1 120 000 cm²\n[1] 112 m² (100 cm × 100 cm = 1 m², so divide by 10 000)\nCommon error: using 40 instead of 40² for the area, giving 2.8 m².",
+        "position": 6
+      },
+      {
+        "content": "A café owner models her daily profit, P pounds, when she sells hot chocolate at x pounds per cup, using\nP = −2x² + 36x − 90\n\n(a) Factorise P completely, and hence find the two prices at which the café makes no profit and no loss. (2 marks)\n(b) State the value of P when x = 0. (1 mark)\n(c) The graph of P against x is sketched. State the coordinates of the points you would label: the x-intercepts, then the vertex. (2 marks)\n(d) Write down the maximum daily profit and the price that gives it. (1 mark)\n(e) The owner wants a daily profit of at least £50. Find the range of prices, correct to the nearest penny, that gives this. (2 marks)",
+        "marks": 8,
+        "criterion": "D",
+        "mark_scheme": "(a)\n[1] P = −2(x² − 18x + 45) = −2(x − 3)(x − 15)\n[1] P = 0 when x = £3 or x = £15\n(b)\n[1] P = −90 (a loss of £90)\n(c)\n[1] x-intercepts at (3, 0) and (15, 0). ECF from (a).\n[1] Vertex at (9, 72), found from the midpoint of the roots x = 9 and P = −2 × 81 + 36 × 9 − 90 = 72. The y-intercept is (0, −90).\n(d)\n[1] Maximum profit £72 at a price of £9. ECF from (c).\n(e)\n[1] Method: −2x² + 36x − 90 ≥ 50 → x² − 18x + 70 ≤ 0, solve using the formula or completing the square: x = 9 ± √11\n[1] £5.68 ≤ x ≤ £12.32 (5.683... and 12.316...). Accept in words. ECF from the setup if the inequality is the correct way round.\nCommon error: stating the answer as x ≥ 5.68 and x ≥ 12.32, or solving P = 50 without deciding which side to take.",
+        "position": 7
+      }
+    ]
+  }
+]

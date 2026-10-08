@@ -1,0 +1,59 @@
+[
+  {
+    "subject": "chemistry",
+    "grade": 5,
+    "title": "Chemistry MYP 5 eAssessment-style Practice Paper 2",
+    "criterion": null,
+    "questions": [
+      {
+        "content": "Group 1 metals are stored under oil. The table gives the melting points of four of them.\n\nMetal: lithium, sodium, potassium, rubidium\nMelting point (°C): 181, 98, 63, 39\n\n(a) Describe the trend in melting point down Group 1. (1 mark)\n(b) Caesium is below rubidium in Group 1. Predict how its melting point will compare with that of rubidium. (1 mark)\n(c) Sodium reacts with water to form sodium hydroxide and hydrogen. Write a balanced symbol equation for this reaction. (2 marks)\n(d) Potassium reacts more vigorously with water than sodium. Explain why. (1 mark)",
+        "marks": 5,
+        "criterion": "A",
+        "mark_scheme": "(a)\n[1] The melting point decreases as you go down the group.\n(b)\n[1] Lower than 39 °C (accept: caesium has a lower melting point than rubidium).\n(c)\n[1] Correct formulae: Na, H₂O, NaOH, H₂.\n[1] Balanced: 2Na + 2H₂O → 2NaOH + H₂ (state symbols not required).\nCommon error: writing H instead of H₂, or leaving the equation unbalanced; award the first mark only.\n(d)\n[1] The outer electron in potassium is further from the nucleus (more shells, more shielding), so it is held less strongly and is lost more easily.",
+        "position": 1
+      },
+      {
+        "content": "A student electrolyses a solution of copper(II) chloride using graphite (carbon) electrodes. A brown-pink solid forms on one electrode and bubbles of a gas form on the other.\n\n(a) Name the product at the cathode (negative electrode) and the product at the anode (positive electrode). (2 marks)\n(b) Describe a test for the gas formed at the anode. (1 mark)\n(c) Explain why solid copper(II) chloride does not conduct electricity but the solution does. (1 mark)\n(d) The student wants to investigate how the current affects the mass of copper formed in 10 minutes. State the independent variable and one variable that must be kept constant. (2 marks)",
+        "marks": 6,
+        "criterion": "B",
+        "mark_scheme": "(a)\n[1] Cathode: copper.\n[1] Anode: chlorine.\nCommon error: swapping the electrodes; copper is positive ions attracted to the negative electrode.\n(b)\n[1] Damp blue litmus paper turns red and is then bleached white (accept: damp litmus or indicator paper is bleached).\n(c)\n[1] In the solid the ions are fixed in the lattice, but in solution the ions are free to move and carry the charge.\n(d)\n[1] Independent variable: the current (set using a variable resistor or power supply).\n[1] Any one controlled variable: time of electrolysis; concentration or volume of the solution; same electrodes (size and material); distance between the electrodes.",
+        "position": 2
+      },
+      {
+        "content": "Calcium carbonate breaks down when heated strongly: CaCO₃ → CaO + CO₂. A student heated 10.0 g of calcium carbonate and found that the solid left had a mass of 6.2 g. The relative atomic masses are Ca = 40, C = 12, O = 16.\n\n(a) Calculate the relative formula mass of calcium carbonate. (1 mark)\n(b) Calculate the mass of carbon dioxide that would be lost if all 10.0 g decomposed. (2 marks)\n(c) Calculate the percentage of the calcium carbonate that decomposed in the student's experiment. (2 marks)",
+        "marks": 5,
+        "criterion": "C",
+        "mark_scheme": "(a)\n[1] 40 + 12 + (3 × 16) = 100\n(b)\n[1] Method: moles of CaCO₃ = 10.0 ÷ 100 = 0.100 mol, giving 0.100 mol CO₂ (1 : 1 ratio); mass = 0.100 × 44\n[1] 4.4 g (unit required). Accept 44 g if method shown for 1 mol and then scaled. ECF from (a).\n(c)\n[1] Mass of CO₂ actually lost = 10.0 − 6.2 = 3.8 g\n[1] 3.8 ÷ 4.4 × 100 = 86% (accept 86.4%). ECF from (b).\nCommon error: using 6.2 ÷ 10.0 (gives 62%); that is the fraction of solid left, not the fraction that decomposed.",
+        "position": 3
+      },
+      {
+        "content": "Propane, C₃H₈, and propene, C₃H₆, are both hydrocarbons.\n\n(a) State the general formula of the alkanes. (1 mark)\n(b) A student has two colourless gas samples, one propane and one propene. Describe how bromine water can be used to tell them apart and give the result for each gas. (2 marks)\n(c) Propane burns in a plentiful supply of oxygen. Write a balanced symbol equation for the complete combustion of propane. (2 marks)",
+        "marks": 5,
+        "criterion": "A",
+        "mark_scheme": "(a)\n[1] CₙH₂ₙ₊₂\n(b)\n[1] Shake (bubble) each gas with bromine water; propene turns the orange bromine water colourless.\n[1] Propane has no effect (the bromine water stays orange). Both results are needed for the mark.\nCommon error: saying 'clear'; the colour change is orange to colourless.\n(c)\n[1] Correct formulae: C₃H₈, O₂, CO₂, H₂O.\n[1] Balanced: C₃H₈ + 5O₂ → 3CO₂ + 4H₂O\nCommon error: balancing the oxygen incorrectly; award the first mark only.",
+        "position": 4
+      },
+      {
+        "content": "Ammonia, NH₃, is a gas at room temperature with a boiling point of −33 °C. A molecule of ammonia contains one nitrogen atom (electron arrangement 2,5) and three hydrogen atoms.\n\n(a) Describe how the atoms in a molecule of ammonia are held together. Refer to the electrons in your answer. (2 marks)\n(b) Explain why ammonia has a low boiling point. (2 marks)\n(c) Explain why liquid ammonia does not conduct electricity. (1 mark)",
+        "marks": 5,
+        "criterion": "A",
+        "mark_scheme": "(a)\n[1] Covalent bonds: each hydrogen atom shares a pair of electrons with the nitrogen atom (three shared pairs in total).\n[1] The shared pairs are attracted to the nuclei of both atoms; nitrogen also has one non-bonding pair (lone pair) of electrons. Accept a correct dot-and-cross diagram for both marks.\n(b)\n[1] Ammonia is a simple molecular substance with weak forces between its molecules (intermolecular forces).\n[1] Little energy is needed to overcome these forces; the strong covalent bonds inside the molecules are not broken.\nCommon error: saying covalent bonds break when it boils.\n(c)\n[1] It has no free electrons or ions (the molecules are uncharged), so there are no charged particles to carry the current.",
+        "position": 5
+      },
+      {
+        "content": "A student measures the energy released when hydrochloric acid reacts with sodium hydroxide. She mixes 25 cm³ of hydrochloric acid (1.0 mol/dm³) with 25 cm³ of sodium hydroxide solution (1.0 mol/dm³) in a polystyrene cup. The temperature of the mixture rises from 21.0 °C to 27.8 °C.\n\nUse: energy transferred (J) = mass of solution (g) × 4.2 × temperature change (°C). Assume 1 cm³ of solution has a mass of 1 g.\n\n(a) Calculate the temperature rise. (1 mark)\n(b) Calculate the energy released in joules. (2 marks)\n(c) The reaction used 0.025 mol of hydrochloric acid. Calculate the energy released per mole of acid, in kJ/mol. (2 marks)",
+        "marks": 5,
+        "criterion": "C",
+        "mark_scheme": "(a)\n[1] 27.8 − 21.0 = 6.8 °C\n(b)\n[1] Method: 50 × 4.2 × 6.8 (total mass of solution is 50 g, not 25 g)\n[1] 1428 J (accept 1430 J or 1400 J).\nCommon error: using 25 g (gives 714 J).\n(c)\n[1] Method: 1428 ÷ 0.025 = 57 120 J/mol (ECF from (b))\n[1] 57 kJ/mol (accept 57.1 kJ/mol; unit required). The mark requires conversion to kJ.\nCommon error: forgetting to divide by 1000.",
+        "position": 6
+      },
+      {
+        "content": "Aluminium is extracted from its ore by the electrolysis of molten aluminium oxide, which needs a very large amount of electrical energy. Aluminium cans can also be recycled by melting them. A council compares the two methods for one tonne of aluminium.\n\nMethod: extraction from ore, recycling\nEnergy used (GJ per tonne): 180, 9\n\n(a) Calculate the percentage of energy saved by recycling instead of extracting from the ore. (2 marks)\n(b) Evaluate whether the council should encourage the recycling of aluminium cans. Use the data and your own knowledge. (4 marks)",
+        "marks": 6,
+        "criterion": "D",
+        "mark_scheme": "(a)\n[1] Method: (180 − 9) ÷ 180 × 100 = 171 ÷ 180 × 100\n[1] 95% (accept 95.0%).\nCommon error: 9 ÷ 180 × 100 = 5%, which is the energy used by recycling, not the saving.\n(b)\n[1] A benefit supported by the data: recycling uses only 9 GJ compared with 180 GJ, saving 95% of the energy (and the fossil fuels burned to make electricity).\n[1] A further benefit: less mining of bauxite, so less habitat destruction, waste and pollution; limited resources conserved; less waste to landfill.\n[1] A limitation or cost: cans must be collected and sorted, which uses energy and money for transport and sorting; people may not take part; recycled metal may need purifying.\n[1] A reasoned conclusion that weighs the points (for example: the energy saving is so large that the council should encourage recycling, while also improving collection to reduce the costs).\nDo not award the final mark for a conclusion with no justification.",
+        "position": 7
+      }
+    ]
+  }
+]

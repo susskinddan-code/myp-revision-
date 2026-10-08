@@ -1,0 +1,59 @@
+[
+  {
+    "subject": "biology",
+    "grade": 5,
+    "title": "Biology MYP 5 eAssessment-style Practice Paper 2",
+    "criterion": null,
+    "questions": [
+      {
+        "content": "Amylase is an enzyme in saliva that breaks down starch. A student mixed amylase with starch solution in five tubes, each buffered at a different pH and kept at 35 °C. Every 10 seconds she removed a drop and tested it with iodine solution. The time taken for the iodine to stop turning blue-black (all the starch broken down) is shown.\n\npH: 4, 6, 7, 8, 10\nTime for starch to disappear (s): 480, 90, 60, 100, no change after 600\n\n(a) State the pH at which amylase worked fastest in this investigation. (1 mark)\n(b) The rate of reaction can be calculated using: rate = 1000 ÷ time. Calculate the rate at pH 6. Give your answer to 1 decimal place. (2 marks)\n(c) Explain why the starch was not broken down at pH 10. (2 marks)",
+        "marks": 5,
+        "criterion": "A",
+        "mark_scheme": "(a)\n[1] pH 7.\n(b)\n[1] Method: rate = 1000 ÷ 90\n[1] 11.1 (accept 11.11). No unit needed as none is defined in the question.\nCommon error: using 90 ÷ 1000 (gives 0.09) or time ÷ 1000.\n(c)\n[1] The high pH changes the shape of the enzyme's active site (the enzyme is denatured).\n[1] The starch (substrate) can no longer fit into the active site, so the enzyme cannot catalyse the reaction.\nCommon error: saying the enzyme is 'killed'; enzymes are not alive. Do not award the first mark for 'killed' alone.",
+        "position": 1
+      },
+      {
+        "content": "A student investigates how light affects the rate of photosynthesis in a piece of pondweed. The pondweed is placed in a beaker of water containing sodium hydrogencarbonate. A lamp is placed at different distances from the beaker and the student counts the bubbles of oxygen released from the cut end of the stem in one minute.\n\nDistance of lamp from beaker (cm): 10, 20, 30, 40, 50\nBubbles per minute: 48, 30, 17, 9, 5\n\n(a) Identify the independent variable and the dependent variable. (2 marks)\n(b) The lamp heats the water as well as providing light. Suggest one way of preventing this from affecting the results. (1 mark)\n(c) Describe the trend shown by the data. (1 mark)\n(d) Sodium hydrogencarbonate is added to the water. Explain why this makes the results more valid when the lamp is close to the beaker. (2 marks)",
+        "marks": 6,
+        "criterion": "B",
+        "mark_scheme": "(a)\n[1] Independent variable: distance of the lamp from the beaker (light intensity).\n[1] Dependent variable: number of bubbles (of oxygen) per minute (rate of photosynthesis).\n(b)\n[1] Any one of: place a glass tank of water (heat shield) between the lamp and the beaker; use a cool LED lamp; keep the beaker in a water bath at a fixed temperature; allow the temperature to settle before each count.\n(c)\n[1] As the lamp is moved further away the number of bubbles per minute decreases (accept: the rate falls as light intensity falls). Quote of data not required.\n(d)\n[1] Sodium hydrogencarbonate supplies carbon dioxide.\n[1] At high light intensity carbon dioxide could become the limiting factor, so the rate would level off and the effect of light could not be seen; adding it keeps carbon dioxide in excess so light is the only factor limiting the rate.\nCommon error: saying it provides oxygen or 'food' for the plant.",
+        "position": 2
+      },
+      {
+        "content": "A sprinter runs a 100 m race and a marathon runner runs 42 km. After the sprint, the sprinter breathes heavily and has a high heart rate for several minutes. Both athletes rely on respiration to release energy for their muscles.\n\n(a) Write the word equation for aerobic respiration. (2 marks)\n(b) Name the part of a muscle cell where most aerobic respiration takes place. (1 mark)\n(c) During the sprint the muscles respire anaerobically for part of the race. Explain why the sprinter keeps breathing heavily after the race has finished. (2 marks)",
+        "marks": 5,
+        "criterion": "A",
+        "mark_scheme": "(a)\n[1] Reactants correct: glucose + oxygen\n[1] Products correct: carbon dioxide + water (arrow must point from reactants to products; energy released may be added but is not required).\nCommon error: writing oxygen as a product or carbon dioxide as a reactant; no marks if reversed.\n(b)\n[1] Mitochondria (accept mitochondrion).\n(c)\n[1] Anaerobic respiration produced lactic acid, which built up in the muscles (an oxygen debt).\n[1] Extra oxygen is needed to break down the lactic acid, so breathing rate (and heart rate) stay high until it has been removed.\nCommon error: saying the lungs are 'tired'.",
+        "position": 3
+      },
+      {
+        "content": "Polydactyly (extra fingers or toes) can be caused by a dominant allele, P. The normal allele is p. The pedigree below is described in words.\n\nGeneration I: Individual 1 (father) has polydactyly. Individual 2 (mother) does not.\nGeneration II: They have three children. Individual 3 (daughter) has polydactyly. Individual 4 (son) does not. Individual 5 (daughter) has polydactyly.\nGeneration III: Individual 3 has children with Individual 6, who does not have polydactyly. Their children are Individual 7 (son, polydactyly) and Individual 8 (daughter, no polydactyly).\n\n(a) State the genotype of Individual 4. (1 mark)\n(b) Explain how the pedigree shows that Individual 1 must be heterozygous. (1 mark)\n(c) Individual 3 is heterozygous. Complete a Punnett square for Individual 3 and Individual 6 and state the probability that their next child will have polydactyly. (3 marks)",
+        "marks": 5,
+        "criterion": "C",
+        "mark_scheme": "(a)\n[1] pp (accept homozygous recessive).\n(b)\n[1] Individual 4 has no polydactyly so is pp and must have received a p allele from each parent; Individual 1 has polydactyly (so has a P allele) and also carries p, therefore Pp.\n(c)\n[1] Parent gametes correct: Individual 3 produces P and p; Individual 6 produces p and p.\n[1] Punnett square offspring correct: two Pp and two pp (Pp, Pp, pp, pp).\n[1] Probability = 2 out of 4 = 50% (accept 1 in 2, 0.5, or 1/2). ECF from the square drawn.\nCommon error: stating the probability as 25% or confusing genotype with phenotype.",
+        "position": 4
+      },
+      {
+        "content": "On some farms brown rats are controlled using a poison. Over several years the poison has become less effective. Scientists found that on these farms most rats now carry an allele that makes them resistant to the poison, whereas in rats in the countryside the allele is very rare.\n\n(a) State what is meant by the term variation. (1 mark)\n(b) Use the theory of natural selection to explain why most rats on the farms are now resistant. (3 marks)\n(c) Suggest one change a farmer could make to slow the spread of resistance. (1 mark)",
+        "marks": 5,
+        "criterion": "D",
+        "mark_scheme": "(a)\n[1] Differences between individuals of the same species (accept differences in characteristics or genes).\n(b)\n[1] A mutation produced the resistant allele, so there was variation in the rat population (some rats resistant, some not).\n[1] Non-resistant rats were killed by the poison, while resistant rats survived and reproduced.\n[1] The resistant allele was passed on to offspring, so the proportion of resistant rats increased over many generations.\nCommon error: saying individual rats 'adapted' or 'became used to' the poison during their lives.\n(c)\n[1] Any one of: use traps or other methods as well as poison; use different poisons in rotation; use poison only when needed; improve hygiene and storage so there are fewer rats; encourage natural predators.",
+        "position": 5
+      },
+      {
+        "content": "A food chain in a pond is: algae → water fleas → small fish → heron. Scientists measured the energy and the concentration of a pesticide at each stage.\n\nOrganism: algae, water fleas, small fish, heron\nEnergy available (kJ per m² per year): 15 000, 1 800, 210, not measured\nPesticide in tissues (mg per kg): 0.04, 0.3, 2.1, 11.0\n\n(a) Calculate the percentage of the energy from the algae that is passed on to the water fleas. (2 marks)\n(b) Give one reason why not all of the energy is passed on to the next stage in a food chain. (1 mark)\n(c) Explain why the heron has the highest concentration of pesticide. (2 marks)",
+        "marks": 5,
+        "criterion": "C",
+        "mark_scheme": "(a)\n[1] Method: 1 800 ÷ 15 000 × 100\n[1] 12% (unit % required).\nCommon error: dividing 15 000 by 1 800 (gives 8.3), or using 210 instead of 1 800.\n(b)\n[1] Any one of: energy lost as heat from respiration; energy used for movement; some parts of the organism are not eaten (bones, shells); energy lost in waste (faeces, urine); some organisms die without being eaten.\n(c)\n[1] The pesticide is not broken down or excreted, so it builds up (accumulates) in the body fat and tissues of an organism.\n[1] The heron eats many contaminated fish, each carrying pesticide, so the concentration increases at every stage up the food chain (biomagnification).\nCommon error: saying the heron is bigger so has more; the explanation must refer to feeding on contaminated prey.",
+        "position": 6
+      },
+      {
+        "content": "A marathon runner has a core body temperature of 36.8 °C at the start of a race on a hot day. After 90 minutes her core body temperature has risen to 39.1 °C. Her body responds to keep the temperature close to 37 °C.\n\n(a) Calculate the rise in her core body temperature. (1 mark)\n(b) Name the part of the brain that monitors the temperature of the blood. (1 mark)\n(c) Explain how the body responds to the rise in temperature, and why this is an example of negative feedback. (4 marks)",
+        "marks": 6,
+        "criterion": "A",
+        "mark_scheme": "(a)\n[1] 39.1 − 36.8 = 2.3 °C (unit required).\n(b)\n[1] The hypothalamus.\n(c)\n[1] Sweat glands release more sweat; the evaporation of sweat from the skin takes heat energy from the body, cooling it.\n[1] Blood vessels near the skin surface widen (vasodilation), so more blood flows near the skin.\n[1] More heat is lost from the skin to the surroundings by radiation.\n[1] Negative feedback: the response reduces the change that triggered it, so the temperature falls back towards 37 °C (once it returns to normal the responses are reduced).\nCommon error: saying blood vessels move closer to the skin; they change diameter.",
+        "position": 7
+      }
+    ]
+  }
+]

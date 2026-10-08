@@ -1,0 +1,59 @@
+[
+  {
+    "subject": "physics",
+    "grade": 5,
+    "title": "Physics MYP 5 eAssessment-style Practice Paper 2",
+    "criterion": null,
+    "questions": [
+      {
+        "content": "A cyclist and bicycle have a combined mass of 80 kg. Starting from rest, the cyclist accelerates uniformly at 1.5 m/s² for 8.0 s along a straight, level road.\n\n(a) Calculate the speed reached after 8.0 s. (2 marks)\n(b) Calculate the distance travelled in the 8.0 s. (2 marks)\n(c) Calculate the resultant force needed to produce this acceleration. (1 mark)",
+        "marks": 5,
+        "criterion": "A",
+        "mark_scheme": "(a)\n[1] Method: v = u + at = 0 + 1.5 × 8.0 (or change in speed = acceleration × time)\n[1] 12 m/s (unit required).\n(b)\n[1] Method: distance = average speed × time = (0 + 12) ÷ 2 × 8.0. ECF from (a).\n[1] 48 m (unit required).\nCommon error: using 12 × 8.0 = 96 m, which assumes constant speed.\n(c)\n[1] F = ma = 80 × 1.5 = 120 N (unit required).",
+        "position": 1
+      },
+      {
+        "content": "A mobile phone sends and receives signals using microwaves with a frequency of 1.8 × 10⁹ Hz. All electromagnetic waves travel at 3.0 × 10⁸ m/s in a vacuum.\n\n(a) State one property that is the same for all electromagnetic waves travelling through a vacuum. (1 mark)\n(b) Calculate the wavelength of the microwaves. Give your answer to 2 significant figures. (2 marks)\n(c) State one hazard to humans of overexposure to ultraviolet radiation. (1 mark)\n(d) Name the type of electromagnetic wave used by a television remote control. (1 mark)",
+        "marks": 5,
+        "criterion": "A",
+        "mark_scheme": "(a)\n[1] Any one of: they travel at the same speed (3.0 × 10⁸ m/s); they are transverse waves; they transfer energy without transferring matter.\n(b)\n[1] Method: wavelength = speed ÷ frequency = 3.0 × 10⁸ ÷ 1.8 × 10⁹\n[1] 0.17 m (accept 0.1667 m rounded to 2 significant figures; unit required).\nCommon error: multiplying the speed and frequency.\n(c)\n[1] Any one of: skin cancer; sunburn; damage to eyes (cataracts); premature ageing of skin.\n(d)\n[1] Infrared.",
+        "position": 2
+      },
+      {
+        "content": "A student investigates how the current through a filament lamp changes with the potential difference across it. The results are shown below.\n\nPotential difference (V): 0, 1.0, 2.0, 3.0, 4.0, 5.0\nCurrent (A): 0, 0.20, 0.34, 0.45, 0.54, 0.62\n\n(a) Calculate the resistance of the lamp when the potential difference is 5.0 V. Give your answer to 1 decimal place. (2 marks)\n(b) Describe how the resistance of the lamp changes as the potential difference increases. (1 mark)\n(c) Explain why the resistance changes in this way. (2 marks)\n(d) Two identical lamps are connected in series to a 6.0 V supply. Use the table to find the current in the circuit. (1 mark)",
+        "marks": 6,
+        "criterion": "C",
+        "mark_scheme": "(a)\n[1] Method: R = V ÷ I = 5.0 ÷ 0.62\n[1] 8.1 Ω (unit required; accept 8.06 Ω).\nCommon error: multiplying V and I (gives 3.1).\n(b)\n[1] The resistance increases (as the potential difference increases). Accept an answer supported by a comparison, such as 5.0 Ω at 1.0 V and 8.1 Ω at 5.0 V.\n(c)\n[1] The current heats the filament, so its temperature rises.\n[1] The atoms (ions) in the metal vibrate more, so the electrons collide with them more often and the flow of charge is opposed more.\n(d)\n[1] The potential difference is shared equally, 3.0 V across each lamp, so the current is 0.45 A (unit required).",
+        "position": 3
+      },
+      {
+        "content": "A student wants to find the density of an irregular stone that sinks in water and is too awkward to measure with a ruler. She has a top-pan balance, a measuring cylinder, water and a thread. The stone has a mass of 135 g. The water level rises from 60 cm³ to 110 cm³ when the stone is fully submerged.\n\n(a) Describe how she should obtain the volume of the stone using the measuring cylinder. (3 marks)\n(b) Calculate the density of the stone, in g/cm³. (2 marks)",
+        "marks": 5,
+        "criterion": "B",
+        "mark_scheme": "(a)\n[1] Pour water into the measuring cylinder and record the starting volume (reading at the bottom of the meniscus at eye level).\n[1] Lower the stone slowly on the thread into the water until it is fully submerged (without splashing) and record the new volume.\n[1] Volume of the stone = new volume − starting volume (110 − 60 = 50 cm³).\n(b)\n[1] Method: density = mass ÷ volume = 135 ÷ 50\n[1] 2.7 g/cm³ (unit required).\nCommon error: using the final water volume of 110 cm³ rather than the displaced volume.",
+        "position": 4
+      },
+      {
+        "content": "A phone charger contains a step-down transformer. The primary coil has 2000 turns and is connected to a 240 V alternating mains supply. The secondary coil gives an output of 12 V. Assume the transformer is 100% efficient.\n\n(a) Calculate the number of turns on the secondary coil. (2 marks)\n(b) The charger delivers 36 W of power to the phone. Calculate the current in the primary coil. (2 marks)\n(c) Explain why a transformer does not work with a direct current supply. (1 mark)",
+        "marks": 5,
+        "criterion": "A",
+        "mark_scheme": "(a)\n[1] Method: turns ratio, secondary turns = 2000 × 12 ÷ 240 (or Vp ÷ Vs = Np ÷ Ns)\n[1] 100 turns.\n(b)\n[1] Method: power in = power out = 36 W, so current = power ÷ voltage = 36 ÷ 240\n[1] 0.15 A (unit required).\nCommon error: using the 12 V to find the primary current (gives 3 A, which is the secondary current).\n(c)\n[1] A direct current gives a constant magnetic field in the core; only a changing (alternating) current produces a changing magnetic field that induces a voltage in the secondary coil.",
+        "position": 5
+      },
+      {
+        "content": "A student uses a pressure sensor to measure the pressure caused by water at different depths in a deep tank. The density of water is 1000 kg/m³ and g = 10 N/kg.\n\nDepth (m): 0.5, 1.0, 1.5, 2.0\nPressure due to the water (kPa): 5.0, 10.0, 15.0, 20.0\n\n(a) Describe the relationship between depth and pressure and support your answer with a calculation. (2 marks)\n(b) Use pressure = density × g × depth to calculate the pressure due to the water at a depth of 3.5 m. Give your answer in pascals. (2 marks)\n(c) A circular window on a diving suit has an area of 0.020 m². Calculate the force on the window at a depth of 3.5 m. (1 mark)",
+        "marks": 5,
+        "criterion": "C",
+        "mark_scheme": "(a)\n[1] Pressure is directly proportional to depth (pressure increases as depth increases; doubling the depth doubles the pressure).\n[1] Supporting calculation: pressure ÷ depth is constant, for example 5.0 ÷ 0.5 = 10 and 20.0 ÷ 2.0 = 10 kPa per m.\n(b)\n[1] Method: 1000 × 10 × 3.5\n[1] 35 000 Pa (accept 35 kN/m² ; unit required).\nCommon error: forgetting the unit conversion; the answer in kPa (35) is not in pascals, award the method mark only.\n(c)\n[1] Force = pressure × area = 35 000 × 0.020 = 700 N (unit required). ECF from (b).",
+        "position": 6
+      },
+      {
+        "content": "A school has 40 filament lamps, each with a power of 60 W. The council suggests replacing them with 40 LED lamps, each with a power of 10 W, that give the same amount of light. The lamps are used for 1200 hours each year. Electricity costs 20 pence per kWh. Each LED lamp costs £6 to buy.\n\n(a) Calculate the energy saved in kWh in one year by changing to LED lamps. (2 marks)\n(b) Calculate the saving in electricity cost for one year, in pounds. (1 mark)\n(c) Evaluate whether the school should replace the lamps. (3 marks)",
+        "marks": 6,
+        "criterion": "D",
+        "mark_scheme": "(a)\n[1] Method: filament total = 40 × 0.060 kW × 1200 h = 2880 kWh; LED total = 40 × 0.010 kW × 1200 h = 480 kWh (or saving per lamp 0.050 kW × 1200 × 40)\n[1] 2400 kWh saved (unit required).\nCommon error: forgetting to convert watts to kilowatts.\n(b)\n[1] 2400 × 0.20 = £480 (ECF from (a)).\n(c)\n[1] Cost evidence: the LED lamps cost 40 × £6 = £240, which is paid back by the £480 yearly saving in about six months (0.5 years). ECF from (b).\n[1] Another advantage: less electricity used means less fossil fuel burned and lower carbon dioxide emissions (accept: LEDs last longer so fewer replacements).\n[1] A reasoned conclusion, for example: the school should replace the lamps because the payback time is short and the long-term saving is large, even though there is an upfront cost. Accept a reasoned alternative, such as waiting until the old lamps fail, if it uses the data.\n",
+        "position": 7
+      }
+    ]
+  }
+]

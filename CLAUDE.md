@@ -11,6 +11,7 @@ Owner: Dan, who is himself sitting the MYP eAssessment in May (MYP 5 / Grade 10)
 - Supabase (Postgres + auth). Client in `src/integrations/supabase/`. Types in `src/integrations/supabase/types.ts` (generated, do not hand-edit)
 - Schema/migrations in `drizzle/migrations/` (`drizzle/schema.ts` is auto-generated and intentionally blank). Supabase project id is in `supabase/config.toml`
 - Server functions in `src/lib/ai.functions.ts` (`getQuestionFeedback`, `gradePaper`)
+- Needs Node 22+ (Node 20.11 fails with `styleText` error); `.nvmrc` pins 22
 - Package manager: bun (`bun.lock`); `npm i` also works. Scripts: `dev`, `build`, `lint`, `format`
 - `bun.lock` pins Lovable's private npm mirror (403 outside Lovable). Use `npm i` (a public-registry `package-lock.json` is committed; installs and `npm run build` succeed). Ignore `bun.lock`
 - Database now lives in Dan's own Supabase project `qntfyxrlnvdsqklaedcm` (moved off Lovable Cloud on 2026-10-07; schema applied and all content copied, 150 sub-topics / 5,458 questions / 1,242 flashcards / 323 notes / 216 papers). Supabase dashboard: supabase.com/dashboard/project/qntfyxrlnvdsqklaedcm

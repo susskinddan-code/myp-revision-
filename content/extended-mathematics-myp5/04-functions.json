@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Functions",
+  "subTopic": "Function Notation and Composite Functions",
+  "questions": [
+   {
+    "content": "A function is defined by f(x) = 3x − 5. Find f(4).",
+    "options": [
+     "7",
+     "17",
+     "−3",
+     "11"
+    ],
+    "answer": 0,
+    "explanation": "Substitute x = 4: 3 × 4 − 5 = 7. Adding 5 instead of subtracting it, or putting the bracket in the wrong place, gives the other values.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "g(x) = x² + 2x. Find g(−3).",
+    "options": [
+     "−15",
+     "15",
+     "−3",
+     "3"
+    ],
+    "answer": 3,
+    "explanation": "Replace x with (−3) inside brackets: (−3)² + 2(−3) = 9 − 6 = 3. Without brackets, −3² wrongly becomes −9.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "f(x) = 2x + 1. Find the value of x for which f(x) = 11.",
+    "options": [
+     "23",
+     "6",
+     "5",
+     "12"
+    ],
+    "answer": 2,
+    "explanation": "Solve 2x + 1 = 11, so 2x = 10 and x = 5. Finding f(11) = 23 answers a different question.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "f(x) = x + 3 and g(x) = 2x. What is fg(x)?",
+    "options": [
+     "2x + 6",
+     "2x + 3",
+     "3x",
+     "2(x + 3)"
+    ],
+    "answer": 1,
+    "explanation": "fg(x) means apply g first, then f: f(2x) = 2x + 3. The answer 2x + 6 is gf(x), where f is applied first.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which statement describes the domain of f(x) = 1/(x − 2)?",
+    "options": [
+     "All real numbers except x = 2",
+     "All real numbers except x = −2",
+     "All real numbers except x = 0",
+     "Only x > 2"
+    ],
+    "answer": 0,
+    "explanation": "Division by zero is not allowed, and x − 2 = 0 when x = 2. So x = 2 must be excluded, and every other real number is allowed.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "f(x) = 2x − 1 and g(x) = x². Find fg(3).",
+    "options": [
+     "25",
+     "14",
+     "19",
+     "17"
+    ],
+    "answer": 3,
+    "explanation": "Work from the inside: g(3) = 9, then f(9) = 2 × 9 − 1 = 17. The value 25 is gf(3), the wrong order.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "f(x) = x + 1 and g(x) = 3x². Find gf(x).",
+    "options": [
+     "3x² + 1",
+     "3x² + 3",
+     "3x² + 6x + 3",
+     "9x² + 6x + 1"
+    ],
+    "answer": 2,
+    "explanation": "gf(x) = g(f(x)) = 3(x + 1)² = 3(x² + 2x + 1) = 3x² + 6x + 3. The whole bracket (x + 1) must be squared, not just x.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "f(x) = x² and g(x) = x − 4. Solve fg(x) = 25.",
+    "options": [
+     "x = 9 only",
+     "x = 9 or x = −1",
+     "x = ±√29",
+     "x = 1 or x = −9"
+    ],
+    "answer": 1,
+    "explanation": "fg(x) = (x − 4)² = 25, so x − 4 = 5 or x − 4 = −5. That gives x = 9 or x = −1. Forgetting the negative square root loses the second solution.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the largest possible domain of f(x) = √(x − 3)?",
+    "options": [
+     "x ≥ 3",
+     "x ≤ 3",
+     "x ≥ −3",
+     "x ≥ 0"
+    ],
+    "answer": 0,
+    "explanation": "The number under a square root cannot be negative, so x − 3 ≥ 0, giving x ≥ 3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "f(x) = x² − 3x. Simplify f(a + 1).",
+    "options": [
+     "a² − 3a − 2",
+     "a² + 2a − 2",
+     "a² − 3a + 1",
+     "a² − a − 2"
+    ],
+    "answer": 3,
+    "explanation": "f(a + 1) = (a + 1)² − 3(a + 1) = a² + 2a + 1 − 3a − 3 = a² − a − 2. Forgetting the middle term 2a when expanding (a + 1)² is a common slip.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "f(x) = x² + 1 for all real x. Which describes the range of f?",
+    "options": [
+     "f(x) ≥ 0",
+     "f(x) ≥ −1",
+     "f(x) ≥ 1",
+     "All real numbers"
+    ],
+    "answer": 2,
+    "explanation": "x² is never negative, so the smallest value of x² + 1 is 0 + 1 = 1. The range is f(x) ≥ 1.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "f(x) = 3x − 2 and g(x) = x² + 1. Find gf(x).",
+    "options": [
+     "3x² + 1",
+     "9x² − 12x + 5",
+     "9x² − 3",
+     "9x² + 5"
+    ],
+    "answer": 1,
+    "explanation": "gf(x) = (3x − 2)² + 1 = 9x² − 12x + 4 + 1 = 9x² − 12x + 5. The answer 3x² + 1 is fg(x). Squaring each term separately misses the middle term.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "f(x) = 2x + 3. Find ff(x).",
+    "options": [
+     "4x + 9",
+     "4x + 6",
+     "4x² + 9",
+     "2x + 6"
+    ],
+    "answer": 0,
+    "explanation": "ff(x) = f(2x + 3) = 2(2x + 3) + 3 = 4x + 6 + 3 = 4x + 9. The constant 3 must also be doubled before the final 3 is added.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "f(x) = ax + 1 and g(x) = 2x + 3, where a is a constant. Given that fg(x) = gf(x) for all x, find a.",
+    "options": [
+     "2",
+     "1",
+     "3/4",
+     "4/3"
+    ],
+    "answer": 3,
+    "explanation": "fg(x) = a(2x + 3) + 1 = 2ax + 3a + 1, and gf(x) = 2(ax + 1) + 3 = 2ax + 5. Equating gives 3a + 1 = 5, so a = 4/3.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "f(x) = 1/(x − 1) for x ≠ 1. Find ff(x).",
+    "options": [
+     "x − 1",
+     "1/(x − 1)²",
+     "(x − 1)/(2 − x)",
+     "(x − 1)/(x − 2)"
+    ],
+    "answer": 2,
+    "explanation": "ff(x) = 1/(1/(x − 1) − 1). Combine the denominator: 1/(x − 1) − 1 = (2 − x)/(x − 1). Dividing 1 by this gives (x − 1)/(2 − x).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "f(x) = x² − 1 and g(x) = 2x + 1. Solve fg(x) = 15.",
+    "options": [
+     "x = 3/2 only",
+     "x = 3/2 or x = −5/2",
+     "x = 7/2 or x = −9/2",
+     "x = 2 or x = −2"
+    ],
+    "answer": 1,
+    "explanation": "fg(x) = (2x + 1)² − 1 = 15, so (2x + 1)² = 16 and 2x + 1 = 4 or −4. This gives x = 3/2 or x = −5/2.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "f(x) = 2x + 3 and fg(x) = 6x + 7. Find g(x).",
+    "options": [
+     "3x + 2",
+     "6x + 4",
+     "3x + 5",
+     "3x + 1/2"
+    ],
+    "answer": 0,
+    "explanation": "fg(x) = 2g(x) + 3 = 6x + 7, so 2g(x) = 6x + 4 and g(x) = 3x + 2. Check: f(3x + 2) = 6x + 4 + 3 = 6x + 7.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "f(x) = √x and g(x) = x − 4. What is the largest possible domain of fg(x)?",
+    "options": [
+     "x ≥ 0",
+     "x ≥ −4",
+     "x ≤ 4",
+     "x ≥ 4"
+    ],
+    "answer": 3,
+    "explanation": "fg(x) = √(x − 4), which needs x − 4 ≥ 0. So x ≥ 4. The domain of f alone (x ≥ 0) is not the domain of the composite.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "A function is a rule that takes an input and gives exactly one output. We write f(x) = 3x − 5 to mean \"the function called f takes x and gives 3x − 5\". The letter f is just a name, so you will also meet g, h and others.\n\n## Using function notation\nTo evaluate a function, replace every x with the input, using brackets.\n- f(x) = x² + 2x, so f(−3) = (−3)² + 2(−3) = 9 − 6 = 3.\n- If f(x) = 2x + 1 and you are told f(x) = 11, you solve 2x + 1 = 11 to get x = 5. Here you are finding the input that gives the output.\n- You can put an expression inside the bracket too. If f(x) = x² − 3x then f(a + 1) = (a + 1)² − 3(a + 1) = a² − a − 2.\n\n## Domain and range\n- The **domain** is the set of allowed inputs. The **range** is the set of outputs.\n- Two things limit a domain at this level: you cannot divide by zero, and you cannot take the square root of a negative number.\n- For f(x) = 1/(x − 2), the domain is every real number except x = 2.\n- For f(x) = √(x − 3), we need x − 3 ≥ 0, so the domain is x ≥ 3.\n- For f(x) = x² + 1 the output is never below 1, so the range is f(x) ≥ 1.\n\n## Composite functions\nA **composite function** means doing one function and then another. The notation fg(x) means f(g(x)): apply g first, then f. Always work from the inside outwards.\n\nWorked example 1. Let f(x) = x + 3 and g(x) = 2x.\n- fg(x) = f(2x) = 2x + 3.\n- gf(x) = g(x + 3) = 2(x + 3) = 2x + 6.\nNotice fg and gf are usually different. Order matters.\n\nWorked example 2. Let f(x) = 3x − 2 and g(x) = x² + 1. To find gf(x), put f(x) into g:\ngf(x) = (3x − 2)² + 1 = 9x² − 12x + 4 + 1 = 9x² − 12x + 5.\n\nWorked example 3. Solve fg(x) = 25 when f(x) = x² and g(x) = x − 4. We have (x − 4)² = 25, so x − 4 = 5 or x − 4 = −5. Therefore x = 9 or x = −1.\n\n## Repeated functions\nff(x) means f applied twice. If f(x) = 2x + 3 then ff(x) = 2(2x + 3) + 3 = 4x + 9.\n\n## Domain of a composite\nFor fg(x), the input must be allowed by g, and the output of g must be allowed by f. If f(x) = √x and g(x) = x − 4, then fg(x) = √(x − 4), so x ≥ 4.\n\n## Common mistakes\n- Reading fg(x) as \"f then g\". It is g first, then f.\n- Forgetting brackets when substituting a negative number or an expression.\n- Squaring only part of a bracket, for example writing (3x − 2)² as 9x² + 4.\n- Mixing up solving f(x) = 11 with finding f(11).\n\nExam tip: write the substitution step out in full, such as f(g(x)) = f(2x) = ..., so you can pick up method marks even if the algebra slips.",
+  "flashcards": [
+   {
+    "front": "What does f(x) = 3x − 5 mean?",
+    "back": "A function named f that takes an input x and gives the output 3x − 5. f(4) = 3(4) − 5 = 7."
+   },
+   {
+    "front": "Meaning of fg(x)",
+    "back": "f(g(x)): apply g first, then f. Work from the inside outwards."
+   },
+   {
+    "front": "Is fg(x) always equal to gf(x)?",
+    "back": "No. The order matters, so fg(x) and gf(x) are usually different functions."
+   },
+   {
+    "front": "Domain of a function",
+    "back": "The set of all allowed inputs. Exclude values that make a denominator zero or a square root negative."
+   },
+   {
+    "front": "Range of a function",
+    "back": "The set of all possible outputs of the function."
+   },
+   {
+    "front": "Domain of f(x) = √(x − 3)",
+    "back": "x ≥ 3, because x − 3 must not be negative."
+   },
+   {
+    "front": "Meaning of ff(x)",
+    "back": "Apply f twice: ff(x) = f(f(x)). For f(x) = 2x + 3, ff(x) = 4x + 9."
+   },
+   {
+    "front": "Solving f(x) = 11 versus finding f(11)",
+    "back": "f(x) = 11 asks which input gives output 11 (solve an equation). f(11) asks for the output when the input is 11 (substitute)."
+   },
+   {
+    "front": "Substituting a negative into x²",
+    "back": "Use brackets: if x = −3 then x² = (−3)² = 9, not −9."
+   }
+  ]
+ },
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Functions",
+  "subTopic": "Inverse Functions",
+  "questions": [
+   {
+    "content": "f(x) = x + 5. What is f⁻¹(x)?",
+    "options": [
+     "x − 5",
+     "x + 5",
+     "5 − x",
+     "1/(x + 5)"
+    ],
+    "answer": 0,
+    "explanation": "The inverse undoes the function. f adds 5, so f⁻¹ subtracts 5. The notation f⁻¹ does not mean a reciprocal.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "f(x) = 3x. What is f⁻¹(x)?",
+    "options": [
+     "3/x",
+     "x − 3",
+     "3x",
+     "x/3"
+    ],
+    "answer": 3,
+    "explanation": "f multiplies by 3, so the inverse divides by 3, giving f⁻¹(x) = x/3.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "f(3) = 10. Which statement must be true?",
+    "options": [
+     "f⁻¹(3) = 10",
+     "f⁻¹(10) = 1/3",
+     "f⁻¹(10) = 3",
+     "f⁻¹(3) = 1/10"
+    ],
+    "answer": 2,
+    "explanation": "The inverse reverses input and output. If f sends 3 to 10, then f⁻¹ sends 10 back to 3.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The graph of y = f⁻¹(x) is the graph of y = f(x) reflected in which line?",
+    "options": [
+     "The x-axis",
+     "y = x",
+     "The y-axis",
+     "y = −x"
+    ],
+    "answer": 1,
+    "explanation": "Swapping inputs and outputs reflects the graph in the line y = x.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "f(x) = 2x − 1. What is f⁻¹(x)?",
+    "options": [
+     "(x + 1)/2",
+     "(x − 1)/2",
+     "2x + 1",
+     "1/(2x − 1)"
+    ],
+    "answer": 0,
+    "explanation": "Write y = 2x − 1, swap to x = 2y − 1, then solve: y = (x + 1)/2. Undo −1 first by adding 1, then undo ×2 by dividing.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "f(x) = (x − 3)/2. Find f⁻¹(x).",
+    "options": [
+     "2x − 3",
+     "(x + 3)/2",
+     "2/(x − 3)",
+     "2x + 3"
+    ],
+    "answer": 3,
+    "explanation": "Let y = (x − 3)/2, swap to x = (y − 3)/2, so y − 3 = 2x and y = 2x + 3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "f(x) = 4/x for x ≠ 0. What is f⁻¹(x)?",
+    "options": [
+     "x/4",
+     "−4/x",
+     "4/x",
+     "x − 4"
+    ],
+    "answer": 2,
+    "explanation": "Swap to x = 4/y, so y = 4/x. This function is its own inverse (self-inverse).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "f(x) = (2x + 1)/3. Find f⁻¹(5).",
+    "options": [
+     "11/3",
+     "7",
+     "16/3",
+     "5/3"
+    ],
+    "answer": 1,
+    "explanation": "Solve f(x) = 5 instead: (2x + 1)/3 = 5, so 2x + 1 = 15 and x = 7. Substituting 5 into f gives 11/3, which is f(5), not f⁻¹(5).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "f(x) = x³ + 1. Find f⁻¹(x).",
+    "options": [
+     "∛(x − 1)",
+     "∛(x) − 1",
+     "∛(x + 1)",
+     "(x − 1)³"
+    ],
+    "answer": 0,
+    "explanation": "Swap to x = y³ + 1, so y³ = x − 1 and y = ∛(x − 1). Subtract 1 before taking the cube root.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "f(x) = 5/(x − 2) for x ≠ 2. Find f⁻¹(x).",
+    "options": [
+     "5/(x + 2)",
+     "5/x − 2",
+     "(x + 2)/5",
+     "5/x + 2"
+    ],
+    "answer": 3,
+    "explanation": "Swap to x = 5/(y − 2), so y − 2 = 5/x and y = 5/x + 2.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "f(x) = 2x − 3. Solve f⁻¹(x) = 4.",
+    "options": [
+     "11",
+     "5/2",
+     "5",
+     "8"
+    ],
+    "answer": 2,
+    "explanation": "If f⁻¹(x) = 4 then x = f(4) = 2(4) − 3 = 5. Using f⁻¹(4) would give 7/2, which answers a different question.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "f(x) = x + 2 and g(x) = 3x. Find (fg)⁻¹(x).",
+    "options": [
+     "x/3 − 2",
+     "(x − 2)/3",
+     "3x − 2",
+     "(x + 2)/3"
+    ],
+    "answer": 1,
+    "explanation": "fg(x) = 3x + 2. Its inverse subtracts 2 and divides by 3: (x − 2)/3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "f(x) = x² for x ≥ 0. What is f⁻¹(x)?",
+    "options": [
+     "√x",
+     "x²",
+     "±√x",
+     "1/x²"
+    ],
+    "answer": 0,
+    "explanation": "Because the domain is limited to x ≥ 0, only the positive root is needed, so f⁻¹(x) = √x.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "f(x) = (x + 1)/(x − 2) for x ≠ 2. Find f⁻¹(x).",
+    "options": [
+     "(x − 1)/(x + 2)",
+     "(2x − 1)/(x + 1)",
+     "(x − 2)/(x + 1)",
+     "(2x + 1)/(x − 1)"
+    ],
+    "answer": 3,
+    "explanation": "Write y = (x + 1)/(x − 2), so xy − 2y = x + 1. Collect x: x(y − 1) = 2y + 1, giving x = (2y + 1)/(y − 1). So f⁻¹(x) = (2x + 1)/(x − 1).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "f(x) = (2x + 5)/(x − k) is self-inverse (f⁻¹(x) = f(x)). Find k.",
+    "options": [
+     "−2",
+     "5",
+     "2",
+     "5/2"
+    ],
+    "answer": 2,
+    "explanation": "A function (ax + b)/(cx − a) is self-inverse because the number multiplying x on top equals the number being subtracted. Here the top coefficient is 2, so k = 2.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "f(x) = x² − 4x for x ≥ 2. Find f⁻¹(x).",
+    "options": [
+     "2 − √(x + 4)",
+     "2 + √(x + 4)",
+     "√(x + 4)",
+     "2 + √(x − 4)"
+    ],
+    "answer": 1,
+    "explanation": "Complete the square: f(x) = (x − 2)² − 4. Swapping gives x + 4 = (y − 2)², so y = 2 ± √(x + 4). Since y ≥ 2, take the plus sign.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "f(x) = 2x + k. Given that f⁻¹(7) = 2, find k.",
+    "options": [
+     "3",
+     "1",
+     "5",
+     "7/2"
+    ],
+    "answer": 0,
+    "explanation": "f⁻¹(7) = 2 means f(2) = 7. So 4 + k = 7 and k = 3.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "g(x) = 3x − 1. Solve g(x) = g⁻¹(x).",
+    "options": [
+     "1",
+     "−1/2",
+     "1/3",
+     "1/2"
+    ],
+    "answer": 3,
+    "explanation": "g⁻¹(x) = (x + 1)/3. Set 3x − 1 = (x + 1)/3, so 9x − 3 = x + 1, 8x = 4 and x = 1/2.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "An **inverse function** undoes what the original function does. If f takes 3 to 10, then f⁻¹ takes 10 back to 3. The symbol f⁻¹ means \"the inverse of f\". It does not mean 1/f.\n\n## Finding an inverse\nFollow these steps:\n- Write y = f(x).\n- Swap x and y.\n- Rearrange to make y the subject.\n- Write the answer as f⁻¹(x).\n\nWorked example 1. f(x) = 2x − 1.\nWrite y = 2x − 1. Swap: x = 2y − 1. Add 1: x + 1 = 2y. Divide: y = (x + 1)/2. So f⁻¹(x) = (x + 1)/2.\n\nAnother way to think about it: f multiplies by 2 then subtracts 1. The inverse reverses the steps in the opposite order: add 1, then divide by 2.\n\nWorked example 2. f(x) = 5/(x − 2). Swap: x = 5/(y − 2). Multiply by (y − 2): x(y − 2) = 5. Divide by x: y − 2 = 5/x. So f⁻¹(x) = 5/x + 2.\n\nWorked example 3 (harder). f(x) = (x + 1)/(x − 2). Write y = (x + 1)/(x − 2), so y(x − 2) = x + 1, which gives xy − 2y = x + 1. Collect the x terms: xy − x = 2y + 1, so x(y − 1) = 2y + 1 and x = (2y + 1)/(y − 1). Therefore f⁻¹(x) = (2x + 1)/(x − 1).\n\n## Key facts\n- f(f⁻¹(x)) = x and f⁻¹(f(x)) = x. Each undoes the other.\n- The domain of f⁻¹ is the range of f, and the range of f⁻¹ is the domain of f.\n- The graph of y = f⁻¹(x) is the reflection of y = f(x) in the line y = x.\n- A function that is its own inverse is called **self-inverse**. For example f(x) = 4/x has f⁻¹(x) = 4/x.\n\n## Finding a value of an inverse\nTo find f⁻¹(5), you do not need the whole inverse. Solve f(x) = 5 instead. For f(x) = (2x + 1)/3, solve (2x + 1)/3 = 5 to get x = 7, so f⁻¹(5) = 7.\n\n## Inverse of a composite\nTo undo \"g then f\", you undo f first and then g. So (fg)⁻¹(x) = g⁻¹f⁻¹(x). Example: f(x) = x + 2 and g(x) = 3x give fg(x) = 3x + 2, and (fg)⁻¹(x) = (x − 2)/3.\n\n## Restricted domains\nSome functions only have an inverse if their domain is limited. f(x) = x² gives the same output for x = 2 and x = −2, so it cannot be reversed. If we restrict to x ≥ 0, then f⁻¹(x) = √x.\n\n## Common mistakes\n- Treating f⁻¹(x) as 1/f(x).\n- Forgetting to swap x and y.\n- Undoing the steps in the wrong order.\n- Substituting into f instead of solving f(x) = value.\n\nExam tip: check your inverse with a quick test. Pick a number, put it through f, then through your f⁻¹, and make sure you get the number back.",
+  "flashcards": [
+   {
+    "front": "Inverse function",
+    "back": "A function that reverses f. If f(a) = b then f⁻¹(b) = a."
+   },
+   {
+    "front": "Is f⁻¹(x) the same as 1/f(x)?",
+    "back": "No. f⁻¹ means the inverse function. 1/f(x) is the reciprocal. They are different."
+   },
+   {
+    "front": "Steps to find f⁻¹(x)",
+    "back": "Write y = f(x), swap x and y, rearrange to make y the subject, then write the result as f⁻¹(x)."
+   },
+   {
+    "front": "Graph of an inverse",
+    "back": "The graph of y = f⁻¹(x) is the reflection of y = f(x) in the line y = x."
+   },
+   {
+    "front": "f(f⁻¹(x)) equals ...",
+    "back": "x. Applying a function and then its inverse returns you to the starting value."
+   },
+   {
+    "front": "Domain and range of f⁻¹",
+    "back": "The domain of f⁻¹ is the range of f. The range of f⁻¹ is the domain of f."
+   },
+   {
+    "front": "Self-inverse function",
+    "back": "A function with f⁻¹(x) = f(x). Example: f(x) = 4/x."
+   },
+   {
+    "front": "Finding f⁻¹(5) quickly",
+    "back": "Solve f(x) = 5. The solution for x is f⁻¹(5)."
+   },
+   {
+    "front": "Formula for (fg)⁻¹(x)",
+    "back": "(fg)⁻¹(x) = g⁻¹(f⁻¹(x)). Undo f first, then undo g."
+   }
+  ]
+ },
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Functions",
+  "subTopic": "Graph Transformations",
+  "questions": [
+   {
+    "content": "The graph of y = f(x) is transformed to y = f(x) + 3. Which describes the transformation?",
+    "options": [
+     "Translation by the column vector (0, 3)",
+     "Translation by the column vector (3, 0)",
+     "Translation by the column vector (0, −3)",
+     "Stretch in the y-direction with scale factor 3"
+    ],
+    "answer": 0,
+    "explanation": "Adding 3 outside the function adds 3 to every y-value, so the graph moves up 3 units: (0, 3).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The graph of y = f(x) is transformed to y = f(x − 2). Which describes the transformation?",
+    "options": [
+     "Translation by the column vector (−2, 0)",
+     "Translation by the column vector (0, 2)",
+     "Translation by the column vector (0, −2)",
+     "Translation by the column vector (2, 0)"
+    ],
+    "answer": 3,
+    "explanation": "A change inside the bracket affects x and works 'backwards'. f(x − 2) moves the graph 2 units to the right.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which transformation maps y = f(x) onto y = −f(x)?",
+    "options": [
+     "Reflection in the y-axis",
+     "Reflection in the line y = x",
+     "Reflection in the x-axis",
+     "Rotation by 90°"
+    ],
+    "answer": 2,
+    "explanation": "Negating the output changes the sign of every y-value, which flips the graph over the x-axis.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which transformation maps y = f(x) onto y = f(−x)?",
+    "options": [
+     "Reflection in the x-axis",
+     "Reflection in the y-axis",
+     "Translation by the column vector (−1, 0)",
+     "Stretch with scale factor −1 in the y-direction"
+    ],
+    "answer": 1,
+    "explanation": "Negating the input changes the sign of every x-value, which flips the graph over the y-axis.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The graph of y = f(x) is transformed to y = 2f(x). What happens to the graph?",
+    "options": [
+     "Stretched vertically with scale factor 2",
+     "Stretched horizontally with scale factor 2",
+     "Translated up by 2",
+     "Stretched horizontally with scale factor 1/2"
+    ],
+    "answer": 0,
+    "explanation": "Multiplying every output by 2 doubles the heights, a vertical stretch with scale factor 2.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The point (4, 6) lies on y = f(x). Which point lies on y = f(x + 1)?",
+    "options": [
+     "(5, 6)",
+     "(4, 7)",
+     "(4, 5)",
+     "(3, 6)"
+    ],
+    "answer": 3,
+    "explanation": "f(x + 1) moves the graph 1 unit left, so the x-coordinate decreases: (3, 6).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The point (4, 6) lies on y = f(x). Which point lies on y = 2f(x)?",
+    "options": [
+     "(8, 6)",
+     "(2, 6)",
+     "(4, 12)",
+     "(4, 8)"
+    ],
+    "answer": 2,
+    "explanation": "The y-value is doubled and the x-value is unchanged, giving (4, 12).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The point (4, 6) lies on y = f(x). Which point lies on y = f(2x)?",
+    "options": [
+     "(8, 6)",
+     "(2, 6)",
+     "(4, 12)",
+     "(4, 3)"
+    ],
+    "answer": 1,
+    "explanation": "For f(2x) to equal 6, we need 2x = 4, so x = 2. A horizontal stretch with scale factor 1/2 halves the x-coordinates.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The point (4, 6) lies on y = f(x). Which point lies on y = −f(x) + 1?",
+    "options": [
+     "(4, −5)",
+     "(4, 7)",
+     "(−4, 7)",
+     "(4, −7)"
+    ],
+    "answer": 0,
+    "explanation": "Negate the y-value to get −6, then add 1 to get −5. The x-coordinate does not change.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The graph of y = x² is transformed to y = (x − 3)² + 2. What is the turning point of the new graph?",
+    "options": [
+     "(−3, 2)",
+     "(3, −2)",
+     "(2, 3)",
+     "(3, 2)"
+    ],
+    "answer": 3,
+    "explanation": "The graph moves 3 right and 2 up. The turning point (0, 0) moves to (3, 2).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The graph of y = f(x/3) is obtained from y = f(x) by which transformation?",
+    "options": [
+     "Horizontal stretch with scale factor 1/3",
+     "Vertical stretch with scale factor 3",
+     "Horizontal stretch with scale factor 3",
+     "Translation by the column vector (3, 0)"
+    ],
+    "answer": 2,
+    "explanation": "Replacing x with x/3 makes x-values three times as large to get the same output, so the graph is stretched horizontally by factor 3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The graph of y = x² − 2x is translated by the column vector (3, 0). What is its new equation?",
+    "options": [
+     "x² + 4x + 3",
+     "x² − 8x + 15",
+     "x² − 2x + 3",
+     "x² − 2x − 3"
+    ],
+    "answer": 1,
+    "explanation": "Translating 3 to the right replaces x with (x − 3): (x − 3)² − 2(x − 3) = x² − 6x + 9 − 2x + 6 = x² − 8x + 15.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The graph of y = x² is reflected in the x-axis and then translated by the column vector (0, 4). What is the equation of the final graph?",
+    "options": [
+     "y = 4 − x²",
+     "y = x² + 4",
+     "y = x² − 4",
+     "y = (4 − x)²"
+    ],
+    "answer": 0,
+    "explanation": "Reflection in the x-axis gives y = −x². Moving up 4 gives y = −x² + 4, which is y = 4 − x².",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The point (4, 6) lies on y = f(x). Which point lies on y = f(2x) + 1?",
+    "options": [
+     "(8, 7)",
+     "(2, 12)",
+     "(4, 7)",
+     "(2, 7)"
+    ],
+    "answer": 3,
+    "explanation": "The inside of the bracket halves the x-coordinate to 2. The outside adds 1 to the y-coordinate, giving 7.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "y = f(x) crosses the x-axis at x = 1 and x = 5. Where does y = f(2x) cross the x-axis?",
+    "options": [
+     "x = 2 and x = 10",
+     "x = −1 and x = −5",
+     "x = 1/2 and x = 5/2",
+     "x = 3 and x = 7"
+    ],
+    "answer": 2,
+    "explanation": "We need 2x = 1 or 2x = 5, so x = 1/2 or x = 5/2. The graph is squashed horizontally by factor 1/2.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "y = f(x) has a minimum point at (2, −3). What is the minimum point of y = f(x + 1) − 4?",
+    "options": [
+     "(3, −7)",
+     "(1, −7)",
+     "(1, 1)",
+     "(3, 1)"
+    ],
+    "answer": 1,
+    "explanation": "f(x + 1) moves the point 1 to the left: (1, −3). Subtracting 4 moves it down: (1, −7).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "y = f(x) has a maximum point at (2, 5). What are the coordinates of the maximum of y = 3f(x − 1)?",
+    "options": [
+     "(3, 15)",
+     "(1, 15)",
+     "(3, 8)",
+     "(6, 5)"
+    ],
+    "answer": 0,
+    "explanation": "x − 1 means a shift of 1 to the right, giving x = 3. The factor 3 triples the height, giving 15.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sequence of transformations maps y = f(x) onto y = f(3 − x)?",
+    "options": [
+     "Translation by the column vector (3, 0), then reflection in the y-axis",
+     "Reflection in the y-axis, then translation by the column vector (−3, 0)",
+     "Reflection in the x-axis, then translation by the column vector (3, 0)",
+     "Reflection in the y-axis, then translation by the column vector (3, 0)"
+    ],
+    "answer": 3,
+    "explanation": "Write f(3 − x) = f(−(x − 3)). Reflecting y = f(x) in the y-axis gives f(−x). Replacing x by (x − 3) then shifts it 3 to the right, giving f(−(x − 3)). Doing the translation first would give f(−x − 3).",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "A **transformation** changes the position or shape of a graph. At this level you need translations, reflections and stretches, and you must be able to write the new equation or describe the change from the equation.\n\n## Changes outside the function (affect y)\nThese do what you expect.\n- y = f(x) + a moves the graph up by a. The translation is the column vector (0, a).\n- y = −f(x) reflects the graph in the x-axis.\n- y = a f(x) stretches the graph vertically with scale factor a. Every y-value is multiplied by a.\n\n## Changes inside the brackets (affect x)\nThese work backwards and only change x-values.\n- y = f(x + a) moves the graph a units to the left. The translation is the column vector (−a, 0). So f(x − 2) moves the graph 2 to the right.\n- y = f(−x) reflects the graph in the y-axis.\n- y = f(ax) stretches the graph horizontally with scale factor 1/a. So f(2x) squashes the graph to half its width, and f(x/3) stretches it to three times its width.\n\n## Tracking a point\nSuppose (4, 6) is on y = f(x). We can find where it lands.\n- On y = f(x + 1): (3, 6).\n- On y = 2f(x): (4, 12).\n- On y = f(2x): (2, 6). We need 2x = 4, so x = 2.\n- On y = −f(x) + 1: negate 6 to get −6, then add 1 to get (4, −5).\n- On y = f(2x) + 1: (2, 7).\n\nRule of thumb: for an inside change, do the opposite to x. For an outside change, do exactly what the equation says to y.\n\n## Worked example 1: writing equations\nThe graph of y = x² − 2x is translated by the column vector (3, 0). Replace x with (x − 3):\ny = (x − 3)² − 2(x − 3) = x² − 6x + 9 − 2x + 6 = x² − 8x + 15.\n\n## Worked example 2: turning points\ny = x² has its turning point at (0, 0). The graph y = (x − 3)² + 2 has been moved 3 right and 2 up, so its turning point is (3, 2).\n\n## Worked example 3: a combination\ny = x² is reflected in the x-axis, giving y = −x², and then translated by (0, 4), giving y = 4 − x².\n\n## Order matters with combinations\nTo get y = f(3 − x), write it as f(−(x − 3)). First reflect in the y-axis to get f(−x), then replace x with (x − 3) to move the graph 3 to the right. The order of the two steps is important: doing the translation first would give a different graph.\n\n## Common mistakes\n- Moving f(x + 2) to the right instead of the left.\n- Thinking f(2x) stretches the graph instead of squashing it.\n- Changing the wrong coordinate when tracking a point.\n- Forgetting to put brackets around (x − 3) when translating a more complicated equation.\n\nExam tip: when you describe a transformation, always give its full name (translation, reflection or stretch) and the exact details: the column vector, the mirror line, or the scale factor and direction.",
+  "flashcards": [
+   {
+    "front": "y = f(x) + a",
+    "back": "Translation up by a, written as the column vector (0, a)."
+   },
+   {
+    "front": "y = f(x + a)",
+    "back": "Translation a units to the left, written as the column vector (−a, 0). Inside changes work backwards."
+   },
+   {
+    "front": "y = −f(x)",
+    "back": "Reflection in the x-axis."
+   },
+   {
+    "front": "y = f(−x)",
+    "back": "Reflection in the y-axis."
+   },
+   {
+    "front": "y = a f(x)",
+    "back": "Vertical stretch with scale factor a. All y-values are multiplied by a."
+   },
+   {
+    "front": "y = f(ax)",
+    "back": "Horizontal stretch with scale factor 1/a. f(2x) squashes the graph horizontally to half its width."
+   },
+   {
+    "front": "If (4, 6) is on y = f(x), where is it on y = f(x − 3)?",
+    "back": "(7, 6). The graph moves 3 to the right, so the x-coordinate increases by 3."
+   },
+   {
+    "front": "Turning point of y = (x − p)² + q",
+    "back": "(p, q)."
+   },
+   {
+    "front": "y = f(3 − x) from y = f(x)",
+    "back": "Reflect in the y-axis, then translate by (3, 0). Write it as f(−(x − 3)) to see the order."
+   }
+  ]
+ }
+]

@@ -20,13 +20,15 @@ function validate(p) {
   const errs = [];
   const qs = p.questions ?? [];
   if (!p.title?.trim()) errs.push("missing title");
+  const full = p.format === "full-mock";
   if (qs.length < 5 || qs.length > 10) errs.push(`expected 5-10 questions, got ${qs.length}`);
   let total = 0;
   qs.forEach((q, i) => {
     const tag = `q${i + 1}`;
     if (q.position !== i + 1) errs.push(`${tag}: position should be ${i + 1}`);
     if (!q.content?.trim() || q.content.length < 60) errs.push(`${tag}: content too short`);
-    if (!Number.isInteger(q.marks) || q.marks < 1 || q.marks > 12) errs.push(`${tag}: marks must be 1-12`);
+    const maxQ = full ? 40 : 12;
+    if (!Number.isInteger(q.marks) || q.marks < 1 || q.marks > maxQ) errs.push(`${tag}: marks must be 1-${maxQ}`);
     if (!/\(\s*\d+\s*marks?\s*\)/i.test(q.content ?? "")) errs.push(`${tag}: content should show marks like "(4 marks)"`);
     const awards = (q.mark_scheme ?? "").match(/\[(\d+)\]/g) ?? [];
     const sum = awards.reduce((t, a) => t + Number(a.slice(1, -1)), 0);
@@ -34,7 +36,8 @@ function validate(p) {
     if (!/^[A-D]$/.test(q.criterion ?? "")) errs.push(`${tag}: criterion must be A-D`);
     total += q.marks ?? 0;
   });
-  if (total < 30 || total > 60) errs.push(`total marks ${total} (want 30-60)`);
+  if (full ? total < 90 || total > 130 : total < 30 || total > 60)
+    errs.push(`total marks ${total} (want ${full ? "90-130" : "30-60"})`);
   const all = JSON.stringify(p);
   if (BAD_SCOPE.test(all)) errs.push("mentions Diploma/A-level scope");
   if (BAD_SCALE.test(all)) errs.push("mentions a 1-7 scale inside the paper");
@@ -73,5 +76,5 @@ out.push("\ncommit;", `
 select s.name as subject, p.title, count(q.id) as questions
 from public.past_papers p join public.subjects s on s.id = p.subject_id
 left join public.paper_questions q on q.paper_id = p.id
-where p.grade = 5 and p.title like '%eAssessment-style%' group by s.name, p.title order by s.name, p.title;`);
+where p.grade = 5 and (p.title like '%eAssessment-style%' or p.title like '%Full eAssessment Mock%') group by s.name, p.title order by s.name, p.title;`);
 console.log(out.join("\n"));

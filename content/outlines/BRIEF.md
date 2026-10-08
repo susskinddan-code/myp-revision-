@@ -38,3 +38,12 @@ Then run a self-audit: re-read 6 random questions per sub-topic as a student wou
 
 ## Reply format
 Reply with only: files written (names), number of sub-topics, and the validator status for your files. No summaries of the content.
+
+## Match the real eAssessment style
+Real MYP eAssessment questions (we have seen a real maths paper's structure; do NOT reproduce any real question) work like this, and our MCQs and notes should train exactly these habits:
+- Every question sits in a realistic context (an airport expansion, a wind farm, a bridge design, a lab investigation, a source about an event) with data given in the stimulus. Students must pull the relevant numbers out of the context.
+- Command terms are explicit and decide the depth: write down / state, calculate, show that, determine, estimate, predict, verify, justify, discuss, investigate, design, evaluate.
+- Parts build up: first routine (find a value), then reasoning (show that / justify), then an extended open task that asks students to identify relevant information, calculate, consider accuracy and limitations, and judge sustainability or impact.
+- Investigation tasks (maths criterion B, science criterion B) follow: describe the pattern -> state a general rule in terms of n -> test it on new cases -> verify -> prove or justify -> communicate clearly.
+- Real-world tasks (maths criterion D, sciences criterion D, I&S criterion D) reward stating assumptions, checking accuracy (percentage error, rounding, significant figures) and evaluating the model.
+In notes, include a short "How this is examined" paragraph describing how the sub-topic usually appears in this style. In MCQs, include several context-based items that test these exact skills (e.g. which statement verifies the rule, which assumption limits the model, what the percentage error is).

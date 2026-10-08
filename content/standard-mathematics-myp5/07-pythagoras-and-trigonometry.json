@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Pythagoras and Trigonometry",
+  "subTopic": "Pythagoras' Theorem",
+  "questions": [
+   {
+    "content": "A right-angled triangle has shorter sides of 6 cm and 8 cm. What is the length of the hypotenuse?",
+    "options": [
+     "14 cm",
+     "28 cm",
+     "10 cm",
+     "7 cm"
+    ],
+    "answer": 2,
+    "explanation": "Hypotenuse² = 6² + 8² = 36 + 64 = 100, so the hypotenuse is √100 = 10 cm. Adding the sides (14) forgets to square and square root.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In a right-angled triangle, which side is the hypotenuse?",
+    "options": [
+     "The longest side, opposite the right angle",
+     "The side next to the right angle that is longest",
+     "The shortest side, opposite the right angle",
+     "Any side that touches the right angle"
+    ],
+    "answer": 0,
+    "explanation": "The hypotenuse is always opposite the right angle and is always the longest side.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A right-angled triangle has a hypotenuse of 13 cm and one shorter side of 5 cm. What is the other shorter side?",
+    "options": [
+     "14 cm",
+     "8 cm",
+     "√194 cm",
+     "12 cm"
+    ],
+    "answer": 3,
+    "explanation": "Shorter side² = 13² − 5² = 169 − 25 = 144, so it is 12 cm. Adding 5² and 13² is the common error (it gives √194).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which set of side lengths forms a right-angled triangle?",
+    "options": [
+     "6 cm, 7 cm, 8 cm",
+     "7 cm, 24 cm, 25 cm",
+     "4 cm, 5 cm, 6 cm",
+     "5 cm, 6 cm, 7 cm"
+    ],
+    "answer": 1,
+    "explanation": "7² + 24² = 625 = 25², so the converse of Pythagoras' theorem holds. For the others the two smaller squares do not add to the largest square.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A right-angled triangle has shorter sides of 5 cm and 7 cm. Which expression gives the hypotenuse exactly?",
+    "options": [
+     "√24 cm",
+     "√74 cm",
+     "12 cm",
+     "74 cm"
+    ],
+    "answer": 1,
+    "explanation": "Hypotenuse² = 25 + 49 = 74, so the exact length is √74 cm (about 8.6 cm). 74 forgets the square root.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A rectangular screen is 9 cm wide and 12 cm tall. What is the length of its diagonal?",
+    "options": [
+     "21 cm",
+     "√63 cm",
+     "10.5 cm",
+     "15 cm"
+    ],
+    "answer": 3,
+    "explanation": "The diagonal is the hypotenuse of a right-angled triangle: 9² + 12² = 81 + 144 = 225, so the diagonal is 15 cm.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A 6.5 m ladder leans against a vertical wall with its foot 2.5 m from the wall. How high up the wall does it reach?",
+    "options": [
+     "6.0 m",
+     "7.0 m",
+     "4.0 m",
+     "6.9 m"
+    ],
+    "answer": 0,
+    "explanation": "The ladder is the hypotenuse: height² = 6.5² − 2.5² = 42.25 − 6.25 = 36, so the height is 6.0 m. Using 6.5² + 2.5² gives 7.0 m, which is wrong because the ladder is the longest side.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Point A is at (1, 2) and point B is at (7, 10). What is the distance AB?",
+    "options": [
+     "14 units",
+     "√20 units",
+     "10 units",
+     "8 units"
+    ],
+    "answer": 2,
+    "explanation": "Horizontal change = 6 and vertical change = 8, so AB² = 36 + 64 = 100 and AB = 10 units.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An isosceles triangle has two equal sides of 10 cm and a base of 12 cm. What is its perpendicular height?",
+    "options": [
+     "√44 cm",
+     "9.2 cm",
+     "8 cm",
+     "4 cm"
+    ],
+    "answer": 2,
+    "explanation": "The height splits the base into two halves of 6 cm. Height² = 10² − 6² = 64, so the height is 8 cm. Using the whole base 12 would give √(100 − 144), which is impossible.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A right-angled triangle has hypotenuse 15 cm and one shorter side 9 cm. What is its perimeter?",
+    "options": [
+     "36 cm",
+     "24 cm",
+     "30 cm",
+     "√306 + 24 cm"
+    ],
+    "answer": 0,
+    "explanation": "The missing side is √(225 − 81) = √144 = 12 cm. Perimeter = 9 + 12 + 15 = 36 cm. Do not forget to add all three sides.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The shorter sides of a right-angled triangle are 4.2 cm and 6.5 cm. Find the hypotenuse to 1 decimal place.",
+    "options": [
+     "10.7 cm",
+     "5.0 cm",
+     "59.9 cm",
+     "7.7 cm"
+    ],
+    "answer": 3,
+    "explanation": "4.2² + 6.5² = 17.64 + 42.25 = 59.89, and √59.89 = 7.74, so 7.7 cm. 59.9 is the square of the answer, not the answer. 10.7 comes from adding the sides.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A square has a diagonal of 10 cm. What is the side length to 1 decimal place?",
+    "options": [
+     "5.0 cm",
+     "7.1 cm",
+     "14.1 cm",
+     "7.5 cm"
+    ],
+    "answer": 1,
+    "explanation": "If the side is s, then s² + s² = 10², so 2s² = 100 and s = √50 = 7.07, which is 7.1 cm. Halving the diagonal (5.0) is a common slip.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An equilateral triangle has sides of 8 cm. Use Pythagoras to find its height to 1 decimal place.",
+    "options": [
+     "8.0 cm",
+     "6.9 cm",
+     "6.0 cm",
+     "7.5 cm"
+    ],
+    "answer": 1,
+    "explanation": "The height meets the base at its midpoint, so height² = 8² − 4² = 48 and the height is √48 = 6.93, so 6.9 cm.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A cuboid measures 3 cm by 4 cm by 12 cm. What is the length of the longest straight line that fits inside it, corner to opposite corner?",
+    "options": [
+     "19 cm",
+     "12.6 cm",
+     "5 cm",
+     "13 cm"
+    ],
+    "answer": 3,
+    "explanation": "First the base diagonal: √(3² + 4²) = 5 cm. Then √(5² + 12²) = √169 = 13 cm. The sum of the edges, 19, is not a distance.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A triangle has sides of 7 cm, 9 cm and 12 cm. Which statement is correct?",
+    "options": [
+     "It is not right-angled, because 7² + 9² = 130, which is less than 12² = 144",
+     "It is right-angled, because 7 + 9 > 12",
+     "It is right-angled, because 7² + 9² = 12²",
+     "It is not right-angled, because 7² + 9² = 130, which is more than 12²"
+    ],
+    "answer": 0,
+    "explanation": "For a right angle the two smaller squares must add exactly to the largest square. 49 + 81 = 130, not 144, so there is no right angle (the largest angle is slightly bigger than 90°).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A boat sails 12 km north and then 5 km east, then returns directly to the start in a straight line. What is the total distance sailed?",
+    "options": [
+     "17 km",
+     "25 km",
+     "30 km",
+     "√119 km + 17 km"
+    ],
+    "answer": 2,
+    "explanation": "The direct return is √(12² + 5²) = √169 = 13 km. Total = 12 + 5 + 13 = 30 km.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A right-angled triangle has hypotenuse 26 cm and one shorter side 10 cm. What is its area?",
+    "options": [
+     "130 cm²",
+     "240 cm²",
+     "120 cm²",
+     "260 cm²"
+    ],
+    "answer": 2,
+    "explanation": "The other side is √(676 − 100) = √576 = 24 cm. Area = ½ × 10 × 24 = 120 cm². 240 forgets the ½.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A 5 m ladder first reaches 4 m up a vertical wall. The foot is then pulled further from the wall so that the ladder reaches only 3 m up. How far did the foot of the ladder move?",
+    "options": [
+     "1 m",
+     "2 m",
+     "7 m",
+     "5 m"
+    ],
+    "answer": 0,
+    "explanation": "At first the foot is √(25 − 16) = 3 m from the wall. Afterwards it is √(25 − 9) = 4 m away. It moved 4 − 3 = 1 m.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## The big idea\nPythagoras' theorem links the three sides of any right-angled triangle. The longest side, opposite the right angle, is called the **hypotenuse**. If we call it c, and the two shorter sides a and b, then:\n\n**a² + b² = c²**\n\nIt only works for right-angled triangles, so always check there is a right angle (or a clue such as \"perpendicular\", \"rectangle\", \"square corner\", \"vertical wall on level ground\").\n\n## Finding the hypotenuse\nSquare the two shorter sides, add them, then take the square root.\n\nWorked example 1: the shorter sides are 6 cm and 8 cm.\n- c² = 6² + 8² = 36 + 64 = 100\n- c = √100 = 10 cm\n\n## Finding a shorter side\nSquare the hypotenuse and the known side, then subtract, then take the square root.\n\nWorked example 2: the hypotenuse is 13 cm and one shorter side is 5 cm.\n- b² = 13² − 5² = 169 − 25 = 144\n- b = √144 = 12 cm\n\nWorked example 3 (not a neat answer): shorter sides 4.2 cm and 6.5 cm.\n- c² = 4.2² + 6.5² = 17.64 + 42.25 = 59.89\n- c = √59.89 = 7.74... so 7.7 cm to 1 decimal place.\nKeep the full calculator value until the end, then round once. If the question asks for an exact answer, leave it as a surd such as √74.\n\n## Is the triangle right-angled? (the converse)\nIf the three sides satisfy a² + b² = c² exactly, the triangle has a right angle. Test with the longest side as c. For 7, 24, 25: 49 + 576 = 625 = 25², so yes. A set of whole numbers that works is a **Pythagorean triple**. Useful ones are 3, 4, 5 and 5, 12, 13 and 8, 15, 17, plus any multiples such as 6, 8, 10.\n\n## Using it in context\nMany questions hide a right-angled triangle:\n- **Diagonals** of rectangles and squares.\n- **Ladders** leaning on walls: the ladder is the hypotenuse.\n- **Isosceles and equilateral triangles**: drop a perpendicular height from the apex to the base. It splits the base in half and creates two right-angled triangles.\n- **Coordinates**: the distance between two points is the hypotenuse of a triangle whose shorter sides are the horizontal and vertical differences.\n- **3D shapes**: use Pythagoras twice, first on the base, then up the height.\n\nWorked example 4: the distance from (1, 2) to (7, 10). The changes are 6 across and 8 up, so the distance is √(36 + 64) = 10 units.\n\n## Common mistakes\n- Adding when you should subtract (when finding a shorter side).\n- Forgetting the final square root and giving c² as the answer.\n- Treating the wrong side as the hypotenuse. Always ask: which side is opposite the right angle?\n- Using the whole base of an isosceles triangle instead of half of it.\n- Rounding too early.\n\nExam tip: before you calculate, sketch the triangle, label the hypotenuse, and decide whether you need to add or subtract. A hypotenuse that comes out shorter than another side tells you immediately that something has gone wrong.",
+  "flashcards": [
+   {
+    "front": "State Pythagoras' theorem",
+    "back": "In a right-angled triangle, a² + b² = c², where c is the hypotenuse (the longest side, opposite the right angle)."
+   },
+   {
+    "front": "What is the hypotenuse?",
+    "back": "The longest side of a right-angled triangle, always opposite the right angle."
+   },
+   {
+    "front": "How do you find a shorter side?",
+    "back": "Subtract: b² = c² − a², then take the square root. The hypotenuse is c."
+   },
+   {
+    "front": "Name two common Pythagorean triples",
+    "back": "3, 4, 5 and 5, 12, 13 (also 8, 15, 17 and 7, 24, 25). Multiples such as 6, 8, 10 also work."
+   },
+   {
+    "front": "How do you test if a triangle is right-angled?",
+    "back": "Check whether the two smaller sides squared add to the largest side squared. If a² + b² = c² exactly, it is right-angled."
+   },
+   {
+    "front": "Distance between (x₁, y₁) and (x₂, y₂)",
+    "back": "Distance = √[(x₂ − x₁)² + (y₂ − y₁)²]. It is Pythagoras on the horizontal and vertical changes."
+   },
+   {
+    "front": "How do you find the height of an isosceles triangle?",
+    "back": "Drop a perpendicular from the apex. It halves the base. Then height² = equal side² − (half base)²."
+   },
+   {
+    "front": "Diagonal of a rectangle l by w",
+    "back": "Diagonal = √(l² + w²). It is the hypotenuse of a right-angled triangle formed by two sides."
+   },
+   {
+    "front": "Most common Pythagoras error",
+    "back": "Adding the squares when you should subtract (finding a shorter side), or forgetting the final square root."
+   }
+  ]
+ },
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Pythagoras and Trigonometry",
+  "subTopic": "Right-Angled Trigonometry",
+  "questions": [
+   {
+    "content": "In a right-angled triangle you know the side opposite angle θ and the hypotenuse. Which ratio links them?",
+    "options": [
+     "cos θ",
+     "sin θ",
+     "tan θ",
+     "1 ÷ tan θ"
+    ],
+    "answer": 1,
+    "explanation": "SOH: sine = opposite ÷ hypotenuse. Cosine uses the adjacent side and tangent uses opposite and adjacent.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "With your calculator in degree mode, what is sin 30°?",
+    "options": [
+     "0.866",
+     "0.5",
+     "1",
+     "0.707"
+    ],
+    "answer": 1,
+    "explanation": "sin 30° = 0.5. 0.866 is cos 30° (or sin 60°) and 0.707 is sin 45°.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In a right-angled triangle, the side opposite angle θ is 6 cm and the side adjacent to θ is 8 cm. What is tan θ?",
+    "options": [
+     "4/3",
+     "3/5",
+     "4/5",
+     "3/4"
+    ],
+    "answer": 3,
+    "explanation": "tan θ = opposite ÷ adjacent = 6/8 = 3/4. 4/3 is the ratio upside down.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which angle θ (between 0° and 90°) has sin θ = 0.5?",
+    "options": [
+     "30°",
+     "60°",
+     "45°",
+     "0.5°"
+    ],
+    "answer": 0,
+    "explanation": "Use the inverse function: sin⁻¹(0.5) = 30°. 60° is the angle with cosine 0.5.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A student types sin 30 into a calculator and gets −0.988 instead of 0.5. What is the most likely cause?",
+    "options": [
+     "The calculator is in degree mode",
+     "They should have used cos",
+     "The calculator is in radian mode",
+     "The angle is too small for sine"
+    ],
+    "answer": 2,
+    "explanation": "sin of 30 radians is -0.988. In degree mode sin 30 = 0.5. Always check the mode before using trigonometry with angles in degrees.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In a right-angled triangle the hypotenuse is 12 cm and an angle is 35°. Find the side opposite the 35° angle to 1 decimal place.",
+    "options": [
+     "9.8 cm",
+     "20.9 cm",
+     "6.9 cm",
+     "8.4 cm"
+    ],
+    "answer": 2,
+    "explanation": "opp = hyp × sin 35° = 12 × 0.5736 = 6.88, so 6.9 cm. Using cos finds the adjacent side instead.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a right-angled triangle the side opposite a 52° angle is 9 cm. Find the side adjacent to the 52° angle to 1 decimal place.",
+    "options": [
+     "7.0 cm",
+     "11.5 cm",
+     "5.5 cm",
+     "11.4 cm"
+    ],
+    "answer": 0,
+    "explanation": "tan 52° = 9 ÷ adj, so adj = 9 ÷ tan 52° = 9 ÷ 1.2799 = 7.03, which is 7.0 cm. Multiplying by tan gives the wrong answer.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a right-angled triangle the side opposite angle θ is 7 cm and the hypotenuse is 10 cm. Find θ to 1 decimal place.",
+    "options": [
+     "45.6°",
+     "55.0°",
+     "35.0°",
+     "44.4°"
+    ],
+    "answer": 3,
+    "explanation": "sin θ = 7/10 = 0.7, so θ = sin⁻¹(0.7) = 44.43°, which is 44.4°. cos⁻¹(0.7) would be for adjacent over hypotenuse.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a right-angled triangle the side adjacent to angle θ is 5 cm and the hypotenuse is 13 cm. Find θ to 1 decimal place.",
+    "options": [
+     "22.6°",
+     "67.4°",
+     "21.0°",
+     "69.0°"
+    ],
+    "answer": 1,
+    "explanation": "cos θ = 5/13, so θ = cos⁻¹(5/13) = 67.38°, which is 67.4°. 22.6° is the other acute angle.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A tower is 40 m tall. An observer stands on level ground 65 m from its base. What is the angle of elevation of the top of the tower, to 1 decimal place?",
+    "options": [
+     "58.4°",
+     "31.6°",
+     "38.0°",
+     "0.6°"
+    ],
+    "answer": 1,
+    "explanation": "tan θ = 40/65, so θ = tan⁻¹(0.6154) = 31.61°, which is 31.6°. Inverting the fraction gives 58.4°, the angle at the top.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A ramp is 8 m long (along the slope) and rises 2.5 m vertically. What angle does it make with the horizontal, to 1 decimal place?",
+    "options": [
+     "17.4°",
+     "71.8°",
+     "72.6°",
+     "18.2°"
+    ],
+    "answer": 3,
+    "explanation": "The slope is the hypotenuse, so sin θ = 2.5/8 and θ = 18.21°, which is 18.2°. tan⁻¹ would be right only if 8 m were the horizontal length.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A kite string is 50 m long and pulled straight, making an angle of 40° with level ground. How high is the kite above the ground, to 1 decimal place?",
+    "options": [
+     "32.1 m",
+     "38.3 m",
+     "42.0 m",
+     "77.8 m"
+    ],
+    "answer": 0,
+    "explanation": "Height is opposite the 40° angle and the string is the hypotenuse: 50 × sin 40° = 32.14, so 32.1 m.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Given that sin 20° = 0.342, which of these also equals 0.342?",
+    "options": [
+     "cos 20°",
+     "sin 70°",
+     "cos 70°",
+     "tan 20°"
+    ],
+    "answer": 2,
+    "explanation": "In a right-angled triangle the sine of one acute angle equals the cosine of the other, and the two acute angles add to 90°. So sin 20° = cos 70°.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In triangle ABC the right angle is at B, angle A = 28° and BC = 9 cm. Find the hypotenuse AC to 1 decimal place.",
+    "options": [
+     "4.2 cm",
+     "10.2 cm",
+     "19.2 cm",
+     "16.9 cm"
+    ],
+    "answer": 2,
+    "explanation": "BC is opposite angle A, so sin 28° = 9 ÷ AC. AC = 9 ÷ 0.4695 = 19.17, which is 19.2 cm. Multiplying instead gives 4.2 cm, which is shorter than BC and so impossible for a hypotenuse.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An isosceles triangle has two equal sides of 10 cm and an angle of 40° between them. Find the length of the base to 1 decimal place.",
+    "options": [
+     "6.8 cm",
+     "12.9 cm",
+     "3.4 cm",
+     "3.6 cm"
+    ],
+    "answer": 0,
+    "explanation": "Split the triangle down the middle: each right-angled half has hypotenuse 10 and angle 20° at the apex. Half the base is 10 sin 20° = 3.420, so the base is 6.84 = 6.8 cm.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "From a point 30 m from the foot of a flagpole on level ground, the angle of elevation of the top of the pole is 35° and of the bottom of the flag is 20°. How tall is the flag, to 1 decimal place?",
+    "options": [
+     "8.0 m",
+     "31.9 m",
+     "21.0 m",
+     "10.1 m"
+    ],
+    "answer": 3,
+    "explanation": "Top height = 30 tan 35° = 21.01 m. Bottom of flag = 30 tan 20° = 10.92 m. The flag is the difference, 10.09 = 10.1 m. You cannot subtract the angles.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "In a right-angled triangle, sin θ = 3/5. What is cos θ?",
+    "options": [
+     "3/4",
+     "4/5",
+     "5/4",
+     "5/3"
+    ],
+    "answer": 1,
+    "explanation": "If the opposite is 3 and the hypotenuse is 5, Pythagoras gives adjacent = √(25 − 9) = 4, so cos θ = 4/5. 3/4 would be tan θ.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A safety rule says a ladder should make an angle of at least 70° with the ground. A 4.5 m ladder reaches 4.2 m up a wall. What angle does it make with the ground, to 1 decimal place?",
+    "options": [
+     "21.0°",
+     "69.0°",
+     "43.0°",
+     "0.9°"
+    ],
+    "answer": 1,
+    "explanation": "sin θ = 4.2/4.5, so θ = 68.96° = 69.0°. This is below 70°, so the ladder is too shallow. 21.0° is the angle at the top against the wall.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Naming the sides\nIn a right-angled triangle, label the sides relative to the angle θ you are working with:\n- **Hypotenuse**: opposite the right angle (always the longest).\n- **Opposite**: the side directly across from θ.\n- **Adjacent**: the side next to θ that is not the hypotenuse.\nRemember that opposite and adjacent swap if you change to the other acute angle.\n\n## The three ratios\n**SOH CAH TOA** is the memory aid:\n- **sin θ = opposite ÷ hypotenuse**\n- **cos θ = adjacent ÷ hypotenuse**\n- **tan θ = opposite ÷ adjacent**\nChoose the ratio that uses the two sides in your problem: the one you know and the one you want.\n\n## Finding a missing side\nWrite the ratio, substitute, then rearrange.\n\nWorked example 1: hypotenuse 12 cm, angle 35°, find the opposite side x.\n- sin 35° = x ÷ 12\n- x = 12 × sin 35° = 12 × 0.5736 = 6.88, so 6.9 cm.\n\nWorked example 2: opposite 9 cm to a 52° angle, find the adjacent side y.\n- tan 52° = 9 ÷ y\n- y = 9 ÷ tan 52° = 9 ÷ 1.2799 = 7.03, so 7.0 cm.\nWhen the unknown is on the bottom of the fraction, you divide.\n\n## Finding a missing angle\nUse the inverse function (sin⁻¹, cos⁻¹, tan⁻¹).\n\nWorked example 3: opposite 7 cm, hypotenuse 10 cm.\n- sin θ = 7 ÷ 10 = 0.7\n- θ = sin⁻¹(0.7) = 44.4° to 1 decimal place.\n\n## Angles of elevation and depression\nThe **angle of elevation** is measured upward from the horizontal to a line of sight. The **angle of depression** is measured downward from the horizontal. Alternate angles make the angle of depression from a cliff top equal to the angle of elevation from the boat below.\n\nWorked example 4: a tower is 40 m tall and you stand 65 m from its base. tan θ = 40 ÷ 65, so θ = tan⁻¹(0.6154) = 31.6°.\n\n## Useful facts\n- sin θ = cos(90° − θ). For example, sin 20° = cos 70°.\n- sin 30° = 0.5, cos 60° = 0.5, tan 45° = 1.\n- Two-step problems: split isosceles triangles down the middle to make right-angled triangles, or find two heights and subtract.\n\n## Calculator advice\nCheck the mode shows **DEG** (degrees). In radian mode sin 30 gives −0.988 instead of 0.5. Store long decimals in the calculator memory and round only at the end.\n\n## Common mistakes\n- Picking the wrong ratio. Label O, A, H first.\n- Multiplying when you should divide (unknown in the denominator).\n- Using sin when you wanted sin⁻¹ to find an angle.\n- Giving an answer that is impossible: a shorter side must be shorter than the hypotenuse, and sin and cos answers must lie between 0 and 1.\n\nExam tip: write \"sin 35° = x ÷ 12\" as a line of working before you rearrange. Method marks are given for the correct ratio, and the line also stops you picking the wrong one.",
+  "flashcards": [
+   {
+    "front": "What does SOH CAH TOA stand for?",
+    "back": "sin = Opposite ÷ Hypotenuse, cos = Adjacent ÷ Hypotenuse, tan = Opposite ÷ Adjacent."
+   },
+   {
+    "front": "How do you label the sides?",
+    "back": "Hypotenuse is opposite the right angle. Opposite is across from the angle θ. Adjacent is the remaining side next to θ."
+   },
+   {
+    "front": "Find a missing side: method",
+    "back": "Pick the ratio using the known and wanted sides, write it with the numbers, then rearrange. Divide if the unknown is on the bottom."
+   },
+   {
+    "front": "Find a missing angle: method",
+    "back": "Write the ratio as a fraction, then use sin⁻¹, cos⁻¹ or tan⁻¹ on your calculator in degree mode."
+   },
+   {
+    "front": "Angle of elevation",
+    "back": "The angle measured upward from the horizontal to a line of sight to an object above."
+   },
+   {
+    "front": "Angle of depression",
+    "back": "The angle measured downward from the horizontal to an object below. It equals the angle of elevation from that object, by alternate angles."
+   },
+   {
+    "front": "Exact values to know",
+    "back": "sin 30° = 0.5, cos 60° = 0.5, tan 45° = 1."
+   },
+   {
+    "front": "Relationship between sin and cos",
+    "back": "sin θ = cos(90° − θ). For example sin 20° = cos 70°."
+   },
+   {
+    "front": "Which calculator mode for degrees?",
+    "back": "DEG. In radian mode sin 30 gives −0.988 instead of 0.5, which signals a wrong mode."
+   }
+  ]
+ },
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Pythagoras and Trigonometry",
+  "subTopic": "Bearings and Trigonometry Applications",
+  "questions": [
+   {
+    "content": "What is the three-figure bearing of due east?",
+    "options": [
+     "180°",
+     "270°",
+     "009°",
+     "090°"
+    ],
+    "answer": 3,
+    "explanation": "Bearings are measured clockwise from north: north is 000°, east 090°, south 180° and west 270°.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "How are bearings measured?",
+    "options": [
+     "Clockwise from north, using three figures",
+     "Anticlockwise from north, using three figures",
+     "Clockwise from east, using two figures",
+     "Anticlockwise from east, using three figures"
+    ],
+    "answer": 0,
+    "explanation": "A bearing is the clockwise angle from the north line at the starting point, written with three figures such as 045° or 005°.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the bearing of south-west?",
+    "options": [
+     "135°",
+     "315°",
+     "225°",
+     "180°"
+    ],
+    "answer": 2,
+    "explanation": "South is 180° and west is 270°, so south-west lies halfway at 225°. 135° is south-east and 315° is north-west.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The bearing of B from A is 070°. What is the bearing of A from B?",
+    "options": [
+     "110°",
+     "290°",
+     "250°",
+     "070°"
+    ],
+    "answer": 2,
+    "explanation": "Add 180°: 070° + 180° = 250°. This is the back bearing.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "From the top of a cliff, Maya looks down at a boat. What is the angle between the horizontal and her line of sight called?",
+    "options": [
+     "The angle of depression",
+     "The angle of elevation",
+     "The bearing",
+     "The reflex angle"
+    ],
+    "answer": 0,
+    "explanation": "Looking down from the horizontal gives an angle of depression. It equals the angle of elevation from the boat to the cliff top.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A ship sails 20 km on a bearing of 060°. How far east has it travelled, to 1 decimal place?",
+    "options": [
+     "10.0 km",
+     "23.1 km",
+     "34.6 km",
+     "17.3 km"
+    ],
+    "answer": 3,
+    "explanation": "East is the side opposite the 60° angle at the north line: 20 × sin 60° = 17.32, so 17.3 km. 10.0 km is how far north it has gone.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The bearing of town B from town A is 143°. What is the bearing of A from B?",
+    "options": [
+     "037°",
+     "323°",
+     "233°",
+     "143°"
+    ],
+    "answer": 1,
+    "explanation": "143° is less than 180°, so add 180°: 143° + 180° = 323°.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The bearing of B from A is 125°. What is the bearing of A from B?",
+    "options": [
+     "055°",
+     "305°",
+     "235°",
+     "125°"
+    ],
+    "answer": 1,
+    "explanation": "Add 180°: 125° + 180° = 305°. Subtracting 180° would be wrong here since the answer would be negative.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A hiker walks 5 km north and then 12 km east. What is the bearing of her final position from the start?",
+    "options": [
+     "023°",
+     "113°",
+     "157°",
+     "067°"
+    ],
+    "answer": 3,
+    "explanation": "The angle from north is tan⁻¹(12 ÷ 5) = 67.4°, so the bearing is 067°. 023° is the angle measured from the east line.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "From the top of a 45 m cliff, the angle of depression of a boat at sea is 18°. How far is the boat from the foot of the cliff, to 1 decimal place?",
+    "options": [
+     "138.5 m",
+     "14.6 m",
+     "145.6 m",
+     "42.8 m"
+    ],
+    "answer": 0,
+    "explanation": "The angle of depression equals the angle of elevation from the boat, so tan 18° = 45 ÷ d and d = 45 ÷ 0.3249 = 138.50 = 138.5 m.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A plane flying at a height of 3000 m is seen from an airport at an angle of elevation of 25°. How far is the plane horizontally from the airport, to the nearest 10 m?",
+    "options": [
+     "1400 m",
+     "7100 m",
+     "6430 m",
+     "3310 m"
+    ],
+    "answer": 2,
+    "explanation": "tan 25° = 3000 ÷ d, so d = 3000 ÷ 0.4663 = 6434, which is 6430 m to the nearest 10 m. 7100 m is the distance along the line of sight.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Point B is 8 km east and 8 km north of point A. What is the bearing of A from B?",
+    "options": [
+     "045°",
+     "135°",
+     "225°",
+     "315°"
+    ],
+    "answer": 2,
+    "explanation": "B from A is 045°, so A from B is 045° + 180° = 225°. You can also see A is south-west of B.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A boat sails 15 km on a bearing of 150°. How far south of its starting point is it, to 1 decimal place?",
+    "options": [
+     "13.0 km",
+     "7.5 km",
+     "8.7 km",
+     "17.3 km"
+    ],
+    "answer": 0,
+    "explanation": "A bearing of 150° is 30° east of south. The south distance is adjacent to the 30° angle: 15 × cos 30° = 12.99, so 13.0 km. 7.5 km is how far east it has gone.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A ship sails 12 km on a bearing of 040°, then 9 km on a bearing of 130°. What is the bearing of its final position from the start, to the nearest degree?",
+    "options": [
+     "003°",
+     "093°",
+     "037°",
+     "077°"
+    ],
+    "answer": 3,
+    "explanation": "The two legs are at right angles (130° − 40° = 90°). The extra angle is tan⁻¹(9 ÷ 12) = 36.9°, so the bearing is 40° + 36.9° = 76.9°, which is 077°.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A ship sails 30 km due north, then 40 km due east. What is the bearing it must take to return directly to the start, to the nearest degree?",
+    "options": [
+     "307°",
+     "233°",
+     "127°",
+     "053°"
+    ],
+    "answer": 1,
+    "explanation": "The outward bearing from start to end is tan⁻¹(40 ÷ 30) = 53.1°, which is 053°. The return bearing is 53.1° + 180° = 233.1°, which is 233°. 053° is the bearing in the wrong direction.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two boats are in line with the foot of a 60 m cliff. From the top, their angles of depression are 20° and 35°. How far apart are the boats, to 1 decimal place?",
+    "options": [
+     "250.5 m",
+     "79.2 m",
+     "20.2 m",
+     "223.9 m"
+    ],
+    "answer": 1,
+    "explanation": "Distances from the cliff are 60 ÷ tan 20° = 164.8 m and 60 ÷ tan 35° = 85.7 m. They are on the same side, so subtract: about 79.2 m using unrounded values.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A tower stands on level ground. Point A is 60 m further from the tower than point B, and A, B and the tower are in a straight line. The angles of elevation of the top are 25° from A and 40° from B. How tall is the tower, to the nearest metre?",
+    "options": [
+     "50 m",
+     "28 m",
+     "224 m",
+     "63 m"
+    ],
+    "answer": 3,
+    "explanation": "Let the height be h. Then A is h ÷ tan 25° from the tower and B is h ÷ tan 40°. Their difference is 60: h(2.1445 − 1.1918) = 60, so h = 60 ÷ 0.9527 = 63.0, which is 63 m.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "B is 8 km due east of A and C is 6 km due north of A. What is the bearing of C from B, to the nearest degree?",
+    "options": [
+     "307°",
+     "323°",
+     "217°",
+     "037°"
+    ],
+    "answer": 0,
+    "explanation": "From B, C lies west and north. The angle at B between the west line and BC is tan⁻¹(6 ÷ 8) = 36.9°, so the bearing is 270° + 36.9° = 306.9°, which is 307°.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What is a bearing?\nA **bearing** is a direction given as an angle measured **clockwise from north**, written with **three figures**. North is 000°, east is 090°, south is 180° and west is 270°. A direction such as 45° is written 045°. Always draw a north line at the starting point of the journey and measure the angle clockwise from it.\n\n## Back bearings\nTo find the bearing of A from B when you know the bearing of B from A, work out the opposite direction:\n- If the bearing is less than 180°, **add 180°**.\n- If the bearing is 180° or more, **subtract 180°**.\nWorked example 1: B from A is 143°, so A from B is 143° + 180° = 323°. If B from A is 250°, then A from B is 250° − 180° = 070°.\nThe reason is that the north lines at A and B are parallel, and co-interior angles add to 180°.\n\n## Using trigonometry with bearings\nTurn the journey into a right-angled triangle using the north line (or east line) as one side.\n\nWorked example 2: a ship sails 20 km on a bearing of 060°.\n- North component = 20 × cos 60° = 10.0 km (adjacent to the angle at the north line).\n- East component = 20 × sin 60° = 17.3 km (opposite).\n\nWorked example 3: a hiker walks 5 km north then 12 km east. The bearing of the end from the start is found from tan θ = 12 ÷ 5, so θ = 67.4°, giving **067°**. The distance is √(5² + 12²) = 13 km by Pythagoras.\n\nWorked example 4 (return journey): after going 30 km north and 40 km east, the outward bearing is tan⁻¹(40 ÷ 30) = 53.1°, which is 053°. The return bearing is 053° + 180° = 233°.\n\n## Angles of elevation and depression\n- **Angle of elevation**: up from the horizontal.\n- **Angle of depression**: down from the horizontal.\nThe angle of depression from the top of a cliff to a boat equals the angle of elevation from the boat to the top of the cliff (alternate angles).\n\nWorked example 5: from a 45 m cliff top the angle of depression of a boat is 18°. The distance from the cliff is d, with tan 18° = 45 ÷ d, so d = 45 ÷ tan 18° = 138.5 m.\n\n## Two-triangle problems\nSome problems need two right-angled triangles:\n- Two angles of elevation to the same tower from points in line with it. Write each distance in terms of the height h, and use the fact that their difference (or sum) is the known distance between the points.\n- Two boats seen from a cliff top: find each distance with 60 ÷ tan(angle) and subtract if they are on the same side.\n- A two-leg journey: sketch both legs. If they meet at a right angle, use Pythagoras and tan⁻¹ for the extra angle, then add or subtract it from the first bearing.\n\n## Common mistakes\n- Measuring anticlockwise, or measuring from the wrong north line.\n- Writing 45° instead of 045°.\n- Forgetting to add 180° for a back bearing, or adding it when the answer is meant to be forward.\n- Choosing cos where sin is needed because the angle is measured from north rather than from the east line.\n- Rounding before the final step.\n\nExam tip: draw a clear sketch with a north line at every turning point. Label each angle you know, and mark the right angle before choosing sin, cos or tan.",
+  "flashcards": [
+   {
+    "front": "How are bearings measured?",
+    "back": "Clockwise from north, using three figures, e.g. 045°, 005° or 270°."
+   },
+   {
+    "front": "Bearings of the four main directions",
+    "back": "North 000°, east 090°, south 180°, west 270°."
+   },
+   {
+    "front": "How do you find a back bearing?",
+    "back": "Add 180° if the bearing is less than 180°, or subtract 180° if it is 180° or more."
+   },
+   {
+    "front": "Why does the back bearing rule work?",
+    "back": "North lines at the two points are parallel, so co-interior angles add to 180°."
+   },
+   {
+    "front": "North and east components of a journey",
+    "back": "For distance d at bearing θ: north = d cos θ, east = d sin θ (for θ between 0° and 90°)."
+   },
+   {
+    "front": "Angle of elevation vs depression",
+    "back": "Elevation is measured up from the horizontal, depression is measured down from the horizontal."
+   },
+   {
+    "front": "Link between elevation and depression",
+    "back": "The angle of depression from a high point equals the angle of elevation from the low point (alternate angles)."
+   },
+   {
+    "front": "Bearing from legs north and east",
+    "back": "If a point is a km north and b km east of the start, bearing = tan⁻¹(b ÷ a), as a three-figure bearing."
+   },
+   {
+    "front": "Best way to start a bearings question",
+    "back": "Draw a sketch, mark a north line at each point, label known angles and distances, and spot the right-angled triangle."
+   }
+  ]
+ }
+]

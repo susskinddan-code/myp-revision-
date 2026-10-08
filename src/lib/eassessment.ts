@@ -23,9 +23,9 @@ export const EASSESSMENT_AREAS: EArea[] = [
     name: "Language & Literature",
     minutes: 120,
     slugs: [
-      "english-language-literature",
-      "french-language-literature",
-      "spanish-language-literature",
+      "english-language-and-literature",
+      "french-language-and-literature",
+      "spanish-language-and-literature",
     ],
     blurb: "Read unseen texts, analyse how writers create meaning, and write a response.",
     looksLike: [

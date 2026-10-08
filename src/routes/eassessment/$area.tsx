@@ -7,6 +7,8 @@ import {
   fetchAttempts,
   fetchMixedQuestions,
   fetchPapers,
+  fetchQuestionsForTopics,
+  shuffle,
   fetchSubjectsBySlugs,
 } from "@/lib/myp";
 import {
@@ -23,7 +25,7 @@ import { useAuth } from "@/hooks/use-auth";
 import { Button } from "@/components/ui/button";
 
 const GRADE = 5;
-const TABS = ["Readiness", "Timed paper", "Mixed test", "Exam skills"] as const;
+const TABS = ["Readiness", "Timed paper", "Mixed test", "Build my exam", "Exam skills"] as const;
 type Tab = (typeof TABS)[number];
 
 export const Route = createFileRoute("/eassessment/$area")({
@@ -129,6 +131,9 @@ function AreaPage() {
           ) : null}
           {tab === "Mixed test" && subject ? (
             <MixedTest key={subject.id} subjectId={subject.id} subjectName={subject.name} />
+          ) : null}
+          {tab === "Build my exam" && subject ? (
+            <BuildExam key={subject.id} subjectId={subject.id} subjectName={subject.name} />
           ) : null}
           {tab === "Exam skills" ? <ExamSkills /> : null}
           {area.slugs.length && !subjects?.length && tab !== "Exam skills" ? (
@@ -356,6 +361,162 @@ function MixedTest({ subjectId, subjectName }: { subjectId: string; subjectName:
           </div>
         </div>
       ) : null}
+    </div>
+  );
+}
+
+const DIFFICULTIES = ["easy", "medium", "hard"] as const;
+
+function BuildExam({ subjectId, subjectName }: { subjectId: string; subjectName: string }) {
+  const { data: topics, isLoading } = useQuery({
+    queryKey: ["ea-topics", subjectId],
+    queryFn: () => fetchAllTopics(subjectId, GRADE),
+  });
+  const [picked, setPicked] = useState<string[]>([]);
+  const [levels, setLevels] = useState<string[]>([...DIFFICULTIES]);
+  const [count, setCount] = useState(20);
+  const [exam, setExam] = useState<Awaited<ReturnType<typeof fetchQuestionsForTopics>> | null>(
+    null,
+  );
+  const [building, setBuilding] = useState(false);
+  const [message, setMessage] = useState<string | null>(null);
+  const [result, setResult] = useState<{ score: number; total: number } | null>(null);
+
+  if (isLoading) return <p className="text-sm text-muted-foreground">Loading topics…</p>;
+  const parents = (topics ?? []).filter((t) => !t.parent_topic_id);
+  if (!parents.length)
+    return <Empty text="Topics for this subject at MYP 5 are still being built." />;
+
+  const toggle = (list: string[], id: string) =>
+    list.includes(id) ? list.filter((x) => x !== id) : [...list, id];
+
+  async function build() {
+    const chosen = picked.length ? picked : parents.map((p) => p.id);
+    const ids = new Set<string>();
+    for (const id of chosen) {
+      ids.add(id);
+      for (const t of topics ?? []) if (t.parent_topic_id === id) ids.add(t.id);
+    }
+    setBuilding(true);
+    setMessage(null);
+    try {
+      const all = await fetchQuestionsForTopics([...ids]);
+      const pool = all.filter((q) => levels.includes(q.difficulty));
+      if (!pool.length) {
+        setMessage("No questions match those choices yet. Try more topics or difficulties.");
+        return;
+      }
+      setResult(null);
+      setExam(shuffle(pool).slice(0, count));
+    } catch {
+      setMessage("Could not build the exam right now. Try again.");
+    } finally {
+      setBuilding(false);
+    }
+  }
+
+  if (exam) {
+    const both = result ? describeResult(result.score / result.total) : null;
+    return (
+      <div>
+        <Button
+          variant="ghost"
+          size="sm"
+          className="mb-4 rounded-full"
+          onClick={() => setExam(null)}
+        >
+          Change my choices
+        </Button>
+        <QuestionRunner
+          key={exam.map((q) => q.id).join("")}
+          questions={exam}
+          subjectName={subjectName}
+          subjectId={subjectId}
+          topicName="your custom exam"
+          grade={GRADE}
+          onFinish={(score, total) => setResult({ score, total })}
+        />
+        {both ? (
+          <div className="mt-4 grid gap-3 sm:grid-cols-2">
+            <div className="rounded-lg border border-border bg-card p-4">
+              <p className="text-xs uppercase tracking-wide text-muted-foreground">
+                Criterion achievement (Levels 1-8)
+              </p>
+              <p className="mt-1 font-display text-2xl">Level {both.criterionLevel} of 8</p>
+            </div>
+            <div className="rounded-lg border border-border bg-card p-4">
+              <p className="text-xs uppercase tracking-wide text-muted-foreground">
+                Estimated overall subject grade (1-7)
+              </p>
+              <p className="mt-1 font-display text-2xl">Grade {both.overallGrade} of 7</p>
+            </div>
+          </div>
+        ) : null}
+      </div>
+    );
+  }
+
+  return (
+    <div className="max-w-2xl">
+      <p className="text-sm text-muted-foreground">
+        Pick what you want to practise and we will build a test from the {subjectName} question
+        bank. Leave topics empty to include everything.
+      </p>
+      <h3 className="mt-5 font-display text-lg">Topics</h3>
+      <div className="mt-2 flex flex-wrap gap-2">
+        {parents.map((p) => (
+          <button
+            key={p.id}
+            type="button"
+            onClick={() => setPicked((l) => toggle(l, p.id))}
+            className={`rounded-full border px-3 py-1.5 text-sm transition-colors ${
+              picked.includes(p.id)
+                ? "border-primary bg-primary text-primary-foreground"
+                : "border-border bg-card hover:bg-secondary"
+            }`}
+          >
+            {p.name}
+          </button>
+        ))}
+      </div>
+      <h3 className="mt-5 font-display text-lg">Difficulty</h3>
+      <div className="mt-2 flex flex-wrap gap-2">
+        {DIFFICULTIES.map((d) => (
+          <button
+            key={d}
+            type="button"
+            onClick={() => setLevels((l) => (l.length === 1 && l.includes(d) ? l : toggle(l, d)))}
+            className={`rounded-full border px-3 py-1.5 text-sm capitalize transition-colors ${
+              levels.includes(d)
+                ? "border-primary bg-primary text-primary-foreground"
+                : "border-border bg-card hover:bg-secondary"
+            }`}
+          >
+            {d}
+          </button>
+        ))}
+      </div>
+      <h3 className="mt-5 font-display text-lg">Number of questions</h3>
+      <div className="mt-2 flex flex-wrap gap-2">
+        {[10, 20, 30, 40].map((n) => (
+          <button
+            key={n}
+            type="button"
+            onClick={() => setCount(n)}
+            className={`rounded-full border px-3 py-1.5 text-sm transition-colors ${
+              count === n
+                ? "border-primary bg-primary text-primary-foreground"
+                : "border-border bg-card hover:bg-secondary"
+            }`}
+          >
+            {n}
+          </button>
+        ))}
+      </div>
+      {message ? <p className="mt-4 text-sm text-destructive">{message}</p> : null}
+      <Button className="mt-6 rounded-full" disabled={building} onClick={build}>
+        {building ? "Building…" : "Build my exam"}
+      </Button>
     </div>
   );
 }

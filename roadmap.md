@@ -10,4 +10,5 @@
 - [x] eAssessment section v1 (/eassessment): six exam areas, readiness per topic, timed papers, mixed tests, command terms + technique; shows Level 1-8 and estimated 1-7 (2026-10-08)
 - [x] Engagement v1: daily goal, streak, XP levels, topic mastery bars, pick-up-where-you-left-off, retry-missed in question sets
 - [x] 18 written MYP 5 eAssessment-style papers (2 each: Bio, Chem, Phys, Std+Ext Maths, Eng L&L, History, Geography, Economics) in content/papers-myp5, loaded via scripts/papers-to-sql.mjs
-- [ ] eAssessment: Language Acquisition papers, Interdisciplinary practice content, Build My Exam
+- [x] Build My Exam v1 (MCQ, topics + difficulty + count) on each eAssessment area page; 18 papers confirmed loaded (2026-10-08)
+- [ ] eAssessment: Language Acquisition papers, Interdisciplinary practice content, written-question Build My Exam

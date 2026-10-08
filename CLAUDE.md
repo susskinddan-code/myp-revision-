@@ -41,7 +41,7 @@ Done to flagship depth: Physics MYP 4 and Physics MYP 5 (55 sub-topics each). Pr
 
 ## Current plan (target: December 2026)
 
-1. Biology MYP 5: 19 headings are empty; consolidate to 13 topics / 40 sub-topics (breakdown in `.lovable/plan/biology-myp-5-sub-topic-breakdown-for-review-2026-09-16.md`), then generate content
+1. ~~Biology MYP 5~~ done (13 topics / 40 sub-topics, flagship depth). Next: Biology MYP 4 and other subjects at Grade 10 depth
 2. All 21 subjects built at Grade 10 (MYP 5) depth, then Grade 9, then Grade 8
 3. Top-level "eAssessment" section: Language & Literature, Individuals & Societies (one of History/Geography/Economics), Sciences (one of Physics/Chemistry/Biology/Integrated), Mathematics (Standard/Extended), Language Acquisition, Interdisciplinary Learning. Arts, Design and PHE are ePortfolio-assessed so are excluded from this section but still built as normal subjects
 4. "Build My Exam": student picks topics/difficulty/count and the app assembles a paper from the existing bank, reusing the marking logic (cheap alternative to live AI generation)
@@ -52,5 +52,6 @@ Done to flagship depth: Physics MYP 4 and Physics MYP 5 (55 sub-topics each). Pr
 - This repo may stay connected to Lovable. **Never rewrite pushed git history** (no force-push, rebase, amend or squash of pushed commits). Keep the main branch working, since pushes sync back into the Lovable editor
 - Dan prefers one comprehensive prompt and then an uninterrupted run, with screenshot-based UI feedback afterwards
 - Run `bun run build` (or `npm run build`) and `lint` before declaring work done
+- Content without an API key: write JSON in `content/<name>/` and run `node scripts/json-to-sql.mjs content/<name> > out.sql`, then Dan reviews and runs it in the Supabase SQL editor
 - Content generation: `node scripts/generate-content.mjs --subject biology --grade 5 [--limit N] [--dry-run]` (needs ANTHROPIC_API_KEY, SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY in the shell, never committed). Always dry-run a few sub-topics and read the output before loading
 - Plans and review documents live in `.lovable/plan/`; `roadmap.md` tracks the checklist

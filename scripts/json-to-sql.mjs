@@ -6,11 +6,15 @@
 //   { "subject": "biology", "grade": 5, "topic": "Microbiology", "subTopic": "Microorganism Types and Growth",
 //     "questions": [{content, options[4], answer(0-3), explanation, difficulty}], "note": "...", "flashcards": [{front, back}] }
 // The SQL looks sub-topics up by name, skips any sub-topic that already has a note, and runs in one transaction.
-import { readdirSync, readFileSync } from "node:fs";
+import { readdirSync, readFileSync, writeFileSync, mkdirSync } from "node:fs";
 import { join } from "node:path";
 
-const dir = process.argv[2];
-if (!dir) { console.error("Usage: node scripts/json-to-sql.mjs <content-folder>"); process.exit(1); }
+const args = process.argv.slice(2);
+const dir = args[0];
+if (!dir) { console.error("Usage: node scripts/json-to-sql.mjs <content-folder> [--out <folder> --chunk <n>]"); process.exit(1); }
+const flag = (name) => { const i = args.indexOf(name); return i >= 0 ? args[i + 1] : null; };
+const outDir = flag("--out");
+const chunkSize = Number(flag("--chunk") ?? 0);
 
 const BAD_SCOPE = /\bA[- ]level\b|Diploma Programme|\bIB DP\b|\bHL\b/i;
 const BAD_SCALE = /\b(1\s*(?:-|to|–)\s*7)\b|\bout of 7\b/i;
@@ -64,6 +68,17 @@ for (const c of items) {
     x.answer = target;
   });
 }
+// Positions for topics/sub-topics created by this file (order of first appearance).
+const parentPos = new Map();
+const subPos = new Map();
+for (const c of items) {
+  const pk = `${c.subject}|${c.grade}|${c.topic}`;
+  if (!parentPos.has(pk)) parentPos.set(pk, c.parentPosition ?? parentPos.size + 1);
+  const n = (subPos.get(pk) ?? 0) + 1;
+  subPos.set(pk, n);
+  c._sub = c.position ?? n;
+  c._parent = parentPos.get(pk);
+}
 let bad = 0;
 for (const c of items) {
   const errs = validate(c);
@@ -71,14 +86,24 @@ for (const c of items) {
 }
 if (bad) { console.error(`${bad} sub-topic(s) failed validation; no SQL written.`); process.exit(1); }
 
-const out = [`-- ${items.length} sub-topics. Safe to re-run: sub-topics that already have a note are skipped.`, "begin;"];
+const blocks = [];
 for (const c of items) {
+  const out = [];
   const st = `select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
     where s.slug = ${d(c.subject)} and t.grade = ${Number(c.grade)} and t.name = ${d(c.subTopic)} and p.name = ${d(c.topic)}
       and not exists (select 1 from public.notes n where n.topic_id = t.id)`;
   out.push(`\n-- ${c.topic} > ${c.subTopic}`);
+  // Create the topic and sub-topic if they do not exist yet (names are unique per subject and grade).
+  out.push(`insert into public.topics (subject_id, name, grade, position)
+select s.id, ${d(c.topic)}, ${Number(c.grade)}, ${Number(c._parent)} from public.subjects s where s.slug = ${d(c.subject)}
+on conflict (subject_id, name, grade) do nothing;
+insert into public.topics (subject_id, name, grade, parent_topic_id, position)
+select p.subject_id, ${d(c.subTopic)}, ${Number(c.grade)}, p.id, ${Number(c._sub)}
+from public.topics p join public.subjects s on s.id = p.subject_id
+where s.slug = ${d(c.subject)} and p.grade = ${Number(c.grade)} and p.name = ${d(c.topic)} and p.parent_topic_id is null
+on conflict (subject_id, name, grade) do nothing;`);
   out.push(`with st as (${st})
 insert into public.questions (subject_id, topic_id, grade, type, content, options, answer, explanation, difficulty)
 select st.subject_id, st.topic_id, ${Number(c.grade)}, 'MCQ', v.content, v.options::jsonb, v.answer, v.explanation, v.difficulty
@@ -93,11 +118,25 @@ ${c.flashcards.map((x) => `(${d(x.front)}, ${d(x.back)})`).join(",\n")}
 ) as v(front, back);`);
   out.push(`with st as (${st})
 insert into public.notes (topic_id, content) select st.topic_id, ${d(c.note)} from st;`);
+  blocks.push(out.join("\n"));
 }
-out.push("\ncommit;", `
-select p.name as topic, count(distinct t.id) as sub_topics,
+const slugs = [...new Set(items.map((i) => `'${i.subject}'`))].join(", ");
+const summary = `
+select s.name as subject, p.name as topic, count(distinct t.id) as sub_topics,
   count(distinct n.topic_id) as with_notes
-from public.topics p join public.subjects s on s.id = p.subject_id and s.slug = 'biology'
+from public.topics p join public.subjects s on s.id = p.subject_id and s.slug in (${slugs})
 join public.topics t on t.parent_topic_id = p.id left join public.notes n on n.topic_id = t.id
-where p.grade = 5 group by p.name order by p.name;`);
-console.log(out.join("\n"));
+where p.grade = 5 and p.parent_topic_id is null group by s.name, p.name, p.position order by s.name, p.position;`;
+const wrap = (list, label) =>
+  [`-- ${label}: ${list.length} sub-topics. Safe to re-run: sub-topics that already have a note are skipped.`, "begin;", ...list, "\ncommit;", summary].join("\n");
+if (outDir && chunkSize > 0) {
+  mkdirSync(outDir, { recursive: true });
+  const parts = Math.ceil(blocks.length / chunkSize);
+  for (let i = 0; i < parts; i++) {
+    const name = `part-${String(i + 1).padStart(2, "0")}-of-${String(parts).padStart(2, "0")}.sql`;
+    writeFileSync(join(outDir, name), wrap(blocks.slice(i * chunkSize, (i + 1) * chunkSize), `Part ${i + 1} of ${parts}`));
+    console.error(`wrote ${join(outDir, name)}`);
+  }
+} else {
+  console.log(wrap(blocks, `${items.length} sub-topics`));
+}

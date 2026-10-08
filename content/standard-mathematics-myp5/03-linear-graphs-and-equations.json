@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Linear Graphs and Equations",
+  "subTopic": "Gradient and Equation of a Straight Line",
+  "questions": [
+   {
+    "content": "Find the gradient of the line through (1, 2) and (3, 8).",
+    "options": [
+     "1/3",
+     "5",
+     "3",
+     "2"
+    ],
+    "answer": 2,
+    "explanation": "Gradient = change in y ÷ change in x = (8 − 2) ÷ (3 − 1) = 6 ÷ 2 = 3. Putting x on top gives 1/3, which is the reciprocal.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Write down the y-intercept of the line y = 4x − 7.",
+    "options": [
+     "−7",
+     "4",
+     "7",
+     "−4"
+    ],
+    "answer": 0,
+    "explanation": "In y = mx + c, c is the y-intercept. Here c = −7, so the line crosses the y-axis at (0, −7). The 4 is the gradient.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the gradient of the line y = −2x + 5?",
+    "options": [
+     "2",
+     "5",
+     "−5",
+     "−2"
+    ],
+    "answer": 3,
+    "explanation": "In y = mx + c, the gradient is the coefficient of x, which is −2. A negative gradient means the line slopes downwards from left to right.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which point lies on the line y = 2x + 1?",
+    "options": [
+     "(3, 5)",
+     "(3, 7)",
+     "(2, 6)",
+     "(1, 2)"
+    ],
+    "answer": 1,
+    "explanation": "Substitute x = 3: y = 2 × 3 + 1 = 7. For (2, 6), y would be 5, and for (1, 2), y would be 3. A point is on the line only if both coordinates satisfy the equation.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A line has gradient 3 and crosses the y-axis at (0, −2). What is its equation?",
+    "options": [
+     "y = −2x + 3",
+     "y = 3x − 2",
+     "y = 3x + 2",
+     "y = 3 − 2x"
+    ],
+    "answer": 1,
+    "explanation": "Use y = mx + c with m = 3 and c = −2. The gradient goes with x, and the intercept is the constant term.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A line passes through (0, 4) and (2, 10). What is its equation?",
+    "options": [
+     "y = 4x + 3",
+     "y = 3x + 10",
+     "y = x/3 + 4",
+     "y = 3x + 4"
+    ],
+    "answer": 3,
+    "explanation": "Gradient = (10 − 4) ÷ (2 − 0) = 3. The line crosses the y-axis at (0, 4), so c = 4. Therefore y = 3x + 4.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A line passes through (−1, 5) and (3, −3). What is its equation?",
+    "options": [
+     "y = −2x + 3",
+     "y = 2x + 7",
+     "y = −2x + 5",
+     "y = −x/2 + 4.5"
+    ],
+    "answer": 0,
+    "explanation": "Gradient = (−3 − 5) ÷ (3 − (−1)) = −8 ÷ 4 = −2. Substituting (−1, 5): 5 = −2(−1) + c, so c = 3. The line y = 2x + 7 passes through (−1, 5) but has the wrong gradient sign.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the gradient of the line 3x + 2y = 12?",
+    "options": [
+     "3/2",
+     "−3",
+     "−3/2",
+     "6"
+    ],
+    "answer": 2,
+    "explanation": "Rearrange to make y the subject: 2y = −3x + 12, so y = −(3/2)x + 6. The gradient is −3/2 and the y-intercept is 6.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A line has gradient 4 and passes through (2, 5). What is its equation?",
+    "options": [
+     "y = 4x + 5",
+     "y = 4x + 3",
+     "y = 4x − 5",
+     "y = 4x − 3"
+    ],
+    "answer": 3,
+    "explanation": "Substitute into y = 4x + c: 5 = 4(2) + c, so c = −3. Check: when x = 2, y = 8 − 3 = 5.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The cost C (in £) of a taxi journey is C = 2d + 3, where d is the distance in km. What do the 2 and the 3 represent?",
+    "options": [
+     "£3 per km, and a fixed starting charge of £2",
+     "£2 per km, and a fixed starting charge of £3",
+     "£2 as the fixed charge, and £3 as the total cost",
+     "£2 as the total cost, and £3 per km"
+    ],
+    "answer": 1,
+    "explanation": "The gradient 2 is the rate of change: each extra kilometre adds £2. The intercept 3 is the cost when d = 0, the fixed charge for starting the journey.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "At which point does the line y = 2x − 6 cross the x-axis?",
+    "options": [
+     "(0, −6)",
+     "(−3, 0)",
+     "(3, 0)",
+     "(6, 0)"
+    ],
+    "answer": 2,
+    "explanation": "On the x-axis y = 0, so 2x − 6 = 0 and x = 3. The point (0, −6) is where the line crosses the y-axis.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A line crosses the y-axis at (0, −2) and the x-axis at (4, 0). What is its equation?",
+    "options": [
+     "y = ½x − 2",
+     "y = 2x − 2",
+     "y = ½x + 2",
+     "y = −½x − 2"
+    ],
+    "answer": 0,
+    "explanation": "Gradient = (0 − (−2)) ÷ (4 − 0) = 2/4 = ½. The y-intercept is −2, so y = ½x − 2. Using run over rise would give the wrong gradient 2.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which point lies on the line 2y − 3x = 9?",
+    "options": [
+     "(5, 12)",
+     "(4, 10)",
+     "(5, 9)",
+     "(6, 13)"
+    ],
+    "answer": 0,
+    "explanation": "For (5, 12): 2 × 12 − 3 × 5 = 24 − 15 = 9, which works. For (4, 10) the left side is 8, for (5, 9) it is 3 and for (6, 13) it is 8.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A line has gradient 1.5 and passes through (2, 3) and (6, k). Find k.",
+    "options": [
+     "6",
+     "7.5",
+     "9",
+     "10.5"
+    ],
+    "answer": 2,
+    "explanation": "From x = 2 to x = 6 the line moves 4 across, so y rises by 1.5 × 4 = 6. Then k = 3 + 6 = 9. Forgetting to add the starting y-value gives 6.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A water tank holds 200 litres and drains at a constant rate. After 5 minutes, 150 litres remain. After how many minutes is the tank empty?",
+    "options": [
+     "15",
+     "20",
+     "40",
+     "5"
+    ],
+    "answer": 1,
+    "explanation": "The rate is 50 ÷ 5 = 10 litres per minute, so V = 200 − 10t. Setting V = 0 gives t = 20. The value 15 is the time to drain 150 litres, ignoring the first 50 litres removed.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Points A(−2, 1) and B(4, 5) lie on a line. Which equation represents the line AB?",
+    "options": [
+     "2y = 3x + 7",
+     "3y = 2x + 1",
+     "3y = −2x + 7",
+     "3y = 2x + 7"
+    ],
+    "answer": 3,
+    "explanation": "Gradient = (5 − 1) ÷ (4 + 2) = 2/3, so y = (2/3)x + c. Using A: 1 = −4/3 + c gives c = 7/3. Multiplying by 3 gives 3y = 2x + 7, and B also satisfies it: 15 = 8 + 7.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A line passes through (1, 4) and crosses the x-axis at (7, 0). Which equation represents it?",
+    "options": [
+     "2x − 3y = 14",
+     "3x + 2y = 14",
+     "2x + 3y = 14",
+     "2x + 3y = 7"
+    ],
+    "answer": 2,
+    "explanation": "Gradient = (0 − 4) ÷ (7 − 1) = −2/3. Then y = −(2/3)x + c; at (7, 0), c = 14/3. Multiplying by 3 gives 3y = −2x + 14, i.e. 2x + 3y = 14, and (1, 4) gives 2 + 12 = 14.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A bike-hire company's real prices are £13 for 1 hour, £18 for 2 hours and £24 for 3 hours. A student models the cost as C = 5h + 8. What is the percentage error of the model at 3 hours, to 1 decimal place?",
+    "options": [
+     "4.3%",
+     "4.2%",
+     "1.0%",
+     "24.0%"
+    ],
+    "answer": 1,
+    "explanation": "The model gives 5 × 3 + 8 = 23, while the real price is 24. The error is £1. Percentage error = 1 ÷ 24 × 100 = 4.2%. Divide by the true value, not the model value (which would give 4.3%).",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Gradient: how steep is the line?\nThe gradient (slope) tells you how much y changes when x increases by 1. Use gradient = change in y ÷ change in x, or rise ÷ run. For points (x₁, y₁) and (x₂, y₂), the gradient is m = (y₂ − y₁) ÷ (x₂ − x₁). For (1, 2) and (3, 8) that is 6 ÷ 2 = 3. A positive gradient means the line goes up from left to right, a negative gradient means it goes down, a gradient of 0 is a horizontal line, and a vertical line has an undefined gradient.\n\n## The equation y = mx + c\nThis is the standard form for a straight line:\n- **m** is the gradient\n- **c** is the y-intercept, where the line crosses the y-axis at (0, c)\nSo y = 4x − 7 has gradient 4 and crosses the y-axis at (0, −7). Other equations, such as 3x + 2y = 12, must be rearranged first: 2y = −3x + 12, so y = −(3/2)x + 6 and the gradient is −3/2.\n\n## Finding the equation of a line\n1. Work out the gradient from two points.\n2. Substitute one point into y = mx + c to find c.\n3. Write the full equation and check with the other point.\nFor a line through (−1, 5) and (3, −3): m = −8 ÷ 4 = −2. Then 5 = −2(−1) + c gives c = 3, so y = −2x + 3. Check: −2(3) + 3 = −3, which matches.\n\n## Special points\n- The y-intercept happens when x = 0.\n- The x-intercept happens when y = 0. For y = 2x − 6, set 2x − 6 = 0 to get x = 3, so the line crosses the x-axis at (3, 0).\n- A point lies on a line only if its coordinates make the equation true.\n\n## Interpreting gradient in context\nIn real-world models, the gradient is a rate of change and the intercept is a starting value. For C = 2d + 3, each extra kilometre costs £2 and there is a £3 starting charge. Always include the units when you explain.\n\n## Common mistakes\n- Subtracting the coordinates in different orders, e.g. (y₂ − y₁) ÷ (x₁ − x₂).\n- Putting x over y and getting the reciprocal.\n- Reading the number in front of y as the gradient before rearranging.\n- Mixing up the x- and y-intercepts.\n\n## How this is examined\nLinear graphs appear in contexts such as taxi fares, tank levels, phone plans or temperature models. You may be told to \"determine the equation\", \"interpret the gradient\", or \"predict\" a value from the line. Extended tasks ask you to test a linear model against real data, calculate the percentage error, and comment on its limitations, for example that costs might not rise at a constant rate forever. Always state what x and y mean and what units the gradient has.\n\nExam tip: After finding an equation, check it using the second point. If it does not fit, the gradient or the intercept is wrong.",
+  "flashcards": [
+   {
+    "front": "Gradient formula",
+    "back": "m = (y₂ − y₁) ÷ (x₂ − x₁), the change in y divided by the change in x. Keep the order the same on top and bottom."
+   },
+   {
+    "front": "y = mx + c",
+    "back": "m is the gradient and c is the y-intercept, the point (0, c) where the line crosses the y-axis."
+   },
+   {
+    "front": "Types of gradient",
+    "back": "Positive: up from left to right. Negative: down. Zero: horizontal line y = c. Vertical lines x = a have undefined gradient."
+   },
+   {
+    "front": "Find an equation from two points",
+    "back": "Find m, substitute one point into y = mx + c to find c, then check with the other point."
+   },
+   {
+    "front": "x-intercept",
+    "back": "The point where the line crosses the x-axis, found by setting y = 0 and solving for x."
+   },
+   {
+    "front": "Is a point on the line?",
+    "back": "Substitute its coordinates into the equation. If both sides are equal, the point is on the line."
+   },
+   {
+    "front": "Rearranging ax + by = c",
+    "back": "Make y the subject: y = (−a/b)x + c/b. The gradient is −a/b. Example: 3x + 2y = 12 has gradient −3/2."
+   },
+   {
+    "front": "Gradient in context",
+    "back": "The rate of change, e.g. £ per km or litres per minute. The intercept is the starting value when x = 0."
+   },
+   {
+    "front": "Percentage error",
+    "back": "(|model − actual| ÷ actual) × 100. Use the actual (true) value as the denominator."
+   }
+  ]
+ },
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Linear Graphs and Equations",
+  "subTopic": "Parallel and Perpendicular Lines",
+  "questions": [
+   {
+    "content": "Which line is parallel to y = 3x + 1?",
+    "options": [
+     "y = −3x + 1",
+     "y = x/3 + 1",
+     "y = 3x − 5",
+     "y = −x/3 − 5"
+    ],
+    "answer": 2,
+    "explanation": "Parallel lines have the same gradient. y = 3x − 5 has gradient 3, just like y = 3x + 1. The other lines have gradients −3, 1/3 and −1/3.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A line has gradient 2. What is the gradient of a line perpendicular to it?",
+    "options": [
+     "−1/2",
+     "2",
+     "−2",
+     "1/2"
+    ],
+    "answer": 0,
+    "explanation": "For perpendicular lines, the gradients multiply to give −1. The perpendicular gradient is the negative reciprocal: flip the fraction and change the sign. 2 × (−1/2) = −1.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A line has gradient −3/4. What is the gradient of a line perpendicular to it?",
+    "options": [
+     "−4/3",
+     "3/4",
+     "−3/4",
+     "4/3"
+    ],
+    "answer": 3,
+    "explanation": "Flip −3/4 to get −4/3, then change the sign to get 4/3. Check: (−3/4) × (4/3) = −1. If you only flip or only change the sign, the product is not −1.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which gradient does a line parallel to y = 5 − 2x have?",
+    "options": [
+     "2",
+     "−2",
+     "5",
+     "−1/2"
+    ],
+    "answer": 1,
+    "explanation": "The gradient of y = 5 − 2x is the coefficient of x, which is −2, even though it is written after the 5. Parallel lines have equal gradients.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Lines have equations y = 4x and y = −x/4. Which statement is correct?",
+    "options": [
+     "They are parallel because both involve 4",
+     "They are perpendicular because 4 × (−1/4) = −1",
+     "They are perpendicular because 4 + (−1/4) = 0",
+     "They are neither, because the gradients are different"
+    ],
+    "answer": 1,
+    "explanation": "The test for perpendicular lines is that the gradients multiply to −1. Here 4 × (−1/4) = −1. Different gradients alone only tell you the lines are not parallel.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Find the equation of the line parallel to y = 2x + 3 that passes through (1, 7).",
+    "options": [
+     "y = 2x + 7",
+     "y = 2x + 3",
+     "y = −x/2 + 7.5",
+     "y = 2x + 5"
+    ],
+    "answer": 3,
+    "explanation": "The gradient is 2. Substitute (1, 7) into y = 2x + c: 7 = 2 + c, so c = 5. Using the original intercept 3 would give the same line, not a parallel one.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Find the equation of the line perpendicular to y = 2x − 1 that passes through (4, 3).",
+    "options": [
+     "y = −x/2 + 5",
+     "y = 2x − 5",
+     "y = −2x + 11",
+     "y = x/2 + 1"
+    ],
+    "answer": 0,
+    "explanation": "The perpendicular gradient is −1/2. Substitute (4, 3): 3 = −2 + c, so c = 5. The line is y = −x/2 + 5. The option y = −2x + 11 passes through the point but has the wrong gradient.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which line is parallel to 2y = 6x + 4?",
+    "options": [
+     "y = 6x + 4",
+     "y = 2x + 3",
+     "y = 3x − 7",
+     "y = −x/3 + 4"
+    ],
+    "answer": 2,
+    "explanation": "Divide by 2 to get y = 3x + 2, so the gradient is 3. The line y = 3x − 7 also has gradient 3. The number 6 is the gradient only after dividing by the coefficient of y.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the gradient of a line perpendicular to 3x + 4y = 8?",
+    "options": [
+     "3/4",
+     "−4/3",
+     "−3/4",
+     "4/3"
+    ],
+    "answer": 3,
+    "explanation": "Rearrange: 4y = −3x + 8, so y = −(3/4)x + 2 and the gradient is −3/4. The perpendicular gradient is the negative reciprocal, 4/3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "For what value of k is the line y = kx + 1 parallel to 4x − 2y = 5?",
+    "options": [
+     "4",
+     "2",
+     "−2",
+     "1/2"
+    ],
+    "answer": 1,
+    "explanation": "Rearrange 4x − 2y = 5 to y = 2x − 5/2, so the gradient is 2. Parallel lines have equal gradients, so k = 2.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "For what value of k is the line y = kx + 3 perpendicular to y = 4x − 2?",
+    "options": [
+     "4",
+     "−4",
+     "−1/4",
+     "1/4"
+    ],
+    "answer": 2,
+    "explanation": "Perpendicular gradients multiply to −1, so 4k = −1 and k = −1/4. A value of −4 has the right sign but is not the reciprocal.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "On a map, road A is y = x/2 + 1. Road B is built perpendicular to road A and passes through (2, 3). What is the equation of road B?",
+    "options": [
+     "y = −2x + 7",
+     "y = 2x − 1",
+     "y = −2x + 3",
+     "y = −x/2 + 4"
+    ],
+    "answer": 0,
+    "explanation": "The perpendicular gradient is −2. Substituting (2, 3): 3 = −4 + c, so c = 7. The line y = −2x + 3 has the right gradient but does not pass through (2, 3).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which pair of lines is perpendicular?",
+    "options": [
+     "2x + y = 5 and x − 2y = 3",
+     "2x + y = 5 and 2x − y = 3",
+     "x + 2y = 4 and 2x + 4y = 3",
+     "y = 3x and 3y = x"
+    ],
+    "answer": 0,
+    "explanation": "2x + y = 5 has gradient −2, and x − 2y = 3 has gradient 1/2. The product is −1. The other pairs have gradients −2 and 2, −1/2 and −1/2 (parallel), and 3 and 1/3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A(1, 2) and B(5, 4) are points on a map. Which is the equation of the line through B perpendicular to AB?",
+    "options": [
+     "y = 2x − 6",
+     "y = −x/2 + 6.5",
+     "y = −2x + 14",
+     "y = −2x + 4"
+    ],
+    "answer": 2,
+    "explanation": "Gradient AB = 2/4 = 1/2, so the perpendicular gradient is −2. Substitute B(5, 4): 4 = −10 + c gives c = 14. So y = −2x + 14.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The line through (1, 2) and (3, k) is parallel to y = 3x − 1. Find k.",
+    "options": [
+     "5",
+     "8",
+     "6",
+     "4"
+    ],
+    "answer": 1,
+    "explanation": "The gradient of the line is (k − 2) ÷ (3 − 1) = 3, so k − 2 = 6 and k = 8. The answer 5 comes from adding the gradient to the y-value instead of multiplying by the horizontal change.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The line through (1, 2) and (5, k) is perpendicular to y = 2x + 1. Find k.",
+    "options": [
+     "10",
+     "4",
+     "−6",
+     "0"
+    ],
+    "answer": 3,
+    "explanation": "The perpendicular gradient is −1/2, so (k − 2) ÷ 4 = −1/2, giving k − 2 = −2 and k = 0. The value 10 would make the line parallel.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Triangle ABC has A(1, 1), B(5, 3) and C(6, 1). Which statement is correct?",
+    "options": [
+     "There is a right angle at A, because AC is horizontal",
+     "There is a right angle at C, because AC and BC are perpendicular",
+     "There is a right angle at B, because the gradients of AB and BC multiply to −1",
+     "There is no right angle, because no two sides are parallel"
+    ],
+    "answer": 2,
+    "explanation": "Gradient AB = 2/4 = 1/2 and gradient BC = (1 − 3) ÷ (6 − 5) = −2. Since (1/2) × (−2) = −1, AB ⟂ BC, so the right angle is at B. AC is horizontal, but AB is not vertical.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Line l₁ is 2y = x + 2. Line l₂ is perpendicular to l₁ and passes through (0, 6). At which point do they meet?",
+    "options": [
+     "(4, 3)",
+     "(2, 2)",
+     "(1, 1.5)",
+     "(0, 6)"
+    ],
+    "answer": 1,
+    "explanation": "l₁ is y = x/2 + 1 with gradient 1/2, so l₂ has gradient −2 and equation y = −2x + 6. Set x/2 + 1 = −2x + 6, so 2.5x = 5 and x = 2, y = 2. The point (4, 3) is only on l₁ and (0, 6) is only on l₂.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Parallel lines\nParallel lines never meet because they have exactly the same gradient. The lines y = 3x + 1, y = 3x − 5 and y = 3x all have gradient 3, so they are parallel. They differ only in their y-intercepts. If a line is not written as y = mx + c, rearrange it first. For example, 2y = 6x + 4 becomes y = 3x + 2, so it is parallel to y = 3x − 7.\n\n## Perpendicular lines\nPerpendicular lines meet at a right angle. Their gradients multiply to give −1. In other words, one gradient is the **negative reciprocal** of the other: flip the fraction and change the sign.\n- If m = 2, the perpendicular gradient is −1/2.\n- If m = −3/4, the perpendicular gradient is 4/3.\n- If m = 4, the perpendicular gradient is −1/4.\nAlways check that your two gradients multiply to −1. A horizontal line y = 3 is perpendicular to a vertical line x = 5, which is a special case because a vertical line has no defined gradient.\n\n## Finding an equation through a point\n1. Find the required gradient m (the same for parallel, the negative reciprocal for perpendicular).\n2. Substitute the given point into y = mx + c and solve for c.\n3. Write the equation and check the point.\nExample: find the line perpendicular to y = 2x − 1 through (4, 3). The gradient is −1/2, so 3 = −2 + c, giving c = 5 and y = −x/2 + 5.\n\n## Using gradients in geometry\nGradients let you prove facts about shapes on a coordinate grid. If two sides of a quadrilateral have equal gradients, they are parallel. If two sides have gradients that multiply to −1, they meet at a right angle. For triangle ABC with A(1, 1), B(5, 3) and C(6, 1), the gradient of AB is 1/2 and the gradient of BC is −2. Since (1/2) × (−2) = −1, the angle at B is a right angle. This works as a proof.\n\n## Common mistakes\n- Only flipping the fraction, or only changing the sign.\n- Reading the gradient from a line not in the form y = mx + c, for instance taking 6 from 2y = 6x + 4.\n- Using the intercept from the original line when finding a parallel line through a new point.\n- Mixing up which side of a coordinate pair is x and which is y.\n\n## How this is examined\nIn eAssessment-style tasks you may see a map with roads, a bridge deck, a ramp or a fence on a coordinate grid. You are asked to \"determine\" an equation of a parallel or perpendicular line through a point, \"show that\" two lines are perpendicular, or \"justify\" that a shape has a right angle by calculating gradients. Marks go for showing the gradient calculation and the product of −1 or the equal gradients as evidence. Extended tasks might ask where two paths cross.\n\nExam tip: To prove lines are perpendicular, show that the product of the gradients equals −1 and write that conclusion in a sentence.",
+  "flashcards": [
+   {
+    "front": "Parallel lines",
+    "back": "Same gradient. y = 3x + 1 and y = 3x − 5 are parallel."
+   },
+   {
+    "front": "Perpendicular lines",
+    "back": "Gradients multiply to −1. The perpendicular gradient is the negative reciprocal: flip the fraction and change the sign."
+   },
+   {
+    "front": "Perpendicular to m = 2",
+    "back": "−1/2, because 2 × (−1/2) = −1."
+   },
+   {
+    "front": "Perpendicular to m = −3/4",
+    "back": "4/3, because (−3/4) × (4/3) = −1."
+   },
+   {
+    "front": "Line parallel to y = 2x + 3 through (1, 7)",
+    "back": "Gradient 2. Substitute the point: 7 = 2 + c, so c = 5 and y = 2x + 5."
+   },
+   {
+    "front": "Rearrange before reading the gradient",
+    "back": "2y = 6x + 4 becomes y = 3x + 2, so m = 3. The 6 is not the gradient until you divide by the coefficient of y."
+   },
+   {
+    "front": "Horizontal and vertical lines",
+    "back": "y = c is horizontal (gradient 0). x = a is vertical (gradient undefined). Each is perpendicular to the other."
+   },
+   {
+    "front": "Prove a right angle on a grid",
+    "back": "Work out the gradients of the two sides, show their product is −1, and state that the sides are perpendicular."
+   },
+   {
+    "front": "Find where two lines meet",
+    "back": "Set the two y expressions equal, solve for x, then substitute back to find y. The answer is a coordinate pair."
+   }
+  ]
+ },
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Linear Graphs and Equations",
+  "subTopic": "Simultaneous Linear Equations",
+  "questions": [
+   {
+    "content": "Solve the simultaneous equations x + y = 7 and x − y = 1.",
+    "options": [
+     "x = 3, y = 4",
+     "x = 6, y = 1",
+     "x = 4, y = 3",
+     "x = 8, y = −1"
+    ],
+    "answer": 2,
+    "explanation": "Add the equations: 2x = 8, so x = 4. Then y = 7 − 4 = 3. Check in the second equation: 4 − 3 = 1.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The graphs of y = 2x and y = x + 3 are drawn on the same axes. At which point do they meet?",
+    "options": [
+     "(3, 6)",
+     "(6, 3)",
+     "(3, 3)",
+     "(2, 4)"
+    ],
+    "answer": 0,
+    "explanation": "At the intersection, both y-values are equal: 2x = x + 3, so x = 3 and y = 6. Check: 2 × 3 = 6 and 3 + 3 = 6. Coordinates are written as (x, y).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What can be said about the simultaneous equations y = 2x + 1 and y = 2x + 5?",
+    "options": [
+     "They have exactly one solution",
+     "They have infinitely many solutions",
+     "They have exactly two solutions",
+     "They have no solution, because the lines are parallel"
+    ],
+    "answer": 3,
+    "explanation": "Both lines have gradient 2 but different y-intercepts, so they are parallel and never meet. Setting 2x + 1 = 2x + 5 gives 1 = 5, which is impossible.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "2x + y = 11 and x + y = 6. Subtract the second equation from the first. What is x?",
+    "options": [
+     "17",
+     "5",
+     "6",
+     "1"
+    ],
+    "answer": 1,
+    "explanation": "Subtracting eliminates y: (2x − x) + (y − y) = 11 − 6, so x = 5. Adding the equations would not remove y. Then y = 6 − 5 = 1.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which pair of values satisfies both x + y = 10 and 2x + y = 14?",
+    "options": [
+     "x = 6, y = 4",
+     "x = 4, y = 6",
+     "x = 5, y = 5",
+     "x = 7, y = 3"
+    ],
+    "answer": 1,
+    "explanation": "Test each pair in both equations. For x = 4, y = 6: 4 + 6 = 10 and 8 + 6 = 14, both correct. The pair x = 6, y = 4 satisfies the first equation but gives 16 in the second.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Solve 3x + 2y = 16 and x − 2y = 0.",
+    "options": [
+     "x = 2, y = 4",
+     "x = 4, y = −2",
+     "x = 8, y = 4",
+     "x = 4, y = 2"
+    ],
+    "answer": 3,
+    "explanation": "Adding the equations eliminates y: 4x = 16, so x = 4. From the second equation y = x/2 = 2. Check: 12 + 4 = 16.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve y = 3x − 4 and 2x + y = 11.",
+    "options": [
+     "x = 3, y = 5",
+     "x = 5, y = 3",
+     "x = 3, y = −5",
+     "x = −3, y = 5"
+    ],
+    "answer": 0,
+    "explanation": "Substitute the first equation into the second: 2x + 3x − 4 = 11, so 5x = 15 and x = 3. Then y = 3(3) − 4 = 5.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve 2x + 3y = 12 and 3x − y = 7.",
+    "options": [
+     "x = 2, y = 3",
+     "x = 3, y = −2",
+     "x = 3, y = 2",
+     "x = 1.5, y = 3"
+    ],
+    "answer": 2,
+    "explanation": "Rearrange the second equation to y = 3x − 7 and substitute: 2x + 9x − 21 = 12, so 11x = 33 and x = 3, y = 2. Swapping x and y gives 4 + 9 = 13, not 12.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve 2x + 3y = 13 and 5x − 2y = 4.",
+    "options": [
+     "x = 3, y = 2",
+     "x = 2, y = −3",
+     "x = −2, y = 3",
+     "x = 2, y = 3"
+    ],
+    "answer": 3,
+    "explanation": "Multiply the first by 2 and the second by 3: 4x + 6y = 26 and 15x − 6y = 12. Add: 19x = 38, so x = 2. Then 4 + 3y = 13 gives y = 3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "At a cinema, 2 adult tickets and 3 child tickets cost £27. 1 adult ticket and 2 child tickets cost £16. What is the price of one adult ticket?",
+    "options": [
+     "£5",
+     "£6",
+     "£7",
+     "£8"
+    ],
+    "answer": 1,
+    "explanation": "Let a be the adult price and c the child price. Then 2a + 3c = 27 and a + 2c = 16. From the second, a = 16 − 2c. Substituting: 32 − 4c + 3c = 27, so c = 5 and a = 6.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Mia has 20 coins, all 10p or 20p, worth £3.20 altogether. How many 20p coins does she have?",
+    "options": [
+     "8",
+     "10",
+     "12",
+     "16"
+    ],
+    "answer": 2,
+    "explanation": "Let x be the 10p coins and y the 20p coins: x + y = 20 and 10x + 20y = 320. Then 10(20 − y) + 20y = 320, so 200 + 10y = 320 and y = 12. There are 8 ten-pence coins.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Taxi firm A charges £3 plus £2 per km. Taxi firm B charges £1 plus £2.50 per km. For what distance do both firms charge the same?",
+    "options": [
+     "4 km",
+     "2 km",
+     "8 km",
+     "0.5 km"
+    ],
+    "answer": 0,
+    "explanation": "Set 3 + 2d = 1 + 2.5d. Then 2 = 0.5d and d = 4. Both charge £11 for 4 km. The firms cross at this distance, which is where the graphs intersect.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The equations 2x + 4y = 8 and x + 2y = 4 are solved simultaneously. What is true?",
+    "options": [
+     "There are infinitely many solutions",
+     "There is no solution",
+     "There is exactly one solution",
+     "There are exactly two solutions"
+    ],
+    "answer": 0,
+    "explanation": "Dividing the first equation by 2 gives x + 2y = 4, so both equations describe the same line. Every point on the line is a solution, so there are infinitely many.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve 3x − 2y = 7 and 5x + 3y = 37.",
+    "options": [
+     "x = 4, y = 5",
+     "x = 7, y = 7",
+     "x = 5, y = 4",
+     "x = 5, y = −4"
+    ],
+    "answer": 2,
+    "explanation": "Multiply the first by 3 and the second by 2: 9x − 6y = 21 and 10x + 6y = 74. Adding gives 19x = 95, so x = 5. Then 15 − 2y = 7 gives y = 4. Check in the second: 25 + 12 = 37.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "3 pens and 2 notebooks cost £7.00. 2 pens and 5 notebooks cost £10.90. What is the cost of one notebook?",
+    "options": [
+     "£1.20",
+     "£1.70",
+     "£2.10",
+     "£1.50"
+    ],
+    "answer": 1,
+    "explanation": "Let p be a pen and n a notebook: 3p + 2n = 7.00 and 2p + 5n = 10.90. Multiply by 2 and 3: 6p + 4n = 14.00 and 6p + 15n = 32.70. Subtract: 11n = 18.70, so n = 1.70. Then p = 1.20.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A company's cost is C = 500 + 4n and its revenue is R = 9n, where n is the number of items sold. The lines meet at (100, 900). What does this show?",
+    "options": [
+     "At 100 items the company makes a profit of £900",
+     "At 100 items the cost is £900 but the revenue is £500",
+     "The company makes a loss for any number of sales above 100",
+     "At 100 items cost and revenue are both £900, so the company breaks even; more sales than this make a profit"
+    ],
+    "answer": 3,
+    "explanation": "Setting 500 + 4n = 9n gives n = 100, and both equal £900. After this point revenue grows by £9 per item and cost by only £4, so revenue exceeds cost. This is the break-even point.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Solve x/2 + y/3 = 4 and x − y = 3.",
+    "options": [
+     "x = 3, y = 6",
+     "x = 4, y = 1",
+     "x = 6, y = 3",
+     "x = 8, y = 5"
+    ],
+    "answer": 2,
+    "explanation": "Multiply the first equation by 6: 3x + 2y = 24. From the second, x = y + 3, so 3y + 9 + 2y = 24, giving y = 3 and x = 6. Check: 6/2 + 3/3 = 3 + 1 = 4.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "For which value of a do the equations ax + 2y = 5 and 3x + 6y = 10 have no solution?",
+    "options": [
+     "3",
+     "1",
+     "6",
+     "2"
+    ],
+    "answer": 1,
+    "explanation": "No solution means parallel lines. The gradients are −a/2 and −3/6 = −1/2, so a = 1. With a = 1, the first equation scaled by 3 gives 3x + 6y = 15, which is not 10, so the lines never meet.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What are simultaneous equations?\nSimultaneous equations are two (or more) equations that share the same unknowns, and you want values that make **both** true at once. Graphically, each linear equation is a straight line, and the solution is the point where the lines cross. For y = 2x and y = x + 3, the lines cross at (3, 6), so x = 3 and y = 6 is the solution.\n\n## Method 1: elimination\nMake the coefficients of one letter equal (ignoring the sign), then add or subtract the equations to eliminate it.\n- Same sign: subtract. Opposite signs: add. A quick rule is \"same signs subtract, different signs add\".\n- If needed, multiply one or both equations first. For 2x + 3y = 13 and 5x − 2y = 4, multiply the first by 2 and the second by 3 to get 4x + 6y = 26 and 15x − 6y = 12. Adding eliminates y: 19x = 38, so x = 2.\n- Substitute back to find the other letter, and check in the equation you did not use.\n\n## Method 2: substitution\nUse this when one equation already has a letter on its own, such as y = 3x − 4. Replace y in the other equation: 2x + (3x − 4) = 11, so 5x = 15 and x = 3, then y = 5. Use brackets when substituting an expression, especially one with negative signs.\n\n## Forming simultaneous equations from a problem\n- Define letters clearly, for example a = adult ticket price and c = child ticket price.\n- Write one equation for each piece of information.\n- Solve, then answer the question in context with units.\nFor 2a + 3c = 27 and a + 2c = 16, solving gives c = 5 and a = 6, so an adult ticket costs £6.\n\n## Special cases\n- **No solution**: the lines are parallel (same gradient, different intercepts). You end with a false statement such as 1 = 5.\n- **Infinitely many solutions**: both equations describe the same line, like 2x + 4y = 8 and x + 2y = 4.\n- **Break-even and crossing points**: where cost equals revenue or where two prices are equal. After this point, one option is cheaper or more profitable.\n\n## Common mistakes\n- Adding when you should subtract (or the other way round), causing a sign error.\n- Multiplying only one term of an equation, not the whole equation.\n- Finding only one variable and forgetting the other.\n- Not checking the answer in both original equations.\n\n## How this is examined\nIn eAssessment-style tasks you might be given two phone tariffs, two taxi firms or a cost and revenue model. You are asked to \"write down\" two equations, \"solve\" them, and then \"interpret\" the intersection, for example choosing which option is cheaper for a given distance. Extended tasks ask you to \"justify\" a recommendation, state assumptions such as constant prices, and discuss limitations. You may also be asked to \"verify\" a solution by substituting it into both equations.\n\nExam tip: Always check your answer in both original equations. It takes ten seconds and catches nearly every slip.",
+  "flashcards": [
+   {
+    "front": "Simultaneous equations",
+    "back": "Two or more equations with the same unknowns. The solution makes all of them true at once; graphically it is where the lines cross."
+   },
+   {
+    "front": "Elimination method",
+    "back": "Make one letter's coefficients equal, then subtract (same signs) or add (different signs) to eliminate it. Substitute back to find the other letter."
+   },
+   {
+    "front": "Substitution method",
+    "back": "When one equation gives a letter directly (y = 3x − 4), replace it in the other equation using brackets, then solve."
+   },
+   {
+    "front": "Solution from a graph",
+    "back": "Read the coordinates of the intersection point. The x-coordinate gives x and the y-coordinate gives y."
+   },
+   {
+    "front": "No solution",
+    "back": "Parallel lines: same gradient, different intercepts. Algebra leads to a false statement like 1 = 5."
+   },
+   {
+    "front": "Infinitely many solutions",
+    "back": "Both equations are the same line, for example 2x + 4y = 8 and x + 2y = 4."
+   },
+   {
+    "front": "Checking the solution",
+    "back": "Substitute both values into both original equations. Both sides must be equal each time."
+   },
+   {
+    "front": "Forming equations from a problem",
+    "back": "Define a letter for each unknown, write one equation for each fact, solve, then answer in context with units."
+   },
+   {
+    "front": "Break-even point",
+    "back": "Where cost equals revenue. Solve the two equations simultaneously; beyond this point revenue exceeds cost and there is a profit."
+   }
+  ]
+ }
+]

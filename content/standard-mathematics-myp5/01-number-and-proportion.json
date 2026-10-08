@@ -1,0 +1,1054 @@
+[
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Number and Proportion",
+  "subTopic": "Types of Numbers and Operations",
+  "questions": [
+   {
+    "content": "Which of these numbers is irrational?",
+    "options": [
+     "0.25",
+     "√2",
+     "3/7",
+     "√16"
+    ],
+    "answer": 1,
+    "explanation": "√2 is a non-terminating, non-repeating decimal so it cannot be written as a fraction. √16 = 4, 0.25 = 1/4 and 3/7 are all rational.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these numbers is a prime number?",
+    "options": [
+     "51",
+     "57",
+     "91",
+     "53"
+    ],
+    "answer": 3,
+    "explanation": "51 = 3 × 17, 57 = 3 × 19 and 91 = 7 × 13. 53 has only two factors, 1 and 53.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Using the correct order of operations, what is the value of 3 + 4 × 2²?",
+    "options": [
+     "19",
+     "49",
+     "28",
+     "31"
+    ],
+    "answer": 0,
+    "explanation": "Powers first: 2² = 4. Then multiplication: 4 × 4 = 16. Then addition: 3 + 16 = 19.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is 60 written as a product of its prime factors?",
+    "options": [
+     "2 × 3 × 10",
+     "2 × 3² × 5",
+     "2² × 3 × 5",
+     "6 × 10"
+    ],
+    "answer": 2,
+    "explanation": "60 = 2 × 2 × 3 × 5. Each factor in a prime factorisation must itself be prime, so 6 × 10 is not acceptable.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the value of 2⁻²?",
+    "options": [
+     "−4",
+     "−1/4",
+     "1/4",
+     "4"
+    ],
+    "answer": 2,
+    "explanation": "A negative power means the reciprocal. 2⁻² = 1 ÷ 2² = 1/4. It does not make the answer negative.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the highest common factor (HCF) of 36 and 48?",
+    "options": [
+     "12",
+     "6",
+     "144",
+     "24"
+    ],
+    "answer": 0,
+    "explanation": "36 = 2² × 3² and 48 = 2⁴ × 3. The common factors are 2² × 3 = 12. 144 is their lowest common multiple.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the lowest common multiple (LCM) of 12 and 18?",
+    "options": [
+     "6",
+     "72",
+     "216",
+     "36"
+    ],
+    "answer": 3,
+    "explanation": "12 = 2² × 3 and 18 = 2 × 3². The LCM uses the highest power of each prime: 2² × 3² = 36.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Two airport shuttle buses leave the terminal together at 07:00. One returns every 12 minutes and the other every 18 minutes. At what time will they next leave together?",
+    "options": [
+     "07:06",
+     "07:36",
+     "07:30",
+     "08:12"
+    ],
+    "answer": 1,
+    "explanation": "They leave together after the LCM of 12 and 18 minutes. The LCM is 36 so the next time is 07:36.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the value of (2⁵ × 2³) ÷ 2²?",
+    "options": [
+     "16",
+     "32",
+     "256",
+     "64"
+    ],
+    "answer": 3,
+    "explanation": "Add the powers when multiplying: 2⁸. Subtract when dividing: 2⁸ ÷ 2² = 2⁶ = 64.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Between which two consecutive integers does √70 lie?",
+    "options": [
+     "7 and 8",
+     "8 and 9",
+     "9 and 10",
+     "35 and 36"
+    ],
+    "answer": 1,
+    "explanation": "8² = 64 and 9² = 81. As 70 lies between these, √70 lies between 8 and 9 (it is about 8.37).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A laboratory freezer is at 5 °C. It falls by 17 degrees and is then warmed by 8 degrees. What is the final temperature?",
+    "options": [
+     "−20 °C",
+     "4 °C",
+     "−4 °C",
+     "−12 °C"
+    ],
+    "answer": 2,
+    "explanation": "5 − 17 = −12. Then −12 + 8 = −4. Make sure you move the right direction on the number line.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A number is divisible by 4, 6 and 9. What is the smallest positive number it could be?",
+    "options": [
+     "36",
+     "18",
+     "72",
+     "216"
+    ],
+    "answer": 0,
+    "explanation": "This is the LCM of 4, 6 and 9. 4 = 2², 6 = 2 × 3 and 9 = 3², so the LCM is 2² × 3² = 36.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement about −3 is correct?",
+    "options": [
+     "It is a natural number and an integer",
+     "It is an integer and a rational number but not a natural number",
+     "It is an irrational number",
+     "It is a rational number but not an integer"
+    ],
+    "answer": 1,
+    "explanation": "Natural numbers are positive counting numbers. −3 is an integer, and any integer can be written as a fraction such as −3/1, so it is also rational.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How many factors (including 1 and the number itself) does 72 have?",
+    "options": [
+     "8",
+     "9",
+     "18",
+     "12"
+    ],
+    "answer": 3,
+    "explanation": "72 = 2³ × 3². Add one to each power and multiply: (3 + 1)(2 + 1) = 12. The factors are 1, 2, 3, 4, 6, 8, 9, 12, 18, 24, 36 and 72.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "What is the smallest positive integer n so that 180n is a perfect square?",
+    "options": [
+     "5",
+     "2",
+     "3",
+     "20"
+    ],
+    "answer": 0,
+    "explanation": "180 = 2² × 3² × 5. A perfect square needs every prime to appear an even number of times. Only 5 is missing a partner, so n = 5 and 180 × 5 = 900 = 30².",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two positive integers have a highest common factor of 6 and a lowest common multiple of 180. One of the numbers is 30. What is the other?",
+    "options": [
+     "60",
+     "90",
+     "36",
+     "6"
+    ],
+    "answer": 2,
+    "explanation": "The product of two numbers equals the HCF × LCM. 6 × 180 = 1080 and 1080 ÷ 30 = 36. Check: HCF(30, 36) = 6 and LCM = 180.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student wants to show that the sum of two odd numbers is always even. Which approach gives a valid general proof?",
+    "options": [
+     "Test 3 + 5, 7 + 9 and 11 + 13",
+     "Check all odd numbers below 100",
+     "Write the numbers as 2m + 1 and 2n + 1, then show the sum is 2(m + n + 1)",
+     "Show that 1 + 1 is even"
+    ],
+    "answer": 2,
+    "explanation": "Examples can suggest a rule but cannot prove it. An algebraic argument works for every odd number because 2(m + n + 1) is always a multiple of 2.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A warehouse floor is 420 cm by 300 cm. It is to be covered with identical square tiles without cutting, using the largest possible tile. What is the side length of each tile, and how many tiles are needed?",
+    "options": [
+     "60 cm and 35 tiles",
+     "30 cm and 140 tiles",
+     "60 cm and 42 tiles",
+     "120 cm and 8 tiles"
+    ],
+    "answer": 0,
+    "explanation": "The side length must divide both 420 and 300, so use the HCF, 60. Tiles along the length: 420 ÷ 60 = 7. Tiles along the width: 300 ÷ 60 = 5. Total = 35.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Numbers come in families, and knowing which family a number belongs to helps you pick the right method. This sub-topic covers the types of numbers, factors and multiples, the order of operations and the laws of indices.\n\n## Types of numbers\n- **Natural numbers:** 1, 2, 3, 4, ... (counting numbers).\n- **Integers:** whole numbers including negatives and zero: ..., −2, −1, 0, 1, 2, ...\n- **Rational numbers:** any number that can be written as a fraction of two integers. Terminating decimals (0.25) and recurring decimals (0.333...) are rational.\n- **Irrational numbers:** cannot be written as a fraction; their decimals never end or repeat. Examples are π and √2.\n- **Prime numbers:** have exactly two factors, 1 and themselves (2, 3, 5, 7, 11, ...). 1 is not prime.\n\n## Factors, multiples, HCF and LCM\nWrite each number as a product of primes. For 36 = 2² × 3² and 48 = 2⁴ × 3:\n- **HCF** takes the lowest power of each shared prime: 2² × 3 = 12.\n- **LCM** takes the highest power of every prime: 2⁴ × 3² = 144.\nHCF is used for splitting things into equal groups or tiles. LCM is used for repeating events that come together again. Also remember: HCF × LCM = product of the two numbers.\n\nThe number of factors of a number written as p^a × q^b is (a + 1)(b + 1). For 72 = 2³ × 3² this is 4 × 3 = 12.\n\n## Order of operations\nBrackets, Indices (powers and roots), Division and Multiplication (left to right), Addition and Subtraction (left to right). So 3 + 4 × 2² = 3 + 16 = 19.\n\n## Laws of indices\n- a^m × a^n = a^(m+n)\n- a^m ÷ a^n = a^(m−n)\n- (a^m)^n = a^(mn)\n- a⁰ = 1\n- a^(−n) = 1/aⁿ\n- a^(1/2) = √a\n\n## Worked example\nTwo buses leave together at 07:00. One returns every 12 minutes, the other every 18. 12 = 2² × 3 and 18 = 2 × 3², so LCM = 2² × 3² = 36. They next leave together at 07:36.\n\n## Proof and reasoning\nTesting a few cases is not a proof. To show that the sum of two odd numbers is always even, write them as 2m + 1 and 2n + 1. Then the sum is 2m + 2n + 2 = 2(m + n + 1), which is a multiple of 2. Using algebra for general rules is a key investigation skill.\n\n## Common mistakes\n- Mixing up HCF and LCM.\n- Treating 1 as a prime number.\n- Doing addition before multiplication.\n- Thinking a negative power gives a negative answer.\n- Adding indices when the bases are different.\n\n## How this is examined\nQuestions place numbers in a context, such as bus timetables, floor tiling or packing items into boxes, and ask you to decide whether to use the HCF or the LCM. You may be asked to show that a statement is true, to state a general rule in terms of n and test it, and to prove it algebraically.\n\nExam tip: When a question asks you to \"show that\" or \"justify\", write each step clearly, and use algebra rather than examples when the rule must work for every number.",
+  "flashcards": [
+   {
+    "front": "Rational vs irrational",
+    "back": "Rational numbers can be written as a fraction of two integers (including terminating and recurring decimals). Irrational ones, such as π and √2, cannot."
+   },
+   {
+    "front": "Prime number",
+    "back": "A number with exactly two factors: 1 and itself. 1 is not prime and 2 is the only even prime."
+   },
+   {
+    "front": "HCF",
+    "back": "Highest common factor: the largest number that divides all given numbers. Use the lowest powers of the common primes."
+   },
+   {
+    "front": "LCM",
+    "back": "Lowest common multiple: the smallest number that all given numbers divide into. Use the highest power of every prime."
+   },
+   {
+    "front": "HCF × LCM",
+    "back": "For two numbers, HCF × LCM = the product of the two numbers."
+   },
+   {
+    "front": "BIDMAS",
+    "back": "Brackets, Indices, Division and Multiplication, Addition and Subtraction. Work left to right within the same level."
+   },
+   {
+    "front": "Laws of indices",
+    "back": "aᵐ × aⁿ = aᵐ⁺ⁿ; aᵐ ÷ aⁿ = aᵐ⁻ⁿ; (aᵐ)ⁿ = aᵐⁿ; a⁰ = 1; a⁻ⁿ = 1/aⁿ."
+   },
+   {
+    "front": "Number of factors",
+    "back": "If n = pᵃ × qᵇ (primes p, q) then n has (a + 1)(b + 1) factors."
+   },
+   {
+    "front": "Even and odd in algebra",
+    "back": "Even numbers are 2n, odd numbers are 2n + 1 (n an integer). Use these to prove general statements."
+   }
+  ]
+ },
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Number and Proportion",
+  "subTopic": "Fractions, Decimals and Percentages",
+  "questions": [
+   {
+    "content": "Write 3/8 as a decimal.",
+    "options": [
+     "0.38",
+     "0.375",
+     "0.83",
+     "3.8"
+    ],
+    "answer": 1,
+    "explanation": "Divide 3 by 8 to get 0.375. Dividing the larger number by the smaller (8 ÷ 3) is a common error.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Write 35% as a fraction in its simplest form.",
+    "options": [
+     "35/10",
+     "3/5",
+     "35/1000",
+     "7/20"
+    ],
+    "answer": 3,
+    "explanation": "35% = 35/100. Divide top and bottom by 5 to get 7/20.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is 2/3 + 1/4?",
+    "options": [
+     "11/12",
+     "3/7",
+     "3/12",
+     "2/12"
+    ],
+    "answer": 0,
+    "explanation": "Use a common denominator of 12: 8/12 + 3/12 = 11/12. Do not add the numerators and denominators separately.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is 15% of 240?",
+    "options": [
+     "24",
+     "15",
+     "36",
+     "360"
+    ],
+    "answer": 2,
+    "explanation": "10% of 240 is 24 and 5% is 12. Add them: 24 + 12 = 36.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is the LARGEST?",
+    "options": [
+     "0.6",
+     "62%",
+     "5/8",
+     "0.059"
+    ],
+    "answer": 2,
+    "explanation": "In decimals the values are 0.6, 0.625, 0.62 and 0.059. So 5/8 = 0.625 is the largest.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A town's population grows from 40 000 to 52 000. What is the percentage increase?",
+    "options": [
+     "30%",
+     "12%",
+     "23%",
+     "130%"
+    ],
+    "answer": 0,
+    "explanation": "Increase = 12 000. Percentage increase = 12 000 ÷ 40 000 × 100 = 30%. Always divide by the original value.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A jacket costs €85. In a sale it is reduced by 20%. What is the sale price?",
+    "options": [
+     "€65",
+     "€17",
+     "€102",
+     "€68"
+    ],
+    "answer": 3,
+    "explanation": "20% of 85 = 17 so the new price is 85 − 17 = 68. Or multiply by 0.8 directly.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "After a 15% increase, a subscription costs $92. What was the original price?",
+    "options": [
+     "$78.20",
+     "$80",
+     "$77.00",
+     "$105.80"
+    ],
+    "answer": 1,
+    "explanation": "The new price is 115% of the original. Original = 92 ÷ 1.15 = 80. Subtracting 15% of 92 gives the wrong value.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "$2000 is invested at 4% compound interest per year. What is the value after 3 years, to the nearest cent?",
+    "options": [
+     "$2240.00",
+     "$2120.00",
+     "$2500.00",
+     "$2249.73"
+    ],
+    "answer": 3,
+    "explanation": "Multiply by 1.04 three times: 2000 × 1.04³ = 2249.728. Simple interest would give $2240.00, which ignores interest on interest.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is 3/4 ÷ 2/5?",
+    "options": [
+     "3/10",
+     "15/8",
+     "6/20",
+     "8/15"
+    ],
+    "answer": 1,
+    "explanation": "Keep the first fraction, flip the second and multiply: 3/4 × 5/2 = 15/8.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which fraction is equal to the recurring decimal 0.363636...?",
+    "options": [
+     "36/100",
+     "3/8",
+     "4/11",
+     "9/25"
+    ],
+    "answer": 2,
+    "explanation": "Let x = 0.3636... Then 100x = 36.3636..., so 99x = 36 and x = 36/99 = 4/11.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is 2⅓ × 1½ as a mixed number?",
+    "options": [
+     "3½",
+     "2½",
+     "3⅓",
+     "4"
+    ],
+    "answer": 0,
+    "explanation": "Convert to improper fractions: 7/3 × 3/2 = 21/6 = 7/2. As a mixed number that is 3½.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A model of a bridge pier is measured as 48.6 cm. The true design value is 50 cm. What is the percentage error?",
+    "options": [
+     "1.4%",
+     "2.8%",
+     "2.9%",
+     "97.2%"
+    ],
+    "answer": 1,
+    "explanation": "Error = 50 − 48.6 = 1.4 cm. Percentage error = 1.4 ÷ 50 × 100 = 2.8%. Divide by the true value, not the measured value.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A company's profit falls by 10% in one year and then rises by 10% the next. How does the profit now compare with the start?",
+    "options": [
+     "It is the same",
+     "It is 1% higher",
+     "It is 10% lower",
+     "It is 1% lower"
+    ],
+    "answer": 3,
+    "explanation": "Multiply: 0.9 × 1.1 = 0.99. The 10% rise is applied to a smaller amount, so the final profit is 99% of the original.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A phone is reduced by 20% and then a further 10% is taken off the sale price. What single percentage discount is equivalent?",
+    "options": [
+     "28%",
+     "30%",
+     "18%",
+     "72%"
+    ],
+    "answer": 0,
+    "explanation": "0.8 × 0.9 = 0.72 so the customer pays 72%. The discount is 100 − 72 = 28%. Percentages cannot just be added.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A car costs $18 000 and loses 15% of its value each year. What is its value after 2 years?",
+    "options": [
+     "$12 600",
+     "$12 150",
+     "$13 005",
+     "$15 300"
+    ],
+    "answer": 2,
+    "explanation": "Multiply by 0.85 twice: 18 000 × 0.85² = 13 005. Taking off 30% in one go would give 12 600.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "In a town, 3/5 of the electricity comes from wind. Of the REMAINDER, 1/4 comes from solar. The rest comes from other sources. What fraction of the electricity comes from other sources?",
+    "options": [
+     "3/20",
+     "1/4",
+     "3/10",
+     "2/5"
+    ],
+    "answer": 2,
+    "explanation": "The remainder after wind is 2/5. Solar supplies 1/4 of that, which is 1/10. Others = 2/5 − 1/10 = 3/10. Equivalently 3/4 of 2/5 = 3/10.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A savings account grows by 6% per year compound. What is the smallest whole number of years for the balance to more than double?",
+    "options": [
+     "12",
+     "11",
+     "8",
+     "17"
+    ],
+    "answer": 0,
+    "explanation": "1.06¹¹ ≈ 1.898 which is less than 2. 1.06¹² ≈ 2.012 which is more than 2. So 12 years are needed. Dividing 100 by 6 would wrongly suggest 17.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Fractions, decimals and percentages are three ways of writing the same quantity, and you need to move between them fluently. Real-world problems with money, populations and measurements nearly always use them.\n\n## Converting between forms\n- Fraction → decimal: divide the numerator by the denominator (3/8 = 3 ÷ 8 = 0.375).\n- Decimal → percentage: multiply by 100 (0.375 = 37.5%).\n- Percentage → fraction: write over 100 and simplify (35% = 35/100 = 7/20).\n- Recurring decimals: for 0.3636..., let x = 0.3636..., then 100x − x = 36, so x = 36/99 = 4/11.\n\nTo compare values, put them all in the same form, usually decimals.\n\n## Operations with fractions\n- Add or subtract: use a common denominator. 2/3 + 1/4 = 8/12 + 3/12 = 11/12.\n- Multiply: multiply the tops and the bottoms. \n- Divide: flip the second fraction and multiply. 3/4 ÷ 2/5 = 3/4 × 5/2 = 15/8.\n- Mixed numbers: convert to improper fractions first.\n\n## Percentage change\nPercentage change = change ÷ original × 100. To increase by 15% multiply by 1.15. To decrease by 20% multiply by 0.8. These multipliers are the key to harder problems.\n\n**Reverse percentages:** if a price after a 15% increase is $92, then 92 is 115% of the original. Divide by the multiplier: 92 ÷ 1.15 = 80.\n\n**Repeated change and compound interest:** multiply by the multiplier for each period. $2000 at 4% for 3 years: 2000 × 1.04³ = $2249.73. Two changes of +10% and −10% do NOT cancel: 1.1 × 0.9 = 0.99.\n\n## Percentage error\nPercentage error = |measured value − true value| ÷ true value × 100. Use it to judge the accuracy of a measurement or a model. A model measuring 48.6 cm where the true value is 50 cm has an error of 1.4 ÷ 50 × 100 = 2.8%.\n\n## Worked example\nA phone is reduced by 20% then a further 10%. Multiplier = 0.8 × 0.9 = 0.72. So the combined discount is 28%, not 30%.\n\n## Common mistakes\n- Dividing by the new value instead of the original in percentage change.\n- Subtracting 15% when you need to undo a 15% increase.\n- Adding the percentages from repeated changes.\n- Adding fractions by adding the denominators.\n- Using simple interest when compound interest is stated.\n\n## How this is examined\nExpect a short real-world context, such as a sale, a population or a savings plan, with several parts: calculate a value, show that a result is correct, and then evaluate a model, for example by checking the percentage error or commenting on rounding. Extended tasks ask you to compare two options and justify which is better.\n\nExam tip: Write the multiplier before you calculate (for example \"× 1.04³\"). It shows your method, reduces errors and often earns method marks even if the arithmetic slips.",
+  "flashcards": [
+   {
+    "front": "Percentage change formula",
+    "back": "Change ÷ original × 100. Always divide by the ORIGINAL value."
+   },
+   {
+    "front": "Multiplier for +15% and −20%",
+    "back": "Increase by 15%: × 1.15. Decrease by 20%: × 0.8."
+   },
+   {
+    "front": "Reverse percentage",
+    "back": "Divide the new value by the multiplier. If the price rose 15% to $92, original = 92 ÷ 1.15 = $80."
+   },
+   {
+    "front": "Compound interest",
+    "back": "Amount = original × (multiplier)ⁿ, where n is the number of periods. $2000 at 4% for 3 years = 2000 × 1.04³."
+   },
+   {
+    "front": "Adding fractions",
+    "back": "Write with a common denominator, then add the numerators only: 2/3 + 1/4 = 8/12 + 3/12 = 11/12."
+   },
+   {
+    "front": "Dividing fractions",
+    "back": "Keep, flip, multiply: a/b ÷ c/d = a/b × d/c."
+   },
+   {
+    "front": "Recurring decimal to fraction",
+    "back": "Let x = the decimal, multiply by 10 or 100 so the repeat lines up, subtract, and solve. 0.3636... = 36/99 = 4/11."
+   },
+   {
+    "front": "Percentage error",
+    "back": "|measured − true| ÷ true × 100. It measures how accurate a value or model is."
+   },
+   {
+    "front": "Successive percentage changes",
+    "back": "Multiply the multipliers. A 20% drop then a 10% drop gives 0.8 × 0.9 = 0.72, a 28% total drop."
+   }
+  ]
+ },
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Number and Proportion",
+  "subTopic": "Standard Form and Estimation",
+  "questions": [
+   {
+    "content": "Write 4 500 000 in standard form.",
+    "options": [
+     "45 × 10⁵",
+     "4.5 × 10⁶",
+     "4.5 × 10⁵",
+     "0.45 × 10⁷"
+    ],
+    "answer": 1,
+    "explanation": "Standard form is a × 10ⁿ with 1 ≤ a < 10. The decimal point moves 6 places, so n = 6.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Write 0.00032 in standard form.",
+    "options": [
+     "3.2 × 10⁴",
+     "3.2 × 10⁻³",
+     "32 × 10⁻⁵",
+     "3.2 × 10⁻⁴"
+    ],
+    "answer": 3,
+    "explanation": "Numbers smaller than 1 have a negative power. The decimal point moves 4 places to the right, so the power is −4.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Round 3.4567 to 3 significant figures.",
+    "options": [
+     "3.46",
+     "3.45",
+     "3.457",
+     "3.5"
+    ],
+    "answer": 0,
+    "explanation": "The first three significant figures are 3.45. The next digit is 6, so round up to 3.46.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Write 7.2 × 10³ as an ordinary number.",
+    "options": [
+     "72 000",
+     "720",
+     "7200",
+     "0.0072"
+    ],
+    "answer": 2,
+    "explanation": "Multiplying by 10³ moves the decimal point 3 places to the right: 7.2 → 7200.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Round 0.004567 to 2 significant figures.",
+    "options": [
+     "0.0045",
+     "0.00",
+     "0.0046",
+     "0.046"
+    ],
+    "answer": 2,
+    "explanation": "The leading zeros do not count as significant figures. The first two significant figures are 4 and 5, and the next digit 6 rounds the 5 up to 6.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is (3 × 10⁴) × (2 × 10³) in standard form?",
+    "options": [
+     "6 × 10⁷",
+     "6 × 10¹²",
+     "5 × 10⁷",
+     "6 × 10⁶"
+    ],
+    "answer": 0,
+    "explanation": "Multiply the numbers: 3 × 2 = 6. Add the powers: 4 + 3 = 7.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is (8 × 10⁶) ÷ (4 × 10²) in standard form?",
+    "options": [
+     "2 × 10³",
+     "2 × 10⁸",
+     "4 × 10⁴",
+     "2 × 10⁴"
+    ],
+    "answer": 3,
+    "explanation": "Divide the numbers: 8 ÷ 4 = 2. Subtract the powers: 6 − 2 = 4.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is 6.5 × 10⁴ + 3.5 × 10⁴ in standard form?",
+    "options": [
+     "10 × 10⁴",
+     "1 × 10⁵",
+     "10 × 10⁸",
+     "1 × 10⁴"
+    ],
+    "answer": 1,
+    "explanation": "Adding gives 10 × 10⁴, but the first number must be between 1 and 10 (10 is not allowed). 10 × 10⁴ = 1 × 10⁵.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Light travels at 3.0 × 10⁸ m/s. The Sun is 1.5 × 10¹¹ m from Earth. How long does light take to reach Earth?",
+    "options": [
+     "5 × 10¹⁹ s",
+     "200 s",
+     "0.002 s",
+     "500 s"
+    ],
+    "answer": 3,
+    "explanation": "Time = distance ÷ speed = (1.5 × 10¹¹) ÷ (3.0 × 10⁸) = 0.5 × 10³ = 500 s.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Estimate 4.87 × 19.8 ÷ 2.03 by rounding each number to 1 significant figure.",
+    "options": [
+     "5",
+     "50",
+     "500",
+     "40"
+    ],
+    "answer": 1,
+    "explanation": "Round to 5 × 20 ÷ 2 = 100 ÷ 2 = 50. The exact answer is about 47.5, so the estimate is reasonable.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of these is NOT written in standard form?",
+    "options": [
+     "1.2 × 10⁴",
+     "9.99 × 10⁻²",
+     "12 × 10³",
+     "5 × 10⁰"
+    ],
+    "answer": 2,
+    "explanation": "The first number in standard form must be at least 1 and less than 10. 12 is too big, so it should be written as 1.2 × 10⁴.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A region has a population of 7.9 × 10⁹ and each person uses 25 litres of water per day. What is the total daily use in standard form?",
+    "options": [
+     "1.975 × 10¹¹ litres",
+     "1.975 × 10¹⁰ litres",
+     "19.75 × 10¹⁰ litres",
+     "1.975 × 10⁸ litres"
+    ],
+    "answer": 0,
+    "explanation": "7.9 × 10⁹ × 25 = 197.5 × 10⁹ = 1.975 × 10¹¹. Check the number is between 1 and 10 when you finish.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A rectangular floor panel is measured as 4.8 m by 6.1 m. Estimate its area by rounding each length to 1 significant figure.",
+    "options": [
+     "24 m²",
+     "30 m²",
+     "35 m²",
+     "29.28 m²"
+    ],
+    "answer": 1,
+    "explanation": "Round to 5 m × 6 m = 30 m². The exact value 29.28 m² shows the estimate is close.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is (2.4 × 10⁵)² in standard form?",
+    "options": [
+     "5.76 × 10⁷",
+     "4.8 × 10¹⁰",
+     "57.6 × 10⁹",
+     "5.76 × 10¹⁰"
+    ],
+    "answer": 3,
+    "explanation": "Square both parts: 2.4² = 5.76 and (10⁵)² = 10¹⁰. Do not multiply the number part by 2.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "What is 5.2 × 10⁻³ + 3.4 × 10⁻⁴ in standard form?",
+    "options": [
+     "5.54 × 10⁻³",
+     "8.6 × 10⁻³",
+     "8.6 × 10⁻⁷",
+     "5.54 × 10⁻⁴"
+    ],
+    "answer": 0,
+    "explanation": "Write both with the same power: 5.2 × 10⁻³ + 0.34 × 10⁻³ = 5.54 × 10⁻³. Check: 0.0052 + 0.00034 = 0.00554.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A light-year is 9.46 × 10¹⁵ m. A star is 4.2 light-years from the Sun. What is its distance in metres, to 3 significant figures?",
+    "options": [
+     "3.97 × 10¹⁵ m",
+     "39.7 × 10¹⁵ m",
+     "3.97 × 10¹⁶ m",
+     "2.25 × 10¹⁵ m"
+    ],
+    "answer": 2,
+    "explanation": "9.46 × 4.2 = 39.732, so the distance is 39.732 × 10¹⁵ m. In standard form this is 3.9732 × 10¹⁶, which is 3.97 × 10¹⁶ m to 3 s.f.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student estimates (8.9 × 3.1²) ÷ 0.48 by rounding to 1 significant figure, giving (9 × 3²) ÷ 0.5 = 162. The calculator value is about 178. Which statement best explains why the estimate is too low?",
+    "options": [
+     "Rounding 8.9 up made the result smaller",
+     "Estimates are always lower than exact values",
+     "Rounding 3.1 down and 0.48 up both make the result smaller",
+     "Squaring the number caused the error"
+    ],
+    "answer": 2,
+    "explanation": "Rounding 3.1 down to 3 reduces the numerator, and rounding 0.48 up to 0.5 increases the denominator. Both effects reduce the answer. Rounding 8.9 up actually increases it slightly.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A processor does 2.5 × 10⁹ operations per second. There are 3.15 × 10⁷ seconds in a year. How many operations does it perform in a year, to 2 significant figures?",
+    "options": [
+     "7.9 × 10¹⁶",
+     "7.9 × 10¹⁷",
+     "7.8 × 10¹⁶",
+     "5.7 × 10¹⁶"
+    ],
+    "answer": 0,
+    "explanation": "Multiply: 2.5 × 3.15 = 7.875 and 10⁹ × 10⁷ = 10¹⁶. So 7.875 × 10¹⁶, which is 7.9 × 10¹⁶ to 2 s.f.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Scientists, engineers and economists regularly work with very large and very small numbers. Standard form and estimation help us write, compare and check them.\n\n## Standard form\nA number is in standard form when it is written as a × 10ⁿ, where 1 ≤ a < 10 and n is an integer.\n- Large numbers have positive powers: 4 500 000 = 4.5 × 10⁶.\n- Small numbers have negative powers: 0.00032 = 3.2 × 10⁻⁴.\n- Check: 12 × 10³ is NOT in standard form because 12 is bigger than 10. It should be 1.2 × 10⁴.\n\n## Calculating in standard form\n- **Multiply:** multiply the number parts and add the powers. (3 × 10⁴) × (2 × 10³) = 6 × 10⁷.\n- **Divide:** divide the number parts and subtract the powers. (8 × 10⁶) ÷ (4 × 10²) = 2 × 10⁴.\n- **Add or subtract:** first write both numbers with the same power of 10. 5.2 × 10⁻³ + 0.34 × 10⁻³ = 5.54 × 10⁻³.\n- **Squaring:** square both parts. (2.4 × 10⁵)² = 5.76 × 10¹⁰.\nAfter any calculation, check the answer is still in standard form.\n\n## Rounding\n- **Decimal places (d.p.)** count digits after the decimal point.\n- **Significant figures (s.f.)** count from the first non-zero digit. 0.004567 to 2 s.f. is 0.0046.\nLook at the next digit: 5 or more rounds up, 4 or less stays. Do not round in the middle of a multi-step calculation; round only the final answer.\n\n## Estimation\nRound each number to 1 significant figure before calculating, to check that an answer is sensible. 4.87 × 19.8 ÷ 2.03 ≈ 5 × 20 ÷ 2 = 50. The calculator gives 47.5, close enough to be believable. An estimate with a big mismatch means you have made an error, such as a misplaced decimal point.\n\n## Worked example\nLight takes how long to travel 1.5 × 10¹¹ m at 3.0 × 10⁸ m/s? Time = (1.5 × 10¹¹) ÷ (3.0 × 10⁸) = 0.5 × 10³ = 500 s, which is about 8 minutes.\n\n## Common mistakes\n- Leaving an answer such as 10 × 10⁴ unadjusted.\n- Adding the powers when adding two numbers.\n- Counting leading zeros as significant figures.\n- Rounding too early.\n- Using a negative power for a large number.\n\n## How this is examined\nQuestions place standard form in a science or engineering context: distances in space, masses of particles, computer storage or populations. You will calculate, give the answer to a stated degree of accuracy and comment on whether the answer is reasonable. Extended tasks ask you to identify the limitations of rounding, for example how an estimate may over- or underestimate the true value.\n\nExam tip: Show your 1 s.f. estimate on the page. Even when the question does not demand it, it proves your answer is sensible and gives you marks for reasoning.",
+  "flashcards": [
+   {
+    "front": "Standard form",
+    "back": "a × 10ⁿ where 1 ≤ a < 10 and n is an integer. Large numbers have positive n, small numbers negative n."
+   },
+   {
+    "front": "Multiply in standard form",
+    "back": "Multiply the number parts, add the powers of 10. Then re-adjust so the number part is between 1 and 10."
+   },
+   {
+    "front": "Divide in standard form",
+    "back": "Divide the number parts, subtract the powers of 10. Re-adjust if needed."
+   },
+   {
+    "front": "Add or subtract in standard form",
+    "back": "Write both numbers with the same power of 10 first, then add or subtract the number parts."
+   },
+   {
+    "front": "Significant figures",
+    "back": "Count from the first non-zero digit. Leading zeros are not significant. 0.004567 to 2 s.f. = 0.0046."
+   },
+   {
+    "front": "Decimal places",
+    "back": "The number of digits after the decimal point. Look at the next digit to decide whether to round up."
+   },
+   {
+    "front": "How to estimate",
+    "back": "Round each number to 1 significant figure, then calculate. Use the result to check that your exact answer is reasonable."
+   },
+   {
+    "front": "Common standard form error",
+    "back": "Writing a number such as 12 × 10³ or 0.5 × 10⁴. The number part must be at least 1 and less than 10."
+   },
+   {
+    "front": "When to round",
+    "back": "Only round the final answer. Rounding at intermediate steps can make the final answer inaccurate."
+   }
+  ]
+ },
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Number and Proportion",
+  "subTopic": "Ratio, Proportion and Rates",
+  "questions": [
+   {
+    "content": "Simplify the ratio 18 : 24.",
+    "options": [
+     "9 : 12",
+     "3 : 4",
+     "6 : 8",
+     "18 : 24"
+    ],
+    "answer": 1,
+    "explanation": "Divide both parts by their HCF, 6, to get 3 : 4. 9 : 12 and 6 : 8 are equivalent but not fully simplified.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "$60 is shared in the ratio 2 : 3. How much is the larger share?",
+    "options": [
+     "$24",
+     "$30",
+     "$40",
+     "$36"
+    ],
+    "answer": 3,
+    "explanation": "There are 2 + 3 = 5 parts. Each part is 60 ÷ 5 = 12. The larger share is 3 × 12 = 36.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A train travels 150 km in 2 hours at constant speed. What is its speed?",
+    "options": [
+     "75 km/h",
+     "300 km/h",
+     "148 km/h",
+     "0.013 km/h"
+    ],
+    "answer": 0,
+    "explanation": "Speed = distance ÷ time = 150 ÷ 2 = 75 km/h.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A map has a scale of 1 : 50 000. Two towns are 4 cm apart on the map. What is the real distance?",
+    "options": [
+     "200 km",
+     "20 km",
+     "2 km",
+     "0.2 km"
+    ],
+    "answer": 2,
+    "explanation": "4 × 50 000 = 200 000 cm. Convert: 200 000 cm = 2000 m = 2 km.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A recipe for 4 people uses 300 g of rice. How much rice is needed for 6 people?",
+    "options": [
+     "400 g",
+     "500 g",
+     "450 g",
+     "200 g"
+    ],
+    "answer": 2,
+    "explanation": "The amount per person is 300 ÷ 4 = 75 g. For 6 people: 75 × 6 = 450 g.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "It takes 6 workers 10 days to finish a road repair. All workers work at the same rate. How long would 15 workers take?",
+    "options": [
+     "4 days",
+     "25 days",
+     "9 days",
+     "1 day"
+    ],
+    "answer": 0,
+    "explanation": "This is inverse proportion. Total work = 6 × 10 = 60 worker-days. With 15 workers: 60 ÷ 15 = 4 days.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A metal block has mass 540 g and volume 200 cm³. What is its density?",
+    "options": [
+     "0.37 g/cm³",
+     "340 g/cm³",
+     "108 000 g/cm³",
+     "2.7 g/cm³"
+    ],
+    "answer": 3,
+    "explanation": "Density = mass ÷ volume = 540 ÷ 200 = 2.7 g/cm³.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A shop sells rice in three packs: 500 g for $2.40, 750 g for $3.45 and 1 kg for $4.90. Which is the best value?",
+    "options": [
+     "The 500 g pack",
+     "The 750 g pack",
+     "The 1 kg pack",
+     "All have the same value"
+    ],
+    "answer": 1,
+    "explanation": "Price per gram: 0.0048, 0.0046 and 0.0049. The 750 g pack is the cheapest per gram, so the biggest pack is not always the best buy.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The exchange rate is €1 = £0.86. How many pounds is €250?",
+    "options": [
+     "£290.70",
+     "£250",
+     "£21.50",
+     "£215"
+    ],
+    "answer": 3,
+    "explanation": "Multiply by 0.86: 250 × 0.86 = 215. If you divide you will get the wrong direction.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a school the ratio of boys to girls is 3 : 5. There are 24 boys. How many girls are there?",
+    "options": [
+     "15",
+     "40",
+     "64",
+     "9"
+    ],
+    "answer": 1,
+    "explanation": "One part is 24 ÷ 3 = 8 students. The number of girls = 5 × 8 = 40.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Write the ratio 1 : 2.5 in the form 2 : n.",
+    "options": [
+     "2 : 2.5",
+     "2 : 3.5",
+     "2 : 5",
+     "2 : 4"
+    ],
+    "answer": 2,
+    "explanation": "Multiply both parts by 2: 1 × 2 = 2 and 2.5 × 2 = 5.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A cyclist travels at 90 km/h on a downhill road. Convert this speed to metres per second.",
+    "options": [
+     "25 m/s",
+     "324 m/s",
+     "1.5 m/s",
+     "90 000 m/s"
+    ],
+    "answer": 0,
+    "explanation": "90 km = 90 000 m and 1 hour = 3600 s. So 90 000 ÷ 3600 = 25 m/s.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Concrete is made from cement, sand and gravel in the ratio 1 : 2 : 4. A builder needs 3.5 m³ of concrete. How much sand is required?",
+    "options": [
+     "0.5 m³",
+     "1 m³",
+     "2 m³",
+     "3.5 m³"
+    ],
+    "answer": 1,
+    "explanation": "The total number of parts is 1 + 2 + 4 = 7. One part is 3.5 ÷ 7 = 0.5 m³. Sand is 2 parts = 1 m³.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A driver covers the first 60 km of a journey at 40 km/h, and the next 60 km at 60 km/h. What is the average speed for the whole journey?",
+    "options": [
+     "50 km/h",
+     "45 km/h",
+     "100 km/h",
+     "48 km/h"
+    ],
+    "answer": 3,
+    "explanation": "Time for the first part = 60 ÷ 40 = 1.5 h and for the second 60 ÷ 60 = 1 h. Average speed = 120 ÷ 2.5 = 48 km/h. It is not the mean of 40 and 60.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "y is directly proportional to x². When x = 2, y = 12. What is y when x = 5?",
+    "options": [
+     "75",
+     "30",
+     "60",
+     "150"
+    ],
+    "answer": 0,
+    "explanation": "y = kx², so 12 = k × 4 and k = 3. Then y = 3 × 25 = 75. Proportional to x² is not the same as proportional to x.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "a : b = 2 : 3 and b : c = 4 : 5. What is a : b : c?",
+    "options": [
+     "2 : 3 : 5",
+     "2 : 3 : 4",
+     "8 : 12 : 15",
+     "6 : 9 : 15"
+    ],
+    "answer": 2,
+    "explanation": "Make the values of b equal. Multiply a : b by 4 to get 8 : 12 and b : c by 3 to get 12 : 15. So a : b : c = 8 : 12 : 15.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A tank is filled by Tap A alone, at 12 litres per minute, in 50 minutes. Tap B delivers 8 litres per minute. How long will it take to fill the tank using both taps together?",
+    "options": [
+     "20 minutes",
+     "25 minutes",
+     "30 minutes",
+     "42 minutes"
+    ],
+    "answer": 2,
+    "explanation": "Capacity = 12 × 50 = 600 litres. Together they deliver 20 litres per minute so the time is 600 ÷ 20 = 30 minutes.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A model of a bridge is built at a scale of 1 : 250. The deck of the model has an area of 12 cm². What is the area of the real deck?",
+    "options": [
+     "75 m²",
+     "300 m²",
+     "3000 cm²",
+     "0.75 m²"
+    ],
+    "answer": 0,
+    "explanation": "Area scales by the square of the length scale factor: 12 × 250² = 750 000 cm². Dividing by 10 000 gives 75 m². Using 250 instead of 250² gives the common wrong answer.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Ratio and proportion describe how quantities compare and change together. They appear everywhere, from recipes and maps to speed, density and scale models.\n\n## Ratio\nA ratio compares quantities in the same units. To simplify, divide each part by the HCF: 18 : 24 = 3 : 4.\nTo share an amount in a ratio:\n- Add the parts (2 + 3 = 5).\n- Find one part (60 ÷ 5 = 12).\n- Multiply for each share (24 and 36).\nIf you know one part of a ratio, find the value of one part first. For boys : girls = 3 : 5 with 24 boys, one part = 8, so girls = 40.\n\n## Direct and inverse proportion\n- **Direct proportion:** when one quantity doubles, the other doubles. y = kx. Cost and mass are in direct proportion.\n- **Inverse proportion:** when one doubles, the other halves. xy = k. The number of workers and the time to finish a job are inversely proportional: 6 workers × 10 days = 60 worker-days, so 15 workers take 4 days.\n- **Other relationships:** y = kx² means y is proportional to the square of x. Find k from a known pair of values and then use it.\n\n## Rates\nA rate compares quantities with different units.\n- Speed = distance ÷ time\n- Density = mass ÷ volume\n- Unit price = cost ÷ quantity\nFor average speed, always use total distance ÷ total time, not the mean of the speeds. To compare best buys, calculate the price per unit (for example per gram).\n\nConverting units: 90 km/h = 90 000 m ÷ 3600 s = 25 m/s.\n\n## Scale\nA scale 1 : 50 000 means 1 cm on the map is 50 000 cm in real life. Lengths scale by the scale factor k, areas by k², and volumes by k³. So for a bridge model at 1 : 250, a deck area of 12 cm² represents 12 × 250² = 750 000 cm² = 75 m².\n\n## Worked example\nA tank takes 50 minutes to fill at 12 L/min, so it holds 600 L. Another tap adds 8 L/min. Together they give 20 L/min, so the time is 600 ÷ 20 = 30 minutes.\n\n## Common mistakes\n- Not converting to the same units before forming a ratio.\n- Averaging speeds instead of using total distance over total time.\n- Using the scale factor on an area without squaring it.\n- Mixing up direct and inverse proportion.\n- Assuming the largest pack is always the best value.\n\n## How this is examined\nExpect a multi-part context such as a pipeline, a model bridge, a wind farm or fuel use. Early parts ask you to calculate a rate or share an amount. Later parts ask you to justify a conclusion, state assumptions (such as constant speed) and evaluate how accurate the model is. In investigations you may be asked to find a rule in terms of n, test it and prove it.\n\nExam tip: Always state units in your answer, and write the assumption (such as \"assuming the speed is constant\") when the question asks you to justify or evaluate.",
+  "flashcards": [
+   {
+    "front": "Sharing in a ratio",
+    "back": "Add the parts, divide the total by that number to get one part, then multiply by each ratio part."
+   },
+   {
+    "front": "Direct proportion",
+    "back": "y = kx. Doubling x doubles y. The graph is a straight line through the origin."
+   },
+   {
+    "front": "Inverse proportion",
+    "back": "xy = k. Doubling x halves y. Example: more workers means fewer days for the same job."
+   },
+   {
+    "front": "Speed, distance, time",
+    "back": "Speed = distance ÷ time; distance = speed × time; time = distance ÷ speed."
+   },
+   {
+    "front": "Density",
+    "back": "Density = mass ÷ volume. Typical units are g/cm³ or kg/m³."
+   },
+   {
+    "front": "Average speed",
+    "back": "Total distance ÷ total time. It is not the mean of the speeds."
+   },
+   {
+    "front": "Best buy",
+    "back": "Work out the cost per unit (e.g. per gram or per litre) for each option and compare. The cheapest per unit is the best value."
+   },
+   {
+    "front": "Scale factors",
+    "back": "If lengths scale by k, areas scale by k² and volumes by k³."
+   },
+   {
+    "front": "km/h to m/s",
+    "back": "Divide by 3.6. For example 90 km/h ÷ 3.6 = 25 m/s."
+   }
+  ]
+ }
+]

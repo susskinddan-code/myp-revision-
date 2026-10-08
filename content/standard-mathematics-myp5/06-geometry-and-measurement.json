@@ -1,0 +1,1317 @@
+[
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Geometry and Measurement",
+  "subTopic": "Angles and Polygons",
+  "questions": [
+   {
+    "content": "Two angles lie on a straight line. One is 112°. What is the other angle?",
+    "options": [
+     "78°",
+     "68°",
+     "248°",
+     "58°"
+    ],
+    "answer": 1,
+    "explanation": "Angles on a straight line add up to 180°, so 180° − 112° = 68°.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the sum of the interior angles of a hexagon?",
+    "options": [
+     "720°",
+     "540°",
+     "1080°",
+     "360°"
+    ],
+    "answer": 0,
+    "explanation": "Use (n − 2) × 180° with n = 6: 4 × 180° = 720°.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A regular octagon is used as the base of a gazebo. What is the size of one exterior angle?",
+    "options": [
+     "135°",
+     "40°",
+     "60°",
+     "45°"
+    ],
+    "answer": 3,
+    "explanation": "Exterior angles of any polygon total 360°, so each one is 360° ÷ 8 = 45°. (135° is the interior angle.)",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Two angles of a triangle are 47° and 85°. What is the third angle?",
+    "options": [
+     "38°",
+     "132°",
+     "48°",
+     "58°"
+    ],
+    "answer": 2,
+    "explanation": "Angles in a triangle sum to 180°. 47° + 85° = 132°, and 180° − 132° = 48°.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Two parallel roads are crossed by a third road. One angle at the first crossing is 63°. The alternate angle at the second crossing is:",
+    "options": [
+     "117°",
+     "63°",
+     "27°",
+     "180°"
+    ],
+    "answer": 1,
+    "explanation": "Alternate angles between parallel lines are equal (a Z shape). 117° would be the co-interior angle.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the size of each interior angle of a regular pentagon?",
+    "options": [
+     "108°",
+     "72°",
+     "120°",
+     "540°"
+    ],
+    "answer": 0,
+    "explanation": "The interior angles total (5 − 2) × 180° = 540°, so each is 540° ÷ 5 = 108°. (72° is the exterior angle.)",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A regular polygon has exterior angles of 24°. How many sides does it have?",
+    "options": [
+     "14",
+     "12",
+     "16",
+     "15"
+    ],
+    "answer": 3,
+    "explanation": "The number of sides is 360° ÷ exterior angle = 360 ÷ 24 = 15.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The interior angles of a polygon add up to 1260°. How many sides does the polygon have?",
+    "options": [
+     "7",
+     "8",
+     "9",
+     "10"
+    ],
+    "answer": 2,
+    "explanation": "(n − 2) × 180 = 1260, so n − 2 = 7 and n = 9.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Two parallel lines are cut by a transversal. Two co-interior angles are (2x + 10)° and (3x + 20)°. What is x?",
+    "options": [
+     "34",
+     "30",
+     "40",
+     "26"
+    ],
+    "answer": 1,
+    "explanation": "Co-interior angles add up to 180°: 5x + 30 = 180, so 5x = 150 and x = 30. Check: 70° + 110° = 180°.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An isosceles triangle has an apex angle of 40°. What is each base angle?",
+    "options": [
+     "70°",
+     "140°",
+     "40°",
+     "100°"
+    ],
+    "answer": 0,
+    "explanation": "The base angles are equal and the three angles total 180°: (180 − 40) ÷ 2 = 70°.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A tiler wants a pattern of identical regular polygons that meet at a point with no gaps, using interior angles of 150° each. How many sides does each polygon have?",
+    "options": [
+     "10",
+     "15",
+     "14",
+     "12"
+    ],
+    "answer": 3,
+    "explanation": "Exterior angle = 180° − 150° = 30°, so sides = 360 ÷ 30 = 12.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The angles of a quadrilateral are x°, 2x°, 3x° and 4x°. What is the size of the largest angle?",
+    "options": [
+     "36°",
+     "120°",
+     "144°",
+     "100°"
+    ],
+    "answer": 2,
+    "explanation": "The angles of a quadrilateral total 360°, so 10x = 360 and x = 36. The largest angle is 4 × 36° = 144°.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Angle (3x + 5)° is a corresponding angle to an 80° angle between parallel lines. What is x?",
+    "options": [
+     "75",
+     "25",
+     "28.3",
+     "85"
+    ],
+    "answer": 1,
+    "explanation": "Corresponding angles are equal: 3x + 5 = 80, so 3x = 75 and x = 25.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "At one vertex of a tiling pattern, a regular pentagon and a regular hexagon meet, with a gap left over. What is the size of the gap angle?",
+    "options": [
+     "132°",
+     "120°",
+     "108°",
+     "228°"
+    ],
+    "answer": 0,
+    "explanation": "Angles around a point total 360°. Interior angles are 108° (pentagon) and 120° (hexagon), so 360° − 108° − 120° = 132°.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A seven-sided polygon has six angles of 140° and one remaining angle. What is the remaining angle?",
+    "options": [
+     "140°",
+     "80°",
+     "100°",
+     "60°"
+    ],
+    "answer": 3,
+    "explanation": "The interior angles total (7 − 2) × 180° = 900°. Six angles of 140° use 840°, leaving 900° − 840° = 60°.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A regular polygon has an interior angle that is exactly 4 times its exterior angle. How many sides does it have?",
+    "options": [
+     "8",
+     "5",
+     "10",
+     "12"
+    ],
+    "answer": 2,
+    "explanation": "Interior + exterior = 180°, so 5 × exterior = 180° and exterior = 36°. Sides = 360 ÷ 36 = 10.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A designer claims that identical regular polygons with interior angle 140° will fit together around a point with no gaps or overlaps. Which statement is correct?",
+    "options": [
+     "Correct, because 140° is less than 180°",
+     "Wrong, because 360 ÷ 140 is not a whole number",
+     "Correct, because 140° is an even number",
+     "Wrong, because 140° is bigger than 120°"
+    ],
+    "answer": 1,
+    "explanation": "Shapes fit around a point only if the interior angle divides 360° exactly. 360 ÷ 140 ≈ 2.57, so they would leave a gap or overlap.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "In triangle ABC, AB = AC. Side BC is extended past C to point D, and the exterior angle ACD is 110°. What is angle BAC?",
+    "options": [
+     "40°",
+     "70°",
+     "110°",
+     "35°"
+    ],
+    "answer": 0,
+    "explanation": "Angle ACB = 180° − 110° = 70°. As AB = AC, angle ABC = 70° too. So BAC = 180° − 70° − 70° = 40°.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What you need to know\nAn angle measures turn. In the MYP eAssessment you are expected to find missing angles and, just as importantly, to give a reason for each step. The basic facts are:\n- Angles on a straight line add up to **180°**.\n- Angles around a point add up to **360°**.\n- Vertically opposite angles are equal.\n- Angles in a triangle add up to **180°**; in a quadrilateral they add up to **360°**.\n- In an isosceles triangle the two base angles are equal; in an equilateral triangle every angle is 60°.\n\n## Angles and parallel lines\nWhen a line (a transversal) crosses two parallel lines, matching angles appear:\n- **Corresponding** angles are equal (an F shape).\n- **Alternate** angles are equal (a Z shape).\n- **Co-interior** angles add up to 180° (a C or U shape).\n\nA very common mistake is mixing up alternate and co-interior angles. Ask yourself: are the two angles on opposite sides of the transversal and between the lines (alternate, equal), or on the same side between the lines (co-interior, sum to 180°)?\n\n## Polygons\nA polygon is a closed shape with straight sides. The sum of the interior angles of a polygon with n sides is **(n − 2) × 180°**. This works because you can split the shape into (n − 2) triangles. A pentagon gives 3 × 180° = 540°; a hexagon gives 720°.\n\nFor a regular polygon (all sides and all angles equal):\n- Each interior angle = (n − 2) × 180° ÷ n\n- Each exterior angle = 360° ÷ n\n- Interior angle + exterior angle = 180°\n\nThe exterior angles of any polygon always add up to 360°. This is often the quickest route: if a regular polygon has exterior angles of 20°, it has 360 ÷ 20 = 18 sides.\n\n## Worked example\nA regular polygon has an interior angle of 156°. How many sides does it have?\n1. Exterior angle = 180° − 156° = 24°.\n2. Number of sides = 360 ÷ 24 = 15.\nReason: exterior angles of a polygon sum to 360°, and an interior angle and its exterior angle lie on a straight line.\n\n## Common mistakes\n- Using (n − 2) × 180 for a single angle without dividing by n.\n- Forgetting that the formula for the exterior angle only gives one angle when the polygon is regular.\n- Writing a numerical answer with no reason. Name the rule: \"angles on a straight line sum to 180°\".\n- Treating a sketch as accurate. Diagrams are often not drawn to scale, so calculate, don't measure.\n\n## How this is examined\nAngle questions are usually set in a context, such as a floor tiling design, a roof truss, a road junction or a mosaic. You will often be told to \"calculate\" a missing angle, then to \"show that\" a tile pattern fits around a point, and finally to \"justify\" whether a design with a certain shape will work without gaps. Strong answers state each rule used, check that totals come to 180° or 360°, and say clearly what the result means for the context.\n\nExam tip: Write the angle rule in words next to every step you calculate, and check your answer by adding the angles to see whether they reach the required total.",
+  "flashcards": [
+   {
+    "front": "Sum of interior angles of an n-sided polygon",
+    "back": "(n − 2) × 180°. Example: heptagon (7 sides) gives 5 × 180° = 900°."
+   },
+   {
+    "front": "Sum of exterior angles of any polygon",
+    "back": "Always 360°, however many sides the polygon has."
+   },
+   {
+    "front": "Interior and exterior angle of a regular polygon",
+    "back": "Exterior = 360° ÷ n. Interior = 180° − exterior. They lie on a straight line."
+   },
+   {
+    "front": "Angles on a straight line / around a point",
+    "back": "Straight line: 180°. Around a point: 360°."
+   },
+   {
+    "front": "Alternate angles",
+    "back": "Equal angles in a Z shape between parallel lines."
+   },
+   {
+    "front": "Co-interior angles",
+    "back": "Angles in a C or U shape between parallel lines. They add up to 180°."
+   },
+   {
+    "front": "Corresponding angles",
+    "back": "Equal angles in an F shape in matching positions at parallel lines."
+   },
+   {
+    "front": "Angle sum of a triangle and a quadrilateral",
+    "back": "Triangle: 180°. Quadrilateral: 360°."
+   },
+   {
+    "front": "How do you find the number of sides from an exterior angle?",
+    "back": "Divide 360° by the exterior angle. An exterior angle of 30° means 360 ÷ 30 = 12 sides."
+   }
+  ]
+ },
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Geometry and Measurement",
+  "subTopic": "Perimeter, Area and Circles",
+  "questions": [
+   {
+    "content": "A rectangular classroom floor is 12 m long and 7.5 m wide. What is its area?",
+    "options": [
+     "39 m²",
+     "90 m²",
+     "19.5 m²",
+     "45 m²"
+    ],
+    "answer": 1,
+    "explanation": "Area of a rectangle = length × width = 12 × 7.5 = 90 m². 39 m is the perimeter.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A circular pond has a radius of 5 m. What is its circumference, to 1 decimal place?",
+    "options": [
+     "31.4 m",
+     "78.5 m",
+     "15.7 m",
+     "10.0 m"
+    ],
+    "answer": 0,
+    "explanation": "Circumference = 2πr = 2 × π × 5 = 31.4 m. 78.5 would be the area (πr²).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A triangular sail has a base of 10 m and a perpendicular height of 6 m. What is its area?",
+    "options": [
+     "60 m²",
+     "16 m²",
+     "36 m²",
+     "30 m²"
+    ],
+    "answer": 3,
+    "explanation": "Area of a triangle = ½ × base × height = ½ × 10 × 6 = 30 m². 60 forgets the ½.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A circular table top has a radius of 4 cm on a scale model. What is its area, to 1 decimal place?",
+    "options": [
+     "25.1 cm²",
+     "100.5 cm²",
+     "50.3 cm²",
+     "201.1 cm²"
+    ],
+    "answer": 2,
+    "explanation": "Area = πr² = π × 4² = 16π ≈ 50.3 cm². 25.1 is the circumference (2πr), which is a different measurement.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A rectangular garden is 9 m by 4.5 m. How much fencing is needed to go all the way round it?",
+    "options": [
+     "40.5 m",
+     "27 m",
+     "13.5 m",
+     "18 m"
+    ],
+    "answer": 1,
+    "explanation": "Perimeter = 2 × (9 + 4.5) = 27 m. 40.5 is the area, which is not what fencing needs.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A trapezium-shaped flower bed has parallel sides of 8 m and 12 m, and the distance between them is 5 m. What is its area?",
+    "options": [
+     "50 m²",
+     "100 m²",
+     "60 m²",
+     "40 m²"
+    ],
+    "answer": 0,
+    "explanation": "Area of a trapezium = ½ × (a + b) × h = ½ × 20 × 5 = 50 m².",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The circumference of a circular fountain is 44 m. What is its radius, to 1 decimal place?",
+    "options": [
+     "14.0 m",
+     "3.5 m",
+     "22.0 m",
+     "7.0 m"
+    ],
+    "answer": 3,
+    "explanation": "C = 2πr, so r = 44 ÷ (2π) ≈ 7.0 m. 14.0 m would be the diameter.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A semicircular window has a diameter of 10 m. What is its perimeter, including the straight edge, to 1 decimal place?",
+    "options": [
+     "15.7 m",
+     "78.5 m",
+     "25.7 m",
+     "31.4 m"
+    ],
+    "answer": 2,
+    "explanation": "Curved part = ½ × π × 10 = 15.7 m. Add the straight edge of 10 m to get 25.7 m. 15.7 leaves out the straight edge.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A sector of a circle has radius 6 cm and angle 60°. What is its area, to 1 decimal place?",
+    "options": [
+     "113.1 cm²",
+     "18.8 cm²",
+     "37.7 cm²",
+     "6.3 cm²"
+    ],
+    "answer": 1,
+    "explanation": "Sector area = (60/360) × π × 6² = 6π ≈ 18.8 cm². 113.1 is the whole circle.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An arc of a circle has radius 9 cm and subtends an angle of 80° at the centre. What is the arc length, to 1 decimal place?",
+    "options": [
+     "12.6 cm",
+     "56.5 cm",
+     "5.0 cm",
+     "14.1 cm"
+    ],
+    "answer": 0,
+    "explanation": "Arc length = (80/360) × 2π × 9 = 4π ≈ 12.6 cm.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A parallelogram has a base of 14 cm, a perpendicular height of 6.5 cm and a slanted side of 7 cm. What is its area?",
+    "options": [
+     "98 cm²",
+     "45.5 cm²",
+     "42 cm²",
+     "91 cm²"
+    ],
+    "answer": 3,
+    "explanation": "Area of a parallelogram = base × perpendicular height = 14 × 6.5 = 91 cm². The slanted side is not used.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A rectangular lawn measures 20 m by 12 m. A path 1.5 m wide runs around the outside of the lawn. What is the area of the path?",
+    "options": [
+     "96 m²",
+     "90 m²",
+     "105 m²",
+     "81 m²"
+    ],
+    "answer": 2,
+    "explanation": "The outer rectangle is (20 + 3) × (12 + 3) = 23 × 15 = 345 m². Subtract the lawn, 240 m², to get 105 m².",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A circular plate has a diameter of 14 cm. What is its area, to 1 decimal place?",
+    "options": [
+     "615.8 cm²",
+     "153.9 cm²",
+     "44.0 cm²",
+     "307.9 cm²"
+    ],
+    "answer": 1,
+    "explanation": "The radius is 7 cm, so area = π × 7² ≈ 153.9 cm². 615.8 comes from using the diameter as the radius.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A square tile of side 10 cm has a semicircle of diameter 10 cm cut out of one side. What is the area of the remaining shape, to 1 decimal place?",
+    "options": [
+     "60.7 cm²",
+     "78.5 cm²",
+     "21.5 cm²",
+     "92.1 cm²"
+    ],
+    "answer": 0,
+    "explanation": "Square = 100 cm². Semicircle radius 5: ½ × π × 25 ≈ 39.3 cm². Remaining area = 100 − 39.3 = 60.7 cm².",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A circular solar panel has an area of 200 cm². What is its radius, to 1 decimal place?",
+    "options": [
+     "63.7 cm",
+     "31.4 cm",
+     "7.1 cm",
+     "8.0 cm"
+    ],
+    "answer": 3,
+    "explanation": "πr² = 200, so r² = 200 ÷ π ≈ 63.66 and r ≈ 8.0 cm. 63.7 forgets the square root.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A bicycle wheel has a diameter of 0.65 m. About how many complete turns does it make over a 1 km ride?",
+    "options": [
+     "1538",
+     "154",
+     "490",
+     "245"
+    ],
+    "answer": 2,
+    "explanation": "One turn covers π × 0.65 ≈ 2.042 m. 1000 ÷ 2.042 ≈ 489.7, so about 490 turns. 245 would come from using the radius.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "In a model, π is approximated as 3 when finding the area of a circle of radius 10 cm. What is the percentage error, to 1 decimal place, compared with using the π button?",
+    "options": [
+     "4.7%",
+     "4.5%",
+     "14.2%",
+     "3.0%"
+    ],
+    "answer": 1,
+    "explanation": "Exact area = 314.16 cm²; model gives 300 cm². Error = 14.16 ÷ 314.16 × 100 ≈ 4.5% of the true value. Dividing by the model value would wrongly give 4.7%.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An athletics track has two straight sections of 100 m and two semicircular ends of diameter 60 m. What is the length of one lap, to 1 decimal place?",
+    "options": [
+     "388.5 m",
+     "294.2 m",
+     "288.5 m",
+     "577.0 m"
+    ],
+    "answer": 0,
+    "explanation": "The two semicircles make one circle: π × 60 ≈ 188.5 m. Add the straights, 2 × 100 = 200 m, to get 388.5 m.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Perimeter and area\n**Perimeter** is the distance around the outside of a shape. It is measured in units of length (cm, m). **Area** is the amount of surface inside the shape. It is measured in square units (cm², m²). A fence needs perimeter; paint or turf needs area.\n\n## Area formulae to know\n- Rectangle: length × width\n- Triangle: ½ × base × perpendicular height\n- Parallelogram: base × perpendicular height\n- Trapezium: ½ × (a + b) × h, where a and b are the parallel sides\n- Circle: **πr²**\n\nThe height must always be the perpendicular height, at right angles to the base. The slanted side of a parallelogram or trapezium is not used for area.\n\n## Circles\nKey words: radius (centre to edge), diameter (twice the radius), circumference (distance around), arc (part of the circumference), sector (a slice like a pizza piece), chord, segment.\n- Circumference = **2πr** or **πd**\n- Area = **πr²**\n\nIf you are given the diameter, halve it before using the area formula. A frequent mistake is to square the diameter.\n\n## Arcs and sectors\nA sector is a fraction of a circle. The fraction is the angle at the centre over 360°.\n- Arc length = (θ/360) × 2πr\n- Sector area = (θ/360) × πr²\nThe perimeter of a sector is the arc length plus two radii.\n\n## Compound shapes\nSplit the shape into rectangles, triangles and parts of circles, or take one shape away from another. For example, a lawn with a path round it: find the area of the outer rectangle and subtract the lawn. Write each area on its own line so a marker can follow your thinking.\n\n## Worked example\nA running track has two straights of 80 m and two semicircular ends of diameter 50 m. Find the lap length.\n1. The two semicircles make a full circle: π × 50 ≈ 157.1 m.\n2. Add the straights: 2 × 80 = 160 m.\n3. Lap = 157.1 + 160 = 317.1 m.\n\n## Accuracy and rounding\nUsing the π button gives a more accurate answer than using 3.14 or 3. If an approximation such as π ≈ 3 is used, the percentage error is |approximate − exact| ÷ exact × 100. Do not round in the middle of a calculation; round only the final answer and state the degree of accuracy, for example \"to 1 decimal place\".\n\n## How this is examined\nExpect a real-world design such as a sports field, a window, a pond, a wheel or a solar panel. You may be asked to calculate an area, show that a material order is large enough, then evaluate the answer: how accurate is it, what assumptions were made (for example, ignoring overlap or waste), and would you recommend buying extra? Always state units and the rounding you used.\n\nExam tip: Check whether the question gives the radius or the diameter before you start, and write the formula before substituting numbers so you can earn method marks even if you slip.",
+  "flashcards": [
+   {
+    "front": "Circumference of a circle",
+    "back": "C = 2πr = πd. Example: r = 5 cm gives C ≈ 31.4 cm."
+   },
+   {
+    "front": "Area of a circle",
+    "back": "A = πr². Use the radius, not the diameter. Example: r = 4 gives about 50.3."
+   },
+   {
+    "front": "Area of a triangle",
+    "back": "½ × base × perpendicular height."
+   },
+   {
+    "front": "Area of a trapezium",
+    "back": "½ × (a + b) × h, where a and b are the parallel sides and h is the distance between them."
+   },
+   {
+    "front": "Area of a parallelogram",
+    "back": "Base × perpendicular height. The slanted side is not used."
+   },
+   {
+    "front": "Arc length of a sector",
+    "back": "(θ/360) × 2πr, where θ is the angle at the centre."
+   },
+   {
+    "front": "Area of a sector",
+    "back": "(θ/360) × πr², where θ is the angle at the centre."
+   },
+   {
+    "front": "Perimeter of a sector",
+    "back": "Arc length plus two radii."
+   },
+   {
+    "front": "Percentage error",
+    "back": "|approximate − exact| ÷ exact × 100. Use it to judge how good an estimate such as π ≈ 3 is."
+   }
+  ]
+ },
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Geometry and Measurement",
+  "subTopic": "Volume and Surface Area",
+  "questions": [
+   {
+    "content": "A box is 5 cm long, 4 cm wide and 3 cm high. What is its volume?",
+    "options": [
+     "12 cm³",
+     "60 cm³",
+     "47 cm³",
+     "94 cm³"
+    ],
+    "answer": 1,
+    "explanation": "Volume of a cuboid = length × width × height = 5 × 4 × 3 = 60 cm³. 94 cm² is the surface area.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A cube has sides of 3 cm. What is its total surface area?",
+    "options": [
+     "54 cm²",
+     "27 cm²",
+     "18 cm²",
+     "36 cm²"
+    ],
+    "answer": 0,
+    "explanation": "A cube has 6 identical square faces, each 3 × 3 = 9 cm². Total = 6 × 9 = 54 cm².",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A cylindrical tin has radius 3 cm and height 10 cm. What is its volume, to 1 decimal place?",
+    "options": [
+     "94.2 cm³",
+     "188.5 cm³",
+     "848.2 cm³",
+     "282.7 cm³"
+    ],
+    "answer": 3,
+    "explanation": "Volume = πr²h = π × 9 × 10 = 90π ≈ 282.7 cm³.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A triangular prism has a cross-section area of 12 cm² and a length of 8 cm. What is its volume?",
+    "options": [
+     "20 cm³",
+     "48 cm³",
+     "96 cm³",
+     "192 cm³"
+    ],
+    "answer": 2,
+    "explanation": "Volume of any prism = cross-section area × length = 12 × 8 = 96 cm³.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "How many cubic centimetres are there in 1 cubic metre?",
+    "options": [
+     "100",
+     "1 000 000",
+     "10 000",
+     "1000"
+    ],
+    "answer": 1,
+    "explanation": "1 m = 100 cm, so 1 m³ = 100 × 100 × 100 = 1 000 000 cm³. 1000 is the number of litres.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A cone has radius 3 cm and perpendicular height 7 cm. What is its volume, to 1 decimal place?",
+    "options": [
+     "66.0 cm³",
+     "197.9 cm³",
+     "131.9 cm³",
+     "21.0 cm³"
+    ],
+    "answer": 0,
+    "explanation": "Volume of a cone = ⅓πr²h = ⅓ × π × 9 × 7 = 21π ≈ 66.0 cm³. 197.9 forgets the ⅓.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A spherical ball has a radius of 6 cm. What is its volume, to 1 decimal place?",
+    "options": [
+     "452.4 cm³",
+     "226.2 cm³",
+     "150.8 cm³",
+     "904.8 cm³"
+    ],
+    "answer": 3,
+    "explanation": "Volume of a sphere = 4/3 × πr³ = 4/3 × π × 216 = 288π ≈ 904.8 cm³.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A pyramid has a square base of side 6 cm and a perpendicular height of 9 cm. What is its volume?",
+    "options": [
+     "324 cm³",
+     "54 cm³",
+     "108 cm³",
+     "162 cm³"
+    ],
+    "answer": 2,
+    "explanation": "Volume of a pyramid = ⅓ × base area × height = ⅓ × 36 × 9 = 108 cm³.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A closed cylinder has radius 4 cm and height 10 cm. What is its total surface area, to 1 decimal place?",
+    "options": [
+     "251.3 cm²",
+     "351.9 cm²",
+     "502.7 cm²",
+     "100.5 cm²"
+    ],
+    "answer": 1,
+    "explanation": "Two circular ends: 2 × π × 16 = 32π. Curved surface: 2π × 4 × 10 = 80π. Total = 112π ≈ 351.9 cm².",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A spherical water tank has radius 5 m. What is its surface area, to 1 decimal place?",
+    "options": [
+     "314.2 m²",
+     "523.6 m²",
+     "78.5 m²",
+     "157.1 m²"
+    ],
+    "answer": 0,
+    "explanation": "Surface area of a sphere = 4πr² = 4 × π × 25 = 100π ≈ 314.2 m². 523.6 is the volume.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A cuboid water tank is 2 m long, 1.5 m wide and 1 m deep. How many litres can it hold when full?",
+    "options": [
+     "30 L",
+     "300 L",
+     "4500 L",
+     "3000 L"
+    ],
+    "answer": 3,
+    "explanation": "Volume = 2 × 1.5 × 1 = 3 m³. Since 1 m³ = 1000 litres, the tank holds 3000 L.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A cylinder has a volume of 500 cm³ and a radius of 5 cm. What is its height, to 1 decimal place?",
+    "options": [
+     "20.0 cm",
+     "1.3 cm",
+     "6.4 cm",
+     "31.8 cm"
+    ],
+    "answer": 2,
+    "explanation": "V = πr²h, so h = 500 ÷ (π × 25) ≈ 6.4 cm.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A cone has radius 5 cm and slant height 13 cm. What is its curved surface area, to 1 decimal place?",
+    "options": [
+     "510.5 cm²",
+     "204.2 cm²",
+     "68.1 cm²",
+     "81.7 cm²"
+    ],
+    "answer": 1,
+    "explanation": "Curved surface area of a cone = πrl = π × 5 × 13 = 65π ≈ 204.2 cm².",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A hemispherical bowl has an inside radius of 10 cm. What is its capacity in litres, to 2 decimal places?",
+    "options": [
+     "2.09 L",
+     "4.19 L",
+     "2094.40 L",
+     "1.05 L"
+    ],
+    "answer": 0,
+    "explanation": "Volume of a hemisphere = ⅔πr³ = ⅔ × π × 1000 ≈ 2094.4 cm³. Divide by 1000 to get litres: 2.09 L.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two similar solid models have heights in the ratio 2 : 3. The smaller model has a volume of 40 cm³. What is the volume of the larger model?",
+    "options": [
+     "60 cm³",
+     "90 cm³",
+     "80 cm³",
+     "135 cm³"
+    ],
+    "answer": 3,
+    "explanation": "Volumes are in the ratio 2³ : 3³ = 8 : 27. So the larger volume = 40 × 27 ÷ 8 = 135 cm³.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A solid metal sphere of radius 3 cm is melted and recast into a solid cylinder of radius 2 cm. What is the height of the cylinder?",
+    "options": [
+     "4.5 cm",
+     "27 cm",
+     "9 cm",
+     "6 cm"
+    ],
+    "answer": 2,
+    "explanation": "Sphere volume = 4/3 × π × 27 = 36π. Cylinder volume = π × 4 × h = 4πh. Setting 4πh = 36π gives h = 9 cm.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A ball fits tightly inside a cylindrical tube so that it touches the sides, top and bottom. What percentage of the tube's volume does the ball fill, to 1 decimal place?",
+    "options": [
+     "50.0%",
+     "66.7%",
+     "75.0%",
+     "33.3%"
+    ],
+    "answer": 1,
+    "explanation": "With radius r, the cylinder has height 2r so its volume is 2πr³. The ball is 4/3πr³. The fraction is (4/3) ÷ 2 = 2/3 ≈ 66.7%.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An ice cream is a cone of radius 3 cm and height 10 cm, topped with a hemisphere of radius 3 cm. What is the total volume, to 1 decimal place?",
+    "options": [
+     "150.8 cm³",
+     "94.2 cm³",
+     "113.1 cm³",
+     "207.3 cm³"
+    ],
+    "answer": 0,
+    "explanation": "Cone = ⅓π × 9 × 10 = 30π. Hemisphere = ⅔π × 27 = 18π. Total = 48π ≈ 150.8 cm³.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Volume and surface area\n**Volume** is the amount of space inside a 3D solid, measured in cubic units (cm³, m³). **Surface area** is the total area of all the outside faces, measured in square units (cm², m²). Capacity is the volume of liquid a container can hold, often in litres or millilitres.\n\n## Prisms and cylinders\nA **prism** has the same cross-section all the way along its length. For any prism:\n- Volume = cross-section area × length\n\nCuboid: V = l × w × h. Cylinder: **V = πr²h**. Its surface area is two circles plus a rectangle that wraps round: **2πr² + 2πrh**.\n\n## Pyramids, cones and spheres\n- Pyramid: V = ⅓ × base area × perpendicular height\n- Cone: **V = ⅓πr²h**, curved surface area = πrl (l is the slant height)\n- Sphere: **V = 4/3 πr³**, surface area = **4πr²**\n- Hemisphere: half the sphere. Volume ⅔πr³, curved surface area 2πr²; add πr² for the flat face if it is solid.\n\nUse the perpendicular height for volume, not the slant height. The slant height is only for the curved surface of a cone.\n\n## Units and conversions\nLength units scale by a factor, area units by the factor squared, and volume units by the factor cubed.\n- 1 m = 100 cm, so 1 m² = 10 000 cm² and 1 m³ = 1 000 000 cm³\n- 1 cm³ = 1 millilitre, 1000 cm³ = 1 litre, 1 m³ = 1000 litres\n\n## Worked example\nA cylindrical water tank has a radius of 0.8 m and a height of 1.5 m. How many litres does it hold?\n1. V = π × 0.8² × 1.5 = 0.96π ≈ 3.016 m³.\n2. 1 m³ = 1000 litres, so the tank holds about 3016 litres.\nRounded sensibly, that is roughly 3000 litres.\n\n## Compound solids and recasting\nFor a compound solid, such as a cone on top of a hemisphere, add the volumes. When a solid is melted and recast, the volume stays the same, so set the two volume expressions equal and solve for the unknown.\n\n## Common mistakes\n- Using the slant height instead of the perpendicular height in a volume formula.\n- Forgetting the ⅓ for cones and pyramids.\n- Mixing up surface area (cm²) and volume (cm³).\n- Not converting units before calculating, for example mixing metres and centimetres.\n\n## How this is examined\nTypical contexts are packaging, storage tanks, a water reservoir or a sculpture. You might be asked to calculate a volume, show that a container holds a given amount, then justify which of two designs uses less material, noting assumptions such as ignoring the thickness of the walls.\n\nExam tip: Write the unit with every answer and check it matches the quantity: cm for length, cm² for area, cm³ for volume.",
+  "flashcards": [
+   {
+    "front": "Volume of a prism",
+    "back": "Cross-section area × length."
+   },
+   {
+    "front": "Volume and surface area of a cylinder",
+    "back": "V = πr²h. Total surface area = 2πr² + 2πrh."
+   },
+   {
+    "front": "Volume of a cone",
+    "back": "⅓πr²h, using the perpendicular height h. Curved surface area is πrl, where l is the slant height."
+   },
+   {
+    "front": "Volume and surface area of a sphere",
+    "back": "V = 4/3 πr³. Surface area = 4πr²."
+   },
+   {
+    "front": "Volume of a pyramid",
+    "back": "⅓ × base area × perpendicular height."
+   },
+   {
+    "front": "Volume of a hemisphere",
+    "back": "Half a sphere: ⅔πr³. Total surface area of a solid hemisphere is 3πr²."
+   },
+   {
+    "front": "Convert cm³ to litres",
+    "back": "1000 cm³ = 1 litre, and 1 cm³ = 1 millilitre. So divide cm³ by 1000 to get litres."
+   },
+   {
+    "front": "Convert m³ and cm³",
+    "back": "1 m³ = 1 000 000 cm³ and 1 m³ = 1000 litres."
+   },
+   {
+    "front": "Similar solids: scale factor k",
+    "back": "Lengths scale by k, areas by k², volumes by k³. A scale factor of 2 gives 8 times the volume."
+   }
+  ]
+ },
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Geometry and Measurement",
+  "subTopic": "Transformations and Symmetry",
+  "questions": [
+   {
+    "content": "The point (3, 2) is reflected in the x-axis. What are the coordinates of its image?",
+    "options": [
+     "(−3, 2)",
+     "(3, −2)",
+     "(−3, −2)",
+     "(2, 3)"
+    ],
+    "answer": 1,
+    "explanation": "Reflecting in the x-axis changes the sign of the y-coordinate only, so (3, 2) → (3, −2).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The point (2, 5) is translated by the vector (4, −1). What are the coordinates of the image?",
+    "options": [
+     "(6, 4)",
+     "(−2, 6)",
+     "(6, 6)",
+     "(−2, 4)"
+    ],
+    "answer": 0,
+    "explanation": "Add the vector: x becomes 2 + 4 = 6 and y becomes 5 + (−1) = 4.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the order of rotational symmetry of a regular pentagon?",
+    "options": [
+     "1",
+     "10",
+     "3",
+     "5"
+    ],
+    "answer": 3,
+    "explanation": "A regular pentagon fits onto itself 5 times in a full turn (every 72°), so its order is 5.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "How many lines of symmetry does a rectangle (that is not a square) have?",
+    "options": [
+     "4",
+     "1",
+     "2",
+     "0"
+    ],
+    "answer": 2,
+    "explanation": "A non-square rectangle has one line through the midpoints of each pair of opposite sides, so 2. The diagonals are not lines of symmetry.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The point (2, 0) is rotated 90° anticlockwise about the origin. What is its image?",
+    "options": [
+     "(0, −2)",
+     "(0, 2)",
+     "(−2, 0)",
+     "(2, 2)"
+    ],
+    "answer": 1,
+    "explanation": "A 90° anticlockwise turn takes a point on the positive x-axis to the positive y-axis, so (2, 0) → (0, 2).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The point (4, −3) is reflected in the y-axis. What are the coordinates of its image?",
+    "options": [
+     "(−4, −3)",
+     "(4, 3)",
+     "(−4, 3)",
+     "(−3, 4)"
+    ],
+    "answer": 0,
+    "explanation": "Reflecting in the y-axis changes the sign of the x-coordinate only: (4, −3) → (−4, −3).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The point (2, 5) is enlarged with scale factor 3 and centre (0, 0). What is the image?",
+    "options": [
+     "(5, 8)",
+     "(6, 5)",
+     "(2/3, 5/3)",
+     "(6, 15)"
+    ],
+    "answer": 3,
+    "explanation": "Multiply each coordinate by the scale factor: (2 × 3, 5 × 3) = (6, 15). Adding 3 is a translation, not an enlargement.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The point (−3, 4) is rotated 180° about the origin. What is its image?",
+    "options": [
+     "(−3, −4)",
+     "(3, 4)",
+     "(3, −4)",
+     "(4, −3)"
+    ],
+    "answer": 2,
+    "explanation": "A 180° rotation about the origin changes the sign of both coordinates: (−3, 4) → (3, −4).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A rectangle 8 cm by 6 cm is enlarged with scale factor ½. What is the area of the image?",
+    "options": [
+     "24 cm²",
+     "12 cm²",
+     "6 cm²",
+     "48 cm²"
+    ],
+    "answer": 1,
+    "explanation": "The image is 4 cm by 3 cm, so its area is 12 cm². The area scales by (½)² = ¼, so 48 × ¼ = 12.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The point (1, 3) is reflected in the line y = x. What is its image?",
+    "options": [
+     "(3, 1)",
+     "(−1, −3)",
+     "(1, −3)",
+     "(−3, 1)"
+    ],
+    "answer": 0,
+    "explanation": "Reflecting in y = x swaps the x- and y-coordinates: (1, 3) → (3, 1).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A translation takes the point A(2, 3) to A′(−1, 7). What is the translation vector?",
+    "options": [
+     "(3, −4)",
+     "(1, 10)",
+     "(−3, 10)",
+     "(−3, 4)"
+    ],
+    "answer": 3,
+    "explanation": "Vector = image − original: (−1 − 2, 7 − 3) = (−3, 4). Subtracting the wrong way round gives (3, −4).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of these shapes has rotational symmetry of order 2 but no lines of symmetry?",
+    "options": [
+     "A rectangle",
+     "An isosceles trapezium",
+     "A parallelogram that is not a rectangle or rhombus",
+     "A kite"
+    ],
+    "answer": 2,
+    "explanation": "A general parallelogram looks the same after a half turn but cannot be folded onto itself. A rectangle has 2 lines of symmetry.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The point (3, 1) is rotated 90° clockwise about the origin. What is its image?",
+    "options": [
+     "(−1, 3)",
+     "(1, −3)",
+     "(−3, −1)",
+     "(−1, −3)"
+    ],
+    "answer": 1,
+    "explanation": "A 90° clockwise turn sends (x, y) to (y, −x), so (3, 1) → (1, −3).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The point (2, 5) is reflected in the line x = 4. What is its image?",
+    "options": [
+     "(6, 5)",
+     "(−2, 5)",
+     "(2, 3)",
+     "(4, 5)"
+    ],
+    "answer": 0,
+    "explanation": "The point is 2 units to the left of the mirror line, so the image is 2 units to the right: x = 6. The y-coordinate stays 5.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The point (3, 4) is enlarged by scale factor 2 with centre (1, 1). What is its image?",
+    "options": [
+     "(6, 8)",
+     "(7, 9)",
+     "(2, 3)",
+     "(5, 7)"
+    ],
+    "answer": 3,
+    "explanation": "From the centre (1, 1) to (3, 4) is the vector (2, 3). Double it to (4, 6) and add it to the centre: (5, 7). Using the origin as centre would give (6, 8).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The point (2, −1) is enlarged with scale factor −2 and centre (0, 0). What is the image?",
+    "options": [
+     "(4, −2)",
+     "(−4, −2)",
+     "(−4, 2)",
+     "(0, −3)"
+    ],
+    "answer": 2,
+    "explanation": "A negative scale factor multiplies each coordinate by −2 and puts the image on the opposite side of the centre: (2 × −2, −1 × −2) = (−4, 2).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The point (3, 2) is reflected in the x-axis, and the image is then translated by (−1, 5). What are the final coordinates?",
+    "options": [
+     "(2, 7)",
+     "(2, 3)",
+     "(4, 3)",
+     "(−2, 3)"
+    ],
+    "answer": 1,
+    "explanation": "Reflect first: (3, 2) → (3, −2). Then translate: (3 − 1, −2 + 5) = (2, 3). Doing them in the other order would give (2, 7).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A designer reflects a logo in the y-axis and then reflects the result in the x-axis. Which single transformation does the same job?",
+    "options": [
+     "Rotation of 180° about the origin",
+     "Reflection in the line y = x",
+     "Translation by (−1, −1)",
+     "Rotation of 90° about the origin"
+    ],
+    "answer": 0,
+    "explanation": "Test with (2, 3): y-axis gives (−2, 3), x-axis gives (−2, −3), which is a 180° rotation about the origin of (2, 3).",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Four transformations\nA transformation changes the position or size of a shape. The original is called the **object** and the result is the **image**. In the MYP you need to perform and describe four types.\n\n## Translation\nEvery point moves the same distance in the same direction. It is described by a vector (x, y): x is the move right (negative means left) and y is the move up (negative means down). The shape stays the same size, shape and orientation. To find a vector, subtract: image − object.\n\n## Reflection\nThe shape is flipped in a mirror line. Each point and its image are the same distance from the line. To describe a reflection, give the equation of the mirror line, such as the x-axis, the y-axis, x = 4 or y = x.\n- Reflect in the x-axis: (x, y) → (x, −y)\n- Reflect in the y-axis: (x, y) → (−x, y)\n- Reflect in y = x: (x, y) → (y, x)\n\n## Rotation\nThe shape is turned about a fixed point (the centre of rotation) through an angle in a direction (clockwise or anticlockwise). To describe a rotation you must give all three: angle, direction and centre. About the origin:\n- 90° anticlockwise: (x, y) → (−y, x)\n- 90° clockwise: (x, y) → (y, −x)\n- 180°: (x, y) → (−x, −y)\n\n## Enlargement\nThe shape changes size from a centre of enlargement by a scale factor k. Lengths are multiplied by k, so the area is multiplied by k². A scale factor between 0 and 1 makes the shape smaller. A negative scale factor flips the image to the opposite side of the centre. To describe an enlargement, give the scale factor and the centre.\n\nTranslation, reflection and rotation keep size and shape, so the image is **congruent** to the object. Enlargement gives a **similar** shape.\n\n## Symmetry\n- **Line symmetry**: a line that splits the shape into two mirror images. A regular polygon with n sides has n lines of symmetry.\n- **Rotational symmetry**: the number of times the shape fits onto itself in one full turn is its order. A regular polygon with n sides has order n.\n\nA rectangle has 2 lines and order 2. A parallelogram has order 2 but no lines. An isosceles triangle has 1 line and order 1.\n\n## Worked example\nTriangle A has a vertex at (2, 1). It is enlarged with scale factor 3 about the point (1, 1). Find the image of this vertex.\n1. Vector from centre to vertex: (1, 0).\n2. Multiply by 3: (3, 0).\n3. Add to the centre: (4, 1).\n\n## Common mistakes\n- Describing a transformation without all the required details (for example saying \"rotation\" with no centre).\n- Doing combined transformations in the wrong order.\n- Assuming enlargements are always about the origin.\n- Confusing clockwise and anticlockwise.\n\n## How this is examined\nQuestions often use a logo, a tessellated floor pattern or a game screen on a coordinate grid. You may be asked to perform a transformation, describe a given one fully, then justify whether two shapes are congruent or similar, or find a single transformation equal to a combination.\n\nExam tip: Always test your answer with a single point and sketch the grid; if the mirror line or centre is not the origin, work from the distance to it.",
+  "flashcards": [
+   {
+    "front": "Describe a translation",
+    "back": "Give the vector (x, y): x = move right (left if negative), y = move up (down if negative). Size and orientation do not change."
+   },
+   {
+    "front": "Describe a reflection",
+    "back": "Give the equation of the mirror line. Points and images are equal distances from it."
+   },
+   {
+    "front": "Describe a rotation",
+    "back": "Give three things: the angle, the direction (clockwise or anticlockwise) and the centre."
+   },
+   {
+    "front": "Describe an enlargement",
+    "back": "Give the scale factor and the centre. Lengths multiply by k and area by k²."
+   },
+   {
+    "front": "Reflection rules for coordinates",
+    "back": "x-axis: (x, y) → (x, −y). y-axis: (x, y) → (−x, y). Line y = x: (x, y) → (y, x)."
+   },
+   {
+    "front": "Rotation rules about the origin",
+    "back": "90° anticlockwise: (−y, x). 90° clockwise: (y, −x). 180°: (−x, −y)."
+   },
+   {
+    "front": "Which transformations give congruent shapes?",
+    "back": "Translation, reflection and rotation. Enlargement gives a similar shape, not a congruent one."
+   },
+   {
+    "front": "Order of rotational symmetry",
+    "back": "The number of times a shape fits onto itself in a full turn. A regular n-sided polygon has order n and n lines of symmetry."
+   },
+   {
+    "front": "Find a translation vector",
+    "back": "Image coordinates minus object coordinates. From (2, 3) to (−1, 7) the vector is (−3, 4)."
+   }
+  ]
+ },
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Geometry and Measurement",
+  "subTopic": "Similarity and Congruence",
+  "questions": [
+   {
+    "content": "Which of these is NOT enough, on its own, to prove two triangles are congruent?",
+    "options": [
+     "All three sides equal (SSS)",
+     "All three angles equal (AAA)",
+     "Two sides and the included angle equal (SAS)",
+     "Two angles and a corresponding side equal (ASA)"
+    ],
+    "answer": 1,
+    "explanation": "Equal angles only give the same shape, not the same size. Two triangles can have the same angles and be different sizes, so AAA proves similarity but not congruence.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Triangle P has sides 3 cm, 4 cm and 5 cm. Triangle Q is similar, with sides 6 cm, 8 cm and 10 cm. What is the scale factor from P to Q?",
+    "options": [
+     "2",
+     "3",
+     "½",
+     "5"
+    ],
+    "answer": 0,
+    "explanation": "Divide a side in Q by the matching side in P: 6 ÷ 3 = 2. Check the others: 8 ÷ 4 = 2 and 10 ÷ 5 = 2.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which statement describes two congruent shapes?",
+    "options": [
+     "They have the same shape but may differ in size",
+     "They have the same area but may differ in shape",
+     "They have the same angles only",
+     "They have the same shape and the same size"
+    ],
+    "answer": 3,
+    "explanation": "Congruent shapes are identical in shape and size. Shapes with the same shape but different size are similar.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A model car is an enlargement of a toy with a scale factor of 4. A length on the toy is 5 cm. What is the matching length on the model?",
+    "options": [
+     "9 cm",
+     "1.25 cm",
+     "20 cm",
+     "25 cm"
+    ],
+    "answer": 2,
+    "explanation": "Multiply by the scale factor: 5 × 4 = 20 cm.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A map has a scale of 1 : 50 000. Two towns are 4 cm apart on the map. What is the real distance?",
+    "options": [
+     "20 km",
+     "2 km",
+     "200 m",
+     "0.2 km"
+    ],
+    "answer": 1,
+    "explanation": "4 × 50 000 = 200 000 cm. Divide by 100 000 to convert to km: 2 km.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Triangles ABC and DEF are similar. Sides AB = 6 cm and DE = 9 cm correspond. Side BC = 8 cm. How long is EF?",
+    "options": [
+     "12 cm",
+     "5.3 cm",
+     "11 cm",
+     "13.5 cm"
+    ],
+    "answer": 0,
+    "explanation": "The scale factor is 9 ÷ 6 = 1.5, so EF = 8 × 1.5 = 12 cm.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Two similar shapes have a length scale factor of 3. The smaller shape has an area of 10 cm². What is the area of the larger shape?",
+    "options": [
+     "30 cm²",
+     "270 cm²",
+     "900 cm²",
+     "90 cm²"
+    ],
+    "answer": 3,
+    "explanation": "Area scales by the square of the length scale factor: 10 × 3² = 90 cm².",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Two similar containers have heights in the ratio 1 : 2. The smaller holds 15 litres. What does the larger hold?",
+    "options": [
+     "30 litres",
+     "60 litres",
+     "120 litres",
+     "45 litres"
+    ],
+    "answer": 2,
+    "explanation": "Volume scales by the cube of the length ratio: 15 × 2³ = 120 litres.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A model ship is built at a scale of 1 : 200. The real ship is 80 m long. How long is the model?",
+    "options": [
+     "16 cm",
+     "40 cm",
+     "0.4 cm",
+     "400 cm"
+    ],
+    "answer": 1,
+    "explanation": "80 m = 8000 cm. Divide by 200: 8000 ÷ 200 = 40 cm.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In triangles ABC and DEF, AB = DE, BC = EF and angle B = angle E. Which congruence condition proves they are congruent?",
+    "options": [
+     "SAS",
+     "SSS",
+     "ASA",
+     "RHS"
+    ],
+    "answer": 0,
+    "explanation": "Two pairs of sides and the angle between them (the included angle B and E) are equal, so the condition is SAS.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Two similar shapes have areas in the ratio 9 : 16. What is the ratio of their lengths?",
+    "options": [
+     "9 : 16",
+     "81 : 256",
+     "4.5 : 8",
+     "3 : 4"
+    ],
+    "answer": 3,
+    "explanation": "Take the square root of the area ratio: √9 : √16 = 3 : 4.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A person 1.6 m tall casts a shadow 2.4 m long. At the same time a tree casts a shadow 15 m long. What is the height of the tree?",
+    "options": [
+     "22.5 m",
+     "14 m",
+     "10 m",
+     "9.6 m"
+    ],
+    "answer": 2,
+    "explanation": "The triangles are similar. Height ÷ shadow is the same: 1.6 ÷ 2.4 = h ÷ 15, so h = 15 × 2/3 = 10 m.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Two similar cylinders have heights of 10 cm and 25 cm. The smaller has volume 80 cm³. What is the volume of the larger?",
+    "options": [
+     "200 cm³",
+     "1250 cm³",
+     "500 cm³",
+     "1000 cm³"
+    ],
+    "answer": 1,
+    "explanation": "The length scale factor is 25 ÷ 10 = 2.5. Volume scales by 2.5³ = 15.625, so 80 × 15.625 = 1250 cm³.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The surface areas of two similar solids are in the ratio 25 : 49. The smaller solid has volume 250 cm³. What is the volume of the larger solid?",
+    "options": [
+     "686 cm³",
+     "490 cm³",
+     "350 cm³",
+     "1715 cm³"
+    ],
+    "answer": 0,
+    "explanation": "Length ratio = √25 : √49 = 5 : 7. Volume ratio = 5³ : 7³ = 125 : 343. So the larger volume = 250 × 343 ÷ 125 = 686 cm³.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "In triangle ABC, point D lies on AB and E lies on AC, with DE parallel to BC. AD = 4 cm, DB = 6 cm and DE = 6 cm. What is BC?",
+    "options": [
+     "9 cm",
+     "10 cm",
+     "4 cm",
+     "15 cm"
+    ],
+    "answer": 3,
+    "explanation": "Triangles ADE and ABC are similar. AB = 4 + 6 = 10, so the scale factor is 10 ÷ 4 = 2.5 and BC = 6 × 2.5 = 15 cm.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Rectangle R is 4 cm by 6 cm. Rectangle S is 10 cm by 14 cm. Which statement is correct?",
+    "options": [
+     "Similar, because both are rectangles",
+     "Similar, because 10 − 4 = 6 and 14 − 6 = 8",
+     "Not similar, because 10 ÷ 4 = 2.5 but 14 ÷ 6 ≈ 2.33",
+     "Not similar, because their areas differ"
+    ],
+    "answer": 2,
+    "explanation": "Similar shapes need the same scale factor for every pair of corresponding sides. 2.5 ≠ 2.33, so R and S are not similar. Differences and areas do not decide similarity.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A baker uses a round cake tin of diameter 20 cm. For a larger cake she uses a tin of diameter 30 cm with the same depth. Assuming the batter fills both tins to the same depth, by what factor does the amount of batter increase?",
+    "options": [
+     "1.5",
+     "2.25",
+     "3.375",
+     "2"
+    ],
+    "answer": 1,
+    "explanation": "The base area scales by (30 ÷ 20)² = 2.25. With the same depth, the volume of batter also increases by a factor of 2.25.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A scale model of a water tank holds 0.5 litres. The real tank holds 4000 litres. The real tank is 3.2 m high. How high is the model?",
+    "options": [
+     "16 cm",
+     "1.6 cm",
+     "40 cm",
+     "64 cm"
+    ],
+    "answer": 0,
+    "explanation": "Volume ratio = 4000 ÷ 0.5 = 8000, so the length scale factor is ∛8000 = 20. Model height = 320 cm ÷ 20 = 16 cm.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Congruent and similar shapes\nTwo shapes are **congruent** if they are exactly the same shape and size. One can be moved onto the other by a translation, reflection, rotation or a mixture of these. Two shapes are **similar** if they are the same shape but not necessarily the same size: one is an enlargement of the other.\n\n## Proving triangles are congruent\nYou do not need to check all six measurements. Four tests are enough:\n- **SSS**: all three sides equal\n- **SAS**: two sides and the angle between them equal\n- **ASA** (or AAS): two angles and one corresponding side equal\n- **RHS**: right angle, hypotenuse and one other side equal\n\nNotice that AAA and SSA are not on the list. Three equal angles only prove similarity, not congruence, and SSA can give two different triangles.\n\n## Similar shapes and scale factors\nIn similar shapes all corresponding angles are equal and all corresponding sides are in the same ratio. This ratio is the **scale factor** k.\n- Scale factor = new length ÷ original length\n- To find a missing side, multiply or divide by k\n\nFor triangles, similarity can be shown by equal angles (two pairs are enough, because the third must match) or by all three pairs of sides being in proportion.\n\n## Area and volume scale factors\nIf the length scale factor is k:\n- areas are multiplied by **k²**\n- volumes are multiplied by **k³**\n\nGoing the other way: if the area ratio is 9 : 16, the length ratio is √9 : √16 = 3 : 4, and the volume ratio is 27 : 64. Doubling the sides of a cube makes the volume 8 times larger, not 2 times larger.\n\n## Worked example\nA model of a building is 30 cm high and the real building is 45 m high. The model's glass roof has an area of 50 cm². Find the real roof area.\n1. 45 m = 4500 cm. Scale factor = 4500 ÷ 30 = 150.\n2. Area factor = 150² = 22 500.\n3. Real area = 50 × 22 500 = 1 125 000 cm² = 112.5 m².\n\n## Maps and scale drawings\nA scale such as 1 : 50 000 is a ratio of length. One unit on the map represents 50 000 of the same unit in real life. Convert to convenient units: 50 000 cm = 500 m.\n\n## Common mistakes\n- Using the length scale factor for area or volume without squaring or cubing it.\n- Matching sides in the wrong order. Match the longest with the longest.\n- Using AAA as proof of congruence.\n- Assuming that shapes are similar because they have the same name; rectangles need equal side ratios.\n\n## How this is examined\nTypical contexts are scale models of buildings, maps, shadows and heights, or comparing sizes of containers. You may be asked to calculate a length, show that two triangles are similar, then evaluate a model by considering how accurate it is and what assumptions (such as the sun's rays being parallel) are made.\n\nExam tip: Write the scale factor as a clear fraction (new ÷ old), then decide whether you need k, k² or k³ before you multiply.",
+  "flashcards": [
+   {
+    "front": "Congruent shapes",
+    "back": "Exactly the same shape and size. One maps onto the other by translation, reflection and/or rotation."
+   },
+   {
+    "front": "Similar shapes",
+    "back": "Same shape, different size. Corresponding angles are equal and corresponding sides are in the same ratio."
+   },
+   {
+    "front": "Four congruence tests for triangles",
+    "back": "SSS, SAS (included angle), ASA/AAS, and RHS. AAA is not a congruence test."
+   },
+   {
+    "front": "Scale factor",
+    "back": "New length ÷ original length. Example: 12 cm from 8 cm gives a scale factor of 1.5."
+   },
+   {
+    "front": "Area scale factor",
+    "back": "If lengths scale by k, areas scale by k². A scale factor of 3 makes areas 9 times larger."
+   },
+   {
+    "front": "Volume scale factor",
+    "back": "If lengths scale by k, volumes scale by k³. A scale factor of 2 makes volumes 8 times larger."
+   },
+   {
+    "front": "Area ratio 9 : 16 gives what length ratio?",
+    "back": "Take the square root: 3 : 4. For a volume ratio, take the cube root."
+   },
+   {
+    "front": "Map scale 1 : 50 000",
+    "back": "1 cm on the map is 50 000 cm = 500 m in real life. Convert units at the end."
+   },
+   {
+    "front": "Show two triangles are similar",
+    "back": "Show two pairs of equal angles (the third must match), or show all three pairs of sides are in the same ratio."
+   }
+  ]
+ }
+]

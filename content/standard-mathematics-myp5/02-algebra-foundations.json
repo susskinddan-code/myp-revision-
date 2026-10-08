@@ -1,0 +1,1054 @@
+[
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Algebra Foundations",
+  "subTopic": "Algebraic Expressions and Expanding",
+  "questions": [
+   {
+    "content": "Simplify 3a + 5b − a + 2b.",
+    "options": [
+     "2a + 3b",
+     "4a + 7b",
+     "2a + 7b",
+     "9ab"
+    ],
+    "answer": 2,
+    "explanation": "Collect like terms: 3a − a = 2a and 5b + 2b = 7b. Terms with different letters cannot be combined into one term.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Expand 4(x − 3).",
+    "options": [
+     "4x − 12",
+     "4x − 3",
+     "4x + 12",
+     "x − 12"
+    ],
+    "answer": 0,
+    "explanation": "Multiply every term inside the bracket by 4: 4 × x = 4x and 4 × (−3) = −12. Forgetting to multiply the second term gives 4x − 3.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Find the value of 3x² when x = −2.",
+    "options": [
+     "−12",
+     "36",
+     "−36",
+     "12"
+    ],
+    "answer": 3,
+    "explanation": "Square first: (−2)² = 4, then multiply by 3 to get 12. Only x is squared, not the 3, so 36 is wrong, and a negative squared is positive.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Simplify 2x × 3x².",
+    "options": [
+     "5x³",
+     "6x³",
+     "6x²",
+     "5x²"
+    ],
+    "answer": 1,
+    "explanation": "Multiply the coefficients (2 × 3 = 6) and add the powers of x (1 + 2 = 3). That gives 6x³.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which term is a like term of 5xy²?",
+    "options": [
+     "5x²y",
+     "−2y²x",
+     "5xy",
+     "5x²y²"
+    ],
+    "answer": 1,
+    "explanation": "Like terms have exactly the same letters with the same powers. −2y²x has one x and y squared, the same as 5xy². The others have different powers.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Expand and simplify 3(x + 2) + 2(x − 4).",
+    "options": [
+     "5x + 14",
+     "5x + 2",
+     "6x − 2",
+     "5x − 2"
+    ],
+    "answer": 3,
+    "explanation": "3(x + 2) = 3x + 6 and 2(x − 4) = 2x − 8. Adding gives 5x − 2. The wrong answer 5x + 14 comes from treating 2 × (−4) as +8.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Expand and simplify (x + 5)(x − 2).",
+    "options": [
+     "x² + 3x − 10",
+     "x² + 3x + 10",
+     "x² − 3x − 10",
+     "x² + 7x − 10"
+    ],
+    "answer": 0,
+    "explanation": "Multiply each pair: x² − 2x + 5x − 10. The middle terms combine to +3x and 5 × (−2) = −10.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Expand (x + 4)².",
+    "options": [
+     "x² + 16",
+     "x² + 4x + 16",
+     "x² + 8x + 16",
+     "x² + 8x + 8"
+    ],
+    "answer": 2,
+    "explanation": "(x + 4)² means (x + 4)(x + 4) = x² + 4x + 4x + 16 = x² + 8x + 16. Squaring a bracket always produces a middle term.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Expand and simplify (2x − 3)(x + 5).",
+    "options": [
+     "2x² + 13x − 15",
+     "2x² + 7x + 15",
+     "2x² − 7x − 15",
+     "2x² + 7x − 15"
+    ],
+    "answer": 3,
+    "explanation": "2x² + 10x − 3x − 15 = 2x² + 7x − 15. The −3 × x term is −3x, which reduces the middle term from 10x to 7x.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A garden is a rectangle with length (x + 6) m and width (x − 2) m. Which expression gives its area in m², fully expanded?",
+    "options": [
+     "x² + 8x − 12",
+     "x² + 4x − 12",
+     "x² − 12",
+     "4x + 8"
+    ],
+    "answer": 1,
+    "explanation": "Area = length × width = (x + 6)(x − 2) = x² − 2x + 6x − 12 = x² + 4x − 12. The expression 4x + 8 is the perimeter, not the area.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Simplify (3a²b)(4ab³).",
+    "options": [
+     "7a³b⁴",
+     "12a²b³",
+     "12a³b⁴",
+     "12a³b³"
+    ],
+    "answer": 2,
+    "explanation": "Multiply the coefficients: 3 × 4 = 12. Add the powers of each letter: a: 2 + 1 = 3 and b: 1 + 3 = 4. So the answer is 12a³b⁴.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Expand and simplify (x + 3)² − (x − 1)².",
+    "options": [
+     "8x + 8",
+     "8",
+     "4x + 8",
+     "8x + 10"
+    ],
+    "answer": 0,
+    "explanation": "(x + 3)² = x² + 6x + 9 and (x − 1)² = x² − 2x + 1. Subtracting the whole bracket gives 6x − (−2x) = 8x and 9 − 1 = 8. Forgetting to change the sign of +1 gives 8x + 10.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student writes (x + 2)² = x² + 4. Which statement explains the error?",
+    "options": [
+     "(x + 2)² = (x + 2)(x + 2), which also has a middle term 4x",
+     "The 2 should be squared but the x should not",
+     "Squaring doubles each term, so it should be 2x + 4",
+     "Brackets cannot be squared, so the answer should be x² + 2²"
+    ],
+    "answer": 0,
+    "explanation": "Squaring a bracket means multiplying it by itself, giving x² + 2x + 2x + 4 = x² + 4x + 4. You cannot square each term separately.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Expand and simplify (x + 2)(x − 3)(x + 1).",
+    "options": [
+     "x³ − 6",
+     "x³ − 7x + 6",
+     "x³ − 7x − 6",
+     "x³ + x² − 7x − 6"
+    ],
+    "answer": 2,
+    "explanation": "First (x + 2)(x − 3) = x² − x − 6. Then (x² − x − 6)(x + 1) = x³ + x² − x² − x − 6x − 6 = x³ − 7x − 6. The x² terms cancel, and the constant is 2 × (−3) × 1 = −6.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A rectangle has sides (2x + 1) cm and (x + 4) cm and a perimeter of 34 cm. Work out its area.",
+    "options": [
+     "36 cm²",
+     "72 cm²",
+     "68 cm²",
+     "64 cm²"
+    ],
+    "answer": 1,
+    "explanation": "Perimeter: 2(3x + 5) = 34, so 3x + 5 = 17 and x = 4. The sides are 9 cm and 8 cm, so the area is 72 cm². The wrong answers come from expanding (2x + 1)(x + 4) incorrectly.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "In an investigation, a student finds that 4² − 3² = 7, 5² − 4² = 9 and 6² − 5² = 11. Which expression for (n + 1)² − n² proves the difference of consecutive squares is always odd?",
+    "options": [
+     "2n",
+     "1",
+     "2n² + 1",
+     "2n + 1"
+    ],
+    "answer": 3,
+    "explanation": "Expanding gives n² + 2n + 1 − n² = 2n + 1. Since 2n is always even, 2n + 1 is always odd. This is a proof for every n, unlike testing a few cases.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Expand and simplify (2x − 3y)² − (2x + 3y)².",
+    "options": [
+     "0",
+     "−12xy",
+     "−24xy",
+     "24xy"
+    ],
+    "answer": 2,
+    "explanation": "(2x − 3y)² = 4x² − 12xy + 9y² and (2x + 3y)² = 4x² + 12xy + 9y². Subtracting leaves −12xy − 12xy = −24xy. The squared terms cancel but the middle terms do not.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Expanding (a + b)(a − b) gives a² − b². Use this to work out 101² − 99² without a calculator.",
+    "options": [
+     "4",
+     "400",
+     "200",
+     "40 000"
+    ],
+    "answer": 1,
+    "explanation": "101² − 99² = (101 + 99)(101 − 99) = 200 × 2 = 400. The result is the sum multiplied by the difference, not the difference squared.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What is an algebraic expression?\nAn expression is a collection of terms made from numbers and letters, such as 3x² − 5x + 7. It has no equals sign, so you simplify or expand it rather than solve it. Each term has a coefficient (the number in front), a variable and a power. In 3x², the coefficient is 3 and the power is 2.\n\n## Collecting like terms\nLike terms have exactly the same letters raised to exactly the same powers. 4x and 9x are like terms, and so are 2xy² and −5y²x. But 3x and 3x² are not like terms. To simplify, add or subtract the coefficients of like terms and leave the letters alone.\n\n## The laws of indices for multiplying\n- When multiplying terms, multiply the coefficients and **add** the powers of matching letters.\n- So 2x × 3x² = 6x³ and (3a²b)(4ab³) = 12a³b⁴.\n- Remember that a letter on its own, like x, has a power of 1.\n\n## Expanding single brackets\nTo expand, multiply every term inside the bracket by the term outside. For 4(x − 3), do 4 × x and 4 × (−3) to get 4x − 12. When there is a negative outside, be very careful: −2(x − 5) = −2x + 10, because −2 × −5 is positive.\n\n## Expanding double brackets\nEach term in the first bracket must multiply each term in the second. For (x + 5)(x − 2):\n- x × x = x²\n- x × (−2) = −2x\n- 5 × x = 5x\n- 5 × (−2) = −10\nCollect the like terms: x² + 3x − 10. A grid or the FOIL idea (First, Outer, Inner, Last) can help you keep track, but the real rule is simply that everything multiplies everything.\n\n## Squaring a bracket\n(x + 4)² means (x + 4)(x + 4), which is x² + 8x + 16. The middle term is twice the product of the two parts. It is never just x² + 16. Also useful: (a + b)(a − b) = a² − b², because the middle terms cancel. This lets you work out 101² − 99² as 200 × 2 = 400.\n\n## Common mistakes\n- Forgetting to multiply the second term in a bracket.\n- Sign errors, especially with negatives and when subtracting a whole bracket. Put the bracket in first, then change every sign inside it.\n- Writing (x + 3)² = x² + 9.\n- Adding powers when you should be adding coefficients, or the other way round: 2x + 3x = 5x, but 2x × 3x = 6x².\n\n## How this is examined\nIn eAssessment-style questions, algebra appears inside a context. You might be given the side lengths of a garden, a sports pitch or a solar panel as expressions in x, and asked to write down an expression for the area, expand it and simplify. Command terms such as \"show that\" mean you must display every step of working so the result is proven, not just stated. In investigation tasks you may test a pattern with numbers, then use expansion to prove a general rule in terms of n, for example that the difference of consecutive squares is always 2n + 1. Always check your general rule by substituting a value.\n\nExam tip: After expanding, substitute a simple value such as x = 1 or x = 2 into the original and your answer. If the two results differ, you have made an error.",
+  "flashcards": [
+   {
+    "front": "Like terms",
+    "back": "Terms with exactly the same letters raised to the same powers, e.g. 5xy² and −2y²x. Only like terms can be added or subtracted."
+   },
+   {
+    "front": "2x × 3x²",
+    "back": "Multiply coefficients, add powers: 2 × 3 = 6 and x¹ × x² = x³, so the answer is 6x³."
+   },
+   {
+    "front": "Expand a(b + c)",
+    "back": "Multiply every term inside the bracket by the term outside: a(b + c) = ab + ac. Watch the signs with negatives."
+   },
+   {
+    "front": "Expand (x + p)(x + q)",
+    "back": "x² + (p + q)x + pq. Multiply every term in the first bracket by every term in the second, then collect like terms."
+   },
+   {
+    "front": "(x + 4)² equals?",
+    "back": "x² + 8x + 16. Squaring a bracket means multiplying it by itself, so there is always a middle term (twice the product)."
+   },
+   {
+    "front": "Difference of two squares (expanding)",
+    "back": "(a + b)(a − b) = a² − b². The middle terms cancel."
+   },
+   {
+    "front": "Subtracting a bracket",
+    "back": "Change the sign of every term inside the bracket: 5 − (x − 2) = 5 − x + 2."
+   },
+   {
+    "front": "Expression vs equation",
+    "back": "An expression has no equals sign and is simplified or expanded. An equation has an equals sign and can be solved."
+   },
+   {
+    "front": "Prove a rule for all n",
+    "back": "Use algebra: expand and simplify in terms of n, then comment on the result. Testing a few numbers only supports the rule, it does not prove it."
+   }
+  ]
+ },
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Algebra Foundations",
+  "subTopic": "Factorising Expressions",
+  "questions": [
+   {
+    "content": "Factorise fully 6x + 9.",
+    "options": [
+     "3(2x + 9)",
+     "6(x + 3)",
+     "3(2x + 3)",
+     "3(x + 3)"
+    ],
+    "answer": 2,
+    "explanation": "The highest common factor of 6 and 9 is 3. Dividing each term by 3 gives 2x and 3, so 3(2x + 3). Expanding your answer is a quick check.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the highest common factor of 12x² and 18x?",
+    "options": [
+     "6x",
+     "6",
+     "36x²",
+     "3x"
+    ],
+    "answer": 0,
+    "explanation": "The numbers 12 and 18 share a factor of 6, and both terms contain at least one x. So the highest common factor is 6x.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Factorise x² + 5x.",
+    "options": [
+     "x(x² + 5)",
+     "5x(x + 1)",
+     "(x + 5)²",
+     "x(x + 5)"
+    ],
+    "answer": 3,
+    "explanation": "Both terms contain x. Taking x out leaves x and 5 inside the bracket: x(x + 5). Taking out 5x would give 5x² + 5x when expanded.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Factorise x² − 49.",
+    "options": [
+     "(x − 7)²",
+     "(x − 7)(x + 7)",
+     "(x + 7)²",
+     "(x − 49)(x + 1)"
+    ],
+    "answer": 1,
+    "explanation": "This is a difference of two squares: x² − 7² = (x − 7)(x + 7). A squared bracket would produce a middle term, but there is none here.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Factorise x² + 7x + 12.",
+    "options": [
+     "(x + 2)(x + 6)",
+     "(x + 3)(x + 4)",
+     "(x + 1)(x + 12)",
+     "(x − 3)(x − 4)"
+    ],
+    "answer": 1,
+    "explanation": "Find two numbers that multiply to 12 and add to 7. These are 3 and 4. The pair 2 and 6 multiplies to 12 but adds to 8.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Factorise fully 8a²b − 12ab².",
+    "options": [
+     "4(2a²b − 3ab²)",
+     "2ab(4a − 6b)",
+     "4ab(2a + 3b)",
+     "4ab(2a − 3b)"
+    ],
+    "answer": 3,
+    "explanation": "The highest common factor is 4ab (4 from the numbers, a and b from the letters). Dividing gives 2a and 3b. Taking out only 4 or 2ab leaves a common factor, so it is not fully factorised.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Factorise x² − 5x − 24.",
+    "options": [
+     "(x − 8)(x + 3)",
+     "(x + 8)(x − 3)",
+     "(x − 6)(x + 4)",
+     "(x − 8)(x − 3)"
+    ],
+    "answer": 0,
+    "explanation": "Find two numbers that multiply to −24 and add to −5: −8 and +3. The larger number takes the sign of the middle term.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Factorise x² − 10x + 21.",
+    "options": [
+     "(x + 3)(x + 7)",
+     "(x − 3)(x + 7)",
+     "(x − 3)(x − 7)",
+     "(x − 1)(x − 21)"
+    ],
+    "answer": 2,
+    "explanation": "We need two numbers with product +21 and sum −10. Both must be negative: −3 and −7. Expanding (x − 3)(x − 7) confirms it.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Factorise 2x² + 7x + 3.",
+    "options": [
+     "(2x + 3)(x + 1)",
+     "(2x − 1)(x − 3)",
+     "(2x + 1)(x − 3)",
+     "(2x + 1)(x + 3)"
+    ],
+    "answer": 3,
+    "explanation": "Try pairs that give 2x² at the front and 3 at the end. (2x + 1)(x + 3) = 2x² + 6x + x + 3 = 2x² + 7x + 3. The pair (2x + 3)(x + 1) gives a middle term of 5x.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Factorise 9x² − 25.",
+    "options": [
+     "(3x − 5)²",
+     "(3x − 5)(3x + 5)",
+     "(9x − 5)(x + 5)",
+     "(3x − 5)(x + 5)"
+    ],
+    "answer": 1,
+    "explanation": "9x² = (3x)² and 25 = 5², so this is a difference of two squares: (3x − 5)(3x + 5). Expanding the other options does not return 9x² − 25.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A rectangular solar panel has area (x² + 9x + 20) m² and width (x + 4) m. Which expression gives its length?",
+    "options": [
+     "(x + 16) m",
+     "(x + 9) m",
+     "(x + 5) m",
+     "(x + 20) m"
+    ],
+    "answer": 2,
+    "explanation": "Area = length × width, so length = area ÷ width. Factorising x² + 9x + 20 gives (x + 4)(x + 5), so the length is (x + 5) m.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Simplify (x² − 9) ÷ (x² + 3x), writing it as a fraction.",
+    "options": [
+     "(x − 3)/x",
+     "−3/x",
+     "(x − 3)/3",
+     "x − 3"
+    ],
+    "answer": 0,
+    "explanation": "Factorise first: (x − 3)(x + 3) over x(x + 3). Cancel the common factor (x + 3) to leave (x − 3)/x. You can only cancel factors, never single terms.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is 2x² − 18 fully factorised?",
+    "options": [
+     "2(x − 3)(x + 3)",
+     "2(x² − 9)",
+     "(2x − 6)(x + 3)",
+     "2(x − 3)²"
+    ],
+    "answer": 0,
+    "explanation": "Take out the common factor 2 first, then factorise the difference of two squares x² − 9. Option (2x − 6)(x + 3) expands correctly but still has a common factor of 2 in the first bracket.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Factorise 6x² − x − 12.",
+    "options": [
+     "(3x − 4)(2x + 3)",
+     "(3x + 4)(2x + 3)",
+     "(3x + 4)(2x − 3)",
+     "(6x − 4)(x + 3)"
+    ],
+    "answer": 2,
+    "explanation": "We need factors giving 6x² and −12 so that the middle term is −x. (3x + 4)(2x − 3) = 6x² − 9x + 8x − 12 = 6x² − x − 12. Swapping the signs gives +x instead.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Use factorising to evaluate 75² − 25² without a calculator.",
+    "options": [
+     "2500",
+     "5000",
+     "625",
+     "7500"
+    ],
+    "answer": 1,
+    "explanation": "75² − 25² = (75 − 25)(75 + 25) = 50 × 100 = 5000. The answer is not 50², which is a common slip from thinking the difference of squares is the square of the difference.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Simplify (x² + 5x + 6) ÷ (x² − 4) as a fraction.",
+    "options": [
+     "(x + 3)/(x + 2)",
+     "(5x + 6)/(−4)",
+     "(x + 6)/(x − 2)",
+     "(x + 3)/(x − 2)"
+    ],
+    "answer": 3,
+    "explanation": "The top factorises to (x + 2)(x + 3) and the bottom to (x − 2)(x + 2). Cancel (x + 2) to leave (x + 3)/(x − 2). Cancelling x² terms or the numbers is not allowed.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student notices that n(n + 2) + 1 gives 25, 36 and 49 when n = 4, 5 and 6. After expanding to n² + 2n + 1, which factorised form proves the result is always a perfect square?",
+    "options": [
+     "(n + 2)²",
+     "(n + 1)(n − 1)",
+     "(n + 1)²",
+     "n(n + 1)"
+    ],
+    "answer": 2,
+    "explanation": "n² + 2n + 1 factorises as (n + 1)(n + 1) = (n + 1)². For n = 4 this is 5² = 25, matching the data. This proves the rule for every n.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A rectangular banner has area (2x² + 5x − 12) cm² and length (2x − 3) cm. When x = 5, what is its perimeter?",
+    "options": [
+     "63 cm",
+     "32 cm",
+     "16 cm",
+     "30 cm"
+    ],
+    "answer": 1,
+    "explanation": "Factorising gives (2x − 3)(x + 4), so the width is (x + 4). At x = 5 the length is 7 and the width is 9, so the perimeter is 2 × (7 + 9) = 32 cm. The number 63 is the area.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What is factorising?\nFactorising is the reverse of expanding. You write an expression as a product of smaller parts. Since 3(2x + 3) expands to 6x + 9, we say 6x + 9 factorises to 3(2x + 3). Factorising is a key skill for solving equations, simplifying fractions and proving results.\n\n## Step 1: always look for a common factor\nFind the highest common factor (HCF) of all the terms: the largest number and the highest power of each letter that divides every term. For 8a²b − 12ab², the HCF is 4ab, giving 4ab(2a − 3b). \"Fully factorised\" means nothing more can be taken out of any bracket. Check by looking inside the bracket: if the terms still share a factor, you are not finished.\n\n## Factorising quadratics x² + bx + c\nLook for two numbers that **multiply to c** and **add to b**.\n- x² + 7x + 12: 3 × 4 = 12 and 3 + 4 = 7, so (x + 3)(x + 4).\n- x² − 5x − 24: product −24, sum −5, so the numbers are −8 and +3 and the answer is (x − 8)(x + 3).\n- If c is positive, both numbers have the same sign as b. If c is negative, the numbers have different signs.\n\n## Factorising when the x² has a coefficient\nFor 2x² + 7x + 3, find brackets that give 2x² at the front and 3 at the end, then test the middle term. (2x + 1)(x + 3) gives 6x + x = 7x, so it works. Trial and improvement is fine, but always expand to check.\n\n## Difference of two squares\nAny expression of the form a² − b² factorises to (a − b)(a + b). For example x² − 49 = (x − 7)(x + 7) and 9x² − 25 = (3x − 5)(3x + 5). There must be a minus sign between two perfect squares. Note that x² + 49 does not factorise in this way. This also gives clever mental maths: 75² − 25² = 50 × 100 = 5000.\n\n## Simplifying algebraic fractions\nFactorise the top and bottom completely, then cancel common **factors**. For (x² − 9)/(x² + 3x) you get (x − 3)(x + 3) over x(x + 3), which simplifies to (x − 3)/x. You cannot cancel single terms that are added or subtracted.\n\n## Common mistakes\n- Stopping early, leaving a common factor.\n- Wrong signs in the brackets. Check that the numbers multiply to c and add to b.\n- Writing x² − 49 as (x − 7)², which has a middle term.\n- Cancelling terms such as the x² in a fraction instead of whole factors.\n\n## How this is examined\nFactorising usually appears in a context. A rectangle's area is given as a quadratic expression and you must \"determine\" a missing side, or you are asked to \"show that\" an expression simplifies. In investigations you may be asked to \"justify\" a pattern such as n(n + 2) + 1 always being a square by factorising, then use the rule on a new case. Marks are for the factorised form and for clear working, so show each step.\n\nExam tip: Always expand your factorised answer quickly to check that it matches the original expression.",
+  "flashcards": [
+   {
+    "front": "Factorising",
+    "back": "Writing an expression as a product, the reverse of expanding. Always check by expanding your answer."
+   },
+   {
+    "front": "Fully factorised",
+    "back": "No common factor remains in any bracket. Take out the HCF (number and letters) first, e.g. 8a²b − 12ab² = 4ab(2a − 3b)."
+   },
+   {
+    "front": "Factorising x² + bx + c",
+    "back": "Find two numbers that multiply to c and add to b. Then write (x + p)(x + q)."
+   },
+   {
+    "front": "Signs in a quadratic",
+    "back": "If c is positive, both numbers share the sign of b. If c is negative, the numbers have opposite signs and the larger one takes the sign of b."
+   },
+   {
+    "front": "Difference of two squares",
+    "back": "a² − b² = (a − b)(a + b). Needs a minus sign between two perfect squares. x² + 9 does not factorise this way."
+   },
+   {
+    "front": "Factorise 2x² + 7x + 3",
+    "back": "(2x + 1)(x + 3). Choose factor pairs for the 2x² and the 3, then test that the middle term works."
+   },
+   {
+    "front": "Simplifying algebraic fractions",
+    "back": "Factorise the top and bottom completely, then cancel common factors. Never cancel individual terms in a sum."
+   },
+   {
+    "front": "Why check by expanding?",
+    "back": "Expanding your brackets must give back the original expression. It quickly catches sign errors and missing common factors."
+   },
+   {
+    "front": "Mental maths trick",
+    "back": "a² − b² = (a + b)(a − b), so 101² − 99² = 200 × 2 = 400."
+   }
+  ]
+ },
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Algebra Foundations",
+  "subTopic": "Linear Equations and Inequalities",
+  "questions": [
+   {
+    "content": "Solve 3x + 5 = 20.",
+    "options": [
+     "x = 15",
+     "x = 25/3",
+     "x = 5",
+     "x = −5"
+    ],
+    "answer": 2,
+    "explanation": "Subtract 5 from both sides to get 3x = 15, then divide by 3 to get x = 5. Check: 3 × 5 + 5 = 20.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Solve x/4 − 2 = 3.",
+    "options": [
+     "x = 20",
+     "x = 5",
+     "x = 4",
+     "x = 12"
+    ],
+    "answer": 0,
+    "explanation": "Add 2 to both sides: x/4 = 5. Multiply both sides by 4 to get x = 20. The value 5 is the answer to the intermediate step, not to x.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Solve 5(x − 2) = 15.",
+    "options": [
+     "x = 3",
+     "x = 17/5",
+     "x = 1",
+     "x = 5"
+    ],
+    "answer": 3,
+    "explanation": "Expand: 5x − 10 = 15, so 5x = 25 and x = 5. Alternatively divide by 5 first to get x − 2 = 3, then add 2. Forgetting to add 2 gives 3.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Solve the inequality 2x − 3 > 7.",
+    "options": [
+     "x > 2",
+     "x > 5",
+     "x < 5",
+     "x ≥ 5"
+    ],
+    "answer": 1,
+    "explanation": "Add 3 to get 2x > 10, then divide by 2 to get x > 5. The sign stays the same because we divided by a positive number, and it is strict (>) so 5 is not included.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A sign says that a rider must be at least 6 years old. Which inequality shows the age n?",
+    "options": [
+     "n > 6",
+     "n ≥ 6",
+     "n ≤ 6",
+     "n < 6"
+    ],
+    "answer": 1,
+    "explanation": "\"At least 6\" includes 6 itself and everything above it, so n ≥ 6. The strict inequality n > 6 would exclude a 6-year-old.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Solve 7x − 3 = 4x + 12.",
+    "options": [
+     "x = 3",
+     "x = 15/11",
+     "x = −5",
+     "x = 5"
+    ],
+    "answer": 3,
+    "explanation": "Subtract 4x from both sides: 3x − 3 = 12. Then add 3 to get 3x = 15, so x = 5. Check: 7(5) − 3 = 32 and 4(5) + 12 = 32.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve 3(2x − 1) = 2(x + 5).",
+    "options": [
+     "x = 13/4",
+     "x = 7/4",
+     "x = 13/8",
+     "x = 3"
+    ],
+    "answer": 0,
+    "explanation": "Expand both sides: 6x − 3 = 2x + 10. Subtract 2x and add 3 to get 4x = 13, so x = 13/4 = 3.25. Moving the −3 with the wrong sign gives 7/4.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve (x + 1)/3 = (2x − 1)/5.",
+    "options": [
+     "x = 8/7",
+     "x = −8",
+     "x = 8",
+     "x = 4"
+    ],
+    "answer": 2,
+    "explanation": "Cross-multiply: 5(x + 1) = 3(2x − 1), so 5x + 5 = 6x − 3. Rearranging gives x = 8. Multiplying the wrong denominators gives 8/7.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve −3 ≤ 2x + 1 < 9.",
+    "options": [
+     "−1 ≤ x < 5",
+     "−4 ≤ x < 8",
+     "−2 < x ≤ 4",
+     "−2 ≤ x < 4"
+    ],
+    "answer": 3,
+    "explanation": "Subtract 1 from every part: −4 ≤ 2x < 8. Divide every part by 2: −2 ≤ x < 4. The inequality signs keep their original form.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve −2x ≥ 8.",
+    "options": [
+     "x ≥ −4",
+     "x ≤ −4",
+     "x ≤ 4",
+     "x ≥ 4"
+    ],
+    "answer": 1,
+    "explanation": "Dividing both sides by −2 reverses the inequality sign, so x ≤ −4. Check: x = −5 gives −2 × (−5) = 10, which is at least 8.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A phone plan costs £12 per month plus £0.05 for each text. One month's bill is £17.50. How many texts were sent?",
+    "options": [
+     "350",
+     "240",
+     "110",
+     "11"
+    ],
+    "answer": 2,
+    "explanation": "The equation is 12 + 0.05t = 17.50. Subtract 12 to get 0.05t = 5.50, then divide by 0.05 to get t = 110. The value 350 ignores the £12 fixed charge.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A rectangle has length (x + 5) cm and width (x − 1) cm, and its perimeter is 40 cm. Find x.",
+    "options": [
+     "8",
+     "18",
+     "7",
+     "12"
+    ],
+    "answer": 0,
+    "explanation": "Perimeter = 2(length + width) = 2(2x + 4) = 4x + 8. Setting 4x + 8 = 40 gives x = 8. Forgetting to double leads to x = 18.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A taxi charges £4 plus £2.50 per kilometre. Sam has £30. What is the greatest whole number of kilometres he can travel?",
+    "options": [
+     "10",
+     "11",
+     "12",
+     "10.4"
+    ],
+    "answer": 0,
+    "explanation": "Solve 4 + 2.5k ≤ 30, so 2.5k ≤ 26 and k ≤ 10.4. The question asks for a whole number of kilometres, so round down to 10. Rounding up to 11 would cost £31.50.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve (3x − 1)/2 − (x + 2)/3 = 7.",
+    "options": [
+     "x = 41/7",
+     "x = 2",
+     "x = 7",
+     "x = −7"
+    ],
+    "answer": 2,
+    "explanation": "Multiply everything by 6: 3(3x − 1) − 2(x + 2) = 42, so 9x − 3 − 2x − 4 = 42 and 7x = 49. The subtracted bracket changes the sign of both terms; forgetting this gives 41/7.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Ben is 24 years old and Alex is x years old. In 6 years, Ben will be twice as old as Alex. Find Alex's current age.",
+    "options": [
+     "15",
+     "9",
+     "12",
+     "6"
+    ],
+    "answer": 1,
+    "explanation": "In 6 years Ben is 30 and Alex is x + 6. So 30 = 2(x + 6), giving x + 6 = 15 and x = 9. The answer 15 is Alex's age in 6 years, not now.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "How many integer values of x satisfy both 2x − 5 < 9 and 3x + 1 ≥ 10?",
+    "options": [
+     "5",
+     "3",
+     "6",
+     "4"
+    ],
+    "answer": 3,
+    "explanation": "The first gives x < 7 and the second gives x ≥ 3. The integers are 3, 4, 5 and 6, which is 4 values. 7 is not included because the first inequality is strict.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Solve 2(x + 3)/5 = x − 3.",
+    "options": [
+     "x = 3",
+     "x = −7",
+     "x = 7",
+     "x = 9/7"
+    ],
+    "answer": 2,
+    "explanation": "Multiply both sides by 5: 2(x + 3) = 5(x − 3), so 2x + 6 = 5x − 15. Then 21 = 3x and x = 7. Check: 2 × 10/5 = 4 and 7 − 3 = 4.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student solves 3 − 2x > 11 and writes x > −4. Which statement is correct?",
+    "options": [
+     "Correct, because −2x > 8 gives x > −4",
+     "Incorrect: dividing by −2 reverses the sign, so x < −4",
+     "Incorrect: the answer should be x > 4",
+     "Incorrect: the answer should be x < 4"
+    ],
+    "answer": 1,
+    "explanation": "Subtracting 3 gives −2x > 8. Dividing by a negative number reverses the inequality, so x < −4. Test: x = −5 gives 3 + 10 = 13, which is greater than 11.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Solving linear equations\nA linear equation contains a variable to the power 1 only. To solve it, do the same operation to both sides, undoing operations in the reverse order. For 3x + 5 = 20, subtract 5 to get 3x = 15, then divide by 3. Always check by substituting your answer back into the original equation.\n\n## Brackets and fractions\n- Expand brackets first: 5(x − 2) = 15 becomes 5x − 10 = 15.\n- Alternatively divide by the outside number if it divides evenly: x − 2 = 3.\n- With fractions, multiply every term by the common denominator. For (x + 1)/3 = (2x − 1)/5, cross-multiplying gives 5(x + 1) = 3(2x − 1).\n- If an expression with a minus in front is in brackets, change the sign of each term when you remove the bracket.\n\n## Letters on both sides\nCollect the x terms on one side and the numbers on the other. For 7x − 3 = 4x + 12, subtract 4x to get 3x − 3 = 12, then add 3 to get 3x = 15. Choosing to move the smaller x term keeps the coefficient positive, which makes errors less likely.\n\n## Forming equations from a context\nDefine a letter, translate each sentence into algebra, then solve. If a plan costs £12 plus £0.05 per text and the bill is £17.50, the equation is 12 + 0.05t = 17.50. Always answer in words with the correct units, and check that the solution makes sense: a number of texts must be a whole number.\n\n## Inequalities\nInequalities use <, >, ≤ and ≥. Solve them like equations, with **one key difference**: if you multiply or divide by a negative number, the inequality sign reverses. So −2x ≥ 8 becomes x ≤ −4. On a number line, a filled circle means the end value is included (≤ or ≥) and an open circle means it is not (< or >). A double inequality such as −3 ≤ 2x + 1 < 9 is solved by doing the same to all three parts, giving −2 ≤ x < 4.\n\n## Common mistakes\n- Not applying an operation to every term, especially when multiplying by a denominator.\n- Sign errors when moving terms across the equals sign.\n- Forgetting to flip the inequality when dividing by a negative number.\n- Giving a decimal where a whole number is needed, or rounding in the wrong direction, such as rounding up a maximum.\n\n## How this is examined\nQuestions set a scenario such as a taxi fare, a phone tariff or a school trip budget. You are asked to \"write down\" an equation or inequality, \"solve\" it, then \"interpret\" or \"justify\" your answer within the context, for example choosing the greatest whole number that stays within a budget. A \"verify\" command term means substitute your answer back in and show both sides are equal. Extended tasks reward stating assumptions, such as prices staying constant, and evaluating whether the model is realistic.\n\nExam tip: Write one step per line, and for any inequality involving a negative coefficient, circle the step where the sign flips.",
+  "flashcards": [
+   {
+    "front": "Solving an equation",
+    "back": "Do the same to both sides, undoing operations in reverse order. Check by substituting the answer back into the original equation."
+   },
+   {
+    "front": "Equations with fractions",
+    "back": "Multiply every term by the common denominator (or cross-multiply) to remove the fractions, then solve as normal."
+   },
+   {
+    "front": "x on both sides",
+    "back": "Move the x terms to one side and the numbers to the other, e.g. 7x − 3 = 4x + 12 gives 3x = 15, so x = 5."
+   },
+   {
+    "front": "Forming an equation",
+    "back": "Define a letter, translate each sentence into algebra, solve, and answer in words with units. Check the answer makes sense."
+   },
+   {
+    "front": "Inequality symbols",
+    "back": "< less than, > greater than, ≤ less than or equal to, ≥ greater than or equal to. \"At least\" means ≥, \"at most\" means ≤."
+   },
+   {
+    "front": "The negative rule",
+    "back": "Multiplying or dividing an inequality by a negative number reverses the sign: −2x ≥ 8 gives x ≤ −4."
+   },
+   {
+    "front": "Number line circles",
+    "back": "Filled circle: the value is included (≤ or ≥). Open circle: the value is not included (< or >)."
+   },
+   {
+    "front": "Double inequality",
+    "back": "Do the same operation to all three parts: −3 ≤ 2x + 1 < 9 gives −4 ≤ 2x < 8, so −2 ≤ x < 4."
+   },
+   {
+    "front": "Whole-number answers",
+    "back": "If the context needs whole units, round in the direction that keeps the condition true: a maximum is rounded down."
+   }
+  ]
+ },
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Algebra Foundations",
+  "subTopic": "Rearranging Formulae",
+  "questions": [
+   {
+    "content": "Make x the subject of y = x + 5.",
+    "options": [
+     "x = y + 5",
+     "x = 5 − y",
+     "x = y − 5",
+     "x = y/5"
+    ],
+    "answer": 2,
+    "explanation": "To get x on its own, undo the + 5 by subtracting 5 from both sides: x = y − 5. Inverse operations are used on both sides of the formula.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The force F on an object is given by F = ma. Make m the subject.",
+    "options": [
+     "m = F/a",
+     "m = Fa",
+     "m = a/F",
+     "m = F − a"
+    ],
+    "answer": 0,
+    "explanation": "m is multiplied by a, so divide both sides by a to get m = F/a. Subtracting a would only undo an addition.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Make r the subject of the formula C = 2πr for the circumference of a circle.",
+    "options": [
+     "r = 2πC",
+     "r = C − 2π",
+     "r = C/π",
+     "r = C/(2π)"
+    ],
+    "answer": 3,
+    "explanation": "The right-hand side is 2π multiplied by r, so divide both sides by 2π. Dividing by π alone would leave r as twice its real value.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Make q the subject of p = 3q − 4.",
+    "options": [
+     "q = (p − 4)/3",
+     "q = (p + 4)/3",
+     "q = p/3 + 4",
+     "q = 3(p + 4)"
+    ],
+    "answer": 1,
+    "explanation": "First add 4 to both sides: p + 4 = 3q. Then divide the whole of the left-hand side by 3. Dividing only one term, as in p/3 + 4, is a common slip.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The area of a triangle is A = ½bh. Find A when b = 8 cm and h = 5 cm.",
+    "options": [
+     "40 cm²",
+     "20 cm²",
+     "13 cm²",
+     "10 cm²"
+    ],
+    "answer": 1,
+    "explanation": "Substitute: A = ½ × 8 × 5 = 20 cm². Forgetting the ½ gives 40, and adding the numbers is not what the formula says.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Make x the subject of y = mx + c.",
+    "options": [
+     "x = (y + c)/m",
+     "x = y − c/m",
+     "x = ym − c",
+     "x = (y − c)/m"
+    ],
+    "answer": 3,
+    "explanation": "Subtract c from both sides to get y − c = mx. Then divide the whole of the left side by m: x = (y − c)/m. Dividing only c by m would be incorrect.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Make r the subject of the area formula A = πr².",
+    "options": [
+     "r = √(A/π)",
+     "r = √A/π",
+     "r = A/π",
+     "r = (A/π)²"
+    ],
+    "answer": 0,
+    "explanation": "Divide both sides by π to get r² = A/π, then take the square root of the whole fraction. The square root must be applied to A/π, not to A alone.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Make a the subject of the perimeter formula P = 2(a + b).",
+    "options": [
+     "a = P − 2b",
+     "a = (P − b)/2",
+     "a = P/2 − b",
+     "a = 2P − b"
+    ],
+    "answer": 2,
+    "explanation": "Divide both sides by 2 to get P/2 = a + b, then subtract b. Note that a = (P − b)/2 is wrong because b is not divided by 2. P/2 − b is the same as (P − 2b)/2.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Make x the subject of y = (x + 3)/4.",
+    "options": [
+     "x = 4y + 3",
+     "x = (y − 3)/4",
+     "x = 4(y + 3)",
+     "x = 4y − 3"
+    ],
+    "answer": 3,
+    "explanation": "Multiply both sides by 4 to get 4y = x + 3, then subtract 3: x = 4y − 3. The 3 is subtracted after multiplying by 4, so it is not multiplied by 4 again.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The kinetic energy of a moving object is E = ½mv². Make v the subject.",
+    "options": [
+     "v = √(E/(2m))",
+     "v = √(2E/m)",
+     "v = √(2E)/m",
+     "v = 2E/m²"
+    ],
+    "answer": 1,
+    "explanation": "Multiply both sides by 2 to get 2E = mv², divide by m to get v² = 2E/m, then take the square root of the whole fraction.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The formula F = 1.8C + 32 converts degrees Celsius to degrees Fahrenheit. Which value of C corresponds to F = 77?",
+    "options": [
+     "10.8 °C",
+     "60.6 °C",
+     "25 °C",
+     "81 °C"
+    ],
+    "answer": 2,
+    "explanation": "Rearrange to C = (F − 32)/1.8. Then C = (77 − 32)/1.8 = 45/1.8 = 25 °C. Subtract 32 before dividing; dividing 77 first gives 10.8.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Speed is v = d/t. Make t the subject, then find the time in hours to travel d = 135 km at v = 90 km/h.",
+    "options": [
+     "t = d/v = 1.5 hours",
+     "t = v/d = 0.67 hours",
+     "t = dv = 12 150 hours",
+     "t = d − v = 45 hours"
+    ],
+    "answer": 0,
+    "explanation": "Multiply both sides by t and then divide by v to get t = d/v. Then t = 135 ÷ 90 = 1.5 hours. Inverting the fraction (v ÷ d) gives 0.67 hours, a common slip.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Make x the subject of ax + b = cx + d.",
+    "options": [
+     "x = (d − b)/(a − c)",
+     "x = (d + b)/(a − c)",
+     "x = (d − b)/(a + c)",
+     "x = (b − d)/(a − c)"
+    ],
+    "answer": 0,
+    "explanation": "Collect x terms on one side: ax − cx = d − b. Factorise: x(a − c) = d − b. Then divide by (a − c). The sign of each term changes as it crosses the equals sign.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Make x the subject of y = (x + 1)/(x − 2).",
+    "options": [
+     "x = (2y − 1)/(y − 1)",
+     "x = (2y + 1)/(y + 1)",
+     "x = (2y + 1)/(y − 1)",
+     "x = (y + 1)/(2y − 1)"
+    ],
+    "answer": 2,
+    "explanation": "Multiply by (x − 2): yx − 2y = x + 1. Gather x terms: yx − x = 2y + 1. Factorise: x(y − 1) = 2y + 1. So x = (2y + 1)/(y − 1). The subject appears twice, so factorising is essential.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The area of a trapezium is A = ½(a + b)h. Make b the subject.",
+    "options": [
+     "b = 2A/h + a",
+     "b = 2A/h − a",
+     "b = 2A − ah",
+     "b = (2A − a)/h"
+    ],
+    "answer": 1,
+    "explanation": "Multiply by 2: 2A = (a + b)h. Divide by h: 2A/h = a + b. Subtract a: b = 2A/h − a. In (2A − a)/h, the a was not divided by h.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The volume of a sphere is V = (4/3)πr³. Which expression gives r in terms of V?",
+    "options": [
+     "r = ∛(4V/(3π))",
+     "r = √(3V/(4π))",
+     "r = 3V/(4π)",
+     "r = ∛(3V/(4π))"
+    ],
+    "answer": 3,
+    "explanation": "Multiply by 3 and divide by 4π: r³ = 3V/(4π). Then take the cube root, not the square root. Using 4/3 instead of its reciprocal is the other common error.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A pendulum has period T = 2π√(L/g). Rearranged, L = gT²/(4π²). A student measures T = 2.0 s and uses g = 9.8 m/s². What is the pendulum length L to 2 decimal places?",
+    "options": [
+     "6.24 m",
+     "3.12 m",
+     "0.99 m",
+     "9.73 m"
+    ],
+    "answer": 2,
+    "explanation": "L = 9.8 × 2.0² ÷ (4π²) = 39.2 ÷ 39.478 = 0.9929, which is 0.99 m to 2 d.p. The other answers forget to square T or π, or square the whole fraction.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Make a the subject of s = ut + ½at².",
+    "options": [
+     "a = (2s − ut)/t²",
+     "a = 2(s − ut)/t²",
+     "a = 2(s − u)/t",
+     "a = (s − ut)/(2t²)"
+    ],
+    "answer": 1,
+    "explanation": "Subtract ut: s − ut = ½at². Multiply by 2: 2(s − ut) = at². Divide by t²: a = 2(s − ut)/t². Multiplying only s by 2 misses the ut term.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What is the subject of a formula?\nThe subject of a formula is the letter on its own on one side. In A = ½bh, the subject is A. Rearranging (also called changing the subject) means rewriting the formula so a different letter is on its own, without changing what the formula says. It is the same skill as solving an equation, just with letters instead of numbers.\n\n## The balance method\nWhatever you do to one side you must do to the other. Work out the order of operations applied to the letter you want, then undo them in reverse order using inverse operations:\n- the inverse of + is −, and the inverse of × is ÷\n- the inverse of squaring is the square root, and the inverse of cubing is the cube root\nFor p = 3q − 4: add 4 to get p + 4 = 3q, then divide **everything** by 3 to get q = (p + 4)/3.\n\n## Brackets and fractions\nWhen a whole side is divided or multiplied, treat it as a single block. For y = mx + c, subtract c to get y − c = mx, then divide the entire left side: x = (y − c)/m. If the formula has a fraction like y = (x + 3)/4, multiply both sides by 4 first: x = 4y − 3. With a bracket such as P = 2(a + b), you can divide by 2 first to get P/2 = a + b, then subtract b.\n\n## Powers and roots\nFor A = πr², divide by π to get r² = A/π, then take the square root of the whole fraction, giving r = √(A/π). For V = (4/3)πr³, multiply by 3, divide by 4π, then take the cube root. Choose the root that matches the power.\n\n## When the subject appears twice\nSometimes the letter you want appears in more than one place, as in ax + b = cx + d or y = (x + 1)/(x − 2). Remove any fractions, expand brackets, move every term with the target letter to one side, then **factorise** so the letter appears once. For ax + b = cx + d: ax − cx = d − b, so x(a − c) = d − b and x = (d − b)/(a − c).\n\n## Common mistakes\n- Dividing only one term instead of the whole side.\n- Doing operations in the wrong order, such as taking a square root before dividing.\n- Sign errors when moving terms across.\n- Using a root that does not match the power.\n\n## How this is examined\nIn eAssessment-style tasks the formula appears in a context such as converting temperatures, finding the length of a pendulum or the radius of a water tank. You are asked to \"rearrange\" or \"determine\" a quantity, then substitute values and give your answer to a stated degree of accuracy. Real-world tasks reward stating assumptions (for example, using g = 9.8 m/s²), choosing sensible units and rounding, and commenting on whether the answer is reasonable. You can verify your rearrangement by substituting a value into both versions.\n\nExam tip: Test your rearranged formula with simple numbers. If it does not give back the original value, you have made a mistake.",
+  "flashcards": [
+   {
+    "front": "Subject of a formula",
+    "back": "The letter on its own on one side, e.g. A in A = ½bh. Rearranging gets a different letter on its own."
+   },
+   {
+    "front": "Rearranging rule",
+    "back": "Do the same to both sides. Undo operations in the reverse order using inverse operations."
+   },
+   {
+    "front": "Inverse operations",
+    "back": "+ and − undo each other, × and ÷ undo each other, squares and square roots undo each other, cubes and cube roots undo each other."
+   },
+   {
+    "front": "Rearrange y = mx + c for x",
+    "back": "x = (y − c)/m. Subtract c first, then divide the whole left side by m."
+   },
+   {
+    "front": "Rearrange A = πr² for r",
+    "back": "r = √(A/π). Divide by π first, then take the square root of the whole fraction."
+   },
+   {
+    "front": "Rearrange V = (4/3)πr³ for r",
+    "back": "r = ∛(3V/(4π)). Multiply by 3, divide by 4π, then take the cube root."
+   },
+   {
+    "front": "Subject appears twice",
+    "back": "Expand, gather terms with the subject on one side, factorise so it appears once, then divide. E.g. ax + b = cx + d gives x = (d − b)/(a − c)."
+   },
+   {
+    "front": "Speed, distance, time",
+    "back": "v = d/t, so d = vt and t = d/v. Keep units consistent (km and hours, or m and seconds)."
+   },
+   {
+    "front": "Checking a rearrangement",
+    "back": "Substitute simple numbers into the original and rearranged formula. Both must agree."
+   }
+  ]
+ }
+]

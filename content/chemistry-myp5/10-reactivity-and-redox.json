@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "chemistry",
+  "grade": 5,
+  "topic": "Reactivity and Redox",
+  "subTopic": "Reactivity Series and Displacement",
+  "questions": [
+   {
+    "content": "A student lists four metals: copper, zinc, magnesium and silver. Which of these metals is the MOST reactive?",
+    "options": [
+     "Copper",
+     "Magnesium",
+     "Zinc",
+     "Silver"
+    ],
+    "answer": 1,
+    "explanation": "In the reactivity series the order from most to least reactive here is magnesium, zinc, copper, silver.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Small pieces of four metals are dropped into cold water. Which metal reacts vigorously, fizzing and moving around the surface to give hydrogen and a metal hydroxide?",
+    "options": [
+     "Copper",
+     "Iron",
+     "Zinc",
+     "Sodium"
+    ],
+    "answer": 3,
+    "explanation": "Sodium is a very reactive Group 1 metal. Copper, iron and zinc do not react with cold water.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Magnesium ribbon is added to dilute hydrochloric acid. Which products are formed?",
+    "options": [
+     "Magnesium chloride and hydrogen",
+     "Magnesium oxide and water",
+     "Magnesium chloride and oxygen",
+     "Magnesium hydroxide and hydrogen"
+    ],
+    "answer": 0,
+    "explanation": "A reactive metal reacts with an acid to form a salt and hydrogen. With hydrochloric acid the salt is a chloride.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A gas is collected from a reaction between zinc and dilute acid. A lit splint is held at the mouth of the test tube and a squeaky pop is heard. Which gas is present?",
+    "options": [
+     "Oxygen",
+     "Carbon dioxide",
+     "Hydrogen",
+     "Chlorine"
+    ],
+    "answer": 2,
+    "explanation": "The squeaky pop is the standard test for hydrogen. Oxygen relights a glowing splint and carbon dioxide turns limewater milky.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which metal would show NO reaction when added to dilute hydrochloric acid?",
+    "options": [
+     "Zinc",
+     "Iron",
+     "Copper",
+     "Magnesium"
+    ],
+    "answer": 2,
+    "explanation": "Copper is below hydrogen in the reactivity series, so it cannot displace hydrogen from an acid.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A strip of zinc is placed in blue copper(II) sulfate solution for 20 minutes. Which observations are expected?",
+    "options": [
+     "The blue colour fades and a reddish-brown solid forms on the zinc",
+     "The solution turns darker blue and zinc dissolves",
+     "The blue colour stays the same and bubbles form",
+     "The solution turns green and a grey solid forms"
+    ],
+    "answer": 0,
+    "explanation": "Zinc is more reactive than copper so it displaces copper. Copper is deposited as a reddish-brown solid and as Cu²⁺ ions are used up the blue colour fades.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Four tests are planned. In which test will a chemical reaction occur?",
+    "options": [
+     "Copper wire in zinc sulfate solution",
+     "Silver wire in copper(II) sulfate solution",
+     "Copper wire in magnesium sulfate solution",
+     "An iron nail in copper(II) sulfate solution"
+    ],
+    "answer": 3,
+    "explanation": "A metal can only displace a less reactive metal from its salt. Iron is more reactive than copper. In the other three tests the metal in solid form is less reactive than the metal in solution.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Zinc reacts with copper(II) sulfate solution. Which ionic equation represents the displacement?",
+    "options": [
+     "Zn²⁺ + Cu → Zn + Cu²⁺",
+     "Zn + Cu²⁺ → Zn²⁺ + Cu",
+     "Zn + Cu → Zn²⁺ + Cu²⁺",
+     "Zn + SO₄²⁻ → ZnSO₄ + 2e⁻"
+    ],
+    "answer": 1,
+    "explanation": "Zinc atoms lose electrons to form Zn²⁺ and copper ions gain electrons to form copper atoms. The sulfate ions are spectator ions and are left out.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Four unknown metals W, X, Y and Z are tested. X fizzes rapidly in cold water. Z does not react with cold water but reacts with steam. Y reacts only with dilute acid. W does not react with acid. What is the order from MOST to LEAST reactive?",
+    "options": [
+     "W, Y, Z, X",
+     "X, Y, Z, W",
+     "Z, X, W, Y",
+     "X, Z, Y, W"
+    ],
+    "answer": 3,
+    "explanation": "Reacting with cold water needs the highest reactivity, then steam, then acid. A metal that does not react with acid is the least reactive.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Metal M displaces metal N from a solution of N nitrate. Metal M does NOT displace metal P from a solution of P nitrate. What is the order of reactivity from most to least reactive?",
+    "options": [
+     "N, M, P",
+     "P, M, N",
+     "M, N, P",
+     "M, P, N"
+    ],
+    "answer": 1,
+    "explanation": "M is more reactive than N because it displaces it. M cannot displace P so P is more reactive than M. The order is P, M, N.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Magnesium and zinc are each added to the same acid under identical conditions. Magnesium produces bubbles much faster. Which is the best explanation?",
+    "options": [
+     "Magnesium atoms are heavier than zinc atoms",
+     "Magnesium has more outer electrons than zinc",
+     "Magnesium loses electrons to form ions more readily than zinc",
+     "Magnesium forms a coating that speeds up the reaction"
+    ],
+    "answer": 2,
+    "explanation": "Higher reactivity means a greater tendency to lose electrons and form positive ions. Zinc is actually the heavier atom and having more outer electrons does not make a metal more reactive.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student reacts 0.24 g of magnesium (Ar = 24) with excess dilute hydrochloric acid. Mg + 2HCl → MgCl₂ + H₂. One mole of any gas occupies 24 000 cm³ at room temperature. What volume of hydrogen is collected?",
+    "options": [
+     "240 cm³",
+     "24 cm³",
+     "120 cm³",
+     "480 cm³"
+    ],
+    "answer": 0,
+    "explanation": "Moles of Mg = 0.24 ÷ 24 = 0.01 mol. The ratio of Mg to H₂ is 1:1 so 0.01 mol of hydrogen forms. Volume = 0.01 × 24 000 = 240 cm³.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Railway workers weld steel tracks using a mixture of aluminium powder and iron(III) oxide. The reaction produces molten iron. Which statement explains why the reaction happens?",
+    "options": [
+     "Iron is more reactive than aluminium so it releases heat",
+     "Aluminium is more reactive than iron so it displaces iron from its oxide",
+     "Aluminium is a catalyst and is not used up",
+     "Iron oxide is an acid and aluminium neutralises it"
+    ],
+    "answer": 1,
+    "explanation": "This displacement reaction is very exothermic and makes the iron molten. It only occurs because aluminium is higher than iron in the reactivity series.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An excess of zinc (Ar = 65) is added to copper(II) sulfate solution. 0.65 g of zinc reacts completely. Zn + CuSO₄ → ZnSO₄ + Cu. What mass of copper (Ar = 63.5) is formed?",
+    "options": [
+     "0.65 g",
+     "1.27 g",
+     "0.0635 g",
+     "0.635 g"
+    ],
+    "answer": 3,
+    "explanation": "Moles of Zn that react = 0.65 ÷ 65 = 0.01 mol. The ratio is 1:1 so 0.01 mol of Cu forms. Mass = 0.01 × 63.5 = 0.635 g. The masses of zinc and copper are not equal because their Ar values are different.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student compares metals by adding equal-sized pieces of Mg, Zn, Fe and Ag to separate beakers of copper(II) sulfate solution and measuring the temperature rise. The results are Mg 25 °C, Zn 12 °C, Fe 5 °C and Ag 0 °C. Which change would MOST improve the fairness of the investigation?",
+    "options": [
+     "Use the same number of moles of each metal, in the same form, with the same volume of solution",
+     "Use a different copper salt for each metal",
+     "Add the metals one after another to the same beaker",
+     "Use a larger piece of silver because it is unreactive"
+    ],
+    "answer": 0,
+    "explanation": "Fair testing needs one variable changed and others controlled. Mass or surface area differences would change the temperature rise independently of reactivity. Using the same beaker would mix the reactions.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student predicts that adding potassium to copper(II) sulfate solution will give a displacement and produce copper. Which evaluation is correct?",
+    "options": [
+     "Correct, because potassium is more reactive than copper",
+     "Incorrect, because potassium is less reactive than copper",
+     "Incorrect, because potassium reacts with the water first, giving hydrogen and a blue precipitate of copper(II) hydroxide",
+     "Correct, because the solution contains copper ions"
+    ],
+    "answer": 2,
+    "explanation": "Very reactive metals such as potassium react with water in the solution before they can displace another metal. The hydroxide ions formed then precipitate copper(II) hydroxide.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An iron nail of mass 0.56 g (Ar of Fe = 56) is left in excess copper(II) sulfate solution until all of the iron has dissolved. The copper (Ar = 63.5) is all deposited on a plastic rod. By how much does the mass of solid change, compared with the starting nail?",
+    "options": [
+     "It decreases by 0.075 g",
+     "It increases by 0.635 g",
+     "It increases by 0.075 g",
+     "It does not change"
+    ],
+    "answer": 2,
+    "explanation": "0.56 ÷ 56 = 0.01 mol of iron gives 0.01 mol of copper. That is 0.01 × 63.5 = 0.635 g. 0.635 − 0.56 = 0.075 g gain, because a copper atom is heavier than an iron atom.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A 2.00 g mixture of zinc and copper powders is added to excess dilute sulfuric acid. When the reaction stops the mixture is filtered, washed and dried. The residue has a mass of 0.70 g. What is the percentage by mass of zinc in the mixture?",
+    "options": [
+     "65%",
+     "35%",
+     "70%",
+     "30%"
+    ],
+    "answer": 0,
+    "explanation": "Only zinc reacts with the acid, so the residue is copper. Zinc = 2.00 − 0.70 = 1.30 g. 1.30 ÷ 2.00 × 100 = 65%. A common slip is to give the percentage of copper.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "The reactivity series ranks metals from most reactive to least reactive. A common order to learn is potassium, sodium, calcium, magnesium, aluminium, (carbon), zinc, iron, (hydrogen), copper, silver, gold. Carbon and hydrogen are non-metals but are included because they help us predict what happens in reactions.\n\n## What reactivity means\nA metal's reactivity is its tendency to lose electrons and form positive ions. Very reactive metals lose electrons easily. Unreactive metals hold on to their electrons and are often found uncombined in nature.\n\n## How the series is built\nWe rank metals using observations:\n- **Reaction with water:** potassium, sodium and calcium react with cold water. Magnesium reacts very slowly with cold water but burns in steam. Zinc and iron react with steam only.\n- **Reaction with dilute acid:** metals above hydrogen react to give a salt and hydrogen gas. Copper, silver and gold do not react.\n- **Reaction with oxygen:** more reactive metals burn more brightly and form oxides more readily.\n- Test for hydrogen: a lit splint gives a squeaky pop.\n\nThe general word equation is: metal + acid → salt + hydrogen. For example, Zn + 2HCl → ZnCl₂ + H₂.\n\n## Displacement reactions\nA more reactive metal will displace a less reactive metal from a solution of its salt, or from its oxide. For example, if an iron nail is placed in copper(II) sulfate solution, the nail becomes coated in reddish-brown copper and the blue colour fades:\n\nFe + CuSO₄ → FeSO₄ + Cu\n\nThe ionic equation leaves out the spectator ions: Fe + Cu²⁺ → Fe²⁺ + Cu. The iron atoms lose electrons and the copper ions gain them. If the metal in the solid form is less reactive than the metal in the solution, nothing happens.\n\n## Worked example\n0.65 g of zinc (Ar = 65) reacts with excess copper(II) sulfate. Moles of zinc = 0.65 ÷ 65 = 0.01 mol. The ratio of Zn to Cu is 1:1, so moles of Cu = 0.01 mol and mass of Cu = 0.01 × 63.5 = 0.635 g.\n\n## Common mistakes\n- Thinking aluminium is unreactive because it seems unreactive in everyday life. Its protective oxide layer hides its true position high in the series.\n- Expecting potassium or sodium to displace copper from solution. They react with water first.\n- Mixing up which substance is the solid and which is in solution when predicting displacement.\n- Forgetting that the spectator ions are not in the ionic equation.\n\n## How this is examined\nExpect an experiment with results in a short data set, for example temperature rises or observations when metals are added to salt solutions. You may be asked to put unknown metals in order, to write a word or ionic equation, to calculate a mass or gas volume, and to evaluate whether a test is fair by naming variables to control. Extended tasks ask you to justify a prediction and comment on the reliability of the method.\n\nExam tip: When ordering metals, use evidence in each case (for example \"X reacts with cold water but Y does not, so X is more reactive\") and always compare metals directly rather than describing them alone.",
+  "flashcards": [
+   {
+    "front": "Reactivity of a metal",
+    "back": "How easily a metal loses electrons to form positive ions. The more easily it loses electrons, the more reactive it is."
+   },
+   {
+    "front": "Order of the common reactivity series",
+    "back": "K, Na, Ca, Mg, Al, (C), Zn, Fe, (H), Cu, Ag, Au - most reactive to least reactive."
+   },
+   {
+    "front": "Metal + acid",
+    "back": "Salt + hydrogen. Only metals above hydrogen in the series react with dilute acids."
+   },
+   {
+    "front": "Test for hydrogen",
+    "back": "Hold a lit splint at the mouth of the tube. Hydrogen burns with a squeaky pop."
+   },
+   {
+    "front": "Displacement reaction",
+    "back": "A more reactive metal takes the place of a less reactive metal in a compound or solution of its salt."
+   },
+   {
+    "front": "Observations: zinc in copper(II) sulfate",
+    "back": "Blue solution fades to colourless and a reddish-brown solid (copper) forms on the zinc."
+   },
+   {
+    "front": "Ionic equation for Zn + CuSO₄",
+    "back": "Zn + Cu²⁺ → Zn²⁺ + Cu. Sulfate ions are spectator ions so they are not included."
+   },
+   {
+    "front": "Why aluminium appears unreactive",
+    "back": "It is covered by a thin, tough layer of aluminium oxide that stops the metal underneath from reacting."
+   },
+   {
+    "front": "Reaction of K, Na and Ca with water",
+    "back": "They react with cold water to give a metal hydroxide and hydrogen. Potassium is the most vigorous of the three."
+   }
+  ]
+ },
+ {
+  "subject": "chemistry",
+  "grade": 5,
+  "topic": "Reactivity and Redox",
+  "subTopic": "Oxidation, Reduction and Corrosion",
+  "questions": [
+   {
+    "content": "Which statement correctly defines oxidation in terms of electrons?",
+    "options": [
+     "Oxidation is the gain of electrons",
+     "Oxidation is the loss of electrons",
+     "Oxidation is the loss of protons",
+     "Oxidation is the gain of neutrons"
+    ],
+    "answer": 1,
+    "explanation": "Remember OIL RIG: Oxidation Is Loss of electrons, Reduction Is Gain of electrons.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A nail is left outside in damp air for several weeks and becomes covered in a flaky orange-brown solid. What does iron need in order to rust?",
+    "options": [
+     "Oxygen only",
+     "Water only",
+     "Carbon dioxide only",
+     "Both oxygen and water"
+    ],
+    "answer": 3,
+    "explanation": "Rusting needs both oxygen and water. Removing either one stops iron from rusting.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Magnesium burns in air: 2Mg + O₂ → 2MgO. What happens to magnesium in this reaction?",
+    "options": [
+     "It is oxidised because it gains oxygen",
+     "It is reduced because it gains oxygen",
+     "It is oxidised because it loses oxygen",
+     "It is reduced because it loses oxygen"
+    ],
+    "answer": 0,
+    "explanation": "Gaining oxygen is oxidation. In terms of electrons, each magnesium atom loses two electrons.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these methods prevents rusting by keeping air and water away from the iron surface?",
+    "options": [
+     "Heating",
+     "Connecting to a copper plate",
+     "Painting",
+     "Dipping in acid"
+    ],
+    "answer": 2,
+    "explanation": "Paint, oil, grease and plastic coatings act as a physical barrier. Connecting iron to copper would not protect it because copper is less reactive.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is rust, chemically?",
+    "options": [
+     "Iron carbonate",
+     "Pure iron",
+     "Hydrated iron(III) oxide",
+     "Iron(II) chloride"
+    ],
+    "answer": 2,
+    "explanation": "Rust forms when iron reacts with oxygen and water to give hydrated iron(III) oxide.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which half equation shows an oxidation?",
+    "options": [
+     "Mg → Mg²⁺ + 2e⁻",
+     "Mg²⁺ + 2e⁻ → Mg",
+     "Cl₂ + 2e⁻ → 2Cl⁻",
+     "Cu²⁺ + 2e⁻ → Cu"
+    ],
+    "answer": 0,
+    "explanation": "Oxidation is loss of electrons so the electrons appear on the right side of the equation. The other three equations show electrons being gained, which is reduction.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In the reaction Fe₂O₃ + 3CO → 2Fe + 3CO₂, which statement is correct?",
+    "options": [
+     "Iron(III) oxide is oxidised because it loses oxygen",
+     "Carbon monoxide is reduced because it gains oxygen",
+     "Iron is oxidised because it is made as a metal",
+     "Iron(III) oxide is reduced because it loses oxygen"
+    ],
+    "answer": 3,
+    "explanation": "Losing oxygen is reduction. Carbon monoxide gains oxygen so it is oxidised and acts as the reducing agent.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Zinc is added to copper(II) sulfate solution: Zn + Cu²⁺ → Zn²⁺ + Cu. Which species is oxidised?",
+    "options": [
+     "Cu²⁺",
+     "Zn",
+     "Cu",
+     "Zn²⁺"
+    ],
+    "answer": 1,
+    "explanation": "Zinc atoms lose two electrons to become Zn²⁺, so zinc is oxidised. Copper ions gain electrons and are reduced.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Four iron nails are set up. Tube A: nail in water open to air. Tube B: nail in boiled water covered by a layer of oil. Tube C: nail with dry calcium chloride, sealed. Tube D: nail in salty water open to air. After a week, rust is found only on A and D, with most on D. Which conclusion is best supported?",
+    "options": [
+     "Rusting needs air only, and salt prevents it",
+     "Rusting needs water only, and oil speeds it up",
+     "Rusting needs neither air nor water",
+     "Rusting needs both air and water, and salt speeds it up"
+    ],
+    "answer": 3,
+    "explanation": "B has no dissolved air and C has no water, so neither rusts. D rusted most, so dissolved salt increases the rate of rusting.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Galvanised steel (steel coated in zinc) protects even if the coating is scratched. Which reason is best?",
+    "options": [
+     "Zinc is less reactive than iron so it acts as a barrier",
+     "Zinc is more reactive than iron so it corrodes in preference to the iron",
+     "Zinc forms a magnetic layer over the scratch",
+     "Zinc is heavier than iron so it sinks into the scratch"
+    ],
+    "answer": 1,
+    "explanation": "Zinc is higher in the reactivity series, so it loses electrons more readily and is corroded first. This is called sacrificial protection.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Large blocks of magnesium are bolted to the steel hull of a ship. Why?",
+    "options": [
+     "Magnesium makes the hull lighter",
+     "Magnesium forms a waterproof paint",
+     "Magnesium is more reactive so it corrodes instead of the steel",
+     "Magnesium prevents oxygen from dissolving in the sea"
+    ],
+    "answer": 2,
+    "explanation": "The magnesium blocks act as sacrificial anodes. They are used up slowly and have to be replaced.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Tin-plated steel cans protect food. A can is badly scratched, exposing the steel. What happens?",
+    "options": [
+     "The steel rusts faster than if it had no tin, because iron is more reactive than tin",
+     "The tin corrodes in preference to the steel",
+     "Nothing happens because tin is a barrier",
+     "The steel is protected because tin is unreactive"
+    ],
+    "answer": 0,
+    "explanation": "Tin only protects by being a barrier. Once it is scratched the iron, which is more reactive, corrodes in preference to the tin.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Chlorine is bubbled through potassium bromide solution: Cl₂ + 2Br⁻ → 2Cl⁻ + Br₂. Which statement is correct?",
+    "options": [
+     "Chlorine is the reducing agent because it gains electrons",
+     "Chlorine is the oxidising agent because it gains electrons",
+     "Bromide ions are reduced because they lose electrons",
+     "Bromide ions are the oxidising agent"
+    ],
+    "answer": 1,
+    "explanation": "The oxidising agent is the substance that is reduced by gaining electrons. Bromide ions lose electrons so they are oxidised.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A 5.60 g iron nail (Ar of Fe = 56) is completely converted into iron(III) oxide, Fe₂O₃ (Mr = 160), and the water in rust is ignored. 4Fe + 3O₂ → 2Fe₂O₃. What is the mass of the oxide?",
+    "options": [
+     "5.60 g",
+     "11.2 g",
+     "16.0 g",
+     "8.00 g"
+    ],
+    "answer": 3,
+    "explanation": "Moles of Fe = 5.60 ÷ 56 = 0.10 mol. The ratio of Fe to Fe₂O₃ is 2:1 so moles of oxide = 0.05 mol. Mass = 0.05 × 160 = 8.00 g, so 2.40 g of oxygen has been gained.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which statement about 2Na + Cl₂ → 2NaCl is correct?",
+    "options": [
+     "Sodium atoms lose electrons and chlorine atoms gain them, so both oxidation and reduction occur",
+     "Sodium is reduced and chlorine is oxidised",
+     "No electrons are transferred because no oxygen is involved",
+     "Chlorine is oxidised because it forms an ionic compound"
+    ],
+    "answer": 0,
+    "explanation": "Oxidation and reduction always occur together in a redox reaction. Sodium is oxidised (Na → Na⁺ + e⁻) and chlorine is reduced (Cl₂ + 2e⁻ → 2Cl⁻), with no oxygen needed.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "In an investigation, iron nails are left for 10 days. The gain in mass was: distilled water 0.02 g; tap water 0.05 g; salt solution 0.21 g; salt solution with a zinc strip attached 0.01 g. Which conclusion is best supported?",
+    "options": [
+     "Zinc makes iron rust faster in salt solution",
+     "Salt solution has no effect on rusting",
+     "Zinc protects iron even in salt solution, which otherwise speeds up rusting",
+     "Tap water prevents rusting more than distilled water"
+    ],
+    "answer": 2,
+    "explanation": "The salt solution gave the largest gain, showing salt speeds up rusting. The zinc strip reduced this to 0.01 g, so the zinc corroded in preference to the iron.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Iron corrodes continually if left unprotected, but an aluminium window frame corrodes only very slowly. Which explanation is best?",
+    "options": [
+     "Aluminium is below iron in the reactivity series",
+     "Rust is denser than aluminium oxide so it protects iron",
+     "The aluminium oxide layer sticks tightly to the metal, but rust flakes off and exposes new iron",
+     "Aluminium does not react with oxygen"
+    ],
+    "answer": 2,
+    "explanation": "Aluminium is actually more reactive than iron. Its oxide forms a thin, adhesive layer that seals the metal. Flaking rust keeps exposing fresh iron.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A zinc block is connected by a wire to an iron pipe buried in damp soil. Which statement correctly describes what happens?",
+    "options": [
+     "Zinc is oxidised, Zn → Zn²⁺ + 2e⁻, and electrons flow to the iron, protecting it",
+     "Iron is oxidised and electrons flow to the zinc",
+     "Zinc is reduced and iron is oxidised",
+     "Both metals are oxidised equally"
+    ],
+    "answer": 0,
+    "explanation": "Zinc is more reactive so it loses electrons. These electrons flow to the pipe which keeps iron as atoms instead of Fe²⁺ ions. The zinc is gradually used up and must be replaced.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Oxidation and reduction are about how substances gain or lose oxygen, and, more usefully in chemistry, how they gain or lose electrons. Redox is the name for reactions in which oxidation and reduction happen together.\n\n## Two ways to define the terms\n- **Oxidation:** gain of oxygen, or loss of electrons.\n- **Reduction:** loss of oxygen, or gain of electrons.\n\nA handy memory aid is OIL RIG: Oxidation Is Loss, Reduction Is Gain (of electrons). Because electrons cannot just disappear, if one substance is oxidised then another is reduced in the same reaction.\n\nAn **oxidising agent** is the substance that causes oxidation by taking electrons, so it is itself reduced. A **reducing agent** is the substance that gives electrons, so it is itself oxidised.\n\n## Half equations\nWe can show electron transfer using half equations:\n- Oxidation: Mg → Mg²⁺ + 2e⁻ (electrons on the right)\n- Reduction: Cu²⁺ + 2e⁻ → Cu (electrons on the left)\n\nWhen you add the two half equations the electrons cancel and you get the full ionic equation: Mg + Cu²⁺ → Mg²⁺ + Cu. Reactions between metals and their salts, and between halogens and halide ions, are redox reactions.\n\n## Corrosion and rusting\nCorrosion is the gradual destruction of a metal by reaction with substances in its surroundings. Rusting is corrosion specific to iron and steel. Iron reacts with oxygen and water to form hydrated iron(III) oxide, which is flaky and lets the reaction continue deeper. Both oxygen and water must be present, and salt or acid rain speeds the process up.\n\nYou can show this with nails in test tubes: one with air and water rusts, one in boiled water under oil (no air) does not, and one with a drying agent (no water) does not.\n\n## Preventing rust\n- **Barrier methods:** paint, oil, grease, plastic coating or plating with tin or chromium. These only work while the coating is unbroken.\n- **Sacrificial protection:** a more reactive metal such as zinc or magnesium is attached to the iron. It loses electrons more easily and is corroded instead. Galvanising (coating with zinc) does both jobs: barrier plus sacrifice.\n\n## Worked example\nA 5.60 g nail (Ar = 56) turns fully into Fe₂O₃ (Mr = 160). Moles of iron = 5.60 ÷ 56 = 0.10 mol, so moles of Fe₂O₃ = 0.05 mol and the mass is 0.05 × 160 = 8.00 g. The mass increases because oxygen has been gained.\n\n## Common mistakes\n- Mixing up oxidation and reduction. Use OIL RIG.\n- Saying that tin protects steel by sacrifice. Tin is less reactive than iron.\n- Forgetting that oxidation and reduction occur together.\n- Saying rust needs only water or only oxygen.\n\n## How this is examined\nQuestions often present an experiment, such as nails in different conditions with results given in a short data set. You may be asked to state the conditions needed, to identify what is oxidised or reduced, to explain why one coating is better than another, or to evaluate a rust-prevention method in terms of cost and environmental impact.\n\nExam tip: Always name the species and say what it does with electrons, for example \"zinc is oxidised because it loses electrons\". Saying only \"zinc is oxidised\" will often lose a mark.",
+  "flashcards": [
+   {
+    "front": "OIL RIG",
+    "back": "Oxidation Is Loss of electrons; Reduction Is Gain of electrons."
+   },
+   {
+    "front": "Oxidation (two definitions)",
+    "back": "Gain of oxygen, or loss of electrons."
+   },
+   {
+    "front": "Reduction (two definitions)",
+    "back": "Loss of oxygen, or gain of electrons."
+   },
+   {
+    "front": "Redox reaction",
+    "back": "A reaction in which oxidation and reduction happen at the same time."
+   },
+   {
+    "front": "Oxidising agent vs reducing agent",
+    "back": "An oxidising agent takes electrons and is reduced. A reducing agent gives electrons and is oxidised."
+   },
+   {
+    "front": "Conditions needed for rusting",
+    "back": "Iron needs both oxygen and water. Salt and acid speed up rusting."
+   },
+   {
+    "front": "Barrier methods of rust prevention",
+    "back": "Painting, oiling, greasing, plastic coating or plating. They only work while the coating is not scratched."
+   },
+   {
+    "front": "Sacrificial protection",
+    "back": "A more reactive metal (e.g. zinc or magnesium) is attached to iron and corrodes instead of it, even when scratched."
+   },
+   {
+    "front": "Galvanising",
+    "back": "Coating iron or steel with zinc. It forms a barrier and also protects by sacrificial protection if scratched."
+   }
+  ]
+ },
+ {
+  "subject": "chemistry",
+  "grade": 5,
+  "topic": "Reactivity and Redox",
+  "subTopic": "Extraction of Metals",
+  "questions": [
+   {
+    "content": "What is an ore?",
+    "options": [
+     "Any rock found underground",
+     "A rock containing enough of a metal compound to make extraction worthwhile",
+     "A pure sample of a metal",
+     "A mixture of two metals"
+    ],
+    "answer": 1,
+    "explanation": "An ore is a naturally occurring rock from which a metal can be extracted profitably.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Metals that are MORE reactive than carbon, such as aluminium, are extracted from their ores by which method?",
+    "options": [
+     "Heating with carbon",
+     "Heating in air",
+     "Filtering",
+     "Electrolysis"
+    ],
+    "answer": 3,
+    "explanation": "Carbon cannot remove oxygen from metals above it in the series. Electrolysis uses electricity to do the job.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Iron is extracted from its ore in the blast furnace. Which compound is the main component of the ore haematite?",
+    "options": [
+     "Iron(III) oxide",
+     "Iron(III) chloride",
+     "Iron(II) sulfate",
+     "Iron carbonate"
+    ],
+    "answer": 0,
+    "explanation": "Haematite is mostly Fe₂O₃, which is reduced by carbon monoxide in the blast furnace.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why can gold be found as the metal itself, rather than in a compound?",
+    "options": [
+     "It is very reactive",
+     "It is very light",
+     "It is very unreactive",
+     "It is magnetic"
+    ],
+    "answer": 2,
+    "explanation": "Gold is near the bottom of the reactivity series, so it does not react with oxygen or water in the ground.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is the main ore of aluminium?",
+    "options": [
+     "Haematite",
+     "Malachite",
+     "Bauxite",
+     "Galena"
+    ],
+    "answer": 2,
+    "explanation": "Bauxite contains aluminium oxide, Al₂O₃. Haematite is iron ore and galena is lead ore.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which balanced equation shows iron(III) oxide being reduced by carbon monoxide in the blast furnace?",
+    "options": [
+     "Fe₂O₃ + 3CO → 2Fe + 3CO₂",
+     "Fe₂O₃ + CO → 2Fe + CO₂",
+     "Fe₂O₃ + 3C → 2Fe + 3CO₂",
+     "2FeO + CO → Fe₂ + CO₂"
+    ],
+    "answer": 0,
+    "explanation": "Check that both sides have 2 Fe, 3 C and 6 O atoms. The other equations are not balanced.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Limestone (calcium carbonate) is added to the blast furnace. What is its main purpose?",
+    "options": [
+     "To act as the fuel",
+     "To reduce the iron oxide",
+     "To make the furnace cooler",
+     "To remove acidic impurities such as silicon dioxide as slag"
+    ],
+    "answer": 3,
+    "explanation": "Limestone decomposes to calcium oxide, which reacts with silicon dioxide to form calcium silicate (slag). The slag floats on the molten iron.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In the extraction of aluminium, aluminium oxide is dissolved in molten cryolite. Why?",
+    "options": [
+     "Cryolite reduces the aluminium oxide",
+     "Cryolite lowers the temperature needed to melt the electrolyte, saving energy",
+     "Cryolite increases the melting point",
+     "Cryolite is the reducing agent"
+    ],
+    "answer": 1,
+    "explanation": "Pure aluminium oxide melts at over 2000 °C. Dissolving it in molten cryolite allows electrolysis at about 950 °C, which saves a lot of energy.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In the electrolysis of aluminium oxide the carbon anodes gradually burn away and have to be replaced. What is the reason?",
+    "options": [
+     "Aluminium reacts with the carbon",
+     "The cryolite dissolves carbon",
+     "Carbon is reduced at the anode",
+     "Oxygen made at the anode reacts with the hot carbon to form carbon dioxide"
+    ],
+    "answer": 3,
+    "explanation": "Oxide ions lose electrons at the anode to form oxygen, and at high temperature this reacts with the graphite anode giving CO₂.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "At the cathode in the electrolysis of molten aluminium oxide, aluminium ions form aluminium metal: Al³⁺ + 3e⁻ → Al. What type of reaction is this?",
+    "options": [
+     "Oxidation, because the ions gain electrons",
+     "Reduction, because the ions gain electrons",
+     "Reduction, because the ions lose electrons",
+     "Oxidation, because the ions form a metal"
+    ],
+    "answer": 1,
+    "explanation": "Gain of electrons is reduction. The reduction takes place at the negative electrode (cathode).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student lists four metals: sodium, aluminium, lead and magnesium. Which of these can be extracted from its oxide by heating with carbon?",
+    "options": [
+     "Sodium",
+     "Aluminium",
+     "Lead",
+     "Magnesium"
+    ],
+    "answer": 2,
+    "explanation": "Carbon can only reduce the oxides of metals below it in the series, such as lead, zinc and iron. Sodium, aluminium and magnesium are above carbon, so they need electrolysis.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which gas is the main reducing agent that removes oxygen from the iron oxide in the blast furnace?",
+    "options": [
+     "Carbon monoxide",
+     "Oxygen",
+     "Nitrogen",
+     "Carbon dioxide"
+    ],
+    "answer": 0,
+    "explanation": "Carbon burns in air to form carbon dioxide, which reacts with more carbon to form carbon monoxide, and CO takes the oxygen from the iron oxide.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the percentage by mass of iron in iron(III) oxide, Fe₂O₃ (Ar of Fe = 56, O = 16)?",
+    "options": [
+     "30%",
+     "70%",
+     "35%",
+     "56%"
+    ],
+    "answer": 1,
+    "explanation": "Mr = 2 × 56 + 3 × 16 = 160. Iron makes 112 of this, so 112 ÷ 160 × 100 = 70%.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A plant uses 80 tonnes of pure iron(III) oxide. Assuming all of the iron is extracted, what mass of iron is made?",
+    "options": [
+     "40 tonnes",
+     "70 tonnes",
+     "80 tonnes",
+     "56 tonnes"
+    ],
+    "answer": 3,
+    "explanation": "Iron is 70% of the mass of Fe₂O₃ (112 ÷ 160). 80 × 0.70 = 56 tonnes. The mass of the metal is less than the mass of the oxide.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "What mass of aluminium (Ar = 27) can be obtained from 102 tonnes of pure aluminium oxide, Al₂O₃ (Mr = 102), assuming complete conversion?",
+    "options": [
+     "54 tonnes",
+     "27 tonnes",
+     "102 tonnes",
+     "108 tonnes"
+    ],
+    "answer": 0,
+    "explanation": "One mole of Al₂O₃ contains 2 moles of Al. That is 54 out of every 102 units of mass, so 102 tonnes gives 54 tonnes of aluminium.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A mine produces 500 tonnes of ore that is 60% iron(III) oxide by mass. Assuming all the iron in the oxide is extracted, what mass of iron can be made? (Fe₂O₃ is 70% iron by mass.)",
+    "options": [
+     "300 tonnes",
+     "350 tonnes",
+     "210 tonnes",
+     "150 tonnes"
+    ],
+    "answer": 2,
+    "explanation": "Mass of Fe₂O₃ = 500 × 0.60 = 300 tonnes. Mass of iron = 300 × 0.70 = 210 tonnes. Forgetting the first step gives 350.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student suggests that aluminium could be extracted by heating aluminium oxide with carbon, like iron. Which evaluation is correct?",
+    "options": [
+     "It will work because carbon is a stronger reducing agent than aluminium",
+     "It will not work because carbon cannot burn at high temperatures",
+     "It will not work because aluminium is more reactive than carbon, so carbon cannot take its oxygen",
+     "It will work if limestone is added to remove slag"
+    ],
+    "answer": 2,
+    "explanation": "A reducing agent can only take oxygen from the oxide of a less reactive element. Aluminium is above carbon in the reactivity series so electrolysis is needed.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Producing 1 kg of aluminium by electrolysis uses about 15 kWh of electricity in a model plant. Recycling 1 kg of aluminium uses about 0.75 kWh. What percentage of energy is saved by recycling?",
+    "options": [
+     "95%",
+     "5%",
+     "50%",
+     "75%"
+    ],
+    "answer": 0,
+    "explanation": "Energy saved = 15 − 0.75 = 14.25 kWh. 14.25 ÷ 15 × 100 = 95%. The 5% figure is the energy that recycling still needs, not the saving.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Most metals are found in the Earth's crust as compounds, usually oxides, sulfides or carbonates, mixed into rocks. A rock containing enough of a metal compound to make it worthwhile to extract the metal is called an **ore**. The method used to extract a metal depends on how reactive it is.\n\n## Choosing the method\n- **Very unreactive metals** such as gold are found as the metal itself (\"native\") and just need to be separated from the rock.\n- **Metals below carbon** in the reactivity series, such as zinc, iron, lead and copper, are extracted by heating their oxides with carbon (or carbon monoxide). Carbon takes the oxygen and the metal oxide is reduced.\n- **Metals above carbon**, such as aluminium, magnesium, sodium and calcium, hold on to oxygen too strongly for carbon to remove. They are extracted by electrolysis of the molten compound, which needs a lot of electrical energy and is expensive.\n\n## Extracting iron in the blast furnace\nThe raw materials are iron ore (haematite, Fe₂O₃), coke (carbon), limestone and hot air.\n- Coke burns in air: C + O₂ → CO₂, giving heat.\n- Carbon dioxide reacts with more coke: CO₂ + C → 2CO.\n- Carbon monoxide reduces the iron oxide: Fe₂O₃ + 3CO → 2Fe + 3CO₂.\n- Limestone decomposes to calcium oxide, which reacts with silicon dioxide impurities to form slag (calcium silicate).\nMolten iron and slag run to the bottom. Slag is less dense so it floats on the iron and both are tapped off separately.\n\n## Extracting aluminium by electrolysis\nAluminium oxide from the ore bauxite is purified, then dissolved in molten cryolite. This lowers the temperature needed from over 2000 °C to about 950 °C and saves energy. The molten mixture is electrolysed using carbon electrodes:\n- At the cathode: Al³⁺ + 3e⁻ → Al (reduction). Molten aluminium sinks and is tapped off.\n- At the anode: 2O²⁻ → O₂ + 4e⁻ (oxidation). The oxygen reacts with the carbon anodes making CO₂, so they must be replaced regularly.\n\n## Worked example\nFe₂O₃ has Mr = 160, and iron is 112 of that, so 70% of its mass is iron. A mine has 500 tonnes of ore containing 60% Fe₂O₃. Mass of Fe₂O₃ = 300 tonnes and mass of iron = 300 × 0.70 = 210 tonnes.\n\n## Sustainability and impact\nMining damages habitats, and extraction uses large amounts of energy and releases CO₂. Recycling metals saves ores and energy. Recycling aluminium needs only about 5% of the energy needed to make it from bauxite.\n\n## Common mistakes\n- Saying that carbon \"burns off\" the oxygen. It is a reduction reaction.\n- Mixing up the products at the electrodes in aluminium extraction.\n- Forgetting that cryolite lowers the melting temperature rather than being a reactant.\n- Using the mass of the oxide as the mass of the metal.\n\n## How this is examined\nTypical tasks give a reactivity table, ask which method suits each metal, then require a calculation of the mass of metal from an ore. Extended tasks ask you to judge the sustainability of a mine or compare recycling with extraction using energy data.\n\nExam tip: For any extraction question, compare the metal with carbon in the reactivity series first. This decides the method and gets the marks.",
+  "flashcards": [
+   {
+    "front": "Ore",
+    "back": "A rock that contains enough of a metal compound for the metal to be extracted profitably."
+   },
+   {
+    "front": "Extraction rule",
+    "back": "Metals below carbon: heat with carbon. Metals above carbon: electrolysis of the molten compound. Very unreactive metals such as gold occur native."
+   },
+   {
+    "front": "Raw materials in the blast furnace",
+    "back": "Iron ore (haematite, Fe₂O₃), coke (carbon), limestone and hot air."
+   },
+   {
+    "front": "Main reduction reaction in the blast furnace",
+    "back": "Fe₂O₃ + 3CO → 2Fe + 3CO₂. Carbon monoxide is the reducing agent."
+   },
+   {
+    "front": "Role of limestone in the blast furnace",
+    "back": "It decomposes to calcium oxide, which reacts with silicon dioxide to make slag (calcium silicate). Slag floats on the iron."
+   },
+   {
+    "front": "Ore of aluminium",
+    "back": "Bauxite, which contains aluminium oxide, Al₂O₃."
+   },
+   {
+    "front": "Why cryolite is used",
+    "back": "It dissolves aluminium oxide and lowers the melting point of the electrolyte to about 950 °C, saving energy."
+   },
+   {
+    "front": "Electrode reactions in aluminium extraction",
+    "back": "Cathode: Al³⁺ + 3e⁻ → Al (reduction). Anode: 2O²⁻ → O₂ + 4e⁻ (oxidation). Carbon anodes burn away."
+   },
+   {
+    "front": "Why recycle metals?",
+    "back": "It saves ores, uses much less energy (aluminium: about 5%) and reduces mining damage and waste."
+   }
+  ]
+ }
+]

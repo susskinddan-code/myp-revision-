@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Probability",
+  "subTopic": "Basic Probability and Sample Spaces",
+  "questions": [
+   {
+    "content": "A bag holds 5 red, 3 blue and 2 green marbles. One marble is taken at random. What is the probability that it is blue?",
+    "options": [
+     "3/7",
+     "3/10",
+     "3/5",
+     "1/3"
+    ],
+    "answer": 1,
+    "explanation": "There are 5 + 3 + 2 = 10 marbles in total and 3 are blue, so P(blue) = 3/10. Do not compare blue with only one other colour.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these values can NOT be the probability of an event?",
+    "options": [
+     "1.2",
+     "0",
+     "0.5",
+     "1"
+    ],
+    "answer": 0,
+    "explanation": "Probabilities lie between 0 and 1 inclusive. A value of 1.2 is greater than 1, so it is impossible.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A weather forecast says the probability of rain tomorrow is 0.35. What is the probability that it does NOT rain?",
+    "options": [
+     "0.35",
+     "0.75",
+     "1.35",
+     "0.65"
+    ],
+    "answer": 3,
+    "explanation": "The probabilities of an event and its complement add to 1, so P(no rain) = 1 − 0.35 = 0.65.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A fair six-sided die is rolled once. What is the probability of rolling a prime number?",
+    "options": [
+     "1/3",
+     "1/6",
+     "1/2",
+     "2/3"
+    ],
+    "answer": 2,
+    "explanation": "The primes on the die are 2, 3 and 5, which is 3 outcomes out of 6, so the probability is 3/6 = 1/2. Remember that 1 is not prime.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A fair coin is tossed 200 times. About how many heads would you expect?",
+    "options": [
+     "50",
+     "100",
+     "200",
+     "20"
+    ],
+    "answer": 1,
+    "explanation": "Expected number = probability × number of trials = 1/2 × 200 = 100.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A spinner has 8 equal sectors numbered 1, 2, 3, 4, 5, 6, 7 and 8. What is the probability that it lands on a multiple of 3?",
+    "options": [
+     "1/4",
+     "3/8",
+     "1/3",
+     "1/8"
+    ],
+    "answer": 0,
+    "explanation": "The multiples of 3 are 3 and 6, so 2 outcomes out of 8, which simplifies to 1/4.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A coin is flipped and a fair six-sided die is rolled. How many outcomes are in the sample space?",
+    "options": [
+     "8",
+     "7",
+     "36",
+     "12"
+    ],
+    "answer": 3,
+    "explanation": "Each of the 2 coin results pairs with each of the 6 die results, giving 2 × 6 = 12 outcomes. Adding (2 + 6 = 8) is a common slip.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Two fair dice are rolled and the scores are added. What is the probability that the total is 8?",
+    "options": [
+     "1/8",
+     "1/9",
+     "5/36",
+     "5/12"
+    ],
+    "answer": 2,
+    "explanation": "The pairs are (2,6), (3,5), (4,4), (5,3) and (6,2), which is 5 of the 36 equally likely outcomes. The totals themselves are not equally likely.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A drawing pin is dropped 240 times and lands point up 84 times. Using relative frequency, how many times would you predict it lands point up in 500 drops?",
+    "options": [
+     "84",
+     "175",
+     "140",
+     "350"
+    ],
+    "answer": 1,
+    "explanation": "Relative frequency = 84/240 = 0.35. Predicted number = 0.35 × 500 = 175.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A factory finds that 2.5% of its phone screens are defective. In a batch of 1600 screens, how many would you expect to be defective?",
+    "options": [
+     "40",
+     "25",
+     "400",
+     "64"
+    ],
+    "answer": 0,
+    "explanation": "2.5% of 1600 = 0.025 × 1600 = 40. Moving the decimal point incorrectly gives 400 or 25.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A letter is chosen at random from the word MATHEMATICS. What is the probability that it is a vowel?",
+    "options": [
+     "4/7",
+     "5/11",
+     "3/11",
+     "4/11"
+    ],
+    "answer": 3,
+    "explanation": "MATHEMATICS has 11 letters in total. The vowels are A, E, A, I, which is 4 letters (repeated letters count each time), so the probability is 4/11.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a class of 30 students, 12 walk to school, 10 take the bus and the rest come by car. A student is chosen at random. What is the probability that the student does NOT take the bus?",
+    "options": [
+     "1/3",
+     "2/5",
+     "2/3",
+     "4/15"
+    ],
+    "answer": 2,
+    "explanation": "20 of the 30 students do not take the bus, so the probability is 20/30 = 2/3. The 1/3 is the probability that they do take the bus.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A weather app claims: 'Either it rains or it doesn't, so the chance of rain is 1/2.' What is wrong with this reasoning?",
+    "options": [
+     "Probabilities must always be written as decimals",
+     "The two outcomes are not necessarily equally likely",
+     "There are more than two possible outcomes for the weather",
+     "It is impossible to predict the weather at all"
+    ],
+    "answer": 1,
+    "explanation": "Having two outcomes does not make them equally likely. Probability 1/2 is only correct when the outcomes are equally likely, and rain is usually either more or less likely than that.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A bag contains 4 red and 6 blue counters. How many extra red counters must be added so that the probability of picking red becomes 3/5?",
+    "options": [
+     "5",
+     "3",
+     "4",
+     "6"
+    ],
+    "answer": 0,
+    "explanation": "After adding x red counters, (4 + x)/(10 + x) = 3/5. Cross-multiplying: 20 + 5x = 30 + 3x, so x = 5. Check: 9/15 = 3/5.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two fair dice are rolled and the scores are multiplied. What is the probability that the product is even?",
+    "options": [
+     "1/2",
+     "1/4",
+     "5/6",
+     "3/4"
+    ],
+    "answer": 3,
+    "explanation": "The product is odd only when both dice are odd: 3 × 3 = 9 of 36 outcomes, so P(odd) = 1/4. Using the complement, P(even) = 1 − 1/4 = 3/4.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Spinner A has sectors 1, 2, 3 and spinner B has sectors 1, 2, 3, 4, all equally likely. Both are spun and the scores are added. What is the probability that the total is 5?",
+    "options": [
+     "1/3",
+     "5/12",
+     "1/4",
+     "3/7"
+    ],
+    "answer": 2,
+    "explanation": "The sample space has 3 × 4 = 12 equally likely outcomes. A total of 5 comes from (1,4), (2,3) and (3,2), which is 3 outcomes, so the probability is 3/12 = 1/4.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Aroha tests a coin-operated machine. In an experiment of 20 trials it pays out 7 times. In a second experiment of 400 trials it pays out 148 times. Which estimate of the probability of a payout is more reliable, and why?",
+    "options": [
+     "7/20 = 0.35, because it is the simpler fraction",
+     "148/400 = 0.37, because it uses many more trials",
+     "7/20 = 0.35, because it is the first experiment",
+     "The two estimates are equally reliable because both are relative frequencies"
+    ],
+    "answer": 1,
+    "explanation": "Relative frequency estimates settle down as the number of trials increases. 400 trials give a more reliable estimate (0.37) than 20 trials (0.35).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A security code has three digits, each chosen from 1, 2 and 3, and digits may repeat. A code is generated at random. What is the probability that all three digits are different?",
+    "options": [
+     "2/9",
+     "1/9",
+     "1/3",
+     "2/3"
+    ],
+    "answer": 0,
+    "explanation": "There are 3 × 3 × 3 = 27 codes. Codes with all different digits are the arrangements of 1, 2, 3, which is 3 × 2 × 1 = 6. So the probability is 6/27 = 2/9.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What is probability?\nProbability measures how likely an event is to happen. It is always a number from 0 to 1. An impossible event has probability 0, a certain event has probability 1, and a 50-50 event has probability 0.5. You can write probabilities as fractions, decimals or percentages, and in the eAssessment you should give your answer in the form the question asks for, simplified where sensible.\n\n## Equally likely outcomes\nWhen every outcome has the same chance, use:\n- **P(event) = number of favourable outcomes ÷ total number of outcomes**\nFor a fair die, P(even) = 3/6 = 1/2. Be careful: two outcomes do not automatically mean a 50-50 chance. Rain or no rain are two outcomes, but they are not equally likely.\n\n## Sample spaces\nA **sample space** is the full list of possible outcomes. For two fair dice there are 6 × 6 = 36 outcomes, which you can show as a grid of pairs. Listing outcomes systematically stops you missing any. For a total of 8 you find (2,6), (3,5), (4,4), (5,3), (6,2), so P(total 8) = 5/36. Note that the totals themselves are not equally likely, but the 36 pairs are.\n\n## The complement\nThe **complement** of an event is \"the event does not happen\". Since something must happen, P(A) + P(not A) = 1, so P(not A) = 1 − P(A). This is a powerful shortcut. To find the chance that a product of two dice is even, it is easier to find P(odd) = 9/36 = 1/4 and subtract: 3/4.\n\n## Experimental probability\nWhen outcomes are not equally likely, or the situation is too complex, we estimate probability by experiment:\n- **Relative frequency = number of times the event occurred ÷ number of trials**\nIf a drawing pin lands point up 84 times in 240 drops, the estimate is 0.35. In 500 drops you would **expect** 0.35 × 500 = 175 point-up landings. More trials give a more reliable estimate, so 400 trials beat 20 trials. Expected values are predictions, not guarantees.\n\n## Worked example\nA bag holds 4 red and 6 blue counters. How many red counters should be added so that P(red) = 3/5? Let x be the number added. Then (4 + x)/(10 + x) = 3/5. Cross-multiply: 20 + 5x = 30 + 3x, so 2x = 10 and x = 5. Verify: 9/15 = 3/5. Notice that adding counters changes the total as well as the favourable count.\n\n## Common mistakes\n- Writing a probability greater than 1 or a negative one.\n- Counting repeated letters only once (in MATHEMATICS there are 4 vowel letters, not 3).\n- Assuming outcomes are equally likely when they are not.\n- Forgetting to simplify, or giving a ratio such as 3:7 instead of 3/10.\n- Treating an expected value as exactly what will happen.\n\n## How this is examined\nQuestions usually sit in a context such as a game at a school fair, a quality-control check at a factory or a weather forecast. Early parts ask you to state or calculate a simple probability from information in the stimulus. Middle parts ask you to show that a probability is correct, or to predict how many times something will occur. Final parts ask you to justify a claim, for example whether a game is fair, to comment on how reliable an experimental estimate is, or to state an assumption such as \"the coin is fair\". Always give working, and state any assumption clearly.\n\nExam tip: Write the sample space or the favourable and total counts before simplifying, and check your final answer lies between 0 and 1.",
+  "flashcards": [
+   {
+    "front": "Probability scale",
+    "back": "0 means impossible, 1 means certain. Every probability is between 0 and 1 inclusive."
+   },
+   {
+    "front": "P(event) when outcomes are equally likely",
+    "back": "Number of favourable outcomes ÷ total number of possible outcomes."
+   },
+   {
+    "front": "Complement rule",
+    "back": "P(not A) = 1 − P(A), because an event either happens or it does not."
+   },
+   {
+    "front": "Sample space",
+    "back": "The complete list of all possible outcomes of an experiment, such as the 36 pairs for two dice."
+   },
+   {
+    "front": "Outcomes for two dice",
+    "back": "6 × 6 = 36 equally likely pairs. The totals are not equally likely; 7 is the most likely total (6/36)."
+   },
+   {
+    "front": "Relative frequency",
+    "back": "Number of times the event happened ÷ number of trials. Used as an estimate of experimental probability."
+   },
+   {
+    "front": "Expected number of times",
+    "back": "Probability × number of trials. For example P = 0.35 in 500 trials gives 175."
+   },
+   {
+    "front": "Why more trials help",
+    "back": "Relative frequency gets closer to the true probability as the number of trials increases, so large experiments are more reliable."
+   },
+   {
+    "front": "Fair",
+    "back": "Describes a die, coin or game where every outcome is equally likely."
+   }
+  ]
+ },
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Probability",
+  "subTopic": "Combined Events and Tree Diagrams",
+  "questions": [
+   {
+    "content": "A fair coin is tossed and a fair six-sided die is rolled. What is the probability of getting heads and a 6?",
+    "options": [
+     "1/8",
+     "1/12",
+     "2/7",
+     "1/6"
+    ],
+    "answer": 1,
+    "explanation": "The events are independent, so multiply: 1/2 × 1/6 = 1/12.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Events A and B are independent, with P(A) = 0.3 and P(B) = 0.5. What is P(A and B)?",
+    "options": [
+     "0.15",
+     "0.8",
+     "0.2",
+     "0.5"
+    ],
+    "answer": 0,
+    "explanation": "For independent events P(A and B) = P(A) × P(B) = 0.3 × 0.5 = 0.15. Adding is for 'or' with mutually exclusive events.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A spinner lands on red with probability 0.2 and on green with probability 0.5. It cannot land on both. What is the probability that it lands on red or green?",
+    "options": [
+     "0.1",
+     "0.3",
+     "0.01",
+     "0.7"
+    ],
+    "answer": 3,
+    "explanation": "Red and green are mutually exclusive, so add: 0.2 + 0.5 = 0.7.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The probabilities on all the branches that start from one point of a tree diagram must add up to what?",
+    "options": [
+     "0",
+     "0.5",
+     "1",
+     "100"
+    ],
+    "answer": 2,
+    "explanation": "Every branch from a single point covers all the possible outcomes at that stage, so their probabilities sum to 1.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Two fair coins are tossed. What is the probability of getting two tails?",
+    "options": [
+     "1/2",
+     "1/4",
+     "1/3",
+     "2/4"
+    ],
+    "answer": 1,
+    "explanation": "P(tails) = 1/2 for each coin, so P(two tails) = 1/2 × 1/2 = 1/4. Note that 2/4 equals 1/2, which is the probability of one particular coin landing tails.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A bag holds 3 red and 2 blue counters. A counter is taken, its colour noted and it is put back. A second counter is then taken. What is the probability that both are red?",
+    "options": [
+     "9/25",
+     "3/10",
+     "6/25",
+     "3/5"
+    ],
+    "answer": 0,
+    "explanation": "With replacement the probabilities stay the same: 3/5 × 3/5 = 9/25. The value 3/10 would be the answer without replacement.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A bag holds 3 red and 2 blue counters. Two counters are taken one after the other WITHOUT replacement. What is the probability that both are red?",
+    "options": [
+     "9/25",
+     "6/25",
+     "3/5",
+     "3/10"
+    ],
+    "answer": 3,
+    "explanation": "The first is red with probability 3/5. Then 2 red remain among 4 counters, so the second is red with probability 2/4. 3/5 × 2/4 = 6/20 = 3/10.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A bag holds 3 red and 2 blue counters. Two counters are taken WITH replacement. What is the probability of getting exactly one red?",
+    "options": [
+     "6/25",
+     "3/5",
+     "12/25",
+     "9/25"
+    ],
+    "answer": 2,
+    "explanation": "Red then blue: 3/5 × 2/5 = 6/25. Blue then red: 2/5 × 3/5 = 6/25. Add the two routes: 12/25.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Each day the school bus is late with probability 0.2, independently of other days. What is the probability that it is late at least once on Monday and Tuesday?",
+    "options": [
+     "0.4",
+     "0.36",
+     "0.04",
+     "0.16"
+    ],
+    "answer": 1,
+    "explanation": "Use the complement: P(on time both days) = 0.8 × 0.8 = 0.64, so P(late at least once) = 1 − 0.64 = 0.36. Simply adding 0.2 + 0.2 double counts the days when it is late twice.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A box has 4 milk and 6 dark chocolates. Two are taken without replacement. What is the probability that the first is milk and the second is dark?",
+    "options": [
+     "4/15",
+     "24/100",
+     "12/25",
+     "2/5"
+    ],
+    "answer": 0,
+    "explanation": "P(milk first) = 4/10. Then 6 dark remain among 9 chocolates, so P(dark second) = 6/9. 4/10 × 6/9 = 24/90 = 4/15.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The probability of rain is 0.3. If it rains, Kai is late with probability 0.6. If it does not rain, Kai is late with probability 0.1. What is the probability that Kai is late?",
+    "options": [
+     "0.7",
+     "0.18",
+     "0.35",
+     "0.25"
+    ],
+    "answer": 3,
+    "explanation": "Add the two routes on the tree diagram: rain and late is 0.3 × 0.6 = 0.18 and no rain and late is 0.7 × 0.1 = 0.07. Total = 0.25.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "For events A and B, P(A) = 0.4, P(B) = 0.5 and P(A and B) = 0.2. Which statement is correct?",
+    "options": [
+     "A and B are mutually exclusive because P(A and B) is small",
+     "A and B are independent because 0.4 + 0.5 = 0.9",
+     "A and B are independent because 0.4 × 0.5 = 0.2",
+     "A and B are not independent because P(A and B) is not 0"
+    ],
+    "answer": 2,
+    "explanation": "Events are independent when P(A and B) = P(A) × P(B). Here 0.4 × 0.5 = 0.2, so they are independent. They are not mutually exclusive because P(A and B) is not 0.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A basketball player scores each free throw with probability 0.8, independently. What is the probability that she scores all three of her next three throws?",
+    "options": [
+     "0.8",
+     "0.512",
+     "0.64",
+     "0.488"
+    ],
+    "answer": 1,
+    "explanation": "Multiply the three independent probabilities: 0.8 × 0.8 × 0.8 = 0.512.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A bag holds 5 red and 3 blue counters. Three are taken without replacement. What is the probability that all three are red?",
+    "options": [
+     "5/28",
+     "125/512",
+     "5/8",
+     "15/56"
+    ],
+    "answer": 0,
+    "explanation": "Multiply the changing fractions: 5/8 × 4/7 × 3/6 = 60/336 = 5/28.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A bag holds 5 red and 3 blue counters. Two are taken without replacement. What is the probability that at least one is blue?",
+    "options": [
+     "5/14",
+     "3/8",
+     "15/28",
+     "9/14"
+    ],
+    "answer": 3,
+    "explanation": "Use the complement: P(no blue) = 5/8 × 4/7 = 20/56 = 5/14. So P(at least one blue) = 1 − 5/14 = 9/14.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Machine A makes 60% of a factory's items and 3% of its items are defective. Machine B makes the other 40% and 5% of its items are defective. One item is chosen at random. What is the probability that it is defective?",
+    "options": [
+     "0.08",
+     "0.02",
+     "0.038",
+     "0.4"
+    ],
+    "answer": 2,
+    "explanation": "Add the two routes: 0.6 × 0.03 = 0.018 and 0.4 × 0.05 = 0.020. Total = 0.038. Adding 3% and 5% ignores how much each machine makes.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student passes the theory test with probability 0.7. If she passes the theory, she passes the practical with probability 0.8. If she fails the theory, she passes the practical with probability 0.4. What is the probability that she passes exactly one of the two tests?",
+    "options": [
+     "0.14",
+     "0.26",
+     "0.12",
+     "0.68"
+    ],
+    "answer": 1,
+    "explanation": "Pass theory and fail practical: 0.7 × 0.2 = 0.14. Fail theory and pass practical: 0.3 × 0.4 = 0.12. Add: 0.26.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A weather model gives the probability of rain on any day as 0.3 and finds the chance of rain on two consecutive days by calculating 0.3 × 0.3 = 0.09. Which statement best evaluates this model?",
+    "options": [
+     "It assumes independence, but weather on consecutive days is often linked, so 0.09 may be too low",
+     "It is correct because probabilities of 'and' events are always multiplied",
+     "It is incorrect because the answer should be 0.6",
+     "It is correct because 0.3 is a fair estimate"
+    ],
+    "answer": 0,
+    "explanation": "Multiplying is only valid for independent events. Rainy weather tends to continue, so the true chance of two rainy days is probably higher than 0.09.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Combining events\nMany problems involve two or more events happening one after the other. The key is to decide whether they are **independent** or **dependent**, and whether you need \"and\" or \"or\".\n\n## Independent and dependent events\nTwo events are **independent** if one happening does not change the probability of the other, for example two coin tosses, or picking with replacement. Events are **dependent** if the outcome of the first changes the second, for example taking counters from a bag without replacing them, because the total number of counters changes.\n\n## The two rules\n- **AND rule (multiply):** for independent events, P(A and B) = P(A) × P(B). In a tree diagram you multiply along the branches.\n- **OR rule (add):** for mutually exclusive events (they cannot both happen), P(A or B) = P(A) + P(B). In a tree diagram you add the probabilities of the different routes that give the result you want.\n\n## Tree diagrams\nA tree diagram shows each stage as a set of branches, with the probability on each branch. Three rules keep you safe:\n- The branches from one point add up to 1.\n- Multiply along a route to get the probability of that combined outcome.\n- Add the routes that match the event in the question.\nFor a bag with 3 red and 2 blue counters taken without replacement, the second-stage branches change. After a red, there are 2 red and 2 blue left, so the second branches are 2/4 and 2/4.\n\n## Worked example\nA bag holds 5 red and 3 blue counters. Two counters are taken without replacement. Find P(at least one blue).\nIt is quicker to use the complement. P(no blue) = P(red, red) = 5/8 × 4/7 = 20/56 = 5/14. So P(at least one blue) = 1 − 5/14 = 9/14. Notice that \"at least one\" is almost always easier with the complement.\n\n## Two stages with different probabilities\nSuppose it rains with probability 0.3. If it rains you are late with probability 0.6, otherwise 0.1. P(late) = 0.3 × 0.6 + 0.7 × 0.1 = 0.18 + 0.07 = 0.25. The second-stage probabilities depend on the first stage, so the events are dependent.\n\n## Common mistakes\n- Adding when you should multiply, such as 0.2 + 0.2 for \"late on both days\".\n- Not changing the fractions for the second pick when there is no replacement.\n- Forgetting to add all the routes that give the event, such as \"red then blue\" and \"blue then red\".\n- Branches that do not add to 1.\n- Assuming events are independent without thinking about it.\n\n## How this is examined\nIn the eAssessment the stimulus might describe a quality-control process, a game of chance or a sports result, with probabilities given in the text. You may be asked to calculate a combined probability, to show that a stated answer is correct, or to complete a tree diagram described in words. The final part often asks you to evaluate the model, for example by explaining why \"independent\" might not be a reasonable assumption, or by deciding whether a game is fair. State any assumption you make and show each multiplication.\n\nExam tip: Write the fraction for each branch before you multiply, and when you see \"at least one\" try 1 minus the probability of none first.",
+  "flashcards": [
+   {
+    "front": "Independent events",
+    "back": "Events where one outcome does not affect the probability of the other, such as two coin tosses or picking with replacement."
+   },
+   {
+    "front": "AND rule",
+    "back": "For independent events, P(A and B) = P(A) × P(B). On a tree diagram, multiply along the branches."
+   },
+   {
+    "front": "OR rule",
+    "back": "For mutually exclusive events, P(A or B) = P(A) + P(B). On a tree diagram, add the routes that fit."
+   },
+   {
+    "front": "Mutually exclusive",
+    "back": "Events that cannot happen at the same time, such as rolling a 2 and a 5 on one die."
+   },
+   {
+    "front": "Tree diagram check",
+    "back": "The branches from each point must add up to 1, and every full route multiplies to give its probability."
+   },
+   {
+    "front": "Without replacement",
+    "back": "The first pick is not put back, so the total number and the favourable number change for the second pick."
+   },
+   {
+    "front": "At least one",
+    "back": "Use the complement: P(at least one) = 1 − P(none)."
+   },
+   {
+    "front": "Test for independence",
+    "back": "Events A and B are independent if P(A and B) = P(A) × P(B)."
+   },
+   {
+    "front": "All routes total",
+    "back": "The probabilities of all the complete routes on a tree diagram add up to 1, which is a good check."
+   }
+  ]
+ },
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Probability",
+  "subTopic": "Venn Diagrams and Sets",
+  "questions": [
+   {
+    "content": "A = {2, 4, 6, 8} and B = {4, 8, 12}. What is A ∩ B?",
+    "options": [
+     "{2, 4, 6, 8, 12}",
+     "{4, 8}",
+     "{2, 6, 12}",
+     "{4, 8, 12}"
+    ],
+    "answer": 1,
+    "explanation": "The intersection A ∩ B contains only the elements that are in both sets, which are 4 and 8.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A = {2, 4, 6, 8} and B = {4, 8, 12}. What is n(A ∪ B)?",
+    "options": [
+     "5",
+     "2",
+     "7",
+     "8"
+    ],
+    "answer": 0,
+    "explanation": "A ∪ B = {2, 4, 6, 8, 12}, which has 5 different elements. The repeated elements 4 and 8 are only counted once.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does the statement 3 ∈ A mean?",
+    "options": [
+     "3 is a subset of A",
+     "3 is not in set A",
+     "A has exactly 3 elements",
+     "3 is an element of set A"
+    ],
+    "answer": 3,
+    "explanation": "The symbol ∈ means 'is an element of'. The statement says that the number 3 is in set A.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The universal set is ξ = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} and A = {1, 3, 5, 7, 9}. What is A′, the complement of A?",
+    "options": [
+     "{1, 3, 5, 7, 9}",
+     "{2, 4, 6, 8}",
+     "{2, 4, 6, 8, 10}",
+     "{0, 2, 4, 6, 8, 10}"
+    ],
+    "answer": 2,
+    "explanation": "A′ contains every element of ξ that is not in A, which is the even numbers 2, 4, 6, 8, 10.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "How many elements does the set {x : x is an integer, 3 ≤ x ≤ 9} have?",
+    "options": [
+     "6",
+     "7",
+     "8",
+     "9"
+    ],
+    "answer": 1,
+    "explanation": "The elements are 3, 4, 5, 6, 7, 8, 9. Both end values are included because of ≤, so there are 7 elements.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In a class of 40 students, 25 play football (F), 18 play basketball (B), 8 play both and 5 play neither. How many students play football only?",
+    "options": [
+     "17",
+     "25",
+     "10",
+     "7"
+    ],
+    "answer": 0,
+    "explanation": "Football only = n(F) − n(F ∩ B) = 25 − 8 = 17. The 25 includes the 8 who play both.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a class of 40 students, 25 play football, 18 play basketball, 8 play both and 5 play neither. A student is chosen at random. What is the probability that the student plays at least one of the two sports?",
+    "options": [
+     "43/40",
+     "1/8",
+     "5/8",
+     "7/8"
+    ],
+    "answer": 3,
+    "explanation": "The number who play at least one sport is 40 − 5 = 35 (check: 25 + 18 − 8 = 35). So the probability is 35/40 = 7/8.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a class of 40 students, 25 play football, 18 play basketball, 8 play both and 5 play neither. A student who plays basketball is chosen. What is the probability that this student also plays football?",
+    "options": [
+     "1/5",
+     "8/25",
+     "4/9",
+     "9/20"
+    ],
+    "answer": 2,
+    "explanation": "The sample space is now just the 18 basketball players. 8 of them play football, so the probability is 8/18 = 4/9.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "n(A) = 22, n(B) = 15 and n(A ∪ B) = 30. What is n(A ∩ B)?",
+    "options": [
+     "8",
+     "7",
+     "37",
+     "15"
+    ],
+    "answer": 1,
+    "explanation": "Use n(A ∪ B) = n(A) + n(B) − n(A ∩ B). So 30 = 37 − n(A ∩ B) and n(A ∩ B) = 7.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a survey of 60 people, 36 drink tea, 28 drink coffee and 10 drink neither. How many drink both?",
+    "options": [
+     "14",
+     "8",
+     "18",
+     "24"
+    ],
+    "answer": 0,
+    "explanation": "50 people drink at least one drink (60 − 10). Both = 36 + 28 − 50 = 14. Adding 36 + 28 counts those who drink both twice.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which expression describes the region of a Venn diagram that is inside set A but outside set B?",
+    "options": [
+     "A′ ∩ B",
+     "A ∪ B′",
+     "(A ∩ B)′",
+     "A ∩ B′"
+    ],
+    "answer": 3,
+    "explanation": "'In A' and 'not in B' together means A ∩ B′. The choice A′ ∩ B is the opposite region: in B only.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The universal set is the integers from 1 to 12. A is the set of even numbers and B is the set of multiples of 3. A number is chosen at random from the universal set. What is the probability that it is in A ∪ B?",
+    "options": [
+     "1/2",
+     "5/6",
+     "2/3",
+     "1/6"
+    ],
+    "answer": 2,
+    "explanation": "A ∪ B = {2, 3, 4, 6, 8, 9, 10, 12}, which has 8 elements. The probability is 8/12 = 2/3. Counting 6 and 12 twice would give 10.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A = {1, 2, 3} and B = {1, 2, 3, 4, 5}. Which statement is true?",
+    "options": [
+     "B ⊂ A",
+     "A ⊂ B",
+     "A ∩ B = B",
+     "A ∪ B = A"
+    ],
+    "answer": 1,
+    "explanation": "Every element of A is also in B, so A is a subset of B. For this, A ∩ B = A and A ∪ B = B.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a group of 50 students, 20 take Art (A) and 26 take Music (M). 9 students take neither. How many students take both Art and Music?",
+    "options": [
+     "5",
+     "9",
+     "4",
+     "6"
+    ],
+    "answer": 0,
+    "explanation": "Let x take both. Then (20 − x) + x + (26 − x) + 9 = 50, which gives 55 − x = 50, so x = 5.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "In a group of 50 students, 20 take Art, 26 take Music, 9 take neither and 5 take both. A student is chosen at random. What is the probability that the student takes exactly one of the two subjects?",
+    "options": [
+     "9/25",
+     "41/50",
+     "1/2",
+     "18/25"
+    ],
+    "answer": 3,
+    "explanation": "Art only is 20 − 5 = 15 and Music only is 26 − 5 = 21. So exactly one subject is 36 students and the probability is 36/50 = 18/25.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The universal set is the integers from 1 to 20. A is the set of prime numbers and B is the set of odd numbers. A number is chosen at random. What is the probability that it is neither prime nor odd?",
+    "options": [
+     "11/20",
+     "7/20",
+     "9/20",
+     "1/2"
+    ],
+    "answer": 2,
+    "explanation": "A has 8 elements and B has 10. A ∩ B is the odd primes, which is 7 elements. So n(A ∪ B) = 8 + 10 − 7 = 11 and 'neither' = 20 − 11 = 9, giving 9/20.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "For events A and B, P(A) = 0.4, P(B) = 0.35 and P(A ∪ B) = 0.6. Which conclusion is correct?",
+    "options": [
+     "P(A ∩ B) = 0.15, so A and B are mutually exclusive",
+     "P(A ∩ B) = 0.15, so A and B are not mutually exclusive",
+     "P(A ∩ B) = 0.75, so A and B are not mutually exclusive",
+     "P(A ∩ B) = 0, so A and B are mutually exclusive"
+    ],
+    "answer": 1,
+    "explanation": "P(A ∩ B) = P(A) + P(B) − P(A ∪ B) = 0.75 − 0.6 = 0.15. Mutually exclusive events would have P(A ∩ B) = 0, so these events overlap.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "In a survey of 120 teenagers, 70 use app X, 55 use app Y and 20 use neither. A teenager who uses app Y is chosen at random. What is the probability that the teenager also uses app X?",
+    "options": [
+     "5/11",
+     "5/14",
+     "1/4",
+     "5/24"
+    ],
+    "answer": 0,
+    "explanation": "100 teenagers use at least one app, so both = 70 + 55 − 100 = 25. Given the teenager uses Y, there are 55 possibilities and 25 of them use X too, so 25/55 = 5/11.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Sets and notation\nA **set** is a collection of distinct objects called **elements**. We write sets with curly brackets, such as A = {2, 4, 6, 8}. Learn the notation, because the eAssessment expects you to read and use it fluently:\n- **x ∈ A** means x is an element of A, and **x ∉ A** means it is not.\n- **n(A)** is the number of elements in A.\n- **ξ** is the universal set, containing everything being considered.\n- **A′** is the complement of A: every element of ξ that is not in A.\n- **A ∩ B** is the intersection: elements in both A and B.\n- **A ∪ B** is the union: elements in A or B or both.\n- **A ⊂ B** means A is a subset of B: every element of A is in B.\n- **∅** is the empty set.\nSets can also be written in set-builder form, such as {x : x is an integer, 3 ≤ x ≤ 9}, which means \"all the integers x from 3 to 9 inclusive\".\n\n## Venn diagrams\nA Venn diagram draws the universal set as a rectangle and each set as a circle. Overlapping circles show A ∩ B. Always fill in the diagram from the middle outwards: first the overlap, then \"A only\" and \"B only\" by subtracting the overlap, then the \"neither\" region outside the circles. The totals of all four regions must equal n(ξ).\n\n## The union formula\nFor two sets, n(A ∪ B) = n(A) + n(B) − n(A ∩ B). You subtract the overlap because it was counted twice. If 36 people drink tea and 28 drink coffee, and 50 drink at least one, then both = 36 + 28 − 50 = 14.\n\n## Probability with Venn diagrams\nOnce the diagram is filled in, probability is favourable ÷ total using the numbers from the correct regions. If the question gives a condition such as \"a student who plays basketball is chosen\", the sample space shrinks to that circle only. If 8 of the 18 basketball players also play football, the probability is 8/18 = 4/9, not 8/40.\n\n## Worked example\nIn a group of 50, 20 take Art, 26 take Music and 9 take neither. Find the number who take both. Let x be the overlap. Art only is 20 − x, Music only is 26 − x. Adding all regions: (20 − x) + x + (26 − x) + 9 = 50, so 55 − x = 50 and x = 5. Verify: 15 + 5 + 21 + 9 = 50.\n\n## Common mistakes\n- Putting the total of a set (for example 25 football players) in the circle instead of the \"only\" part.\n- Forgetting the region outside both circles.\n- Counting the overlap twice when finding a union.\n- Mixing up ∩ and ∪.\n- Using the whole population as the total when a condition is given.\n\n## How this is examined\nA typical stimulus is a survey of students, customers or app users, with numbers given in the text. You may be asked to complete a Venn diagram, write down a set in notation, calculate a probability, or show that a given value of n(A ∩ B) is consistent with the data. Later parts may ask you to justify whether two groups are mutually exclusive, or to discuss how representative the survey is. Show your region-by-region working.\n\nExam tip: After completing a Venn diagram, add up all the regions and check they match the total, including the \"neither\" region.",
+  "flashcards": [
+   {
+    "front": "A ∩ B",
+    "back": "Intersection: the elements that are in both A and B (the overlap of the circles)."
+   },
+   {
+    "front": "A ∪ B",
+    "back": "Union: the elements that are in A, or in B, or in both."
+   },
+   {
+    "front": "A′",
+    "back": "Complement of A: all the elements of the universal set that are not in A."
+   },
+   {
+    "front": "n(A)",
+    "back": "The number of elements in set A."
+   },
+   {
+    "front": "ξ",
+    "back": "The universal set: all the elements being considered in the problem. It is drawn as the rectangle of a Venn diagram."
+   },
+   {
+    "front": "x ∈ A and A ⊂ B",
+    "back": "x ∈ A means x is an element of A. A ⊂ B means A is a subset of B: every element of A is also in B."
+   },
+   {
+    "front": "Union formula",
+    "back": "n(A ∪ B) = n(A) + n(B) − n(A ∩ B). Subtract the overlap because it is counted twice."
+   },
+   {
+    "front": "Filling in a Venn diagram",
+    "back": "Start with the overlap, subtract it from each set total to get 'only' regions, then put the remainder in 'neither'. Check the regions add to n(ξ)."
+   },
+   {
+    "front": "Mutually exclusive events",
+    "back": "Events with no overlap: A ∩ B = ∅, so P(A ∩ B) = 0 and P(A ∪ B) = P(A) + P(B)."
+   }
+  ]
+ }
+]

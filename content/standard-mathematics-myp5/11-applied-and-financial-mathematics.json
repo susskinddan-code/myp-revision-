@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Applied and Financial Mathematics",
+  "subTopic": "Percentage Change, Interest and Tax",
+  "questions": [
+   {
+    "content": "A jacket costs £80 and its price increases by 15%. What is the new price?",
+    "options": [
+     "£95",
+     "£92",
+     "£68",
+     "£12"
+    ],
+    "answer": 1,
+    "explanation": "15% of £80 is £12. The new price is £80 + £12 = £92. The £12 is only the amount of the increase.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A games console originally priced at £50 is reduced to £40 in a sale. What is the percentage decrease?",
+    "options": [
+     "20%",
+     "10%",
+     "25%",
+     "80%"
+    ],
+    "answer": 0,
+    "explanation": "The decrease is £10 and percentage change = change ÷ original × 100 = 10 ÷ 50 × 100 = 20%. Dividing by the new price would give 25%.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "£500 is invested at 4% simple interest per year. How much interest is earned in 3 years?",
+    "options": [
+     "£20",
+     "£62.40",
+     "£560",
+     "£60"
+    ],
+    "answer": 3,
+    "explanation": "Simple interest = principal × rate × time = 500 × 0.04 × 3 = £60. The same interest is earned each year.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A bike costs £60 before VAT. VAT is charged at 20%. What is the price including VAT?",
+    "options": [
+     "£12",
+     "£80",
+     "£72",
+     "£48"
+    ],
+    "answer": 2,
+    "explanation": "20% of £60 is £12, and the price including VAT is 60 + 12 = £72. Multiplying by 1.2 gives the same result.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is 35% of 240?",
+    "options": [
+     "8.4",
+     "84",
+     "35",
+     "205"
+    ],
+    "answer": 1,
+    "explanation": "35% = 0.35, and 0.35 × 240 = 84.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "£2000 is invested at 3% compound interest per year. What is the value after 2 years?",
+    "options": [
+     "£2121.80",
+     "£2120",
+     "£2060",
+     "£2183.62"
+    ],
+    "answer": 0,
+    "explanation": "Value = 2000 × 1.03² = £2121.80. The £2120 would be simple interest, which ignores interest earned on interest.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "After a 20% discount, a coat costs £56. What was the original price?",
+    "options": [
+     "£67.20",
+     "£68",
+     "£44.80",
+     "£70"
+    ],
+    "answer": 3,
+    "explanation": "The sale price is 80% of the original, so original = 56 ÷ 0.8 = £70. Adding 20% of £56 gives the wrong answer £67.20.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A shop buys a scarf for £45 and sells it for £63. What is the percentage profit?",
+    "options": [
+     "28.6%",
+     "18%",
+     "40%",
+     "71.4%"
+    ],
+    "answer": 2,
+    "explanation": "Profit = 63 − 45 = £18. Percentage profit = 18 ÷ 45 × 100 = 40%, based on the cost price.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A car worth £12 000 loses 15% of its value each year. What is its value after 2 years?",
+    "options": [
+     "£8400",
+     "£8670",
+     "£10 200",
+     "£9000"
+    ],
+    "answer": 1,
+    "explanation": "Multiply by 0.85 each year: 12 000 × 0.85² = £8670. Taking 30% off once gives £8400, which ignores that the second loss is on a smaller value.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a country, the first £12 000 of income is untaxed and income above this is taxed at 20%. Mia earns £30 000. How much income tax does she pay?",
+    "options": [
+     "£3600",
+     "£6000",
+     "£2400",
+     "£18 000"
+    ],
+    "answer": 0,
+    "explanation": "Only the income above £12 000 is taxed: 30 000 − 12 000 = £18 000. Tax = 20% × 18 000 = £3600.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A price rises by 8% and then falls by 8%. What is the overall effect?",
+    "options": [
+     "No change",
+     "A decrease of 8%",
+     "An increase of 0.64%",
+     "A decrease of 0.64%"
+    ],
+    "answer": 3,
+    "explanation": "The multipliers are 1.08 × 0.92 = 0.9936, so the price ends at 99.36% of the start, a decrease of 0.64%. The 8% falls are of different amounts.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "£800 earns simple interest and grows to £872 in 3 years. What is the annual interest rate?",
+    "options": [
+     "9%",
+     "2.7%",
+     "3%",
+     "0.09%"
+    ],
+    "answer": 2,
+    "explanation": "Total interest is £72. Rate = 72 ÷ (800 × 3) × 100 = 3% per year. Using 72 ÷ 800 gives 9%, which is the total over three years.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student estimates a bridge span as 450 m. The actual length is 480 m. What is the percentage error, based on the actual length?",
+    "options": [
+     "6.67%",
+     "6.25%",
+     "30%",
+     "6%"
+    ],
+    "answer": 1,
+    "explanation": "Error = 30 m. Percentage error = 30 ÷ 480 × 100 = 6.25%. Dividing by the estimate 450 gives 6.67%.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "£5000 is invested at 6% compound interest per year. After how many whole years will the value first exceed £6000?",
+    "options": [
+     "4 years",
+     "3 years",
+     "5 years",
+     "2 years"
+    ],
+    "answer": 0,
+    "explanation": "Need 1.06ⁿ > 1.2. After 3 years the multiplier is 1.191, which is not enough. After 4 years it is 1.262, which is enough.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "£4000 is invested at a fixed compound interest rate and grows to £4494.40 after 2 years. What is the annual rate?",
+    "options": [
+     "12.4%",
+     "5.6%",
+     "11.24%",
+     "6%"
+    ],
+    "answer": 3,
+    "explanation": "Total multiplier = 4494.40 ÷ 4000 = 1.1236. The square root of this is 1.06 so the annual rate is 6%. Dividing the total increase of 12.36% by 2 is wrong because of compounding.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A laptop costs £150 including 20% VAT. How much of the £150 is VAT?",
+    "options": [
+     "£30",
+     "£20",
+     "£25",
+     "£37.50"
+    ],
+    "answer": 2,
+    "explanation": "£150 is 120% of the pre-VAT price, so the pre-VAT price is 150 ÷ 1.2 = £125. VAT = 150 − 125 = £25. Taking 20% of £150 gives the wrong value £30.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Bank A pays 4% simple interest per year. Bank B pays 3.5% compound interest per year. Dev invests £1000 for 5 years. Which bank gives more, and by how much?",
+    "options": [
+     "Bank B, by £12.31",
+     "Bank A, by £12.31",
+     "Bank A, by £10",
+     "Bank B, by £37.69"
+    ],
+    "answer": 1,
+    "explanation": "A: 1000 + 1000 × 0.04 × 5 = £1200. B: 1000 × 1.035⁵ = £1187.69. So A gives £12.31 more over 5 years. For longer periods compound interest can win.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student uses £1000 × 1.04ⁿ to predict a savings balance after n years. Which is a limitation of this model?",
+    "options": [
+     "It assumes the interest rate stays constant and no money is added or withdrawn",
+     "It cannot be used for more than one year",
+     "It only works for simple interest",
+     "It always overestimates the balance by 4%"
+    ],
+    "answer": 0,
+    "explanation": "The formula assumes a fixed rate with no deposits or withdrawals. In reality bank rates change, so predictions for later years may be inaccurate.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Percentage change\nA percentage compares an amount with 100. To change an amount, use a **multiplier**. An increase of 15% has multiplier 1.15, since you keep 100% and add 15%. A decrease of 20% has multiplier 0.8, since you keep 80%. This makes everything faster: £80 after a 15% rise is 80 × 1.15 = £92.\nTo find a percentage change, use:\n- **Percentage change = (change ÷ original) × 100**\nA price falling from £50 to £40 has a change of £10, so the decrease is 10 ÷ 50 × 100 = 20%. Always divide by the **original** value.\n\n## Reverse percentages\nIf you know the value after a change and need the original, divide by the multiplier. After a 20% discount a coat costs £56. The sale price is 80% of the original, so original = 56 ÷ 0.8 = £70. Do not take 20% of £56 and add it on; that uses the wrong base.\nThe same method finds a pre-VAT price. If £150 includes 20% VAT, the pre-VAT price is 150 ÷ 1.2 = £125, so the VAT is £25.\n\n## Profit, loss and error\nPercentage profit = profit ÷ cost price × 100. **Percentage error** compares an estimate with the actual value: (|estimate − actual| ÷ actual) × 100. If you estimate a bridge as 450 m and it is 480 m, the error is 30 ÷ 480 × 100 = 6.25%. State what you divided by.\n\n## Simple interest\n**Simple interest** is the same amount each year, calculated on the original sum. Interest = P × r × t, where P is the principal, r the yearly rate as a decimal and t the number of years. £500 at 4% for 3 years gives 500 × 0.04 × 3 = £60.\n\n## Compound interest and depreciation\nWith **compound interest** each year's interest is added to the balance so that the next year's interest is calculated on a larger amount:\n- **Final amount = P × (1 + r)ⁿ**\n£2000 at 3% for 2 years: 2000 × 1.03² = £2121.80. **Depreciation** works the same way with a multiplier below 1. A car worth £12 000 losing 15% per year is worth 12 000 × 0.85² = £8670 after two years. Notice you cannot take 30% off in one go.\nTo find how long something takes, test values of n. For 1.06ⁿ > 1.2, n = 3 gives 1.191 (not enough) and n = 4 gives 1.262 (enough), so 4 years.\n\n## Tax\nMany tax questions use a threshold. Only the income above the threshold is taxed. If the first £12 000 is untaxed and the rate is 20%, then on £30 000 the tax is 0.2 × (30 000 − 12 000) = £3600. Sales taxes such as VAT are added to prices using a multiplier.\n\n## Common mistakes\n- Dividing by the new value rather than the original.\n- Adding percentages: +8% then −8% does not cancel (1.08 × 0.92 = 0.9936).\n- Using simple interest when the question says compound.\n- Taking a percentage of the final value when working backwards.\n- Rounding too early; keep full calculator values until the end.\n\n## How this is examined\nQuestions are usually set in a savings, loan, pricing or tax context with figures given in the stimulus. You may be asked to calculate an interest amount, to show that a stated balance is correct, or to compare two bank offers and justify which is better. Extended tasks add assumptions: constant interest rate, no withdrawals, no change in tax rules. You should state these, check accuracy and comment on whether a model remains reasonable over a long period.\n\nExam tip: Write the multiplier first (for example 1.035 or 0.85) and check that it makes sense: more than 1 for growth, less than 1 for decay.",
+  "flashcards": [
+   {
+    "front": "Multiplier for a percentage increase",
+    "back": "Add the percentage to 100% and write it as a decimal. An increase of 15% has multiplier 1.15."
+   },
+   {
+    "front": "Multiplier for a percentage decrease",
+    "back": "Subtract the percentage from 100%. A decrease of 20% has multiplier 0.8."
+   },
+   {
+    "front": "Percentage change",
+    "back": "(change ÷ original) × 100. Always divide by the original value."
+   },
+   {
+    "front": "Reverse percentage",
+    "back": "Divide the final value by the multiplier. After a 20% discount, original = sale price ÷ 0.8."
+   },
+   {
+    "front": "Simple interest",
+    "back": "Interest = P × r × t, the same amount each year because it is only calculated on the original sum."
+   },
+   {
+    "front": "Compound interest",
+    "back": "Final amount = P × (1 + r)ⁿ. Interest is added each year, so later interest is calculated on a larger amount."
+   },
+   {
+    "front": "Depreciation",
+    "back": "Loss of value over time. With a rate of r% per year, value = P × (1 − r)ⁿ."
+   },
+   {
+    "front": "Percentage error",
+    "back": "(|estimate − actual| ÷ actual) × 100. Say which value you divided by."
+   },
+   {
+    "front": "Taxable income",
+    "back": "Only the income above any tax-free threshold is taxed at the stated rate."
+   }
+  ]
+ },
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Applied and Financial Mathematics",
+  "subTopic": "Speed, Rates and Unit Conversions",
+  "questions": [
+   {
+    "content": "A train travels 120 km in 2 hours at a constant speed. What is its speed?",
+    "options": [
+     "240 km/h",
+     "60 km/h",
+     "30 km/h",
+     "122 km/h"
+    ],
+    "answer": 1,
+    "explanation": "Speed = distance ÷ time = 120 ÷ 2 = 60 km/h.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Convert 3.5 kilometres to metres.",
+    "options": [
+     "3500 m",
+     "350 m",
+     "35 000 m",
+     "0.0035 m"
+    ],
+    "answer": 0,
+    "explanation": "There are 1000 metres in a kilometre, so 3.5 × 1000 = 3500 m.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Convert 250 centimetres to metres.",
+    "options": [
+     "25 m",
+     "0.25 m",
+     "25 000 m",
+     "2.5 m"
+    ],
+    "answer": 3,
+    "explanation": "There are 100 centimetres in a metre, so divide by 100: 250 ÷ 100 = 2.5 m.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A cyclist rides at 45 km/h for 2 hours. How far does she travel?",
+    "options": [
+     "22.5 km",
+     "47 km",
+     "90 km",
+     "900 km"
+    ],
+    "answer": 2,
+    "explanation": "Distance = speed × time = 45 × 2 = 90 km.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A pack of 6 bottles of juice costs £2.40. What is the cost per bottle?",
+    "options": [
+     "£0.04",
+     "£0.40",
+     "£2.50",
+     "£14.40"
+    ],
+    "answer": 1,
+    "explanation": "Divide the total cost by the number of bottles: 2.40 ÷ 6 = £0.40.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A car travels at 90 km/h. What is its speed in metres per second?",
+    "options": [
+     "25 m/s",
+     "1.5 m/s",
+     "324 m/s",
+     "90 m/s"
+    ],
+    "answer": 0,
+    "explanation": "90 km/h = 90 000 m per 3600 s = 25 m/s. Equivalently, divide km/h by 3.6.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A van travels 180 km at an average speed of 80 km/h. How long does the journey take?",
+    "options": [
+     "2 hours 25 minutes",
+     "2 hours 30 minutes",
+     "1 hour 48 minutes",
+     "2 hours 15 minutes"
+    ],
+    "answer": 3,
+    "explanation": "Time = 180 ÷ 80 = 2.25 hours. 0.25 of an hour is 15 minutes, so it takes 2 h 15 min. Writing 2.25 hours as 2 h 25 min is a decimal-time mistake.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The exchange rate is £1 = €1.16. How many pounds is €290 worth?",
+    "options": [
+     "£336.40",
+     "£174",
+     "£250",
+     "£290"
+    ],
+    "answer": 2,
+    "explanation": "To convert euros to pounds, divide by 1.16: 290 ÷ 1.16 = £250. Multiplying would give the wrong direction.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "1 m² = 10 000 cm². A banner has an area of 3.2 m². What is its area in cm²?",
+    "options": [
+     "320 cm²",
+     "32 000 cm²",
+     "3200 cm²",
+     "320 000 cm²"
+    ],
+    "answer": 1,
+    "explanation": "For area the conversion factor is squared: 100 × 100 = 10 000. So 3.2 × 10 000 = 32 000 cm².",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A metal block has a mass of 540 g and a volume of 200 cm³. What is its density?",
+    "options": [
+     "2.7 g/cm³",
+     "0.37 g/cm³",
+     "340 g/cm³",
+     "108 000 g/cm³"
+    ],
+    "answer": 0,
+    "explanation": "Density = mass ÷ volume = 540 ÷ 200 = 2.7 g/cm³. Dividing volume by mass gives the wrong ratio 0.37.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A car drives 60 km at 30 km/h and then 60 km at 60 km/h. What is its average speed for the whole journey?",
+    "options": [
+     "45 km/h",
+     "30 km/h",
+     "90 km/h",
+     "40 km/h"
+    ],
+    "answer": 3,
+    "explanation": "Time = 60/30 + 60/60 = 2 + 1 = 3 hours. Average speed = total distance ÷ total time = 120 ÷ 3 = 40 km/h, not the mean of 30 and 60.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A tank holds 1.8 m³ of water. A tap fills it at 12 litres per minute. How long to fill the tank? (1 m³ = 1000 litres)",
+    "options": [
+     "15 minutes",
+     "1500 minutes",
+     "150 minutes",
+     "21.6 minutes"
+    ],
+    "answer": 2,
+    "explanation": "1.8 m³ = 1800 litres. Time = 1800 ÷ 12 = 150 minutes.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A box measures 25 cm by 20 cm by 10 cm. What is its capacity in litres? (1 litre = 1000 cm³)",
+    "options": [
+     "50 litres",
+     "5 litres",
+     "0.5 litres",
+     "500 litres"
+    ],
+    "answer": 1,
+    "explanation": "Volume = 25 × 20 × 10 = 5000 cm³. Dividing by 1000 gives 5 litres.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Cork has a density of 0.8 g/cm³. What is this in kg/m³?",
+    "options": [
+     "800 kg/m³",
+     "0.0008 kg/m³",
+     "80 kg/m³",
+     "8000 kg/m³"
+    ],
+    "answer": 0,
+    "explanation": "1 g = 0.001 kg and 1 cm³ = 0.000001 m³. So 0.8 g/cm³ = 0.8 × 1000 = 800 kg/m³.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Cyclist A rides at 18 km/h. Cyclist B starts from the same point 30 minutes later and rides at 24 km/h in the same direction. How long after B starts does B catch A?",
+    "options": [
+     "0.5 hours",
+     "1.125 hours",
+     "3 hours",
+     "1.5 hours"
+    ],
+    "answer": 3,
+    "explanation": "A has a 9 km start (18 × 0.5). B gains 24 − 18 = 6 km each hour, so catching up takes 9 ÷ 6 = 1.5 hours.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A car uses 6.4 litres of fuel per 100 km. Fuel costs £1.55 per litre. What is the fuel cost for a 350 km trip?",
+    "options": [
+     "£347.20",
+     "£9.92",
+     "£34.72",
+     "£22.40"
+    ],
+    "answer": 2,
+    "explanation": "Fuel used = 350 ÷ 100 × 6.4 = 22.4 litres. Cost = 22.4 × 1.55 = £34.72.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A driver estimates a 250 km journey will take 2.5 hours at a constant 100 km/h. It actually takes 3 hours 10 minutes. What is the percentage error of the estimate, based on the actual time, to 1 decimal place?",
+    "options": [
+     "26.7%",
+     "21.1%",
+     "20%",
+     "4.0%"
+    ],
+    "answer": 1,
+    "explanation": "Actual time = 19/6 hours ≈ 3.167 h. Error = 3.167 − 2.5 = 0.667 h. Percentage error = 0.667 ÷ 3.167 × 100 ≈ 21.1%. The estimate was too low because traffic and speed limits vary.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A wind turbine produces 2.4 MW for 5 hours. (1 MW = 1000 kW, energy in kWh = power in kW × hours.) One home uses 9 kWh per day. How many homes could be fully supplied for one day by this energy?",
+    "options": [
+     "1333",
+     "1334",
+     "13 333",
+     "133"
+    ],
+    "answer": 0,
+    "explanation": "Energy = 2400 kW × 5 h = 12 000 kWh. 12 000 ÷ 9 = 1333.3, and only 1333 homes can be supplied in full, so round down.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Rates and units\nA **rate** compares two quantities with different units, such as km per hour, pounds per kilogram or litres per minute. Many problems come down to choosing the right formula and converting units so that they match.\n\n## Speed, distance and time\nThe three formulae are connected through the triangle:\n- **Speed = distance ÷ time**\n- **Distance = speed × time**\n- **Time = distance ÷ speed**\nA van travelling 180 km at 80 km/h takes 180 ÷ 80 = 2.25 hours. Watch out: 0.25 hours is 15 minutes, not 25, so the time is 2 hours 15 minutes. To convert a decimal part of an hour, multiply by 60.\n\n## Average speed\n**Average speed = total distance ÷ total time**. It is not the mean of the speeds. If a car drives 60 km at 30 km/h and then 60 km at 60 km/h, the times are 2 h and 1 h, so the average speed is 120 ÷ 3 = 40 km/h. The slower section takes longer, so it pulls the average down.\n\n## Unit conversions\nKnow the common conversions: 1 km = 1000 m, 1 m = 100 cm, 1 m = 1000 mm, 1 kg = 1000 g, 1 litre = 1000 cm³ and 1 m³ = 1000 litres.\nFor **area** and **volume** the factors are squared and cubed. 1 m² = 100 × 100 = 10 000 cm², and 1 m³ = 1 000 000 cm³. Converting speeds: km/h to m/s divide by 3.6, and m/s to km/h multiply by 3.6. So 90 km/h = 25 m/s.\nCompound units combine these. Cork with density 0.8 g/cm³ has density 800 kg/m³ because 1 g/cm³ = 1000 kg/m³.\n\n## Density and other rates\n**Density = mass ÷ volume**. A 540 g block of volume 200 cm³ has density 2.7 g/cm³. Other everyday rates include fuel use (litres per 100 km), flow rate (litres per minute) and exchange rates. To convert currency, multiply when going to the currency with the larger number per pound, and divide the other way. If £1 = €1.16, then €290 = 290 ÷ 1.16 = £250.\n\n## Worked example\nCyclist A rides at 18 km/h. Cyclist B starts 30 minutes later from the same point at 24 km/h. When does B catch A? A has a 9 km start. B gains 6 km each hour, so catching up takes 9 ÷ 6 = 1.5 hours.\n\n## Common mistakes\n- Mixing units, such as minutes with km/h.\n- Using the wrong factor for area or volume.\n- Calculating average speed as the mean of two speeds.\n- Writing 2.25 hours as 2 h 25 min.\n- Rounding in the middle of a multi-step calculation.\n\n## How this is examined\nReal-world tasks often involve a transport plan, a wind farm, a pipeline or a fuel budget. The stimulus supplies rates and you must pick out the relevant figures. Early parts ask you to calculate a speed or convert a unit. Middle parts ask you to show that a journey time or a cost is correct. Final parts ask you to evaluate: is the constant-speed assumption reasonable, and what is the percentage error of an estimate compared with the actual result? State your assumptions and give units on every answer.\n\nExam tip: Write the units in every line of working. If the units do not cancel to give the unit you want, you have used the wrong operation.",
+  "flashcards": [
+   {
+    "front": "Speed, distance, time",
+    "back": "Speed = distance ÷ time; distance = speed × time; time = distance ÷ speed."
+   },
+   {
+    "front": "Average speed",
+    "back": "Total distance ÷ total time. It is not the mean of the speeds."
+   },
+   {
+    "front": "km/h to m/s",
+    "back": "Divide by 3.6. For example 90 km/h = 25 m/s. To go back, multiply by 3.6."
+   },
+   {
+    "front": "Converting decimal hours",
+    "back": "Multiply the decimal part by 60. So 2.25 hours = 2 hours 15 minutes."
+   },
+   {
+    "front": "Area and volume conversions",
+    "back": "Square or cube the length factor. 1 m² = 10 000 cm² and 1 m³ = 1 000 000 cm³."
+   },
+   {
+    "front": "Capacity facts",
+    "back": "1 litre = 1000 cm³ and 1 m³ = 1000 litres."
+   },
+   {
+    "front": "Density",
+    "back": "Density = mass ÷ volume. Common units: g/cm³ or kg/m³, with 1 g/cm³ = 1000 kg/m³."
+   },
+   {
+    "front": "Exchange rate method",
+    "back": "If £1 = €1.16, multiply pounds by 1.16 to get euros and divide euros by 1.16 to get pounds."
+   },
+   {
+    "front": "Unit cost",
+    "back": "Divide the total cost by the number of items (or amount) to get the cost of one."
+   }
+  ]
+ },
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Applied and Financial Mathematics",
+  "subTopic": "Investigating Patterns and Mathematical Communication",
+  "questions": [
+   {
+    "content": "What is the next term in the sequence 3, 7, 11, 15, ...?",
+    "options": [
+     "18",
+     "19",
+     "20",
+     "23"
+    ],
+    "answer": 1,
+    "explanation": "The terms increase by 4 each time, so the next term is 15 + 4 = 19.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the nth term of the sequence 5, 8, 11, 14, ...?",
+    "options": [
+     "3n + 2",
+     "n + 3",
+     "3n + 5",
+     "2n + 3"
+    ],
+    "answer": 0,
+    "explanation": "The common difference is 3, so the rule starts 3n. Term 1 is 5 and 3 × 1 = 3, so add 2: 3n + 2.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In an exam question, which command term means you should give a short answer without a full explanation or working?",
+    "options": [
+     "Justify",
+     "Investigate",
+     "Evaluate",
+     "Write down"
+    ],
+    "answer": 3,
+    "explanation": "'Write down' or 'state' asks for a short answer. 'Justify', 'investigate' and 'evaluate' require reasoning and more detailed communication.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Round 3.14159 to 3 significant figures.",
+    "options": [
+     "3.142",
+     "3.15",
+     "3.14",
+     "3.1"
+    ],
+    "answer": 2,
+    "explanation": "The first three significant figures are 3, 1, 4. The next digit is 1, so round down to 3.14.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a conjecture in mathematics?",
+    "options": [
+     "A rule that has been proved for every case",
+     "A rule that seems to fit a pattern but has not yet been proved",
+     "A set of numbers in a sequence",
+     "A way of rounding an answer"
+    ],
+    "answer": 1,
+    "explanation": "A conjecture is a statement suggested by a pattern or examples. It needs testing and then a proof before it can be accepted for all cases.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A pattern of squares made from sticks uses 4 sticks for 1 square, 7 sticks for 2 squares and 10 sticks for 3 squares in a row. How many sticks are needed for 20 squares?",
+    "options": [
+     "61",
+     "80",
+     "60",
+     "64"
+    ],
+    "answer": 0,
+    "explanation": "The rule is 3n + 1: each extra square adds 3 sticks and the first needs 4. For n = 20, 3 × 20 + 1 = 61.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student claims the nth term of a pattern is 2n + 3. The pattern values are n = 1: 5, n = 2: 7, n = 3: 9, n = 4: 12. Which statement is correct?",
+    "options": [
+     "The rule works for all four values",
+     "The rule fails for n = 2 because it predicts 6",
+     "The rule fails for n = 1 because it predicts 4",
+     "The rule fails for n = 4 because it predicts 11"
+    ],
+    "answer": 3,
+    "explanation": "2n + 3 gives 5, 7, 9 and 11. The first three match but the fourth term is 12, so the rule needs to be corrected.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Triangular numbers are 1, 3, 6, 10, 15, ... and the nth term is n(n + 1)/2. What is the 15th triangular number?",
+    "options": [
+     "225",
+     "240",
+     "120",
+     "105"
+    ],
+    "answer": 2,
+    "explanation": "15 × 16 ÷ 2 = 120. Using n² would give 225, which is the square number.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student wants to show that the sum of two consecutive integers is always odd. Which approach gives a proof?",
+    "options": [
+     "Check 3 + 4 = 7 and 10 + 11 = 21",
+     "Let the integers be n and n + 1. Their sum is 2n + 1, which is always odd",
+     "Check 100 different pairs and see that all sums are odd",
+     "State that two numbers next to each other add to an odd number"
+    ],
+    "answer": 1,
+    "explanation": "Algebra covers every integer n at once, so it is a proof. Testing pairs, even many, only supports the conjecture.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A model predicts that a ball will bounce to a height of 52 cm. The measured height is 50 cm. What is the percentage error, based on the measured height?",
+    "options": [
+     "4%",
+     "3.85%",
+     "2%",
+     "25%"
+    ],
+    "answer": 0,
+    "explanation": "The error is 2 cm. Percentage error = 2 ÷ 50 × 100 = 4%, dividing by the actual (measured) value.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A taxi charges a total of C = 12 + 5n pounds for a journey lasting n hours. What does the 12 represent in this model?",
+    "options": [
+     "The cost of each hour",
+     "The number of hours",
+     "The total cost of a 5-hour journey",
+     "The fixed charge before any time is added"
+    ],
+    "answer": 3,
+    "explanation": "The 12 is the cost when n = 0, so it is a fixed charge. The 5 is the extra cost per hour.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Round 0.004572 to 2 significant figures.",
+    "options": [
+     "0.0045",
+     "0.00",
+     "0.0046",
+     "0.005"
+    ],
+    "answer": 2,
+    "explanation": "The first significant figure is the 4 (the leading zeros do not count). The two significant figures are 4 and 5, and the next digit is 7, so round up to 0.0046.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the nth term of the geometric sequence 2, 6, 18, 54, ...?",
+    "options": [
+     "3ⁿ",
+     "2 × 3ⁿ⁻¹",
+     "2 × 3ⁿ",
+     "3n − 1"
+    ],
+    "answer": 1,
+    "explanation": "Each term is multiplied by 3, and the first term is 2. The nth term is 2 × 3ⁿ⁻¹; check n = 1 gives 2 and n = 4 gives 54.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student wants to prove that the sum of any three consecutive integers is a multiple of 3. Which working proves it?",
+    "options": [
+     "n + (n + 1) + (n + 2) = 3n + 3 = 3(n + 1)",
+     "1 + 2 + 3 = 6 and 4 + 5 + 6 = 15 so it works",
+     "n + n + n = 3n",
+     "The sum of three numbers is always a multiple of 3"
+    ],
+    "answer": 0,
+    "explanation": "The algebra shows the sum equals 3(n + 1), which is a multiple of 3 for every integer n. Testing examples does not cover all cases.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The numbers of dots in a pattern are 3, 8, 15, 24, ... A student finds the nth term is n² + 2n. How many dots are in the 10th pattern?",
+    "options": [
+     "110",
+     "102",
+     "100",
+     "120"
+    ],
+    "answer": 3,
+    "explanation": "First verify the rule: n = 1 gives 3, n = 2 gives 8, n = 3 gives 15 and n = 4 gives 24. For n = 10 the number of dots is 100 + 20 = 120.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "In a group of n people, everyone shakes hands with everyone else exactly once. The number of handshakes is n(n − 1)/2. How many handshakes occur in a group of 12?",
+    "options": [
+     "132",
+     "144",
+     "66",
+     "78"
+    ],
+    "answer": 2,
+    "explanation": "First test the rule with n = 4: 4 × 3 ÷ 2 = 6 handshakes, which matches a direct count. For n = 12, 12 × 11 ÷ 2 = 66. The value 132 forgets to divide by 2.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student checks that a formula works for n = 1, 2 and 3 and concludes it is true for all n. What is the best criticism?",
+    "options": [
+     "The student should have used negative values of n",
+     "Testing a few cases does not prove a rule for every n",
+     "The student should have rounded the answers",
+     "Three values are enough to prove any formula"
+    ],
+    "answer": 1,
+    "explanation": "Examples can support a conjecture or disprove it with a counter-example, but only a general argument, usually algebraic, proves it for all n.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student solves 15% of 80 plus 80. Which set of lines is written with correct mathematical communication?",
+    "options": [
+     "80 × 0.15 = 12, then 80 + 12 = 92",
+     "80 × 0.15 = 12 + 80 = 92",
+     "80 + 15% = 95",
+     "80 × 0.15 = 12 = 92"
+    ],
+    "answer": 0,
+    "explanation": "Each equals sign must connect equal quantities. Writing 12 + 80 = 92 on the same line as 80 × 0.15 = 12 wrongly says that 12 equals 92. Separate lines keep the communication correct.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Investigating patterns\nAn investigation in MYP maths follows a clear path. You look at a pattern, describe it in words, find a general rule in terms of n, test the rule on new cases, verify it, and then justify or prove it. Examiners reward each step being communicated clearly, not just the final answer.\n\n## Describe and generalise\nStart with a table of results. For sticks used to make a row of squares: 1 square needs 4 sticks, 2 need 7, 3 need 10. The common difference is 3, so the rule begins 3n. Compare with the first term: 3 × 1 = 3 but we need 4, so add 1: **3n + 1**. In words: \"each new square adds 3 sticks\". Always check the rule by substituting a term you already know.\n\n## Test, verify, prove\nA rule found from a few terms is a **conjecture**. To **test** it, use values of n not used to find it. To **verify** a rule for a given case, substitute and show the left side equals the right. A single failing case, a **counter-example**, disproves a rule: if 2n + 3 predicts 11 for n = 4 but the data shows 12, the rule is wrong.\nTo **prove** a statement for all numbers you need algebra. To show the sum of two consecutive integers is odd, write n and n + 1, then n + (n + 1) = 2n + 1, which is always odd. For three consecutive integers, n + (n + 1) + (n + 2) = 3n + 3 = 3(n + 1), a multiple of 3. Checking 100 examples is never a proof.\n\n## Useful general rules\n- Linear patterns: nth term = (common difference) × n + adjustment.\n- Geometric patterns: first term × ratioⁿ⁻¹, such as 2 × 3ⁿ⁻¹.\n- Triangular numbers: n(n + 1)/2. Handshakes among n people: n(n − 1)/2.\n- Quadratic patterns such as 3, 8, 15, 24 follow n² + 2n.\n\n## Accuracy and communication\nReal-world tasks reward stating **assumptions** (for example \"the rate stays constant\"), checking **accuracy** with rounding, significant figures and percentage error, and judging a model's limits. Percentage error = (|estimate − actual| ÷ actual) × 100. For significant figures, leading zeros do not count: 0.004572 to 2 s.f. is 0.0046.\nMathematical communication also means correct notation. Each equals sign must join two equal quantities, so \"80 × 0.15 = 12 + 80 = 92\" is wrong. Write separate lines instead. Use units, define variables (\"let n be the number of squares\"), and give a short concluding sentence.\n\n## Worked example\nDots in a pattern: 3, 8, 15, 24. Differences are 5, 7, 9, so the second differences are constant at 2, which suggests n². Subtract n² from the terms: 2, 4, 6, 8 = 2n. So the rule is n² + 2n. Verify with n = 4: 16 + 8 = 24, correct. Predict n = 10: 100 + 20 = 120.\n\n## Common mistakes\n- Stating a rule from only one or two terms.\n- Treating examples as proof.\n- Misusing the equals sign in chains of working.\n- Counting leading zeros as significant figures.\n- Forgetting to state assumptions or units.\n\n## How this is examined\nInvestigation tasks start with a pattern from a context, such as tiles around a pool or handshakes in a group. You describe the pattern, write a general rule, test it on new cases, verify it, and finally justify or prove it. Real-world tasks ask you to identify relevant information, calculate, consider the accuracy of your result and evaluate the limits of the model. The command terms decide the depth, so check whether you are asked to write down, show that, justify or evaluate.\n\nExam tip: After finding a rule, always substitute one known term and one new term before you write your conclusion.",
+  "flashcards": [
+   {
+    "front": "Conjecture",
+    "back": "A rule or statement suggested by a pattern that has not yet been proved for all cases."
+   },
+   {
+    "front": "Counter-example",
+    "back": "A single case that breaks a rule. One counter-example is enough to disprove a conjecture."
+   },
+   {
+    "front": "Test, verify, prove",
+    "back": "Test a rule on new cases, verify by substituting, and prove it for all cases using algebra. Examples alone never prove."
+   },
+   {
+    "front": "Linear nth term",
+    "back": "Common difference d gives dn + c, where c is chosen so that the first term is correct. For 5, 8, 11: 3n + 2."
+   },
+   {
+    "front": "Proof for consecutive integers",
+    "back": "Let them be n, n + 1, n + 2. Their sum is 3n + 3 = 3(n + 1), so it is always a multiple of 3."
+   },
+   {
+    "front": "Percentage error",
+    "back": "(|estimate − actual| ÷ actual) × 100. Say which value you used as the base."
+   },
+   {
+    "front": "Significant figures",
+    "back": "Count from the first non-zero digit. Leading zeros do not count. 0.004572 to 2 s.f. is 0.0046."
+   },
+   {
+    "front": "Assumption",
+    "back": "A condition you state to simplify a model, such as a constant rate. Good answers name assumptions and comment on how they limit the result."
+   },
+   {
+    "front": "Command terms",
+    "back": "Write down: short answer. Show that: full working to a given result. Justify: give reasons. Evaluate: judge strengths and limits."
+   }
+  ]
+ }
+]

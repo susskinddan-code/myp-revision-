@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "english-language-and-literature",
+  "grade": 5,
+  "topic": "Structure and Form",
+  "subTopic": "Structure in Prose and Poetry",
+  "questions": [
+   {
+    "content": "What is a stanza?",
+    "options": [
+     "A single word in a poem",
+     "A group of lines in a poem, like a paragraph",
+     "A type of rhyme",
+     "The title of a poem"
+    ],
+    "answer": 1,
+    "explanation": "Stanzas are the verse paragraphs of a poem, usually separated by a blank line.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In a narrative, what is the climax?",
+    "options": [
+     "The first sentence",
+     "The list of characters",
+     "The title",
+     "The most intense or turning point of the story"
+    ],
+    "answer": 3,
+    "explanation": "The climax is the moment of highest tension or the decisive turning point in the plot.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does a paragraph break in prose usually signal?",
+    "options": [
+     "A shift in idea, time, place or speaker",
+     "The end of the whole text",
+     "A change of font",
+     "A rhyme"
+    ],
+    "answer": 0,
+    "explanation": "Writers begin new paragraphs to signal change and help readers follow the text.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which poem form has 14 lines?",
+    "options": [
+     "Haiku",
+     "Limerick",
+     "Sonnet",
+     "Ballad"
+    ],
+    "answer": 2,
+    "explanation": "A sonnet has fourteen lines. A haiku is a short three-line form.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a rhyme scheme?",
+    "options": [
+     "The number of stanzas",
+     "The pattern of rhymes at the end of lines",
+     "The subject of a poem",
+     "The speaker's name"
+    ],
+    "answer": 1,
+    "explanation": "Rhyme schemes are labelled with letters, for example ABAB, to show which line endings rhyme.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Invented poem lines: \"The garden dreams in morning light / and every petal drinks the dew / until the hush of falling night / ends all it knew.\" What is the rhyme scheme?",
+    "options": [
+     "ABAB",
+     "AABB",
+     "ABBA",
+     "ABCD"
+    ],
+    "answer": 0,
+    "explanation": "Lines 1 and 3 rhyme (light, night), and lines 2 and 4 rhyme (dew, knew), so the scheme is ABAB.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A story begins in the present, jumps to a memory of ten years earlier, and then returns. Which structural technique is this?",
+    "options": [
+     "Foreshadowing",
+     "Cliffhanger",
+     "Flashback",
+     "Repetition"
+    ],
+    "answer": 2,
+    "explanation": "A flashback interrupts the main timeline to show earlier events and gives background or motivation.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the effect of ending a chapter on a cliffhanger?",
+    "options": [
+     "It resolves all the mysteries",
+     "It slows the plot down",
+     "It tells the reader the ending",
+     "It creates suspense and makes the reader want to continue"
+    ],
+    "answer": 3,
+    "explanation": "A cliffhanger leaves a key question unanswered at an exciting point.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which structural choice best builds tension?",
+    "options": [
+     "Lengthy descriptions of unrelated places",
+     "Gradually shortening sentences as danger approaches",
+     "Repeating the title",
+     "Introducing a new narrator each line"
+    ],
+    "answer": 1,
+    "explanation": "Short sentences speed up the pace, mimicking a racing heartbeat or growing alarm.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A poem has one long unbroken stanza, with no pauses. What effect might this create?",
+    "options": [
+     "A calm, orderly pause",
+     "A comic punchline",
+     "A sense of continuous, overwhelming thought or rush",
+     "A mysterious silence"
+    ],
+    "answer": 2,
+    "explanation": "Structure can reflect meaning. Unbroken lines can suggest being overwhelmed or unable to stop.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is a volta in a sonnet?",
+    "options": [
+     "A turn in argument or mood",
+     "The first line",
+     "A repeated word",
+     "The final rhyming couplet only"
+    ],
+    "answer": 0,
+    "explanation": "The volta is the shift in thought or tone. In many sonnets it comes after the first eight lines or near the end.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A short story opens with the line \"The last day of the village began like any other.\" Which technique is used?",
+    "options": [
+     "Flashback",
+     "Personification",
+     "Rhyme",
+     "Foreshadowing"
+    ],
+    "answer": 3,
+    "explanation": "The phrase 'last day' hints at events to come, which prepares the reader without stating them.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Invented lines: \"The tide came in. / The tide went out. / The tide came in again.\" What is the main effect of the repeated structure?",
+    "options": [
+     "It creates a sudden shock",
+     "It mimics a repeating cycle and creates a steady, hypnotic rhythm",
+     "It shows the poet has no ideas",
+     "It changes the speaker midway"
+    ],
+    "answer": 1,
+    "explanation": "Repeating a sentence pattern echoes the repeated movement of the tide and gives a regular pace.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Invented story outline: Part 1 shows Ravi arguing with his brother. Part 2 shows them years later, silent at a funeral. Part 3 shows the argument again, with the missing apology. What is the most likely effect of this cyclical structure?",
+    "options": [
+     "It shows the brothers are happy",
+     "It suggests the funeral was unimportant",
+     "It highlights regret by returning to the unresolved event",
+     "It removes the need for characters"
+    ],
+    "answer": 2,
+    "explanation": "Returning to the argument frames the story around a lost chance, giving the ending emotional weight.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A poem has regular four-line stanzas until its final stanza, which breaks into two uneven lines. What is the best interpretation?",
+    "options": [
+     "The broken pattern reflects disruption or an emotional break in the speaker",
+     "The poet ran out of ideas",
+     "The poem is improved only by regularity",
+     "The poet changed the subject for no reason"
+    ],
+    "answer": 0,
+    "explanation": "A change in form at the end often signals a change in feeling or a break from order.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which statement analyses structure rather than language?",
+    "options": [
+     "The metaphor 'a drum of thunder' is powerful.",
+     "The word 'raged' is negative.",
+     "The alliteration in 'wild wind' is harsh.",
+     "The poem moves from describing the storm to describing the calm afterwards, mirroring the speaker's recovery."
+    ],
+    "answer": 3,
+    "explanation": "Structure is about the order and shape of the text; the correct option tracks the movement of ideas.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Invented lines: \"Mother cooked. / Father left. / I counted.\" Followed by a long, flowing paragraph about a summer holiday. What is the effect of the contrast in structure?",
+    "options": [
+     "Both parts feel equally cold",
+     "The long paragraph is more painful",
+     "Short fragments feel cold and tense, while the long paragraph creates relief or longing",
+     "The fragments are meant to rhyme"
+    ],
+    "answer": 2,
+    "explanation": "Contrasting sentence and paragraph lengths shifts pace and emotion, from restraint to flow.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which description of a story's structure is most accurate: exposition, rising action, climax, falling action, resolution?",
+    "options": [
+     "A list of character names",
+     "The conventional plot arc of introduction, build-up, turning point, aftermath and ending",
+     "A rhyme scheme",
+     "A set of punctuation rules"
+    ],
+    "answer": 1,
+    "explanation": "This arc is a model of narrative structure. Many stories modify the order for effect.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What is structure?\nStructure is how a text is organised and shaped: the order of events or ideas, how it is divided, and how its parts connect. Form is closely related and refers to the kind of text it is, such as a sonnet or a short story. When you analyse structure, you ask: why did the writer put things in this order, and what effect does that have on the reader?\n\n## Structure in prose\nIn a story, writers usually follow or play with a plot pattern:\n- **Exposition**: introduces characters, setting and situation.\n- **Rising action**: complications and conflict build tension.\n- **Climax**: the turning point or most intense moment.\n- **Falling action**: events after the turning point.\n- **Resolution**: how things end or settle.\nWriters may adjust this order to surprise or move the reader. Common techniques include:\n- **Flashback**: a jump to an earlier time to give background or motivation.\n- **Foreshadowing**: hints about what will happen later.\n- **Cliffhanger**: ending at a moment of suspense.\n- **Cyclical structure**: ending where the story began, often to show change or inevitability.\n- **Pace**: controlled by sentence length, paragraph length and amount of detail. Short sentences speed up; long ones slow down.\n- **Shifts**: changes in time, place, speaker or mood, usually marked by paragraph breaks.\n\n## Structure in poetry\nPoems add layers of structure through their shape on the page:\n- **Stanzas** are groups of lines. Regular stanzas can feel controlled; irregular ones can feel unsettled.\n- **Rhyme scheme** is the pattern of end rhymes, labelled ABAB, AABB and so on.\n- **Line length and breaks** guide pace and emphasis. **Enjambment** (a sentence running on past the line end) creates flow, while **end-stopped** lines create firm pauses.\n- **Volta**: a turn in mood or argument, famous in sonnets.\n- **Refrain**: a repeated line or phrase.\n- **Sonnet**: a fourteen-line poem. **Haiku**: a short three-line form. **Ballad**: a narrative poem, often in four-line stanzas.\n\n## Linking structure to meaning\nAlways connect form to message. A poem that falls apart in the last stanza may show the speaker losing control. A story that moves from a crowded place to an empty one may show growing loneliness. A regular rhyme may make a poem feel safe or controlled, while broken rhyme can feel disturbing.\n\n## A worked example\nInvented lines: \"Mother cooked. / Father left. / I counted.\" Then a long, flowing paragraph about a summer holiday. Analysis: \"The short fragments create a cold, restrained mood, as if the speaker cannot say more. The shift to a long paragraph feels like a flood of memory, suggesting longing for happier times.\"\n\n## Common mistakes\n- Describing the plot instead of the structure (\"then this happens\").\n- Mentioning structure only at the start and forgetting its effect.\n- Saying a poem \"has stanzas\" without explaining why they matter.\n- Treating all structural change as meaningless; changes are usually deliberate.\n\n## How this is examined\nIn the eAssessment, you may be asked to describe how a passage or poem is organised, comment on a shift in mood, or explain the effect of a flashback or ending. Stronger responses talk about the text as a whole, noticing how the beginning, middle and end relate and why the writer made these choices.\n\nExam tip: Ask yourself, \"What changes between the start and the end, and which structural choice shows it?\" and write about that shift.",
+  "flashcards": [
+   {
+    "front": "Structure",
+    "back": "How a text is organised: the order of events or ideas, divisions into parts, and how they connect."
+   },
+   {
+    "front": "Stanza",
+    "back": "A group of lines in a poem, similar to a paragraph in prose."
+   },
+   {
+    "front": "Rhyme scheme",
+    "back": "The pattern of end rhymes in a poem, labelled with letters such as ABAB."
+   },
+   {
+    "front": "Volta",
+    "back": "A turn in thought, argument or mood in a poem, especially a sonnet."
+   },
+   {
+    "front": "Enjambment",
+    "back": "When a sentence runs over a line break without a pause, creating flow or speed."
+   },
+   {
+    "front": "Flashback",
+    "back": "A jump to an earlier time to give background or reveal motivation."
+   },
+   {
+    "front": "Foreshadowing",
+    "back": "Hints early in a text about what will happen later."
+   },
+   {
+    "front": "Cyclical structure",
+    "back": "A text that ends where it began, often showing inevitability, trapped feelings or change."
+   },
+   {
+    "front": "Plot arc",
+    "back": "Exposition, rising action, climax, falling action and resolution."
+   }
+  ]
+ },
+ {
+  "subject": "english-language-and-literature",
+  "grade": 5,
+  "topic": "Structure and Form",
+  "subTopic": "Narrative Voice and Point of View",
+  "questions": [
+   {
+    "content": "\"I walked home slowly, wondering what I had done wrong.\" Which narrative perspective is this?",
+    "options": [
+     "Second person",
+     "Third person",
+     "Omniscient",
+     "First person"
+    ],
+    "answer": 3,
+    "explanation": "The pronoun 'I' shows first-person narration.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "\"She opened the door and froze.\" Which perspective is this?",
+    "options": [
+     "Third person",
+     "First person",
+     "Second person",
+     "Stream of consciousness"
+    ],
+    "answer": 0,
+    "explanation": "'She' is a third-person pronoun, so the narrator stands outside the story.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "\"You open the door and step into the dark.\" Which perspective is used?",
+    "options": [
+     "First person",
+     "Third person",
+     "Second person",
+     "Omniscient"
+    ],
+    "answer": 2,
+    "explanation": "The pronoun 'you' places the reader into the story and is called second person.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a narrator?",
+    "options": [
+     "The author's real name",
+     "The voice that tells the story",
+     "The main character always",
+     "The setting"
+    ],
+    "answer": 1,
+    "explanation": "The narrator is the voice or character who relates events. This is not always the same as the author.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does an omniscient narrator know?",
+    "options": [
+     "The thoughts and feelings of all characters",
+     "Only the narrator's own thoughts",
+     "Nothing about the characters",
+     "Only the setting"
+    ],
+    "answer": 0,
+    "explanation": "Omniscient means all-knowing, so this narrator can move between characters' minds.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Invented extract: \"Tomas smiled at the guests. He hated every one of them.\" Which narrative voice allows the second sentence?",
+    "options": [
+     "Second person",
+     "A narrator with no knowledge of Tomas",
+     "Third-person omniscient or limited narrator with access to his thoughts",
+     "A letter from a guest"
+    ],
+    "answer": 2,
+    "explanation": "Revealing a hidden feeling shows the narrator can see inside Tomas's mind.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the main effect of first-person narration?",
+    "options": [
+     "It shows every character's thoughts",
+     "It removes bias",
+     "It makes the story factual",
+     "It creates intimacy and shows events from one personal perspective"
+    ],
+    "answer": 3,
+    "explanation": "First person gives a personal voice but limits information to what the narrator knows or chooses to say.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is an unreliable narrator?",
+    "options": [
+     "A narrator who is absent",
+     "A narrator whose account may be mistaken, biased or dishonest",
+     "A narrator who speaks in the present tense",
+     "A narrator who uses short sentences"
+    ],
+    "answer": 1,
+    "explanation": "Readers must question what an unreliable narrator tells them and look for clues that reveal the truth.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Invented extract: \"I'm absolutely certain I didn't touch the vase. Anyway, it was probably already cracked.\" Which clue most suggests an unreliable narrator?",
+    "options": [
+     "The use of the pronoun 'I'",
+     "The mention of a vase",
+     "The defensive, changing explanation",
+     "The use of a full stop"
+    ],
+    "answer": 2,
+    "explanation": "'Absolutely certain' followed by an excuse suggests defensiveness and dishonesty.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does limited third-person narration do?",
+    "options": [
+     "Follows one character's thoughts and perspective",
+     "Tells the story through letters",
+     "Knows everyone's thoughts",
+     "Addresses the reader as 'you'"
+    ],
+    "answer": 0,
+    "explanation": "The narrator stays close to one character, which restricts information and builds suspense.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Invented extract: \"Cold, he thought. Cold, and nobody coming. The lane was empty, and the lamp flickered.\" What is the effect of free indirect style here?",
+    "options": [
+     "It makes the narration objective",
+     "It turns the text into a script",
+     "It removes feelings",
+     "It blends the narrator with the character's thoughts, making his fear immediate"
+    ],
+    "answer": 3,
+    "explanation": "Free indirect style presents thoughts without 'he thought' in a separate frame, bringing the reader close.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A narrator says \"Perhaps I should have spoken up earlier.\" What tone does this establish?",
+    "options": [
+     "Boastful",
+     "Reflective and regretful",
+     "Confident",
+     "Playful"
+    ],
+    "answer": 1,
+    "explanation": "'Perhaps' and 'should have' suggest looking back with regret.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence would a third-person objective narrator be most likely to write?",
+    "options": [
+     "The man felt crushing guilt about the meal.",
+     "I could not touch my food.",
+     "The man sat by the window and did not touch his food.",
+     "You sit by the window and stare."
+    ],
+    "answer": 2,
+    "explanation": "Objective narration reports only observable actions, not thoughts or feelings.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Invented extract: \"My brother was a thief. I mean, he took things sometimes. Everyone did, in those days.\" Which analysis is strongest?",
+    "options": [
+     "The narrator's self-correction and justification suggest loyalty and discomfort, making the voice unreliable",
+     "The extract is purely factual",
+     "The narrator is a stranger",
+     "The passage is written in second person"
+    ],
+    "answer": 0,
+    "explanation": "The retreat from 'thief' to 'took things sometimes' and then 'everyone did' shows bias and conflict.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A story is told twice: once by a guard and once by a prisoner, with different accounts of the same night. What is the most likely purpose of this structure?",
+    "options": [
+     "To confuse the reader for no reason",
+     "To prove the guard is correct",
+     "To remove tension",
+     "To show how perspective shapes the truth"
+    ],
+    "answer": 3,
+    "explanation": "Multiple narrators allow comparison of viewpoints and show how bias and experience affect storytelling.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which choice would most reduce the reader's sympathy for a character in a first-person account?",
+    "options": [
+     "The narrator hesitating in doubt",
+     "The narrator describing a lonely walk home",
+     "The narrator boasting about how clever it was to deceive a friend",
+     "The narrator apologising"
+    ],
+    "answer": 2,
+    "explanation": "Narrators shape sympathy through what they reveal. Boasting about deception invites judgement.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An author tells a murder from the viewpoint of the murderer, using 'I' and calm, precise language. What is the likely effect?",
+    "options": [
+     "Humour at the murderer's mistakes",
+     "Disturbing intimacy, as the reader is drawn into the murderer's logic",
+     "A neutral, factual report",
+     "A detached view of the victim's family"
+    ],
+    "answer": 1,
+    "explanation": "Calm first-person narration of a violent act can unsettle readers by normalising the character's perspective.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which statement correctly distinguishes author from narrator?",
+    "options": [
+     "They are always the same person",
+     "The narrator is the voice created to tell the story and may differ from the author",
+     "The author is a character in every story",
+     "The narrator is the editor"
+    ],
+    "answer": 1,
+    "explanation": "Writers often create a persona. Analysis should refer to 'the narrator' unless a text is clearly autobiographical.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Who is telling the story?\nEvery narrative has a voice that tells it. The **narrator** is not necessarily the author; it is a voice or persona created for the story. Narrative voice shapes what we know, whom we trust and how we feel. **Point of view** is the perspective from which a story is told.\n\n## Types of narration\n- **First person**: uses \"I\" or \"we\". It feels personal and intimate, but the reader only knows what the narrator knows or chooses to share. \"I walked home slowly.\"\n- **Second person**: uses \"you\". It is rare and can feel direct, instructional or immersive. \"You open the door.\"\n- **Third person limited**: uses \"he\", \"she\" or \"they\" and stays close to one character's thoughts and experiences. It builds suspense because we know only what that character knows.\n- **Third person omniscient**: an all-knowing narrator who can move into any character's mind and comment on events.\n- **Third person objective**: reports only what can be seen and heard, with no access to thoughts, like a camera.\n\n## Other voice features\n- **Reliable and unreliable narrators**: an unreliable narrator may be biased, mistaken, young or dishonest. Clues include contradictions, excuses, gaps and a tone that does not match the events.\n- **Free indirect style**: blends the narrator's voice with a character's thoughts without quotation marks or \"he thought\". It makes thoughts feel immediate.\n- **Multiple narrators**: show different viewpoints on the same events and invite comparison.\n- **Tense**: past tense feels like telling a story; present tense feels immediate, urgent or unfolding now.\n\n## Effects to discuss\nWhen commenting on point of view, link it to effect:\n- Does it create sympathy or distance?\n- Does it limit information to build mystery?\n- Does it make us doubt the narrator?\n- Does it reveal thoughts that other characters cannot see?\n- Does it change how an event feels, such as horror told calmly?\n\n## A worked example\nInvented extract: \"My brother was a thief. I mean, he took things sometimes. Everyone did, in those days.\" The narrator softens the first harsh statement and then justifies it. The first-person voice suggests loyalty and discomfort. A reader may begin to doubt the narrator's honesty. Analysis: \"The narrator's retreat from 'thief' to 'took things sometimes' suggests he is trying to defend his brother, making his account feel biased.\"\n\n## Common mistakes\n- Assuming the narrator and author are the same person.\n- Labelling the perspective but not explaining its effect.\n- Treating a first-person narrator as always truthful.\n- Confusing \"first person\" with the writer's real life.\n\n## How this is examined\nIn the eAssessment, you may be asked to identify a perspective, explain how it affects the reader, or judge how reliable a narrator is using evidence. A short extract may be followed by a task asking you to rewrite it from a different viewpoint and explain what changes. Strong answers consider both what the narrator tells us and what is left out.\n\nExam tip: When you name a narrative perspective, add one sentence on what it allows the reader to know and what it hides.",
+  "flashcards": [
+   {
+    "front": "Narrator",
+    "back": "The voice that tells the story; it may differ from the author."
+   },
+   {
+    "front": "First-person narration",
+    "back": "Told by 'I' or 'we'; personal and intimate but limited to what the narrator knows."
+   },
+   {
+    "front": "Second-person narration",
+    "back": "Addresses the reader as 'you', creating immediacy or direct involvement."
+   },
+   {
+    "front": "Third-person limited",
+    "back": "Narrator stays close to one character's thoughts and experiences."
+   },
+   {
+    "front": "Omniscient narrator",
+    "back": "An all-knowing narrator who can reveal any character's thoughts and comment on events."
+   },
+   {
+    "front": "Unreliable narrator",
+    "back": "A narrator whose account may be biased, mistaken or dishonest, so readers must question it."
+   },
+   {
+    "front": "Free indirect style",
+    "back": "Blending a narrator's voice with a character's thoughts without 'he thought', for immediacy."
+   },
+   {
+    "front": "Present tense effect",
+    "back": "Creates immediacy and urgency, as if events are happening now."
+   },
+   {
+    "front": "Effect of multiple narrators",
+    "back": "Shows different viewpoints on the same events and invites comparison and judgement of truth."
+   }
+  ]
+ },
+ {
+  "subject": "english-language-and-literature",
+  "grade": 5,
+  "topic": "Structure and Form",
+  "subTopic": "Text Types and Conventions",
+  "questions": [
+   {
+    "content": "Which text type usually has a headline, byline and columns?",
+    "options": [
+     "Newspaper article",
+     "Diary entry",
+     "Recipe",
+     "Poem"
+    ],
+    "answer": 0,
+    "explanation": "A headline, byline (writer's name) and columns are conventions of newspaper and magazine articles.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which feature belongs to a formal letter?",
+    "options": [
+     "Emojis",
+     "Rhyming lines",
+     "A greeting such as 'Dear Mr Silva' and a closing such as 'Yours sincerely'",
+     "Stage directions"
+    ],
+    "answer": 2,
+    "explanation": "Formal letters follow conventions in layout, greeting, polite register and sign-off.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which text type is usually written in the first person, in the past, and dated?",
+    "options": [
+     "Instruction manual",
+     "Diary entry",
+     "News report",
+     "Advertisement"
+    ],
+    "answer": 1,
+    "explanation": "Diaries are personal, dated and use a private, informal voice.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a convention of a text type?",
+    "options": [
+     "A feature readers expect to find in that type of text",
+     "A mistake in the text",
+     "A random choice",
+     "The writer's signature"
+    ],
+    "answer": 0,
+    "explanation": "Conventions are the usual features, such as headings in reports or imperatives in instructions.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which feature would you expect in a set of instructions?",
+    "options": [
+     "Rhyming couplets",
+     "Flashbacks",
+     "Numbered steps and imperative verbs",
+     "First-person reflection"
+    ],
+    "answer": 2,
+    "explanation": "Instructions are clear and sequenced using commands like 'mix' and 'press'.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A speech begins: \"Friends, classmates, teachers, thank you for being here tonight.\" Which convention is used?",
+    "options": [
+     "Stage directions",
+     "Byline",
+     "Rhyme scheme",
+     "Direct address to the audience"
+    ],
+    "answer": 3,
+    "explanation": "Speeches often begin by addressing the audience to build connection.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A report on school lunch waste has headings 'Introduction', 'Findings' and 'Recommendations'. Why are headings used?",
+    "options": [
+     "To make the report rhyme",
+     "To organise information so readers can navigate it",
+     "To show the writer's feelings",
+     "To tell a story"
+    ],
+    "answer": 1,
+    "explanation": "Reports use headings and sections to deliver information logically and clearly.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which opening sentence best suits a formal email to a school principal?",
+    "options": [
+     "Hey, can we chat about sports day?",
+     "OMG sports day!!!",
+     "Dear Ms Alvarez, I am writing to request a meeting about the sports day schedule.",
+     "Yo boss, sports day thing."
+    ],
+    "answer": 2,
+    "explanation": "Formal emails use polite greetings, a clear purpose and a formal register.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which feature is typical of a review?",
+    "options": [
+     "A personal opinion supported with evidence and a rating",
+     "Numbered ingredients",
+     "Stage directions",
+     "A rhyme scheme"
+    ],
+    "answer": 0,
+    "explanation": "Reviews evaluate something, often giving a judgement and justification.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A blog post titled 'Five ways I survive Mondays' uses short paragraphs, a chatty tone and subheadings. Who is the likely audience?",
+    "options": [
+     "Court officials",
+     "Scientists reading a journal",
+     "Government ministers",
+     "A general online readership wanting an easy, friendly read"
+    ],
+    "answer": 3,
+    "explanation": "Chatty tone, direct style and list structure are typical of blogs aimed at casual readers.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which text type most often includes a persuasive call to action such as 'Sign up today!'?",
+    "options": [
+     "Obituary",
+     "Advertisement",
+     "Weather report",
+     "Timetable"
+    ],
+    "answer": 1,
+    "explanation": "Advertisements aim to persuade readers to act, using imperatives and emotive language.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A news report states \"Police said the road was closed at 6 pm.\" Which convention is shown?",
+    "options": [
+     "Writing in the second person",
+     "Using rhyme",
+     "Reporting facts with attribution to sources",
+     "Describing a character's thoughts"
+    ],
+    "answer": 2,
+    "explanation": "News reports are objective in tone and credit sources to show reliability.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which closing line best suits an informal email to a friend?",
+    "options": [
+     "See you on Saturday, Priya",
+     "Yours faithfully, Priya",
+     "With the greatest respect, Priya",
+     "Yours sincerely, Dr Priya"
+    ],
+    "answer": 0,
+    "explanation": "Informal messages use friendly sign-offs. 'Yours faithfully' and 'Yours sincerely' belong to formal letters.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student writes a magazine article that begins \"Dear Sir,\" and ends \"Yours faithfully.\" What is the main convention error?",
+    "options": [
+     "The article has no title",
+     "It uses too much description",
+     "It lacks rhyme",
+     "It mixes a formal letter's conventions into an article"
+    ],
+    "answer": 3,
+    "explanation": "An article does not need letter conventions. Matching form to text type is part of effective writing.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Invented extract: \"MAYOR BANS BALLOONS! Residents divided over party rules.\" What do the capital letters and exclamation mark suggest about the text?",
+    "options": [
+     "A formal government report",
+     "A neutral weather bulletin",
+     "A tabloid-style headline designed to attract attention",
+     "A private diary entry"
+    ],
+    "answer": 2,
+    "explanation": "Capitalised, exclamatory headlines are conventions of sensational or popular press.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A writer wants to persuade teenagers to volunteer. Which combination is the most effective choice of form and style?",
+    "options": [
+     "A long legal document with technical terms",
+     "A short, vivid social-media style post with direct address and a clear call to action",
+     "A formal minutes document",
+     "A list of statistics only"
+    ],
+    "answer": 1,
+    "explanation": "Choosing a form and register appropriate to audience and purpose increases effectiveness.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which description best explains why writers sometimes deliberately break text-type conventions?",
+    "options": [
+     "Because conventions do not exist",
+     "To surprise the reader or create a particular effect such as humour or irony",
+     "Because it is always an error",
+     "To make the text shorter only"
+    ],
+    "answer": 1,
+    "explanation": "Experienced writers may subvert conventions, for example a poem in the form of a recipe. This works only if the reader recognises the convention.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A report recommends changes to a recycling scheme. Which sentence best fits the conventions of a formal report?",
+    "options": [
+     "I reckon we should totally get some bins.",
+     "Bins are boring, though!",
+     "Once upon a time there were no bins.",
+     "It is recommended that the school introduce clearly labelled bins by September."
+    ],
+    "answer": 3,
+    "explanation": "Formal reports use impersonal, precise recommendations, often with passive or modal structures.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why text types matter\nDifferent texts do different jobs, so they are shaped differently. The **text type** (or genre) is the kind of text you are reading or writing, such as a news article, speech, letter, review or report. Each type has **conventions**, the features readers expect. Understanding conventions helps you read quickly and write appropriately.\n\n## Common text types and their conventions\n- **News report**: headline, byline, opening paragraph answering who, what, where, when and why, quotations from sources, third person, formal and objective tone.\n- **Feature or magazine article**: catchy title, subheadings, a stronger voice, anecdotes and opinions, sometimes direct address.\n- **Letter**: layout with addresses and date; greeting \"Dear Mr Silva\" with \"Yours sincerely\" (when the name is known) or \"Dear Sir or Madam\" with \"Yours faithfully\" (when it is not); clear purpose; formal or informal register to suit the reader.\n- **Email**: subject line, greeting, brief paragraphs, polite sign-off.\n- **Speech**: direct address to the audience, rhetorical devices, repetition, rhetorical questions, and a memorable ending.\n- **Report**: headings, formal impersonal tone, evidence, findings and recommendations.\n- **Review**: summary, evaluation supported with evidence, recommendation or rating.\n- **Diary or blog**: first person, informal voice, personal reflection, often dated.\n- **Instructions**: numbered steps, imperative verbs, precise detail and sometimes diagrams.\n- **Advertisement**: attention-grabbing slogan, persuasive language, direct address and a call to action.\n\n## Form, audience and purpose\nAlways match form to purpose and audience. To persuade teenagers, a short, vivid post with direct address might work better than a formal report. To inform a council, a clear report with headings and evidence is better. Register (formal or informal) must fit the situation.\n\n## Conventions can be broken on purpose\nWriters sometimes break conventions for effect: a poem laid out like a shopping list, or a story told through emails. This works because readers recognise the conventions and notice what has changed. Always comment on the effect of the change.\n\n## A worked example\nInvented headline: \"MAYOR BANS BALLOONS! Residents divided over party rules.\" Capital letters, an exclamation mark and a dramatic verb suggest a popular, sensational style. The second sentence is calmer and informative, so the headline hooks the reader and the sub-heading gives detail. This pairing is a convention of newspaper articles.\n\n## Common mistakes\n- Mixing conventions from different text types, for example using \"Dear Sir\" in a magazine article.\n- Using the wrong register for the audience.\n- Listing features without saying why they suit the purpose.\n- Forgetting that conventions are expectations, not strict rules.\n\n## How this is examined\nIn the eAssessment, you might be shown a text and asked to identify its type and how its features suit audience and purpose. You might also be asked to write a response in a specified form, such as a speech or letter, where the marks reward matching conventions, register and clear organisation. Strong responses also comment on how a writer adapts conventions for effect.\n\nExam tip: Before you write or analyse, note the text type, audience and purpose, then check that every feature of the text, from layout to vocabulary, suits them.",
+  "flashcards": [
+   {
+    "front": "Text type (genre)",
+    "back": "The kind of text, such as article, speech, report, letter or review, each with typical features."
+   },
+   {
+    "front": "Convention",
+    "back": "A feature readers expect to find in a particular text type."
+   },
+   {
+    "front": "Byline",
+    "back": "The line naming the writer of a news article or feature."
+   },
+   {
+    "front": "Formal letter sign-off",
+    "back": "'Yours sincerely' when you know the name of the reader; 'Yours faithfully' with 'Dear Sir or Madam'."
+   },
+   {
+    "front": "Features of a speech",
+    "back": "Direct address, rhetorical devices, repetition, rhetorical questions and a memorable ending."
+   },
+   {
+    "front": "Features of instructions",
+    "back": "Numbered steps, imperative verbs, precise detail and a logical order."
+   },
+   {
+    "front": "Features of a report",
+    "back": "Headings, formal impersonal tone, evidence, findings and recommendations."
+   },
+   {
+    "front": "Features of a news report",
+    "back": "Headline, byline, key facts in the opening paragraph, quotations, third person, objective tone."
+   },
+   {
+    "front": "Why break a convention?",
+    "back": "To surprise or create effect, such as humour or irony; it works because readers recognise the expected form."
+   }
+  ]
+ }
+]

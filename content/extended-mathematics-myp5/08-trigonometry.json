@@ -1,0 +1,1054 @@
+[
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Trigonometry",
+  "subTopic": "Right-Angled Trigonometry Review",
+  "questions": [
+   {
+    "content": "In a right-angled triangle the side opposite angle θ is 3 cm and the hypotenuse is 5 cm. What is sin θ?",
+    "options": [
+     "0.6",
+     "0.8",
+     "0.75",
+     "1.67"
+    ],
+    "answer": 0,
+    "explanation": "sin θ = opposite ÷ hypotenuse = 3/5 = 0.6. The value 0.75 is 3/4, which is tan θ in the 3-4-5 triangle.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In a right-angled triangle the side adjacent to θ is 8 cm and the hypotenuse is 10 cm. What is θ, to 1 decimal place?",
+    "options": [
+     "53.1°",
+     "38.7°",
+     "0.8°",
+     "36.9°"
+    ],
+    "answer": 3,
+    "explanation": "cos θ = 8/10 = 0.8, so θ = cos⁻¹(0.8) ≈ 36.9°. The angle 53.1° is the other acute angle, found if you used sin⁻¹(0.8).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A right-angled triangle has a hypotenuse of 12 cm and an angle of 30°. What is the length of the side opposite the 30° angle?",
+    "options": [
+     "10.4 cm",
+     "24 cm",
+     "6 cm",
+     "12 cm"
+    ],
+    "answer": 2,
+    "explanation": "opposite = hypotenuse × sin 30° = 12 × 0.5 = 6 cm. The value 10.4 cm is 12 cos 30°, which is the adjacent side.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which ratio is correct for the tangent of an angle in a right-angled triangle?",
+    "options": [
+     "opposite ÷ hypotenuse",
+     "opposite ÷ adjacent",
+     "adjacent ÷ hypotenuse",
+     "adjacent ÷ opposite"
+    ],
+    "answer": 1,
+    "explanation": "The memory aid SOH CAH TOA gives tan = opposite/adjacent. Adjacent over opposite is the reciprocal.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does the angle of elevation of a building top measure?",
+    "options": [
+     "The angle above the horizontal from the observer to the top",
+     "The angle below the horizontal from the top to the observer",
+     "The angle between the building and the ground",
+     "The angle from north to the building"
+    ],
+    "answer": 0,
+    "explanation": "The angle of elevation is measured upward from the horizontal line at the observer's eye level. The angle of depression is the one measured downward.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A 5 m ladder leans against a wall and makes an angle of 70° with the horizontal ground. How high up the wall does it reach, to 2 decimal places?",
+    "options": [
+     "1.71 m",
+     "13.74 m",
+     "1.84 m",
+     "4.70 m"
+    ],
+    "answer": 3,
+    "explanation": "The wall height is opposite the 70° angle and the ladder is the hypotenuse: h = 5 sin 70° ≈ 4.70 m. The value 1.71 m comes from using cos 70° instead.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "From a point 20 m away on level ground the angle of elevation of the top of a tree is 35°. Calculate the height of the tree to 1 decimal place (ignore eye height).",
+    "options": [
+     "11.5 m",
+     "28.6 m",
+     "14.0 m",
+     "20.0 m"
+    ],
+    "answer": 2,
+    "explanation": "The 20 m side is adjacent and the height is opposite, so height = 20 tan 35° ≈ 14.0 m. Dividing by tan 35° would give 28.6 m.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "From the top of a 40 m lighthouse the angle of depression to a boat is 15°. How far is the boat from the base of the lighthouse, to the nearest metre?",
+    "options": [
+     "11 m",
+     "149 m",
+     "41 m",
+     "155 m"
+    ],
+    "answer": 1,
+    "explanation": "The angle at the boat equals the angle of depression (alternate angles), so tan 15° = 40/d and d = 40 ÷ tan 15° ≈ 149 m. Multiplying 40 × tan 15° gives 11 m, which is a mistake.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A ramp is 8 m long and rises 1.2 m vertically. What angle does it make with the horizontal, to 1 decimal place?",
+    "options": [
+     "8.6°",
+     "8.5°",
+     "81.4°",
+     "0.15°"
+    ],
+    "answer": 0,
+    "explanation": "The rise is opposite the angle and the ramp is the hypotenuse, so sin θ = 1.2/8 = 0.15 and θ = sin⁻¹(0.15) ≈ 8.6°. The value 81.4° is the other angle of the triangle.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A right-angled triangle has shorter sides of 7 cm and 24 cm. What is the smaller angle, to 1 decimal place?",
+    "options": [
+     "73.7°",
+     "16.7°",
+     "0.29°",
+     "16.3°"
+    ],
+    "answer": 3,
+    "explanation": "The smaller angle is opposite the 7 cm side: tan θ = 7/24, so θ = tan⁻¹(0.2917) ≈ 16.3°. The hypotenuse is 25 cm, so you could also check with sin θ = 7/25.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student types cos 60 into a calculator and sees −0.95 instead of 0.5. What is the most likely cause?",
+    "options": [
+     "The calculator is in degree mode",
+     "cos 60 has two possible answers",
+     "The calculator is in radian mode",
+     "The student should have used sin 60"
+    ],
+    "answer": 2,
+    "explanation": "cos 60° = 0.5, but cos of 60 radians is about −0.95. Always check the calculator is in degree mode before using trigonometry on angles in degrees.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A ship sails 12 km on a bearing of 060°. How far north has it travelled?",
+    "options": [
+     "10.4 km",
+     "6 km",
+     "12 km",
+     "20.8 km"
+    ],
+    "answer": 1,
+    "explanation": "Bearings are measured from north, so the north component is 12 cos 60° = 6 km, and the east component is 12 sin 60° ≈ 10.4 km. Mixing up sin and cos gives the 10.4 km.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student calculates a tree height as 14.0 m. The actual height measured by a surveyor is 14.5 m. What is the percentage error in the student's value, to 1 decimal place?",
+    "options": [
+     "3.4%",
+     "3.6%",
+     "0.5%",
+     "3.5%"
+    ],
+    "answer": 0,
+    "explanation": "Percentage error = |14.0 − 14.5| ÷ 14.5 × 100 = 3.4%. Dividing by the student's value (14.0) gives 3.6%, but the true value is the reference.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "From a point A, the angle of elevation of the top of a tower is 25°. After walking 30 m directly towards the tower to point B, the angle of elevation is 40°. What is the height of the tower, to 1 decimal place?",
+    "options": [
+     "67.5 m",
+     "21.1 m",
+     "13.9 m",
+     "31.5 m"
+    ],
+    "answer": 3,
+    "explanation": "Let h be the height. Then h/tan 25° − h/tan 40° = 30, so h = 30 ÷ (2.1445 − 1.1918) ≈ 31.5 m. The value 67.5 m is the distance from A to the base of the tower.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An isosceles triangle has two equal sides of 10 cm and a base of 12 cm. What is the size of each base angle, to 1 decimal place?",
+    "options": [
+     "36.9°",
+     "59.0°",
+     "53.1°",
+     "67.4°"
+    ],
+    "answer": 2,
+    "explanation": "Split the triangle into two right-angled triangles with hypotenuse 10 and base 6. Then cos θ = 6/10, so θ ≈ 53.1°. The angle 36.9° is half of the apex angle.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "θ is acute and tan θ = 5/12. What is cos θ?",
+    "options": [
+     "5/13",
+     "12/13",
+     "12/5",
+     "13/12"
+    ],
+    "answer": 1,
+    "explanation": "Draw a right-angled triangle with opposite 5 and adjacent 12. The hypotenuse is √(25 + 144) = 13, so cos θ = adjacent/hypotenuse = 12/13.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A cable car has two straight sections. The first is 500 m long at 20° above the horizontal and the second is 700 m long at 35°. What is the total height gained, to the nearest metre?",
+    "options": [
+     "573 m",
+     "1 043 m",
+     "1 200 m",
+     "470 m"
+    ],
+    "answer": 0,
+    "explanation": "Height gained is 500 sin 20° + 700 sin 35° ≈ 171.0 + 401.5 = 572.5 m, which rounds to 573 m (the unrounded value is 572.51). Using cosines instead gives the horizontal distance, about 1 043 m.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student claims that sin 40° = 2 × sin 20°. Which response is correct?",
+    "options": [
+     "True: doubling the angle doubles the sine",
+     "True: both equal 0.5",
+     "False: sin 40° ≈ 0.766 and 2 sin 20° ≈ 0.342",
+     "False: sin 40° ≈ 0.643 but 2 sin 20° ≈ 0.684"
+    ],
+    "answer": 3,
+    "explanation": "The sine ratio is not proportional to the angle. sin 40° ≈ 0.643 and 2 sin 20° ≈ 0.684, so the claim is false. Testing a rule on a new case, as here, is a standard way to disprove it.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## The three ratios\nIn a right-angled triangle, label the sides from the point of view of the angle θ you are working with: the **hypotenuse** is opposite the right angle (the longest side), the **opposite** side faces θ and the **adjacent** side touches θ.\n- **sin θ = opposite ÷ hypotenuse**\n- **cos θ = adjacent ÷ hypotenuse**\n- **tan θ = opposite ÷ adjacent**\nThe memory aid is SOH CAH TOA. Always label the triangle before choosing a ratio, because the opposite and adjacent sides swap when you change angle.\n\n## Finding a missing side\nPick the ratio that includes the side you know and the side you want. Example: the hypotenuse is 12 cm and θ = 30°, find the opposite side. The ratio with opposite and hypotenuse is sine, so opposite = 12 × sin 30° = 6 cm. If the unknown is on the bottom of the fraction, rearrange: 40 = d × tan 15° gives d = 40 ÷ tan 15°.\n\n## Finding a missing angle\nUse the inverse function. If cos θ = 8/10 then θ = cos⁻¹(0.8) ≈ 36.9°. The other acute angle is 90° − 36.9° = 53.1°. If you are given two sides, pick the ratio that links them and use shift or second-function on your calculator.\n\n## Angles of elevation and depression\nThe **angle of elevation** is measured upward from the horizontal to the line of sight. The **angle of depression** is measured downward from the horizontal. The angle of depression from the top of a lighthouse to a boat equals the angle of elevation from the boat to the top of the lighthouse because they are alternate angles.\n\n## Bearings\nA bearing is measured clockwise from north using three figures, for example 060°. A journey of 12 km on 060° has a north component 12 cos 60° and an east component 12 sin 60°.\n\n## Pythagoras and special triangles\nPythagoras links the three sides: a² + b² = c². In an exam you should know that the 3-4-5, 5-12-13 and 7-24-25 triangles are exact. If tan θ = 5/12, draw a triangle with opposite 5 and adjacent 12, the hypotenuse is 13, so sin θ = 5/13 and cos θ = 12/13.\n\n## Two-stage problems\nMany real questions need two triangles. For two elevations of a tower from points a distance d apart, set up h/tan A − h/tan B = d and solve for h. Keep full calculator accuracy until the last line.\n\n## How this is examined\nIn eAssessment-style tasks you are given a scenario, such as a wind turbine, a ramp, a ladder or a bridge cable, with measurements in the stimulus. You are asked to calculate a height or an angle, then to check against a safety guideline or compare your result with a measured value. Command terms such as calculate, show that and justify appear together. Always state your assumptions (the ground is level, the angle is exact) and consider accuracy through rounding and percentage error.\n\n## Common mistakes\n- Calculator left in radian mode\n- Choosing the wrong ratio because the sides were not labelled\n- Multiplying when the unknown is on the bottom of the fraction\n- Rounding in the middle of a calculation\nExam tip: write the ratio first, then substitute, then compute. Show all three steps and quote the answer to the accuracy requested, with units.",
+  "flashcards": [
+   {
+    "front": "SOH CAH TOA",
+    "back": "sin = opposite/hypotenuse, cos = adjacent/hypotenuse, tan = opposite/adjacent."
+   },
+   {
+    "front": "Hypotenuse",
+    "back": "The longest side of a right-angled triangle, opposite the right angle."
+   },
+   {
+    "front": "Finding an angle from two sides",
+    "back": "Use the inverse function: θ = sin⁻¹(opp/hyp), cos⁻¹(adj/hyp) or tan⁻¹(opp/adj)."
+   },
+   {
+    "front": "Angle of elevation",
+    "back": "The angle measured upward from the horizontal to the line of sight."
+   },
+   {
+    "front": "Angle of depression",
+    "back": "The angle measured downward from the horizontal. It equals the angle of elevation from the other end (alternate angles)."
+   },
+   {
+    "front": "Bearing",
+    "back": "An angle measured clockwise from north, written with three figures such as 060°."
+   },
+   {
+    "front": "Pythagoras' theorem",
+    "back": "a² + b² = c², where c is the hypotenuse. Exact triples include 3-4-5, 5-12-13 and 7-24-25."
+   },
+   {
+    "front": "Missing side when the unknown is in the denominator",
+    "back": "Rearrange first. From tan 15° = 40/d we get d = 40 ÷ tan 15°."
+   },
+   {
+    "front": "Calculator check",
+    "back": "Make sure the calculator is in degree mode. cos 60 should give 0.5, not −0.95."
+   }
+  ]
+ },
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Trigonometry",
+  "subTopic": "Sine Rule and Cosine Rule",
+  "questions": [
+   {
+    "content": "Which expression is the sine rule for triangle ABC, where a is opposite angle A and b is opposite angle B?",
+    "options": [
+     "a / sin A = b / sin B",
+     "a / sin B = b / sin A",
+     "a sin A = b sin B",
+     "a / cos A = b / cos B"
+    ],
+    "answer": 0,
+    "explanation": "The sine rule pairs each side with the sine of the angle opposite it: a/sin A = b/sin B. Mixing up the pairs (a with B) is a frequent error.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which expression is the cosine rule for finding side a in triangle ABC?",
+    "options": [
+     "a² = b² + c² + 2bc cos A",
+     "a² = b² + c² − 2bc sin A",
+     "a² = b² − c² − 2bc cos A",
+     "a² = b² + c² − 2bc cos A"
+    ],
+    "answer": 3,
+    "explanation": "The cosine rule is a² = b² + c² − 2bc cos A, where A is the angle between sides b and c. It reduces to Pythagoras when A = 90°.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In a triangle you know two angles and one side. Which rule should you use to find another side?",
+    "options": [
+     "Cosine rule",
+     "Pythagoras' theorem",
+     "Sine rule",
+     "Tangent ratio only"
+    ],
+    "answer": 2,
+    "explanation": "With two angles you can find the third, giving a side-angle pair for the sine rule. The cosine rule is for two sides and the included angle or all three sides.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A triangle has sides of 5 cm, 6 cm and 7 cm and you need an angle. Which rule should you use?",
+    "options": [
+     "Sine rule",
+     "Cosine rule",
+     "Pythagoras' theorem",
+     "Area rule with sin"
+    ],
+    "answer": 1,
+    "explanation": "With three sides and no angle, there is no known side-angle pair, so you use the cosine rule rearranged for cos of the angle.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In triangle ABC, A = 50° and B = 60°. What is angle C?",
+    "options": [
+     "70°",
+     "110°",
+     "10°",
+     "90°"
+    ],
+    "answer": 0,
+    "explanation": "Angles in a triangle add up to 180°, so C = 180° − 50° − 60° = 70°. The 110° is the sum of the given angles.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In triangle ABC, a = 8 cm, A = 40° and B = 65°. Calculate the length of b to 1 decimal place.",
+    "options": [
+     "5.7 cm",
+     "8.0 cm",
+     "12.3 cm",
+     "11.3 cm"
+    ],
+    "answer": 3,
+    "explanation": "Using the sine rule, b = 8 × sin 65° ÷ sin 40° ≈ 11.3 cm. The bigger angle is opposite the longer side, so b should be larger than a.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In triangle ABC, b = 7 cm, c = 9 cm and angle A = 60°. Calculate a to 1 decimal place.",
+    "options": [
+     "11.4 cm",
+     "8.5 cm",
+     "8.2 cm",
+     "4.0 cm"
+    ],
+    "answer": 2,
+    "explanation": "a² = 49 + 81 − 2 × 7 × 9 × cos 60° = 130 − 63 = 67, so a ≈ 8.2 cm. If you forget the square root you get 67.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A triangle has sides of 5 cm, 6 cm and 7 cm. Calculate its largest angle to 1 decimal place.",
+    "options": [
+     "44.4°",
+     "78.5°",
+     "57.1°",
+     "101.5°"
+    ],
+    "answer": 1,
+    "explanation": "The largest angle faces the 7 cm side. cos θ = (25 + 36 − 49) ÷ (2 × 5 × 6) = 12/60 = 0.2, so θ ≈ 78.5°.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Two ships leave a port. Ship A sails 12 km on a bearing of 040° and ship B sails 15 km on a bearing of 100°. How far apart are they to 1 decimal place?",
+    "options": [
+     "13.7 km",
+     "27.0 km",
+     "13.9 km",
+     "189.0 km"
+    ],
+    "answer": 0,
+    "explanation": "The angle between the two paths is 100° − 40° = 60°. By the cosine rule, d² = 144 + 225 − 2 × 12 × 15 × cos 60° = 189, so d ≈ 13.7 km. The value 189 is d² and was not square-rooted.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In triangle ABC, a = 10 cm, b = 8 cm and A = 50°. Calculate angle B to 1 decimal place.",
+    "options": [
+     "52.2°",
+     "51.3°",
+     "142.2°",
+     "37.8°"
+    ],
+    "answer": 3,
+    "explanation": "sin B = 8 sin 50° ÷ 10 ≈ 0.613, so B ≈ 37.8°. The other possibility 142.2° is impossible because 50° + 142.2° is more than 180°.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which expression correctly rearranges the cosine rule to find angle A?",
+    "options": [
+     "cos A = (a² − b² − c²) ÷ (2bc)",
+     "cos A = (b² + c² + a²) ÷ (2bc)",
+     "cos A = (b² + c² − a²) ÷ (2bc)",
+     "cos A = (b² + c² − a²) ÷ 2"
+    ],
+    "answer": 2,
+    "explanation": "From a² = b² + c² − 2bc cos A, move terms to get 2bc cos A = b² + c² − a², then divide by 2bc. Dividing by only 2 misses the bc.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Point P is on shore. A is 80 m from P and B is 100 m from P across a lake, and angle APB = 70°. How wide is the lake, AB, to 1 decimal place?",
+    "options": [
+     "109.3 m",
+     "104.5 m",
+     "128.1 m",
+     "10 928 m"
+    ],
+    "answer": 1,
+    "explanation": "AB² = 80² + 100² − 2 × 80 × 100 × cos 70° ≈ 10 928, so AB ≈ 104.5 m. The value 10 928 is the square of the answer. Note that this assumes P, A and B are on level ground.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A triangle has sides of 13 cm, 14 cm and 15 cm. What is its smallest angle, to 1 decimal place?",
+    "options": [
+     "53.1°",
+     "59.5°",
+     "67.4°",
+     "36.9°"
+    ],
+    "answer": 0,
+    "explanation": "The smallest angle is opposite the 13 cm side. cos θ = (14² + 15² − 13²) ÷ (2 × 14 × 15) = 252/420 = 0.6, so θ ≈ 53.1°. The angle 67.4° is the largest, opposite the 15 cm side.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In triangle ABC, A = 30°, a = 5 cm and b = 8 cm. How many different triangles can be drawn, and what are the possible sizes of angle B?",
+    "options": [
+     "One: B = 53.1°",
+     "One: B = 126.9°",
+     "None: sin B is more than 1",
+     "Two: B = 53.1° or B = 126.9°"
+    ],
+    "answer": 3,
+    "explanation": "sin B = 8 sin 30° ÷ 5 = 0.8, giving B = 53.1° or 180° − 53.1° = 126.9°. Both fit because 30° + 126.9° is still less than 180°, so this is the ambiguous case.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two survey points A and B on a straight shore are 500 m apart. A boat C is seen from A at an angle of 62° to AB, and from B at an angle of 71° to BA. How far is the boat from A, to the nearest metre?",
+    "options": [
+     "604 m",
+     "500 m",
+     "646 m",
+     "531 m"
+    ],
+    "answer": 2,
+    "explanation": "Angle C = 180° − 62° − 71° = 47°. The side AC is opposite angle B, so AC = 500 × sin 71° ÷ sin 47° ≈ 646 m. The 604 m is the distance BC, opposite angle A.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A triangle has sides 4 cm, 5 cm and 8 cm. What is the largest angle, to 1 decimal place?",
+    "options": [
+     "54.9°",
+     "125.1°",
+     "34.9°",
+     "90.0°"
+    ],
+    "answer": 1,
+    "explanation": "cos θ = (16 + 25 − 64) ÷ (2 × 4 × 5) = −23/40 = −0.575, so θ ≈ 125.1°. A negative cosine means the angle is obtuse; 54.9° is its supplement.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An aircraft flies 200 km on a bearing of 070°, then 150 km on a bearing of 150°. How far is it from its starting point, to the nearest kilometre?",
+    "options": [
+     "270 km",
+     "350 km",
+     "234 km",
+     "73 000 km"
+    ],
+    "answer": 0,
+    "explanation": "The interior angle at the turn is 180° − (150° − 70°) = 100°. d² = 200² + 150² − 2 × 200 × 150 × cos 100° ≈ 72 919, so d ≈ 270 km. Adding the legs (350 km) is the path length, not the displacement.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student states that the sine rule can always find a missing side in any triangle where two sides are known. Which response best evaluates this claim?",
+    "options": [
+     "True: any two sides are enough",
+     "True, but only for right-angled triangles",
+     "False: the sine rule only works with obtuse angles",
+     "False: the sine rule needs a known angle opposite a known side"
+    ],
+    "answer": 3,
+    "explanation": "The sine rule needs a matching side and opposite angle. With two sides and the included angle only, you use the cosine rule first. Justifying why a method fails is a common eAssessment skill.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why we need new rules\nSOH CAH TOA works only in right-angled triangles. For any triangle we use two more tools: the **sine rule** and the **cosine rule**. Label the triangle ABC with each side named after the angle opposite it: side a faces angle A, side b faces angle B and side c faces angle C. This labelling matters, so draw and label every time.\n\n## The sine rule\n- To find a side: **a / sin A = b / sin B = c / sin C**\n- To find an angle: **sin A / a = sin B / b = sin C / c**\nUse it when you know a matching pair (a side and its opposite angle) and one more piece of data. Example: a = 8, A = 40°, B = 65°. Then b = 8 × sin 65° ÷ sin 40° ≈ 11.3. Sense-check: the bigger angle faces the bigger side.\n\n## The ambiguous case\nWhen you use the sine rule to find an angle, your calculator gives an acute angle. A second angle, 180° minus it, has the same sine. It is valid only if the angle sum stays below 180°. If A = 30°, a = 5 and b = 8, then sin B = 0.8, so B = 53.1° or 126.9°. Both fit, so two different triangles exist. This happens when the given angle is not between the two known sides and the side opposite it is shorter than the other known side.\n\n## The cosine rule\n- To find a side: **a² = b² + c² − 2bc cos A**\n- To find an angle: **cos A = (b² + c² − a²) ÷ (2bc)**\nUse it when you know two sides and the included angle (the angle between them), or all three sides. Example: b = 7, c = 9, A = 60° gives a² = 49 + 81 − 63 = 67, so a ≈ 8.2. If the cosine value is negative the angle is obtuse (for example cos θ = −0.575 gives 125.1°).\n\n## Choosing the right rule\n- Two angles and a side: sine rule\n- A side, its opposite angle and one more side or angle: sine rule\n- Two sides and the included angle: cosine rule\n- Three sides: cosine rule (then the sine rule for the other angles)\nAfter finding one angle you can find the last with the angle sum of 180°.\n\n## Applications with bearings\nBearings are measured clockwise from north. To find the angle between two paths from the same point, subtract the bearings. For a path that turns, work out the interior angle with parallel-line facts. Ship A at 040° and ship B at 100° from a port give an angle of 60° between their routes. Then use the cosine rule for the distance between them.\n\n## How this is examined\nIn an eAssessment-style investigation you might be asked to find the width of a lake, the distance between two ships or the length of a bridge cable. The stimulus gives bearings or angles and measurements. You decide which rule to apply, calculate, then justify your choice. You may be asked to consider whether a measurement error of one degree would change your answer much, or to calculate a percentage error. State assumptions, for example that the ground is flat.\n\n## Common mistakes\n- Using the sine rule with a side and an angle that are not opposite each other\n- Forgetting the square root at the end of the cosine rule\n- Calculator in radian mode\n- Missing the second answer in the ambiguous case\n- Rounding angles early\nExam tip: write the rule, substitute with brackets, then calculate. Mark the unknown on your diagram and check that the largest angle faces the longest side.",
+  "flashcards": [
+   {
+    "front": "Sine rule (side form)",
+    "back": "a / sin A = b / sin B = c / sin C. Each side is paired with the angle opposite it."
+   },
+   {
+    "front": "Cosine rule (side form)",
+    "back": "a² = b² + c² − 2bc cos A. Use it for two sides and the included angle."
+   },
+   {
+    "front": "Cosine rule (angle form)",
+    "back": "cos A = (b² + c² − a²) ÷ (2bc). Use it when all three sides are known."
+   },
+   {
+    "front": "When to use the sine rule",
+    "back": "When you know a side and its opposite angle plus one other side or angle."
+   },
+   {
+    "front": "When to use the cosine rule",
+    "back": "When you know two sides and the included angle, or all three sides."
+   },
+   {
+    "front": "Ambiguous case",
+    "back": "Finding an angle with the sine rule can give two answers, θ and 180° − θ. Check whether both keep the angle sum below 180°."
+   },
+   {
+    "front": "Negative cosine",
+    "back": "A negative cos θ means θ is obtuse (between 90° and 180°)."
+   },
+   {
+    "front": "Angle between two bearings",
+    "back": "Subtract the bearings if both leave the same point. For a turning path use parallel-line angles to find the interior angle."
+   },
+   {
+    "front": "Sense check for triangles",
+    "back": "The longest side faces the largest angle, and the three angles add to 180°."
+   }
+  ]
+ },
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Trigonometry",
+  "subTopic": "Area of a Triangle and Three-Dimensional Trigonometry",
+  "questions": [
+   {
+    "content": "Which formula gives the area of a triangle when two sides a and b and the angle C between them are known?",
+    "options": [
+     "Area = ½ab sin C",
+     "Area = ½ab cos C",
+     "Area = ab sin C",
+     "Area = ½(a + b) sin C"
+    ],
+    "answer": 0,
+    "explanation": "The area is ½ × a × b × sin C, where C is the angle between sides a and b. Without the ½ you would get the area of a parallelogram.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A triangle has two sides of 6 cm and 8 cm with an angle of 30° between them. What is its area?",
+    "options": [
+     "24 cm²",
+     "20.8 cm²",
+     "41.6 cm²",
+     "12 cm²"
+    ],
+    "answer": 3,
+    "explanation": "Area = ½ × 6 × 8 × sin 30° = 24 × 0.5 = 12 cm². Forgetting the sine would give 24 cm².",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A cuboid measures 3 cm by 4 cm by 12 cm. What is the length of its space diagonal?",
+    "options": [
+     "19 cm",
+     "√19 cm",
+     "13 cm",
+     "5 cm"
+    ],
+    "answer": 2,
+    "explanation": "The space diagonal is √(3² + 4² + 12²) = √169 = 13 cm. Adding the three lengths (19 cm) ignores Pythagoras in three dimensions.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the angle between a line and a plane?",
+    "options": [
+     "The angle between the line and any line in the plane",
+     "The angle between the line and its projection onto the plane",
+     "The angle between the line and the vertical",
+     "The angle between the line and the nearest edge"
+    ],
+    "answer": 1,
+    "explanation": "Drop a perpendicular from the line to the plane to form the projection (shadow). The angle between the line and its shadow is the angle with the plane, and it is the smallest possible angle.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A right-angled triangle has shorter sides 5 cm and 12 cm. Using Area = ½ab sin C with C = 90°, what is the area?",
+    "options": [
+     "30 cm²",
+     "60 cm²",
+     "15 cm²",
+     "17 cm²"
+    ],
+    "answer": 0,
+    "explanation": "sin 90° = 1, so the area is ½ × 5 × 12 = 30 cm². This matches the usual ½ × base × height formula.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A triangle has sides 7 cm and 9 cm with an included angle of 50°. Calculate its area to 1 decimal place.",
+    "options": [
+     "31.5 cm²",
+     "40.5 cm²",
+     "20.2 cm²",
+     "24.1 cm²"
+    ],
+    "answer": 3,
+    "explanation": "Area = ½ × 7 × 9 × sin 50° = 31.5 × 0.766 ≈ 24.1 cm². The value 31.5 is the result before multiplying by the sine.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A triangle has sides 10 cm and 12 cm and an area of 40 cm². The angle between the two sides is acute. What is its size, to 1 decimal place?",
+    "options": [
+     "33.7°",
+     "48.2°",
+     "41.8°",
+     "138.2°"
+    ],
+    "answer": 2,
+    "explanation": "40 = ½ × 10 × 12 × sin C gives sin C = 2/3, so C = 41.8°. The value 138.2° also has the same sine but is obtuse, so the question rules it out.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A parallelogram has adjacent sides of 8 cm and 5 cm with an angle of 60° between them. What is its area to 1 decimal place?",
+    "options": [
+     "17.3 cm²",
+     "34.6 cm²",
+     "20.0 cm²",
+     "40.0 cm²"
+    ],
+    "answer": 1,
+    "explanation": "Area = ab sin θ = 8 × 5 × sin 60° ≈ 34.6 cm². The 17.3 cm² value is a triangle, which is half the parallelogram.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A triangular field has two fences of 120 m and 150 m meeting at an angle of 75°. What is its area to the nearest square metre?",
+    "options": [
+     "8 693 m²",
+     "9 000 m²",
+     "17 386 m²",
+     "8 700 m"
+    ],
+    "answer": 0,
+    "explanation": "Area = ½ × 120 × 150 × sin 75° ≈ 8 693 m². The value 17 386 m² forgets the ½. Remember that area is in square units.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A box is 8 cm long, 6 cm wide and 5 cm high. What is the length of the space diagonal, to 1 decimal place?",
+    "options": [
+     "19.0 cm",
+     "10.0 cm",
+     "125.0 cm",
+     "11.2 cm"
+    ],
+    "answer": 3,
+    "explanation": "The diagonal is √(8² + 6² + 5²) = √125 ≈ 11.2 cm. The value 125 is the square and needs the final root; 10 cm is only the base diagonal.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A box is 8 cm long, 6 cm wide and 5 cm high. What angle does its space diagonal make with the base, to 1 decimal place?",
+    "options": [
+     "30.9°",
+     "36.9°",
+     "26.6°",
+     "63.4°"
+    ],
+    "answer": 2,
+    "explanation": "The base diagonal is √(8² + 6²) = 10 cm. The angle with the base has opposite 5 and adjacent 10, so tan θ = 0.5 and θ ≈ 26.6°.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A square-based pyramid has a base side of 10 cm and a vertical height of 12 cm, with the apex above the centre. What is the length of a sloping edge, to 1 decimal place?",
+    "options": [
+     "13.0 cm",
+     "13.9 cm",
+     "15.6 cm",
+     "19.4 cm"
+    ],
+    "answer": 1,
+    "explanation": "Half of the base diagonal is 5√2 ≈ 7.07 cm. The edge is √(12² + 7.07²) = √194 ≈ 13.9 cm. Using half the side (5 cm) gives the slant height instead, 13 cm.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "When using Area = ½ab sin C in triangle ABC with a = 9 cm, b = 12 cm and angle A = 40°, which statement is correct?",
+    "options": [
+     "The formula needs the angle between a and b, which is C, not A",
+     "The formula can use any angle in the triangle",
+     "The formula can use A because it is opposite a",
+     "The angle A must be converted to radians first"
+    ],
+    "answer": 0,
+    "explanation": "The sine area formula needs the included angle, the one between the two given sides. Here A is opposite side a, so you cannot use it directly with sides a and b.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A triangle has sides of 10 cm and x cm with an obtuse angle of 150° between them, and its area is 30 cm². What is x?",
+    "options": [
+     "6 cm",
+     "24 cm",
+     "7.8 cm",
+     "12 cm"
+    ],
+    "answer": 3,
+    "explanation": "30 = ½ × 10 × x × sin 150°, and sin 150° = 0.5, so 30 = 2.5x and x = 12. Remember that the sine of an obtuse angle is still positive.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A triangle has sides of 7 cm, 8 cm and 9 cm. What is its area, to 1 decimal place?",
+    "options": [
+     "28.0 cm²",
+     "31.5 cm²",
+     "26.8 cm²",
+     "24.0 cm²"
+    ],
+    "answer": 2,
+    "explanation": "cos C = (49 + 64 − 81) ÷ (2 × 7 × 8) = 0.2857, so C ≈ 73.4° and sin C ≈ 0.958. Area = ½ × 7 × 8 × 0.958 ≈ 26.8 cm². You need the cosine rule first because there is no angle given.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A cone has a slant height of 13 cm and a base radius of 5 cm. What angle does the slant edge make with the base, to 1 decimal place?",
+    "options": [
+     "22.6°",
+     "67.4°",
+     "25.7°",
+     "38.5°"
+    ],
+    "answer": 1,
+    "explanation": "cos θ = 5/13 (adjacent is the radius, hypotenuse the slant height), so θ ≈ 67.4°. The angle 22.6° is the angle at the apex between the slant edge and the axis.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A vertical mast of height 30 m stands at B. Point A is 40 m due south of B and point C is 50 m due east of B, on level ground. What is the angle of elevation of the top of the mast from C, to the nearest degree?",
+    "options": [
+     "31°",
+     "37°",
+     "59°",
+     "41°"
+    ],
+    "answer": 0,
+    "explanation": "The triangle with the mast and BC has opposite 30 and adjacent 50, so tan θ = 0.6 and θ ≈ 31.0°. The 37° is the angle from A, which is nearer the mast.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student claims that doubling the angle between two sides of a triangle will double its area. For sides 6 cm and 8 cm, the angle changes from 30° to 60°. Which response is correct?",
+    "options": [
+     "True: the area rises from 12 cm² to 24 cm²",
+     "True: sin 60° is double sin 30°",
+     "False: the area stays the same",
+     "False: the area rises from 12 cm² to 20.8 cm²"
+    ],
+    "answer": 3,
+    "explanation": "Area = 24 sin C. At 30° it is 12 cm² and at 60° it is 20.8 cm², which is less than double. Sine is not proportional to the angle, so testing the rule on cases disproves it.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Area of a triangle without the height\nThe usual area formula ½ × base × height needs the perpendicular height. Often you do not have it, but you do know two sides and the angle between them. Then use\n- **Area = ½ab sin C**\nwhere a and b are two sides and C is the **included angle**, the one between them. Example: sides 7 and 9 with an angle of 50° between them give Area = ½ × 7 × 9 × sin 50° ≈ 24.1 cm². The formula works for acute and obtuse angles; the sine of an obtuse angle is positive, and sin 150° = 0.5.\n\n## Using the formula backwards\nIf the area is known, rearrange to find a side or an angle. For sides 10 and 12 and area 40: 40 = 60 sin C, so sin C = 2/3. The calculator gives C = 41.8°, but if the angle could be obtuse the other solution is 180° − 41.8° = 138.2°. Check whether the question tells you which one to take.\n\n## Other shapes\nA parallelogram with sides a and b and angle θ between them has area ab sin θ, which is twice the area of the triangle made by one diagonal. For a triangle with only three sides, first find an angle with the cosine rule, then use ½ab sin C.\n\n## Three-dimensional trigonometry\nBreak every 3D problem into right-angled triangles, then use Pythagoras or SOH CAH TOA. Redraw each triangle on its own, labelled with the lengths you know.\n- Space diagonal of a cuboid: √(l² + w² + h²). A 3 × 4 × 12 box has diagonal 13.\n- The base diagonal is found first: √(l² + w²).\n- A **sloping edge** of a square-based pyramid uses half the base diagonal and the vertical height.\n\n## Angle between a line and a plane\nFind the shadow, or projection, of the line on the plane. The angle between the line and its shadow is the angle with the plane. For a cuboid 8 × 6 × 5, the space diagonal projects onto the base diagonal of length 10, so tan θ = 5/10 and θ ≈ 26.6°. For a cone with slant height 13 and radius 5, cos θ = 5/13 gives an angle of 67.4° with the base.\n\n## Planning a 3D problem\n- Draw the solid and mark the line or angle you want.\n- Find the right-angled triangle that contains it. Often you must first calculate a base diagonal.\n- Calculate step by step, keeping full calculator values until the end.\n- Round only the final answer and give units.\n\n## How this is examined\nIn an eAssessment-style task you may meet a roof, a tent, a wind-turbine blade or a plot of land. The stimulus gives lengths and angles. You are asked to calculate an area, for instance the amount of material needed, or a length such as the cable to a mast. Then you are asked to justify a decision, such as whether the cost is within budget. State assumptions (flat ground, straight edges) and consider accuracy.\n\n## Common mistakes\n- Using an angle that is not between the two sides\n- Leaving out the ½\n- Using the base side instead of the base diagonal in 3D\n- Forgetting the square root\n- Mixing up the angle with the plane and the angle with the vertical\nExam tip: draw each right-angled triangle separately and label the sides you know before calculating.",
+  "flashcards": [
+   {
+    "front": "Area of a triangle (two sides and the included angle)",
+    "back": "Area = ½ab sin C, where C is the angle between sides a and b."
+   },
+   {
+    "front": "Area of a parallelogram",
+    "back": "Area = ab sin θ, where θ is the angle between adjacent sides."
+   },
+   {
+    "front": "Sine of an obtuse angle",
+    "back": "Still positive. For example sin 150° = 0.5 = sin 30°."
+   },
+   {
+    "front": "Space diagonal of a cuboid",
+    "back": "√(l² + w² + h²)."
+   },
+   {
+    "front": "Base diagonal of a rectangle",
+    "back": "√(l² + w²). Find this first in many 3D problems."
+   },
+   {
+    "front": "Angle between a line and a plane",
+    "back": "The angle between the line and its projection (shadow) on the plane."
+   },
+   {
+    "front": "Angle between two sloping surfaces or lines in 3D",
+    "back": "Choose a right-angled triangle that contains the angle, then use SOH CAH TOA."
+   },
+   {
+    "front": "Sloping edge of a square-based pyramid",
+    "back": "√(h² + (half the base diagonal)²). Do not use half the side length: that gives the slant height."
+   },
+   {
+    "front": "Area of a triangle with three known sides",
+    "back": "Find an angle using the cosine rule, then use ½ab sin C."
+   }
+  ]
+ },
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Trigonometry",
+  "subTopic": "Trigonometric Graphs and Equations",
+  "questions": [
+   {
+    "content": "What is the maximum value of y = sin x?",
+    "options": [
+     "1",
+     "0",
+     "90",
+     "∞"
+    ],
+    "answer": 0,
+    "explanation": "The sine curve oscillates between −1 and 1, so its maximum value is 1. The value 90° is where the maximum occurs, not the maximum itself.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the period of the graph y = tan x, in degrees?",
+    "options": [
+     "360°",
+     "90°",
+     "720°",
+     "180°"
+    ],
+    "answer": 3,
+    "explanation": "The tangent graph repeats every 180°, whereas sine and cosine repeat every 360°. It also has vertical asymptotes at 90°, 270° and so on.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which point does the graph of y = cos x pass through?",
+    "options": [
+     "(0°, 0)",
+     "(90°, 1)",
+     "(0°, 1)",
+     "(180°, 0)"
+    ],
+    "answer": 2,
+    "explanation": "cos 0° = 1, so the cosine graph starts at its maximum point (0°, 1). The sine graph is the one that starts at (0°, 0).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Solve sin x = 0.5 for 0° ≤ x ≤ 360°.",
+    "options": [
+     "x = 30° and 330°",
+     "x = 30° and 150°",
+     "x = 30° and 210°",
+     "x = 60° and 120°"
+    ],
+    "answer": 1,
+    "explanation": "The calculator gives 30°. By symmetry the second solution is 180° − 30° = 150°. The sine graph is positive in the first and second quadrants.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the amplitude of the graph y = 3 sin x?",
+    "options": [
+     "3",
+     "1",
+     "6",
+     "360"
+    ],
+    "answer": 0,
+    "explanation": "The amplitude is the maximum distance from the midline, here 3. The graph goes between −3 and 3, so the full height is 6.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the period of y = sin 2x, in degrees?",
+    "options": [
+     "720°",
+     "360°",
+     "90°",
+     "180°"
+    ],
+    "answer": 3,
+    "explanation": "The period of y = sin(bx) is 360° ÷ b, so for b = 2 it is 180°. Multiplying the angle by 2 squashes the graph horizontally, so it repeats faster.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve cos x = 0.5 for 0° ≤ x ≤ 360°.",
+    "options": [
+     "x = 60° and 120°",
+     "x = 30° and 330°",
+     "x = 60° and 300°",
+     "x = 60° and 240°"
+    ],
+    "answer": 2,
+    "explanation": "The calculator gives 60°. Cosine is symmetric about 180°, so the second solution is 360° − 60° = 300°. The values 120° and 240° have cosine −0.5.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve sin x = −0.5 for 0° ≤ x ≤ 360°.",
+    "options": [
+     "x = 30° and 150°",
+     "x = 210° and 330°",
+     "x = −30° and 210°",
+     "x = 150° and 330°"
+    ],
+    "answer": 1,
+    "explanation": "The reference angle is 30°. Sine is negative in the third and fourth quadrants, so x = 180° + 30° = 210° and x = 360° − 30° = 330°.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the range of y = 2 cos x + 1?",
+    "options": [
+     "−1 ≤ y ≤ 3",
+     "−2 ≤ y ≤ 2",
+     "1 ≤ y ≤ 3",
+     "−1 ≤ y ≤ 1"
+    ],
+    "answer": 0,
+    "explanation": "cos x ranges from −1 to 1, so 2 cos x ranges from −2 to 2, and adding 1 gives −1 to 3. The amplitude is 2 and the midline is y = 1.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve tan x = 1 for 0° ≤ x ≤ 360°.",
+    "options": [
+     "x = 45° and 135°",
+     "x = 45° and 315°",
+     "x = 45° and 180°",
+     "x = 45° and 225°"
+    ],
+    "answer": 3,
+    "explanation": "The calculator gives 45°. Tangent repeats every 180°, so the next solution is 45° + 180° = 225°. Adding 90° is a common mistake.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A harbour depth in metres is modelled by h = 3 sin(30t) + 5, where t is the time in hours. How many hours are there between high tides in this model?",
+    "options": [
+     "30 hours",
+     "6 hours",
+     "12 hours",
+     "360 hours"
+    ],
+    "answer": 2,
+    "explanation": "The period is 360° ÷ 30 = 12 hours, so successive maximum depths are 12 hours apart. The model also gives a maximum depth of 8 m and a minimum depth of 2 m.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve sin x = 0.7 for 0° ≤ x ≤ 360°, giving answers to 1 decimal place.",
+    "options": [
+     "x = 44.4° and 315.6°",
+     "x = 44.4° and 135.6°",
+     "x = 44.4° and 224.4°",
+     "x = 45.6° and 134.4°"
+    ],
+    "answer": 1,
+    "explanation": "sin⁻¹(0.7) ≈ 44.4°. The second solution is 180° − 44.4° = 135.6°. The value 315.6° would be the answer if sin x were −0.7 with reference angle 44.4°.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "For an acute angle x, sin x = 0.6 and cos x = 0.8. What is tan x?",
+    "options": [
+     "0.75",
+     "1.33",
+     "1.4",
+     "0.48"
+    ],
+    "answer": 0,
+    "explanation": "tan x = sin x ÷ cos x = 0.6 ÷ 0.8 = 0.75. The value 1.33 is cos x ÷ sin x, which is the reciprocal.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve 5 cos x = −2 for 0° ≤ x ≤ 360°, giving answers to 1 decimal place.",
+    "options": [
+     "x = 66.4° and 293.6°",
+     "x = 113.6° and 293.6°",
+     "x = 66.4° and 113.6°",
+     "x = 113.6° and 246.4°"
+    ],
+    "answer": 3,
+    "explanation": "cos x = −0.4, so x = cos⁻¹(−0.4) ≈ 113.6°. By symmetry the other solution is 360° − 113.6° = 246.4°. A negative cosine means second and third quadrants.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Solve sin 2x = 0.5 for 0° ≤ x ≤ 360°.",
+    "options": [
+     "x = 15° and 75°",
+     "x = 30° and 150°",
+     "x = 15°, 75°, 195°, 255°",
+     "x = 15°, 165°, 195°, 345°"
+    ],
+    "answer": 2,
+    "explanation": "First solve 2x = 30°, 150°, 390°, 510° for the range 0° to 720°, then halve: x = 15°, 75°, 195°, 255°. With 2x in the equation you get twice as many solutions as with x.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "How many solutions does 2 sin²x = sin x have for 0° ≤ x ≤ 360°?",
+    "options": [
+     "2",
+     "5",
+     "3",
+     "4"
+    ],
+    "answer": 1,
+    "explanation": "Rearranging gives sin x(2 sin x − 1) = 0. sin x = 0 gives x = 0°, 180° and 360°, and sin x = 0.5 gives 30° and 150°, so there are five. Dividing by sin x would lose three solutions.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The height in metres of a rider on a wheel is h = 12 − 10 cos(30t), where t is the time in minutes. At what time after the start does the rider first reach a height of 17 m?",
+    "options": [
+     "4 minutes",
+     "2 minutes",
+     "3 minutes",
+     "6 minutes"
+    ],
+    "answer": 0,
+    "explanation": "Set 12 − 10 cos(30t) = 17, so cos(30t) = −0.5, giving 30t = 120° and t = 4 minutes. The wheel completes one turn in 360 ÷ 30 = 12 minutes, with heights from 2 m to 22 m.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student claims cos 120° = cos 60°. Which response correctly evaluates the claim?",
+    "options": [
+     "True: both angles have a reference angle of 60°",
+     "True: cosine is always positive",
+     "False: cos 120° = 0.866",
+     "False: cos 120° = −0.5 but cos 60° = 0.5"
+    ],
+    "answer": 3,
+    "explanation": "The reference angles match but the sign differs. Cosine is negative between 90° and 270°, so cos 120° = −cos 60° = −0.5. Testing with specific values quickly exposes the error.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## The three basic graphs\nBetween 0° and 360°:\n- **y = sin x** starts at (0°, 0), rises to a maximum of 1 at 90°, crosses zero at 180°, reaches −1 at 270° and returns to 0 at 360°.\n- **y = cos x** starts at (0°, 1), crosses zero at 90°, reaches −1 at 180°, crosses zero at 270° and returns to 1 at 360°.\n- **y = tan x** starts at 0, rises steeply and has vertical **asymptotes** at x = 90° and 270°.\nSine and cosine have period 360° and amplitude 1. Tangent has period 180° and no maximum.\n\n## Transformations\nFor y = a sin(bx) + c:\n- **a** is the amplitude (stretch parallel to the y-axis)\n- **b** changes the period to 360° ÷ b\n- **c** moves the graph up or down, so the midline is y = c\nExample: y = 2 cos x + 1 has a range of −1 ≤ y ≤ 3. Example: y = sin 2x has period 180°, so it completes two cycles between 0° and 360°.\n\n## Solving equations\nUse the inverse function, then use symmetry to find the other solutions in the range.\n- **Sine:** the solutions are x and 180° − x. For sin x = 0.5, x = 30° and 150°.\n- **Cosine:** the solutions are x and 360° − x. For cos x = 0.5, x = 60° and 300°.\n- **Tangent:** the solutions are x and x + 180°. For tan x = 1, x = 45° and 225°.\nThink about the quadrants: sine is positive in quadrants 1 and 2; cosine is positive in quadrants 1 and 4; tangent is positive in quadrants 1 and 3. For negative values, use the reference angle: sin x = −0.5 has reference angle 30° and falls in quadrants 3 and 4, so x = 210° and 330°.\n\n## Harder equations\nRearrange first, for example 5 cos x = −2 becomes cos x = −0.4. For sin 2x = 0.5, solve 2x over a doubled range (0° to 720°) then halve. For 2 sin²x = sin x, factorise: sin x(2 sin x − 1) = 0, and never divide by sin x because you would lose the solutions where sin x = 0.\n\n## Identity\ntan x = sin x ÷ cos x. If sin x = 0.6 and cos x = 0.8, then tan x = 0.75.\n\n## Modelling with trigonometry\nTides, Ferris wheels, daylight hours and sound waves repeat, so they are modelled by sine or cosine graphs. In h = 3 sin(30t) + 5 the amplitude is 3, the midline is 5 (so the depth varies from 2 to 8) and the period is 360 ÷ 30 = 12 hours.\n\n## How this is examined\nIn an eAssessment-style investigation you are given a table or description of a repeating process, such as tide heights or the temperature through a day. You identify the amplitude, midline and period, state the equation, test it with extra data and then discuss limitations: real tides are not perfectly periodic, so the model is only an approximation. You may be asked to solve an equation for the first time a given height is reached.\n\n## Common mistakes\n- Giving only one solution in the range\n- Using the wrong quadrant for negative values\n- Dividing by sin x and losing solutions\n- Mixing up the period 360° ÷ b with 360° × b\n- Calculator in radian mode\nExam tip: sketch the graph in the given range and mark every place the horizontal line meets the curve. That tells you how many solutions to find.",
+  "flashcards": [
+   {
+    "front": "Shape of y = sin x",
+    "back": "Starts at (0°, 0), maximum 1 at 90°, minimum −1 at 270°, period 360°."
+   },
+   {
+    "front": "Shape of y = cos x",
+    "back": "Starts at (0°, 1), crosses zero at 90° and 270°, minimum −1 at 180°, period 360°."
+   },
+   {
+    "front": "Shape of y = tan x",
+    "back": "Period 180°, with vertical asymptotes at 90° and 270°. It has no maximum or minimum."
+   },
+   {
+    "front": "Amplitude and period",
+    "back": "For y = a sin(bx): the amplitude is |a| and the period is 360° ÷ b."
+   },
+   {
+    "front": "Vertical shift",
+    "back": "In y = a sin x + c the graph is shifted up by c and the midline is y = c."
+   },
+   {
+    "front": "Solutions of sin x = k",
+    "back": "x and 180° − x (then add or subtract 360° for other cycles)."
+   },
+   {
+    "front": "Solutions of cos x = k",
+    "back": "x and 360° − x."
+   },
+   {
+    "front": "Solutions of tan x = k",
+    "back": "x and x + 180°."
+   },
+   {
+    "front": "Identity for tangent",
+    "back": "tan x = sin x ÷ cos x."
+   }
+  ]
+ }
+]

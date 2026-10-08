@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Advanced Statistics",
+  "subTopic": "Cumulative Frequency and Box Plots",
+  "questions": [
+   {
+    "content": "On a cumulative frequency graph, each cumulative frequency is plotted against which value of its class?",
+    "options": [
+     "The upper class boundary",
+     "The lower class boundary",
+     "The midpoint of the class",
+     "The class width"
+    ],
+    "answer": 0,
+    "explanation": "A cumulative frequency counts all the data up to the end of a class, so it is plotted at the upper class boundary. Plotting at the midpoint would count data that has not been reached yet.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A cumulative frequency graph is drawn for 80 students. At which cumulative frequency is the median read?",
+    "options": [
+     "20",
+     "60",
+     "80",
+     "40"
+    ],
+    "answer": 3,
+    "explanation": "The median is the middle value, which is at half of the total: 80 ÷ 2 = 40. 20 would give the lower quartile and 60 the upper quartile.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A data set has 100 values. The lower quartile is read from the cumulative frequency graph at which cumulative frequency?",
+    "options": [
+     "50",
+     "75",
+     "25",
+     "10"
+    ],
+    "answer": 2,
+    "explanation": "The lower quartile is at one quarter of the total: 100 ÷ 4 = 25. The upper quartile is at 75.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A box plot is drawn from this five-number summary: minimum 4, lower quartile 10, median 15, upper quartile 22, maximum 40. What is the interquartile range?",
+    "options": [
+     "36",
+     "12",
+     "18",
+     "15"
+    ],
+    "answer": 1,
+    "explanation": "IQR = upper quartile − lower quartile = 22 − 10 = 12. The value 36 is the range (40 − 4).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The frequencies of four classes are 3, 7, 12 and 8. Which list shows the cumulative frequencies?",
+    "options": [
+     "3, 10, 22, 30",
+     "3, 7, 12, 8",
+     "3, 4, 5, 6",
+     "30, 27, 20, 8"
+    ],
+    "answer": 0,
+    "explanation": "Cumulative frequency is a running total: 3, 3 + 7 = 10, 10 + 12 = 22 and 22 + 8 = 30. The last value equals the total number of data values.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A cumulative frequency table for 40 journey times (in minutes) gives these totals: up to 10 min: 4; up to 20 min: 15; up to 30 min: 30; up to 40 min: 36; up to 50 min: 40. How many journeys took more than 30 minutes?",
+    "options": [
+     "30",
+     "6",
+     "4",
+     "10"
+    ],
+    "answer": 3,
+    "explanation": "30 journeys took 30 minutes or less, so 40 − 30 = 10 journeys took longer. 30 is the cumulative frequency itself, not the number above it.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Using the same journey data (up to 10: 4; up to 20: 15; up to 30: 30; up to 40: 36; up to 50: 40), estimate the median time by assuming the values are evenly spread within the class.",
+    "options": [
+     "25 min",
+     "20 min",
+     "23.3 min",
+     "30 min"
+    ],
+    "answer": 2,
+    "explanation": "The median is the 20th value. 15 values are up to 20 min and 30 are up to 30 min, so the median is 20 + (5 ÷ 15) × 10 ≈ 23.3 min. Taking the class midpoint (25) ignores where the 20th value lies.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Class A has median 62 and IQR 10. Class B has median 58 and IQR 22. Which conclusion is best supported?",
+    "options": [
+     "Class B scored higher because its IQR is bigger",
+     "Class A typically scored higher and its middle scores were more consistent",
+     "The classes performed the same because the medians are close",
+     "Class A had more students because its median is larger"
+    ],
+    "answer": 1,
+    "explanation": "A higher median means a higher typical score. A smaller IQR means the middle 50% are closer together, so Class A is more consistent. IQR does not show the number of students.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A box plot has lower quartile 12, median 15 and upper quartile 30. Which statement is true?",
+    "options": [
+     "The upper half of the middle 50% is more spread out than the lower half",
+     "The data is evenly spread across the box",
+     "Half of the data lies between 12 and 15",
+     "The median is the mean of the quartiles"
+    ],
+    "answer": 0,
+    "explanation": "From Q1 to the median is only 3 but from the median to Q3 is 15, so the upper part of the box is much more spread out. Only 25% of the data lies between 12 and 15.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A cumulative frequency graph for 60 test marks shows that 42 students scored less than 25 marks. How many scored 25 marks or more?",
+    "options": [
+     "42",
+     "25",
+     "35",
+     "18"
+    ],
+    "answer": 3,
+    "explanation": "The total is 60 and 42 scored below 25, so 60 − 42 = 18 scored 25 or more.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A cumulative frequency graph has 60 data values. At which cumulative frequency is the upper quartile read?",
+    "options": [
+     "15",
+     "30",
+     "45",
+     "40"
+    ],
+    "answer": 2,
+    "explanation": "The upper quartile is three quarters of the total: 3 ÷ 4 × 60 = 45. 15 gives the lower quartile and 30 the median.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A data set contains one extremely large outlier. Which measure of spread is least affected by it?",
+    "options": [
+     "Range",
+     "Interquartile range",
+     "Maximum value",
+     "Total"
+    ],
+    "answer": 1,
+    "explanation": "The IQR only uses the middle 50% of the data, so an extreme value hardly changes it. The range uses the largest and smallest values, so the outlier changes it greatly.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Delivery times for 200 parcels have lower quartile 20 min, median 26 min and upper quartile 34 min. About how many parcels took between 20 and 34 minutes?",
+    "options": [
+     "100",
+     "50",
+     "150",
+     "25"
+    ],
+    "answer": 0,
+    "explanation": "The values between the lower and upper quartiles make up the middle 50% of the data. 50% of 200 is 100 parcels.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Heights of 100 plants: 140–150 cm: 8; 150–160 cm: 22; 160–170 cm: 40; 170–180 cm: 20; 180–190 cm: 10. Assuming values are spread evenly within each class, estimate the lower quartile.",
+    "options": [
+     "160.0 cm",
+     "155.0 cm",
+     "165.0 cm",
+     "157.7 cm"
+    ],
+    "answer": 3,
+    "explanation": "The lower quartile is the 25th value. 8 values are below 150, and the 150–160 class has 22 values, so Q1 = 150 + (17 ÷ 22) × 10 ≈ 157.7 cm.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Using the same plant data (140–150: 8; 150–160: 22; 160–170: 40; 170–180: 20; 180–190: 10) and the estimates Q1 ≈ 157.7 cm, what is the estimated IQR?",
+    "options": [
+     "12.5 cm",
+     "22.5 cm",
+     "14.8 cm",
+     "30.0 cm"
+    ],
+    "answer": 2,
+    "explanation": "The upper quartile is the 75th value. 70 values are below 170 and the next class has 20, so Q3 = 170 + (5 ÷ 20) × 10 = 172.5. IQR = 172.5 − 157.7 ≈ 14.8 cm.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two box plots show scores. Both have median 50. Plot A runs from 10 to 90 and Plot B runs from 40 to 60. Which conclusion is valid?",
+    "options": [
+     "B has fewer students than A",
+     "The scores in B are more tightly clustered than those in A",
+     "A has a higher mean than B",
+     "A is more reliable than B"
+    ],
+    "answer": 1,
+    "explanation": "B has a much smaller range, so its values are closer together. A box plot does not show how many data values there are, and it cannot tell you the mean.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Class X has 40 students and class Y has 60 students. In both classes the upper quartile of the maths test is 70 marks. About how many students across both classes scored at least 70?",
+    "options": [
+     "25",
+     "50",
+     "35",
+     "20"
+    ],
+    "answer": 0,
+    "explanation": "A quarter of each class scored at least the upper quartile: 10 from X and 15 from Y, making 25 students. The upper quartile shows the same percentage, not the same number.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A rule states that a value is an outlier if it is more than 1.5 × IQR above the upper quartile. For a data set Q1 = 20 and Q3 = 32, is a value of 55 an outlier?",
+    "options": [
+     "No, because 55 is less than 32 + 32",
+     "Yes, because 55 is more than double Q3",
+     "No, because the limit is 60",
+     "Yes, because the limit is 50 and 55 is above it"
+    ],
+    "answer": 3,
+    "explanation": "IQR = 12 so 1.5 × 12 = 18. The upper limit is 32 + 18 = 50. Since 55 > 50 it is an outlier.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Cumulative frequency graphs and box plots help you describe a large data set using its median and spread. They are common in eAssessment tasks where you compare two groups, such as exam marks in two classes or journey times on two routes.\n\n## Cumulative frequency\n**Cumulative frequency** is a running total of the frequencies. For grouped data, you add the frequency of each class to the total from earlier classes. The last cumulative frequency equals the total number of values.\n\nTo draw a cumulative frequency graph:\n- Plot each cumulative frequency against the **upper class boundary** (the end of each class).\n- Start the curve at the lowest boundary with a cumulative frequency of 0.\n- Join the points with a smooth curve (or straight lines for a polygon).\n\n## Reading the graph\nWith n values in total:\n- **Median**: read across from n/2.\n- **Lower quartile (Q1)**: read across from n/4.\n- **Upper quartile (Q3)**: read across from 3n/4.\n- **Interquartile range (IQR)** = Q3 − Q1. This is the spread of the middle 50% of the data.\n\nYou can also read the number of values below a given amount, or above it by subtracting from n. For example if 42 of 60 students scored less than 25, then 60 − 42 = 18 scored 25 or more.\n\n## Box plots\nA box plot is drawn from the **five-number summary**: minimum, Q1, median, Q3 and maximum. The box runs from Q1 to Q3 with a line at the median, and the whiskers go out to the minimum and maximum. Always draw it to scale on a number line.\n\nEach quarter of the data lies in one section of the plot. So 50% lies inside the box, and 25% in each whisker. A longer section means that quarter of the data is more spread out. The width of the box does not show how many values there are.\n\n## Comparing distributions\nAlways make two comments: one about an average (compare medians) and one about spread (compare IQRs or ranges), and put both in the context of the question. Example: \"Route A has a lower median journey time of 22 minutes compared with 28 minutes, and a smaller IQR, so its times are more consistent.\"\n\nThe IQR is usually better than the range for spread because it is not affected by extreme values.\n\n## Worked example\nFor 80 values, the graph gives Q1 = 14, median = 20 and Q3 = 31.\n- Median is read at 40, Q1 at 20 and Q3 at 60.\n- IQR = 31 − 14 = 17.\n- About 40 values lie between Q1 and Q3.\n\n## Common mistakes\n- Plotting at the midpoint or lower boundary instead of the upper boundary.\n- Reading the median at the wrong height, for example 50 instead of n/2.\n- Quoting the quartile height (like 25) instead of the value on the horizontal axis.\n- Saying a larger box means more data. It means more spread.\n- Comparing without mentioning both average and spread.\n\n## How this is examined\nYou are usually given a table of times or marks, asked to complete the cumulative frequency column, plot or read a graph, and then draw conclusions. Later parts say \"compare the two data sets\" or \"justify which route is better\", where marks go for using both the median and the IQR in context and for noting the limits of grouped data.\n\nExam tip: When you read a value from a graph, draw construction lines on the graph and write the value with its units, then compare using words like \"higher median\" and \"more consistent\".",
+  "flashcards": [
+   {
+    "front": "Cumulative frequency",
+    "back": "A running total of frequencies. The final value equals the total number of data values."
+   },
+   {
+    "front": "Where to plot cumulative frequency",
+    "back": "Plot at the upper class boundary of each class."
+   },
+   {
+    "front": "Median from a graph",
+    "back": "Read across from n/2 on the cumulative frequency axis, then down to the value."
+   },
+   {
+    "front": "Quartiles from a graph",
+    "back": "Q1 is read at n/4 and Q3 at 3n/4 on the cumulative frequency axis."
+   },
+   {
+    "front": "Interquartile range (IQR)",
+    "back": "IQR = Q3 − Q1. It measures the spread of the middle 50% of the data."
+   },
+   {
+    "front": "Five-number summary",
+    "back": "Minimum, lower quartile, median, upper quartile and maximum. These are used to draw a box plot."
+   },
+   {
+    "front": "What does the box in a box plot contain?",
+    "back": "The middle 50% of the data, from Q1 to Q3. Each whisker holds 25%."
+   },
+   {
+    "front": "Why use IQR rather than range?",
+    "back": "The IQR is not affected by extreme values or outliers, but the range is."
+   },
+   {
+    "front": "Comparing two data sets",
+    "back": "Compare an average (median) and a spread (IQR or range), and give the comparison in context."
+   }
+  ]
+ },
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Advanced Statistics",
+  "subTopic": "Histograms and Frequency Density",
+  "questions": [
+   {
+    "content": "A histogram has unequal class widths. What is plotted on the vertical axis?",
+    "options": [
+     "Frequency",
+     "Frequency density",
+     "Class width",
+     "Cumulative frequency"
+    ],
+    "answer": 1,
+    "explanation": "With unequal classes, bars are drawn with height equal to frequency density so that the area shows the frequency. Plotting frequency would make wide classes look too large.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the formula for frequency density?",
+    "options": [
+     "Frequency ÷ class width",
+     "Frequency × class width",
+     "Class width ÷ frequency",
+     "Frequency ÷ total frequency"
+    ],
+    "answer": 0,
+    "explanation": "Frequency density = frequency ÷ class width. Multiplying the two gives the wrong direction, because it would reverse the calculation.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A class 10 < x ≤ 30 has frequency 24. What is the frequency density?",
+    "options": [
+     "0.83",
+     "2.4",
+     "480",
+     "1.2"
+    ],
+    "answer": 3,
+    "explanation": "The class width is 30 − 10 = 20, so the frequency density is 24 ÷ 20 = 1.2. 0.83 comes from dividing the wrong way round.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In a histogram, a bar has width 5 and frequency density 3. What frequency does it represent?",
+    "options": [
+     "8",
+     "1.67",
+     "15",
+     "0.6"
+    ],
+    "answer": 2,
+    "explanation": "Frequency = frequency density × class width = 3 × 5 = 15. The area of the bar is the frequency.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does the area of a bar in a histogram represent?",
+    "options": [
+     "The frequency density",
+     "The frequency of that class",
+     "The class width",
+     "The cumulative frequency"
+    ],
+    "answer": 1,
+    "explanation": "In a histogram the area of each bar is proportional to the frequency (and equal to it when frequency density is used). The height alone is the frequency density.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Ages of visitors: 0 < a ≤ 10: 30 people; 10 < a ≤ 30: 50 people; 30 < a ≤ 60: 60 people; 60 < a ≤ 100: 40 people. What is the frequency density of the class 30 < a ≤ 60?",
+    "options": [
+     "2",
+     "60",
+     "30",
+     "0.5"
+    ],
+    "answer": 0,
+    "explanation": "Class width is 30, so the frequency density is 60 ÷ 30 = 2. Using the frequency 60 as the height ignores the width.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A histogram has two bars. One has width 5 and frequency density 4. The other has width 10 and frequency density 3.5. What is the total frequency?",
+    "options": [
+     "7.5",
+     "27.5",
+     "35",
+     "55"
+    ],
+    "answer": 3,
+    "explanation": "The frequencies are 5 × 4 = 20 and 10 × 3.5 = 35. The total is 20 + 35 = 55. Adding the heights gives 7.5, which is not a frequency.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The class 10 < x ≤ 20 has frequency 40 and the values are assumed to be spread evenly. Estimate how many values are between 12 and 20.",
+    "options": [
+     "8",
+     "20",
+     "32",
+     "40"
+    ],
+    "answer": 2,
+    "explanation": "The part from 12 to 20 is 8 out of the 10 width, so 8 ÷ 10 × 40 = 32. This uses the assumption of an even spread.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A waiting-time histogram has bars: 0–10 min, frequency density 1.2; 10–25 min, frequency density 2; 25–45 min, frequency density 0.5. What is the total number of people?",
+    "options": [
+     "3.7",
+     "52",
+     "26",
+     "110"
+    ],
+    "answer": 1,
+    "explanation": "Frequencies are 1.2 × 10 = 12, 2 × 15 = 30 and 0.5 × 20 = 10. The total is 12 + 30 + 10 = 52.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In the same waiting-time data (frequencies 12, 30 and 10 for the classes 0–10, 10–25 and 25–45), which class contains the median?",
+    "options": [
+     "10 to 25 minutes",
+     "0 to 10 minutes",
+     "25 to 45 minutes",
+     "It cannot be found"
+    ],
+    "answer": 0,
+    "explanation": "The total is 52, so the median is the 26th value. The first class has 12 values and the first two have 42, so the 26th value lies in the 10–25 class.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student draws a histogram with unequal class widths but uses frequency for the bar heights. What is the effect?",
+    "options": [
+     "Narrow classes look more common than they really are",
+     "The graph is correct",
+     "The total frequency changes",
+     "Wide classes look more common than they really are"
+    ],
+    "answer": 3,
+    "explanation": "The area shows the frequency, so with unequal widths using frequency heights exaggerates the wide classes. Frequency density corrects for the width.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Using class midpoints, estimate the mean waiting time for frequencies 12, 30 and 10 in the classes 0–10, 10–25 and 25–45 minutes.",
+    "options": [
+     "19.2 min",
+     "17.5 min",
+     "18.0 min",
+     "20.0 min"
+    ],
+    "answer": 2,
+    "explanation": "Midpoints are 5, 17.5 and 35. The total of frequency × midpoint = 60 + 525 + 350 = 935. Dividing by 52 gives about 18.0 min. Averaging the midpoints (19.2) ignores the frequencies.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A data set has 80 values. Three classes have frequencies 10, 25 and 15. The last class has width 20. What frequency density should its bar have?",
+    "options": [
+     "30",
+     "1.5",
+     "0.67",
+     "3"
+    ],
+    "answer": 1,
+    "explanation": "The remaining frequency is 80 − 50 = 30. Frequency density = 30 ÷ 20 = 1.5.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The class 20 < x ≤ 30 has frequency 36. The next class, 30 < x ≤ 50, has the same frequency density as 20 < x ≤ 30. What is the frequency of 30 < x ≤ 50?",
+    "options": [
+     "72",
+     "36",
+     "7.2",
+     "3.6"
+    ],
+    "answer": 0,
+    "explanation": "The density of the first class is 36 ÷ 10 = 3.6. The next class has width 20, so its frequency is 3.6 × 20 = 72.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "One bar has width 5 and frequency density 6. Another has width 15 and frequency density 2. Which statement is correct?",
+    "options": [
+     "The taller bar represents the larger frequency",
+     "The wider bar represents the larger frequency",
+     "The taller bar represents more than twice as many values",
+     "Both bars represent the same frequency"
+    ],
+    "answer": 3,
+    "explanation": "The frequencies are 5 × 6 = 30 and 15 × 2 = 30. In a histogram, the area matters, not the height alone.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A histogram has bars: 0–10, frequency density 2; 10–30, frequency density 4; 30–50, frequency density 1. Estimate the number of values between 5 and 20.",
+    "options": [
+     "30",
+     "70",
+     "50",
+     "100"
+    ],
+    "answer": 2,
+    "explanation": "From 5 to 10: 5 × 2 = 10. From 10 to 20: 10 × 4 = 40. The total is 50. This assumes an even spread within each class.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A histogram has frequencies 20 (0–10), 80 (10–30) and 20 (30–50). Estimate the median.",
+    "options": [
+     "15",
+     "20",
+     "25",
+     "30"
+    ],
+    "answer": 1,
+    "explanation": "There are 120 values, so the median is the 60th value. 20 values lie below 10, so we need 40 of the 80 in the middle class, which is half of the width of 20. Median = 10 + 10 = 20.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A mean is estimated from a histogram using class midpoints. Which statement explains why it is only an estimate?",
+    "options": [
+     "The exact values inside each class are not known",
+     "The midpoints are always wrong",
+     "The frequencies are rounded",
+     "Histograms cannot show the mean"
+    ],
+    "answer": 0,
+    "explanation": "Grouped data hides the actual values, so the midpoint is assumed to represent each value in the class. The result is an estimate, and its accuracy depends on the class widths.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "A histogram looks like a bar chart but it is used for continuous data, and it can have classes of different widths. The key idea is that the **area** of each bar shows the frequency, not the height. This is why the vertical axis is **frequency density**.\n\n## Frequency density\n**Frequency density = frequency ÷ class width**\n\nSo **frequency = frequency density × class width**, which is the area of the bar.\n\nUsing frequency density makes the comparison fair. If you plotted frequency, a class that is twice as wide would look twice as big even when it holds the same number of values per unit.\n\n## Drawing a histogram\n1. Find each class width (upper boundary minus lower boundary).\n2. Calculate frequency density for each class.\n3. Draw bars of those heights, with no gaps between them, on a continuous horizontal axis.\n4. Label the vertical axis \"Frequency density\" and give the units on the horizontal axis.\n\n## Worked example\nTime spent on homework (minutes): 0 < t ≤ 20: 10 students; 20 < t ≤ 40: 30 students; 40 < t ≤ 100: 36 students.\n- Widths: 20, 20, 60.\n- Frequency densities: 10 ÷ 20 = 0.5, 30 ÷ 20 = 1.5, 36 ÷ 60 = 0.6.\n- The tallest bar is 20–40, even though 40–100 has more students.\n\n## Reading a histogram\nWork out each frequency by multiplying the height by the width. Add them for the total. To estimate the frequency in part of a class, take the proportion of the width you need, assuming the data is spread evenly.\nExample: In the 20–40 class (frequency 30), the number between 20 and 25 is 5/20 × 30 = 7.5, so about 7 or 8 students.\n\n## Estimating averages\n- **Mean**: multiply each midpoint by its frequency, add them, and divide by the total frequency.\n- **Median**: find the position n/2, find its class, then use the proportion within the class.\n- **Modal class**: the class with the highest frequency density, not the highest frequency.\n\nThese are estimates because the individual values are hidden within each class.\n\n## Common mistakes\n- Plotting frequency on the vertical axis when classes are different widths.\n- Leaving gaps between bars.\n- Reading height as frequency. The area is what counts.\n- Choosing the modal class by tallest frequency rather than greatest frequency density.\n- Dividing by the wrong width or using the midpoint when a boundary is needed.\n\n## How this is examined\nIn an eAssessment context you may see a histogram from a transport or health survey with unequal classes. You calculate missing frequency densities, find the number of people in a range, estimate the mean, and judge a claim in context, such as whether more than a quarter of customers wait over 20 minutes. Evaluation marks come from stating the assumption of an even spread and noting that grouped data only gives estimates.\n\nExam tip: Add a frequency density column to your table before doing anything else, and check that your bar areas add up to the total frequency.",
+  "flashcards": [
+   {
+    "front": "Frequency density",
+    "back": "Frequency ÷ class width. It is the height of a histogram bar."
+   },
+   {
+    "front": "Frequency from a histogram",
+    "back": "Frequency = frequency density × class width, which is the area of the bar."
+   },
+   {
+    "front": "Why use frequency density?",
+    "back": "Class widths are unequal, so heights must be adjusted so that area shows frequency."
+   },
+   {
+    "front": "Histogram vs bar chart",
+    "back": "A histogram is for continuous data, has no gaps and can have unequal widths. The area, not the height, shows frequency."
+   },
+   {
+    "front": "Class width",
+    "back": "Upper boundary − lower boundary. For 20 < x ≤ 35 it is 15."
+   },
+   {
+    "front": "Modal class in a histogram",
+    "back": "The class with the highest frequency density, not the highest frequency."
+   },
+   {
+    "front": "Estimating part of a class",
+    "back": "Take the fraction of the class width wanted × frequency, assuming the data is spread evenly."
+   },
+   {
+    "front": "Estimated mean from grouped data",
+    "back": "Sum of (midpoint × frequency) ÷ total frequency. It is an estimate because exact values are unknown."
+   },
+   {
+    "front": "Locating the median",
+    "back": "Find n/2, find the class that contains it, then estimate its position within the class."
+   }
+  ]
+ },
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Advanced Statistics",
+  "subTopic": "Scatter Graphs and Lines of Best Fit",
+  "questions": [
+   {
+    "content": "In a scatter graph, as the values on the x-axis get bigger the values on the y-axis get smaller. What type of correlation is this?",
+    "options": [
+     "Positive correlation",
+     "No correlation",
+     "Perfect correlation",
+     "Negative correlation"
+    ],
+    "answer": 3,
+    "explanation": "When one variable increases as the other decreases, the correlation is negative. The points slope downwards.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The points on a scatter graph lie very close to a straight line that slopes upwards. How would you describe the correlation?",
+    "options": [
+     "Weak positive",
+     "Strong negative",
+     "Strong positive",
+     "No correlation"
+    ],
+    "answer": 2,
+    "explanation": "The upward slope means positive, and points close to the line means strong. Weak would mean the points are widely spread.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A student uses a line of best fit to estimate a value that is inside the range of the data. What is this called?",
+    "options": [
+     "Extrapolation",
+     "Interpolation",
+     "Correlation",
+     "Causation"
+    ],
+    "answer": 1,
+    "explanation": "Estimating inside the range of the data is interpolation, and it is usually reliable. Extrapolation goes outside the range and is less reliable.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The points on a scatter graph are scattered with no pattern. What can you say?",
+    "options": [
+     "There is no correlation",
+     "There is strong positive correlation",
+     "There is negative correlation",
+     "The line of best fit must be horizontal and accurate"
+    ],
+    "answer": 0,
+    "explanation": "No pattern means the two variables are not linearly related. A line of best fit would not be useful for predictions.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Ice cream sales and the number of sunburn cases are positively correlated. Which statement is correct?",
+    "options": [
+     "Ice cream causes sunburn",
+     "Sunburn causes ice cream sales",
+     "The data must be wrong",
+     "Correlation does not prove that one causes the other"
+    ],
+    "answer": 3,
+    "explanation": "Both are probably linked to hot, sunny weather, which is a third factor. A correlation alone does not show cause and effect.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A line of best fit passes through the points (2, 5) and (10, 21). What is its gradient?",
+    "options": [
+     "0.5",
+     "16",
+     "2",
+     "1"
+    ],
+    "answer": 2,
+    "explanation": "Gradient = change in y ÷ change in x = (21 − 5) ÷ (10 − 2) = 16 ÷ 8 = 2.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A line of best fit has equation y = 2x + 1. Use it to predict y when x = 7.",
+    "options": [
+     "14",
+     "15",
+     "16",
+     "9"
+    ],
+    "answer": 1,
+    "explanation": "Substitute x = 7: y = 2 × 7 + 1 = 15. Forgetting the +1 gives 14.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A set of five points has x-values 1, 2, 3, 4, 5 and y-values 3, 5, 6, 8, 13. What are the coordinates of the mean point?",
+    "options": [
+     "(3, 7)",
+     "(3, 6)",
+     "(15, 35)",
+     "(5, 13)"
+    ],
+    "answer": 0,
+    "explanation": "The mean of x is 15 ÷ 5 = 3 and the mean of y is 35 ÷ 5 = 7. A line of best fit should pass close to (3, 7). The sums are not the means.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A line of best fit for weekly revision hours (x) and test marks (y) is y = 0.8x + 12. What does the gradient 0.8 mean?",
+    "options": [
+     "A student with no revision scores 0.8",
+     "Every student gains 80 marks",
+     "The correlation is 0.8",
+     "Each extra hour of revision is linked to about 0.8 more marks"
+    ],
+    "answer": 3,
+    "explanation": "The gradient is the change in y for a one-unit increase in x. The intercept 12 is the predicted mark with no revision.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The data for a scatter graph covers x-values from 10 to 40. A student uses the line of best fit to predict y when x = 100. Why is this prediction unreliable?",
+    "options": [
+     "It is interpolation",
+     "The line of best fit always has the wrong gradient",
+     "It is extrapolation beyond the range of the data",
+     "The graph has no correlation"
+    ],
+    "answer": 2,
+    "explanation": "x = 100 is far outside the data. The relationship may not continue in the same way, so the prediction cannot be trusted.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "One point on a scatter graph lies far away from the others. What is the best first response?",
+    "options": [
+     "Delete it automatically",
+     "Check whether it is an error and decide whether to include it, giving a reason",
+     "Ignore the whole data set",
+     "Draw the line of best fit through that point only"
+    ],
+    "answer": 1,
+    "explanation": "An outlier may be a recording error or a real unusual case. Investigate it and explain your decision, rather than removing it without a reason.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A line of best fit has equation y = −1.5x + 60. Predict y when x = 12.",
+    "options": [
+     "42",
+     "78",
+     "18",
+     "−42"
+    ],
+    "answer": 0,
+    "explanation": "y = −1.5 × 12 + 60 = −18 + 60 = 42. The sign of the negative gradient matters.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A line of best fit passes through (0, 10) and (20, 50). Use it to estimate y when x = 15.",
+    "options": [
+     "35",
+     "45",
+     "30",
+     "40"
+    ],
+    "answer": 3,
+    "explanation": "The gradient is 40 ÷ 20 = 2 and the intercept is 10, so y = 2x + 10. When x = 15, y = 40.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A line of best fit passes through (2, 18) and (8, 42). Which is its equation?",
+    "options": [
+     "y = 4x + 18",
+     "y = 4x − 10",
+     "y = 4x + 10",
+     "y = 0.25x + 17.5"
+    ],
+    "answer": 2,
+    "explanation": "Gradient = (42 − 18) ÷ (8 − 2) = 4. Then 18 = 4 × 2 + c gives c = 10, so y = 4x + 10. Check with (8, 42): 4 × 8 + 10 = 42.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A data set has mean point (10, 32). Which line is most suitable as a line of best fit?",
+    "options": [
+     "y = 2.5x + 5",
+     "y = 3x + 2",
+     "y = 3x + 5",
+     "y = 2x + 10"
+    ],
+    "answer": 1,
+    "explanation": "A line of best fit should pass through the mean point. For y = 3x + 2: 3 × 10 + 2 = 32, which works. y = 2.5x + 5 gives 30, so it misses the point.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A study finds a positive correlation between the number of fire engines at a fire and the cost of the damage. Which explanation is best?",
+    "options": [
+     "Larger fires need more engines and cause more damage",
+     "Fire engines cause damage",
+     "Damage causes the engines to arrive",
+     "The correlation must be wrong"
+    ],
+    "answer": 0,
+    "explanation": "A third factor, the size of the fire, affects both variables. This is called a confounding variable and shows correlation is not causation.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A line of best fit passes through (10, 40) and (30, 100). For what value of x does the line give y = 130, and how reliable is it?",
+    "options": [
+     "x = 43.3, an interpolation so it is reliable",
+     "x = 30, an interpolation so it is reliable",
+     "x = 50, an extrapolation so it is reliable",
+     "x = 40, an extrapolation so it is less reliable"
+    ],
+    "answer": 3,
+    "explanation": "The gradient is 60 ÷ 20 = 3 so y = 3x + 10. Setting 130 = 3x + 10 gives x = 40, which is beyond the data (10 to 30), so the prediction is less reliable.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The line y = 0.8x + 12 models test mark (y, out of 100) against hours of revision per week (x). A student predicts the mark for 120 hours. Why is the model not valid there?",
+    "options": [
+     "It predicts 12, which is too low",
+     "The line has a negative gradient",
+     "It predicts 108, which is impossible, and the hours are outside the data",
+     "The model only works for x = 0"
+    ],
+    "answer": 2,
+    "explanation": "y = 0.8 × 120 + 12 = 108, above the maximum mark of 100. A week also has only 168 hours, so the linear model cannot continue indefinitely.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "A scatter graph shows two variables measured for the same people or objects, so that you can see whether they are related. It is often used in real-world investigations such as height and arm span, study time and test score, or temperature and sales.\n\n## Describing correlation\n- **Positive correlation**: as x increases, y increases. The points slope upwards.\n- **Negative correlation**: as x increases, y decreases. The points slope downwards.\n- **No correlation**: no clear pattern.\n- **Strong** correlation means the points are close to a straight line. **Weak** means they are more spread out.\n\nAlways describe both type and strength, for example \"strong positive correlation\".\n\n## Line of best fit\nA line of best fit is a straight line drawn through the data to show the trend.\n- It should follow the general direction and have roughly equal numbers of points above and below it.\n- It should pass through the **mean point** (mean of x, mean of y). Calculate the means and plot this point to help.\n- It does not need to pass through the origin or any data point.\n\n## Using the line\nRead values from the line to make predictions. To use an equation, substitute into y = mx + c.\n\nTo find the equation, choose two points that lie on your line (not necessarily data points), calculate the gradient m = (y₂ − y₁) ÷ (x₂ − x₁), and then find c by substituting one point.\n\nWorked example: A line passes through (2, 18) and (8, 42).\n- m = (42 − 18) ÷ (8 − 2) = 4.\n- 18 = 4 × 2 + c, so c = 10.\n- The equation is y = 4x + 10. When x = 5, y = 30.\n\n## Interpreting gradient and intercept\nIn context: the gradient is the change in y for each one-unit increase in x, and the intercept is the predicted value of y when x = 0. Always link them to the real variables and units. The intercept might not make sense in the real world, for example a negative price.\n\n## Reliability and limits\n- **Interpolation** (predicting inside the range of data) is usually reliable.\n- **Extrapolation** (predicting outside the range) is less reliable because the trend may not continue.\n- A prediction that is impossible, such as a mark over 100, shows the model has reached its limits.\n- An **outlier** is a point that does not fit the pattern. Check whether it is an error before deciding whether to include it.\n- **Correlation does not mean causation.** A third factor may cause both changes.\n\n## Common mistakes\n- Joining the points like a dot-to-dot graph.\n- Forcing the line through the origin.\n- Using the sum instead of the mean to locate the mean point.\n- Giving the gradient without units or context.\n- Claiming one variable causes the other.\n\n## How this is examined\nIn the eAssessment you might be given a table of data and a scatter graph, asked to plot a point, draw a line of best fit, find its equation and use it to predict a value. Then you are asked to comment on the reliability of your prediction, state assumptions and suggest what other data would improve the model. The extended task usually rewards you for explaining limitations and not just calculating.\n\nExam tip: When asked about a prediction, always say whether it is interpolation or extrapolation, and give one reason it may be more or less reliable.",
+  "flashcards": [
+   {
+    "front": "Positive correlation",
+    "back": "As x increases, y increases. The points slope upwards."
+   },
+   {
+    "front": "Negative correlation",
+    "back": "As x increases, y decreases. The points slope downwards."
+   },
+   {
+    "front": "Strong vs weak correlation",
+    "back": "Strong: points lie close to a straight line. Weak: points are widely spread around the trend."
+   },
+   {
+    "front": "Line of best fit",
+    "back": "A straight line showing the trend, with roughly equal points above and below. It should pass through the mean point."
+   },
+   {
+    "front": "Mean point",
+    "back": "The point (mean of x, mean of y). A line of best fit should pass through or very near it."
+   },
+   {
+    "front": "Interpolation vs extrapolation",
+    "back": "Interpolation predicts within the data range and is reliable. Extrapolation goes outside it and is less reliable."
+   },
+   {
+    "front": "Gradient of the line of best fit",
+    "back": "The change in y for each increase of 1 in x. Always explain it in context with units."
+   },
+   {
+    "front": "Outlier",
+    "back": "A point that does not fit the pattern. Check for an error and justify whether you include it."
+   },
+   {
+    "front": "Correlation and causation",
+    "back": "Correlation does not prove one variable causes the other. A third factor may affect both."
+   }
+  ]
+ }
+]

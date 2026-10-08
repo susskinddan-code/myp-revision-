@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Circle Geometry and Solids",
+  "subTopic": "Circle Theorems",
+  "questions": [
+   {
+    "content": "In a circle with centre O, the arc AB subtends an angle of 80° at the centre. What angle does the same arc subtend at a point C on the major arc?",
+    "options": [
+     "40",
+     "160",
+     "80",
+     "100"
+    ],
+    "answer": 0,
+    "explanation": "The angle at the centre is twice the angle at the circumference, so the angle at C is 80° ÷ 2 = 40°. Doubling instead of halving gives the common wrong answer 160°.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "AB is a diameter of a circle and C is a point on the circumference. What is the size of angle ACB?",
+    "options": [
+     "180",
+     "45",
+     "60",
+     "90"
+    ],
+    "answer": 3,
+    "explanation": "The angle in a semicircle is always 90°. 180° would be the angle on a straight line, which is a different idea.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A tangent touches a circle at point T. What is the angle between the tangent and the radius drawn to T?",
+    "options": [
+     "45",
+     "180",
+     "90",
+     "60"
+    ],
+    "answer": 2,
+    "explanation": "A tangent is perpendicular to the radius at the point of contact, so the angle is 90°.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "ABCD is a cyclic quadrilateral. Angle DAB = 105°. What is angle BCD?",
+    "options": [
+     "105",
+     "75",
+     "255",
+     "90"
+    ],
+    "answer": 1,
+    "explanation": "Opposite angles in a cyclic quadrilateral add up to 180°, so angle BCD = 180° − 105° = 75°. Opposite angles are supplementary, not equal.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Two tangents are drawn from an external point P and touch a circle at A and B. PA = 7 cm. What is the length of PB?",
+    "options": [
+     "7 cm",
+     "14 cm",
+     "3.5 cm",
+     "49 cm"
+    ],
+    "answer": 0,
+    "explanation": "Tangents drawn from the same external point are equal in length, so PB = PA = 7 cm.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In a circle, the angle ACB at the circumference is 54°, where C lies on the major arc AB. What is the angle AOB at the centre O, on the same arc?",
+    "options": [
+     "27",
+     "54",
+     "126",
+     "108"
+    ],
+    "answer": 3,
+    "explanation": "The angle at the centre is twice the angle at the circumference: 2 × 54° = 108°. Using 180° − 54° = 126° mixes up this theorem with the cyclic quadrilateral rule.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A chord AB of length 16 cm lies in a circle of radius 10 cm. How far is the chord from the centre O?",
+    "options": [
+     "8 cm",
+     "12.8 cm",
+     "6 cm",
+     "4 cm"
+    ],
+    "answer": 2,
+    "explanation": "The perpendicular from the centre bisects the chord, giving a right-angled triangle with hypotenuse 10 and one side 8. The distance is √(10² − 8²) = √36 = 6 cm. Using 8 cm is the half-chord, not the distance.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "PT is a tangent to a circle with centre O, touching at T. The radius OT = 5 cm and OP = 13 cm. Find the length PT.",
+    "options": [
+     "8 cm",
+     "12 cm",
+     "18 cm",
+     "13.9 cm"
+    ],
+    "answer": 1,
+    "explanation": "Angle OTP = 90°, so PT² = 13² − 5² = 144 and PT = 12 cm. Subtracting the lengths (13 − 5 = 8) ignores Pythagoras.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Tangents PA and PB touch a circle with centre O at A and B. Angle APB = 50°. Find angle AOB.",
+    "options": [
+     "130",
+     "50",
+     "40",
+     "100"
+    ],
+    "answer": 0,
+    "explanation": "Quadrilateral OAPB has angles 90° at A and B and 50° at P. The angles sum to 360°, so AOB = 360° − 90° − 90° − 50° = 130°.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The angle between a tangent at T and a chord TA is 62°. By the alternate segment theorem, what is the size of the angle in the alternate segment?",
+    "options": [
+     "31",
+     "118",
+     "28",
+     "62"
+    ],
+    "answer": 3,
+    "explanation": "The angle between a tangent and a chord equals the angle in the alternate segment. So the angle is 62°, not half of it or its supplement.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "ABCD is a cyclic quadrilateral with angle ABC = (2x + 10)° and angle ADC = (3x − 5)°. Find x.",
+    "options": [
+     "36",
+     "15",
+     "35",
+     "17"
+    ],
+    "answer": 2,
+    "explanation": "Opposite angles sum to 180°, so 2x + 10 + 3x − 5 = 180, giving 5x = 175 and x = 35. Setting the angles equal would wrongly give x = 15.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "O is the centre of a circle. A and B are on the circumference and angle AOB = 70°. Find angle OAB.",
+    "options": [
+     "70",
+     "55",
+     "35",
+     "110"
+    ],
+    "answer": 1,
+    "explanation": "OA and OB are radii, so triangle OAB is isosceles. The base angles are (180° − 70°) ÷ 2 = 55° each.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Points A, B, C and D lie on a circle, with C and D on the same side of chord AB. Angle ACB = 37°. What is angle ADB?",
+    "options": [
+     "37",
+     "74",
+     "143",
+     "53"
+    ],
+    "answer": 0,
+    "explanation": "Angles in the same segment, standing on the same chord, are equal. So angle ADB = 37°.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A tangent to a circle at A meets a chord AB so that the angle between the tangent and AB is 68°. O is the centre. Find angle OAB.",
+    "options": [
+     "68",
+     "34",
+     "112",
+     "22"
+    ],
+    "answer": 3,
+    "explanation": "The radius OA is perpendicular to the tangent, so angle OAB = 90° − 68° = 22°. The 68° angle is between the tangent and the chord, not the radius.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A circular ring road has radius 12 km. Two junctions A and B are joined by a straight road of length 18 km, which is a chord. To one decimal place, how far is this road from the centre of the ring road?",
+    "options": [
+     "9.0 km",
+     "6.0 km",
+     "7.9 km",
+     "15.0 km"
+    ],
+    "answer": 2,
+    "explanation": "The perpendicular from the centre bisects the chord, so the half-chord is 9 km. The distance is √(12² − 9²) = √63 ≈ 7.9 km. Giving 9 km confuses the half-chord with the distance.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "O is the centre of a circle and A, B, C, D lie on it. B is on the major arc AC and D is on the minor arc AC. Angle AOC = 140°. Find angle ADC.",
+    "options": [
+     "70",
+     "110",
+     "140",
+     "220"
+    ],
+    "answer": 1,
+    "explanation": "Angle ABC at the major arc is half of 140°, which is 70°. B and D are on opposite arcs of a cyclic quadrilateral, so ADC = 180° − 70° = 110°.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Tangents from P touch a circle at A and B and angle APB = 40°. C lies on the major arc AB. Find angle ACB.",
+    "options": [
+     "70",
+     "140",
+     "40",
+     "110"
+    ],
+    "answer": 0,
+    "explanation": "Quadrilateral OAPB gives AOB = 360° − 90° − 90° − 40° = 140°. The angle at the circumference on the major arc is half of this, so ACB = 70°.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "In quadrilateral PQRS (vertices in order) the angles are P = 100°, Q = 70°, R = 80° and S = 110°. Which statement is correct?",
+    "options": [
+     "It is not cyclic, because opposite angles are not equal",
+     "It is not cyclic, because the angles sum to 360°",
+     "It is cyclic, because every angle is less than 180°",
+     "It is cyclic, because each pair of opposite angles sums to 180°"
+    ],
+    "answer": 3,
+    "explanation": "P + R = 180° and Q + S = 180°, which is the condition for a cyclic quadrilateral. Opposite angles need to be supplementary, not equal. Every quadrilateral has angles summing to 360°.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Circle theorems let you find missing angles and lengths in diagrams with circles. In the MYP eAssessment you must give a reason for every step, so learn each theorem as a short sentence you can quote.\n\n## The key theorems\n- **Angle at the centre**: the angle at the centre is twice the angle at the circumference when both stand on the same arc. If the arc subtends 70° at the circumference, it subtends 140° at the centre.\n- **Angle in a semicircle**: an angle drawn from the ends of a diameter to a point on the circumference is 90°.\n- **Angles in the same segment**: angles at the circumference standing on the same chord, on the same side, are equal.\n- **Cyclic quadrilateral**: a four-sided shape with all vertices on a circle. Opposite angles add up to 180°.\n- **Tangent and radius**: a tangent meets the radius at 90° at the point of contact.\n- **Two tangents**: tangents drawn from one external point are equal in length. The line from the external point to the centre bisects the angle between them.\n- **Alternate segment theorem**: the angle between a tangent and a chord equals the angle in the alternate segment, which is the segment on the opposite side of the chord.\n- **Chord and centre**: a line from the centre that is perpendicular to a chord bisects it. This gives right-angled triangles for Pythagoras.\n\n## Radii make isosceles triangles\nAny two radii form equal sides, so a triangle with the centre O and two points on the circle is isosceles. The base angles are equal. This is the hidden step in many questions.\n\n## Worked example\nO is the centre. Tangents from P touch the circle at A and B. Angle APB = 50°.\n1. Angles OAP and OBP are 90° (tangent is perpendicular to radius).\n2. Angles in quadrilateral OAPB add to 360°, so angle AOB = 360° − 90° − 90° − 50° = 130°.\n3. For C on the major arc AB, angle ACB = 130° ÷ 2 = 65° (angle at centre is twice the angle at the circumference).\n\n## Common mistakes\n- Doubling when you should halve, or the other way around. The centre angle is the larger one.\n- Thinking opposite angles in a cyclic quadrilateral are equal. They are supplementary, adding up to 180°.\n- Using the angle at the circumference when the point is on the other arc. Check which arc the angle stands on.\n- Forgetting the tangent is perpendicular to the radius, not to the chord.\n- Writing the answer with no reason. eAssessment markers award marks for the reasoning.\n\n## How this is examined\nQuestions often place a circle in a real setting such as a roundabout, a running track or a circular window, with a diagram and several labelled angles. Early parts ask you to calculate or state an angle with a reason. Later parts ask you to show that or justify a conclusion, for example showing that a quadrilateral is cyclic, or finding the distance of a chord from the centre using Pythagoras. An extended task may ask you to design a layout, state your assumptions and explain how accurate your answers are.\n\n## Setting out a proof\nWrite each line as a statement followed by a reason in brackets, such as: Angle ABC = 90° (angle in a semicircle). Keep the same order as the diagram and mark equal angles clearly. If you can, find a second route to the same answer to check it.\n\nExam tip: Write the name of the theorem next to every angle you find, and always look for radii first, because they create isosceles triangles and right angles that unlock the rest of the diagram.",
+  "flashcards": [
+   {
+    "front": "Angle at the centre theorem",
+    "back": "The angle at the centre is twice the angle at the circumference when both stand on the same arc."
+   },
+   {
+    "front": "Angle in a semicircle",
+    "back": "The angle at the circumference subtended by a diameter is 90°."
+   },
+   {
+    "front": "Angles in the same segment",
+    "back": "Angles at the circumference standing on the same chord and on the same side of it are equal."
+   },
+   {
+    "front": "Cyclic quadrilateral rule",
+    "back": "Opposite angles of a cyclic quadrilateral add up to 180°."
+   },
+   {
+    "front": "Tangent and radius",
+    "back": "A tangent is perpendicular (90°) to the radius at the point of contact."
+   },
+   {
+    "front": "Two tangents from a point",
+    "back": "Tangents from the same external point are equal in length."
+   },
+   {
+    "front": "Alternate segment theorem",
+    "back": "The angle between a tangent and a chord equals the angle in the alternate segment."
+   },
+   {
+    "front": "Chord and perpendicular from centre",
+    "back": "A perpendicular from the centre to a chord bisects the chord. Use Pythagoras with the radius."
+   },
+   {
+    "front": "Hidden isosceles triangle",
+    "back": "Two radii are equal, so a triangle formed by the centre and two points on the circle is isosceles."
+   }
+  ]
+ },
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Circle Geometry and Solids",
+  "subTopic": "Similarity, Area and Volume Scale Factors",
+  "questions": [
+   {
+    "content": "Two similar shapes have corresponding lengths in the ratio 1 : 3. What is the ratio of their areas?",
+    "options": [
+     "1 : 3",
+     "1 : 9",
+     "1 : 6",
+     "1 : 27"
+    ],
+    "answer": 1,
+    "explanation": "Area scales by the square of the length scale factor, so 1² : 3² = 1 : 9. 1 : 27 is the volume ratio.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A solid is enlarged with a linear scale factor of 2. By what factor does its volume increase?",
+    "options": [
+     "8",
+     "4",
+     "6",
+     "2"
+    ],
+    "answer": 0,
+    "explanation": "Volume scales with the cube of the linear scale factor: 2³ = 8. A factor of 4 is the area scale factor.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In two similar triangles, a side of 4 cm in the smaller triangle matches a side of 6 cm in the larger triangle. What is the scale factor from the smaller to the larger?",
+    "options": [
+     "2/3",
+     "2",
+     "10",
+     "1.5"
+    ],
+    "answer": 3,
+    "explanation": "Scale factor = 6 ÷ 4 = 1.5. Dividing the other way gives 2/3, which is the scale factor for going from large to small.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A cube has edge length 3 cm. It is enlarged by a scale factor of 2. What is the volume of the new cube?",
+    "options": [
+     "54 cm³",
+     "108 cm³",
+     "216 cm³",
+     "36 cm³"
+    ],
+    "answer": 2,
+    "explanation": "The new edge is 6 cm, so volume = 6³ = 216 cm³. Alternatively 27 × 2³ = 216. Multiplying 27 by 2 or by 4 uses the wrong scale factor.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A rectangle has area 20 cm². It is enlarged by a linear scale factor of 3. What is the new area?",
+    "options": [
+     "60 cm²",
+     "180 cm²",
+     "23 cm²",
+     "540 cm²"
+    ],
+    "answer": 1,
+    "explanation": "Area scale factor is 3² = 9, so the new area is 20 × 9 = 180 cm². Multiplying by 3 forgets to square, and 540 uses the cube.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A model ship is built at a scale of 1 : 50. The model is 0.6 m long. How long is the real ship?",
+    "options": [
+     "30 m",
+     "0.012 m",
+     "3 m",
+     "50.6 m"
+    ],
+    "answer": 0,
+    "explanation": "Lengths scale by 50, so 0.6 × 50 = 30 m. Dividing by 50 gives 0.012 m, which goes in the wrong direction.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A sail on a 1 : 50 model has an area of 40 cm². What is the area of the sail on the real ship?",
+    "options": [
+     "0.2 m²",
+     "500 m²",
+     "100 m²",
+     "10 m²"
+    ],
+    "answer": 3,
+    "explanation": "Area scale factor is 50² = 2500, so the area is 40 × 2500 = 100 000 cm². Since 1 m² = 10 000 cm², this is 10 m².",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Two cones are mathematically similar. Their heights are 6 cm and 9 cm. The smaller cone has volume 40 cm³. What is the volume of the larger cone?",
+    "options": [
+     "60 cm³",
+     "90 cm³",
+     "135 cm³",
+     "80 cm³"
+    ],
+    "answer": 2,
+    "explanation": "Linear scale factor = 9 ÷ 6 = 1.5, so the volume scale factor is 1.5³ = 3.375. Volume = 40 × 3.375 = 135 cm³. 60 uses the linear factor and 90 uses the area factor.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Two similar containers have surface areas of 25 cm² and 100 cm². The smaller container has volume 30 cm³. What is the volume of the larger?",
+    "options": [
+     "120 cm³",
+     "240 cm³",
+     "60 cm³",
+     "480 cm³"
+    ],
+    "answer": 1,
+    "explanation": "Area ratio 1 : 4 means the linear ratio is 1 : 2, so the volume ratio is 1 : 8. The larger volume is 30 × 8 = 240 cm³.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Triangles ABC and PQR are similar with AB corresponds to PQ. AB = 5 cm, BC = 8 cm and PQ = 15 cm. Find QR.",
+    "options": [
+     "24 cm",
+     "13.3 cm",
+     "18 cm",
+     "10 cm"
+    ],
+    "answer": 0,
+    "explanation": "The scale factor is 15 ÷ 5 = 3, so QR = 8 × 3 = 24 cm. Dividing 8 by 3 does not use the correct corresponding sides.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A photo frame is enlarged so that every length increases by 10%. By what percentage does its area increase?",
+    "options": [
+     "10%",
+     "20%",
+     "33.1%",
+     "21%"
+    ],
+    "answer": 3,
+    "explanation": "The linear scale factor is 1.1 so the area scale factor is 1.1² = 1.21, an increase of 21%. A 10% rise only applies to lengths. 33.1% is the volume increase.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Two similar solids have volumes in the ratio 8 : 125. What is the ratio of their corresponding lengths?",
+    "options": [
+     "4 : 25",
+     "8 : 5",
+     "2 : 5",
+     "2 : 25"
+    ],
+    "answer": 2,
+    "explanation": "Take the cube root of each volume: ∛8 = 2 and ∛125 = 5, giving 2 : 5. 4 : 25 would be the area ratio.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A small tin of paint holds 1 litre and costs £8. A larger, mathematically similar tin is 1.5 times as tall. Assuming the price is proportional to the capacity, how much does the larger tin cost?",
+    "options": [
+     "£12",
+     "£27",
+     "£18",
+     "£8"
+    ],
+    "answer": 1,
+    "explanation": "Capacity scales by 1.5³ = 3.375, so the cost is 8 × 3.375 = £27. Using 1.5 gives £12 and using 1.5² gives £18.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A statue 2 m tall has mass 40 kg. A similar model made of the same material is 0.5 m tall. What is the mass of the model?",
+    "options": [
+     "0.625 kg",
+     "2.5 kg",
+     "5 kg",
+     "10 kg"
+    ],
+    "answer": 0,
+    "explanation": "The linear scale factor is 0.25, so the volume and the mass scale by 0.25³ = 1/64. Mass = 40 ÷ 64 = 0.625 kg.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two similar solids have surface areas in the ratio 16 : 49. What is the ratio of their volumes?",
+    "options": [
+     "16 : 49",
+     "4 : 7",
+     "256 : 2401",
+     "64 : 343"
+    ],
+    "answer": 3,
+    "explanation": "The linear ratio is √16 : √49 = 4 : 7. The volume ratio is 4³ : 7³ = 64 : 343.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two similar cylinders have surface areas 200 cm² and 450 cm². The larger has volume 675 cm³. What is the volume of the smaller?",
+    "options": [
+     "300 cm³",
+     "450 cm³",
+     "200 cm³",
+     "150 cm³"
+    ],
+    "answer": 2,
+    "explanation": "Area ratio is 450 ÷ 200 = 2.25, so the linear factor is 1.5 and the volume factor is 3.375. Smaller volume = 675 ÷ 3.375 = 200 cm³.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A manufacturer enlarges a box, keeping the same shape, so that its volume increases by 72.8%. By what percentage does each length increase?",
+    "options": [
+     "24.3%",
+     "20%",
+     "31.4%",
+     "72.8%"
+    ],
+    "answer": 1,
+    "explanation": "The volume factor is 1.728 and the length factor is ∛1.728 = 1.2, a 20% increase. Dividing 72.8% by 3 gives the tempting but incorrect 24.3%.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A 1 : 200 model of a reservoir holds 3 litres. A student says the real reservoir holds 3 × 200 = 600 litres. What is the error in the method?",
+    "options": [
+     "Capacity should be multiplied by 200³, not 200",
+     "Capacity should be multiplied by 200²",
+     "Capacity should be divided by 200",
+     "The model should be a different shape"
+    ],
+    "answer": 0,
+    "explanation": "Capacity is a volume, so it scales by the cube of the length scale factor: 3 × 200³ = 24 000 000 litres. Multiplying by 200 treats volume like a length.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Similar shapes have the same shape but different sizes. Every length in one shape is multiplied by the same number to get the matching length in the other. That number is the **linear scale factor**, k. Understanding what happens to areas and volumes is a big part of the MYP Extended course, and it appears in real contexts such as scale models, packaging and maps.\n\n## The three scale factors\n- **Lengths** (sides, heights, radii, perimeters, arc lengths): multiply by k.\n- **Areas** (surface area, area of a face): multiply by k².\n- **Volumes**: multiply by k³.\n\nFor example, if k = 3, a length of 2 cm becomes 6 cm, an area of 5 cm² becomes 45 cm², and a volume of 4 cm³ becomes 108 cm³.\n\n## Finding k\nDivide a length in the new shape by the matching length in the original: k = new ÷ old. If you are given an area ratio, take the square root to find k. If you are given a volume ratio, take the cube root. Always check which shape is the \"from\" and which is the \"to\".\n\n## Similar triangles\nTwo triangles are similar if their angles are equal. The matching sides are in the same ratio. Set up a ratio such as PQ/AB = QR/BC and solve it. Write the corresponding vertices in the same order so you do not mix up the sides.\n\n## Worked example\nTwo similar jars have heights 8 cm and 12 cm. The smaller holds 250 ml. Find the capacity of the larger.\n- Linear scale factor k = 12 ÷ 8 = 1.5.\n- Volume scale factor = 1.5³ = 3.375.\n- Capacity = 250 × 3.375 = 843.75 ml.\n\nGoing the other way, if the large jar holds 843.75 ml, divide by 3.375 to return to 250 ml.\n\n## Percentage change\nA 20% increase in length means k = 1.2. The area increases by 1.2² = 1.44, which is 44%, not 20%. The volume rises by 1.2³ = 1.728, which is 72.8%.\n\n## Common mistakes\n- Using the linear scale factor on an area or volume.\n- Squaring when the question is about volume, or cubing when it is about area.\n- Mixing up the units. If a model scale is 1 : 50, then 1 cm on the model is 50 cm in real life, and areas change by 50² = 2500.\n- Dividing when you should multiply because the scale factor was taken from the wrong shape.\n- Forgetting that shapes must be similar. A rectangle that is doubled in length but not width is not an enlargement.\n\n## How this is examined\nTypical eAssessment tasks involve a model of a building, a ship or a storage tank. You are given a data set of lengths or capacities, asked to calculate a real-world area or volume, and then asked to justify an answer or state an assumption, for example that the material is the same density or that the model is an exact scaled copy. Later parts may ask whether your estimate is reasonable, which uses percentage error or rounding.\n\nExam tip: Write the scale factor first (k = ...), then state whether the quantity is a length, an area or a volume, and use k, k² or k³ to match.",
+  "flashcards": [
+   {
+    "front": "Linear scale factor",
+    "back": "k = new length ÷ old length, using matching sides of the two similar shapes."
+   },
+   {
+    "front": "Area scale factor",
+    "back": "Multiply areas by k², where k is the linear scale factor."
+   },
+   {
+    "front": "Volume scale factor",
+    "back": "Multiply volumes by k³, where k is the linear scale factor."
+   },
+   {
+    "front": "Area ratio 4 : 9 gives what linear ratio?",
+    "back": "Take the square root of each part: 2 : 3."
+   },
+   {
+    "front": "Volume ratio 8 : 27 gives what linear ratio?",
+    "back": "Take the cube root of each part: 2 : 3."
+   },
+   {
+    "front": "Scale factor 1.2 means what percentage change in area?",
+    "back": "1.2² = 1.44, so area increases by 44%, not 20%."
+   },
+   {
+    "front": "Model scale 1 : 50",
+    "back": "Every real length is 50 times the model length. Real areas are 2500 times the model areas and volumes 125 000 times."
+   },
+   {
+    "front": "Similar triangles",
+    "back": "Corresponding angles are equal and corresponding sides are in the same ratio."
+   },
+   {
+    "front": "When are two shapes similar?",
+    "back": "When one is an enlargement of the other: all lengths scale by the same factor and all angles stay equal."
+   }
+  ]
+ },
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Circle Geometry and Solids",
+  "subTopic": "Arc Length, Sectors and Solids",
+  "questions": [
+   {
+    "content": "A sector has radius 10 cm and angle 90°. What is the arc length to one decimal place?",
+    "options": [
+     "62.8 cm",
+     "78.5 cm",
+     "15.7 cm",
+     "31.4 cm"
+    ],
+    "answer": 2,
+    "explanation": "Arc length = 90/360 × 2π × 10 = 5π ≈ 15.7 cm. 62.8 cm is the whole circumference.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A cylinder has radius 3 cm and height 10 cm. What is its volume to one decimal place?",
+    "options": [
+     "94.2 cm³",
+     "282.7 cm³",
+     "188.5 cm³",
+     "848.2 cm³"
+    ],
+    "answer": 1,
+    "explanation": "Volume = πr²h = π × 3² × 10 = 90π ≈ 282.7 cm³. 94.2 forgets to square the radius.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the volume of a sphere of radius 3 cm to one decimal place?",
+    "options": [
+     "113.1 cm³",
+     "37.7 cm³",
+     "339.3 cm³",
+     "56.5 cm³"
+    ],
+    "answer": 0,
+    "explanation": "Volume = 4/3 × π × 3³ = 36π ≈ 113.1 cm³. 37.7 comes from cubing wrongly (using 3² instead of 3³).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A cone has base radius 6 cm and perpendicular height 5 cm. What is its volume to one decimal place?",
+    "options": [
+     "565.5 cm³",
+     "94.2 cm³",
+     "377.0 cm³",
+     "188.5 cm³"
+    ],
+    "answer": 3,
+    "explanation": "Volume = 1/3 × π × 6² × 5 = 60π ≈ 188.5 cm³. Leaving out the 1/3 gives 565.5 cm³.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A sector has radius 8 cm and angle 45°. What is its area to one decimal place?",
+    "options": [
+     "6.3 cm²",
+     "100.5 cm²",
+     "25.1 cm²",
+     "50.3 cm²"
+    ],
+    "answer": 2,
+    "explanation": "Area = 45/360 × π × 8² = 8π ≈ 25.1 cm². 6.3 cm² is the arc length of this sector, which is a length, not an area.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A sector has radius 8 cm and an arc length of 12 cm. Find the angle of the sector to one decimal place.",
+    "options": [
+     "171.9°",
+     "85.9°",
+     "43.0°",
+     "1.5°"
+    ],
+    "answer": 1,
+    "explanation": "12 = θ/360 × 2π × 8, so θ = 12 × 360 ÷ (16π) ≈ 85.9°. Forgetting the 2 in 2πr doubles the answer to 171.9°.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A sector has an area of 50 cm² and an angle of 72°. Find its radius to one decimal place.",
+    "options": [
+     "8.9 cm",
+     "79.6 cm",
+     "4.5 cm",
+     "17.8 cm"
+    ],
+    "answer": 0,
+    "explanation": "50 = 72/360 × π × r², so r² = 50 ÷ (0.2π) ≈ 79.6, giving r ≈ 8.9 cm. 79.6 is r² before taking the square root.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A sector has radius 10 cm and angle 60°. Find its perimeter to one decimal place.",
+    "options": [
+     "10.5 cm",
+     "20.5 cm",
+     "82.8 cm",
+     "30.5 cm"
+    ],
+    "answer": 3,
+    "explanation": "The arc is 60/360 × 2π × 10 ≈ 10.47 cm. The perimeter includes two radii: 10.47 + 20 = 30.5 cm. 10.5 is the arc alone.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A cone has base radius 5 cm and slant height 13 cm. Find its volume to one decimal place.",
+    "options": [
+     "340.3 cm³",
+     "942.5 cm³",
+     "314.2 cm³",
+     "104.7 cm³"
+    ],
+    "answer": 2,
+    "explanation": "The perpendicular height is √(13² − 5²) = 12 cm. Volume = 1/3 × π × 25 × 12 = 100π ≈ 314.2 cm³. Using the slant height gives 340.3 cm³.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A solid hemisphere has radius 4 cm. Find its total surface area to one decimal place.",
+    "options": [
+     "100.5 cm²",
+     "150.8 cm²",
+     "201.1 cm²",
+     "50.3 cm²"
+    ],
+    "answer": 1,
+    "explanation": "Curved surface = 2πr² = 32π and flat circular face = πr² = 16π. The total is 48π ≈ 150.8 cm². 100.5 forgets the flat face.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A sphere has volume 288π cm³. Find its radius.",
+    "options": [
+     "6 cm",
+     "12 cm",
+     "72 cm",
+     "8.5 cm"
+    ],
+    "answer": 0,
+    "explanation": "4/3 × πr³ = 288π, so r³ = 216 and r = 6 cm. You must take a cube root, not a square root.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A cylindrical water tank has radius 0.8 m and depth 1.5 m. How many litres does it hold, to the nearest litre? (1 m³ = 1000 litres)",
+    "options": [
+     "302 litres",
+     "30 159 litres",
+     "3 litres",
+     "3016 litres"
+    ],
+    "answer": 3,
+    "explanation": "Volume = π × 0.8² × 1.5 ≈ 3.016 m³. Multiplying by 1000 gives 3016 litres. Using the wrong conversion factor changes the answer by powers of 10.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A hemispherical bowl has radius 10 cm. What is its volume to one decimal place?",
+    "options": [
+     "4188.8 cm³",
+     "1047.2 cm³",
+     "2094.4 cm³",
+     "6283.2 cm³"
+    ],
+    "answer": 2,
+    "explanation": "A hemisphere is half a sphere: 1/2 × 4/3 × π × 10³ = 2/3 × π × 1000 ≈ 2094.4 cm³. 4188.8 is the full sphere.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An ice cream is a cone of base radius 3 cm and height 10 cm with a hemisphere of radius 3 cm on top. Find its total volume to one decimal place.",
+    "options": [
+     "94.2 cm³",
+     "150.8 cm³",
+     "207.3 cm³",
+     "452.4 cm³"
+    ],
+    "answer": 1,
+    "explanation": "Cone: 1/3 × π × 9 × 10 = 30π. Hemisphere: 2/3 × π × 27 = 18π. Total = 48π ≈ 150.8 cm³. Using a full sphere would give 207.3 cm³.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A sector of radius 12 cm and angle 150° is bent to form the curved surface of a cone. What is the radius of the base of the cone?",
+    "options": [
+     "5 cm",
+     "10 cm",
+     "2.5 cm",
+     "12 cm"
+    ],
+    "answer": 0,
+    "explanation": "The arc length of the sector becomes the circumference of the base: 150/360 × 2π × 12 = 10π. So 2πr = 10π and r = 5 cm. The sector radius 12 cm is the slant height, not the base radius.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A sphere of radius r fits exactly inside a cylinder of radius r and height 2r. What fraction of the cylinder's volume is taken up by the sphere?",
+    "options": [
+     "1/2",
+     "3/4",
+     "1/3",
+     "2/3"
+    ],
+    "answer": 3,
+    "explanation": "Sphere: 4/3πr³. Cylinder: πr² × 2r = 2πr³. The ratio is (4/3) ÷ 2 = 2/3.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A sector of radius 6 cm has an angle of 60°. A triangle is formed by joining the ends of its arc to the centre. To two decimal places, what is the area of the segment between the chord and the arc?",
+    "options": [
+     "18.85 cm²",
+     "15.59 cm²",
+     "3.26 cm²",
+     "34.44 cm²"
+    ],
+    "answer": 2,
+    "explanation": "Sector area = 60/360 × π × 36 = 6π ≈ 18.85. The triangle is equilateral with area 1/2 × 6 × 6 × sin 60° ≈ 15.59. Segment = 18.85 − 15.59 ≈ 3.26 cm².",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A designer estimates the volume of a spherical tank of diameter 6 m by treating it as a cube of side 6 m, giving 216 m³. What is the percentage error of this estimate, using the true volume as the reference? (Give your answer to the nearest percent.)",
+    "options": [
+     "48%",
+     "91%",
+     "53%",
+     "100%"
+    ],
+    "answer": 1,
+    "explanation": "The true volume is 4/3 × π × 3³ = 36π ≈ 113.1 m³. Error = (216 − 113.1) ÷ 113.1 ≈ 0.91, which is 91%. Dividing by the estimate instead gives the tempting 48%.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "This sub-topic combines the circle, the sector and the 3D solids that you will meet in real-life design problems such as tanks, ice cream cones, cans and tents. You need to recall the formulae, apply them accurately and then interpret the results.\n\n## Arcs and sectors\nA sector is a slice of a circle between two radii. Its angle θ tells you what fraction of the whole circle it is: θ/360.\n- **Arc length** = θ/360 × 2πr\n- **Sector area** = θ/360 × πr²\n- **Perimeter of a sector** = arc length + 2r (do not forget the two straight edges)\n\nWorked example: radius 9 cm, angle 80°. Arc = 80/360 × 2π × 9 = 4π ≈ 12.6 cm. Area = 80/360 × π × 81 = 18π ≈ 56.5 cm².\n\nTo work backwards, substitute what you know and rearrange. If a sector has arc 12 cm and radius 8 cm, then 12 = θ/360 × 16π, so θ = 12 × 360 ÷ 16π ≈ 85.9°.\n\n## Solids and their volumes\n- **Prism or cylinder**: V = base area × height. For a cylinder, V = πr²h.\n- **Pyramid**: V = 1/3 × base area × height.\n- **Cone**: V = 1/3 πr²h, where h is the perpendicular height, not the slant height.\n- **Sphere**: V = 4/3 πr³.\n- **Hemisphere**: half of a sphere, so V = 2/3 πr³.\n\n## Surface areas\n- Cylinder: 2πr² + 2πrh (two circles plus the curved face).\n- Cone: curved surface = πrl, where l is the slant height, plus the base πr².\n- Sphere: 4πr².\n- Hemisphere (solid): 2πr² curved + πr² flat = 3πr².\n\n## Composite solids\nSplit the shape into familiar parts, work out each volume or area, then add or subtract. For a solid hemisphere on top of a cylinder, remember the circle where they meet is not an exposed surface.\n\n## Cones from sectors\nWhen a sector is rolled into a cone, the sector radius becomes the slant height and the arc length becomes the circumference of the base circle. Use 2πr = arc length to find the base radius, then Pythagoras for the height.\n\n## Common mistakes\n- Using the slant height in the cone volume formula.\n- Forgetting 1/3 in cones and pyramids.\n- Cubing incorrectly in the sphere formula, or squaring instead of cubing.\n- Leaving the flat face out of a hemisphere's total surface area.\n- Mixing units: 1 m³ = 1000 litres and 1 cm³ = 1 ml. Convert before comparing.\n\n## How this is examined\nIn an eAssessment setting you are given a real object such as a water tank, a tent or a food container with dimensions in a data table. You are asked to calculate a volume or area, then show that it holds a certain quantity, and later judge a design decision, such as whether rounding errors or an assumption that the shape is a perfect sphere affect the answer. You may need to find a percentage error or compare two designs.\n\nExam tip: Keep π in your working until the final step and round only once at the end, stating the rounding such as \"to 1 decimal place\" so that your accuracy is clear.",
+  "flashcards": [
+   {
+    "front": "Arc length formula",
+    "back": "Arc = θ/360 × 2πr, where θ is the angle of the sector."
+   },
+   {
+    "front": "Sector area formula",
+    "back": "Area = θ/360 × πr²."
+   },
+   {
+    "front": "Perimeter of a sector",
+    "back": "Arc length + 2r. Do not forget the two straight radii."
+   },
+   {
+    "front": "Volume of a cylinder",
+    "back": "V = πr²h."
+   },
+   {
+    "front": "Volume of a cone",
+    "back": "V = 1/3 πr²h, using the perpendicular height h, not the slant height."
+   },
+   {
+    "front": "Volume of a sphere",
+    "back": "V = 4/3 πr³."
+   },
+   {
+    "front": "Surface area of a sphere",
+    "back": "SA = 4πr². The curved surface of a cone is πrl, with l the slant height."
+   },
+   {
+    "front": "Volume of a pyramid",
+    "back": "V = 1/3 × base area × perpendicular height."
+   },
+   {
+    "front": "Sector rolled into a cone",
+    "back": "Sector radius becomes the slant height; the arc length becomes the base circumference, so 2πr = arc."
+   }
+  ]
+ }
+]

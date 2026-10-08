@@ -1,0 +1,791 @@
+[
+  {
+    "subject": "chemistry",
+    "grade": 5,
+    "topic": "Earth and Environmental Chemistry",
+    "subTopic": "The Atmosphere, Air Pollution and Climate",
+    "questions": [
+      {
+        "content": "A student looks up the composition of dry air today. Which gas makes up the largest percentage?",
+        "options": [
+          "Oxygen",
+          "Nitrogen",
+          "Carbon dioxide",
+          "Argon"
+        ],
+        "answer": 1,
+        "explanation": "Nitrogen makes up about 78% of dry air. Oxygen is about 21%, argon about 0.9% and carbon dioxide only about 0.04%.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A news report discusses gases that trap heat in the atmosphere. Which pair contains two greenhouse gases?",
+        "options": [
+          "Oxygen and nitrogen",
+          "Carbon dioxide and methane",
+          "Argon and helium",
+          "Nitrogen and hydrogen"
+        ],
+        "answer": 1,
+        "explanation": "Carbon dioxide and methane absorb infrared radiation and are greenhouse gases. Oxygen, nitrogen and the noble gases do not.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A gas burner burns methane in plenty of air. Which products are formed in complete combustion?",
+        "options": [
+          "Carbon monoxide and hydrogen",
+          "Carbon dioxide and water",
+          "Carbon and water",
+          "Carbon dioxide and hydrogen"
+        ],
+        "answer": 1,
+        "explanation": "With plenty of oxygen, hydrocarbons burn completely: CH₄ + 2O₂ → CO₂ + 2H₂O.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A faulty gas heater in a room produces a gas that is colourless, odourless and very poisonous. It forms when fuel burns in too little oxygen. Which gas is it?",
+        "options": [
+          "Carbon dioxide",
+          "Carbon monoxide",
+          "Sulfur dioxide",
+          "Nitrogen"
+        ],
+        "answer": 1,
+        "explanation": "Incomplete combustion makes carbon monoxide. It combines with haemoglobin in red blood cells and stops them carrying oxygen.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A power station burns coal that contains sulfur impurities. Which gas released makes rain acidic?",
+        "options": [
+          "Sulfur dioxide",
+          "Nitrogen",
+          "Argon",
+          "Hydrogen"
+        ],
+        "answer": 0,
+        "explanation": "Sulfur in the fuel burns to form sulfur dioxide, which dissolves in rain water to form acidic solutions and causes acid rain.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A student passes 100 cm³ of air over heated copper powder in a syringe apparatus until no more gas is used up. The final volume is 79 cm³. What percentage of the air was oxygen?",
+        "options": [
+          "79%",
+          "21%",
+          "7.9%",
+          "2.1%"
+        ],
+        "answer": 1,
+        "explanation": "The copper reacts only with oxygen, so the volume lost is the oxygen: 100 − 79 = 21 cm³, which is 21% of 100 cm³. The 79% is the remaining nitrogen and other gases.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Scientists think the early atmosphere was mostly carbon dioxide from volcanoes. Which explanation best describes why carbon dioxide levels fell over billions of years?",
+        "options": [
+          "It dissolved in the oceans, was used by algae and plants for photosynthesis, and was locked into rocks and fossil fuels",
+          "It was destroyed by lightning and turned into oxygen only",
+          "It escaped into space because it is a light gas",
+          "It was absorbed by the ozone layer"
+        ],
+        "answer": 0,
+        "explanation": "Carbon dioxide dissolved in oceans, formed carbonate sediments, and was taken in by photosynthesising organisms, whose remains became fossil fuels. Carbon dioxide is a dense gas, so it does not escape into space.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which balanced equation shows incomplete combustion of methane producing carbon monoxide?",
+        "options": [
+          "2CH₄ + 3O₂ → 2CO + 4H₂O",
+          "CH₄ + 2O₂ → CO₂ + 2H₂O",
+          "CH₄ + O₂ → CO + 2H₂",
+          "2CH₄ + 3O₂ → 2CO₂ + 4H₂O"
+        ],
+        "answer": 0,
+        "explanation": "Check atoms: left has 2 C, 8 H, 6 O; right has 2 C, 8 H and 2 + 4 = 6 O. The second option is complete combustion and the other two are not balanced.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A catalytic converter in a car changes harmful gases using the reaction 2CO + 2NO → 2CO₂ + N₂. What happens to nitrogen monoxide (NO) in this reaction?",
+        "options": [
+          "It is reduced to nitrogen gas",
+          "It is oxidised to nitrogen dioxide",
+          "It is absorbed by the catalyst",
+          "It is turned into carbon dioxide"
+        ],
+        "answer": 0,
+        "explanation": "NO loses oxygen and becomes N₂, which is reduction. The carbon monoxide gains oxygen to form carbon dioxide.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Oxides of nitrogen form inside car engines, even though petrol contains almost no nitrogen. What is the best explanation?",
+        "options": [
+          "Nitrogen and oxygen from the air react at the very high temperature in the engine",
+          "The petrol breaks down into nitrogen",
+          "Nitrogen is a product of the spark plug",
+          "Nitrogen reacts with carbon in the exhaust pipe"
+        ],
+        "answer": 0,
+        "explanation": "The engine reaches temperatures high enough for nitrogen and oxygen from the air to combine. The oxides then contribute to acid rain and smog.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "In a fictional data set, carbon dioxide in the air was 280 ppm before factories were built and 420 ppm today. What is the percentage increase?",
+        "options": [
+          "33%",
+          "50%",
+          "67%",
+          "140%"
+        ],
+        "answer": 1,
+        "explanation": "Increase = 420 − 280 = 140 ppm. 140 ÷ 280 × 100 = 50%. Dividing by the new value (420) gives the common error of 33%.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which statement best explains the enhanced greenhouse effect?",
+        "options": [
+          "Extra greenhouse gases absorb more infrared radiation from the Earth and re-emit some of it back towards the surface",
+          "Extra greenhouse gases reflect more ultraviolet light into space",
+          "A hole in the ozone layer lets more heat escape",
+          "More carbon dioxide makes the Sun hotter"
+        ],
+        "answer": 0,
+        "explanation": "Greenhouse gases absorb infrared radiation emitted by the warm Earth and send some back down, so the surface warms. The ozone layer is a separate issue and the Sun's output is not changed.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Diesel engines release tiny particles of soot. What is a correct effect of these particulates?",
+        "options": [
+          "They cause breathing problems and can reduce the sunlight reaching the ground (global dimming)",
+          "They cause the greenhouse effect by absorbing infrared radiation more than carbon dioxide does",
+          "They make rain acidic by forming sulfuric acid",
+          "They stop red blood cells carrying oxygen"
+        ],
+        "answer": 0,
+        "explanation": "Particulates irritate the lungs and reflect or block sunlight. Acid rain is caused by sulfur and nitrogen oxides, and blocking oxygen transport is the effect of carbon monoxide.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A power station burns 1000 tonnes of coal that is 2.0% sulfur by mass. All the sulfur burns: S + O₂ → SO₂. The relative atomic mass of S is 32 and the relative formula mass of SO₂ is 64. What mass of sulfur dioxide is released?",
+        "options": [
+          "20 tonnes",
+          "40 tonnes",
+          "80 tonnes",
+          "2.0 tonnes"
+        ],
+        "answer": 1,
+        "explanation": "Sulfur in the coal = 2.0% of 1000 = 20 tonnes. Each 32 of S makes 64 of SO₂, so the mass doubles to 40 tonnes.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A landfill site releases 3.2 kg of methane into the air. Instead, the gas is burned completely (flared): CH₄ + 2O₂ → CO₂ + 2H₂O. The relative formula masses are CH₄ = 16 and CO₂ = 44. What mass of carbon dioxide is made?",
+        "options": [
+          "4.4 kg",
+          "8.8 kg",
+          "17.6 kg",
+          "3.2 kg"
+        ],
+        "answer": 1,
+        "explanation": "3.2 kg is 0.2 kmol of CH₄, which gives 0.2 kmol of CO₂. 0.2 × 44 = 8.8 kg. Burning is preferred because methane is a much stronger greenhouse gas than carbon dioxide.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A student says: \"Both temperature and carbon dioxide levels have risen over the last 150 years, so carbon dioxide must be the cause.\" Which is the best evaluation?",
+        "options": [
+          "Correlation alone does not prove cause, but lab evidence that carbon dioxide absorbs infrared radiation supports a causal link",
+          "The claim is proved because two things rising together always means one causes the other",
+          "The claim is false because carbon dioxide is only 0.04% of the air",
+          "The claim cannot be tested because climate cannot be studied by scientists"
+        ],
+        "answer": 0,
+        "explanation": "A pattern in data is a correlation, and other factors could be involved. A known mechanism (infrared absorption) plus other evidence strengthens the case. A small percentage can still have a large effect.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A newspaper claims that catalytic converters make car exhausts completely harmless. Which response is the most accurate evaluation?",
+        "options": [
+          "They convert toxic gases such as CO and NO into CO₂ and N₂, but still release carbon dioxide and work poorly until hot",
+          "They are correct because the exhaust contains only nitrogen afterwards",
+          "They increase the amount of carbon monoxide emitted",
+          "They stop all greenhouse gas emissions"
+        ],
+        "answer": 0,
+        "explanation": "The converter reduces toxic carbon monoxide, nitrogen oxides and unburnt hydrocarbons, but the carbon dioxide produced is a greenhouse gas. They also need high temperature to work well.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A power station removes sulfur dioxide from its waste gases by passing them through a slurry of calcium oxide. Which justification explains why this works?",
+        "options": [
+          "Sulfur dioxide is an acidic oxide, so it reacts with the basic calcium compound and is trapped as a solid",
+          "Calcium oxide is a catalyst that turns sulfur dioxide into oxygen",
+          "Sulfur dioxide is a base, so it neutralises calcium oxide",
+          "Calcium oxide absorbs carbon monoxide only"
+        ],
+        "answer": 0,
+        "explanation": "Non-metal oxides such as SO₂ are acidic, while metal oxides such as CaO are basic. Neutralisation produces a solid calcium salt (calcium sulfite or sulfate) that can be removed, so less acid rain forms.",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "The Earth's atmosphere has changed hugely over 4.5 billion years, and human activity is changing it again.\n\n## Composition of dry air today\n- About **78% nitrogen**, **21% oxygen**, about 0.9% argon and about **0.04% carbon dioxide**, with tiny amounts of other noble gases.\n- A simple test: pass 100 cm³ of air over heated copper. The copper takes out only the oxygen, so the volume drops by about 21 cm³.\n\n## How the atmosphere evolved\n- Early volcanoes released mostly carbon dioxide, with water vapour and some nitrogen.\n- As the Earth cooled, water vapour condensed to form the oceans. Carbon dioxide dissolved in them and formed carbonate rocks.\n- Algae and plants evolved and used photosynthesis, which took in carbon dioxide and released oxygen. Their remains became fossil fuels, locking carbon away.\n\n## Combustion and pollutants\n- **Complete combustion** (plenty of oxygen): CH₄ + 2O₂ → CO₂ + 2H₂O.\n- **Incomplete combustion** (too little oxygen) makes **carbon monoxide** (a toxic gas that stops blood carrying oxygen) and **carbon (soot)**, called particulates.\n- **Sulfur dioxide** forms when fuels containing sulfur burn. It causes acid rain, which damages limestone buildings, harms trees and acidifies lakes.\n- **Nitrogen oxides** form when nitrogen and oxygen from the air react at the very high temperature in engines. They also cause acid rain and breathing problems.\n- **Particulates** cause breathing problems and global dimming.\n\n## Reducing pollution\n- Catalytic converters change toxic gases: 2CO + 2NO → 2CO₂ + N₂.\n- Removing sulfur from fuels, and scrubbing waste gases with a basic substance such as calcium oxide, reduces sulfur dioxide.\n- Switching to renewable energy and using public transport reduces emissions.\n\n## Greenhouse gases and climate\n- **Carbon dioxide**, **methane** and **water vapour** absorb infrared radiation from the Earth and re-emit some of it back, keeping the planet warm. This natural effect is needed for life.\n- Burning fossil fuels, deforestation, cattle farming, rice growing and landfill add extra carbon dioxide and methane. This is the **enhanced greenhouse effect**, linked to global warming and climate change: rising sea levels, melting ice, extreme weather and changing habitats.\n- Ways to reduce a **carbon footprint** include renewable energy, energy efficiency, planting trees and carbon capture.\n\n## Worked example\nA fictional city measures carbon dioxide at 280 ppm in 1800 and 420 ppm now. Increase = 140 ppm. Percentage increase = 140 ÷ 280 × 100 = 50%. Always divide by the original value.\n\n## Common mistakes\n- Mixing up the greenhouse effect with the ozone layer. They are different issues.\n- Saying carbon dioxide is a pollutant that is poisonous. The poisonous one is carbon monoxide.\n- Forgetting that nitrogen oxides come from the air, not the fuel.\n\n## How this is examined\nQuestions usually give a context such as a city air-quality report or a climate data set. You may be asked to state a pollutant, calculate a percentage change, verify a balanced equation, justify a way to reduce emissions, and evaluate a claim, for example whether correlation proves a cause. Higher marks come from linking the data, the chemistry and the limitations of the evidence.\n\nExam tip: When asked to explain an environmental effect, name the pollutant, say how it forms, then state the effect (for example: sulfur dioxide, from burning sulfur impurities, dissolves in rain to cause acid rain).",
+    "flashcards": [
+      {
+        "front": "Composition of dry air",
+        "back": "About 78% nitrogen, 21% oxygen, 0.9% argon and 0.04% carbon dioxide."
+      },
+      {
+        "front": "Complete combustion of a hydrocarbon",
+        "back": "Plenty of oxygen: hydrocarbon + oxygen → carbon dioxide + water. Example: CH₄ + 2O₂ → CO₂ + 2H₂O."
+      },
+      {
+        "front": "Incomplete combustion",
+        "back": "Too little oxygen. Makes carbon monoxide and/or carbon (soot) as well as water. Releases less energy."
+      },
+      {
+        "front": "Why is carbon monoxide dangerous?",
+        "back": "It combines with haemoglobin in red blood cells and stops them carrying oxygen. It is colourless and odourless."
+      },
+      {
+        "front": "How does acid rain form?",
+        "back": "Sulfur dioxide (from burning sulfur impurities) and nitrogen oxides dissolve in rain water to make acidic solutions."
+      },
+      {
+        "front": "How do nitrogen oxides form?",
+        "back": "At high temperature in engines, nitrogen and oxygen from the air react together. They are not from the fuel."
+      },
+      {
+        "front": "Name three greenhouse gases",
+        "back": "Carbon dioxide, methane and water vapour. They absorb infrared radiation from the Earth and re-emit some back to the surface."
+      },
+      {
+        "front": "What does a catalytic converter do?",
+        "back": "Changes toxic gases into less harmful ones, e.g. 2CO + 2NO → 2CO₂ + N₂. Works best when hot."
+      },
+      {
+        "front": "How did the early atmosphere lose carbon dioxide?",
+        "back": "It dissolved in the oceans, formed carbonate rocks, and was used by algae and plants in photosynthesis, which also added oxygen."
+      }
+    ]
+  },
+  {
+    "subject": "chemistry",
+    "grade": 5,
+    "topic": "Earth and Environmental Chemistry",
+    "subTopic": "Water Treatment and Pollution",
+    "questions": [
+      {
+        "content": "A water company advertises that its tap water is potable. What does potable mean?",
+        "options": [
+          "Safe to drink",
+          "Completely pure, with nothing dissolved",
+          "Free of all gases",
+          "Distilled"
+        ],
+        "answer": 0,
+        "explanation": "Potable water is safe to drink, but it can still contain dissolved minerals. It is not the same as pure water, which contains only H₂O.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "In a water treatment works, which substance is added to kill microorganisms?",
+        "options": [
+          "Sand",
+          "Chlorine",
+          "Limewater",
+          "Salt"
+        ],
+        "answer": 1,
+        "explanation": "Chlorine is added to sterilise the water by killing bacteria and other microbes.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A student wants to show a liquid is pure water. Which result would be the best evidence?",
+        "options": [
+          "It boils at exactly 100 °C at normal pressure",
+          "It is colourless",
+          "It has no smell",
+          "It feels wet"
+        ],
+        "answer": 0,
+        "explanation": "A pure substance has a sharp, fixed boiling point. Colour and smell cannot show purity because many dissolved substances are colourless and odourless.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Farmers spread fertiliser on a field. Which substances in the fertiliser can run into a river and cause algae to grow too fast?",
+        "options": [
+          "Nitrates and phosphates",
+          "Chlorides and sulfates",
+          "Oxygen and nitrogen",
+          "Iron and copper"
+        ],
+        "answer": 0,
+        "explanation": "Nitrates and phosphates are nutrients that plants and algae need. Excess in water causes rapid algal growth.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which test shows that a liquid contains water?",
+        "options": [
+          "Anhydrous copper(II) sulfate changes from white to blue",
+          "Limewater turns milky",
+          "Litmus paper turns red",
+          "A glowing splint relights"
+        ],
+        "answer": 0,
+        "explanation": "White anhydrous copper(II) sulfate turns blue when water is added. Milky limewater is the test for carbon dioxide, and a glowing splint tests for oxygen.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Fresh water from a reservoir is made safe to drink. Which sequence of steps is correct?",
+        "options": [
+          "Sedimentation, filtration, chlorination",
+          "Chlorination, sedimentation, filtration",
+          "Filtration, chlorination, sedimentation",
+          "Chlorination, filtration, sedimentation"
+        ],
+        "answer": 0,
+        "explanation": "Large particles settle first, then a sand and gravel filter removes smaller solids, and chlorine is added last to kill microbes.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Some dry countries make drinking water from sea water by distillation. What is the main disadvantage of this method?",
+        "options": [
+          "It uses large amounts of energy, so it is expensive",
+          "It leaves salt in the water",
+          "It cannot remove bacteria",
+          "It makes the water acidic"
+        ],
+        "answer": 0,
+        "explanation": "Boiling large volumes of water needs a lot of energy. The salt stays behind, and the steam condenses to give water that is safe to drink after any final treatment.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Reverse osmosis is another way of desalinating sea water. How does it work?",
+        "options": [
+          "Sea water is forced under high pressure through a membrane that lets water through but holds back salt ions",
+          "Sea water is heated until the salt melts",
+          "Sea water is filtered through sand to remove the sodium chloride",
+          "Chlorine is added to turn the salt into water"
+        ],
+        "answer": 0,
+        "explanation": "A partially permeable membrane allows water molecules through while blocking dissolved ions. High pressure is needed, which uses energy.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "What is the main purpose of anaerobic digestion of sewage sludge?",
+        "options": [
+          "Bacteria break it down without oxygen, producing biogas (methane) that can be used as fuel",
+          "It removes all the salt from the sludge",
+          "It adds chlorine to the sludge",
+          "It turns the sludge into pure water"
+        ],
+        "answer": 0,
+        "explanation": "In anaerobic digestion, microorganisms break down the sludge in the absence of oxygen. The methane can be burned to generate energy, which reduces the waste.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which action would most reduce the risk of eutrophication in a lake near a farm?",
+        "options": [
+          "Apply fertiliser only when and where crops need it, not before heavy rain",
+          "Add more fertiliser so crops grow faster",
+          "Pour waste straight into the lake",
+          "Remove all the plants around the lake"
+        ],
+        "answer": 0,
+        "explanation": "Less nitrate and phosphate running off means less algal growth. Plants around the lake help absorb nutrients, so removing them would make things worse.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A student heats a sample of tap water and it begins to boil at 102 °C. What is the best conclusion?",
+        "options": [
+          "The water contains dissolved substances, so it is not pure",
+          "The thermometer must be broken",
+          "The water is pure because it boils",
+          "The water is acidic"
+        ],
+        "answer": 0,
+        "explanation": "Dissolved impurities raise the boiling point of water above 100 °C. Pure water boils at exactly 100 °C at normal pressure. A thermometer fault is possible, so a good scientist would repeat the test.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A technician finds 25 mg of nitrate in 500 cm³ of river water. What is the concentration in mg/dm³?",
+        "options": [
+          "12.5 mg/dm³",
+          "25 mg/dm³",
+          "50 mg/dm³",
+          "500 mg/dm³"
+        ],
+        "answer": 2,
+        "explanation": "500 cm³ = 0.5 dm³. Concentration = 25 mg ÷ 0.5 dm³ = 50 mg/dm³.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Why is mercury pollution from factories a serious problem for living things?",
+        "options": [
+          "Mercury ions are toxic, do not break down and build up along food chains",
+          "Mercury makes water acidic",
+          "Mercury uses up the oxygen in the water",
+          "Mercury makes algae grow too quickly"
+        ],
+        "answer": 0,
+        "explanation": "Heavy metals persist in the environment and accumulate in animals, so animals at the top of a food chain can receive harmful doses. Oxygen depletion and algal growth relate to nutrient pollution.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A desalination plant treats sea water containing 35 g/dm³ of dissolved salts. The water produced contains 0.5 g/dm³. What percentage of the salts has been removed?",
+        "options": [
+          "1.4%",
+          "93%",
+          "98.6%",
+          "70%"
+        ],
+        "answer": 2,
+        "explanation": "Salt removed = 35 − 0.5 = 34.5 g/dm³. 34.5 ÷ 35 × 100 = 98.6%. The value 1.4% is the percentage left behind.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A student measures nitrate in a river: upstream of a farm it is 4 mg/dm³ and downstream it is 22 mg/dm³. The student concludes that the farm is definitely the source. What is the best evaluation?",
+        "options": [
+          "The farm is a likely source, but one pair of samples cannot prove it; repeats and checking other sources such as sewage outlets are needed",
+          "The conclusion is proved because the downstream number is higher",
+          "The data show the farm cannot be the source",
+          "Nitrate measurements cannot be made on river water"
+        ],
+        "answer": 0,
+        "explanation": "The data fit the idea, but a single set of readings has limited reliability and other inputs could explain the rise. Repeating the measurements and testing more sites improves confidence.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A lake has dense green algae on the surface, and many fish die. The algae produce oxygen in daylight. Which explanation shows why the fish die?",
+        "options": [
+          "The algae block light so plants below die, and bacteria decomposing dead material use up the dissolved oxygen",
+          "The algae release poisonous chlorine into the water",
+          "The nitrates react with the fish and make them heavier",
+          "The algae make the water too cold"
+        ],
+        "answer": 0,
+        "explanation": "In eutrophication, nutrient-fed algae overgrow and die. Decomposers respire aerobically as they break down the dead material, so oxygen levels fall below what fish need.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "In a water treatment works, why is chlorine added after filtration rather than before it?",
+        "options": [
+          "Filtering first removes solids that could shield microbes and use up chlorine, so less chlorine is needed",
+          "Chlorine only works on clean sand",
+          "Filtration produces the chlorine",
+          "Chlorine would dissolve the filter beds into the water"
+        ],
+        "answer": 0,
+        "explanation": "Suspended particles can protect bacteria from disinfectant and react with chlorine. Removing them first means the chlorine can sterilise the water more effectively.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Two water samples are evaporated to dryness. Sample A: 100 cm³ leaves 0.30 g of solid. Sample B: 250 cm³ leaves 0.05 g of solid. Which statement is correct?",
+        "options": [
+          "A contains 15 times as much dissolved solid per dm³ as B",
+          "B contains 15 times as much dissolved solid per dm³ as A",
+          "A contains 6 times as much dissolved solid per dm³ as B",
+          "A and B contain the same concentration"
+        ],
+        "answer": 0,
+        "explanation": "A: 0.30 g in 0.1 dm³ = 3.0 g/dm³. B: 0.05 g in 0.25 dm³ = 0.20 g/dm³. 3.0 ÷ 0.20 = 15. Comparing only the masses (0.30 and 0.05) ignores the different volumes.",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "Clean water is essential for life, and chemistry helps us make it safe and avoid polluting it.\n\n## Potable and pure water\n- **Potable** water is safe to drink. It can contain dissolved minerals, so it is not the same as **pure** water, which contains only H₂O.\n- Pure water boils at exactly 100 °C and freezes at 0 °C at normal pressure. Dissolved impurities raise the boiling point and lower the freezing point.\n- Test for water: anhydrous copper(II) sulfate turns from white to blue.\n\n## Making drinking water\nFresh water comes from rivers, lakes, reservoirs and underground aquifers. In a treatment works the steps are:\n- **Screening and sedimentation**: large objects are removed and solids settle (sometimes with a chemical that makes particles clump).\n- **Filtration** through beds of sand and gravel removes smaller solids.\n- **Chlorination** (adding chlorine) kills bacteria and other microbes.\nIn dry countries, **desalination** of sea water is used. Distillation boils sea water and condenses the steam. **Reverse osmosis** forces sea water through a membrane that blocks salt ions. Both use lots of energy, so they are expensive.\n\n## Treating waste water and sewage\n- Screening removes large items, then sedimentation lets solid **sludge** settle.\n- The sludge goes through **anaerobic digestion** (bacteria, no oxygen), producing methane-rich biogas that can be used as a fuel.\n- The liquid effluent is treated using aerobic biological treatment, where bacteria with oxygen break down remaining waste, before being released.\nIndustrial waste water may also need extra treatment to remove toxic metal ions.\n\n## Water pollution\n- **Eutrophication**: nitrates and phosphates from fertilisers or sewage run into rivers. Algae grow rapidly (an algal bloom) and block light. Plants below die, and bacteria decomposing the dead matter use up dissolved oxygen, so fish and other organisms die.\n- **Heavy metals** such as mercury and lead are toxic, do not break down and build up in food chains.\n- **Plastics and oil** harm wildlife and last for a long time.\nSolutions: use fertiliser carefully, protect river banks with plants, treat sewage, and regulate factories.\n\n## Worked example\nA river sample has 18 mg of nitrate in 250 cm³. 250 cm³ = 0.25 dm³. Concentration = 18 ÷ 0.25 = 72 mg/dm³. Always convert cm³ to dm³ by dividing by 1000.\n\n## Common mistakes\n- Saying that potable water is pure.\n- Saying that the algae kill fish by poisoning them. The usual cause is oxygen depletion.\n- Forgetting to convert volumes before calculating concentration.\n\n## How this is examined\nTypical questions set a scenario such as a lake with fish deaths or a town planning a new water supply. You will be asked to put treatment steps in order, calculate a concentration, justify a method, and evaluate evidence, for example why a single sample is not enough or whether desalination is sustainable for a region given its energy cost.\n\nExam tip: For eutrophication, always write the chain: more nutrients, algal bloom, light blocked, plants die, decomposition uses oxygen, animals die.",
+    "flashcards": [
+      {
+        "front": "Potable water",
+        "back": "Water that is safe to drink. It may still contain dissolved substances, so it is not necessarily pure."
+      },
+      {
+        "front": "Steps in treating drinking water",
+        "back": "Sedimentation, then filtration through sand and gravel, then chlorination to kill microbes."
+      },
+      {
+        "front": "Test for pure water",
+        "back": "It boils at exactly 100 °C and freezes at 0 °C at normal pressure. Impurities change these temperatures."
+      },
+      {
+        "front": "Test for water",
+        "back": "Anhydrous copper(II) sulfate turns from white to blue."
+      },
+      {
+        "front": "Two ways to desalinate sea water",
+        "back": "Distillation (boil and condense) and reverse osmosis (force water through a membrane). Both need a lot of energy."
+      },
+      {
+        "front": "Anaerobic digestion of sewage sludge",
+        "back": "Bacteria break down sludge without oxygen, producing biogas (mainly methane) that can be used as a fuel."
+      },
+      {
+        "front": "Eutrophication",
+        "back": "Nitrates and phosphates cause an algal bloom, light is blocked, plants die, decomposers use up oxygen and fish die."
+      },
+      {
+        "front": "Why are heavy metals in water dangerous?",
+        "back": "They are toxic, do not break down, and build up along food chains (e.g. mercury, lead)."
+      },
+      {
+        "front": "Convert cm³ to dm³",
+        "back": "Divide by 1000. Concentration (mg/dm³) = mass (mg) ÷ volume (dm³). Example: 25 mg in 500 cm³ = 50 mg/dm³."
+      }
+    ]
+  },
+  {
+    "subject": "chemistry",
+    "grade": 5,
+    "topic": "Earth and Environmental Chemistry",
+    "subTopic": "Chemical Industry and Sustainability",
+    "questions": [
+      {
+        "content": "Which two gases are the reactants in the Haber process?",
+        "options": [
+          "Nitrogen and hydrogen",
+          "Nitrogen and oxygen",
+          "Hydrogen and carbon dioxide",
+          "Oxygen and hydrogen"
+        ],
+        "answer": 0,
+        "explanation": "The Haber process makes ammonia (NH₃) from nitrogen and hydrogen: N₂ + 3H₂ ⇌ 2NH₃.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "In the Haber process, where do the raw materials nitrogen and hydrogen mainly come from?",
+        "options": [
+          "Nitrogen from the air and hydrogen from natural gas (methane)",
+          "Both from the air",
+          "Nitrogen from sea water and hydrogen from coal only",
+          "Both from crude oil"
+        ],
+        "answer": 0,
+        "explanation": "Air is about 78% nitrogen, and hydrogen is usually made from methane in natural gas. Hydrogen can also be made by electrolysis of water.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which catalyst is used in the Haber process?",
+        "options": [
+          "Iron",
+          "Platinum",
+          "Copper",
+          "Nickel"
+        ],
+        "answer": 0,
+        "explanation": "A solid iron catalyst speeds up the reaction so ammonia forms at a reasonable rate.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A farmer buys ammonium nitrate. What is it mainly used for?",
+        "options": [
+          "As a fertiliser",
+          "As a fuel",
+          "As a plastic",
+          "As a metal ore"
+        ],
+        "answer": 0,
+        "explanation": "Ammonium nitrate supplies nitrogen, which plants need to make proteins, so it is a common fertiliser.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which statement best defines sustainable development?",
+        "options": [
+          "Meeting the needs of people today without harming the ability of future generations to meet theirs",
+          "Making products as cheaply as possible",
+          "Using up resources as fast as possible",
+          "Making a profit for the company"
+        ],
+        "answer": 0,
+        "explanation": "Sustainability balances environmental, social and economic needs now and in the future.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "The Haber process equation is N₂ + 3H₂ ⇌ 2NH₃. What does the symbol ⇌ show?",
+        "options": [
+          "The reaction is reversible",
+          "The reaction has stopped",
+          "The reaction needs no catalyst",
+          "The reaction is very fast"
+        ],
+        "answer": 0,
+        "explanation": "The double arrow shows that the forward and reverse reactions both happen, so not all the reactants are converted into ammonia.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Only about 15% of the nitrogen and hydrogen reacts each time the gases pass through the Haber reactor. Why are the unreacted gases recycled?",
+        "options": [
+          "To increase the overall yield and avoid wasting raw materials",
+          "To cool the reactor",
+          "To make more oxygen",
+          "To remove the catalyst"
+        ],
+        "answer": 0,
+        "explanation": "Ammonia is condensed and removed, and the unreacted nitrogen and hydrogen are sent back into the reactor. This saves raw materials and money.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "The forward reaction in the Haber process is exothermic. A temperature of about 450 °C is used. Which explanation is correct?",
+        "options": [
+          "A lower temperature would give a higher yield, but the rate would be too slow, so 450 °C is a compromise",
+          "A higher temperature would give both a higher yield and a faster rate",
+          "450 °C is used because it is the boiling point of ammonia",
+          "450 °C is used because the catalyst only works above 1000 °C"
+        ],
+        "answer": 0,
+        "explanation": "For an exothermic reversible reaction, lower temperature favours more product, but the particles move slower and react more slowly. The compromise gives a reasonable yield at an acceptable rate.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "The Haber process uses a pressure of about 200 atmospheres. Which statement explains why a much higher pressure is not used?",
+        "options": [
+          "Very high pressure needs expensive equipment and is more dangerous, even though it would raise the yield",
+          "High pressure would decrease the rate of reaction",
+          "High pressure turns the catalyst into a gas",
+          "High pressure makes nitrogen unreactive"
+        ],
+        "answer": 0,
+        "explanation": "Four molecules of gas become two, so high pressure favours ammonia. But stronger reactors and more compression energy increase the cost and safety risks.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Calcium carbonate is heated to make calcium oxide: CaCO₃ → CaO + CO₂. The relative formula masses are CaCO₃ = 100, CaO = 56 and CO₂ = 44. What is the atom economy for making CaO?",
+        "options": [
+          "44%",
+          "56%",
+          "78%",
+          "100%"
+        ],
+        "answer": 1,
+        "explanation": "Atom economy = Mr of desired product ÷ total Mr of products × 100 = 56 ÷ 100 × 100 = 56%. The other 44% is the unwanted carbon dioxide.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Ammonium nitrate has the formula NH₄NO₃. The relative atomic masses are H = 1, N = 14 and O = 16. What is the percentage of nitrogen by mass?",
+        "options": [
+          "17.5%",
+          "35%",
+          "28%",
+          "46%"
+        ],
+        "answer": 1,
+        "explanation": "Mr = 14 + 4 + 14 + 48 = 80. There are two nitrogen atoms, 28 in total. 28 ÷ 80 × 100 = 35%.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A company carries out a life cycle assessment (LCA) of a product. What does this involve?",
+        "options": [
+          "Studying the environmental impact from raw materials through making, using and disposing of the product",
+          "Checking only the cost of making the product",
+          "Measuring only the waste made in the factory",
+          "Testing only the strength of the product"
+        ],
+        "answer": 0,
+        "explanation": "An LCA examines every stage: extracting raw materials, manufacture, transport, use, and disposal or recycling.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Recycling aluminium cans uses far less energy than making new aluminium from its ore. What is the main reason?",
+        "options": [
+          "Extracting aluminium from its ore needs a lot of electrical energy for electrolysis, whereas recycling only needs melting",
+          "Aluminium ore is rare in the air",
+          "Recycled aluminium is a different metal",
+          "Melting aluminium needs more energy than electrolysis"
+        ],
+        "answer": 0,
+        "explanation": "Aluminium is extracted by electrolysis of molten aluminium oxide, which uses huge amounts of electricity. Melting scrap needs far less energy.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "In a Haber plant, 28 tonnes of nitrogen react completely with excess hydrogen to give a theoretical 34 tonnes of ammonia. The plant actually makes 25.5 tonnes of ammonia. What is the percentage yield?",
+        "options": [
+          "75%",
+          "91%",
+          "25%",
+          "133%"
+        ],
+        "answer": 0,
+        "explanation": "Percentage yield = actual ÷ theoretical × 100 = 25.5 ÷ 34 × 100 = 75%. Dividing by 28 compares ammonia with the mass of nitrogen, which is wrong.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A company compares two routes to make a chemical. Route X: 90% yield, 40% atom economy, makes a toxic by-product. Route Y: 70% yield, 95% atom economy, uses a renewable raw material. Which judgement best supports green chemistry?",
+        "options": [
+          "Route Y is preferable because it wastes fewer atoms and avoids a toxic by-product, though energy use and cost should also be checked",
+          "Route X is clearly better because yield is the only thing that matters",
+          "Both routes are identical in sustainability",
+          "Route X is better because toxic by-products are not important"
+        ],
+        "answer": 0,
+        "explanation": "High atom economy means little waste, and a renewable raw material is more sustainable. A full evaluation would also compare energy use, cost and safety.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Hydrogen for the Haber process is usually made from natural gas, releasing carbon dioxide. Which change would make ammonia production more sustainable?",
+        "options": [
+          "Making the hydrogen by electrolysis of water using renewable electricity",
+          "Raising the temperature to 900 °C",
+          "Venting the unreacted gases instead of recycling them",
+          "Removing the iron catalyst"
+        ],
+        "answer": 0,
+        "explanation": "Using hydrogen from water and renewable electricity avoids the carbon dioxide from natural gas. Venting gases would waste raw materials, and removing the catalyst would slow the reaction.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A plant makes 17 tonnes of ammonia per hour. Relative formula masses: N₂ = 28, H₂ = 2, NH₃ = 17. Assuming 100% conversion, what mass of hydrogen is needed each hour?",
+        "options": [
+          "1.5 tonnes",
+          "3 tonnes",
+          "6 tonnes",
+          "14 tonnes"
+        ],
+        "answer": 1,
+        "explanation": "N₂ + 3H₂ → 2NH₃: 2 × 17 = 34 parts of ammonia need 3 × 2 = 6 parts of hydrogen. So 17 tonnes needs 3 tonnes. The 14 tonnes is the mass of nitrogen needed.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A life cycle study (fictional data) finds that making one cotton shopping bag has the same environmental impact as making 30 single-use plastic bags. A shopper uses the cotton bag 20 times. Which conclusion is best supported?",
+        "options": [
+          "The cotton bag has done more environmental harm than 20 plastic bags and needs more than 30 uses to be better, assuming the plastic bags are used once",
+          "The cotton bag is already better because it can be reused",
+          "Plastic bags are always better for the environment",
+          "No conclusion is possible because bags are not chemicals"
+        ],
+        "answer": 0,
+        "explanation": "Equal impact is reached at 30 uses, so after 20 uses the cotton bag has a larger total impact than 20 plastic bags. The conclusion depends on the assumptions in the data, such as plastic bags being used only once.",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "The chemical industry makes materials such as fertilisers, plastics, fuels and medicines. Good chemists must think about yield, cost, safety and sustainability.\n\n## The Haber process\nAmmonia is made from nitrogen and hydrogen: **N₂ + 3H₂ ⇌ 2NH₃**.\n- Nitrogen comes from the air. Hydrogen is mainly made from natural gas (methane), or by electrolysis of water.\n- Conditions: about **450 °C**, about **200 atmospheres**, and a solid **iron catalyst**.\n- The ammonia is cooled and condensed to a liquid and removed. Unreacted nitrogen and hydrogen are **recycled**. Only about 15% of the gases react on each pass, so recycling raises the overall yield.\n\n## Why those conditions? (compromise)\n- The forward reaction is **exothermic**. A lower temperature would give more ammonia at equilibrium, but the rate would be too slow. 450 °C is a compromise between yield and rate.\n- Four molecules of gas become two, so a higher pressure favours more ammonia. But very high pressure needs strong, expensive equipment and is more dangerous. 200 atmospheres is a compromise.\n- The catalyst speeds up the reaction but does not change the yield.\n\n## Uses of ammonia and fertilisers\nAmmonia is used to make nitric acid and fertilisers such as **ammonium nitrate** (NH₄NO₃). Plants need nitrogen, phosphorus and potassium (NPK fertilisers). Fertilisers feed a growing population, but too much leads to eutrophication in rivers.\n\n## Measuring efficiency\n- **Percentage yield** = actual yield ÷ theoretical yield × 100.\n- **Atom economy** = relative formula mass of the desired product ÷ total relative formula mass of all products × 100. For CaCO₃ → CaO + CO₂, atom economy for CaO is 56 ÷ 100 = 56%. High atom economy means less waste.\n\n## Worked example\nAmmonia contains N = 14 and H = 1, so Mr(NH₃) = 17. In N₂ + 3H₂ → 2NH₃, 28 g of N₂ makes 34 g of NH₃. If 25.5 g of ammonia are actually made, percentage yield = 25.5 ÷ 34 × 100 = 75%.\n\n## Sustainability and green chemistry\n- **Sustainable development** means meeting today's needs without harming future generations.\n- Ideas of green chemistry: use renewable raw materials, high atom economy, less hazardous chemicals, catalysts, energy-efficient conditions, and recycling of waste and materials.\n- A **life cycle assessment (LCA)** looks at the environmental impact at every stage: raw materials, manufacture, transport, use and disposal. Recycling metals such as aluminium saves large amounts of energy and ore.\n- Evaluate with three views: environment, society (jobs, safety, food) and economy (cost, profit).\n\n## Common mistakes\n- Saying that a catalyst increases the yield.\n- Thinking higher temperature always gives more product.\n- Dividing by the wrong mass in atom economy or yield calculations.\n\n## How this is examined\nQuestions give a case study of an industrial process or product, with data on yield, energy and waste. You may be asked to explain a compromise, calculate yield or atom economy, compare two processes, and make a justified judgement using assumptions and limitations.\n\nExam tip: In evaluation questions, give a benefit, a drawback and a final judgement that depends on the evidence in the data.",
+    "flashcards": [
+      {
+        "front": "Haber process equation",
+        "back": "N₂ + 3H₂ ⇌ 2NH₃. The ⇌ shows the reaction is reversible."
+      },
+      {
+        "front": "Haber process conditions",
+        "back": "About 450 °C, about 200 atmospheres, iron catalyst. Unreacted gases are recycled."
+      },
+      {
+        "front": "Why 450 °C?",
+        "back": "The reaction is exothermic, so lower temperatures give more ammonia but a slower rate. 450 °C is a compromise between yield and rate."
+      },
+      {
+        "front": "Why not a much higher pressure?",
+        "back": "High pressure raises the yield, but strong equipment is expensive and dangerous, so 200 atmospheres is a compromise."
+      },
+      {
+        "front": "What does a catalyst do?",
+        "back": "Speeds up the reaction by providing an easier route. It does not change the amount of product at equilibrium and is not used up."
+      },
+      {
+        "front": "Percentage yield",
+        "back": "Actual yield ÷ theoretical yield × 100."
+      },
+      {
+        "front": "Atom economy",
+        "back": "Mr of desired product ÷ total Mr of all products × 100. A high value means less waste."
+      },
+      {
+        "front": "Life cycle assessment",
+        "back": "Studies the environmental impact of a product from raw materials, through manufacture and use, to disposal or recycling."
+      },
+      {
+        "front": "Sustainable development",
+        "back": "Meeting present needs without damaging the ability of future generations to meet theirs."
+      }
+    ]
+  }
+]

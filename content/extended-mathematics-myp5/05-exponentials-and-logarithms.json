@@ -1,0 +1,528 @@
+[
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Exponentials and Logarithms",
+  "subTopic": "Exponential Functions and Growth",
+  "questions": [
+   {
+    "content": "The function y = 2ˣ is used to model a doubling pattern. Find the value of y when x = 5.",
+    "options": [
+     "32",
+     "10",
+     "25",
+     "64"
+    ],
+    "answer": 0,
+    "explanation": "2⁵ means 2 × 2 × 2 × 2 × 2 = 32. Writing 2 × 5 = 10 or 5² = 25 mixes up the base and the power.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these functions models exponential growth?",
+    "options": [
+     "y = 3x + 2",
+     "y = x²",
+     "y = 100 − 4x",
+     "y = 5(1.2)ˣ"
+    ],
+    "answer": 3,
+    "explanation": "Exponential growth has the variable in the power and a multiplier greater than 1, as in 5(1.2)ˣ. The others are linear or quadratic.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A sample is modelled by N = 7 × 3ᵗ, where t is the time in hours. What is the starting value of N?",
+    "options": [
+     "3",
+     "21",
+     "7",
+     "0"
+    ],
+    "answer": 2,
+    "explanation": "At t = 0 we have 3⁰ = 1, so N = 7 × 1 = 7. The base 3 is the multiplier, not the starting value.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A shop price rises by 8%. Which multiplier gives the new price?",
+    "options": [
+     "0.08",
+     "1.08",
+     "8",
+     "0.92"
+    ],
+    "answer": 1,
+    "explanation": "An 8% increase means the new price is 100% + 8% = 108% of the old one, which is 1.08. 0.92 would be an 8% decrease.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A phone loses 15% of its value each year. Which multiplier should be used each year?",
+    "options": [
+     "0.85",
+     "0.15",
+     "1.15",
+     "15"
+    ],
+    "answer": 0,
+    "explanation": "Losing 15% leaves 85% of the value, so the yearly multiplier is 0.85. Using 1.15 would model growth.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A lab culture starts with 500 bacteria and the number doubles every hour. Using N = 500 × 2ᵗ, how many bacteria are there after 4 hours?",
+    "options": [
+     "2000",
+     "4000",
+     "16 000",
+     "8000"
+    ],
+    "answer": 3,
+    "explanation": "Substitute t = 4: 500 × 2⁴ = 500 × 16 = 8000. Using 500 × 4 = 2000 treats the power as a multiplication.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Mia invests £2000 at 5% compound interest per year. How much is in the account after 3 years?",
+    "options": [
+     "£2300.00",
+     "£2100.00",
+     "£2315.25",
+     "£2431.01"
+    ],
+    "answer": 2,
+    "explanation": "2000 × 1.05³ = 2315.25. £2300 comes from simple interest, and £2431.01 is the value after 4 years.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A car bought for £18 000 loses 12% of its value each year. What is its value after 2 years?",
+    "options": [
+     "£13 680.00",
+     "£13 939.20",
+     "£15 840.00",
+     "£12 266.50"
+    ],
+    "answer": 1,
+    "explanation": "Use the multiplier 0.88: 18 000 × 0.88² = 13 939.20. £13 680 takes 24% off in one step, and £12 266.50 is the value after 3 years.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An exponential model y = a × bˣ (with b > 0) passes through (0, 3) and (2, 48). What is the value of b?",
+    "options": [
+     "4",
+     "8",
+     "16",
+     "2"
+    ],
+    "answer": 0,
+    "explanation": "The point (0, 3) gives a = 3. Then 3b² = 48, so b² = 16 and b = 4. The value 16 is b², not b.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A radioactive sample of 80 g has a half-life of 5 days. How much is left after 15 days?",
+    "options": [
+     "20 g",
+     "26.7 g",
+     "5 g",
+     "10 g"
+    ],
+    "answer": 3,
+    "explanation": "15 days is 3 half-lives, so the mass is halved three times: 80 → 40 → 20 → 10. Dividing 80 by 3 treats decay as linear.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A town has 250 000 people and grows by 6% each year. Which function gives the population P after t years?",
+    "options": [
+     "P = 250 000 × 0.06ᵗ",
+     "P = 250 000 × 6ᵗ",
+     "P = 250 000 × 1.06ᵗ",
+     "P = 250 000 + 1.06t"
+    ],
+    "answer": 2,
+    "explanation": "Growth of 6% per year means multiplying by 1.06 each year, so the multiplier is the base of the power. The other rules give decay, explosive growth or linear growth.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The graph of y = 2ˣ − 4 is drawn for all real x. What is the equation of its horizontal asymptote?",
+    "options": [
+     "y = 4",
+     "y = −4",
+     "x = −4",
+     "y = 0"
+    ],
+    "answer": 1,
+    "explanation": "2ˣ gets closer and closer to 0 as x becomes very negative, so y = 2ˣ − 4 gets closer to −4. The line y = 0 is the asymptote of y = 2ˣ before the shift.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A model N = 200 × 1.5ᵗ predicts the number of bacteria in a dish over 48 hours. What is the main limitation of using this model for large values of t?",
+    "options": [
+     "Growth cannot continue for ever because food and space run out",
+     "Exponential functions cannot have a base greater than 1",
+     "The model shows decay, not growth",
+     "The starting value of 200 makes the model invalid"
+    ],
+    "answer": 0,
+    "explanation": "A good evaluation names a real-world limit: resources run out, so the true numbers will level off and the model will overestimate. The base 1.5 correctly gives growth.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A town of 12 000 people grows by 3% each year. In how many whole years from now will the population first exceed 15 000?",
+    "options": [
+     "7",
+     "9",
+     "10",
+     "8"
+    ],
+    "answer": 3,
+    "explanation": "12 000 × 1.03⁷ ≈ 14 758, which is still below 15 000, but 12 000 × 1.03⁸ ≈ 15 201 is above it. So 8 years are needed.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A scientist says: a population growing by 20% each year takes 5 years to double, because 20% × 5 = 100%. Which response is correct?",
+    "options": [
+     "The claim is correct because 20% × 5 = 100%",
+     "The claim is wrong: it takes 6 years because 1.2⁶ is the first value above 2",
+     "The claim is wrong: 1.2⁴ ≈ 2.07 so it has already doubled within 4 years",
+     "The claim is correct because 1.2⁵ = 2 exactly"
+    ],
+    "answer": 2,
+    "explanation": "Growth compounds, so each year's 20% is taken on a larger amount. 1.2⁴ = 2.0736 already exceeds 2, so doubling happens in under 4 years. 1.2⁵ is about 2.49, not 2.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Account A pays 6% compound interest per year and account B pays simple interest of £80 per year, each starting with £1000. After how many whole years does account A first hold more than account B?",
+    "options": [
+     "10",
+     "11",
+     "12",
+     "8"
+    ],
+    "answer": 1,
+    "explanation": "After 10 years A = 1000 × 1.06¹⁰ ≈ £1790.85 and B = £1800, so B is still ahead. After 11 years A ≈ £1898.30 and B = £1880, so A leads.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An exponential model y = a × bˣ passes through (1, 6) and (3, 24), with b > 0. What is the value of y when x = 5?",
+    "options": [
+     "96",
+     "42",
+     "48",
+     "192"
+    ],
+    "answer": 0,
+    "explanation": "Dividing gives b² = 24 ÷ 6 = 4, so b = 2 and a = 3. Then y = 3 × 2⁵ = 96. The value 42 comes from wrongly continuing a straight-line pattern.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A drug concentration of 40 mg/L falls by 20% each hour, so C = 40 × 0.8ᵗ. Doctors check once an hour. After how many hours is the concentration first below 10 mg/L?",
+    "options": [
+     "4",
+     "6",
+     "8",
+     "7"
+    ],
+    "answer": 3,
+    "explanation": "At 6 hours C = 40 × 0.8⁶ ≈ 10.49, still above 10. At 7 hours C ≈ 8.39, below 10. Thinking that 20% of 40 is removed every hour would wrongly give about 4 hours.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What is an exponential function?\nAn exponential function has the variable in the power. The standard form is y = a × bˣ. The number a is the starting value (the y-intercept, because b⁰ = 1) and b is the multiplier you apply every time x goes up by 1. If b > 1 the function shows growth. If 0 < b < 1 it shows decay. The base b must be positive.\n\n## Percentage change and multipliers\nReal situations are usually given as percentages, so you must convert them to a multiplier.\n- **Increase of r%**: multiplier = 1 + r/100. A 6% rise gives 1.06.\n- **Decrease of r%**: multiplier = 1 − r/100. A 12% fall gives 0.88.\n- **Doubling every hour**: multiplier 2 per hour. **Halving**: multiplier 0.5.\n\nIf a quantity starts at P and changes by the same percentage each period, after n periods it is P × (multiplier)ⁿ. This is the compound interest idea: interest is earned on the interest as well, so growth is faster than the straight-line growth of simple interest.\n\n## Worked example\nMia invests £2000 at 5% compound interest per year. The multiplier is 1.05, so after 3 years the value is 2000 × 1.05³ = £2315.25. With simple interest she would only have £2000 + 3 × £100 = £2300. The extra £15.25 is interest earned on earlier interest.\n\n## Graph features\n- The graph of y = a × bˣ crosses the y-axis at (0, a).\n- It never touches the x-axis. The line y = 0 is a horizontal **asymptote**.\n- Growth curves get steeper and steeper. Decay curves flatten out towards the asymptote.\n- If the rule is y = a × bˣ + c, the whole graph is shifted up by c and the asymptote is y = c.\n\n## Finding a and b from data\nIf the graph passes through (0, 3) and (2, 48), then a = 3 and 3b² = 48. So b² = 16 and b = 4. Always check the answer by substituting a second point.\n\n## Common mistakes\n- Using 0.06 instead of 1.06 as the multiplier for a 6% increase.\n- Multiplying the power instead of using it: 2⁴ is 16, not 8.\n- Treating decay as a straight line (for example, taking 20% of the starting value away every period).\n- Rounding too early in a multi-step calculation. Keep full calculator values until the end.\n\n## How this is examined\nIn the eAssessment, exponential models appear inside a context such as a bacteria culture, a drug concentration, a car losing value or a savings plan. Early parts ask you to state or calculate a value from the model. A middle part asks you to show that a stated value is correct or to justify which multiplier is right. The extended task asks you to use the model to predict, say how reliable the prediction is, and name an assumption such as growth rate staying constant. State that limit clearly, for example that food, space or money would eventually run out or change.\n\nExam tip: Write the model with its multiplier first (for example 500 × 2ᵗ), substitute carefully, and finish by evaluating the model: say which assumption makes the prediction less reliable.",
+  "flashcards": [
+   {
+    "front": "General exponential function",
+    "back": "y = a × bˣ, where a is the starting value (y-intercept) and b > 0 is the multiplier per step. b > 1 is growth and 0 < b < 1 is decay."
+   },
+   {
+    "front": "Multiplier for an r% increase",
+    "back": "1 + r/100. For example, a 7% increase uses 1.07 and a 150% increase uses 2.5."
+   },
+   {
+    "front": "Multiplier for an r% decrease",
+    "back": "1 − r/100. For example, a 12% decrease uses 0.88 and a 40% decrease uses 0.6."
+   },
+   {
+    "front": "Compound growth formula",
+    "back": "Final amount = Start × (multiplier)ⁿ, where n is the number of periods. Interest is earned on previous interest."
+   },
+   {
+    "front": "Compound interest vs simple interest",
+    "back": "Simple interest adds the same amount each period (linear). Compound interest multiplies each period (exponential) so it grows faster over time."
+   },
+   {
+    "front": "Asymptote of y = a × bˣ",
+    "back": "The line y = 0 (the x-axis). The graph gets closer to it but never touches it. For y = a × bˣ + c the asymptote is y = c."
+   },
+   {
+    "front": "Where does y = a × bˣ cross the y-axis?",
+    "back": "At (0, a), because b⁰ = 1."
+   },
+   {
+    "front": "Half-life",
+    "back": "The time taken for a quantity to fall to half its value. Decay has multiplier 0.5 per half-life, so after n half-lives the amount is start × 0.5ⁿ."
+   },
+   {
+    "front": "Limitation of an exponential model",
+    "back": "Real growth cannot go on for ever (resources run out) and the rate may change. Predictions far from the data are less reliable."
+   }
+  ]
+ },
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Exponentials and Logarithms",
+  "subTopic": "Introduction to Logarithms",
+  "questions": [
+   {
+    "content": "What is the value of log₁₀ 1000?",
+    "options": [
+     "10",
+     "3",
+     "30",
+     "4"
+    ],
+    "answer": 1,
+    "explanation": "log₁₀ 1000 asks: 10 to what power gives 1000? Since 10³ = 1000, the answer is 3.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the value of log₂ 8?",
+    "options": [
+     "3",
+     "4",
+     "16",
+     "2"
+    ],
+    "answer": 0,
+    "explanation": "2³ = 8, so log₂ 8 = 3. The value 16 comes from 2 × 8, which has no meaning here.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which statement is the logarithm form of 10² = 100?",
+    "options": [
+     "log₂ 10 = 100",
+     "log₁₀ 2 = 100",
+     "log₁₀ 10 = 100",
+     "log₁₀ 100 = 2"
+    ],
+    "answer": 3,
+    "explanation": "The equation aˣ = b becomes logₐ b = x. Here the base is 10, the result is 100 and the power is 2.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the value of log₅ 1?",
+    "options": [
+     "1",
+     "5",
+     "0",
+     "It is undefined"
+    ],
+    "answer": 2,
+    "explanation": "Any positive base raised to the power 0 gives 1, so logₐ 1 = 0. This does not depend on the base.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the value of log₇ 7?",
+    "options": [
+     "0",
+     "1",
+     "7",
+     "49"
+    ],
+    "answer": 1,
+    "explanation": "7¹ = 7, so log₇ 7 = 1. In general logₐ a = 1.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Simplify log 2 + log 5, where log means log₁₀.",
+    "options": [
+     "1",
+     "log 7",
+     "10",
+     "0"
+    ],
+    "answer": 0,
+    "explanation": "Adding logs multiplies the numbers: log 2 + log 5 = log 10 = 1. Adding the numbers to get log 7 is a common mistake.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Write 2 log 3 + log 4 as a single logarithm.",
+    "options": [
+     "log 24",
+     "log 10",
+     "log 13",
+     "log 36"
+    ],
+    "answer": 3,
+    "explanation": "2 log 3 = log 3² = log 9. Then log 9 + log 4 = log 36. Using log 24 forgets that the power 2 applies only to the 3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Evaluate log₂ 40 − log₂ 5.",
+    "options": [
+     "8",
+     "35",
+     "3",
+     "5"
+    ],
+    "answer": 2,
+    "explanation": "Subtracting logs divides the numbers: log₂ (40 ÷ 5) = log₂ 8 = 3. The value 8 is the number inside the log, not its logarithm.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Use logarithms to solve 2ˣ = 20. Give your answer to 2 decimal places.",
+    "options": [
+     "10.00",
+     "4.32",
+     "0.23",
+     "1.30"
+    ],
+    "answer": 1,
+    "explanation": "Take logs of both sides: x log 2 = log 20, so x = log 20 ÷ log 2 ≈ 4.32. Dividing 20 by 2 ignores the power, and 0.23 divides the wrong way round.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve 5ˣ = 100 using logarithms. Give your answer to 2 decimal places.",
+    "options": [
+     "2.86",
+     "20.00",
+     "0.35",
+     "2.00"
+    ],
+    "answer": 0,
+    "explanation": "x = log 100 ÷ log 5 = 2 ÷ 0.699 ≈ 2.86. The answer 2.00 only works for base 10.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which expression is equal to log (x²y)?",
+    "options": [
+     "(log x)² + log y",
+     "2(log x + log y)",
+     "log x + 2 log y",
+     "2 log x + log y"
+    ],
+    "answer": 3,
+    "explanation": "The product rule gives log x² + log y, and the power rule turns log x² into 2 log x. The power 2 belongs only to x.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Given that log x = 2.5, find x correct to 3 significant figures.",
+    "options": [
+     "250",
+     "25",
+     "316",
+     "12.5"
+    ],
+    "answer": 2,
+    "explanation": "log x = 2.5 means x = 10²·⁵ ≈ 316.2, so 316 to 3 s.f. Multiplying 2.5 by 100 gives 250, which is wrong.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Given that log₃ x = 4, find x.",
+    "options": [
+     "12",
+     "81",
+     "64",
+     "7"
+    ],
+    "answer": 1,
+    "explanation": "log₃ x = 4 means 3⁴ = x, so x = 81. The value 12 comes from 3 × 4 and 64 from 4³.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Given that log 2 = 0.301 and log 3 = 0.477 (to 3 decimal places), find log 18.",
+    "options": [
+     "1.255",
+     "0.778",
+     "1.431",
+     "0.144"
+    ],
+    "answer": 0,
+    "explanation": "18 = 2 × 3², so log 18 = log 2 + 2 log 3 = 0.301 + 0.954 = 1.255. Using log 6 = 0.778 forgets the second factor of 3.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Solve 3²ˣ = 50. Give x to 2 decimal places.",
+    "options": [
+     "3.56",
+     "0.89",
+     "7.12",
+     "1.78"
+    ],
+    "answer": 3,
+    "explanation": "Take logs: 2x log 3 = log 50, so x = log 50 ÷ (2 log 3) ≈ 1.78. The value 3.56 is the answer for 3ˣ = 50, because the 2 was ignored.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An account starts with £5000 and grows by 4% each year. Using logarithms, in how many whole years will it first be worth at least £8000?",
+    "options": [
+     "11",
+     "15",
+     "12",
+     "16"
+    ],
+    "answer": 2,
+    "explanation": "Solve 1.04ⁿ ≥ 1.6, so n ≥ log 1.6 ÷ log 1.04 ≈ 11.98. Since the interest is added yearly, n must be a whole number, so n = 12. After 11 years there is only about £7697.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Solve 2ˣ⁺¹ = 12. Give x to 2 decimal places.",
+    "options": [
+     "3.58",
+     "2.58",
+     "5.00",
+     "1.79"
+    ],
+    "answer": 1,
+    "explanation": "x + 1 = log 12 ÷ log 2 ≈ 3.585, so x ≈ 2.58. The value 3.58 forgets to subtract 1, and 5.00 comes from dividing 12 by 2 and subtracting 1.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The acidity of a solution is measured by pH = −log [H⁺], where [H⁺] is the concentration of hydrogen ions. Solution P has pH 2 and solution Q has pH 5. How many times greater is [H⁺] in P than in Q?",
+    "options": [
+     "1000",
+     "3",
+     "2.5",
+     "100"
+    ],
+    "answer": 0,
+    "explanation": "[H⁺] = 10⁻ᵖᴴ, so P has 10⁻² and Q has 10⁻⁵. The ratio is 10⁻² ÷ 10⁻⁵ = 10³ = 1000. A difference of 3 in pH means a factor of 10³, not 3.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What is a logarithm?\nA logarithm answers the question: \"what power do I need?\" We write logₐ b = x to mean aˣ = b. So log₂ 8 = 3 because 2³ = 8. The number a is the **base**. When no base is written, log means base 10, so log 1000 = 3 because 10³ = 1000. Logarithms are the inverse of exponentials, in the same way that square roots undo squares.\n\n## Two facts to remember\n- logₐ 1 = 0, because a⁰ = 1.\n- logₐ a = 1, because a¹ = a.\n\nYou can only take the logarithm of a positive number. log (−5) and log 0 do not exist.\n\n## The three laws\nFor any base:\n- **Product law**: log x + log y = log (xy)\n- **Quotient law**: log x − log y = log (x ÷ y)\n- **Power law**: n log x = log (xⁿ)\n\nFor example, log 2 + log 5 = log 10 = 1, and 2 log 3 + log 4 = log 9 + log 4 = log 36.\n\n## Solving equations of the form aˣ = b\nWhen the unknown is in the power, take logs of both sides and use the power law.\nExample: solve 2ˣ = 20.\n- Take logs: x log 2 = log 20\n- Divide: x = log 20 ÷ log 2 ≈ 1.301 ÷ 0.301 = 4.32\n\nCheck: 2⁴·³² ≈ 20. Always check by substituting back.\nFor equations like 3²ˣ = 50, the power is 2x, so 2x log 3 = log 50. Finish by dividing by 2 as well as by log 3.\n\n## Real-world uses\nLogarithms turn huge ranges into small numbers. The pH scale, where pH = −log [H⁺], is an example: each drop of 1 in pH means ten times more hydrogen ions. Logarithms also let you find \"how long until\" in compound growth. To find when £5000 growing at 4% a year reaches £8000, solve 1.04ⁿ = 1.6 so n = log 1.6 ÷ log 1.04 ≈ 11.98. Because interest is added once a year, you round up to 12 years.\n\n## Common mistakes\n- Writing log (x + y) = log x + log y. There is no such law.\n- Writing log x ÷ log y when you mean log (x ÷ y). They are different.\n- Dividing 20 by 2 to solve 2ˣ = 20 instead of using logs.\n- Forgetting to round up when the question asks for the first whole number of years.\n\n## How this is examined\nLogarithm questions in the eAssessment style usually sit in a context such as compound interest, population growth or a measurement scale. First you may be asked to write down or calculate a value. Then you show that an equation leads to a stated answer. The extended task asks you to use logs to find a time, check the answer in the original model, and comment on rounding and whether the model is realistic.\n\nExam tip: Show each step: take logs of both sides, apply the power law, then divide. Substitute your answer back into the original equation to verify it, and give the accuracy the question asks for.",
+  "flashcards": [
+   {
+    "front": "Meaning of logₐ b = x",
+    "back": "It means aˣ = b. The logarithm is the power to which the base a must be raised to give b. For example, log₂ 8 = 3."
+   },
+   {
+    "front": "What does log with no base mean?",
+    "back": "Base 10. So log 1000 = 3 because 10³ = 1000."
+   },
+   {
+    "front": "logₐ 1 and logₐ a",
+    "back": "logₐ 1 = 0 (since a⁰ = 1) and logₐ a = 1 (since a¹ = a), for any valid base a."
+   },
+   {
+    "front": "Product law of logs",
+    "back": "log x + log y = log (xy). Adding logs means multiplying the numbers inside."
+   },
+   {
+    "front": "Quotient law of logs",
+    "back": "log x − log y = log (x ÷ y). Subtracting logs means dividing the numbers."
+   },
+   {
+    "front": "Power law of logs",
+    "back": "n log x = log (xⁿ). The power comes down in front, or goes back up inside."
+   },
+   {
+    "front": "Solving aˣ = b with logs",
+    "back": "Take logs of both sides: x log a = log b, so x = log b ÷ log a. Check by substituting back."
+   },
+   {
+    "front": "Which numbers can you take the log of?",
+    "back": "Only positive numbers. log 0 and the log of a negative number are not defined."
+   },
+   {
+    "front": "Common error with log (x + y)",
+    "back": "log (x + y) does NOT equal log x + log y. The product law applies to log (xy), not to sums."
+   }
+  ]
+ }
+]

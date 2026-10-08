@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Statistics",
+  "subTopic": "Averages and Measures of Spread",
+  "questions": [
+   {
+    "content": "A basketball player scores 4, 7, 9, 12 and 13 points in five games. What is her mean score?",
+    "options": [
+     "9",
+     "8",
+     "10",
+     "12"
+    ],
+    "answer": 0,
+    "explanation": "Add the scores: 4 + 7 + 9 + 12 + 13 = 45, then divide by 5 games to get 9.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The times (in seconds) of six sprinters are 12, 5, 9, 3, 8 and 15. What is the median?",
+    "options": [
+     "8",
+     "8.5",
+     "9",
+     "8.67"
+    ],
+    "answer": 1,
+    "explanation": "Order the data: 3, 5, 8, 9, 12, 15. With six values the median is halfway between the 3rd and 4th: (8 + 9) ÷ 2 = 8.5.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A shop records the shoe sizes sold in an hour: 5, 7, 7, 8, 7, 9, 5. What is the mode?",
+    "options": [
+     "5",
+     "8",
+     "7",
+     "7.5"
+    ],
+    "answer": 2,
+    "explanation": "The mode is the value that appears most often. Size 7 appears three times, more than any other size.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Overnight temperatures (°C) in five towns are −3, 4, 9, 12 and −6. What is the range?",
+    "options": [
+     "6",
+     "15",
+     "9",
+     "18"
+    ],
+    "answer": 3,
+    "explanation": "Range = highest − lowest = 12 − (−6) = 18. Subtracting a negative number means adding.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A property website lists ten house prices. Nine are between £210 000 and £260 000, but one mansion costs £4 500 000. Which average best describes a typical house price?",
+    "options": [
+     "The median",
+     "The mean",
+     "The range",
+     "The total"
+    ],
+    "answer": 0,
+    "explanation": "The mansion is an extreme value that drags the mean upwards. The median is not affected by extreme values, so it is more representative.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The mean of five numbers is 14. A sixth number, 20, is added. What is the new mean?",
+    "options": [
+     "17",
+     "15",
+     "14",
+     "16"
+    ],
+    "answer": 1,
+    "explanation": "The original total is 5 × 14 = 70. The new total is 70 + 20 = 90 across 6 numbers, so the mean is 90 ÷ 6 = 15.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A teacher records how many books 20 students read over the holiday. Books: 1, 2, 3, 4. Frequency: 3, 5, 8, 4. What is the mean number of books?",
+    "options": [
+     "2.5",
+     "2.35",
+     "2.65",
+     "13.25"
+    ],
+    "answer": 2,
+    "explanation": "Multiply each value by its frequency: 3 + 10 + 24 + 16 = 53. Divide by the total frequency 20 to get 2.65. Dividing by 4 (the number of rows) is a common mistake.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Using the same data (books 1, 2, 3, 4 with frequencies 3, 5, 8, 4), what is the median number of books?",
+    "options": [
+     "2.5",
+     "2",
+     "8",
+     "3"
+    ],
+    "answer": 3,
+    "explanation": "There are 20 values, so the median lies between the 10th and 11th. The cumulative frequencies are 3, 8, 16, 20, so both the 10th and 11th values are 3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The data set 4, 6, 7, 9, 10, 12, 15, 18 is written in order. What is the interquartile range?",
+    "options": [
+     "7",
+     "14",
+     "6.5",
+     "13.5"
+    ],
+    "answer": 0,
+    "explanation": "The lower half is 4, 6, 7, 9 so Q1 = 6.5. The upper half is 10, 12, 15, 18 so Q3 = 13.5. IQR = Q3 − Q1 = 13.5 − 6.5 = 7.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A survey groups the times 20 students spend on homework. Classes: 0 < t ≤ 10 (4 students), 10 < t ≤ 20 (6 students), 20 < t ≤ 30 (10 students). Using class midpoints, what is the estimated mean time?",
+    "options": [
+     "15 minutes",
+     "18 minutes",
+     "20 minutes",
+     "20.5 minutes"
+    ],
+    "answer": 1,
+    "explanation": "Midpoints are 5, 15 and 25. (4×5 + 6×15 + 10×25) ÷ 20 = 360 ÷ 20 = 18 minutes. The result is only an estimate because the exact values are unknown.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student claims the mean of 8 test scores is 76.5 and the scores total 612. Which calculation verifies the claim?",
+    "options": [
+     "612 × 8 = 4896, so the claim is wrong",
+     "612 ÷ 76.5 = 8, so the claim is wrong",
+     "612 ÷ 8 = 76.5, so the claim is correct",
+     "612 − 8 = 604, so the claim is wrong"
+    ],
+    "answer": 2,
+    "explanation": "Mean = total ÷ number of values. 612 ÷ 8 = 76.5, so the claim is verified. (612 ÷ 76.5 = 8 is also true, but that does not show the claim is wrong.)",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Class A and class B both have a mean test mark of 62. Class A has a range of 40 and class B has a range of 12. Which conclusion is best supported?",
+    "options": [
+     "Class A did better overall",
+     "Class B did better overall",
+     "Class A's marks are more consistent",
+     "Class B's marks are more consistent"
+    ],
+    "answer": 3,
+    "explanation": "The means are equal so neither class did better on average. The smaller range shows class B's marks are closer together, which means they are more consistent.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Every student in a class gets 5 bonus marks added to their test score. What happens to the mean, median and range?",
+    "options": [
+     "Mean and median increase by 5; range is unchanged",
+     "All three increase by 5",
+     "Mean increases by 5; median and range are unchanged",
+     "Mean, median and range are all unchanged"
+    ],
+    "answer": 0,
+    "explanation": "Adding 5 to every value shifts the whole data set up by 5, so the mean and median rise by 5. The highest and lowest both rise by 5, so the difference between them stays the same.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The mean of ten numbers is 12. When one number is removed, the mean of the remaining nine numbers is 11. What number was removed?",
+    "options": [
+     "1",
+     "21",
+     "11",
+     "23"
+    ],
+    "answer": 1,
+    "explanation": "The original total is 10 × 12 = 120. The remaining total is 9 × 11 = 99. The removed number is 120 − 99 = 21.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A class of 12 students has a mean mark of 70. Another class of 18 students has a mean mark of 80. What is the mean mark of all 30 students?",
+    "options": [
+     "75",
+     "77",
+     "76",
+     "78"
+    ],
+    "answer": 2,
+    "explanation": "Total marks: 12 × 70 = 840 and 18 × 80 = 1440, giving 2280. Divide by 30 students to get 76. Averaging 70 and 80 to get 75 ignores the different class sizes.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A researcher estimates the mean age of 50 club members from grouped data as 41.2 years. The exact mean, calculated from the raw data, is 40.0 years. What is the percentage error of the estimate?",
+    "options": [
+     "1.2%",
+     "2.9%",
+     "97%",
+     "3%"
+    ],
+    "answer": 3,
+    "explanation": "Error = 41.2 − 40.0 = 1.2. Percentage error = 1.2 ÷ 40.0 × 100 = 3%. The percentage error is found relative to the exact value.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Seven numbers are 5, 7, 9, 11, 13, 15 and x. Their mean is 10. What is the median of the seven numbers?",
+    "options": [
+     "10",
+     "9",
+     "11",
+     "70"
+    ],
+    "answer": 0,
+    "explanation": "The total must be 7 × 10 = 70. The known numbers sum to 60, so x = 10. In order the numbers are 5, 7, 9, 10, 11, 13, 15, so the 4th value, 10, is the median.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A wind farm records its daily output (MWh) for nine days: 42, 45, 47, 44, 46, 45, 43, 48, 120. On the last day, the farm was running a test with extra turbines. An engineer wants to predict a typical normal day. Which statement is best justified?",
+    "options": [
+     "The mean, 53.3 MWh, is better because it uses every value",
+     "The median, 45 MWh, is better because 120 is an extreme value that pulls the mean up to about 53.3 MWh",
+     "The mode, 45 MWh, is better because it is the largest value",
+     "The range, 78 MWh, is better because it shows a typical day"
+    ],
+    "answer": 1,
+    "explanation": "The total is 480, so the mean is 53.3, higher than eight of the nine days. The median is 45 and is unaffected by the 120. The range measures spread, not a typical value.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Averages summarise a whole data set with one typical value. Measures of spread tell you how far apart the data values are. In MYP 5 you need to calculate both, choose the right one for a context, and judge how reliable your answer is.\n\n## The three averages\n- **Mean** = total of all values ÷ number of values. It uses every value, so it is affected by extreme values (outliers).\n- **Median** = the middle value once the data is in order. For an even number of values, find the value halfway between the two middle ones. The median is not affected by outliers.\n- **Mode** = the most common value. It is the only average that works for non-numerical data, such as favourite colours. A set can have more than one mode, or none.\n\n## Measures of spread\n- **Range** = highest value − lowest value. It is easy to find but is affected by outliers.\n- **Interquartile range (IQR)** = upper quartile (Q3) − lower quartile (Q1). It describes the spread of the middle 50% of the data, so outliers hardly affect it.\n\nTo find quartiles, order the data, split it into a lower half and an upper half (leave out the median if there is an odd number of values), then find the median of each half.\n\n## Frequency tables\nWhen data is in a frequency table, multiply each value by its frequency before adding. For example, with values 1, 2, 3 and frequencies 3, 5, 8, the total is 3 + 10 + 24 = 37, and the mean is 37 ÷ 16. Divide by the total frequency, not by the number of rows. To find the median, use the cumulative frequency to locate the middle position.\n\n## Grouped data\nWhen data is grouped into classes, you do not know the exact values. Use the **midpoint** of each class as a stand-in, multiply by the frequency, add up and divide by the total frequency. The answer is an **estimate**. The **modal class** is the class with the highest frequency.\n\n## Worked example\nSeven numbers have a mean of 10. Six of them total 60. Then the seventh is 7 × 10 − 60 = 10. Working backwards from the mean to the total is a skill that appears often.\n\n## Useful rules\n- Adding the same amount to every value adds that amount to the mean and median, but does not change the range.\n- Multiplying every value by k multiplies the mean, median and range by k.\n- To combine two groups, work with totals, not with averages. Do not simply average two means unless the groups are the same size.\n\n## Common mistakes\n- Forgetting to order the data before finding the median.\n- Dividing by the number of rows in a frequency table instead of the total frequency.\n- Calling an estimate from grouped data exact.\n- Giving the range as two numbers rather than one.\n\n## How this is examined\nExam questions place the data in a context, such as turbine output, journey times or test marks. You may be asked to calculate an average, show that a claim is true, compare two sets using an average and a measure of spread, or justify which average best represents the data. Stronger answers state why one average is more suitable (for example, the median because of an outlier), comment on spread, and consider accuracy, such as the percentage error of an estimate from grouped data.\n\nExam tip: When comparing two data sets, always write one comment about the average and one about the spread, and refer to the context in your answer.",
+  "flashcards": [
+   {
+    "front": "Mean",
+    "back": "Total of all values ÷ number of values. It uses every value, so outliers affect it."
+   },
+   {
+    "front": "Median",
+    "back": "The middle value when the data is in order. For an even number of values, halfway between the two middle ones."
+   },
+   {
+    "front": "Mode",
+    "back": "The most frequent value. A data set can have no mode, one mode or several modes."
+   },
+   {
+    "front": "Range",
+    "back": "Highest value − lowest value. It is a single number and is affected by outliers."
+   },
+   {
+    "front": "Interquartile range",
+    "back": "IQR = Q3 − Q1. It measures the spread of the middle 50% of the data and is not affected by outliers."
+   },
+   {
+    "front": "Mean from a frequency table",
+    "back": "Multiply each value by its frequency, add these up, then divide by the total frequency (not the number of rows)."
+   },
+   {
+    "front": "Estimating the mean of grouped data",
+    "back": "Use each class midpoint, multiply by the frequency, add up and divide by the total frequency. The result is only an estimate."
+   },
+   {
+    "front": "When is the median better than the mean?",
+    "back": "When the data has extreme values (outliers) that would pull the mean away from a typical value."
+   },
+   {
+    "front": "Effect of adding 5 to every value",
+    "back": "Mean and median increase by 5, but the range and IQR do not change."
+   }
+  ]
+ },
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Statistics",
+  "subTopic": "Statistical Diagrams and Frequency Tables",
+  "questions": [
+   {
+    "content": "In a survey of 60 students, 15 say they walk to school. In a pie chart, what angle represents walking?",
+    "options": [
+     "15°",
+     "60°",
+     "90°",
+     "45°"
+    ],
+    "answer": 2,
+    "explanation": "The fraction is 15/60 = 1/4 of the students, so the angle is 1/4 × 360° = 90°.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A scientist measures the heights of 100 plants and groups them into classes such as 10 ≤ h < 15 and 15 ≤ h < 20. Which diagram is most suitable for continuous grouped data like this?",
+    "options": [
+     "A pictogram",
+     "A pie chart with one sector per plant",
+     "A tally chart only",
+     "A histogram"
+    ],
+    "answer": 3,
+    "explanation": "Continuous grouped data is shown in a histogram, where the bars touch because the classes follow on from each other with no gaps.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A stem-and-leaf diagram has key 3 | 4 = 34. The stem 2 has leaves 3, 5, 8 and the stem 3 has leaves 0, 4, 4, 9. What is the median of the seven values?",
+    "options": [
+     "30",
+     "34",
+     "28",
+     "29"
+    ],
+    "answer": 0,
+    "explanation": "The values in order are 23, 25, 28, 30, 34, 34, 39. With seven values, the median is the 4th value, 30.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "When drawing a cumulative frequency graph from a grouped table, where on the horizontal axis should each point be plotted?",
+    "options": [
+     "At the midpoint of each class",
+     "At the upper boundary of each class",
+     "At the lower boundary of each class",
+     "At the class width"
+    ],
+    "answer": 1,
+    "explanation": "Cumulative frequency counts everything up to the end of each class, so each point is plotted at the upper class boundary.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A frequency table shows the number of goals scored by a team: 0 goals, 6 games; 1 goal, 9 games; 2 goals, 12 games; 3 goals, 7 games; 4 goals, 6 games. What is the relative frequency of games with exactly 2 goals?",
+    "options": [
+     "12",
+     "0.2",
+     "0.3",
+     "0.25"
+    ],
+    "answer": 2,
+    "explanation": "There are 6 + 9 + 12 + 7 + 6 = 40 games. Relative frequency = 12 ÷ 40 = 0.3.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A pie chart represents 80 people. The sector for cycling has an angle of 54°. How many people cycle?",
+    "options": [
+     "54",
+     "15",
+     "9",
+     "12"
+    ],
+    "answer": 3,
+    "explanation": "The fraction is 54/360 = 0.15. Then 0.15 × 80 = 12 people.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The marks of 60 students are grouped. Upper class limits: 20, 40, 60, 80, 100. Cumulative frequencies: 5, 18, 41, 57, 60. How many students scored more than 60 marks?",
+    "options": [
+     "19",
+     "41",
+     "57",
+     "3"
+    ],
+    "answer": 0,
+    "explanation": "41 students scored 60 or less, so 60 − 41 = 19 students scored more than 60.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "For the same 60 students (upper limits 20, 40, 60, 80, 100 and cumulative frequencies 5, 18, 41, 57, 60), the median lies in the class 40 to 60. Using linear interpolation within that class, what is the estimated median?",
+    "options": [
+     "50",
+     "50.4",
+     "45.5",
+     "30"
+    ],
+    "answer": 1,
+    "explanation": "The median is the 30th value. 18 students are below 40, so we need 12 of the 23 students in the class: 40 + (12 ÷ 23) × 20 ≈ 50.4. Reading 30 off the horizontal axis confuses position with value.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A box plot of delivery times (minutes) shows: minimum 12, lower quartile 20, median 26, upper quartile 33, maximum 51. What is the interquartile range?",
+    "options": [
+     "39",
+     "21",
+     "13",
+     "7"
+    ],
+    "answer": 2,
+    "explanation": "IQR = upper quartile − lower quartile = 33 − 20 = 13. The value 39 is the range (51 − 12).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A news graph compares the profits of two companies using bars. The vertical axis starts at 90 instead of 0, so one bar looks four times taller than the other although the profits are 100 and 110. What is the problem?",
+    "options": [
+     "The bars should be circles",
+     "The data is discrete",
+     "The profits should be shown as angles",
+     "The truncated axis exaggerates the difference"
+    ],
+    "answer": 3,
+    "explanation": "Starting the vertical axis at 90 makes a 10% difference look huge. A fair bar chart starts the axis at zero so the bar heights are in proportion.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A frequency polygon is drawn for the class 20 ≤ x < 30 with frequency 14. Which point is plotted?",
+    "options": [
+     "(25, 14)",
+     "(20, 14)",
+     "(30, 14)",
+     "(14, 25)"
+    ],
+    "answer": 0,
+    "explanation": "A frequency polygon joins points plotted at the midpoints of the classes. The midpoint of 20 to 30 is 25, with height equal to the frequency, 14.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Group A has a median score of 62 and an interquartile range of 10. Group B has a median of 70 and an interquartile range of 22. Which statement is best supported?",
+    "options": [
+     "Group A typically scored higher and was less consistent",
+     "Group B typically scored higher, but its scores were less consistent",
+     "Group B scored higher and was more consistent",
+     "The groups are the same because both have a median"
+    ],
+    "answer": 1,
+    "explanation": "A higher median shows B typically scored higher. A larger IQR shows B's middle 50% of scores are more spread out, so B was less consistent.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "120 students are surveyed about playing an instrument. 50 are boys, of whom 18 play an instrument. In total 45 students play an instrument. How many girls do not play an instrument?",
+    "options": [
+     "27",
+     "32",
+     "43",
+     "70"
+    ],
+    "answer": 2,
+    "explanation": "There are 120 − 50 = 70 girls. Girls who play = 45 − 18 = 27. Girls who do not play = 70 − 27 = 43.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The cumulative frequency graph for the marks of 80 students shows 52 students scored 70 or less. The pass mark is above 70. What percentage of students passed?",
+    "options": [
+     "65%",
+     "52%",
+     "28%",
+     "35%"
+    ],
+    "answer": 3,
+    "explanation": "Students above 70 = 80 − 52 = 28. As a percentage: 28 ÷ 80 × 100 = 35%. The 65% is the percentage who did not pass.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A pie chart shows how students travel. Cycling is 72°, walking is twice the angle of cycling, bus is 90°, and car is the rest. 15 students travel by car. How many students walk?",
+    "options": [
+     "40",
+     "30",
+     "60",
+     "100"
+    ],
+    "answer": 0,
+    "explanation": "Walking is 144°, so car = 360 − 72 − 144 − 90 = 54°. 15 students ↔ 54°, so the total is 15 ÷ 54 × 360 = 100 students. Walking is 144/360 × 100 = 40.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The ages of 50 members are grouped: 0 < a ≤ 20 (5 members), 20 < a ≤ 40 (12), 40 < a ≤ 60 (20), 60 < a ≤ 80 (13). Between which two values must the true mean age lie?",
+    "options": [
+     "10 and 70",
+     "36.4 and 56.4",
+     "40 and 60",
+     "46.4 and 56.4"
+    ],
+    "answer": 1,
+    "explanation": "Using lower class limits gives (0×5 + 20×12 + 40×20 + 60×13) ÷ 50 = 36.4. Using upper limits gives (20×5 + 40×12 + 60×20 + 80×13) ÷ 50 = 56.4. The true mean must lie between them.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A box plot for 200 students shows a lower quartile of 40, a median of 55 and an upper quartile of 70. Approximately how many students scored either below 40 or above 55?",
+    "options": [
+     "100",
+     "50",
+     "150",
+     "75"
+    ],
+    "answer": 2,
+    "explanation": "A quarter of 200, that is 50 students, scored below the lower quartile. Half, that is 100, scored above the median. So 50 + 100 = 150 students.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Class X has 24 students and 6 of them choose chess club. Class Y has 40 students and 8 choose chess club. A bar chart of the raw numbers shows Y taller than X. Which statement is correct?",
+    "options": [
+     "Chess is more popular in Y, because 8 is greater than 6",
+     "Chess is equally popular, because both numbers are small",
+     "Chess is more popular in Y, because 40 is greater than 24",
+     "Chess is more popular in X, because 25% is greater than 20%"
+    ],
+    "answer": 3,
+    "explanation": "Compare proportions when group sizes differ. X: 6/24 = 25%. Y: 8/40 = 20%. Raw counts are misleading when the groups are different sizes.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Statistical diagrams turn raw data into a picture so that patterns are easy to see. In MYP 5 you need to read, draw and interpret several types of diagram, calculate from frequency tables, and spot graphs that mislead.\n\n## Choosing a diagram\n- **Bar chart**: categories or discrete data, with gaps between the bars.\n- **Pie chart**: shows how a whole is shared out. The angle for a category is (frequency ÷ total) × 360°.\n- **Histogram**: continuous grouped data, with no gaps between the bars.\n- **Frequency polygon**: points plotted at the class **midpoints** and joined by straight lines.\n- **Stem-and-leaf diagram**: keeps every value. Always read the key, for example 3 | 4 means 34. Put leaves in order.\n- **Cumulative frequency graph**: points plotted at the **upper class boundary** against the running total, joined with a smooth curve.\n- **Box plot**: shows the minimum, lower quartile, median, upper quartile and maximum.\n\n## Frequency tables\nA frequency table lists each value or class with how often it occurs. The **relative frequency** of a value is its frequency divided by the total frequency. It can be written as a fraction, decimal or percentage and is useful for comparing groups of different sizes.\n\n## Using a cumulative frequency graph\n- The median is read at half of the total frequency.\n- The lower quartile is read at one quarter and the upper quartile at three quarters.\n- The IQR is the upper quartile minus the lower quartile.\n- To find how many values are at most a given number, read up from the horizontal axis and across to the cumulative frequency. To find how many are more than that number, subtract from the total.\n\n## Using a box plot\nEach section of a box plot (whisker to quartile, quartile to median, and so on) contains about 25% of the data. If there are 200 values, about 50 are in each section. Box plots are ideal for comparing two groups: compare the medians for the average and the IQRs for the consistency. A box plot does not show the mean.\n\n## Worked example\nA pie chart shows 80 people. The cycling sector is 54°. The fraction is 54/360 = 0.15, and 0.15 × 80 = 12 people.\n\n## Misleading graphs\nWatch for a vertical axis that does not start at zero, bars of different widths, uneven scales, 3D effects, or raw counts compared across groups of different sizes. When you evaluate a graph, say what is wrong and what effect it has on the reader's impression.\n\n## Common mistakes\n- Plotting cumulative frequency at midpoints instead of upper boundaries.\n- Using the number of rows instead of the total frequency.\n- Comparing counts when percentages are needed.\n- Calling the range the IQR.\n- Reading the median at 50 on the horizontal axis rather than at half of the total frequency on the vertical axis.\n\n## How this is examined\nQuestions give a context, such as a survey of transport to school or the delivery times of a company, and ask you to read values from a diagram, complete a table, calculate an angle or an estimate, and compare two data sets using suitable statistics. Longer tasks ask whether a graph is fair and whether the conclusion is justified by the data. Strong answers quote values from the diagram and make a comparison in context.\n\nExam tip: When asked to compare two box plots, write one sentence about the medians and one about the IQRs, and refer to the context (for example, delivery times) rather than just numbers.",
+  "flashcards": [
+   {
+    "front": "Pie chart angle",
+    "back": "Angle = (frequency ÷ total frequency) × 360°. The angles must add up to 360°."
+   },
+   {
+    "front": "Relative frequency",
+    "back": "Frequency ÷ total frequency. Use it to compare groups of different sizes."
+   },
+   {
+    "front": "Where to plot cumulative frequency points",
+    "back": "At the upper class boundary, against the running total of frequencies."
+   },
+   {
+    "front": "Reading the median from a cumulative frequency graph",
+    "back": "Find half the total frequency on the vertical axis, go across to the curve, then read down to the value."
+   },
+   {
+    "front": "Frequency polygon",
+    "back": "Plot (class midpoint, frequency) for each class and join the points with straight lines."
+   },
+   {
+    "front": "Stem-and-leaf diagram",
+    "back": "Each value is split into a stem and a leaf. Always read the key. Leaves should be in order."
+   },
+   {
+    "front": "Box plot five numbers",
+    "back": "Minimum, lower quartile, median, upper quartile, maximum. Each section holds about 25% of the data."
+   },
+   {
+    "front": "Comparing two box plots",
+    "back": "Compare the medians (average) and the interquartile ranges (consistency), and write in context."
+   },
+   {
+    "front": "Signs of a misleading graph",
+    "back": "Axis not starting at zero, uneven scales, different bar widths, 3D effects, or raw counts used for groups of different sizes."
+   }
+  ]
+ },
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Statistics",
+  "subTopic": "Scatter Graphs and Correlation",
+  "questions": [
+   {
+    "content": "A scatter graph plots the hours students study against their test scores, and the points slope upwards from left to right. What type of correlation is this?",
+    "options": [
+     "Positive",
+     "Negative",
+     "Zero",
+     "Constant"
+    ],
+    "answer": 0,
+    "explanation": "When one variable increases as the other increases, the points slope upwards and the correlation is positive.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A scatter graph shows the age of used cars against their selling price. As age increases, price generally decreases. What type of correlation is this?",
+    "options": [
+     "Positive",
+     "Negative",
+     "No correlation",
+     "Perfect"
+    ],
+    "answer": 1,
+    "explanation": "One variable goes up while the other goes down, so the correlation is negative.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which pair of variables would most likely show no correlation on a scatter graph?",
+    "options": [
+     "Height of a tree and the width of its trunk",
+     "Distance travelled and fuel used by a car",
+     "Students' shoe size and their mathematics test score",
+     "Hours of sunshine and the amount of solar power generated"
+    ],
+    "answer": 2,
+    "explanation": "A shoe size has no sensible link to a maths mark, so the points would be scattered randomly. The other pairs are linked by a real relationship.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which description of a line of best fit is correct?",
+    "options": [
+     "It must join the first and last points",
+     "It must pass through every point",
+     "It must start at the origin",
+     "It follows the trend of the points, with roughly equal numbers of points on each side"
+    ],
+    "answer": 3,
+    "explanation": "A line of best fit is a straight line that represents the trend. It does not need to go through any points and it need not pass through the origin.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "On scatter graph P the points lie very close to a straight line. On scatter graph Q the points are widely spread but still slope upwards. Which statement is correct?",
+    "options": [
+     "P shows stronger correlation than Q",
+     "Q shows stronger correlation than P",
+     "Both show the same strength",
+     "P shows negative correlation"
+    ],
+    "answer": 0,
+    "explanation": "The closer the points are to a straight line, the stronger the correlation. Both slope upwards, so both are positive, but P is stronger.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A line of best fit for the amount of fertiliser x (g) and the plant height y (cm) is y = 2.5x + 10. Use the line to predict the height for 8 g of fertiliser.",
+    "options": [
+     "20 cm",
+     "30 cm",
+     "12.5 cm",
+     "28 cm"
+    ],
+    "answer": 1,
+    "explanation": "Substitute x = 8: y = 2.5 × 8 + 10 = 20 + 10 = 30 cm.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A shop models the number of ice creams sold, y, against hours of sunshine, x, with the line y = 3.2x + 15. What does the gradient 3.2 tell the shop owner?",
+    "options": [
+     "With no sunshine, 3.2 ice creams are sold",
+     "3.2 hours of sunshine are needed to sell any ice cream",
+     "For each extra hour of sunshine, about 3.2 more ice creams are sold",
+     "15 more ice creams are sold per hour"
+    ],
+    "answer": 2,
+    "explanation": "The gradient is the change in y for each 1 unit increase in x. The 15 is the y-intercept, the predicted sales with no sunshine.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A scatter graph is drawn for data where x ranges from 10 to 30. A line of best fit is used to predict y for x = 20 and also for x = 60. Which statement is correct?",
+    "options": [
+     "Both predictions are equally reliable",
+     "The prediction at x = 60 is more reliable, because the value is larger",
+     "Neither can be made from a line of best fit",
+     "The prediction at x = 20 is more reliable, because it is interpolation"
+    ],
+    "answer": 3,
+    "explanation": "Predicting within the range of the data is interpolation and is fairly reliable. Predicting outside the range is extrapolation, which assumes the trend continues and may be inaccurate.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Data for five students: x (hours revising): 2, 4, 6, 8, 10; y (test mark): 7, 11, 12, 18, 22. What is the mean point (x̄, ȳ), which a line of best fit should pass through?",
+    "options": [
+     "(6, 14)",
+     "(5, 14)",
+     "(6, 12)",
+     "(10, 22)"
+    ],
+    "answer": 0,
+    "explanation": "Mean of x: 30 ÷ 5 = 6. Mean of y: 70 ÷ 5 = 14. A line of best fit usually passes through the mean point.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A line of best fit passes through the points (2, 10) and (8, 28). What is its equation?",
+    "options": [
+     "y = 3x + 10",
+     "y = 3x + 4",
+     "y = 4x + 3",
+     "y = 3x − 4"
+    ],
+    "answer": 1,
+    "explanation": "Gradient = (28 − 10) ÷ (8 − 2) = 3. Using (2, 10): 10 = 3 × 2 + c, so c = 4. The equation is y = 3x + 4.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "On a scatter graph of the age and the price of second-hand phones, one phone is much more expensive than the trend predicts because it is a rare limited edition. What is this point called, and what should you do?",
+    "options": [
+     "A mean point; use it to start the line",
+     "An outlier; always make the line go through it",
+     "An outlier; consider it separately and possibly leave it out when drawing the line",
+     "A correlation; it proves the trend is positive"
+    ],
+    "answer": 2,
+    "explanation": "A point that does not fit the pattern is an outlier. Investigate why it is different, and the line of best fit should follow the main trend, not be pulled towards it.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Data shows that on days when ice cream sales are high, the number of sunburn cases is also high. A newspaper says ice cream causes sunburn. What is the best response?",
+    "options": [
+     "The claim is correct, because the correlation is positive",
+     "The claim is correct, because the points are close to a line",
+     "The data should be ignored because it is scatter data",
+     "Hot, sunny weather is a likely common cause of both, so correlation does not prove causation"
+    ],
+    "answer": 3,
+    "explanation": "A correlation shows a link, not that one variable causes the other. Both are probably caused by sunny weather, a third factor.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A model predicts a plant's height as 48 cm. The measured height is 50 cm. What is the percentage error of the prediction, relative to the measured value?",
+    "options": [
+     "4%",
+     "2%",
+     "4.2%",
+     "96%"
+    ],
+    "answer": 0,
+    "explanation": "Error = 50 − 48 = 2 cm. Percentage error = 2 ÷ 50 × 100 = 4%.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The line of best fit for outdoor temperature x (°C) and the heating units used per day y is y = −1.8x + 95. What is the best comment on using the line to predict heating use on a day when the temperature is 60 °C?",
+    "options": [
+     "The prediction is 203, which is reliable",
+     "The prediction would be negative, which is impossible, so the model is not valid there",
+     "The prediction is 0 because heating is off",
+     "The line cannot be used for any temperature"
+    ],
+    "answer": 1,
+    "explanation": "At x = 60, y = −1.8 × 60 + 95 = −13, a negative number of units. The model is only sensible within the range of the data. It would predict zero at about 52.8 °C.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A line of best fit passes through (10, 45) and (40, 18). What does the line predict for x = 25?",
+    "options": [
+     "30",
+     "33.5",
+     "31.5",
+     "27"
+    ],
+    "answer": 2,
+    "explanation": "Gradient = (18 − 45) ÷ (40 − 10) = −0.9. Then 45 = −0.9 × 10 + c gives c = 54, so y = −0.9x + 54. At x = 25: −22.5 + 54 = 31.5. The midpoint of the y-values gives the same result.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Model A predicts a value of 62 and model B predicts 55. The measured value is 58. Which statement is correct?",
+    "options": [
+     "Model A is more accurate, because it predicted a higher value",
+     "Model A is more accurate, with a percentage error of about 4%",
+     "Both are equally accurate, because both are wrong",
+     "Model B is more accurate, with a percentage error of about 5.2%, compared with 6.9% for A"
+    ],
+    "answer": 3,
+    "explanation": "Model A is 4 off: 4 ÷ 58 ≈ 6.9%. Model B is 3 off: 3 ÷ 58 ≈ 5.2%. The smaller percentage error means B is closer to the measured value.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A line of best fit has gradient 2.5 and passes through the mean point (6, 14). What does it predict when x = 12?",
+    "options": [
+     "29",
+     "30",
+     "44",
+     "14"
+    ],
+    "answer": 0,
+    "explanation": "Use y − 14 = 2.5(x − 6), which gives y = 2.5x − 1. When x = 12: 2.5 × 12 − 1 = 29. Adding 2.5 × 12 to 14 without using the mean point's x-value gives the wrong 44.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student notices the pattern (1, 5), (2, 8), (3, 11), (4, 14) and proposes the rule y = 3x + 2. A new reading at x = 7 gives y = 24. Which conclusion is best justified?",
+    "options": [
+     "The rule is proven for all values of x",
+     "The rule predicted 23, so it is close but not exact, and more data is needed before trusting it",
+     "The rule is completely wrong because 24 is not 23",
+     "The new reading must be an error, so the rule is verified"
+    ],
+    "answer": 1,
+    "explanation": "Testing the rule at x = 7 gives 3 × 7 + 2 = 23, not 24. A single test cannot prove a rule, and a small difference suggests the rule may be only approximate. Investigate further.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "A scatter graph plots two numerical variables as pairs of points, so that you can see whether there is a relationship between them. In MYP 5 you describe correlation, draw and use a line of best fit, and judge how far the predictions can be trusted.\n\n## Types of correlation\n- **Positive correlation**: as one variable increases, the other tends to increase. The points slope upwards.\n- **Negative correlation**: as one variable increases, the other tends to decrease. The points slope downwards.\n- **No correlation**: there is no pattern. The points are randomly scattered.\n- **Strength**: the closer the points are to a straight line, the stronger the correlation. You can say strong, moderate or weak.\n\n## Line of best fit\nA line of best fit is a straight line drawn through the data that follows the trend.\n- It does not have to go through any particular point, or through the origin.\n- Roughly equal numbers of points should lie above and below it.\n- It should pass through the **mean point** (x̄, ȳ), where x̄ and ȳ are the means of the two variables.\n- To find its equation, choose two points on the line (not data points that are far away) and calculate the gradient m = (y₂ − y₁) ÷ (x₂ − x₁). Then use y = mx + c.\n\n## Interpreting the line\nIn y = mx + c:\n- the **gradient** m shows how much y changes for each 1 unit increase in x\n- the **intercept** c shows the predicted value of y when x = 0. Check whether that makes sense in context.\n\n## Making predictions\n- **Interpolation** means predicting inside the range of the data. It is usually reasonably reliable.\n- **Extrapolation** means predicting outside the range. It assumes the trend keeps going, so it is much less reliable. For example, a line for heating use may predict negative units at high temperatures, which is impossible.\n- The stronger the correlation, the more reliable the prediction.\n\n## Worked example\nA line of best fit is y = 2.5x + 10, where x is grams of fertiliser and y is plant height in cm. For x = 8, y = 2.5 × 8 + 10 = 30 cm. The gradient 2.5 means each extra gram gives about 2.5 cm more growth.\n\n## Outliers, causation and accuracy\n- An **outlier** is a point that does not fit the pattern. Consider whether it is an error or a real unusual case.\n- Correlation does not prove **causation**. Ice cream sales and sunburn are both caused by hot weather.\n- To check a prediction, find the percentage error = (difference between predicted and actual) ÷ actual × 100.\n\n## Common mistakes\n- Joining the dots instead of drawing one straight line.\n- Forcing the line through the origin.\n- Reading a prediction as certain.\n- Mixing up which variable is on which axis when substituting into the equation.\n\n## How this is examined\nQuestions place scatter graphs in a context such as temperature and energy use. You may describe the correlation, use a line to estimate a value, interpret the gradient, and then evaluate how reliable the estimate is. Investigation tasks ask you to describe the pattern, state a rule, test it on a new reading, and explain whether it holds, including any limits of the model.\n\nExam tip: After any prediction, add a short comment about reliability: say whether it is interpolation or extrapolation and mention the strength of the correlation.",
+  "flashcards": [
+   {
+    "front": "Positive correlation",
+    "back": "As one variable increases, the other increases too. The points slope upwards from left to right."
+   },
+   {
+    "front": "Negative correlation",
+    "back": "As one variable increases, the other decreases. The points slope downwards."
+   },
+   {
+    "front": "Strong vs weak correlation",
+    "back": "The closer the points lie to a straight line, the stronger the correlation."
+   },
+   {
+    "front": "Line of best fit",
+    "back": "A straight line following the trend, with about equal numbers of points on each side. It should pass through the mean point (x̄, ȳ)."
+   },
+   {
+    "front": "Gradient of a line of best fit",
+    "back": "m = (y₂ − y₁) ÷ (x₂ − x₁). It shows how much y changes for a 1 unit increase in x."
+   },
+   {
+    "front": "y-intercept in context",
+    "back": "The predicted y when x = 0. Check if it makes sense in the context."
+   },
+   {
+    "front": "Interpolation vs extrapolation",
+    "back": "Interpolation: prediction inside the data range (more reliable). Extrapolation: outside the range (less reliable)."
+   },
+   {
+    "front": "Correlation and causation",
+    "back": "Correlation shows a link only. It does not prove that one variable causes the other, because a third factor may cause both."
+   },
+   {
+    "front": "Percentage error",
+    "back": "(predicted − actual) ÷ actual × 100, ignoring the sign. Use it to judge the accuracy of a model."
+   }
+  ]
+ }
+]

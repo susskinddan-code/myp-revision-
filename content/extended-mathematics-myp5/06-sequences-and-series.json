@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Sequences and Series",
+  "subTopic": "Arithmetic Sequences and Series",
+  "questions": [
+   {
+    "content": "Find the common difference of the sequence 7, 12, 17, 22, …",
+    "options": [
+     "4",
+     "7",
+     "5",
+     "29"
+    ],
+    "answer": 2,
+    "explanation": "Each term is 5 more than the one before: 12 − 7 = 5. This is the common difference d.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the next term of the sequence 40, 34, 28, 22, …?",
+    "options": [
+     "18",
+     "16",
+     "15",
+     "14"
+    ],
+    "answer": 1,
+    "explanation": "The difference is −6 each time, so the next term is 22 − 6 = 16.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which expression gives the nth term of 4, 7, 10, 13, …?",
+    "options": [
+     "3n + 1",
+     "3n + 4",
+     "4n − 1",
+     "n + 3"
+    ],
+    "answer": 0,
+    "explanation": "The difference is 3, so the rule starts 3n. When n = 1 we need 4, so we add 1. Check: 3(1) + 1 = 4.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The nth term of a sequence is uₙ = 5n − 2. What is the 10th term?",
+    "options": [
+     "52",
+     "50",
+     "3",
+     "48"
+    ],
+    "answer": 3,
+    "explanation": "Substitute n = 10: 5 × 10 − 2 = 48. The value 52 comes from 5 × 10 + 2.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which sequence is arithmetic?",
+    "options": [
+     "2, 4, 8, 16, …",
+     "1, 4, 9, 16, …",
+     "5, 9, 13, 17, …",
+     "1, 1, 2, 3, …"
+    ],
+    "answer": 2,
+    "explanation": "An arithmetic sequence has the same difference each time. 5, 9, 13, 17 goes up by 4 every time. The others are geometric, square numbers and a Fibonacci-type pattern.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "An arithmetic sequence has first term 3 and common difference 4. What is the 20th term?",
+    "options": [
+     "83",
+     "79",
+     "80",
+     "75"
+    ],
+    "answer": 1,
+    "explanation": "uₙ = a + (n − 1)d, so u₂₀ = 3 + 19 × 4 = 79. Using 20 × 4 = 80 or 3 + 20 × 4 = 83 forgets that the first term is already term 1.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The 8th term of an arithmetic sequence is 31 and the common difference is 4. What is the first term?",
+    "options": [
+     "3",
+     "27",
+     "35",
+     "−1"
+    ],
+    "answer": 0,
+    "explanation": "u₈ = a + 7d = a + 28 = 31, so a = 3. Using 8d = 32 would give −1.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Find the sum of the first 10 terms of 2, 5, 8, 11, …",
+    "options": [
+     "145",
+     "310",
+     "150",
+     "155"
+    ],
+    "answer": 3,
+    "explanation": "Here a = 2 and d = 3, so S₁₀ = (10/2)(2 × 2 + 9 × 3) = 5 × 31 = 155. The value 310 forgets to halve.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which term of the sequence 3, 8, 13, 18, … is equal to 98?",
+    "options": [
+     "19th",
+     "21st",
+     "20th",
+     "18th"
+    ],
+    "answer": 2,
+    "explanation": "3 + 5(n − 1) = 98, so 5(n − 1) = 95 and n − 1 = 19, giving n = 20.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Is 150 a term of the sequence 7, 11, 15, 19, …?",
+    "options": [
+     "Yes, it is the 36th term",
+     "No, because the value of n would not be a whole number",
+     "Yes, it is the 37th term",
+     "No, because 150 is an even number"
+    ],
+    "answer": 1,
+    "explanation": "Solving 7 + 4(n − 1) = 150 gives n − 1 = 35.75, which is not a whole number. The 36th term is 147 and the 37th is 151, so 150 is missed.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A theatre has 12 seats in the first row. Each row has 2 more seats than the row in front, and there are 15 rows. How many seats are there altogether?",
+    "options": [
+     "390",
+     "360",
+     "420",
+     "780"
+    ],
+    "answer": 0,
+    "explanation": "a = 12, d = 2, n = 15 gives S₁₅ = (15/2)(24 + 14 × 2) = 7.5 × 52 = 390. Using 780 forgets to halve.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Sam saves £5 in week 1, £8 in week 2 and increases the saving by £3 each week. How much has Sam saved after 12 weeks in total?",
+    "options": [
+     "£516",
+     "£456",
+     "£43",
+     "£258"
+    ],
+    "answer": 3,
+    "explanation": "a = 5, d = 3, n = 12 gives S₁₂ = 6(10 + 11 × 3) = 6 × 43 = 258. The value 516 is double that, because the halving was forgotten.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The expressions x, 2x + 3 and 5x are three consecutive terms of an arithmetic sequence. What is x?",
+    "options": [
+     "1.5",
+     "6",
+     "3",
+     "2"
+    ],
+    "answer": 2,
+    "explanation": "In an arithmetic sequence the middle term is the mean of its neighbours, so 2(2x + 3) = x + 5x. This gives 4x + 6 = 6x and x = 3. The terms are 3, 9, 15.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An arithmetic sequence has third term 14 and eighth term 39. What is the sum of the first 20 terms?",
+    "options": [
+     "515",
+     "1030",
+     "2060",
+     "1040"
+    ],
+    "answer": 1,
+    "explanation": "u₈ − u₃ = 5d = 25, so d = 5 and a = 14 − 10 = 4. Then S₂₀ = 10(8 + 19 × 5) = 1030.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student claims the sum of the first n odd numbers is n². Which working proves it for every n?",
+    "options": [
+     "Use a = 1, d = 2: Sₙ = (n/2)(2 + 2(n − 1)) = (n/2)(2n) = n²",
+     "Check n = 1, 2, 3, 4 and see that the sums are 1, 4, 9, 16",
+     "Use a = 1, d = 2: Sₙ = (n/2)(2 + 2n) = n(n + 1)",
+     "Use a = 1, d = 1: Sₙ = (n/2)(2 + (n − 1)) = n²"
+    ],
+    "answer": 0,
+    "explanation": "A proof uses the general formula with a = 1 and d = 2. Checking a few cases only supports the claim and does not prove it. Using 2n instead of 2(n − 1) gives the wrong rule.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The sum of the first n terms of a sequence is Sₙ = n² + 2n. What is the 10th term?",
+    "options": [
+     "120",
+     "19",
+     "23",
+     "21"
+    ],
+    "answer": 3,
+    "explanation": "u₁₀ = S₁₀ − S₉ = (100 + 20) − (81 + 18) = 120 − 99 = 21. The value 120 is the sum of 10 terms, not the 10th term.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "How many terms of the sequence 50, 46, 42, … must be added for the sum to be exactly 0?",
+    "options": [
+     "25",
+     "13",
+     "26",
+     "27"
+    ],
+    "answer": 2,
+    "explanation": "Sₙ = (n/2)(100 − 4(n − 1)) = 0 gives 100 − 4(n − 1) = 0, so n − 1 = 25 and n = 26. The 26th term is −50, which cancels the positive terms.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A runner jogs 3 km on day 1 and adds 0.5 km each day. On which day does the total distance since day 1 first reach at least 100 km?",
+    "options": [
+     "Day 15",
+     "Day 16",
+     "Day 17",
+     "Day 33"
+    ],
+    "answer": 1,
+    "explanation": "Sₙ = (n/2)(6 + 0.5(n − 1)). S₁₅ = 97.5, which is below 100, and S₁₆ = 108, which is above. So the target is first reached on day 16.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What is an arithmetic sequence?\nAn arithmetic sequence goes up or down by the same amount each time. That amount is the **common difference**, d. For 7, 12, 17, 22, … the common difference is 5. For 40, 34, 28, … it is −6. The first term is a.\n\n## The nth term\nThe formula is uₙ = a + (n − 1)d.\nWe use (n − 1) because the first term already has no differences added. For example, in 3, 8, 13, 18, … we have a = 3 and d = 5. The 20th term is 3 + 19 × 5 = 98. You can also write the rule as 5n − 2 by tidying up the expression. Check: n = 1 gives 3, n = 2 gives 8.\n\n## Finding a and d from two terms\nIf u₃ = 14 and u₈ = 39, subtract: 5d = 25, so d = 5. Then a = 14 − 2 × 5 = 4. This type of question is very common.\n\n## Is a number in the sequence?\nSet the nth-term formula equal to the number and solve for n. If n is a positive whole number, the number is a term. For 7, 11, 15, … and 150: 7 + 4(n − 1) = 150 gives n = 36.75, so 150 is not a term.\n\n## Arithmetic series\nA **series** is the sum of terms. For the first n terms:\n- Sₙ = (n/2)(2a + (n − 1)d)\n- or Sₙ = (n/2)(a + l), where l is the last term.\n\nWorked example: a theatre has 12 seats in row 1, and each row has 2 more than the one before. For 15 rows, a = 12, d = 2, n = 15. S₁₅ = (15/2)(24 + 14 × 2) = 7.5 × 52 = 390 seats.\n\n## Finding a single term from sums\nThe nth term equals the difference of two sums: uₙ = Sₙ − Sₙ₋₁. If Sₙ = n² + 2n then u₁₀ = 120 − 99 = 21.\n\n## Common mistakes\n- Using n instead of (n − 1) in the nth-term formula.\n- Forgetting the ½ (or the n/2) in the sum formula.\n- Mixing up arithmetic (add a difference) and geometric (multiply by a ratio) sequences.\n- Not checking that n is a whole number when finding which term equals a given value.\n\n## How this is examined\nIn an eAssessment-style task you meet arithmetic sequences in contexts such as seating plans, savings plans, training schedules or stacked objects. First you write down the next terms or the common difference. Then you show that a given rule fits or calculate a total. The extended task asks you to investigate a pattern, give a general rule in terms of n, test it on a new case and then justify or prove it. Remember that testing a few cases supports a rule but does not prove it. A proof uses the general formula.\n\nExam tip: Write down a, d and n before using any formula, then substitute carefully and check the answer with a quick test on the first two terms.",
+  "flashcards": [
+   {
+    "front": "Arithmetic sequence",
+    "back": "A sequence where each term is found by adding the same number, the common difference d, to the previous term."
+   },
+   {
+    "front": "nth term of an arithmetic sequence",
+    "back": "uₙ = a + (n − 1)d, where a is the first term and d is the common difference."
+   },
+   {
+    "front": "Sum of first n terms (formula 1)",
+    "back": "Sₙ = (n/2)(2a + (n − 1)d)."
+   },
+   {
+    "front": "Sum of first n terms (formula 2)",
+    "back": "Sₙ = (n/2)(a + l), where l is the last term. Use this when you already know the first and last terms."
+   },
+   {
+    "front": "Finding d from two terms",
+    "back": "If you know uₘ and uₖ, then d = (uₖ − uₘ) ÷ (k − m). For example u₃ = 14 and u₈ = 39 give d = 25 ÷ 5 = 5."
+   },
+   {
+    "front": "Common difference of a decreasing sequence",
+    "back": "It is negative. For 40, 34, 28, … d = −6."
+   },
+   {
+    "front": "Is a number a term of the sequence?",
+    "back": "Set a + (n − 1)d equal to the number and solve for n. It is a term only if n is a positive whole number."
+   },
+   {
+    "front": "uₙ from sums",
+    "back": "uₙ = Sₙ − Sₙ₋₁. The nth term is the sum of n terms minus the sum of the first n − 1 terms."
+   },
+   {
+    "front": "Test cases versus proof",
+    "back": "Checking a few values supports a rule but does not prove it. A proof uses algebra with the general formula for all n."
+   }
+  ]
+ },
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Sequences and Series",
+  "subTopic": "Geometric Sequences and Series",
+  "questions": [
+   {
+    "content": "What is the common ratio of the sequence 3, 6, 12, 24, …?",
+    "options": [
+     "3",
+     "1.5",
+     "9",
+     "2"
+    ],
+    "answer": 3,
+    "explanation": "Each term is double the one before: 6 ÷ 3 = 2. The ratio is found by dividing, not subtracting.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the next term of the geometric sequence 81, 27, 9, 3, …?",
+    "options": [
+     "0",
+     "−3",
+     "1",
+     "6"
+    ],
+    "answer": 2,
+    "explanation": "The ratio is 1/3 because 27 ÷ 81 = 1/3. So the next term is 3 × 1/3 = 1.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these sequences is geometric?",
+    "options": [
+     "2, 4, 6, 8, …",
+     "2, 6, 18, 54, …",
+     "1, 4, 9, 16, …",
+     "5, 10, 15, 20, …"
+    ],
+    "answer": 1,
+    "explanation": "In 2, 6, 18, 54 each term is multiplied by 3. The others are arithmetic or square numbers.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A geometric sequence has first term 2 and common ratio 5. What is the 5th term?",
+    "options": [
+     "1250",
+     "250",
+     "6250",
+     "50"
+    ],
+    "answer": 0,
+    "explanation": "uₙ = a × rⁿ⁻¹, so u₅ = 2 × 5⁴ = 1250. The value 6250 uses 5⁵, forgetting that the first term has no multiplication.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A geometric sequence has first term 4 and common ratio 3. What is the third term?",
+    "options": [
+     "12",
+     "108",
+     "24",
+     "36"
+    ],
+    "answer": 3,
+    "explanation": "u₃ = 4 × 3² = 36. The value 108 uses the power 3 instead of 2.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which formula gives the nth term of the sequence 5, 10, 20, 40, …?",
+    "options": [
+     "5 × 2ⁿ",
+     "(5 × 2)ⁿ⁻¹",
+     "5 × 2ⁿ⁻¹",
+     "5 + 5(n − 1)"
+    ],
+    "answer": 2,
+    "explanation": "a = 5, r = 2, so uₙ = 5 × 2ⁿ⁻¹. Check n = 1: 5 × 2⁰ = 5. The rule 5 × 2ⁿ would give 10 for the first term.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The numbers 2, x, 18 are consecutive terms of a geometric sequence with all terms positive. What is x?",
+    "options": [
+     "10",
+     "6",
+     "9",
+     "36"
+    ],
+    "answer": 1,
+    "explanation": "The ratio is the same on both sides, so x/2 = 18/x, giving x² = 36 and x = 6. The value 10 is the arithmetic mean.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Find the sum of the first 6 terms of 3, 6, 12, 24, …",
+    "options": [
+     "189",
+     "192",
+     "378",
+     "93"
+    ],
+    "answer": 0,
+    "explanation": "Sₙ = a(rⁿ − 1)/(r − 1) = 3(2⁶ − 1)/1 = 3 × 63 = 189. The value 192 is 3 × 2⁶ and misses the −1.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A machine costs £50 000 and loses 10% of its value each year. What is its value after 5 years, to the nearest penny?",
+    "options": [
+     "£25 000.00",
+     "£45 000.00",
+     "£20 475.50",
+     "£29 524.50"
+    ],
+    "answer": 3,
+    "explanation": "Multiply by 0.9 each year: 50 000 × 0.9⁵ = 29 524.50. The value £20 475.50 is the total amount lost, not the remaining value.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A geometric sequence has second term −6 and third term 18. What are the common ratio and the first term?",
+    "options": [
+     "r = 3 and first term −2",
+     "r = −3 and first term −2",
+     "r = −3 and first term 2",
+     "r = 12 and first term −0.5"
+    ],
+    "answer": 2,
+    "explanation": "r = 18 ÷ (−6) = −3. Then the first term is −6 ÷ (−3) = 2. The terms alternate in sign: 2, −6, 18.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A rumour starts with one person who tells 3 people on day 1. Each newly told person tells 3 new people the next day. How many people in total have been told by the end of day 5, not counting the person who started it?",
+    "options": [
+     "243",
+     "363",
+     "364",
+     "729"
+    ],
+    "answer": 1,
+    "explanation": "The numbers told each day are 3, 9, 27, 81, 243, a geometric sequence with a = 3 and r = 3. S₅ = 3(3⁵ − 1)/2 = 363. The value 243 is only the number told on day 5.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the next term of the geometric sequence 100, 80, 64, …?",
+    "options": [
+     "51.2",
+     "48",
+     "52.4",
+     "50"
+    ],
+    "answer": 0,
+    "explanation": "The ratio is 80 ÷ 100 = 0.8, so the next term is 64 × 0.8 = 51.2. Subtracting 16 would treat it as arithmetic.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In the sequence 2, 6, 18, 54, … which is the first term to be greater than 1000?",
+    "options": [
+     "The 6th term",
+     "The 8th term",
+     "The 5th term",
+     "The 7th term"
+    ],
+    "answer": 3,
+    "explanation": "uₙ = 2 × 3ⁿ⁻¹. The 6th term is 486, which is below 1000, and the 7th term is 1458, which is above it.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The sum of the first n terms of 5, 10, 20, 40, … is Sₙ = 5(2ⁿ − 1). What is the smallest n for which Sₙ is greater than 10 000?",
+    "options": [
+     "10",
+     "12",
+     "11",
+     "13"
+    ],
+    "answer": 2,
+    "explanation": "S₁₀ = 5 × 1023 = 5115, which is too small. S₁₁ = 5 × 2047 = 10 235, which is above 10 000. So n = 11.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A job pays £0.01 on day 1 and doubles the payment each day for 20 days. What is the total paid, to the nearest penny?",
+    "options": [
+     "£10 485.76",
+     "£10 485.75",
+     "£5242.88",
+     "£20 971.50"
+    ],
+    "answer": 1,
+    "explanation": "S₂₀ = 0.01(2²⁰ − 1) = 0.01 × 1 048 575 = 10 485.75. The value 10 485.76 forgets the −1 and £5242.88 is only the payment on day 20.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A ball is dropped from a height of 2 m. After each bounce it rises to 60% of its previous height. What height does it reach after the 4th bounce?",
+    "options": [
+     "0.2592 m",
+     "0.1296 m",
+     "0.432 m",
+     "0.72 m"
+    ],
+    "answer": 0,
+    "explanation": "The height after n bounces is 2 × 0.6ⁿ, so after 4 bounces it is 2 × 0.1296 = 0.2592 m. The value 0.1296 forgets to multiply by 2.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A geometric sequence has third term 12 and sixth term 96. What is the sum of its first 8 terms?",
+    "options": [
+     "768",
+     "381",
+     "1530",
+     "765"
+    ],
+    "answer": 3,
+    "explanation": "r³ = 96 ÷ 12 = 8, so r = 2 and a = 12 ÷ 4 = 3. Then S₈ = 3(2⁸ − 1) = 765. The value 768 is 3 × 2⁸, which misses the −1.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Priya invests £200 at the start of each year at 5% compound interest. How much is the total value at the end of year 4, to the nearest penny?",
+    "options": [
+     "£862.03",
+     "£840.00",
+     "£905.13",
+     "£800.00"
+    ],
+    "answer": 2,
+    "explanation": "The deposits earn interest for 4, 3, 2 and 1 years: 200(1.05 + 1.05² + 1.05³ + 1.05⁴) ≈ 905.13. The value 862.03 would be right only if the deposits were made at the end of each year.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What is a geometric sequence?\nIn a geometric sequence you multiply by the same number each time. That number is the **common ratio**, r. For 3, 6, 12, 24 the ratio is 2. For 81, 27, 9, 3 the ratio is 1/3. To find r, divide any term by the one before it. If r is negative the signs alternate, as in 2, −6, 18, −54.\n\n## The nth term\nThe formula is uₙ = a × rⁿ⁻¹.\nThe power is n − 1 because the first term has not been multiplied at all. For 2, 10, 50, … we have a = 2, r = 5, so u₅ = 2 × 5⁴ = 1250. Notice how this links to exponential functions: a geometric sequence is an exponential function with whole-number inputs.\n\n## Finding a and r from two terms\nIf u₃ = 12 and u₆ = 96, divide: u₆ ÷ u₃ = r³ = 8, so r = 2. Then a = 12 ÷ 2² = 3. Division is the key step, not subtraction.\n\n## Geometric series\nThe sum of the first n terms is Sₙ = a(rⁿ − 1)/(r − 1). This is easiest when r > 1. (You can also write it as a(1 − rⁿ)/(1 − r), which is the same thing and is handy when r < 1.)\n\nWorked example: find the sum of the first 6 terms of 3, 6, 12, …\nS₆ = 3(2⁶ − 1)/(2 − 1) = 3 × 63 = 189.\nCheck by adding: 3 + 6 + 12 + 24 + 48 + 96 = 189.\n\n## Growth and decay contexts\nPercentage change problems are geometric.\n- 10% loss per year: r = 0.9. A £50 000 machine is worth 50 000 × 0.9⁵ ≈ £29 524.50 after 5 years.\n- A rumour where each person tells 3 new people: 3, 9, 27, 81, … is geometric with r = 3.\n- A ball that bounces to 60% of its previous height has heights 2 × 0.6ⁿ.\n- Doubling a payment each day starts small but becomes enormous.\n\n## Common mistakes\n- Subtracting terms to find r instead of dividing.\n- Using the power n instead of n − 1 in the nth term.\n- Forgetting the −1 in rⁿ − 1 in the sum formula.\n- Treating a decay problem like arithmetic, for example subtracting the same amount each time.\n\n## How this is examined\nGeometric sequences in an eAssessment-style task appear in contexts such as depreciation, bacteria, bouncing balls, rumours and savings. The first part usually asks you to find a ratio or a later term. A middle part asks you to show that a term or total is correct. The extended task may ask you to compare a geometric model with an arithmetic one, decide which grows faster, and comment on how realistic it is for the pattern to continue.\n\nExam tip: Find r by dividing, write a, r and n down, and say whether your answer makes sense in the context (for example, a ball cannot bounce higher than it started).",
+  "flashcards": [
+   {
+    "front": "Geometric sequence",
+    "back": "A sequence where each term is found by multiplying the previous term by the same number, the common ratio r."
+   },
+   {
+    "front": "Common ratio r",
+    "back": "r = any term ÷ the term before it. For 3, 6, 12, 24 the ratio is 2."
+   },
+   {
+    "front": "nth term of a geometric sequence",
+    "back": "uₙ = a × rⁿ⁻¹, where a is the first term and r is the common ratio."
+   },
+   {
+    "front": "Sum of first n terms of a geometric sequence",
+    "back": "Sₙ = a(rⁿ − 1)/(r − 1), or a(1 − rⁿ)/(1 − r). Both are the same."
+   },
+   {
+    "front": "Finding r from two terms",
+    "back": "If you know uₘ and uₖ, then r^(k−m) = uₖ ÷ uₘ. For example u₃ = 12 and u₆ = 96 give r³ = 8, so r = 2."
+   },
+   {
+    "front": "Multiplier for a percentage change",
+    "back": "Increase of r%: 1 + r/100. Decrease of r%: 1 − r/100. A 10% yearly loss means r = 0.9."
+   },
+   {
+    "front": "Negative common ratio",
+    "back": "The terms alternate between positive and negative, for example 2, −6, 18, −54, …"
+   },
+   {
+    "front": "Geometric or arithmetic?",
+    "back": "Arithmetic adds the same amount each time. Geometric multiplies by the same amount each time. Test by subtracting and by dividing consecutive terms."
+   },
+   {
+    "front": "Common error in uₙ",
+    "back": "Using rⁿ instead of rⁿ⁻¹. The first term a has not been multiplied by r, so the power is n − 1."
+   }
+  ]
+ },
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Sequences and Series",
+  "subTopic": "Quadratic and Other Sequences",
+  "questions": [
+   {
+    "content": "What is the next term of the sequence 1, 4, 9, 16, 25, …?",
+    "options": [
+     "30",
+     "36",
+     "35",
+     "49"
+    ],
+    "answer": 1,
+    "explanation": "These are the square numbers 1², 2², 3², 4², 5², so the next is 6² = 36.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Find the second difference of the sequence 2, 5, 10, 17, 26, …",
+    "options": [
+     "2",
+     "3",
+     "9",
+     "5"
+    ],
+    "answer": 0,
+    "explanation": "The first differences are 3, 5, 7, 9. The differences of those are all 2, so the second difference is 2.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the next term of the triangular numbers 1, 3, 6, 10, 15, …?",
+    "options": [
+     "20",
+     "25",
+     "18",
+     "21"
+    ],
+    "answer": 3,
+    "explanation": "The gaps increase by 1 each time: +2, +3, +4, +5, and the next gap is +6, so the next term is 15 + 6 = 21.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In the sequence 2, 3, 5, 8, 13, … each term is the sum of the two terms before it. What is the next term?",
+    "options": [
+     "18",
+     "20",
+     "21",
+     "26"
+    ],
+    "answer": 2,
+    "explanation": "8 + 13 = 21. Adding 5 to the previous term would not follow the stated rule.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The nth term of a sequence is n² + 1. What is the 5th term?",
+    "options": [
+     "36",
+     "26",
+     "25",
+     "11"
+    ],
+    "answer": 1,
+    "explanation": "Substitute n = 5: 5² + 1 = 26. The value 11 comes from calculating 5 × 2 + 1.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which expression gives the nth term of 3, 8, 15, 24, 35, …?",
+    "options": [
+     "n² + 2n",
+     "n² + n + 1",
+     "2n + 1",
+     "3n²"
+    ],
+    "answer": 0,
+    "explanation": "The first differences are 5, 7, 9, 11 and the second difference is 2, so the rule starts n². For n = 1, n² = 1 but we need 3, so we add 2n. Check n = 2: 4 + 4 = 8.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A sequence has the nth term n² + 3n + 3. What is the 10th term?",
+    "options": [
+     "130",
+     "103",
+     "143",
+     "133"
+    ],
+    "answer": 3,
+    "explanation": "10² + 3 × 10 + 3 = 100 + 30 + 3 = 133. The value 130 leaves out the + 3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A quadratic sequence has a constant second difference of 6. What is the coefficient of n² in its nth term?",
+    "options": [
+     "6",
+     "12",
+     "3",
+     "2"
+    ],
+    "answer": 2,
+    "explanation": "The coefficient of n² is half of the second difference, so 6 ÷ 2 = 3. The value 6 forgets to halve.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the 12th term of the sequence 2, 8, 18, 32, 50, …?",
+    "options": [
+     "24",
+     "288",
+     "144",
+     "576"
+    ],
+    "answer": 1,
+    "explanation": "The terms are 2 × 1², 2 × 2², 2 × 3², …, so the nth term is 2n². Then u₁₂ = 2 × 144 = 288. The value 144 forgets the factor of 2.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which expression gives the nth term of 5, 12, 25, 44, 69, …?",
+    "options": [
+     "3n² − 2n + 4",
+     "3n² + 2n",
+     "6n² − 8n + 7",
+     "3n² − 2n"
+    ],
+    "answer": 0,
+    "explanation": "The first differences are 7, 13, 19, 25 and the second difference is 6, so the rule starts 3n². Subtracting 3n² from each term leaves 2, 0, −2, −4, which is −2n + 4. Check n = 3: 27 − 6 + 4 = 25.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Is 200 a term of the sequence with nth term n² + 4?",
+    "options": [
+     "Yes, it is the 15th term",
+     "No, because 200 is not a square number",
+     "Yes, it is the 196th term",
+     "Yes, it is the 14th term"
+    ],
+    "answer": 3,
+    "explanation": "Solve n² + 4 = 200, so n² = 196 and n = 14. The 15th term is 229, and 196 is the value of n², not the term position.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A Fibonacci-type sequence starts 1, 4, and each term is the sum of the previous two. What is the 7th term?",
+    "options": [
+     "28",
+     "46",
+     "37",
+     "60"
+    ],
+    "answer": 2,
+    "explanation": "The terms are 1, 4, 5, 9, 14, 23, 37. The 7th term is 14 + 23 = 37. The value 60 is the 8th term.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Dots are arranged in triangles, and the nth triangle uses n(n + 1)/2 dots. How many dots are in the 10th triangle?",
+    "options": [
+     "110",
+     "55",
+     "100",
+     "45"
+    ],
+    "answer": 1,
+    "explanation": "10 × 11 ÷ 2 = 55. The value 110 forgets to halve, and 45 is the 9th triangle.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A sequence has first differences 6, 14, 24, 36, … What type of rule describes it?",
+    "options": [
+     "A cubic rule, because the third differences are constant",
+     "A quadratic rule, because the differences increase",
+     "A linear rule, because the differences are even numbers",
+     "A geometric rule, because the differences increase quickly"
+    ],
+    "answer": 0,
+    "explanation": "The second differences are 8, 10, 12, which are not constant, but the third differences are all 2. A cubic rule has constant third differences, and a quadratic has constant second differences.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A quadratic sequence begins 4, 11, 22, … with a constant second difference of 4. What is the 10th term?",
+    "options": [
+     "201",
+     "221",
+     "110",
+     "211"
+    ],
+    "answer": 3,
+    "explanation": "The first differences are 7 and 11, and the second difference is 4, so the rule starts 2n². Subtracting 2n² leaves 2, 3, 4, which is n + 1. So uₙ = 2n² + n + 1 and u₁₀ = 200 + 10 + 1 = 211.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student sees 1 × 3 = 3, 2 × 4 = 8, 3 × 5 = 15, 4 × 6 = 24 and says the nth term is n(n + 2). Which working shows that n(n + 2) = (n + 1)² − 1 for every n?",
+    "options": [
+     "Check n = 1, 2, 3, 4 and see that both expressions give 3, 8, 15, 24",
+     "(n + 1)² − 1 = n² + 1 − 1 = n²",
+     "(n + 1)² − 1 = n² + 2n + 1 − 1 = n² + 2n = n(n + 2)",
+     "(n + 1)² − 1 = n² + 2n − 1 = n(n + 2) − 1"
+    ],
+    "answer": 2,
+    "explanation": "A proof expands the brackets correctly: (n + 1)² = n² + 2n + 1. Checking four cases only supports the rule and the other two lines contain algebra errors.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The nth term of a sequence is n² + 3n + 3. What is the smallest value of n for which the term is greater than 500?",
+    "options": [
+     "20",
+     "21",
+     "22",
+     "167"
+    ],
+    "answer": 1,
+    "explanation": "For n = 20 the term is 400 + 60 + 3 = 463, which is below 500. For n = 21 it is 441 + 63 + 3 = 507, which is above 500.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "At a meeting, every person shakes hands once with every other person. For n people the number of handshakes is n(n − 1)/2. What is the largest group that can meet if the total is not allowed to exceed 500 handshakes?",
+    "options": [
+     "32 people",
+     "31 people",
+     "33 people",
+     "50 people"
+    ],
+    "answer": 0,
+    "explanation": "32 people give 32 × 31 ÷ 2 = 496 handshakes, which is allowed. 33 people give 33 × 32 ÷ 2 = 528, which is too many.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Sequences that are not arithmetic or geometric\nNot every pattern adds or multiplies by the same number. Some sequences have gaps that change in a regular way. Famous examples are:\n- **Square numbers**: 1, 4, 9, 16, 25, … (nth term n²)\n- **Triangular numbers**: 1, 3, 6, 10, 15, … (nth term n(n + 1)/2)\n- **Fibonacci-type sequences**: each term is the sum of the two before it, such as 2, 3, 5, 8, 13, …\n- **Cube numbers**: 1, 8, 27, 64, … (nth term n³)\n\n## Differences: how to spot the type\nFind the first differences (the gaps between terms). If they are all the same, the sequence is linear. If not, find the second differences. If those are constant, the sequence is **quadratic**. If you need third differences to get a constant, the sequence is **cubic**.\n\n## Finding the nth term of a quadratic sequence\nA quadratic sequence has nth term an² + bn + c. Follow these steps for 5, 12, 25, 44, 69:\n- First differences: 7, 13, 19, 25. Second differences: 6, 6, 6.\n- The coefficient a is half the second difference, so a = 3. The rule starts 3n².\n- Subtract 3n² from each term: 5 − 3 = 2, 12 − 12 = 0, 25 − 27 = −2, 44 − 48 = −4.\n- This leftover sequence 2, 0, −2, −4 is linear: −2n + 4.\n- The nth term is 3n² − 2n + 4.\n- Check with n = 5: 75 − 10 + 4 = 69. Correct.\n\n## Using the rule\nOnce you have the rule you can find any term (for n = 10 in n² + 3n + 3 you get 133), check whether a number is a term (solve n² + 4 = 200 to get n = 14) or find when terms first pass a target by trying values of n either side.\n\n## Proving a pattern\nIn an investigation you should spot the pattern, give a rule in n and then test it on a new case. To justify it for every n, use algebra. For example, to show n(n + 2) = (n + 1)² − 1, expand: (n + 1)² − 1 = n² + 2n + 1 − 1 = n² + 2n. Testing a few cases does not prove a rule.\n\n## Common mistakes\n- Using the second difference as the coefficient of n². It must be halved.\n- Forgetting to subtract the n² part before finding the linear part.\n- Assuming that a sequence with increasing gaps is geometric.\n- Stopping after checking only the first two terms.\n\n## How this is examined\nIn an eAssessment-style task you may see patterns of dots, tiles or matchsticks, or a context such as handshakes at a meeting. You describe the pattern, find the next terms, find the rule in terms of n, and test it on a new case. The extended task often asks you to prove the rule or to explain where it stops being sensible, for example when the number of people is limited by the room. Always state what n represents.\n\nExam tip: Write the differences in a clear row, halve the second difference, subtract the n² part, and finish by checking your rule on two terms you were not using to build it.",
+  "flashcards": [
+   {
+    "front": "Square numbers",
+    "back": "1, 4, 9, 16, 25, … The nth term is n²."
+   },
+   {
+    "front": "Triangular numbers",
+    "back": "1, 3, 6, 10, 15, … The nth term is n(n + 1)/2."
+   },
+   {
+    "front": "Fibonacci-type sequence",
+    "back": "Each term is the sum of the two terms before it, for example 2, 3, 5, 8, 13, 21, …"
+   },
+   {
+    "front": "Second difference",
+    "back": "The difference between consecutive first differences. If it is constant, the sequence is quadratic."
+   },
+   {
+    "front": "Coefficient of n² in a quadratic sequence",
+    "back": "Half of the constant second difference. A second difference of 6 means the rule starts 3n²."
+   },
+   {
+    "front": "Steps to find a quadratic nth term",
+    "back": "Find the second difference, halve it, subtract an² from the terms, then find the linear rule for what is left (bn + c)."
+   },
+   {
+    "front": "How do you recognise a cubic sequence?",
+    "back": "The third differences are constant, while the first and second differences are not."
+   },
+   {
+    "front": "Is a number in a quadratic sequence?",
+    "back": "Set the nth-term rule equal to the number and solve for n. It is a term only if n is a positive whole number."
+   },
+   {
+    "front": "Does testing a few cases prove a rule?",
+    "back": "No. It supports the rule. To prove it for every n, use algebra, such as expanding brackets to show two expressions are equal."
+   }
+  ]
+ }
+]

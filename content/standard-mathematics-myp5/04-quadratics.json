@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Quadratics",
+  "subTopic": "Solving Quadratics by Factorising",
+  "questions": [
+   {
+    "content": "Which of these is a quadratic equation?",
+    "options": [
+     "3x + 2 = 0",
+     "x³ − 8 = 0",
+     "2/x = 5",
+     "x² − 5x + 6 = 0"
+    ],
+    "answer": 3,
+    "explanation": "A quadratic has x² as its highest power. 3x + 2 = 0 is linear, x³ − 8 = 0 is cubic and 2/x = 5 has x in a denominator.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Solve (x − 3)(x + 4) = 0.",
+    "options": [
+     "x = 3 or x = −4",
+     "x = 3 or x = 4",
+     "x = −3 or x = −4",
+     "x = −3 or x = 4"
+    ],
+    "answer": 0,
+    "explanation": "If a product is zero, one factor must be zero. x − 3 = 0 gives x = 3 and x + 4 = 0 gives x = −4. The signs in the answers are opposite to the signs in the brackets.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is the factorised form of x² + 7x + 12?",
+    "options": [
+     "(x + 2)(x + 6)",
+     "(x + 1)(x + 12)",
+     "(x + 3)(x + 4)",
+     "(x − 3)(x − 4)"
+    ],
+    "answer": 2,
+    "explanation": "You need two numbers that multiply to 12 and add to 7. These are 3 and 4, so (x + 3)(x + 4). The pair 2 and 6 adds to 8, not 7.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Solve x² − 25 = 0.",
+    "options": [
+     "x = 5 only",
+     "x = 5 or x = −5",
+     "x = 25 only",
+     "x = 12.5"
+    ],
+    "answer": 1,
+    "explanation": "This is a difference of two squares: (x − 5)(x + 5) = 0, so x = 5 or x = −5. Both signs work because (−5)² = 25.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Solve x² − 7x = 0.",
+    "options": [
+     "x = 7 only",
+     "x = 0 or x = −7",
+     "x = 1 or x = 7",
+     "x = 0 or x = 7"
+    ],
+    "answer": 3,
+    "explanation": "Factorise: x(x − 7) = 0, so x = 0 or x = 7. Dividing both sides by x would lose the solution x = 0.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Solve x² − 5x − 14 = 0.",
+    "options": [
+     "x = 7 or x = −2",
+     "x = −7 or x = 2",
+     "x = 5 or x = −14",
+     "x = 14 or x = −1"
+    ],
+    "answer": 0,
+    "explanation": "Two numbers that multiply to −14 and add to −5 are −7 and +2, so (x − 7)(x + 2) = 0 and x = 7 or x = −2. Check: 49 − 35 − 14 = 0.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve x² + 2x − 15 = 0.",
+    "options": [
+     "x = 5 or x = −3",
+     "x = 15 or x = −1",
+     "x = −5 or x = 3",
+     "x = −5 or x = −3"
+    ],
+    "answer": 2,
+    "explanation": "Numbers that multiply to −15 and add to +2 are +5 and −3, so (x + 5)(x − 3) = 0. The solutions are x = −5 or x = 3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student is given x² = 5x + 24. What are the solutions?",
+    "options": [
+     "x = −8 or x = 3",
+     "x = 8 or x = −3",
+     "x = 5 or x = 24",
+     "x = 0 or x = 5"
+    ],
+    "answer": 1,
+    "explanation": "Move every term to one side first: x² − 5x − 24 = 0. This factorises as (x − 8)(x + 3) = 0, so x = 8 or x = −3. You cannot factorise until the right-hand side is 0.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve 2x² + 7x + 3 = 0.",
+    "options": [
+     "x = −2 or x = −3",
+     "x = 1/2 or x = 3",
+     "x = −1 or x = −3/2",
+     "x = −1/2 or x = −3"
+    ],
+    "answer": 3,
+    "explanation": "2x² + 7x + 3 = (2x + 1)(x + 3). Setting each bracket to 0 gives x = −1/2 or x = −3. Expanding back: 2x² + 6x + x + 3 = 2x² + 7x + 3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A rectangular garden is 3 m longer than it is wide. Its area is 40 m². What is the width?",
+    "options": [
+     "5 m",
+     "8 m",
+     "13 m",
+     "3 m"
+    ],
+    "answer": 0,
+    "explanation": "Let the width be w. Then w(w + 3) = 40, so w² + 3w − 40 = 0 and (w + 8)(w − 5) = 0. Width cannot be negative, so w = 5 m (length 8 m, area 40 m²).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A ball is thrown upwards. Its height is h = 20t − 5t² metres after t seconds. When does it return to the ground after being thrown?",
+    "options": [
+     "t = 2 s",
+     "t = 5 s",
+     "t = 4 s",
+     "t = 20 s"
+    ],
+    "answer": 2,
+    "explanation": "Set h = 0: 5t(4 − t) = 0, so t = 0 (the launch) or t = 4. The ball lands after 4 seconds. Choosing t = 2 would be the time of maximum height.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student solves (x − 2)(x − 3) = 6 by writing x − 2 = 6 or x − 3 = 6, giving x = 8 or x = 9. What is wrong?",
+    "options": [
+     "Nothing, the method is correct",
+     "The factors must equal 0, so expand and make the right-hand side 0 first",
+     "The brackets should be added, not multiplied",
+     "The answers should be negative"
+    ],
+    "answer": 1,
+    "explanation": "The zero-product rule only works when the product equals 0. Expanding gives x² − 5x = 0, so x(x − 5) = 0 and x = 0 or x = 5. Check x = 8: (6)(5) = 30, not 6.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve 4x² − 49 = 0.",
+    "options": [
+     "x = 7/4 only",
+     "x = ±49/4",
+     "x = ±7",
+     "x = ±7/2"
+    ],
+    "answer": 3,
+    "explanation": "4x² − 49 = (2x − 7)(2x + 7) is a difference of two squares. So x = 7/2 or x = −7/2. Taking x = ±7 forgets the 4 in front of x².",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve 6x² − x − 2 = 0.",
+    "options": [
+     "x = 2/3 or x = −1/2",
+     "x = −2/3 or x = 1/2",
+     "x = 1/3 or x = −2",
+     "x = 2 or x = −1/6"
+    ],
+    "answer": 0,
+    "explanation": "6x² − x − 2 = (3x − 2)(2x + 1). So x = 2/3 or x = −1/2. Check by expanding: 6x² + 3x − 4x − 2 = 6x² − x − 2.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A right-angled triangle has sides x cm, (x + 7) cm and a hypotenuse of 13 cm. What is x?",
+    "options": [
+     "6",
+     "12",
+     "5",
+     "−12"
+    ],
+    "answer": 2,
+    "explanation": "Pythagoras: x² + (x + 7)² = 169, so 2x² + 14x − 120 = 0 and x² + 7x − 60 = 0, which is (x + 12)(x − 5) = 0. A length cannot be −12, so x = 5. The sides are 5, 12, 13.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "What is true about the equation x² − 6x + 9 = 0?",
+    "options": [
+     "It has two different solutions, 3 and −3",
+     "It has one repeated solution, x = 3",
+     "It has no solutions",
+     "It has solutions x = 9 and x = 0"
+    ],
+    "answer": 1,
+    "explanation": "x² − 6x + 9 = (x − 3)(x − 3) = 0, a perfect square. Both factors give x = 3, so there is one repeated solution. The graph touches the x-axis at x = 3.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The product of two consecutive positive whole numbers is 132. What is the smaller number?",
+    "options": [
+     "10",
+     "12",
+     "13",
+     "11"
+    ],
+    "answer": 3,
+    "explanation": "Let the numbers be n and n + 1. Then n² + n − 132 = 0, which is (n + 12)(n − 11) = 0, so n = 11. Check: 11 × 12 = 132. The value 12 is the larger number.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A quadratic with whole-number coefficients has solutions x = 5 and x = −2/3. Which equation is it?",
+    "options": [
+     "3x² − 13x − 10 = 0",
+     "3x² + 13x − 10 = 0",
+     "x² − 13x − 10 = 0",
+     "3x² − 17x + 10 = 0"
+    ],
+    "answer": 0,
+    "explanation": "x = −2/3 gives the factor (3x + 2) and x = 5 gives (x − 5). Expanding: 3x² − 15x + 2x − 10 = 3x² − 13x − 10. Using (x + 2/3) directly would leave a fraction.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What is a quadratic equation?\nA quadratic equation has x² as its highest power and can be written in the form ax² + bx + c = 0, where a is not zero. Unlike linear equations, a quadratic can have two solutions, one solution, or none. Solutions are also called roots or zeros.\n\n## The zero-product rule\nThis is the key idea of the whole topic. If two numbers multiply to give 0, at least one of them must be 0. So if (x − 3)(x + 4) = 0, then x − 3 = 0 or x + 4 = 0, giving x = 3 or x = −4. This only works when the product is equal to 0. If a product equals 6 or any other number, you cannot split it up in this way.\n\n## Steps for solving by factorising\n- **Step 1:** Move every term to one side so the equation equals 0.\n- **Step 2:** Factorise the expression.\n- **Step 3:** Set each bracket equal to 0 and solve.\n- **Step 4:** Check by substituting back into the original equation.\n\n## Methods of factorising\n- **Common factor:** x² − 7x = x(x − 7), so x = 0 or x = 7. Never divide by x, because you lose the solution x = 0.\n- **Difference of two squares:** x² − 25 = (x − 5)(x + 5), so x = ±5. Also 4x² − 49 = (2x − 7)(2x + 7).\n- **Trinomial when a = 1:** find two numbers that multiply to c and add to b. For x² − 5x − 14 you need −7 and +2, so (x − 7)(x + 2).\n- **Trinomial when a is more than 1:** for 2x² + 7x + 3, find two numbers that multiply to a × c = 6 and add to 7. These are 1 and 6, so split the middle term: 2x² + x + 6x + 3 = x(2x + 1) + 3(2x + 1) = (2x + 1)(x + 3). The solutions are x = −1/2 and x = −3.\n\n## Worked example in context\nA rectangular garden is 3 m longer than it is wide, and its area is 40 m². Let the width be w. Then w(w + 3) = 40, so w² + 3w − 40 = 0. Factorising gives (w + 8)(w − 5) = 0, so w = −8 or w = 5. A width cannot be negative, so the width is 5 m and the length is 8 m. Always decide which solution makes sense in the context.\n\n## Common mistakes\n- Factorising before the equation equals 0 (for example solving (x − 2)(x − 3) = 6 by setting each bracket to 6).\n- Sign slips: (x − 3)(x + 4) = 0 gives x = 3 and x = −4, the opposite sign to the one in the bracket.\n- Dividing by x and losing a solution.\n- Forgetting to reject a negative length or time.\n- Not checking the answer by expanding or substituting.\n\n## How this is examined\nIn the eAssessment, quadratics usually appear inside a context such as a ball thrown upwards, the area of a field, or the dimensions of a screen. You are asked to write down an equation, show that it simplifies to a given quadratic, solve it, and then interpret or justify which solution is valid. Command terms like \"show that\", \"solve\" and \"justify\" decide how much working you need.\n\nExam tip: after you solve a context problem, always write one sentence stating which solution you keep and why, for example \"the width cannot be negative, so w = 5 m\".",
+  "flashcards": [
+   {
+    "front": "Zero-product rule",
+    "back": "If A × B = 0 then A = 0 or B = 0. It only works when the product equals 0, so always rearrange to equal 0 before factorising."
+   },
+   {
+    "front": "Standard form of a quadratic",
+    "back": "ax² + bx + c = 0, where a ≠ 0. The highest power of x is 2."
+   },
+   {
+    "front": "Difference of two squares",
+    "back": "a² − b² = (a − b)(a + b). For example x² − 49 = (x − 7)(x + 7), so x = ±7."
+   },
+   {
+    "front": "Factorising x² + bx + c",
+    "back": "Find two numbers that multiply to c and add to b. For x² + 7x + 12 the numbers are 3 and 4, giving (x + 3)(x + 4)."
+   },
+   {
+    "front": "Why not divide x² = 7x by x?",
+    "back": "Dividing loses the solution x = 0. Instead write x² − 7x = 0, factorise x(x − 7) = 0, and get x = 0 or x = 7."
+   },
+   {
+    "front": "Factorising ax² + bx + c when a > 1",
+    "back": "Find two numbers that multiply to a × c and add to b, split the middle term, then factorise in pairs. Example: 2x² + 7x + 3 = 2x² + x + 6x + 3 = (2x + 1)(x + 3)."
+   },
+   {
+    "front": "Roots, zeros, solutions",
+    "back": "These all mean the values of x that make the quadratic equal 0. On a graph they are the x-intercepts."
+   },
+   {
+    "front": "Solving (x + 5)(x − 2) = 0",
+    "back": "x + 5 = 0 gives x = −5 and x − 2 = 0 gives x = 2. The solutions have the opposite sign to the numbers in the brackets."
+   },
+   {
+    "front": "Checking a context answer",
+    "back": "Reject solutions that do not make sense, such as a negative length or time. State the valid answer with its units."
+   }
+  ]
+ },
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Quadratics",
+  "subTopic": "The Quadratic Formula",
+  "questions": [
+   {
+    "content": "Which is the quadratic formula for ax² + bx + c = 0?",
+    "options": [
+     "x = (b ± √(b² − 4ac)) / 2a",
+     "x = (−b ± √(b² + 4ac)) / 2a",
+     "x = (−b ± √(b² − 4ac)) / a",
+     "x = (−b ± √(b² − 4ac)) / 2a"
+    ],
+    "answer": 3,
+    "explanation": "The formula is x = (−b ± √(b² − 4ac)) / 2a. The whole numerator is divided by 2a, and it starts with −b.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "For the equation x² + 5x + 3 = 0, what are a, b and c?",
+    "options": [
+     "a = 1, b = 5, c = 3",
+     "a = 5, b = 1, c = 3",
+     "a = 1, b = 3, c = 5",
+     "a = 0, b = 5, c = 3"
+    ],
+    "answer": 0,
+    "explanation": "Compare with ax² + bx + c = 0. The coefficient of x² is 1 (not written), the coefficient of x is 5 and the constant is 3.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In the equation 2x² − 3x − 7 = 0, what is the value of b?",
+    "options": [
+     "3",
+     "2",
+     "−3",
+     "−7"
+    ],
+    "answer": 2,
+    "explanation": "b is the coefficient of x including its sign, which is −3. Using +3 gives the wrong value for −b and for b².",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the discriminant b² − 4ac of x² + 4x + 1 = 0?",
+    "options": [
+     "20",
+     "12",
+     "−12",
+     "8"
+    ],
+    "answer": 1,
+    "explanation": "b² − 4ac = 4² − 4(1)(1) = 16 − 4 = 12. Because it is positive, the equation has two real solutions.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "To use the quadratic formula on x² = 3x + 1, you first rearrange it. What is c?",
+    "options": [
+     "1",
+     "3",
+     "−3",
+     "−1"
+    ],
+    "answer": 3,
+    "explanation": "Rearranged: x² − 3x − 1 = 0, so a = 1, b = −3, c = −1. The equation must equal 0 before you read off the coefficients.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Solve x² + 6x + 2 = 0, giving answers to 2 decimal places.",
+    "options": [
+     "x = −0.35 or x = −5.65",
+     "x = 0.35 or x = 5.65",
+     "x = −0.54 or x = −3.46",
+     "x = −2.00 or x = −1.00"
+    ],
+    "answer": 0,
+    "explanation": "Discriminant = 36 − 8 = 28. x = (−6 ± √28) / 2 = (−6 ± 5.2915) / 2, which gives −0.35 and −5.65.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve 2x² − 5x − 3 = 0 using the quadratic formula.",
+    "options": [
+     "x = −3 or x = 1/2",
+     "x = 5/2 or x = 3",
+     "x = 3 or x = −1/2",
+     "x = 3 or x = 1/2"
+    ],
+    "answer": 2,
+    "explanation": "Discriminant = 25 + 24 = 49 and √49 = 7. x = (5 ± 7) / 4, so x = 3 or x = −1/2. Notice that 49 is a perfect square, so the equation could also have been factorised.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How many real solutions does 3x² − 2x + 5 = 0 have?",
+    "options": [
+     "Two",
+     "None",
+     "One",
+     "Three"
+    ],
+    "answer": 1,
+    "explanation": "Discriminant = (−2)² − 4(3)(5) = 4 − 60 = −56. A negative discriminant means no real solutions, because you cannot take the square root of a negative number.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How many real solutions does x² − 8x + 16 = 0 have?",
+    "options": [
+     "Two different solutions",
+     "None",
+     "It cannot be decided",
+     "One repeated solution"
+    ],
+    "answer": 3,
+    "explanation": "Discriminant = 64 − 64 = 0. When the discriminant is zero there is exactly one (repeated) solution, x = 4.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A ball is thrown upwards and its height is h = −5t² + 12t + 2 metres after t seconds. To 2 decimal places, when does it hit the ground (h = 0)?",
+    "options": [
+     "2.56 s",
+     "−0.16 s",
+     "2.40 s",
+     "0.16 s"
+    ],
+    "answer": 0,
+    "explanation": "Solve 5t² − 12t − 2 = 0. Discriminant = 144 + 40 = 184, so t = (12 ± 13.565) / 10 = 2.56 or −0.16. Time cannot be negative, so t = 2.56 s.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student calculates the discriminant of x² − 4x − 5 as −4² − 4(1)(−5) = −16 + 20 = 4. What is the correct value?",
+    "options": [
+     "4",
+     "−36",
+     "36",
+     "16"
+    ],
+    "answer": 2,
+    "explanation": "b = −4, so b² = (−4)² = 16, not −16. The discriminant is 16 − 4(1)(−5) = 16 + 20 = 36. Square the whole of b, including its sign.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A rectangle has width x m and length (x + 3) m. Its area is 20 m². What is the width to 2 decimal places?",
+    "options": [
+     "6.22 m",
+     "3.22 m",
+     "2.50 m",
+     "4.00 m"
+    ],
+    "answer": 1,
+    "explanation": "x(x + 3) = 20 gives x² + 3x − 20 = 0. Discriminant = 9 + 80 = 89, so x = (−3 + 9.434) / 2 = 3.22 m. The negative root is rejected.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "For which value of k does x² + 6x + k = 0 have exactly one solution?",
+    "options": [
+     "k = 6",
+     "k = 3",
+     "k = 36",
+     "k = 9"
+    ],
+    "answer": 3,
+    "explanation": "One solution needs discriminant = 0: 36 − 4k = 0, so k = 9. Then x² + 6x + 9 = (x + 3)² = 0.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "For which values of k does x² + kx + 4 = 0 have no real solutions?",
+    "options": [
+     "−4 < k < 4",
+     "k > 4 or k < −4",
+     "k < 4",
+     "k > −4"
+    ],
+    "answer": 0,
+    "explanation": "No real solutions needs k² − 16 < 0, so k² < 16, which means −4 < k < 4. Values outside this range give two real solutions.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "What are the exact solutions of 3x² + x − 1 = 0?",
+    "options": [
+     "x = (−1 ± √11) / 6",
+     "x = (1 ± √13) / 6",
+     "x = (−1 ± √13) / 6",
+     "x = (−1 ± √13) / 3"
+    ],
+    "answer": 2,
+    "explanation": "Discriminant = 1 − 4(3)(−1) = 13. x = (−1 ± √13) / (2 × 3) = (−1 ± √13) / 6. The denominator is 2a = 6, not 3.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The equation x² − x − 1 = 0 has discriminant 5. Which statement best justifies that its solutions are irrational?",
+    "options": [
+     "The discriminant is positive",
+     "The discriminant is positive and not a perfect square",
+     "The discriminant is odd",
+     "The coefficient of x² is 1"
+    ],
+    "answer": 1,
+    "explanation": "A positive discriminant gives two real solutions, but they are rational only when the discriminant is a perfect square. Since √5 is not a whole number or fraction, the solutions (1 ± √5) / 2 are irrational.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A shop models profit as P = −2x² + 40x − 100 (in thousands of dollars) when the selling price is x dollars. To 2 decimal places, what is the larger price giving a profit of 60 thousand?",
+    "options": [
+     "5.53",
+     "10.00",
+     "15.53",
+     "14.47"
+    ],
+    "answer": 3,
+    "explanation": "Set −2x² + 40x − 100 = 60, so x² − 20x + 80 = 0. Discriminant = 400 − 320 = 80, so x = (20 ± 8.944) / 2 = 14.47 or 5.53. The larger price is 14.47.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The equation x² − 2x + c = 0 is to have two different real solutions. What is the largest whole number c can be?",
+    "options": [
+     "0",
+     "1",
+     "2",
+     "−1"
+    ],
+    "answer": 0,
+    "explanation": "Need b² − 4ac > 0: 4 − 4c > 0, so c < 1. The largest whole number below 1 is 0. If c = 1 the equation has only one solution, x = 1.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## The formula\nNot every quadratic factorises neatly. The quadratic formula solves any equation of the form ax² + bx + c = 0:\n\nx = (−b ± √(b² − 4ac)) / 2a\n\nThe ± sign means you calculate two answers, one using + and one using −. The whole top line is divided by 2a.\n\n## Using it step by step\n- **Step 1:** Rearrange so the equation equals 0.\n- **Step 2:** Write down a, b and c, including their signs.\n- **Step 3:** Substitute into the formula using brackets, especially when b or c is negative.\n- **Step 4:** Work out the discriminant b² − 4ac first.\n- **Step 5:** Finish the calculation and round only at the end.\n\n## Worked example\nSolve 2x² − 3x − 4 = 0, giving answers to 2 decimal places. Here a = 2, b = −3, c = −4. The discriminant is (−3)² − 4(2)(−4) = 9 + 32 = 41. So x = (3 ± √41) / 4. √41 = 6.403, so x = (3 + 6.403) / 4 = 2.35 or x = (3 − 6.403) / 4 = −0.85.\n\n## The discriminant\nThe part under the square root, b² − 4ac, is called the discriminant. It tells you how many real solutions there are without solving the equation.\n- **Positive:** two different real solutions.\n- **Zero:** exactly one repeated solution.\n- **Negative:** no real solutions, because you cannot take the square root of a negative number.\nIf the discriminant is a positive perfect square (like 49), the solutions are rational and the equation could have been factorised. If it is positive but not a perfect square (like 5), the solutions are irrational, so you can leave them as exact surds such as (1 ± √5) / 2.\n\n## Using it in context\nA ball's height is h = −5t² + 12t + 2 metres. To find when it lands, solve −5t² + 12t + 2 = 0. The solutions are t = −0.16 and t = 2.56. Time cannot be negative, so the ball lands after 2.56 seconds. Notice that the answer is rounded to a sensible accuracy and given with units.\n\n## Common mistakes\n- Using b instead of −b at the start, or forgetting that b = −3 makes b² = +9, not −9.\n- Dividing only the square root by 2a instead of the whole numerator.\n- Not rearranging to equal 0 first (for example reading c from x² = 3x + 1 without moving terms).\n- Rounding too early, which gives answers that are slightly off.\n- Using the calculator wrongly: type brackets around the numerator and denominator, or work out the top and bottom separately.\n\n## How this is examined\nThe eAssessment uses the formula in modelling tasks, such as the height of a projectile, the profit of a business or the dimensions of a design. You are often asked to \"show that\" an equation simplifies to a quadratic, solve it to a stated accuracy, then discuss which answer is reasonable. The discriminant may be used to justify whether a target (for example a profit of a given value) can be reached at all.\n\nExam tip: write a, b and c on the page before substituting, and store the discriminant in your calculator memory so you do not make a sign error twice.",
+  "flashcards": [
+   {
+    "front": "Quadratic formula",
+    "back": "For ax² + bx + c = 0: x = (−b ± √(b² − 4ac)) / 2a. The whole numerator is divided by 2a."
+   },
+   {
+    "front": "Discriminant",
+    "back": "b² − 4ac. It is the part under the square root and tells you how many real solutions the quadratic has."
+   },
+   {
+    "front": "Discriminant positive",
+    "back": "Two different real solutions. If it is also a perfect square, the solutions are rational and the quadratic factorises."
+   },
+   {
+    "front": "Discriminant zero",
+    "back": "One repeated real solution. The graph touches the x-axis once."
+   },
+   {
+    "front": "Discriminant negative",
+    "back": "No real solutions. The graph does not cross or touch the x-axis."
+   },
+   {
+    "front": "First step before using the formula",
+    "back": "Rearrange the equation so it equals 0, then read off a, b and c with their signs. For x² = 3x + 1, use x² − 3x − 1 = 0."
+   },
+   {
+    "front": "Handling negative b",
+    "back": "Use brackets: if b = −3 then b² = (−3)² = 9 and −b = 3. Mistakes with signs are the most common error."
+   },
+   {
+    "front": "Exact versus decimal answers",
+    "back": "Leave answers as surds, such as (1 ± √5) / 2, when asked for exact values. Round only at the end when asked for decimal places."
+   },
+   {
+    "front": "Context answers",
+    "back": "Check each solution in context. Reject a negative time or length and give the remaining answer with units and the stated accuracy."
+   }
+  ]
+ },
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Quadratics",
+  "subTopic": "Quadratic Graphs and Roots",
+  "questions": [
+   {
+    "content": "Where does the graph of y = x² − 4x + 3 cross the y-axis?",
+    "options": [
+     "(0, 3)",
+     "(0, −4)",
+     "(3, 0)",
+     "(0, 1)"
+    ],
+    "answer": 0,
+    "explanation": "On the y-axis x = 0, so y = 0 − 0 + 3 = 3. The constant term of a quadratic is always its y-intercept.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What are the x-intercepts (roots) of y = (x − 2)(x + 5)?",
+    "options": [
+     "x = 2 and x = 5",
+     "x = −2 and x = −5",
+     "x = 2 and x = −5",
+     "x = −2 and x = 5"
+    ],
+    "answer": 2,
+    "explanation": "The graph crosses the x-axis where y = 0, so x − 2 = 0 or x + 5 = 0. That gives x = 2 and x = −5.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which graph has a maximum turning point?",
+    "options": [
+     "y = x² + 3",
+     "y = −x² + 3",
+     "y = x² − 3",
+     "y = 3x² "
+    ],
+    "answer": 1,
+    "explanation": "When the coefficient of x² is negative the parabola is ∩-shaped and has a maximum. When it is positive the parabola is U-shaped and has a minimum.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A parabola crosses the x-axis at x = 1 and x = 5. What is its axis of symmetry?",
+    "options": [
+     "x = 1",
+     "x = 5",
+     "x = 6",
+     "x = 3"
+    ],
+    "answer": 3,
+    "explanation": "The axis of symmetry is halfway between the roots: (1 + 5) / 2 = 3. The turning point lies on this line.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What are the coordinates of the vertex of y = (x − 2)² + 3?",
+    "options": [
+     "(2, 3)",
+     "(−2, 3)",
+     "(2, −3)",
+     "(−2, −3)"
+    ],
+    "answer": 0,
+    "explanation": "In y = (x − p)² + q the vertex is (p, q). Here p = 2 and q = 3. The sign inside the bracket is opposite to the x-coordinate.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What are the coordinates of the turning point of y = x² − 6x + 5?",
+    "options": [
+     "(−3, −4)",
+     "(3, 4)",
+     "(3, −4)",
+     "(6, 5)"
+    ],
+    "answer": 2,
+    "explanation": "The x-coordinate is halfway between the roots 1 and 5, so x = 3. Then y = 9 − 18 + 5 = −4. The vertex is (3, −4).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The graph of y = x² − 2x − 8 has roots x = 4 and x = −2. What is its minimum value?",
+    "options": [
+     "−8",
+     "−9",
+     "−2",
+     "1"
+    ],
+    "answer": 1,
+    "explanation": "The axis of symmetry is x = (4 + (−2)) / 2 = 1. Then y = 1 − 2 − 8 = −9. The y-intercept −8 is not the minimum.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Write x² + 8x + 3 in the form (x + p)² + q.",
+    "options": [
+     "(x + 4)² + 3",
+     "(x + 8)² − 61",
+     "(x + 4)² − 5",
+     "(x + 4)² − 13"
+    ],
+    "answer": 3,
+    "explanation": "Half of 8 is 4, so (x + 4)² = x² + 8x + 16. To get back to +3 subtract 13. So x² + 8x + 3 = (x + 4)² − 13 and the vertex is (−4, −13).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How many times does the graph of y = x² + 2x + 5 cross the x-axis?",
+    "options": [
+     "Never",
+     "Twice",
+     "Once",
+     "Three times"
+    ],
+    "answer": 0,
+    "explanation": "The discriminant is 2² − 4(1)(5) = −16, which is negative. So there are no x-intercepts. The vertex is (−1, 4) above the axis and the graph is U-shaped.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An arch is modelled by h = −0.5(x − 4)² + 8, where h is the height in metres and x is the horizontal distance in metres. How wide is the arch at ground level (h = 0)?",
+    "options": [
+     "4 m",
+     "16 m",
+     "8 m",
+     "12 m"
+    ],
+    "answer": 2,
+    "explanation": "Set h = 0: (x − 4)² = 16, so x − 4 = ±4 and x = 0 or x = 8. The width is 8 − 0 = 8 m. The greatest height of 8 m is at x = 4.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A ball's height is h = 20t − 5t² metres. What is its maximum height?",
+    "options": [
+     "10 m",
+     "20 m",
+     "40 m",
+     "15 m"
+    ],
+    "answer": 1,
+    "explanation": "The roots are t = 0 and t = 4, so the maximum is at t = 2. Then h = 40 − 20 = 20 m. The value 40 is 20t alone, before subtracting 5t².",
+    "difficulty": "medium"
+   },
+   {
+    "content": "You have drawn the graph of y = x² − 3x − 4. Which line should you draw to solve x² − 3x − 4 = 6?",
+    "options": [
+     "y = 0",
+     "x = 6",
+     "y = 10",
+     "y = 6"
+    ],
+    "answer": 3,
+    "explanation": "Solutions of x² − 3x − 4 = 6 are where the curve meets the horizontal line y = 6. The line y = 0 would solve x² − 3x − 4 = 0.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the minimum value of y = 2x² − 8x + 6?",
+    "options": [
+     "−2",
+     "6",
+     "2",
+     "−8"
+    ],
+    "answer": 0,
+    "explanation": "The roots are x = 1 and x = 3, so the axis of symmetry is x = 2. Then y = 8 − 16 + 6 = −2. The value 6 is the y-intercept.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A parabola has roots at x = −1 and x = 5 and passes through (0, −10). What is its equation?",
+    "options": [
+     "y = x² − 4x − 5",
+     "y = −2x² + 8x + 10",
+     "y = 2x² − 8x − 10",
+     "y = 2x² + 8x − 10"
+    ],
+    "answer": 2,
+    "explanation": "Write y = a(x + 1)(x − 5). At x = 0, y = a(1)(−5) = −10, so a = 2. Expanding gives y = 2x² − 8x − 10. The equation y = x² − 4x − 5 has the right roots but passes through (0, −5).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The graph of y = x² + bx + c has its vertex at (3, −2). What is c?",
+    "options": [
+     "−2",
+     "7",
+     "9",
+     "−11"
+    ],
+    "answer": 1,
+    "explanation": "The graph is y = (x − 3)² − 2 = x² − 6x + 9 − 2 = x² − 6x + 7. So b = −6 and c = 7.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The curve y = x² − 4x + 5 has its minimum at (2, 1). Which statement is correct?",
+    "options": [
+     "The line y = 1 crosses the curve twice",
+     "The line y = 0 touches the curve once",
+     "The line y = 0 crosses the curve twice",
+     "The line y = 1 touches the curve once"
+    ],
+    "answer": 3,
+    "explanation": "The lowest point of the curve is y = 1, so the line y = 1 just touches it at (2, 1). The line y = 0 is below the minimum and never meets the curve.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A company models revenue as R = −2p² + 60p thousand dollars at price p dollars. For what prices does the model give non-negative revenue, and what is the issue with using it beyond this?",
+    "options": [
+     "0 ≤ p ≤ 30; beyond 30 revenue would be negative, which is not realistic",
+     "0 ≤ p ≤ 15; beyond 15 the revenue falls",
+     "p ≥ 0 only; revenue is always positive",
+     "0 ≤ p ≤ 60; beyond 60 the model is exact"
+    ],
+    "answer": 0,
+    "explanation": "R = −2p(p − 30) is zero at p = 0 and p = 30, and is positive between them. Outside this range R is negative, so the model has limited validity. The maximum is at p = 15, not the end of the range.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The graph of y = −x² + 4x + k has a maximum value of 10. What is k?",
+    "options": [
+     "10",
+     "4",
+     "6",
+     "14"
+    ],
+    "answer": 2,
+    "explanation": "The maximum is at x = 2 (halfway between the roots, or −b/2a). Then y = −4 + 8 + k = 4 + k = 10, so k = 6.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## The shape of a quadratic graph\nThe graph of y = ax² + bx + c is a smooth curve called a parabola. It is symmetrical about a vertical line, the axis of symmetry, and has one turning point called the vertex.\n- If a > 0 the parabola is U-shaped and the vertex is a minimum.\n- If a < 0 the parabola is ∩-shaped and the vertex is a maximum.\nA larger value of a makes the curve narrower.\n\n## Key features to find\n- **y-intercept:** put x = 0. It is the constant c. For y = x² − 4x + 3 the graph crosses the y-axis at (0, 3).\n- **x-intercepts (roots):** put y = 0 and solve, by factorising or using the quadratic formula. There may be two, one or none. If the discriminant is negative, the graph never reaches the x-axis.\n- **Axis of symmetry:** halfway between the roots, or x = −b / 2a.\n- **Vertex:** find x on the axis of symmetry, then substitute to find y.\n\n## Factorised form and vertex form\nIf y = a(x − p)(x − q), the roots are x = p and x = q. If y = a(x − h)² + k, the vertex is (h, k). The sign inside the bracket is opposite to the coordinate, so y = (x − 2)² + 3 has vertex (2, 3).\n\nTo change x² + 8x + 3 into vertex form, complete the square: half of 8 is 4, so (x + 4)² = x² + 8x + 16, then subtract 13 to get back to +3. So y = (x + 4)² − 13 and the vertex is (−4, −13).\n\n## Worked example\nSketch y = x² − 2x − 8. Roots: (x − 4)(x + 2) = 0, so x = 4 and x = −2. The y-intercept is −8. The axis of symmetry is x = (4 − 2) / 2 = 1. At x = 1, y = 1 − 2 − 8 = −9, so the vertex is (1, −9), the minimum point. Label these on your sketch.\n\n## Solving with graphs\nThe roots of f(x) = 0 are where the curve meets the x-axis. To solve x² − 3x − 4 = 6, draw the line y = 6 on the same axes and read off the x-values where it meets the curve. A line that only just touches the curve means one repeated solution, and a line that misses the curve means no solutions.\n\n## Common mistakes\n- Reading the wrong sign for the vertex from (x − p)² + q.\n- Giving the y-intercept as the minimum value.\n- Drawing the parabola as pointed or with straight sections instead of a smooth curve.\n- Forgetting that the minimum or maximum is the y-value of the vertex, not the x-value.\n- Using a model beyond the range where it makes sense, such as negative revenue or height.\n\n## How this is examined\nIn the eAssessment, quadratic graphs appear in modelling: the path of a ball, the arch of a bridge, the profit of a business. You may be asked to find the maximum height, to work out when the object lands, or to state the range of values where the model is valid. Expect to be asked to evaluate the model, for example by noting that it ignores air resistance or gives negative values for large inputs.\n\nExam tip: when asked for a maximum or minimum, give the y-value of the vertex with units and say whether it is a maximum or a minimum.",
+  "flashcards": [
+   {
+    "front": "Parabola",
+    "back": "The smooth, symmetrical curve that is the graph of a quadratic. It has a vertex and an axis of symmetry."
+   },
+   {
+    "front": "Effect of the sign of a",
+    "back": "a > 0: U-shaped, vertex is a minimum. a < 0: ∩-shaped, vertex is a maximum."
+   },
+   {
+    "front": "y-intercept of y = ax² + bx + c",
+    "back": "Put x = 0. The y-intercept is the constant c, at the point (0, c)."
+   },
+   {
+    "front": "x-intercepts (roots)",
+    "back": "Put y = 0 and solve by factorising or the formula. There can be two, one or none, depending on the discriminant."
+   },
+   {
+    "front": "Axis of symmetry",
+    "back": "The vertical line halfway between the two roots, x = −b / 2a. The vertex lies on it."
+   },
+   {
+    "front": "Finding the vertex",
+    "back": "Find x from the axis of symmetry, then substitute that x into the equation to get y. The vertex is (x, y)."
+   },
+   {
+    "front": "Vertex form",
+    "back": "y = a(x − h)² + k has vertex (h, k). For y = (x − 2)² + 3 the vertex is (2, 3). The sign in the bracket is opposite."
+   },
+   {
+    "front": "Factorised form",
+    "back": "y = a(x − p)(x − q) has roots x = p and x = q. Use a point on the curve to find a."
+   },
+   {
+    "front": "Solving x² − 3x − 4 = 6 on a graph",
+    "back": "Draw the horizontal line y = 6 on the graph of y = x² − 3x − 4 and read the x-values where they meet."
+   }
+  ]
+ }
+]

@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "chemistry",
+  "grade": 5,
+  "topic": "States of Matter and Separation",
+  "subTopic": "Particle Model and Changes of State",
+  "questions": [
+   {
+    "content": "Which description matches the particles in a gas?",
+    "options": [
+     "Far apart, moving quickly and randomly",
+     "Close together in fixed positions, vibrating",
+     "Close together but able to slide past each other",
+     "Far apart and held in a regular pattern"
+    ],
+    "answer": 0,
+    "explanation": "In a gas the forces between particles are very weak, so particles spread out and move freely.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the name of the change of state from solid directly to gas?",
+    "options": [
+     "Condensation",
+     "Sublimation",
+     "Melting",
+     "Freezing"
+    ],
+    "answer": 1,
+    "explanation": "Iodine and solid carbon dioxide (dry ice) sublime. Condensation is gas to liquid.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the name of the change of state from liquid to solid?",
+    "options": [
+     "Melting",
+     "Boiling",
+     "Freezing",
+     "Condensing"
+    ],
+    "answer": 2,
+    "explanation": "Freezing happens when a liquid is cooled to its freezing point. It has the same temperature as the melting point of that pure substance.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does the state symbol (aq) mean?",
+    "options": [
+     "A solid",
+     "A gas",
+     "A liquid",
+     "Dissolved in water"
+    ],
+    "answer": 3,
+    "explanation": "State symbols are (s) solid, (l) liquid, (g) gas and (aq) aqueous, meaning a solution in water.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In which state are particles held in fixed positions, only vibrating?",
+    "options": [
+     "Solid",
+     "Liquid",
+     "Gas",
+     "All three states"
+    ],
+    "answer": 0,
+    "explanation": "Strong forces keep particles in a regular pattern in a solid, but they still vibrate about their positions.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why can a gas be compressed but a liquid cannot easily?",
+    "options": [
+     "Gas particles are smaller than liquid particles",
+     "Gas particles have large spaces between them, but liquid particles are already close together",
+     "Liquid particles do not move",
+     "Gas particles attract each other strongly"
+    ],
+    "answer": 1,
+    "explanation": "Most of a gas is empty space, so particles can be pushed closer. In liquids the particles are touching.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "During melting, a heated solid stays at a constant temperature. Why?",
+    "options": [
+     "The substance stops absorbing energy",
+     "The particles stop moving",
+     "The energy supplied is used to overcome the forces between particles, not to increase their speed",
+     "The heater is switched off"
+    ],
+    "answer": 2,
+    "explanation": "Temperature relates to the average kinetic energy of the particles. During a change of state, the energy goes into breaking attractions between particles.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Ethanol melts at −114 °C and boils at 78 °C. What is its state at 25 °C?",
+    "options": [
+     "Solid",
+     "Gas",
+     "A mixture of solid and gas",
+     "Liquid"
+    ],
+    "answer": 3,
+    "explanation": "25 °C is above the melting point and below the boiling point, so it is a liquid.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the main difference between evaporation and boiling?",
+    "options": [
+     "Evaporation happens at the surface at any temperature, while boiling occurs throughout the liquid at the boiling point",
+     "Evaporation needs a higher temperature than boiling",
+     "Boiling happens only at the surface",
+     "Evaporation produces a different substance"
+    ],
+    "answer": 0,
+    "explanation": "Both are liquid to gas. In boiling, bubbles of vapour form inside the liquid.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Bromine melts at −7 °C and boils at 59 °C. What is its state at 70 °C?",
+    "options": [
+     "Liquid",
+     "Gas",
+     "Solid",
+     "Solid and liquid"
+    ],
+    "answer": 1,
+    "explanation": "70 °C is above the boiling point of 59 °C, so bromine is a gas.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why does a liquid have a fixed volume but no fixed shape?",
+    "options": [
+     "Its particles are far apart",
+     "Its particles are fixed in a pattern",
+     "Its particles are close together but can slide past each other",
+     "Its particles do not move"
+    ],
+    "answer": 2,
+    "explanation": "Strong enough forces keep the particles together, which fixes the volume, but they are not rigid, so the liquid takes the shape of its container.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What happens to the particles when a substance is heated from 20 °C to 60 °C without changing state?",
+    "options": [
+     "They get larger",
+     "They get heavier",
+     "They stop vibrating",
+     "They move faster on average"
+    ],
+    "answer": 3,
+    "explanation": "Heating increases the average kinetic energy, so particles move or vibrate faster. They do not change size or mass.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which change of state transfers energy to the surroundings?",
+    "options": [
+     "Condensation",
+     "Melting",
+     "Boiling",
+     "Sublimation of a solid"
+    ],
+    "answer": 0,
+    "explanation": "Particles lose energy when a gas becomes a liquid, so the energy is released. Melting, boiling and sublimation need energy.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A solid is heated and the temperature is recorded. Minute 0: −8 °C. Minute 2: 0 °C. Minute 4: 0 °C. Minute 6: 0 °C. Minute 8: 14 °C. Minute 10: 34 °C. Minute 12: 54 °C. What is the melting point, and what is the average rate of temperature rise as the liquid warms from minute 8 to 12?",
+    "options": [
+     "0 °C and 4 °C per minute",
+     "0 °C and 10 °C per minute",
+     "14 °C and 10 °C per minute",
+     "54 °C and 40 °C per minute"
+    ],
+    "answer": 1,
+    "explanation": "The constant temperature of 0 °C shows melting. From 14 °C to 54 °C is 40 °C in 4 minutes, which is 10 °C per minute.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student says, 'When water is heated, the water particles expand.' Which comment is best?",
+    "options": [
+     "Correct: particles get bigger when heated",
+     "Incorrect: the particles stay at fixed distances",
+     "Incorrect: the particles move faster and spread further apart, but they do not get bigger",
+     "Correct: particles stop moving in a gas"
+    ],
+    "answer": 2,
+    "explanation": "The substance expands because the average spacing between particles increases. The particles themselves do not change size.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The particle model shows particles as hard identical spheres. What is one limitation of this model?",
+    "options": [
+     "It cannot show that gases are compressible",
+     "It cannot show that solids are rigid",
+     "It shows that particles never move",
+     "Real particles are not hard spheres and the diagram cannot show the forces between them"
+    ],
+    "answer": 3,
+    "explanation": "Models simplify. Atoms and molecules have different shapes and sizes and the forces between them are not shown by plain spheres.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Ethanol vapour is cooled steadily from 100 °C to −130 °C. Ethanol boils at 78 °C and melts at −114 °C. At which temperatures would the cooling curve be flat?",
+    "options": [
+     "78 °C and −114 °C",
+     "100 °C and −130 °C",
+     "78 °C only",
+     "−114 °C only"
+    ],
+    "answer": 0,
+    "explanation": "The temperature stays constant while the vapour condenses at 78 °C and while the liquid freezes at −114 °C, because energy is released as the particles settle into their new state.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student measures the melting point of a solid by heating a beaker of water and reading a thermometer when the solid first appears to melt. Which change would most improve the accuracy?",
+    "options": [
+     "Heat as fast as possible",
+     "Heat slowly near the melting point, stir the water, and repeat to calculate a mean",
+     "Use a larger beaker",
+     "Record the temperature only at the start"
+    ],
+    "answer": 1,
+    "explanation": "Slow heating and stirring let the thermometer, bath and sample reach the same temperature. Repeating the measurement checks reliability.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Everything around you is made of particles, and the **particle model** explains why solids, liquids and gases behave differently and what happens when they change state.\n\n## The three states\n- **Solid**: particles are packed closely in a regular pattern and held by strong forces. They only vibrate about fixed positions. Solids have a fixed shape and a fixed volume and cannot be compressed.\n- **Liquid**: particles are close together but arranged randomly, and they can slide past each other. A liquid has a fixed volume but takes the shape of its container. It cannot be compressed easily.\n- **Gas**: particles are far apart and move quickly in random directions. The forces between them are very weak. A gas has no fixed shape or volume and can be compressed.\n\n## Changes of state\n- **Melting**: solid → liquid. **Freezing**: liquid → solid.\n- **Boiling** and **evaporation**: liquid → gas. Boiling happens throughout the liquid at the boiling point. Evaporation happens only at the surface and at any temperature.\n- **Condensation**: gas → liquid.\n- **Sublimation**: solid → gas without becoming liquid (iodine, dry ice).\nMelting, boiling and sublimation need energy to be **supplied**, because forces between particles must be overcome. Freezing and condensation **release** energy.\nThese are physical changes. The substance stays the same, and only the arrangement and movement of particles changes. The mass does not change.\n\n## Heating and cooling curves\nOn a heating curve, temperature is plotted against time. The sloping parts show the temperature rising as the average kinetic energy of particles increases. The flat parts show a change of state: the energy goes into overcoming forces between particles, not into raising the temperature. A pure substance has a sharp melting point and a sharp boiling point, so the flat sections occur at fixed temperatures.\n\n## State symbols and reading data\n(s) solid, (l) liquid, (g) gas, (aq) in solution in water. To find the state at a given temperature, compare it with the melting and boiling points: below the melting point is solid, between them is liquid, above the boiling point is gas.\n\n## Worked example\nA solid is heated: −8 °C at minute 0, then 0 °C at minutes 2, 4 and 6, then 14 °C at minute 8 and 54 °C at minute 12. The flat section at 0 °C is melting, so the melting point is 0 °C. The rate in the liquid from minute 8 to 12 is (54 − 14) ÷ 4 = 10 °C per minute.\n\n## Common mistakes\n- Saying that particles expand when heated. Particles speed up and spread out, but they do not change size.\n- Saying that temperature stops rising during melting 'because heating stops'. Energy is still supplied.\n- Confusing melting point with boiling point, or evaporation with boiling.\n- Mixing up the arrangement of particles in liquids and solids.\n\n## How this is examined\nTypically you are given data such as a table of melting and boiling points or a heating curve for an unfamiliar substance. You must state the state at a given temperature, read off melting and boiling points, calculate rates from graphs, and explain flat sections using particle ideas. Extended tasks ask you to evaluate the particle model, point out limitations such as showing particles as hard spheres, and improve an experiment to measure a melting point accurately.\n\nExam tip: When asked to explain a change of state, say what happens to the forces between particles and to their energy and movement. Avoid saying 'the particles melt'.",
+  "flashcards": [
+   {
+    "front": "Describe particles in a solid",
+    "back": "Closely packed in a regular pattern, strong forces, vibrating about fixed positions. Fixed shape and volume."
+   },
+   {
+    "front": "Describe particles in a liquid",
+    "back": "Close together, random arrangement, able to slide past each other. Fixed volume, takes the shape of its container."
+   },
+   {
+    "front": "Describe particles in a gas",
+    "back": "Far apart, moving quickly and randomly, very weak forces. Can be compressed and fills its container."
+   },
+   {
+    "front": "What is sublimation?",
+    "back": "A change of state from solid directly to gas, with no liquid stage, e.g. iodine and dry ice."
+   },
+   {
+    "front": "Evaporation vs boiling",
+    "back": "Evaporation: surface only, at any temperature. Boiling: bubbles form throughout the liquid, at the boiling point."
+   },
+   {
+    "front": "Why is a heating curve flat during a change of state?",
+    "back": "The energy supplied is used to overcome forces between particles, not to raise the average kinetic energy."
+   },
+   {
+    "front": "Which changes of state release energy?",
+    "back": "Freezing and condensation. Melting, boiling and sublimation need energy to be supplied."
+   },
+   {
+    "front": "State symbols",
+    "back": "(s) solid, (l) liquid, (g) gas, (aq) aqueous, which is dissolved in water."
+   },
+   {
+    "front": "How to find the state at a temperature",
+    "back": "Compare it with the melting and boiling points: below melting point = solid; between = liquid; above boiling point = gas."
+   }
+  ]
+ },
+ {
+  "subject": "chemistry",
+  "grade": 5,
+  "topic": "States of Matter and Separation",
+  "subTopic": "Gas Behaviour and Diffusion",
+  "questions": [
+   {
+    "content": "What causes the pressure of a gas in a container?",
+    "options": [
+     "Particles sticking to each other",
+     "Particles colliding with the walls of the container",
+     "The weight of the container",
+     "The attraction between particles and the walls"
+    ],
+    "answer": 1,
+    "explanation": "Billions of particle collisions with the walls each second add up to a steady force on each unit of area.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is diffusion?",
+    "options": [
+     "The movement of particles only in liquids",
+     "The chemical reaction of two gases",
+     "The net movement of particles from a region of higher concentration to lower concentration",
+     "The movement of particles from low to high concentration"
+    ],
+    "answer": 2,
+    "explanation": "Particles move randomly, and more move from the crowded region than into it, so the substance spreads out.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is 0 °C in kelvin?",
+    "options": [
+     "0 K",
+     "−273 K",
+     "100 K",
+     "273 K"
+    ],
+    "answer": 3,
+    "explanation": "Kelvin = °C + 273, so 0 °C is 273 K. The lowest possible temperature, 0 K, is −273 °C.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which gas diffuses faster at the same temperature, one with a low or a high relative molecular mass?",
+    "options": [
+     "The one with a low relative molecular mass",
+     "The one with a high relative molecular mass",
+     "They diffuse at the same rate",
+     "It depends only on colour"
+    ],
+    "answer": 0,
+    "explanation": "Lighter particles move faster at the same temperature, so they spread more quickly.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A sealed rigid container of gas is heated. What happens to the pressure?",
+    "options": [
+     "It decreases",
+     "It increases",
+     "It stays the same",
+     "It becomes zero"
+    ],
+    "answer": 1,
+    "explanation": "The particles move faster, so they hit the walls more often and with more force.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why does the pressure of a gas increase when its temperature rises at constant volume?",
+    "options": [
+     "The particles get bigger",
+     "More particles are made",
+     "The particles move faster and collide with the walls more often and with greater force",
+     "The particles attract each other more"
+    ],
+    "answer": 2,
+    "explanation": "The number of particles and the volume are unchanged. Higher average kinetic energy increases the frequency and force of collisions.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A gas has a volume of 6.0 dm³ at a pressure of 100 kPa. At constant temperature it is compressed to 2.0 dm³. What is the new pressure?",
+    "options": [
+     "33 kPa",
+     "200 kPa",
+     "600 kPa",
+     "300 kPa"
+    ],
+    "answer": 3,
+    "explanation": "At constant temperature, pressure × volume stays constant: 100 × 6.0 = 600 = P × 2.0, so P = 300 kPa.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Ammonia gas (relative formula mass 17) and hydrogen chloride gas (relative formula mass 36.5) are released at opposite ends of a long glass tube. A white ring of ammonium chloride forms. Where is it found?",
+    "options": [
+     "Closer to the hydrogen chloride end",
+     "In the middle of the tube",
+     "Closer to the ammonia end",
+     "At the ammonia end"
+    ],
+    "answer": 0,
+    "explanation": "Ammonia particles are lighter and diffuse faster, so they travel further before meeting the slower hydrogen chloride particles.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why does diffusion happen much faster in gases than in liquids?",
+    "options": [
+     "Gas particles are heavier",
+     "Gas particles are further apart and move faster, with fewer collisions",
+     "Gas particles are held in fixed positions",
+     "Liquid particles do not move"
+    ],
+    "answer": 1,
+    "explanation": "In a gas there is more free space and the particles move at higher speeds than liquid particles.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A gas is at 300 K. What is this temperature in °C?",
+    "options": [
+     "573 °C",
+     "−27 °C",
+     "27 °C",
+     "300 °C"
+    ],
+    "answer": 2,
+    "explanation": "°C = K − 273 = 300 − 273 = 27 °C.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The number of gas particles in a fixed container is doubled at the same temperature. What happens to the pressure?",
+    "options": [
+     "It halves",
+     "It stays the same",
+     "It becomes four times larger",
+     "It roughly doubles"
+    ],
+    "answer": 3,
+    "explanation": "Twice as many particles produce twice as many collisions per second with the walls.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A gas is in a syringe with the end blocked. The plunger is pulled out, increasing the volume at constant temperature. What happens to the pressure, and why?",
+    "options": [
+     "It decreases because the particles hit the walls less often",
+     "It increases because particles move faster",
+     "It stays the same because particles are the same",
+     "It increases because there are fewer particles"
+    ],
+    "answer": 0,
+    "explanation": "The same particles spread through a larger volume, so each unit of wall area gets fewer collisions each second.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Relative formula masses: hydrogen 2, methane 16, nitrogen 28, carbon dioxide 44. Which order lists the gases from fastest to slowest diffusion?",
+    "options": [
+     "Carbon dioxide, nitrogen, methane, hydrogen",
+     "Hydrogen, methane, nitrogen, carbon dioxide",
+     "Methane, hydrogen, carbon dioxide, nitrogen",
+     "Nitrogen, carbon dioxide, hydrogen, methane"
+    ],
+    "answer": 1,
+    "explanation": "At the same temperature the lightest particles diffuse fastest.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a 100 cm tube, ammonia and hydrogen chloride start at opposite ends. The white ring forms 59 cm from the ammonia end. What is the ratio of the distance travelled by ammonia to the distance travelled by hydrogen chloride?",
+    "options": [
+     "About 0.7",
+     "About 1.6",
+     "About 1.4",
+     "About 0.6"
+    ],
+    "answer": 2,
+    "explanation": "Hydrogen chloride travelled 100 − 59 = 41 cm. The ratio is 59 ÷ 41 = 1.44. A ratio above 1 is consistent with ammonia being the lighter, faster gas.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A syringe contains 40 cm³ of air at 100 kPa. The plunger is pushed in until the volume is 25 cm³ at constant temperature. A pressure sensor reads 150 kPa. What is the percentage difference between the prediction and the measurement, relative to the predicted value?",
+    "options": [
+     "10%",
+     "16%",
+     "60%",
+     "6%"
+    ],
+    "answer": 3,
+    "explanation": "Predicted P = 100 × 40 ÷ 25 = 160 kPa. Difference = 10 kPa, and 10 ÷ 160 × 100 = 6.25%, or about 6%. Possible causes are leaks and small temperature changes.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student says, 'A sealed can of gas bursts when heated because the gas particles expand.' Which reply is best?",
+    "options": [
+     "The particles do not expand; they move faster and hit the walls harder and more often, raising the pressure",
+     "Correct, because particles get bigger as they get hotter",
+     "Incorrect, because more particles are created",
+     "Incorrect, because the pressure falls on heating"
+    ],
+    "answer": 0,
+    "explanation": "Pressure rises due to more frequent and more forceful collisions. The size and number of particles are unchanged.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Smoke particles in a glass cell are viewed through a microscope. They are seen to jiggle in random directions. What is the best conclusion?",
+    "options": [
+     "Smoke particles are alive",
+     "Air particles are in constant random motion and collide with the smoke particles",
+     "Smoke particles attract each other",
+     "The air is still"
+    ],
+    "answer": 1,
+    "explanation": "The unevenly timed collisions of fast, invisible air molecules push the visible smoke particles around. This is Brownian motion and is evidence for the particle model.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student investigates how temperature affects the rate of diffusion of a purple crystal in water at 10 °C, 30 °C and 50 °C. Which is a control variable?",
+    "options": [
+     "The temperature of the water",
+     "The time for the colour to spread 5 cm",
+     "The volume of water and the size of the crystal",
+     "The colour of the crystal"
+    ],
+    "answer": 2,
+    "explanation": "Control variables are kept the same so that only temperature changes. The temperature is the independent variable and the time is the measured result.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Gases behave in predictable ways because of how their particles move. Understanding this explains pressure, why gases spread out and why different gases move at different speeds.\n\n## Gas pressure\nGas particles move quickly in random directions and constantly collide with the walls of their container. Each collision exerts a tiny force. The total effect of billions of collisions is **gas pressure**.\n- **Heating a gas** (constant volume): particles speed up, hit the walls more often and with more force, so the pressure rises.\n- **Compressing a gas** (smaller volume, same temperature): particles hit the walls more often because there is less space, so the pressure rises.\n- **Adding more particles** to the same space and temperature: more collisions, so higher pressure.\nParticles do **not** get bigger when heated. Only their speed and spacing change.\n\n## Pressure and volume\nAt constant temperature, for a fixed amount of gas, pressure × volume is constant: P₁V₁ = P₂V₂. If 6.0 dm³ at 100 kPa is compressed to 2.0 dm³, then 100 × 6.0 = P₂ × 2.0, so P₂ = 300 kPa. The volume was divided by 3 and the pressure was multiplied by 3.\n\n## The kelvin scale\nThe kelvin scale starts at absolute zero, where particles have almost no kinetic energy. K = °C + 273. So 0 °C = 273 K, 27 °C = 300 K and 100 °C = 373 K. Kinetic energy of particles is proportional to the temperature in kelvin.\n\n## Diffusion\n**Diffusion** is the net movement of particles from a region of higher concentration to a region of lower concentration, caused by their random motion. It happens in gases and liquids but not in solids. It is faster in gases than in liquids because gas particles are further apart and move faster. Diffusion is faster at higher temperatures. At the same temperature, particles with a lower relative formula mass diffuse faster.\n\n## Ammonia and hydrogen chloride\nCotton wool soaked in ammonia solution and another in hydrochloric acid are placed at opposite ends of a long tube. The gases diffuse towards each other and form white ammonium chloride where they meet. The ring forms closer to the hydrochloric acid end because hydrogen chloride (relative formula mass 36.5) is heavier than ammonia (17), so it travels more slowly.\n\n## Brownian motion\nSmoke particles viewed under a microscope jiggle randomly because they are hit by faster, invisible air molecules. This supports the idea that gas particles are always moving.\n\n## Common mistakes\n- Saying that gas particles expand, or that pressure rises 'because particles get hotter and bigger'.\n- Forgetting to convert to kelvin when a question needs it.\n- Saying that heavier gases diffuse faster.\n- Saying diffusion needs a force or a pump. It is a result of random motion.\n\n## How this is examined\nTypical contexts include a syringe or tyre pressure investigation, a diffusion experiment in a long tube or the spread of a smell. You will predict how a change affects pressure, calculate a new pressure or volume, compare a prediction with measured data, and consider causes of error such as leaks or temperature change. Extended questions ask you to identify variables, plan a fair test and evaluate the particle model as an explanation.\n\nExam tip: Link every explanation to collisions: say 'more frequent and more forceful collisions with the walls'. Show your working for each gas law calculation.",
+  "flashcards": [
+   {
+    "front": "What causes gas pressure?",
+    "back": "Collisions of gas particles with the walls of the container."
+   },
+   {
+    "front": "Why does heating a gas raise its pressure (constant volume)?",
+    "back": "Particles move faster, so they hit the walls more often and with more force."
+   },
+   {
+    "front": "Gas pressure and volume (constant temperature)",
+    "back": "P₁V₁ = P₂V₂. Halving the volume doubles the pressure."
+   },
+   {
+    "front": "Convert °C to kelvin",
+    "back": "K = °C + 273. For example, 27 °C = 300 K and 0 °C = 273 K."
+   },
+   {
+    "front": "What is diffusion?",
+    "back": "The net movement of particles from a region of higher concentration to lower concentration due to random motion."
+   },
+   {
+    "front": "Which gases diffuse faster?",
+    "back": "Gases with lower relative formula mass, and gases at higher temperature. Diffusion is faster in gases than in liquids."
+   },
+   {
+    "front": "Ammonia and hydrogen chloride in a tube",
+    "back": "White ammonium chloride ring forms nearer the HCl end, since heavier HCl diffuses more slowly than NH₃."
+   },
+   {
+    "front": "What is Brownian motion?",
+    "back": "Random jiggling of visible particles (such as smoke) caused by collisions with fast, invisible gas particles."
+   },
+   {
+    "front": "Does diffusion happen in solids?",
+    "back": "No. Particles in solids vibrate in fixed positions. Diffusion happens in gases and liquids."
+   }
+  ]
+ },
+ {
+  "subject": "chemistry",
+  "grade": 5,
+  "topic": "States of Matter and Separation",
+  "subTopic": "Separation Techniques and Purity",
+  "questions": [
+   {
+    "content": "Which method separates an insoluble solid from a liquid?",
+    "options": [
+     "Distillation",
+     "Chromatography",
+     "Filtration",
+     "Evaporation"
+    ],
+    "answer": 2,
+    "explanation": "The liquid passes through the filter paper while the insoluble solid is trapped as the residue.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which method is used to obtain pure water from salty water?",
+    "options": [
+     "Filtration",
+     "Using a magnet",
+     "Fractional distillation of crude oil",
+     "Simple distillation"
+    ],
+    "answer": 3,
+    "explanation": "The water is boiled off, then condensed and collected, while the salt stays behind.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why is the start line in chromatography drawn in pencil?",
+    "options": [
+     "Pencil does not dissolve in the solvent",
+     "Ink is too expensive",
+     "Pencil is a better solvent",
+     "Pencil moves with the solvent front"
+    ],
+    "answer": 0,
+    "explanation": "Ink would run up the paper and interfere with the results, while pencil graphite is insoluble.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "How does a pure substance melt?",
+    "options": [
+     "Over a wide range of temperatures",
+     "At one fixed temperature",
+     "At any temperature",
+     "Only above its boiling point"
+    ],
+    "answer": 1,
+    "explanation": "Pure substances have sharp melting points. Impure ones melt over a range at a lower temperature.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a mixture?",
+    "options": [
+     "Two elements chemically combined",
+     "A substance made of one type of atom",
+     "Two or more substances that are not chemically joined",
+     "A substance with a fixed formula"
+    ],
+    "answer": 2,
+    "explanation": "The substances in a mixture keep their own properties and can be separated by physical methods.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In a chromatography experiment, a spot moves 3.6 cm and the solvent front moves 9.0 cm. What is the Rf value?",
+    "options": [
+     "2.5",
+     "0.60",
+     "3.6",
+     "0.40"
+    ],
+    "answer": 3,
+    "explanation": "Rf = distance moved by spot ÷ distance moved by solvent = 3.6 ÷ 9.0 = 0.40. It has no units.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A mixture contains sand and salt. Which sequence separates both, giving dry salt?",
+    "options": [
+     "Add water, filter, then evaporate the filtrate",
+     "Evaporate, then filter",
+     "Filter, then add water",
+     "Add water, then distil the sand"
+    ],
+    "answer": 0,
+    "explanation": "Salt dissolves and sand does not, so filtering removes sand. Evaporating the filtrate leaves the salt.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A mixture of ethanol (boiling point 78 °C) and water (boiling point 100 °C) is heated in a fractional distillation apparatus. Which is collected first?",
+    "options": [
+     "Water",
+     "Ethanol",
+     "An equal mixture",
+     "Neither"
+    ],
+    "answer": 1,
+    "explanation": "The liquid with the lower boiling point evaporates first and reaches the top of the column and the condenser.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A black ink spot produces four coloured spots on a chromatogram. What does this show?",
+    "options": [
+     "The ink contains one substance",
+     "The ink is a pure compound",
+     "The ink contains at least four different dyes",
+     "The ink contains exactly two dyes"
+    ],
+    "answer": 2,
+    "explanation": "Different substances move at different rates, so each separate spot is a different dye.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which apparatus is used to separate two immiscible liquids such as oil and water?",
+    "options": [
+     "A filter funnel",
+     "A Bunsen burner",
+     "A condenser",
+     "A separating funnel"
+    ],
+    "answer": 3,
+    "explanation": "Immiscible liquids form two layers, so the denser one can be run off from the bottom.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A dye has an Rf value of 0.30 in a solvent that moves 8.0 cm. How far did the dye travel?",
+    "options": [
+     "2.4 cm",
+     "0.38 cm",
+     "26.7 cm",
+     "7.7 cm"
+    ],
+    "answer": 0,
+    "explanation": "Distance = Rf × solvent distance = 0.30 × 8.0 = 2.4 cm.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why must the start line be above the solvent level at the start of chromatography?",
+    "options": [
+     "So the paper stays dry",
+     "Otherwise the dyes would dissolve into the solvent in the beaker",
+     "To make the solvent move faster",
+     "So the spots stay small"
+    ],
+    "answer": 1,
+    "explanation": "If the spots were under the solvent, the dyes would wash into it and nothing would travel up the paper.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "To obtain large crystals of a soluble solid from its solution, what should you do?",
+    "options": [
+     "Boil it to dryness",
+     "Filter the solution",
+     "Heat to make a saturated solution, then cool it slowly",
+     "Freeze it quickly"
+    ],
+    "answer": 2,
+    "explanation": "Slow cooling lets the solid come out of solution gradually and form larger crystals. Boiling to dryness gives only a powder.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Using the same solvent, sample S gives spots with Rf values of 0.25 and 0.62. Known dyes give P: 0.25, Q: 0.45 and R: 0.62. Which conclusion is best?",
+    "options": [
+     "S contains dyes P, Q and R",
+     "S contains only dye Q",
+     "S contains only dye P",
+     "S contains dyes P and R but not Q"
+    ],
+    "answer": 3,
+    "explanation": "Spots match known dyes only if they have the same Rf under the same conditions. There is no spot at 0.45, so Q is not present.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A sample melts between 118 °C and 122 °C. The pure compound melts sharply at 125 °C. What is the best conclusion?",
+    "options": [
+     "The sample is impure",
+     "The sample is pure",
+     "The sample has been misidentified as a different pure compound",
+     "The thermometer must be wrong"
+    ],
+    "answer": 0,
+    "explanation": "Impurities lower the melting point and make it melt over a range. A sharp, correct value means purity.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "During fractional distillation of a mixture of ethanol (78 °C), propanol (97 °C) and water (100 °C), the thermometer stays at 78 °C and then rises to 97 °C. What does this show?",
+    "options": [
+     "All the liquids evaporated at once",
+     "Ethanol has distilled off and propanol is now starting to distil",
+     "Water began boiling at 97 °C",
+     "The thermometer is faulty"
+    ],
+    "answer": 1,
+    "explanation": "A steady temperature shows one pure substance distilling. The rise means the first fraction has gone and the next is starting.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A food scientist wants to detect an illegal dye in a sweet. Which improvement makes the chromatography test most reliable?",
+    "options": [
+     "Use a different solvent for each spot",
+     "Use ink for the baseline",
+     "Run the illegal dye alongside the sample on the same paper with the same solvent",
+     "Use only one drop of solvent"
+    ],
+    "answer": 2,
+    "explanation": "Running the reference dye in the same conditions allows a direct comparison of Rf values and heights.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A 2.40 g sample of a medicine contains 0.12 g of impurities. What is its percentage purity?",
+    "options": [
+     "5.0%",
+     "5.3%",
+     "98.0%",
+     "95.0%"
+    ],
+    "answer": 3,
+    "explanation": "Pure mass = 2.40 − 0.12 = 2.28 g, and 2.28 ÷ 2.40 × 100 = 95.0%. The 5.0% value is the impurity percentage.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Most substances we meet are mixtures. A **mixture** has two or more substances that are not chemically combined, so each keeps its own properties and they can be separated by **physical methods**. Choosing the right method depends on the properties that differ between the substances.\n\n## Choosing a separation method\n- **Filtration**: separates an insoluble solid from a liquid. The solid stays on the filter paper as the **residue** and the liquid passing through is the **filtrate**.\n- **Evaporation**: removes the solvent from a solution to leave the solid solute. Crystallisation is a gentler version: heat to make a saturated solution, then cool slowly to form crystals that you filter and dry.\n- **Simple distillation**: separates a solvent from a solution, for example water from salty water. The solution is boiled, the vapour passes through a condenser and is collected as a liquid.\n- **Fractional distillation**: separates liquids with different boiling points, such as ethanol and water. The liquid with the lowest boiling point reaches the top of the fractionating column first.\n- **Separating funnel**: separates immiscible liquids (such as oil and water) because they form two layers.\n- **Magnet**: separates magnetic materials such as iron from non-magnetic ones.\n- **Chromatography**: separates substances that dissolve in the same solvent by how far they travel up paper.\n\n## Chromatography in detail\nDraw a start line in pencil, put a small spot of each sample on it, and stand the paper in a little solvent with the solvent level below the line. As the solvent rises it carries the dyes at different rates. Stop before it reaches the top and mark the solvent front. Each spot is a different substance. Compare the spots of the sample with known substances run on the same paper. The **Rf value** is: Rf = distance moved by spot ÷ distance moved by solvent. It has no units and is always between 0 and 1. The same substance has the same Rf in the same solvent.\n\n## Purity\nIn chemistry a **pure substance** contains only one element or compound. A pure substance has a sharp, fixed melting point and boiling point. Impurities lower the melting point and make it melt over a range, and they raise the boiling point. Purity is vital in foods and medicines. Percentage purity = mass of pure substance ÷ total mass × 100.\n\n## Worked example\nA spot travels 3.6 cm while the solvent front travels 9.0 cm. Rf = 3.6 ÷ 9.0 = 0.40. A medicine sample of 2.40 g has 0.12 g of impurities. Pure mass = 2.28 g, so purity = 2.28 ÷ 2.40 × 100 = 95.0%.\n\n## Common mistakes\n- Using ink for the start line, or starting with the spots under the solvent.\n- Saying that the spot with a higher Rf is 'heavier'. It is just more soluble in the solvent or less attracted to the paper.\n- Confusing filtrate with residue, or distillation with filtration.\n- Calling a mixture 'pure' just because it looks clear, such as seawater.\n\n## How this is examined\nQuestions usually place you in a lab or food-testing setting. You decide which method suits the mixture, label the apparatus, calculate Rf values, match samples to known compounds and calculate percentage purity. Extended tasks ask you to plan an investigation, state controlled variables, suggest improvements that make results more reliable, and justify conclusions from melting point or chromatography data.\n\nExam tip: When asked to separate a mixture, name the property that is different (solubility, boiling point, magnetism) and then the method. Give the order of steps.",
+  "flashcards": [
+   {
+    "front": "What is a mixture?",
+    "back": "Two or more substances not chemically combined. They keep their own properties and can be separated physically."
+   },
+   {
+    "front": "Filtration",
+    "back": "Separates an insoluble solid (residue) from a liquid (filtrate)."
+   },
+   {
+    "front": "Crystallisation",
+    "back": "Heat a solution until saturated, cool slowly, then filter off and dry the crystals."
+   },
+   {
+    "front": "Simple distillation",
+    "back": "Boil a solution, condense the vapour and collect the solvent, such as pure water from salty water."
+   },
+   {
+    "front": "Fractional distillation",
+    "back": "Separates liquids with different boiling points. The lowest boiling point liquid is collected first."
+   },
+   {
+    "front": "Rf value formula",
+    "back": "Rf = distance moved by spot ÷ distance moved by solvent front. No units, between 0 and 1."
+   },
+   {
+    "front": "Chromatography set-up rules",
+    "back": "Pencil start line above the solvent level. Compare unknowns with known samples on the same paper in the same solvent."
+   },
+   {
+    "front": "What is a pure substance?",
+    "back": "Only one element or compound. It has a sharp, fixed melting point and boiling point."
+   },
+   {
+    "front": "Effect of impurities on melting point",
+    "back": "Impurities lower the melting point and cause melting over a range of temperatures."
+   }
+  ]
+ }
+]

@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "chemistry",
+  "grade": 5,
+  "topic": "Acids, Bases and Salts",
+  "subTopic": "pH Scale and Indicators",
+  "questions": [
+   {
+    "content": "On the pH scale, which value represents a neutral solution such as pure water?",
+    "options": [
+     "0",
+     "7",
+     "10",
+     "14"
+    ],
+    "answer": 1,
+    "explanation": "Pure water is neutral and has a pH of 7. Values below 7 are acidic and values above 7 are alkaline.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A student dips a piece of red litmus paper into a clear solution and it turns blue. What does this show?",
+    "options": [
+     "The solution is alkaline",
+     "The solution is acidic",
+     "The solution is neutral",
+     "The solution contains a metal"
+    ],
+    "answer": 0,
+    "explanation": "Litmus is red in acids and blue in alkalis. A solution that turns litmus paper blue is therefore alkaline.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which ion is present in all acidic solutions?",
+    "options": [
+     "OH⁻(aq)",
+     "Na⁺(aq)",
+     "Cl⁻(aq)",
+     "H⁺(aq)"
+    ],
+    "answer": 3,
+    "explanation": "Acids release hydrogen ions, H⁺, when dissolved in water. Hydroxide ions, OH⁻, are the ions that make a solution alkaline.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Universal indicator is added to a solution of pH 13. What colour will it show?",
+    "options": [
+     "Red",
+     "Green",
+     "Purple",
+     "Yellow"
+    ],
+    "answer": 2,
+    "explanation": "Strong alkalis (pH 12 to 14) turn universal indicator purple. Red is for strong acids, yellow for weak acids and green for neutral.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is an alkali?",
+    "options": [
+     "Copper(II) oxide",
+     "Sodium hydroxide solution",
+     "Hydrochloric acid",
+     "Sodium chloride solution"
+    ],
+    "answer": 1,
+    "explanation": "An alkali is a base that dissolves in water, and sodium hydroxide does this to form OH⁻ ions. Copper(II) oxide is a base but it is insoluble, so it is not an alkali.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A technician compares two solutions. Solution A has a pH of 3 and solution B has a pH of 6. Which statement is correct?",
+    "options": [
+     "A has a hydrogen ion concentration 1000 times greater than B",
+     "B has a hydrogen ion concentration 1000 times greater than A",
+     "A has a hydrogen ion concentration 3 times greater than B",
+     "A and B have the same hydrogen ion concentration but different colours"
+    ],
+    "answer": 0,
+    "explanation": "Each pH unit is a tenfold change in H⁺ concentration. A difference of 3 units means 10 × 10 × 10 = 1000 times, and the lower pH is the more acidic one.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A colourless solution turns phenolphthalein indicator colourless. Which conclusion is justified?",
+    "options": [
+     "The solution is alkaline",
+     "The solution is definitely a strong acid",
+     "The solution is definitely neutral",
+     "The solution is acidic or neutral"
+    ],
+    "answer": 3,
+    "explanation": "Phenolphthalein is colourless in acids and neutral solutions and pink only in alkalis. It cannot tell an acid from a neutral solution.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Three colourless solutions are tested. With methyl orange (red in acid, yellow in alkali): X is red, Y is yellow, Z is yellow. With phenolphthalein (colourless in acid, pink in alkali): X is colourless, Y is colourless, Z is pink. Which solution is most likely neutral?",
+    "options": [
+     "X",
+     "Z",
+     "Y",
+     "It cannot be worked out from these results"
+    ],
+    "answer": 2,
+    "explanation": "Y is not acidic (methyl orange is yellow) and not alkaline (phenolphthalein is colourless), so it is neutral or very close to it. X is acidic and Z is alkaline.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A pupil measures the pH of a stream at five sites. Why would a pH meter give better data than universal indicator paper?",
+    "options": [
+     "It works without any water being present",
+     "It gives a precise numerical reading without relying on judging a colour by eye",
+     "It measures the concentration of the acid in mol/dm³ directly",
+     "It changes the pH of the water to make it easier to read"
+    ],
+    "answer": 1,
+    "explanation": "A digital pH meter shows a value such as 6.8, so results are more precise and less subjective. Indicator paper depends on comparing colours by eye.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "25 cm³ of an acid of pH 2 is diluted by adding water until the total volume is 250 cm³. What is the approximate pH of the diluted acid?",
+    "options": [
+     "3",
+     "1",
+     "2.1",
+     "12"
+    ],
+    "answer": 0,
+    "explanation": "The volume increases ten times, so the H⁺ concentration falls ten times. A tenfold decrease in H⁺ raises the pH by one unit, from 2 to 3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A farmer finds that her soil has a pH of 5.0, but her crop grows best at about pH 6.5 to 7.0. Which substance should she add to the soil?",
+    "options": [
+     "Dilute hydrochloric acid",
+     "Vinegar",
+     "Lemon juice",
+     "Calcium hydroxide (lime)"
+    ],
+    "answer": 3,
+    "explanation": "The soil is too acidic, so she needs a base to neutralise some of the acid and raise the pH. Lime is a cheap base. The other three are acids that would lower the pH further.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement about acids, bases and alkalis is correct?",
+    "options": [
+     "All bases are alkalis, but not all alkalis are bases",
+     "Alkalis and bases are the same thing",
+     "All alkalis are bases, but not all bases are alkalis",
+     "Bases are acids that have been diluted"
+    ],
+    "answer": 2,
+    "explanation": "A base neutralises acids. Only the bases that dissolve in water are called alkalis, so alkalis are a subset of bases.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A cleaning product label gives these pH values: toilet cleaner 1, vinegar 3, milk 6.5, bleach 12. A student says, 'The toilet cleaner has 100 times more hydrogen ions than the vinegar.' Is the student right?",
+    "options": [
+     "No: a difference of 2 pH units means 2 times more H⁺",
+     "Yes: it is 2 pH units lower, which is 10 × 10 = 100 times more H⁺",
+     "No: a difference of 2 pH units means 20 times more H⁺",
+     "No: the product with the smaller pH has fewer hydrogen ions"
+    ],
+    "answer": 1,
+    "explanation": "pH is a logarithmic scale. Each unit lower multiplies H⁺ concentration by 10, so 2 units lower is 10² = 100 times higher.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student has an acid of pH 5. She says, 'If I dilute it 10 000 times with water, the pH will become 9.' Why is her prediction wrong?",
+    "options": [
+     "Water is neutral, so dilution makes the pH approach 7 but never take it beyond 7",
+     "The pH would fall to 1 because the volume has increased",
+     "The pH would become 9 only if the acid were also heated",
+     "Dilution does not change the pH of an acid at all"
+    ],
+    "answer": 0,
+    "explanation": "Diluting reduces H⁺ concentration so pH rises, but the water added is itself neutral. An acid can get close to pH 7 yet never become alkaline by dilution alone.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Rainwater was tested at three sites. Site 1: pH 5.6. Site 2: pH 4.6. Site 3: pH 3.6. Which statement is correct?",
+    "options": [
+     "Site 3 rain has 2 times the H⁺ concentration of site 1 and 1 time that of site 2",
+     "Site 3 rain has 10 times the H⁺ concentration of site 1 and 100 times that of site 2",
+     "Site 3 rain has one hundredth of the H⁺ concentration of site 1",
+     "Site 3 rain has 100 times the H⁺ concentration of site 1 and 10 times that of site 2"
+    ],
+    "answer": 3,
+    "explanation": "Site 3 is 2 units lower than site 1, so 10² = 100 times more H⁺. It is 1 unit lower than site 2, so 10 times more.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A scientist needs to estimate the approximate pH of an unknown colourless solution and decide whether it is a very strong or only slightly acidic solution. Which indicator is the best choice?",
+    "options": [
+     "Litmus, because it shows how strong the acid is",
+     "Phenolphthalein, because it turns pink in acids",
+     "Universal indicator, because its colour changes across the whole pH range",
+     "Methyl orange, because it gives a different colour at every pH value"
+    ],
+    "answer": 2,
+    "explanation": "Universal indicator is a mixture that changes through many colours from red to purple, so it estimates pH. Litmus, phenolphthalein and methyl orange only show acid or alkali on either side of one change point.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A pupil tests the pH of dark red blackcurrant juice by adding universal indicator solution. She records a pH of 4 by matching the colour. Which criticism of her method is most valid?",
+    "options": [
+     "Universal indicator only works on colourless gases",
+     "The juice's own deep colour hides the indicator colour, so a pH meter would be more reliable",
+     "Blackcurrant juice cannot have a pH below 7",
+     "Matching a colour to a chart gives the exact pH to three significant figures"
+    ],
+    "answer": 1,
+    "explanation": "When a sample is strongly coloured, the colour seen is a mixture of juice and indicator, so the reading is unreliable. A pH meter is not affected by the sample's colour.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Solution P has a pH of 11 and solution Q has a pH of 13. How do their hydrogen ion concentrations compare?",
+    "options": [
+     "Q has one hundredth of the H⁺ concentration of P",
+     "Q has 100 times the H⁺ concentration of P",
+     "Q has half of the H⁺ concentration of P",
+     "Q has 2 times the H⁺ concentration of P"
+    ],
+    "answer": 0,
+    "explanation": "A higher pH means a lower H⁺ concentration. Q is 2 units higher, so its H⁺ concentration is 10² = 100 times smaller than that of P.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What are acids and alkalis?\nAn **acid** is a substance that produces hydrogen ions, H⁺(aq), when it dissolves in water. A **base** is a substance that neutralises an acid, and a base that dissolves in water is called an **alkali**. Alkalis produce hydroxide ions, OH⁻(aq). So every alkali is a base, but many bases (like copper(II) oxide) are insoluble and are not alkalis.\n\n## The pH scale\nThe pH scale measures how acidic or alkaline a solution is. It runs from 0 to 14.\n- **pH below 7** is acidic. The lower the number, the more acidic.\n- **pH 7** is neutral, as in pure water.\n- **pH above 7** is alkaline. The higher the number, the more alkaline.\n\nThe pH scale is logarithmic. Every change of one pH unit means the concentration of H⁺ ions changes by a factor of 10. A solution of pH 3 has ten times more H⁺ than a solution of pH 4, and 1000 times more H⁺ than a solution of pH 6. Students often forget this and say \"twice\" or \"three times\" instead of powers of ten.\n\n## Dilution\nAdding water to an acid lowers the H⁺ concentration, so the pH rises. If you dilute an acid ten times, the pH goes up by one unit. However, water is neutral, so no amount of dilution can turn an acid into an alkali: the pH just gets closer and closer to 7.\n\n## Indicators\nAn **indicator** is a dye that changes colour depending on pH.\n- **Litmus:** red in acid, blue in alkali (purple in neutral).\n- **Methyl orange:** red in acid, yellow in alkali.\n- **Phenolphthalein:** colourless in acid, pink in alkali.\n- **Universal indicator:** a mixture giving a range of colours: red (pH 0 to 2), orange and yellow (pH 3 to 6), green (pH 7), blue (pH 8 to 11) and purple (pH 12 to 14).\n\nSingle indicators only tell you whether a solution is on one side or the other of their change point. Universal indicator lets you estimate the pH value.\n\n## pH meters\nA **pH meter** has a probe that is placed in the solution and gives a digital reading, for example 6.8. It is more precise than indicator paper and it does not depend on a person judging a colour, which makes it better for coloured samples and for data collection in fieldwork. Always rinse the probe with distilled water between samples and calibrate it using solutions of known pH.\n\n## Worked example\nA solution of pH 2 is diluted by adding 225 cm³ of water to 25 cm³ of acid. The total volume is 250 cm³, which is ten times the original. So H⁺ concentration drops to one tenth, and the new pH is 3.\n\n## Common mistakes\n- Saying a lower pH means \"less acidic\". It is the opposite.\n- Thinking pH 14 is the maximum possible for all substances. For MYP we use 0 to 14.\n- Using the words \"base\" and \"alkali\" as if they mean exactly the same thing.\n\n## How this is examined\nIn eAssessment style questions you are given a context, such as soil testing, a river investigation or rainfall data from several sites, with pH values in the stimulus. You are asked to state what a colour or a pH value shows, calculate how many times more acidic one sample is than another, and evaluate the method: is a pH meter or indicator more appropriate, what could limit accuracy, and what should be controlled to make a fair comparison? Command terms such as justify and evaluate need a reason, not just a statement.\n\nExam tip: When comparing two pH values, subtract them, then write 10 to the power of the difference. Always say which sample has the higher H⁺ concentration.",
+  "flashcards": [
+   {
+    "front": "Define an acid",
+    "back": "A substance that produces hydrogen ions, H⁺(aq), when dissolved in water."
+   },
+   {
+    "front": "What is an alkali?",
+    "back": "A base that dissolves in water, producing hydroxide ions, OH⁻(aq). All alkalis are bases, but not all bases are alkalis."
+   },
+   {
+    "front": "pH of a neutral solution",
+    "back": "7. Below 7 is acidic, above 7 is alkaline. The pH scale used here runs from 0 to 14."
+   },
+   {
+    "front": "What does a change of one pH unit mean?",
+    "back": "The H⁺ concentration changes by a factor of 10. Two units is 100 times, three units is 1000 times."
+   },
+   {
+    "front": "Litmus colours",
+    "back": "Red in acid, blue in alkali, purple in a neutral solution."
+   },
+   {
+    "front": "Methyl orange and phenolphthalein colours",
+    "back": "Methyl orange: red in acid, yellow in alkali. Phenolphthalein: colourless in acid, pink in alkali."
+   },
+   {
+    "front": "Universal indicator colours",
+    "back": "Red (strong acid), orange/yellow (weak acid), green (neutral), blue (weak alkali), purple (strong alkali)."
+   },
+   {
+    "front": "Why use a pH meter instead of indicator paper?",
+    "back": "It gives a precise numerical value, is not affected by sample colour, and does not rely on judging colours by eye."
+   },
+   {
+    "front": "Effect of diluting an acid with water",
+    "back": "H⁺ concentration falls so pH rises towards 7. It can approach 7 but never become alkaline by dilution."
+   }
+  ]
+ },
+ {
+  "subject": "chemistry",
+  "grade": 5,
+  "topic": "Acids, Bases and Salts",
+  "subTopic": "Neutralisation and Making Salts",
+  "questions": [
+   {
+    "content": "What are the products when an acid reacts with a metal oxide?",
+    "options": [
+     "A salt and hydrogen",
+     "A salt and water",
+     "A salt, water and carbon dioxide",
+     "Only a salt"
+    ],
+    "answer": 1,
+    "explanation": "Acid + metal oxide → salt + water. Hydrogen is made with metals, and carbon dioxide only with carbonates.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which gas is given off when hydrochloric acid is added to calcium carbonate?",
+    "options": [
+     "Carbon dioxide",
+     "Hydrogen",
+     "Oxygen",
+     "Chlorine"
+    ],
+    "answer": 0,
+    "explanation": "Acid + carbonate → salt + water + carbon dioxide. The gas turns limewater milky.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which salt forms when hydrochloric acid reacts with sodium hydroxide?",
+    "options": [
+     "Sodium sulfate",
+     "Sodium nitrate",
+     "Sodium hydrogen",
+     "Sodium chloride"
+    ],
+    "answer": 3,
+    "explanation": "Hydrochloric acid always makes chlorides, sulfuric acid makes sulfates and nitric acid makes nitrates. The metal name comes from the base.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which ionic equation represents neutralisation of an acid by an alkali?",
+    "options": [
+     "H⁺(aq) + Cl⁻(aq) → HCl(aq)",
+     "Na⁺(aq) + OH⁻(aq) → NaOH(s)",
+     "H⁺(aq) + OH⁻(aq) → H₂O(l)",
+     "2H⁺(aq) + O²⁻(s) → H₂(g)"
+    ],
+    "answer": 2,
+    "explanation": "In every neutralisation by an alkali, hydrogen ions and hydroxide ions combine to form water. The other ions are spectators.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The salts made from sulfuric acid are called:",
+    "options": [
+     "Chlorides",
+     "Sulfates",
+     "Nitrates",
+     "Carbonates"
+    ],
+    "answer": 1,
+    "explanation": "The name of the acid decides the family: sulfuric → sulfates, hydrochloric → chlorides, nitric → nitrates.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A student wants to prepare pure crystals of copper(II) sulfate from copper(II) oxide and dilute sulfuric acid. Which method is correct?",
+    "options": [
+     "Add excess copper(II) oxide to warm acid, filter, then evaporate the filtrate until crystals form on cooling",
+     "Add copper(II) oxide to the acid until the indicator turns green, then boil to dryness",
+     "Mix the two and filter off the copper sulfate as a solid",
+     "Add copper(II) oxide until the acid is used up, then use a flame to dry the solid left in the filter paper"
+    ],
+    "answer": 0,
+    "explanation": "Excess insoluble solid guarantees all the acid reacts. The excess is removed by filtering, and the salt solution is partly evaporated and cooled so crystals form.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In the preparation of a soluble salt from an insoluble base, why is the solid added in excess?",
+    "options": [
+     "To make the reaction go faster by raising the temperature",
+     "To change the colour of the solution",
+     "To increase the amount of acid in the flask",
+     "To make sure all the acid has reacted so the solution contains only the salt"
+    ],
+    "answer": 3,
+    "explanation": "When some solid stays undissolved, you know the acid has all been used up. The leftover base is insoluble, so filtering removes it.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why can copper metal not be used to make copper(II) sulfate by adding it to dilute sulfuric acid?",
+    "options": [
+     "Copper is too reactive and the reaction would be explosive",
+     "Copper sulfate is insoluble in water",
+     "Copper is less reactive than hydrogen, so it does not react with dilute acid",
+     "Acid only reacts with non-metals"
+    ],
+    "answer": 2,
+    "explanation": "Metals below hydrogen in the reactivity series, such as copper, do not displace hydrogen from dilute acids. Copper oxide, a base, is used instead.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which pair of aqueous solutions, when mixed, will form an insoluble precipitate?",
+    "options": [
+     "Sodium chloride and potassium nitrate",
+     "Silver nitrate and sodium chloride",
+     "Sodium sulfate and potassium chloride",
+     "Copper(II) sulfate and magnesium nitrate"
+    ],
+    "answer": 1,
+    "explanation": "Silver nitrate and sodium chloride give silver chloride, which is insoluble (white precipitate). In the other pairs every possible product is soluble.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "0.025 mol of sulfuric acid reacts completely with excess magnesium oxide: MgO + H₂SO₄ → MgSO₄ + H₂O. What is the maximum mass of magnesium sulfate formed? (Ar: Mg = 24, S = 32, O = 16)",
+    "options": [
+     "3.0 g",
+     "6.0 g",
+     "1.5 g",
+     "30 g"
+    ],
+    "answer": 0,
+    "explanation": "The ratio is 1 : 1 so 0.025 mol of MgSO₄ forms. Mr = 24 + 32 + 4 × 16 = 120, so mass = 0.025 × 120 = 3.0 g.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which equation correctly shows zinc carbonate reacting with hydrochloric acid?",
+    "options": [
+     "ZnCO₃ + 2HCl → ZnCl₂ + H₂ + CO₂",
+     "ZnCO₃ + HCl → ZnCl + H₂O + CO₂",
+     "ZnCO₃ + 2HCl → ZnCl₂ + H₂O",
+     "ZnCO₃ + 2HCl → ZnCl₂ + H₂O + CO₂"
+    ],
+    "answer": 3,
+    "explanation": "Carbonate + acid → salt + water + carbon dioxide. The equation must be balanced and zinc chloride is ZnCl₂, not ZnCl.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student makes lead(II) iodide by mixing solutions of lead(II) nitrate and potassium iodide and filters the yellow solid. Why does she wash the solid with distilled water?",
+    "options": [
+     "To make the lead(II) iodide dissolve",
+     "To turn the precipitate into crystals",
+     "To remove dissolved potassium nitrate and other soluble impurities",
+     "To neutralise the solid"
+    ],
+    "answer": 2,
+    "explanation": "The filtrate contains soluble potassium nitrate, which also coats the solid. Washing with distilled water removes it without dissolving the insoluble precipitate.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A pupil wants sodium chloride crystals from sodium hydroxide solution and hydrochloric acid. Why is the 'add excess solid and filter' method unsuitable?",
+    "options": [
+     "Sodium chloride is insoluble so cannot be crystallised",
+     "Both reactants are soluble, so there is no solid excess to filter off",
+     "Neutralisation reactions never form salts",
+     "Hydrochloric acid only reacts with solids"
+    ],
+    "answer": 1,
+    "explanation": "With two solutions, the exact volumes that neutralise each other must be found (for example by titration with an indicator), then repeated without the indicator and evaporated.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student prepared magnesium sulfate crystals. The theoretical maximum was 3.0 g, but she collected 2.40 g. She says the percentage yield is 80%. Is she correct?",
+    "options": [
+     "Yes: 2.40 ÷ 3.0 × 100 = 80%",
+     "No: it is 20%, because the difference was lost",
+     "No: it is 125%, because she divides theoretical by actual",
+     "No: it is 72%, because 2.40 × 30 = 72"
+    ],
+    "answer": 0,
+    "explanation": "Percentage yield = actual mass ÷ theoretical mass × 100 = 2.40 ÷ 3.0 × 100 = 80%. Yield is always compared with the theoretical value.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A company wants to make barium sulfate, an insoluble solid, quickly and safely. Which pair of reactants is most suitable?",
+    "options": [
+     "Barium chloride solution and sodium nitrate solution",
+     "Barium nitrate solution and potassium chloride solution",
+     "Barium carbonate solid and sodium chloride solution",
+     "Barium chloride solution and sodium sulfate solution"
+    ],
+    "answer": 3,
+    "explanation": "A precipitation reaction needs one solution containing barium ions and one containing sulfate ions. Only the first pair provides both, and the product barium sulfate precipitates.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A pupil makes zinc sulfate by reacting excess zinc with dilute sulfuric acid and filtering. To get crystals she heats the solution strongly until all the water has gone. Which change would improve her method?",
+    "options": [
+     "Add more zinc to the filtrate before evaporating",
+     "Add indicator to the filtrate before heating",
+     "Evaporate only until the solution is saturated, then leave it to cool slowly so crystals form",
+     "Boil the filtrate for longer to make larger crystals"
+    ],
+    "answer": 2,
+    "explanation": "Heating to dryness gives a powder and can drive off water in the crystals. Concentrating to the point where a drop forms crystals on a cold rod, then cooling slowly, gives better crystals.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Solution X gives a white precipitate when sodium sulfate is added. It gives no precipitate when silver nitrate is added. Which compound is X most likely to be?",
+    "options": [
+     "Barium chloride",
+     "Barium nitrate",
+     "Sodium chloride",
+     "Potassium nitrate"
+    ],
+    "answer": 1,
+    "explanation": "A white precipitate with sulfate ions suggests barium ions. No precipitate with silver nitrate means no chloride ions, so barium chloride is ruled out and barium nitrate fits.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "50.0 cm³ of 1.00 mol/dm³ hydrochloric acid reacts completely with excess calcium carbonate: CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂. What is the maximum mass of calcium chloride that can form? (Ar: Ca = 40, Cl = 35.5)",
+    "options": [
+     "2.78 g",
+     "5.55 g",
+     "1.39 g",
+     "27.8 g"
+    ],
+    "answer": 0,
+    "explanation": "Moles HCl = 1.00 × 0.0500 = 0.0500 mol. The ratio HCl : CaCl₂ is 2 : 1, so 0.0250 mol CaCl₂ forms. Mr = 40 + 71 = 111, so mass = 0.0250 × 111 = 2.78 g.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Neutralisation and salts\nA **salt** is a compound formed when the hydrogen ions of an acid are replaced by metal (or ammonium) ions. The name has two parts: the metal from the base, and the family from the acid. Hydrochloric acid makes **chlorides**, sulfuric acid makes **sulfates**, and nitric acid makes **nitrates**. So zinc oxide plus sulfuric acid makes zinc sulfate.\n\n## Four reactions of acids\n- acid + metal → salt + hydrogen (for moderately reactive metals such as magnesium, zinc, iron)\n- acid + metal oxide or hydroxide → salt + water\n- acid + alkali → salt + water\n- acid + carbonate → salt + water + carbon dioxide\n\nThe ionic equation for neutralisation of an acid by an alkali is H⁺(aq) + OH⁻(aq) → H₂O(l). All other ions are spectators.\n\n## Making a soluble salt from an insoluble solid\nThis works for a metal, an insoluble base or a carbonate. Example: copper(II) sulfate from copper(II) oxide.\n- Warm dilute sulfuric acid in a beaker.\n- Add copper(II) oxide a little at a time while stirring, until some solid is left over. The excess shows that all the acid has reacted.\n- Filter to remove the excess solid. The blue filtrate is copper(II) sulfate solution.\n- Heat the filtrate gently to evaporate some water, until a drop on a cold glass rod forms crystals.\n- Leave to cool and crystallise, filter off the crystals and dry them between filter papers.\n\n## Making a salt from an alkali\nBoth reactants dissolve, so you cannot filter off an excess. Use a pipette to measure the alkali into a flask, add an indicator and run in acid from a burette until the colour changes. Repeat with the same volumes without the indicator, then evaporate and crystallise.\n\n## Making an insoluble salt: precipitation\nMix two solutions that contain the ions of the salt. The insoluble product forms as a **precipitate**. Filter, wash the solid with distilled water to remove soluble impurities, and dry it.\n\nUseful solubility rules:\n- All nitrates and all sodium, potassium and ammonium salts are soluble.\n- Chlorides are soluble except silver chloride and lead(II) chloride.\n- Sulfates are soluble except barium sulfate and lead(II) sulfate.\n- Carbonates and hydroxides are mostly insoluble, except those of sodium, potassium and ammonium.\n\n## Calculations with salts\nUse moles. Example: 0.025 mol of H₂SO₄ reacts with excess MgO. The ratio is 1 : 1, so 0.025 mol of MgSO₄ forms. Mr of MgSO₄ is 120, so the maximum mass is 0.025 × 120 = 3.0 g. If you actually collect 2.40 g, the percentage yield is 2.40 ÷ 3.0 × 100 = 80%. Yield is below 100% because of losses on filtering, incomplete crystallisation and transfer.\n\n## Common mistakes\n- Forgetting to balance equations before using mole ratios.\n- Boiling to dryness instead of crystallising.\n- Using a metal that is too reactive (potassium, sodium) or too unreactive (copper) with dilute acid.\n- Not washing a precipitate before drying.\n\n## How this is examined\nQuestions give a context, such as a factory producing fertiliser salts or a school preparing copper sulfate, and ask you to choose the right method (excess solid, titration or precipitation), explain each step, calculate a maximum mass or percentage yield, and evaluate why the real yield is lower than the theoretical one. Command terms such as describe, calculate and suggest are common, and extended items ask you to justify a choice of reactants using solubility.\n\nExam tip: Name the method first (excess solid, titration or precipitation), because choosing the correct method scores more marks than any other single step.",
+  "flashcards": [
+   {
+    "front": "acid + metal oxide gives",
+    "back": "Salt + water. Example: CuO + H₂SO₄ → CuSO₄ + H₂O."
+   },
+   {
+    "front": "acid + carbonate gives",
+    "back": "Salt + water + carbon dioxide. Example: CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂."
+   },
+   {
+    "front": "acid + metal gives",
+    "back": "Salt + hydrogen, for moderately reactive metals. Example: Zn + 2HCl → ZnCl₂ + H₂."
+   },
+   {
+    "front": "Ionic equation for neutralisation",
+    "back": "H⁺(aq) + OH⁻(aq) → H₂O(l)."
+   },
+   {
+    "front": "Salt names from acids",
+    "back": "Hydrochloric acid → chlorides; sulfuric acid → sulfates; nitric acid → nitrates."
+   },
+   {
+    "front": "Method for a soluble salt from an insoluble base",
+    "back": "Add excess solid to warm acid, filter off the excess, evaporate to saturation, cool to crystallise, dry."
+   },
+   {
+    "front": "Why add the solid in excess?",
+    "back": "So that all the acid is used up. The leftover insoluble solid is then filtered off."
+   },
+   {
+    "front": "Method for an insoluble salt",
+    "back": "Mix solutions containing the ions, filter the precipitate, wash with distilled water, dry."
+   },
+   {
+    "front": "Solubility rules to remember",
+    "back": "Nitrates, Na/K/NH₄ salts soluble. Chlorides soluble except Ag, Pb. Sulfates soluble except Ba, Pb. Most carbonates and hydroxides insoluble."
+   }
+  ]
+ },
+ {
+  "subject": "chemistry",
+  "grade": 5,
+  "topic": "Acids, Bases and Salts",
+  "subTopic": "Strong and Weak Acids and Titration",
+  "questions": [
+   {
+    "content": "Which of these is a weak acid?",
+    "options": [
+     "Hydrochloric acid",
+     "Ethanoic acid",
+     "Nitric acid",
+     "Sulfuric acid"
+    ],
+    "answer": 1,
+    "explanation": "Ethanoic acid (in vinegar) only partly ionises in water. Hydrochloric, nitric and sulfuric acid are strong acids.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does it mean to say that an acid is strong?",
+    "options": [
+     "It is fully ionised when dissolved in water",
+     "It is very concentrated",
+     "It has a pH above 7",
+     "It is only partly ionised in water"
+    ],
+    "answer": 0,
+    "explanation": "Strength describes how much an acid ionises. A strong acid releases all of its H⁺ ions, regardless of how concentrated it is.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which piece of apparatus is used to measure exactly 25.0 cm³ of alkali into a conical flask?",
+    "options": [
+     "A beaker",
+     "A measuring cylinder",
+     "A gas syringe",
+     "A pipette"
+    ],
+    "answer": 3,
+    "explanation": "A volumetric pipette delivers a fixed volume very accurately. Beakers and measuring cylinders are much less precise.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "When reading a burette, where should the reading be taken from?",
+    "options": [
+     "The top of the meniscus, looking from above",
+     "The top of the liquid, looking from below",
+     "The bottom of the meniscus, with the eye level with the liquid surface",
+     "The middle of the burette"
+    ],
+    "answer": 2,
+    "explanation": "Reading the bottom of the curved meniscus at eye level avoids a parallax error.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a strong acid?",
+    "options": [
+     "Ethanoic acid",
+     "Sulfuric acid",
+     "Citric acid",
+     "Carbonic acid"
+    ],
+    "answer": 1,
+    "explanation": "Sulfuric acid is a strong acid. Ethanoic, citric and carbonic acids are all weak.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "0.1 mol/dm³ hydrochloric acid and 0.1 mol/dm³ ethanoic acid are tested with a pH meter. Which statement is correct?",
+    "options": [
+     "Hydrochloric acid has the lower pH because it is fully ionised and has more H⁺",
+     "Ethanoic acid has the lower pH because it is a weaker acid",
+     "They have the same pH because they have the same concentration",
+     "Ethanoic acid has the lower pH because it contains more hydrogen atoms"
+    ],
+    "answer": 0,
+    "explanation": "At the same concentration a strong acid releases more H⁺ than a weak acid, so it has a lower pH.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Equal lengths of magnesium ribbon are added to 50 cm³ of 0.1 mol/dm³ hydrochloric acid and to 50 cm³ of 0.1 mol/dm³ ethanoic acid. Magnesium is in excess in both. Which prediction is correct?",
+    "options": [
+     "Ethanoic acid reacts faster and gives more hydrogen",
+     "Hydrochloric acid reacts faster and gives twice as much hydrogen",
+     "They react at the same rate and give the same volume of hydrogen",
+     "Hydrochloric acid reacts faster, but both give the same final volume of hydrogen"
+    ],
+    "answer": 3,
+    "explanation": "Rate depends on H⁺ concentration, which is higher in the strong acid. Total gas depends on the moles of acid available, which are equal (each acid releases one H⁺ per molecule).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A solution of hydrochloric acid has a concentration of 0.001 mol/dm³. How should it be described?",
+    "options": [
+     "A concentrated solution of a weak acid",
+     "A dilute solution of a weak acid",
+     "A dilute solution of a strong acid",
+     "A concentrated solution of a strong acid"
+    ],
+    "answer": 2,
+    "explanation": "Concentration is the amount of acid per dm³, while strength is how far it ionises. Hydrochloric acid is always strong, and 0.001 mol/dm³ is dilute.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student does a titration and records these volumes of acid: rough 21.4 cm³; trial 1 20.55 cm³; trial 2 20.60 cm³; trial 3 20.65 cm³; trial 4 20.95 cm³. Concordant results are within 0.10 cm³ of each other. What is the mean titre?",
+    "options": [
+     "20.69 cm³",
+     "20.60 cm³",
+     "20.83 cm³",
+     "20.95 cm³"
+    ],
+    "answer": 1,
+    "explanation": "Only trials 1 to 3 are concordant, and (20.55 + 20.60 + 20.65) ÷ 3 = 20.60 cm³. The rough titre and trial 4 are left out.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "25.0 cm³ of sodium hydroxide solution is neutralised by 20.0 cm³ of 0.100 mol/dm³ hydrochloric acid (NaOH + HCl → NaCl + H₂O). What is the concentration of the sodium hydroxide?",
+    "options": [
+     "0.0800 mol/dm³",
+     "0.125 mol/dm³",
+     "0.100 mol/dm³",
+     "0.0200 mol/dm³"
+    ],
+    "answer": 0,
+    "explanation": "Moles HCl = 0.100 × 0.0200 = 0.00200 mol. The ratio is 1 : 1, so NaOH is 0.00200 mol in 0.0250 dm³, giving 0.00200 ÷ 0.0250 = 0.0800 mol/dm³.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is a rough titration done before the accurate titrations?",
+    "options": [
+     "To neutralise any impurities in the flask",
+     "To make the burette tip wet",
+     "To calculate the concentration of the indicator",
+     "To find the approximate end-point so that acid can be added drop by drop near it in later runs"
+    ],
+    "answer": 3,
+    "explanation": "The rough run quickly shows roughly how much acid is needed. In the accurate runs you add acid quickly at first, then dropwise near the end-point.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is a burette rinsed with the acid it will contain, but the conical flask only with distilled water?",
+    "options": [
+     "Water in the flask would react with the alkali",
+     "Acid in the flask would speed up the reaction",
+     "Water left in the burette would dilute the acid, but water in the flask does not change the moles of alkali in it",
+     "The burette cannot be cleaned with water"
+    ],
+    "answer": 2,
+    "explanation": "Titration calculations depend on the moles of alkali in the flask, which are fixed by the pipette volume and its concentration. Extra water does not change them.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A pH meter shows that 0.1 mol/dm³ of an unknown acid has a pH of 3. A 0.1 mol/dm³ solution of a strong monobasic acid would have a pH of about 1. What does this suggest?",
+    "options": [
+     "The unknown acid is strong because its pH is above 1",
+     "The unknown acid is weak because it is only partly ionised",
+     "The unknown acid is an alkali",
+     "The unknown acid is more concentrated than 0.1 mol/dm³"
+    ],
+    "answer": 1,
+    "explanation": "A weak acid releases fewer H⁺ ions, so its pH is higher than that of a strong acid of equal concentration.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a titration, 20.0 cm³ of sulfuric acid is neutralised by 30.0 cm³ of 0.100 mol/dm³ sodium hydroxide: H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O. What is the concentration of the sulfuric acid?",
+    "options": [
+     "0.0750 mol/dm³",
+     "0.150 mol/dm³",
+     "0.0333 mol/dm³",
+     "0.300 mol/dm³"
+    ],
+    "answer": 0,
+    "explanation": "Moles NaOH = 0.100 × 0.0300 = 0.00300 mol. The ratio acid : alkali is 1 : 2, so moles H₂SO₄ = 0.00150 mol. Concentration = 0.00150 ÷ 0.0200 = 0.0750 mol/dm³.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The sodium hydroxide solution from the earlier titration has a concentration of 0.0800 mol/dm³. What is its mass concentration in g/dm³? (Ar: Na = 23, O = 16, H = 1)",
+    "options": [
+     "0.32 g/dm³",
+     "32 g/dm³",
+     "0.0020 g/dm³",
+     "3.2 g/dm³"
+    ],
+    "answer": 3,
+    "explanation": "Mr of NaOH = 23 + 16 + 1 = 40. Mass concentration = 0.0800 × 40 = 3.2 g/dm³.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student notices that the titre in her experiment is larger than expected. Afterwards she realises an air bubble had been trapped in the burette tip at the start and was forced out during the titration. What effect did this have?",
+    "options": [
+     "The recorded titre was too small, so the calculated concentration of the alkali is too low",
+     "It had no effect because air has no volume",
+     "The recorded titre was too large, so the calculated concentration of the alkali is too high",
+     "The indicator changed colour at the wrong pH"
+    ],
+    "answer": 2,
+    "explanation": "As the tip filled with liquid, the burette reading fell by more than the volume that actually reached the flask. A larger titre makes the calculated moles of acid, and so the alkali concentration, too high.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Ethanoic acid (a weak acid) is titrated with sodium hydroxide solution. Which indicator is best suited, given that the solution at the end-point is slightly alkaline?",
+    "options": [
+     "Methyl orange",
+     "Phenolphthalein",
+     "Litmus paper",
+     "Universal indicator"
+    ],
+    "answer": 1,
+    "explanation": "The salt formed, sodium ethanoate, makes the solution alkaline at the end-point, and phenolphthalein changes colour in the alkaline range. Methyl orange changes too early, in the acid range.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student claims, '1 mol/dm³ citric acid is a stronger acid than 0.01 mol/dm³ hydrochloric acid because it is more concentrated.' Evaluate her claim.",
+    "options": [
+     "It is wrong: she is confusing concentration with strength, and hydrochloric acid is a strong acid while citric acid is weak",
+     "It is right: concentration and strength mean the same thing",
+     "It is right: weak acids are always more concentrated",
+     "It is wrong: citric acid is a strong acid but hydrochloric acid is stronger"
+    ],
+    "answer": 0,
+    "explanation": "Strength depends on the degree of ionisation, not on concentration. Citric acid is weak even at high concentration, and hydrochloric acid is strong even when very dilute.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Strong and weak acids\nAcids differ in how much they ionise (split into ions) when they dissolve in water.\n- A **strong acid** ionises completely. Every molecule releases its hydrogen ion. Examples: hydrochloric acid (HCl), sulfuric acid (H₂SO₄) and nitric acid (HNO₃).\n- A **weak acid** ionises only partly. Most molecules stay as they are and only a small fraction releases H⁺. Examples: ethanoic acid, citric acid and carbonic acid. We show this with a reversible arrow, for example CH₃COOH ⇌ CH₃COO⁻ + H⁺.\n\n## Strength is not the same as concentration\n**Concentration** tells you how much acid is dissolved in a given volume (in mol/dm³ or g/dm³). **Strength** tells you how far the acid ionises. You can have a dilute solution of a strong acid, or a concentrated solution of a weak acid. Mixing these up is the most common error in this topic.\n\n## Comparing equal concentrations\nAt the same concentration, a strong acid compared with a weak acid has:\n- a lower pH (more H⁺ ions)\n- a higher electrical conductivity (more ions to carry charge)\n- a faster reaction with magnesium or carbonates (so more bubbles at the start)\n\nHowever, the final volume of gas is the same if the same number of moles of acid is available and both acids release one H⁺ per molecule, because the weak acid keeps ionising as H⁺ is used up.\n\n## Titration\nA **titration** finds the exact volume of one solution needed to react completely with a measured volume of another.\n- Use a pipette to put 25.0 cm³ of alkali into a conical flask, and add a few drops of indicator (methyl orange or phenolphthalein).\n- Fill a burette with acid and record the starting reading at the bottom of the meniscus.\n- Do a rough titration first, then repeat, adding acid dropwise near the end-point and swirling constantly.\n- Repeat until you have **concordant** results (within 0.10 cm³) and take the mean of these only. Ignore the rough titre.\n\n## Titration calculation\n1. Write the balanced equation.\n2. Moles of the known solution = concentration (mol/dm³) × volume (dm³). Volume in dm³ = cm³ ÷ 1000.\n3. Use the mole ratio to find moles of the unknown.\n4. Concentration = moles ÷ volume in dm³.\n5. For mass concentration (g/dm³), multiply the concentration by Mr.\n\nExample: 25.0 cm³ of NaOH is neutralised by 20.0 cm³ of 0.100 mol/dm³ HCl. Moles HCl = 0.100 × 0.0200 = 0.00200. The ratio is 1 : 1, so NaOH = 0.00200 mol, and concentration = 0.00200 ÷ 0.0250 = 0.0800 mol/dm³.\n\n## Sources of error\nA trapped air bubble in the burette tip, reading from the top of the meniscus, overshooting the end-point, rinsing the burette with water and using too much indicator all affect the result.\n\n## How this is examined\nIn eAssessment style questions you may be given titration data from a school or industrial context, such as testing the acidity of vinegar or a soil extract. You are asked to select the concordant results, calculate a mean, show that a concentration is correct, and evaluate the accuracy and limitations of the method. Reasoning questions ask you to explain why two acids with the same concentration behave differently.\n\nExam tip: Always write the balanced equation first and read the ratio from it. Forgetting that H₂SO₄ reacts 1 : 2 with NaOH is a classic way to lose marks.",
+  "flashcards": [
+   {
+    "front": "Strong acid",
+    "back": "An acid that is fully ionised in water. Examples: hydrochloric, sulfuric and nitric acid."
+   },
+   {
+    "front": "Weak acid",
+    "back": "An acid that is only partly ionised in water (a reversible reaction). Examples: ethanoic, citric and carbonic acid."
+   },
+   {
+    "front": "Strength vs concentration",
+    "back": "Strength = how far an acid ionises. Concentration = amount of acid per dm³. A solution can be dilute but strong, or concentrated but weak."
+   },
+   {
+    "front": "Equal concentration: strong vs weak acid",
+    "back": "The strong acid has a lower pH, higher conductivity and reacts faster, but gives the same total gas if the moles of acid are equal."
+   },
+   {
+    "front": "Concordant results",
+    "back": "Titres within 0.10 cm³ of each other. Take the mean of concordant results only, ignoring the rough titre."
+   },
+   {
+    "front": "Moles from concentration and volume",
+    "back": "moles = concentration (mol/dm³) × volume (dm³). Volume in dm³ = cm³ ÷ 1000."
+   },
+   {
+    "front": "Titration calculation steps",
+    "back": "Balanced equation, moles of the known solution, mole ratio, moles of the unknown, then concentration = moles ÷ volume in dm³."
+   },
+   {
+    "front": "Mass concentration from molar concentration",
+    "back": "g/dm³ = mol/dm³ × Mr."
+   },
+   {
+    "front": "Why do a rough titration?",
+    "back": "To find the approximate end-point so later titrations can add acid drop by drop near it for accuracy."
+   }
+  ]
+ }
+]

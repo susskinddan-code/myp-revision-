@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Functions and Modelling",
+  "subTopic": "Function Notation and Graphs",
+  "questions": [
+   {
+    "content": "A function is defined by f(x) = 3x − 4. What is the value of f(5)?",
+    "options": [
+     "19",
+     "11",
+     "31",
+     "8"
+    ],
+    "answer": 1,
+    "explanation": "Substitute x = 5: f(5) = 3(5) − 4 = 15 − 4 = 11. Writing 3 and 5 side by side (31) or adding 4 (19) are common slips.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A function is written f(x) = 2x + 7. Which statement correctly describes f(3)?",
+    "options": [
+     "The output when the input is 3",
+     "The function f multiplied by 3",
+     "The input that gives an output of 3",
+     "The number 3 added to f"
+    ],
+    "answer": 0,
+    "explanation": "f(3) means 'put 3 in as the input'. The output is 2(3) + 7 = 13.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The graph of y = 2x − 3 is drawn. Where does it cross the y-axis?",
+    "options": [
+     "2",
+     "3",
+     "1.5",
+     "−3"
+    ],
+    "answer": 3,
+    "explanation": "The y-intercept is the constant term, c = −3. The value 1.5 is where the line crosses the x-axis, not the y-axis.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the gradient of the line y = −4x + 9?",
+    "options": [
+     "4",
+     "9",
+     "−4",
+     "−9"
+    ],
+    "answer": 2,
+    "explanation": "In y = mx + c the gradient is m, the coefficient of x. Here m = −4, so the line slopes downwards.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A car park charges C(h) = 1.5h + 2 dollars for h hours. What is the cost of parking for 4 hours?",
+    "options": [
+     "$6",
+     "$8",
+     "$7.50",
+     "$14"
+    ],
+    "answer": 1,
+    "explanation": "C(4) = 1.5(4) + 2 = 6 + 2 = 8. Multiplying (1.5 + 2) by 4 gives the wrong total of $14.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A function is g(x) = x² − 3x. What is g(−2)?",
+    "options": [
+     "10",
+     "2",
+     "−2",
+     "−10"
+    ],
+    "answer": 0,
+    "explanation": "g(−2) = (−2)² − 3(−2) = 4 + 6 = 10. Forgetting that (−2)² is positive gives the wrong value 2.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "For f(x) = 5x − 2, find the value of x for which f(x) = 18.",
+    "options": [
+     "x = 16",
+     "x = 88",
+     "x = 3.6",
+     "x = 4"
+    ],
+    "answer": 3,
+    "explanation": "Solve 5x − 2 = 18, so 5x = 20 and x = 4. The value 88 comes from calculating f(18) instead, which is a different question.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Where does the graph of y = x² − 4x − 5 cross the x-axis?",
+    "options": [
+     "x = −5 and x = 1",
+     "x = 5 and x = 1",
+     "x = 5 and x = −1",
+     "x = 4 and x = −5"
+    ],
+    "answer": 2,
+    "explanation": "Set y = 0: x² − 4x − 5 = (x − 5)(x + 1) = 0, so x = 5 or x = −1. The signs in the brackets are the opposite of the roots.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The graph of y = x² − 6x + 5 is a parabola. What is the equation of its line of symmetry?",
+    "options": [
+     "x = −3",
+     "x = 3",
+     "x = 6",
+     "x = 5"
+    ],
+    "answer": 1,
+    "explanation": "The x-intercepts are x = 1 and x = 5 (since (x − 1)(x − 5) = 0), and the line of symmetry is halfway between them at x = 3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A ball's height in metres is h(t) = 20t − 5t² after t seconds. What is the height when t = 3?",
+    "options": [
+     "15 m",
+     "105 m",
+     "55 m",
+     "−165 m"
+    ],
+    "answer": 0,
+    "explanation": "h(3) = 20(3) − 5(9) = 60 − 45 = 15. Squaring only t, not 5t, is essential: (5t)² would wrongly give −165.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Tickets cost C(n) = 12n dollars where n is the number of tickets and n can only be 1, 2, 3, 4 or 5. What is the range of C?",
+    "options": [
+     "1, 2, 3, 4, 5",
+     "All values from 12 to 60",
+     "All values from 0 to 60",
+     "12, 24, 36, 48, 60"
+    ],
+    "answer": 3,
+    "explanation": "The range is the set of possible outputs: 12, 24, 36, 48 and 60. Because n is a whole number, the outputs are separate values, not a continuous interval.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A straight line passes through the points (2, 5) and (6, 13). Which function describes it?",
+    "options": [
+     "f(x) = 2x + 5",
+     "f(x) = 4x − 3",
+     "f(x) = 2x + 1",
+     "f(x) = 0.5x + 4"
+    ],
+    "answer": 2,
+    "explanation": "The gradient is (13 − 5) ÷ (6 − 2) = 2, and 5 = 2(2) + c gives c = 1. Check: f(6) = 13. Inverting the gradient gives 0.5x + 4, which fails at x = 6.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Four relations are given as sets of (x, y) pairs. Which one is NOT a function?",
+    "options": [
+     "(1, 4), (2, 4), (3, 4)",
+     "(1, 2), (2, 3), (1, 5)",
+     "(1, 2), (2, 3), (3, 4), (4, 5)",
+     "(0, 1), (1, 0), (2, 1)"
+    ],
+    "answer": 1,
+    "explanation": "In the correct choice the input 1 gives two different outputs (2 and 5), so it is not a function. Different inputs may share an output, as in the (1, 4), (2, 4), (3, 4) set.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A function is f(x) = x² + kx, and f(3) = 21. What is the value of k?",
+    "options": [
+     "4",
+     "12",
+     "7",
+     "6"
+    ],
+    "answer": 0,
+    "explanation": "f(3) = 9 + 3k = 21, so 3k = 12 and k = 4. Leaving out the 3 gives k = 12, which is a frequent error.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two models are f(x) = 2x + 1 and g(x) = x² − 2x + 1. For which values of x is f(x) = g(x)?",
+    "options": [
+     "x = 4 only",
+     "x = −4 and x = 0",
+     "x = 2",
+     "x = 0 and x = 4"
+    ],
+    "answer": 3,
+    "explanation": "Set 2x + 1 = x² − 2x + 1, giving x² − 4x = 0, so x(x − 4) = 0 and x = 0 or 4. Dividing both sides by x loses the solution x = 0.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A projectile's height in metres is h(t) = 30t − 5t² for t seconds after launch. What is the greatest height and when does it occur?",
+    "options": [
+     "90 m at t = 3 s",
+     "45 m at t = 6 s",
+     "45 m at t = 3 s",
+     "30 m at t = 3 s"
+    ],
+    "answer": 2,
+    "explanation": "h = 0 at t = 0 and t = 6, so the maximum is at the midpoint t = 3. h(3) = 90 − 45 = 45 m. The time t = 6 is when the projectile lands.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Taxi company A charges C = 3 + 2d dollars and company B charges C = 5 + 1.5d dollars for d kilometres. At what distance do they charge the same, and how much is it?",
+    "options": [
+     "2 km, both $7",
+     "4 km, both $11",
+     "4 km, both $22",
+     "8 km, both $19"
+    ],
+    "answer": 1,
+    "explanation": "Set 3 + 2d = 5 + 1.5d, so 0.5d = 2 and d = 4. Then A: 3 + 8 = 11 and B: 5 + 6 = 11. Always substitute back to check both models agree.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A company's revenue is R(x) = 20x and its cost is C(x) = 500 + 12x dollars for x items. What is the smallest whole number of items that gives a profit?",
+    "options": [
+     "63",
+     "62",
+     "62.5",
+     "25"
+    ],
+    "answer": 0,
+    "explanation": "Profit = 20x − (500 + 12x) = 8x − 500. Profit is zero at x = 62.5, so 62 items still give a loss (8 × 62 − 500 = −4) and 63 items give a profit of $4.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "A function is a rule that takes an input and gives exactly one output. We often write a function as f(x) = 3x − 4. Read this as \"f of x equals 3x minus 4\". The letter f is the name of the rule, x is the input, and f(x) is the output. Other letters are fine too: C(h) could be the cost for h hours and h(t) could be the height at time t.\n\n## Using function notation\n- To evaluate a function, replace every x with the input in brackets. If f(x) = 3x − 4 then f(5) = 3(5) − 4 = 11.\n- f(5) = 11 means \"when the input is 5, the output is 11\". On a graph this is the point (5, 11).\n- To solve f(x) = 18 for a function such as f(x) = 5x − 2, set the expression equal to 18 and solve: 5x − 2 = 18, so x = 4. Here the output is known and you are finding the input.\n- Be careful with negatives: if g(x) = x² − 3x then g(−2) = (−2)² − 3(−2) = 4 + 6 = 10. Always put a negative input in brackets.\n\n## Is it a function?\nEach input must give only one output. On a graph, use the vertical line test: if any vertical line crosses the graph more than once, it is not a function. In a list of pairs, a repeated x-value with different y-values means it is not a function. The set of allowed inputs is the **domain** and the set of outputs is the **range**.\n\n## Graphs of linear and quadratic functions\n- A linear function has the form y = mx + c. The gradient is m and the y-intercept is c (where x = 0).\n- Gradient = change in y ÷ change in x. A line through (2, 5) and (6, 13) has gradient (13 − 5) ÷ (6 − 2) = 2.\n- A quadratic function such as y = x² − 4x − 5 has a curved graph called a parabola. Its x-intercepts are found by solving y = 0 (here (x − 5)(x + 1) = 0, so x = 5 or x = −1).\n- The parabola is symmetrical. The line of symmetry lies halfway between the x-intercepts, and the turning point (vertex) sits on that line.\n- To find where two graphs meet, set the two functions equal and solve.\n\n## Worked example\nA ball's height is h(t) = 30t − 5t² metres after t seconds. The line of symmetry is halfway between the t-intercepts t = 0 and t = 6, so t = 3. The greatest height is h(3) = 90 − 45 = 45 m.\n\n## How this is examined\nIn the eAssessment, functions appear inside a context such as a ball, a taxi fare or a cost model. You may be asked to write down a value, calculate an output, show that a rule fits given data, determine where two models give the same value, and then judge which model is better for a decision. Reading values from a graph and explaining what a point means in the context are common.\n\n## Common mistakes\n- Treating f(x) as \"f times x\".\n- Forgetting brackets around negative inputs.\n- Mixing up the gradient and the y-intercept.\n- Solving f(x) = k as if k were the input.\n\nExam tip: always write the substitution step (for example f(3) = 2(3) + 7) before the answer, and include units when the function models a real situation.",
+  "flashcards": [
+   {
+    "front": "What does f(x) = 2x + 7 mean?",
+    "back": "f is the name of a rule: input x gives output 2x + 7. For example f(3) = 13."
+   },
+   {
+    "front": "How do you evaluate f(4)?",
+    "back": "Replace every x in the rule with 4 (use brackets), then calculate. The result is the output when the input is 4."
+   },
+   {
+    "front": "Vertical line test",
+    "back": "A graph shows a function if no vertical line crosses it more than once. Each input has only one output."
+   },
+   {
+    "front": "Domain and range",
+    "back": "Domain is the set of allowed inputs (x-values). Range is the set of possible outputs (y-values)."
+   },
+   {
+    "front": "Gradient formula",
+    "back": "Gradient = change in y ÷ change in x = (y₂ − y₁) ÷ (x₂ − x₁). It tells you the rate of change."
+   },
+   {
+    "front": "In y = mx + c, what are m and c?",
+    "back": "m is the gradient (steepness) and c is the y-intercept, where the graph crosses the y-axis (x = 0)."
+   },
+   {
+    "front": "How do you find the x-intercepts of a quadratic?",
+    "back": "Set y = 0 and solve, usually by factorising. For example x² − 4x − 5 = 0 gives (x − 5)(x + 1) = 0, so x = 5 or −1."
+   },
+   {
+    "front": "Where is the line of symmetry of a parabola?",
+    "back": "Halfway between the x-intercepts. Substitute that x-value into the function to find the y-coordinate of the vertex."
+   },
+   {
+    "front": "How do you find where two functions give the same value?",
+    "back": "Set f(x) = g(x), rearrange and solve for x. Then substitute back to find the shared output."
+   }
+  ]
+ },
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Functions and Modelling",
+  "subTopic": "Exponential Growth and Decay",
+  "questions": [
+   {
+    "content": "Which equation represents exponential growth?",
+    "options": [
+     "y = 2x + 3",
+     "y = x² + 3",
+     "y = 3 × 2ˣ",
+     "y = 3 ÷ x"
+    ],
+    "answer": 2,
+    "explanation": "Exponential growth has the variable in the power and a factor greater than 1. The others are linear, quadratic and reciprocal.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In the model y = a × bˣ, what does a represent?",
+    "options": [
+     "The growth factor",
+     "The starting value when x = 0",
+     "The final value",
+     "The gradient of the graph"
+    ],
+    "answer": 1,
+    "explanation": "When x = 0, b⁰ = 1, so y = a. The growth factor is b, and exponential graphs do not have a single gradient.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A population of 200 insects doubles every year. How many are there after 3 years?",
+    "options": [
+     "1600",
+     "600",
+     "800",
+     "1200"
+    ],
+    "answer": 0,
+    "explanation": "Doubling 3 times multiplies by 2³ = 8, so 200 × 8 = 1600. Multiplying by 3 (600) treats it as linear.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The value of a machine is multiplied by 0.9 each year. What does this mean?",
+    "options": [
+     "It gains 9% each year",
+     "It loses 90% of its value each year",
+     "It gains 0.9% each year",
+     "It loses 10% of its value each year"
+    ],
+    "answer": 3,
+    "explanation": "A factor of 0.9 means 90% is kept, so 10% is lost each year.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the value of 5 × 3²?",
+    "options": [
+     "225",
+     "30",
+     "45",
+     "25"
+    ],
+    "answer": 2,
+    "explanation": "The power applies only to the 3: 3² = 9, then 5 × 9 = 45. Squaring 5 × 3 first gives 225.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A culture starts with 500 bacteria and grows by 20% every hour. How many bacteria are there after 4 hours, to the nearest whole number?",
+    "options": [
+     "900",
+     "1037",
+     "2400",
+     "1244"
+    ],
+    "answer": 1,
+    "explanation": "N = 500 × 1.2⁴ = 1036.8, which is 1037. Adding 20% of 500 four times (900) is the linear mistake, and 1244 uses 5 hours.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A car worth $24 000 loses 15% of its value each year. What is its value after 3 years?",
+    "options": [
+     "$14 739",
+     "$13 200",
+     "$36 501",
+     "$81"
+    ],
+    "answer": 0,
+    "explanation": "V = 24 000 × 0.85³ = 14 739. Subtracting 15% of the original price three times gives $13 200, which ignores that the loss gets smaller each year.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A model is N = 40 × 2ᵗ, where N is the number of cells after t hours. After how many hours is N = 640?",
+    "options": [
+     "16",
+     "8",
+     "5",
+     "4"
+    ],
+    "answer": 3,
+    "explanation": "Solve 40 × 2ᵗ = 640, so 2ᵗ = 16 and t = 4. The number 16 is the value of 2ᵗ, not of t.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A sample of 80 g of a radioactive substance has a half-life of 6 days. How much remains after 18 days?",
+    "options": [
+     "20 g",
+     "26.7 g",
+     "10 g",
+     "40 g"
+    ],
+    "answer": 2,
+    "explanation": "18 days is 3 half-lives, so the mass is halved three times: 80 → 40 → 20 → 10. Dividing by 3 gives the incorrect 26.7 g.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The table shows x: 0, 1, 2, 3 and y: 5, 10, 20, 40. Which equation fits the data?",
+    "options": [
+     "y = 5x + 5",
+     "y = 5 × 2ˣ",
+     "y = 5x²",
+     "y = 2 × 5ˣ"
+    ],
+    "answer": 1,
+    "explanation": "The start is 5 and each value doubles, so y = 5 × 2ˣ. The linear rule 5x + 5 gives 15 at x = 2, and 2 × 5ˣ gives 10 at x = 1 but 50 at x = 2.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A savings account is modelled by V = 1200 × 1.035ᵗ, where t is the number of years. What does the 1.035 tell you?",
+    "options": [
+     "The balance increases by 3.5% each year",
+     "The balance increases by 1.035% each year",
+     "The balance increases by 35% each year",
+     "The balance increases by $1.035 each year"
+    ],
+    "answer": 0,
+    "explanation": "A factor of 1.035 is 100% + 3.5%, so the balance grows by 3.5% of its current value each year.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Model A is 100 × 1.5ᵗ and model B is 100 + 150t. Which statement is correct?",
+    "options": [
+     "A is larger at both t = 5 and t = 10",
+     "B is larger at both t = 5 and t = 10",
+     "They are equal at t = 5",
+     "B is larger at t = 5, but A is larger at t = 10"
+    ],
+    "answer": 3,
+    "explanation": "At t = 5: A is 759.4 and B is 850. At t = 10: A is 5766.5 and B is 1600. Exponential growth eventually overtakes linear growth.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A model predicts 1037 bacteria after 4 hours, but a count gives 1100. What is the percentage error, to 1 decimal place?",
+    "options": [
+     "6.1%",
+     "5.0%",
+     "5.7%",
+     "63%"
+    ],
+    "answer": 2,
+    "explanation": "Error = 1100 − 1037 = 63. Percentage error = 63 ÷ 1100 × 100 = 5.7%. Dividing by the model value (6.1%) uses the wrong denominator.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An investment of $1000 grows by 8% each year. What is the smallest whole number of years after which it is worth more than $2000?",
+    "options": [
+     "9",
+     "10",
+     "12",
+     "8"
+    ],
+    "answer": 1,
+    "explanation": "1.08⁹ ≈ 1.999, which is just short of 2, and 1.08¹⁰ ≈ 2.159. So 10 whole years are needed. Using 100 ÷ 8 would suggest 12.5 years.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A patient has 200 mg of a drug, and 12% of the drug in the body is removed every hour. In which hour does the amount first fall below 100 mg?",
+    "options": [
+     "After 6 hours",
+     "After 5 hours",
+     "After 8 hours",
+     "After 4 hours"
+    ],
+    "answer": 0,
+    "explanation": "The amount is 200 × 0.88ᵗ. At t = 5 it is 105.5 mg (still above 100) and at t = 6 it is 92.9 mg. Dividing 100 by 12 wrongly suggests 8 hours.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A population is 300 at the start and 432 two years later, growing by the same percentage each year. What is the annual percentage growth?",
+    "options": [
+     "44%",
+     "22%",
+     "120%",
+     "20%"
+    ],
+    "answer": 3,
+    "explanation": "bᵗ: b² = 432 ÷ 300 = 1.44, so b = 1.2, a 20% increase each year. The total rise of 44% over two years is not the yearly rate.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A model for a population is P = 50 × 2ᵗ, which predicts unlimited doubling. Which is the best limitation of this model?",
+    "options": [
+     "Exponential graphs cannot have a y-intercept",
+     "Doubling cannot be modelled using powers",
+     "Real populations are limited by food and space, so growth will slow down",
+     "Populations that are whole numbers must follow a linear model"
+    ],
+    "answer": 2,
+    "explanation": "Exponential models assume a constant growth factor, which cannot last when resources run out. Powers can model doubling and the graph does cross the y-axis at 50.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A quantity follows V = a × bᵗ with b between 0 and 1. It is 360 at t = 1 and 202.5 at t = 3. What is its starting value a?",
+    "options": [
+     "360",
+     "480",
+     "270",
+     "640"
+    ],
+    "answer": 1,
+    "explanation": "From t = 1 to t = 3: b² = 202.5 ÷ 360 = 0.5625, so b = 0.75. Then a = 360 ÷ 0.75 = 480. The value 640 comes from dividing by b² instead of b.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Exponential functions describe quantities that are multiplied by the same factor again and again. Populations of bacteria, the value of a car, a medicine leaving the body and savings with compound interest are all exponential. The general rule is y = a × b^x, where a is the starting value (when x = 0) and b is the growth or decay factor.\n\n## Growth and decay factors\n- If b is greater than 1, the quantity grows. A 20% increase each hour has b = 1.2.\n- If b is between 0 and 1, the quantity decays. A 15% fall each year has b = 0.85, and halving has b = 0.5.\n- To find b from a percentage change, add or subtract the percentage from 100% and write it as a decimal: +3.5% gives 1.035, −12% gives 0.88.\n- Exponential is different from linear. Linear adds the same amount each step. Exponential multiplies by the same factor each step. A table with a constant ratio between outputs is exponential.\n\n## Worked examples\n1. A culture starts with 500 bacteria and grows 20% every hour. After 4 hours: N = 500 × 1.2⁴ = 1036.8, so about 1037 bacteria.\n2. A car worth $24 000 loses 15% of its value each year. After 3 years: V = 24 000 × 0.85³ = $14 739. Notice this is not $24 000 − 3 × 15% of 24 000, which is the linear mistake.\n3. Finding the factor from data: a population is 300 at t = 0 and 432 at t = 2. Then b² = 432 ÷ 300 = 1.44, so b = 1.2, a growth of 20% per year.\n4. Finding how long: for 1000 to pass 2000 at 8% growth, test 1.08ⁿ > 2. Since 1.08⁹ is about 1.999 and 1.08¹⁰ is about 2.159, it takes 10 whole years.\n\n## Graph features\nAn exponential growth graph passes through (0, a), rises slowly then very steeply, and never goes below the x-axis. A decay graph falls quickly at first, then flattens towards the x-axis without ever touching it.\n\n## Half-life\nA half-life is the time for a quantity to halve. An 80 g sample with a half-life of 6 days is 40 g after 6 days, 20 g after 12 days and 10 g after 18 days. Count the number of half-lives first, then halve that many times.\n\n## Limitations of exponential models\nReal growth cannot continue forever. Food, space or money run out, so an exponential model is only reliable over a limited range. Always say what assumption you are making, such as a constant rate of growth.\n\n## How this is examined\nThe eAssessment usually gives a context (a population, a depreciating machine, a drug dose) and asks you to write down the starting value and factor, calculate a value after a number of periods, show that the model fits given data, and then evaluate it. Look for marks on stating assumptions, rounding sensibly and comparing the model's prediction with real data using percentage error.\n\n## Common mistakes\n- Using 0.2 instead of 1.2 for a 20% increase.\n- Multiplying the percentage by the number of years.\n- Applying the power to the starting value as well, such as (5 × 3)².\n- Giving a decay answer that is larger than the start.\n\nExam tip: write the model as y = a × bˣ with a and b labelled before you substitute, and keep full calculator values until the final rounding.",
+  "flashcards": [
+   {
+    "front": "General exponential model",
+    "back": "y = a × bˣ, where a is the starting value (x = 0) and b is the growth or decay factor."
+   },
+   {
+    "front": "Growth factor for +20%",
+    "back": "b = 1.2. Add the percentage to 100% and write as a decimal: 100% + 20% = 120% = 1.2."
+   },
+   {
+    "front": "Decay factor for −15%",
+    "back": "b = 0.85. Subtract the percentage from 100%: 100% − 15% = 85% = 0.85."
+   },
+   {
+    "front": "Linear vs exponential",
+    "back": "Linear: add the same amount each step (constant difference). Exponential: multiply by the same factor each step (constant ratio)."
+   },
+   {
+    "front": "How to spot exponential data in a table",
+    "back": "Divide each output by the one before. If the ratio is always the same, the data are exponential."
+   },
+   {
+    "front": "Half-life",
+    "back": "The time taken for a quantity to halve. After n half-lives the amount is the start × 0.5ⁿ."
+   },
+   {
+    "front": "Find the growth factor from two values",
+    "back": "If a population goes from P₀ to P after t periods, then bᵗ = P ÷ P₀. Take the t-th root to find b."
+   },
+   {
+    "front": "Shape of an exponential graph",
+    "back": "Growth: starts at (0, a), then rises more and more steeply. Decay: falls then flattens, getting close to the x-axis but never touching it."
+   },
+   {
+    "front": "Main limitation of an exponential model",
+    "back": "Growth cannot continue for ever because of limits such as food, space and money. The model is reliable only over a limited range."
+   }
+  ]
+ },
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Functions and Modelling",
+  "subTopic": "Modelling Real-World Situations",
+  "questions": [
+   {
+    "content": "What should you do first when building a mathematical model of a real situation?",
+    "options": [
+     "Choose the final answer",
+     "Draw the graph of the model",
+     "Round all the data",
+     "Identify the variables and state assumptions"
+    ],
+    "answer": 3,
+    "explanation": "Modelling starts by deciding which variables matter and what simplifying assumptions you are making. Calculation and checking come later.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A data set has x: 1, 2, 3, 4 and y: 7, 11, 15, 19. Which type of model fits?",
+    "options": [
+     "Quadratic",
+     "Exponential",
+     "Linear",
+     "Reciprocal"
+    ],
+    "answer": 2,
+    "explanation": "The outputs increase by 4 each time, a constant difference, so the model is linear: y = 4x + 3.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is it called when a model is used to predict a value outside the range of the data used to make it?",
+    "options": [
+     "Interpolation",
+     "Extrapolation",
+     "Estimation",
+     "Verification"
+    ],
+    "answer": 1,
+    "explanation": "Extrapolation goes beyond the data range and can be unreliable. Interpolation stays inside the range.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a modelling assumption?",
+    "options": [
+     "Fuel prices stay the same for the next year",
+     "The calculation gave 4.8",
+     "The answer is rounded to 3 significant figures",
+     "The graph passes through the origin"
+    ],
+    "answer": 0,
+    "explanation": "An assumption is a simplifying condition accepted about the situation. The others are results or rounding choices.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is 4.8372 rounded to 3 significant figures?",
+    "options": [
+     "4.83",
+     "4.8",
+     "4.837",
+     "4.84"
+    ],
+    "answer": 3,
+    "explanation": "The first three significant figures are 4, 8, 3 and the next digit is 7, so round the 3 up to 4. Cutting off the digits gives 4.83.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A gym charges a $20 joining fee plus $12 per month, so C = 20 + 12m. Alex has a budget of $210. What is the greatest number of full months Alex can pay for?",
+    "options": [
+     "16",
+     "17.5",
+     "15",
+     "15.83"
+    ],
+    "answer": 2,
+    "explanation": "20 + 12m ≤ 210 gives m ≤ 15.83. Only whole months count, so the answer is 15. Rounding up to 16 would cost 20 + 192 = $212, over budget.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A data set has x: 0, 1, 2, 3 and y: 3, 6, 12, 24. Which model fits?",
+    "options": [
+     "y = 3x + 3",
+     "y = 3 × 2ˣ",
+     "y = 3x²",
+     "y = x + 3"
+    ],
+    "answer": 1,
+    "explanation": "Each y-value is double the previous one, so the model is exponential: y = 3 × 2ˣ. A linear rule gives 6, 9, 12.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A sequence of values is 1, 4, 9, 16, 25. The first differences are 3, 5, 7, 9. What type of model is suggested?",
+    "options": [
+     "Quadratic, because the second differences are constant",
+     "Linear, because the differences increase by 2",
+     "Exponential, because the values grow quickly",
+     "Linear, because the values increase"
+    ],
+    "answer": 0,
+    "explanation": "The second differences are 2, 2, 2, so the model is quadratic (y = x²). Constant first differences would suggest linear.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A model predicts that a bridge cable is 48 m long, but its measured length is 50 m. What is the percentage error?",
+    "options": [
+     "4.2%",
+     "2%",
+     "96%",
+     "4%"
+    ],
+    "answer": 3,
+    "explanation": "Error = 2 m, so percentage error = 2 ÷ 50 × 100 = 4%. Dividing by the model value (48) gives 4.2%.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A model H = 6.5a + 75 gives a child's height in cm at age a. It was fitted using data for ages 3 to 10. It predicts H = 270 cm at age 30. Why is this unreliable?",
+    "options": [
+     "The model should use a quadratic function",
+     "270 is not a multiple of 6.5",
+     "Age 30 is outside the data range, and people stop growing",
+     "Heights must be rounded to 3 significant figures"
+    ],
+    "answer": 2,
+    "explanation": "This is extrapolation. The rule works for children but does not account for growth stopping. 6.5 × 30 + 75 = 270 is calculated correctly.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A wind farm has 12 turbines, each with a capacity of 2.5 MW. On average each runs at 35% of its capacity. How much energy is produced per day (24 hours)?",
+    "options": [
+     "720 MWh",
+     "252 MWh",
+     "10.5 MWh",
+     "21 MWh"
+    ],
+    "answer": 1,
+    "explanation": "Average power = 12 × 2.5 × 0.35 = 10.5 MW. Over 24 hours the energy is 10.5 × 24 = 252 MWh. 720 MWh ignores the 35% and 21 MWh is for a single turbine.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student proposes the rule C = 4n + 3 for the number of tiles in pattern n. The counted values are 7, 11 and 16 for n = 1, 2, 3. Which statement tests the rule correctly?",
+    "options": [
+     "The rule fails because it gives 15 at n = 3, not 16",
+     "The rule works because it fits n = 1 and n = 2",
+     "The rule fails because it gives the wrong value at n = 1",
+     "The rule works because 7, 11 and 16 are all odd or prime"
+    ],
+    "answer": 0,
+    "explanation": "To verify a rule you must test all known cases. n = 1 gives 7 and n = 2 gives 11, but n = 3 gives 15, which does not match the counted 16.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A pool contains 450 litres and is filled at a steady rate so that V = 450 + 30t, with t in minutes. How long until it holds 1200 litres?",
+    "options": [
+     "40 minutes",
+     "55 minutes",
+     "22.5 minutes",
+     "25 minutes"
+    ],
+    "answer": 3,
+    "explanation": "Solve 450 + 30t = 1200, so 30t = 750 and t = 25. Dividing 1200 by 30 ignores the starting volume.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solar panels have an area of 20 m² and are 18% efficient. The average sunlight is 850 W/m² for 5 hours per day. Electricity is worth $0.22 per kWh. What is the value of the energy produced per day, to the nearest cent?",
+    "options": [
+     "$0.67",
+     "$15.30",
+     "$3.37",
+     "$3366"
+    ],
+    "answer": 2,
+    "explanation": "Power = 0.18 × 20 × 850 = 3060 W = 3.06 kW. Energy = 3.06 × 5 = 15.3 kWh, worth 15.3 × 0.22 = $3.37. Forgetting the 5 hours gives $0.67.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The data are t: 0, 1, 2, 3 and y: 10, 20, 40, 80. A student says the data must be quadratic because the graph curves upward. Which evidence best shows that an exponential model is more suitable?",
+    "options": [
+     "The first differences 10, 20, 40 are constant",
+     "Each value is double the previous one, a constant ratio of 2",
+     "The graph curves upward",
+     "The second differences are constant"
+    ],
+    "answer": 1,
+    "explanation": "A constant ratio shows exponential growth: y = 10 × 2ᵗ. The first differences (10, 20, 40) and second differences (10, 20) are not constant, so the data are not linear or quadratic.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A model predicts a tank holds 2400 litres, but the real tank holds 2550 litres. The designer accepts errors of up to 5%. What is the percentage error and is it acceptable?",
+    "options": [
+     "5.9%, which is outside the 5% limit",
+     "5.9%, which is within the limit",
+     "6.3%, which is outside the limit",
+     "6.3%, which is within the limit"
+    ],
+    "answer": 0,
+    "explanation": "Error = 150 litres, so 150 ÷ 2550 × 100 = 5.9%, which exceeds 5%. Dividing by the model value (2400) gives 6.3%, the wrong denominator.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An oven's temperature is modelled by T = 20 + 15t (°C, t in minutes) but the oven cannot go above 200 °C. What is the greatest value of t for which the model is valid?",
+    "options": [
+     "13.3 minutes",
+     "15 minutes",
+     "180 minutes",
+     "12 minutes"
+    ],
+    "answer": 3,
+    "explanation": "Solve 20 + 15t = 200, so 15t = 180 and t = 12. Dividing 200 by 15 forgets the starting temperature of 20 °C.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A town of 12 000 people is modelled by P = 12 000 × 1.02ᵗ, where t is in years. The model predicts a population of 17 831 after 20 years, but a census finds 16 900. What is the percentage error, to 1 decimal place?",
+    "options": [
+     "5.2%",
+     "4.0%",
+     "5.5%",
+     "0.9%"
+    ],
+    "answer": 2,
+    "explanation": "Error = 17 831 − 16 900 = 931, so 931 ÷ 16 900 × 100 = 5.5%. Dividing by the model value gives 5.2%, since the actual value is the reference.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Mathematical modelling means using maths to describe a real situation, make predictions and help with decisions. A model is never perfect, so good modellers state their assumptions, test their model and say where it might fail.\n\n## The modelling cycle\n1. Identify the real-life problem and the variables involved, such as time, cost, distance or mass.\n2. State assumptions to simplify the situation. For example: \"fuel prices stay the same this year\" or \"the wind blows at a constant speed\".\n3. Choose a type of model: linear (constant difference), quadratic (constant second difference) or exponential (constant ratio).\n4. Calculate using the model.\n5. Check the answer against real data and judge whether it is sensible.\n6. Evaluate and improve the model.\n\n## Choosing the right model\n- Differences between outputs are constant: linear, such as 7, 11, 15, 19.\n- First differences change but second differences are constant: quadratic. The square numbers 1, 4, 9, 16, 25 have first differences 3, 5, 7, 9 and second differences 2.\n- Each output is the previous one multiplied by the same number: exponential, such as 3, 6, 12, 24. Do not decide by shape alone. Curved upward does not mean quadratic.\n\n## Using a model\nA gym charges a $20 joining fee plus $12 per month, so C = 20 + 12m. With $210 the greatest number of full months is found from 20 + 12m ≤ 210, so m ≤ 15.83. The answer in context is 15 months, not 16, because you cannot pay for part of a month and stay within budget. Interpret numerical answers in the context of the question.\n\n## Accuracy and error\n- Rounding: round to the accuracy asked (decimal places or significant figures), and do not round during the calculation.\n- Percentage error = |model value − actual value| ÷ actual value × 100. A model predicting 48 m for an actual 50 m has an error of 2 ÷ 50 × 100 = 4%.\n- Decide whether the error is acceptable for the purpose, for example a tolerance of 5%.\n\n## Interpolation and extrapolation\nInterpolation predicts inside the range of the data and is usually reliable. Extrapolation predicts outside the range and can be unreliable. A child's height model fitted from ages 3 to 10 gives nonsense for age 30, because people stop growing.\n\n## Limitations\nTypical limitations are: the assumption may not hold, the data may be small or rounded, the model may stop being valid beyond a certain value, and other factors may be ignored. Always link the limitation to the context.\n\n## How this is examined\nCriterion D style tasks present a real-world context with data. You identify the relevant information, build or apply a model, calculate, check the accuracy, then discuss the limitations and sustainability or impact. Marks are earned for stating assumptions and for justifying conclusions, not just for the final number.\n\nExam tip: when asked to evaluate, name one specific limitation, say how it affects the result, and suggest one improvement.",
+  "flashcards": [
+   {
+    "front": "What is a mathematical model?",
+    "back": "A mathematical description of a real situation, built using variables, rules and assumptions, used to explain or predict."
+   },
+   {
+    "front": "What is an assumption?",
+    "back": "A simplifying statement you accept without proof, such as 'the speed stays constant'. State assumptions clearly in modelling tasks."
+   },
+   {
+    "front": "Test for a linear model",
+    "back": "The differences between consecutive outputs are constant (equal steps in x)."
+   },
+   {
+    "front": "Test for a quadratic model",
+    "back": "First differences change, but second differences are constant. For example 1, 4, 9, 16 has second difference 2."
+   },
+   {
+    "front": "Test for an exponential model",
+    "back": "Each output is the previous output multiplied by the same factor, so the ratios are constant."
+   },
+   {
+    "front": "Percentage error formula",
+    "back": "|model value − actual value| ÷ actual value × 100. It tells you how accurate the model is."
+   },
+   {
+    "front": "Interpolation vs extrapolation",
+    "back": "Interpolation: predicting inside the data range (fairly reliable). Extrapolation: predicting outside it (often unreliable)."
+   },
+   {
+    "front": "Why round only at the end?",
+    "back": "Rounding early can make the final answer inaccurate. Keep full values in your calculator and round to the required accuracy at the end."
+   },
+   {
+    "front": "What should an evaluation of a model include?",
+    "back": "A specific limitation, how it affects the result, a comparison with real data or error, and a suggested improvement."
+   }
+  ]
+ }
+]

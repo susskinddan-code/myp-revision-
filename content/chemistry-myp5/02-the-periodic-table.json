@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "chemistry",
+  "grade": 5,
+  "topic": "The Periodic Table",
+  "subTopic": "Periodic Table Structure and Trends",
+  "questions": [
+   {
+    "content": "An element X has the electron arrangement 2,8,5. In which group and period of the periodic table is it found?",
+    "options": [
+     "Group 5, Period 3",
+     "Group 3, Period 5",
+     "Group 5, Period 2",
+     "Group 8, Period 3"
+    ],
+    "answer": 0,
+    "explanation": "The 5 outer electrons give the group number and the three occupied shells give the period number.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Elements in the same group of the periodic table have similar chemical properties. What is the main reason?",
+    "options": [
+     "They have the same number of electron shells",
+     "They have the same number of outer-shell electrons",
+     "They have the same mass number",
+     "They have the same number of neutrons"
+    ],
+    "answer": 1,
+    "explanation": "Chemical reactions involve the outer electrons, so atoms with the same outer-shell number react in similar ways. The number of shells is what stays the same along a period.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Mendeleev left gaps in his table for elements that had not yet been discovered. What did this allow him to do?",
+    "options": [
+     "Calculate the exact mass of every electron",
+     "Place the elements in order of density",
+     "Predict the properties of the missing elements",
+     "Remove the elements that did not fit"
+    ],
+    "answer": 2,
+    "explanation": "By looking at neighbours in the gaps he could predict properties. When elements matching his predictions were found, scientists trusted his table.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does the period number of an element tell you about its atoms?",
+    "options": [
+     "The number of outer electrons",
+     "The number of protons in the nucleus",
+     "The number of neutrons",
+     "The number of occupied electron shells"
+    ],
+    "answer": 3,
+    "explanation": "A period is a horizontal row. Sodium, with shells 2,8,1, is in Period 3 because it has three shells.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these elements is a halogen?",
+    "options": [
+     "Bromine",
+     "Neon",
+     "Sodium",
+     "Sulfur"
+    ],
+    "answer": 0,
+    "explanation": "Halogens are the Group 7 elements: fluorine, chlorine, bromine and iodine. Neon is a noble gas, sodium an alkali metal and sulfur is in Group 6.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Moving from sodium to chlorine across Period 3, what happens to the atomic radius, and why?",
+    "options": [
+     "It increases because more electrons are added",
+     "It decreases because the nuclear charge increases while electrons enter the same shell",
+     "It stays the same because the number of shells is unchanged",
+     "It decreases because electrons are lost from the atoms"
+    ],
+    "answer": 1,
+    "explanation": "More protons pull the outer electrons in more strongly while the shell number stays at 3, so atoms shrink across a period.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An element has the electron arrangement 2,8,2. What is the charge on the ion it forms?",
+    "options": [
+     "2−",
+     "1+",
+     "2+",
+     "6−"
+    ],
+    "answer": 2,
+    "explanation": "The atom has two outer electrons, which it loses to reach a full outer shell, so it forms an ion with a 2+ charge (this is magnesium).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Melting points of Group 1 metals are: lithium 181 °C, sodium 98 °C, potassium 63 °C, rubidium 39 °C. Which is the best prediction for caesium, the next element down?",
+    "options": [
+     "About 60 °C",
+     "About 100 °C",
+     "About 180 °C",
+     "About 28 °C"
+    ],
+    "answer": 3,
+    "explanation": "The melting points fall down the group, so caesium should be lower than 39 °C. Values of 60, 100 or 180 °C would break the trend.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Mendeleev put tellurium (relative atomic mass 127.6) before iodine (126.9), even though this breaks the order of mass. What was his reason?",
+    "options": [
+     "Their chemical properties matched the groups they were placed in",
+     "He had measured the masses incorrectly",
+     "Iodine had not been discovered yet",
+     "Both elements have the same number of shells"
+    ],
+    "answer": 0,
+    "explanation": "Mendeleev trusted similar properties over strict mass order. Iodine behaves like chlorine and bromine, so it belongs in their group.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The oxide of an element dissolves in water to give an acidic solution. Which statement about the element is most likely true?",
+    "options": [
+     "It is a metal in Group 1",
+     "It is a non-metal on the right-hand side of the table",
+     "It is a transition metal",
+     "It is a noble gas"
+    ],
+    "answer": 1,
+    "explanation": "Non-metal oxides are usually acidic, while metal oxides are usually basic. Non-metals are found to the right of the table.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Sodium, magnesium and aluminium are in Period 3. Which gives their order of reactivity from most to least reactive?",
+    "options": [
+     "Aluminium, magnesium, sodium",
+     "Magnesium, sodium, aluminium",
+     "Sodium, magnesium, aluminium",
+     "Sodium, aluminium, magnesium"
+    ],
+    "answer": 2,
+    "explanation": "Metals become less reactive across a period because it is harder to lose three electrons than one. Sodium loses one outer electron easily.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Element Q is in Group 2 and Period 4. What is its atomic number?",
+    "options": [
+     "12",
+     "18",
+     "24",
+     "20"
+    ],
+    "answer": 3,
+    "explanation": "Fill shells: 2 + 8 + 8 + 2 = 20 electrons, so 20 protons. This is calcium. Magnesium (12) is in Period 3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why do atoms get larger going down a group?",
+    "options": [
+     "Each element has one more occupied electron shell than the one above",
+     "Each element has fewer protons",
+     "The outer electrons are held more tightly",
+     "The nucleus becomes smaller"
+    ],
+    "answer": 0,
+    "explanation": "Extra shells place the outer electrons further from the nucleus, so the atom is bigger even though the nuclear charge also increases.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The atomic radius of sodium is 0.19 nm and of chlorine is 0.10 nm (values rounded). What is the percentage decrease in radius from sodium to chlorine?",
+    "options": [
+     "53%",
+     "47%",
+     "90%",
+     "19%"
+    ],
+    "answer": 1,
+    "explanation": "Decrease = (0.19 − 0.10) ÷ 0.19 × 100 = 47%. A value of 53% is what you get by dividing chlorine's radius by sodium's, which is a ratio, not a decrease.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which argument best justifies why chlorine atoms are smaller than sodium atoms even though chlorine has more electrons?",
+    "options": [
+     "Chlorine has more shells than sodium",
+     "Chlorine has lost electrons to become positive",
+     "Chlorine has a greater nuclear charge and its extra electrons go into the same shell, so they are pulled in closer",
+     "Extra electrons repel each other, shrinking the atom"
+    ],
+    "answer": 2,
+    "explanation": "Both atoms have three shells, but chlorine has 17 protons against 11, so the outer electrons feel a stronger pull. More shells would make an atom larger.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A scientist uses a gap in a periodic table to predict that a new element X will have a relative atomic mass of about 72 and form an oxide XO₂. Which finding would best support the predictive value of the table?",
+    "options": [
+     "The new element is found to be a gas at room temperature",
+     "The new element has a mass of 100 and forms XO₃",
+     "The new element is discovered in a different country",
+     "The newly found element has a mass near 72 and forms an oxide XO₂"
+    ],
+    "answer": 3,
+    "explanation": "A prediction is supported when measured values match what was predicted. Different values would mean the pattern had failed for that case.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student notes the atomic numbers of Group 1 elements: lithium 3, sodium 11, potassium 19, rubidium 37. She suggests the rule 'each element is 8 more than the one above'. Which statement tests and judges her rule?",
+    "options": [
+     "It works for sodium and potassium but fails for rubidium, which is 18 above potassium",
+     "The rule works for every element in the group",
+     "The rule fails for sodium because 11 − 3 is 8",
+     "The rule only fails for lithium"
+    ],
+    "answer": 0,
+    "explanation": "Differences are 8, 8, then 18. A general rule must hold for all cases, so one failure shows it is not valid for the whole group. Later periods hold more electrons.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Elements Y and Z are in the same period. Y has 3 outer electrons and Z has 7. A student claims Y is a more reactive non-metal. Which comment on this claim is correct?",
+    "options": [
+     "Correct: elements with fewer outer electrons are always non-metals",
+     "Wrong: Y is a metal and Z is the non-metal, because metals have few outer electrons and non-metals have many",
+     "Wrong: both are metals because they are in the same period",
+     "Correct: Y has more shells than Z"
+    ],
+    "answer": 1,
+    "explanation": "Metals tend to lose a small number of outer electrons, while non-metals with 7 outer electrons gain one more. Same period means same number of shells, not same type.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "The periodic table arranges elements in order of increasing atomic number (the number of protons). It has vertical columns called groups and horizontal rows called periods. This layout is not random: it shows patterns that let you predict how elements behave.\n\n## Groups and periods\n- The **group number** tells you how many electrons are in the outer shell. Group 1 atoms have one outer electron, Group 7 atoms have seven. Group 0 (the noble gases) have full outer shells.\n- The **period number** tells you how many electron shells are occupied. Sodium has the arrangement 2,8,1, so it is in Group 1 and Period 3.\n- Elements in the same group have similar chemical properties because they have the same number of outer electrons.\n- Metals are on the left and in the centre; non-metals are on the right. The staircase line divides them.\n\n## Mendeleev's table\nDmitri Mendeleev arranged elements by atomic mass and in groups with similar properties. He left gaps for elements that had not yet been found and predicted their properties. When these elements were discovered with properties close to his predictions, the table gained trust. He also swapped a few elements, such as tellurium and iodine, so that they sat in the group matching their properties. We now order by atomic number, which explains those swaps.\n\n## Trends across a period (left to right)\n- Nuclear charge increases because the number of protons rises, while the electrons enter the same shell.\n- Atomic radius **decreases**, since the outer electrons are pulled in more strongly.\n- Metallic character decreases: elements change from reactive metals to non-metals. Oxides change from basic to acidic.\n- Reactivity of the metals decreases from sodium to aluminium, because losing more electrons is harder.\n\n## Trends down a group\n- Each element has one more shell, so atomic radius **increases**.\n- The outer electrons are further from the nucleus and are shielded by inner shells, so they are held less tightly.\n- In Group 1, metals lose that electron more easily, so reactivity increases. In Group 7, atoms must gain an electron, which is harder when the outer shell is far from the nucleus, so reactivity decreases.\n\n## Worked example\nTake an element with the electron arrangement 2,8,6. Outer electrons = 6, so Group 6. Shells = 3, so Period 3. This is sulfur, a non-metal. It would gain two electrons to form an S²⁻ ion.\n\n## Common mistakes\n- Mixing up groups and periods. Groups go down, periods go across.\n- Saying that atoms get smaller going down a group. They get larger.\n- Explaining trends only with words like 'more electrons'. Always link to shells, nuclear charge and distance.\n\n## How this is examined\nYou are usually given a context, such as data about a newly discovered element or a table of melting points or atomic radii. You will be asked to state a group or period, describe a pattern, predict a missing value, then justify the prediction and comment on how reliable it is. Extended tasks ask you to test a rule on new cases and decide whether it still works, so always check a pattern against every data point before you accept it.\n\nExam tip: When explaining a trend, name three things: the number of shells, the nuclear charge and the pull on the outer electrons. Use command words correctly: 'describe' means say what happens, 'explain' means say why.",
+  "flashcards": [
+   {
+    "front": "What is a group in the periodic table?",
+    "back": "A vertical column of elements with the same number of outer-shell electrons and similar chemical properties."
+   },
+   {
+    "front": "What is a period?",
+    "back": "A horizontal row of elements. The period number equals the number of occupied electron shells."
+   },
+   {
+    "front": "How is the modern periodic table ordered?",
+    "back": "By increasing atomic number (number of protons)."
+   },
+   {
+    "front": "Why did Mendeleev leave gaps?",
+    "back": "He predicted that undiscovered elements existed and predicted their properties. Later discoveries matched his predictions."
+   },
+   {
+    "front": "Trend in atomic radius across a period",
+    "back": "Decreases: more protons pull electrons in more strongly while the electrons enter the same shell."
+   },
+   {
+    "front": "Trend in atomic radius down a group",
+    "back": "Increases: each element has an extra electron shell."
+   },
+   {
+    "front": "Where are metals and non-metals?",
+    "back": "Metals are on the left and in the centre; non-metals are on the right of the staircase line."
+   },
+   {
+    "front": "What type of oxides do metals and non-metals form?",
+    "back": "Metal oxides are basic (alkaline when soluble). Non-metal oxides are acidic."
+   },
+   {
+    "front": "Link between group number and ions",
+    "back": "Group 1 forms 1+, Group 2 forms 2+, Group 6 forms 2−, Group 7 forms 1−, to reach a full outer shell."
+   }
+  ]
+ },
+ {
+  "subject": "chemistry",
+  "grade": 5,
+  "topic": "The Periodic Table",
+  "subTopic": "Group 1 and Group 7 Chemistry",
+  "questions": [
+   {
+    "content": "Which gas is produced when sodium reacts with water?",
+    "options": [
+     "Oxygen",
+     "Hydrogen",
+     "Carbon dioxide",
+     "Chlorine"
+    ],
+    "answer": 1,
+    "explanation": "Sodium displaces hydrogen from water: sodium + water → sodium hydroxide + hydrogen. The gas gives a squeaky pop with a lit splint.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why are Group 1 metals stored under oil?",
+    "options": [
+     "They are poisonous gases",
+     "They are very dense and sink",
+     "They react with air and water",
+     "They melt at room temperature"
+    ],
+    "answer": 2,
+    "explanation": "Alkali metals react quickly with oxygen and moisture in the air, so oil keeps them away from both.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the state of bromine at room temperature (about 20 °C)?",
+    "options": [
+     "Gas",
+     "Solid",
+     "Plasma",
+     "Liquid"
+    ],
+    "answer": 3,
+    "explanation": "Chlorine is a gas, bromine is a red-brown liquid and iodine is a grey solid at room temperature.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "How many electrons are in the outer shell of a halogen atom?",
+    "options": [
+     "7",
+     "1",
+     "2",
+     "8"
+    ],
+    "answer": 0,
+    "explanation": "Halogens are in Group 7, so they have seven outer electrons and gain one to form a 1− ion.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What charge is on the ion formed by a Group 1 metal?",
+    "options": [
+     "1−",
+     "1+",
+     "2+",
+     "7+"
+    ],
+    "answer": 1,
+    "explanation": "Group 1 atoms lose their single outer electron, leaving one more proton than electrons, a 1+ ion.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A small piece of lithium is added to water containing universal indicator. What colour does the indicator turn, and why?",
+    "options": [
+     "Red, because an acid is formed",
+     "Green, because the solution is neutral",
+     "Purple, because lithium hydroxide is a strong alkali",
+     "Colourless, because the lithium dissolves"
+    ],
+    "answer": 2,
+    "explanation": "Lithium reacts to give lithium hydroxide and hydrogen. The hydroxide dissolves to make a strongly alkaline solution with a high pH.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Three Group 1 metals are placed in water. Metal A fizzes slowly. Metal B melts into a ball and moves quickly across the surface. Metal C ignites with a lilac flame. Which is metal C?",
+    "options": [
+     "Lithium",
+     "Sodium",
+     "Caesium",
+     "Potassium"
+    ],
+    "answer": 3,
+    "explanation": "Reactivity rises down the group: lithium reacts steadily, sodium melts into a ball, and potassium is vigorous enough to ignite with a lilac flame. Caesium is not used in school labs.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What happens when chlorine water is added to potassium bromide solution?",
+    "options": [
+     "The solution turns orange as bromine is formed",
+     "The solution turns purple",
+     "The solution stays colourless",
+     "A white solid forms and falls"
+    ],
+    "answer": 0,
+    "explanation": "Chlorine is more reactive than bromine, so it displaces it: Cl₂ + 2KBr → 2KCl + Br₂. The orange colour is dissolved bromine.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which equation for sodium and water is correctly balanced?",
+    "options": [
+     "Na + H₂O → NaOH + H₂",
+     "2Na + 2H₂O → 2NaOH + H₂",
+     "2Na + H₂O → 2NaOH + H₂",
+     "Na + 2H₂O → NaOH + H₂"
+    ],
+    "answer": 1,
+    "explanation": "Count each atom: 2 Na, 4 H and 2 O on each side. The others have unequal numbers of hydrogen or oxygen atoms.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why does reactivity decrease down Group 7?",
+    "options": [
+     "Atoms lose electrons more easily",
+     "The atoms contain fewer protons",
+     "The outer shell is further from the nucleus, so an incoming electron is attracted less strongly",
+     "Atoms have fewer outer electrons"
+    ],
+    "answer": 2,
+    "explanation": "Halogens react by gaining an electron. With more shielding and a greater distance, the nucleus pulls on that electron less, so larger halogens are less reactive.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Chlorine melts at −101 °C and boils at −34 °C. Bromine melts at −7 °C and boils at 59 °C. Iodine melts at 114 °C and boils at 184 °C. What is the state of bromine at 20 °C?",
+    "options": [
+     "Gas",
+     "Solid",
+     "Gas and solid mixed",
+     "Liquid"
+    ],
+    "answer": 3,
+    "explanation": "At 20 °C bromine is above its melting point (−7 °C) but below its boiling point (59 °C), so it is a liquid.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the formula of the compound formed when potassium reacts with bromine?",
+    "options": [
+     "KBr",
+     "K₂Br",
+     "KBr₂",
+     "K₂Br₂"
+    ],
+    "answer": 0,
+    "explanation": "Potassium forms K⁺ and bromine forms Br⁻. One of each balances the charge, giving KBr.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Compared with iron, which describes sodium?",
+    "options": [
+     "Harder, with a higher density",
+     "Softer, with a lower density and lower melting point",
+     "Softer, with a higher melting point",
+     "Harder, with a lower melting point"
+    ],
+    "answer": 1,
+    "explanation": "Group 1 metals are soft enough to cut with a knife, float on water, and melt easily. Iron is a typical hard, dense metal with a high melting point.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student reacts 2.30 g of sodium (relative atomic mass 23) with excess water. Sodium hydroxide has a relative formula mass of 40. What mass of sodium hydroxide forms?",
+    "options": [
+     "2.0 g",
+     "8.0 g",
+     "4.0 g",
+     "2.3 g"
+    ],
+    "answer": 2,
+    "explanation": "Moles of Na = 2.30 ÷ 23 = 0.10. The equation shows 1 mol Na gives 1 mol NaOH, so mass = 0.10 × 40 = 4.0 g.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Fluorine is more reactive than chlorine. Which explanation is the best?",
+    "options": [
+     "Fluorine has more electron shells so it loses electrons easily",
+     "Fluorine has fewer outer electrons than chlorine",
+     "Fluorine has a higher relative atomic mass",
+     "A fluorine atom is smaller, so its outer shell is closer to the nucleus and gains an electron more easily"
+    ],
+    "answer": 3,
+    "explanation": "Both halogens need one electron. In fluorine the gap is closer to the nucleus with less shielding, so the attraction for the incoming electron is greater.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student separately adds bromine water to solutions of sodium chloride and sodium iodide. Which observation is correct?",
+    "options": [
+     "No change with sodium chloride; a brown colour forms with sodium iodide",
+     "Brown with sodium chloride; no change with sodium iodide",
+     "Brown with both",
+     "No change with either"
+    ],
+    "answer": 0,
+    "explanation": "Bromine is less reactive than chlorine, so it cannot displace chlorine, but it is more reactive than iodine, so it displaces iodine, giving a brown solution.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student compares reactivity by timing how long a piece of each Group 1 metal takes to disappear in water. Which feature of the method makes the comparison least reliable?",
+    "options": [
+     "The water is clear",
+     "The pieces are not the same size and some have a thicker coating of oxide",
+     "The pieces are all from Group 1",
+     "Time is measured in seconds"
+    ],
+    "answer": 1,
+    "explanation": "Surface area and surface coating change the rate. Pieces must have the same mass and be freshly cut to make it a fair test, with the metal as the only variable.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Sodium melts at 98 °C and potassium at 63 °C. Chlorine boils at −34 °C and bromine at 59 °C. Which statement describes both trends?",
+    "options": [
+     "Both groups show a decrease down the group",
+     "Both groups show an increase down the group",
+     "Melting points decrease down Group 1 but boiling points increase down Group 7",
+     "Melting points increase down Group 1 but decrease down Group 7"
+    ],
+    "answer": 2,
+    "explanation": "Metallic bonding gets weaker in larger Group 1 atoms, but the forces between larger halogen molecules get stronger. The two groups follow opposite trends.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Group 1 and Group 7 are two of the most examined groups in the periodic table because they show clear trends and opposite behaviour. Group 1 are the alkali metals and Group 7 are the halogens.\n\n## Group 1: the alkali metals\nLithium, sodium and potassium (then rubidium and caesium) each have **one outer electron**. They lose it to form a **1+ ion**.\n- Physical properties: soft (you can cut them with a knife), shiny when freshly cut, low density (lithium, sodium and potassium float on water) and low melting points compared with other metals. Melting points decrease down the group.\n- They are stored under oil because they react with air and moisture.\n- Reaction with water: metal + water → metal hydroxide + hydrogen. For sodium: 2Na + 2H₂O → 2NaOH + H₂. The hydroxide is alkaline, so universal indicator turns purple. Hydrogen is tested with a lit splint (squeaky pop).\n- Reactivity **increases down the group**: lithium fizzes steadily, sodium melts into a ball, potassium burns with a lilac flame. This is because the outer electron is further from the nucleus and shielded by more shells, so it is lost more easily.\n\n## Group 7: the halogens\nHalogens have **seven outer electrons** and exist as **diatomic molecules** (F₂, Cl₂, Br₂, I₂). They gain one electron to form a **1− ion** (halide).\n- Chlorine is a pale green gas, bromine a red-brown liquid, iodine a grey solid (giving a purple vapour when heated). Melting and boiling points **increase down the group**.\n- Reactivity **decreases down the group**, because the outer shell is further from the nucleus and an extra electron is attracted less strongly.\n- Halogens react with metals to form ionic salts, such as sodium + chlorine → sodium chloride.\n\n## Displacement reactions\nA more reactive halogen displaces a less reactive halide from solution.\n- Chlorine + potassium bromide → potassium chloride + bromine: Cl₂ + 2KBr → 2KCl + Br₂ (solution turns orange).\n- Chlorine or bromine added to potassium iodide gives iodine (brown).\n- Iodine does not displace chlorine or bromine, so there is no change.\n\n## Worked example\n2.30 g of sodium (A_r = 23) reacts with water. Moles = 2.30 ÷ 23 = 0.10 mol. The equation shows 2 mol Na gives 2 mol NaOH, so 0.10 mol NaOH forms. With M_r = 40, mass = 0.10 × 40 = 4.0 g.\n\n## Common mistakes\n- Saying Group 7 gets more reactive down the group. It is the opposite of Group 1.\n- Forgetting that halogens are diatomic when writing equations.\n- Writing 'sodium' where the product is 'sodium hydroxide' or leaving out hydrogen.\n\n## How this is examined\nYou will often see a lab context: observations when metals are added to water, or a table of melting points for a group. Questions ask you to state a trend, predict an unseen element (for example caesium or astatine), write a balanced equation, and justify using shells and attraction to the nucleus. Extended questions ask how to make a fair test, how to improve reliability and how to evaluate a prediction made from a trend.\n\nExam tip: To explain the Group 1 trend, link reactivity to the distance between the outer electron and the nucleus plus shielding. For Group 7, switch to 'attracting an extra electron'.",
+  "flashcards": [
+   {
+    "front": "Group 1 name and outer electrons",
+    "back": "Alkali metals. One outer electron, which is lost to form a 1+ ion."
+   },
+   {
+    "front": "Sodium + water: equation",
+    "back": "2Na + 2H₂O → 2NaOH + H₂. Products: sodium hydroxide (alkaline) and hydrogen gas."
+   },
+   {
+    "front": "Trend in Group 1 reactivity and why",
+    "back": "Increases down the group: the outer electron is further from the nucleus and more shielded, so it is lost more easily."
+   },
+   {
+    "front": "Physical properties of alkali metals",
+    "back": "Soft, low density (Li, Na, K float), low melting points compared with most metals. Melting points decrease down the group."
+   },
+   {
+    "front": "Group 7 name and outer electrons",
+    "back": "Halogens. Seven outer electrons; they gain one electron to form a 1− ion. Exist as diatomic molecules."
+   },
+   {
+    "front": "Colours and states: Cl₂, Br₂, I₂",
+    "back": "Chlorine: pale green gas. Bromine: red-brown liquid. Iodine: grey solid (purple vapour)."
+   },
+   {
+    "front": "Trend in Group 7 reactivity and why",
+    "back": "Decreases down the group: the outer shell is further from the nucleus, so an incoming electron is attracted less strongly."
+   },
+   {
+    "front": "What is a displacement reaction in Group 7?",
+    "back": "A more reactive halogen displaces a less reactive halide from its solution, e.g. Cl₂ + 2KBr → 2KCl + Br₂."
+   },
+   {
+    "front": "Trend in melting points of Group 7",
+    "back": "Increase down the group, since larger molecules have stronger forces between them (Cl₂ gas, Br₂ liquid, I₂ solid)."
+   }
+  ]
+ },
+ {
+  "subject": "chemistry",
+  "grade": 5,
+  "topic": "The Periodic Table",
+  "subTopic": "Noble Gases and Transition Metals",
+  "questions": [
+   {
+    "content": "Why are noble gases unreactive?",
+    "options": [
+     "They have only one electron shell",
+     "They are all very dense",
+     "They have full outer electron shells",
+     "They have no protons"
+    ],
+    "answer": 2,
+    "explanation": "A full outer shell is stable, so noble-gas atoms do not need to gain, lose or share electrons.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which noble gas is used to fill party balloons because it is light and does not burn?",
+    "options": [
+     "Argon",
+     "Xenon",
+     "Krypton",
+     "Helium"
+    ],
+    "answer": 3,
+    "explanation": "Helium has a very low density, so balloons rise, and it is unreactive. Argon is denser than air.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a transition metal?",
+    "options": [
+     "Iron",
+     "Sodium",
+     "Calcium",
+     "Chlorine"
+    ],
+    "answer": 0,
+    "explanation": "Transition metals sit in the block between Group 2 and Group 3. Iron, copper, nickel and zinc are examples.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What colour are most copper(II) compounds in solution?",
+    "options": [
+     "Colourless",
+     "Blue",
+     "Pink",
+     "Purple"
+    ],
+    "answer": 1,
+    "explanation": "Transition metal compounds are often coloured. Copper(II) sulfate solution is blue, while Group 1 compounds are usually white or colourless.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In what form do noble gases exist?",
+    "options": [
+     "Diatomic molecules",
+     "Giant lattices",
+     "Single atoms",
+     "Ionic compounds"
+    ],
+    "answer": 2,
+    "explanation": "Because they have full outer shells, noble gas atoms do not bond with each other, so they are monatomic.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why is argon used inside filament light bulbs?",
+    "options": [
+     "It is a good conductor of electricity",
+     "It is very light and rises",
+     "It is coloured and makes the light brighter",
+     "It is unreactive, so the hot metal filament does not burn away"
+    ],
+    "answer": 3,
+    "explanation": "A hot tungsten filament would react with oxygen in air. Argon is inert, so the filament lasts longer.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Boiling points: neon −246 °C, argon −186 °C, xenon −108 °C. Which is the best prediction for krypton?",
+    "options": [
+     "About −153 °C",
+     "About −250 °C",
+     "About −200 °C",
+     "About −90 °C"
+    ],
+    "answer": 0,
+    "explanation": "Boiling points rise down the group, so krypton must lie between argon (−186 °C) and xenon (−108 °C).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement about iron compared with sodium is correct?",
+    "options": [
+     "Iron has a lower density and a lower melting point",
+     "Iron has a higher density and a higher melting point",
+     "Iron has a higher density and a lower melting point",
+     "Iron is softer and more reactive"
+    ],
+    "answer": 1,
+    "explanation": "Transition metals are hard and dense with high melting points. Sodium is soft, light and melts at 98 °C.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Iron is used as the catalyst in the Haber process. What does this show about transition metals?",
+    "options": [
+     "They are all gases",
+     "They are very reactive with water",
+     "They are often good catalysts",
+     "They have full outer shells"
+    ],
+    "answer": 2,
+    "explanation": "A catalyst speeds up a reaction without being used up. Iron, nickel and vanadium compounds are catalysts in industry.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Sodium hydroxide is added to a solution, giving an orange-brown precipitate. Which ion is present?",
+    "options": [
+     "Iron(II), Fe²⁺",
+     "Copper(II), Cu²⁺",
+     "Sodium, Na⁺",
+     "Iron(III), Fe³⁺"
+    ],
+    "answer": 3,
+    "explanation": "Fe³⁺ forms a red-brown precipitate, Fe²⁺ gives a green one and Cu²⁺ gives a blue one.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why does neon not form compounds?",
+    "options": [
+     "Its atoms have a stable full outer shell and no tendency to gain, lose or share electrons",
+     "It has seven outer electrons",
+     "It is a metal",
+     "It is too heavy to react"
+    ],
+    "answer": 0,
+    "explanation": "Neon has the arrangement 2,8, a full outer shell. Reactions happen to achieve this, and neon already has it.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A copper block measures 2.0 cm × 3.0 cm × 5.0 cm. The density of copper is 8.96 g/cm³. What is its mass?",
+    "options": [
+     "30 g",
+     "269 g",
+     "8.96 g",
+     "89.6 g"
+    ],
+    "answer": 1,
+    "explanation": "Volume = 2.0 × 3.0 × 5.0 = 30 cm³. Mass = density × volume = 8.96 × 30 = 268.8 g, which is 269 g to 3 significant figures.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which property is typical of transition metals?",
+    "options": [
+     "They float on water",
+     "They have one outer electron",
+     "They form coloured compounds",
+     "They exist as single atoms"
+    ],
+    "answer": 2,
+    "explanation": "Coloured compounds are a key feature. Floating on water is typical of lithium, sodium and potassium.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Data: sodium melts at 98 °C, density 0.97 g/cm³. Potassium: 63 °C, 0.86 g/cm³. Iron: 1538 °C, 7.87 g/cm³. Copper: 1085 °C, 8.96 g/cm³. Which conclusion do these data support?",
+    "options": [
+     "Melting point increases as density decreases",
+     "All metals float on water",
+     "Group 1 metals are harder than transition metals",
+     "The transition metals are denser and have higher melting points than the Group 1 metals"
+    ],
+    "answer": 3,
+    "explanation": "Both iron and copper have much higher values for both properties. The data say nothing about hardness, and the trend with density is not supported.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Helium is used in airships instead of hydrogen even though hydrogen is less dense. Which statement is the best justification?",
+    "options": [
+     "Helium is unreactive and non-flammable, so it is much safer",
+     "Helium is cheaper than hydrogen in all cases",
+     "Helium has a lower density than hydrogen",
+     "Helium reacts with oxygen to give a lifting force"
+    ],
+    "answer": 0,
+    "explanation": "Hydrogen is flammable and can explode, so safety outweighs the small gain in lift. Helium is slightly denser than hydrogen, not less dense.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Copper(II) sulfate solution is mixed with sodium hydroxide solution. A blue solid forms. What is the formula of this solid?",
+    "options": [
+     "CuOH",
+     "Cu(OH)₂",
+     "Cu₂OH",
+     "Cu(OH)₃"
+    ],
+    "answer": 1,
+    "explanation": "Cu²⁺ needs two OH⁻ ions to balance the charge. The blue precipitate is copper(II) hydroxide, Cu(OH)₂.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Boiling points of krypton (−153 °C) and xenon (−108 °C) differ by 45 °C. A student assumes the next step is also 45 °C and predicts radon at −63 °C. The true value is −62 °C. What is the percentage error of her prediction, to 2 significant figures?",
+    "options": [
+     "1.0%",
+     "62%",
+     "1.6%",
+     "0.016%"
+    ],
+    "answer": 2,
+    "explanation": "Error = |−63 − (−62)| = 1 °C. Percentage error = 1 ÷ 62 × 100 = 1.6%. The prediction is accurate, though a rule based on only two points is a limited model.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Sodium hydroxide is added to three unlabelled solutions. P gives a blue precipitate, Q gives a green precipitate and R gives a red-brown precipitate. Which identification is correct?",
+    "options": [
+     "P is Fe³⁺, Q is Cu²⁺, R is Fe²⁺",
+     "P is Fe²⁺, Q is Fe³⁺, R is Cu²⁺",
+     "P is Cu²⁺, Q is Fe³⁺, R is Fe²⁺",
+     "P is Cu²⁺, Q is Fe²⁺, R is Fe³⁺"
+    ],
+    "answer": 3,
+    "explanation": "Blue is copper(II) hydroxide, green is iron(II) hydroxide and red-brown is iron(III) hydroxide. These colours must be memorised.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "The noble gases and the transition metals sit at opposite ends of the periodic table and show very different behaviour. One is famous for doing almost nothing, the other for being useful, colourful and strong.\n\n## Noble gases (Group 0)\nHelium, neon, argon, krypton, xenon and radon have **full outer shells**: helium has 2 electrons and the others have 8. Their electron arrangements are stable, so they do not need to gain, lose or share electrons. This makes them **unreactive** (inert), and they exist as **single atoms** (monatomic) rather than molecules.\n- They are colourless gases at room temperature.\n- Boiling points are very low and **increase down the group**: helium about −269 °C, neon −246 °C, argon −186 °C, krypton −153 °C, xenon −108 °C. Bigger atoms have stronger forces between them.\n- Density also increases down the group.\n- Uses depend on being unreactive or light: helium in balloons and airships (low density and non-flammable), neon in signs (glows red-orange when electricity passes), argon in filament lamps and welding (prevents oxidation).\n\n## Transition metals\nThese are the block of metals between Group 2 and Group 3, such as iron, copper, nickel, zinc and chromium. Compared with Group 1 metals they have:\n- **Higher melting points** (iron 1538 °C compared with sodium 98 °C). Mercury is the exception, a liquid at room temperature.\n- **Higher densities** (iron 7.87 g/cm³, sodium 0.97 g/cm³) and are harder and stronger.\n- Lower reactivity with water and oxygen.\n- Good conductors of heat and electricity, and they are malleable and ductile.\n- Compounds that are **coloured**: copper(II) is blue, iron(II) is pale green, iron(III) is orange-brown.\n- The ability to form **more than one ion**, such as Fe²⁺ and Fe³⁺ or Cu⁺ and Cu²⁺. The charge is shown by a Roman numeral, as in iron(III) chloride.\n- Many act as **catalysts**: iron in the Haber process, nickel in making margarine, vanadium(V) oxide in making sulfuric acid.\n\n## Hydroxide precipitate tests\nAdd sodium hydroxide solution to the metal ion solution and note the colour.\n- Cu²⁺ → blue precipitate, Cu(OH)₂\n- Fe²⁺ → green precipitate, Fe(OH)₂\n- Fe³⁺ → red-brown precipitate, Fe(OH)₃\n\n## Worked example\nA copper block is 2.0 cm × 3.0 cm × 5.0 cm, with density 8.96 g/cm³. Volume = 2.0 × 3.0 × 5.0 = 30 cm³. Mass = 8.96 × 30 = 268.8 g, so about 269 g.\n\n## Common mistakes\n- Saying noble gases are 'unreactive because they have 8 electrons'. Helium has only 2. Say 'full outer shell'.\n- Mixing up the colours of the iron(II) and iron(III) precipitates.\n- Forgetting that transition metals can form more than one ion, so the name needs a Roman numeral.\n\n## How this is examined\nExpect a context such as choosing a gas for a lamp or airship, or selecting a metal for a construction project from a table of properties. You may be asked to read data, calculate density, predict a boiling point from a trend and find the percentage error of a prediction. Longer tasks ask you to justify a choice by comparing safety, cost and properties, and to state limitations of predicting from only a few data points.\n\nExam tip: When you justify a material or gas, give a property and link it directly to the use, for example 'unreactive, so the filament does not burn'.",
+  "flashcards": [
+   {
+    "front": "Why are noble gases unreactive?",
+    "back": "Their outer shells are full (2 for helium, 8 for the others), so they are stable and do not gain, lose or share electrons."
+   },
+   {
+    "front": "Trend in boiling points of noble gases",
+    "back": "Increase down the group (He −269 °C to Xe −108 °C) because larger atoms have stronger forces between them."
+   },
+   {
+    "front": "Uses of helium, neon and argon",
+    "back": "Helium: balloons and airships. Neon: glowing signs. Argon: filament lamps and welding to stop oxidation."
+   },
+   {
+    "front": "Where are the transition metals?",
+    "back": "In the block between Group 2 and Group 3 of the periodic table, e.g. iron, copper, nickel, zinc."
+   },
+   {
+    "front": "Properties of transition metals vs Group 1",
+    "back": "Higher melting points and density, harder, stronger, less reactive. Form coloured compounds and act as catalysts."
+   },
+   {
+    "front": "Which ions of iron exist and their colours?",
+    "back": "Fe²⁺ (green hydroxide, pale green solution) and Fe³⁺ (red-brown hydroxide, orange-brown solution)."
+   },
+   {
+    "front": "Test for Cu²⁺",
+    "back": "Add sodium hydroxide: a blue precipitate of copper(II) hydroxide, Cu(OH)₂, forms."
+   },
+   {
+    "front": "Name a catalyst and the process",
+    "back": "Iron in the Haber process (ammonia); vanadium(V) oxide in making sulfuric acid; nickel in making margarine."
+   },
+   {
+    "front": "What is the formula for density?",
+    "back": "Density = mass ÷ volume. For example, 30 cm³ of copper at 8.96 g/cm³ has a mass of 269 g."
+   }
+  ]
+ }
+]

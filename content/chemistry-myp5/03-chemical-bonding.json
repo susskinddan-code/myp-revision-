@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "chemistry",
+  "grade": 5,
+  "topic": "Chemical Bonding",
+  "subTopic": "Ionic Bonding and Lattices",
+  "questions": [
+   {
+    "content": "What happens to electrons when an ionic bond forms?",
+    "options": [
+     "Electrons are transferred from a metal atom to a non-metal atom",
+     "Electrons are shared equally between two atoms",
+     "Electrons move freely through the whole structure",
+     "Protons are transferred between atoms"
+    ],
+    "answer": 0,
+    "explanation": "A metal atom loses outer electrons and a non-metal atom gains them, producing oppositely charged ions that attract each other.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which compound is ionic?",
+    "options": [
+     "Carbon dioxide, CO₂",
+     "Magnesium oxide, MgO",
+     "Water, H₂O",
+     "Methane, CH₄"
+    ],
+    "answer": 1,
+    "explanation": "MgO is a metal combined with a non-metal. The other three compounds contain only non-metals, so they are covalent.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the charge on a calcium ion?",
+    "options": [
+     "2−",
+     "1+",
+     "2+",
+     "1−"
+    ],
+    "answer": 2,
+    "explanation": "Calcium is in Group 2 with two outer electrons. It loses both, forming a 2+ ion.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "When can an ionic compound conduct electricity?",
+    "options": [
+     "When it is a solid",
+     "Only at room temperature",
+     "Never",
+     "When it is molten or dissolved in water"
+    ],
+    "answer": 3,
+    "explanation": "Conduction needs charged particles that are free to move. In the solid the ions are fixed in place; melting or dissolving frees them.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "How are the ions arranged in solid sodium chloride?",
+    "options": [
+     "In a giant regular lattice of alternating positive and negative ions",
+     "In separate NaCl molecules",
+     "In random groups of three",
+     "As a sea of electrons around ions"
+    ],
+    "answer": 0,
+    "explanation": "Each Na⁺ is surrounded by Cl⁻ ions and vice versa, repeating in all directions to form a giant ionic lattice.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the formula of calcium chloride?",
+    "options": [
+     "CaCl",
+     "CaCl₂",
+     "Ca₂Cl",
+     "Ca₂Cl₂"
+    ],
+    "answer": 1,
+    "explanation": "Ca²⁺ needs two Cl⁻ ions to balance the charges, so the ratio is 1 : 2.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why do ionic compounds have high melting points?",
+    "options": [
+     "Covalent bonds in each molecule are very strong",
+     "The ions are held together by delocalised electrons",
+     "A lot of energy is needed to overcome the strong attractions between oppositely charged ions",
+     "The ions are very small and light"
+    ],
+    "answer": 2,
+    "explanation": "The ions in the lattice attract in every direction through strong electrostatic forces, so melting needs a large energy input.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why does solid sodium chloride not conduct electricity?",
+    "options": [
+     "It has no ions",
+     "It has no electrons",
+     "It is a gas",
+     "Its ions are held in fixed positions and cannot move"
+    ],
+    "answer": 3,
+    "explanation": "It contains ions but they cannot carry charge unless they move, which happens only when molten or in solution.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is a crystal of an ionic compound brittle?",
+    "options": [
+     "If layers shift, ions with the same charge line up and repel, splitting the crystal",
+     "The ions are free to move past each other",
+     "Its bonds are weak covalent bonds",
+     "Its electrons are delocalised"
+    ],
+    "answer": 0,
+    "explanation": "Hitting a crystal moves one layer of ions along. Like charges now sit next to each other and repel, so the crystal cracks.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Magnesium reacts with oxygen to form magnesium oxide. What are the electron arrangements of the ions formed?",
+    "options": [
+     "Mg²⁺ is 2,8,2 and O²⁻ is 2,6",
+     "Mg²⁺ is 2,8 and O²⁻ is 2,8",
+     "Mg²⁺ is 2,8,4 and O²⁻ is 2,8",
+     "Mg²⁺ is 2,8 and O²⁻ is 2,6"
+    ],
+    "answer": 1,
+    "explanation": "Magnesium (2,8,2) loses two electrons to become 2,8. Oxygen (2,6) gains those two electrons to become 2,8. Both have full outer shells.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Substance P is a white solid. It does not conduct when solid, but conducts when molten and when dissolved in water. What type of structure does P most likely have?",
+    "options": [
+     "Giant covalent",
+     "Simple molecular",
+     "Giant ionic lattice",
+     "Metallic lattice"
+    ],
+    "answer": 2,
+    "explanation": "Conducting only when molten or dissolved shows that charged particles are present but fixed in the solid, which is typical of ionic compounds.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Aluminium forms Al³⁺ and oxygen forms O²⁻. What is the formula of aluminium oxide?",
+    "options": [
+     "AlO",
+     "Al₃O₂",
+     "Al₂O₂",
+     "Al₂O₃"
+    ],
+    "answer": 3,
+    "explanation": "The smallest numbers that balance the charges are 2 Al³⁺ (+6) and 3 O²⁻ (−6).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In magnesium chloride, MgCl₂, what is the ratio of magnesium ions to chloride ions in the lattice?",
+    "options": [
+     "1 : 2",
+     "2 : 1",
+     "1 : 1",
+     "2 : 2"
+    ],
+    "answer": 0,
+    "explanation": "Each Mg²⁺ carries two positive charges and each Cl⁻ one negative charge, so two chloride ions are needed per magnesium ion.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Melting points: sodium chloride (Na⁺ and Cl⁻) 801 °C; magnesium oxide (Mg²⁺ and O²⁻) 2852 °C. Which explanation is best?",
+    "options": [
+     "Magnesium oxide has covalent bonds",
+     "The ions in magnesium oxide have higher charges, so the attractions are stronger",
+     "Magnesium oxide has more electrons shared",
+     "Magnesium oxide has fewer ions in its lattice"
+    ],
+    "answer": 1,
+    "explanation": "Attraction between ions increases with charge. 2+ and 2− ions attract much more strongly than 1+ and 1−, so more energy is needed to melt MgO.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student says, 'One molecule of NaCl contains one sodium atom bonded to one chlorine atom.' Which correction is best?",
+    "options": [
+     "NaCl is a molecule with a double bond",
+     "NaCl is made of Na₂ and Cl₂ molecules",
+     "NaCl is a giant lattice of ions, and the formula shows the simplest ratio of Na⁺ to Cl⁻",
+     "NaCl is a metal with free electrons"
+    ],
+    "answer": 2,
+    "explanation": "Ionic compounds do not form separate molecules. The formula unit NaCl gives the ratio 1 : 1 within the lattice.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Element X has the electron arrangement 2,8,3 and element Y has the arrangement 2,6. What is the formula of the compound they form?",
+    "options": [
+     "XY",
+     "X₃Y₂",
+     "X₂Y₂",
+     "X₂Y₃"
+    ],
+    "answer": 3,
+    "explanation": "X loses 3 electrons to form X³⁺ and Y gains 2 to form Y²⁻. Balancing 6+ with 6− needs 2 X³⁺ and 3 Y²⁻.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Melting points: sodium fluoride 993 °C, sodium chloride 801 °C, sodium bromide 747 °C, sodium iodide 661 °C. Which statement explains this pattern?",
+    "options": [
+     "Larger halide ions put the ions further apart, which weakens the attraction in the lattice",
+     "Larger halide ions have a greater charge",
+     "Larger halide ions form covalent bonds",
+     "Larger halide ions have more protons so the attraction is stronger"
+    ],
+    "answer": 0,
+    "explanation": "All the halide ions are 1−, so charge cannot explain the trend. Bigger ions increase the distance between ions, so the electrostatic force is weaker and the melting point falls.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An ion has 20 protons and 18 electrons. Which statement is correct?",
+    "options": [
+     "It is an argon atom",
+     "It is a calcium ion with a 2+ charge",
+     "It is a chloride ion with a 2− charge",
+     "It is a potassium ion with a 1+ charge"
+    ],
+    "answer": 1,
+    "explanation": "20 protons identifies calcium. Two more protons than electrons gives a 2+ charge. Argon has 18 protons.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Ionic bonding happens between a metal and a non-metal. Metal atoms lose their outer electrons to become positive ions, and non-metal atoms gain electrons to become negative ions. The attraction between oppositely charged ions is the ionic bond.\n\n## Forming ions\nAtoms react to get a full outer shell.\n- Sodium (2,8,1) loses one electron and becomes Na⁺ (2,8).\n- Chlorine (2,8,7) gains one electron and becomes Cl⁻ (2,8,8).\n- Magnesium (2,8,2) loses two electrons to form Mg²⁺. Oxygen (2,6) gains two to form O²⁻.\n- Group 1 forms 1+, Group 2 forms 2+, aluminium forms 3+. Group 6 forms 2− and Group 7 forms 1−.\nIn a dot-and-cross diagram, show the transferred electrons, put square brackets round each ion and write the charge at the top right.\n\n## Giant ionic lattices\nIonic compounds do not form separate molecules. The ions pack into a regular, repeating **giant lattice**, where every ion is held by strong electrostatic forces to the ions around it. The formula shows the simplest ratio of ions: in MgCl₂ there are two chloride ions for each magnesium ion. To write a formula, balance the charges. Aluminium oxide has Al³⁺ and O²⁻, so two Al³⁺ (6+) and three O²⁻ (6−) give Al₂O₃.\n\n## Properties and why\n- **High melting and boiling points**: a lot of energy is needed to overcome the strong attractions between ions throughout the lattice.\n- **Conduct electricity when molten or dissolved**, because the ions are free to move and carry charge. They do **not** conduct when solid, because the ions are fixed.\n- **Brittle**: a force shifts a layer so that ions with the same charge sit side by side and repel, which cracks the crystal.\n- Many dissolve in water, because water molecules attract the ions.\n- Larger charges and smaller ions give stronger attraction and higher melting points. MgO (2852 °C) melts higher than NaCl (801 °C) because its ions are 2+ and 2−.\n\n## Worked example\nElement X is 2,8,3 and element Y is 2,6. X loses three electrons (X³⁺) and Y gains two (Y²⁻). The lowest common multiple of 3 and 2 is 6, so two X³⁺ and three Y²⁻ are needed. The formula is X₂Y₃.\n\n## Common mistakes\n- Saying that ionic compounds 'contain molecules' or that bonds are 'between two atoms'. The attraction acts in all directions through the lattice.\n- Saying that ionic compounds conduct because 'electrons move'. The ions carry the charge.\n- Writing ion charges incorrectly, for example Mg⁺ instead of Mg²⁺.\n- Saying covalent bonds break when an ionic compound melts.\n\n## How this is examined\nTypical contexts give a table of melting points and conductivity results for several substances, and ask you to identify the bonding, explain the evidence, and predict the formula of a new compound. Extended tasks ask you to compare two compounds, such as sodium chloride and magnesium oxide, and justify the difference using ion charge and size. You may also evaluate a dot-and-cross diagram or a lattice model, noting that diagrams are two-dimensional and do not show the true shape.\n\nExam tip: For any ionic property question, name the particles (ions), say what holds them (strong electrostatic attraction) and say whether they can move.",
+  "flashcards": [
+   {
+    "front": "What is an ionic bond?",
+    "back": "The strong electrostatic attraction between oppositely charged ions, formed when a metal transfers electrons to a non-metal."
+   },
+   {
+    "front": "Charges of ions by group",
+    "back": "Group 1: 1+. Group 2: 2+. Aluminium: 3+. Group 6: 2−. Group 7: 1−."
+   },
+   {
+    "front": "Describe a giant ionic lattice",
+    "back": "A regular, repeating three-dimensional arrangement of positive and negative ions held together by strong electrostatic forces."
+   },
+   {
+    "front": "Why do ionic compounds have high melting points?",
+    "back": "Lots of energy is needed to overcome the strong attractions between oppositely charged ions."
+   },
+   {
+    "front": "When do ionic compounds conduct, and why?",
+    "back": "When molten or dissolved, because the ions are free to move and carry charge. Not when solid: ions are fixed."
+   },
+   {
+    "front": "Why are ionic crystals brittle?",
+    "back": "Layers shift so ions of the same charge line up, repel and split the crystal."
+   },
+   {
+    "front": "How do you work out an ionic formula?",
+    "back": "Balance the charges. Al³⁺ and O²⁻: two Al³⁺ (6+) and three O²⁻ (6−) give Al₂O₃."
+   },
+   {
+    "front": "Electron arrangement of Na⁺ and Cl⁻",
+    "back": "Na⁺ is 2,8 and Cl⁻ is 2,8,8. Both have full outer shells."
+   },
+   {
+    "front": "What makes some ionic lattices stronger?",
+    "back": "Higher ion charges and smaller ions. MgO (Mg²⁺, O²⁻) has a much higher melting point than NaCl."
+   }
+  ]
+ },
+ {
+  "subject": "chemistry",
+  "grade": 5,
+  "topic": "Chemical Bonding",
+  "subTopic": "Covalent Bonding and Molecules",
+  "questions": [
+   {
+    "content": "What is a covalent bond?",
+    "options": [
+     "A transfer of electrons from a metal to a non-metal",
+     "A shared pair of electrons between two atoms",
+     "The attraction between ions and delocalised electrons",
+     "The attraction between protons and neutrons"
+    ],
+    "answer": 1,
+    "explanation": "Non-metal atoms share pairs of electrons so each can get a full outer shell.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "How many shared pairs of electrons are in a nitrogen molecule, N₂?",
+    "options": [
+     "1",
+     "2",
+     "3",
+     "4"
+    ],
+    "answer": 2,
+    "explanation": "Each nitrogen atom has 5 outer electrons and needs 3 more, so they share three pairs, forming a triple bond.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "How many covalent bonds are in one molecule of water, H₂O?",
+    "options": [
+     "1",
+     "3",
+     "4",
+     "2"
+    ],
+    "answer": 3,
+    "explanation": "Oxygen forms a single bond with each of the two hydrogen atoms.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which substance is made of simple covalent molecules?",
+    "options": [
+     "Methane, CH₄",
+     "Sodium chloride",
+     "Magnesium",
+     "Diamond"
+    ],
+    "answer": 0,
+    "explanation": "Methane is a small molecule held together by covalent bonds. Sodium chloride is ionic, magnesium is metallic and diamond is a giant covalent structure.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why do simple molecular substances have low boiling points?",
+    "options": [
+     "Their covalent bonds are weak",
+     "The forces between molecules are weak and easily overcome",
+     "They contain no electrons",
+     "They contain ions"
+    ],
+    "answer": 1,
+    "explanation": "Boiling only needs the weak intermolecular forces to be overcome. The strong covalent bonds inside each molecule stay intact.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why do simple molecular substances not conduct electricity?",
+    "options": [
+     "Their molecules are too large",
+     "They are always gases",
+     "They have no free ions or free electrons",
+     "Their bonds are ionic"
+    ],
+    "answer": 2,
+    "explanation": "Molecules are neutral and no charged particles are free to move, so no current can flow.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "When liquid water boils, what is overcome?",
+    "options": [
+     "The covalent bonds between hydrogen and oxygen",
+     "The ionic bonds in the lattice",
+     "The metallic bonds",
+     "The forces between water molecules"
+    ],
+    "answer": 3,
+    "explanation": "Steam is still H₂O. The molecules have separated but the bonds within each molecule are intact.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How many shared pairs of electrons are in a carbon dioxide molecule, CO₂?",
+    "options": [
+     "4",
+     "2",
+     "3",
+     "6"
+    ],
+    "answer": 0,
+    "explanation": "CO₂ has two C=O double bonds, so two pairs are shared in each, making four in total.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is diamond very hard?",
+    "options": [
+     "Layers of carbon atoms slide over each other",
+     "Each carbon atom forms four strong covalent bonds in a rigid giant structure",
+     "Carbon atoms are held by weak forces",
+     "It contains delocalised electrons"
+    ],
+    "answer": 1,
+    "explanation": "Every carbon atom bonds to four others in a three-dimensional network, so the structure resists being scratched or deformed.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why can graphite conduct electricity?",
+    "options": [
+     "It contains positive ions and negative ions",
+     "Its atoms are held by ionic bonds",
+     "Each carbon atom has one electron that is delocalised and can move along the layers",
+     "Its molecules are small"
+    ],
+    "answer": 2,
+    "explanation": "In graphite each carbon forms only three bonds, leaving a fourth electron free to carry charge.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A substance melts at 1710 °C, does not dissolve in water, does not conduct when solid or molten, and is very hard. What is its structure?",
+    "options": [
+     "Simple molecular",
+     "Giant ionic",
+     "Metallic",
+     "Giant covalent"
+    ],
+    "answer": 3,
+    "explanation": "The very high melting point and hardness indicate a network of strong covalent bonds, and no conduction rules out ions or delocalised electrons.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Carbon has four outer electrons and chlorine has seven. What is the formula of the simple molecule they form?",
+    "options": [
+     "CCl₄",
+     "CCl",
+     "CCl₂",
+     "C₄Cl"
+    ],
+    "answer": 0,
+    "explanation": "Carbon needs four more electrons and each chlorine needs one, so one carbon bonds with four chlorine atoms.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A chlorine molecule, Cl₂, has a single covalent bond. How many outer electrons are not involved in bonding?",
+    "options": [
+     "14",
+     "12",
+     "6",
+     "2"
+    ],
+    "answer": 1,
+    "explanation": "Two chlorine atoms have 14 outer electrons in total. Two are shared in the bond, which leaves 12 as lone pairs.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Graphite has a very high melting point yet is soft and slippery. Which explanation is best?",
+    "options": [
+     "There are weak covalent bonds in the layers",
+     "Its carbon atoms are held by ionic bonds",
+     "Strong covalent bonds within layers need much energy to break, but weak forces between layers let them slide",
+     "It contains molecules which are easily separated"
+    ],
+    "answer": 2,
+    "explanation": "Melting needs the strong bonds in the layers to break. Sliding only needs the weak forces between layers to be overcome.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Four solids are tested. W: melting point 3550 °C, very hard, does not conduct. X: melting point 801 °C, conducts when molten only. Y: melting point −114 °C, does not conduct. Z: melting point 1085 °C, conducts as a solid. Which row is correct?",
+    "options": [
+     "W ionic, X giant covalent, Y metallic, Z simple molecular",
+     "W metallic, X simple molecular, Y ionic, Z giant covalent",
+     "W simple molecular, X metallic, Y giant covalent, Z ionic",
+     "W giant covalent, X ionic, Y simple molecular, Z metallic"
+    ],
+    "answer": 3,
+    "explanation": "Very high melting point plus hardness and no conduction means giant covalent. Conducting only when molten means ionic. A very low melting point means simple molecular. Conducting as a solid means metallic.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Nitrogen has five outer electrons and hydrogen has one. In a molecule of ammonia, NH₃, how many bonding pairs and lone pairs surround the nitrogen atom?",
+    "options": [
+     "3 bonding pairs and 1 lone pair",
+     "4 bonding pairs and 0 lone pairs",
+     "3 bonding pairs and 2 lone pairs",
+     "2 bonding pairs and 2 lone pairs"
+    ],
+    "answer": 0,
+    "explanation": "Nitrogen shares 3 electrons with 3 hydrogens, giving 3 bonding pairs. The other 2 of its 5 outer electrons form 1 lone pair, making a total of 8.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An ethene molecule, C₂H₄, has a double bond between the carbon atoms and a single bond from each carbon to two hydrogen atoms. How many shared pairs of electrons does the molecule have in total?",
+    "options": [
+     "5",
+     "6",
+     "4",
+     "8"
+    ],
+    "answer": 1,
+    "explanation": "There are two shared pairs in the C=C double bond plus four C–H shared pairs, giving 2 + 4 = 6. Counting bonds as 5 ignores the double bond's two pairs.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student states, 'Every carbon atom in diamond and graphite forms the same number of covalent bonds.' Which statement evaluates this?",
+    "options": [
+     "Correct: each carbon forms four bonds in both",
+     "Incorrect: carbon forms two bonds in diamond and four in graphite",
+     "Incorrect: each carbon forms four bonds in diamond but three in graphite",
+     "Correct: each carbon forms three bonds in both"
+    ],
+    "answer": 2,
+    "explanation": "This difference explains the properties. Diamond uses all four outer electrons for bonding, while graphite has a spare delocalised electron on each carbon.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "A covalent bond forms when two non-metal atoms **share a pair of electrons**. Each atom gains a full outer shell by counting the shared electrons as its own. Covalent bonding produces two very different types of substance: simple molecules and giant covalent structures.\n\n## Single, double and triple bonds\n- A **single bond** is one shared pair (H–H, Cl–Cl, the O–H bonds in water).\n- A **double bond** is two shared pairs (O=O, C=O in CO₂, C=C in ethene).\n- A **triple bond** is three shared pairs (N≡N).\nIn dot-and-cross diagrams, draw the outer shells overlapping, put one dot and one cross in each overlap, and show the non-bonding lone pairs. Check that every atom has a full outer shell: hydrogen has 2, others usually 8.\n\n## Common molecules\nHydrogen H₂, chlorine Cl₂, oxygen O₂, nitrogen N₂, water H₂O, ammonia NH₃, methane CH₄, hydrogen chloride HCl and carbon dioxide CO₂. To get a formula, work out how many electrons each atom needs: carbon needs 4, nitrogen 3, oxygen 2, hydrogen and chlorine 1.\n\n## Simple molecular substances\n- Low melting and boiling points. When they melt or boil, only the **weak forces between molecules** are overcome. The strong covalent bonds inside molecules do not break.\n- Do not conduct electricity, since molecules are neutral and have no free charged particles.\n- Intermolecular forces get stronger with larger molecules, so boiling points rise.\n\n## Giant covalent structures\nMillions of atoms are joined by strong covalent bonds in a network.\n- **Diamond**: each carbon forms four bonds. Very hard, very high melting point, does not conduct.\n- **Graphite**: each carbon forms three bonds in flat layers. The fourth electron is delocalised, so graphite conducts electricity. Layers are held by weak forces, so they slide, and graphite is soft and slippery. It still has a very high melting point because the bonds in the layers are strong.\n- **Silicon dioxide** (sand): very hard and a very high melting point, no conduction.\n\n## Worked example\nHow many shared pairs are in CO₂? Carbon needs four electrons and each oxygen needs two. Carbon forms a double bond with each oxygen: 2 + 2 = 4 shared pairs. Each oxygen also has two lone pairs.\n\n## Common mistakes\n- Saying that covalent bonds break when a simple molecular substance melts or boils. Only intermolecular forces do.\n- Saying that all covalent substances have low melting points. Giant covalent ones have very high ones.\n- Forgetting lone pairs in diagrams, or giving the wrong number of electrons around hydrogen.\n\n## How this is examined\nYou may be given a table of properties for several substances and asked to decide the structure of each, justify using melting point, conduction and hardness, and then explain a particular use, such as graphite in pencils or diamond in cutting tools. Diagram questions ask you to complete a dot-and-cross diagram for a molecule you have not seen. Extended questions compare structures and evaluate which is best for a given application.\n\nExam tip: If the question asks why a molecule has a low boiling point, say 'weak intermolecular forces are overcome', never 'weak covalent bonds break'.",
+  "flashcards": [
+   {
+    "front": "What is a covalent bond?",
+    "back": "A shared pair of electrons between two non-metal atoms, giving each a full outer shell."
+   },
+   {
+    "front": "Single, double and triple bonds",
+    "back": "One, two or three shared pairs of electrons, for example H–H, O=O and N≡N."
+   },
+   {
+    "front": "Why do simple molecules have low melting and boiling points?",
+    "back": "Only the weak intermolecular forces between molecules are overcome. The covalent bonds inside molecules do not break."
+   },
+   {
+    "front": "Why do simple molecular substances not conduct?",
+    "back": "Molecules are neutral and have no free ions or free electrons."
+   },
+   {
+    "front": "What is a giant covalent structure?",
+    "back": "A huge network of atoms joined by strong covalent bonds, such as diamond, graphite and silicon dioxide."
+   },
+   {
+    "front": "Why is diamond hard?",
+    "back": "Each carbon is bonded to four others by strong covalent bonds in a rigid three-dimensional network."
+   },
+   {
+    "front": "Why does graphite conduct and feel slippery?",
+    "back": "Each carbon has one delocalised electron that carries current. Layers are held by weak forces and slide over each other."
+   },
+   {
+    "front": "Dot-and-cross check",
+    "back": "Make sure every atom has a full outer shell (2 for hydrogen, 8 for most others) and show lone pairs as well as shared pairs."
+   },
+   {
+    "front": "How many bonds do these atoms usually form?",
+    "back": "Hydrogen 1, oxygen 2, nitrogen 3, carbon 4, chlorine 1."
+   }
+  ]
+ },
+ {
+  "subject": "chemistry",
+  "grade": 5,
+  "topic": "Chemical Bonding",
+  "subTopic": "Metallic Bonding and Giant Structures",
+  "questions": [
+   {
+    "content": "What is metallic bonding?",
+    "options": [
+     "The sharing of pairs of electrons between atoms",
+     "The attraction between positive and negative ions",
+     "The attraction between positive metal ions and delocalised electrons",
+     "The attraction between molecules"
+    ],
+    "answer": 2,
+    "explanation": "Metals have a lattice of positive ions surrounded by a sea of delocalised outer electrons that hold the structure together.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why do metals conduct electricity?",
+    "options": [
+     "They contain positive and negative ions that move",
+     "They contain molecules",
+     "Their atoms share electron pairs",
+     "Delocalised electrons are free to move through the structure"
+    ],
+    "answer": 3,
+    "explanation": "The delocalised electrons carry charge when a voltage is applied.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is an alloy?",
+    "options": [
+     "A mixture of a metal with at least one other element",
+     "A compound of two non-metals",
+     "A pure sample of one metal",
+     "A metal that is liquid at room temperature"
+    ],
+    "answer": 0,
+    "explanation": "Alloys are made by mixing, for example steel from iron and carbon, and brass from copper and zinc.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is an alloy?",
+    "options": [
+     "Copper",
+     "Steel",
+     "Diamond",
+     "Sodium chloride"
+    ],
+    "answer": 1,
+    "explanation": "Steel is mainly iron with a small amount of carbon. Copper is a pure element and the others are not metals.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does it mean to say a metal is malleable?",
+    "options": [
+     "It conducts electricity",
+     "It has a high melting point",
+     "It can be hammered or bent into shape without breaking",
+     "It dissolves in water"
+    ],
+    "answer": 2,
+    "explanation": "Malleability is a key metal property, linked to layers of ions sliding.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why are pure metals malleable?",
+    "options": [
+     "The ions are held in fixed positions by covalent bonds",
+     "The ions repel each other when moved",
+     "Their atoms are very small",
+     "Layers of ions can slide over each other while the delocalised electrons keep holding them together"
+    ],
+    "answer": 3,
+    "explanation": "When a force is applied, layers move but the electrons keep the bond intact, so the metal changes shape without cracking.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is an alloy harder than the pure metal?",
+    "options": [
+     "Atoms of different sizes disrupt the regular layers so they cannot slide easily",
+     "The atoms are all the same size",
+     "There are more delocalised electrons",
+     "The alloy is made of ions"
+    ],
+    "answer": 0,
+    "explanation": "The extra atoms are a different size, which distorts the lattice and blocks layers from sliding.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Melting points: sodium 98 °C, magnesium 650 °C. Which explanation is best for magnesium's higher value?",
+    "options": [
+     "Magnesium has fewer electrons",
+     "Magnesium ions have a higher charge and contribute two delocalised electrons, so the attraction is stronger",
+     "Magnesium atoms are larger",
+     "Magnesium forms ionic bonds"
+    ],
+    "answer": 1,
+    "explanation": "Mg²⁺ ions and twice as many delocalised electrons increase the strength of the metallic bond, so more energy is needed to melt it.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Brass is an alloy of 70% copper and 30% zinc by mass. What mass of copper is in 250 g of brass?",
+    "options": [
+     "75 g",
+     "70 g",
+     "175 g",
+     "250 g"
+    ],
+    "answer": 2,
+    "explanation": "250 × 0.70 = 175 g. The value 75 g is the mass of zinc (250 × 0.30).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is steel used for bridges rather than pure iron?",
+    "options": [
+     "Steel is a better conductor",
+     "Steel has a lower density than iron",
+     "Steel is a compound of iron",
+     "Steel is harder and stronger than pure iron"
+    ],
+    "answer": 3,
+    "explanation": "Adding carbon distorts the iron lattice, so layers resist sliding. Pure iron is too soft for load-bearing structures.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A solid is shiny, bends without breaking and conducts electricity as a solid. What structure does it have?",
+    "options": [
+     "Metallic",
+     "Giant ionic",
+     "Giant covalent",
+     "Simple molecular"
+    ],
+    "answer": 0,
+    "explanation": "A solid that conducts and is malleable has delocalised electrons and layers of ions, the metallic structure.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why does copper conduct electricity but diamond does not?",
+    "options": [
+     "Diamond contains ions",
+     "Copper has delocalised electrons, while all four outer electrons of carbon in diamond are in bonds",
+     "Copper contains molecules",
+     "Copper has covalent bonds"
+    ],
+    "answer": 1,
+    "explanation": "No free charge carriers exist in diamond because every outer electron is held in a covalent bond.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Bronze is 88% copper and 12% tin by mass. A statue has a mass of 500 g. What mass of tin does it contain?",
+    "options": [
+     "440 g",
+     "12 g",
+     "60 g",
+     "6 g"
+    ],
+    "answer": 2,
+    "explanation": "500 × 0.12 = 60 g. The mass 440 g is the copper (500 × 0.88).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Melting points: sodium 98 °C, magnesium 650 °C, aluminium 660 °C. Which statement is best supported?",
+    "options": [
+     "Melting point falls across the period",
+     "Melting point depends only on the density",
+     "Sodium has the strongest metallic bonding",
+     "Melting point rises as the ion charge and number of delocalised electrons increase"
+    ],
+    "answer": 3,
+    "explanation": "Na⁺, Mg²⁺ and Al³⁺ have more delocalised electrons and a greater charge each time, strengthening the bonding. The rise from Mg to Al is small, showing other factors matter too.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A company wants a material for aircraft panels. Which justification for using an aluminium alloy rather than pure aluminium is best?",
+    "options": [
+     "The alloy is stronger because the added atoms stop layers sliding, while remaining light",
+     "The alloy conducts better than pure aluminium",
+     "The alloy is a compound so it does not corrode",
+     "The alloy has no delocalised electrons"
+    ],
+    "answer": 0,
+    "explanation": "Pure aluminium is soft. Alloying increases strength and keeps density low, which suits aircraft. Alloys are mixtures, not compounds.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A gold ring is 18 carat, which means 18 parts in 24 are gold. A second ring has the same mass of 8.0 g but is 9 carat. How much less gold is in the 9 carat ring?",
+    "options": [
+     "6.0 g",
+     "3.0 g",
+     "1.5 g",
+     "9.0 g"
+    ],
+    "answer": 1,
+    "explanation": "Gold in the 18 carat ring = 8.0 × 18 ÷ 24 = 6.0 g. Gold in the 9 carat ring = 8.0 × 9 ÷ 24 = 3.0 g. The difference is 3.0 g.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A diagram of metallic bonding shows circles for ions and dots for electrons in a fixed flat arrangement. What is a limitation of this model?",
+    "options": [
+     "It shows delocalised electrons correctly as fixed in place",
+     "It shows the metal as molecules",
+     "It does not show that the ions vibrate and that the real structure is three-dimensional",
+     "It shows ions which do not exist"
+    ],
+    "answer": 2,
+    "explanation": "Models simplify. Real ions vibrate in a three-dimensional lattice and the electrons move constantly, which a static two-dimensional diagram cannot show.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student tests whether adding tin makes copper harder. Which is the independent variable in a fair test?",
+    "options": [
+     "The depth of the dent made",
+     "The force and indenter used",
+     "The mass of the sample",
+     "The percentage of tin in the copper"
+    ],
+    "answer": 3,
+    "explanation": "The independent variable is what you change on purpose (the composition). The dent depth is measured as the dependent variable and the force must be controlled.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Metals have their own type of bonding. In a metal, the atoms lose their outer electrons, which become **delocalised**: they are free to move throughout the whole structure. What is left are positive metal ions arranged in regular layers. The **metallic bond** is the strong electrostatic attraction between the positive ions and the sea of delocalised electrons.\n\n## Explaining the properties of metals\n- **Conduct electricity and heat**: delocalised electrons move through the lattice carrying charge or energy. Metals conduct as solids and when molten.\n- **Malleable and ductile**: the layers of ions can slide over one another while the electrons keep holding them together, so the metal changes shape without breaking.\n- **High melting and boiling points**: the metallic bond is strong and a lot of energy is needed to overcome it.\n- **Shiny** surfaces and high density in many cases.\nThe strength of the bonding depends on the charge of the ions and the number of delocalised electrons. Sodium (1 electron per atom) melts at 98 °C, magnesium (2 electrons) at 650 °C and aluminium (3 electrons) at 660 °C.\n\n## Alloys\nAn **alloy** is a mixture of a metal with another element, often another metal. Pure metals are often too soft because the layers of identical atoms slide easily. In an alloy, atoms of a different size distort the regular layers, so they cannot slide so easily and the alloy is harder and stronger.\n- Steel: iron with a small amount of carbon, used in bridges and buildings.\n- Brass: copper and zinc, used in instruments and taps.\n- Bronze: copper and tin, used in statues and bearings.\n- Solder: tin and lead (or tin-based), used to join electrical connections.\n\n## Comparing the four main structures\n- **Ionic**: high melting points, conduct only when molten or dissolved, brittle.\n- **Simple covalent**: low melting points, do not conduct, weak forces between molecules.\n- **Giant covalent**: very high melting points, hard, do not conduct (graphite is the exception).\n- **Metallic**: high melting points, conduct as solid, malleable.\nIdentify a structure from data by asking: Does it conduct as a solid? Does it conduct when molten? How high is the melting point?\n\n## Worked example\nBrass is 70% copper and 30% zinc by mass. Mass of copper in 250 g of brass = 250 × 0.70 = 175 g; mass of zinc = 250 × 0.30 = 75 g. Check: 175 + 75 = 250 g.\n\n## Common mistakes\n- Saying metals conduct because they contain 'ions that move'. In a metal, the electrons move, not the ions.\n- Saying metallic bonds are between atoms. They are between positive ions and electrons.\n- Writing that an alloy is a compound. It is a mixture.\n- Forgetting that models are simplified, with limitations.\n\n## How this is examined\nA typical task presents a design problem such as choosing the best material for electrical cables, a bridge or aircraft panels. You pick data from a table, calculate quantities such as the mass of a metal in an alloy by percentage, and justify your choice. Extended tasks ask you to evaluate the model of metallic bonding and to design a fair test to compare the hardness of alloys with different compositions.\n\nExam tip: Always say 'delocalised electrons' for conduction in metals, and 'layers of ions sliding' for malleability. Mention both of these ideas when you explain why a metal is useful.",
+  "flashcards": [
+   {
+    "front": "What is metallic bonding?",
+    "back": "Strong electrostatic attraction between positive metal ions and a sea of delocalised electrons."
+   },
+   {
+    "front": "Why do metals conduct electricity?",
+    "back": "Delocalised electrons are free to move through the whole structure and carry the current."
+   },
+   {
+    "front": "Why are metals malleable?",
+    "back": "Layers of positive ions slide over each other while the delocalised electrons keep the structure bonded."
+   },
+   {
+    "front": "What is an alloy?",
+    "back": "A mixture of a metal with another element, often another metal, such as steel (iron and carbon) or brass (copper and zinc)."
+   },
+   {
+    "front": "Why are alloys harder than pure metals?",
+    "back": "Different-sized atoms distort the regular layers, so the layers cannot slide over each other easily."
+   },
+   {
+    "front": "Why do metals have high melting points?",
+    "back": "A lot of energy is needed to overcome the strong attraction between ions and delocalised electrons."
+   },
+   {
+    "front": "What affects the strength of metallic bonding?",
+    "back": "The charge on the ions and the number of delocalised electrons. Mg (2 electrons) melts higher than Na (1 electron)."
+   },
+   {
+    "front": "Compare the four structures",
+    "back": "Ionic: conducts when molten. Simple covalent: low melting point. Giant covalent: very hard, high melting point. Metallic: conducts as a solid."
+   },
+   {
+    "front": "How do you calculate a mass from a percentage?",
+    "back": "Mass = total mass × percentage ÷ 100. Example: 70% of 250 g = 175 g."
+   }
+  ]
+ }
+]

@@ -1,0 +1,528 @@
+[
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Advanced Probability",
+  "subTopic": "Conditional Probability and Tree Diagrams",
+  "questions": [
+   {
+    "content": "A bag holds 5 red counters and 3 blue counters. One counter is taken at random. What is the probability that it is red?",
+    "options": [
+     "5/3",
+     "5/8",
+     "3/8",
+     "1/2"
+    ],
+    "answer": 1,
+    "explanation": "There are 5 red counters out of 8 in total, so P(red) = 5/8. Using 5/3 compares red with blue instead of red with the total.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "On a school trip, the probability of rain on Monday is 0.3 and the probability of rain on Tuesday is 0.4. The two days are independent. What is the probability that it rains on both days?",
+    "options": [
+     "0.7",
+     "0.1",
+     "0.35",
+     "0.12"
+    ],
+    "answer": 3,
+    "explanation": "For independent events multiply along the branches: 0.3 × 0.4 = 0.12. Adding the probabilities (0.7) is a common mistake.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In a tree diagram, the probabilities on the branches that come out of one point (one node) should always",
+    "options": [
+     "add up to 1",
+     "add up to 0",
+     "be equal to each other",
+     "multiply to give 1"
+    ],
+    "answer": 0,
+    "explanation": "The branches from one node cover every possible outcome at that stage, so their probabilities sum to 1. They need not be equal.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A bag has 4 red and 6 green counters. A counter is taken and NOT replaced. It is green. What is the probability that the second counter is also green?",
+    "options": [
+     "6/10",
+     "6/9",
+     "5/9",
+     "5/10"
+    ],
+    "answer": 2,
+    "explanation": "After one green counter is removed there are 9 counters left and 5 of them are green, so the probability is 5/9. Using 6/10 forgets that the first counter was not replaced.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does the phrase 'without replacement' tell you about a tree diagram?",
+    "options": [
+     "The probabilities on the second set of branches stay the same",
+     "The events are independent",
+     "Each branch has probability 0.5",
+     "The probabilities on the second set of branches change"
+    ],
+    "answer": 3,
+    "explanation": "If an item is not put back, the number of items (and often the favourable items) changes, so second-stage probabilities depend on the first outcome.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A bag has 6 red and 4 blue counters. Two counters are taken one after the other without replacement. Find the probability that both are red.",
+    "options": [
+     "1/3",
+     "9/25",
+     "3/5",
+     "1/2"
+    ],
+    "answer": 0,
+    "explanation": "P(both red) = 6/10 × 5/9 = 30/90 = 1/3. The value 9/25 comes from wrongly using replacement (6/10 × 6/10 is 9/25 only if the bag is refilled).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A bag holds 5 red and 3 blue counters. Two are taken without replacement. Find the probability of getting one of each colour.",
+    "options": [
+     "15/64",
+     "5/8",
+     "15/28",
+     "3/7"
+    ],
+    "answer": 2,
+    "explanation": "Add the two routes: red then blue = 5/8 × 3/7 = 15/56, and blue then red = 3/8 × 5/7 = 15/56. Total = 30/56 = 15/28. Using only one route gives 15/56, and 15/64 comes from using 8 as the denominator at both stages.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "For two events A and B, P(A) = 0.6 and P(B given A) = 0.5. What is P(A and B)?",
+    "options": [
+     "1.1",
+     "0.3",
+     "0.1",
+     "0.5"
+    ],
+    "answer": 1,
+    "explanation": "P(A and B) = P(A) × P(B given A) = 0.6 × 0.5 = 0.3. This is the 'multiply along the branches' rule.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The probability that a student is late is 0.25. If late, the probability of getting a detention is 0.6. If not late, the probability of a detention is 0.1. What is the probability that a randomly chosen student gets a detention?",
+    "options": [
+     "0.7",
+     "0.15",
+     "0.075",
+     "0.225"
+    ],
+    "answer": 3,
+    "explanation": "Add the two routes: late and detention = 0.25 × 0.6 = 0.15; not late and detention = 0.75 × 0.1 = 0.075. Total = 0.225. The values 0.15 and 0.075 are only one route each.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A bag has 3 red and 7 blue counters. A counter is taken, its colour noted and it is replaced. This is done twice. What is the probability of getting at least one red?",
+    "options": [
+     "0.09",
+     "0.42",
+     "0.51",
+     "0.3"
+    ],
+    "answer": 2,
+    "explanation": "Use the complement: P(no red) = 0.7 × 0.7 = 0.49, so P(at least one red) = 1 − 0.49 = 0.51. The value 0.09 is P(both red) and 0.42 is P(exactly one red).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a club, P(A) = 0.5 and P(A and B) = 0.2, where A is 'plays chess' and B is 'plays draughts'. What is P(B given A)?",
+    "options": [
+     "0.4",
+     "0.1",
+     "0.7",
+     "0.2"
+    ],
+    "answer": 0,
+    "explanation": "P(B given A) = P(A and B) ÷ P(A) = 0.2 ÷ 0.5 = 0.4. Leaving the answer as 0.2 forgets to divide by P(A).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A game is won with probability 0.4 each time, and the games are independent. A player plays 3 games. What is the probability of winning exactly one?",
+    "options": [
+     "0.144",
+     "0.432",
+     "0.4",
+     "0.216"
+    ],
+    "answer": 1,
+    "explanation": "Exactly one win can happen in 3 ways (WLL, LWL, LLW). Each has probability 0.4 × 0.6 × 0.6 = 0.144, and 3 × 0.144 = 0.432. The value 0.144 counts only one of the three orders.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Machine A makes 60% of the items in a factory and 2% of its items are faulty. Machine B makes 40% of the items and 5% of its items are faulty. An item is chosen at random. What is the probability that it is faulty?",
+    "options": [
+     "0.07",
+     "0.0016",
+     "0.032",
+     "0.035"
+    ],
+    "answer": 2,
+    "explanation": "P(faulty) = 0.6 × 0.02 + 0.4 × 0.05 = 0.012 + 0.020 = 0.032. Adding 2% and 5% (0.07) ignores how many items each machine makes.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In the factory above (A makes 60% of items, 2% faulty; B makes 40%, 5% faulty), an item is found to be faulty. What is the probability that it came from machine A?",
+    "options": [
+     "0.02",
+     "0.6",
+     "0.012",
+     "3/8"
+    ],
+    "answer": 3,
+    "explanation": "P(A and faulty) = 0.012 and P(faulty) = 0.032, so P(A given faulty) = 0.012 ÷ 0.032 = 0.375 = 3/8. Even though A makes most items, it is less likely to be the source of a fault because its fault rate is lower.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A box holds 3 mint and 5 fruit sweets. Three sweets are taken without replacement. What is the probability that all three are fruit?",
+    "options": [
+     "125/512",
+     "5/28",
+     "3/8",
+     "5/8"
+    ],
+    "answer": 1,
+    "explanation": "P = 5/8 × 4/7 × 3/6 = 60/336 = 5/28. The value 125/512 is (5/8)³, which wrongly assumes the sweets are replaced.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student says: 'Three dice are rolled. P(at least one six) = 1/6 + 1/6 + 1/6 = 1/2.' Which statement is correct?",
+    "options": [
+     "The method is wrong; the correct answer is 1 − (5/6)³ = 91/216",
+     "The method is correct because the events are independent",
+     "The answer should be (1/6)³ = 1/216",
+     "The answer should be 3 × (5/6)³"
+    ],
+    "answer": 0,
+    "explanation": "Probabilities of events that can happen together cannot just be added. Use the complement: P(no six) = (5/6)³ = 125/216, so P(at least one six) = 91/216 (about 0.42, not 0.5).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A bag has 3 red counters and n blue counters. Two counters are taken without replacement and the probability that both are red is 1/15. Which equation lets you find n?",
+    "options": [
+     "(n + 3)² = 45",
+     "3n = 15",
+     "(n + 3)(n + 2) = 6",
+     "(n + 3)(n + 2) = 90"
+    ],
+    "answer": 3,
+    "explanation": "P(both red) = 3/(n+3) × 2/(n+2) = 6/((n+3)(n+2)). Setting this equal to 1/15 gives (n+3)(n+2) = 90, which solves to n = 7 (7 + 3 = 10 and 7 + 2 = 9, and 10 × 9 = 90).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A sports team wins 70% of home games and 40% of away games. Half of its games are at home. A game is chosen at random and the team won. What is the probability that it was a home game?",
+    "options": [
+     "0.7",
+     "0.5",
+     "7/11",
+     "0.35"
+    ],
+    "answer": 2,
+    "explanation": "P(win) = 0.5 × 0.7 + 0.5 × 0.4 = 0.55. P(home and win) = 0.35. So P(home given win) = 0.35 ÷ 0.55 = 7/11. The value 0.7 is P(win given home), which is the reverse conditional.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What is conditional probability?\nSometimes the chance of an event depends on something that has already happened. The probability of B **given** A has happened is written P(B | A). For example, if you pick a counter from a bag and do not put it back, the chance of the second pick depends on the first.\n\nTwo events are **independent** if one does not change the chance of the other, so P(B | A) = P(B). Rolling a die twice is independent. Taking sweets from a bag without replacement is **dependent**.\n\n## Tree diagrams\nA tree diagram shows every outcome in stages.\n- Each **branch** is labelled with a probability.\n- The branches leaving one point always add up to 1.\n- **Multiply along** the branches to find the probability of a whole route (this is \"and\").\n- **Add** the routes that give the outcome you want (this is \"or\").\n\nWorked example: a bag has 5 red and 3 blue counters. Two are taken without replacement. Find P(one of each colour).\n- Red then blue: 5/8 × 3/7 = 15/56\n- Blue then red: 3/8 × 5/7 = 15/56\n- Add the two routes: 30/56 = 15/28\n\n## Key formulae\n- Independent events: P(A and B) = P(A) × P(B)\n- Dependent events: P(A and B) = P(A) × P(B | A)\n- Conditional probability: P(B | A) = P(A and B) ÷ P(A)\n- Complement trick for \"at least one\": P(at least one) = 1 − P(none)\n\n## Working backwards\nSometimes you are told what happened at the end and asked about the start. Example: machine A makes 60% of items and 2% of those are faulty; machine B makes 40% and 5% are faulty. First find P(faulty) = 0.6 × 0.02 + 0.4 × 0.05 = 0.032. Then P(from A | faulty) = 0.012 ÷ 0.032 = 0.375. Always put the \"given\" event in the denominator.\n\n## Common mistakes\n- Using the same denominator on both stages when there is no replacement.\n- Adding along branches instead of multiplying.\n- Forgetting that there may be several routes to the same outcome (such as red-blue and blue-red).\n- Mixing up P(A | B) and P(B | A). They are usually different numbers.\n- Giving a probability bigger than 1 or a negative answer: always check your answer is between 0 and 1.\n\n## How this is examined\nIn the eAssessment these questions sit in a context such as a factory, a medical test, a school survey or a game. You are given the numbers in the stimulus and asked to complete a tree diagram, calculate a probability (command terms: write down, calculate, show that), and then justify a decision or explain whether the events are independent. A later part might ask you to evaluate the model, for example by stating the assumption that the items are chosen at random and that the quoted percentages are accurate.\n\nExam tip: Draw the tree, write the probability on every branch, and write the multiplication for each route before you add. Show the fractions as well as the decimals so that method marks are easy to award.",
+  "flashcards": [
+   {
+    "front": "P(B | A) means",
+    "back": "The probability that B happens given that A has already happened."
+   },
+   {
+    "front": "Rule for independent events",
+    "back": "P(A and B) = P(A) × P(B). The outcome of A does not change the chance of B."
+   },
+   {
+    "front": "Rule for dependent events",
+    "back": "P(A and B) = P(A) × P(B | A)"
+   },
+   {
+    "front": "Conditional probability formula",
+    "back": "P(B | A) = P(A and B) ÷ P(A)"
+   },
+   {
+    "front": "What do you do along a branch route and between routes?",
+    "back": "Multiply along the branches for 'and'. Add the routes for 'or'."
+   },
+   {
+    "front": "What do the branches leaving one point add up to?",
+    "back": "1, because they cover all possible outcomes at that stage."
+   },
+   {
+    "front": "How do you find 'at least one' quickly?",
+    "back": "P(at least one) = 1 − P(none)."
+   },
+   {
+    "front": "What changes on a tree diagram 'without replacement'?",
+    "back": "The numbers of items fall after each pick, so second-stage probabilities change (the denominator goes down by 1)."
+   },
+   {
+    "front": "Why is P(A | B) usually not equal to P(B | A)?",
+    "back": "They have different 'given' events. P(A | B) divides by P(B), P(B | A) divides by P(A)."
+   }
+  ]
+ },
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Advanced Probability",
+  "subTopic": "Venn Diagrams and Set Notation",
+  "questions": [
+   {
+    "content": "A and B are two sets. What does the notation A ∩ B represent?",
+    "options": [
+     "The elements that are in both A and B",
+     "The elements that are in A or B or both",
+     "The elements that are in A but not B",
+     "The elements that are in neither A nor B"
+    ],
+    "answer": 0,
+    "explanation": "The symbol ∩ is 'intersection': only elements that belong to both sets. The symbol ∪ is the 'union' (in A or B or both).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does the notation A ∪ B represent?",
+    "options": [
+     "Only the elements that are in both A and B",
+     "The elements that are in A only",
+     "The elements that are in A, in B, or in both",
+     "The elements that are in neither set"
+    ],
+    "answer": 2,
+    "explanation": "The union includes everything that is in at least one of the sets. It looks like a cup, which can help you remember it holds everything from both sets.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The universal set is ξ. What does A′ mean?",
+    "options": [
+     "The elements that are in A only",
+     "The elements of ξ that are not in A",
+     "The elements of A and B together",
+     "The empty set"
+    ],
+    "answer": 1,
+    "explanation": "A′ is the complement of A: everything in the universal set that is not in A.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "ξ = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} and A is the set of even numbers in ξ. What is n(A)?",
+    "options": [
+     "10",
+     "4",
+     "6",
+     "5"
+    ],
+    "answer": 3,
+    "explanation": "A = {2, 4, 6, 8, 10}, which has 5 elements. The notation n(A) means the number of elements in A.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A universal set has 20 elements. Set A has 8 elements. What is n(A′)?",
+    "options": [
+     "8",
+     "28",
+     "12",
+     "10"
+    ],
+    "answer": 2,
+    "explanation": "The complement contains all the elements not in A: 20 − 8 = 12.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "ξ = {1, 2, 3, ..., 12}. A = multiples of 3 and B = even numbers. Which list shows A ∩ B?",
+    "options": [
+     "{6, 12}",
+     "{3, 6, 9, 12}",
+     "{2, 3, 4, 6, 8, 9, 10, 12}",
+     "{2, 4, 6, 8, 10, 12}"
+    ],
+    "answer": 0,
+    "explanation": "A = {3, 6, 9, 12} and B = {2, 4, 6, 8, 10, 12}. Only 6 and 12 appear in both. The answer {2, 3, 4, 6, 8, 9, 10, 12} is the union.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "For the same sets, n(A) = 4, n(B) = 6 and n(A ∩ B) = 2. What is n(A ∪ B)?",
+    "options": [
+     "10",
+     "8",
+     "12",
+     "6"
+    ],
+    "answer": 1,
+    "explanation": "Use n(A ∪ B) = n(A) + n(B) − n(A ∩ B) = 4 + 6 − 2 = 8. Adding 4 + 6 = 10 counts the shared elements twice.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a year group of 40 students, 22 study French, 18 study Spanish and 7 study both. How many study neither language?",
+    "options": [
+     "33",
+     "0",
+     "7",
+     "3"
+    ],
+    "answer": 2,
+    "explanation": "Students studying at least one language = 22 + 18 − 7 = 33. So neither = 40 − 33 = 7. Adding 22 + 18 = 40 ignores the overlap, and would wrongly give 0 students studying neither.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In the same year group (40 students, 22 French, 18 Spanish, 7 both), a student is chosen at random. What is the probability that the student studies French only?",
+    "options": [
+     "22/40",
+     "15/22",
+     "7/40",
+     "3/8"
+    ],
+    "answer": 3,
+    "explanation": "French only = 22 − 7 = 15, so P = 15/40 = 3/8. The value 22/40 includes the 7 students who study both.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which region of a two-set Venn diagram is described by A′ ∩ B?",
+    "options": [
+     "Inside A but outside B",
+     "Inside B but outside A",
+     "Outside both circles",
+     "Inside both circles"
+    ],
+    "answer": 1,
+    "explanation": "A′ means outside A, and ∩ B means also in B. Together that is the part of B that does not overlap with A.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a Venn diagram, n(A ∩ B) = 7 and n(B) = 18. What is P(A | B) for a randomly chosen element of the universal set?",
+    "options": [
+     "7/18",
+     "7/n(A)",
+     "18/7",
+     "7/n(ξ)"
+    ],
+    "answer": 0,
+    "explanation": "P(A | B) is found by restricting to B: the favourable elements are those in A ∩ B (7) out of all the elements in B (18). The answer is 7/18.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A is a subset of B (written A ⊂ B). Which statement must be true?",
+    "options": [
+     "A ∪ B = A",
+     "A ∩ B = B",
+     "A ∩ B = ∅ (the empty set)",
+     "A ∩ B = A"
+    ],
+    "answer": 3,
+    "explanation": "Every element of A is also in B, so the elements they share are exactly the elements of A. This means A ∩ B = A and A ∪ B = B.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a survey of 50 people, 30 own a phone (P), 25 own a tablet (Q) and 5 own neither. How many own both?",
+    "options": [
+     "15",
+     "20",
+     "10",
+     "5"
+    ],
+    "answer": 2,
+    "explanation": "People owning at least one = 50 − 5 = 45. Use 45 = 30 + 25 − n(P ∩ Q), so n(P ∩ Q) = 55 − 45 = 10.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a club of 60, there are 32 who play music, 28 who play sport and 10 who do neither. A member who plays music is chosen at random. What is the probability that they also play sport?",
+    "options": [
+     "10/60",
+     "5/16",
+     "10/28",
+     "32/60"
+    ],
+    "answer": 1,
+    "explanation": "At least one activity: 60 − 10 = 50 = 32 + 28 − x, so both = 10. Given the member plays music, P = 10/32 = 5/16. The value 10/28 would be P(music | sport).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Of 34 students in a class, every student studies at least one of two optional subjects A and B. 14 study A only. The number studying both is x, and the number studying B only is x + 2. How many study B (in total)?",
+    "options": [
+     "11",
+     "9",
+     "22",
+     "20"
+    ],
+    "answer": 3,
+    "explanation": "14 + x + (x + 2) = 34, so 2x = 18 and x = 9. B only = 11, so n(B) = 11 + 9 = 20. The number 11 is B only, which leaves out the overlap.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which statement is always true for any two sets A and B?",
+    "options": [
+     "n(A ∪ B) ≤ n(A) + n(B)",
+     "n(A ∪ B) = n(A) + n(B)",
+     "n(A ∩ B) ≥ n(A)",
+     "n(A ∪ B) < n(A)"
+    ],
+    "answer": 0,
+    "explanation": "Adding n(A) and n(B) counts the shared elements twice, so the union can be at most the sum. They are equal only when the sets do not overlap.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "For events A and B, P(A) = 0.5, P(B) = 0.4 and P(A ∪ B) = 0.7. Which conclusion is correct?",
+    "options": [
+     "A and B are mutually exclusive, because P(A ∩ B) = 0.2",
+     "A and B are independent, because P(A ∪ B) = 0.7",
+     "A and B are independent, because P(A ∩ B) = 0.2 = 0.5 × 0.4",
+     "A and B are not independent, because 0.5 + 0.4 ≠ 0.7"
+    ],
+    "answer": 2,
+    "explanation": "P(A ∩ B) = 0.5 + 0.4 − 0.7 = 0.2. Since 0.5 × 0.4 = 0.2, the events are independent. Mutually exclusive events would have P(A ∩ B) = 0.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "ξ = {1, 2, ..., 10}, A = {1, 2, 3, 4, 5} and B = {4, 5, 6, 7}. What is n((A ∪ B)′)?",
+    "options": [
+     "7",
+     "5",
+     "10",
+     "3"
+    ],
+    "answer": 3,
+    "explanation": "A ∪ B = {1, 2, 3, 4, 5, 6, 7}, so (A ∪ B)′ = {8, 9, 10}, which has 3 elements. The value 7 is n(A ∪ B), before taking the complement.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Sets and notation\nA **set** is a collection of items, written in curly brackets, such as A = {2, 4, 6, 8}. The **universal set** ξ contains every item being considered. The notation n(A) means the **number of elements** in A.\n\n- **A ∩ B** (intersection): in both A and B.\n- **A ∪ B** (union): in A, or B, or both.\n- **A′** (complement): in ξ but not in A.\n- **∅** is the empty set, with no elements.\n- **A ⊂ B** means A is a subset of B: every element of A is in B.\n- **x ∈ A** means x is an element of A.\n\n## Venn diagrams\nA Venn diagram draws each set as a circle inside a rectangle that stands for ξ. When two circles overlap, you get four regions: A only, both, B only and neither. A good habit is to fill in the **overlap first**, then work outwards.\n\nWorked example: 40 students. 22 study French (F), 18 study Spanish (S), 7 study both.\n- Both: 7\n- French only: 22 − 7 = 15\n- Spanish only: 18 − 7 = 11\n- At least one: 15 + 7 + 11 = 33\n- Neither: 40 − 33 = 7\n\n## The counting formula\nn(A ∪ B) = n(A) + n(B) − n(A ∩ B). We subtract the overlap because it has been counted twice.\n\n## Probability from a Venn diagram\nProbability = the number of elements in the region ÷ the total number you are choosing from. If a **condition** is given, the total becomes the size of the set in the condition. For example, P(S | F) = n(F ∩ S) ÷ n(F) = 7/22. Notice that you are not dividing by 40 now.\n\nTwo events are **independent** if P(A ∩ B) = P(A) × P(B). Two events are **mutually exclusive** if they cannot happen together, so P(A ∩ B) = 0.\n\nThe addition rule is P(A ∪ B) = P(A) + P(B) − P(A ∩ B).\n\n## Common mistakes\n- Writing the total for the circle on the overlap region as well as for the 'only' region, so that the overlap is counted twice.\n- Forgetting the 'neither' region, which sits outside both circles.\n- Mixing up ∩ and ∪.\n- Confusing \"mutually exclusive\" (cannot both happen) with \"independent\" (do not affect each other).\n- Dividing by the whole universal set when a condition has been given.\n\n## How this is examined\nIn the eAssessment you will usually meet a survey or data context, for example people who use different forms of transport, or students in clubs. The stimulus supplies totals and overlaps. Early parts ask you to write down or complete the Venn diagram. Later parts ask you to calculate a probability, then to justify whether two events are independent by comparing P(A ∩ B) with P(A) × P(B), showing the calculations.\n\nExam tip: Check that every region of your Venn diagram adds up to the total in the question. If it does not, you have double-counted the overlap or forgotten the outside region.",
+  "flashcards": [
+   {
+    "front": "n(A ∪ B) formula",
+    "back": "n(A ∪ B) = n(A) + n(B) − n(A ∩ B). Subtract the overlap because it was counted twice."
+   },
+   {
+    "front": "A ∩ B means",
+    "back": "The intersection: elements in both A and B."
+   },
+   {
+    "front": "A ∪ B means",
+    "back": "The union: elements in A, or in B, or in both."
+   },
+   {
+    "front": "A′ means",
+    "back": "The complement of A: everything in the universal set ξ that is not in A."
+   },
+   {
+    "front": "What does n(A) mean?",
+    "back": "The number of elements in set A."
+   },
+   {
+    "front": "What does A ⊂ B mean?",
+    "back": "A is a subset of B: every element of A is also in B."
+   },
+   {
+    "front": "What is the universal set?",
+    "back": "The set ξ containing all the elements being considered. It is the rectangle round the Venn diagram."
+   },
+   {
+    "front": "Test for independent events",
+    "back": "A and B are independent if P(A ∩ B) = P(A) × P(B)."
+   },
+   {
+    "front": "Which regions does a two-set Venn diagram have?",
+    "back": "A only, both A and B, B only, and neither (outside both circles). Fill in the overlap first."
+   }
+  ]
+ }
+]

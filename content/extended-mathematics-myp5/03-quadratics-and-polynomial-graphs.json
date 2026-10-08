@@ -1,0 +1,1054 @@
+[
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Quadratics and Polynomial Graphs",
+  "subTopic": "Completing the Square and the Quadratic Formula",
+  "questions": [
+   {
+    "content": "Solve x² − 5x + 6 = 0.",
+    "options": [
+     "x = −2 or x = −3",
+     "x = 2 or x = 3",
+     "x = 1 or x = 6",
+     "x = −2 or x = 3"
+    ],
+    "answer": 1,
+    "explanation": "Factorise: (x − 2)(x − 3) = 0, so x = 2 or x = 3. The numbers multiply to +6 and add to −5.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Write x² + 6x in completed-square form.",
+    "options": [
+     "(x + 3)² + 9",
+     "(x + 6)² − 36",
+     "(x + 3)² − 9",
+     "(x + 3)²"
+    ],
+    "answer": 2,
+    "explanation": "Half of 6 is 3. (x + 3)² = x² + 6x + 9, so subtract 9 to get back to x² + 6x.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which formula gives the solutions of ax² + bx + c = 0?",
+    "options": [
+     "x = (b ± √(b² − 4ac)) / 2a",
+     "x = (−b ± √(b² + 4ac)) / 2a",
+     "x = (−b ± √(b² − 4ac)) / a",
+     "x = (−b ± √(b² − 4ac)) / 2a"
+    ],
+    "answer": 3,
+    "explanation": "The quadratic formula has −b at the front, b² − 4ac under the root and 2a as the denominator.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Find the discriminant b² − 4ac for 2x² + 3x − 5 = 0.",
+    "options": [
+     "49",
+     "−31",
+     "1",
+     "14"
+    ],
+    "answer": 0,
+    "explanation": "b² − 4ac = 9 − 4(2)(−5) = 9 + 40 = 49. Two negatives multiply to a positive.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Solve (x − 2)² = 9.",
+    "options": [
+     "x = 11 or x = −7",
+     "x = 5 or x = −1",
+     "x = 3 or x = −3",
+     "x = 5 only"
+    ],
+    "answer": 1,
+    "explanation": "Take the square root of both sides: x − 2 = 3 or x − 2 = −3. Then x = 5 or x = −1.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Write x² + 8x + 5 in the form (x + p)² + q.",
+    "options": [
+     "(x + 4)² + 5",
+     "(x + 4)² − 5",
+     "(x + 4)² − 11",
+     "(x + 8)² − 59"
+    ],
+    "answer": 2,
+    "explanation": "(x + 4)² = x² + 8x + 16, so to get +5 we subtract 11.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Write x² − 6x + 1 in the form (x + p)² + q.",
+    "options": [
+     "(x − 3)² + 1",
+     "(x + 3)² − 8",
+     "(x − 3)² + 8",
+     "(x − 3)² − 8"
+    ],
+    "answer": 3,
+    "explanation": "(x − 3)² = x² − 6x + 9. To leave +1 we subtract 8.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve x² + 4x − 3 = 0, giving exact answers.",
+    "options": [
+     "x = −2 ± √7",
+     "x = 2 ± √7",
+     "x = −2 ± √28",
+     "x = −4 ± √7"
+    ],
+    "answer": 0,
+    "explanation": "Using the formula: x = (−4 ± √28)/2 = (−4 ± 2√7)/2 = −2 ± √7.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Write 2x² + 12x + 7 in the form a(x + p)² + q.",
+    "options": [
+     "2(x + 6)² − 29",
+     "2(x + 3)² − 11",
+     "2(x + 3)² + 7",
+     "2(x + 3)² − 18"
+    ],
+    "answer": 1,
+    "explanation": "2(x² + 6x) + 7 = 2[(x + 3)² − 9] + 7 = 2(x + 3)² − 18 + 7 = 2(x + 3)² − 11.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve 3x² − 5x − 1 = 0, giving answers to 2 decimal places.",
+    "options": [
+     "x = 1.85 or x = 0.18",
+     "x = 5.83 or x = −1.00",
+     "x = 1.85 or x = −0.18",
+     "x = 3.19 or x = −0.19"
+    ],
+    "answer": 2,
+    "explanation": "x = (5 ± √37)/6. √37 = 6.083, so x = 1.847 or x = −0.180.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Look at the equation x² − 4x + 4 = 0. What does its discriminant tell you?",
+    "options": [
+     "Two different real roots",
+     "No real roots",
+     "Two negative roots",
+     "One repeated real root"
+    ],
+    "answer": 3,
+    "explanation": "b² − 4ac = 16 − 16 = 0, so there is one repeated root, x = 2. The graph just touches the x-axis.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A ball's height is h = −5t² + 20t + 1.5 metres at t seconds. When does it hit the ground (h = 0)? Give the answer to 2 decimal places.",
+    "options": [
+     "4.07 s",
+     "4.00 s",
+     "0.07 s",
+     "4.15 s"
+    ],
+    "answer": 0,
+    "explanation": "Solve 5t² − 20t − 1.5 = 0: t = (20 ± √430)/10 = 4.07 or −0.07. A negative time is rejected.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "For which value of k does x² + kx + 9 = 0 have exactly one repeated root?",
+    "options": [
+     "k = 3 or k = −3",
+     "k = 6 or k = −6",
+     "k = 6 only",
+     "k = 18 or k = −18"
+    ],
+    "answer": 1,
+    "explanation": "Set k² − 4(1)(9) = 0, so k² = 36 and k = ±6.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Write −x² + 6x + 1 in the form a(x + p)² + q and state its greatest value.",
+    "options": [
+     "−(x + 3)² + 10, greatest value 10",
+     "−(x − 3)² − 8, greatest value −8",
+     "−(x − 3)² + 10, greatest value 10",
+     "(x − 3)² + 10, least value 10"
+    ],
+    "answer": 2,
+    "explanation": "−(x² − 6x) + 1 = −[(x − 3)² − 9] + 1 = −(x − 3)² + 10. The squared part is at least 0, so the greatest value is 10 at x = 3.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Solve 2x² − 7x + 2 = 0, giving exact answers.",
+    "options": [
+     "x = (7 ± √17)/4",
+     "x = (−7 ± √33)/4",
+     "x = (7 ± √33)/2",
+     "x = (7 ± √33)/4"
+    ],
+    "answer": 3,
+    "explanation": "b² − 4ac = 49 − 16 = 33. The denominator is 2a = 4.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A rectangular courtyard is 3 m longer than it is wide, with area 30 m². Find the width to 2 decimal places.",
+    "options": [
+     "4.18 m",
+     "5.00 m",
+     "7.18 m",
+     "3.00 m"
+    ],
+    "answer": 0,
+    "explanation": "w(w + 3) = 30 gives w² + 3w − 30 = 0. w = (−3 + √129)/2 = 4.18. The negative root is rejected as a length.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Solve (x + 1)(x − 2) = 5 and give the solutions to 2 decimal places.",
+    "options": [
+     "x = 3 or x = −2",
+     "x = 3.19 or x = −2.19",
+     "x = 6 or x = 3",
+     "x = 4 or x = −1"
+    ],
+    "answer": 1,
+    "explanation": "Expand: x² − x − 2 = 5, so x² − x − 7 = 0. x = (1 ± √29)/2 = 3.19 or −2.19. You cannot set each bracket equal to 5.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "f(x) = x² − 10x + 30. Which statement is correct?",
+    "options": [
+     "The minimum value is 30, at x = 0",
+     "The minimum value is −5, at x = 5",
+     "The minimum value is 5, at x = 5",
+     "The maximum value is 5, at x = 5"
+    ],
+    "answer": 2,
+    "explanation": "x² − 10x + 30 = (x − 5)² + 5. The squared term is at least 0, so the least value of f is 5 when x = 5.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Quadratic equations have the form ax² + bx + c = 0. You already know how to solve some by factorising. Completing the square and the quadratic formula work for every quadratic, including those that do not factorise neatly.\n\n## Completing the square\nThe idea is to rewrite x² + bx + c as (x + p)² + q.\n- Halve the coefficient of x to find p.\n- (x + p)² already contains p², so subtract p² and add the constant.\nExample: x² + 8x + 5 = (x + 4)² − 16 + 5 = (x + 4)² − 11.\nWhen a ≠ 1, take a out of the x² and x terms first: 2x² + 12x + 7 = 2(x² + 6x) + 7 = 2[(x + 3)² − 9] + 7 = 2(x + 3)² − 11.\nSolving: from (x − 2)² = 9 we get x − 2 = ±3, so x = 5 or −1.\n\n## Why it is useful\nThe form a(x + p)² + q shows the turning point (−p, q). The squared term can never be negative, so the minimum value of x² − 10x + 30 = (x − 5)² + 5 is 5, when x = 5. If the coefficient of x² is negative, the same form gives a maximum.\n\n## The quadratic formula\nFor ax² + bx + c = 0: **x = (−b ± √(b² − 4ac)) / 2a**.\nExample: 3x² − 5x − 1 = 0 has a = 3, b = −5, c = −1. Then x = (5 ± √(25 + 12))/6 = (5 ± √37)/6 = 1.85 or −0.18 (2 d.p.). Put negative numbers in brackets so that the signs are handled correctly.\n\n## The discriminant\nThe expression b² − 4ac decides the number of real roots.\n- Positive: two different real roots (graph crosses the x-axis twice).\n- Zero: one repeated root (graph touches the axis).\n- Negative: no real roots (graph does not reach the axis).\n\n## Worked example\nA ball's height is h = −5t² + 20t + 1.5 metres. When does it land? Solve 5t² − 20t − 1.5 = 0: t = (20 ± √(400 + 30))/10 = (20 ± 20.74)/10, giving 4.07 s or −0.07 s. A negative time has no meaning, so the ball lands after 4.07 seconds.\n\n## Common mistakes\n- Using + p instead of − p² when completing the square.\n- Forgetting the ± in the formula and finding only one solution.\n- Sign errors with b or when −4ac is positive.\n- Not rejecting impossible solutions in context.\n\n## How this is examined\nQuadratic models appear as projectile paths, areas of gardens or profit models. You may be asked to solve exactly (surd form) or to a given accuracy, to use the discriminant to justify whether a target can be reached, and to interpret which root makes sense.\n\nExam tip: write the formula first, then substitute with brackets; method marks are awarded for a correct substitution even if the arithmetic goes wrong.",
+  "flashcards": [
+   {
+    "front": "Completed-square form",
+    "back": "x² + bx + c = (x + b/2)² + c − (b/2)². The turning point is (−b/2, c − (b/2)²)."
+   },
+   {
+    "front": "Write x² + 8x + 5 in completed-square form",
+    "back": "(x + 4)² − 11. Half of 8 is 4, so subtract 16 and add 5."
+   },
+   {
+    "front": "The quadratic formula",
+    "back": "x = (−b ± √(b² − 4ac)) / 2a for ax² + bx + c = 0."
+   },
+   {
+    "front": "What is the discriminant?",
+    "back": "b² − 4ac. It tells you how many real roots a quadratic has."
+   },
+   {
+    "front": "Discriminant > 0",
+    "back": "Two different real roots. The graph crosses the x-axis twice."
+   },
+   {
+    "front": "Discriminant = 0",
+    "back": "One repeated real root. The graph touches the x-axis at its turning point."
+   },
+   {
+    "front": "Discriminant < 0",
+    "back": "No real roots. The graph does not meet the x-axis."
+   },
+   {
+    "front": "How can completing the square show a minimum?",
+    "back": "In a(x + p)² + q with a > 0, the square is at least 0, so the minimum value is q when x = −p."
+   },
+   {
+    "front": "Why check roots in context?",
+    "back": "A negative time, length or other impossible value must be rejected, leaving only the sensible root."
+   }
+  ]
+ },
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Quadratics and Polynomial Graphs",
+  "subTopic": "Quadratic Graphs and Turning Points",
+  "questions": [
+   {
+    "content": "Where does y = x² − 4x + 3 cross the x-axis?",
+    "options": [
+     "x = −1 and x = −3",
+     "x = 1 and x = 3",
+     "x = 0 and x = 3",
+     "x = 3 only"
+    ],
+    "answer": 1,
+    "explanation": "Set y = 0: (x − 1)(x − 3) = 0.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the y-intercept of y = x² − 5x + 6?",
+    "options": [
+     "−5",
+     "1",
+     "6",
+     "0"
+    ],
+    "answer": 2,
+    "explanation": "Put x = 0 into the equation: y = 6.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Find the axis of symmetry of y = x² − 6x + 5.",
+    "options": [
+     "x = −3",
+     "x = 5",
+     "x = 6",
+     "x = 3"
+    ],
+    "answer": 3,
+    "explanation": "The roots are x = 1 and x = 5, and the axis of symmetry is halfway: x = 3. Alternatively use x = −b/2a = 6/2.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The coefficient of x² in a quadratic is negative. What shape is its graph and what kind of turning point does it have?",
+    "options": [
+     "An ∩ shape with a maximum",
+     "A ∪ shape with a maximum",
+     "A ∪ shape with a minimum",
+     "An ∩ shape with a minimum"
+    ],
+    "answer": 0,
+    "explanation": "A negative x² coefficient flips the parabola upside down, so the turning point is a maximum.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What are the coordinates of the turning point of y = (x − 2)² + 3?",
+    "options": [
+     "(−2, 3)",
+     "(2, 3)",
+     "(2, −3)",
+     "(3, 2)"
+    ],
+    "answer": 1,
+    "explanation": "The form y = (x − p)² + q has its turning point at (p, q).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Find the turning point of y = x² − 4x − 5.",
+    "options": [
+     "(−2, −9)",
+     "(2, 9)",
+     "(2, −9)",
+     "(4, −5)"
+    ],
+    "answer": 2,
+    "explanation": "Axis x = 2. y = 4 − 8 − 5 = −9. Or write it as (x − 2)² − 9.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Find the x-intercepts of y = x² − 4x − 5.",
+    "options": [
+     "x = 1 and x = −5",
+     "x = −1 and x = −5",
+     "x = 5 only",
+     "x = −1 and x = 5"
+    ],
+    "answer": 3,
+    "explanation": "Factorise: (x + 1)(x − 5) = 0. Product −5 and sum −4 give +1 and −5 in the brackets.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Find the maximum point of y = −x² + 6x − 4.",
+    "options": [
+     "(3, 5)",
+     "(3, −4)",
+     "(−3, 5)",
+     "(6, −4)"
+    ],
+    "answer": 0,
+    "explanation": "The axis is x = −b/2a = −6/(−2) = 3. y = −9 + 18 − 4 = 5.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A ball is thrown so that its height after t seconds is h = 20t − 5t² metres. Find its greatest height and when this happens.",
+    "options": [
+     "20 m after 4 s",
+     "20 m after 2 s",
+     "40 m after 2 s",
+     "15 m after 1 s"
+    ],
+    "answer": 1,
+    "explanation": "h = 5t(4 − t) has roots 0 and 4, so the maximum is at t = 2. h = 40 − 20 = 20 m.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "For y = 2x² − 8x, find the roots and the equation of the axis of symmetry.",
+    "options": [
+     "Roots 0 and 8; axis x = 4",
+     "Roots 0 and −4; axis x = −2",
+     "Roots 0 and 4; axis x = 2",
+     "Roots 2 and 4; axis x = 3"
+    ],
+    "answer": 2,
+    "explanation": "2x(x − 4) = 0 gives x = 0 or 4, and the axis is halfway at x = 2.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A parabola crosses the x-axis at x = 1 and x = 5 and passes through (0, 10). Which equation is correct?",
+    "options": [
+     "y = x² − 6x + 5",
+     "y = 2x² + 12x + 10",
+     "y = −2x² + 12x − 10",
+     "y = 2x² − 12x + 10"
+    ],
+    "answer": 3,
+    "explanation": "y = a(x − 1)(x − 5). At x = 0, 5a = 10, so a = 2. Expanding gives 2x² − 12x + 10.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How many times does y = x² + 2x + 5 cross the x-axis?",
+    "options": [
+     "0",
+     "1",
+     "2",
+     "3"
+    ],
+    "answer": 0,
+    "explanation": "The discriminant is 4 − 20 = −16 < 0, so there are no real roots. The graph stays above the axis.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A farmer has 40 m of fencing for a rectangle. If one side is x m, the area is A = x(20 − x). What is the greatest possible area?",
+    "options": [
+     "200 m²",
+     "100 m²",
+     "80 m²",
+     "400 m²"
+    ],
+    "answer": 1,
+    "explanation": "Roots are 0 and 20, so the maximum is at x = 10. A = 10 × 10 = 100 m², a square.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Find the turning point of y = x² + 6x + 4.",
+    "options": [
+     "(3, −5)",
+     "(−3, 4)",
+     "(−3, −5)",
+     "(−3, 13)"
+    ],
+    "answer": 2,
+    "explanation": "x² + 6x + 4 = (x + 3)² − 5, so the minimum is at (−3, −5).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Find the turning point of y = 2x² − 12x + 13.",
+    "options": [
+     "(−3, −5)",
+     "(3, 13)",
+     "(6, 13)",
+     "(3, −5)"
+    ],
+    "answer": 3,
+    "explanation": "2(x² − 6x) + 13 = 2(x − 3)² − 18 + 13 = 2(x − 3)² − 5. The turning point is (3, −5).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A parabola has its turning point at (2, −3) and passes through (0, 1). Which is its equation?",
+    "options": [
+     "y = x² − 4x + 1",
+     "y = x² + 4x + 1",
+     "y = 2x² − 8x + 1",
+     "y = −x² + 4x + 1"
+    ],
+    "answer": 0,
+    "explanation": "y = a(x − 2)² − 3. At x = 0, 4a − 3 = 1, so a = 1. Expanding: x² − 4x + 4 − 3 = x² − 4x + 1.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A tunnel arch is modelled by h = 8 − 0.02x², where x is the horizontal distance in metres from the centre line and h is the height. A lorry needs 5 m of clearance. What is the greatest width of lorry the arch allows at that height, to 1 decimal place?",
+    "options": [
+     "12.2 m",
+     "24.5 m",
+     "40.0 m",
+     "22.4 m"
+    ],
+    "answer": 1,
+    "explanation": "Set 5 = 8 − 0.02x², so x² = 150 and x = 12.25. The width is 2 × 12.25 = 24.5 m. Do not forget to double.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "y = x² − 6x + k never touches or crosses the x-axis. What is the range of k?",
+    "options": [
+     "k < 9",
+     "k > 6",
+     "k > 9",
+     "k ≥ 9"
+    ],
+    "answer": 2,
+    "explanation": "No real roots means 36 − 4k < 0, so k > 9. At k = 9 the graph would touch the axis at x = 3.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "A quadratic function y = ax² + bx + c has a smooth curved graph called a **parabola**. If a > 0 it opens upward (∪ shape) with a minimum; if a < 0 it opens downward (∩ shape) with a maximum.\n\n## Key features\n- **y-intercept:** put x = 0, giving y = c.\n- **x-intercepts (roots):** solve ax² + bx + c = 0 by factorising or the formula. If the discriminant is negative, there are none.\n- **Axis of symmetry:** halfway between the roots, with equation x = −b/(2a).\n- **Turning point:** on the axis. Substitute the axis value for x to find y.\n\n## Turning point from completed-square form\nIf y = a(x − p)² + q then the turning point is (p, q). For y = x² − 4x − 5 = (x − 2)² − 9, the turning point is (2, −9). Notice the sign: (x − 2) gives x = +2.\n\n## Finding an equation from a graph\n- Given two roots r and s and another point: y = a(x − r)(x − s). Use the point to find a. A graph through x = 1, x = 5 and (0, 10) has 5a = 10, so a = 2 and y = 2x² − 12x + 10.\n- Given a turning point (p, q) and another point: y = a(x − p)² + q.\n\n## Worked example\nA ball's height is h = 20t − 5t² metres. Factorise: h = 5t(4 − t), so the roots are t = 0 and t = 4. The axis of symmetry is t = 2, and h = 40 − 20 = 20. The greatest height is 20 m after 2 s. The ball is in the air for 4 s.\n\n## Optimisation\nMaximum area problems often make a quadratic. With 40 m of fence, if one side is x m the other is (20 − x) m, so A = x(20 − x). The roots are 0 and 20, so the maximum is at x = 10, giving 100 m². The best rectangle is a square.\n\n## Common mistakes\n- Using the wrong sign for the turning point from (x − p)² + q.\n- Forgetting to double when finding a width from half-distance x.\n- Confusing roots (where y = 0) with the y-intercept (where x = 0).\n- Stating the turning point as just the x-value; give both coordinates.\n\n## How this is examined\nTypical contexts are arches, bridges, projectile paths and profit models. After forming or being given the equation, you calculate the maximum, find where the graph reaches a given height, and interpret each answer with units. Evaluation questions ask you to judge how realistic a quadratic model is, such as noting that it ignores air resistance or ends where the ground starts.\n\nExam tip: always label turning point answers as coordinates (x, y) and say in words whether it is a maximum or a minimum.",
+  "flashcards": [
+   {
+    "front": "Shape of y = ax² + bx + c",
+    "back": "A parabola. If a > 0 it is a ∪ with a minimum. If a < 0 it is an ∩ with a maximum."
+   },
+   {
+    "front": "y-intercept of a quadratic",
+    "back": "Put x = 0. It equals c in y = ax² + bx + c."
+   },
+   {
+    "front": "x-intercepts (roots)",
+    "back": "Where y = 0. Solve by factorising or using the formula."
+   },
+   {
+    "front": "Axis of symmetry",
+    "back": "x = −b/(2a), halfway between the roots."
+   },
+   {
+    "front": "Turning point from y = (x − p)² + q",
+    "back": "(p, q). The sign of p is the opposite of the sign in the bracket."
+   },
+   {
+    "front": "Equation from two roots r and s",
+    "back": "y = a(x − r)(x − s). Use another point to find a."
+   },
+   {
+    "front": "Equation from a turning point (p, q)",
+    "back": "y = a(x − p)² + q. Use another point to find a."
+   },
+   {
+    "front": "Number of x-intercepts from b² − 4ac",
+    "back": "Positive: 2. Zero: 1 (touches). Negative: none."
+   },
+   {
+    "front": "Interpreting a projectile model",
+    "back": "Roots give when it is at ground level, the turning point gives the greatest height and the time it happens. Reject negative times."
+   }
+  ]
+ },
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Quadratics and Polynomial Graphs",
+  "subTopic": "Linear-Quadratic Simultaneous Equations",
+  "questions": [
+   {
+    "content": "To find where the line y = x + 1 meets the curve y = x² − 1, which equation do you get after setting the two expressions for y equal?",
+    "options": [
+     "x² + x − 2 = 0",
+     "x² − x − 2 = 0",
+     "x² − x = 0",
+     "x² − 2 = 0"
+    ],
+    "answer": 1,
+    "explanation": "x² − 1 = x + 1. Move everything to one side: x² − x − 2 = 0.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Solve x² − x − 2 = 0.",
+    "options": [
+     "x = −2 or x = 1",
+     "x = 2 or x = 1",
+     "x = 2 or x = −1",
+     "x = −2 or x = −1"
+    ],
+    "answer": 2,
+    "explanation": "Factorise: (x − 2)(x + 1) = 0.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A straight line crosses a parabola at two different points. How many solutions does the simultaneous pair of equations have?",
+    "options": [
+     "1",
+     "0",
+     "4",
+     "2"
+    ],
+    "answer": 3,
+    "explanation": "Each crossing point is one solution (an x-value with its y-value).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A line just touches a parabola at exactly one point. What is the value of the discriminant of the equation formed by equating them?",
+    "options": [
+     "0",
+     "Positive",
+     "Negative",
+     "1"
+    ],
+    "answer": 0,
+    "explanation": "One repeated root means b² − 4ac = 0. The line is a tangent.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which pair of points is where y = x + 2 meets y = x²?",
+    "options": [
+     "(1, 1) and (−2, 4)",
+     "(−1, 1) and (2, 4)",
+     "(2, 4) and (−2, 0)",
+     "(1, 3) and (−1, 1)"
+    ],
+    "answer": 1,
+    "explanation": "x² = x + 2 gives (x − 2)(x + 1) = 0. At x = 2, y = 4. At x = −1, y = 1.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Solve y = x² − 3 and y = 2x.",
+    "options": [
+     "(3, 6) and (1, 2)",
+     "(−3, −6) and (1, 2)",
+     "(3, 6) and (−1, −2)",
+     "(3, 6) only"
+    ],
+    "answer": 2,
+    "explanation": "x² − 3 = 2x gives x² − 2x − 3 = 0, so x = 3 or −1. Use y = 2x to find y.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Find the intersections of y = x² − 2x − 5 and y = x + 5.",
+    "options": [
+     "(5, 10) and (2, 7)",
+     "(−5, 0) and (2, 7)",
+     "(5, 0) and (−2, 3)",
+     "(5, 10) and (−2, 3)"
+    ],
+    "answer": 3,
+    "explanation": "x² − 2x − 5 = x + 5 gives x² − 3x − 10 = 0, so x = 5 or −2. Then y = x + 5 gives 10 and 3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve x² + y² = 25 and y = x + 1.",
+    "options": [
+     "(3, 4) and (−4, −3)",
+     "(3, 4) and (4, 3)",
+     "(−3, −2) and (4, 5)",
+     "(3, 4) only"
+    ],
+    "answer": 0,
+    "explanation": "x² + (x + 1)² = 25 gives 2x² + 2x − 24 = 0, so x² + x − 12 = 0 and x = 3 or −4. Check: 3² + 4² = 25.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve y = 2x − 1 and y = x² − 4x + 8. What does your answer show?",
+    "options": [
+     "Two points, (3, 5) and (−3, −7)",
+     "One point, (3, 5): the line is a tangent",
+     "No points: the line misses the curve",
+     "One point, (3, 5): the line crosses the curve"
+    ],
+    "answer": 1,
+    "explanation": "x² − 6x + 9 = 0 gives (x − 3)² = 0, so x = 3 only. A repeated root means the line touches the curve.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Two numbers satisfy x + y = 5 and xy = 6. Which solution pair is correct?",
+    "options": [
+     "(1, 4) and (4, 1)",
+     "(2, 3) only",
+     "(2, 3) and (3, 2)",
+     "(−2, −3) and (−3, −2)"
+    ],
+    "answer": 2,
+    "explanation": "Substitute y = 5 − x: x(5 − x) = 6, so x² − 5x + 6 = 0 and x = 2 or 3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A slide is modelled by y = 2x and the side of a hill by y = 6x − x² (metres). Where do they meet apart from the origin?",
+    "options": [
+     "(2, 4)",
+     "(8, 4)",
+     "(4, 16)",
+     "(4, 8)"
+    ],
+    "answer": 3,
+    "explanation": "2x = 6x − x² gives x² − 4x = 0, so x = 0 or 4. When x = 4, y = 8.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The line y = 2x + k is a tangent to the curve y = x² + 3. Find k.",
+    "options": [
+     "2",
+     "−2",
+     "3",
+     "1"
+    ],
+    "answer": 0,
+    "explanation": "x² + 3 = 2x + k gives x² − 2x + 3 − k = 0. A tangent needs 4 − 4(3 − k) = 0, so k = 2.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How many times does y = x² + 1 meet y = 2x − 3?",
+    "options": [
+     "1",
+     "0",
+     "2",
+     "3"
+    ],
+    "answer": 1,
+    "explanation": "x² + 1 = 2x − 3 gives x² − 2x + 4 = 0. The discriminant is 4 − 16 = −12 < 0, so no solutions.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve x² + y² = 20 and y = x + 2.",
+    "options": [
+     "(2, 4) and (4, 2)",
+     "(−2, 0) and (4, 6)",
+     "(2, 4) and (−4, −2)",
+     "(2, 4) only"
+    ],
+    "answer": 2,
+    "explanation": "x² + (x + 2)² = 20 gives 2x² + 4x − 16 = 0, so x² + 2x − 8 = 0 and x = 2 or −4.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Solve x − y = 2 and x² + y² = 34.",
+    "options": [
+     "(5, 3) and (3, 5)",
+     "(−5, −3) and (3, 5)",
+     "(5, 3) only",
+     "(5, 3) and (−3, −5)"
+    ],
+    "answer": 3,
+    "explanation": "y = x − 2: x² + (x − 2)² = 34 gives 2x² − 4x − 30 = 0, so x² − 2x − 15 = 0 and x = 5 or −3.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A rectangle has perimeter 28 cm and area 45 cm². What is the length of its diagonal, to 1 decimal place?",
+    "options": [
+     "10.3 cm",
+     "14.0 cm",
+     "9.0 cm",
+     "10.0 cm"
+    ],
+    "answer": 0,
+    "explanation": "x + y = 14 and xy = 45 give x² − 14x + 45 = 0, so the sides are 5 and 9. Diagonal = √(25 + 81) = √106 = 10.3 cm.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "For which values of k does the line y = x + k meet the curve y = x² at two distinct points?",
+    "options": [
+     "k < −1/4",
+     "k > −1/4",
+     "k > 1/4",
+     "k > 0"
+    ],
+    "answer": 1,
+    "explanation": "x² − x − k = 0 needs a positive discriminant: 1 + 4k > 0, so k > −1/4.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A cable follows y = 0.5x + 1 and a bank follows y = −0.5x² + 3x. Find the x-coordinates where they meet, to 2 decimal places.",
+    "options": [
+     "x = 0.50 and x = 4.00",
+     "x = −0.44 and x = −4.56",
+     "x = 0.44 and x = 4.56",
+     "x = 2 and x = 5"
+    ],
+    "answer": 2,
+    "explanation": "Equate: 0.5x² − 2.5x + 1 = 0, i.e. x² − 5x + 2 = 0. x = (5 ± √17)/2 = 0.44 or 4.56.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "A simultaneous pair made of one linear equation and one quadratic (or circle) equation can have two solutions, one solution or none. Geometrically, you are finding where a straight line meets a curve.\n\n## The method: substitution\n- Step 1: make y (or x) the subject of the linear equation.\n- Step 2: substitute into the curved equation.\n- Step 3: rearrange to the form ax² + bx + c = 0 and solve it.\n- Step 4: substitute each answer back into the **linear** equation to find the matching y-values.\nAlways write the answers as coordinate pairs (x, y) and pair them correctly.\n\nExample: y = x² − 3 and y = 2x. Then x² − 3 = 2x, so x² − 2x − 3 = 0 and (x − 3)(x + 1) = 0. The points are (3, 6) and (−1, −2).\n\n## Using the discriminant\nAfter you rearrange to a quadratic, the discriminant b² − 4ac shows how the line and curve relate.\n- Positive: the line cuts the curve at two points.\n- Zero: the line touches the curve at one point (a **tangent**).\n- Negative: the line does not meet the curve.\nTo find a missing value k so that y = 2x + k touches y = x² + 3: equate to get x² − 2x + 3 − k = 0 and set the discriminant to zero: 4 − 4(3 − k) = 0, so k = 2.\n\n## Circles and other forms\nThe equation x² + y² = 25 is a circle. Substitute y = x + 1 to get x² + (x + 1)² = 25, so 2x² + 2x − 24 = 0, which simplifies to x² + x − 12 = 0. So x = 3 or −4, giving (3, 4) and (−4, −3). Expand (x + 1)² carefully: it is x² + 2x + 1, not x² + 1.\n\n## Worked example\nA rectangle has perimeter 28 cm and area 45 cm². Find its diagonal.\nx + y = 14 and xy = 45. Substitute y = 14 − x: x(14 − x) = 45, so x² − 14x + 45 = 0 and x = 5 or 9. The sides are 5 cm and 9 cm. Diagonal = √(25 + 81) = √106 = 10.3 cm.\n\n## Common mistakes\n- Finding the x-values but forgetting the y-values.\n- Pairing x and y values wrongly (always substitute into the linear equation).\n- Squaring (x + 1) as x² + 1.\n- Forgetting to rearrange to zero before factorising.\n\n## How this is examined\nContexts include the path of a projectile crossing a straight slope, a cable meeting a curved bank, or dimensions of a shape given by area and perimeter. You will need to form the equations, solve them, reject solutions that do not fit (a negative length) and interpret what the coordinates mean. Show-that questions give the quadratic and ask you to derive it.\n\nExam tip: finish by checking one solution in both original equations. It takes ten seconds and catches most slips.",
+  "flashcards": [
+   {
+    "front": "Method for linear–quadratic simultaneous equations",
+    "back": "Substitute the linear equation into the quadratic, solve the resulting quadratic, then find each y from the linear equation."
+   },
+   {
+    "front": "How many solutions can a line and a parabola have?",
+    "back": "Two, one (tangent) or none."
+   },
+   {
+    "front": "Discriminant = 0 means what for a line and a curve?",
+    "back": "The line is a tangent. It touches the curve at exactly one point."
+   },
+   {
+    "front": "Discriminant < 0 means what for a line and a curve?",
+    "back": "The line does not meet the curve."
+   },
+   {
+    "front": "What shape is x² + y² = 25?",
+    "back": "A circle with centre at the origin and radius 5."
+   },
+   {
+    "front": "Expand (x + 1)²",
+    "back": "x² + 2x + 1. Do not forget the middle term."
+   },
+   {
+    "front": "Present the final answers as",
+    "back": "Coordinate pairs (x, y), matching each x with the y found from the linear equation."
+   },
+   {
+    "front": "Find k so that y = 2x + k is a tangent to y = x² + 3",
+    "back": "Set the discriminant of x² − 2x + 3 − k = 0 to zero: 4 − 4(3 − k) = 0, so k = 2."
+   },
+   {
+    "front": "Check your answer by",
+    "back": "Substituting each coordinate pair into both original equations."
+   }
+  ]
+ },
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Quadratics and Polynomial Graphs",
+  "subTopic": "Cubic and Reciprocal Graphs",
+  "questions": [
+   {
+    "content": "Which description fits the graph of y = 1/x?",
+    "options": [
+     "A single straight line",
+     "Two separate curves that never touch the axes",
+     "A U-shaped curve with a minimum",
+     "A curve that crosses the y-axis at 1"
+    ],
+    "answer": 1,
+    "explanation": "The reciprocal graph has two branches, one in each of two opposite quadrants, and it approaches the axes (its asymptotes) without touching them.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which point lies on the graph of y = x³?",
+    "options": [
+     "(−1, 1)",
+     "(2, 6)",
+     "(−1, −1)",
+     "(0, 1)"
+    ],
+    "answer": 2,
+    "explanation": "(−1)³ = −1. Cubing a negative number gives a negative number.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the y-intercept of y = x³ − 2x² + 4?",
+    "options": [
+     "−2",
+     "0",
+     "1",
+     "4"
+    ],
+    "answer": 3,
+    "explanation": "Put x = 0: y = 4.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Find y when x = 0.5 on the graph of y = 1/x.",
+    "options": [
+     "2",
+     "0.5",
+     "−2",
+     "0.2"
+    ],
+    "answer": 0,
+    "explanation": "1 ÷ 0.5 = 2.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Find y when x = −2 on the graph of y = x³.",
+    "options": [
+     "8",
+     "−8",
+     "−6",
+     "−4"
+    ],
+    "answer": 1,
+    "explanation": "(−2)³ = (−2)(−2)(−2) = −8.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Where does y = (x − 1)(x + 2)(x − 3) cross the x-axis?",
+    "options": [
+     "x = −1, 2 and −3",
+     "x = 1, 2 and 3",
+     "x = 1, −2 and 3",
+     "x = 1 and 3 only"
+    ],
+    "answer": 2,
+    "explanation": "Each bracket gives a root when it equals zero: x = 1, x = −2, x = 3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How many times does y = x³ − 4x cross the x-axis?",
+    "options": [
+     "1, at x = 0",
+     "2, at x = 2 and −2",
+     "3, at x = −4, 0 and 4",
+     "3, at x = −2, 0 and 2"
+    ],
+    "answer": 3,
+    "explanation": "x³ − 4x = x(x − 2)(x + 2), so there are three roots: −2, 0, 2.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What are the asymptotes of y = 1/(x − 2) + 3?",
+    "options": [
+     "x = 2 and y = 3",
+     "x = −2 and y = 3",
+     "x = 2 and y = −3",
+     "x = 3 and y = 2"
+    ],
+    "answer": 0,
+    "explanation": "The denominator x − 2 = 0 gives the vertical asymptote x = 2, and the +3 shifts the horizontal asymptote from y = 0 to y = 3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The graph of y = 6/x passes through (4, 1.5). What is y when x = −3?",
+    "options": [
+     "2",
+     "−2",
+     "−18",
+     "−0.5"
+    ],
+    "answer": 1,
+    "explanation": "y = 6/(−3) = −2. For negative x the reciprocal graph has negative y.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What happens to y = −x³ as x becomes very large and positive?",
+    "options": [
+     "y becomes very large and positive",
+     "y approaches 0",
+     "y becomes very large and negative",
+     "y approaches −1"
+    ],
+    "answer": 2,
+    "explanation": "The negative sign reverses a normal cubic, so it falls from top-left to bottom-right.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The graph of y = x³ − 3x has a local maximum at (−1, 2) and a local minimum at (1, −2). How many solutions does x³ − 3x = 5 have?",
+    "options": [
+     "0",
+     "2",
+     "3",
+     "1"
+    ],
+    "answer": 3,
+    "explanation": "The line y = 5 is above the local maximum value 2, so it cuts the curve only once, on the right-hand branch.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The pressure of a gas is p = 120/V (p in kPa, V in litres). What volume gives a pressure of 40 kPa?",
+    "options": [
+     "3 litres",
+     "0.33 litres",
+     "80 litres",
+     "4800 litres"
+    ],
+    "answer": 0,
+    "explanation": "40 = 120/V, so V = 120 ÷ 40 = 3. A bigger pressure needs a smaller volume.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Where do y = 1/x and y = x meet?",
+    "options": [
+     "(1, 1) only",
+     "(1, 1) and (−1, −1)",
+     "(1, 1) and (−1, 1)",
+     "(0, 0)"
+    ],
+    "answer": 1,
+    "explanation": "1/x = x gives x² = 1, so x = ±1. y equals x at both points.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A cubic graph crosses the x-axis at −1, 2 and 4 and the y-axis at 16. Which equation fits?",
+    "options": [
+     "y = (x + 1)(x − 2)(x − 4)",
+     "y = −2(x + 1)(x − 2)(x − 4)",
+     "y = 2(x + 1)(x − 2)(x − 4)",
+     "y = 2(x − 1)(x + 2)(x + 4)"
+    ],
+    "answer": 2,
+    "explanation": "y = a(x + 1)(x − 2)(x − 4). At x = 0 this is a(1)(−2)(−4) = 8a = 16, so a = 2.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A box is made from a 12 cm square of card by cutting a square of side x from each corner and folding. Its volume is V = x(12 − 2x)². For whole-number x from 1 to 5, which x gives the greatest volume and what is it?",
+    "options": [
+     "x = 3, V = 108 cm³",
+     "x = 1, V = 100 cm³",
+     "x = 4, V = 64 cm³",
+     "x = 2, V = 128 cm³"
+    ],
+    "answer": 3,
+    "explanation": "The volumes are 100, 128, 108, 64, 20 for x = 1 to 5. The greatest is 128 cm³ at x = 2. This is an estimate: the true maximum might be between whole numbers.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Find the x-intercept of y = 2/(x + 1) − 3.",
+    "options": [
+     "x = −1/3",
+     "x = 1/3",
+     "x = −1",
+     "x = 2/3"
+    ],
+    "answer": 0,
+    "explanation": "Set y = 0: 2/(x + 1) = 3, so x + 1 = 2/3 and x = −1/3. The vertical asymptote is x = −1.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Given that x = 1 is a root of x³ − 7x + 6 = 0, find all the roots.",
+    "options": [
+     "x = 1, −2 and 3",
+     "x = 1, 2 and −3",
+     "x = 1 only",
+     "x = 1, 6 and −1"
+    ],
+    "answer": 1,
+    "explanation": "Divide by (x − 1) to get x² + x − 6 = (x − 2)(x + 3). The roots are 1, 2 and −3. Check: 8 − 14 + 6 = 0.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which statement about the graph of y = x²(x − 3) is correct?",
+    "options": [
+     "It crosses the x-axis at both x = 0 and x = 3",
+     "It touches the x-axis at both x = 0 and x = 3",
+     "It touches the x-axis at x = 0 and crosses it at x = 3",
+     "It crosses the x-axis at x = 0 and touches it at x = 3"
+    ],
+    "answer": 2,
+    "explanation": "The factor x² is a repeated root, so the graph touches (and turns at) x = 0. The single factor (x − 3) means the graph crosses at x = 3.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Quadratics are just one type of polynomial graph. In Extended Mathematics you also meet cubic graphs and reciprocal graphs, and you need to sketch them, read information from them, and use them to solve equations.\n\n## Cubic graphs\nA cubic has the form y = ax³ + bx² + cx + d.\n- If a > 0 the graph rises from bottom-left to top-right. If a < 0 it falls from top-left to bottom-right.\n- It has between one and three x-intercepts. It can have a local maximum and a local minimum, called turning points.\n- The y-intercept is d (put x = 0).\n- If the cubic is written in factors, the roots are easy: y = (x − 1)(x + 2)(x − 3) crosses the x-axis at 1, −2 and 3.\n- A **repeated factor**, such as x²(x − 3), makes the graph touch the axis and turn at x = 0, while the single factor makes it cross at x = 3.\nTo factorise a cubic like x³ − 7x + 6, try small whole numbers. If x = 1 gives 0, then (x − 1) is a factor. Divide to get a quadratic, and factorise again to find the other roots: (x − 1)(x − 2)(x + 3).\n\n## Reciprocal graphs\nThe graph of y = k/x has two branches. If k > 0 they lie in the top-right and bottom-left quadrants; if k < 0 they lie in the other two. The axes are **asymptotes**: the curve gets closer and closer but never touches them. This graph shows inverse proportion.\n- Translating: y = 1/(x − 2) + 3 has vertical asymptote x = 2 and horizontal asymptote y = 3.\n- Notice x = 0 is not allowed in 1/x, because we cannot divide by zero.\n\n## Using graphs to solve equations\nThe solutions of f(x) = c are the x-values where the curve y = f(x) meets the horizontal line y = c. For x³ − 3x = 5 the curve has a local maximum of 2, so the line y = 5 meets it only once. To solve f(x) = g(x), find where the two graphs cross, for example 1/x = x gives x = 1 or −1.\n\n## Worked example\nA box is made from a 12 cm square of card by cutting squares of side x from the corners. V = x(12 − 2x)². Trying x = 1, 2, 3, 4, 5 gives 100, 128, 108, 64, 20 cm³. The greatest of these is 128 cm³ at x = 2. We say 'estimate' because the true maximum could be between whole numbers, and the model assumes the card is perfectly cut and folded.\n\n## Common mistakes\n- Drawing a cubic with a cusp or a sharp point. It is always smooth.\n- Letting a reciprocal graph touch an axis.\n- Forgetting that a negative cubic coefficient reverses the shape.\n- Missing roots by only finding one factor.\n\n## How this is examined\nCubics model volumes and reciprocal graphs model inverse relationships such as pressure and volume. You identify roots, complete tables of values, sketch the graph and use it to estimate a maximum or solve an equation. Evaluation parts ask you to comment on what the model assumes and on how accurate a reading from a graph can be.\n\nExam tip: when sketching, label the intercepts and asymptotes and show the overall shape clearly; the examiner looks for the key features rather than perfect scale.",
+  "flashcards": [
+   {
+    "front": "Shape of y = x³",
+    "back": "An S-shaped curve through (0, 0), rising from bottom-left to top-right."
+   },
+   {
+    "front": "Shape of y = −x³",
+    "back": "The reflected S-shape, falling from top-left to bottom-right."
+   },
+   {
+    "front": "Roots of y = (x − a)(x − b)(x − c)",
+    "back": "x = a, x = b and x = c. These are the x-intercepts."
+   },
+   {
+    "front": "Repeated factor such as x²(x − 3)",
+    "back": "The graph touches the axis and turns at x = 0, but crosses at x = 3."
+   },
+   {
+    "front": "Shape of y = k/x (k > 0)",
+    "back": "Two branches, in the top-right and bottom-left quadrants, approaching the axes."
+   },
+   {
+    "front": "What is an asymptote?",
+    "back": "A line the curve approaches but never touches, such as x = 0 and y = 0 for y = 1/x."
+   },
+   {
+    "front": "Asymptotes of y = 1/(x − 2) + 3",
+    "back": "Vertical asymptote x = 2 and horizontal asymptote y = 3."
+   },
+   {
+    "front": "How do you solve f(x) = c from a graph?",
+    "back": "Draw the horizontal line y = c and read the x-values where it meets the curve y = f(x)."
+   },
+   {
+    "front": "How do you find all roots of a cubic?",
+    "back": "Find one root by trial (for example x = 1), divide out that factor, then solve the remaining quadratic."
+   }
+  ]
+ }
+]

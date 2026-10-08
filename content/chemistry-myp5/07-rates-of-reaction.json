@@ -1,0 +1,440 @@
+[
+  {
+    "subject": "chemistry",
+    "grade": 5,
+    "topic": "Rates of Reaction",
+    "subTopic": "Collision Theory and Rate Factors",
+    "questions": [
+      {
+        "content": "According to collision theory, which two conditions must be met for a reaction to occur between particles?",
+        "options": ["They must collide with at least the activation energy and in a suitable orientation", "They must collide gently and with the same charge", "They must be the same size and the same mass", "They must be in a liquid and not touching"],
+        "answer": 0,
+        "explanation": "Only collisions with enough energy (at least the activation energy) and the right orientation are successful. Many collisions are not.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What is meant by the term 'activation energy'?",
+        "options": ["The minimum energy particles need to react when they collide", "The total energy released by a reaction", "The energy of the products", "The energy of the container"],
+        "answer": 0,
+        "explanation": "Activation energy is the minimum energy colliding particles must have for the collision to result in a reaction.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A student adds magnesium ribbon to dilute hydrochloric acid. Which change would make the reaction faster?",
+        "options": ["Warming the acid", "Cooling the acid", "Diluting the acid with water", "Using a larger piece of magnesium"],
+        "answer": 0,
+        "explanation": "A higher temperature increases the rate. Cooling, diluting and using one bigger piece (smaller surface area) all slow the reaction down.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Marble chips and powdered marble of equal mass are added to the same acid. Which reacts faster and why?",
+        "options": ["Powder, because it has a larger surface area", "Chips, because they have a larger surface area", "Powder, because it has less mass", "They react at the same rate"],
+        "answer": 0,
+        "explanation": "Powder exposes many more particles to the acid, so there are more collisions each second.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Why does increasing the concentration of a reactant in solution increase the rate of reaction?",
+        "options": ["There are more particles in the same volume, so collisions happen more often", "The particles move faster", "The activation energy decreases", "The particles become larger"],
+        "answer": 0,
+        "explanation": "A higher concentration means more particles in each cm³, so collisions are more frequent. Temperature, not concentration, changes particle speed.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A student explains why warming a reaction speeds it up. Which explanation is most complete?",
+        "options": ["Particles move faster, collide more often, and a greater fraction have at least the activation energy", "Particles get bigger so they collide more", "The activation energy is lowered so more collisions work", "Particles stop moving and settle together"],
+        "answer": 0,
+        "explanation": "Heating increases both the frequency of collisions and the proportion of collisions with enough energy. It does not change the activation energy.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A 2 cm cube of a solid (surface area 24 cm²) is cut into eight 1 cm cubes. What is the new total surface area?",
+        "options": ["48 cm²", "24 cm²", "96 cm²", "12 cm²"],
+        "answer": 0,
+        "explanation": "Each 1 cm cube has a surface area of 6 cm². Eight cubes give 8 × 6 = 48 cm², twice the original. Smaller pieces mean a larger surface area for the same mass.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A reaction involves two gases in a sealed syringe. What happens to the rate if the pressure is increased by pushing in the plunger?",
+        "options": ["It increases, because the particles are closer together and collide more often", "It decreases, because the particles have less space", "It stays the same, because the temperature is unchanged", "It stops, because gases cannot react under pressure"],
+        "answer": 0,
+        "explanation": "Compressing a gas increases the concentration of its particles, which raises the collision frequency.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "In a school investigation, the same mass of marble chips reacts with 50 cm³ of dilute acid. Which change would not increase the rate?",
+        "options": ["Using larger marble chips", "Using smaller marble chips", "Warming the acid", "Using a more concentrated acid"],
+        "answer": 0,
+        "explanation": "Larger chips have a smaller total surface area, so the rate falls. The other changes all increase it.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A flour mill has strict rules to reduce dust in the air because dust can explode but a bag of flour cannot. Which is the best explanation?",
+        "options": ["Fine dust has a very large surface area exposed to oxygen, so combustion is extremely fast", "Dust particles contain more energy than flour in a bag", "Flour in a bag lacks the activation energy", "Dust is a different chemical from flour"],
+        "answer": 0,
+        "explanation": "Dust is the same chemical but spread out, so a huge surface area meets oxygen at once and burns very quickly.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A student investigates how temperature affects the rate of reaction between sodium thiosulfate and acid. Which variable must be kept the same for a fair test?",
+        "options": ["The concentration and volume of the reactants", "The temperature of the mixture", "The colour of the container", "The time on the stopwatch"],
+        "answer": 0,
+        "explanation": "Temperature is the independent variable. Everything else that could affect the rate, such as concentration and volume, must be controlled.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Two students use the same small mass of marble with excess acid. One uses 1.0 mol/dm³ acid and the other uses 2.0 mol/dm³ acid. Which statement is correct?",
+        "options": ["The higher concentration is faster, but the total gas collected is the same", "The higher concentration gives twice the total gas", "Both rates are the same, but the total gas is different", "The lower concentration gives more gas, because it reacts slowly"],
+        "answer": 0,
+        "explanation": "Concentration changes the rate. The total gas depends on the amount of the limiting reactant (the marble), which is unchanged.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Why do foods spoil more slowly in a refrigerator?",
+        "options": ["The reactions that cause spoilage are slower at lower temperatures", "Cold air has no oxygen in it", "Cold lowers the activation energy", "Bacteria are always killed by cold"],
+        "answer": 0,
+        "explanation": "At low temperature, particles collide less often and fewer have the activation energy, so the rate of spoilage reactions falls.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which of the following changes the proportion of particles with energy at least equal to the activation energy?",
+        "options": ["Increasing the temperature", "Increasing the concentration", "Increasing the surface area", "Increasing the pressure of a gas"],
+        "answer": 0,
+        "explanation": "Only temperature changes the energy of the particles. Concentration, surface area and pressure increase the frequency of collisions but not the energy per particle.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A student times the appearance of a cloudy precipitate at different temperatures. Time: 20 °C is 80 s, 30 °C is 40 s and 40 °C is 20 s. Using the pattern in the data, what time is predicted at 50 °C?",
+        "options": ["10 s", "0 s", "5 s", "15 s"],
+        "answer": 0,
+        "explanation": "Each 10 °C rise halves the time, which doubles the rate (1/80, 1/40, 1/20). Halving 20 s gives 10 s. This is a prediction based on a pattern, so it is only approximate.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A 3 cm cube is cut into twenty-seven 1 cm cubes. By what factor does the total surface area increase?",
+        "options": ["3", "27", "9", "6"],
+        "answer": 0,
+        "explanation": "Original: 6 × 9 = 54 cm². New: 27 × 6 = 162 cm². 162 ÷ 54 = 3. The factor is the same as the original side length divided by the new side length.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A student compares powdered and lump zinc. She uses 2 g of powder with 30 cm³ of 1.0 mol/dm³ acid, and 2 g of lumps with 50 cm³ of 1.0 mol/dm³ acid. Why can she not conclude that surface area caused the difference in rate?",
+        "options": ["The volume of acid was also changed, so more than one variable differed", "The mass of zinc was different", "The concentration of the acid was different", "Zinc cannot react with acid"],
+        "answer": 0,
+        "explanation": "A fair test changes only the independent variable. Changing the acid volume as well means the results cannot be linked clearly to surface area.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A magnesium ribbon reacts with 2.0 mol/dm³ acid at an initial rate of 0.30 cm³/s. Another trial uses 1.0 mol/dm³ acid. Which prediction is best justified?",
+        "options": ["A slower rate, perhaps around 0.15 cm³/s, but it should be tested because the relationship may not be exact", "A faster rate, because there is less acid to react", "The same rate, because the ribbon is the same", "A rate of 0.60 cm³/s because the volume is halved"],
+        "answer": 0,
+        "explanation": "Halving the concentration reduces collisions per second, so the rate falls. About half is a reasonable prediction but should be verified experimentally.",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "## What is the rate of reaction?\nThe **rate of reaction** tells you how fast reactants are used up or products are formed. A fast reaction, like burning magnesium, is over in seconds. A slow reaction, like rusting, takes weeks. Understanding rate lets industries make products faster and safely, and helps us slow down unwanted reactions such as food spoiling.\n\n## Collision theory\nFor particles to react, they must **collide**. But not every collision leads to a reaction. A collision is **successful** only if:\n- the particles collide with at least the **activation energy**, the minimum energy needed to react, and\n- the particles are in a suitable orientation.\n\nThe rate of reaction depends on the number of successful collisions per second.\n\n## Factors that change the rate\n**Temperature.** Raising the temperature makes particles move faster. They collide more often, and a larger proportion have at least the activation energy. This is why temperature has a big effect. As a rough pattern, a rise of 10 °C often roughly doubles the rate.\n**Concentration (or pressure for gases).** More particles in the same volume means more frequent collisions. Increasing the pressure of a gas squeezes the particles closer together, which has the same effect.\n**Surface area.** Only the particles on the surface of a solid can collide with the other reactant. Breaking a solid into smaller pieces exposes more particles. A 2 cm cube has a surface area of 6 × 2 × 2 = 24 cm². Cut into eight 1 cm cubes the surface area becomes 8 × 6 = 48 cm².\n**Catalysts.** A catalyst speeds up a reaction without being used up. This is covered in the next sub-topic.\n\nTemperature is the only factor here that changes the energy of the particles. Concentration, pressure and surface area increase how often particles collide, not how much energy they have.\n\n## Real-world examples\n- Flour or coal dust in the air can explode because the huge surface area allows very fast combustion.\n- Food is stored in a fridge because lower temperatures slow down the reactions that cause decay.\n- Effervescent tablets dissolve faster in warm water or when crushed.\n\n## Fair tests\nIn an investigation, change one variable only (independent), measure the effect (dependent) and keep everything else the same (controlled). If a student changes both the acid volume and the zinc form, they cannot say which caused the change in rate.\n\n## Common mistakes\n- Saying that particles 'collide harder' or 'get bigger' when concentration changes.\n- Forgetting that raising the concentration changes the rate but not the total amount of product if the limiting reactant stays the same.\n- Saying that temperature lowers the activation energy. It does not.\n- Mixing up surface area and mass. Powder and lumps can have the same mass but very different surface areas.\n\n## How this is examined\nQuestions are usually set in a lab or industrial context, such as a student investigating how temperature affects a reaction or a mill worried about dust explosions. You may be asked to explain a result using collision theory, predict a change in rate from data, identify variables for a fair test, or evaluate a conclusion. Always link your explanation to collision frequency and energy.\n\nExam tip: For a full-mark explanation say 'more frequent collisions' (and 'more particles with energy above the activation energy' for temperature), not just 'more collisions'.",
+    "flashcards": [
+      {"front": "Collision theory", "back": "Particles must collide with at least the activation energy and in a suitable orientation for a reaction to happen."},
+      {"front": "Activation energy", "back": "The minimum energy colliding particles need for a reaction to occur."},
+      {"front": "Effect of temperature on rate", "back": "Particles move faster, collide more often, and more have energy of at least the activation energy, so the rate increases."},
+      {"front": "Effect of concentration on rate", "back": "More particles per unit volume give more frequent collisions, so the rate increases."},
+      {"front": "Effect of pressure (gases)", "back": "Higher pressure pushes particles closer together, giving more frequent collisions and a faster rate."},
+      {"front": "Effect of surface area", "back": "Smaller pieces expose more particles to collisions, so powder reacts faster than lumps of equal mass."},
+      {"front": "Which factor changes particle energy?", "back": "Temperature only. Concentration, pressure and surface area change collision frequency but not particle energy."},
+      {"front": "Rule of thumb for temperature", "back": "A 10 °C rise often roughly doubles the rate of reaction. This is an approximation."},
+      {"front": "Fair test", "back": "Change one independent variable, measure the dependent variable and keep all other variables the same."}
+    ]
+  },
+  {
+    "subject": "chemistry",
+    "grade": 5,
+    "topic": "Rates of Reaction",
+    "subTopic": "Measuring Reaction Rates",
+    "questions": [
+      {
+        "content": "Which statement correctly defines the rate of a reaction?",
+        "options": ["The change in the amount of a reactant or product per unit time", "The total amount of product that forms", "The energy needed to start the reaction", "The temperature at which the reaction finishes"],
+        "answer": 0,
+        "explanation": "Rate is how quickly the amount of a reactant is used up or a product forms, measured per unit of time.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A student reacts marble chips with acid and wants to follow the reaction by measuring the carbon dioxide made. Which apparatus is most suitable?",
+        "options": ["A gas syringe", "A thermometer", "A pH meter", "A filter funnel"],
+        "answer": 0,
+        "explanation": "A gas syringe (or an upturned measuring cylinder in water) measures the volume of gas collected over time.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "In an experiment, 60 cm³ of gas is collected in 40 s. What is the mean rate of reaction?",
+        "options": ["1.5 cm³/s", "0.67 cm³/s", "2400 cm³/s", "100 cm³/s"],
+        "answer": 0,
+        "explanation": "mean rate = volume ÷ time = 60 ÷ 40 = 1.5 cm³/s.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "On a graph of volume of gas against time, which part of the curve shows the reaction at its fastest?",
+        "options": ["The steepest section", "The flat section at the end", "The point where the line crosses the axes only", "The lowest section"],
+        "answer": 0,
+        "explanation": "The gradient of the line is the rate. The steeper the line, the faster the reaction.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A graph of gas volume against time becomes completely flat. What does this show?",
+        "options": ["The reaction has finished because one reactant has been used up", "The reaction is at its fastest", "The reaction has not yet started", "The temperature has dropped to zero"],
+        "answer": 0,
+        "explanation": "When no more gas is produced the reaction has stopped, usually because the limiting reactant has been used up.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A flask containing calcium carbonate and acid is placed on a balance open to the air. It loses 0.84 g in 120 s. What is the mean rate of mass loss?",
+        "options": ["0.007 g/s", "0.7 g/s", "100.8 g/s", "143 g/s"],
+        "answer": 0,
+        "explanation": "rate = 0.84 ÷ 120 = 0.007 g/s. The mass falls because carbon dioxide escapes.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which reaction would be unsuitable for following the rate by measuring gas volume?",
+        "options": ["Sodium hydroxide solution with hydrochloric acid", "Magnesium with hydrochloric acid", "Marble chips with hydrochloric acid", "Zinc with sulfuric acid"],
+        "answer": 0,
+        "explanation": "Neutralisation of two solutions makes a salt and water, with no gas. The other three all produce a gas.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Sodium thiosulfate solution reacts with acid and a cloudy precipitate forms. A cross under the flask disappears after 50 s. If rate is taken as 1 ÷ time, what is the rate?",
+        "options": ["0.02 /s", "50 /s", "0.2 /s", "2 /s"],
+        "answer": 0,
+        "explanation": "1 ÷ 50 = 0.02 per second. Shorter times mean higher rates.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A tangent drawn to a volume-time graph at t = 0 passes through the origin and the point (10 s, 25 cm³). What is the initial rate?",
+        "options": ["2.5 cm³/s", "0.4 cm³/s", "250 cm³/s", "35 cm³/s"],
+        "answer": 0,
+        "explanation": "The gradient of the tangent is 25 ÷ 10 = 2.5 cm³/s. This is the initial rate.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A student records total gas volume at intervals. Time (s): 0, 20, 40, 60, 80, 100. Volume (cm³): 0, 30, 48, 58, 60, 60. What is the mean rate between 20 s and 40 s?",
+        "options": ["0.9 cm³/s", "1.2 cm³/s", "0.5 cm³/s", "1.5 cm³/s"],
+        "answer": 0,
+        "explanation": "(48 − 30) ÷ (40 − 20) = 18 ÷ 20 = 0.9 cm³/s. The 1.5 cm³/s figure is the rate for the first 20 s.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "In the same experiment, why does the rate of gas production decrease as time goes on?",
+        "options": ["The reactants are used up, so their concentration falls", "The temperature increases", "The gas syringe gets heavier", "The activation energy increases"],
+        "answer": 0,
+        "explanation": "As reactant is consumed, there are fewer particles to collide and the rate falls until it reaches zero.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A student times how long a cross takes to disappear: 41 s, 43 s, 42 s and 70 s. What is the best value to record as the mean time?",
+        "options": ["42 s", "49 s", "43 s", "70 s"],
+        "answer": 0,
+        "explanation": "70 s is an anomaly and is excluded. The mean of 41, 43 and 42 is 126 ÷ 3 = 42 s.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which of these is a suitable unit for the rate of a reaction measured by mass loss?",
+        "options": ["g/s", "cm³", "mol/dm³", "g"],
+        "answer": 0,
+        "explanation": "A rate is an amount per time, so g/s. A cm³ or a g on its own is not a rate.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Experiment A produces 60 cm³ of gas in 30 s. Experiment B produces 60 cm³ of gas in 60 s. Which conclusion is correct?",
+        "options": ["A has a mean rate twice as fast as B, and both gave the same total gas", "B is faster because it ran longer", "A produced twice as much gas as B", "The rates are equal because the volume is equal"],
+        "answer": 0,
+        "explanation": "Rate A = 60 ÷ 30 = 2.0 cm³/s and rate B = 60 ÷ 60 = 1.0 cm³/s. The final volume is equal, so the limiting reactant amount was the same.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A class follows the reaction of magnesium with acid by measuring the mass of the flask. Why is this less reliable than for marble chips with acid?",
+        "options": ["Hydrogen is so light that the mass change is tiny and hard to detect", "Hydrogen is heavier than carbon dioxide", "Magnesium does not react with acid", "The mass cannot change in an open flask"],
+        "answer": 0,
+        "explanation": "Hydrogen has a very low relative mass, so the mass lost is small compared with the balance precision. Carbon dioxide is much heavier, giving a clearer change.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A student varies the concentration of acid and records the time for a cross to disappear. Concentration (mol/dm³): 0.5, 1.0, 1.5, 2.0. Time (s): 80, 40, 27, 20. Which conclusion best fits the data?",
+        "options": ["The rate (1 ÷ time) is roughly proportional to the concentration", "The rate falls as concentration rises", "The rate does not depend on concentration", "The time is proportional to the concentration"],
+        "answer": 0,
+        "explanation": "1 ÷ time is 0.0125, 0.025, 0.037 and 0.05. Doubling the concentration doubles the rate, so they are approximately proportional.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A stopwatch has an uncertainty of ±0.5 s in the reaction time. For a reaction lasting 20 s, what is the percentage uncertainty, and how could it be reduced?",
+        "options": ["2.5%, by timing a slower reaction or using a longer total time", "0.5%, by timing a faster reaction", "25%, by using a larger flask", "10%, by changing the units"],
+        "answer": 0,
+        "explanation": "0.5 ÷ 20 × 100 = 2.5%. A longer reaction time gives a smaller percentage uncertainty for the same ±0.5 s, for example 0.5% for 100 s.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A tangent drawn at t = 30 s on a volume-time graph passes through the points (10 s, 30 cm³) and (50 s, 54 cm³). What is the rate of reaction at 30 s?",
+        "options": ["0.6 cm³/s", "1.08 cm³/s", "1.67 cm³/s", "24 cm³/s"],
+        "answer": 0,
+        "explanation": "Gradient = (54 − 30) ÷ (50 − 10) = 24 ÷ 40 = 0.6 cm³/s. Dividing the end volume by the end time (54 ÷ 50) would give the mean rate from the start, not the rate at 30 s.",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "## What do we measure?\nThe **rate of reaction** is how quickly reactants are used up or products are formed. To find it we measure how much something changes in a certain time:\nmean rate = amount of reactant used (or product formed) ÷ time taken.\nThe unit depends on what you measure, such as cm³/s for gas volume or g/s for mass.\n\n## Three common methods\n**1. Measuring the volume of gas produced.** Use a gas syringe or an upturned measuring cylinder in water. Record the volume at regular times. This works for reactions that give off a gas, such as magnesium or marble chips with acid.\n**2. Measuring the change in mass.** Place the reaction flask on a balance. As a gas escapes, the mass falls. This works well for heavy gases such as carbon dioxide, but poorly for very light hydrogen because the mass change is tiny.\n**3. Timing a visible change.** In the reaction between sodium thiosulfate and acid, a cloudy precipitate forms. Time how long it takes for a cross under the flask to disappear. Because a shorter time means a faster reaction, the rate is often taken as 1 ÷ time.\n\n## Reading rate graphs\nPlot the amount of product (or total mass lost) against time.\n- The **steepest** part of the curve is where the reaction is fastest. This is at the start, when reactant concentrations are highest.\n- The curve gets less steep as reactants are used up.\n- When the curve is **flat**, the reaction has stopped because a reactant has run out.\n- The rate at any moment is the **gradient**. To find the rate at a particular time, draw a tangent to the curve and calculate the change in y ÷ change in x.\n- The initial rate is the gradient of a tangent at t = 0.\n\nWorked example: a tangent at 30 s passes through (10 s, 30 cm³) and (50 s, 54 cm³). Rate = (54 − 30) ÷ (50 − 10) = 24 ÷ 40 = 0.6 cm³/s.\nWorked example: gas volumes at 20 s and 40 s are 30 and 48 cm³. Mean rate = (48 − 30) ÷ 20 = 0.9 cm³/s.\n\n## Comparing two experiments\nIf two curves reach the same final volume, the amount of limiting reactant was the same. The curve that is steeper corresponds to the faster reaction. A higher concentration or temperature changes the steepness of the curve, not the final height, unless the amount of limiting reactant is changed.\n\n## Accuracy and reliability\n- Repeat the measurement and calculate a mean. Exclude anomalies. For readings 41 s, 43 s, 42 s and 70 s, the 70 s is excluded and the mean is 42 s.\n- Percentage uncertainty = uncertainty ÷ measurement × 100. A ±0.5 s timing error on 20 s is 2.5%, but only 0.5% on 100 s.\n- A gas syringe is more precise than a measuring cylinder. Check for leaks.\n\n## Common mistakes\n- Using total volume instead of the change in volume over the time interval.\n- Reading the final volume as the rate.\n- Forgetting that a shorter time means a faster rate when timing a colour change.\n- Giving rate units without a time.\n\n## How this is examined\nIn exams, you may be given a table of results or a graph from an investigation and asked to calculate rates, find an anomalous result, draw a conclusion and evaluate the method. Extended tasks ask you to design an investigation, state the variables, describe how you would measure the rate and comment on limitations such as gas escaping or timing error.\n\nExam tip: When asked for a rate, always include the units and show the division. If the question says 'at 30 s', use a tangent. If it says 'between 20 s and 40 s', use the two readings.",
+    "flashcards": [
+      {"front": "Mean rate of reaction formula", "back": "mean rate = amount of product formed (or reactant used) ÷ time taken."},
+      {"front": "Three ways to measure rate", "back": "Volume of gas collected, change in mass on a balance, or time for a visible change such as a cross disappearing."},
+      {"front": "Rate from the time to a colour or cloudiness change", "back": "rate ∝ 1 ÷ time. A shorter time means a faster reaction."},
+      {"front": "What does the gradient of a volume-time graph show?", "back": "The rate of reaction. A steeper line means a faster reaction."},
+      {"front": "What does a flat section on the graph mean?", "back": "The reaction has finished. One reactant, the limiting reactant, has been used up."},
+      {"front": "How to find the rate at a specific time", "back": "Draw a tangent to the curve at that time and calculate the gradient: change in y ÷ change in x."},
+      {"front": "Why is mass loss poor for hydrogen?", "back": "Hydrogen has a very small mass, so the mass change is tiny and hard to measure accurately."},
+      {"front": "Dealing with anomalous results", "back": "Identify and exclude them, then calculate the mean of the remaining repeats."},
+      {"front": "Percentage uncertainty", "back": "uncertainty ÷ measured value × 100. Measuring a longer time reduces the percentage uncertainty."}
+    ]
+  },
+  {
+    "subject": "chemistry",
+    "grade": 5,
+    "topic": "Rates of Reaction",
+    "subTopic": "Catalysts and Reversible Reactions",
+    "questions": [
+      {
+        "content": "Which statement correctly describes a catalyst?",
+        "options": ["It speeds up a reaction but is not used up", "It slows down a reaction and is used up", "It changes the products of a reaction", "It increases the temperature of a reaction"],
+        "answer": 0,
+        "explanation": "A catalyst increases the rate of reaction and is chemically unchanged at the end, so it can be reused.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A student weighs a catalyst before and after a reaction. What will she find?",
+        "options": ["The mass is unchanged", "The mass has doubled", "The mass has fallen to zero", "The mass has increased by the mass of the product"],
+        "answer": 0,
+        "explanation": "A catalyst is not used up, so it can be recovered with the same mass (although its surface or form may change).",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which symbol is used in an equation to show that a reaction is reversible?",
+        "options": ["⇌", "→", "=", "↑"],
+        "answer": 0,
+        "explanation": "The double arrow ⇌ shows that the reaction can go in both directions.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which metal is used as the catalyst in the Haber process for making ammonia?",
+        "options": ["Iron", "Platinum", "Copper", "Nickel"],
+        "answer": 0,
+        "explanation": "The Haber process uses an iron catalyst to speed up the reaction of nitrogen with hydrogen.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Blue hydrated copper(II) sulfate is heated and turns white. When water is added the blue colour returns. What does this show?",
+        "options": ["The reaction is reversible", "The reaction is combustion", "The copper sulfate is a catalyst", "The reaction cannot be reversed"],
+        "answer": 0,
+        "explanation": "Heating removes water to make white anhydrous copper(II) sulfate. Adding water reverses the change, so the reaction is reversible.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "How does a catalyst increase the rate of a reaction?",
+        "options": ["It provides an alternative pathway with a lower activation energy", "It raises the temperature of the particles", "It adds extra reactant particles", "It lowers the energy of the products"],
+        "answer": 0,
+        "explanation": "With a lower activation energy, a greater proportion of collisions are successful, so the rate increases.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Hydrogen peroxide decomposes: 2H₂O₂ → 2H₂O + O₂. 1.0 g of manganese(IV) oxide is added, and later filtered off and dried. What mass of manganese(IV) oxide is expected?",
+        "options": ["1.0 g", "0.5 g", "2.0 g", "0 g"],
+        "answer": 0,
+        "explanation": "Manganese(IV) oxide acts as a catalyst, so it is not used up. About 1.0 g is recovered.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Enzymes are biological catalysts. Why does an enzyme stop working if it is heated to a high temperature?",
+        "options": ["Its shape changes so it can no longer work (it is denatured)", "It is used up completely", "It turns into a reactant", "It gains extra mass"],
+        "answer": 0,
+        "explanation": "High temperatures change the shape of the enzyme's active site, so the substrate no longer fits. This is called denaturing.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "In a closed container, a reversible reaction reaches equilibrium. What is true at equilibrium?",
+        "options": ["The forward and reverse reactions occur at the same rate, so the concentrations stay constant", "All the reactants have been used up", "The forward reaction has stopped", "The concentrations of reactants and products are always equal"],
+        "answer": 0,
+        "explanation": "At equilibrium both reactions continue at the same rate, so there is no overall change. The concentrations are constant but not necessarily equal.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "The Haber process is N₂ + 3H₂ ⇌ 2NH₃, and the forward reaction is exothermic. Why is a moderate temperature of about 450 °C used?",
+        "options": ["A lower temperature would favour more ammonia but be too slow, so 450 °C is a compromise", "A higher temperature always gives more ammonia", "The iron catalyst only works below 100 °C", "Nitrogen only reacts at 450 °C"],
+        "answer": 0,
+        "explanation": "Lower temperatures would give a better yield of ammonia because the forward reaction is exothermic, but the rate would be too low. 450 °C balances rate and yield.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "In the Haber process, 4 gas molecules (N₂ + 3H₂) form 2 gas molecules (2NH₃). What is the effect of increasing the pressure?",
+        "options": ["The yield of ammonia increases, because fewer gas molecules are produced", "The yield of ammonia decreases", "The yield of ammonia is unchanged", "The iron catalyst is used up"],
+        "answer": 0,
+        "explanation": "Higher pressure favours the side with fewer gas molecules, which is the product side. Pressure also speeds up the reaction.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which condition is necessary for a reversible reaction to reach dynamic equilibrium?",
+        "options": ["A closed system", "An open flask", "A catalyst", "A temperature of 100 °C"],
+        "answer": 0,
+        "explanation": "In an open system, products can escape and the reverse reaction cannot keep up, so equilibrium is not reached. A closed system keeps all particles in.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A catalytic converter in a car contains platinum and speeds up: 2CO + 2NO → 2CO₂ + N₂. What is the role of the platinum?",
+        "options": ["It speeds up the conversion of toxic gases without being used up", "It is a reactant that is gradually used up", "It adds oxygen to the air", "It heats the exhaust gases"],
+        "answer": 0,
+        "explanation": "The catalyst lets harmful gases react quickly at exhaust temperatures. It does not appear in the equation because it is unchanged.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "On an energy profile diagram, a catalyst is added to an exothermic reaction. Which statement is correct?",
+        "options": ["The activation energy is lowered but the overall energy change stays the same", "The activation energy is raised and the products have more energy", "The overall energy change is larger", "Nothing on the diagram changes"],
+        "answer": 0,
+        "explanation": "A catalyst gives a lower-energy pathway, so the peak is lower. The energy of the reactants and products is unchanged, so the overall energy change is the same.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A student claims, 'Adding a catalyst to a reversible reaction increases the amount of product at equilibrium.' Evaluate the claim.",
+        "options": ["Incorrect; a catalyst speeds up both directions equally, so equilibrium is reached sooner but the position is unchanged", "Correct; a catalyst always gives a higher yield", "Correct; a catalyst only speeds the forward reaction", "Incorrect; a catalyst stops a reversible reaction reaching equilibrium"],
+        "answer": 0,
+        "explanation": "A catalyst lowers the activation energy for both the forward and reverse reactions. The equilibrium position stays the same but is reached faster.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Hydrogen peroxide decomposes producing 50 cm³ of oxygen in 100 s without a catalyst and in 20 s with a catalyst. Which conclusion is best supported?",
+        "options": ["The catalyst made the mean rate 5 times faster, and the total oxygen was the same", "The catalyst made the rate 5 times slower", "The catalyst produced 5 times more oxygen", "The catalyst made the rate 80 times faster"],
+        "answer": 0,
+        "explanation": "Mean rates: 50 ÷ 100 = 0.5 cm³/s without and 50 ÷ 20 = 2.5 cm³/s with. 2.5 ÷ 0.5 = 5. The same 50 cm³ forms because the amount of hydrogen peroxide is the same.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "In an ammonia factory, only some of the nitrogen and hydrogen turn into ammonia in the reactor. Which action best improves sustainability and cost?",
+        "options": ["Cool the mixture to liquefy ammonia and recycle unreacted nitrogen and hydrogen back into the reactor", "Release the unreacted gases into the air", "Stop the process after one pass", "Remove the catalyst after each pass"],
+        "answer": 0,
+        "explanation": "Ammonia has a higher boiling point and condenses, while nitrogen and hydrogen stay as gases and can be returned to the reactor. This avoids waste and saves raw materials.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Ammonium chloride is heated in a test tube: NH₄Cl(s) ⇌ NH₃(g) + HCl(g). White solid appears higher up the cooler part of the tube. Which explanation is correct?",
+        "options": ["The two gases recombine to form ammonium chloride when they cool", "The ammonium chloride has melted and run up the tube", "The gases have been used up for ever", "A catalyst has been formed on the glass"],
+        "answer": 0,
+        "explanation": "On heating, ammonium chloride decomposes into ammonia and hydrogen chloride gases. In the cooler region the reverse reaction occurs and a white solid re-forms. Because the forward reaction is endothermic, the reverse is exothermic.",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "## Catalysts\nA **catalyst** is a substance that speeds up a chemical reaction without being used up. It is chemically the same at the end, so it can be filtered off and reused. Catalysts are valuable in industry because they allow reactions to happen faster at lower temperatures, which saves energy and money.\n\nA catalyst works by providing an **alternative reaction pathway with a lower activation energy**. More collisions then have enough energy to be successful, so the rate increases. A catalyst does not change the overall energy released or taken in, and it does not change the products.\n\nExamples to know:\n- Manganese(IV) oxide speeds up the breakdown of hydrogen peroxide into water and oxygen: 2H₂O₂ → 2H₂O + O₂.\n- Iron is the catalyst in the Haber process for making ammonia.\n- Platinum and similar metals in a car's catalytic converter help change toxic carbon monoxide and nitrogen oxides into carbon dioxide and nitrogen: 2CO + 2NO → 2CO₂ + N₂.\n- **Enzymes** are biological catalysts. Each works best at a certain temperature and pH. If it is too hot, the enzyme changes shape (denatures) and stops working.\n\nA catalyst is not shown in the balanced equation, but it may be written above the arrow.\n\n## Reversible reactions\nIn a **reversible reaction** the products can react to form the reactants again. This is shown by the symbol ⇌. For example, heating blue hydrated copper(II) sulfate gives white anhydrous copper(II) sulfate and water. Adding water to the white solid turns it blue again. This is used as a chemical test for water.\n\nIf the forward reaction is endothermic, the reverse reaction is exothermic, and the same amount of energy is involved each way.\n\n## Equilibrium\nIn a **closed system** a reversible reaction eventually reaches **dynamic equilibrium**. The forward and reverse reactions continue, but at the same rate, so the amounts of reactants and products stay constant. The concentrations are not necessarily equal. An open system does not reach equilibrium because substances can escape.\n\nA catalyst speeds up both the forward and reverse reactions equally, so it does not change the amount of product at equilibrium. It simply gets there faster.\n\n## The Haber process\nAmmonia, used to make fertilisers, is manufactured using: N₂ + 3H₂ ⇌ 2NH₃. The forward reaction is exothermic.\n- Higher pressure (about 200 atmospheres) increases the yield, because four gas molecules make two, and speeds up the reaction.\n- A lower temperature would give a better yield but too slow a rate. A compromise of about 450 °C is used.\n- An iron catalyst increases the rate.\n- The ammonia is cooled to liquefy it, and unreacted nitrogen and hydrogen are recycled, which reduces waste.\n\n## Common mistakes\n- Saying a catalyst is used up or takes part permanently.\n- Saying a catalyst gives a bigger yield. It only changes the rate.\n- Thinking equilibrium means that the reaction has stopped or that amounts are equal.\n- Forgetting that equilibrium needs a closed system.\n\n## How this is examined\nQuestions are usually set in an industrial or laboratory context such as ammonia manufacture, a catalytic converter or a school experiment on hydrogen peroxide. You may be asked to explain a catalyst's effect, interpret an energy profile diagram, analyse data to compare rates, or evaluate conditions in terms of cost, yield and sustainability. Extended tasks ask you to justify a compromise and to consider recycling and energy use.\n\nExam tip: When writing about a catalyst, say 'lowers the activation energy' and 'is not used up'. Never say it 'increases the yield'.",
+    "flashcards": [
+      {"front": "Catalyst", "back": "A substance that increases the rate of a reaction without being used up. It provides an alternative pathway with a lower activation energy."},
+      {"front": "Does a catalyst change the products or energy change?", "back": "No. The products and the overall energy change are the same. Only the rate (and activation energy) change."},
+      {"front": "Catalyst for decomposing hydrogen peroxide", "back": "Manganese(IV) oxide. 2H₂O₂ → 2H₂O + O₂."},
+      {"front": "Enzymes", "back": "Biological catalysts. They are denatured (change shape) at high temperatures and stop working."},
+      {"front": "Reversible reaction", "back": "A reaction in which the products can react to re-form the reactants, shown by the symbol ⇌."},
+      {"front": "Dynamic equilibrium", "back": "In a closed system the forward and reverse reactions occur at the same rate, so concentrations stay constant."},
+      {"front": "Test for water using copper(II) sulfate", "back": "White anhydrous copper(II) sulfate turns blue when water is added. Heating the blue crystals reverses the change."},
+      {"front": "Haber process equation and conditions", "back": "N₂ + 3H₂ ⇌ 2NH₃. About 450 °C, 200 atmospheres and an iron catalyst. Unreacted gases are recycled."},
+      {"front": "Effect of a catalyst on equilibrium", "back": "It speeds up both directions equally, so equilibrium is reached faster, but the amount of product at equilibrium is unchanged."}
+    ]
+  }
+]

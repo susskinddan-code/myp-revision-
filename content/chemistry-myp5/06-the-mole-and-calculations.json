@@ -1,0 +1,791 @@
+[
+  {
+    "subject": "chemistry",
+    "grade": 5,
+    "topic": "The Mole and Calculations",
+    "subTopic": "Relative Formula Mass and Percentage Composition",
+    "questions": [
+      {
+        "content": "Using relative atomic masses H = 1 and O = 16, what is the relative formula mass (Mr) of water, H₂O?",
+        "options": [
+          "18",
+          "17",
+          "34",
+          "10"
+        ],
+        "answer": 0,
+        "explanation": "Add the Ar of every atom: 2 × 1 + 16 = 18.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Using C = 12 and O = 16, what is the Mr of carbon dioxide, CO₂?",
+        "options": [
+          "44",
+          "28",
+          "56",
+          "60"
+        ],
+        "answer": 0,
+        "explanation": "12 + 2 × 16 = 44. A common mistake is to forget that there are two oxygen atoms.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which statement correctly defines relative formula mass (Mr)?",
+        "options": [
+          "The sum of the relative atomic masses of all the atoms in the formula",
+          "The mass of one atom in grams",
+          "The number of atoms in one mole",
+          "The mass of the largest atom in the formula"
+        ],
+        "answer": 0,
+        "explanation": "Mr is found by adding the Ar values of every atom shown in the formula. It has no units.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Using Ca = 40, C = 12 and O = 16, what is the Mr of calcium carbonate, CaCO₃?",
+        "options": [
+          "100",
+          "68",
+          "84",
+          "116"
+        ],
+        "answer": 0,
+        "explanation": "40 + 12 + 3 × 16 = 100.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which expression gives the percentage by mass of an element in a compound?",
+        "options": [
+          "(Ar × number of atoms of the element ÷ Mr of the compound) × 100",
+          "(Mr of the compound ÷ Ar of the element) × 100",
+          "(Ar of the element ÷ number of atoms) × 100",
+          "(Ar + Mr) ÷ 100"
+        ],
+        "answer": 0,
+        "explanation": "Take the total mass contributed by the element, divide it by the Mr of the whole compound, and multiply by 100.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Antacid tablets contain magnesium hydroxide, Mg(OH)₂. Using Mg = 24, O = 16 and H = 1, what is its Mr?",
+        "options": [
+          "58",
+          "41",
+          "42",
+          "74"
+        ],
+        "answer": 0,
+        "explanation": "The bracket multiplies O and H by 2: 24 + 2 × (16 + 1) = 24 + 34 = 58.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "The fertiliser ammonium sulfate is (NH₄)₂SO₄. Using N = 14, H = 1, S = 32 and O = 16, what is its Mr?",
+        "options": [
+          "132",
+          "114",
+          "118",
+          "96"
+        ],
+        "answer": 0,
+        "explanation": "2 × (14 + 4) = 36; plus S = 32; plus 4 × 16 = 64. Total 36 + 32 + 64 = 132.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A farmer compares fertilisers. Ammonium nitrate is NH₄NO₃ (N = 14, H = 1, O = 16). What is the percentage of nitrogen by mass in it?",
+        "options": [
+          "35%",
+          "17.5%",
+          "28%",
+          "70%"
+        ],
+        "answer": 0,
+        "explanation": "Mr = 14 + 4 + 14 + 48 = 80. There are two N atoms: 28 ÷ 80 × 100 = 35%. Using only one N gives the tempting 17.5%.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Iron ore contains iron(III) oxide, Fe₂O₃. Using Fe = 56 and O = 16, what is the percentage of iron by mass in pure Fe₂O₃?",
+        "options": [
+          "70%",
+          "30%",
+          "35%",
+          "77%"
+        ],
+        "answer": 0,
+        "explanation": "Mr = 112 + 48 = 160. Iron contributes 112, and 112 ÷ 160 × 100 = 70%.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Limestone is mostly calcium carbonate, CaCO₃. What percentage of its mass is calcium (Ca = 40, C = 12, O = 16)?",
+        "options": [
+          "40%",
+          "12%",
+          "48%",
+          "60%"
+        ],
+        "answer": 0,
+        "explanation": "40 ÷ 100 × 100 = 40%. The remainder, 60%, is the carbonate part.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Epsom salts are hydrated magnesium sulfate, MgSO₄·7H₂O. Using Mg = 24, S = 32, O = 16 and H = 1, what is the Mr?",
+        "options": [
+          "246",
+          "120",
+          "150",
+          "168"
+        ],
+        "answer": 0,
+        "explanation": "MgSO₄ is 24 + 32 + 64 = 120. Seven waters add 7 × 18 = 126. The total is 246.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A garden centre sells urea, CO(NH₂)₂ (Mr = 60), ammonium nitrate (Mr = 80, 35% N) and ammonium sulfate (Mr = 132). Using N = 14, which fertiliser has the highest percentage of nitrogen by mass?",
+        "options": [
+          "Urea, at about 47%",
+          "Ammonium nitrate, at 35%",
+          "Ammonium sulfate, at about 21%",
+          "They are all equal"
+        ],
+        "answer": 0,
+        "explanation": "Urea has 2 N atoms: 28 ÷ 60 × 100 = 46.7%. Ammonium sulfate also has 2 N: 28 ÷ 132 × 100 = 21.2%.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Aluminium is extracted from aluminium oxide, Al₂O₃. Using Al = 27 and O = 16, which statement about its composition is correct?",
+        "options": [
+          "Its Mr is 102 and about 53% of its mass is aluminium",
+          "Its Mr is 43 and about 63% of its mass is aluminium",
+          "Its Mr is 102 and about 26% of its mass is aluminium",
+          "Its Mr is 75 and about 36% of its mass is aluminium"
+        ],
+        "answer": 0,
+        "explanation": "Mr = 2 × 27 + 3 × 16 = 54 + 48 = 102. Percentage Al = 54 ÷ 102 × 100 = 52.9%.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A mining company has 1000 kg of ore that is 80% iron(III) oxide by mass and 20% waste rock. Fe₂O₃ is 70% iron by mass. What mass of iron could be extracted if all of it were removed?",
+        "options": [
+          "560 kg",
+          "700 kg",
+          "800 kg",
+          "640 kg"
+        ],
+        "answer": 0,
+        "explanation": "Fe₂O₃ present = 0.80 × 1000 = 800 kg. Iron in it = 0.70 × 800 = 560 kg. Using 70% of the whole ore ignores the waste.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A glucose sample has Mr = 180 and is 40% carbon by mass (C = 12). How many carbon atoms are in one molecule?",
+        "options": [
+          "6",
+          "4",
+          "12",
+          "3"
+        ],
+        "answer": 0,
+        "explanation": "Mass of carbon in one molecule = 0.40 × 180 = 72. Number of C atoms = 72 ÷ 12 = 6.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A student calculates the percentage of hydrogen in water (H = 1, O = 16) as 1 ÷ 18 × 100 = 5.6%. What error has been made?",
+        "options": [
+          "She forgot that water has two hydrogen atoms; the answer should be 11.1%",
+          "She should have used the Ar of oxygen only",
+          "She should have divided by 16 instead of 18",
+          "Nothing; 5.6% is correct"
+        ],
+        "answer": 0,
+        "explanation": "H₂O has two H atoms, so hydrogen contributes 2. The calculation is 2 ÷ 18 × 100 = 11.1%.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Which of these compounds has the greatest percentage of oxygen by mass (C = 12, O = 16, S = 32, Mg = 24)?",
+        "options": [
+          "Carbon dioxide, CO₂",
+          "Carbon monoxide, CO",
+          "Sulfur dioxide, SO₂",
+          "Magnesium oxide, MgO"
+        ],
+        "answer": 0,
+        "explanation": "CO₂ is 32 ÷ 44 = 72.7% oxygen. CO is 57.1%, SO₂ is 50% and MgO is 40%.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A student heats hydrated magnesium sulfate, MgSO₄·7H₂O (Mr = 246), to drive off all the water. Which percentage of the crystal's mass will be lost?",
+        "options": [
+          "51.2%",
+          "48.8%",
+          "7.0%",
+          "73.2%"
+        ],
+        "answer": 0,
+        "explanation": "Water = 7 × 18 = 126. 126 ÷ 246 × 100 = 51.2%. The 48.8% figure is the percentage of anhydrous salt left.",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "## Relative atomic mass and relative formula mass\nEvery element has a **relative atomic mass (Ar)**, shown on the periodic table. It compares the mass of an atom with other atoms, so it has no units. Examples are H = 1, C = 12, N = 14, O = 16, Mg = 24, S = 32, Cl = 35.5, Ca = 40 and Fe = 56.\n\nThe **relative formula mass (Mr)** of a compound is the sum of the Ar values of all the atoms shown in its formula. For small molecules this is also called the relative molecular mass.\n\n## How to calculate Mr\n- Write down the formula and count each type of atom.\n- Look out for brackets. The small number after the bracket multiplies every atom inside.\n- Multiply each Ar by its number of atoms and add up.\n\nWorked example: Mg(OH)₂. Mg = 24. Two OH groups = 2 × (16 + 1) = 34. Mr = 24 + 34 = 58.\nWorked example: (NH₄)₂SO₄. Two NH₄ = 2 × 18 = 36. S = 32. Four O = 64. Mr = 132.\n\n## Hydrated compounds\nSome crystals contain water in their structure, written with a dot. In MgSO₄·7H₂O the 7H₂O means seven water molecules per formula unit. Add the water: 120 + 7 × 18 = 246.\n\n## Percentage composition by mass\nThe percentage of an element in a compound is: (Ar × number of atoms of that element ÷ Mr of the compound) × 100.\n\nWorked example: percentage of nitrogen in ammonium nitrate, NH₄NO₃. Mr = 14 + 4 + 14 + 48 = 80. Nitrogen total = 2 × 14 = 28. Percentage = 28 ÷ 80 × 100 = 35%.\n\nThe percentages of all the elements in a compound add up to 100%, which is a handy check.\n\n## Using percentages in real situations\nPercentage composition helps industries decide which source is best. A fertiliser company compares the percentage of nitrogen in different compounds: urea is 46.7% nitrogen, ammonium nitrate 35% and ammonium sulfate 21.2%. A mining company uses it to work out how much metal can be extracted from an ore. If an ore is 80% iron(III) oxide and Fe₂O₃ is 70% iron, the iron in 1000 kg of ore is 0.80 × 0.70 × 1000 = 560 kg. In real life this is an upper limit because some metal is always lost in processing.\n\n## Common mistakes\n- Forgetting to multiply the Ar by the number of atoms, such as using one N for NH₄NO₃.\n- Ignoring the bracket multiplier in formulae such as Mg(OH)₂ and (NH₄)₂SO₄.\n- Dividing by the Ar of the element instead of the Mr of the whole compound.\n- Forgetting the water in a hydrated salt.\n- Giving units such as grams for Mr. It has no units.\n\n## How this is examined\nQuestions often set Mr and percentage calculations in a context such as a fertiliser company, an ore mining plan or a food label. You must pick out the relevant formula, calculate, and sometimes compare options or comment on assumptions, for example that the ore is pure. Extended tasks ask you to justify which compound is the better source and to consider rounding and accuracy.\n\nExam tip: Always show the full working line (Ar × atoms ÷ Mr × 100). Even if you slip on the arithmetic, you can still earn method marks.",
+    "flashcards": [
+      {
+        "front": "Relative atomic mass (Ar)",
+        "back": "The mass of an atom compared with other atoms, found on the periodic table. It has no units."
+      },
+      {
+        "front": "Relative formula mass (Mr)",
+        "back": "The sum of the relative atomic masses of all the atoms in the formula. It has no units."
+      },
+      {
+        "front": "Mr of Mg(OH)₂",
+        "back": "24 + 2 × (16 + 1) = 58. The bracket multiplier applies to every atom inside it."
+      },
+      {
+        "front": "Percentage of an element in a compound",
+        "back": "(Ar × number of atoms ÷ Mr) × 100"
+      },
+      {
+        "front": "Percentage of N in NH₄NO₃",
+        "back": "28 ÷ 80 × 100 = 35%. There are two nitrogen atoms in the formula."
+      },
+      {
+        "front": "Mr of CaCO₃",
+        "back": "40 + 12 + 3 × 16 = 100."
+      },
+      {
+        "front": "Mr of MgSO₄·7H₂O",
+        "back": "120 + 7 × 18 = 246. Add the water of crystallisation."
+      },
+      {
+        "front": "Check for percentage composition",
+        "back": "The percentages of all the elements in the compound should add up to 100%."
+      },
+      {
+        "front": "Percentage of Fe in Fe₂O₃",
+        "back": "112 ÷ 160 × 100 = 70%."
+      }
+    ]
+  },
+  {
+    "subject": "chemistry",
+    "grade": 5,
+    "topic": "The Mole and Calculations",
+    "subTopic": "Moles, Mass and Concentration",
+    "questions": [
+      {
+        "content": "Chemists measure the amount of a substance in a particular unit. What is its name?",
+        "options": [
+          "Mole",
+          "Gram",
+          "Litre",
+          "Newton"
+        ],
+        "answer": 0,
+        "explanation": "The mole (symbol mol) is the unit for amount of substance. One mole contains 6.02 × 10²³ particles.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which formula correctly links moles, mass and relative formula mass?",
+        "options": [
+          "moles = mass ÷ Mr",
+          "moles = mass × Mr",
+          "moles = Mr ÷ mass",
+          "moles = mass + Mr"
+        ],
+        "answer": 0,
+        "explanation": "Number of moles = mass in grams ÷ Mr. Rearranged, mass = moles × Mr.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A flask contains 4.4 g of carbon dioxide (Mr = 44). How many moles is this?",
+        "options": [
+          "0.1 mol",
+          "10 mol",
+          "0.01 mol",
+          "4.4 mol"
+        ],
+        "answer": 0,
+        "explanation": "moles = 4.4 ÷ 44 = 0.1 mol.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What is the value of Avogadro's constant, the number of particles in one mole?",
+        "options": [
+          "6.02 × 10²³",
+          "6.02 × 10³²",
+          "6.02 × 10⁻²³",
+          "3.01 × 10²³"
+        ],
+        "answer": 0,
+        "explanation": "One mole of any substance contains 6.02 × 10²³ particles (atoms, molecules or ions).",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A technician measures 250 cm³ of solution. What is this volume in dm³?",
+        "options": [
+          "0.25 dm³",
+          "2.5 dm³",
+          "25 dm³",
+          "0.025 dm³"
+        ],
+        "answer": 0,
+        "explanation": "1 dm³ = 1000 cm³, so 250 cm³ ÷ 1000 = 0.25 dm³.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A school technician needs 0.25 mol of sodium hydroxide, NaOH (Mr = 40). What mass should be weighed out?",
+        "options": [
+          "10 g",
+          "160 g",
+          "0.00625 g",
+          "40 g"
+        ],
+        "answer": 0,
+        "explanation": "mass = moles × Mr = 0.25 × 40 = 10 g.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "5.85 g of sodium chloride (Mr = 58.5) is dissolved in water and made up to 500 cm³ of solution. What is the concentration in mol/dm³?",
+        "options": [
+          "0.2 mol/dm³",
+          "0.1 mol/dm³",
+          "0.02 mol/dm³",
+          "1.0 mol/dm³"
+        ],
+        "answer": 0,
+        "explanation": "moles = 5.85 ÷ 58.5 = 0.1 mol. Volume = 0.5 dm³. Concentration = 0.1 ÷ 0.5 = 0.2 mol/dm³. Using 0.1 would forget to convert the volume.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A student wants 250 cm³ of 0.10 mol/dm³ sodium carbonate solution (Mr = 106). What mass of sodium carbonate should be dissolved?",
+        "options": [
+          "2.65 g",
+          "10.6 g",
+          "26.5 g",
+          "0.265 g"
+        ],
+        "answer": 0,
+        "explanation": "moles = 0.10 × 0.250 = 0.025 mol. mass = 0.025 × 106 = 2.65 g.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "12 g of magnesium (Ar = 24) reacts with excess hydrochloric acid: Mg + 2HCl → MgCl₂ + H₂. What mass of hydrogen (Mr = 2) is produced?",
+        "options": [
+          "1.0 g",
+          "0.5 g",
+          "2.0 g",
+          "12 g"
+        ],
+        "answer": 0,
+        "explanation": "Moles Mg = 12 ÷ 24 = 0.5. The ratio Mg : H₂ is 1 : 1, so 0.5 mol of H₂ forms. Mass = 0.5 × 2 = 1.0 g.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "At room temperature and pressure, one mole of any gas occupies 24 dm³. What volume does 0.5 mol of oxygen occupy?",
+        "options": [
+          "12 dm³",
+          "48 dm³",
+          "24 dm³",
+          "6 dm³"
+        ],
+        "answer": 0,
+        "explanation": "volume = 0.5 × 24 = 12 dm³.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A solution is made by dissolving 4.0 g of sodium hydroxide (Mr = 40) in water to make 250 cm³. What is its concentration in g/dm³?",
+        "options": [
+          "16 g/dm³",
+          "4.0 g/dm³",
+          "1.0 g/dm³",
+          "0.4 g/dm³"
+        ],
+        "answer": 0,
+        "explanation": "concentration in g/dm³ = mass ÷ volume in dm³ = 4.0 ÷ 0.25 = 16 g/dm³. (In mol/dm³ it would be 0.4.)",
+        "difficulty": "medium"
+      },
+      {
+        "content": "How many molecules are in 0.5 mol of water?",
+        "options": [
+          "3.01 × 10²³",
+          "6.02 × 10²³",
+          "1.2 × 10²⁴",
+          "9.0 × 10²⁴"
+        ],
+        "answer": 0,
+        "explanation": "number of particles = moles × 6.02 × 10²³ = 0.5 × 6.02 × 10²³ = 3.01 × 10²³.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "8.0 g of hydrogen (Mr = 2) burns completely in excess oxygen: 2H₂ + O₂ → 2H₂O. What mass of water (Mr = 18) forms?",
+        "options": [
+          "72 g",
+          "36 g",
+          "144 g",
+          "8.0 g"
+        ],
+        "answer": 0,
+        "explanation": "Moles H₂ = 8.0 ÷ 2 = 4 mol. The ratio H₂ : H₂O is 2 : 2, so 4 mol of water forms. Mass = 4 × 18 = 72 g.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "3.25 g of zinc (Ar = 65) reacts with excess dilute hydrochloric acid: Zn + 2HCl → ZnCl₂ + H₂. What volume of hydrogen forms at room temperature and pressure (1 mol = 24 000 cm³)?",
+        "options": [
+          "1200 cm³",
+          "600 cm³",
+          "2400 cm³",
+          "24 000 cm³"
+        ],
+        "answer": 0,
+        "explanation": "Moles Zn = 3.25 ÷ 65 = 0.05. Zn : H₂ is 1 : 1, so 0.05 mol H₂. Volume = 0.05 × 24 000 = 1200 cm³.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "25.0 cm³ of 2.0 mol/dm³ hydrochloric acid reacts with calcium carbonate: CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂. What is the maximum mass of calcium carbonate (Mr = 100) that can react?",
+        "options": [
+          "2.5 g",
+          "5.0 g",
+          "0.025 g",
+          "10.0 g"
+        ],
+        "answer": 0,
+        "explanation": "Moles HCl = 2.0 × 0.025 = 0.050. The ratio CaCO₃ : HCl is 1 : 2, so 0.025 mol of CaCO₃. Mass = 0.025 × 100 = 2.5 g.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A student adds 0.20 mol of magnesium to a flask containing 0.30 mol of hydrochloric acid: Mg + 2HCl → MgCl₂ + H₂. How many moles of hydrogen are formed?",
+        "options": [
+          "0.15 mol",
+          "0.20 mol",
+          "0.30 mol",
+          "0.10 mol"
+        ],
+        "answer": 0,
+        "explanation": "0.20 mol of Mg needs 0.40 mol of HCl, but only 0.30 mol is present, so HCl is the limiting reactant. Hydrogen = 0.30 ÷ 2 = 0.15 mol.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Propane burns: C₃H₈ + 5O₂ → 3CO₂ + 4H₂O. What mass of carbon dioxide (Mr = 44) forms when 44 g of propane (Mr = 44) burns completely?",
+        "options": [
+          "132 g",
+          "44 g",
+          "88 g",
+          "176 g"
+        ],
+        "answer": 0,
+        "explanation": "Moles propane = 44 ÷ 44 = 1. The ratio C₃H₈ : CO₂ is 1 : 3, so 3 mol of CO₂. Mass = 3 × 44 = 132 g.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A student needs 100 cm³ of 0.50 mol/dm³ copper sulfate solution and only has hydrated crystals, CuSO₄·5H₂O (Mr = 249.5). What mass should be dissolved?",
+        "options": [
+          "12.5 g",
+          "8.0 g",
+          "25.0 g",
+          "124.8 g"
+        ],
+        "answer": 0,
+        "explanation": "moles = 0.50 × 0.100 = 0.050. mass = 0.050 × 249.5 = 12.475 g, which rounds to 12.5 g. Using the Mr of anhydrous CuSO₄ (159.5) would give about 8.0 g and would be wrong.",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "## The mole\nAtoms and molecules are far too small to count one by one, so chemists count in moles. One **mole** of a substance contains 6.02 × 10²³ particles. This number is the **Avogadro constant**. The special thing about a mole is that one mole of any substance has a mass in grams equal to its relative formula mass. So one mole of carbon (Ar = 12) has a mass of 12 g, and one mole of carbon dioxide (Mr = 44) has a mass of 44 g.\n\n## Moles, mass and Mr\nThe key relationship is: moles = mass (g) ÷ Mr. Rearranged: mass = moles × Mr.\nWorked example: how many moles are in 4.4 g of CO₂? 4.4 ÷ 44 = 0.1 mol.\nWorked example: what mass is 0.25 mol of NaOH (Mr = 40)? 0.25 × 40 = 10 g.\n\nTo find the number of particles, multiply moles by 6.02 × 10²³. So 0.5 mol of water has 3.01 × 10²³ molecules.\n\n## Using equations: reacting masses\nThe coefficients in a balanced equation give the ratio of moles. A reliable method is:\n- Write the balanced equation.\n- Convert the known mass to moles.\n- Use the equation ratio to find the moles of the other substance.\n- Convert to mass (or volume) as asked.\n\nWorked example: 12 g of magnesium reacts with excess acid, Mg + 2HCl → MgCl₂ + H₂. Moles Mg = 12 ÷ 24 = 0.5. The ratio Mg : H₂ is 1 : 1, so 0.5 mol of H₂. Mass = 0.5 × 2 = 1.0 g.\n\n## Gas volumes\nAt room temperature and pressure, one mole of any gas occupies 24 dm³ (24 000 cm³). So volume = moles × 24. For 0.05 mol of hydrogen: 0.05 × 24 000 = 1200 cm³.\n\n## Concentration\nConcentration tells you how much solute is dissolved in a given volume of solution. It can be given in g/dm³ or mol/dm³. Always convert volumes from cm³ to dm³ by dividing by 1000.\n- concentration (g/dm³) = mass ÷ volume (dm³)\n- concentration (mol/dm³) = moles ÷ volume (dm³)\n\nWorked example: 5.85 g of NaCl (Mr = 58.5) in 500 cm³. Moles = 0.1. Volume = 0.5 dm³. Concentration = 0.1 ÷ 0.5 = 0.2 mol/dm³. To prepare a solution, work backwards: moles = concentration × volume, then mass = moles × Mr.\n\n## Limiting reactants\nWhen quantities of two reactants are given, the one that runs out first is the **limiting reactant**. It controls how much product forms. Compare the moles available with the moles the equation requires.\n\n## Common mistakes\n- Forgetting to convert cm³ to dm³.\n- Using the Mr of an anhydrous salt when the crystals are hydrated.\n- Ignoring the ratio in the balanced equation.\n- Mixing up g/dm³ and mol/dm³.\n\n## How this is examined\nQuestions are usually set in a context such as a school technician preparing a solution, a factory making a gas or a student investigating an acid. You are expected to choose the right formula, show working, round sensibly and comment on accuracy, for example the effect of using a measuring cylinder rather than a volumetric flask. Longer tasks may ask you to justify which reactant limits the reaction.\n\nExam tip: Write the mole ratio from the equation as its own line. It makes your method visible and prevents most errors.",
+    "flashcards": [
+      {
+        "front": "What is a mole?",
+        "back": "The unit for amount of substance. One mole contains 6.02 × 10²³ particles (Avogadro constant)."
+      },
+      {
+        "front": "Moles formula",
+        "back": "moles = mass (g) ÷ Mr. Mass = moles × Mr."
+      },
+      {
+        "front": "Number of particles",
+        "back": "particles = moles × 6.02 × 10²³."
+      },
+      {
+        "front": "Converting cm³ to dm³",
+        "back": "Divide by 1000. For example 250 cm³ = 0.25 dm³."
+      },
+      {
+        "front": "Concentration in mol/dm³",
+        "back": "concentration = moles ÷ volume in dm³. So moles = concentration × volume."
+      },
+      {
+        "front": "Concentration in g/dm³",
+        "back": "concentration = mass of solute ÷ volume in dm³."
+      },
+      {
+        "front": "Molar gas volume at room temperature and pressure",
+        "back": "One mole of any gas occupies 24 dm³ (24 000 cm³)."
+      },
+      {
+        "front": "Method for reacting-mass questions",
+        "back": "Balanced equation → moles of known substance → mole ratio → moles of wanted substance → mass or volume."
+      },
+      {
+        "front": "Limiting reactant",
+        "back": "The reactant that runs out first. It decides how much product can form."
+      }
+    ]
+  },
+  {
+    "subject": "chemistry",
+    "grade": 5,
+    "topic": "The Mole and Calculations",
+    "subTopic": "Empirical Formulae and Percentage Yield",
+    "questions": [
+      {
+        "content": "What does the empirical formula of a compound show?",
+        "options": [
+          "The simplest whole-number ratio of atoms of each element",
+          "The actual number of atoms in one molecule",
+          "The mass of one mole of the compound",
+          "The structure of the molecule"
+        ],
+        "answer": 0,
+        "explanation": "The empirical formula gives the simplest whole-number ratio. The molecular formula gives the actual numbers of atoms.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Glucose has the molecular formula C₆H₁₂O₆. What is its empirical formula?",
+        "options": [
+          "CH₂O",
+          "C₂H₄O₂",
+          "CHO",
+          "C₃H₆O₃"
+        ],
+        "answer": 0,
+        "explanation": "Divide all the numbers by 6, the highest common factor, to get CH₂O.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which formula correctly calculates the percentage yield of a reaction?",
+        "options": [
+          "actual yield ÷ theoretical yield × 100",
+          "theoretical yield ÷ actual yield × 100",
+          "actual yield × theoretical yield ÷ 100",
+          "(theoretical − actual) ÷ 100"
+        ],
+        "answer": 0,
+        "explanation": "Percentage yield compares what you actually obtained with the maximum possible amount.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A student obtains less product than expected from a reaction. Which is a valid reason for the lower yield?",
+        "options": [
+          "Some product was left behind on filter paper and glassware",
+          "Atoms were destroyed in the reaction",
+          "The law of conservation of mass does not apply to solids",
+          "The balance gives larger readings in hot rooms"
+        ],
+        "answer": 0,
+        "explanation": "Real yields are lower because of losses in transfer and separation, side reactions, or reversible reactions. Atoms are never destroyed.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Hydrogen peroxide has the molecular formula H₂O₂. What is its empirical formula?",
+        "options": [
+          "HO",
+          "H₂O",
+          "H₂O₂",
+          "H₄O₄"
+        ],
+        "answer": 0,
+        "explanation": "The ratio H : O is 2 : 2, which simplifies to 1 : 1, so HO.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A student burns 1.2 g of magnesium (Ar = 24) and finds that 0.8 g of oxygen (Ar = 16) combines with it. What is the empirical formula of magnesium oxide?",
+        "options": [
+          "MgO",
+          "Mg₂O",
+          "MgO₂",
+          "Mg₂O₃"
+        ],
+        "answer": 0,
+        "explanation": "Moles Mg = 1.2 ÷ 24 = 0.05 and moles O = 0.8 ÷ 16 = 0.05. The ratio is 1 : 1, so MgO.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "An iron oxide contains 5.6 g of iron (Ar = 56) and 2.4 g of oxygen (Ar = 16). What is its empirical formula?",
+        "options": [
+          "Fe₂O₃",
+          "FeO",
+          "Fe₃O₄",
+          "Fe₂O"
+        ],
+        "answer": 0,
+        "explanation": "Moles Fe = 5.6 ÷ 56 = 0.10 and moles O = 2.4 ÷ 16 = 0.15. The ratio 0.10 : 0.15 is 2 : 3, giving Fe₂O₃.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A compound contains 40.0% carbon, 6.7% hydrogen and 53.3% oxygen by mass (C = 12, H = 1, O = 16). What is its empirical formula?",
+        "options": [
+          "CH₂O",
+          "C₂H₄O",
+          "CHO",
+          "CH₂O₂"
+        ],
+        "answer": 0,
+        "explanation": "Treat the percentages as masses in 100 g. Moles: C 3.33, H 6.7, O 3.33. Dividing by 3.33 gives 1 : 2 : 1, so CH₂O.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A hydrocarbon has the empirical formula CH₂ and a relative formula mass of 56. What is its molecular formula?",
+        "options": [
+          "C₄H₈",
+          "C₂H₄",
+          "C₅H₁₀",
+          "C₃H₆"
+        ],
+        "answer": 0,
+        "explanation": "The empirical formula mass of CH₂ is 14. 56 ÷ 14 = 4, so multiply the formula by 4 to get C₄H₈.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "10.0 g of calcium carbonate is heated: CaCO₃ → CaO + CO₂. Using Mr values of 100 for CaCO₃ and 56 for CaO, what is the theoretical yield of calcium oxide?",
+        "options": [
+          "5.6 g",
+          "10.0 g",
+          "4.4 g",
+          "56 g"
+        ],
+        "answer": 0,
+        "explanation": "Moles CaCO₃ = 10.0 ÷ 100 = 0.1. The ratio is 1 : 1, so 0.1 mol of CaO. Mass = 0.1 × 56 = 5.6 g.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "In the calcium carbonate experiment the theoretical yield of calcium oxide is 5.6 g, but the student collects 4.2 g. What is the percentage yield?",
+        "options": [
+          "75%",
+          "133%",
+          "25%",
+          "58%"
+        ],
+        "answer": 0,
+        "explanation": "4.2 ÷ 5.6 × 100 = 75%. Dividing the other way round (133%) is impossible for a yield.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A reaction has a theoretical yield of 12.5 g and a percentage yield of 80%. What is the actual mass obtained?",
+        "options": [
+          "10.0 g",
+          "15.6 g",
+          "9.0 g",
+          "2.5 g"
+        ],
+        "answer": 0,
+        "explanation": "actual yield = 80% of 12.5 = 0.80 × 12.5 = 10.0 g.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A hydrocarbon contains 2.4 g of carbon and 0.6 g of hydrogen (C = 12, H = 1). What is its empirical formula?",
+        "options": [
+          "CH₃",
+          "CH₄",
+          "C₂H₃",
+          "CH₂"
+        ],
+        "answer": 0,
+        "explanation": "Moles C = 2.4 ÷ 12 = 0.2 and moles H = 0.6 ÷ 1 = 0.6. Dividing by 0.2 gives 1 : 3, so CH₃.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A gas is 75.0% carbon and 25.0% hydrogen by mass (C = 12, H = 1). Which is its empirical formula?",
+        "options": [
+          "CH₄",
+          "CH₂",
+          "C₂H₅",
+          "CH₃"
+        ],
+        "answer": 0,
+        "explanation": "Moles C = 75 ÷ 12 = 6.25 and moles H = 25 ÷ 1 = 25. Dividing by 6.25 gives 1 : 4, so CH₄. Methane is a gas.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "2.7 g of aluminium (Ar = 27) combines with 2.4 g of oxygen (Ar = 16). Which is the empirical formula of the product?",
+        "options": [
+          "Al₂O₃",
+          "AlO",
+          "Al₃O₂",
+          "Al₂O₂"
+        ],
+        "answer": 0,
+        "explanation": "Moles Al = 2.7 ÷ 27 = 0.10 and moles O = 2.4 ÷ 16 = 0.15. The ratio 0.10 : 0.15 simplifies to 2 : 3, giving Al₂O₃.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "12.0 g of magnesium reacts completely with oxygen: 2Mg + O₂ → 2MgO. The student collects 17.0 g of magnesium oxide (Mr = 40; Mg Ar = 24). What is the percentage yield?",
+        "options": [
+          "85%",
+          "71%",
+          "142%",
+          "58%"
+        ],
+        "answer": 0,
+        "explanation": "Moles Mg = 12.0 ÷ 24 = 0.5, so the theoretical yield is 0.5 mol of MgO = 20 g. Percentage yield = 17.0 ÷ 20 × 100 = 85%.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A student calculates a percentage yield of 104% for a crystal preparation. What is the most likely explanation?",
+        "options": [
+          "The crystals were still wet or contained impurities",
+          "More atoms were produced than were used",
+          "The reaction made extra mass from the energy released",
+          "The theoretical yield was too large"
+        ],
+        "answer": 0,
+        "explanation": "A yield above 100% is not possible for a pure, dry product, so the sample was probably damp or impure. Mass cannot be created.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "In making ammonia, N₂ + 3H₂ → 2NH₃, 28 g of nitrogen (Mr = 28) reacts with excess hydrogen. The theoretical yield of ammonia (Mr = 17) is 34 g. A factory collects 20.4 g. Which statement about the yield is correct?",
+        "options": [
+          "The percentage yield is 60%, and the reaction may be reversible",
+          "The percentage yield is 167%, which is a sign of a very efficient process",
+          "The percentage yield is 40%, which proves atoms were destroyed",
+          "The percentage yield is 60%, which breaks the law of conservation of mass"
+        ],
+        "answer": 0,
+        "explanation": "20.4 ÷ 34 × 100 = 60%. The reaction is reversible, so not all the reactants turn into product. Mass is still conserved overall.",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "## Empirical and molecular formulae\nThe **empirical formula** shows the simplest whole-number ratio of atoms of each element in a compound. The **molecular formula** shows the actual number of atoms in one molecule. Glucose has the molecular formula C₆H₁₂O₆ and the empirical formula CH₂O. Hydrogen peroxide, H₂O₂, has the empirical formula HO.\n\n## Finding an empirical formula from masses or percentages\nUse this reliable method:\n- Write down the mass of each element (if you have percentages, treat them as masses in 100 g).\n- Divide each mass by its Ar to get moles.\n- Divide all the mole values by the smallest one.\n- Write the simplest whole-number ratio. If you get a number like 1.5, multiply everything by 2.\n\nWorked example: 5.6 g of iron and 2.4 g of oxygen. Fe: 5.6 ÷ 56 = 0.10 mol. O: 2.4 ÷ 16 = 0.15 mol. Divide by 0.10: 1 and 1.5. Multiply by 2: 2 and 3. The empirical formula is Fe₂O₃.\n\nWorked example: 40.0% C, 6.7% H, 53.3% O. Moles: C 3.33, H 6.7, O 3.33. Divide by 3.33: 1 : 2 : 1. The empirical formula is CH₂O.\n\n## From empirical to molecular formula\nTo get the molecular formula, you need the relative formula mass. Find the mass of the empirical formula, divide the Mr by it, and multiply the formula by that whole number.\nWorked example: empirical formula CH₂ (mass 14) and Mr = 56. 56 ÷ 14 = 4, so the molecular formula is C₄H₈.\n\n## Theoretical yield and percentage yield\nThe **theoretical yield** is the maximum mass of product that could form, calculated from the balanced equation. The **actual yield** is what you really collect. The percentage yield is: actual yield ÷ theoretical yield × 100.\n\nWorked example: 10.0 g of CaCO₃ (Mr = 100) heated to give CaO (Mr = 56). Moles CaCO₃ = 0.1, so 0.1 mol CaO. Theoretical yield = 0.1 × 56 = 5.6 g. If 4.2 g is collected, the percentage yield = 4.2 ÷ 5.6 × 100 = 75%.\n\n## Why the yield is below 100%\n- Some product is lost during filtering, transferring or evaporating.\n- Some reactant may not react, or side reactions happen.\n- The reaction may be reversible and never completes, as in the manufacture of ammonia.\n- Impurities may be present in the reactants.\n\nThis does not break the law of conservation of mass, because the missing product is still somewhere, just not collected. A yield above 100% usually means the product is wet or impure.\n\n## Why yield matters in industry\nCompanies want a high percentage yield because wasted reactants cost money and may harm the environment. This links to sustainability, since a more efficient process uses fewer raw materials and less energy.\n\n## Common mistakes\n- Dividing masses by Ar the wrong way round.\n- Rounding to a whole number too early. 1.5 is not 1 or 2.\n- Calculating percentage yield as theoretical ÷ actual.\n- Confusing empirical formula and molecular formula.\n\n## How this is examined\nQuestions are usually set in a context, for example a company making iron or fertiliser, or a student analysing a compound. You may be asked to calculate a formula from data, determine the theoretical yield, find a percentage yield, and then evaluate why the yield was lower and how the method could be improved. Extended tasks reward comments on accuracy and limitations.\n\nExam tip: Show each step: moles, then ratio, then formula. Mark schemes award method marks even if the final answer is wrong.",
+    "flashcards": [
+      {
+        "front": "Empirical formula",
+        "back": "The simplest whole-number ratio of atoms of each element in a compound, e.g. CH₂O for glucose."
+      },
+      {
+        "front": "Molecular formula",
+        "back": "The actual number of atoms of each element in one molecule, e.g. C₆H₁₂O₆ for glucose."
+      },
+      {
+        "front": "Steps to find an empirical formula",
+        "back": "Mass (or %) → divide by Ar to get moles → divide by the smallest → simplest whole-number ratio."
+      },
+      {
+        "front": "Molecular formula from empirical formula",
+        "back": "Divide the Mr by the empirical formula mass, then multiply the empirical formula by that whole number."
+      },
+      {
+        "front": "Theoretical yield",
+        "back": "The maximum mass of product possible, calculated from the balanced equation and the mass of reactant."
+      },
+      {
+        "front": "Percentage yield formula",
+        "back": "actual yield ÷ theoretical yield × 100"
+      },
+      {
+        "front": "Reasons for a yield below 100%",
+        "back": "Product lost in separation or transfer, incomplete reaction, side reactions, a reversible reaction, or impure reactants."
+      },
+      {
+        "front": "What does a yield above 100% suggest?",
+        "back": "The product is impure or still wet. Mass cannot be created, so the measurement is flawed."
+      },
+      {
+        "front": "What if the ratio gives 1 : 1.5?",
+        "back": "Multiply both numbers by 2 to get 2 : 3, e.g. Fe₂O₃. Do not round 1.5 to a whole number."
+      }
+    ]
+  }
+]

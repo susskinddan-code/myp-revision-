@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Investigation and Modelling",
+  "subTopic": "Mathematical Investigation and Pattern Spotting",
+  "questions": [
+   {
+    "content": "A pattern of numbers starts 3, 7, 11, 15, ... What is the next term?",
+    "options": [
+     "18",
+     "19",
+     "20",
+     "17"
+    ],
+    "answer": 1,
+    "explanation": "The terms increase by 4 each time, so the next term is 15 + 4 = 19.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The sequence 3, 7, 11, 15, ... has nth term",
+    "options": [
+     "4n + 3",
+     "3n + 4",
+     "n + 4",
+     "4n − 1"
+    ],
+    "answer": 3,
+    "explanation": "The common difference is 4, so the rule starts 4n. When n = 1 we need 3, so subtract 1: 4n − 1. Check n = 2: 8 − 1 = 7.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In an investigation, the command term 'state a general rule' means you should",
+    "options": [
+     "write a rule in terms of n that works for any term",
+     "only list the next three terms",
+     "draw a diagram of each case",
+     "round your answers to 3 significant figures"
+    ],
+    "answer": 0,
+    "explanation": "A general rule uses a variable such as n so that it can give any term. Listing terms only describes the pattern.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Matchsticks are used to make a row of triangles. Pattern 1 uses 3 sticks, pattern 2 uses 5 and pattern 3 uses 7. How many sticks does pattern 10 use?",
+    "options": [
+     "23",
+     "30",
+     "21",
+     "19"
+    ],
+    "answer": 2,
+    "explanation": "The rule is 2n + 1 (the difference is 2 and n = 1 gives 3). For n = 10 this is 21. Using 2n + 3 would wrongly give 23.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which order best describes a typical investigation task?",
+    "options": [
+     "State a rule, describe the pattern, then guess",
+     "Test the rule, then collect the data",
+     "Justify, then describe, then calculate",
+     "Describe the pattern, state a rule, test it, then justify it"
+    ],
+    "answer": 3,
+    "explanation": "Investigations in the exam usually go from noticing the pattern, to a general rule, to testing it on new cases and then proving or justifying it.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A row of n squares is made from matchsticks. The number of sticks is 4, 7, 10, 13, ... for n = 1, 2, 3, 4. How many sticks are needed for 20 squares?",
+    "options": [
+     "61",
+     "60",
+     "64",
+     "80"
+    ],
+    "answer": 0,
+    "explanation": "The rule is 3n + 1 (each new square adds 3 sticks). For n = 20, 3 × 20 + 1 = 61. Using 3n gives 60, which forgets the starting stick.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student claims the nth term of the sequence 2, 8, 18, 30, ... is 2n². Which test shows that this rule does not work?",
+    "options": [
+     "For n = 1 the rule gives 2, which matches",
+     "For n = 2 the rule gives 8, which matches",
+     "For n = 4 the rule gives 32, not 30",
+     "For n = 3 the rule gives 18, which matches"
+    ],
+    "answer": 2,
+    "explanation": "A rule must work for every term. 2 × 4² = 32, but the fourth term is 30, so the rule fails. Three matching terms do not prove it works.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Dots are arranged in triangles with 1, 3, 6, 10, ... dots. The nth triangle number is n(n + 1)/2. How many dots are in the 15th triangle?",
+    "options": [
+     "240",
+     "120",
+     "225",
+     "105"
+    ],
+    "answer": 1,
+    "explanation": "15 × 16 ÷ 2 = 120. If you forget to divide by 2, you get 240.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The sequence is 2, 6, 12, 20, 30, ... The first differences are 4, 6, 8, 10 and the second differences are all 2. Which is the nth term?",
+    "options": [
+     "2n² + n",
+     "n² + 2",
+     "2n + 2",
+     "n² + n"
+    ],
+    "answer": 3,
+    "explanation": "Constant second differences of 2 mean the n² coefficient is 1. Testing n² + n gives 2, 6, 12, 20, 30. Check: n = 5 gives 25 + 5 = 30.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a group of n people everyone shakes hands once with everyone else. The numbers of handshakes are 1, 3, 6, 10 for n = 2, 3, 4, 5. How many handshakes occur for 12 people?",
+    "options": [
+     "132",
+     "144",
+     "66",
+     "60"
+    ],
+    "answer": 2,
+    "explanation": "The rule is n(n − 1)/2. For n = 12 this gives 12 × 11 ÷ 2 = 66. Forgetting the division by 2 counts each handshake twice (132).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student tests the rule T = 5n + 2 for n = 1, 2 and 3 and all three results match the data. Which statement is correct?",
+    "options": [
+     "The rule fits these cases but this does not prove it works for every n",
+     "The rule is now proved for every n",
+     "The rule must be wrong because it was tested only three times",
+     "Testing three cases is a formal proof"
+    ],
+    "answer": 0,
+    "explanation": "Matching a few cases is evidence, not proof. To prove a rule you need an algebraic argument, or to show how the pattern is built.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A square tile pattern is made with n × n tiles surrounded by a border of single tiles (corners included). The border has 8, 12, 16 tiles for n = 1, 2, 3. How many border tiles are needed for n = 15?",
+    "options": [
+     "60",
+     "64",
+     "68",
+     "120"
+    ],
+    "answer": 1,
+    "explanation": "The border rule is 4n + 4. For n = 15 this gives 64. The rule 4n gives only 60 and forgets the four corner tiles.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The sum of the first n odd numbers gives 1, 4, 9, 16, ... What is the sum of the first 12 odd numbers?",
+    "options": [
+     "156",
+     "132",
+     "144",
+     "24"
+    ],
+    "answer": 2,
+    "explanation": "The sum of the first n odd numbers is n², so for n = 12 the sum is 144. Checking: 1 + 3 + 5 + 7 = 16 = 4².",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A sequence begins 5, 8, 13, 20, 29, ... What is the 10th term?",
+    "options": [
+     "59",
+     "95",
+     "105",
+     "104"
+    ],
+    "answer": 3,
+    "explanation": "The first differences are 3, 5, 7, 9 and the second differences are 2, so the rule is n² + 4. For n = 10 this gives 104.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A set of tile patterns has 2, 10, 24, 44 tiles for patterns 1 to 4. The rule is 3n² − n. How many tiles does pattern 8 have?",
+    "options": [
+     "192",
+     "184",
+     "200",
+     "176"
+    ],
+    "answer": 1,
+    "explanation": "Substitute n = 8: 3 × 64 − 8 = 192 − 8 = 184. The value 192 is 3n² only. The rule matches all four known terms (for example, n = 4 gives 48 − 4 = 44).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Hexagons are joined in a row. One hexagon has a perimeter of 6 units and two hexagons have 10 units. The perimeter rule is 4n + 2. For which number of hexagons is the perimeter 202 units?",
+    "options": [
+     "50",
+     "49",
+     "100",
+     "51"
+    ],
+    "answer": 0,
+    "explanation": "Solve 4n + 2 = 202: 4n = 200, so n = 50. Check: 4 × 50 + 2 = 202.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Dan investigates the sequence 4n − 1 (3, 7, 11, 15, ...). He says: 'The number 150 is a term of this sequence.' Which response is correct?",
+    "options": [
+     "True: 4 × 37.75 − 1 = 150",
+     "True: 4 × 37 − 1 = 147 and 4 × 38 − 1 = 151, so 150 lies between and must be included",
+     "True: 150 is close to 151, which is a term",
+     "False: 4n − 1 = 150 gives n = 37.75, which is not a whole number"
+    ],
+    "answer": 3,
+    "explanation": "Solving 4n − 1 = 150 gives n = 37.75. A term number must be a positive whole number, so 150 is not in the sequence. Lying between two terms does not make a number a term.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Points are placed on a circle and joined by straight lines. For 1, 2, 3, 4, 5 points the number of regions is 1, 2, 4, 8, 16. A student says the number of regions for 6 points is 32 because the rule is 2^(n−1). The true value is 31. What does this show?",
+    "options": [
+     "Patterns never continue",
+     "The rule 2^(n−1) is correct but the counting is wrong",
+     "A rule found from a few cases must be tested on new cases before it is trusted",
+     "The investigation should stop after five cases"
+    ],
+    "answer": 2,
+    "explanation": "A pattern that fits 5 cases can still fail on the 6th. This is why a good investigation tests the rule on new cases and tries to prove it, rather than assuming it.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What is an investigation?\nAn investigation task gives you a pattern (numbers, shapes, tiles, matchsticks) and asks you to find out what is going on. The aim is to turn what you notice into a clear **general rule** and to show that the rule always works.\n\n## The investigation cycle\n- **Describe** what you see. Say how the pattern grows: \"each pattern has 3 more sticks than the last\".\n- **Collect data**. Draw or build the first four or five cases and put the results in order.\n- **Spot the pattern**. Look at the differences between terms. If the first differences are constant, the rule is linear. If the second differences are constant, the rule is quadratic.\n- **State a rule** in terms of n, such as T = 3n + 1.\n- **Test** the rule on cases you did not use to find it.\n- **Verify** or **prove** it, and **communicate** clearly with working and sentences.\n\n## Finding rules from differences\nFor a sequence with a common difference d, the nth term is dn + c. Example: 4, 7, 10, 13. The difference is 3, so the rule starts 3n. At n = 1 we need 4, so add 1: the rule is 3n + 1.\n\nIf the second difference is constant and equals 2a, the rule starts an². Example: 2, 6, 12, 20, 30. First differences 4, 6, 8, 10 and second differences 2, so a = 1. Subtract n² from each term to get 1, 2, 3, 4, 5, which is n. So the rule is n² + n.\n\n## Explaining the pattern\nStrong answers explain **why** the rule works. For a row of squares made with matchsticks, the first square needs 4 sticks and each extra square needs 3 more, so total = 4 + 3(n − 1) = 3n + 1. Linking the rule to the structure of the diagram is worth more than just fitting numbers.\n\n## Why testing matters\nA rule that fits three cases may fail on the fourth. For the number of regions when points on a circle are joined, the values 1, 2, 4, 8, 16 look like doubling, but the next value is 31, not 32. This is why you must test with new cases and, where you can, prove the rule.\n\n## Common mistakes\n- Writing a rule that only works for the first two terms.\n- Using the term value instead of the term number n.\n- Stopping at \"add 4 each time\" without a rule in terms of n.\n- Claiming a rule is proved after checking a few cases.\n- Forgetting to check whether a value, such as 150, can actually be a term (n must be a positive whole number).\n\n## How this is examined\nInvestigation tasks in the eAssessment follow a predictable path: describe the pattern, state a general rule, test it on new cases, verify, then prove or justify. Command terms include write down, find, show that, verify and justify. Marks are given for clear notation, tables of results and a sentence explaining how you know the rule works.\n\nExam tip: After you find a rule, always substitute one of the given terms and one NEW term to check it. Write \"Check: n = 3 gives ...\" so the examiner can see your verification.",
+  "flashcards": [
+   {
+    "front": "What does 'general rule' mean?",
+    "back": "A formula in terms of n (such as 3n + 1) that gives any term in the pattern."
+   },
+   {
+    "front": "Common difference d: nth term of a linear sequence",
+    "back": "The rule is dn + c, where c is found from the first term. For 4, 7, 10 the rule is 3n + 1."
+   },
+   {
+    "front": "What do constant second differences tell you?",
+    "back": "The rule is quadratic. If the second difference is 2a, the rule starts with an²."
+   },
+   {
+    "front": "Nth term of 2, 6, 12, 20, 30",
+    "back": "n² + n (second differences 2, so a = 1; subtract n² to leave n)."
+   },
+   {
+    "front": "Triangle numbers formula",
+    "back": "The nth triangle number is n(n + 1)/2. The values are 1, 3, 6, 10, 15."
+   },
+   {
+    "front": "Sum of the first n odd numbers",
+    "back": "n². For example, 1 + 3 + 5 + 7 = 16 = 4²."
+   },
+   {
+    "front": "Order of an investigation",
+    "back": "Describe, collect data, spot pattern, state rule, test, verify or prove, communicate."
+   },
+   {
+    "front": "Does testing 3 or 4 cases prove a rule?",
+    "back": "No. It gives evidence only. You need an algebraic or structural argument to prove a rule works for all n."
+   },
+   {
+    "front": "How do you check if a number is a term of a sequence?",
+    "back": "Set the rule equal to the number and solve for n. It is a term only if n is a positive whole number."
+   }
+  ]
+ },
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Investigation and Modelling",
+  "subTopic": "Applying Mathematics in Real-World Contexts",
+  "questions": [
+   {
+    "content": "A student measures a table as 4.8 m long. The true length is 5.0 m. What is the percentage error in the measurement?",
+    "options": [
+     "0.2%",
+     "4%",
+     "4.2%",
+     "96%"
+    ],
+    "answer": 1,
+    "explanation": "Percentage error = |4.8 − 5.0| ÷ 5.0 × 100 = 0.2 ÷ 5 × 100 = 4%. Divide by the true value, not by the measurement.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Round 3.14159 to 3 significant figures.",
+    "options": [
+     "3.141",
+     "3.142",
+     "3.1",
+     "3.14"
+    ],
+    "answer": 3,
+    "explanation": "Three significant figures means three digits starting from the first non-zero digit: 3, 1, 4. The next digit is 1, so we round down to 3.14.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In a mathematical model, an assumption is",
+    "options": [
+     "a number that is calculated at the end",
+     "the final answer of the model",
+     "a statement that is taken to be true to simplify the situation",
+     "a mistake in the data"
+    ],
+    "answer": 2,
+    "explanation": "Models simplify real life. Assumptions, such as 'the speed stays constant', make the problem manageable, but they also limit how accurate the model is.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "When solving a long, multi-step calculation, you should",
+    "options": [
+     "keep extra digits in the working and round only the final answer",
+     "round every step to 1 significant figure",
+     "round each step to the nearest whole number",
+     "round only the first step"
+    ],
+    "answer": 0,
+    "explanation": "Rounding early causes errors to build up. Keep full calculator values and round at the end to the accuracy the question asks for.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A taxi charges a fixed fee of $3 plus $2 per kilometre. The cost model is C = 3 + 2d. What is the cost of an 8 km journey?",
+    "options": [
+     "$16",
+     "$19",
+     "$13",
+     "$26"
+    ],
+    "answer": 1,
+    "explanation": "Substitute d = 8: C = 3 + 2 × 8 = 19. Forgetting the fixed fee gives 16.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A town has 12 000 people. A model says the population grows by 3% each year, so P = 12 000 × 1.03ᵗ. According to the model, what is the population after 5 years (to the nearest whole number)?",
+    "options": [
+     "13 800",
+     "13 927",
+     "13 911",
+     "18 000"
+    ],
+    "answer": 2,
+    "explanation": "12 000 × 1.03⁵ = 13 911.29..., so 13 911 people. The value 13 800 is 5 years of simple 3% (12 000 + 5 × 360) and ignores compounding.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A model predicts that a school will have 250 students. The actual number is 240. What is the percentage error of the prediction, to 1 decimal place?",
+    "options": [
+     "4.0%",
+     "10%",
+     "4.1%",
+     "4.2%"
+    ],
+    "answer": 3,
+    "explanation": "Error = 10, and 10 ÷ 240 × 100 = 4.1666..., which rounds to 4.2%. Dividing by 250 gives 4.0%, which uses the prediction rather than the true value.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A linear model says a plant grows 2 cm per day. It predicts the plant will be 200 cm tall after 100 days. What is the most sensible limitation of the model?",
+    "options": [
+     "The model uses centimetres",
+     "Plants do not keep growing at a constant rate forever",
+     "The model uses a whole number of days",
+     "The model has a gradient"
+    ],
+    "answer": 1,
+    "explanation": "Real growth slows down or stops, so a straight-line model cannot be trusted far outside the range of the data (extrapolation).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A wind farm has 12 turbines, each with a rated power of 2.5 MW. On average each turbine works at 35% of its rated power. What is the average total power output of the farm?",
+    "options": [
+     "10.5 MW",
+     "30 MW",
+     "1.05 MW",
+     "8.75 MW"
+    ],
+    "answer": 0,
+    "explanation": "12 × 2.5 = 30 MW rated, and 35% of 30 = 10.5 MW. The value 30 MW assumes every turbine works at full power.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A cylindrical tank has radius 1.5 m and height 4 m. Given that 1 m³ = 1000 litres, what is its capacity in litres, to 3 significant figures?",
+    "options": [
+     "28 270 litres",
+     "9 420 litres",
+     "28.3 litres",
+     "28 300 litres"
+    ],
+    "answer": 3,
+    "explanation": "V = π × 1.5² × 4 = 9π = 28.274... m³ = 28 274 litres, which is 28 300 to 3 s.f. Forgetting to square the radius gives 9 420 litres.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "$2000 is invested at 4% compound interest per year. What is the value after 3 years, to the nearest cent?",
+    "options": [
+     "$2240.00",
+     "$2249.72",
+     "$2249.73",
+     "$2480.00"
+    ],
+    "answer": 2,
+    "explanation": "2000 × 1.04³ = 2249.728, which is $2249.73 to the nearest cent. Simple interest (2000 + 3 × 80 = 2240) ignores interest on interest.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A pump fills a 1.2 m³ tank at 15 litres per minute. How long does it take to fill the tank? (1 m³ = 1000 litres)",
+    "options": [
+     "8 minutes",
+     "80 minutes",
+     "18 minutes",
+     "1.25 minutes"
+    ],
+    "answer": 1,
+    "explanation": "The tank holds 1200 litres, and 1200 ÷ 15 = 80 minutes. Not converting m³ to litres gives a wrong answer by a factor of 1000.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A pond has a circular surface. Its radius is measured as 6.2 m, correct to 1 decimal place. What is the greatest possible area of the pond, to 1 decimal place?",
+    "options": [
+     "120.8 m²",
+     "118.8 m²",
+     "121.0 m²",
+     "122.7 m²"
+    ],
+    "answer": 3,
+    "explanation": "The greatest radius is 6.25 m (the upper bound), so area = π × 6.25² = 122.718... = 122.7 m². Using 6.2 gives 120.8 m², and the lower bound 6.15 gives 118.8 m².",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Using the model P = 12 000 × 1.03ᵗ, after how many whole years will the population first exceed 15 000?",
+    "options": [
+     "8 years",
+     "7 years",
+     "7.5 years",
+     "9 years"
+    ],
+    "answer": 0,
+    "explanation": "We need 1.03ᵗ > 1.25. Trying values: 1.03⁷ ≈ 1.2299 is too small and 1.03⁸ ≈ 1.2668 is large enough. So the answer is 8 years. The solution t = 7.55 must be rounded up to the next whole year.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Phone plan A costs $20 per month plus $0.05 per minute. Plan B costs $0.12 per minute with no monthly fee. For how many whole minutes of calls per month is plan A cheaper than plan B?",
+    "options": [
+     "285 or more minutes",
+     "More than 400 minutes",
+     "286 or more minutes",
+     "Fewer than 286 minutes"
+    ],
+    "answer": 2,
+    "explanation": "Plan A is cheaper when 20 + 0.05m < 0.12m, so 20 < 0.07m and m > 285.71... The smallest whole number of minutes is 286. At exactly 285 minutes plan B is still cheaper.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A car travels at a steady 72 km/h. How long does it take to travel 500 m?",
+    "options": [
+     "6.9 seconds",
+     "25 minutes",
+     "36 seconds",
+     "25 seconds"
+    ],
+    "answer": 3,
+    "explanation": "72 km/h = 72 000 m ÷ 3600 s = 20 m/s, so 500 ÷ 20 = 25 s. Using 72 as a speed in m/s gives 6.9 s, a unit error.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student estimates 1.9 × 49.8 by working out 2 × 50 = 100. The exact value is 94.62. What is the percentage error of the estimate, to 1 decimal place?",
+    "options": [
+     "5.7%",
+     "5.4%",
+     "5.3%",
+     "94.6%"
+    ],
+    "answer": 0,
+    "explanation": "Error = 100 − 94.62 = 5.38. Percentage error = 5.38 ÷ 94.62 × 100 = 5.686...% = 5.7%. Dividing by the estimate (100) would give 5.4%.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Dan models the height of a sunflower with the equation h = 4.5t + 12, where h is in cm and t is the number of days. In real life the sunflower stops growing at about 250 cm. Which statement is the best evaluation of the model?",
+    "options": [
+     "It is accurate for every value of t",
+     "It is wrong because it uses a linear equation",
+     "It may fit the early data well but gives impossible values for large t",
+     "It is good because it has a positive gradient"
+    ],
+    "answer": 2,
+    "explanation": "A model is judged by how well it matches data and where it breaks down. A linear model has no upper limit, so for t = 60 it predicts 282 cm, which is beyond the real maximum.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Maths in the real world\nIn real-world tasks you use mathematics to answer a question about a situation such as a wind farm, a bridge, a phone plan or a population. The steps are:\n- **Identify** the relevant information in the stimulus and ignore what you do not need.\n- **Choose** a mathematical model: a formula, a graph, a table or a set of equations.\n- **Calculate**, using units that match.\n- **Interpret** your answer in context with a sentence.\n- **Evaluate** the model: how accurate is it and where does it fail?\n\n## Models and assumptions\nA **model** is a simplified mathematical description of a real situation. Assumptions make it workable, for example \"the population grows at a steady 3% a year\" or \"the wind speed is constant\". If an assumption is unrealistic, say so and explain how it changes the result.\n\nCommon model types:\n- **Linear**: a fixed rate, such as C = 3 + 2d.\n- **Exponential**: percentage growth or decay, such as P = 12 000 × 1.03ᵗ.\n- **Quadratic**: paths of objects, areas and profits.\n\n## Accuracy\n- **Rounding**: keep full calculator values until the end, then round to the accuracy asked for (decimal places or significant figures).\n- **Bounds**: a measurement of 6.2 m correct to 1 decimal place lies between 6.15 m and 6.25 m.\n- **Percentage error** = |approximate − exact| ÷ exact × 100. Example: estimating 1.9 × 49.8 as 100 when the exact value is 94.62 gives an error of 5.38 ÷ 94.62 × 100 = 5.7%.\n\n## Units\nAlways check units. 1 m³ = 1000 litres, and 72 km/h = 20 m/s. A very common mistake is mixing units, for example metres and kilometres, or minutes and hours.\n\n## Evaluating a model\nAsk yourself: Does the model match the data? Is it used inside the range of the data (interpolation) or outside it (extrapolation, which is less reliable)? What assumptions have been made? How would the answer change if they were different? Is the answer reasonable in the real world, and what are the impacts, for example environmental or financial?\n\n## How this is examined\nCriterion D style tasks have several parts that build up. First you find a value (calculate), then you use reasoning (show that, verify), then you complete an extended task such as: \"Use the data to evaluate whether the plan is suitable.\" You are expected to pick out the relevant information, show clear calculations, consider accuracy and limitations, and give a justified conclusion with a sentence in context.\n\nExam tip: End every real-world answer with a sentence that answers the question in context, with units, and state at least one assumption or limitation by name.",
+  "flashcards": [
+   {
+    "front": "Percentage error formula",
+    "back": "|approximate − exact| ÷ exact × 100. Divide by the exact (true) value."
+   },
+   {
+    "front": "What is an assumption in modelling?",
+    "back": "A simplifying statement taken as true so the model can be built, for example 'the rate of growth is constant'."
+   },
+   {
+    "front": "Bounds for a value rounded to 1 d.p.",
+    "back": "Add and subtract 0.05. For 6.2: lower bound 6.15, upper bound 6.25."
+   },
+   {
+    "front": "Interpolation vs extrapolation",
+    "back": "Interpolation uses the model inside the data range (more reliable). Extrapolation goes outside it (less reliable)."
+   },
+   {
+    "front": "When should you round in a multi-step problem?",
+    "back": "Only at the end. Keep full calculator values during the working to avoid building up rounding errors."
+   },
+   {
+    "front": "Compound growth model",
+    "back": "Final = start × (1 + r)ᵗ where r is the rate as a decimal and t is the number of periods."
+   },
+   {
+    "front": "Key unit conversions",
+    "back": "1 m³ = 1000 litres. 1 km/h = 1000/3600 m/s, so 72 km/h = 20 m/s."
+   },
+   {
+    "front": "How do you evaluate a model?",
+    "back": "Compare it with data, state assumptions, check where it breaks down (limits), and say if the answer is reasonable in real life."
+   },
+   {
+    "front": "Finishing a real-world answer",
+    "back": "Write a sentence in context with units, link back to the question, and mention an assumption or limitation."
+   }
+  ]
+ },
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Investigation and Modelling",
+  "subTopic": "Reasoning, Proof and Communication",
+  "questions": [
+   {
+    "content": "Which expression represents any even number, where n is an integer?",
+    "options": [
+     "2n + 1",
+     "2n",
+     "n + 2",
+     "n²"
+    ],
+    "answer": 1,
+    "explanation": "An even number is a multiple of 2, so it can be written as 2n. An odd number is 2n + 1.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "To disprove the statement 'all prime numbers are odd', which number is a counterexample?",
+    "options": [
+     "2",
+     "1",
+     "9",
+     "15"
+    ],
+    "answer": 0,
+    "explanation": "2 is prime but even, so it is a counterexample. One counterexample is enough to disprove a statement.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The command term 'show that' means you should",
+    "options": [
+     "only write the final answer",
+     "guess and check",
+     "draw a graph",
+     "give full working that leads to the result given in the question"
+    ],
+    "answer": 3,
+    "explanation": "The answer is given, so the marks are for the reasoning. Every step should be clear and logical, ending with the stated result.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which expression represents any odd number, where n is an integer?",
+    "options": [
+     "2n",
+     "n + 1",
+     "2n + 1",
+     "3n"
+    ],
+    "answer": 2,
+    "explanation": "An odd number is one more than an even number, so 2n + 1. The expression 2n is always even.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is the best use of the word 'justify' in an answer?",
+    "options": [
+     "Write the final answer only",
+     "Give a reason, with evidence or working, for why a statement is true or false",
+     "Copy the question",
+     "Repeat a calculation twice"
+    ],
+    "answer": 1,
+    "explanation": "To justify means to support a conclusion with reasoning or calculations, not just to state it.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "n is an integer. Which expression shows the sum of two consecutive integers, n and n + 1?",
+    "options": [
+     "2n",
+     "n² + 1",
+     "2n + 2",
+     "2n + 1"
+    ],
+    "answer": 3,
+    "explanation": "n + (n + 1) = 2n + 1, which is always odd. So the sum of two consecutive integers is always odd.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Expand (n + 1)² − n² in full and simplify. What is the result?",
+    "options": [
+     "2n + 1",
+     "2n",
+     "1",
+     "n² + 1"
+    ],
+    "answer": 0,
+    "explanation": "(n + 1)² = n² + 2n + 1, so the difference is 2n + 1. This shows the difference between the squares of consecutive integers is always odd.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student claims: 'n² > n for every positive integer n'. Which value of n is a counterexample?",
+    "options": [
+     "n = 2",
+     "n = 3",
+     "n = 1",
+     "n = 10"
+    ],
+    "answer": 2,
+    "explanation": "When n = 1, n² = 1 = n, so n² > n is false. For every n greater than 1 the claim happens to hold.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student claims: 'n² + n + 11 is prime for all whole numbers n from 0 upwards'. Which value of n disproves this?",
+    "options": [
+     "n = 5",
+     "n = 9",
+     "n = 8",
+     "n = 10"
+    ],
+    "answer": 3,
+    "explanation": "For n = 10: 100 + 10 + 11 = 121 = 11 × 11, which is not prime. The values for n = 0 to 9 are all prime, which makes the pattern misleading.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which approach is a valid proof that the product of two odd numbers is odd?",
+    "options": [
+     "Write the numbers as 2a + 1 and 2b + 1 and expand the product",
+     "Show that 3 × 5 = 15 is odd",
+     "Show that 7 × 9 = 63 is odd and 11 × 13 = 143 is odd",
+     "Use a calculator to try 10 pairs"
+    ],
+    "answer": 0,
+    "explanation": "Examples only give evidence. An algebraic proof with general forms covers every case at once.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "(2a + 1)(2b + 1) expands to 4ab + 2a + 2b + 1. Which rewriting shows that the product is odd?",
+    "options": [
+     "4(ab + a + b) + 1",
+     "2(2ab + a + b)",
+     "2(2ab + a + b) + 1",
+     "2(ab + a + b) + 1"
+    ],
+    "answer": 2,
+    "explanation": "Factor 2 from the first three terms: 4ab + 2a + 2b = 2(2ab + a + b). So the product is 2 × (integer) + 1, which is odd.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Dan wants to show that the sum of any three consecutive integers is a multiple of 3. He writes n + (n + 1) + (n + 2). What is the best next line?",
+    "options": [
+     "3n + 2, which is a multiple of 3",
+     "3n + 3 = 3(n + 1), which is a multiple of 3",
+     "3n + 3 = 3, so it is a multiple of 3",
+     "n³, so it is a multiple of 3"
+    ],
+    "answer": 1,
+    "explanation": "Collect like terms to get 3n + 3, then factorise to 3(n + 1). Because (n + 1) is an integer, the sum is a multiple of 3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which presentation of solving 2x + 1 = 9 is mathematically correct?",
+    "options": [
+     "2x + 1 = 9 = 2x = 8 = x = 4",
+     "2x + 1 = 9 − 1 = 8 ÷ 2 = 4",
+     "x = 4 because 2x + 1 = 9 = 8",
+     "2x + 1 = 9, so 2x = 8, so x = 4"
+    ],
+    "answer": 3,
+    "explanation": "Chaining equals signs between expressions that are not equal is a common error. Each line should be a true statement, with words such as 'so' linking steps.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Prove that the sum of the squares of two consecutive integers is always odd. After writing n² + (n + 1)², which line completes the proof?",
+    "options": [
+     "2n² + 1, which is odd",
+     "n² + n + 1, which is odd",
+     "2n² + 2n + 1 = 2(n² + n) + 1, which is odd",
+     "2n² + 2n + 1 = 2(n² + n + 1), which is even"
+    ],
+    "answer": 2,
+    "explanation": "Expanding gives n² + n² + 2n + 1 = 2n² + 2n + 1. Writing it as 2(n² + n) + 1 shows it is one more than an even number, so it is odd.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Show that the difference between the squares of two consecutive odd numbers (2n + 1) and (2n − 1) is a multiple of 8. Which expression results?",
+    "options": [
+     "(2n + 1)² − (2n − 1)² = 8n",
+     "4n",
+     "4n² + 1",
+     "8n²"
+    ],
+    "answer": 0,
+    "explanation": "(4n² + 4n + 1) − (4n² − 4n + 1) = 8n. Since 8n is 8 times an integer, the difference is a multiple of 8. For example, 7² − 5² = 24 = 8 × 3.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student writes: 'Let n = 3. Then n² − n = 6, which is even. So n² − n is always even.' What is the main problem with this argument?",
+    "options": [
+     "The student chose n = 3 instead of n = 2",
+     "One example does not prove a statement is always true",
+     "The statement is false",
+     "6 is not an even number"
+    ],
+    "answer": 1,
+    "explanation": "A single example can only support a claim. A proof would write n² − n = n(n − 1), which is a product of two consecutive integers, one of which must be even.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Dan claims: 'The sum of any four consecutive integers is divisible by 4.' He tests 1 + 2 + 3 + 4 = 10. Which conclusion is correct?",
+    "options": [
+     "The claim is true because 10 is even",
+     "The claim is true because four numbers were added",
+     "The claim is false: 10 is not divisible by 4, so this is a counterexample",
+     "The claim is unproven because one example is not enough to disprove it"
+    ],
+    "answer": 2,
+    "explanation": "10 ÷ 4 = 2.5, so the sum is not divisible by 4. A single counterexample is enough to disprove a statement. In general n + (n + 1) + (n + 2) + (n + 3) = 4n + 6, which leaves remainder 2 when divided by 4.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Sam notes that 1 = 1², 1 + 3 = 4 = 2², 1 + 3 + 5 = 9 = 3², and says this proves the sum of the first n odd numbers is n². What is missing?",
+    "options": [
+     "More decimal places",
+     "A drawing of a circle",
+     "A calculation using a larger first odd number",
+     "A general argument that works for any n, not just the cases tested"
+    ],
+    "answer": 3,
+    "explanation": "Checking a few cases is evidence only. A proof can be built by showing that adding the next odd number, 2n + 1, to n² gives n² + 2n + 1 = (n + 1)², so the pattern continues for every n.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why proof matters\nIn mathematics, saying \"it works for the cases I tried\" is not enough. A **proof** is a logical argument that shows a statement is true for **every** case. A single **counterexample** is enough to show a statement is false.\n\n## Algebraic building blocks\n- Even number: 2n\n- Odd number: 2n + 1\n- Two consecutive integers: n and n + 1\n- Three consecutive integers: n, n + 1 and n + 2\n- Two consecutive even numbers: 2n and 2n + 2\n- The word \"integer\" means whole numbers, positive, negative or zero.\n\n## Proving a statement\nWorked example: prove that the sum of two odd numbers is even.\n- Let the two odd numbers be 2a + 1 and 2b + 1.\n- The sum is 2a + 1 + 2b + 1 = 2a + 2b + 2.\n- Factorise: 2(a + b + 1).\n- This is 2 times an integer, so it is even.\n\nNotice that the proof uses **different letters** for the two numbers, because they are not necessarily the same.\n\nAnother example: show that (n + 1)² − n² = 2n + 1. Expand (n + 1)² to n² + 2n + 1, subtract n², and what remains is 2n + 1, which is always odd.\n\n## Disproving with a counterexample\nTo disprove \"n² + n + 11 is prime for all n\", try values. When n = 10 the result is 121 = 11 × 11, which is not prime. One counterexample ends the argument. Give the value, the calculation and the conclusion.\n\n## Evidence versus proof\nTesting a few cases gives **evidence**; it does not give a proof. The same goes for a pattern in a table. A proof must work for a general letter such as n.\n\n## Communicating mathematics\n- Write each line as a true statement and link steps with words such as \"so\", \"therefore\" and \"because\".\n- Never chain equals signs between things that are not equal.\n- Define your letters: \"Let n be an integer.\"\n- Finish with a conclusion sentence, for example \"Therefore the sum is always even\".\n- Use correct notation and units, and show the key steps.\n\n## Common mistakes\n- Using one example to \"prove\" a statement.\n- Using the same letter for two different numbers.\n- Stopping at an expression without saying why it is even, odd or a multiple of something.\n- Skipping the expansion, which is where marks are given.\n\n## How this is examined\nIn the eAssessment, reasoning is tested in two ways. In routine parts you \"show that\" a result, using clear steps. In extended parts you justify a claim, test a rule on new cases, or decide whether a statement is always, sometimes or never true. Marks go to correct algebra, clear working and a concluding sentence that links back to the question.\n\nExam tip: For any \"show that\" or \"prove\" question, write the general form first (for example 2n + 1), then expand, then factorise to reveal the property, and end with a conclusion sentence.",
+  "flashcards": [
+   {
+    "front": "Even and odd numbers in algebra",
+    "back": "Even: 2n. Odd: 2n + 1 (n is an integer)."
+   },
+   {
+    "front": "Consecutive integers",
+    "back": "n, n + 1, n + 2, ... Consecutive even numbers: 2n, 2n + 2, ..."
+   },
+   {
+    "front": "What is a counterexample?",
+    "back": "A single example that makes a statement false. One counterexample is enough to disprove a claim."
+   },
+   {
+    "front": "Can examples prove a statement is always true?",
+    "back": "No. Examples give evidence only. A proof uses algebra with a general letter so it works for every case."
+   },
+   {
+    "front": "Meaning of 'show that'",
+    "back": "Give clear working that leads to the result given in the question. The answer is given, so the marks are for reasoning."
+   },
+   {
+    "front": "Meaning of 'justify'",
+    "back": "Give a reason, with working or evidence, to support your conclusion."
+   },
+   {
+    "front": "Proof that the sum of two odd numbers is even",
+    "back": "(2a + 1) + (2b + 1) = 2(a + b + 1), which is a multiple of 2."
+   },
+   {
+    "front": "Why use different letters for two numbers?",
+    "back": "If two numbers are not necessarily equal, using the same letter would make them equal and only prove one case."
+   },
+   {
+    "front": "Good habits for communicating proof",
+    "back": "Define letters, write true statements line by line, use 'so' or 'therefore', avoid chained equals signs, end with a conclusion sentence."
+   }
+  ]
+ }
+]

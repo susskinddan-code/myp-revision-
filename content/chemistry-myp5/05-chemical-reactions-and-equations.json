@@ -1,0 +1,791 @@
+[
+  {
+    "subject": "chemistry",
+    "grade": 5,
+    "topic": "Chemical Reactions and Equations",
+    "subTopic": "Writing and Balancing Equations",
+    "questions": [
+      {
+        "content": "A student burns a strip of magnesium ribbon in air and records the reaction. Which word equation correctly describes what happens?",
+        "options": [
+          "magnesium + oxygen → magnesium oxide",
+          "magnesium + oxygen → magnesium oxygen",
+          "magnesium + hydrogen → magnesium hydroxide",
+          "magnesium → magnesium oxide + oxygen"
+        ],
+        "answer": 0,
+        "explanation": "Burning a metal in air means it reacts with oxygen to form the metal oxide. The other options use the wrong reactants or products, or show a decomposition instead.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "When balancing a symbol equation, which of the following are you allowed to change?",
+        "options": [
+          "The large numbers placed in front of formulae",
+          "The small numbers inside formulae",
+          "The elements that appear in the products",
+          "The state symbols"
+        ],
+        "answer": 0,
+        "explanation": "Only the coefficients (the big numbers in front) can be changed. Changing a subscript turns the substance into a different compound.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "In a laboratory report, the state symbol (aq) is written after sodium chloride. What does it show?",
+        "options": [
+          "The sodium chloride is dissolved in water",
+          "The sodium chloride is a solid",
+          "The sodium chloride is a gas",
+          "The sodium chloride is a pure liquid"
+        ],
+        "answer": 0,
+        "explanation": "(aq) stands for aqueous, meaning dissolved in water. Solid is (s), liquid is (l) and gas is (g).",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A technician writes 3H₂SO₄ on a label. How many oxygen atoms are represented?",
+        "options": [
+          "4",
+          "7",
+          "12",
+          "3"
+        ],
+        "answer": 2,
+        "explanation": "The 3 multiplies the whole formula. Each H₂SO₄ has 4 oxygen atoms, so 3 × 4 = 12.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Hydrogen gas burns in oxygen to form water. Which equation is correctly balanced for this reaction?",
+        "options": [
+          "2H₂ + O₂ → 2H₂O",
+          "H₂ + O₂ → H₂O",
+          "H₂ + O₂ → H₂O₂",
+          "2H₂ + 2O₂ → 2H₂O"
+        ],
+        "answer": 0,
+        "explanation": "2H₂ + O₂ → 2H₂O has 4 H and 2 O on each side. H₂ + O₂ → H₂O₂ is balanced but makes hydrogen peroxide, not water.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Iron rusts when it reacts with oxygen to form iron(III) oxide. The unbalanced equation is Fe + O₂ → Fe₂O₃. Which coefficients balance it, in the order Fe, O₂, Fe₂O₃?",
+        "options": [
+          "4, 3, 2",
+          "2, 3, 1",
+          "2, 1, 2",
+          "3, 2, 4"
+        ],
+        "answer": 0,
+        "explanation": "4Fe + 3O₂ → 2Fe₂O₃ gives 4 Fe and 6 O on both sides. The other sets leave unequal numbers of atoms.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A gas barbecue burns propane: C₃H₈ + 5O₂ → 3CO₂ + 4H₂O. A chef uses twice as much propane, written as 2C₃H₈. How many O₂ molecules are needed in the balanced equation?",
+        "options": [
+          "5",
+          "7",
+          "10",
+          "12"
+        ],
+        "answer": 2,
+        "explanation": "Doubling one reactant means doubling everything in the balanced equation: 2C₃H₈ + 10O₂ → 6CO₂ + 8H₂O.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Aluminium reacts with hydrochloric acid: 2Al + ?HCl → 2AlCl₃ + 3H₂. What number goes in place of the question mark to balance chlorine and hydrogen?",
+        "options": [
+          "3",
+          "4",
+          "6",
+          "2"
+        ],
+        "answer": 2,
+        "explanation": "Two AlCl₃ contain 6 Cl, so 6 HCl are needed. 6 HCl also gives 6 H, which matches 3H₂.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A student balances Mg + O₂ → MgO by writing Mg + O₂ → MgO₂. What is wrong with this approach?",
+        "options": [
+          "Changing a subscript changed the compound to one that does not exist",
+          "It should have used a coefficient of 3 on the oxygen",
+          "MgO₂ is correct because oxygen is diatomic",
+          "State symbols must be added before balancing"
+        ],
+        "answer": 0,
+        "explanation": "Magnesium oxide is MgO. Altering the subscript creates a different formula, so the correct way is 2Mg + O₂ → 2MgO.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A lab technician needs the total number of hydrogen atoms in 2Ca(OH)₂. What is it?",
+        "options": [
+          "2",
+          "4",
+          "6",
+          "8"
+        ],
+        "answer": 1,
+        "explanation": "Each Ca(OH)₂ contains 2 hydroxide groups, so 2 H. With the coefficient 2, there are 2 × 2 = 4 hydrogen atoms.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Solid zinc is added to dilute hydrochloric acid. Zinc chloride solution and hydrogen gas form. Which equation has the correct formulae, balance and state symbols?",
+        "options": [
+          "Zn(s) + 2HCl(aq) → ZnCl₂(aq) + H₂(g)",
+          "Zn(s) + HCl(aq) → ZnCl(aq) + H₂(g)",
+          "Zn(aq) + 2HCl(s) → ZnCl₂(g) + H₂(aq)",
+          "Zn(s) + 2HCl(aq) → ZnCl₂(s) + 2H(g)"
+        ],
+        "answer": 0,
+        "explanation": "Zinc chloride is ZnCl₂ and dissolves, so (aq). Hydrogen gas is diatomic, H₂(g). Zinc is a solid and the acid is a solution.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Sodium reacts with water: 2Na + 2H₂O → 2NaOH + H₂. How many hydrogen atoms are on each side of the balanced equation?",
+        "options": [
+          "2",
+          "4",
+          "6",
+          "8"
+        ],
+        "answer": 1,
+        "explanation": "Left: 2 × 2 = 4 H. Right: 2 in the two NaOH plus 2 in H₂ gives 4 H. Both sides match.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A student checks the equation CH₄ + 2O₂ → CO₂ + 2H₂O. Which statement correctly verifies that it is balanced?",
+        "options": [
+          "Both sides have 1 C, 4 H and 4 O",
+          "Both sides have 1 C, 2 H and 4 O",
+          "Left has 4 O and right has 3 O",
+          "Both sides have 2 C, 4 H and 2 O"
+        ],
+        "answer": 0,
+        "explanation": "Left: C 1, H 4, O 2 × 2 = 4. Right: C 1, O 2 + 2 = 4, H 2 × 2 = 4. Counting every element on both sides is the way to verify.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Ethane burns completely: C₂H₆ + O₂ → CO₂ + H₂O. When balanced using the smallest whole numbers, what is the coefficient of O₂?",
+        "options": [
+          "3",
+          "5",
+          "7",
+          "9"
+        ],
+        "answer": 2,
+        "explanation": "Balance as 2C₂H₆ + 7O₂ → 4CO₂ + 6H₂O. Oxygen on the right is 8 + 6 = 14, so 7O₂. Using 3.5 is not allowed in whole-number form.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "In the blast furnace, iron(III) oxide reacts with carbon monoxide to make iron and carbon dioxide. Which equation is correctly balanced?",
+        "options": [
+          "Fe₂O₃ + 3CO → 2Fe + 3CO₂",
+          "Fe₂O₃ + 2CO → 2Fe + 2CO₂",
+          "2Fe₂O₃ + 3CO → 4Fe + 3CO₂",
+          "Fe₂O₃ + 3CO → Fe + 3CO₂"
+        ],
+        "answer": 0,
+        "explanation": "Fe₂O₃ + 3CO → 2Fe + 3CO₂ has 2 Fe, 3 C and 6 O on each side. In each distractor at least one element is unbalanced (for example, the second has 5 O on the left and 4 on the right).",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Silver nitrate solution is mixed with sodium chloride solution and a white solid forms. In the ionic equation Ag⁺(aq) + Cl⁻(aq) → AgCl(s), which ions are spectator ions?",
+        "options": [
+          "Na⁺ and NO₃⁻",
+          "Ag⁺ and Cl⁻",
+          "Ag⁺ and NO₃⁻",
+          "Na⁺ and Cl⁻"
+        ],
+        "answer": 0,
+        "explanation": "Spectator ions stay dissolved and do not change. Sodium and nitrate ions remain in solution as sodium nitrate, while silver and chloride ions join to form the solid.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Ammonia is oxidised in industry: 4NH₃ + 5O₂ → 4NO + 6H₂O. Using the balanced equation, how many oxygen atoms are on the right-hand side, and does this match the left?",
+        "options": [
+          "10, and it matches the left",
+          "10, but the left has 5",
+          "6, and it matches the left",
+          "14, but the left has 10"
+        ],
+        "answer": 0,
+        "explanation": "Right: 4 O in 4NO plus 6 O in 6H₂O gives 10. Left: 5O₂ gives 10 O. The equation is balanced for oxygen.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A student describes a neutralisation: sodium hydroxide solution reacts with sulfuric acid to form sodium sulfate solution and liquid water. Which is the correct balanced equation with state symbols?",
+        "options": [
+          "2NaOH(aq) + H₂SO₄(aq) → Na₂SO₄(aq) + 2H₂O(l)",
+          "NaOH(aq) + H₂SO₄(aq) → NaSO₄(aq) + H₂O(l)",
+          "2NaOH(aq) + H₂SO₄(aq) → Na₂SO₄(s) + 2H₂O(g)",
+          "NaOH(s) + H₂SO₄(l) → Na₂SO₄(aq) + H₂O(l)"
+        ],
+        "answer": 0,
+        "explanation": "Sodium sulfate is Na₂SO₄, so two NaOH are needed. Four H and six O balance when two waters form. Sodium sulfate is dissolved, so (aq).",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "## What a chemical equation tells you\nA chemical equation is a shorthand way of showing what happens in a reaction. A word equation names the reactants (what you start with) and the products (what is made), for example: magnesium + oxygen → magnesium oxide. A symbol equation uses formulae instead, for example: 2Mg + O₂ → 2MgO. Symbol equations are more useful because they also show how many atoms and molecules take part.\n\n## Why equations must balance\nAtoms are never created or destroyed in a chemical reaction. They are only rearranged. So the number of atoms of each element must be the same on both sides of the arrow. That is what 'balanced' means.\n\n## How to balance an equation\n- Write the correct formula for every substance first. Never change these.\n- Count the atoms of each element on both sides. Treat brackets carefully: 2Ca(OH)₂ has 2 Ca, 4 O and 4 H.\n- Adjust only the **coefficients**, the large numbers in front of formulae.\n- Balance elements that appear in only one substance on each side first, and leave hydrogen and oxygen until last.\n- Re-count every element at the end to verify.\n- Use the smallest whole numbers.\n\nWorked example: propane burning. C₃H₈ + O₂ → CO₂ + H₂O. Carbon: 3 C on the left, so 3CO₂. Hydrogen: 8 H on the left, so 4H₂O. Oxygen on the right: 6 + 4 = 10 atoms, so 5O₂. The balanced equation is C₃H₈ + 5O₂ → 3CO₂ + 4H₂O.\n\n## State symbols\nState symbols show the physical state of each substance: (s) solid, (l) liquid, (g) gas and (aq) aqueous, meaning dissolved in water. For example: Zn(s) + 2HCl(aq) → ZnCl₂(aq) + H₂(g).\n\n## Ionic equations and spectator ions\nSometimes only some ions in a mixture actually react. In silver nitrate plus sodium chloride, silver and chloride ions join to make solid silver chloride: Ag⁺(aq) + Cl⁻(aq) → AgCl(s). The sodium and nitrate ions stay dissolved and are called **spectator ions**.\n\n## Common mistakes\n- Changing a subscript, for example writing MgO₂ to balance oxygen. This changes the substance.\n- Forgetting that elements such as hydrogen, oxygen, nitrogen and chlorine are diatomic (H₂, O₂, N₂, Cl₂).\n- Multiplying only the first element when a coefficient applies to the whole formula.\n- Giving an equation that is balanced but has the wrong product.\n\n## How this is examined\nExam questions usually place the equation in a realistic context, such as a gas barbecue, a blast furnace or a laboratory investigation. You may be asked to state the equation, balance it, add state symbols, or verify that an equation given in a report is balanced by counting atoms. Longer tasks may ask you to evaluate a student's method and explain what went wrong, using command terms such as write down, balance, justify and identify the error.\n\nExam tip: After balancing, count every element on both sides one final time and show the counts. Examiners award marks for the check, and it catches most slips.",
+    "flashcards": [
+      {
+        "front": "Reactants and products",
+        "back": "Reactants are the substances that react (left of the arrow). Products are the new substances formed (right of the arrow)."
+      },
+      {
+        "front": "Why must equations be balanced?",
+        "back": "Atoms are not created or destroyed in a reaction, so each element must have the same number of atoms on both sides."
+      },
+      {
+        "front": "What can you change when balancing?",
+        "back": "Only the coefficients (large numbers in front). Never change the small subscripts inside formulae."
+      },
+      {
+        "front": "State symbols",
+        "back": "(s) solid, (l) liquid, (g) gas, (aq) dissolved in water."
+      },
+      {
+        "front": "Diatomic elements to remember",
+        "back": "Hydrogen H₂, nitrogen N₂, oxygen O₂, fluorine F₂, chlorine Cl₂, bromine Br₂ and iodine I₂ exist as pairs of atoms."
+      },
+      {
+        "front": "Balanced equation for burning magnesium",
+        "back": "2Mg + O₂ → 2MgO"
+      },
+      {
+        "front": "Balanced equation for burning propane",
+        "back": "C₃H₈ + 5O₂ → 3CO₂ + 4H₂O"
+      },
+      {
+        "front": "How to count atoms in 2Ca(OH)₂",
+        "back": "Multiply everything in the bracket by the subscript, then by the coefficient: 2 Ca, 4 O and 4 H."
+      },
+      {
+        "front": "Spectator ions",
+        "back": "Ions that are present in a reaction mixture but do not change. They are left out of the ionic equation."
+      }
+    ]
+  },
+  {
+    "subject": "chemistry",
+    "grade": 5,
+    "topic": "Chemical Reactions and Equations",
+    "subTopic": "Types of Chemical Reaction",
+    "questions": [
+      {
+        "content": "A camping stove burns methane gas in plenty of oxygen, releasing heat and light. What type of reaction is this?",
+        "options": [
+          "Combustion",
+          "Neutralisation",
+          "Precipitation",
+          "Displacement"
+        ],
+        "answer": 0,
+        "explanation": "Burning a fuel in oxygen is combustion. It releases energy as heat and light.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which statement best describes a thermal decomposition reaction?",
+        "options": [
+          "One compound breaks down into simpler substances when heated",
+          "Two elements join to make one compound",
+          "An acid reacts with an alkali to form a salt",
+          "A solid forms when two solutions are mixed"
+        ],
+        "answer": 0,
+        "explanation": "Thermal means heat and decomposition means breaking down. The other options describe synthesis, neutralisation and precipitation.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Hydrochloric acid is mixed with sodium hydroxide solution. What type of reaction takes place?",
+        "options": [
+          "Neutralisation",
+          "Thermal decomposition",
+          "Combustion",
+          "Precipitation"
+        ],
+        "answer": 0,
+        "explanation": "An acid reacting with an alkali to make a salt and water is neutralisation.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which of the following is a chemical change rather than a physical change?",
+        "options": [
+          "Iron nails rusting",
+          "Ice melting",
+          "Sugar dissolving in tea",
+          "Water boiling"
+        ],
+        "answer": 0,
+        "explanation": "Rusting forms a new substance (iron oxide), so it is chemical. Melting, dissolving and boiling are physical changes in which no new substance is made.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A strip of zinc is placed in copper sulfate solution. Copper metal forms on the zinc. What is this type of reaction called?",
+        "options": [
+          "Displacement",
+          "Neutralisation",
+          "Thermal decomposition",
+          "Combustion"
+        ],
+        "answer": 0,
+        "explanation": "Zinc is more reactive than copper, so it takes the place of copper in the compound. A more reactive metal pushing out a less reactive one is displacement.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "When two clear solutions are mixed, the liquid suddenly turns cloudy and a solid slowly settles to the bottom. Which type of reaction has occurred?",
+        "options": [
+          "Precipitation",
+          "Combustion",
+          "Thermal decomposition",
+          "Neutralisation"
+        ],
+        "answer": 0,
+        "explanation": "A precipitation reaction forms an insoluble solid (a precipitate) from two solutions.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A green powder is heated in a test tube. It turns black and the gas given off turns limewater milky. The powder is copper carbonate. Which equation describes the reaction?",
+        "options": [
+          "CuCO₃ → CuO + CO₂",
+          "CuCO₃ → Cu + CO₂",
+          "CuCO₃ + O₂ → CuO + CO₂",
+          "CuCO₃ → CuO + CO"
+        ],
+        "answer": 0,
+        "explanation": "Metal carbonates break down on heating into the metal oxide and carbon dioxide. Black copper oxide forms and CO₂ turns limewater milky.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Magnesium ribbon is added to dilute hydrochloric acid. Which products form?",
+        "options": [
+          "Magnesium chloride and hydrogen",
+          "Magnesium oxide and water",
+          "Magnesium chloride and carbon dioxide",
+          "Magnesium hydroxide and chlorine"
+        ],
+        "answer": 0,
+        "explanation": "Metal + acid → salt + hydrogen. The salt from hydrochloric acid is a chloride.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Zinc carbonate is added to dilute sulfuric acid. Which set of products forms?",
+        "options": [
+          "Zinc sulfate, water and carbon dioxide",
+          "Zinc sulfate and hydrogen",
+          "Zinc oxide and sulfur dioxide",
+          "Zinc sulfate and water only"
+        ],
+        "answer": 0,
+        "explanation": "Metal carbonate + acid → salt + water + carbon dioxide. The fizzing seen is carbon dioxide being released.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A Bunsen burner has its air hole closed and gives a yellow, sooty flame. Compared with complete combustion, which extra products are formed?",
+        "options": [
+          "Carbon and carbon monoxide",
+          "Hydrogen and nitrogen",
+          "Carbon dioxide and water only",
+          "Sulfur dioxide and ozone"
+        ],
+        "answer": 0,
+        "explanation": "With limited oxygen, incomplete combustion occurs. Some carbon is released as soot and some forms toxic carbon monoxide instead of carbon dioxide.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Four iron nails are set up. Which nail is least likely to rust?",
+        "options": [
+          "A nail in a sealed tube with a drying agent and dry air",
+          "A nail in open tap water",
+          "A nail in salty water",
+          "A nail in damp air"
+        ],
+        "answer": 0,
+        "explanation": "Rusting needs both oxygen and water. With the drying agent there is no water, so the nail will hardly rust. Salt actually speeds rusting up.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "The reactivity order from high to low is magnesium, zinc, copper. In which test will a displacement reaction occur?",
+        "options": [
+          "Magnesium added to copper sulfate solution",
+          "Copper added to magnesium sulfate solution",
+          "Copper added to zinc sulfate solution",
+          "Zinc added to magnesium sulfate solution"
+        ],
+        "answer": 0,
+        "explanation": "A metal only displaces another from solution if it is more reactive. Magnesium is more reactive than copper, so it displaces it. The other three combinations place a less reactive metal into a more reactive metal's compound.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Thermal decomposition of calcium carbonate requires a strong flame to keep going. What does this tell you about the energy change of the reaction?",
+        "options": [
+          "It takes in energy from the surroundings",
+          "It releases energy to the surroundings",
+          "It has no energy change",
+          "It releases energy only at the start"
+        ],
+        "answer": 0,
+        "explanation": "If heating must continue, the reaction keeps taking energy in. Thermal decompositions are endothermic.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A student heats sodium hydrogencarbonate: 2NaHCO₃ → Na₂CO₃ + H₂O + CO₂. Why is this classed as thermal decomposition?",
+        "options": [
+          "One reactant breaks down into several products when heated",
+          "Two reactants combine into one product",
+          "The reactant is burned in oxygen",
+          "A more reactive element replaces a less reactive one"
+        ],
+        "answer": 0,
+        "explanation": "The single reactant splits into three simpler products and heat is needed. Nothing is burned or displaced.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A student burns magnesium ribbon and finds the white ash weighs more than the ribbon. Which classification best fits this reaction?",
+        "options": [
+          "Oxidation, because magnesium gained oxygen",
+          "Thermal decomposition, because heat was used",
+          "Neutralisation, because a white solid formed",
+          "Displacement, because oxygen was replaced"
+        ],
+        "answer": 0,
+        "explanation": "Magnesium combines with oxygen to make magnesium oxide, so it is oxidation (also combustion and synthesis). The extra mass is the oxygen from air.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Lead nitrate solution is mixed with potassium iodide solution and a yellow solid forms. Which equation correctly represents this precipitation reaction?",
+        "options": [
+          "Pb(NO₃)₂(aq) + 2KI(aq) → PbI₂(s) + 2KNO₃(aq)",
+          "Pb(NO₃)₂(aq) + KI(aq) → PbI(s) + KNO₃(aq)",
+          "Pb(NO₃)₂(s) + 2KI(s) → PbI₂(aq) + 2KNO₃(s)",
+          "PbNO₃(aq) + KI(aq) → PbI(s) + KNO₃(aq)"
+        ],
+        "answer": 0,
+        "explanation": "Lead is Pb²⁺ so it forms Pb(NO₃)₂ and PbI₂. Two K⁺ and two I⁻ are needed for balance. The yellow solid is the (s) product; everything else stays dissolved.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "An iron nail is placed in blue copper sulfate solution. After 20 minutes the nail is coated in a pink-brown solid and the solution has become pale green. Which statement best explains these observations?",
+        "options": [
+          "Iron displaces copper, forming copper metal and iron sulfate solution",
+          "Copper displaces iron, forming iron metal and copper sulfate",
+          "The iron has dissolved and nothing new has formed",
+          "The nail has been neutralised by the solution"
+        ],
+        "answer": 0,
+        "explanation": "Fe(s) + CuSO₄(aq) → FeSO₄(aq) + Cu(s). The pink-brown coating is copper metal and the fading blue (to pale green) shows copper ions being replaced by iron ions.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A student says, 'Bubbles formed, so a chemical reaction must have happened.' Evaluate the claim.",
+        "options": [
+          "Not necessarily; bubbles also appear when water boils, so a new substance must be identified",
+          "Correct; bubbles always mean a new substance has formed",
+          "Correct, as long as the bubbles are large",
+          "Not valid; chemical reactions never make gases"
+        ],
+        "answer": 0,
+        "explanation": "Boiling water releases bubbles of vapour without making a new substance. Good evidence of a chemical change includes a new substance, such as a gas that turns limewater milky, a colour change or a precipitate.",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "## Types of reaction\nChemical reactions can be sorted into types. Recognising the type lets you predict the products, which is a key skill in exams. In every chemical reaction a new substance is formed. Signs include a colour change, a gas being produced, a precipitate forming, or a temperature change.\n\n## Combustion and oxidation\n**Combustion** is burning a substance in oxygen, releasing heat and often light. Fuels containing carbon and hydrogen give carbon dioxide and water when oxygen is plentiful (complete combustion): methane + oxygen → carbon dioxide + water. If oxygen is limited, **incomplete combustion** gives carbon monoxide (a toxic gas) and carbon (soot). A yellow, sooty Bunsen flame shows incomplete combustion.\n**Oxidation** means gaining oxygen. When magnesium burns, 2Mg + O₂ → 2MgO, the magnesium is oxidised. Rusting is also oxidation: iron needs both oxygen and water to rust.\n\n## Thermal decomposition\nIn **thermal decomposition**, one compound breaks down into two or more simpler substances when heated. Metal carbonates are the classic example: copper carbonate → copper oxide + carbon dioxide. Green copper carbonate turns black, and the gas turns limewater milky. These reactions are endothermic.\n\n## Neutralisation\nAn acid reacts with a base or alkali to form a salt and water. For example: hydrochloric acid + sodium hydroxide → sodium chloride + water. Other acid reactions are worth memorising:\n- metal + acid → salt + hydrogen\n- metal carbonate + acid → salt + water + carbon dioxide\n- metal oxide + acid → salt + water\n\n## Displacement\nIn a **displacement** reaction a more reactive element takes the place of a less reactive element in a compound. Zinc added to copper sulfate solution: zinc + copper sulfate → zinc sulfate + copper. You see a coating of copper and the blue colour fading. A less reactive metal cannot displace a more reactive one, so copper added to zinc sulfate does nothing.\n\n## Precipitation\nWhen two solutions are mixed and an insoluble solid forms, the solid is a **precipitate**. Lead nitrate + potassium iodide gives a yellow precipitate of lead iodide: Pb(NO₃)₂(aq) + 2KI(aq) → PbI₂(s) + 2KNO₃(aq).\n\n## Common mistakes\n- Calling dissolving, melting or boiling a chemical reaction. These are physical changes.\n- Forgetting that a metal carbonate and acid also makes water.\n- Believing any pair of a metal and a metal compound will react. Check the reactivity order.\n- Using bubbles alone as proof of a new substance.\n\n## How this is examined\nQuestions are usually set in a context, such as a student investigating metals in different solutions or a company roasting a mineral in a furnace. You may be asked to identify the type of reaction from observations, predict products, write a word equation, or evaluate whether a student's conclusion is justified by the evidence. Evidence-based answers that link an observation to a new substance score best.\n\nExam tip: When naming a reaction type, quote the evidence from the question, for example 'a yellow solid formed from two solutions, so this is precipitation'.",
+    "flashcards": [
+      {
+        "front": "Combustion",
+        "back": "A substance burning in oxygen, releasing heat and light. Fuel + oxygen → oxides (for hydrocarbons: carbon dioxide + water)."
+      },
+      {
+        "front": "Incomplete combustion products",
+        "back": "Limited oxygen gives carbon monoxide and/or carbon (soot) as well as water. Carbon monoxide is toxic."
+      },
+      {
+        "front": "Thermal decomposition",
+        "back": "One compound breaks down into two or more simpler substances when heated, e.g. CuCO₃ → CuO + CO₂."
+      },
+      {
+        "front": "Neutralisation",
+        "back": "An acid reacts with a base or alkali to form a salt and water."
+      },
+      {
+        "front": "Metal + acid",
+        "back": "Gives a salt and hydrogen gas, e.g. Mg + 2HCl → MgCl₂ + H₂."
+      },
+      {
+        "front": "Metal carbonate + acid",
+        "back": "Gives a salt, water and carbon dioxide, e.g. CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂."
+      },
+      {
+        "front": "Displacement reaction",
+        "back": "A more reactive element replaces a less reactive element from its compound, e.g. Zn + CuSO₄ → ZnSO₄ + Cu."
+      },
+      {
+        "front": "Precipitation",
+        "back": "Two solutions react to form an insoluble solid called a precipitate, e.g. lead iodide is a yellow precipitate."
+      },
+      {
+        "front": "What does rusting need?",
+        "back": "Both oxygen and water. Rusting is an oxidation reaction of iron forming hydrated iron(III) oxide."
+      }
+    ]
+  },
+  {
+    "subject": "chemistry",
+    "grade": 5,
+    "topic": "Chemical Reactions and Equations",
+    "subTopic": "Conservation of Mass in Reactions",
+    "questions": [
+      {
+        "content": "Which statement correctly states the law of conservation of mass?",
+        "options": [
+          "The total mass of the products equals the total mass of the reactants",
+          "The mass of the products is always smaller than the reactants",
+          "The mass of the reactants changes as the reaction proceeds",
+          "Mass is created during an exothermic reaction"
+        ],
+        "answer": 0,
+        "explanation": "In any chemical reaction, no mass is gained or lost overall. The total mass of products equals the total mass of reactants.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "In an experiment, 10 g of substance A reacts completely with 5 g of substance B to form one product only. What mass of product forms?",
+        "options": [
+          "15 g",
+          "5 g",
+          "10 g",
+          "50 g"
+        ],
+        "answer": 0,
+        "explanation": "Mass is conserved, so the product has a mass of 10 + 5 = 15 g.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which statement explains why mass is conserved in a chemical reaction?",
+        "options": [
+          "The same atoms are rearranged and none are lost or gained",
+          "Atoms are turned into energy",
+          "The products are always heavier atoms",
+          "Bonds do not break during reactions"
+        ],
+        "answer": 0,
+        "explanation": "Reactions break old bonds and make new ones, but the atoms themselves stay the same in number and type. This is why the total mass does not change.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which apparatus would best show that mass is conserved in a reaction that makes a gas?",
+        "options": [
+          "A sealed flask placed on a balance",
+          "An open beaker on a balance",
+          "A beaker with a loose lid",
+          "A flask heated over a Bunsen burner"
+        ],
+        "answer": 0,
+        "explanation": "In a sealed (closed) system no gas can escape, so the balance reading stays the same. In open vessels gas leaves and the reading drops.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A campfire burns 5 kg of wood. The ash left over weighs much less than 5 kg. What is the best explanation?",
+        "options": [
+          "Gases such as carbon dioxide and water vapour escaped into the air",
+          "Mass is destroyed when things burn",
+          "The wood changed into energy",
+          "The ash is denser than the wood"
+        ],
+        "answer": 0,
+        "explanation": "Most of the wood becomes gases which float away into the atmosphere. If they could be collected, the total mass would match the original wood plus the oxygen used.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A student burns 2.4 g of magnesium ribbon in air and collects 4.0 g of white magnesium oxide. What mass of oxygen combined with the magnesium?",
+        "options": [
+          "1.6 g",
+          "2.4 g",
+          "6.4 g",
+          "0.6 g"
+        ],
+        "answer": 0,
+        "explanation": "Mass of oxygen = 4.0 − 2.4 = 1.6 g. The product is heavier because oxygen from the air joined the magnesium.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A technician heats 10.0 g of calcium carbonate in an open crucible until it stops changing. The solid residue weighs 5.6 g. What mass of carbon dioxide escaped?",
+        "options": [
+          "4.4 g",
+          "5.6 g",
+          "15.6 g",
+          "10.0 g"
+        ],
+        "answer": 0,
+        "explanation": "The lost mass is the gas: 10.0 − 5.6 = 4.4 g of carbon dioxide.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A ball of iron wool is weighed, burned on a balance and weighed again. It gets heavier. Which explanation is correct?",
+        "options": [
+          "Oxygen from the air combined with the iron",
+          "New atoms of iron were created",
+          "The iron absorbed heat energy, which has mass",
+          "Mass is not conserved during burning"
+        ],
+        "answer": 0,
+        "explanation": "Iron + oxygen → iron oxide. The oxygen came from the air, so the solid product has the mass of the iron plus the oxygen.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A flask containing calcium carbonate and acid is left open on a balance. The mass slowly decreases. Which change would keep the reading constant?",
+        "options": [
+          "Sealing the flask so no gas can escape",
+          "Using more calcium carbonate",
+          "Heating the flask",
+          "Using a larger flask"
+        ],
+        "answer": 0,
+        "explanation": "The mass reading drops because carbon dioxide escapes. Sealing the system (with a suitable vessel that can safely hold the small amount of gas) stops this.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "In an electrolysis experiment, 3.6 g of water completely decomposes into hydrogen and oxygen. The hydrogen has a mass of 0.4 g. What is the mass of oxygen formed?",
+        "options": [
+          "3.2 g",
+          "4.0 g",
+          "3.6 g",
+          "1.8 g"
+        ],
+        "answer": 0,
+        "explanation": "Mass is conserved: 3.6 − 0.4 = 3.2 g of oxygen.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "The balanced equation 2H₂ + O₂ → 2H₂O shows 4 g of hydrogen reacts with 32 g of oxygen. What mass of water forms?",
+        "options": [
+          "36 g",
+          "28 g",
+          "18 g",
+          "72 g"
+        ],
+        "answer": 0,
+        "explanation": "Mass is conserved: 4 + 32 = 36 g. This matches 2 × 18 = 36, the relative formula mass of two water molecules.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "In a sealed flask, a student mixes two solutions to make a precipitate. Total mass before is 150.0 g and after is 149.7 g. What is the percentage difference, and what does it suggest?",
+        "options": [
+          "0.2%, small enough to be within measurement error",
+          "2%, showing mass was destroyed",
+          "0.2%, showing that a gas escaped",
+          "20%, showing a faulty balance"
+        ],
+        "answer": 0,
+        "explanation": "0.3 ÷ 150.0 × 100 = 0.2%. In a closed system the law says the masses should match, so a difference this small is most likely due to measurement uncertainty or balance drift.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A sealed boiling tube contains 2.0 g of sodium hydrogencarbonate and 18.0 g of vinegar. Before the reaction the total mass is 60.0 g. The mixture fizzes and the tube is gently sealed with a balloon. What mass will the balance show afterwards, and why?",
+        "options": [
+          "60.0 g, because no matter has left the closed system",
+          "58.0 g, because the gas has no mass",
+          "62.0 g, because the gas adds mass",
+          "40.0 g, because the liquid is used up"
+        ],
+        "answer": 0,
+        "explanation": "Everything stays inside the sealed tube and balloon, so the total mass is still 60.0 g. Gases have mass, and no atoms are lost.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A student heats 4.8 g of magnesium until it has completely reacted and obtains 8.0 g of magnesium oxide. Using masses of oxygen (16) and magnesium (24) per mole of atoms, which formula fits the data?",
+        "options": [
+          "MgO",
+          "MgO₂",
+          "Mg₂O",
+          "Mg₂O₃"
+        ],
+        "answer": 0,
+        "explanation": "Oxygen added = 8.0 − 4.8 = 3.2 g, which is 3.2 ÷ 16 = 0.2 mol. Magnesium is 4.8 ÷ 24 = 0.2 mol. The ratio is 1:1, so MgO.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A student heats 6.35 g of copper in air until it becomes 7.95 g of black copper oxide. Which conclusion is best supported by the data?",
+        "options": [
+          "1.60 g of oxygen combined, giving CuO",
+          "1.60 g of oxygen was lost, giving CuO",
+          "0.80 g of oxygen combined, giving Cu₂O",
+          "No oxygen was involved, as the mass of copper is unchanged"
+        ],
+        "answer": 0,
+        "explanation": "Oxygen gained = 7.95 − 6.35 = 1.60 g. Moles of oxygen = 1.60 ÷ 16 = 0.100 and moles of copper = 6.35 ÷ 63.5 = 0.100, so 1:1, CuO.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A class wants to show that mass is conserved when a reaction produces a gas. Which design is the best way to do so?",
+        "options": [
+          "Weigh the whole sealed apparatus, including the gas collected, before and after",
+          "Weigh only the solid reactant before and the solid left after",
+          "Weigh the flask while it is open to the air",
+          "Weigh the acid only before the experiment"
+        ],
+        "answer": 0,
+        "explanation": "To account for every atom, all reactants and products including the gas must be inside the weighed system. Weighing only the solid ignores the gas.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A student heats 2.00 g of sodium hydrogencarbonate in an open tube and gets 1.26 g of solid left. What percentage of the original mass escaped as gas?",
+        "options": [
+          "37%",
+          "63%",
+          "74%",
+          "26%"
+        ],
+        "answer": 0,
+        "explanation": "Mass lost = 2.00 − 1.26 = 0.74 g. Percentage = 0.74 ÷ 2.00 × 100 = 37%. The 63% figure is the percentage that remained.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A sealed flask contains zinc, acid and a balloon. Its mass is 210.0 g before and 210.0 g after the balloon inflates. A student claims no reaction took place because the mass stayed the same. Evaluate this claim.",
+        "options": [
+          "Wrong; mass is conserved in every reaction, and the inflated balloon is evidence of a gas forming",
+          "Correct; a reaction always changes the mass",
+          "Correct; the balloon would only inflate by a physical change",
+          "Wrong; the mass should have increased because gas was added"
+        ],
+        "answer": 0,
+        "explanation": "Mass stays constant in a closed system whether or not a reaction occurs, so constant mass is not evidence of no reaction. The balloon inflating shows a gas was produced.",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "## The law of conservation of mass\nIn a chemical reaction, the total mass of the reactants equals the total mass of the products. Nothing is created or destroyed. Atoms are rearranged: bonds in the reactants break and new bonds form to make the products, but the same atoms are present before and after.\n\nFor the reaction 2H₂ + O₂ → 2H₂O, 4 g of hydrogen reacts with 32 g of oxygen to make 36 g of water. Reactants: 4 + 32 = 36 g. Products: 2 × 18 = 36 g.\n\n## Why mass sometimes seems to change\nStudents often find results that appear to break the law. The explanation is always about gases.\n- **Mass appears to decrease** when a gas escapes from an open container. Heating calcium carbonate in an open crucible gives off carbon dioxide, so the solid left is lighter. Burning wood leaves light ash because carbon dioxide and water vapour disperse.\n- **Mass appears to increase** when a gas from the air is a reactant. Burning magnesium gives magnesium oxide, which is heavier than the metal, because oxygen from the air joined it.\n\nIn a **closed system**, where nothing can enter or leave, the total mass stays the same. In an **open system**, gases can enter or leave and the mass reading can change.\n\n## Using the law in calculations\nIf you know all but one of the masses, subtract to find the missing one.\nWorked example: 10.0 g of calcium carbonate is heated and 5.6 g of solid remains. Mass of carbon dioxide = 10.0 − 5.6 = 4.4 g.\nWorked example: 2.4 g of magnesium makes 4.0 g of magnesium oxide. Mass of oxygen = 4.0 − 2.4 = 1.6 g.\n\nThe mass of oxygen can also tell you the formula. If 6.35 g of copper gains 1.60 g of oxygen, then moles of oxygen atoms = 1.60 ÷ 16 = 0.100 and moles of copper = 6.35 ÷ 63.5 = 0.100, so the ratio is 1:1 and the formula is CuO.\n\n## Experimental accuracy\nReal measurements are never perfect. A balance may read 150.0 g before and 149.7 g after in a sealed flask. The percentage difference is 0.3 ÷ 150.0 × 100 = 0.2%, which is small enough to be explained by measurement uncertainty. When evaluating an experiment, comment on whether a difference is large enough to be caused by a real loss of gas or small enough to be measurement error.\n\n## Common mistakes\n- Saying 'mass is lost' when the real answer is that a gas escaped.\n- Thinking that if the mass stays the same, no reaction has occurred. Mass is conserved whether or not a reaction happens.\n- Forgetting that oxygen from the air is a reactant when a metal burns.\n- Weighing only part of the system, such as the solid, when a gas is involved.\n\n## How this is examined\nQuestions often give a data table or a short experiment report, such as a student weighing a crucible before and after heating. You may be asked to calculate a missing mass, explain an increase or decrease, work out a percentage difference, or evaluate the design and suggest improvements such as using a sealed system. Extended tasks reward stating assumptions and commenting on accuracy.\n\nExam tip: When mass appears to change, name the gas involved and say whether it entered or left the system.",
+    "flashcards": [
+      {
+        "front": "Law of conservation of mass",
+        "back": "The total mass of the reactants equals the total mass of the products. No mass is created or destroyed in a chemical reaction."
+      },
+      {
+        "front": "Why is mass conserved?",
+        "back": "Atoms are rearranged during a reaction. The number and type of atoms stays the same, so the total mass is unchanged."
+      },
+      {
+        "front": "Closed system",
+        "back": "A system in which nothing can enter or leave, such as a sealed flask. The total mass stays constant."
+      },
+      {
+        "front": "Why does mass decrease in an open container?",
+        "back": "A gas product escapes into the air, e.g. carbon dioxide from heating calcium carbonate."
+      },
+      {
+        "front": "Why does mass increase when a metal burns?",
+        "back": "Oxygen from the air combines with the metal, so the oxide is heavier than the metal."
+      },
+      {
+        "front": "Missing mass calculation",
+        "back": "Subtract the known masses from the total. E.g. 10.0 g CaCO₃ gives 5.6 g solid, so 10.0 − 5.6 = 4.4 g CO₂ escaped."
+      },
+      {
+        "front": "Percentage difference formula",
+        "back": "(difference ÷ original value) × 100. A very small difference in a closed system can be put down to measurement error."
+      },
+      {
+        "front": "Evidence that gas is produced",
+        "back": "Bubbles, an inflating balloon, or a mass decrease in an open container. Test CO₂ with limewater, which turns milky."
+      },
+      {
+        "front": "How can oxygen mass give a formula?",
+        "back": "Convert masses to moles (mass ÷ atomic mass), then find the simplest whole-number ratio, e.g. 0.100 mol Cu : 0.100 mol O gives CuO."
+      }
+    ]
+  }
+]

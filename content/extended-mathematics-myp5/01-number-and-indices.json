@@ -1,0 +1,1054 @@
+[
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Number and Indices",
+  "subTopic": "Surds and Rationalising",
+  "questions": [
+   {
+    "content": "Simplify √50.",
+    "options": [
+     "25√2",
+     "5√2",
+     "10√2",
+     "2√5"
+    ],
+    "answer": 1,
+    "explanation": "50 = 25 × 2, and √25 = 5, so √50 = 5√2. Taking 25 out of the root without square-rooting it is a common slip.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Work out √3 × √12.",
+    "options": [
+     "√15",
+     "9",
+     "6",
+     "3"
+    ],
+    "answer": 2,
+    "explanation": "Multiply under the root: √(3 × 12) = √36 = 6. You multiply the numbers under the roots, you do not add them.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these numbers is irrational?",
+    "options": [
+     "√16",
+     "√25",
+     "√49",
+     "√20"
+    ],
+    "answer": 3,
+    "explanation": "√16 = 4, √25 = 5 and √49 = 7 are whole numbers, but 20 is not a perfect square, so √20 never ends or repeats.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Simplify 3√2 + 5√2.",
+    "options": [
+     "8√2",
+     "15√2",
+     "8√4",
+     "8"
+    ],
+    "answer": 0,
+    "explanation": "These are like surds, so add the coefficients: 3 + 5 = 8, giving 8√2. The surd part stays the same.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Rationalise the denominator of 6/√3.",
+    "options": [
+     "6√3",
+     "2√3",
+     "2",
+     "18√3"
+    ],
+    "answer": 1,
+    "explanation": "Multiply top and bottom by √3: 6√3/3 = 2√3.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Expand and simplify (2 + √3)(2 − √3).",
+    "options": [
+     "7",
+     "4",
+     "1",
+     "−1"
+    ],
+    "answer": 2,
+    "explanation": "This is a difference of two squares: 2² − (√3)² = 4 − 3 = 1.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Expand and simplify (3 + √5)².",
+    "options": [
+     "14",
+     "9 + 5√5",
+     "14 + 3√5",
+     "14 + 6√5"
+    ],
+    "answer": 3,
+    "explanation": "(3 + √5)² = 9 + 2(3)(√5) + 5 = 14 + 6√5. Do not forget the middle term 6√5.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Write 4/(3 − √5) in the form a + b√5.",
+    "options": [
+     "3 + √5",
+     "3 − √5",
+     "12 + 4√5",
+     "(3 + √5)/4"
+    ],
+    "answer": 0,
+    "explanation": "Multiply by the conjugate: 4(3 + √5)/(9 − 5) = 4(3 + √5)/4 = 3 + √5.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Rationalise the denominator of 1/(√7 − √3).",
+    "options": [
+     "(√7 − √3)/4",
+     "(√7 + √3)/4",
+     "(√7 + √3)/10",
+     "√7 + √3"
+    ],
+    "answer": 1,
+    "explanation": "Multiply top and bottom by √7 + √3. The denominator becomes 7 − 3 = 4, so the result is (√7 + √3)/4.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A rectangular garden bed has length (3 + √2) m and width (3 − √2) m. Calculate its exact area.",
+    "options": [
+     "9 m²",
+     "11 m²",
+     "7 m²",
+     "7√2 m²"
+    ],
+    "answer": 2,
+    "explanation": "(3 + √2)(3 − √2) = 9 − 2 = 7. The area is a whole number because the surd terms cancel.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A learner claims 'the sum of two irrational numbers is always irrational'. Which example is a counter-example?",
+    "options": [
+     "√3 + √5",
+     "π + 1",
+     "√2 + √8",
+     "√2 + (−√2) = 0"
+    ],
+    "answer": 3,
+    "explanation": "√2 + (−√2) = 0, which is rational, so the claim is false. The other sums are all irrational.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A right-angled triangle has shorter sides 4 cm and 6 cm. Find the exact length of the hypotenuse.",
+    "options": [
+     "2√13 cm",
+     "10 cm",
+     "2√26 cm",
+     "4√13 cm"
+    ],
+    "answer": 0,
+    "explanation": "h² = 16 + 36 = 52, so h = √52 = √(4 × 13) = 2√13 cm. Adding 4 + 6 = 10 forgets to square and root.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A square tile has area 45 cm². Determine its exact perimeter.",
+    "options": [
+     "6√5 cm",
+     "12√5 cm",
+     "9√5 cm",
+     "180 cm"
+    ],
+    "answer": 1,
+    "explanation": "Side = √45 = 3√5. Perimeter = 4 × 3√5 = 12√5 cm.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Write (2 + √3)/(2 − √3) in the form a + b√3.",
+    "options": [
+     "7 − 4√3",
+     "1 + 4√3",
+     "7 + 4√3",
+     "4 + √3"
+    ],
+    "answer": 2,
+    "explanation": "Multiply by (2 + √3): numerator (2 + √3)² = 7 + 4√3, denominator 4 − 3 = 1.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Solve x√2 = 6 + √8, giving x in the form a + b√2.",
+    "options": [
+     "3 + 2√2",
+     "6 + √2",
+     "2 + 6√2",
+     "2 + 3√2"
+    ],
+    "answer": 3,
+    "explanation": "√8 = 2√2, so x = (6 + 2√2)/√2 = 6/√2 + 2 = 3√2 + 2.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "(a + √b)² = 11 + 6√2 where a and b are positive integers. Find a and b.",
+    "options": [
+     "a = 3, b = 2",
+     "a = 2, b = 3",
+     "a = 6, b = 2",
+     "a = 3, b = 8"
+    ],
+    "answer": 0,
+    "explanation": "Expanding gives a² + b + 2a√b. So a² + b = 11 and a√b = 3√2, giving a = 3, b = 2 (check: 9 + 2 = 11).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Show that 1/(1 + √2) + 1/(1 − √2) is rational. What is its value?",
+    "options": [
+     "2",
+     "−2",
+     "0",
+     "−2√2"
+    ],
+    "answer": 1,
+    "explanation": "Common denominator (1 + √2)(1 − √2) = −1. Numerator (1 − √2) + (1 + √2) = 2. So the value is 2/(−1) = −2.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A right-angled triangle has hypotenuse 6 cm and one shorter side √12 cm. Find the exact length of the third side.",
+    "options": [
+     "4√3 cm",
+     "√6 cm",
+     "2√6 cm",
+     "2√3 cm"
+    ],
+    "answer": 2,
+    "explanation": "Third side² = 36 − 12 = 24, so it is √24 = 2√6 cm. Subtract the squares, do not add them.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Surds are square roots (or other roots) of numbers that are not perfect squares, such as √2, √3 and √20. They are irrational numbers: their decimals never end and never repeat. We leave answers as surds when an exact value is needed.\n\n## Simplifying surds\nLook for the largest square number that divides the number under the root.\n- √50 = √(25 × 2) = **5√2**\n- √72 = √(36 × 2) = **6√2**\nThe rules are √a × √b = √(ab) and √a ÷ √b = √(a/b). There is no rule for adding: √a + √b is NOT √(a + b).\n\n## Adding and subtracting\nYou can only combine **like surds**, those with the same surd part. For example 3√2 + 5√2 = 8√2. Simplify first: √8 + √18 = 2√2 + 3√2 = 5√2.\n\n## Expanding brackets\nExpand like any brackets and remember √a × √a = a.\n- (3 + √5)² = 9 + 6√5 + 5 = 14 + 6√5\n- (2 + √3)(2 − √3) = 4 − 3 = 1 (difference of two squares)\n\n## Rationalising the denominator\nWe avoid leaving a surd on the bottom of a fraction.\n- One term: 6/√3 = 6√3/3 = 2√3. Multiply top and bottom by the surd.\n- Two terms: multiply by the **conjugate** (change the sign in the middle). For 4/(3 − √5) multiply top and bottom by (3 + √5). The bottom becomes 9 − 5 = 4, so the answer is 3 + √5.\n\n## Worked example\nA rectangular plot has length (3 + √2) m and width (3 − √2) m. Show that the area is rational.\nArea = (3 + √2)(3 − √2) = 9 − 2 = 7 m². The surd terms cancel, so the area is the whole number 7.\n\n## Common mistakes\n- Writing √a + √b = √(a + b).\n- Forgetting the middle term when squaring a bracket with a surd.\n- Using the wrong sign in the conjugate.\n- Stopping at √12 instead of simplifying to 2√3.\n\n## How this is examined\nSurds usually appear inside a context: an exact side length in a design, the diagonal of a screen, or the area of a plot. Command terms such as 'show that', 'write in the form a + b√c' and 'give your answer in exact form' tell you not to use a calculator decimal. You may be asked to justify why an answer is rational or irrational, or to state why an exact value is better than a rounded one when later calculations depend on it.\n\nExam tip: if the question says 'exact', never give a decimal; simplify the surd fully and show the conjugate step when rationalising.",
+  "flashcards": [
+   {
+    "front": "What is a surd?",
+    "back": "A root that cannot be written as an exact fraction or whole number, such as √2 or √7. Its decimal never ends or repeats."
+   },
+   {
+    "front": "Multiplication rule for surds",
+    "back": "√a × √b = √(ab). Example: √3 × √12 = √36 = 6."
+   },
+   {
+    "front": "Simplify √72",
+    "back": "√72 = √(36 × 2) = 6√2. Use the largest square factor."
+   },
+   {
+    "front": "Is √a + √b = √(a + b)?",
+    "back": "No. You cannot add under the roots. Only like surds combine, e.g. 2√3 + 5√3 = 7√3."
+   },
+   {
+    "front": "What is √a × √a?",
+    "back": "It equals a. Example: √5 × √5 = 5."
+   },
+   {
+    "front": "Rationalise 1/√a",
+    "back": "Multiply top and bottom by √a: 1/√a = √a/a."
+   },
+   {
+    "front": "What is the conjugate of 3 + √5?",
+    "back": "3 − √5. Multiplying a number by its conjugate gives a rational result: 9 − 5 = 4."
+   },
+   {
+    "front": "Rationalise 4/(3 − √5)",
+    "back": "Multiply by (3 + √5)/(3 + √5): 4(3 + √5)/4 = 3 + √5."
+   },
+   {
+    "front": "When must you leave a surd in your answer?",
+    "back": "When the question says 'exact form' or 'in surd form'. A rounded decimal would lose accuracy."
+   }
+  ]
+ },
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Number and Indices",
+  "subTopic": "Laws of Indices and Standard Form",
+  "questions": [
+   {
+    "content": "Simplify 2⁵ × 2³.",
+    "options": [
+     "2¹⁵",
+     "2⁸",
+     "4⁸",
+     "2²"
+    ],
+    "answer": 1,
+    "explanation": "Same base, so add the powers: 5 + 3 = 8.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Simplify (3²)⁴.",
+    "options": [
+     "3⁶",
+     "3¹⁶",
+     "3⁸",
+     "12"
+    ],
+    "answer": 2,
+    "explanation": "Power of a power: multiply the indices, 2 × 4 = 8.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the value of 5⁰?",
+    "options": [
+     "0",
+     "5",
+     "−5",
+     "1"
+    ],
+    "answer": 3,
+    "explanation": "Any non-zero number to the power 0 equals 1.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Write 4.5 × 10⁴ as an ordinary number.",
+    "options": [
+     "45 000",
+     "4 500",
+     "450 000",
+     "0.00045"
+    ],
+    "answer": 0,
+    "explanation": "A power of 10⁴ moves the decimal point 4 places right: 4.5 → 45 000.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is 2⁻³ as a fraction?",
+    "options": [
+     "−8",
+     "1/8",
+     "−6",
+     "1/6"
+    ],
+    "answer": 1,
+    "explanation": "A negative power means reciprocal: 2⁻³ = 1/2³ = 1/8.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Simplify 12x⁵y² ÷ 4x²y.",
+    "options": [
+     "3x⁷y",
+     "8x³y",
+     "3x³y",
+     "3x³y²"
+    ],
+    "answer": 2,
+    "explanation": "Divide the numbers: 12 ÷ 4 = 3. Subtract powers: x⁵⁻² = x³ and y²⁻¹ = y.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Evaluate 27^(2/3).",
+    "options": [
+     "18",
+     "3",
+     "6",
+     "9"
+    ],
+    "answer": 3,
+    "explanation": "The 1/3 part means cube root: ∛27 = 3, then square it: 3² = 9.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Calculate (2.4 × 10⁵) × (3 × 10³). Give your answer in standard form.",
+    "options": [
+     "7.2 × 10⁸",
+     "7.2 × 10¹⁵",
+     "5.4 × 10⁸",
+     "72 × 10⁷"
+    ],
+    "answer": 0,
+    "explanation": "Multiply 2.4 × 3 = 7.2 and add the powers 5 + 3 = 8. 72 × 10⁷ is correct in value but not in standard form.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Light takes time = distance ÷ speed to travel. The Sun is 1.5 × 10¹¹ m from Earth and light travels at 3.0 × 10⁸ m/s. How long does light take to arrive?",
+    "options": [
+     "5.0 × 10³ s",
+     "5.0 × 10² s",
+     "2.0 × 10⁻³ s",
+     "4.5 × 10¹⁹ s"
+    ],
+    "answer": 1,
+    "explanation": "1.5 × 10¹¹ ÷ 3.0 × 10⁸ = 0.5 × 10³ = 5.0 × 10² seconds, about 8 minutes.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve 2ˣ = 1/32.",
+    "options": [
+     "x = 5",
+     "x = −16",
+     "x = −5",
+     "x = 16"
+    ],
+    "answer": 2,
+    "explanation": "1/32 = 1/2⁵ = 2⁻⁵, so x = −5.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Work out 3.2 × 10⁵ + 4.8 × 10⁴. Give the answer in standard form.",
+    "options": [
+     "8.0 × 10⁵",
+     "3.68 × 10⁴",
+     "3.68 × 10⁶",
+     "3.68 × 10⁵"
+    ],
+    "answer": 3,
+    "explanation": "Write as 320 000 + 48 000 = 368 000 = 3.68 × 10⁵. You cannot add the mantissas when the powers differ.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Simplify (2x³)³.",
+    "options": [
+     "8x⁹",
+     "6x⁶",
+     "2x⁹",
+     "8x⁶"
+    ],
+    "answer": 0,
+    "explanation": "Cube both the 2 and the x³: 2³ = 8 and (x³)³ = x⁹.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "One bacterium has mass 9.5 × 10⁻¹³ g. What is the mass of one million (10⁶) bacteria?",
+    "options": [
+     "9.5 × 10⁻¹⁹ g",
+     "9.5 × 10⁻⁷ g",
+     "9.5 × 10⁻⁶ g",
+     "9.5 × 10¹⁸ g"
+    ],
+    "answer": 1,
+    "explanation": "Multiply: 10⁻¹³ × 10⁶ = 10⁻⁷, so 9.5 × 10⁻⁷ g.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve 9ˣ = 27^(x − 1).",
+    "options": [
+     "x = −3",
+     "x = 1",
+     "x = 3",
+     "x = 3/5"
+    ],
+    "answer": 2,
+    "explanation": "Write both with base 3: 3²ˣ = 3³⁽ˣ⁻¹⁾, so 2x = 3x − 3 and x = 3. Check: 9³ = 729 = 27².",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Simplify (16x⁸)^(3/4).",
+    "options": [
+     "12x⁶",
+     "8x³",
+     "4x⁶",
+     "8x⁶"
+    ],
+    "answer": 3,
+    "explanation": "16^(3/4) = (⁴√16)³ = 2³ = 8 and (x⁸)^(3/4) = x⁶.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which expression equals 2ⁿ⁺³ − 2ⁿ⁺¹?",
+    "options": [
+     "6 × 2ⁿ",
+     "2²",
+     "2ⁿ⁺²",
+     "12ⁿ"
+    ],
+    "answer": 0,
+    "explanation": "Factorise 2ⁿ: 2ⁿ(8 − 2) = 6 × 2ⁿ. Subtracting the indices is not allowed across a subtraction sign.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A data centre stores 2.4 × 10¹² bytes. Each file uses 6 × 10⁵ bytes. How many files can it hold?",
+    "options": [
+     "4 × 10⁷",
+     "4 × 10⁶",
+     "1.44 × 10¹⁸",
+     "4 × 10⁻⁷"
+    ],
+    "answer": 1,
+    "explanation": "2.4 × 10¹² ÷ 6 × 10⁵ = 0.4 × 10⁷ = 4 × 10⁶. Divide the numbers and subtract the powers.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Find √(6.4 × 10⁷) in standard form.",
+    "options": [
+     "8 × 10⁴",
+     "3.2 × 10⁷",
+     "8 × 10³",
+     "8 × 10⁶"
+    ],
+    "answer": 2,
+    "explanation": "6.4 × 10⁷ = 64 × 10⁶. The square root is 8 × 10³ = 8000.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Indices (powers) are a short way to write repeated multiplication. In 2⁵ the base is 2 and the index is 5, meaning 2 × 2 × 2 × 2 × 2 = 32.\n\n## The laws of indices\n- Multiply (same base): aᵐ × aⁿ = **aᵐ⁺ⁿ**\n- Divide: aᵐ ÷ aⁿ = **aᵐ⁻ⁿ**\n- Power of a power: (aᵐ)ⁿ = **aᵐⁿ**\n- Zero index: a⁰ = **1**\n- Negative index: a⁻ⁿ = **1/aⁿ** (a reciprocal, not a negative number)\n- Fractional index: a^(1/n) = the nth root of a, and a^(m/n) = (ⁿ√a)ᵐ\n\nExample: 27^(2/3). Take the cube root first (3), then square it: 9.\n\n## Solving index equations\nWrite both sides with the same base, then equate the powers. For 9ˣ = 27^(x − 1) write 9 = 3² and 27 = 3³. Then 2x = 3(x − 1), so x = 3.\n\n## Standard form\nA number in standard form looks like a × 10ⁿ where 1 ≤ a < 10 and n is an integer. Large numbers have positive n; numbers less than 1 have negative n.\n- 45 000 = 4.5 × 10⁴\n- 0.00032 = 3.2 × 10⁻⁴\n\n**Multiplying and dividing:** work with the number parts and the powers of ten separately. (2.4 × 10⁵) × (3 × 10³) = 7.2 × 10⁸.\n**Adding and subtracting:** write both numbers as ordinary numbers, or make the powers equal first. 3.2 × 10⁵ + 4.8 × 10⁴ = 3.2 × 10⁵ + 0.48 × 10⁵ = 3.68 × 10⁵.\n\nAlways check that your final answer has the number part between 1 and 10. An answer like 72 × 10⁷ has the right value but is not in standard form.\n\n## Worked example\nLight travels at 3.0 × 10⁸ m/s and the Sun is 1.5 × 10¹¹ m away. Time = distance ÷ speed = 1.5 × 10¹¹ ÷ 3.0 × 10⁸ = 0.5 × 10³ = 5.0 × 10² s.\n\n## Common mistakes\n- Multiplying indices when you should add them (a² × a³ = a⁵, not a⁶).\n- Thinking 2⁻³ is negative. It is 1/8.\n- Adding powers when adding standard form numbers with different powers.\n- Applying the power to only part of a bracket: (2x³)³ = 8x⁹, not 2x⁹.\n\n## How this is examined\nStandard form questions are almost always set in science or technology contexts: the mass of a particle, the storage of a data centre, the distance to a planet. You must pull the numbers out of the stimulus, calculate, give the answer in standard form with units, and often comment on whether a given estimate is reasonable or what rounding does to accuracy.\n\nExam tip: show the laws you use line by line (for example 'subtract the powers') because method marks are awarded even if the final arithmetic slips.",
+  "flashcards": [
+   {
+    "front": "aᵐ × aⁿ =",
+    "back": "aᵐ⁺ⁿ. Same base: add the indices."
+   },
+   {
+    "front": "aᵐ ÷ aⁿ =",
+    "back": "aᵐ⁻ⁿ. Same base: subtract the indices."
+   },
+   {
+    "front": "(aᵐ)ⁿ =",
+    "back": "aᵐⁿ. Multiply the indices."
+   },
+   {
+    "front": "What is a⁰ (a ≠ 0)?",
+    "back": "1. Any non-zero number to the power zero is 1."
+   },
+   {
+    "front": "What does a⁻ⁿ mean?",
+    "back": "1/aⁿ, the reciprocal of aⁿ. Example: 2⁻³ = 1/8."
+   },
+   {
+    "front": "What does a^(1/n) mean?",
+    "back": "The nth root of a. Example: 27^(1/3) = 3. And a^(m/n) = (ⁿ√a)ᵐ."
+   },
+   {
+    "front": "Rule for standard form",
+    "back": "a × 10ⁿ where 1 ≤ a < 10 and n is an integer. Example: 0.00032 = 3.2 × 10⁻⁴."
+   },
+   {
+    "front": "How do you multiply numbers in standard form?",
+    "back": "Multiply the number parts, add the powers of 10, then adjust so the number part is between 1 and 10."
+   },
+   {
+    "front": "How do you solve 2ˣ = 1/32?",
+    "back": "Write 1/32 as 2⁻⁵ so the bases match, then equate the powers: x = −5."
+   }
+  ]
+ },
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Number and Indices",
+  "subTopic": "Bounds and Accuracy",
+  "questions": [
+   {
+    "content": "A length is 8 cm, measured to the nearest cm. Which inequality gives the range of possible actual lengths L?",
+    "options": [
+     "7 ≤ L < 9",
+     "7.5 ≤ L < 8.5",
+     "7.5 ≤ L ≤ 8",
+     "8 ≤ L < 9"
+    ],
+    "answer": 1,
+    "explanation": "Rounding to the nearest cm means up to half a unit either side: 8 − 0.5 = 7.5 and 8 + 0.5 = 8.5. The upper bound is not included.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A number is 3.4 when rounded to 1 decimal place. What is its lower bound?",
+    "options": [
+     "3.3",
+     "3.39",
+     "3.35",
+     "3.4"
+    ],
+    "answer": 2,
+    "explanation": "Half of 0.1 is 0.05, so the lower bound is 3.4 − 0.05 = 3.35.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A crowd is 250 to the nearest 10. What is the upper bound?",
+    "options": [
+     "250",
+     "259",
+     "260",
+     "255"
+    ],
+    "answer": 3,
+    "explanation": "Half of 10 is 5, so the upper bound is 250 + 5 = 255.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A mass is 4.2 kg correct to 2 significant figures. What is the lower bound?",
+    "options": [
+     "4.15 kg",
+     "4.1 kg",
+     "4.19 kg",
+     "4.0 kg"
+    ],
+    "answer": 0,
+    "explanation": "The last digit is in the tenths column, so subtract 0.05: 4.2 − 0.05 = 4.15 kg.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A student estimates a length as 48 cm. The true length is 50 cm. What is the percentage error?",
+    "options": [
+     "2%",
+     "4%",
+     "4.17%",
+     "96%"
+    ],
+    "answer": 1,
+    "explanation": "Error = 2 cm. Percentage error = 2 ÷ 50 × 100 = 4%, using the true value as the base.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "a = 6.2 and b = 3.4, both correct to 1 decimal place. What is the upper bound of a + b?",
+    "options": [
+     "9.6",
+     "9.5",
+     "9.7",
+     "9.8"
+    ],
+    "answer": 2,
+    "explanation": "Upper bounds: 6.25 + 3.45 = 9.7. Using the stated values would give 9.6.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "a = 6.2 and b = 3.4, both correct to 1 decimal place. What is the smallest possible value of a − b?",
+    "options": [
+     "2.8",
+     "2.9",
+     "2.6",
+     "2.7"
+    ],
+    "answer": 3,
+    "explanation": "For the smallest difference use the lower bound of a and the upper bound of b: 6.15 − 3.45 = 2.7.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A rectangle measures 12 cm by 7 cm, each to the nearest cm. What is the upper bound of its area?",
+    "options": [
+     "93.75 cm²",
+     "84 cm²",
+     "91.5 cm²",
+     "94 cm²"
+    ],
+    "answer": 0,
+    "explanation": "Use the upper bound of each side: 12.5 × 7.5 = 93.75 cm².",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A runner covers 100 m (nearest metre) in 12.5 s (nearest 0.1 s). Calculate the upper bound of the speed in m/s, to 3 significant figures.",
+    "options": [
+     "8.00 m/s",
+     "8.07 m/s",
+     "7.93 m/s",
+     "8.13 m/s"
+    ],
+    "answer": 1,
+    "explanation": "Largest speed = largest distance ÷ smallest time = 100.5 ÷ 12.45 = 8.0723..., which is 8.07 m/s.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A technician measures a pipe as 19.6 cm. Its true length is 20 cm. What is the percentage error?",
+    "options": [
+     "0.4%",
+     "2.04%",
+     "2%",
+     "0.02%"
+    ],
+    "answer": 2,
+    "explanation": "Error = 0.4 cm. Dividing by the true length: 0.4 ÷ 20 × 100 = 2%. Dividing by 19.6 would give 2.04%.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "x = 45 correct to 2 significant figures. Which statement gives the correct error interval?",
+    "options": [
+     "44.5 ≤ x ≤ 45.5",
+     "40 ≤ x < 50",
+     "44 ≤ x < 46",
+     "44.5 ≤ x < 45.5"
+    ],
+    "answer": 3,
+    "explanation": "The nearest whole number rounding gives half a unit either side. The upper bound 45.5 would round up to 46, so it is not included.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A sign says a bridge has a limit of 7.5 tonnes, given to 1 decimal place. Which weight could the sign's true value be?",
+    "options": [
+     "7.54 tonnes",
+     "7.55 tonnes",
+     "7.44 tonnes",
+     "7.6 tonnes"
+    ],
+    "answer": 0,
+    "explanation": "The range is 7.45 ≤ weight < 7.55. 7.54 lies inside; 7.55 would round up to 7.6.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Calculate 2.47 × 3.1 and give a sensible final answer for data given to 3 and 2 significant figures.",
+    "options": [
+     "7.657",
+     "7.7",
+     "7.66",
+     "8"
+    ],
+    "answer": 1,
+    "explanation": "The result of the multiplication is 7.657, but one input has only 2 significant figures, so the answer is limited to 2 significant figures: 7.7.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A metal block has mass 240 g (nearest 10 g) and volume 80 cm³ (nearest cm³). Calculate the lower bound of its density, in g/cm³ to 3 significant figures.",
+    "options": [
+     "2.96",
+     "3.00",
+     "2.92",
+     "3.08"
+    ],
+    "answer": 2,
+    "explanation": "Density = mass ÷ volume. The smallest value uses the smallest mass and the largest volume: 235 ÷ 80.5 = 2.919..., so 2.92.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "x = 3.2 and y = 1.6, both to 1 decimal place. The bounds of x ÷ y are 1.909... and 2.097... What is x ÷ y to the greatest accuracy that is certain?",
+    "options": [
+     "2.0 (2 significant figures)",
+     "1.9 (2 significant figures)",
+     "2.1 (2 significant figures)",
+     "2 (1 significant figure)"
+    ],
+    "answer": 3,
+    "explanation": "Both bounds round to 2 when given to 1 significant figure, so 2 is certain. At 2 significant figures they give 1.9 and 2.1, so no single value can be stated.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A circular pond has radius 6.0 m to 1 decimal place. Calculate the upper bound of its area, to 3 significant figures.",
+    "options": [
+     "115 m²",
+     "113 m²",
+     "111 m²",
+     "120 m²"
+    ],
+    "answer": 0,
+    "explanation": "Upper bound radius is 6.05 m. Area = π × 6.05² = 114.99..., which is 115 m². Using 6.0 gives 113 m², and the lower bound gives 111 m².",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A square has side measured as 20 cm but its true side is 20.5 cm. What is the percentage error in the calculated area, to 3 significant figures?",
+    "options": [
+     "2.44%",
+     "4.82%",
+     "4.88%",
+     "5.06%"
+    ],
+    "answer": 1,
+    "explanation": "Measured area 400, true area 420.25, error 20.25. Percentage error = 20.25 ÷ 420.25 × 100 = 4.82%. It is larger than the 2.44% error in the side.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A rectangular banner has length 5.0 m and width 3.0 m, each to 2 significant figures. What is the upper bound of its perimeter?",
+    "options": [
+     "16.0 m",
+     "16.4 m",
+     "16.2 m",
+     "8.1 m"
+    ],
+    "answer": 2,
+    "explanation": "Upper bounds are 5.05 m and 3.05 m. Perimeter = 2 × (5.05 + 3.05) = 16.2 m. Do not forget to double.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Measurements and rounded numbers are never exact. A number given to a stated degree of accuracy could really be anywhere in an interval, and bounds describe the ends of that interval.\n\n## Finding bounds\nWork out the **degree of accuracy** (the size of the last unit) and take half of it.\n- 8 cm to the nearest cm: half a unit is 0.5, so 7.5 ≤ L < 8.5.\n- 3.4 to 1 decimal place: half of 0.1 is 0.05, so 3.35 ≤ x < 3.45.\n- 250 to the nearest 10: 245 ≤ x < 255.\n- 4.2 to 2 significant figures: the last digit is tenths, so 4.15 ≤ x < 4.25.\nThe **lower bound** is included. The **upper bound** is not included in the interval, but we still use it in calculations.\n\n## Calculating with bounds\nTo get the greatest or smallest result, decide which bounds to use.\n- Upper bound of a + b: upper(a) + upper(b).\n- Lower bound of a − b: lower(a) − upper(b).\n- Upper bound of a × b: upper(a) × upper(b).\n- Upper bound of a ÷ b: upper(a) ÷ lower(b).\nFor division, a large answer needs a large top and a small bottom.\n\n## Worked example\nA runner covers 100 m (nearest metre) in 12.5 s (nearest 0.1 s). Greatest speed = 100.5 ÷ 12.45 = 8.07 m/s. Smallest speed = 99.5 ÷ 12.55 = 7.93 m/s. To 2 significant figures these are 8.1 and 7.9, so we cannot honestly claim a 2 significant figure answer. To 1 significant figure both bounds give 8, so 8 m/s is certain.\n\n## Percentage error\nPercentage error = (error ÷ true value) × 100. Error is the positive difference. In real-world tasks, comment on whether a percentage error is acceptable for the purpose, such as building a bridge versus estimating a room size. Small errors in lengths grow when you calculate areas or volumes.\n\n## Common mistakes\n- Using the stated value instead of a bound.\n- Using upper bounds for every part of a subtraction or division.\n- Including the upper bound in an inequality (use < for the upper end).\n- Giving a final answer with more accuracy than the bounds allow.\n\n## How this is examined\nQuestions give measurements in a context such as a sports track, a fuel tank or a construction plan. You calculate upper and lower bounds, then justify a sensible degree of accuracy or judge whether a design limit could be breached. Evaluation tasks ask you to state assumptions, calculate a percentage error and comment on the reliability of the model.\n\nExam tip: write 'upper bound' or 'lower bound' beside each value you choose; the examiner can then award method marks even if one value is wrong.",
+  "flashcards": [
+   {
+    "front": "Bounds of a number rounded to the nearest unit",
+    "back": "Half a unit either side. 8 to the nearest whole number: 7.5 ≤ x < 8.5."
+   },
+   {
+    "front": "Bounds of 3.4 (1 decimal place)",
+    "back": "3.35 ≤ x < 3.45. Half of 0.1 is 0.05."
+   },
+   {
+    "front": "Is the upper bound included in the interval?",
+    "back": "No. The interval uses < for the upper bound, because that value would round up. We still use it in calculations."
+   },
+   {
+    "front": "Upper bound of a + b",
+    "back": "Upper bound of a plus upper bound of b."
+   },
+   {
+    "front": "Lower bound of a − b",
+    "back": "Lower bound of a minus upper bound of b."
+   },
+   {
+    "front": "Upper bound of a ÷ b",
+    "back": "Upper bound of a divided by lower bound of b."
+   },
+   {
+    "front": "Percentage error formula",
+    "back": "(error ÷ true value) × 100, where error is the positive difference between the measured and true values."
+   },
+   {
+    "front": "How do you choose the final accuracy?",
+    "back": "Round the upper and lower bounds. If they agree at a given accuracy, that is the accuracy you may state."
+   },
+   {
+    "front": "Why do errors grow in area or volume?",
+    "back": "Dimensions are multiplied, so the relative errors combine. A 2.4% error in a side leads to about 4.8% error in area."
+   }
+  ]
+ },
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Number and Indices",
+  "subTopic": "Direct and Inverse Proportion",
+  "questions": [
+   {
+    "content": "y is directly proportional to x. When x = 3, y = 12. Find y when x = 5.",
+    "options": [
+     "15",
+     "20",
+     "7.2",
+     "60"
+    ],
+    "answer": 1,
+    "explanation": "y = kx with k = 12 ÷ 3 = 4. So y = 4 × 5 = 20.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "y is inversely proportional to x. When x = 2, y = 6. Find y when x = 4.",
+    "options": [
+     "12",
+     "8",
+     "3",
+     "1.5"
+    ],
+    "answer": 2,
+    "explanation": "y = k/x, with k = 2 × 6 = 12. Then y = 12 ÷ 4 = 3.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which equation shows that y is inversely proportional to x?",
+    "options": [
+     "y = kx",
+     "y = x + k",
+     "y = kx²",
+     "y = k/x"
+    ],
+    "answer": 3,
+    "explanation": "Inverse proportion means y gets smaller as x gets larger, written y = k/x or xy = k.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A table shows x: 2, 4, 6 and y: 5, 10, 15. These are directly proportional. What is the constant k in y = kx?",
+    "options": [
+     "2.5",
+     "0.4",
+     "3",
+     "5"
+    ],
+    "answer": 0,
+    "explanation": "k = y ÷ x = 5 ÷ 2 = 2.5, and 10 ÷ 4 = 2.5 also.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "4 notebooks cost $10. Assuming direct proportion, what do 6 notebooks cost?",
+    "options": [
+     "$12",
+     "$15",
+     "$14",
+     "$24"
+    ],
+    "answer": 1,
+    "explanation": "Cost per notebook = $2.50, so 6 notebooks cost $15.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "y is directly proportional to x². When x = 3, y = 36. Find y when x = 5.",
+    "options": [
+     "60",
+     "180",
+     "100",
+     "300"
+    ],
+    "answer": 2,
+    "explanation": "y = kx², k = 36 ÷ 9 = 4. When x = 5, y = 4 × 25 = 100.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "y is directly proportional to √x. When x = 9, y = 6. Find y when x = 25.",
+    "options": [
+     "15",
+     "12",
+     "16.7",
+     "10"
+    ],
+    "answer": 3,
+    "explanation": "y = k√x with k = 6 ÷ 3 = 2. When x = 25, y = 2 × 5 = 10.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "y is inversely proportional to x². When x = 3, y = 4. Find y when x = 6.",
+    "options": [
+     "1",
+     "2",
+     "8",
+     "16"
+    ],
+    "answer": 0,
+    "explanation": "y = k/x², k = 4 × 9 = 36. Then y = 36 ÷ 36 = 1. Doubling x divides y by 4.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Six workers paint a hall in 10 days. Assuming all work at the same rate, how many days would 15 workers take?",
+    "options": [
+     "25 days",
+     "4 days",
+     "6 days",
+     "10 days"
+    ],
+    "answer": 1,
+    "explanation": "Workers × days is constant (inverse proportion): 6 × 10 = 60, so 60 ÷ 15 = 4 days.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The pressure p of a gas is inversely proportional to its volume V (temperature fixed). At V = 3 litres, p = 200 kPa. Find p when V = 1.5 litres.",
+    "options": [
+     "100 kPa",
+     "300 kPa",
+     "400 kPa",
+     "600 kPa"
+    ],
+    "answer": 2,
+    "explanation": "pV = 600, so p = 600 ÷ 1.5 = 400 kPa. Halving the volume doubles the pressure.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The power P from a wind turbine is directly proportional to v³, where v is wind speed. P = 2 MW when v = 8 m/s. Find P when v = 12 m/s.",
+    "options": [
+     "3 MW",
+     "4.5 MW",
+     "13.5 MW",
+     "6.75 MW"
+    ],
+    "answer": 3,
+    "explanation": "P = kv³ so P₂ = 2 × (12/8)³ = 2 × 3.375 = 6.75 MW. Scaling by 12/8 only would give 3 MW.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "y is directly proportional to x². If x increases by 10%, what is the percentage increase in y?",
+    "options": [
+     "21%",
+     "10%",
+     "20%",
+     "1.21%"
+    ],
+    "answer": 0,
+    "explanation": "New y = k(1.1x)² = 1.21kx², an increase of 21%.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which table shows y inversely proportional to x? Table A: x = 1, 2, 4, 8 and y = 24, 12, 6, 3. Table B: x = 1, 2, 4, 8 and y = 24, 22, 20, 18. Table C: x = 1, 2, 4, 8 and y = 2, 4, 8, 16.",
+    "options": [
+     "Table B",
+     "Table A",
+     "Table C",
+     "None of them is"
+    ],
+    "answer": 1,
+    "explanation": "In Table A, x × y = 24 every time. In Table C, y ÷ x is constant, so it is direct proportion. Table B has a constant difference, not a constant product.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "z is directly proportional to x² and inversely proportional to y. z = 12 when x = 2 and y = 3. Find z when x = 4 and y = 6.",
+    "options": [
+     "8",
+     "12",
+     "24",
+     "48"
+    ],
+    "answer": 2,
+    "explanation": "z = kx²/y. Then 12 = k × 4 ÷ 3, so k = 9. When x = 4 and y = 6: z = 9 × 16 ÷ 6 = 24.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Braking distance d is directly proportional to v². A car travelling at 30 km/h stops in 14 m. Find the stopping distance at 72 km/h.",
+    "options": [
+     "33.6 m",
+     "201.6 m",
+     "14 m",
+     "80.6 m"
+    ],
+    "answer": 3,
+    "explanation": "d = kv², k = 14 ÷ 900. d = 14 × 72² ÷ 30² = 14 × 5.76 = 80.64 m. Scaling by the speed ratio 2.4 alone gives 33.6 m.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The force between two magnets is inversely proportional to d², where d is distance. If d is multiplied by 3, what happens to the force?",
+    "options": [
+     "It becomes 1/9 of the original",
+     "It becomes 1/3 of the original",
+     "It is multiplied by 9",
+     "It is multiplied by 3"
+    ],
+    "answer": 0,
+    "explanation": "F = k/d², so F becomes k/(3d)² = k/(9d²), which is one ninth.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "y is inversely proportional to √x. y = 3 when x = 16. Find x when y = 12.",
+    "options": [
+     "4",
+     "1",
+     "64",
+     "256"
+    ],
+    "answer": 1,
+    "explanation": "y = k/√x so k = 3 × 4 = 12. Then 12 = 12/√x gives √x = 1, so x = 1.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A taxi company claims fare F is directly proportional to distance d. A 5 km trip costs $12 and a 10 km trip costs $20. Is the claim supported?",
+    "options": [
+     "Yes, because the fare increases with distance",
+     "Yes, because 20 is bigger than 12",
+     "No, because F ÷ d is not constant (2.4 and 2)",
+     "No, because the fare halves when distance doubles"
+    ],
+    "answer": 2,
+    "explanation": "Direct proportion needs F ÷ d to be the same each time. 12 ÷ 5 = 2.4 but 20 ÷ 10 = 2, so the model (perhaps a fixed charge plus a rate) does not fit direct proportion.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Proportion describes how two quantities change together. It is the basis of recipes, scale models, speed calculations and many science laws.\n\n## Direct proportion\ny is directly proportional to x when y = kx. The constant k is the constant of proportionality. If x doubles, y doubles. Its graph is a straight line through the origin. Example: if y = 12 when x = 3, k = 4, so y = 20 when x = 5. A table is directly proportional when y ÷ x is always the same.\n\n## Inverse proportion\ny is inversely proportional to x when y = k/x, so xy = k. If x doubles, y halves. The graph is a curve that never touches the axes. Example: 6 workers take 10 days, so workers × days = 60. With 15 workers: 60 ÷ 15 = 4 days.\n\n## Other relationships\nProportion can involve powers and roots.\n- y ∝ x²: y = kx². If x doubles, y becomes four times as large.\n- y ∝ √x: y = k√x.\n- y ∝ 1/x²: y = k/x². If x doubles, y becomes a quarter.\n- Combined: z ∝ x² and z ∝ 1/y gives z = kx²/y.\nTo solve any proportion problem:\n- Step 1: write the relationship as an equation with k.\n- Step 2: substitute the given pair of values to find k.\n- Step 3: rewrite the equation with k and use it for the new value.\n\n## Worked example\nThe power from a wind turbine is directly proportional to the cube of the wind speed. At 8 m/s it produces 2 MW. Find the power at 12 m/s.\nP = kv³, so 2 = k × 512 and k = 1/256. Then P = 1728 ÷ 256 = 6.75 MW. A quick check: the wind speed is multiplied by 1.5 and 1.5³ = 3.375, so the power is 2 × 3.375 = 6.75 MW.\n\n## Percentage change with powers\nIf y ∝ x² and x rises by 10%, y is multiplied by 1.1² = 1.21, a 21% rise. Always use multipliers, not simply the same percentage.\n\n## Common mistakes\n- Choosing direct proportion when the quantities move in opposite directions.\n- Scaling by the ratio of x values and forgetting the power (for y ∝ x², multiply by the ratio squared).\n- Assuming a relationship is proportional because both quantities increase. A taxi fare with a fixed starting charge is not directly proportional.\n\n## How this is examined\nContexts include braking distances, pressure and volume, workers and time, or power and speed. You are asked to find k, state the equation, predict a value and then evaluate the model: is the assumption of proportion realistic, and what limits it? Use the command terms carefully. 'Show that' needs a ratio check, and 'justify' needs a stated reason.\n\nExam tip: always find k first and write the full equation before substituting the new value.",
+  "flashcards": [
+   {
+    "front": "Direct proportion",
+    "back": "y = kx. y ÷ x is constant. The graph is a straight line through the origin."
+   },
+   {
+    "front": "Inverse proportion",
+    "back": "y = k/x, so xy = k. When x doubles, y halves."
+   },
+   {
+    "front": "First step in a proportion problem",
+    "back": "Write the equation with k, then substitute the known pair of values to find k."
+   },
+   {
+    "front": "y is directly proportional to x²: what happens if x doubles?",
+    "back": "y = kx², so y becomes 4 times as large."
+   },
+   {
+    "front": "y is inversely proportional to x²: what if x is trebled?",
+    "back": "y = k/x², so y becomes one ninth of its original value."
+   },
+   {
+    "front": "How do you test a table for direct proportion?",
+    "back": "Check that y ÷ x gives the same value for every pair."
+   },
+   {
+    "front": "How do you test a table for inverse proportion?",
+    "back": "Check that x × y gives the same value for every pair."
+   },
+   {
+    "front": "If y ∝ x² and x increases by 10%, what happens to y?",
+    "back": "It is multiplied by 1.1² = 1.21, a 21% increase."
+   },
+   {
+    "front": "Why might a real-world proportion model fail?",
+    "back": "There may be a fixed charge, a limit on values, or other variables, such as a taxi fare with a starting fee."
+   }
+  ]
+ }
+]

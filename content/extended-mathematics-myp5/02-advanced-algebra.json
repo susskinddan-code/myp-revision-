@@ -1,0 +1,1054 @@
+[
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Advanced Algebra",
+  "subTopic": "Algebraic Fractions",
+  "questions": [
+   {
+    "content": "Simplify (4x + 8)/4.",
+    "options": [
+     "x + 8",
+     "x + 2",
+     "x + 4",
+     "4x + 2"
+    ],
+    "answer": 1,
+    "explanation": "Divide every term of the numerator by 4: 4x/4 = x and 8/4 = 2. Cancelling the 4s only in one term gives the wrong answer x + 8.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Simplify 6x/(9x²).",
+    "options": [
+     "2x/3",
+     "2/3",
+     "2/(3x)",
+     "3x/2"
+    ],
+    "answer": 2,
+    "explanation": "Divide top and bottom by 3x: 6x ÷ 3x = 2 and 9x² ÷ 3x = 3x.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the lowest common denominator of 1/x and 1/(x + 1)?",
+    "options": [
+     "x + 1",
+     "x",
+     "2x + 1",
+     "x(x + 1)"
+    ],
+    "answer": 3,
+    "explanation": "Each denominator must divide the common denominator, so use the product x(x + 1).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Write 3/x + 2/x as a single fraction.",
+    "options": [
+     "5/x",
+     "5/2x",
+     "6/x²",
+     "5/x²"
+    ],
+    "answer": 0,
+    "explanation": "The denominators are equal, so add the numerators: 3 + 2 = 5 over x.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Simplify (x/3) × (6/x²).",
+    "options": [
+     "2x",
+     "2/x",
+     "18/x",
+     "6/x"
+    ],
+    "answer": 1,
+    "explanation": "Multiply across: 6x/(3x²). Divide top and bottom by 3x to get 2/x.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Simplify (x² − 9)/(x² + 5x + 6).",
+    "options": [
+     "(x − 3)/(x + 3)",
+     "(x + 3)/(x + 2)",
+     "(x − 3)/(x + 2)",
+     "−3/(5x + 6)"
+    ],
+    "answer": 2,
+    "explanation": "Factorise: (x − 3)(x + 3) over (x + 2)(x + 3). Cancel the common factor (x + 3). You cannot cancel individual terms such as x² on the top and bottom.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Write 1/(x + 1) + 2/(x − 2) as a single fraction.",
+    "options": [
+     "3/((x + 1)(x − 2))",
+     "3/(2x − 1)",
+     "(3x − 2)/((x + 1)(x − 2))",
+     "3x/((x + 1)(x − 2))"
+    ],
+    "answer": 3,
+    "explanation": "Common denominator (x + 1)(x − 2). Numerator: (x − 2) + 2(x + 1) = 3x.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Simplify (x² − 4)/x ÷ (x + 2)/x².",
+    "options": [
+     "x(x − 2)",
+     "(x − 2)/x",
+     "x(x + 2)",
+     "x² − 2"
+    ],
+    "answer": 0,
+    "explanation": "Dividing means multiplying by the reciprocal: (x − 2)(x + 2)/x × x²/(x + 2). Cancel (x + 2) and one x to leave x(x − 2).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Write 3/(x − 1) − 2/(x + 2) as a single fraction.",
+    "options": [
+     "(x − 4)/((x − 1)(x + 2))",
+     "(x + 8)/((x − 1)(x + 2))",
+     "(x + 4)/((x − 1)(x + 2))",
+     "1/(x + 3)"
+    ],
+    "answer": 1,
+    "explanation": "Numerator: 3(x + 2) − 2(x − 1) = 3x + 6 − 2x + 2 = x + 8. Subtracting the bracket −2(x − 1) changes both signs.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve 6/x = 3/(x − 2).",
+    "options": [
+     "x = −4",
+     "x = 2",
+     "x = 4",
+     "x = 1"
+    ],
+    "answer": 2,
+    "explanation": "Cross-multiply: 6(x − 2) = 3x, so 6x − 12 = 3x, 3x = 12, x = 4.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A cyclist rides 12 km at x km/h and then 12 km at (x + 4) km/h. Which expression gives the total time in hours?",
+    "options": [
+     "24/(2x + 4)",
+     "24/(x(x + 4))",
+     "12(2x + 4)/(x + 4)",
+     "24(x + 2)/(x(x + 4))"
+    ],
+    "answer": 3,
+    "explanation": "Time = 12/x + 12/(x + 4) = 12(x + 4) + 12x over x(x + 4) = (24x + 48)/(x(x + 4)) = 24(x + 2)/(x(x + 4)).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Simplify (x² − x − 6)/(x² − 9).",
+    "options": [
+     "(x + 2)/(x + 3)",
+     "(x − 2)/(x − 3)",
+     "(x + 2)/(x − 3)",
+     "(x − 6)/(−9)"
+    ],
+    "answer": 0,
+    "explanation": "Factorise: (x − 3)(x + 2) over (x − 3)(x + 3). Cancel (x − 3).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve 2/(x − 1) = x.",
+    "options": [
+     "x = −2 or x = 1",
+     "x = 2 or x = −1",
+     "x = 2 only",
+     "x = 1 or x = 2"
+    ],
+    "answer": 1,
+    "explanation": "Multiply both sides by (x − 1): 2 = x² − x, so x² − x − 2 = 0, which gives (x − 2)(x + 1) = 0. Both values keep the denominator non-zero.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Write 1/(x − 2) − 1/(x + 2) as a single fraction.",
+    "options": [
+     "−4/(x² − 4)",
+     "0",
+     "4/(x² − 4)",
+     "2/(x² − 4)"
+    ],
+    "answer": 2,
+    "explanation": "Numerator: (x + 2) − (x − 2) = 4. Denominator: (x − 2)(x + 2) = x² − 4.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Solve 3/(x + 1) + 2/(x − 1) = 2.",
+    "options": [
+     "x = (−5 ± √33)/4",
+     "x = (5 ± √17)/4",
+     "x = (5 ± √33)/2",
+     "x = (5 ± √33)/4"
+    ],
+    "answer": 3,
+    "explanation": "Multiply by (x + 1)(x − 1): 3(x − 1) + 2(x + 1) = 2(x² − 1), giving 2x² − 5x − 1 = 0. The quadratic formula gives (5 ± √33)/4.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Simplify (2x² − 8)/(x² − x − 2) ÷ (x + 2)/(x + 1).",
+    "options": [
+     "2",
+     "2x",
+     "(x − 2)",
+     "2(x + 1)"
+    ],
+    "answer": 0,
+    "explanation": "Factorise: 2(x − 2)(x + 2)/((x − 2)(x + 1)) × (x + 1)/(x + 2). Every factor cancels, leaving 2.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A train covers 180 km. Increasing its speed by 20 km/h would cut the journey time by 1.5 hours. What is its original speed v?",
+    "options": [
+     "60 km/h",
+     "40 km/h",
+     "30 km/h",
+     "20 km/h"
+    ],
+    "answer": 1,
+    "explanation": "180/v − 180/(v + 20) = 1.5 gives v² + 20v − 2400 = 0, so (v + 60)(v − 40) = 0. Speed is positive, so v = 40. Check: 4.5 h − 3 h = 1.5 h.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Using 1/n − 1/(n + 1) = 1/(n(n + 1)), find the value of 1/(1×2) + 1/(2×3) + 1/(3×4) + ... + 1/(9×10).",
+    "options": [
+     "1/10",
+     "10/9",
+     "9/10",
+     "9/11"
+    ],
+    "answer": 2,
+    "explanation": "Each term splits into 1/n − 1/(n + 1), so the middle terms cancel. The sum is 1 − 1/10 = 9/10.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "An algebraic fraction has algebra in the numerator, the denominator or both. You handle them with exactly the same rules as numerical fractions, but factorising becomes the key skill.\n\n## Simplifying\nFactorise the top and the bottom completely, then cancel common **factors**, never common terms.\n- (x² − 9)/(x² + 5x + 6) = (x − 3)(x + 3)/((x + 2)(x + 3)) = (x − 3)/(x + 2)\n- You can cancel the bracket (x + 3) because it multiplies everything above and below.\n- You cannot cancel the x² on the top with the x² on the bottom, because they are part of a sum.\n\n## Multiplying and dividing\nTo multiply, factorise first, cancel, then multiply across. To divide, flip the second fraction and multiply.\n(x² − 4)/x ÷ (x + 2)/x² = (x − 2)(x + 2)/x × x²/(x + 2) = x(x − 2).\n\n## Adding and subtracting\nFind a common denominator, usually the product of the two denominators unless they share a factor.\n1/(x + 1) + 2/(x − 2) = (x − 2)/((x + 1)(x − 2)) + 2(x + 1)/((x + 1)(x − 2)) = 3x/((x + 1)(x − 2)).\nWhen subtracting, put brackets round the second numerator so that the minus sign is applied to every term: 3/(x − 1) − 2/(x + 2) gives 3(x + 2) − 2(x − 1) = x + 8 on top.\n\n## Solving equations with fractions\nMultiply every term by the common denominator to clear the fractions, then solve the resulting linear or quadratic equation.\n- 6/x = 3/(x − 2) becomes 6(x − 2) = 3x, so x = 4.\n- Always check that no solution makes a denominator zero. If x = 1 appeared for 2/(x − 1), it would have to be rejected.\n\n## Worked example\nA cyclist rides 12 km at x km/h and then 12 km at (x + 4) km/h. Show that the total time is 24(x + 2)/(x(x + 4)).\nTime = 12/x + 12/(x + 4) = (12(x + 4) + 12x)/(x(x + 4)) = (24x + 48)/(x(x + 4)) = 24(x + 2)/(x(x + 4)).\n\n## Common mistakes\n- Cancelling terms instead of factors.\n- Forgetting to multiply the numerator when changing to a common denominator.\n- Sign errors when subtracting a fraction with a bracket.\n- Not checking solutions in the original equation.\n\n## How this is examined\nAlgebraic fractions are set in contexts about speed, time and work rate. You are asked to form an expression, 'show that' it simplifies to a given form, then solve an equation to find a speed or a time. You must justify why one solution is rejected (a negative speed is impossible) and interpret the answer in the context.\n\nExam tip: in a 'show that' question write every line of the working, because the answer is already given and you only earn marks for the method.",
+  "flashcards": [
+   {
+    "front": "How do you simplify an algebraic fraction?",
+    "back": "Factorise top and bottom fully, then cancel common factors. Never cancel individual terms."
+   },
+   {
+    "front": "Can you cancel x² in (x² + 3)/(x² + 5)?",
+    "back": "No. x² is a term in a sum, not a factor. Only factors multiplying everything can be cancelled."
+   },
+   {
+    "front": "How do you divide algebraic fractions?",
+    "back": "Flip the second fraction and multiply. Factorise first so factors cancel."
+   },
+   {
+    "front": "Common denominator of 1/(x + 1) and 2/(x − 2)",
+    "back": "(x + 1)(x − 2). Multiply each numerator by the bracket missing from its denominator."
+   },
+   {
+    "front": "Check when subtracting fractions",
+    "back": "Put brackets round the second numerator so the minus sign applies to every term."
+   },
+   {
+    "front": "Factorise x² − 9",
+    "back": "(x − 3)(x + 3), a difference of two squares."
+   },
+   {
+    "front": "How do you solve an equation with algebraic fractions?",
+    "back": "Multiply every term by the common denominator to clear fractions, then solve. Check the answers do not make a denominator zero."
+   },
+   {
+    "front": "Why must some solutions be rejected?",
+    "back": "A solution that makes a denominator zero is undefined. In context, negative speeds or lengths are also impossible."
+   },
+   {
+    "front": "Telescoping idea",
+    "back": "1/(n(n + 1)) = 1/n − 1/(n + 1), so a sum of such terms collapses because middle terms cancel."
+   }
+  ]
+ },
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Advanced Algebra",
+  "subTopic": "Expanding and Factorising Harder Expressions",
+  "questions": [
+   {
+    "content": "Expand and simplify (x + 3)(x + 5).",
+    "options": [
+     "x² + 15",
+     "x² + 8x + 15",
+     "x² + 8x + 8",
+     "x² + 15x + 8"
+    ],
+    "answer": 1,
+    "explanation": "Multiply each term: x² + 5x + 3x + 15 = x² + 8x + 15.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Factorise x² + 7x + 12.",
+    "options": [
+     "(x + 2)(x + 6)",
+     "(x + 1)(x + 12)",
+     "(x + 3)(x + 4)",
+     "(x − 3)(x − 4)"
+    ],
+    "answer": 2,
+    "explanation": "Find two numbers with product 12 and sum 7: 3 and 4.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Factorise x² − 25.",
+    "options": [
+     "(x − 5)²",
+     "(x + 5)²",
+     "(x − 25)(x + 1)",
+     "(x − 5)(x + 5)"
+    ],
+    "answer": 3,
+    "explanation": "This is a difference of two squares: a² − b² = (a − b)(a + b).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Factorise fully 6x² + 9x.",
+    "options": [
+     "3x(2x + 3)",
+     "3(2x² + 3x)",
+     "x(6x + 9)",
+     "3x(2x + 9)"
+    ],
+    "answer": 0,
+    "explanation": "The highest common factor of 6x² and 9x is 3x. Taking out only 3 or only x does not factorise fully.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Expand (x − 4)².",
+    "options": [
+     "x² − 16",
+     "x² − 8x + 16",
+     "x² + 16",
+     "x² − 4x + 16"
+    ],
+    "answer": 1,
+    "explanation": "(x − 4)(x − 4) = x² − 4x − 4x + 16. The middle term is −8x; squaring is not done term by term.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Factorise 2x² + 7x + 3.",
+    "options": [
+     "(2x + 3)(x + 1)",
+     "(2x − 1)(x − 3)",
+     "(2x + 1)(x + 3)",
+     "(x + 1)(x + 6)"
+    ],
+    "answer": 2,
+    "explanation": "Check by expanding: (2x + 1)(x + 3) = 2x² + 6x + x + 3 = 2x² + 7x + 3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Factorise 3x² − 10x + 8.",
+    "options": [
+     "(3x − 2)(x − 4)",
+     "(3x + 4)(x + 2)",
+     "(3x − 8)(x − 1)",
+     "(3x − 4)(x − 2)"
+    ],
+    "answer": 3,
+    "explanation": "Check the middle term: −6x − 4x = −10x and (−4)(−2) = +8.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Expand and simplify (2x − 3)(x² + 4x − 1).",
+    "options": [
+     "2x³ + 5x² − 14x + 3",
+     "2x³ + 8x² − 3",
+     "2x³ + 11x² − 14x + 3",
+     "2x³ + 5x² + 10x + 3"
+    ],
+    "answer": 0,
+    "explanation": "2x(x² + 4x − 1) = 2x³ + 8x² − 2x and −3(x² + 4x − 1) = −3x² − 12x + 3. Add like terms: 2x³ + 5x² − 14x + 3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Factorise 9x² − 16.",
+    "options": [
+     "(9x − 16)(x + 1)",
+     "(3x − 4)(3x + 4)",
+     "(3x − 4)²",
+     "(3x − 16)(3x + 1)"
+    ],
+    "answer": 1,
+    "explanation": "9x² = (3x)² and 16 = 4², so it is a difference of two squares.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Factorise fully 2x³ − 8x.",
+    "options": [
+     "2x(x² − 4)",
+     "2(x³ − 4x)",
+     "2x(x − 2)(x + 2)",
+     "2x(x − 2)²"
+    ],
+    "answer": 2,
+    "explanation": "Take out 2x to get 2x(x² − 4), then factorise the difference of two squares. The first expression is not fully factorised.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Factorise x² + 3x + xy + 3y by grouping.",
+    "options": [
+     "(x + 3)(x − y)",
+     "x(x + 3y)",
+     "(x + y)(3 + y)",
+     "(x + 3)(x + y)"
+    ],
+    "answer": 3,
+    "explanation": "x(x + 3) + y(x + 3) = (x + 3)(x + y).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Expand and simplify (x + 2)(x − 3)(x + 1).",
+    "options": [
+     "x³ − 7x − 6",
+     "x³ + 6",
+     "x³ − 7x + 6",
+     "x³ + 2x² − 6"
+    ],
+    "answer": 0,
+    "explanation": "(x + 2)(x − 3) = x² − x − 6. Then (x² − x − 6)(x + 1) = x³ + x² − x² − x − 6x − 6 = x³ − 7x − 6.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A photo measures (x + 4) cm by (x + 2) cm. A frame adds 1 cm on every side. Which expression gives the area of the frame alone?",
+    "options": [
+     "4x + 8",
+     "4x + 16",
+     "x² + 10x + 24",
+     "2x + 12"
+    ],
+    "answer": 1,
+    "explanation": "Outer area (x + 6)(x + 4) minus photo area (x + 4)(x + 2) = (x + 4)(4) = 4x + 16.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Factorise 6x² − x − 12.",
+    "options": [
+     "(3x − 4)(2x + 3)",
+     "(6x + 4)(x − 3)",
+     "(3x + 4)(2x − 3)",
+     "(3x + 3)(2x − 4)"
+    ],
+    "answer": 2,
+    "explanation": "Split the middle term: 6x² − 9x + 8x − 12 = 3x(2x − 3) + 4(2x − 3) = (3x + 4)(2x − 3).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Factorise fully x⁴ − 16.",
+    "options": [
+     "(x² − 4)(x² + 4)",
+     "(x − 2)²(x + 2)²",
+     "(x − 4)(x + 4)(x² + 1)",
+     "(x² + 4)(x − 2)(x + 2)"
+    ],
+    "answer": 3,
+    "explanation": "x⁴ − 16 = (x² − 4)(x² + 4), and x² − 4 factorises again. x² + 4 cannot be factorised.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Simplify (n + 2)² − n² and decide what it shows about the difference of squares of two numbers 2 apart.",
+    "options": [
+     "4n + 4, always a multiple of 4",
+     "4, always equal to 4",
+     "2n + 4, always even only",
+     "4n² + 4, always a multiple of 4"
+    ],
+    "answer": 0,
+    "explanation": "(n² + 4n + 4) − n² = 4n + 4 = 4(n + 1). The n² terms cancel, so the result is a multiple of 4.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Simplify (2n + 1)² − (2n − 1)². What does it show?",
+    "options": [
+     "4, so the difference is always 4",
+     "8n, so the difference between squares of consecutive odd numbers is a multiple of 8",
+     "8n², so it is always a square",
+     "4n, so it is a multiple of 4 only"
+    ],
+    "answer": 1,
+    "explanation": "(4n² + 4n + 1) − (4n² − 4n + 1) = 8n. For example 5² − 3² = 16 = 8 × 2.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Factorise fully 12x³ − 27x.",
+    "options": [
+     "3x(4x² − 9)",
+     "3(4x³ − 9x)",
+     "3x(2x − 3)(2x + 3)",
+     "3x(2x − 3)²"
+    ],
+    "answer": 2,
+    "explanation": "Take out 3x: 3x(4x² − 9). Then 4x² − 9 = (2x − 3)(2x + 3). The first alternative stops one step early.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "In Extended Mathematics you expand and factorise expressions that go beyond simple brackets. These skills sit underneath equations, graphs, algebraic fractions and proofs.\n\n## Expanding\nMultiply every term in the first bracket by every term in the second.\n- (x + 3)(x + 5) = x² + 5x + 3x + 15 = x² + 8x + 15\n- (x − 4)² = x² − 8x + 16. Remember the middle term: (a − b)² = a² − 2ab + b².\n- (2x − 3)(x² + 4x − 1) = 2x³ + 8x² − 2x − 3x² − 12x + 3 = 2x³ + 5x² − 14x + 3\nFor three brackets, expand two first, simplify, then multiply by the third.\n\n## Factorising\nAlways look for a **common factor** first. Then choose the method.\n- **Quadratics x² + bx + c:** find two numbers with product c and sum b. x² + 7x + 12 = (x + 3)(x + 4).\n- **Quadratics ax² + bx + c** with a ≠ 1: multiply a × c, find two numbers with that product that sum to b, split the middle term and group. For 6x² − x − 12 the product is −72, and 8 and −9 add to −1. So 6x² − 9x + 8x − 12 = 3x(2x − 3) + 4(2x − 3) = (3x + 4)(2x − 3).\n- **Difference of two squares:** a² − b² = (a − b)(a + b). 9x² − 16 = (3x − 4)(3x + 4).\n- **Grouping:** x² + 3x + xy + 3y = x(x + 3) + y(x + 3) = (x + 3)(x + y).\nFactorise **fully**: 2x³ − 8x = 2x(x² − 4) = 2x(x − 2)(x + 2). Keep going until nothing more can be factored. Check by expanding.\n\n## Proof with algebra\nAlgebra lets you prove a pattern is always true. For (n + 2)² − n² you expand to get 4n + 4 = 4(n + 1), so the difference of the squares of two numbers 2 apart is always a multiple of 4. For consecutive odd numbers, (2n + 1)² − (2n − 1)² = 8n.\n\n## Worked example\nA photo measures (x + 4) cm by (x + 2) cm. A frame adds 1 cm all round. Area of frame = (x + 6)(x + 4) − (x + 4)(x + 2) = (x + 4)(4) = 4x + 16 cm². Factorising out (x + 4) saved a lot of expanding.\n\n## Common mistakes\n- Writing (x − 4)² = x² − 16.\n- Stopping at 2x(x² − 4) when more factorising is possible.\n- Sign errors when splitting the middle term.\n- Not checking by expanding.\n\n## How this is examined\nQuestions often start with a geometric context (an area of a border, a volume of a box) and ask you to form an expression, expand and simplify it, then factorise to solve or to show a result. Investigation tasks give a number pattern and ask you to prove the rule algebraically.\n\nExam tip: after factorising, expand your brackets quickly in the margin. If you get the original expression back, you can be sure the factorising is correct.",
+  "flashcards": [
+   {
+    "front": "Expand (a − b)²",
+    "back": "a² − 2ab + b². Do not forget the middle term."
+   },
+   {
+    "front": "Difference of two squares",
+    "back": "a² − b² = (a − b)(a + b). Example: 9x² − 16 = (3x − 4)(3x + 4)."
+   },
+   {
+    "front": "First step when factorising",
+    "back": "Take out any common factor, for example 2x³ − 8x = 2x(x² − 4)."
+   },
+   {
+    "front": "Factorising x² + bx + c",
+    "back": "Find two numbers with product c and sum b. Example: x² + 7x + 12 = (x + 3)(x + 4)."
+   },
+   {
+    "front": "Factorising ax² + bx + c (a ≠ 1)",
+    "back": "Find two numbers that multiply to ac and add to b, split the middle term, then factorise by grouping."
+   },
+   {
+    "front": "What does 'factorise fully' mean?",
+    "back": "Keep factorising until no bracket can be broken down further. 2x(x² − 4) is not fully factorised."
+   },
+   {
+    "front": "Factorising by grouping",
+    "back": "Group pairs of terms with common factors: x(x + 3) + y(x + 3) = (x + 3)(x + y)."
+   },
+   {
+    "front": "How do you expand three brackets?",
+    "back": "Expand two of them, simplify, then multiply the result by the third bracket."
+   },
+   {
+    "front": "How do you check a factorisation?",
+    "back": "Expand your brackets. You should get the original expression back."
+   }
+  ]
+ },
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Advanced Algebra",
+  "subTopic": "Changing the Subject of a Formula",
+  "questions": [
+   {
+    "content": "Make x the subject of y = x + 5.",
+    "options": [
+     "x = y + 5",
+     "x = y − 5",
+     "x = 5 − y",
+     "x = 5y"
+    ],
+    "answer": 1,
+    "explanation": "Subtract 5 from both sides to undo the addition.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Make x the subject of y = 3x.",
+    "options": [
+     "x = 3y",
+     "x = y − 3",
+     "x = y/3",
+     "x = 3/y"
+    ],
+    "answer": 2,
+    "explanation": "Divide both sides by 3 to undo the multiplication.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Make a the subject of v = u + at.",
+    "options": [
+     "a = v − u − t",
+     "a = vt − u",
+     "a = (v + u)/t",
+     "a = (v − u)/t"
+    ],
+    "answer": 3,
+    "explanation": "Subtract u: v − u = at. Then divide both sides by t.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Make r the subject of A = πr² (r > 0).",
+    "options": [
+     "r = √(A/π)",
+     "r = A/π²",
+     "r = √A − π",
+     "r = A/(2π)"
+    ],
+    "answer": 0,
+    "explanation": "Divide by π to get r² = A/π, then take the square root.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The perimeter of a rectangle is P = 2l + 2w. Make l the subject.",
+    "options": [
+     "l = P − 2w",
+     "l = (P − 2w)/2",
+     "l = P/2 − w/2",
+     "l = (P − w)/2"
+    ],
+    "answer": 1,
+    "explanation": "Subtract 2w, then divide the whole expression by 2. (P − 2w)/2 is the same as P/2 − w.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Make x the subject of y = 3x − 7.",
+    "options": [
+     "x = (y − 7)/3",
+     "x = y/3 + 7",
+     "x = (y + 7)/3",
+     "x = 3y + 7"
+    ],
+    "answer": 2,
+    "explanation": "Add 7, then divide everything by 3. The 7 must be divided by 3 as well.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "s = ut + ½at². Make a the subject.",
+    "options": [
+     "a = (s − ut)/(2t²)",
+     "a = 2s − ut/t²",
+     "a = 2(s + ut)/t²",
+     "a = 2(s − ut)/t²"
+    ],
+    "answer": 3,
+    "explanation": "Subtract ut: s − ut = ½at². Multiply by 2 and divide by t².",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The volume of a sphere is V = (4/3)πr³. Make r the subject.",
+    "options": [
+     "r = ∛(3V/(4π))",
+     "r = ∛(4V/(3π))",
+     "r = 3V/(4π)",
+     "r = √(3V/(4π))"
+    ],
+    "answer": 0,
+    "explanation": "Multiply by 3 and divide by 4π to isolate r³, then take the cube root, not the square root.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Make x the subject of y = (x + 2)/(x − 1).",
+    "options": [
+     "x = (y − 2)/(y + 1)",
+     "x = (y + 2)/(y − 1)",
+     "x = y + 2",
+     "x = (y + 2)/(y + 1)"
+    ],
+    "answer": 1,
+    "explanation": "y(x − 1) = x + 2, so xy − y = x + 2. Collect x terms: x(y − 1) = y + 2.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The period of a pendulum is T = 2π√(l/g). Make l the subject.",
+    "options": [
+     "l = gT/(2π)",
+     "l = gT²/(2π)",
+     "l = gT²/(4π²)",
+     "l = 4π²/(gT²)"
+    ],
+    "answer": 2,
+    "explanation": "Divide by 2π, square both sides to get T²/(4π²) = l/g, then multiply by g.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A ladder of length a reaches a height b up a wall, with its foot c from the wall, so a = √(b² + c²). Make c the subject (c > 0).",
+    "options": [
+     "c = a − b",
+     "c = √(a² + b²)",
+     "c = a² − b²",
+     "c = √(a² − b²)"
+    ],
+    "answer": 3,
+    "explanation": "Square both sides: a² = b² + c². Then subtract b² and take the square root.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Make x the subject of ax + b = cx + d.",
+    "options": [
+     "x = (d − b)/(a − c)",
+     "x = (d + b)/(a + c)",
+     "x = (b − d)/(a − c)",
+     "x = d − b/(a − c)"
+    ],
+    "answer": 0,
+    "explanation": "Collect x terms on one side: ax − cx = d − b. Factorise x(a − c) = d − b, then divide.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The kinetic energy of a cyclist is E = ½mv². Make v the subject (v > 0).",
+    "options": [
+     "v = 2E/m",
+     "v = √(2E/m)",
+     "v = √(E/2m)",
+     "v = √(2Em)"
+    ],
+    "answer": 1,
+    "explanation": "Multiply by 2, divide by m to get v² = 2E/m, then take the square root.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Make x the subject of y = (3x + 2)/(x − 4).",
+    "options": [
+     "x = (4y − 2)/(y + 3)",
+     "x = (4y + 2)/(y + 3)",
+     "x = (4y + 2)/(y − 3)",
+     "x = (4y + 2)/(3 − y)"
+    ],
+    "answer": 2,
+    "explanation": "y(x − 4) = 3x + 2, so xy − 4y = 3x + 2. Then x(y − 3) = 4y + 2.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A lens satisfies 1/f = 1/u + 1/v. Make v the subject.",
+    "options": [
+     "v = f − u",
+     "v = uf/(f − u)",
+     "v = (u − f)/uf",
+     "v = uf/(u − f)"
+    ],
+    "answer": 3,
+    "explanation": "1/v = 1/f − 1/u = (u − f)/(uf). Take the reciprocal of both sides.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Make x the subject of y = √((x + 1)/(x − 2)).",
+    "options": [
+     "x = (2y² + 1)/(y² − 1)",
+     "x = (2y + 1)/(y − 1)",
+     "x = (y² + 1)/(2y² − 1)",
+     "x = (2y² − 1)/(y² + 1)"
+    ],
+    "answer": 0,
+    "explanation": "Square both sides: y² = (x + 1)/(x − 2). Then y²x − 2y² = x + 1, so x(y² − 1) = 2y² + 1.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Compound interest gives A = P(1 + r/100)ⁿ. Which expression makes r the subject?",
+    "options": [
+     "r = 100(A/P)ⁿ − 1",
+     "r = 100(ⁿ√(A/P) − 1)",
+     "r = ⁿ√(A/P) − 100",
+     "r = 100(A − P)/n"
+    ],
+    "answer": 1,
+    "explanation": "Divide by P, take the nth root: 1 + r/100 = ⁿ√(A/P). Subtract 1 and multiply by 100.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Make x the subject of a(x + b) = c(x − d).",
+    "options": [
+     "x = (ab + cd)/(a − c)",
+     "x = (cd − ab)/(a − c)",
+     "x = (ab + cd)/(c − a)",
+     "x = (c − d)/(a + b)"
+    ],
+    "answer": 2,
+    "explanation": "Expand: ax + ab = cx − cd. Then ax − cx = −cd − ab, so x(a − c) = −(ab + cd) and x = (ab + cd)/(c − a).",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "A formula is a rule linking variables, such as A = πr² or v = u + at. Changing the subject means rearranging the formula so a different letter stands alone on one side. This is useful when you know the value of one variable and want to find another.\n\n## The golden rule\nWhatever you do to one side of the equation, do to the other. Work in the **reverse order** to the way the formula was built, undoing the operations one by one.\n\n## Simple formulae\n- y = 3x − 7: add 7, then divide by 3, giving x = (y + 7)/3.\n- v = u + at: subtract u, then divide by t, giving a = (v − u)/t.\n- A = πr²: divide by π, then take the square root, giving r = √(A/π). Use the cube root for r³.\n\n## When the letter appears twice\nIf the subject letter is in two places, you must collect all the terms containing it on one side, factorise, then divide.\nMake x the subject of y = (x + 2)/(x − 1):\n- Multiply by the denominator: y(x − 1) = x + 2\n- Expand: xy − y = x + 2\n- Collect x terms on one side: xy − x = y + 2\n- Factorise: x(y − 1) = y + 2\n- Divide: x = (y + 2)/(y − 1)\n\n## Formulae with powers and roots\n- To remove a square root, square both sides. To remove a square, take the square root.\n- For T = 2π√(l/g): divide by 2π, square both sides to get T²/4π² = l/g, then multiply by g. So l = gT²/(4π²).\n- Reciprocals: for 1/f = 1/u + 1/v, find 1/v = (u − f)/(uf) first, then turn it upside down: v = uf/(u − f).\n\n## Worked example\nA pendulum has period T = 2π√(l/g). A clock builder needs T = 2 s with g = 9.8 m/s². Rearranging gives l = gT²/(4π²) = 9.8 × 4 ÷ 39.48 = 0.993 m, about 1 m. Rearranging first lets you substitute the numbers once and reduces the chance of an error.\n\n## Common mistakes\n- Only dividing part of an expression (x = y + 7/3 instead of (y + 7)/3).\n- Square rooting the individual terms instead of the whole side.\n- Failing to factorise when the subject appears twice.\n- Dropping the ± when a square root is taken and both signs make sense. Check the context to decide.\n\n## How this is examined\nFormulae come from science and engineering contexts: kinetic energy, the pendulum, compound interest and lens equations. You are asked to rearrange, substitute values and interpret the result. A 'show that' question might give the rearranged formula and ask you to derive it. Marks are awarded for showing each step.\n\nExam tip: after rearranging, test your answer with simple numbers. If the original formula gives y = 5 when x = 2, your new formula should return x = 2 when y = 5.",
+  "flashcards": [
+   {
+    "front": "Golden rule of rearranging",
+    "back": "Do the same thing to both sides, and undo operations in reverse order."
+   },
+   {
+    "front": "Make x the subject: y = 3x − 7",
+    "back": "x = (y + 7)/3. Add 7, then divide the whole of y + 7 by 3."
+   },
+   {
+    "front": "Undoing a square",
+    "back": "Take the square root of the whole side. For r³ take the cube root."
+   },
+   {
+    "front": "Subject appears twice",
+    "back": "Collect the terms containing it on one side, factorise out the letter, then divide."
+   },
+   {
+    "front": "Make a the subject: s = ut + ½at²",
+    "back": "a = 2(s − ut)/t². Subtract ut, multiply by 2, divide by t²."
+   },
+   {
+    "front": "Make v the subject: 1/f = 1/u + 1/v",
+    "back": "1/v = (u − f)/(uf), so v = uf/(u − f)."
+   },
+   {
+    "front": "Make l the subject: T = 2π√(l/g)",
+    "back": "l = gT²/(4π²). Divide by 2π, square both sides, multiply by g."
+   },
+   {
+    "front": "Make r the subject: V = (4/3)πr³",
+    "back": "r = ∛(3V/(4π)). Rearrange for r³ first, then take the cube root."
+   },
+   {
+    "front": "How can you check a rearranged formula?",
+    "back": "Substitute simple numbers into the original, then check the new formula gives the original input back."
+   }
+  ]
+ },
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Advanced Algebra",
+  "subTopic": "Inequalities and Systems of Equations",
+  "questions": [
+   {
+    "content": "Solve 2x + 3 < 11.",
+    "options": [
+     "x > 4",
+     "x < 4",
+     "x < 7",
+     "x < 8"
+    ],
+    "answer": 1,
+    "explanation": "Subtract 3: 2x < 8. Divide by 2: x < 4.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Solve −3x ≥ 12.",
+    "options": [
+     "x ≥ −4",
+     "x ≥ 4",
+     "x ≤ −4",
+     "x ≤ 4"
+    ],
+    "answer": 2,
+    "explanation": "Dividing by a negative number reverses the inequality: x ≤ −4.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Solve the simultaneous equations x + y = 10 and x − y = 2.",
+    "options": [
+     "x = 4, y = 6",
+     "x = 8, y = 2",
+     "x = 5, y = 5",
+     "x = 6, y = 4"
+    ],
+    "answer": 3,
+    "explanation": "Add the equations: 2x = 12, x = 6. Then y = 10 − 6 = 4.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which list gives all the integers x with −2 ≤ x < 3?",
+    "options": [
+     "−2, −1, 0, 1, 2",
+     "−1, 0, 1, 2",
+     "−2, −1, 0, 1, 2, 3",
+     "−2, −1, 0, 1"
+    ],
+    "answer": 0,
+    "explanation": "−2 is included (≤), 3 is not included (<).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Solve 3x ≤ 5x − 6.",
+    "options": [
+     "x ≤ 3",
+     "x ≥ 3",
+     "x ≥ −3",
+     "x ≤ −3"
+    ],
+    "answer": 1,
+    "explanation": "Subtract 5x: −2x ≤ −6. Divide by −2 and reverse the sign: x ≥ 3.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Solve 2x + y = 11 and x − y = 1.",
+    "options": [
+     "x = 3, y = 4",
+     "x = 5, y = 1",
+     "x = 4, y = 3",
+     "x = 4, y = 7"
+    ],
+    "answer": 2,
+    "explanation": "Add the equations: 3x = 12, x = 4. Then y = 4 − 1 = 3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve 3x + 2y = 12 and 4x − y = 5.",
+    "options": [
+     "x = 3, y = 1.5",
+     "x = 2, y = 2",
+     "x = 1, y = 4.5",
+     "x = 2, y = 3"
+    ],
+    "answer": 3,
+    "explanation": "From the second, y = 4x − 5. Substitute: 3x + 8x − 10 = 12, so x = 2 and y = 3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve x² − x − 6 > 0.",
+    "options": [
+     "x < −2 or x > 3",
+     "−2 < x < 3",
+     "x > 3 only",
+     "x < −3 or x > 2"
+    ],
+    "answer": 0,
+    "explanation": "x² − x − 6 = (x − 3)(x + 2). The graph is a U-shape, which is above the axis outside the roots −2 and 3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve 3(x − 2) ≥ 2x + 1.",
+    "options": [
+     "x ≥ 5",
+     "x ≥ 7",
+     "x ≤ 7",
+     "x ≥ −7"
+    ],
+    "answer": 1,
+    "explanation": "3x − 6 ≥ 2x + 1, so x ≥ 7.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Plan A costs $10 plus $0.05 per minute. Plan B costs $4 plus $0.11 per minute. For how many minutes m is plan A cheaper?",
+    "options": [
+     "m < 100",
+     "m > 50",
+     "m > 100",
+     "m > 233"
+    ],
+    "answer": 2,
+    "explanation": "10 + 0.05m < 4 + 0.11m gives 6 < 0.06m, so m > 100. At exactly 100 minutes both cost $15.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve 5 − 2x > 11.",
+    "options": [
+     "x > −3",
+     "x < 3",
+     "x > 3",
+     "x < −3"
+    ],
+    "answer": 3,
+    "explanation": "Subtract 5: −2x > 6. Divide by −2 and reverse the sign: x < −3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve x² ≤ 9.",
+    "options": [
+     "−3 ≤ x ≤ 3",
+     "x ≤ 3",
+     "x ≤ −3 or x ≥ 3",
+     "0 ≤ x ≤ 3"
+    ],
+    "answer": 0,
+    "explanation": "x² ≤ 9 means x is at most 3 away from zero in either direction, so −3 ≤ x ≤ 3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve 2x + 3y = 7 and 3x − 2y = 4.",
+    "options": [
+     "x = 1, y = 2",
+     "x = 2, y = 1",
+     "x = 2, y = 2",
+     "x = 3, y = 0.5"
+    ],
+    "answer": 1,
+    "explanation": "Multiply the first by 2 and the second by 3 to match the y terms: 4x + 6y = 14 and 9x − 6y = 12. Add: 13x = 26, x = 2, y = 1.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve x² − 5x + 6 ≤ 0.",
+    "options": [
+     "x ≤ 2 or x ≥ 3",
+     "x ≤ 3",
+     "2 ≤ x ≤ 3",
+     "−3 ≤ x ≤ −2"
+    ],
+    "answer": 2,
+    "explanation": "(x − 2)(x − 3) ≤ 0. The U-shaped graph is on or below the axis between its roots.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A theatre sold 85 tickets for $820. Adult tickets cost $12 and child tickets cost $7. How many adult tickets were sold?",
+    "options": [
+     "40",
+     "35",
+     "50",
+     "45"
+    ],
+    "answer": 3,
+    "explanation": "a + c = 85 and 12a + 7c = 820. Substitute c = 85 − a: 5a + 595 = 820, so a = 45 and c = 40.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Solve 2x² − 3x − 2 > 0.",
+    "options": [
+     "x < −1/2 or x > 2",
+     "−1/2 < x < 2",
+     "x < −2 or x > 1/2",
+     "x > 2"
+    ],
+    "answer": 0,
+    "explanation": "2x² − 3x − 2 = (2x + 1)(x − 2) with roots −1/2 and 2. The graph is above the axis outside the roots.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "How many integers satisfy both 2x − 1 > 5 and x + 4 ≤ 11?",
+    "options": [
+     "3",
+     "4",
+     "5",
+     "7"
+    ],
+    "answer": 1,
+    "explanation": "2x − 1 > 5 gives x > 3, and x + 4 ≤ 11 gives x ≤ 7. The integers are 4, 5, 6 and 7.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Solve 4 < 3x − 2 ≤ 13.",
+    "options": [
+     "6 < x ≤ 15",
+     "2 ≤ x < 5",
+     "2 < x ≤ 5",
+     "4 < x ≤ 13"
+    ],
+    "answer": 2,
+    "explanation": "Add 2 to every part: 6 < 3x ≤ 15. Divide every part by 3: 2 < x ≤ 5.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "An inequality compares two expressions using <, >, ≤ or ≥ instead of =. Instead of one answer, the solution is usually a range of values. Simultaneous equations ask you to find values that satisfy two equations at once.\n\n## Solving linear inequalities\nSolve in the same way as an equation, with one important exception: **when you multiply or divide by a negative number, reverse the inequality sign**.\n- 2x + 3 < 11 gives x < 4.\n- −3x ≥ 12 gives x ≤ −4.\nDouble inequalities are solved by doing the same step to every part: 4 < 3x − 2 ≤ 13 gives 6 < 3x ≤ 15, so 2 < x ≤ 5.\nOn a number line, an open circle shows < or > and a filled circle shows ≤ or ≥.\n\n## Quadratic inequalities\nFactorise, find the roots, sketch the U-shaped graph and read off the region.\n- x² − x − 6 > 0 factorises to (x − 3)(x + 2) > 0. The curve is above the axis outside the roots: x < −2 or x > 3.\n- x² − 5x + 6 ≤ 0 gives (x − 2)(x − 3) ≤ 0. The curve is below the axis between the roots: 2 ≤ x ≤ 3.\n\n## Simultaneous equations\n**Elimination:** make the coefficients of one letter equal, then add or subtract. For 2x + 3y = 7 and 3x − 2y = 4, multiply the first by 2 and the second by 3, giving 4x + 6y = 14 and 9x − 6y = 12. Adding gives 13x = 26, so x = 2 and y = 1.\n**Substitution:** rearrange one equation to make a letter the subject, then substitute into the other. Use this when one equation is already of the form y = ... .\nAlways check your answer in both equations.\n\n## Forming equations from a context\nA theatre sells 85 tickets for $820. Adults pay $12, children pay $7. Let a and c be the numbers of adults and children: a + c = 85 and 12a + 7c = 820. Substituting c = 85 − a gives 5a + 595 = 820, so a = 45 and c = 40.\n\n## Worked example\nPlan A costs $10 plus $0.05 per minute. Plan B costs $4 plus $0.11 per minute. When is plan A cheaper? 10 + 0.05m < 4 + 0.11m, so 6 < 0.06m and m > 100. Plan A is cheaper for more than 100 minutes. The assumption is that the rates stay the same, so a model should state this limitation.\n\n## Common mistakes\n- Forgetting to reverse the sign when dividing by a negative.\n- Giving only one region for a quadratic inequality that has two.\n- Making an arithmetic slip when subtracting equations with negative terms.\n- Forgetting to check the second equation.\n\n## How this is examined\nTypical tasks compare two pricing plans, ticket sales or mixtures. You form two equations from the context, solve them, then interpret the answer and state which option is better and why. Command words such as 'determine' and 'justify' require a clear conclusion in context with units.\n\nExam tip: write the final answer as a sentence that answers the original question, such as 'Plan A is cheaper for more than 100 minutes'.",
+  "flashcards": [
+   {
+    "front": "Key rule for solving inequalities",
+    "back": "Reverse the inequality sign when multiplying or dividing by a negative number."
+   },
+   {
+    "front": "Open and filled circles on a number line",
+    "back": "Open circle for < or > (value not included). Filled circle for ≤ or ≥ (value included)."
+   },
+   {
+    "front": "Solve a double inequality",
+    "back": "Do the same step to all three parts. Example: 4 < 3x − 2 ≤ 13 gives 2 < x ≤ 5."
+   },
+   {
+    "front": "Solve x² − x − 6 > 0",
+    "back": "Factorise to (x − 3)(x + 2) > 0. Sketch the curve: x < −2 or x > 3."
+   },
+   {
+    "front": "Solve a quadratic inequality of the form ≤ 0",
+    "back": "The U-shaped curve is below the axis between its roots, so the answer is a single interval."
+   },
+   {
+    "front": "Elimination method",
+    "back": "Make the coefficients of one letter equal, then add or subtract the equations to remove that letter."
+   },
+   {
+    "front": "Substitution method",
+    "back": "Make one letter the subject of one equation, then substitute into the other equation."
+   },
+   {
+    "front": "How do you check simultaneous equation answers?",
+    "back": "Substitute both values into both original equations."
+   },
+   {
+    "front": "How do you form equations from a word problem?",
+    "back": "Define letters for the unknowns, then write one equation for each piece of information, such as total count and total cost."
+   }
+  ]
+ }
+]

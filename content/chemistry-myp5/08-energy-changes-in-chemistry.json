@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "chemistry",
+  "grade": 5,
+  "topic": "Energy Changes in Chemistry",
+  "subTopic": "Exothermic and Endothermic Reactions",
+  "questions": [
+   {
+    "content": "Which statement correctly describes an exothermic reaction?",
+    "options": [
+     "It transfers energy to the surroundings, so the surroundings get warmer",
+     "It takes in energy from the surroundings, so the surroundings get colder",
+     "It creates new energy that did not exist before",
+     "It has no energy change because the products weigh the same as the reactants"
+    ],
+    "answer": 0,
+    "explanation": "In an exothermic reaction, energy is transferred from the chemical store to the surroundings, so the temperature of the surroundings rises. Energy is never created.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which process is endothermic?",
+    "options": [
+     "Burning methane in a Bunsen burner",
+     "Neutralising hydrochloric acid with sodium hydroxide",
+     "Respiration in muscle cells",
+     "Thermal decomposition of calcium carbonate"
+    ],
+    "answer": 3,
+    "explanation": "Heating calcium carbonate to make calcium oxide and carbon dioxide needs a continuous supply of heat energy. Combustion, neutralisation and respiration all release energy.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A student mixes two solutions in a cup. The thermometer reading rises from 21 °C to 33 °C. What type of reaction is this?",
+    "options": [
+     "Endothermic",
+     "Neither, because a temperature rise only shows a physical change",
+     "Exothermic",
+     "Endothermic, because the temperature increased"
+    ],
+    "answer": 2,
+    "explanation": "A rise in the temperature of the mixture means energy has been released to the surroundings, so the reaction is exothermic.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the sign of the enthalpy change (ΔH) for an exothermic reaction?",
+    "options": [
+     "Positive",
+     "Negative",
+     "Zero",
+     "It can be either sign depending on the speed of the reaction"
+    ],
+    "answer": 1,
+    "explanation": "ΔH is measured from the point of view of the chemicals. Energy leaves the chemicals in an exothermic reaction, so ΔH is negative.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is an everyday use of an exothermic reaction?",
+    "options": [
+     "A hand warmer in which iron reacts with oxygen",
+     "An instant cold pack using ammonium nitrate dissolving in water",
+     "Photosynthesis in leaves",
+     "Cooking an egg"
+    ],
+    "answer": 0,
+    "explanation": "The iron in a hand warmer reacts with oxygen and releases heat. The cold pack and photosynthesis take in energy, and cooking an egg needs heat from outside.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A student dissolves 5.0 g of a solid in 50 cm³ of water. The temperature changes from 24.0 °C to 19.5 °C. What is the temperature change and what does it show?",
+    "options": [
+     "+4.5 °C, so dissolving is exothermic",
+     "−4.5 °C, so dissolving is exothermic",
+     "+4.5 °C, so dissolving is endothermic",
+     "−4.5 °C, so dissolving is endothermic"
+    ],
+    "answer": 3,
+    "explanation": "Final minus start is 19.5 − 24.0 = −4.5 °C. The water got colder, so energy was taken in from the surroundings, which is endothermic.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement about bonds is correct for any chemical reaction?",
+    "options": [
+     "Energy is released when bonds break and absorbed when bonds form",
+     "Energy is absorbed both when bonds break and when bonds form",
+     "Energy is absorbed to break bonds in the reactants and released when new bonds form in the products",
+     "Energy is only involved when bonds break"
+    ],
+    "answer": 2,
+    "explanation": "Breaking bonds is endothermic and making bonds is exothermic. A common mistake is to think that breaking a bond releases energy.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A reaction is exothermic overall. What does this mean in terms of bonds?",
+    "options": [
+     "More energy is absorbed breaking old bonds than is released making new bonds",
+     "More energy is released making new bonds than is absorbed breaking old bonds",
+     "The same number of bonds are broken as are made",
+     "No bonds are broken, only new ones are made"
+    ],
+    "answer": 1,
+    "explanation": "The overall energy change is the difference between energy in (bond breaking) and energy out (bond making). Exothermic means energy out is bigger.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An instant cold pack for a sports injury is squeezed so that ammonium nitrate dissolves in water. What happens and why is it useful?",
+    "options": [
+     "The pack gets colder because the process takes in energy, which cools the injury",
+     "The pack gets hotter because the process releases energy, which reduces swelling",
+     "The pack stays at the same temperature but changes colour",
+     "The pack gets colder because energy is destroyed"
+    ],
+    "answer": 0,
+    "explanation": "Dissolving ammonium nitrate is endothermic. It takes thermal energy from the water and the injury, so the pack feels cold.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which observation is the best evidence that a reaction is endothermic?",
+    "options": [
+     "The mixture bubbles",
+     "A solid forms",
+     "The mixture changes colour",
+     "The temperature of the reaction mixture falls"
+    ],
+    "answer": 3,
+    "explanation": "Bubbles, precipitates and colour changes show a chemical change but not the direction of the energy transfer. Only a temperature fall shows energy is being taken in.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student adds the same mass of four metals to separate 50 cm³ samples of acid. The temperature rises are: magnesium 18 °C, zinc 6 °C, iron 3 °C, copper 0 °C. What must be kept the same to make this a fair comparison?",
+    "options": [
+     "Only the type of metal",
+     "Only the final temperature",
+     "Acid concentration, acid volume, starting temperature and the metal's mass and form (powder or strip)",
+     "Nothing, because the metals are different"
+    ],
+    "answer": 2,
+    "explanation": "The independent variable is the metal. All other variables, such as concentration, volume, starting temperature and surface area, must be controlled so the temperature rise is caused by the metal alone.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Methane burning is exothermic, yet a gas lighter must be used to start a Bunsen burner. Why?",
+    "options": [
+     "The reaction is actually endothermic at first",
+     "Activation energy must be supplied so that the first bonds can break",
+     "Methane only reacts when it is cold",
+     "The lighter creates new energy for the reaction"
+    ],
+    "answer": 1,
+    "explanation": "All reactions need a minimum energy, the activation energy, to start. Once the reaction is going, the energy it releases keeps it going.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A hand warmer releases 25 kJ of energy when it contains 10 g of reactant mixture. Assuming the same mixture, how much energy would a 40 g warmer release?",
+    "options": [
+     "100 kJ",
+     "35 kJ",
+     "250 kJ",
+     "10 kJ"
+    ],
+    "answer": 0,
+    "explanation": "Energy released is proportional to the mass of reactants, so 40 g is four times 10 g and 4 × 25 = 100 kJ.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Three reactions start at 25 °C. Reaction A reaches 38 °C. Reaction B falls to 14 °C. Reaction C stays at 25 °C. Which conclusion is best supported?",
+    "options": [
+     "A and B are both exothermic because the temperature changed",
+     "C must have no energy change at all",
+     "B is exothermic because the temperature fell",
+     "A is exothermic and B is endothermic, but C shows no detectable temperature change in this set-up"
+    ],
+    "answer": 3,
+    "explanation": "A rise indicates exothermic and a fall indicates endothermic. No temperature change does not prove zero energy transfer, because a small change could be lost or be too small to measure.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student says: 'The temperature rose, so the reaction created energy.' Which response is scientifically correct?",
+    "options": [
+     "The student is right because exothermic reactions create energy",
+     "The student is wrong because temperature cannot rise in a reaction",
+     "Energy was transferred from the chemical store of the reactants to the thermal store of the surroundings, so total energy is conserved",
+     "The student is right because the products contain more energy than the reactants"
+    ],
+    "answer": 2,
+    "explanation": "Energy cannot be created or destroyed. In an exothermic reaction the products have less chemical energy than the reactants, and the difference appears as thermal energy.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A thermometer can be read to ±0.5 °C. A student records a start temperature of 20.0 °C and a final temperature of 28.0 °C. What is the maximum percentage uncertainty in the temperature rise?",
+    "options": [
+     "6.25%",
+     "12.5%",
+     "25%",
+     "1.0%"
+    ],
+    "answer": 1,
+    "explanation": "Each reading has an uncertainty of ±0.5 °C, so the difference has up to ±1.0 °C. 1.0 ÷ 8.0 × 100 = 12.5%.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "In a reaction, the bonds in the reactants need 2000 kJ to break and 2350 kJ is released when the bonds in the products form. What is the overall energy change?",
+    "options": [
+     "350 kJ is released, so the reaction is exothermic",
+     "350 kJ is absorbed, so the reaction is endothermic",
+     "4350 kJ is released",
+     "2000 kJ is released"
+    ],
+    "answer": 0,
+    "explanation": "Net change = energy in − energy out = 2000 − 2350 = −350 kJ. The negative sign means energy is released.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student measures the energy released by a reaction using a metal can and a polystyrene cup with a lid in two separate trials. The polystyrene cup gives a larger, more accurate temperature rise. Why?",
+    "options": [
+     "Polystyrene reacts with the solution and releases extra energy",
+     "Metal produces energy when it is heated",
+     "Polystyrene has a higher boiling point than water",
+     "Polystyrene is a good insulator, so less energy is lost to the surroundings"
+    ],
+    "answer": 3,
+    "explanation": "Heat loss makes the measured temperature rise smaller than the real one. An insulated, lidded cup reduces loss, so the result is closer to the true value.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Chemical reactions do not just change substances. They also transfer energy, and being able to describe where that energy goes is a core MYP 5 skill.\n\n## Exothermic reactions\nAn **exothermic** reaction transfers energy from the chemicals to the surroundings. The surroundings get warmer, so a thermometer in the mixture shows a temperature rise. Examples are burning fuels, respiration, neutralisation and the rusting of iron. Exothermic reactions are used in hand warmers and self-heating food cans.\n\n## Endothermic reactions\nAn **endothermic** reaction takes in energy from the surroundings. The mixture gets colder. Examples are thermal decomposition, photosynthesis, and dissolving ammonium nitrate in water. Instant cold packs use this effect.\n\n## Key ideas to remember\n- Energy is always conserved. In an exothermic reaction, energy moves from the chemical store to the thermal store of the surroundings. It is not created.\n- The enthalpy change **ΔH** is negative for exothermic reactions and positive for endothermic reactions.\n- Every reaction needs a minimum amount of energy to get going, called the **activation energy**. A spark or flame supplies it for fuels. After that, an exothermic reaction can keep itself going.\n- The reverse of an exothermic reaction is endothermic, with the same size of energy change but the opposite sign.\n\n## Bonds and energy\nChemical reactions involve breaking old bonds and making new bonds.\n- **Breaking bonds takes in energy** (endothermic).\n- **Making bonds releases energy** (exothermic).\nIf more energy is released making the new bonds than is taken in breaking the old ones, the reaction is exothermic overall. If it is the other way round, the reaction is endothermic overall.\n\n## Worked example\nA student mixes 25 cm³ of acid with 25 cm³ of alkali. The start temperature is 21.0 °C and the highest temperature is 27.5 °C.\nTemperature change = 27.5 − 21.0 = +6.5 °C. The temperature rose, so the reaction is exothermic.\n\n## Making measurements reliable\nIn school investigations we measure the temperature change in a polystyrene cup with a lid. Polystyrene is an insulator, so less energy escapes. Keep the volumes, concentrations and starting temperatures the same if you compare different reactions. A thermometer has an uncertainty, so a small temperature change gives a large percentage uncertainty. For example, if each reading is ±0.5 °C, the temperature change has an uncertainty of ±1.0 °C, which is 12.5% of an 8.0 °C change.\n\n## Common mistakes\n- Saying that breaking bonds releases energy. It takes it in.\n- Saying that exothermic means 'hot' and endothermic means 'cold'. It is about the direction of energy transfer.\n- Saying that energy is created or used up. It is transferred.\n- Concluding from 'no temperature change' that there is no energy change. The change may be too small to measure.\n\n## How this is examined\nQuestions usually give a real-world context, such as a hand warmer, a cold pack or a self-heating can, with temperature data. You are asked to state whether the reaction is exothermic or endothermic, calculate the temperature change, explain your answer using ideas about bonds, and then evaluate the method. Longer tasks ask you to identify variables to control, comment on uncertainty and heat loss, and suggest improvements.\n\nExam tip: Always say what the temperature did and link it to the direction of energy transfer, for example 'the temperature fell, so energy was taken in from the surroundings, so it is endothermic'.",
+  "flashcards": [
+   {
+    "front": "Exothermic reaction",
+    "back": "A reaction that transfers energy to the surroundings. The temperature of the surroundings rises and ΔH is negative."
+   },
+   {
+    "front": "Endothermic reaction",
+    "back": "A reaction that takes in energy from the surroundings. The temperature of the surroundings falls and ΔH is positive."
+   },
+   {
+    "front": "Give two examples of exothermic reactions",
+    "back": "Combustion (burning fuels), respiration, neutralisation, rusting of iron."
+   },
+   {
+    "front": "Give two examples of endothermic reactions",
+    "back": "Photosynthesis, thermal decomposition of calcium carbonate, dissolving ammonium nitrate in water."
+   },
+   {
+    "front": "Activation energy",
+    "back": "The minimum energy that colliding particles need for a reaction to take place."
+   },
+   {
+    "front": "Bond breaking and bond making: which is endothermic?",
+    "back": "Breaking bonds takes in energy (endothermic). Making bonds releases energy (exothermic)."
+   },
+   {
+    "front": "When is a reaction exothermic in terms of bonds?",
+    "back": "When the energy released making new bonds is greater than the energy absorbed breaking old bonds."
+   },
+   {
+    "front": "Why use a polystyrene cup with a lid in a calorimetry experiment?",
+    "back": "Polystyrene is an insulator and the lid reduces evaporation, so less energy is lost and the temperature change is more accurate."
+   },
+   {
+    "front": "What does ΔH represent?",
+    "back": "The enthalpy change: the overall energy change of a reaction, negative if energy is released and positive if energy is absorbed."
+   }
+  ]
+ },
+ {
+  "subject": "chemistry",
+  "grade": 5,
+  "topic": "Energy Changes in Chemistry",
+  "subTopic": "Energy Level Diagrams and Bond Energy",
+  "questions": [
+   {
+    "content": "On an energy level diagram for an exothermic reaction, where are the products?",
+    "options": [
+     "Higher than the reactants",
+     "Lower than the reactants",
+     "At the same level as the reactants",
+     "At the top of the activation energy peak"
+    ],
+    "answer": 1,
+    "explanation": "Energy is released to the surroundings, so the products have less chemical energy than the reactants and sit lower on the diagram.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the activation energy?",
+    "options": [
+     "The minimum energy that colliding particles must have to react",
+     "The total energy released by a reaction",
+     "The energy of the products",
+     "The energy needed to melt the reactants"
+    ],
+    "answer": 0,
+    "explanation": "The activation energy is the energy barrier at the top of the curve. Particles need at least this much energy for a collision to be successful.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which statement about bond energies is correct?",
+    "options": [
+     "Breaking a bond is exothermic and making it is endothermic",
+     "Breaking and making both release energy",
+     "Bond energy is measured in grams",
+     "Breaking a bond is endothermic and making the same bond is exothermic"
+    ],
+    "answer": 3,
+    "explanation": "The energy needed to break a bond equals the energy released when it forms. Breaking takes in energy and making releases it.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What unit is usually used for bond energy?",
+    "options": [
+     "g/mol",
+     "°C",
+     "kJ/mol",
+     "cm³"
+    ],
+    "answer": 2,
+    "explanation": "Bond energy is the energy per mole of bonds, in kilojoules per mole (kJ/mol).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "On an energy level diagram for an endothermic reaction, ΔH is shown as...",
+    "options": [
+     "A downward arrow from reactants to products, and ΔH is positive",
+     "An upward arrow from reactants to products, and ΔH is positive",
+     "An upward arrow and ΔH is negative",
+     "No arrow because ΔH is zero"
+    ],
+    "answer": 1,
+    "explanation": "In an endothermic reaction the products are at a higher energy than the reactants, so the arrow points up and ΔH is positive.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Use the bond energies H–H = 436 kJ/mol, Cl–Cl = 243 kJ/mol and H–Cl = 432 kJ/mol. What is ΔH for H₂ + Cl₂ → 2HCl?",
+    "options": [
+     "−185 kJ/mol",
+     "+185 kJ/mol",
+     "−864 kJ/mol",
+     "+679 kJ/mol"
+    ],
+    "answer": 0,
+    "explanation": "Bonds broken: 436 + 243 = 679 kJ. Bonds made: 2 × 432 = 864 kJ. ΔH = 679 − 864 = −185 kJ/mol, so the reaction is exothermic.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An energy level diagram shows reactants at 200 kJ, the top of the curve at 350 kJ and the products at 120 kJ. What are the activation energy and ΔH?",
+    "options": [
+     "Activation energy 350 kJ and ΔH = −80 kJ",
+     "Activation energy 150 kJ and ΔH = +80 kJ",
+     "Activation energy 230 kJ and ΔH = −230 kJ",
+     "Activation energy 150 kJ and ΔH = −80 kJ"
+    ],
+    "answer": 3,
+    "explanation": "Activation energy is peak minus reactants: 350 − 200 = 150 kJ. ΔH is products minus reactants: 120 − 200 = −80 kJ.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A catalyst is added to a reaction. What changes on its energy level diagram?",
+    "options": [
+     "The products move to a lower level",
+     "The reactants move to a higher level",
+     "The peak is lower, but the reactants and products stay at the same levels",
+     "The peak is higher"
+    ],
+    "answer": 2,
+    "explanation": "A catalyst provides an alternative pathway with a lower activation energy. It does not change the energy of the reactants or products, so ΔH is unchanged.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Bond energies: C–H = 413, O=O = 498, C=O = 805, O–H = 464 (all kJ/mol). What is ΔH for CH₄ + 2O₂ → CO₂ + 2H₂O?",
+    "options": [
+     "+818 kJ/mol",
+     "−818 kJ/mol",
+     "−3466 kJ/mol",
+     "−1370 kJ/mol"
+    ],
+    "answer": 1,
+    "explanation": "Bonds broken: 4 × 413 + 2 × 498 = 2648 kJ. Bonds made: 2 × 805 + 4 × 464 = 3466 kJ. ΔH = 2648 − 3466 = −818 kJ/mol.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Bond energies: N≡N = 945, H–H = 436, N–H = 391 (kJ/mol). What is ΔH for N₂ + 3H₂ → 2NH₃?",
+    "options": [
+     "−93 kJ/mol",
+     "+93 kJ/mol",
+     "−2346 kJ/mol",
+     "+2253 kJ/mol"
+    ],
+    "answer": 0,
+    "explanation": "Broken: 945 + 3 × 436 = 2253 kJ. Made: 6 × 391 = 2346 kJ (each NH₃ has three N–H bonds). ΔH = 2253 − 2346 = −93 kJ/mol.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A forward reaction has ΔH = −92 kJ/mol and an activation energy of 50 kJ/mol. What is the activation energy of the reverse reaction?",
+    "options": [
+     "42 kJ/mol",
+     "92 kJ/mol",
+     "−42 kJ/mol",
+     "142 kJ/mol"
+    ],
+    "answer": 3,
+    "explanation": "The reverse reaction starts from the products, which are 92 kJ lower, so it must climb 50 + 92 = 142 kJ to reach the peak.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A forward reaction has an activation energy of 120 kJ/mol and ΔH = +50 kJ/mol. What is the activation energy of the reverse reaction?",
+    "options": [
+     "170 kJ/mol",
+     "120 kJ/mol",
+     "70 kJ/mol",
+     "50 kJ/mol"
+    ],
+    "answer": 2,
+    "explanation": "The products are 50 kJ higher than the reactants, so the reverse reaction only has to climb 120 − 50 = 70 kJ to reach the peak.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why does a reaction with a large activation energy often not start at room temperature even if it is exothermic?",
+    "options": [
+     "The reaction is actually endothermic",
+     "Few particles have enough energy to react when they collide",
+     "Exothermic reactions cannot occur at room temperature",
+     "The bonds in the reactants are already broken"
+    ],
+    "answer": 1,
+    "explanation": "A large energy barrier means only a very small fraction of collisions are successful. Once started, the energy released can keep the reaction going.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student calculates ΔH for H₂ + Br₂ → 2HBr using H–H = 436, Br–Br = 193 and H–Br = 366 kJ/mol and gets +103 kJ/mol. What mistake was likely made?",
+    "options": [
+     "Bonds made were subtracted from bonds broken the wrong way round",
+     "The student forgot that bonds break",
+     "The student used the wrong units",
+     "The student correctly found an endothermic reaction"
+    ],
+    "answer": 0,
+    "explanation": "Broken: 436 + 193 = 629. Made: 2 × 366 = 732. Correct ΔH = 629 − 732 = −103 kJ/mol. The student reversed the subtraction.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Using ΔH values, which fuel releases more energy per gram? Hydrogen: 2H₂ + O₂ → 2H₂O has ΔH = −486 kJ per 2 mol H₂ (Mr of H₂ = 2). Methane: ΔH = −818 kJ per mol (Mr = 16).",
+    "options": [
+     "Methane, because its ΔH value per mole is larger",
+     "They release the same energy per gram",
+     "Hydrogen, about 243 kJ per gram",
+     "Hydrogen, about 120 kJ per gram compared with about 51 kJ per gram for methane"
+    ],
+    "answer": 3,
+    "explanation": "Per mole of H₂ the energy is 486 ÷ 2 = 243 kJ, and 243 ÷ 2 = about 120 kJ/g. For methane 818 ÷ 16 is about 51 kJ/g. Comparing per mole is not the same as comparing per gram.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student calculates ΔH for burning methane as −818 kJ/mol. A data source gives −802 kJ/mol. What is the percentage difference compared with the data value, and what is a likely reason?",
+    "options": [
+     "About 16%, because the student made an arithmetic mistake",
+     "About 2.0%, because methane does not contain C–H bonds",
+     "About 2.0%, because bond energies are averages taken over many different molecules",
+     "About 98%, because bond energies are exact"
+    ],
+    "answer": 2,
+    "explanation": "(818 − 802) ÷ 802 × 100 = about 2.0%. Bond energy values are averages, so calculated values are close to but not exactly the measured ones.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A catalyst lowers the activation energy of a forward reaction from 160 kJ/mol to 90 kJ/mol. ΔH is −40 kJ/mol. What is true for the reverse reaction?",
+    "options": [
+     "Its activation energy is unchanged",
+     "Its activation energy is lowered by the same 70 kJ/mol and ΔH becomes +40 kJ/mol",
+     "Its activation energy is raised by 70 kJ/mol",
+     "Its ΔH becomes +110 kJ/mol"
+    ],
+    "answer": 1,
+    "explanation": "A catalyst lowers the peak for both directions by the same amount. The reverse reaction goes from 200 to 130 kJ/mol, and ΔH for the reverse is the opposite sign of the forward value.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The reaction H₂ + Cl₂ → 2HCl has ΔH = −185 kJ/mol. H–H = 436 and Cl–Cl = 243 kJ/mol. What is the H–Cl bond energy?",
+    "options": [
+     "432 kJ/mol",
+     "864 kJ/mol",
+     "185 kJ/mol",
+     "679 kJ/mol"
+    ],
+    "answer": 0,
+    "explanation": "Broken = 436 + 243 = 679. ΔH = broken − made, so made = 679 + 185 = 864 kJ for two H–Cl bonds. One bond = 864 ÷ 2 = 432 kJ/mol.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "An energy level diagram shows how the energy of the chemicals changes during a reaction. Bond energies let you predict the size of that energy change by calculation. Both ideas explain why some reactions release energy and others absorb it.\n\n## Reading an energy level diagram\nThe vertical axis is energy. The reactants are on the left and the products are on the right, with a curve between them.\n- In an **exothermic** reaction, the products are lower than the reactants. **ΔH is negative.**\n- In an **endothermic** reaction, the products are higher than the reactants. **ΔH is positive.**\n- The **activation energy (Ea)** is the height from the reactants up to the top of the curve. It is the minimum energy colliding particles need to react.\n- A **catalyst** lowers the top of the curve (a lower activation energy) but the reactants and the products stay at the same levels, so ΔH does not change.\n\nExample: reactants 200 kJ, peak 350 kJ, products 120 kJ. Ea = 350 − 200 = 150 kJ. ΔH = 120 − 200 = −80 kJ (exothermic).\n\nFor the reverse reaction, Ea is measured from the products to the peak. Here it is 350 − 120 = 230 kJ, and ΔH = +80 kJ.\n\n## Bond energy\n**Bond energy** is the energy needed to break one mole of a particular bond, in kJ/mol. Making the same bond releases the same amount of energy.\n**ΔH = energy to break bonds − energy released making bonds**\n\n## Worked example\nFor H₂ + Cl₂ → 2HCl, use H–H = 436, Cl–Cl = 243 and H–Cl = 432 kJ/mol.\n- Bonds broken: 436 + 243 = 679 kJ\n- Bonds made: 2 × 432 = 864 kJ (two H–Cl bonds)\n- ΔH = 679 − 864 = −185 kJ/mol, so it is exothermic.\n\n## Method for any equation\n1. Draw out the molecules so that every bond is visible.\n2. Count and add up all the bonds broken in the reactants.\n3. Count and add up all the bonds made in the products.\n4. Subtract: broken minus made. Check that the sign matches your idea of exo or endothermic.\n\nFor methane burning, CH₄ + 2O₂ → CO₂ + 2H₂O: broken 4 C–H and 2 O=O, made 2 C=O and 4 O–H. This gives about −818 kJ/mol.\n\n## Limitations\nBond energies are **average** values taken from many compounds, so calculated results are close to, but not exactly the same as, experimental values. Calculations also assume all substances are gases.\n\n## Common mistakes\n- Subtracting the wrong way round. Remember: broken minus made.\n- Forgetting to multiply by the number of molecules in the balanced equation (for example 2 × H–Cl).\n- Miscounting bonds, such as missing that NH₃ has three N–H bonds.\n- Thinking that a catalyst changes ΔH. It only lowers Ea.\n- Measuring Ea from the wrong level for the reverse reaction.\n\n## How this is examined\nQuestions give a context, such as a fuel or a fertiliser process, and a set of bond energies in the stimulus. You will be asked to calculate ΔH, show that a reaction is exothermic, label or sketch an energy level diagram, explain the effect of a catalyst, and evaluate a calculation by comparing it with an experimental value and commenting on the accuracy.\n\nExam tip: Write 'bonds broken' and 'bonds made' as two separate totals before you subtract, so you can pick up method marks even if you slip on the arithmetic.",
+  "flashcards": [
+   {
+    "front": "Energy level diagram",
+    "back": "A graph that shows the energy of the reactants and the products, with the activation energy peak between them."
+   },
+   {
+    "front": "ΔH for an exothermic reaction on an energy level diagram",
+    "back": "Negative: the products are lower in energy than the reactants."
+   },
+   {
+    "front": "ΔH for an endothermic reaction on an energy level diagram",
+    "back": "Positive: the products are higher in energy than the reactants."
+   },
+   {
+    "front": "How is activation energy measured on a diagram?",
+    "back": "From the energy of the reactants up to the top of the curve."
+   },
+   {
+    "front": "Effect of a catalyst on an energy level diagram",
+    "back": "Lowers the activation energy (the peak). Reactants, products and ΔH stay the same."
+   },
+   {
+    "front": "Bond energy",
+    "back": "The energy needed to break one mole of a particular bond, in kJ/mol. The same amount is released when the bond forms."
+   },
+   {
+    "front": "Formula for ΔH using bond energies",
+    "back": "ΔH = energy of bonds broken − energy of bonds made."
+   },
+   {
+    "front": "Worked example: H₂ + Cl₂ → 2HCl",
+    "back": "H–H 436 + Cl–Cl 243 = 679 broken. 2 × H–Cl 432 = 864 made. ΔH = 679 − 864 = −185 kJ/mol."
+   },
+   {
+    "front": "Why do calculated and measured ΔH values differ?",
+    "back": "Bond energies are averages from many compounds, and the calculation assumes all substances are gases."
+   }
+  ]
+ },
+ {
+  "subject": "chemistry",
+  "grade": 5,
+  "topic": "Energy Changes in Chemistry",
+  "subTopic": "Fuels and Calorimetry",
+  "questions": [
+   {
+    "content": "What is a fuel?",
+    "options": [
+     "A substance that absorbs heat when it dissolves",
+     "Any substance that is a liquid at room temperature",
+     "A substance that releases useful energy, usually as heat, when it is burned",
+     "A substance that only stores energy and cannot release it"
+    ],
+    "answer": 2,
+    "explanation": "Fuels such as methane, petrol and hydrogen react with oxygen in exothermic combustion reactions to release useful thermal energy.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which equation is used to calculate the energy transferred to water in a calorimetry experiment?",
+    "options": [
+     "Q = m ÷ c × ΔT",
+     "Q = m × c × ΔT",
+     "Q = c ÷ (m × ΔT)",
+     "Q = m + c + ΔT"
+    ],
+    "answer": 1,
+    "explanation": "Energy (Q, in joules) = mass of water (g) × specific heat capacity (J/g°C) × temperature change (°C).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What value is used for the specific heat capacity of water in school calorimetry?",
+    "options": [
+     "4.18 J/g°C",
+     "1.00 J/g°C",
+     "418 J/g°C",
+     "0.418 J/g°C"
+    ],
+    "answer": 0,
+    "explanation": "Water needs 4.18 J to raise the temperature of 1 g by 1 °C.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the only product when hydrogen burns completely in oxygen?",
+    "options": [
+     "Carbon dioxide",
+     "Carbon monoxide",
+     "Hydrogen peroxide",
+     "Water"
+    ],
+    "answer": 3,
+    "explanation": "2H₂ + O₂ → 2H₂O. There is no carbon in hydrogen, so no carbon-containing products form.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a fossil fuel?",
+    "options": [
+     "Hydrogen",
+     "Wood from a managed forest",
+     "Natural gas",
+     "Ethanol made from sugar cane"
+    ],
+    "answer": 2,
+    "explanation": "Natural gas formed over millions of years from the remains of living things and is not replaced quickly.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A student heats 100 g of water from 20 °C to 45 °C. How much energy was transferred to the water? (c = 4.18 J/g°C)",
+    "options": [
+     "2090 J",
+     "10 450 J",
+     "1 045 J",
+     "450 J"
+    ],
+    "answer": 1,
+    "explanation": "Q = 100 × 4.18 × 25 = 10 450 J, which is 10.45 kJ.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student burns 0.50 g of ethanol, and it heats 200 g of water by 15.0 °C. How much energy was released per gram of ethanol? (c = 4.18 J/g°C)",
+    "options": [
+     "25.1 kJ/g",
+     "12.5 kJ/g",
+     "6.27 kJ/g",
+     "50.2 kJ/g"
+    ],
+    "answer": 0,
+    "explanation": "Q = 200 × 4.18 × 15.0 = 12 540 J = 12.54 kJ. For 0.50 g that is 12.54 ÷ 0.50 = 25.1 kJ/g (3 significant figures).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student burns 1.15 g of ethanol (Mr = 46), which is 0.025 mol. The fuel heats 200 g of water by 41 °C. What is the energy released per mole? (c = 4.18 J/g°C)",
+    "options": [
+     "About 34.3 kJ/mol",
+     "About 1.37 kJ/mol",
+     "About 5480 kJ/mol",
+     "About 1370 kJ/mol"
+    ],
+    "answer": 3,
+    "explanation": "Q = 200 × 4.18 × 41 = 34 276 J = 34.3 kJ. Per mole: 34.3 ÷ 0.025 = 1371 kJ/mol. A common error is forgetting to convert joules to kilojoules.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student's calorimetry result for a fuel is lower than the value in a data book. Which is a likely reason?",
+    "options": [
+     "The fuel released extra energy from the can",
+     "The water had a higher specific heat capacity than expected",
+     "Some energy was lost to the surroundings and the air, rather than heating the water",
+     "Too much of the fuel was measured"
+    ],
+    "answer": 2,
+    "explanation": "Heat loss to the surroundings, and incomplete combustion, mean less energy reaches the water, so the measured energy is lower than the real value.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which change would most improve the accuracy of a fuel calorimetry experiment?",
+    "options": [
+     "Using a larger mass of fuel without changing anything else",
+     "Adding a draught shield and insulation around the can",
+     "Using a bigger flame",
+     "Stirring less often"
+    ],
+    "answer": 1,
+    "explanation": "Insulation and shielding reduce energy lost to the air, so a higher proportion of the energy heats the water.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Three fuels release 50 kJ/g (fuel A), 44 kJ/g (fuel B) and 29 kJ/g (fuel C) when burned. What mass of fuel B is needed to release 2200 kJ?",
+    "options": [
+     "50 g",
+     "44 g",
+     "100 g",
+     "2.0 g"
+    ],
+    "answer": 0,
+    "explanation": "Mass = total energy ÷ energy per gram = 2200 ÷ 44 = 50 g.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the main safety and energy problem with incomplete combustion of a fuel?",
+    "options": [
+     "It produces only water and releases more energy",
+     "It produces no products",
+     "It makes the fuel endothermic",
+     "It produces toxic carbon monoxide and releases less energy"
+    ],
+    "answer": 3,
+    "explanation": "With limited oxygen, carbon-containing fuels form carbon monoxide or soot instead of carbon dioxide, which releases less energy and CO is toxic.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student compares fuels by heating water with each. Which variables should be controlled?",
+    "options": [
+     "The type of fuel",
+     "The final temperature",
+     "Volume of water, starting temperature, distance from flame to can and the type of can",
+     "Nothing needs to be controlled"
+    ],
+    "answer": 2,
+    "explanation": "The type of fuel is the independent variable. The other conditions must be the same, or differences in results might not be caused by the fuel.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "1.0 g of fuel X heats 150 g of water from 20.0 °C to 52.0 °C. The data book value for fuel X is 45 kJ/g. What percentage of the data book energy was transferred to the water? (c = 4.18 J/g°C)",
+    "options": [
+     "About 20.1%",
+     "About 44.6%",
+     "About 224%",
+     "About 55.4%"
+    ],
+    "answer": 1,
+    "explanation": "Q = 150 × 4.18 × 32.0 = 20 064 J = 20.06 kJ. 20.06 ÷ 45 × 100 = 44.6%. The rest was lost to the surroundings.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A car company claims hydrogen is better than petrol. Which statement gives the best evaluation?",
+    "options": [
+     "Hydrogen releases more energy per gram and only forms water on burning, but it is hard to store and may be made using fossil fuels",
+     "Hydrogen is better because it is a gas",
+     "Petrol is better because it is made from crude oil",
+     "Hydrogen has no disadvantages"
+    ],
+    "answer": 0,
+    "explanation": "A balanced evaluation uses evidence: energy per gram, emissions at the point of use, and drawbacks such as storage and how the hydrogen is produced.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student calculates the energy transferred to water as Q = 1.0 × 4.18 × 32 = 134 J, using the mass of the fuel (1.0 g) instead of the water (150 g). What is the error?",
+    "options": [
+     "c should be the specific heat of the fuel",
+     "ΔT should be the final temperature only",
+     "There is no error",
+     "m should be the mass of water being heated, not the mass of the fuel"
+    ],
+    "answer": 3,
+    "explanation": "Q = m c ΔT uses the mass of the substance that is being heated, which is the water. The fuel mass is used later to find energy per gram.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A company says that ethanol made from plants is 'carbon neutral' because plants absorb CO₂ as they grow. Which statement is the best evaluation of the claim?",
+    "options": [
+     "It is completely true, because CO₂ is not released when ethanol burns",
+     "It is false, because plants do not take in CO₂",
+     "It is partly true, but growing, harvesting, transporting and processing the crop also use energy, which often releases CO₂",
+     "It is true only for fossil fuels"
+    ],
+    "answer": 2,
+    "explanation": "The CO₂ released on burning was absorbed during growth, but the processes needed to produce the fuel add emissions, so 'net zero' needs evidence from the whole life cycle.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A water heater transfers 250 kJ to water that begins at 20 °C and must reach 70 °C. Assuming no energy loss, about what mass of water can be heated? (c = 4.18 J/g°C)",
+    "options": [
+     "About 12 g",
+     "About 1200 g",
+     "About 4800 g",
+     "About 60 g"
+    ],
+    "answer": 1,
+    "explanation": "m = Q ÷ (c × ΔT) = 250 000 ÷ (4.18 × 50) = 1196 g, about 1200 g (or 1.2 kg).",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Fuels are substances that release useful energy when they burn. Chemists compare fuels by measuring how much energy they transfer, using a technique called calorimetry.\n\n## What makes a good fuel?\nA good fuel releases a lot of energy per gram, is easy to store and transport, burns cleanly, and is safe and affordable. Common fuels are coal, oil, natural gas (fossil fuels), hydrogen, and biofuels such as ethanol. Fossil fuels formed over millions of years and are non-renewable. Burning carbon-containing fuels in plenty of oxygen produces carbon dioxide and water. In limited oxygen, **incomplete combustion** produces carbon monoxide (toxic) and soot, and releases less energy. Hydrogen produces only water when it burns.\n\n## Calorimetry\nIn a simple fuel calorimetry experiment the fuel burns underneath a metal can containing a known mass of water. We measure the temperature rise of the water and calculate the energy transferred:\n**Q = m × c × ΔT**\n- Q is energy in joules (J)\n- m is the mass of water in grams (1 cm³ of water has a mass of 1 g)\n- c is the specific heat capacity of water, 4.18 J/g°C\n- ΔT is the temperature change in °C\n\n## Worked example 1\nA student heats 100 g of water from 20 °C to 45 °C.\nQ = 100 × 4.18 × 25 = 10 450 J = 10.45 kJ.\n\n## Worked example 2: energy per gram and per mole\n0.50 g of ethanol heats 200 g of water by 15.0 °C.\nQ = 200 × 4.18 × 15.0 = 12 540 J = 12.54 kJ.\nEnergy per gram = 12.54 ÷ 0.50 = 25.1 kJ/g.\nTo find energy per mole, divide the energy by the number of moles burned (moles = mass ÷ Mr). Convert J to kJ before you quote kJ/mol.\n\n## Why are the results lower than data book values?\n- Energy is lost to the air and the can.\n- Combustion may be incomplete.\n- Some fuel evaporates.\nYou can improve the experiment by using a draught shield, insulation, a lid, and stirring the water so the temperature is even. Repeating the experiment and calculating a mean also improves reliability.\n\n## Evaluating fuels\nCompare fuels using data (kJ per gram), the products formed, availability and cost. Hydrogen releases a very large amount of energy per gram and only forms water, but it is hard to store and is often produced using fossil fuels. Biofuels are renewable, but growing the crops uses land and energy. A balanced answer gives advantages and disadvantages using evidence.\n\n## Common mistakes\n- Using the mass of the fuel in Q = m c ΔT. Use the mass of the water.\n- Leaving the answer in joules when the question asks for kJ.\n- Forgetting that ΔT is final minus starting temperature.\n- Saying a result is wrong because it is lower than the data book. The reasons must be explained.\n\n## How this is examined\nQuestions give results from a fuel experiment, such as masses and temperatures, and ask you to calculate the energy transferred, work out energy per gram or per mole, comment on accuracy and percentage error, and justify which fuel is best for a purpose. Extended tasks ask you to evaluate the sustainability of a fuel using evidence from the data.\n\nExam tip: Write out Q = m × c × ΔT with your numbers substituted, check that you used the mass of water, and finish with units. Method marks are given even if the arithmetic goes wrong.",
+  "flashcards": [
+   {
+    "front": "Fuel",
+    "back": "A substance that releases useful energy, usually as heat, when it burns in an exothermic reaction."
+   },
+   {
+    "front": "Calorimetry energy equation",
+    "back": "Q = m × c × ΔT, where m is the mass of water in g, c = 4.18 J/g°C and ΔT is the temperature change."
+   },
+   {
+    "front": "Specific heat capacity of water",
+    "back": "4.18 J/g°C: the energy needed to raise the temperature of 1 g of water by 1 °C."
+   },
+   {
+    "front": "Which mass do you use in Q = mcΔT?",
+    "back": "The mass of the water (or other substance) being heated, not the mass of the fuel."
+   },
+   {
+    "front": "Complete combustion of a hydrocarbon",
+    "back": "Fuel + plenty of oxygen → carbon dioxide + water, releasing the maximum energy."
+   },
+   {
+    "front": "Incomplete combustion",
+    "back": "Burning with limited oxygen. It forms carbon monoxide or soot and releases less energy. Carbon monoxide is toxic."
+   },
+   {
+    "front": "Why are calorimetry results lower than data book values?",
+    "back": "Energy is lost to the surroundings, combustion may be incomplete, and some fuel may evaporate."
+   },
+   {
+    "front": "Two ways to improve a fuel calorimetry experiment",
+    "back": "Use a draught shield or insulation, and stir the water. Repeat and calculate a mean."
+   },
+   {
+    "front": "Energy per mole from calorimetry",
+    "back": "Energy released in kJ ÷ moles of fuel burned, where moles = mass ÷ Mr."
+   }
+  ]
+ }
+]

@@ -297,3 +297,55 @@ export function computeStreak(dates: string[]): number {
   }
   return streak;
 }
+
+/** Subjects by slug list (for eAssessment areas). Only those offered at the grade are returned. */
+export async function fetchSubjectsBySlugs(slugs: string[], grade: number) {
+  if (!slugs.length) return [];
+  const { data, error } = await supabase
+    .from("subjects")
+    .select("*")
+    .in("slug", slugs)
+    .contains("grades", [grade])
+    .order("position");
+  if (error) throw error;
+  return data;
+}
+
+/** Every topic and sub-topic for a subject at a grade (used for mastery roll-ups). */
+export async function fetchAllTopics(subjectId: string, grade: number) {
+  const { data, error } = await supabase
+    .from("topics")
+    .select("id, name, parent_topic_id, position")
+    .eq("subject_id", subjectId)
+    .eq("grade", grade)
+    .order("position");
+  if (error) throw error;
+  return data;
+}
+
+/** A random-ish mixed set of MCQs across a whole subject at one grade. */
+export async function fetchMixedQuestions(subjectId: string, grade: number, count: number) {
+  const { data, error } = await supabase
+    .from("questions")
+    .select("*")
+    .eq("subject_id", subjectId)
+    .eq("grade", grade)
+    .eq("type", "MCQ")
+    .limit(1000);
+  if (error) throw error;
+  const pool = [...(data ?? [])];
+  for (let i = pool.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [pool[i], pool[j]] = [pool[j]!, pool[i]!];
+  }
+  return pool.slice(0, count);
+}
+
+export function shuffle<T>(list: T[]): T[] {
+  const pool = [...list];
+  for (let i = pool.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [pool[i], pool[j]] = [pool[j]!, pool[i]!];
+  }
+  return pool;
+}

@@ -13,6 +13,8 @@ import { Route as IndexRouteImport } from './routes/index'
 import { Route as AuthenticatedRouteRouteImport } from './routes/_authenticated/route'
 import { Route as AuthRouteImport } from './routes/auth'
 import { Route as AuthenticatedDashboardRouteImport } from './routes/_authenticated/dashboard'
+import { Route as EassessmentIndexRouteImport } from './routes/eassessment/index'
+import { Route as EassessmentAreaRouteImport } from './routes/eassessment/$area'
 import { Route as SubjectsIndexRouteImport } from './routes/subjects/index'
 import { Route as SubjectsSlugRouteImport } from './routes/subjects/$slug'
 
@@ -35,6 +37,16 @@ const AuthenticatedDashboardRoute = AuthenticatedDashboardRouteImport.update({
   path: '/dashboard',
   getParentRoute: () => AuthenticatedRouteRoute,
 } as any)
+const EassessmentIndexRoute = EassessmentIndexRouteImport.update({
+  id: '/eassessment/',
+  path: '/eassessment/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const EassessmentAreaRoute = EassessmentAreaRouteImport.update({
+  id: '/eassessment/$area',
+  path: '/eassessment/$area',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const SubjectsIndexRoute = SubjectsIndexRouteImport.update({
   id: '/subjects/',
   path: '/subjects/',
@@ -50,14 +62,18 @@ export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/auth': typeof AuthRoute
   '/dashboard': typeof AuthenticatedDashboardRoute
+  '/eassessment/$area': typeof EassessmentAreaRoute
   '/subjects/$slug': typeof SubjectsSlugRoute
+  '/eassessment/': typeof EassessmentIndexRoute
   '/subjects/': typeof SubjectsIndexRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/auth': typeof AuthRoute
   '/dashboard': typeof AuthenticatedDashboardRoute
+  '/eassessment/$area': typeof EassessmentAreaRoute
   '/subjects/$slug': typeof SubjectsSlugRoute
+  '/eassessment': typeof EassessmentIndexRoute
   '/subjects': typeof SubjectsIndexRoute
 }
 export interface FileRoutesById {
@@ -66,21 +82,39 @@ export interface FileRoutesById {
   '/_authenticated': typeof AuthenticatedRouteRouteWithChildren
   '/auth': typeof AuthRoute
   '/_authenticated/dashboard': typeof AuthenticatedDashboardRoute
+  '/eassessment/$area': typeof EassessmentAreaRoute
   '/subjects/$slug': typeof SubjectsSlugRoute
+  '/eassessment/': typeof EassessmentIndexRoute
   '/subjects/': typeof SubjectsIndexRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/auth' | '/dashboard' | '/subjects/$slug' | '/subjects/'
+  fullPaths:
+    | '/'
+    | '/auth'
+    | '/dashboard'
+    | '/eassessment/$area'
+    | '/subjects/$slug'
+    | '/eassessment/'
+    | '/subjects/'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/auth' | '/dashboard' | '/subjects/$slug' | '/subjects'
+  to:
+    | '/'
+    | '/auth'
+    | '/dashboard'
+    | '/eassessment/$area'
+    | '/subjects/$slug'
+    | '/eassessment'
+    | '/subjects'
   id:
     | '__root__'
     | '/'
     | '/_authenticated'
     | '/auth'
     | '/_authenticated/dashboard'
+    | '/eassessment/$area'
     | '/subjects/$slug'
+    | '/eassessment/'
     | '/subjects/'
   fileRoutesById: FileRoutesById
 }
@@ -88,7 +122,9 @@ export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   AuthenticatedRouteRoute: typeof AuthenticatedRouteRouteWithChildren
   AuthRoute: typeof AuthRoute
+  EassessmentAreaRoute: typeof EassessmentAreaRoute
   SubjectsSlugRoute: typeof SubjectsSlugRoute
+  EassessmentIndexRoute: typeof EassessmentIndexRoute
   SubjectsIndexRoute: typeof SubjectsIndexRoute
 }
 
@@ -122,6 +158,20 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof AuthenticatedDashboardRouteImport
       parentRoute: typeof AuthenticatedRouteRoute
     }
+    '/eassessment/': {
+      id: '/eassessment/'
+      path: '/eassessment'
+      fullPath: '/eassessment/'
+      preLoaderRoute: typeof EassessmentIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/eassessment/$area': {
+      id: '/eassessment/$area'
+      path: '/eassessment/$area'
+      fullPath: '/eassessment/$area'
+      preLoaderRoute: typeof EassessmentAreaRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/subjects/': {
       id: '/subjects/'
       path: '/subjects'
@@ -154,7 +204,9 @@ const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   AuthenticatedRouteRoute: AuthenticatedRouteRouteWithChildren,
   AuthRoute: AuthRoute,
+  EassessmentAreaRoute: EassessmentAreaRoute,
   SubjectsSlugRoute: SubjectsSlugRoute,
+  EassessmentIndexRoute: EassessmentIndexRoute,
   SubjectsIndexRoute: SubjectsIndexRoute,
 }
 export const routeTree = rootRouteImport

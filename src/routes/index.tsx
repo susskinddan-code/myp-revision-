@@ -46,8 +46,8 @@ const FEATURES = [
   },
   {
     icon: LineChart,
-    title: "Progress on Levels 1-8",
-    body: "Streaks, accuracy and an estimated MYP Level so you know where you stand.",
+    title: "Streaks, goals and levels",
+    body: "A daily goal, a streak and an estimated MYP Level 1-8 keep you coming back.",
   },
 ];
 
@@ -62,7 +62,7 @@ function Home() {
       <section className="dot-grid">
         <div className="mx-auto max-w-[1200px] px-6 py-20 md:px-12 md:py-28">
           <p className="text-sm uppercase tracking-[0.2em] text-muted-foreground">
-            For IB MYP Grades 1-5
+            For IB MYP Grades 1-5 · built around MYP 5
           </p>
           <h1 className="mt-4 max-w-3xl text-5xl leading-tight md:text-6xl">
             Revision that actually tells you why you got it wrong.
@@ -73,10 +73,10 @@ function Home() {
           </p>
           <div className="mt-8 flex flex-wrap gap-3">
             <Button asChild size="lg" className="rounded-full">
-              <Link to="/subjects">Start revising</Link>
+              <Link to="/eassessment">Practise your eAssessment</Link>
             </Button>
             <Button asChild size="lg" variant="outline" className="rounded-full">
-              <Link to="/auth">Create a free account</Link>
+              <Link to="/subjects">Browse all subjects</Link>
             </Button>
           </div>
           <p className="mt-5 text-xs text-muted-foreground">

@@ -118,6 +118,16 @@ export function TopicStudy({
               subjectId={subjectId}
               topicName={topicName}
               grade={grade}
+              {...(cards?.length
+                ? {
+                    nextStep: {
+                      label: "Review the flashcards",
+                      onClick: () => setMode("Flashcards"),
+                    },
+                  }
+                : note
+                  ? { nextStep: { label: "Re-read the note", onClick: () => setMode("Notes") } }
+                  : {})}
             />
           ) : (
             <EmptyPanel text="No questions here yet." />

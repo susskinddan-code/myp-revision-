@@ -1,6 +1,9 @@
 import { Link, useNavigate } from "@tanstack/react-router";
 import { useQueryClient } from "@tanstack/react-query";
-import { GraduationCap, LogOut } from "lucide-react";
+import { GraduationCap, LogOut, Flame } from "lucide-react";
+import { useQuery } from "@tanstack/react-query";
+import { fetchAttempts } from "@/lib/myp";
+import { streakOf } from "@/lib/progress";
 import { supabase } from "@/integrations/supabase/client";
 import { useAuth } from "@/hooks/use-auth";
 import { Button } from "@/components/ui/button";
@@ -9,6 +12,12 @@ export function SiteHeader() {
   const { user, loading } = useAuth();
   const navigate = useNavigate();
   const queryClient = useQueryClient();
+  const { data: attempts } = useQuery({
+    queryKey: ["attempts", user?.id],
+    queryFn: () => fetchAttempts(user!.id),
+    enabled: !!user,
+  });
+  const streak = attempts ? streakOf(attempts) : 0;
 
   async function handleSignOut() {
     await queryClient.cancelQueries();
@@ -29,6 +38,13 @@ export function SiteHeader() {
 
         <nav className="flex items-center gap-1 text-sm">
           <Link
+            to="/eassessment"
+            className="rounded-full px-3 py-2 text-muted-foreground transition-colors hover:bg-secondary hover:text-foreground"
+            activeProps={{ className: "rounded-full px-3 py-2 bg-secondary text-foreground" }}
+          >
+            eAssessment
+          </Link>
+          <Link
             to="/subjects"
             className="rounded-full px-3 py-2 text-muted-foreground transition-colors hover:bg-secondary hover:text-foreground"
             activeProps={{ className: "rounded-full px-3 py-2 bg-secondary text-foreground" }}
@@ -44,6 +60,15 @@ export function SiteHeader() {
               >
                 My progress
               </Link>
+              {streak > 0 ? (
+                <span
+                  className="flex items-center gap-1 rounded-full bg-accent/15 px-2.5 py-1 text-xs font-medium"
+                  title={`${streak}-day streak`}
+                >
+                  <Flame className="size-3.5 text-accent" />
+                  {streak}
+                </span>
+              ) : null}
               <Button
                 variant="ghost"
                 size="sm"

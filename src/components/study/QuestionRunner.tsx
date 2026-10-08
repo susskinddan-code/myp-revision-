@@ -1,10 +1,12 @@
 import { useState } from "react";
-import { Check, X, Sparkles } from "lucide-react";
+import { Check, X, Sparkles, Flame, Trophy } from "lucide-react";
 import { useServerFn } from "@tanstack/react-start";
+import { useQueryClient } from "@tanstack/react-query";
 import { Button } from "@/components/ui/button";
 import { QuestionVisual } from "@/components/diagrams/QuestionVisual";
 import { getQuestionFeedback } from "@/lib/ai.functions";
 import { recordAttempt, type Question } from "@/lib/myp";
+import { encouragement } from "@/lib/progress";
 import { useAuth } from "@/hooks/use-auth";
 
 type Props = {
@@ -13,29 +15,112 @@ type Props = {
   subjectId: string;
   topicName: string;
   grade: number;
+  /** Optional shortcut shown on the finish screen, e.g. jump to flashcards. */
+  nextStep?: { label: string; onClick: () => void };
+  /** Optional hook when the set is finished (used by exam-style mixed tests). */
+  onFinish?: (score: number, total: number) => void;
 };
 
-export function QuestionRunner({ questions, subjectName, subjectId, topicName, grade }: Props) {
+export function QuestionRunner({
+  questions: initial,
+  subjectName,
+  subjectId,
+  topicName,
+  grade,
+  nextStep,
+  onFinish,
+}: Props) {
   const { user } = useAuth();
+  const queryClient = useQueryClient();
   const askFeedback = useServerFn(getQuestionFeedback);
+  const [questions, setQuestions] = useState(initial);
   const [index, setIndex] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
   const [checked, setChecked] = useState(false);
   const [score, setScore] = useState(0);
+  const [inRow, setInRow] = useState(0);
+  const [bestRow, setBestRow] = useState(0);
+  const [missed, setMissed] = useState<Question[]>([]);
   const [feedback, setFeedback] = useState<string | null>(null);
   const [feedbackError, setFeedbackError] = useState<string | null>(null);
   const [loadingFeedback, setLoadingFeedback] = useState(false);
 
+  const finished = index >= questions.length;
   const question = questions[index];
+
+  function restart(next: Question[]) {
+    setQuestions(next);
+    setIndex(0);
+    setScore(0);
+    setInRow(0);
+    setBestRow(0);
+    setMissed([]);
+    setSelected(null);
+    setChecked(false);
+    setFeedback(null);
+    setFeedbackError(null);
+  }
+
+  if (finished) {
+    const pct = Math.round((score / Math.max(1, questions.length)) * 100);
+    const headline =
+      pct >= 90
+        ? "Outstanding"
+        : pct >= 75
+          ? "Great work"
+          : pct >= 50
+            ? "Solid progress"
+            : "Good start";
+    return (
+      <div className="rounded-lg border border-border bg-card p-8 text-center shadow-[var(--shadow-soft)]">
+        <Trophy className="mx-auto size-10 text-accent" />
+        <h3 className="mt-3 text-2xl">{headline}</h3>
+        <p className="mt-1 text-4xl font-display">
+          {score} / {questions.length}
+        </p>
+        <p className="mt-1 text-sm text-muted-foreground">
+          {pct}% · best run {bestRow} in a row · +{score * 10 + missed.length * 4} XP
+        </p>
+        {!user ? (
+          <p className="mt-3 text-sm text-muted-foreground">
+            Sign in to save your streak and see your progress build up.
+          </p>
+        ) : null}
+        <div className="mt-6 flex flex-wrap justify-center gap-2">
+          {missed.length ? (
+            <Button className="rounded-full" onClick={() => restart(missed)}>
+              Retry the {missed.length} you missed
+            </Button>
+          ) : null}
+          {nextStep ? (
+            <Button variant="outline" className="rounded-full" onClick={nextStep.onClick}>
+              {nextStep.label}
+            </Button>
+          ) : null}
+          <Button variant="outline" className="rounded-full" onClick={() => restart(initial)}>
+            Start again
+          </Button>
+        </div>
+      </div>
+    );
+  }
   if (!question) return null;
   const options = (question.options as string[]) ?? [];
-  const finished = index >= questions.length;
 
   async function handleCheck() {
     if (selected === null || !question) return;
     const correct = selected === question.answer;
     setChecked(true);
-    if (correct) setScore((s) => s + 1);
+    if (correct) {
+      setScore((s) => s + 1);
+      setInRow((r) => {
+        setBestRow((b) => Math.max(b, r + 1));
+        return r + 1;
+      });
+    } else {
+      setInRow(0);
+      setMissed((m) => [...m, question]);
+    }
 
     if (user) {
       recordAttempt(user.id, {
@@ -44,7 +129,9 @@ export function QuestionRunner({ questions, subjectName, subjectId, topicName, g
         subjectId,
         source: "question-bank",
         correct,
-      }).catch(() => {});
+      })
+        .then(() => queryClient.invalidateQueries({ queryKey: ["attempts", user.id] }))
+        .catch(() => {});
     }
 
     if (!correct) {
@@ -73,35 +160,13 @@ export function QuestionRunner({ questions, subjectName, subjectId, topicName, g
   }
 
   function handleNext() {
+    const last = index + 1 >= questions.length;
     setIndex((i) => i + 1);
     setSelected(null);
     setChecked(false);
     setFeedback(null);
     setFeedbackError(null);
-  }
-
-  if (finished) {
-    return (
-      <div className="rounded-lg border border-border bg-card p-8 text-center shadow-[var(--shadow-soft)]">
-        <h3 className="text-2xl">Set complete</h3>
-        <p className="mt-2 text-muted-foreground">
-          You scored {score} out of {questions.length}.
-        </p>
-        <Button
-          className="mt-6 rounded-full"
-          onClick={() => {
-            setIndex(0);
-            setScore(0);
-            setSelected(null);
-            setChecked(false);
-            setFeedback(null);
-            setFeedbackError(null);
-          }}
-        >
-          Start again
-        </Button>
-      </div>
-    );
+    if (last) onFinish?.(score, questions.length);
   }
 
   const isCorrect = checked && selected === question.answer;
@@ -112,7 +177,15 @@ export function QuestionRunner({ questions, subjectName, subjectId, topicName, g
         <span>
           Question {index + 1} of {questions.length}
         </span>
-        <span className="capitalize">{question.difficulty}</span>
+        <span className="flex items-center gap-3">
+          {inRow >= 2 ? (
+            <span className="flex items-center gap-1 font-medium text-accent">
+              <Flame className="size-4" />
+              {inRow}
+            </span>
+          ) : null}
+          <span className="capitalize">{question.difficulty}</span>
+        </span>
       </div>
       <div className="mt-3 h-1.5 overflow-hidden rounded-full bg-secondary">
         <div
@@ -158,8 +231,12 @@ export function QuestionRunner({ questions, subjectName, subjectId, topicName, g
       </ul>
 
       {checked ? (
-        <div className="mt-5 rounded-md border border-border bg-surface-2 p-4">
-          <p className="font-medium">{isCorrect ? "Correct" : "Not quite"}</p>
+        <div
+          className={`mt-5 rounded-md border p-4 ${
+            isCorrect ? "border-success/40 bg-success/5" : "border-border bg-surface-2"
+          }`}
+        >
+          <p className="font-medium">{encouragement(inRow, isCorrect)}</p>
           {question.explanation ? (
             <p className="mt-1 text-sm text-muted-foreground">{question.explanation}</p>
           ) : null}

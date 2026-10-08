@@ -1,26 +1,46 @@
-import { useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { useQuery } from "@tanstack/react-query";
 import { useServerFn } from "@tanstack/react-start";
 import { Sparkles } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { gradePaper, type PaperMark } from "@/lib/ai.functions";
-import { fetchPaperQuestions, recordAttempt, accuracyToMypLevel, MYP_LEVEL_LABELS } from "@/lib/myp";
+import {
+  fetchPaperQuestions,
+  recordAttempt,
+  accuracyToMypLevel,
+  MYP_LEVEL_LABELS,
+} from "@/lib/myp";
 import { useAuth } from "@/hooks/use-auth";
+import { describeResult } from "@/lib/eassessment";
 
 type Props = {
   paper: { id: string; title: string; grade: number; criterion: string | null };
   subjectId: string;
   subjectName: string;
   onExit: () => void;
+  /** eAssessment-style sitting: countdown timer and both grade scales on the result. */
+  exam?: { minutes: number };
 };
 
-export function PaperRunner({ paper, subjectId, subjectName, onExit }: Props) {
+export function PaperRunner({ paper, subjectId, subjectName, onExit, exam }: Props) {
   const { user } = useAuth();
   const mark = useServerFn(gradePaper);
   const [responses, setResponses] = useState<Record<number, string>>({});
   const [marks, setMarks] = useState<PaperMark[] | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [marking, setMarking] = useState(false);
+  const [secondsLeft, setSecondsLeft] = useState<number | null>(exam ? exam.minutes * 60 : null);
+  const submitRef = useRef<() => void>(() => {});
+
+  useEffect(() => {
+    if (secondsLeft === null || marks || marking) return;
+    if (secondsLeft <= 0) {
+      submitRef.current();
+      return;
+    }
+    const t = setTimeout(() => setSecondsLeft((s) => (s === null ? s : s - 1)), 1000);
+    return () => clearTimeout(t);
+  }, [secondsLeft, marks, marking]);
 
   const { data: questions, isLoading } = useQuery({
     queryKey: ["paper-questions", paper.id],
@@ -67,6 +87,8 @@ export function PaperRunner({ paper, subjectId, subjectName, onExit }: Props) {
     }
   }
 
+  submitRef.current = handleSubmit;
+
   if (isLoading) {
     return <p className="text-sm text-muted-foreground">Loading paper…</p>;
   }
@@ -77,6 +99,11 @@ export function PaperRunner({ paper, subjectId, subjectName, onExit }: Props) {
   const awarded = marks?.reduce((t, m) => t + m.marksAwarded, 0) ?? 0;
   const total = marks?.reduce((t, m) => t + m.maxMarks, 0) ?? 0;
   const level = total ? accuracyToMypLevel(awarded / total) : 0;
+  const both = total ? describeResult(awarded / total) : null;
+  const clock =
+    secondsLeft === null
+      ? null
+      : `${Math.floor(secondsLeft / 60)}:${String(secondsLeft % 60).padStart(2, "0")}`;
 
   return (
     <div>
@@ -88,6 +115,18 @@ export function PaperRunner({ paper, subjectId, subjectName, onExit }: Props) {
         {questions.length} written-answer questions · MYP {paper.grade}
         {marks ? null : " · answer each one, then submit for marking"}
       </p>
+      {clock && !marks ? (
+        <div
+          className={`sticky top-16 z-30 mt-3 flex items-center justify-between rounded-full border px-4 py-2 text-sm ${
+            (secondsLeft ?? 0) < 300
+              ? "border-destructive bg-destructive/10 text-destructive"
+              : "border-border bg-card"
+          }`}
+        >
+          <span>Exam mode</span>
+          <span className="font-mono text-base tabular-nums">{clock}</span>
+        </div>
+      ) : null}
 
       {marks ? (
         <div className="mt-6 rounded-lg border border-border bg-card p-6 text-center shadow-[var(--shadow-soft)]">
@@ -98,6 +137,26 @@ export function PaperRunner({ paper, subjectId, subjectName, onExit }: Props) {
             {Math.round((awarded / total) * 100)}% · MYP Level {level} of 8 —{" "}
             {MYP_LEVEL_LABELS[level]}
           </p>
+          {exam && both ? (
+            <div className="mt-4 grid gap-3 text-left sm:grid-cols-2">
+              <div className="rounded-md border border-border bg-surface-2 p-4">
+                <p className="text-xs uppercase tracking-wide text-muted-foreground">
+                  Criterion achievement (Levels 1-8)
+                </p>
+                <p className="mt-1 font-display text-2xl">Level {both.criterionLevel} of 8</p>
+              </div>
+              <div className="rounded-md border border-border bg-surface-2 p-4">
+                <p className="text-xs uppercase tracking-wide text-muted-foreground">
+                  Estimated overall subject grade (1-7)
+                </p>
+                <p className="mt-1 font-display text-2xl">Grade {both.overallGrade} of 7</p>
+              </div>
+              <p className="text-xs text-muted-foreground sm:col-span-2">
+                The real eAssessment reports one overall grade from 1 to 7. The IB sets the exact
+                grade boundaries every session, so treat this as a guide, not a prediction.
+              </p>
+            </div>
+          ) : null}
         </div>
       ) : null}
 
@@ -122,9 +181,7 @@ export function PaperRunner({ paper, subjectId, subjectName, onExit }: Props) {
 
               <textarea
                 value={responses[q.position] ?? ""}
-                onChange={(e) =>
-                  setResponses((r) => ({ ...r, [q.position]: e.target.value }))
-                }
+                onChange={(e) => setResponses((r) => ({ ...r, [q.position]: e.target.value }))}
                 disabled={!!marks || marking}
                 rows={4}
                 placeholder="Write your answer here…"

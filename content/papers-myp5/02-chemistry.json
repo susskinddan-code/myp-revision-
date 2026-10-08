@@ -1,0 +1,59 @@
+[
+  {
+    "subject": "chemistry",
+    "grade": 5,
+    "title": "Chemistry MYP 5 eAssessment-style Practice Paper 1",
+    "criterion": null,
+    "questions": [
+      {
+        "position": 1,
+        "marks": 5,
+        "criterion": "A",
+        "content": "Chlorine exists as a mixture of two isotopes. Chlorine-35 has an abundance of 75% and chlorine-37 has an abundance of 25%. The atomic number of chlorine is 17. A neutral chlorine atom has the electron arrangement 2,8,7.\n\n(a) State the number of neutrons in an atom of chlorine-37. (1 mark)\n(b) Calculate the relative atomic mass of chlorine using the isotope abundances given. Show your working. (2 marks)\n(c) Use the electron arrangement to explain the position of chlorine in the periodic table (Group 7 and Period 3). (2 marks)\n\n(Total 5 marks)",
+        "mark_scheme": "(a) [1] 20 (37 − 17)\n(b) [1] (35 × 75 + 37 × 25) ÷ 100\n[1] 35.5\n(c) [1] Seven electrons in the outer shell, so it is in Group 7 (the group number equals the number of outer electrons)\n[1] Electrons occupy three shells, so it is in Period 3 (the period number equals the number of occupied shells)"
+      },
+      {
+        "position": 2,
+        "marks": 6,
+        "criterion": "A",
+        "content": "A technician tested three solid substances, P, Q and R, and recorded the following properties.\n\nSubstance P: melting point 801 °C; conducts electricity when solid: no; conducts electricity when molten: yes\nSubstance Q: melting point 44 °C; conducts electricity when solid: no; conducts electricity when molten: no\nSubstance R: melting point 1085 °C; conducts electricity when solid: yes; conducts electricity when molten: yes\n\n(a) Identify which substance is an ionic compound. (1 mark)\n(b) Explain why substance P conducts electricity when molten but not when solid. (2 marks)\n(c) Explain, in terms of particles and forces, why substance Q has a low melting point. (2 marks)\n(d) State the type of bonding in substance R. (1 mark)\n\n(Total 6 marks)",
+        "mark_scheme": "(a) [1] P\n(b) [1] In the solid, ions are held in fixed positions in a lattice and cannot move\n[1] When molten, the ions are free to move and carry charge (Do not accept: electrons move in molten ionic compounds)\n(c) [1] Q is a simple molecular substance with weak forces between its molecules (intermolecular forces)\n[1] Little energy is needed to overcome these forces; the strong covalent bonds within the molecules are not broken (accept: only the forces between molecules are broken)\n(d) [1] Metallic bonding (accept: attraction between positive metal ions and delocalised electrons)\nCommon error: saying that covalent bonds break when a simple molecular substance melts."
+      },
+      {
+        "position": 3,
+        "marks": 5,
+        "criterion": "C",
+        "content": "A student added a strip of magnesium to excess dilute hydrochloric acid in a flask. The hydrogen gas produced was collected in a gas syringe and its volume was recorded every 20 seconds.\n\nTime (s): 0, 20, 40, 60, 80, 100\nVolume of hydrogen (cm³): 0, 28, 46, 58, 64, 64\n\n(a) State the time by which the reaction had finished. Give a reason for your answer. (1 mark)\n(b) Calculate the mean rate of reaction during the first 20 seconds. Include the unit. (2 marks)\n(c) Use particle theory to explain why the rate of reaction decreases as the reaction proceeds. (2 marks)\n\n(Total 5 marks)",
+        "mark_scheme": "(a) [1] 80 seconds, because the volume stays constant (64 cm³) after this time (accept: any time from 80 s to 100 s with the reason that the volume has stopped increasing)\n(b) [1] 28 ÷ 20\n[1] 1.4 cm³/s (unit required)\n(c) [1] The magnesium is used up, so its surface area decreases, and the concentration of hydrochloric acid also falls slightly as it is used up (accept either reason)\n[1] Fewer collisions per second between acid particles and magnesium, so fewer successful collisions in a given time (Do not accept: 'less collisions' with no mention of time or frequency)"
+      },
+      {
+        "position": 4,
+        "marks": 6,
+        "criterion": "B",
+        "content": "A teacher wants to find out whether two black marker pens, pen 1 and pen 2, contain the same dyes. A student suggests using paper chromatography with water as the solvent.\n\n(a) Outline a method the student could follow to carry out this investigation. (3 marks)\n(b) The start line is drawn in pencil, not pen. Explain why. (1 mark)\n(c) In the chromatogram of pen 2, one spot travelled 3.6 cm while the solvent front travelled 8.0 cm. Calculate the Rf value of this spot. Show your working. (2 marks)\n\n(Total 6 marks)",
+        "mark_scheme": "(a) [1] Draw a pencil start line on chromatography paper and place a small spot of each ink on it (with a known reference if available)\n[1] Stand the paper in a container with a little solvent so the solvent level is below the start line, and leave until the solvent has travelled near the top\n[1] Remove the paper, mark the solvent front, dry it, and compare the number and positions of the spots for each pen (accept: same spots/Rf values means same dyes)\n(b) [1] Pencil is insoluble in the solvent, whereas pen ink would dissolve and run up the paper with the dyes\n(c) [1] Rf = distance moved by spot ÷ distance moved by solvent front = 3.6 ÷ 8.0\n[1] 0.45 (no unit)"
+      },
+      {
+        "position": 5,
+        "marks": 5,
+        "criterion": "A",
+        "content": "A student carried out a titration. She used a pipette to place 25.0 cm³ of sodium hydroxide solution of concentration 0.100 mol/dm³ in a flask. She added hydrochloric acid from a burette. She found that 20.0 cm³ of hydrochloric acid was needed to neutralise the alkali exactly.\n\n(a) State the colour of universal indicator in a solution of pH 2. (1 mark)\n(b) Write a balanced symbol equation, including state symbols, for the reaction between hydrochloric acid and sodium hydroxide. (2 marks)\n(c) Calculate the concentration of the hydrochloric acid in mol/dm³. Show your working. (2 marks)\n\n(Total 5 marks)",
+        "mark_scheme": "(a) [1] Red (accept: orange-red)\n(b) [1] Correct formulae and balanced: HCl + NaOH → NaCl + H₂O\n[1] Correct state symbols: HCl(aq) + NaOH(aq) → NaCl(aq) + H₂O(l)\n(c) [1] Moles of NaOH = 0.100 × 25.0 ÷ 1000 = 0.00250 mol; the reaction ratio is 1:1 so moles of HCl = 0.00250 mol\n[1] Concentration = 0.00250 ÷ 0.0200 = 0.125 mol/dm³ (accept: 0.125 M; award the mark for correct follow-through from an incorrect mole value)"
+      },
+      {
+        "position": 6,
+        "marks": 5,
+        "criterion": "C",
+        "content": "A student placed small pieces of four metals in solutions of metal sulfates and recorded whether a reaction occurred.\n\nMagnesium: copper sulfate reacts, zinc sulfate reacts, iron sulfate reacts\nZinc: copper sulfate reacts, zinc sulfate no reaction, iron sulfate reacts\nIron: copper sulfate reacts, zinc sulfate no reaction, iron sulfate no reaction\nCopper: copper sulfate no reaction, zinc sulfate no reaction, iron sulfate no reaction\n\n(a) Use the results to place the four metals in order of reactivity, most reactive first. (2 marks)\n(b) Write a word equation for the reaction between iron and copper sulfate solution. (1 mark)\n(c) Describe one observation the student would make when an iron nail is placed in blue copper sulfate solution. (1 mark)\n(d) Predict whether silver would react with copper sulfate solution. Give a reason. (1 mark)\n\n(Total 5 marks)",
+        "mark_scheme": "(a) [1] Magnesium is first and copper is last\n[1] Correct middle order: magnesium, zinc, iron, copper (award 1 mark if the order is wrong in the middle but magnesium and copper are correctly placed)\n(b) [1] iron + copper sulfate → iron sulfate + copper\n(c) [1] Any one: a brown/pink-orange solid forms on the nail; the blue colour of the solution fades or turns pale green\n(d) [1] No reaction, because silver is less reactive than copper so cannot displace it"
+      },
+      {
+        "position": 7,
+        "marks": 6,
+        "criterion": "D",
+        "content": "Ethanol, C₂H₅OH, can be made by the fermentation of sugars from plants such as sugar cane. It is sometimes blended with petrol as a fuel for cars. Burning ethanol is an exothermic reaction:\nC₂H₅OH + 3O₂ → 2CO₂ + 3H₂O\n\nApproximate data:\nEnergy released when burning 1 g of ethanol: 30 kJ\nEnergy released when burning 1 g of petrol: 46 kJ\nSource of ethanol: renewable crops that absorb carbon dioxide while growing\nSource of petrol: crude oil, a finite resource\n\n(a) State what is meant by an exothermic reaction. (1 mark)\n(b) Calculate the relative formula mass of ethanol. (Relative atomic masses: C = 12, H = 1, O = 16) (1 mark)\n(c) Evaluate the use of ethanol rather than petrol as a fuel for cars. (4 marks)\n\n(Total 6 marks)",
+        "mark_scheme": "(a) [1] A reaction that releases energy to the surroundings (accept: temperature of the surroundings increases)\n(b) [1] 46 (2 × 12 + 6 × 1 + 16 = 46)\n(c) [1] Advantage: ethanol is renewable, whereas crude oil is finite (accept: reduces dependence on fossil fuels)\n[1] Advantage: carbon dioxide released is partly balanced by the carbon dioxide absorbed by the crops as they grow, so the net contribution to the greenhouse effect may be lower (accept: but growing and processing crops also uses energy)\n[1] Disadvantage: ethanol releases less energy per gram (30 kJ against 46 kJ), so more fuel is needed to travel the same distance (accept: land used for fuel crops reduces land for food)\n[1] A justified judgement that weighs advantages against disadvantages, e.g. ethanol blends are beneficial if the crops are grown sustainably\nAward the final mark only if the judgement is supported by reasoning."
+      }
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "subject": "standard-mathematics",
+    "grade": 5,
+    "title": "Standard Mathematics MYP 5 eAssessment-style Practice Paper 1",
+    "criterion": null,
+    "questions": [
+      {
+        "content": "A juice bar makes a drink by mixing fruit concentrate and water in the ratio 2 : 7.\n\n(a) The bar makes 1.8 litres of the drink. Calculate the volume of concentrate needed. (2 marks)\n(b) A 0.5 litre bottle of the drink costs £4.50. The price rises by 12%. Calculate the new price. (2 marks)\n(c) The juice bar's sales for one year were £2 340 000. Write this number in standard form. (1 mark)",
+        "marks": 5,
+        "criterion": "A",
+        "mark_scheme": "(a)\n[1] Method: total parts = 2 + 7 = 9, so 1 part = 1.8 ÷ 9 = 0.2 litres\n[1] Concentrate = 2 × 0.2 = 0.4 litres (unit required).\nCommon error: calculating 2 ÷ 7 × 1.8, or giving the water volume (1.4 litres).\n(b)\n[1] Method: 4.50 × 1.12 (or 4.50 + 0.12 × 4.50 = 4.50 + 0.54)\n[1] £5.04\n(c)\n[1] 2.34 × 10⁶",
+        "position": 1
+      },
+      {
+        "content": "A taxi company charges a fixed fee of £3 plus £2.50 for every kilometre travelled.\n\n(a) Write a formula for the cost, C pounds, of a journey of d kilometres. (1 mark)\n(b) Calculate the cost of a journey of 7.2 km. (1 mark)\n(c) Lena pays £28 for a journey. Calculate how far she travelled. (2 marks)\n(d) Rearrange your formula in (a) to make d the subject. (1 mark)",
+        "marks": 5,
+        "criterion": "B",
+        "mark_scheme": "(a)\n[1] C = 3 + 2.5d (accept C = 2.5d + 3)\n(b)\n[1] C = 3 + 2.5 × 7.2 = 3 + 18 = £21 (accept £21.00). ECF from (a).\n(c)\n[1] Method: 28 = 3 + 2.5d → 2.5d = 25\n[1] d = 10 km (unit required). ECF from (a).\n(d)\n[1] d = (C − 3) ÷ 2.5 (accept d = (C − 3)/2.5 or d = 0.4C − 1.2)\nCommon error: dividing by 2.5 before subtracting 3, giving C ÷ 2.5 − 3.",
+        "position": 2
+      },
+      {
+        "content": "A designer lays tiles in a pattern. Pattern 1 uses 7 tiles, pattern 2 uses 11 tiles, pattern 3 uses 15 tiles, and the pattern continues in the same way.\n\n(a) Write down the number of tiles in pattern 4. (1 mark)\n(b) Find an expression, in terms of n, for the number of tiles in pattern n. (2 marks)\n(c) Calculate the number of tiles in pattern 25. (1 mark)\n(d) Zoe says that one pattern in this sequence uses exactly 150 tiles. Is she correct? Show working to justify your answer. (1 mark)",
+        "marks": 5,
+        "criterion": "B",
+        "mark_scheme": "(a)\n[1] 19\n(b)\n[1] The sequence increases by 4 each time, so the expression starts 4n\n[1] 4n + 3 (check: n = 1 gives 7). Award 1 mark only for 4n alone.\n(c)\n[1] 4 × 25 + 3 = 103. ECF from (b).\n(d)\n[1] Solve 4n + 3 = 150 → 4n = 147 → n = 36.75, which is not a whole number, so Zoe is not correct. ECF from (b).\nCommon error: stating 'no' without showing that n is not an integer (no mark).",
+        "position": 3
+      },
+      {
+        "content": "A teacher records the time, in minutes, that 12 students take to travel to school:\n8, 12, 15, 9, 22, 12, 18, 12, 25, 10, 14, 13\n\n(a) Write down the mode. (1 mark)\n(b) Calculate the median. (2 marks)\n(c) Calculate the mean, giving your answer correct to 1 decimal place. (2 marks)\n(d) The teacher says, 'The average travel time is 14.2 minutes.' Explain why the median may describe a typical student's journey better than the mean for this data. (1 mark)",
+        "marks": 6,
+        "criterion": "C",
+        "mark_scheme": "(a)\n[1] 12\n(b)\n[1] Method: put in order 8, 9, 10, 12, 12, 12, 13, 14, 15, 18, 22, 25; the middle values are the 6th and 7th, which are 12 and 13\n[1] Median = (12 + 13) ÷ 2 = 12.5\nCommon error: finding the middle value without ordering the data first.\n(c)\n[1] Method: total = 170, mean = 170 ÷ 12\n[1] 14.2 minutes (accept 14.17 only if rounded to 14.2 as asked).\n(d)\n[1] The mean is pulled upwards by the large values (22 and 25 minutes), so it is higher than most students' journey times; the median 12.5 is not affected by these extremes.",
+        "position": 4
+      },
+      {
+        "content": "A school wants to build a wheelchair ramp. The ramp must rise 0.75 m above the ground. The sloping surface of the ramp is 9 m long. The ramp, the ground and the vertical rise form a right-angled triangle.\n\n(a) Calculate the angle the ramp makes with the ground. Give your answer correct to 1 decimal place. (2 marks)\n(b) Calculate the horizontal distance covered by the ramp. Give your answer correct to 2 decimal places. (2 marks)\n(c) The safety rule says the angle must be less than 5°. Does this ramp meet the rule? Give a reason. (1 mark)",
+        "marks": 5,
+        "criterion": "D",
+        "mark_scheme": "(a)\n[1] Method: sin θ = opposite ÷ hypotenuse = 0.75 ÷ 9\n[1] θ = 4.8° (4.78° before rounding)\nCommon error: using tan or cos with these two sides, or having the calculator in radians.\n(b)\n[1] Method: Pythagoras: horizontal² = 9² − 0.75² = 81 − 0.5625 = 80.4375\n[1] Horizontal distance = 8.97 m (unit required).\n(c)\n[1] Yes, because 4.8° is less than 5°. ECF from (a).",
+        "position": 5
+      },
+      {
+        "content": "A bag contains 5 red counters, 3 blue counters and 2 green counters. Two counters are taken from the bag at random, one after the other, without replacement.\n\n(a) Write down the probability that the first counter is red. (1 mark)\n(b) Calculate the probability that both counters are red. (2 marks)\n(c) Calculate the probability that the two counters are different colours. (3 marks)",
+        "marks": 6,
+        "criterion": "B",
+        "mark_scheme": "(a)\n[1] 5/10 (accept 1/2 or 0.5)\n(b)\n[1] Method: 5/10 × 4/9\n[1] 20/90 = 2/9 (accept 0.222 or 22.2%)\n(c)\n[1] Method: P(same colour) needs P(blue, blue) = 3/10 × 2/9 = 6/90 and P(green, green) = 2/10 × 1/9 = 2/90\n[1] P(same colour) = 20/90 + 6/90 + 2/90 = 28/90\n[1] P(different colours) = 1 − 28/90 = 62/90 = 31/45 (accept 0.689)\nCommon error: using 5/10, 3/10 and 2/10 for the second counter (forgetting that there is no replacement).",
+        "position": 6
+      },
+      {
+        "content": "Mr Okafor wants to fence and turf a rectangular school garden. The width of the garden is x metres and the length is (x + 4) metres. The area of the garden must be 77 m².\n\n(a) Show that x² + 4x − 77 = 0. (1 mark)\n(b) Factorise x² + 4x − 77. (2 marks)\n(c) Solve the equation and write down the width and length of the garden. Explain why one solution is rejected. (2 marks)\n(d) Fencing costs £12.50 per metre and goes around the whole perimeter. Calculate the cost of the fencing. (1 mark)\n(e) Turf costs £4.20 per square metre. Calculate the cost of the turf. (1 mark)\n(f) Mr Okafor has a budget of £800. Decide whether it is enough. Show your working. (1 mark)",
+        "marks": 8,
+        "criterion": "D",
+        "mark_scheme": "(a)\n[1] Area = x(x + 4) = 77 → x² + 4x = 77 → x² + 4x − 77 = 0\n(b)\n[1] Find two numbers with product −77 and sum 4: 11 and −7\n[1] (x + 11)(x − 7)\n(c)\n[1] x = −11 or x = 7 (from the factors in (b)).\n[1] x = −11 is rejected because a length cannot be negative; width = 7 m and length = 11 m. ECF from (b).\n(d)\n[1] Perimeter = 2 × (7 + 11) = 36 m; cost = 36 × 12.50 = £450\n(e)\n[1] 77 × 4.20 = £323.40\n(f)\n[1] Total = 450 + 323.40 = £773.40, which is less than £800, so the budget is enough (£26.60 left over). ECF from (d) and (e).",
+        "position": 7
+      }
+    ]
+  }
+]

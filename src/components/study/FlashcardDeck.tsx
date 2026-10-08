@@ -57,7 +57,12 @@ export function FlashcardDeck({ cards }: { cards: Flashcard[] }) {
         <Button variant="outline" size="sm" className="rounded-full" onClick={() => go(-1)}>
           <ArrowLeft className="size-4" /> Previous
         </Button>
-        <Button variant="ghost" size="sm" className="rounded-full" onClick={() => setFlipped(false)}>
+        <Button
+          variant="ghost"
+          size="sm"
+          className="rounded-full"
+          onClick={() => setFlipped(false)}
+        >
           <RotateCcw className="size-4" /> Reset
         </Button>
         <Button size="sm" className="rounded-full" onClick={() => go(1)}>

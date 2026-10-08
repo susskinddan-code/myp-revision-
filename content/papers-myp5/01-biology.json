@@ -1,0 +1,59 @@
+[
+  {
+    "subject": "biology",
+    "grade": 5,
+    "title": "Biology MYP 5 eAssessment-style Practice Paper 1",
+    "criterion": null,
+    "questions": [
+      {
+        "position": 1,
+        "marks": 5,
+        "criterion": "A",
+        "content": "A student cut four identical cylinders from one potato. Each cylinder had a starting mass of 2.00 g. She placed one cylinder in each of four sucrose solutions of different concentrations for 90 minutes. She then dried each cylinder gently and measured its final mass.\n\nSucrose concentration (mol/dm³): 0.0, 0.2, 0.4, 0.6\nFinal mass of cylinder (g): 2.30, 2.10, 1.95, 1.80\n\n(a) State the name of the process by which water moves across the cell membranes of the potato cells. (1 mark)\n(b) Calculate the percentage change in mass of the cylinder placed in the 0.6 mol/dm³ solution. Show your working. (2 marks)\n(c) Explain why the cylinder in the 0.0 mol/dm³ solution increased in mass. (2 marks)\n\n(Total 5 marks)",
+        "mark_scheme": "(a) [1] Osmosis (Do not accept: diffusion on its own, active transport)\n(b) [1] Correct method: (1.80 − 2.00) ÷ 2.00 × 100 (accept: change ÷ original × 100)\n[1] −10% (accept: 10% decrease; award this mark only if a sign or the word decrease/loss is shown; 10% with no direction scores 1 mark in total)\n(c) [1] The solution has a higher water concentration (or lower solute concentration) than the cytoplasm of the potato cells, so water moves into the cells (accept: higher water potential outside)\n[1] Water moves through the partially permeable membrane by osmosis, so the cells gain water and the mass increases\nCommon error: stating that the potato absorbs sugar or that the cells 'take in' sucrose."
+      },
+      {
+        "position": 2,
+        "marks": 6,
+        "criterion": "B",
+        "content": "Catalase is an enzyme found in liver tissue. It breaks down hydrogen peroxide into water and oxygen. A group of students investigated how temperature affects the activity of catalase. They placed 5 cm³ of hydrogen peroxide solution and 1 g of chopped liver in a test tube in a water bath. They collected the oxygen produced in an upturned measuring cylinder filled with water and recorded the volume after 60 seconds. They repeated this at 10 °C, 20 °C, 30 °C, 40 °C, 50 °C and 70 °C.\n\n(a) Identify the independent variable and the dependent variable in this investigation. (2 marks)\n(b) State one variable that the students must keep constant to make this a fair test. (1 mark)\n(c) Suggest one way the students could make their results more reliable. (1 mark)\n(d) Predict the volume of oxygen collected at 70 °C compared with 40 °C, and explain your prediction. (2 marks)\n\n(Total 6 marks)",
+        "mark_scheme": "(a) [1] Independent variable: temperature (of the water bath/reaction mixture)\n[1] Dependent variable: volume of oxygen collected in 60 seconds (accept: rate of oxygen production)\n(b) [1] Any one from: mass/surface area/size of liver pieces, volume of hydrogen peroxide, concentration of hydrogen peroxide, time allowed (60 s), source/type of liver, pH (Do not accept: 'the amount' with no detail)\n(c) [1] Repeat each temperature several times and calculate a mean (accept: use more repeats and discard anomalies)\n(d) [1] Prediction: much less (or almost no) oxygen collected at 70 °C than at 40 °C\n[1] At high temperature the enzyme's active site changes shape (the enzyme is denatured), so the substrate no longer fits and fewer reactions occur\nCommon error: saying the enzyme is 'killed' (enzymes are not alive)."
+      },
+      {
+        "position": 3,
+        "marks": 5,
+        "criterion": "A",
+        "content": "Cystic fibrosis is an inherited condition caused by a recessive allele. The dominant allele is represented by F and the recessive allele by f. Two parents who do not have cystic fibrosis each carry one copy of the recessive allele.\n\n(a) State the term used to describe an individual with two identical alleles, such as ff. (1 mark)\n(b) Use a genetic diagram (Punnett square) to determine the probability that the first child of these parents will have cystic fibrosis. Give your answer as a percentage. (2 marks)\n(c) The couple have three children and none has cystic fibrosis. The couple say this shows that the probability of 25% is wrong. Explain why they are not correct. (2 marks)\n\n(Total 5 marks)",
+        "mark_scheme": "(a) [1] Homozygous (accept: homozygous recessive)\n(b) [1] Parent genotypes Ff and Ff, gametes F, f and F, f, giving offspring FF, Ff, Ff, ff\n[1] 25% (accept: 1 in 4, 0.25) have genotype ff and so cystic fibrosis\n(c) [1] Probability applies to each fertilisation separately; the outcome for one child does not affect the next (events are independent)\n[1] 25% is a chance, not a guarantee, so a small number of children may not match the expected ratio (accept: a larger sample would be needed)\nCommon error: stating that the next child must have the condition to 'balance' the ratio."
+      },
+      {
+        "position": 4,
+        "marks": 6,
+        "criterion": "C",
+        "content": "A farmer applies fertiliser to a field next to a small lake. Rain washes some fertiliser into the lake. Scientists monitored the lake for five weeks.\n\nWeek: 1, 2, 3, 4, 5\nNitrate concentration (mg/dm³): 2, 5, 9, 14, 14\nAlgae (thousand cells per cm³): 10, 25, 60, 110, 40\nDissolved oxygen (mg/dm³): 9.0, 8.8, 7.5, 5.0, 2.5\n\n(a) Describe the trend in dissolved oxygen concentration over the five weeks. (1 mark)\n(b) Calculate the mean rate of increase in the number of algae between week 1 and week 4. Give your answer in thousand cells per cm³ per week. (2 marks)\n(c) The number of algae fell between week 4 and week 5, but the oxygen concentration continued to fall. Explain why. (2 marks)\n(d) Suggest one effect of the change in oxygen concentration on the fish in the lake. (1 mark)\n\n(Total 6 marks)",
+        "mark_scheme": "(a) [1] Dissolved oxygen decreases throughout, from 9.0 to 2.5 mg/dm³ (accept: falls, with a faster decrease after week 2)\n(b) [1] Increase = 110 − 10 = 100 over 3 weeks\n[1] 33.3 (accept: 33 or 33.33) thousand cells per cm³ per week\n(c) [1] Dead algae are decomposed by bacteria/decomposers\n[1] These microorganisms use oxygen for aerobic respiration, so oxygen continues to fall (accept: algae also use oxygen in respiration)\n(d) [1] Fish may die or move away because they cannot get enough oxygen for respiration (accept: fish suffocate, reduced fish population)\nDo not accept: fish 'run out of air'."
+      },
+      {
+        "position": 5,
+        "marks": 5,
+        "criterion": "A",
+        "content": "Cardiac output is the volume of blood pumped by the heart each minute. It is calculated using: cardiac output = heart rate × stroke volume. Stroke volume is the volume of blood pumped by the heart in one beat.\n\nResting data for two people:\nTrained athlete: heart rate 52 beats per minute, stroke volume 95 cm³\nUntrained person: heart rate 72 beats per minute, stroke volume 70 cm³\n\n(a) Calculate the cardiac output of the trained athlete at rest. Include the unit. (2 marks)\n(b) The untrained person has a cardiac output of 5040 cm³ per minute. Compare this with the athlete's value. (1 mark)\n(c) Explain why the heart rate of a person increases during exercise. (2 marks)\n\n(Total 5 marks)",
+        "mark_scheme": "(a) [1] 52 × 95\n[1] 4940 cm³ per minute (accept: 4.94 dm³/min; unit must be correct for the mark)\n(b) [1] The cardiac outputs are similar (athlete 4940, untrained person 5040), even though the athlete's heart beats more slowly because it pumps more blood per beat (accept: athlete's value is about 100 cm³ per minute lower)\n(c) [1] Muscles respire faster so need more oxygen and glucose delivered\n[1] A faster heart rate moves more blood per minute, delivering oxygen/glucose and removing carbon dioxide more quickly (accept: removes heat/lactic acid)"
+      },
+      {
+        "position": 6,
+        "marks": 5,
+        "criterion": "D",
+        "content": "Many people with diabetes inject insulin. In the past, insulin was extracted from the pancreases of pigs and cattle. Today most insulin is produced by genetically modified bacteria that carry the human insulin gene.\n\n(a) Outline how a human insulin gene can be transferred into a bacterial cell. (2 marks)\n(b) Suggest two advantages of producing insulin using genetically modified bacteria rather than extracting it from animals. (2 marks)\n(c) State one ethical concern that people may have about genetic engineering. (1 mark)\n\n(Total 5 marks)",
+        "mark_scheme": "(a) [1] The insulin gene is cut out of human DNA using restriction enzymes (accept: gene isolated and cut)\n[1] The gene is inserted into a plasmid (vector) using ligase, and the plasmid is taken up by the bacterium (accept: plasmid put into the bacterial cell)\n(b) [1] Any two from (1 mark each, maximum 2 marks in total):\n[1] Large quantities can be made quickly and cheaply because bacteria reproduce rapidly; the insulin is identical to human insulin so fewer allergic reactions/immune rejection; supply does not depend on animals so there are fewer objections about animal welfare; reduced risk of passing on animal diseases\n(c) [1] Any one from: concerns about altering the genes of living organisms, unknown long-term effects, escape of modified organisms, ownership/patenting of genes, 'playing God' (Do not accept: vague statements such as 'it is bad')"
+      },
+      {
+        "position": 7,
+        "marks": 6,
+        "criterion": "C",
+        "content": "A town has a school vaccination programme for measles. Measles spreads easily between people. The table shows the percentage of children vaccinated and the number of measles cases reported in the town each year.\n\nYear: 2019, 2020, 2021, 2022\nChildren vaccinated (%): 95, 90, 84, 78\nMeasles cases reported: 2, 10, 58, 160\n\n(a) Describe the relationship between vaccination coverage and the number of measles cases. Use data from the table in your answer. (2 marks)\n(b) The local council is considering making vaccination compulsory for children starting school. Evaluate this proposal. (4 marks)\n\n(Total 6 marks)",
+        "mark_scheme": "(a) [1] As the percentage vaccinated falls, the number of cases increases (negative relationship)\n[1] Supporting data, e.g. at 95% there were 2 cases but at 78% there were 160 cases (accept: any correct pair of figures)\n(b) [1] Benefit: higher coverage rebuilds herd immunity, so the disease spreads less and unvaccinated people (e.g. babies, people with weak immune systems) are protected\n[1] Evidence: the data show cases rose sharply as coverage fell, which supports the need to raise coverage (accept: but this shows correlation and other factors may also have changed)\n[1] Limitation/concern: compulsion limits individual choice or parental rights; a small risk of side effects; some children cannot be vaccinated for medical reasons (accept: other methods such as education campaigns may be tried first)\n[1] A justified conclusion that weighs the benefits against the limitations, e.g. benefits to public health outweigh the limitations provided medical exemptions are allowed\nAward the final mark only if the conclusion is supported by reasoning."
+      }
+    ]
+  }
+]

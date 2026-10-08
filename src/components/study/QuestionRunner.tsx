@@ -126,7 +126,7 @@ export function QuestionRunner({
       recordAttempt(user.id, {
         questionId: question.id,
         topicId: question.topic_id,
-        subjectId,
+        subjectId: question.subject_id ?? subjectId,
         source: "question-bank",
         correct,
       })

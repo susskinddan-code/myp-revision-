@@ -87,3 +87,54 @@ export function encouragement(streakInRow: number, correct: boolean) {
   if (streakInRow >= 3) return `${streakInRow} in a row. Keep it going.`;
   return "Correct. Nice one.";
 }
+
+export type AttemptWithSource = Attempt & { source?: string | null };
+
+export type Badge = { key: string; name: string; hint: string; earned: boolean; progress: number };
+
+/** Badges are derived from your answers, so they can never get out of sync. */
+export function badgesFor(attempts: AttemptWithSource[]): Badge[] {
+  const total = attempts.length;
+  const correct = attempts.filter((a) => a.correct).length;
+  const streak = streakOf(attempts);
+  const subjects = new Set(attempts.map((a) => a.subject_id).filter(Boolean)).size;
+  const papers = attempts.filter((a) => a.source === "practice-paper").length;
+  const accuracy = total ? correct / total : 0;
+  const mk = (key: string, name: string, hint: string, value: number, goal: number): Badge => ({
+    key,
+    name,
+    hint,
+    earned: value >= goal,
+    progress: Math.min(1, value / goal),
+  });
+  return [
+    mk("first", "First steps", "Answer your first question", total, 1),
+    mk("ten", "Warming up", "Answer 10 questions", total, 10),
+    mk("hundred", "Centurion", "Answer 100 questions", total, 100),
+    mk("five-hundred", "Dedicated", "Answer 500 questions", total, 500),
+    mk("streak3", "On a roll", "Study 3 days in a row", streak, 3),
+    mk("streak7", "Week warrior", "Study 7 days in a row", streak, 7),
+    mk("streak30", "Unstoppable", "Study 30 days in a row", streak, 30),
+    mk("sharp", "Sharp shooter", "80% accuracy over 50+ answers", total >= 50 ? accuracy : 0, 0.8),
+    mk("allrounder", "All-rounder", "Practise 5 different subjects", subjects, 5),
+    mk("paper", "Exam ready", "Sit a written practice paper", papers, 1),
+    mk("goal", "Goal getter", "Hit today's daily goal", todayCount(attempts), DAILY_GOAL),
+  ];
+}
+
+/** Small seeded generator so the daily challenge is the same for everyone on the same day. */
+export function seededRandom(seed: string) {
+  let h = 1779033703 ^ seed.length;
+  for (let i = 0; i < seed.length; i++) {
+    h = Math.imul(h ^ seed.charCodeAt(i), 3432918353);
+    h = (h << 13) | (h >>> 19);
+  }
+  return () => {
+    h = Math.imul(h ^ (h >>> 16), 2246822507);
+    h = Math.imul(h ^ (h >>> 13), 3266489909);
+    h ^= h >>> 16;
+    return (h >>> 0) / 4294967296;
+  };
+}
+
+export const todayKey = () => new Date().toISOString().slice(0, 10);

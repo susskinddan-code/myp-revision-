@@ -12,6 +12,7 @@ import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as AuthenticatedRouteRouteImport } from './routes/_authenticated/route'
 import { Route as AuthRouteImport } from './routes/auth'
+import { Route as DailyRouteImport } from './routes/daily'
 import { Route as AuthenticatedDashboardRouteImport } from './routes/_authenticated/dashboard'
 import { Route as EassessmentIndexRouteImport } from './routes/eassessment/index'
 import { Route as EassessmentAreaRouteImport } from './routes/eassessment/$area'
@@ -30,6 +31,11 @@ const AuthenticatedRouteRoute = AuthenticatedRouteRouteImport.update({
 const AuthRoute = AuthRouteImport.update({
   id: '/auth',
   path: '/auth',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const DailyRoute = DailyRouteImport.update({
+  id: '/daily',
+  path: '/daily',
   getParentRoute: () => rootRouteImport,
 } as any)
 const AuthenticatedDashboardRoute = AuthenticatedDashboardRouteImport.update({
@@ -61,6 +67,7 @@ const SubjectsSlugRoute = SubjectsSlugRouteImport.update({
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/auth': typeof AuthRoute
+  '/daily': typeof DailyRoute
   '/dashboard': typeof AuthenticatedDashboardRoute
   '/eassessment/$area': typeof EassessmentAreaRoute
   '/subjects/$slug': typeof SubjectsSlugRoute
@@ -70,6 +77,7 @@ export interface FileRoutesByFullPath {
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/auth': typeof AuthRoute
+  '/daily': typeof DailyRoute
   '/dashboard': typeof AuthenticatedDashboardRoute
   '/eassessment/$area': typeof EassessmentAreaRoute
   '/subjects/$slug': typeof SubjectsSlugRoute
@@ -81,6 +89,7 @@ export interface FileRoutesById {
   '/': typeof IndexRoute
   '/_authenticated': typeof AuthenticatedRouteRouteWithChildren
   '/auth': typeof AuthRoute
+  '/daily': typeof DailyRoute
   '/_authenticated/dashboard': typeof AuthenticatedDashboardRoute
   '/eassessment/$area': typeof EassessmentAreaRoute
   '/subjects/$slug': typeof SubjectsSlugRoute
@@ -92,6 +101,7 @@ export interface FileRouteTypes {
   fullPaths:
     | '/'
     | '/auth'
+    | '/daily'
     | '/dashboard'
     | '/eassessment/$area'
     | '/subjects/$slug'
@@ -101,6 +111,7 @@ export interface FileRouteTypes {
   to:
     | '/'
     | '/auth'
+    | '/daily'
     | '/dashboard'
     | '/eassessment/$area'
     | '/subjects/$slug'
@@ -111,6 +122,7 @@ export interface FileRouteTypes {
     | '/'
     | '/_authenticated'
     | '/auth'
+    | '/daily'
     | '/_authenticated/dashboard'
     | '/eassessment/$area'
     | '/subjects/$slug'
@@ -122,6 +134,7 @@ export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   AuthenticatedRouteRoute: typeof AuthenticatedRouteRouteWithChildren
   AuthRoute: typeof AuthRoute
+  DailyRoute: typeof DailyRoute
   EassessmentAreaRoute: typeof EassessmentAreaRoute
   SubjectsSlugRoute: typeof SubjectsSlugRoute
   EassessmentIndexRoute: typeof EassessmentIndexRoute
@@ -149,6 +162,13 @@ declare module '@tanstack/react-router' {
       path: '/auth'
       fullPath: '/auth'
       preLoaderRoute: typeof AuthRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/daily': {
+      id: '/daily'
+      path: '/daily'
+      fullPath: '/daily'
+      preLoaderRoute: typeof DailyRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/_authenticated/dashboard': {
@@ -204,6 +224,7 @@ const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   AuthenticatedRouteRoute: AuthenticatedRouteRouteWithChildren,
   AuthRoute: AuthRoute,
+  DailyRoute: DailyRoute,
   EassessmentAreaRoute: EassessmentAreaRoute,
   SubjectsSlugRoute: SubjectsSlugRoute,
   EassessmentIndexRoute: EassessmentIndexRoute,

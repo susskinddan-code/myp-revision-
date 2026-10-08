@@ -1,0 +1,59 @@
+[
+  {
+    "subject": "economics",
+    "grade": 5,
+    "title": "Economics MYP 5 eAssessment-style Practice Paper 1",
+    "criterion": null,
+    "questions": [
+      {
+        "position": 1,
+        "marks": 5,
+        "criterion": "A",
+        "content": "A farmer on the island of Sumra has a fixed amount of land and can grow wheat, corn, or a mixture. The table shows the possible combinations each year.\n\nOption | Wheat (tonnes) | Corn (tonnes)\n1 | 100 | 0\n2 | 80 | 20\n3 | 50 | 40\n4 | 0 | 60\n\n(a) Define the term scarcity. (1 mark)\n(b) The farmer moves from Option 1 to Option 2. State the opportunity cost of gaining the extra corn. (1 mark)\n(c) The farmer moves from Option 2 to Option 3. Calculate the opportunity cost of producing one extra tonne of corn, in tonnes of wheat. Show your working. (2 marks)\n(d) Explain why the opportunity cost of producing corn increases as the farmer moves from Option 1 to Option 4. (1 mark)",
+        "mark_scheme": "[1] (a) Limited resources (or supply) compared with unlimited wants / needs.\n[1] (b) 20 tonnes of wheat.\n[1] (c) Working: wheat lost = 80 - 50 = 30 tonnes for 20 tonnes of corn, so 30 / 20.\n[1] (c) Answer 1.5 tonnes of wheat.\n[1] (d) Land is not equally suited to both crops, so each extra tonne of corn requires giving up more wheat as the best corn land is used first (or equivalent explanation of increasing costs).\nAccept other valid points."
+      },
+      {
+        "position": 2,
+        "marks": 6,
+        "criterion": "B",
+        "content": "The table shows the weekly market for oranges in the town of Elbury.\n\nPrice per kilogram (dollars) | Quantity demanded (tonnes) | Quantity supplied (tonnes)\n1 | 800 | 200\n2 | 650 | 350\n3 | 500 | 500\n4 | 350 | 650\n5 | 200 | 800\n\nA bad harvest reduces the quantity supplied by 300 tonnes at every price (at a price of 1 dollar the new quantity supplied is zero).\n\n(a) Identify the equilibrium price and the equilibrium quantity before the bad harvest. (2 marks)\n(b) At a price of 5 dollars, state the size of the surplus and explain what is likely to happen to the price. (2 marks)\n(c) State the new equilibrium price and quantity after the bad harvest. (2 marks)",
+        "mark_scheme": "[1] (a) Equilibrium price 3 dollars per kilogram.\n[1] (a) Equilibrium quantity 500 tonnes.\n[1] (b) Surplus = 800 - 200 = 600 tonnes.\n[1] (b) Suppliers have unsold stock, so competition pushes the price down towards equilibrium.\n[1] (c) New equilibrium price 4 dollars (quantity supplied 650 - 300 = 350 equals quantity demanded 350).\n[1] (c) New equilibrium quantity 350 tonnes.\nAccept other valid points."
+      },
+      {
+        "position": 3,
+        "marks": 6,
+        "criterion": "A",
+        "content": "A cafe in Port Lenz raised the price of a cup of coffee from 4.00 dollars to 4.40 dollars. The number of cups sold each day fell from 500 to 460.\n\nPrice elasticity of demand (PED) = percentage change in quantity demanded divided by percentage change in price.\n\n(a) Calculate the percentage change in price. (1 mark)\n(b) Calculate the percentage change in quantity demanded. (1 mark)\n(c) Calculate the price elasticity of demand. (1 mark)\n(d) State whether demand for the coffee is elastic or inelastic. (1 mark)\n(e) Calculate the change in the cafe's total daily revenue after the price rise. Show your working. (2 marks)",
+        "mark_scheme": "[1] (a) 10% (increase).\n[1] (b) -8% (a fall of 8%).\n[1] (c) PED = -8 / 10 = -0.8 (accept 0.8).\n[1] (d) Inelastic, because the value is less than one (quantity falls proportionally less than price rises).\n[1] (e) Working: revenue before = 4.00 x 500 = 2,000 dollars; revenue after = 4.40 x 460 = 2,024 dollars.\n[1] (e) Revenue increases by 24 dollars.\nAccept other valid points."
+      },
+      {
+        "position": 4,
+        "marks": 5,
+        "criterion": "C",
+        "content": "A chemical factory on the River Mardale produces 1,000 tonnes of fertiliser each month. The factory dumps waste into the river, which kills fish and makes the water unsafe for the town downstream.\n\nFor each tonne of fertiliser:\nPrivate cost to the factory: 60 dollars\nCost of damage to the town and fishers: 25 dollars\nMarket price: 100 dollars\n\nUse accurate economic terms in your answers.\n\n(a) Define the term negative externality. (1 mark)\n(b) Calculate the social cost of producing one tonne of fertiliser. (1 mark)\n(c) Explain why the free market produces too much fertiliser from the point of view of society. (2 marks)\n(d) The government introduces a tax of 25 dollars per tonne. State one way this tax could improve the outcome. (1 mark)",
+        "mark_scheme": "[1] (a) A cost (or harm) imposed on third parties who are not part of the transaction.\n[1] (b) 60 + 25 = 85 dollars per tonne.\n[1] (c) The factory only considers its private costs and ignores the 25 dollars external cost.\n[1] (c) This makes the price too low and output higher than the socially best level (overproduction).\n[1] (d) The tax makes the factory pay for the damage (internalises the externality), reducing output towards the social optimum, or raises revenue to clean the river.\nAccept other valid points."
+      },
+      {
+        "position": 5,
+        "marks": 5,
+        "criterion": "B",
+        "content": "A government introduces a tax of 0.50 dollars per litre on sugary drinks. Before the tax the price was 1.50 dollars per litre. After the tax, the price paid by consumers rises to 1.80 dollars per litre. Weekly sales fall from 2,000,000 litres to 1,700,000 litres.\n\n(a) State the amount of the tax that is passed on to consumers per litre. (1 mark)\n(b) Calculate the weekly tax revenue received by the government. Show your working. (2 marks)\n(c) Calculate the percentage of the tax paid by consumers. (1 mark)\n(d) Explain one reason why a government may tax sugary drinks. (1 mark)",
+        "mark_scheme": "[1] (a) 1.80 - 1.50 = 0.30 dollars per litre.\n[1] (b) Working: tax per litre x quantity sold after the tax = 0.50 x 1,700,000.\n[1] (b) Answer 850,000 dollars.\n[1] (c) 0.30 / 0.50 x 100 = 60%.\n[1] (d) A valid reason with explanation, e.g. discourages consumption to improve public health, or raises revenue for healthcare, or corrects the negative effects of overconsumption.\nAccept other valid points."
+      },
+      {
+        "position": 6,
+        "marks": 7,
+        "criterion": "B",
+        "content": "The table shows economic data for the country of Veltria.\n\nYear | GDP (billion dollars) | Population (millions) | Consumer price index | Unemployment rate (%)\n2021 | 400 | 20.0 | 100 | 8\n2024 | 450 | 21.0 | 114.4 | 6\n\nThe consumer price index in 2023 was 110.\n\n(a) Calculate the percentage growth in GDP between 2021 and 2024. Show your working. (2 marks)\n(b) Calculate GDP per capita in 2024, to the nearest dollar. Show your working. (2 marks)\n(c) Calculate the rate of inflation between 2023 and 2024. (1 mark)\n(d) Explain one cost of high inflation for households. (2 marks)",
+        "mark_scheme": "[1] (a) Working: (450 - 400) / 400 x 100.\n[1] (a) Answer 12.5%.\n[1] (b) Working: 450 billion / 21.0 million (450,000 million / 21).\n[1] (b) Answer 21,429 dollars per person (accept 21,400).\n[1] (c) (114.4 - 110) / 110 x 100 = 4%.\n[1] (d) Identifies a cost, e.g. the purchasing power of money falls, or savings lose value, or wages may not keep up.\n[1] (d) Explains the effect, e.g. households can afford fewer goods and services, so living standards fall.\nAccept other valid points."
+      },
+      {
+        "position": 7,
+        "marks": 10,
+        "criterion": "D",
+        "content": "Santora is a developing country. Coffee makes up 70% of its export earnings and employs one in four workers. The government is deciding whether to continue relying on coffee or to encourage new manufacturing industries.\n\nCoffee price index (average world price)\nYear 1: 100\nYear 2: 135\nYear 3: 80\nYear 4: 120\nYear 5: 70\n\nThe Santoran dollar has increased in value against the United States dollar. Last year 1 Santoran dollar was worth 0.50 United States dollars. This year 1 Santoran dollar is worth 0.60 United States dollars.\n\nManufacturing sector (current)\nShare of the economy: 8%\nAverage wage: twice the average wage in farming\nMain problems: weak infrastructure, few skilled workers, high start-up costs\n\n(a) A bag of Santoran coffee is priced at 40 Santoran dollars. Calculate its price in United States dollars last year and this year. (2 marks)\n(b) Evaluate whether Santora should continue to rely mainly on coffee exports or encourage the growth of manufacturing. Use evidence from the information above and reach a justified conclusion. (8 marks)",
+        "mark_scheme": "[1] (a) Last year: 40 x 0.50 = 20 United States dollars.\n[1] (a) This year: 40 x 0.60 = 24 United States dollars.\n[1] (b) Coffee dependence is risky: prices are unstable (from 135 to 80, then 120 to 70), so export earnings and farmers' incomes are unpredictable.\n[1] (b) Coffee supports many jobs (one in four workers) and 70% of export earnings, so switching away too quickly could cause unemployment and lost foreign currency.\n[1] (b) The stronger Santoran dollar makes coffee 20% more expensive for foreign buyers (20 to 24 United States dollars), which may reduce export sales and income.\n[1] (b) Manufacturing pays higher wages (twice farming) and could raise incomes and living standards.\n[1] (b) Diversifying spreads risk, so the economy is less affected by falling coffee prices.\n[1] (b) Barriers to manufacturing: weak infrastructure, few skilled workers and high start-up costs, so change would be slow and need investment by the government or foreign firms.\n[1] (b) Weighs short-term and long-term effects or the benefits and costs, e.g. coffee gives income now, manufacturing offers stability later.\n[1] (b) A clear, justified conclusion consistent with the evidence, e.g. gradual diversification while supporting coffee farmers, with reasons.\nAccept other valid points."
+      }
+    ]
+  }
+]

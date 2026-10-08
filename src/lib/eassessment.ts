@@ -30,7 +30,7 @@ export const EASSESSMENT_AREAS: EArea[] = [
     blurb: "Read unseen texts, analyse how writers create meaning, and write a response.",
     looksLike: [
       "Unseen texts are shown on screen and you answer in your own words",
-      "Marked on analysing, organising, producing text and using language (criteria A to D)",
+      "Questions target analysing texts, organising ideas, producing text and using language",
       "Command terms such as analyse, explain and discuss decide how deep to go",
     ],
     bg: "bg-language-literature",
@@ -43,7 +43,7 @@ export const EASSESSMENT_AREAS: EArea[] = [
     blurb: "Work with sources and data, explain causes and effects, and build an argument.",
     looksLike: [
       "Source-based and case-study questions in your chosen discipline",
-      "Marked on knowing and understanding, investigating, communicating and thinking critically (A to D)",
+      "Questions target knowing and understanding, investigating, communicating and thinking critically",
       "Evidence matters: name a source, quote or figure, then explain it",
     ],
     bg: "bg-individuals-societies",
@@ -56,7 +56,7 @@ export const EASSESSMENT_AREAS: EArea[] = [
     blurb: "Apply scientific knowledge, read data and experiments, and explain what is happening.",
     looksLike: [
       "Questions on knowledge, experiment design, data and evaluating methods",
-      "Marked on knowing and understanding, inquiring and designing, processing and evaluating (A to C)",
+      "Questions target knowing and understanding, inquiring and designing, processing and evaluating",
       "Units, labelled graphs and 'explain why' answers pick up the marks",
     ],
     bg: "bg-sciences",
@@ -69,7 +69,7 @@ export const EASSESSMENT_AREAS: EArea[] = [
     blurb: "Number, algebra, geometry, statistics and probability, in standard or extended form.",
     looksLike: [
       "Calculation and problem-solving questions, with and without context",
-      "Marked on knowing and understanding, investigating patterns and communicating (A to C)",
+      "Questions target knowing and understanding, investigating patterns, communicating and real-world application",
       "Show every step, because method marks are real marks",
     ],
     bg: "bg-mathematics",
@@ -95,7 +95,7 @@ export const EASSESSMENT_AREAS: EArea[] = [
     blurb: "Connect ideas from two subject groups to explain a real-world issue.",
     looksLike: [
       "Case-study style tasks that need ideas from two subject groups",
-      "Marked on disciplinary grounding, synthesising and communicating",
+      "Questions reward disciplinary grounding, synthesising and communicating",
       "Practice questions for this area are still being built",
     ],
     bg: "bg-tertiary",

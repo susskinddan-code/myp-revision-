@@ -1,0 +1,59 @@
+[
+  {
+    "subject": "extended-mathematics",
+    "grade": 5,
+    "title": "Extended Mathematics MYP 5 eAssessment-style Practice Paper 1",
+    "criterion": null,
+    "questions": [
+      {
+        "content": "A theatre sells adult and child tickets. A group of 3 adults and 2 children pays £48. Another group of 2 adults and 5 children pays £54.\n\n(a) Let a be the price of an adult ticket and c the price of a child ticket, both in pounds. Write down two equations to represent this information. (2 marks)\n(b) Solve the equations to find the price of an adult ticket and the price of a child ticket. (3 marks)",
+        "marks": 5,
+        "criterion": "A",
+        "mark_scheme": "(a)\n[1] 3a + 2c = 48\n[1] 2a + 5c = 54\n(b)\n[1] Method: eliminate one variable, e.g. 5 × (first) gives 15a + 10c = 240 and 2 × (second) gives 4a + 10c = 108; subtract: 11a = 132\n[1] a = 12 (adult ticket £12)\n[1] Substitute: 36 + 2c = 48 → c = 6 (child ticket £6). ECF from (a) for a consistent method.\nAccept: substitution method. Check: 2 × 12 + 5 × 6 = 54.",
+        "position": 1
+      },
+      {
+        "content": "A biologist grows bacteria in a laboratory. At the start there are 250 bacteria, and the number increases by 20% every hour.\n\n(a) Calculate the number of bacteria after 3 hours. (2 marks)\n(b) Write down a formula for the number of bacteria, N, after n hours. (1 mark)\n(c) Find the smallest whole number of hours after which there are more than 1000 bacteria. Show your working. (2 marks)",
+        "marks": 5,
+        "criterion": "B",
+        "mark_scheme": "(a)\n[1] Method: 250 × 1.2³\n[1] 432 bacteria\n(b)\n[1] N = 250 × 1.2^n\n(c)\n[1] Method: trial of values, e.g. after 7 hours N = 250 × 1.2⁷ = 895.8 (less than 1000)\n[1] After 8 hours N = 250 × 1.2⁸ = 1074.95 (more than 1000), so the answer is 8 hours. ECF from (b).\nCommon error: using 250 × 0.2^n or adding 20% of 250 each hour (linear growth would wrongly give 16 hours).",
+        "position": 2
+      },
+      {
+        "content": "A surveyor needs the distance across a river. She stands at point A and marks a tree at B on the opposite bank and a post at C further along her own bank. The distance AB is 120 m, angle BAC is 48° and angle ABC is 71°.\n\n(a) Calculate the size of angle ACB. (1 mark)\n(b) Use the sine rule to calculate the length AC. Give your answer correct to 1 decimal place. (2 marks)\n(c) Calculate the area of triangle ABC. Give your answer correct to 3 significant figures. (2 marks)",
+        "marks": 5,
+        "criterion": "A",
+        "mark_scheme": "(a)\n[1] 180 − 48 − 71 = 61°\n(b)\n[1] Method: AC ÷ sin 71° = 120 ÷ sin 61° (angle B is opposite AC and angle C is opposite AB)\n[1] AC = 129.7 m (129.73 before rounding). ECF from (a).\n(c)\n[1] Method: area = ½ × AB × AC × sin A = ½ × 120 × 129.7 × sin 48°. ECF from (b).\n[1] 5780 m² (5784 using unrounded values; accept 5780 to 5790).\nCommon error: using 71° as the included angle between AB and AC.",
+        "position": 3
+      },
+      {
+        "content": "Twelve athletes complete an online puzzle. Their times, in seconds, in order are:\n14, 16, 17, 19, 21, 22, 24, 26, 29, 31, 35, 52\n\n(a) Write down the median. (1 mark)\n(b) Find the lower quartile and the upper quartile. (2 marks)\n(c) Calculate the interquartile range. (1 mark)\n(d) A value is an outlier if it is more than 1.5 × the interquartile range above the upper quartile. Show whether 52 seconds is an outlier. (2 marks)",
+        "marks": 6,
+        "criterion": "C",
+        "mark_scheme": "(a)\n[1] Median = (22 + 24) ÷ 2 = 23\n(b)\n[1] Lower quartile = median of 14, 16, 17, 19, 21, 22 = (17 + 19) ÷ 2 = 18\n[1] Upper quartile = median of 24, 26, 29, 31, 35, 52 = (29 + 31) ÷ 2 = 30\n(c)\n[1] IQR = 30 − 18 = 12. ECF from (b).\n(d)\n[1] Method: upper limit = 30 + 1.5 × 12 = 48. ECF from (c).\n[1] 52 is greater than 48, so 52 seconds is an outlier. Conclusion must be stated.",
+        "position": 4
+      },
+      {
+        "content": "A water rocket is launched from a platform. Its height, h metres, above the ground after t seconds is modelled by\nh = −t² + 6t + 1\n\n(a) State the height of the platform. (1 mark)\n(b) Write h in the form h = −(t − p)² + q, and hence state the maximum height of the rocket and the time at which it occurs. (2 marks)\n(c) Calculate the time at which the rocket hits the ground. Give your answer correct to 2 decimal places. (2 marks)",
+        "marks": 5,
+        "criterion": "B",
+        "mark_scheme": "(a)\n[1] 1 m (t = 0, so h = 1)\n(b)\n[1] h = −(t − 3)² + 10 (completing the square, or using t = −b ÷ 2a = 3)\n[1] Maximum height 10 m at t = 3 s. ECF from the completed-square form.\n(c)\n[1] Method: set −t² + 6t + 1 = 0, so t² − 6t − 1 = 0, and solve using the formula or by completing the square: t = 3 ± √10\n[1] t = 6.16 s (reject the negative solution t = −0.16 because time cannot be negative).\nCheck: −(6.16)² + 6 × 6.16 + 1 = 0.0 approximately.",
+        "position": 5
+      },
+      {
+        "content": "On school days the probability that it rains is 0.3. When it rains, the probability that a bus is late is 0.4. When it does not rain, the probability that the bus is late is 0.1.\n\n(a) Calculate the probability that it rains and the bus is late. (1 mark)\n(b) Calculate the probability that the bus is late on a school day. (2 marks)\n(c) Assume the days are independent. Calculate the probability that the bus is late at least once in a school week of 5 days. Give your answer correct to 3 significant figures. (3 marks)",
+        "marks": 6,
+        "criterion": "D",
+        "mark_scheme": "(a)\n[1] 0.3 × 0.4 = 0.12\n(b)\n[1] Method: P(no rain and late) = 0.7 × 0.1 = 0.07\n[1] P(late) = 0.12 + 0.07 = 0.19. ECF from (a).\n(c)\n[1] P(not late on a day) = 1 − 0.19 = 0.81. ECF from (b).\n[1] P(not late on any of 5 days) = 0.81⁵ = 0.3487\n[1] P(late at least once) = 1 − 0.3487 = 0.651\nCommon error: calculating 5 × 0.19 = 0.95.",
+        "position": 6
+      },
+      {
+        "content": "A ferry leaves port P and sails 12 km on a bearing of 040° to a buoy B. It then sails 9 km on a bearing of 150° to a lighthouse C.\n\n(a) Show that angle PBC is 70°. (2 marks)\n(b) Use the cosine rule to calculate the direct distance PC. Give your answer correct to 1 decimal place. (3 marks)\n(c) Use the sine rule to calculate angle BPC. Give your answer correct to 1 decimal place. (2 marks)\n(d) Calculate the bearing of C from P, correct to the nearest degree. (1 mark)",
+        "marks": 8,
+        "criterion": "D",
+        "mark_scheme": "(a)\n[1] The bearing of P from B is 040° + 180° = 220° (alternate/co-interior angles on parallel north lines).\n[1] Angle PBC = 220° − 150° = 70°\n(b)\n[1] Method: PC² = 12² + 9² − 2 × 12 × 9 × cos 70°\n[1] PC² = 225 − 216 × cos 70° = 151.1\n[1] PC = 12.3 km (12.29 before rounding).\nCommon error: using Pythagoras (the triangle is not right-angled).\n(c)\n[1] Method: sin(BPC) ÷ 9 = sin 70° ÷ 12.3\n[1] Angle BPC = 43.5° (43.47° before rounding). ECF from (b).\n(d)\n[1] Bearing = 040° + 43.5° = 083.5°, which is 083° or 084° to the nearest degree (accept either: 83.47° gives 083°). ECF from (c).",
+        "position": 7
+      }
+    ]
+  }
+]

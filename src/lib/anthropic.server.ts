@@ -8,7 +8,8 @@ export type ClaudeResult<T> = { ok: true; value: T } | { ok: false; error: strin
 
 function errorForStatus(status: number, what: string): string {
   if (status === 429) return `The ${what} service is busy right now. Try again in a moment.`;
-  if (status === 402 || status === 529) return `The ${what} service is unavailable right now. Try again shortly.`;
+  if (status === 402 || status === 529)
+    return `The ${what} service is unavailable right now. Try again shortly.`;
   if (status === 401 || status === 403) return `AI ${what} is not configured correctly.`;
   return `Could not complete ${what} right now.`;
 }
@@ -42,7 +43,11 @@ export async function claudeText(opts: {
   what: string;
 }): Promise<ClaudeResult<string>> {
   const res = await post(
-    { model: MODEL, max_tokens: opts.maxTokens, messages: [{ role: "user", content: opts.prompt }] },
+    {
+      model: MODEL,
+      max_tokens: opts.maxTokens,
+      messages: [{ role: "user", content: opts.prompt }],
+    },
     opts.what,
   );
   if (!res.ok) return res;
@@ -89,8 +94,11 @@ export async function claudeJson<T>(opts: {
     const json = (await res.value.json()) as {
       content?: { type: string; name?: string; input?: unknown }[];
     };
-    const block = (json.content ?? []).find((b) => b.type === "tool_use" && b.name === opts.toolName);
-    if (!block || block.input == null) return { ok: false, error: `The ${opts.what} result could not be read.` };
+    const block = (json.content ?? []).find(
+      (b) => b.type === "tool_use" && b.name === opts.toolName,
+    );
+    if (!block || block.input == null)
+      return { ok: false, error: `The ${opts.what} result could not be read.` };
     return { ok: true, value: block.input as T };
   } catch {
     return { ok: false, error: `The ${opts.what} result could not be read.` };

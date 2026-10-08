@@ -1,0 +1,59 @@
+[
+  {
+    "subject": "physics",
+    "grade": 5,
+    "title": "Physics MYP 5 eAssessment-style Practice Paper 1",
+    "criterion": null,
+    "questions": [
+      {
+        "content": "A delivery drone flies in a straight line along a school sports field. Its speed–time graph has three straight sections:\nSection 1: speed rises steadily from 0 to 12 m/s in 6 s.\nSection 2: speed stays at 12 m/s for 10 s.\nSection 3: speed falls steadily from 12 m/s to 0 in 4 s.\n\n(a) State what the horizontal section of a speed–time graph tells you about the motion of the drone. (1 mark)\n(b) Calculate the acceleration of the drone during Section 1. (2 marks)\n(c) Calculate the total distance travelled by the drone during the whole journey. (2 marks)",
+        "marks": 5,
+        "criterion": "A",
+        "mark_scheme": "(a)\n[1] The drone is moving at a constant speed (not accelerating; acceleration is zero). Accept: constant velocity.\n(b)\n[1] Method: a = change in speed ÷ time = 12 ÷ 6\n[1] a = 2 m/s² (unit required; accept 2 m/s per second). Award the unit mark only with a correct value.\nCommon error: using 12 × 6 or dividing by 18 s.\n(c)\n[1] Method: distance = area under graph = ½ × 6 × 12 + 12 × 10 + ½ × 4 × 12 = 36 + 120 + 24\n[1] 180 m (unit required). ECF for a correct method with one arithmetic slip is not awarded the final mark.\nAccept: trapezium method ½ × (10 + 20) × 12 = 180 m.\nCommon error: using only the constant-speed section (120 m), or forgetting the ½ for triangles.",
+        "position": 1
+      },
+      {
+        "content": "A building site uses a motor to lift a load of bricks. The load has a mass of 80 kg and is lifted vertically through 15 m in 30 s. Use gravitational field strength g = 10 N/kg.\n\n(a) Calculate the gain in gravitational potential energy of the bricks. (2 marks)\n(b) Calculate the useful power output of the motor. (1 mark)\n(c) The motor takes in 16 000 J of electrical energy during the lift. Calculate the efficiency of the motor as a percentage. (2 marks)",
+        "marks": 5,
+        "criterion": "A",
+        "mark_scheme": "(a)\n[1] Method: GPE = mgh = 80 × 10 × 15\n[1] 12 000 J (accept 12 kJ). Unit required.\n(b)\n[1] Power = energy ÷ time = 12 000 ÷ 30 = 400 W. ECF from (a).\n(c)\n[1] Method: efficiency = useful energy out ÷ total energy in × 100 = 12 000 ÷ 16 000 × 100. ECF from (a).\n[1] 75% (accept 0.75 if clearly written as a fraction of 1 only if the question asked for a percentage: percentage form preferred).\nCommon error: dividing 16 000 by 12 000 (gives 133%, efficiency cannot exceed 100%).",
+        "position": 2
+      },
+      {
+        "content": "Amira investigates how the length of a nichrome wire affects its electrical resistance. She connects the wire to a 3.0 V cell and changes the length of wire in the circuit.\n\n(a) Identify the independent variable and the dependent variable in this investigation. (2 marks)\n(b) Describe how Amira should connect an ammeter and a voltmeter in the circuit so that she can find the resistance of the wire. (2 marks)\n(c) For a length of 50 cm, the voltmeter reads 3.0 V and the ammeter reads 0.25 A. Calculate the resistance of this length of wire. (1 mark)\n(d) Suggest one improvement to the method that would make her results more reliable. (1 mark)",
+        "marks": 6,
+        "criterion": "B",
+        "mark_scheme": "(a)\n[1] Independent variable: length of the wire.\n[1] Dependent variable: resistance (accept: current or potential difference, as resistance is calculated from these).\n(b)\n[1] Ammeter in series with the wire (in the same loop as the cell and wire).\n[1] Voltmeter in parallel (across) the wire only.\n(c)\n[1] R = V ÷ I = 3.0 ÷ 0.25 = 12 Ω (unit required).\n(d)\n[1] Any one of: repeat each length at least three times and calculate a mean; use more lengths; switch the current off between readings to stop the wire heating (temperature affects resistance); use a variable power supply to keep current low.\nCommon error: stating a control variable (such as wire material) as an improvement without saying how it improves reliability.",
+        "position": 3
+      },
+      {
+        "content": "A group of students investigates a simple pendulum. They change the length L of the string and time 10 complete swings, t. The period T is the time for one swing, so T = t ÷ 10.\n\nLength L (cm): 20, 40, 60, 80\nTime for 10 swings t (s): 9.0, 12.7, 15.5, 17.9\nT² (s²) for the first three lengths: 0.81, 1.61, 2.40\n\n(a) Calculate the period T for the 60 cm pendulum. (1 mark)\n(b) Calculate T² for the 80 cm pendulum, giving your answer to 2 decimal places. (1 mark)\n(c) Describe the relationship between T² and L shown by the data, and support your answer with a calculation. (2 marks)\n(d) Explain why the students timed 10 swings instead of timing a single swing. (1 mark)",
+        "marks": 5,
+        "criterion": "C",
+        "mark_scheme": "(a)\n[1] T = 15.5 ÷ 10 = 1.55 s\n(b)\n[1] T = 17.9 ÷ 10 = 1.79 s, so T² = 1.79² = 3.20 s² (accept 3.2)\n(c)\n[1] T² is (directly) proportional to L: T² increases at the same rate as L (doubling L roughly doubles T²).\n[1] Supporting calculation: T² ÷ L is approximately constant, e.g. 0.81 ÷ 20 = 0.0405 and 3.20 ÷ 80 = 0.040 (any two valid ratios, accept 0.04 s²/cm). ECF from (b).\nCommon error: saying T is proportional to L (T ÷ L is not constant).\n(d)\n[1] Human reaction-time error at the start and stop is spread over 10 swings, so the percentage uncertainty in T is much smaller (more accurate and precise period).",
+        "position": 4
+      },
+      {
+        "content": "A hospital uses a radioactive isotope to scan patients. The isotope has a half-life of 8 days. A sample has an activity of 640 counts per minute when it is delivered.\n\n(a) State what is meant by the term half-life. (1 mark)\n(b) Calculate the activity of the sample 24 days after delivery. (2 marks)\n(c) Explain why an isotope with a half-life of 8 days is more suitable for a medical scan than an isotope with a half-life of 8 years. (1 mark)\n(d) Suggest one safety precaution that hospital staff should take when handling radioactive sources. (1 mark)",
+        "marks": 5,
+        "criterion": "D",
+        "mark_scheme": "(a)\n[1] The time taken for the activity (or number of undecayed nuclei) of a sample to fall to half of its original value.\n(b)\n[1] Method: 24 days = 3 half-lives, so 640 → 320 → 160 → 80\n[1] 80 counts per minute (unit required).\nCommon error: dividing 640 by 3, or by 24.\n(c)\n[1] The 8-day source decays quickly, so the patient is exposed to radiation for a much shorter time and the activity soon falls to a safe level (an 8-year source would stay radioactive in the body and in waste for years).\n(d)\n[1] Any one of: use tongs or remote handling to increase distance; limit time of exposure; use lead or other shielding; wear a dosimeter badge to monitor dose; store the source in a shielded container.",
+        "position": 5
+      },
+      {
+        "content": "A fishing boat uses sonar to measure the depth of the sea. The boat sends a pulse of ultrasound straight down. The echo from the sea floor returns 0.80 s later. The speed of sound in sea water is 1500 m/s.\n\n(a) Calculate the depth of the sea at this point. (3 marks)\n(b) The ultrasound has a frequency of 50 000 Hz. Calculate its wavelength. (2 marks)\n(c) Explain why sonar systems use ultrasound rather than sound that humans can hear. (1 mark)",
+        "marks": 6,
+        "criterion": "A",
+        "mark_scheme": "(a)\n[1] The pulse travels down and back, so the time to the sea floor is 0.80 ÷ 2 = 0.40 s\n[1] Method: distance = speed × time = 1500 × 0.40\n[1] 600 m (unit required).\nCommon error: forgetting to halve the time (gives 1200 m); award at most 1 mark for method.\n(b)\n[1] Method: wavelength = speed ÷ frequency = 1500 ÷ 50 000\n[1] 0.03 m (accept 3 cm or 3 × 10⁻² m).\n(c)\n[1] Ultrasound has a short wavelength, so it forms a narrow beam that reflects off small objects (such as fish) and gives detailed, directional echoes; also it does not disturb or annoy people or marine life in the audible range. Accept any one of these.",
+        "position": 6
+      },
+      {
+        "content": "A safety engineer tests a car of mass 1200 kg that travels at 15 m/s into a solid barrier and comes to rest. The front of the car is built as a crumple zone, so the car takes 0.60 s to stop.\n\n(a) Calculate the momentum of the car just before the impact. State the unit. (2 marks)\n(b) Calculate the average force on the car during the collision. (2 marks)\n(c) Calculate the average deceleration of the car. (1 mark)\n(d) A rigid car without a crumple zone is stopped by the same barrier in 0.10 s. Calculate the average force on this car. (1 mark)\n(e) Using your answers, explain how a crumple zone reduces the risk of injury to the passengers. (2 marks)",
+        "marks": 8,
+        "criterion": "D",
+        "mark_scheme": "(a)\n[1] Method: momentum = mass × velocity = 1200 × 15\n[1] 18 000 kg m/s (accept N s). Unit required.\n(b)\n[1] Method: force = change in momentum ÷ time = 18 000 ÷ 0.60. ECF from (a).\n[1] 30 000 N (accept 30 kN).\n(c)\n[1] a = change in speed ÷ time = 15 ÷ 0.60 = 25 m/s² (accept F ÷ m = 30 000 ÷ 1200 = 25 m/s²).\n(d)\n[1] Force = 18 000 ÷ 0.10 = 180 000 N (accept 180 kN). ECF from (a).\n(e)\n[1] The crumple zone increases the time taken to stop, so the same change in momentum happens over a longer time (30 000 N compared with 180 000 N).\n[1] A smaller average force (and smaller deceleration) acts on the passengers, so there is less chance of serious injury.\nCommon error: saying the crumple zone reduces the momentum change; the change in momentum is the same in both cars.",
+        "position": 7
+      }
+    ]
+  }
+]

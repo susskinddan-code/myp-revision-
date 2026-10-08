@@ -68,7 +68,11 @@ export async function fetchSubjects(grade: number) {
 }
 
 export async function fetchSubjectBySlug(slug: string) {
-  const { data, error } = await supabase.from("subjects").select("*").eq("slug", slug).maybeSingle();
+  const { data, error } = await supabase
+    .from("subjects")
+    .select("*")
+    .eq("slug", slug)
+    .maybeSingle();
   if (error) throw error;
   return data;
 }
@@ -124,10 +128,7 @@ export async function fetchQuestionsForTopics(topicIds: string[]) {
 /** Flashcards for a topic and (optionally) its sub-topics. */
 export async function fetchFlashcardsForTopics(topicIds: string[]) {
   if (!topicIds.length) return [];
-  const { data, error } = await supabase
-    .from("flashcards")
-    .select("*")
-    .in("topic_id", topicIds);
+  const { data, error } = await supabase.from("flashcards").select("*").in("topic_id", topicIds);
   if (error) throw error;
   return data;
 }
@@ -154,7 +155,23 @@ export async function fetchRelatedPaperQuestions(
   topicName: string,
 ) {
   const stop = new Set([
-    "and","the","of","in","on","to","a","an","for","with","vs","its","introduction","properties","calculations","diagrams","types",
+    "and",
+    "the",
+    "of",
+    "in",
+    "on",
+    "to",
+    "a",
+    "an",
+    "for",
+    "with",
+    "vs",
+    "its",
+    "introduction",
+    "properties",
+    "calculations",
+    "diagrams",
+    "types",
   ]);
   const words = topicName
     .toLowerCase()
@@ -285,7 +302,7 @@ export function computeStreak(dates: string[]): number {
   if (days.size === 0) return 0;
   const today = new Date();
   const key = (d: Date) => d.toISOString().slice(0, 10);
-  let cursor = new Date(today);
+  const cursor = new Date(today);
   if (!days.has(key(cursor))) {
     cursor.setDate(cursor.getDate() - 1);
     if (!days.has(key(cursor))) return 0;
@@ -348,4 +365,28 @@ export function shuffle<T>(list: T[]): T[] {
     [pool[i], pool[j]] = [pool[j]!, pool[i]!];
   }
   return pool;
+}
+
+/**
+ * The daily challenge: today's "subject of the day" at the student's grade and ten
+ * questions from it. Same for everyone on the same day.
+ */
+export async function fetchDailyChallenge(grade: number, rand: () => number) {
+  const subjects = await fetchSubjects(grade);
+  if (!subjects.length) return { subject: null, questions: [] as Question[] };
+  const subject = subjects[Math.floor(rand() * subjects.length)]!;
+  const { data, error } = await supabase
+    .from("questions")
+    .select("*")
+    .eq("subject_id", subject.id)
+    .eq("grade", grade)
+    .eq("type", "MCQ")
+    .limit(1000);
+  if (error) throw error;
+  const pool = [...(data ?? [])];
+  for (let i = pool.length - 1; i > 0; i--) {
+    const j = Math.floor(rand() * (i + 1));
+    [pool[i], pool[j]] = [pool[j]!, pool[i]!];
+  }
+  return { subject, questions: pool.slice(0, 10) };
 }

@@ -4,7 +4,16 @@ import { toast } from "sonner";
 import { supabase } from "@/integrations/supabase/client";
 import { useAuth } from "@/hooks/use-auth";
 import { Flame, Target, Zap, CalendarDays, ArrowRight } from "lucide-react";
-import { DAILY_GOAL, levelFor, lastSevenDays, todayCount, xpFor, streakOf } from "@/lib/progress";
+import { Lock, Award } from "lucide-react";
+import {
+  badgesFor,
+  DAILY_GOAL,
+  levelFor,
+  lastSevenDays,
+  todayCount,
+  xpFor,
+  streakOf,
+} from "@/lib/progress";
 import { daysToMaySession } from "@/lib/eassessment";
 import {
   fetchAttempts,
@@ -63,6 +72,7 @@ function Dashboard() {
   const today = todayCount(list);
   const goalPct = Math.min(1, today / DAILY_GOAL);
   const week = lastSevenDays(list);
+  const badges = badgesFor(list);
   const weekMax = Math.max(1, ...week.map((d) => d.count));
   const subjectOf = (id: string | null) => subjects?.find((s) => s.id === id);
   const subjectName = (id: string | null) => subjectOf(id)?.name ?? "Study session";
@@ -227,6 +237,21 @@ function Dashboard() {
         </Link>
       </section>
 
+      <Link
+        to="/daily"
+        className="card-lift mt-4 flex items-center justify-between gap-4 rounded-lg border border-border bg-card p-5"
+      >
+        <span>
+          <span className="block text-xs uppercase tracking-wide text-muted-foreground">
+            New every day
+          </span>
+          <span className="mt-1 block font-display text-xl">
+            Daily challenge: 10 questions, 1 streak day
+          </span>
+        </span>
+        <ArrowRight className="size-5 text-primary" />
+      </Link>
+
       <div className="mt-4 grid gap-4 sm:grid-cols-3">
         <Stat value={`${total}`} label="Questions answered" />
         <Stat value={`${Math.round(accuracy * 100)}%`} label="Accuracy" />
@@ -294,6 +319,43 @@ function Dashboard() {
             </p>
           )}
         </div>
+      </section>
+
+      <section className="mt-10">
+        <h2 className="flex items-center gap-2 font-display text-2xl">
+          <Award className="size-5 text-accent" /> Badges{" "}
+          <span className="text-base text-muted-foreground">
+            {badges.filter((b) => b.earned).length}/{badges.length}
+          </span>
+        </h2>
+        <ul className="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+          {badges.map((b) => (
+            <li
+              key={b.key}
+              className={`rounded-lg border p-4 ${
+                b.earned ? "border-accent/50 bg-accent/10" : "border-border bg-card"
+              }`}
+            >
+              <p className="flex items-center gap-2 font-medium">
+                {b.earned ? (
+                  <Award className="size-4 text-accent" />
+                ) : (
+                  <Lock className="size-4 text-muted-foreground" />
+                )}
+                {b.name}
+              </p>
+              <p className="mt-1 text-xs text-muted-foreground">{b.hint}</p>
+              {!b.earned ? (
+                <div className="mt-2 h-1 overflow-hidden rounded-full bg-secondary">
+                  <div
+                    className="h-full rounded-full bg-primary"
+                    style={{ width: `${Math.round(b.progress * 100)}%` }}
+                  />
+                </div>
+              ) : null}
+            </li>
+          ))}
+        </ul>
       </section>
 
       <section className="mt-10">

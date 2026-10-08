@@ -125,7 +125,10 @@ export const gradePaper = createServerFn({ method: "POST" })
 
     const parsed = result.value;
     if (!Array.isArray(parsed.marks) || !parsed.marks.length) {
-      return { marks: null as PaperMark[] | null, error: "The marking result could not be read. Try submitting again." };
+      return {
+        marks: null as PaperMark[] | null,
+        error: "The marking result could not be read. Try submitting again.",
+      };
     }
     const marks: PaperMark[] = parsed.marks.map((m) => {
       const max = Math.max(1, Number(m.max_marks) || 1);

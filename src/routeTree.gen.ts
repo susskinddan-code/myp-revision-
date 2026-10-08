@@ -13,6 +13,7 @@ import { Route as IndexRouteImport } from './routes/index'
 import { Route as AuthenticatedRouteRouteImport } from './routes/_authenticated/route'
 import { Route as AuthRouteImport } from './routes/auth'
 import { Route as DailyRouteImport } from './routes/daily'
+import { Route as PastPapersRouteImport } from './routes/past-papers'
 import { Route as AuthenticatedDashboardRouteImport } from './routes/_authenticated/dashboard'
 import { Route as EassessmentIndexRouteImport } from './routes/eassessment/index'
 import { Route as EassessmentAreaRouteImport } from './routes/eassessment/$area'
@@ -36,6 +37,11 @@ const AuthRoute = AuthRouteImport.update({
 const DailyRoute = DailyRouteImport.update({
   id: '/daily',
   path: '/daily',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const PastPapersRoute = PastPapersRouteImport.update({
+  id: '/past-papers',
+  path: '/past-papers',
   getParentRoute: () => rootRouteImport,
 } as any)
 const AuthenticatedDashboardRoute = AuthenticatedDashboardRouteImport.update({
@@ -68,6 +74,7 @@ export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/auth': typeof AuthRoute
   '/daily': typeof DailyRoute
+  '/past-papers': typeof PastPapersRoute
   '/dashboard': typeof AuthenticatedDashboardRoute
   '/eassessment/$area': typeof EassessmentAreaRoute
   '/subjects/$slug': typeof SubjectsSlugRoute
@@ -78,6 +85,7 @@ export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/auth': typeof AuthRoute
   '/daily': typeof DailyRoute
+  '/past-papers': typeof PastPapersRoute
   '/dashboard': typeof AuthenticatedDashboardRoute
   '/eassessment/$area': typeof EassessmentAreaRoute
   '/subjects/$slug': typeof SubjectsSlugRoute
@@ -90,6 +98,7 @@ export interface FileRoutesById {
   '/_authenticated': typeof AuthenticatedRouteRouteWithChildren
   '/auth': typeof AuthRoute
   '/daily': typeof DailyRoute
+  '/past-papers': typeof PastPapersRoute
   '/_authenticated/dashboard': typeof AuthenticatedDashboardRoute
   '/eassessment/$area': typeof EassessmentAreaRoute
   '/subjects/$slug': typeof SubjectsSlugRoute
@@ -102,6 +111,7 @@ export interface FileRouteTypes {
     | '/'
     | '/auth'
     | '/daily'
+    | '/past-papers'
     | '/dashboard'
     | '/eassessment/$area'
     | '/subjects/$slug'
@@ -112,6 +122,7 @@ export interface FileRouteTypes {
     | '/'
     | '/auth'
     | '/daily'
+    | '/past-papers'
     | '/dashboard'
     | '/eassessment/$area'
     | '/subjects/$slug'
@@ -123,6 +134,7 @@ export interface FileRouteTypes {
     | '/_authenticated'
     | '/auth'
     | '/daily'
+    | '/past-papers'
     | '/_authenticated/dashboard'
     | '/eassessment/$area'
     | '/subjects/$slug'
@@ -135,6 +147,7 @@ export interface RootRouteChildren {
   AuthenticatedRouteRoute: typeof AuthenticatedRouteRouteWithChildren
   AuthRoute: typeof AuthRoute
   DailyRoute: typeof DailyRoute
+  PastPapersRoute: typeof PastPapersRoute
   EassessmentAreaRoute: typeof EassessmentAreaRoute
   SubjectsSlugRoute: typeof SubjectsSlugRoute
   EassessmentIndexRoute: typeof EassessmentIndexRoute
@@ -169,6 +182,13 @@ declare module '@tanstack/react-router' {
       path: '/daily'
       fullPath: '/daily'
       preLoaderRoute: typeof DailyRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/past-papers': {
+      id: '/past-papers'
+      path: '/past-papers'
+      fullPath: '/past-papers'
+      preLoaderRoute: typeof PastPapersRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/_authenticated/dashboard': {
@@ -225,6 +245,7 @@ const rootRouteChildren: RootRouteChildren = {
   AuthenticatedRouteRoute: AuthenticatedRouteRouteWithChildren,
   AuthRoute: AuthRoute,
   DailyRoute: DailyRoute,
+  PastPapersRoute: PastPapersRoute,
   EassessmentAreaRoute: EassessmentAreaRoute,
   SubjectsSlugRoute: SubjectsSlugRoute,
   EassessmentIndexRoute: EassessmentIndexRoute,

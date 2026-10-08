@@ -28,7 +28,16 @@ const GRADE = 5;
 const TABS = ["Readiness", "Timed paper", "Mixed test", "Build my exam", "Exam skills"] as const;
 type Tab = (typeof TABS)[number];
 
+type AreaSearch = { subject?: string; tab?: Tab; paper?: string };
+
 export const Route = createFileRoute("/eassessment/$area")({
+  validateSearch: (s: Record<string, unknown>): AreaSearch => {
+    const out: AreaSearch = {};
+    if (typeof s["subject"] === "string") out.subject = s["subject"];
+    if (TABS.includes(s["tab"] as Tab)) out.tab = s["tab"] as Tab;
+    if (typeof s["paper"] === "string") out.paper = s["paper"];
+    return out;
+  },
   loader: ({ params }) => {
     const area = findArea(params.area);
     if (!area) throw notFound();
@@ -45,8 +54,11 @@ export const Route = createFileRoute("/eassessment/$area")({
 
 function AreaPage() {
   const { area } = Route.useLoaderData();
-  const [tab, setTab] = useState<Tab>(area.slugs.length ? "Readiness" : "Exam skills");
-  const [slug, setSlug] = useState<string | null>(null);
+  const search = Route.useSearch();
+  const [tab, setTab] = useState<Tab>(
+    search.tab ?? (area.slugs.length ? "Readiness" : "Exam skills"),
+  );
+  const [slug, setSlug] = useState<string | null>(search.subject ?? null);
 
   const { data: subjects } = useQuery({
     queryKey: ["ea-subjects", area.key],
@@ -127,6 +139,7 @@ function AreaPage() {
               subjectId={subject.id}
               subjectName={subject.name}
               areaMinutes={area.minutes}
+              initialPaperId={search.paper ?? null}
             />
           ) : null}
           {tab === "Mixed test" && subject ? (
@@ -225,12 +238,14 @@ function TimedPapers({
   subjectId,
   subjectName,
   areaMinutes,
+  initialPaperId,
 }: {
   subjectId: string;
   subjectName: string;
   areaMinutes: number;
+  initialPaperId: string | null;
 }) {
-  const [paperId, setPaperId] = useState<string | null>(null);
+  const [paperId, setPaperId] = useState<string | null>(initialPaperId);
   const { data: papers, isLoading } = useQuery({
     queryKey: ["papers", subjectId, GRADE],
     queryFn: () => fetchPapers(subjectId, GRADE),

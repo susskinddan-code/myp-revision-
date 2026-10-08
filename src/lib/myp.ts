@@ -390,3 +390,14 @@ export async function fetchDailyChallenge(grade: number, rand: () => number) {
   }
   return { subject, questions: pool.slice(0, 10) };
 }
+
+/** Every written practice paper at a grade, with its subject, for the Past papers page. */
+export async function fetchAllPapers(grade: number) {
+  const { data, error } = await supabase
+    .from("past_papers")
+    .select("id, title, grade, subject_id, subjects(name, slug), paper_questions(count)")
+    .eq("grade", grade)
+    .order("title");
+  if (error) throw error;
+  return (data ?? []).filter((p) => (p.paper_questions?.[0]?.count ?? 0) > 0);
+}

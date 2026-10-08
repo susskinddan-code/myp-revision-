@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "english-language-and-literature",
+  "grade": 5,
+  "topic": "Language Accuracy",
+  "subTopic": "Grammar, Punctuation and Syntax",
+  "questions": [
+   {
+    "content": "Which sentence is punctuated correctly?",
+    "options": [
+     "We packed, bread cheese and fruit for the trip.",
+     "We packed bread, cheese and fruit for the trip.",
+     "We packed bread cheese, and fruit, for the trip",
+     "We packed bread, cheese, and fruit for, the trip."
+    ],
+    "answer": 1,
+    "explanation": "Items in a list are separated by commas, with 'and' before the last item. The other versions misplace commas or omit the full stop.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which word is the verb in: \"The dog chased the ball across the garden\"?",
+    "options": [
+     "dog",
+     "ball",
+     "garden",
+     "chased"
+    ],
+    "answer": 3,
+    "explanation": "The verb names the action. Dog, ball and garden are nouns.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which sentence uses an apostrophe correctly to show that several students own the bags?",
+    "options": [
+     "The students' bags were by the door.",
+     "The student's bags were by the door.",
+     "The students bag's were by the door.",
+     "The stud'ents bags were by the door."
+    ],
+    "answer": 0,
+    "explanation": "For a plural noun ending in s, the apostrophe goes after the s to show possession by many students.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which sentence is a complete sentence?",
+    "options": [
+     "Because the rain stopped.",
+     "Running down the road.",
+     "The rain stopped.",
+     "After the rain."
+    ],
+    "answer": 2,
+    "explanation": "A complete sentence has a subject and a verb and expresses a full thought. The others are fragments.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is the correct form: \"There / Their / They're\" going to win the match.",
+    "options": [
+     "There",
+     "They're",
+     "Their",
+     "Theyre"
+    ],
+    "answer": 1,
+    "explanation": "'They're' means 'they are'. 'Their' shows possession and 'there' refers to a place.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Read this sentence: \"I like football, my brother prefers tennis.\" What error is present?",
+    "options": [
+     "A missing apostrophe",
+     "A spelling mistake",
+     "An incorrect verb tense",
+     "A comma splice joining two main clauses"
+    ],
+    "answer": 3,
+    "explanation": "Two independent clauses cannot be joined with only a comma. Use a full stop, semicolon or conjunction.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence corrects the comma splice? \"The train was late, we missed the start.\"",
+    "options": [
+     "The train was late, so we missed the start.",
+     "The train was late, we missed the start.",
+     "The train was late we missed the start.",
+     "The train, was late, we missed the start."
+    ],
+    "answer": 0,
+    "explanation": "A comma plus a coordinating conjunction ('so') correctly links the clauses.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence uses a semicolon correctly?",
+    "options": [
+     "The exam was; hard most students finished early.",
+     "The exam was hard; and most students finished early.",
+     "The exam was hard; most students finished early.",
+     "The exam; was hard most students finished early."
+    ],
+    "answer": 2,
+    "explanation": "A semicolon joins two closely related independent clauses. It is not used with 'and' in this way.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence has subject-verb agreement?",
+    "options": [
+     "The team of players are training hard.",
+     "The team of players is training hard.",
+     "The players is training hard.",
+     "The team were is training hard."
+    ],
+    "answer": 1,
+    "explanation": "'Team' is a singular collective noun, so it takes 'is'. 'Players' would take 'are'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of these is a complex sentence?",
+    "options": [
+     "We worked.",
+     "We worked and rested.",
+     "We worked; they rested.",
+     "Although it was late, we kept working."
+    ],
+    "answer": 3,
+    "explanation": "A complex sentence has a main clause and a subordinate clause, here beginning with 'although'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A writer wants to avoid a run of short sentences. Which revision uses syntax to vary rhythm?",
+    "options": [
+     "As dusk fell, the crowd gathered, silent and expectant.",
+     "The crowd gathered. It was dusk. It was silent.",
+     "The crowd. Gathered. Dusk.",
+     "Crowd gathered dusk silent."
+    ],
+    "answer": 0,
+    "explanation": "Combining ideas with a subordinate opening and a descriptive ending adds variety.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence uses the passive voice?",
+    "options": [
+     "The storm broke the window.",
+     "The storm is breaking the window.",
+     "The window was broken by the storm.",
+     "The storm will break the window."
+    ],
+    "answer": 2,
+    "explanation": "In the passive voice the subject receives the action ('The window was broken').",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence avoids a misplaced modifier?",
+    "options": [
+     "Walking to school, a rainbow appeared to me.",
+     "Walking to school, I saw a rainbow.",
+     "Running quickly, the bus was missed by the rain.",
+     "Smiling brightly, the sun shone on the book."
+    ],
+    "answer": 1,
+    "explanation": "The opening phrase must describe the subject that follows. In the correct sentence, 'I' was walking.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read this invented sentence: \"The committee have made it's decision, and their announcing it tomorrow.\" Which choice corrects ALL the errors?",
+    "options": [
+     "The committee has made it's decision, and they're announcing it tomorrow.",
+     "The committee have made its decision, and their announcing it tomorrow.",
+     "The committee has made its decision, and there announcing it tomorrow.",
+     "The committee has made its decision, and it is announcing it tomorrow."
+    ],
+    "answer": 3,
+    "explanation": "'Its' (possessive) has no apostrophe, 'their' should be 'they're/it is', and committee as a unit takes 'has'. The answer fixes every error with consistent agreement.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which revision is both grammatically correct and best for formal writing? \"Me and him done the survey, and results was good.\"",
+    "options": [
+     "He and I completed the survey, and the results were good.",
+     "Him and me completed the survey, and results was good.",
+     "He and I done the survey, and the results was good.",
+     "Me and him completed the survey and results were good."
+    ],
+    "answer": 0,
+    "explanation": "Subject pronouns 'He and I', the past tense 'completed' and plural 'results were' are all required.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Read this invented sentence: \"Having finished the report, the printer jammed.\" What is the problem and the fix?",
+    "options": [
+     "Missing comma; add one after printer",
+     "Wrong tense; use present",
+     "Dangling modifier; \"Having finished the report, I found that the printer jammed.\"",
+     "Spelling error in 'report'"
+    ],
+    "answer": 2,
+    "explanation": "'Having finished' must describe a person, not the printer. Adding 'I' fixes the logic.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student writes: \"Neither the teacher nor the students was ready.\" Which correction is right?",
+    "options": [
+     "Neither the teacher nor the students is ready.",
+     "Neither the teacher nor the students were ready.",
+     "Neither the teacher nor the students was ready, was they.",
+     "Neither teacher nor students are ready was."
+    ],
+    "answer": 1,
+    "explanation": "With 'neither... nor', the verb agrees with the nearer subject, 'students', which is plural.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence is punctuated correctly with a subordinate clause and a non-restrictive relative clause?",
+    "options": [
+     "My cousin who lives in Lagos, is visiting next week.",
+     "My cousin, who lives in Lagos is visiting, next week.",
+     "My cousin who, lives in Lagos is visiting next week.",
+     "My cousin, who lives in Lagos, is visiting next week."
+    ],
+    "answer": 3,
+    "explanation": "Extra information is set off with commas on both sides.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why accuracy matters\nAccurate language lets your ideas come across clearly. In MYP Language and Literature, grammar, punctuation and syntax are part of how well you control your writing and how clear it is for the reader. This does not mean complicated sentences. It means choosing the right forms and punctuation so the meaning is never lost.\n\n## Key grammar points\n- **Sentence**: a group of words with a subject and a verb that expresses a complete thought. A **fragment** is missing one of these.\n- **Clauses**: a **main (independent) clause** can stand alone. A **subordinate (dependent) clause** depends on another clause, for example \"Although it rained\".\n- **Tense consistency**: stay in one tense unless the time really changes.\n- **Subject-verb agreement**: singular subjects take singular verbs (\"the team is\"), plural subjects take plural verbs (\"the players are\").\n- **Pronouns**: use \"he and I\" for subjects and \"him and me\" for objects.\n- **Active and passive**: \"The storm broke the window\" is active. \"The window was broken by the storm\" is passive. Passive is useful in formal or scientific writing but can be dull in narrative.\n\n## Punctuation\n- **Full stop** ends a sentence.\n- **Comma** separates items in a list, follows an introductory phrase and sets off extra information. It cannot join two main clauses on its own. That error is a **comma splice**.\n- **Semicolon** joins two closely linked main clauses or separates complex list items.\n- **Colon** introduces a list, explanation or quotation after a full clause.\n- **Apostrophes** show possession (\"the dog's bone\", \"the students' bags\") or missing letters (\"it's\" = \"it is\"). \"Its\" shows possession and has no apostrophe.\n- **Dashes and brackets** add interruptions or extra detail, used sparingly.\n\n## Syntax: how words are arranged\nSyntax is sentence structure. Writers vary sentence length for effect. Short sentences create tension or emphasis. Longer sentences add detail and flow. Start sentences in different ways, for example with a verb (\"Slowly, she turned\") or a subordinate clause (\"When the bell rang...\"). Avoid a **misplaced or dangling modifier**, such as \"Walking home, the rain started\", because it makes the wrong word seem to do the action.\n\n## A short worked example\nFaulty: \"The film was long, we left early, their was no point staying.\" Corrected: \"The film was long, so we left early; there was no point in staying.\" Errors fixed: the comma splice, the confusion of \"their\" and \"there\", and the missing preposition \"in\".\n\n## Common mistakes\n- Mixing up there/their/they're, your/you're, its/it's.\n- Comma splices and run-on sentences.\n- Switching tense in the middle of a paragraph.\n- Dangling modifiers.\n- Using apostrophes for ordinary plurals (\"apple's\").\n\n## How this is examined\nIn exam-style tasks you may be given a short invented sentence or paragraph and asked which version is correct, which error is present, or how a sentence could be reworded for clarity or effect. You may also be asked to comment on how sentence length and structure affect meaning. Marks reward correct choices and reasons.\n\nExam tip: Read your sentence aloud in your head. If you stumble, check for a missing verb, a comma splice or an agreement slip.",
+  "flashcards": [
+   {
+    "front": "Comma splice",
+    "back": "Joining two main clauses with only a comma; fix with a full stop, semicolon or conjunction."
+   },
+   {
+    "front": "Main clause",
+    "back": "A group of words with a subject and verb that can stand alone as a sentence."
+   },
+   {
+    "front": "Subordinate clause",
+    "back": "A clause that cannot stand alone, often starting with because, although or when."
+   },
+   {
+    "front": "Subject-verb agreement",
+    "back": "The verb must match its subject in number: 'the team is', 'the players are'."
+   },
+   {
+    "front": "Its vs it's",
+    "back": "'Its' shows possession; 'it's' means 'it is' or 'it has'."
+   },
+   {
+    "front": "Semicolon",
+    "back": "Joins two closely related main clauses, or separates items in a complex list."
+   },
+   {
+    "front": "Colon",
+    "back": "Introduces a list, explanation or quotation after a complete clause."
+   },
+   {
+    "front": "Dangling modifier",
+    "back": "An opening phrase that does not describe the subject that follows it."
+   },
+   {
+    "front": "Active vs passive",
+    "back": "Active: the subject does the action. Passive: the subject receives the action ('was broken')."
+   }
+  ]
+ },
+ {
+  "subject": "english-language-and-literature",
+  "grade": 5,
+  "topic": "Language Accuracy",
+  "subTopic": "Spelling, Vocabulary and Editing",
+  "questions": [
+   {
+    "content": "Which word is spelled correctly?",
+    "options": [
+     "Neccessary",
+     "Necesary",
+     "Neccesary",
+     "Necessary"
+    ],
+    "answer": 3,
+    "explanation": "'Necessary' has one c and two s's. A memory trick: one collar and two sleeves.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which word is a synonym of 'happy'?",
+    "options": [
+     "Joyful",
+     "Gloomy",
+     "Angry",
+     "Tired"
+    ],
+    "answer": 0,
+    "explanation": "A synonym has a similar meaning. Joyful is close to happy; the others are different feelings.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does the prefix 'un-' usually do to a word?",
+    "options": [
+     "Makes it plural",
+     "Makes it past tense",
+     "Makes it mean the opposite",
+     "Makes it a question"
+    ],
+    "answer": 2,
+    "explanation": "'Un-' reverses meaning, as in 'unhappy' or 'unfair'.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the first step when editing your own writing?",
+    "options": [
+     "Submit it immediately",
+     "Read it carefully again, ideally aloud",
+     "Add more adjectives",
+     "Delete the introduction"
+    ],
+    "answer": 1,
+    "explanation": "Re-reading, especially aloud, helps you spot errors and awkward phrasing.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which spelling is correct?",
+    "options": [
+     "Definately",
+     "Definitly",
+     "Definatly",
+     "Definitely"
+    ],
+    "answer": 3,
+    "explanation": "'Definitely' comes from 'definite'. 'Defiantly' means in a rebellious way.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which sentence uses the correct word?",
+    "options": [
+     "The weather affected our plans.",
+     "The weather effected our plans.",
+     "The whether affected our plans.",
+     "The weather effect our plans."
+    ],
+    "answer": 0,
+    "explanation": "'Affect' is usually the verb and 'effect' is usually the noun. 'Weather' is climate; 'whether' means 'if'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student writes: \"The results show a very very big increase.\" Which revision improves vocabulary precision?",
+    "options": [
+     "The results show a big big increase.",
+     "The results show an increase that is very big.",
+     "The results show a substantial increase.",
+     "The results show a very increase."
+    ],
+    "answer": 2,
+    "explanation": "A precise adjective replaces vague repetition.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which word has the most negative connotation?",
+    "options": [
+     "Determined",
+     "Stubborn",
+     "Persistent",
+     "Resolute"
+    ],
+    "answer": 1,
+    "explanation": "The four words describe a similar trait, but 'stubborn' carries a more negative judgement.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student writes \"We recieved the letter.\" Which spelling rule explains the correction?",
+    "options": [
+     "Always double the final consonant",
+     "Drop the silent e",
+     "Add -ed to every verb",
+     "i before e except after c: received"
+    ],
+    "answer": 3,
+    "explanation": "'Received' follows 'i before e except after c'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which pair are homophones?",
+    "options": [
+     "Principal and principle",
+     "Fair and fairly",
+     "Right and wrong",
+     "Quiet and quite"
+    ],
+    "answer": 0,
+    "explanation": "Homophones sound the same but differ in meaning and spelling. A principal is a head of school; a principle is a rule or belief.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student is editing for concision. Which version is best?",
+    "options": [
+     "Because of the fact that it was raining, the match was cancelled.",
+     "The match was cancelled owing to the fact that rain was falling.",
+     "Due to the rain, the match was cancelled.",
+     "In spite of the fact that rain fell, the match was cancelled."
+    ],
+    "answer": 2,
+    "explanation": "The first version says the same with fewer words. The last option also changes the meaning.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which word best replaces 'said' in: \"'I'm not going,' she said angrily\"?",
+    "options": [
+     "whispered",
+     "snapped",
+     "wondered",
+     "sighed"
+    ],
+    "answer": 1,
+    "explanation": "'Snapped' fits an angry tone. The others suggest softness, curiosity or sadness.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which editing step focuses on 'proofreading' rather than 'revising'?",
+    "options": [
+     "Rewriting the argument",
+     "Changing the structure of paragraphs",
+     "Adding new evidence",
+     "Correcting spelling and punctuation errors"
+    ],
+    "answer": 3,
+    "explanation": "Proofreading deals with surface errors. Revising deals with ideas and structure.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read this invented sentence: \"The principle of the school gave an inspiring speach, and the audience was effected.\" Which choice corrects ALL errors?",
+    "options": [
+     "The principal of the school gave an inspiring speech, and the audience was affected.",
+     "The principle of the school gave an inspiring speech, and the audience was affected.",
+     "The principal of the school gave an inspiring speach, and the audience was affected.",
+     "The principal of the school gave an inspiring speech, and the audience was effected."
+    ],
+    "answer": 0,
+    "explanation": "Principal (head), speech (spelling) and affected (verb) must all be corrected. The other options leave one error.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student wants to make this sentence more precise: \"The man walked in a tired way.\" Which is the best revision?",
+    "options": [
+     "The man walked tiredly and slowly and in a tired way.",
+     "The man did walking while being tired.",
+     "The man trudged wearily along the path.",
+     "The man moved."
+    ],
+    "answer": 2,
+    "explanation": "A precise verb ('trudged') and adverb ('wearily') replace a vague phrase and keep the meaning without wordiness.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A writer drafts: \"The company made a decision to commence the process of utilising new technology.\" Which edit keeps the meaning but improves clarity?",
+    "options": [
+     "The company made a decision about technology.",
+     "The company decided to start using new technology.",
+     "The company utilised commencement of processes.",
+     "The company technology new decided."
+    ],
+    "answer": 1,
+    "explanation": "The edit reduces jargon and wordiness without losing the idea.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which statement about editing is most accurate?",
+    "options": [
+     "Proofreading should always come first",
+     "Editing is only needed for long essays",
+     "Spell-checkers catch every error",
+     "Revising ideas and structure should come before proofreading small errors"
+    ],
+    "answer": 3,
+    "explanation": "There is little point polishing sentences you may later rewrite or delete. Spell-checkers miss words that are real but wrong, such as 'form' for 'from'.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student's spell-check accepts this sentence: \"Their going to loose the match if they don't practise.\" Which corrections are needed?",
+    "options": [
+     "They're; lose",
+     "There; loose",
+     "Their; lose",
+     "They're; loosen"
+    ],
+    "answer": 0,
+    "explanation": "'They're' means 'they are', and the verb is 'lose'. 'Loose' means not tight.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why spelling and vocabulary matter\nAccurate spelling and a precise vocabulary make your writing clear and credible. In MYP Language and Literature they affect how well your ideas are communicated and how much control you show over language. Editing is the stage where you check and improve a draft so that the final version says exactly what you mean.\n\n## Spelling strategies\n- **Learn the rules**: \"i before e, except after c\" (received, but friend is an exception).\n- **Use word families**: knowing \"sign\" helps with \"signature\" and \"design\".\n- **Break words into parts**: prefix, root and suffix, such as un + necessary + ly.\n- **Beware of homophones**: words that sound the same but are spelled differently, such as there/their/they're, to/too/two, principal/principle, affect/effect.\n- **Make memory hooks**: \"necessary\" has one collar and two sleeves (one c, two s's).\n- **Keep a personal list** of words you often misspell.\n\n## Building vocabulary\nAim for precise words rather than long or complicated ones. Replace vague words such as \"nice\", \"bad\" and \"thing\" with stronger choices. Learn the **connotation** of a word, which is the feeling it carries. \"Slim\" and \"skinny\" are similar in meaning but different in tone. A **synonym** has a similar meaning, and an **antonym** has the opposite meaning. Reading widely and learning prefixes and suffixes (un-, re-, -ful, -ness) helps you work out unfamiliar words.\n\n## Editing and proofreading\nEditing has two layers.\n1. **Revising**: check ideas, structure, evidence and paragraph order. Is the argument clear? Is there anything missing or repeated?\n2. **Proofreading**: check spelling, punctuation, grammar and capital letters.\nDo revising first, then proofreading. Read your work aloud (or silently in your head) to catch awkward phrasing. Remove **redundancy** (saying the same thing twice) and unnecessary words. \"Due to the rain\" is shorter than \"because of the fact that it was raining\".\n\n## A short worked example\nDraft: \"The principle of our school gave a very very good speach about weather its important to recieve feedback.\" Edited: \"The principal of our school gave an excellent speech about whether it is important to receive feedback.\" Errors fixed: principal, speech, whether, it is, receive, and the vague \"very very good\" replaced with \"excellent\".\n\n## Common mistakes\n- Trusting a spell-checker, which will not catch real words used wrongly such as \"form\" for \"from\" or \"loose\" for \"lose\".\n- Overusing long or fancy words that you do not fully understand.\n- Repeating the same word many times.\n- Skipping the proofreading stage when time is short.\n\n## How this is examined\nIn exam-style tasks you may be given a short invented paragraph with errors and be asked to choose the best correction, replace a vague word with a more precise one or decide which version is most concise. You may also be asked about the effect of word choice and connotation. Marks reward accuracy, precision and sensible editing decisions.\n\nExam tip: Leave two minutes at the end to re-read for homophones, plural endings and missing words.",
+  "flashcards": [
+   {
+    "front": "Homophone",
+    "back": "A word that sounds the same as another but has a different meaning and spelling, e.g. principal/principle."
+   },
+   {
+    "front": "Affect vs effect",
+    "back": "'Affect' is usually a verb (to influence); 'effect' is usually a noun (a result)."
+   },
+   {
+    "front": "Synonym",
+    "back": "A word with a similar meaning to another word."
+   },
+   {
+    "front": "Connotation",
+    "back": "The feeling or idea a word suggests beyond its dictionary meaning."
+   },
+   {
+    "front": "Redundancy",
+    "back": "Saying the same thing twice, such as 'the reason is because'; delete the extra words."
+   },
+   {
+    "front": "Revising",
+    "back": "Improving ideas, structure, evidence and organisation in a draft."
+   },
+   {
+    "front": "Proofreading",
+    "back": "Checking for surface errors in spelling, punctuation and grammar."
+   },
+   {
+    "front": "Prefix and suffix",
+    "back": "Word parts at the start (un-, re-) or end (-ful, -ness) that change meaning or word class."
+   },
+   {
+    "front": "Spell-check limit",
+    "back": "It will not catch real words used wrongly, such as 'loose' for 'lose' or 'form' for 'from'."
+   }
+  ]
+ },
+ {
+  "subject": "english-language-and-literature",
+  "grade": 5,
+  "topic": "Language Accuracy",
+  "subTopic": "Register and Style Control",
+  "questions": [
+   {
+    "content": "What is 'register' in writing?",
+    "options": [
+     "The level of formality and style suited to the audience and purpose",
+     "The number of paragraphs",
+     "The handwriting style",
+     "The title of a text"
+    ],
+    "answer": 0,
+    "explanation": "Register is how formal or informal language is, and it should fit the situation.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which sentence is written in a formal register?",
+    "options": [
+     "Can I get more time, mate?",
+     "Gimme more time!",
+     "I would like to request an extension to the deadline.",
+     "Deadline's rubbish, extend it."
+    ],
+    "answer": 2,
+    "explanation": "Formal register uses polite, complete sentences and avoids slang.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is an example of slang?",
+    "options": [
+     "Consequently",
+     "Chill",
+     "Furthermore",
+     "Regarding"
+    ],
+    "answer": 1,
+    "explanation": "'Chill' in the sense of relax is informal slang. The other words are formal.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is 'tone' in writing?",
+    "options": [
+     "The size of the font",
+     "The length of the text",
+     "The number of adjectives",
+     "The writer's attitude, such as serious, humorous or critical"
+    ],
+    "answer": 3,
+    "explanation": "Tone shows the writer's attitude to the subject or audience, created through word choice and style.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which word would be best to replace 'got' in a formal report: \"We got the results\"?",
+    "options": [
+     "Obtained",
+     "Grabbed",
+     "Nabbed",
+     "Snagged"
+    ],
+    "answer": 0,
+    "explanation": "'Obtained' is formal and precise. The others are informal.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A student writes to a local newspaper: \"Hey, your article was totally rubbish lol.\" What is the main problem?",
+    "options": [
+     "It is too long",
+     "It uses too many statistics",
+     "The register is too informal for the audience and purpose",
+     "It uses passive voice"
+    ],
+    "answer": 2,
+    "explanation": "Letters to a newspaper need a formal, controlled style.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which revision best adjusts this message to a formal register? \"Can't come tmrw, got stuff on.\"",
+    "options": [
+     "Can't come, sorry!",
+     "I am unable to attend tomorrow because I have another commitment.",
+     "I ain't coming tomorrow.",
+     "Gotta skip tomorrow."
+    ],
+    "answer": 1,
+    "explanation": "It uses full words, polite phrasing and a clear reason.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A writer wants a friendly but respectful tone in a speech to Year 7 students. Which sentence fits best?",
+    "options": [
+     "Notwithstanding your concerns, you must comply.",
+     "Whatever. You'll sort it out.",
+     "It is imperative that all pupils acquiesce.",
+     "I know the first week can feel like a lot, and we are here to help you."
+    ],
+    "answer": 3,
+    "explanation": "A friendly yet respectful tone uses warm, clear language and inclusive pronouns. The others are cold or overly stiff.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which feature helps maintain a consistent style in a paragraph?",
+    "options": [
+     "Using the same level of formality and point of view throughout",
+     "Switching between slang and academic language",
+     "Changing tense randomly",
+     "Changing person ('I' to 'you' to 'we') in each line"
+    ],
+    "answer": 0,
+    "explanation": "Consistency in register, tense and perspective makes a text feel controlled.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence has an ironic or sarcastic tone?",
+    "options": [
+     "The meeting begins at nine.",
+     "Monday meetings are held weekly.",
+     "Oh, brilliant, another Monday meeting about meetings.",
+     "A meeting has been scheduled."
+    ],
+    "answer": 2,
+    "explanation": "The positive word 'brilliant' used about a dull event signals sarcasm.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In an email to a head teacher, which opening is most appropriate?",
+    "options": [
+     "Yo Mrs Rahman, about that trip...",
+     "Dear Mrs Rahman, I am writing to ask about the Year 10 trip.",
+     "Hiya! Trip question!",
+     "Hey miss, quick q about the trip"
+    ],
+    "answer": 1,
+    "explanation": "A formal greeting and a clear purpose suit the head teacher.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which phrase is most appropriate for a lively blog about football for teenagers?",
+    "options": [
+     "Henceforth the match shall be assessed.",
+     "It is documented that the team scored.",
+     "Pursuant to the whistle, play ceased.",
+     "What a final-minute drama that was!"
+    ],
+    "answer": 3,
+    "explanation": "A blog for teenagers can be lively and conversational. The other phrases are overly formal.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence uses a more objective tone?",
+    "options": [
+     "The survey found that 62% of respondents supported the change.",
+     "Obviously, everyone supports the change.",
+     "The change is wonderful.",
+     "I can't believe anyone disagrees."
+    ],
+    "answer": 0,
+    "explanation": "Objective tone reports evidence without personal opinion or emotive language.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read this invented extract from a speech to local business owners: \"So, yeah, we've been looking at the figures, and, like, it's all pretty bad.\" What is the main weakness?",
+    "options": [
+     "The figures are too exact",
+     "It uses too much technical language",
+     "The register is too casual and vague for a formal audience",
+     "It is written in the third person"
+    ],
+    "answer": 2,
+    "explanation": "Fillers like 'yeah' and 'like' and vague words weaken authority.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A writer starts a formal report with \"The results are, like, impressive\", then uses a passive sentence, then writes \"you guys must act\". Which is the best description of the problem?",
+    "options": [
+     "Too many facts",
+     "Inconsistent register and point of view",
+     "Too much accurate grammar",
+     "Overly long paragraphs"
+    ],
+    "answer": 1,
+    "explanation": "The text jumps between casual slang, impersonal passive and direct informal address.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student rewrites \"The rubbish bins are always full\" for a council report as \"Waste receptacles in the area frequently exceed capacity.\" Which comment is most accurate?",
+    "options": [
+     "It is the best possible version because longer words are always better",
+     "It has become informal",
+     "It has lost all meaning",
+     "It achieves a formal, objective tone but is a little heavy; \"The bins are often full\" might balance formality and clarity"
+    ],
+    "answer": 3,
+    "explanation": "Formality should support clarity. Overly complex wording can make the writing sound stiff.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which pair of sentences shows the writer adapting the tone for different audiences about the same event?",
+    "options": [
+     "To parents: \"We regret to inform you that Friday's trip is postponed.\" To students: \"Bad news, everyone: Friday's trip is on hold.\"",
+     "To parents: \"Bad news!\" To students: \"We regret to inform you.\"",
+     "Both: \"Trip off. Sorry.\"",
+     "Both: \"Notwithstanding the aforementioned, the trip shall not occur.\""
+    ],
+    "answer": 0,
+    "explanation": "The first pair matches formality to each audience. In the second pair, the registers are reversed.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Read this invented sentence: \"Honestly, the proposal is rubbish, and it will totally fail.\" Which revision keeps the critical view but improves control of style for a formal review?",
+    "options": [
+     "The proposal sucks and will fail.",
+     "The proposal is bad and nothing else.",
+     "The proposal has significant weaknesses and is unlikely to succeed.",
+     "The proposal is not wonderful, I think."
+    ],
+    "answer": 2,
+    "explanation": "A controlled critical tone is firm but measured and avoids slang or emotional intensifiers.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What is register?\nRegister is the level of formality in your writing. It changes depending on who you are writing for, why you are writing and what form you are using. You speak differently to a friend than to a head teacher, and good writers adjust in the same way. Style is the overall flavour of your writing: your choice of words, sentence patterns, tone and voice. Controlling register and style means making deliberate choices so that the text suits its purpose.\n\n## Formal and informal registers\n**Formal register** is polite, precise and impersonal. It uses full forms (\"do not\"), complete sentences, specific vocabulary and avoids slang. It is suitable for letters, reports, essays and speeches to officials. **Informal register** is relaxed and conversational. It may use contractions (\"don't\"), slang, short phrases and direct address. It is suitable for messages to friends, some blogs and personal diary entries. There is also a **semi-formal** middle level, which is polite but warm, often used in school speeches.\n\n## Tone\nTone is the attitude the writer shows. It might be serious, humorous, sarcastic, sympathetic, urgent, critical or hopeful. Tone is created through word choice (connotations), sentence length, punctuation and voice. For example, \"The proposal has significant weaknesses\" is measured and critical, while \"The proposal is a total disaster\" is angry and emotional.\n\n## Ways to control style\n- **Match word choice to audience**: \"request\" instead of \"ask for\", \"obtain\" instead of \"get\" in formal writing.\n- **Keep it consistent**: avoid switching between slang and formal language.\n- **Choose a point of view**: first person for personal writing, third person or impersonal passive for reports.\n- **Vary sentence length**: short for impact, longer for explanation.\n- **Avoid filler and vague words**: \"like\", \"stuff\", \"things\".\n- **Use precise verbs and nouns** rather than many adjectives.\n- **Show objectivity**: use evidence and avoid exaggeration such as \"everyone knows\".\n\n## A short worked example\nInformal: \"Loads of kids are stressed about exams and the school isn't doing much.\" Formal: \"A significant number of students report feeling stressed about examinations, and the school has not yet introduced adequate support.\" Notice the changes: \"loads of kids\" becomes \"a significant number of students\", \"isn't\" becomes \"has not\", and \"much\" becomes \"adequate support\". The meaning stays the same, but the register changes.\n\n## Common mistakes\n- Mixing slang with formal vocabulary.\n- Overcorrecting with long, stiff words that hide meaning.\n- Writing a speech in the style of a report, or the reverse.\n- Letting emotion create an unfair tone in a balanced piece.\n- Switching between \"I\", \"you\" and \"we\" without reason.\n\n## How this is examined\nIn exam-style tasks you may be shown a short invented message and asked to rewrite it for a different audience, decide which version suits a given purpose, or identify why a tone is inappropriate. You may also describe the tone of an extract and give evidence from word choice. Marks reward accuracy of register, consistent style and clear reasoning.\n\nExam tip: Before writing, name your audience in one line, then choose words to suit them.",
+  "flashcards": [
+   {
+    "front": "Register",
+    "back": "The level of formality in language, chosen to suit the audience, purpose and situation."
+   },
+   {
+    "front": "Formal register",
+    "back": "Polite, precise language with complete sentences, no slang and few or no contractions."
+   },
+   {
+    "front": "Informal register",
+    "back": "Relaxed, conversational language that may use slang, contractions and direct address."
+   },
+   {
+    "front": "Tone",
+    "back": "The writer's attitude, such as serious, humorous, sarcastic or sympathetic, created by word choice and style."
+   },
+   {
+    "front": "Objective tone",
+    "back": "Language based on evidence that avoids personal feelings or exaggeration."
+   },
+   {
+    "front": "Consistency of style",
+    "back": "Keeping the same register, tense and point of view throughout a text."
+   },
+   {
+    "front": "Slang",
+    "back": "Very informal words or phrases, often used by particular groups; avoid in formal writing."
+   },
+   {
+    "front": "Adapting for audience",
+    "back": "Changing vocabulary and formality so the same message suits a different reader."
+   },
+   {
+    "front": "Overformal writing",
+    "back": "Stiff, long words that obscure meaning; formality should support clarity."
+   }
+  ]
+ }
+]

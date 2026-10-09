@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "economics",
+  "grade": 5,
+  "topic": "Firms and Production",
+  "subTopic": "Costs, Revenue and Profit",
+  "questions": [
+   {
+    "content": "Which of these is a fixed cost for a bakery?",
+    "options": [
+     "Monthly rent for the shop",
+     "Flour used in each loaf",
+     "Packaging bags for each loaf",
+     "Sugar bought for each batch"
+    ],
+    "answer": 0,
+    "explanation": "Fixed costs such as rent stay the same however many loaves are baked. Flour, bags and sugar all rise with output, so they are variable costs.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A cinema sells 250 tickets at $12 each. What is its total revenue?",
+    "options": [
+     "$3,000",
+     "$262",
+     "$20.83",
+     "$30,000"
+    ],
+    "answer": 0,
+    "explanation": "Total revenue = price × quantity = 12 × 250 = $3,000. Adding the numbers (262) or dividing them (20.83) are common slips.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which formula correctly gives a firm's profit?",
+    "options": [
+     "Total revenue + total cost",
+     "Total revenue − total cost",
+     "Total cost − total revenue",
+     "Price − quantity"
+    ],
+    "answer": 1,
+    "explanation": "Profit is what is left of revenue after all costs are paid. Total cost − total revenue would give the loss when it is positive.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A variable cost is one that:",
+    "options": [
+     "stays the same at every level of output",
+     "is paid only once when the firm starts up",
+     "rises as the firm's output rises",
+     "can never be avoided in the short run"
+    ],
+    "answer": 2,
+    "explanation": "Variable costs, such as raw materials, change with output. Costs that do not change with output are fixed costs.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A firm's total costs are $4,200 and it produces 700 units. What is its average cost per unit?",
+    "options": [
+     "$0.17",
+     "$4,900",
+     "$60",
+     "$6"
+    ],
+    "answer": 3,
+    "explanation": "Average cost = total cost ÷ output = 4,200 ÷ 700 = $6. Dividing the wrong way round gives 0.17.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A hair salon pays fixed costs of $900 per week. Each haircut has variable costs of $6. In one week it gives 150 haircuts. What are its total costs for the week?",
+    "options": [
+     "$900",
+     "$1,050",
+     "$1,800",
+     "$2,700"
+    ],
+    "answer": 2,
+    "explanation": "Variable costs = 6 × 150 = $900. Total cost = fixed + variable = 900 + 900 = $1,800. Forgetting the fixed costs gives $900.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A shop sells 400 notebooks at $5 each. It raises the price to $6 and sales fall to 350. What happens to total revenue?",
+    "options": [
+     "It increases by $100",
+     "It decreases by $100",
+     "It stays at $2,000",
+     "It decreases by $50"
+    ],
+    "answer": 0,
+    "explanation": "Revenue before = 5 × 400 = $2,000. Revenue after = 6 × 350 = $2,100, an increase of $100. Fewer sales do not always mean lower revenue.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A small firm has fixed costs of $2,000. It sells each unit for $12 and the variable cost per unit is $7. How many units must it sell to break even?",
+    "options": [
+     "167 units",
+     "400 units",
+     "286 units",
+     "105 units"
+    ],
+    "answer": 1,
+    "explanation": "Each unit adds 12 − 7 = $5 towards fixed costs, so break-even = 2,000 ÷ 5 = 400 units. Using only the price (167) or only the variable cost (286) ignores part of the picture.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In one month a firm has total revenue of $8,000 and total costs of $9,200. What is the result?",
+    "options": [
+     "A profit of $1,200",
+     "A loss of $17,200",
+     "A profit of $8,000",
+     "A loss of $1,200"
+    ],
+    "answer": 3,
+    "explanation": "Profit = 8,000 − 9,200 = −$1,200, which is a loss of $1,200. A negative profit means costs were higher than revenue.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement best describes the short run in economics?",
+    "options": [
+     "A period in which at least one factor of production is fixed",
+     "A period in which all costs are variable",
+     "A period lasting exactly one month",
+     "A period in which the firm makes no profit"
+    ],
+    "answer": 0,
+    "explanation": "In the short run a firm cannot change everything, such as the size of its factory. In the long run all factors can be changed, so all costs are variable.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is an example of an economy of scale?",
+    "options": [
+     "A firm hires extra managers and decisions become slower",
+     "A small shop pays higher rent after moving to a busier street",
+     "A large supermarket chain gets a lower price per unit by buying in huge quantities",
+     "Workers win a pay rise so wage costs per unit go up"
+    ],
+    "answer": 2,
+    "explanation": "Bulk buying lowers the average cost as output grows, which is a purchasing economy of scale. Slower decisions are a diseconomy, and rent or pay rises are not linked to size.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A firm records its average cost (AC) at different outputs. Output: 100, 200, 300, 400, 500 units. AC: $8, $6, $5, $6, $8. At which output is average cost lowest?",
+    "options": [
+     "100 units",
+     "300 units",
+     "200 units",
+     "500 units"
+    ],
+    "answer": 1,
+    "explanation": "The lowest average cost in the data is $5, at 300 units. Average cost falls at first (economies of scale) and then rises again.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student uses a simple break-even model for a new cafe. Which is a genuine limitation of the model?",
+    "options": [
+     "It ignores the selling price completely",
+     "It only works for firms that already make a profit",
+     "It assumes fixed costs rise with every extra unit sold",
+     "It assumes the variable cost per unit stays the same at every output"
+    ],
+    "answer": 3,
+    "explanation": "Break-even models usually assume a constant price and a constant variable cost per unit. In reality bulk discounts or overtime pay can change these, so results are only estimates.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Mia (fixed costs $1,500, variable cost $3 per burrito) cuts her price from $8 to $7 and sells 600 burritos. Compared with her old profit of $1,000, her new profit is:",
+    "options": [
+     "$1,200, so profit has risen",
+     "$1,000, so profit is unchanged",
+     "$2,400, so profit has more than doubled",
+     "$900, so profit has fallen"
+    ],
+    "answer": 3,
+    "explanation": "Revenue = 7 × 600 = $4,200. Total cost = 1,500 + 3 × 600 = $3,300. Profit = $900. More sales do not guarantee more profit if the price cut lowers the gain on each burrito.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A firm has fixed costs of $12,000 per month. It sells each unit for $10 and the variable cost is $4 per unit. This month it sells 1,800 units. How many more units must it sell to reach break-even?",
+    "options": [
+     "2,000 more units",
+     "600 more units",
+     "200 more units",
+     "1,200 more units"
+    ],
+    "answer": 2,
+    "explanation": "Break-even = 12,000 ÷ (10 − 4) = 2,000 units. The firm sold 1,800, so it needs 200 more. Its current loss is $1,200, which is a money figure, not a number of units.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A firm's average cost data: Output 100, 200, 300, 400, 500 units; AC $8, $6, $5, $6, $8. What are the total costs at 400 units and what does the rising AC suggest?",
+    "options": [
+     "$2,400; economies of scale",
+     "$2,400; diseconomies of scale",
+     "$6; diseconomies of scale",
+     "$1,500; economies of scale"
+    ],
+    "answer": 1,
+    "explanation": "Total cost = AC × output = 6 × 400 = $2,400. After 300 units the average cost rises, which suggests diseconomies of scale such as poor communication in a large firm.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Firm A has revenue of $50,000 and costs of $48,000. Firm B has revenue of $30,000 and costs of $22,000. Which conclusion is best supported by the data?",
+    "options": [
+     "Firm B makes more profit even though its revenue is lower",
+     "Firm A is more profitable because its revenue is higher",
+     "Firm B has higher costs than Firm A",
+     "Both firms are making a loss"
+    ],
+    "answer": 0,
+    "explanation": "Firm A's profit is $2,000 and Firm B's is $8,000. Revenue alone does not show profitability; costs must be subtracted.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A company has revenue of $80,000 and total costs of $68,000, so its profit margin (profit ÷ revenue × 100) is 15%. Costs then rise by 5% while revenue stays the same. What is the new profit margin?",
+    "options": [
+     "10%",
+     "8.6%",
+     "10.75%",
+     "89.25%"
+    ],
+    "answer": 2,
+    "explanation": "New costs = 68,000 × 1.05 = $71,400. New profit = 80,000 − 71,400 = $8,600. Margin = 8,600 ÷ 80,000 × 100 = 10.75%. A 5% cost rise is not a 5 percentage-point fall in margin.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why costs, revenue and profit matter\nEvery firm, from a street stall to a global brand, has to answer one question: is what we earn bigger than what we spend? Economists use three ideas to answer it: costs, revenue and profit.\n\n## Costs\n- **Fixed costs** do not change when output changes in the short run. Examples are rent, insurance, loan repayments and managers' salaries. You pay them even if you produce nothing.\n- **Variable costs** rise and fall with output. Examples are raw materials, packaging and the wages of workers paid per item.\n- **Total cost (TC)** = fixed costs + variable costs.\n- **Average cost (AC)** = total cost ÷ output. It tells you the cost of making one unit.\n\n## Revenue and profit\n- **Total revenue (TR)** = price × quantity sold.\n- **Profit** = total revenue − total cost. If the answer is negative, the firm makes a **loss**.\n- **Profit margin** = profit ÷ revenue × 100. It shows how much profit the firm keeps from every $100 of sales.\n\n## Break-even\nThe **break-even point** is the output where total revenue equals total cost, so profit is zero. Each unit sold brings in the price but costs the variable cost, so the difference (the contribution per unit) helps pay off the fixed costs.\nBreak-even output = fixed costs ÷ (price − variable cost per unit).\n\n## Worked example\nMia runs a food truck. Fixed costs are $1,500 a month. Each burrito costs $3 to make and sells for $8.\n- Contribution per burrito = 8 − 3 = $5.\n- Break-even = 1,500 ÷ 5 = 300 burritos.\n- At 500 burritos: TR = $4,000, TC = 1,500 + 1,500 = $3,000, profit = $1,000.\n- Margin of safety = 500 − 300 = 200 burritos. This is how far sales could fall before she makes a loss.\n\n## Short run, long run and scale\nIn the **short run** at least one factor (such as factory size) is fixed. In the **long run** all factors can change. As a firm grows, average cost may fall because of **economies of scale**: buying in bulk, spreading marketing costs, or getting cheaper loans. If it grows too big, average cost may rise again because of **diseconomies of scale**, such as slow communication and poor motivation.\n\n## Common mistakes\n- Treating revenue as profit. Always subtract costs.\n- Forgetting fixed costs when finding total cost.\n- Dividing the wrong way round when finding average cost.\n- Assuming that more sales always mean more profit. A price cut can raise sales but lower profit.\n- Forgetting that break-even models assume a constant price and constant variable cost per unit, which is not always realistic.\n\n## How this is examined\nQuestions usually give a business context, such as a food truck or a new cafe, with numbers in the stimulus. You are asked to calculate (revenue, total cost, profit, break-even), then to show that or justify a claim using your results, and finally to evaluate a decision such as cutting a price or expanding. Strong answers state the assumptions made (constant price and variable cost) and comment on how reliable the estimate is.\n\nExam tip: Write the formula first, substitute the numbers from the stimulus, and label every answer with units ($ or units of output); it is easy to lose marks by mixing up cost per unit and total cost.",
+  "flashcards": [
+   {
+    "front": "Fixed cost",
+    "back": "A cost that does not change as output changes in the short run, such as rent or insurance."
+   },
+   {
+    "front": "Variable cost",
+    "back": "A cost that rises and falls with output, such as raw materials and packaging."
+   },
+   {
+    "front": "Total cost formula",
+    "back": "Total cost = fixed costs + variable costs."
+   },
+   {
+    "front": "Average cost formula",
+    "back": "Average cost = total cost ÷ output. It is the cost of producing one unit."
+   },
+   {
+    "front": "Total revenue formula",
+    "back": "Total revenue = price × quantity sold."
+   },
+   {
+    "front": "Profit formula",
+    "back": "Profit = total revenue − total cost. A negative result is a loss."
+   },
+   {
+    "front": "Break-even output",
+    "back": "Fixed costs ÷ (price − variable cost per unit). At this output revenue equals total cost and profit is zero."
+   },
+   {
+    "front": "Economies of scale",
+    "back": "Falling average cost as output grows, e.g. bulk buying discounts or spreading marketing costs over more units."
+   },
+   {
+    "front": "Diseconomies of scale",
+    "back": "Rising average cost when a firm grows too large, e.g. slow communication, weak teamwork or poor control."
+   }
+  ]
+ },
+ {
+  "subject": "economics",
+  "grade": 5,
+  "topic": "Firms and Production",
+  "subTopic": "Business Types and Market Structures",
+  "questions": [
+   {
+    "content": "Which type of business is owned and controlled by one person?",
+    "options": [
+     "Sole trader",
+     "Partnership",
+     "Private limited company",
+     "Co-operative"
+    ],
+    "answer": 0,
+    "explanation": "A sole trader is one person running a business. Partnerships have two or more owners, and companies are owned by shareholders.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does limited liability mean for the owners of a company?",
+    "options": [
+     "They are personally responsible for all the firm's debts",
+     "They can lose only the money they invested",
+     "They cannot make a profit above a set limit",
+     "They may only own a limited number of shares"
+    ],
+    "answer": 1,
+    "explanation": "With limited liability, shareholders' personal belongings are protected if the company fails. Sole traders and ordinary partners have unlimited liability.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which sector is owned and run by the government?",
+    "options": [
+     "The private sector",
+     "The informal sector",
+     "The public sector",
+     "The tertiary sector"
+    ],
+    "answer": 2,
+    "explanation": "State-owned organisations belong to the public sector. The private sector is owned by individuals or companies, and tertiary refers to services, not ownership.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "People who own shares in a company are called:",
+    "options": [
+     "creditors",
+     "suppliers",
+     "partners",
+     "shareholders"
+    ],
+    "answer": 3,
+    "explanation": "Shareholders own a part of the company and may receive a share of profit called a dividend. Creditors are owed money and suppliers sell goods to the firm.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A market has only one seller of a product with no close substitutes. This market structure is called a:",
+    "options": [
+     "monopoly",
+     "oligopoly",
+     "monopolistic competition",
+     "perfect competition"
+    ],
+    "answer": 0,
+    "explanation": "Mono means one. An oligopoly has a few big sellers, and the competition types have many sellers.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Sam is a sole trader whose business closes owing $40,000. The business assets are worth $25,000. How much of Sam's personal money could be at risk?",
+    "options": [
+     "$0",
+     "$15,000",
+     "$25,000",
+     "$40,000"
+    ],
+    "answer": 1,
+    "explanation": "Sole traders have unlimited liability. After selling business assets ($25,000) there is 40,000 − 25,000 = $15,000 still owed, which may be paid from personal assets.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Two partners invest $6,000 and $4,000 and agree to share profit in the same ratio as their investment. The profit is $15,000. How much does the first partner receive?",
+    "options": [
+     "$7,500",
+     "$6,000",
+     "$9,000",
+     "$5,000"
+    ],
+    "answer": 2,
+    "explanation": "The ratio 6 000 : 4 000 is 3 : 2, so the first partner gets 3/5 of $15,000 = $9,000. An equal split would give $7,500.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the main difference between a public limited company and a private limited company?",
+    "options": [
+     "A public limited company can sell its shares to the general public on a stock exchange",
+     "A public limited company is owned by the government",
+     "A private limited company has unlimited liability",
+     "A private limited company cannot make a profit"
+    ],
+    "answer": 0,
+    "explanation": "Both have limited liability. Only the public company can offer shares to anyone, which lets it raise large amounts of capital. Public in this name does not mean government owned.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In one country four giant firms sell most of the mobile phone contracts and each watches the others' prices closely before changing its own. This market is best described as:",
+    "options": [
+     "a monopoly",
+     "an oligopoly",
+     "perfect competition",
+     "a sole trader market"
+    ],
+    "answer": 1,
+    "explanation": "A few large firms dominating a market and reacting to each other is typical of an oligopoly.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of these is a feature of perfect competition?",
+    "options": [
+     "One firm that sets the price",
+     "A few firms with large advertising budgets",
+     "Many sellers offering identical products, with easy entry to the market",
+     "Products that are all highly differentiated"
+    ],
+    "answer": 2,
+    "explanation": "In perfect competition no single seller can influence the price. Differentiated products suggest monopolistic competition.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A town has 20 hairdressers. Each offers a slightly different style, atmosphere and location, and each sets its own prices within a range. This is closest to:",
+    "options": [
+     "monopoly",
+     "oligopoly",
+     "perfect competition",
+     "monopolistic competition"
+    ],
+    "answer": 3,
+    "explanation": "Many firms selling differentiated products, with free entry, describes monopolistic competition. Perfect competition needs identical products.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the main aim of a social enterprise?",
+    "options": [
+     "To trade while achieving social or environmental goals, reinvesting most profit",
+     "To maximise dividends for shareholders",
+     "To be owned and run by the government",
+     "To avoid charging customers"
+    ],
+    "answer": 0,
+    "explanation": "A social enterprise sells goods or services like any business, but its main purpose is to help people or the environment. Profit is mostly reinvested.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A worker co-operative with 8 equal members makes a profit of $48,000 and shares it equally. How much does each member receive?",
+    "options": [
+     "$8,000",
+     "$6,000",
+     "$5,000",
+     "$48,000"
+    ],
+    "answer": 1,
+    "explanation": "48,000 ÷ 8 = $6,000. Dividing by 6 gives 8,000, which is a slip in the divisor.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The four firms in a market have market shares of 40%, 30%, 20% and 10%. Which statement is best supported?",
+    "options": [
+     "The top two firms hold 70% of the market, which suggests an oligopoly",
+     "No firm has more than 25% so the market is perfect competition",
+     "The top firm holds 40%, so it is a monopoly",
+     "The market has 100 firms so it is monopolistic competition"
+    ],
+    "answer": 0,
+    "explanation": "40% + 30% = 70% shared between two firms. With only four firms the market is concentrated. A monopoly would need one firm to control (almost) all of it.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A company has issued 1,000 shares. Joy owns 150 of them. The company pays total dividends of $20,000. How much does Joy receive and what percentage of the company does she own?",
+    "options": [
+     "$150 and 15%",
+     "$3,000 and 1.5%",
+     "$3,000 and 15%",
+     "$20,000 and 15%"
+    ],
+    "answer": 2,
+    "explanation": "Joy owns 150 ÷ 1,000 = 15% of the company, so her dividend is 15% of $20,000 = $3,000.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two friends want to open a small restaurant. They want to protect their personal savings if it fails, but do not want to sell shares to the public. Which business type fits best?",
+    "options": [
+     "A sole trader",
+     "An ordinary partnership",
+     "A public limited company",
+     "A private limited company"
+    ],
+    "answer": 3,
+    "explanation": "A private limited company gives limited liability but keeps shares among a small group. A partnership has unlimited liability and a public company would have to sell shares to the public.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A government keeps a railway in the public sector. Which is the strongest economic reason?",
+    "options": [
+     "Because state-owned firms always have lower costs",
+     "To keep unprofitable but socially important routes running",
+     "Because private firms are not allowed to make profit",
+     "Because trains cannot be sold to shareholders"
+    ],
+    "answer": 1,
+    "explanation": "A private firm may close routes that lose money, but those routes may be vital for rural communities. The other statements are not always true.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "There are 500 wheat farmers in a region. Their wheat is identical and the market price is set by overall supply and demand. If one farmer tries to charge 10% more than the market price, what is likely to happen?",
+    "options": [
+     "Buyers will buy from other farmers, so that farmer sells almost nothing",
+     "The farmer's profit rises by 10%",
+     "Other farmers will copy the higher price",
+     "The government will set a new price"
+    ],
+    "answer": 0,
+    "explanation": "In a market close to perfect competition each farmer is a price taker. With identical products, buyers simply switch to cheaper sellers.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why business type matters\nNot every business is set up in the same way. The legal form of a business decides who owns it, who makes the decisions, who gets the profit and who pays if things go wrong. Different market structures describe how many firms compete and how much power they have.\n\n## Types of business\n- **Sole trader**: owned by one person. Easy to set up and the owner keeps all profit, but has **unlimited liability** (personal belongings can be used to pay business debts) and finds it hard to raise money.\n- **Partnership**: two or more owners share the work, money and profit. More ideas and funds than a sole trader, but partners may disagree and normally have unlimited liability.\n- **Private limited company**: owned by shareholders who cannot sell shares to the general public. Shareholders have **limited liability**, meaning they can lose only what they invested.\n- **Public limited company**: shares can be bought and sold by anyone on a stock exchange. It can raise huge amounts of capital, but the owners lose some control and must publish more information.\n- **Co-operative**: owned and run by members (workers or customers) who share the profits fairly.\n- **Social enterprise**: trades like a business but its main aim is social or environmental, with most profit reinvested.\n- **Public sector organisations**: owned by the government, such as a state school or a state-owned railway. They aim to provide a service, not just to make profit.\n\n## Dividends\nA company shares its profit with owners through **dividends**. If a company pays $20,000 in total and you own 15% of the shares, you get 15% × 20,000 = $3,000.\n\n## Market structures\nEconomists group markets by the number of firms and the type of product:\n- **Perfect competition**: many sellers, identical products, free entry. Firms are **price takers**.\n- **Monopolistic competition**: many sellers, differentiated products (such as hairdressers or cafes). Firms have some control over price.\n- **Oligopoly**: a few large firms dominate and watch each other's decisions. Mobile networks and supermarkets are common examples.\n- **Monopoly**: one seller, no close substitutes, high barriers to entry. The firm is a **price maker**.\n\n## Worked example\nTwo partners invest $6,000 and $4,000 and share profit in that ratio. The ratio is 3 : 2. If the profit is $15,000, the first partner receives 3/5 × 15,000 = $9,000 and the second receives $6,000.\n\n## Common mistakes\n- Thinking \"public limited company\" means government owned. It means shares are available to the public.\n- Saying limited liability means a limit on profit. It limits the owners' possible loss.\n- Mixing up monopolistic competition (many firms, slightly different products) with monopoly (one firm).\n- Describing a market only by size. Look at the number of firms and how similar their products are.\n\n## How this is examined\nTypical questions describe a business or a market, often with market shares or ownership details. You may be asked to identify the business type, calculate a share of profit, decide which structure best fits the data, or justify which form of ownership suits a particular owner. Good answers link the features (risk, control, ability to raise money) directly to the scenario.\n\nExam tip: When asked to justify a choice of business type or market structure, name the feature, then connect it to a detail in the question (for example, \"unlimited liability is risky for Sam because the debts were larger than the assets\").",
+  "flashcards": [
+   {
+    "front": "Sole trader",
+    "back": "A business owned and controlled by one person. Easy to set up, but the owner has unlimited liability."
+   },
+   {
+    "front": "Partnership",
+    "back": "A business owned by two or more people who share the decisions, money and profit."
+   },
+   {
+    "front": "Limited liability",
+    "back": "Owners can lose only the money they invested; their personal belongings are protected if the company fails."
+   },
+   {
+    "front": "Private vs public limited company",
+    "back": "Private: shares sold privately to a small group. Public: shares can be traded by anyone on a stock exchange."
+   },
+   {
+    "front": "Co-operative",
+    "back": "A business owned and run by its members (workers or customers), who share the profits."
+   },
+   {
+    "front": "Public sector",
+    "back": "The part of the economy owned and run by the government, such as state schools and some railways."
+   },
+   {
+    "front": "Perfect competition",
+    "back": "Many sellers, identical products, free entry. Each firm is a price taker."
+   },
+   {
+    "front": "Oligopoly",
+    "back": "A market dominated by a few large firms that react to each other's pricing decisions."
+   },
+   {
+    "front": "Monopoly",
+    "back": "A single seller of a product with no close substitutes and strong barriers to entry. The firm is a price maker."
+   }
+  ]
+ },
+ {
+  "subject": "economics",
+  "grade": 5,
+  "topic": "Firms and Production",
+  "subTopic": "Competition and Monopoly",
+  "questions": [
+   {
+    "content": "Which of these is a barrier to entry that can protect a monopoly?",
+    "options": [
+     "A patent on the product",
+     "Low start-up costs",
+     "Many suppliers of raw materials",
+     "Customers who change brands easily"
+    ],
+    "answer": 0,
+    "explanation": "A patent stops others copying an invention. The other options would make it easier for new firms to enter.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A firm that can choose its own price because it has little or no competition is called a:",
+    "options": [
+     "price taker",
+     "price maker",
+     "price cutter",
+     "price follower"
+    ],
+    "answer": 1,
+    "explanation": "Monopolies are price makers. Firms in perfect competition are price takers.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A group of firms secretly agree to charge the same high price. This is called a:",
+    "options": [
+     "merger",
+     "franchise",
+     "cartel",
+     "subsidy"
+    ],
+    "answer": 2,
+    "explanation": "A cartel fixes prices or output instead of competing. This is illegal in many countries because it harms consumers.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is a likely benefit of strong competition for consumers?",
+    "options": [
+     "Lower prices and greater choice",
+     "Higher prices and less choice",
+     "Fewer firms and less innovation",
+     "Longer waiting times"
+    ],
+    "answer": 0,
+    "explanation": "Competing firms try to win customers by lowering prices, improving quality and offering variety.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A patent gives an inventor:",
+    "options": [
+     "permanent ownership of the whole market",
+     "the sole right to make or sell the invention for a set period",
+     "a government subsidy for life",
+     "the right to set any price without regulation"
+    ],
+    "answer": 1,
+    "explanation": "Patents last for a limited time. They reward invention but do not give permanent market control or exemption from regulation.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A firm sells 36,000 units in a market where total sales are 120,000 units. What is its market share?",
+    "options": [
+     "30%",
+     "33.3%",
+     "3.3%",
+     "70%"
+    ],
+    "answer": 0,
+    "explanation": "Market share = firm's sales ÷ total sales × 100 = 36,000 ÷ 120,000 × 100 = 30%.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Two firms with market shares of 25% and 15% plan to merge. What combined share would the new firm have?",
+    "options": [
+     "10%",
+     "25%",
+     "40%",
+     "375%"
+    ],
+    "answer": 2,
+    "explanation": "Shares add together: 25% + 15% = 40%. A competition authority may check whether such a merger would reduce competition too much.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A monopoly charges $28 for a product. A regulator sets a maximum price of $20. By what percentage does the maximum price fall compared with the original price?",
+    "options": [
+     "28.6%",
+     "40%",
+     "8%",
+     "71.4%"
+    ],
+    "answer": 0,
+    "explanation": "The fall is 28 − 20 = $8. Percentage fall = 8 ÷ 28 × 100 ≈ 28.6%. Dividing by the new price (20) gives 40%, which uses the wrong base.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why can a monopoly often raise its price without losing all its customers?",
+    "options": [
+     "It always has the lowest costs",
+     "There are no close substitutes for its product",
+     "Customers enjoy paying higher prices",
+     "The government pays for the extra cost"
+    ],
+    "answer": 1,
+    "explanation": "With no close alternatives customers have little choice but to buy, although some may buy less.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of these could be a benefit of a monopoly?",
+    "options": [
+     "Large-scale production may lower average costs and fund research",
+     "It always has to charge the lowest price",
+     "It faces constant pressure to improve",
+     "It has no barriers to entry"
+    ],
+    "answer": 0,
+    "explanation": "Large firms can benefit from economies of scale and may use profits to invest in innovation, though this does not always happen.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Two rival firms keep cutting prices to win customers from each other. In the short run, what is the most likely result?",
+    "options": [
+     "Consumers pay more and profits rise",
+     "Both firms leave the market at once",
+     "Consumers pay less, while the firms' profits are squeezed",
+     "Quantity demanded falls to zero"
+    ],
+    "answer": 2,
+    "explanation": "A price war helps consumers, but each firm earns a lower margin. If it continues, weaker firms may be forced out.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A competition authority is deciding whether to allow two leading supermarkets to merge. Which concern is most relevant?",
+    "options": [
+     "Supermarkets would have more employees",
+     "Fewer competitors could allow higher prices for consumers",
+     "More shop signs would appear",
+     "The firms would pay less tax"
+    ],
+    "answer": 1,
+    "explanation": "The authority checks whether the merger would reduce competition and harm consumers through higher prices or lower quality.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is a water pipe network often described as a natural monopoly?",
+    "options": [
+     "Water is a luxury good",
+     "Governments forbid private firms from selling water",
+     "Customers prefer paying higher prices",
+     "Duplicating the pipes would be very costly, so one provider has the lowest average cost"
+    ],
+    "answer": 3,
+    "explanation": "Where start-up costs are huge and average cost falls with scale, one firm serving the market is more efficient, but it usually needs regulation.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Three firms agree to raise their price from $8 to $10. Total market sales fall from 90,000 to 78,000 units. Which statement is best supported by the data?",
+    "options": [
+     "Total revenue falls, because fewer units were sold",
+     "Total revenue rises by $60,000, because sales fell by a smaller percentage (13.3%) than the price rose (25%)",
+     "Total revenue rises by $780,000",
+     "Total revenue is unchanged, because a price rise is cancelled out by lower sales"
+    ],
+    "answer": 1,
+    "explanation": "Before: 8 × 90,000 = $720,000. After: 10 × 78,000 = $780,000, a rise of $60,000. Demand is relatively inelastic here, so the cartel gains but consumers pay more.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A monopoly sells 500 units at $20 each with total costs of $6,500. If competition forces it to sell 600 units at $15 each with total costs of $7,800, by how much does its profit fall?",
+    "options": [
+     "$2,300",
+     "$1,200",
+     "$3,500",
+     "$1,000"
+    ],
+    "answer": 0,
+    "explanation": "Monopoly profit = 10,000 − 6,500 = $3,500. Competitive profit = 9,000 − 7,800 = $1,200. The fall is 3,500 − 1,200 = $2,300. Consumers, however, gain from the lower price.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A government proposes to break a large firm into five small ones to increase competition. Which is the strongest argument against the plan?",
+    "options": [
+     "Competition always raises prices",
+     "Large firms never make a profit",
+     "The smaller firms might lose economies of scale and face higher average costs",
+     "Consumers dislike having choice"
+    ],
+    "answer": 2,
+    "explanation": "Breaking up a firm can increase competition but may remove cost savings from large-scale production, so the effect on prices is uncertain.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Four firms in a market have shares of 30%, 25%, 20% and 10%. The remaining sales are split among many small firms. What is the combined share of the four largest firms and what does it suggest?",
+    "options": [
+     "85%, so the market is highly concentrated",
+     "15%, so the market is highly competitive",
+     "85%, so the market is a monopoly",
+     "100%, so there are only four firms"
+    ],
+    "answer": 0,
+    "explanation": "30 + 25 + 20 + 10 = 85%. A few firms dominating the market suggests concentration, although it is not a monopoly because several firms exist.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A national railway is the only provider of trains on a route. Which factor would most limit its power to raise fares?",
+    "options": [
+     "Its large number of train carriages",
+     "The availability of coaches, cars and flights as substitutes",
+     "Its high start-up costs",
+     "The fact that it is a price maker"
+    ],
+    "answer": 1,
+    "explanation": "Even a single provider faces competition from other forms of travel. Many close substitutes make demand more elastic, so higher fares lose more customers.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Competition: why it matters\n**Competition** happens when firms try to win the same customers. Strong competition is usually good for consumers because firms must keep prices low, improve quality, offer choice and innovate to survive. Firms in a competitive market are often **price takers**.\n\n## Monopoly\nA **monopoly** exists when one firm is the only seller in a market with no close substitutes. It is a **price maker**: it can choose its price rather than accept the market price. In practice, a firm with a very large market share (for example 70% or more) is often treated as having monopoly power.\n\n## Barriers to entry\nA monopoly lasts only if new firms are blocked from entering. Common **barriers to entry** include:\n- legal protection, such as patents, copyrights and licences\n- very high start-up costs, such as building a rail network\n- control of key resources\n- economies of scale that make it hard for small firms to compete\n- strong brands and customer loyalty\n\n## Problems with monopoly\n- Higher prices and lower output than in a competitive market\n- Less choice for consumers\n- Less pressure to cut costs or to innovate, which can create inefficiency\n\n## Possible benefits of monopoly\n- Economies of scale can lower average costs\n- High profits may fund research and development\n- A **natural monopoly**, such as a water pipe network, is cheaper to run as one firm because duplicating the infrastructure is wasteful\n\n## Collusion and cartels\nA **cartel** is a group of firms that agree to fix prices or limit output. It raises their profits but harms consumers, so it is illegal in many countries.\n\n## How governments respond\n- Competition authorities investigate mergers and block those that reduce competition too much\n- Price caps limit what a monopoly may charge\n- Firms can be broken up or opened to competitors\n- Regulators monitor quality and service in natural monopolies\n\n## Worked example\nA monopoly sells 500 units at $20 with total costs of $6,500: revenue = $10,000 and profit = $3,500. With competition, it sells 600 units at $15 with costs of $7,800: revenue = $9,000 and profit = $1,200. Profit falls by $2,300, but consumers pay $5 less per unit and get more units.\n\n## Market share\nMarket share = firm's sales ÷ total market sales × 100. If a firm sells 36,000 units out of 120,000, its share is 30%. When firms merge, their shares add together.\n\n## Common mistakes\n- Assuming a monopoly can charge any price. Demand, substitutes and regulation limit it.\n- Saying all monopolies are bad. Economies of scale and natural monopolies are real benefits.\n- Calculating a percentage change using the wrong base. Always divide by the original value.\n- Forgetting that a firm with 100% of one product may still compete with substitutes.\n\n## How this is examined\nQuestions often present market share figures, price data or a short news-style scenario about a merger, cartel or price cap. You will be asked to calculate shares or revenue, interpret the data, and then evaluate: who gains, who loses and whether the government should step in. Marks go to balanced answers that consider both consumers and the firm.\n\nExam tip: For \"evaluate\" or \"discuss\" questions give at least one advantage and one disadvantage, then finish with a justified judgement that refers to the information in the question.",
+  "flashcards": [
+   {
+    "front": "Monopoly",
+    "back": "One firm is the only seller in a market and there are no close substitutes. It is a price maker."
+   },
+   {
+    "front": "Barriers to entry",
+    "back": "Obstacles that stop new firms joining a market: patents, high start-up costs, control of resources, economies of scale, strong brands."
+   },
+   {
+    "front": "Price maker vs price taker",
+    "back": "A price maker (monopoly) chooses its price. A price taker (perfect competition) must accept the market price."
+   },
+   {
+    "front": "Benefits of competition",
+    "back": "Lower prices, better quality, more choice and more innovation for consumers."
+   },
+   {
+    "front": "Problems of monopoly",
+    "back": "Higher prices, lower output, less choice and less pressure to cut costs or innovate."
+   },
+   {
+    "front": "Possible benefits of monopoly",
+    "back": "Economies of scale can lower costs, and high profits can fund research and development."
+   },
+   {
+    "front": "Cartel",
+    "back": "A group of firms that secretly agree to fix prices or limit output instead of competing. Illegal in many countries."
+   },
+   {
+    "front": "Natural monopoly",
+    "back": "A market where one firm is cheapest because infrastructure is very costly to duplicate, e.g. water pipes. Usually regulated."
+   },
+   {
+    "front": "Market share formula",
+    "back": "Market share = firm's sales ÷ total market sales × 100. When firms merge, their shares add together."
+   }
+  ]
+ }
+]

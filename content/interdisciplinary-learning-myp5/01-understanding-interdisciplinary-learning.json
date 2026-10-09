@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "interdisciplinary-learning",
+  "grade": 5,
+  "topic": "Understanding Interdisciplinary Learning",
+  "subTopic": "What Interdisciplinary Understanding Means",
+  "questions": [
+   {
+    "content": "Which statement best describes interdisciplinary understanding in MYP?",
+    "options": [
+     "Integrating ideas or methods from two or more subject groups to explain or solve something",
+     "Learning every fact from two subjects before an exam",
+     "Studying one subject much more deeply than the others",
+     "Working in a group on a poster about any topic"
+    ],
+    "answer": 0,
+    "explanation": "Interdisciplinary understanding is about integrating concepts and methods from different disciplines to do something (explain, solve, create or ask a new question) that one subject alone could not do as well.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which pair of subjects comes from two DIFFERENT MYP subject groups?",
+    "options": [
+     "Biology and Physics",
+     "History and Geography",
+     "Chemistry and Language and literature",
+     "Visual arts and Drama"
+    ],
+    "answer": 2,
+    "explanation": "Chemistry is in Sciences and Language and literature is its own group. Biology/Physics are both Sciences, History/Geography are both Individuals and societies, and Visual arts/Drama are both Arts.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why are interdisciplinary approaches useful for a problem such as plastic pollution in the ocean?",
+    "options": [
+     "Because the problem has scientific, economic and social causes that no single subject covers fully",
+     "Because single subjects are not allowed to study real problems",
+     "Because the problem is too small for science alone",
+     "Because it removes the need for evidence"
+    ],
+    "answer": 0,
+    "explanation": "Real issues have many dimensions. Combining disciplines gives a fuller explanation or a better solution than one subject can give.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A student writes a paragraph on air pollution using only science facts and never mentions another subject. What is missing for interdisciplinary work?",
+    "options": [
+     "Longer sentences",
+     "Ideas or methods from a second discipline, linked to the first",
+     "More technical vocabulary from science",
+     "A conclusion in the first sentence"
+    ],
+    "answer": 1,
+    "explanation": "Interdisciplinary work needs a second discipline and, more importantly, the links between the two.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In the interdisciplinary eAssessment, how many subject groups do you combine in your response?",
+    "options": [
+     "One",
+     "Two",
+     "Five",
+     "All eight"
+    ],
+    "answer": 1,
+    "explanation": "The task is built around two subject groups, and you are expected to ground your answer in both and then bring them together.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Two students answer: 'How can a city reduce traffic jams?' Student 1 writes one paragraph on geography (road layout) and one on mathematics (traffic data), never connecting them. Student 2 uses the traffic data to decide where a new bus lane would help most. Whose work is more interdisciplinary and why?",
+    "options": [
+     "Student 1, because both subjects appear",
+     "Student 2, because the maths is used inside the geographical reasoning",
+     "Neither, because traffic is not a school topic",
+     "Both equally, because both used two subjects"
+    ],
+    "answer": 1,
+    "explanation": "Student 1 is multidisciplinary (side by side). Student 2 integrates the subjects, so each strengthens the other.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which pair best illustrates the difference between 'multidisciplinary' and 'interdisciplinary'?",
+    "options": [
+     "Multidisciplinary uses one subject; interdisciplinary uses three",
+     "Multidisciplinary places subject ideas side by side; interdisciplinary integrates them",
+     "Multidisciplinary is for sciences only",
+     "They mean exactly the same"
+    ],
+    "answer": 1,
+    "explanation": "Multi means several subjects in parallel. Inter means the ideas are combined into a new, connected understanding.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A scenario describes a village whose river is drying up. Which task is the best example of an interdisciplinary question?",
+    "options": [
+     "List the boiling point of water",
+     "Explain how climate data and local farming practices together explain the shortage, and suggest a solution",
+     "Describe the history of the village in chronological order",
+     "Calculate the area of the river bed"
+    ],
+    "answer": 1,
+    "explanation": "Only the second task needs scientific/geographic evidence and social/economic understanding combined to explain and solve a problem.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is a good reason for the exam to ask for a NEW insight rather than just a summary of each subject?",
+    "options": [
+     "Examiners dislike summaries",
+     "Interdisciplinary understanding means producing something (an explanation, solution or question) that one subject alone would be unlikely to produce",
+     "New insights are always longer",
+     "Summaries are only for Arts"
+    ],
+    "answer": 1,
+    "explanation": "The whole point is the added value of combining. A summary of each subject adds no value beyond the subjects themselves.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student says: 'I included Maths and Sciences, so my answer is interdisciplinary.' What is the weakness in this claim?",
+    "options": [
+     "Maths and Sciences cannot be combined",
+     "Mentioning two subjects does not show how they work together",
+     "Maths is not an MYP subject",
+     "Sciences always dominate"
+    ],
+    "answer": 1,
+    "explanation": "Naming subjects is not enough. You must show how each contributes and how they are integrated.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of these is a disciplinary tool rather than a general skill?",
+    "options": [
+     "Drawing a bar chart to compare rainfall data in a geography investigation",
+     "Writing neatly",
+     "Reading the question twice",
+     "Using full sentences"
+    ],
+    "answer": 0,
+    "explanation": "A disciplinary tool is a method that belongs to a subject, such as analysing data in geography. Reading carefully and neat writing are general skills.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A task asks you to 'explain how Science and Language and literature together help us understand a vaccine campaign'. Which is the strongest plan?",
+    "options": [
+     "Describe how vaccines work, then separately analyse a poster's language",
+     "Explain how the immune response works and analyse how the poster's persuasive language uses that science to change behaviour",
+     "Write about vaccines only",
+     "Write about persuasive language only"
+    ],
+    "answer": 1,
+    "explanation": "The strongest plan links the two: the science supplies the message, and the language analysis shows how it is communicated to persuade.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement about the purpose of integrating disciplines is MOST accurate?",
+    "options": [
+     "It makes answers harder to mark",
+     "It can reveal connections and solutions that stay hidden when each subject is used alone",
+     "It replaces the need to know subject content",
+     "It only works for technology topics"
+    ],
+    "answer": 1,
+    "explanation": "Integration depends on solid subject knowledge, but its payoff is new connections and better solutions.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student argues that interdisciplinary understanding is 'knowing a bit about everything'. Which response best corrects this?",
+    "options": [
+     "Agreed, wide knowledge is the goal",
+     "It depends on deep enough disciplinary knowledge in each subject, which is then integrated",
+     "Only one subject needs to be known well",
+     "Knowledge is not assessed"
+    ],
+    "answer": 1,
+    "explanation": "Integration is only as good as the grounding in each discipline. Shallow knowledge of many subjects leads to weak, vague links.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A city proposes to ban cars from its centre. Student A analyses air-quality data (Sciences) and then interviews shop owners (Individuals and societies) in separate sections, ending with 'both are important'. Student B shows that cleaner air is likely to attract more shoppers, but only if public transport is affordable, and proposes a phased ban with subsidised buses. What makes B stronger?",
+    "options": [
+     "B is longer",
+     "B uses each subject's evidence to qualify the other's, leading to a justified, combined solution",
+     "B avoids using data",
+     "B only mentions Sciences"
+    ],
+    "answer": 1,
+    "explanation": "B integrates: the science and the economic/social evidence interact and shape the proposal. A merely places them next to each other.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which situation would NOT need interdisciplinary understanding?",
+    "options": [
+     "Designing a school garden that is both ecologically healthy and enjoyable to use",
+     "Calculating 15% of 240",
+     "Explaining why a language dies out and what that means for a community",
+     "Planning a hospital that is energy efficient and welcoming to patients"
+    ],
+    "answer": 1,
+    "explanation": "A routine percentage calculation sits in one subject. The others involve more than one type of knowledge and values.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "After integrating Sciences and Individuals and societies, a student says their conclusion has 'limits'. Which is the best example of an interdisciplinary limitation?",
+    "options": [
+     "I ran out of time",
+     "The scientific data are from one season, while the social evidence comes from a single community, so the two may not match",
+     "My handwriting is poor",
+     "I forgot a formula"
+    ],
+    "answer": 1,
+    "explanation": "A strong limitation points to how the evidence or methods from the disciplines may not fully fit together, affecting the conclusion.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A response claims: 'Because both subjects agree, the conclusion must be true.' What is the most important weakness?",
+    "options": [
+     "Subjects can never agree",
+     "Agreement between disciplines supports a conclusion but does not prove it; sources, methods and gaps still need evaluating",
+     "Agreement is always irrelevant",
+     "It should have used a third subject"
+    ],
+    "answer": 1,
+    "explanation": "Convergence of evidence strengthens a claim, but good interdisciplinary thinkers still judge reliability, scope and assumptions.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What it is\nInterdisciplinary understanding is the ability to bring together ideas, methods or ways of communicating from two or more subject groups so that you can explain something, solve a problem, create something or ask a new question in a way that a single subject would be unlikely to manage. In the MYP interdisciplinary eAssessment you work with two subject groups, for example Sciences with Individuals and societies, or Mathematics with Language and literature. You are not being tested on new content. You are being tested on how well you use what you already know from your subjects, and how well you join it up.\n\n## Why it matters\nThe issues the world faces, such as climate change, health crises, migration or the use of artificial intelligence, do not come labelled by subject. A single issue has scientific causes, economic effects, cultural meanings and ethical questions all at once. Looking through one subject gives you a true but incomplete picture. Looking through two and combining them gives a fuller picture and better solutions.\n\n## Multidisciplinary or interdisciplinary?\nThis difference is examined again and again.\n- **Multidisciplinary** means ideas from different subjects sit side by side, like two paragraphs that never meet.\n- **Interdisciplinary** means the ideas are integrated. One subject's evidence changes, limits or strengthens what the other subject says, and the result is a new explanation, solution, product or question.\nA quick test: if you could delete one paragraph and the other would still make complete sense, your work is probably multidisciplinary.\n\n## Four things the task asks of you\nThe criteria match four skills.\n- **Disciplinary grounding** (Criterion A): showing accurate knowledge, concepts and methods from each subject.\n- **Synthesising** (Criterion B): combining those disciplines to create an explanation, solution or product that adds something new.\n- **Communicating** (Criterion C): presenting your ideas clearly, with evidence and the right terminology.\n- **Reflecting** (Criterion D): thinking about what you did, the strengths and limits of the disciplines and of your own work.\n\n## A worked example\nSuppose the stimulus is about a coastal town losing its beach to erosion. A Sciences point is that waves and rising sea levels remove sand faster than it is replaced. An Individuals and societies point is that the tourism economy depends on the beach and that residents disagree about paying for sea walls. A multidisciplinary answer states both points. An interdisciplinary answer says that because the erosion rate is projected to rise, a permanent sea wall may be too costly for the benefit, so the town should plan a staged retreat that shares costs fairly. The science shapes the economic and social judgement, and the social context shapes which scientific solutions are realistic.\n\n## Common mistakes\n- Naming two subjects but never linking them.\n- Writing everything you know about a topic instead of what answers the task.\n- Weak disciplinary knowledge, so the links are vague.\n- Treating agreement between subjects as proof.\n- Ignoring the stimulus and writing a general essay.\n\n## How this is examined\nYou are given a stimulus, such as a short article, data and an image description about a real-world situation, and a task that names two subject groups. Early parts ask you to show knowledge of each discipline in the context. Later parts ask you to combine them to explain or propose something, then to reflect on strengths and limits. Command terms like explain, justify and evaluate tell you the depth required.\n\nExam tip: Before you write, ask yourself in one sentence what the two subjects together can say that each alone cannot. Make that sentence the spine of your answer.",
+  "flashcards": [
+   {
+    "front": "Interdisciplinary understanding",
+    "back": "Integrating concepts, methods or ways of communicating from two or more subject groups to explain, solve, create or ask something that one subject alone would be unlikely to achieve."
+   },
+   {
+    "front": "Multidisciplinary vs interdisciplinary",
+    "back": "Multidisciplinary: subject ideas placed side by side. Interdisciplinary: the ideas are integrated so they change or strengthen each other."
+   },
+   {
+    "front": "How many subject groups does the interdisciplinary task combine?",
+    "back": "Two subject groups, which you ground in separately and then synthesise."
+   },
+   {
+    "front": "Criterion A: Disciplinary grounding",
+    "back": "Showing accurate knowledge, concepts and methods from each of the two subject groups, applied to the context."
+   },
+   {
+    "front": "Criterion B: Synthesising",
+    "back": "Combining the disciplines to create a new explanation, solution, product or question that adds value beyond either subject alone."
+   },
+   {
+    "front": "Criterion C: Communicating",
+    "back": "Presenting ideas clearly and logically, using evidence, appropriate terminology and a sensible structure."
+   },
+   {
+    "front": "Criterion D: Reflecting",
+    "back": "Judging the strengths and limitations of the disciplines, the evidence and your own thinking, and what you would do differently."
+   },
+   {
+    "front": "Quick test for multidisciplinary work",
+    "back": "If you can delete one subject's paragraph and the other still stands complete, the ideas are probably side by side rather than integrated."
+   },
+   {
+    "front": "Why combine disciplines?",
+    "back": "Real issues have scientific, social, economic and ethical sides. Combining subjects gives a fuller explanation and more realistic solutions."
+   }
+  ]
+ },
+ {
+  "subject": "interdisciplinary-learning",
+  "grade": 5,
+  "topic": "Understanding Interdisciplinary Learning",
+  "subTopic": "Disciplinary Grounding",
+  "questions": [
+   {
+    "content": "What does 'disciplinary grounding' mean?",
+    "options": [
+     "Using accurate concepts, knowledge and methods from each subject in the task",
+     "Studying alone in a quiet room",
+     "Writing as much as possible",
+     "Memorising the stimulus"
+    ],
+    "answer": 0,
+    "explanation": "Grounding means your answer rests on correct subject knowledge and methods, not on general opinion.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which sentence shows strong Sciences grounding for a topic on coastal flooding?",
+    "options": [
+     "Floods are bad for people",
+     "As global temperatures rise, ocean water expands and ice melts, so sea level rises and floods low-lying coasts more often",
+     "The sea is blue",
+     "Scientists are worried"
+    ],
+    "answer": 1,
+    "explanation": "It uses accurate scientific ideas (thermal expansion, melting ice) and links them to the effect.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a method used in Individuals and societies?",
+    "options": [
+     "Titrating an acid",
+     "Analysing a source for origin, purpose and limitation",
+     "Solving a quadratic by factorising",
+     "Composing a melody"
+    ],
+    "answer": 1,
+    "explanation": "Evaluating sources is a core method in history and the wider Individuals and societies group.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A response uses the word 'osmosis' to describe how a city grows. What is the problem?",
+    "options": [
+     "It is too short",
+     "A subject term is used inaccurately, which weakens grounding",
+     "Osmosis is a Maths term",
+     "Nothing is wrong"
+    ],
+    "answer": 1,
+    "explanation": "Terminology must be used correctly in context. Misusing a term shows weak disciplinary understanding.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is a concept rather than a fact?",
+    "options": [
+     "The population of a city in 2020",
+     "Systems",
+     "A river is 300 km long",
+     "Rainfall was 120 mm in May"
+    ],
+    "answer": 1,
+    "explanation": "A concept is a big idea that applies across contexts (such as systems or change). The others are specific data or facts.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Stimulus: A school installs solar panels that produce 40 kWh a day and the school uses 100 kWh a day. A student states 'solar panels produce 40% of the needed energy'. Which discipline's skill is mainly shown?",
+    "options": [
+     "Mathematics: using a percentage to interpret data",
+     "Drama: devising a scene",
+     "Visual arts: composition",
+     "Language: rhyme"
+    ],
+    "answer": 0,
+    "explanation": "40 ÷ 100 = 0.40, so 40% is correct. This is a mathematical skill applied to a real context.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which response shows grounding in Language and literature when analysing a persuasive advert on recycling?",
+    "options": [
+     "The advert is nice",
+     "The advert uses direct address ('you can change this') and emotive language to make readers feel responsible",
+     "The advert has colours",
+     "Recycling is good"
+    ],
+    "answer": 1,
+    "explanation": "It identifies specific techniques and explains their effect on an audience, which is language analysis.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student must ground an answer in Sciences and Mathematics for a question on water use. Which pairing best uses both?",
+    "options": [
+     "Describe water in general and list numbers without comment",
+     "Explain evaporation and use a graph of reservoir levels to estimate when supply runs out",
+     "Quote a poem about water",
+     "Draw a picture of a dam"
+    ],
+    "answer": 1,
+    "explanation": "Evaporation is a science concept, and reading and extrapolating a graph is a mathematical method. Both are used on the same problem.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student gives long, accurate science content but the task asks about a social effect. What is the main problem with grounding?",
+    "options": [
+     "It lacks relevance: the knowledge is accurate but not applied to the task",
+     "Science cannot be accurate",
+     "The answer is too short",
+     "Nothing, any accurate fact earns credit"
+    ],
+    "answer": 0,
+    "explanation": "Grounding must be used in the context and aimed at the question. Accurate but unrelated content does not demonstrate it well.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement shows a disciplinary method rather than just knowledge?",
+    "options": [
+     "Because the sample was only 10 people, the survey result may not represent the whole town",
+     "Plastic is made from oil",
+     "The town has 30 000 people",
+     "Paris is in France"
+    ],
+    "answer": 0,
+    "explanation": "Thinking about sample size and representativeness is a method of investigating and evaluating data.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a task on the ethics of gene editing, which subject pairing gives strong grounding for BOTH the technical and the human side?",
+    "options": [
+     "Sciences and Individuals and societies",
+     "Physical and health education and Arts only",
+     "Design only",
+     "Mathematics only"
+    ],
+    "answer": 0,
+    "explanation": "Sciences explains what gene editing does, while Individuals and societies deals with law, rights, values and social impact.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is the best way to show grounding in the exam when you are short of time?",
+    "options": [
+     "Write the definition of every term you know",
+     "Choose two or three relevant concepts from each subject and apply them directly to the stimulus",
+     "Copy the stimulus",
+     "Skip the second subject"
+    ],
+    "answer": 1,
+    "explanation": "Selecting and applying relevant ideas beats listing. Depth and relevance matter more than quantity.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student must show Sciences grounding in a task about a lake where fish are dying after a farm began using fertiliser. Which explanation is best?",
+    "options": [
+     "Fertiliser run-off adds nutrients, causing algae to bloom; when the algae die, bacteria use up dissolved oxygen and fish cannot survive",
+     "Fertiliser makes the water colder, so fish freeze",
+     "Fish dislike farms",
+     "Algae produce too much oxygen, which poisons fish"
+    ],
+    "answer": 0,
+    "explanation": "This is eutrophication: nutrient run-off, algal bloom, decomposition and oxygen depletion. Algae blooms do not kill fish by producing oxygen; the later decomposition removes it.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student writes: 'In economics, when supply falls and demand stays the same, prices tend to rise, so a poor harvest could raise food prices in the region.' Which is the BEST evaluation?",
+    "options": [
+     "Poorly grounded because it is brief",
+     "Well grounded because it applies a correct economic idea to the context with a cause-and-effect chain",
+     "Wrong because harvests are scientific",
+     "Irrelevant because prices are a Maths topic"
+    ],
+    "answer": 1,
+    "explanation": "A poor harvest reduces supply, and the answer correctly links that to higher prices. The concept is accurate and applied to the context.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two students write about deforestation. Student 1 lists forest facts. Student 2 explains how loss of tree cover reduces transpiration and soil stability, then uses a map to compare areas of loss. Which feature separates the stronger grounding?",
+    "options": [
+     "Student 2 uses discipline-specific concepts and methods to explain, not just state facts",
+     "Student 1 is more detailed",
+     "Student 2 is longer",
+     "There is no difference"
+    ],
+    "answer": 0,
+    "explanation": "Strong grounding explains with concepts and uses methods (such as map reading), rather than reciting facts.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student says 'I used Maths because I included a number.' Which is the most accurate comment?",
+    "options": [
+     "Correct, any number is Maths",
+     "A number alone is not a mathematical method; grounding needs calculation, interpretation or modelling relevant to the problem",
+     "Numbers belong to Sciences",
+     "Maths is not allowed"
+    ],
+    "answer": 1,
+    "explanation": "Mathematical grounding comes from using methods such as calculating rates, interpreting graphs or checking reasonableness.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Stimulus: A report says a new road cut commute times from 60 to 45 minutes. A student writes 'a 25% reduction in commute time'. Which is correct and what does it show?",
+    "options": [
+     "Correct (15 ÷ 60 = 0.25); it shows accurate mathematical interpretation",
+     "Incorrect, it should be 15%",
+     "Incorrect, it should be 33%",
+     "Correct, but only because 60 − 45 = 25"
+    ],
+    "answer": 0,
+    "explanation": "The change is 15 minutes, and 15 ÷ 60 = 0.25, so 25%. Dividing by the original value is the key step. 60 − 45 is 15, not 25.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which weakness would MOST limit the Criterion A mark even if a response integrates well?",
+    "options": [
+     "Slightly informal tone",
+     "Inaccurate science and a misunderstood economic concept used as the basis of the argument",
+     "Using bullet points",
+     "A short introduction"
+    ],
+    "answer": 1,
+    "explanation": "If the base knowledge is wrong, any integration built on it is unreliable, so grounding is weak regardless of how well ideas are joined.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What grounding is\nDisciplinary grounding means that your answer stands on solid knowledge from each of the two subject groups you are working with. It is Criterion A in the interdisciplinary assessment. Before you can combine subjects, you have to show you can use each one properly. Think of it as the foundation: if it is cracked, nothing built on top is trustworthy.\n\n## What counts as grounding\nGrounding has three parts.\n- **Knowledge**: accurate facts and ideas, such as how greenhouse gases trap heat or how supply and demand affect prices.\n- **Concepts**: bigger ideas that apply across situations, such as systems, change, perspective or culture.\n- **Methods**: the ways a subject goes about things, for example controlling variables and evaluating data in Sciences, comparing sources and explaining causes in Individuals and societies, analysing language techniques in Language and literature, and modelling and interpreting graphs in Mathematics.\nA strong answer uses all three, not just facts.\n\n## Apply, do not recite\nExaminers are not impressed by a list of everything you know. They want to see knowledge used on the stimulus. Compare these.\n- Weak: 'Carbon dioxide is a greenhouse gas.'\n- Stronger: 'Because the town burns coal for power, its carbon dioxide emissions are high. Carbon dioxide traps heat in the atmosphere, so the town contributes to warming, which can raise sea levels and threaten its own coastline.'\nThe second one picks a relevant idea, links it to the case, and follows the consequences.\n\n## Using terminology precisely\nSubject words are tools. Use them correctly: renewable energy, biodiversity, inflation, primary source, bias, tone, rate of change, correlation. Misusing a word, or using lots of terms without explaining them, weakens your grounding. If you are unsure of a technical term, explain the idea in plain words rather than guessing.\n\n## Worked example\nStimulus: A fishing community notes that its catch fell from 500 tonnes to 350 tonnes over five years, while the fishing fleet grew. Mathematics grounding: the fall is 150 tonnes, and 150 ÷ 500 = 0.30, so the catch fell by 30%. Individuals and societies grounding: overfishing is when fish are caught faster than populations can reproduce, and it can harm communities that depend on fishing for income. Notice how each statement uses a method (percentage change, causal explanation) and a concept (sustainability), and relates it to the case.\n\n## Common mistakes\n- Giving accurate facts that do not answer the task.\n- Spending nearly all your time on one subject.\n- Misusing terms or mixing up concepts.\n- Quoting numbers without interpreting them.\n- Making claims with no subject reasoning behind them, such as 'everyone knows this is bad'.\n\n## How this is examined\nOpening parts of the task usually ask you to explain, describe or calculate something in one subject at a time, using the stimulus data. Later parts then expect that same knowledge to be used when you combine the subjects. Marks for grounding depend on accuracy, relevance and the range of concepts and methods you use.\n\nExam tip: For each subject, aim for two or three well-chosen ideas with a clear link to the stimulus, such as a quoted figure, instead of a long list of loosely related facts.",
+  "flashcards": [
+   {
+    "front": "Disciplinary grounding",
+    "back": "Accurate and relevant use of knowledge, concepts and methods from each of the subject groups in the task. It is Criterion A."
+   },
+   {
+    "front": "Three parts of grounding",
+    "back": "Knowledge (facts and ideas), concepts (big transferable ideas) and methods (how the subject investigates and communicates)."
+   },
+   {
+    "front": "Apply, do not recite",
+    "back": "Use subject ideas on the stimulus, linking them to the case and its consequences, instead of listing everything you know."
+   },
+   {
+    "front": "Example of a Sciences method",
+    "back": "Controlling variables, collecting and evaluating data, and drawing conclusions from evidence."
+   },
+   {
+    "front": "Example of an Individuals and societies method",
+    "back": "Analysing sources for origin, purpose and limitations, and explaining causes and consequences."
+   },
+   {
+    "front": "Example of a Language and literature method",
+    "back": "Analysing how techniques such as tone, imagery and direct address affect an audience."
+   },
+   {
+    "front": "Example of a Mathematics method",
+    "back": "Calculating, interpreting graphs, modelling and checking whether a result is reasonable."
+   },
+   {
+    "front": "Percentage change formula",
+    "back": "Percentage change = (new − original) ÷ original × 100. Always divide by the original value."
+   },
+   {
+    "front": "What weakens grounding most?",
+    "back": "Inaccurate content, misused terms, or accurate facts that are not applied to the question or stimulus."
+   }
+  ]
+ },
+ {
+  "subject": "interdisciplinary-learning",
+  "grade": 5,
+  "topic": "Understanding Interdisciplinary Learning",
+  "subTopic": "Global Contexts and Key Concepts",
+  "questions": [
+   {
+    "content": "How many global contexts are there in the MYP?",
+    "options": [
+     "Three",
+     "Six",
+     "Eight",
+     "Sixteen"
+    ],
+    "answer": 1,
+    "explanation": "There are six: identities and relationships; orientation in space and time; personal and cultural expression; scientific and technical innovation; globalization and sustainability; fairness and development.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is one of the MYP global contexts?",
+    "options": [
+     "Fairness and development",
+     "Sports and leisure",
+     "Money and markets",
+     "Nature and nurture"
+    ],
+    "answer": 0,
+    "explanation": "'Fairness and development' is a global context. The others are not on the official list.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is an MYP key concept?",
+    "options": [
+     "Systems",
+     "Photosynthesis",
+     "Parliament",
+     "Fraction"
+    ],
+    "answer": 0,
+    "explanation": "Key concepts are broad ideas such as change, systems, perspective and relationships. The others are specific topics or terms.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the role of a global context?",
+    "options": [
+     "It gives a real-world setting that makes learning purposeful",
+     "It lists the formulas to learn",
+     "It decides the exam length",
+     "It replaces the subjects"
+    ],
+    "answer": 0,
+    "explanation": "Global contexts give the 'so what?' by placing learning in authentic situations and issues.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A task about a new app that translates languages in real time best fits which global context?",
+    "options": [
+     "Scientific and technical innovation",
+     "Orientation in space and time",
+     "Identities and relationships only",
+     "None of them"
+    ],
+    "answer": 0,
+    "explanation": "New technology and its impact point to scientific and technical innovation, though it could also touch on culture.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A stimulus compares how two countries share clean drinking water between rich and poor areas. Which global context is the best fit?",
+    "options": [
+     "Fairness and development",
+     "Personal and cultural expression",
+     "Orientation in space and time",
+     "Identities and relationships"
+    ],
+    "answer": 0,
+    "explanation": "Access to resources and rights is about fairness and development.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A task examines how migration over centuries changed the language and food of a port city. Which pair of context and key concept fits best?",
+    "options": [
+     "Orientation in space and time; change",
+     "Scientific and technical innovation; logic",
+     "Fairness and development; form",
+     "Identities and relationships; aesthetics only"
+    ],
+    "answer": 0,
+    "explanation": "The task concerns movement and history (orientation in space and time) and how things evolve (change).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which key concept best captures how parts of an ecosystem or economy depend on each other?",
+    "options": [
+     "Systems",
+     "Creativity",
+     "Aesthetics",
+     "Form"
+    ],
+    "answer": 0,
+    "explanation": "A system is a set of interacting or interdependent parts. Ecosystems and economies are classic examples.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student must decide which global context fits a theme about carbon emissions and sustainable cities. Which choice is most defensible?",
+    "options": [
+     "Globalization and sustainability",
+     "Personal and cultural expression",
+     "Identities and relationships",
+     "Orientation in space and time"
+    ],
+    "answer": 0,
+    "explanation": "Environmental sustainability and the interconnectedness of cities and the planet sit within globalization and sustainability.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the benefit of identifying the global context before writing?",
+    "options": [
+     "It focuses your answer on why the issue matters and who it affects",
+     "It makes the answer longer",
+     "It is a required heading",
+     "It earns marks by itself"
+    ],
+    "answer": 0,
+    "explanation": "Naming the context keeps you aimed at the real-world significance, which lifts explanations and solutions above generic content.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement best explains how key concepts help with interdisciplinary work?",
+    "options": [
+     "They are big ideas that appear in many subjects, so they act as bridges between disciplines",
+     "They replace subject knowledge",
+     "They apply only in Maths",
+     "They are secret exam words"
+    ],
+    "answer": 0,
+    "explanation": "Because concepts like change, systems and perspective apply in every subject, they give natural links between disciplines.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A statement of inquiry reads: 'Communities change when new technologies alter how people connect.' Which key concepts are most obviously used?",
+    "options": [
+     "Communities and change",
+     "Aesthetics and form",
+     "Logic and time",
+     "Creativity and identity"
+    ],
+    "answer": 0,
+    "explanation": "The words communities and change are named directly in the statement.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A task asks how a teenager's online friendships shape their sense of who they are. Which global context fits best?",
+    "options": [
+     "Identities and relationships",
+     "Fairness and development",
+     "Orientation in space and time",
+     "Globalization and sustainability"
+    ],
+    "answer": 0,
+    "explanation": "Personal identity and relationships with others sit in identities and relationships, even though technology is involved.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A stimulus describes a village festival that is losing young participants because they move to cities for work. Which TWO key concepts would give the richest interdisciplinary link between Individuals and societies and Arts?",
+    "options": [
+     "Culture and change",
+     "Logic and form",
+     "Systems and logic",
+     "Aesthetics and logic only"
+    ],
+    "answer": 0,
+    "explanation": "Culture links to traditions and expression, and change links to migration. Both concepts apply in both subject groups.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student chooses 'Globalization and sustainability' for a task on a clothing supply chain but only writes about colours of fabrics. What is the main flaw?",
+    "options": [
+     "The answer does not engage with the context's meaning: global links, resources and long-term effects",
+     "Colours are not an MYP topic",
+     "Fabrics belong to Maths",
+     "The context was incorrect"
+    ],
+    "answer": 0,
+    "explanation": "Using a context properly means examining global connections (production, trade, resource use, waste), not just touching the topic.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which of these shows the BEST use of a key concept in an interdisciplinary answer?",
+    "options": [
+     "'Perspective' is an important word in this question.",
+     "The scientist and the farmer hold different perspectives on pesticide use because they weigh crop yield and ecosystem harm differently, so a solution must address both.",
+     "Perspective means opinion.",
+     "There are many perspectives."
+    ],
+    "answer": 1,
+    "explanation": "The strongest use applies the concept to the case to explain something and shape a conclusion.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A task asks about whether a hydroelectric dam should be built, giving data on power generated and the number of families to be relocated. Which context-concept pair best frames a balanced answer?",
+    "options": [
+     "Fairness and development; systems and perspective",
+     "Personal and cultural expression; aesthetics",
+     "Identities and relationships; form",
+     "Orientation in space and time; creativity"
+    ],
+    "answer": 0,
+    "explanation": "The issue involves who gains and loses (fairness), and interacting social, economic and environmental parts, viewed from different stakeholders' perspectives.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student argues that choosing a context in the exam is pointless because it is 'already given in the stimulus'. What is the strongest reply?",
+    "options": [
+     "Correct, ignore it",
+     "Even when implied, recognising the context helps you decide which evidence and issues are significant and who is affected",
+     "Contexts are only for teachers",
+     "Contexts are only in Arts"
+    ],
+    "answer": 1,
+    "explanation": "Awareness of context guides your selection of relevant content and strengthens judgements about significance.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why contexts and concepts matter\nMYP learning is built around two big structures that help you connect subjects. **Key concepts** are broad ideas that cut across disciplines. **Global contexts** are real-world settings that explain why a topic matters. In the interdisciplinary eAssessment, the stimulus is nearly always set in a global context, and the key concepts are the bridges you use when you combine subjects.\n\n## The six global contexts\n- **Identities and relationships**: who we are, our health, beliefs, families and communities.\n- **Orientation in space and time**: where and when we are, history, migration, exploration, and how we relate to places.\n- **Personal and cultural expression**: how we show and appreciate creativity, culture, beliefs and values.\n- **Scientific and technical innovation**: how people use knowledge and tools, and the effects of new technologies.\n- **Globalization and sustainability**: the connections between people, places and the environment, and long-term use of resources.\n- **Fairness and development**: rights, access, inequality, and the shared fortunes of communities.\nMany real issues fit more than one. Choose the one that best explains why the issue matters in the stimulus, and be ready to justify your choice.\n\n## Key concepts\nThere are sixteen key concepts in the MYP. They include aesthetics, change, communication, communities, connections, creativity, culture, development, form, global interactions, identity, logic, perspective, relationships, systems, and time, place and space. Concepts you will meet most in interdisciplinary tasks include change, systems, perspective, relationships, culture and global interactions, because these are easy to apply in both Sciences and Individuals and societies, or in Arts and Language and literature.\n\n## Using them to link subjects\nA key concept acts like a shared language between subjects.\n- **Systems**: an ecosystem in Sciences and an economy in Individuals and societies are both systems of interacting parts. Changing one part affects the others.\n- **Change**: chemical change, climate change, social change and economic change can all be analysed for causes, rates and effects.\n- **Perspective**: a farmer, a scientist and a policy maker may see the same dam differently because they value different things.\n\n## Worked example\nStimulus: A coastal town debates a new sea wall. The global context is globalization and sustainability, because rising sea levels link local people with a worldwide process and long-term planning. The key concept of systems connects the coastal ecosystem (Sciences) with the town's tourism economy (Individuals and societies). The key concept of perspective shows why fishers, hotel owners and conservationists judge the wall differently. Naming the context and concepts, then using them to organise your analysis, makes the links natural instead of forced.\n\n## Common mistakes\n- Mentioning the global context in a sentence and then ignoring it.\n- Picking a concept that does not really fit, only because it is on the list.\n- Treating concepts as vocabulary to define instead of ideas to apply.\n- Confusing global contexts (settings) with key concepts (ideas).\n\n## How this is examined\nThe stimulus carries the global context, often without naming it. You may be asked to identify what the issue is about, who is affected, and which concepts connect your two subjects. Strong responses refer back to the context when judging the significance of evidence or when justifying a solution.\n\nExam tip: When you start, write a short note to yourself: 'Context = ..., concepts = ..., two subjects = ...'. It takes ten seconds and keeps your whole answer pointed at the right idea.",
+  "flashcards": [
+   {
+    "front": "Global contexts: how many and what are they?",
+    "back": "Six: identities and relationships; orientation in space and time; personal and cultural expression; scientific and technical innovation; globalization and sustainability; fairness and development."
+   },
+   {
+    "front": "What is a key concept?",
+    "back": "A broad, transferable idea that cuts across subjects, such as change, systems, perspective, relationships, culture or global interactions."
+   },
+   {
+    "front": "How many MYP key concepts are there?",
+    "back": "Sixteen, including aesthetics, change, communication, communities, connections, creativity, culture, development, form, identity, logic, perspective, relationships, systems."
+   },
+   {
+    "front": "Global context vs key concept",
+    "back": "A global context is the real-world setting that gives purpose. A key concept is the big idea used to analyse and connect subject content."
+   },
+   {
+    "front": "Scientific and technical innovation",
+    "back": "The global context about how people use knowledge and tools, and about the effects of new technologies on communities and the environment."
+   },
+   {
+    "front": "Fairness and development",
+    "back": "The global context about rights, access, inequality and how communities share resources, opportunities and responsibilities."
+   },
+   {
+    "front": "Globalization and sustainability",
+    "back": "The global context about worldwide connections between people, places and the environment, and about using resources for the long term."
+   },
+   {
+    "front": "Why do key concepts help interdisciplinary work?",
+    "back": "They appear in every subject, so they provide natural bridges. For example, systems links ecosystems in Sciences with economies in Individuals and societies."
+   },
+   {
+    "front": "Best way to use a global context in an answer",
+    "back": "Refer back to it to judge significance: who is affected, why the issue matters now and over the long term, and whether a solution is fair."
+   }
+  ]
+ }
+]

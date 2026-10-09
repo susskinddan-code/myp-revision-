@@ -47,3 +47,12 @@ Real MYP eAssessment questions (we have seen a real maths paper's structure; do 
 - Investigation tasks (maths criterion B, science criterion B) follow: describe the pattern -> state a general rule in terms of n -> test it on new cases -> verify -> prove or justify -> communicate clearly.
 - Real-world tasks (maths criterion D, sciences criterion D, I&S criterion D) reward stating assumptions, checking accuracy (percentage error, rounding, significant figures) and evaluating the model.
 In notes, include a short "How this is examined" paragraph describing how the sub-topic usually appears in this style. In MCQs, include several context-based items that test these exact skills (e.g. which statement verifies the rule, which assumption limits the model, what the percentage error is).
+
+## Language Acquisition (ab initio) additions
+Subjects: french-ab-initio, spanish-ab-initio, mandarin-ab-initio (outline in content/outlines/<slug>.json). Level: beginner (roughly MYP Language Acquisition phases 1-2 at Grade 10), the real eAssessment tests reading comprehension, listening comprehension (we cannot play audio, so give the listening text as a written transcript labelled "Listening transcript") and writing.
+- Question stems and options: English instructions; target-language text in the stimulus and in many options. Questions test vocabulary, short comprehension of 2-5 line texts (messages, signs, menus, timetables, emails, notices), grammar choice, and simple production (which sentence correctly says...). All target-language text must be 100% correct: accents, gender agreement, verb forms, word order. Mandarin: simplified characters with pinyin (tone marks) in brackets, e.g. 你好 (nǐ hǎo); measure words and tones must be right.
+- Notes (>= 450 words, English teaching text with many target-language examples + English translations; organise vocabulary lists with "- word (meaning)" bullets); end with "Exam tip:". Include a short "How this is examined" paragraph.
+- Flashcards: front in target language (or an English prompt), back = answer with translation, <= 280 characters.
+- Do not use real copyrighted texts; invent all mini-texts. Use fictional names and places.
+- Validator rejects the strings "1-7"/"1 to 7"/"out of 7": avoid them. The word "a level" counts as a false positive, avoid it.
+- Content must be internally verified: check every example sentence twice.

@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "french-ab-initio",
+  "grade": 5,
+  "topic": "School and Work",
+  "subTopic": "School Subjects and Objects",
+  "questions": [
+   {
+    "content": "What does the French word “un cahier” mean?",
+    "options": [
+     "an exercise book",
+     "a pencil case",
+     "a ruler",
+     "a rubber"
+    ],
+    "answer": 0,
+    "explanation": "Un cahier is an exercise book. A pencil case is une trousse, a ruler is une règle and a rubber is une gomme.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which French word means “history”?",
+    "options": [
+     "la géographie",
+     "l'anglais",
+     "la musique",
+     "l'histoire"
+    ],
+    "answer": 3,
+    "explanation": "L'histoire means history. La géographie is geography, l'anglais is English and la musique is music.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is the correct way to say “a pencil case”?",
+    "options": [
+     "un trousse",
+     "des trousse",
+     "une trousse",
+     "le trousse"
+    ],
+    "answer": 2,
+    "explanation": "Trousse is feminine, so it takes une. Un trousse is a gender mistake.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Mina writes: “Ma matière préférée est l'informatique.” What is her favourite subject?",
+    "options": [
+     "music",
+     "ICT / computing",
+     "art",
+     "PE"
+    ],
+    "answer": 1,
+    "explanation": "L'informatique means ICT or computing. Matière préférée means favourite subject.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which sentence means “I like music”?",
+    "options": [
+     "Je déteste la musique.",
+     "J'aime la musique.",
+     "J'aime le dessin.",
+     "J'aime le sport."
+    ],
+    "answer": 1,
+    "explanation": "J'aime means I like. Je déteste means I hate, and dessin and sport are different subjects.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Lina's timetable: “lundi: 8h30 maths, 9h30 français, 10h30 récréation, 11h00 anglais.” What does Lina have straight after maths on Monday?",
+    "options": [
+     "French",
+     "break time",
+     "English",
+     "nothing"
+    ],
+    "answer": 0,
+    "explanation": "After maths at 8h30 comes français at 9h30. Récréation is at 10h30 and English follows at 11h00.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "“Pourquoi tu aimes les sciences ? — Parce que c'est intéressant.” What reason is given?",
+    "options": [
+     "Science is boring.",
+     "Science is difficult.",
+     "Science is easy.",
+     "Science is interesting."
+    ],
+    "answer": 3,
+    "explanation": "Intéressant means interesting. Ennuyeux is boring, difficile is difficult and facile is easy.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A note says: “Il faut apporter une calculatrice, une règle et un cahier pour le cours de maths.” Which item is NOT mentioned?",
+    "options": [
+     "a calculator",
+     "a ruler",
+     "a pencil",
+     "an exercise book"
+    ],
+    "answer": 2,
+    "explanation": "The note lists calculatrice, règle and cahier. A pencil (un crayon) is not mentioned.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence is correct?",
+    "options": [
+     "Je déteste le maths.",
+     "Je déteste la maths.",
+     "Je déteste les maths.",
+     "Je déteste l'maths."
+    ],
+    "answer": 2,
+    "explanation": "Les maths is plural in French, so it takes les. Le, la and l' are all wrong.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Message from Léa: “Salut Tom ! Demain, j'ai besoin d'un stylo, d'un classeur et de ciseaux. Tu as de la colle ?” What does Léa ask Tom?",
+    "options": [
+     "whether he has scissors",
+     "whether he has any glue",
+     "whether he has a pen",
+     "whether he has a folder"
+    ],
+    "answer": 1,
+    "explanation": "Tu as de la colle ? means Do you have any glue? The other items are things Léa says she needs.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence says “My favourite subject is geography”?",
+    "options": [
+     "Ma matière préférée est la géographie.",
+     "Mon matière préférée est la géographie.",
+     "Ma matière préféré est la géographie.",
+     "Mon matière préféré est le géographie."
+    ],
+    "answer": 0,
+    "explanation": "Matière is feminine, so we need ma and préférée. Géographie is also feminine, so la.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "“Je n'aime pas la physique parce que c'est trop difficile.” What does the student think of physics?",
+    "options": [
+     "It is too boring.",
+     "It is very useful.",
+     "It is very easy.",
+     "It is too difficult."
+    ],
+    "answer": 3,
+    "explanation": "Trop difficile means too difficult. Je n'aime pas shows the student dislikes it.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A school sign says: “Cantine: ouverte de 12h à 13h30.” At what time does the canteen close?",
+    "options": [
+     "12.00 pm",
+     "1.00 pm",
+     "12.30 pm",
+     "1.30 pm"
+    ],
+    "answer": 3,
+    "explanation": "13h30 is 1.30 pm on the 24-hour clock. Ouverte de 12h à 13h30 means open from 12.00 to 13.30.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript: “Alors, mardi, j'ai anglais et dessin, mais je n'ai pas sport. Le sport, c'est le jeudi, et je déteste ça !” Which statement is true?",
+    "options": [
+     "Sport is on Tuesday and the speaker hates it.",
+     "Sport is on Thursday and the speaker loves it.",
+     "Sport is on Thursday and the speaker hates it.",
+     "The speaker has art and sport on Tuesday."
+    ],
+    "answer": 2,
+    "explanation": "Je n'ai pas sport on Tuesday, and le sport, c'est le jeudi. Je déteste ça means I hate it.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence is completely correct?",
+    "options": [
+     "J'ai deux cahier et une règle.",
+     "J'ai deux cahiers et une règle.",
+     "J'ai deux cahiers et un règle.",
+     "J'ai deux cahiers et une règles."
+    ],
+    "answer": 1,
+    "explanation": "Cahier takes -s after deux, and règle is feminine singular so une règle.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Email: “Mon emploi du temps est difficile ! Je n'ai pas de pause le mercredi, mais j'adore l'informatique, donc c'est bien. Le vendredi, j'ai EPS et je déteste ça.” Which statement matches the email?",
+    "options": [
+     "The writer likes ICT but dislikes PE.",
+     "The writer likes PE but dislikes ICT.",
+     "The writer has a long break on Wednesday.",
+     "The writer dislikes ICT and PE."
+    ],
+    "answer": 0,
+    "explanation": "J'adore l'informatique shows a positive view of ICT, and je déteste ça refers to EPS on Fridays. Wednesday has no break.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "How do you say “I do not have a ruler”?",
+    "options": [
+     "Je n'ai pas de règle.",
+     "Je n'ai pas une règle.",
+     "Je ne pas ai de règle.",
+     "Je n'ai pas règle de."
+    ],
+    "answer": 0,
+    "explanation": "After a negative, une becomes de: pas de règle. The ne goes before the verb and pas after it.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "“Pour les arts plastiques, il faut du papier, des crayons de couleur et de la colle. J'ai déjà du papier et des crayons de couleur.” What does the writer still need?",
+    "options": [
+     "paper",
+     "coloured pencils",
+     "scissors",
+     "glue"
+    ],
+    "answer": 3,
+    "explanation": "The writer already has paper and coloured pencils, so what remains from the list is la colle (glue).",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What you need to know\nIn the eAssessment you will meet school vocabulary in timetables, notices, messages and short opinions. This sub-topic covers school subjects, classroom objects and how to give an opinion about them.\n\n## School subjects\n- les maths (maths; always plural: les maths)\n- le français (French)\n- l'anglais (English)\n- l'histoire (history, feminine)\n- la géographie (geography)\n- les sciences (science)\n- l'informatique (ICT, computing, feminine)\n- la musique (music)\n- le dessin (drawing) and les arts plastiques (art)\n- l'EPS or le sport (PE)\n\nNotice that most subjects take le, la, l' or les. Use l' before a vowel or a silent h (l'anglais, l'histoire). Learn each word with its article so you remember the gender.\n\n## Objects in your bag\n- un stylo (a pen), un crayon (a pencil), une gomme (a rubber)\n- un cahier (an exercise book), un livre (a book), un classeur (a folder)\n- une règle (a ruler), une trousse (a pencil case), une calculatrice (a calculator)\n- un sac à dos (a rucksack), un ordinateur (a computer)\n- des ciseaux (scissors), de la colle (glue)\n\nPlural nouns usually add -s: deux cahiers, trois stylos. Ciseaux is always plural.\n\n## Giving opinions\n- J'aime les maths. (I like maths.)\n- J'adore la musique. (I love music.)\n- Je n'aime pas la physique. (I do not like physics.)\n- Je déteste l'EPS. (I hate PE.)\n- Ma matière préférée est la géographie. (My favourite subject is geography.)\n\nAdd a reason with parce que (because): Je n'aime pas les sciences parce que c'est difficile. Useful adjectives are intéressant (interesting), facile (easy), difficile (difficult), ennuyeux (boring), utile (useful) and amusant (fun). After c'est, the adjective stays in its basic masculine form.\n\nCareful with agreement: matière is feminine, so we say ma matière préférée, never mon matière préféré.\n\n## Timetables and school life\nUne journée à l'école is written as an emploi du temps (timetable). You will read lines such as: lundi: 8h30 maths, 9h30 français, 10h30 récréation. Remember la cantine (canteen), la cour (playground), le prof (teacher), le collège (secondary school) and le cours (lesson). Le lundi means every Monday, while lundi alone means this Monday.\n\n## Saying what you need\n- Il faut apporter une calculatrice. (You must bring a calculator.)\n- J'ai besoin d'un stylo. (I need a pen.) After besoin de, un becomes d'un/d'une.\n- Tu as de la colle ? (Do you have any glue?)\n- Je n'ai pas de règle. (I do not have a ruler.) After a negative, un/une/du/de la become de or d'.\n\n## How this is examined\nTypical tasks give a short timetable, a school notice or a message between two friends. You are asked which subject comes after another, which item is missing, what opinion is given and why. In listening, a transcript gives days and opinions and you match them. In writing, you describe your timetable and justify an opinion with parce que.\n\n## Common mistakes\n- Using the wrong gender: une règle, not un règle.\n- Writing la maths: say les maths.\n- Forgetting accents: français, géographie, règle.\n- Confusing j'aime (I like) with je déteste (I hate).\n\nExam tip: Read the whole text first, underline days, times and opinion words (aime, déteste, parce que), then match them to the question before choosing an answer.",
+  "flashcards": [
+   {
+    "front": "les maths",
+    "back": "maths (always plural in French: les maths)"
+   },
+   {
+    "front": "une règle",
+    "back": "a ruler (feminine)"
+   },
+   {
+    "front": "Ma matière préférée est...",
+    "back": "My favourite subject is... (matière is feminine: ma ... préférée)"
+   },
+   {
+    "front": "Je déteste l'EPS.",
+    "back": "I hate PE."
+   },
+   {
+    "front": "parce que c'est ennuyeux",
+    "back": "because it is boring"
+   },
+   {
+    "front": "Il faut apporter...",
+    "back": "You must bring..."
+   },
+   {
+    "front": "J'ai besoin d'un stylo.",
+    "back": "I need a pen (besoin de + un becomes d'un)."
+   },
+   {
+    "front": "Je n'ai pas de calculatrice.",
+    "back": "I do not have a calculator (pas de after a negative)."
+   },
+   {
+    "front": "l'emploi du temps",
+    "back": "the timetable"
+   }
+  ]
+ },
+ {
+  "subject": "french-ab-initio",
+  "grade": 5,
+  "topic": "School and Work",
+  "subTopic": "Jobs and Workplaces",
+  "questions": [
+   {
+    "content": "What does the French word “un médecin” mean?",
+    "options": [
+     "a doctor",
+     "a teacher",
+     "a nurse",
+     "a baker"
+    ],
+    "answer": 0,
+    "explanation": "Un médecin is a doctor. A teacher is un professeur, a nurse is un infirmier or une infirmière and a baker is un boulanger.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Where does a baker (un boulanger) work?",
+    "options": [
+     "dans un hôpital",
+     "dans un garage",
+     "dans une école",
+     "dans une boulangerie"
+    ],
+    "answer": 3,
+    "explanation": "A boulanger works in une boulangerie. The other places match other jobs.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which sentence means “She is a nurse”?",
+    "options": [
+     "Elle est infirmier.",
+     "Il est infirmière.",
+     "Elle est infirmière.",
+     "Elle a infirmière."
+    ],
+    "answer": 2,
+    "explanation": "A woman is infirmière, with the feminine ending. Elle est means she is, while elle a means she has.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Hugo writes: “Mon père est professeur.” Who is the teacher?",
+    "options": [
+     "Hugo's mother",
+     "Hugo's father",
+     "Hugo's brother",
+     "Hugo's sister"
+    ],
+    "answer": 1,
+    "explanation": "Mon père means my father. Mère is mother, frère is brother and sœur is sister.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does “un hôpital” mean?",
+    "options": [
+     "a hotel",
+     "a hospital",
+     "an office",
+     "a farm"
+    ],
+    "answer": 1,
+    "explanation": "Un hôpital is a hospital. A hotel is un hôtel, an office is un bureau and a farm is une ferme.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Message: “Ma mère est avocate. Elle travaille dans un bureau au centre-ville. Mon père est cuisinier et il travaille dans un restaurant.” Where does the father work?",
+    "options": [
+     "in a restaurant",
+     "in an office",
+     "in a hospital",
+     "in a shop"
+    ],
+    "answer": 0,
+    "explanation": "The father is cuisinier, and il travaille dans un restaurant. The office belongs to the mother.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence correctly says “My brother is a mechanic”?",
+    "options": [
+     "Ma frère est mécanicien.",
+     "Mon frère est mécanicienne.",
+     "Mon frère a mécanicien.",
+     "Mon frère est mécanicien."
+    ],
+    "answer": 3,
+    "explanation": "Frère is masculine, so mon and the masculine mécanicien. Mécanicienne is for a woman.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Advert: “Recherchons serveur ou serveuse pour le samedi et le dimanche, de 10h à 16h. Restaurant Le Soleil.” When is the work?",
+    "options": [
+     "Monday to Friday, 10.00 to 16.00",
+     "Saturday and Sunday, 16.00 to 22.00",
+     "Saturday and Sunday, 10.00 to 16.00",
+     "Sunday only, 10.00 to 16.00"
+    ],
+    "answer": 2,
+    "explanation": "Pour le samedi et le dimanche means Saturday and Sunday, and de 10h à 16h gives the hours.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does the question “Que fait ta mère ?” ask?",
+    "options": [
+     "Where your mother lives",
+     "How old your mother is",
+     "What job your mother does",
+     "What your mother looks like"
+    ],
+    "answer": 2,
+    "explanation": "Que fait ...? is the standard way to ask what someone does for a living.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence is correct?",
+    "options": [
+     "Elle travaille dans un usine.",
+     "Elle travaille dans une usine.",
+     "Elle travaillent dans une usine.",
+     "Elle travailles dans une usine."
+    ],
+    "answer": 1,
+    "explanation": "Usine is feminine, so une. With elle the verb is travaille, with no extra -s or -nt.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Marie sells clothes in a shop. Which sentence describes her?",
+    "options": [
+     "Marie est vendeuse.",
+     "Marie est vendeur.",
+     "Marie est vendeure.",
+     "Marie est un vendeuse."
+    ],
+    "answer": 0,
+    "explanation": "Vendeur becomes vendeuse for a woman, and no article is used after être with a job alone.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Karim writes: “Plus tard, je voudrais être ingénieur parce que j'aime les maths et j'aime construire des choses.” Why does Karim want this job?",
+    "options": [
+     "He loves animals.",
+     "He likes cooking.",
+     "He wants to help sick people.",
+     "He likes maths and building things."
+    ],
+    "answer": 3,
+    "explanation": "Parce que j'aime les maths et j'aime construire des choses gives the reason.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript: “Mon oncle est policier. Il travaille au commissariat, mais le week-end il aide à la ferme de ma grand-mère.” Where does he help at weekends?",
+    "options": [
+     "at the police station",
+     "at a restaurant",
+     "at the speaker's school",
+     "on his grandmother's farm"
+    ],
+    "answer": 3,
+    "explanation": "Le week-end il aide à la ferme de ma grand-mère: at weekends he helps on the speaker's grandmother's farm.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence is completely correct?",
+    "options": [
+     "Mon tante est actrice et elle travaille au théâtre.",
+     "Ma tante est acteur et il travaille au théâtre.",
+     "Ma tante est actrice et elle travaille au théâtre.",
+     "Ma tante est actrice et il travaille au théâtre."
+    ],
+    "answer": 2,
+    "explanation": "Tante is feminine, so ma, actrice and elle all agree. Au théâtre is à + le.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Advert: “Cherchons coiffeur ou coiffeuse. Pas d'expérience nécessaire. Du mardi au samedi.” Which statement is true?",
+    "options": [
+     "Experience is essential and the work is Tuesday to Saturday.",
+     "Experience is not needed and the work is Tuesday to Saturday.",
+     "Experience is not needed and the work is Monday to Friday.",
+     "Experience is not needed and the work is on Sundays only."
+    ],
+    "answer": 1,
+    "explanation": "Pas d'expérience nécessaire means no experience is needed. Du mardi au samedi means Tuesday to Saturday.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which reply best answers the question “Où travaille ton père ?”",
+    "options": [
+     "Il travaille dans une usine.",
+     "Il est ingénieur.",
+     "Il a quarante-trois ans.",
+     "Il travaille le lundi."
+    ],
+    "answer": 0,
+    "explanation": "Où asks for a place, so only the factory answers it. Il est ingénieur answers Que fait ton père ?",
+    "difficulty": "hard"
+   },
+   {
+    "content": "“Je travaille le samedi de 10h à 14h dans un café. Je gagne 9 euros de l'heure.” (Je gagne = I earn.) How much does the writer earn for one Saturday?",
+    "options": [
+     "36 euros",
+     "32 euros",
+     "45 euros",
+     "90 euros"
+    ],
+    "answer": 0,
+    "explanation": "From 10h to 14h is 4 hours, and 4 × 9 = 36 euros. 90 would multiply 9 by 10 instead of using the hours worked.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Listening transcript: “Moi, je voudrais être vétérinaire parce que j'adore les animaux. Mon frère voudrait être pilote, mais ma sœur n'a pas d'idée.” Which statement is true?",
+    "options": [
+     "The speaker wants to be a pilot and the sister loves animals.",
+     "The brother wants to work with animals and the sister is a pilot.",
+     "The speaker and the sister both want to be vets.",
+     "The speaker wants to work with animals and the sister is undecided."
+    ],
+    "answer": 3,
+    "explanation": "The speaker is the vet-to-be, the brother wants to be a pilot and the sister has no idea yet (n'a pas d'idée).",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What you need to know\nThis sub-topic is about naming jobs, saying where people work and talking about future plans. These ideas appear in adverts, family descriptions and short messages.\n\n## Jobs\nMany jobs have a masculine and a feminine form.\n- un médecin / une femme médecin (doctor)\n- un infirmier / une infirmière (nurse)\n- un professeur (teacher; the same word for men and women)\n- un vendeur / une vendeuse (shop assistant)\n- un boulanger / une boulangère (baker)\n- un serveur / une serveuse (waiter / waitress)\n- un cuisinier / une cuisinière (cook)\n- un coiffeur / une coiffeuse (hairdresser)\n- un acteur / une actrice (actor)\n- un policier / une policière (police officer)\n- un mécanicien / une mécanicienne (mechanic)\n- un avocat / une avocate (lawyer)\n- un ingénieur, un dentiste, un journaliste, un vétérinaire (these stay the same for men and women)\n\nThe pattern is usually: -eur becomes -euse, -ier becomes -ière, -ien becomes -ienne, and many jobs just add -e. Words ending in -iste or -e often do not change.\n\n## Workplaces\n- un hôpital (hospital), un bureau (office), un magasin (shop)\n- une école (school), une usine (factory), une ferme (farm)\n- un restaurant, une boulangerie (bakery), un garage\n- un commissariat (police station), un théâtre (theatre)\n\n## Saying what someone does\nWith a job, French usually leaves out the article after être:\n- Mon père est professeur. (My father is a teacher.)\n- Ma mère est avocate. (My mother is a lawyer.)\n- Elle est infirmière. (She is a nurse.)\n\nIf you use c'est, you add the article: C'est un médecin. (He is a doctor.)\n\nTo ask about a job: Que fait ton père ? (What does your father do?) To ask where: Où travaille ta mère ? (Where does your mother work?)\n\n## Saying where people work\nUse travailler (to work): je travaille, tu travailles, il/elle travaille, nous travaillons, vous travaillez, ils/elles travaillent.\n- Il travaille dans un hôpital. (He works in a hospital.)\n- Elle travaille dans une usine. (She works in a factory.)\n- Il travaille au commissariat. (He works at the police station.)\n- Elle travaille à la ferme. (She works on the farm.)\n\nRemember à + le = au, à + les = aux. Dans un/une means inside a place.\n\n## Hours and plans\n- Il travaille de 9h à 17h. (He works from 9 to 5.)\n- Elle travaille du lundi au vendredi. (She works Monday to Friday.)\n- Plus tard, je voudrais être ingénieur. (Later, I would like to be an engineer.)\n- Je voudrais travailler avec les animaux parce que j'adore les animaux.\n\n## How this is examined\nExpect a job advert, an email about a family member's job or a listening transcript. Questions ask which job fits a description, where someone works, which days or hours are given, and which reason is stated. You may need to match a reason (j'aime les maths) to a job (ingénieur). In writing, you might say what your parents do and what you would like to do later.\n\n## Common mistakes\n- Putting mon before a feminine noun: ma tante, not mon tante.\n- Adding un or une after être when the job is alone.\n- Mixing up Que fait... ? (what job) and Où travaille... ? (where).\n- Forgetting the feminine form when a woman is described: elle est serveuse.\n\nExam tip: Find the question word first. Que fait asks for the job, où asks for the place, quand asks for days or times, and pourquoi asks for the reason after parce que.",
+  "flashcards": [
+   {
+    "front": "un médecin",
+    "back": "a doctor"
+   },
+   {
+    "front": "une infirmière",
+    "back": "a (female) nurse; the masculine is un infirmier."
+   },
+   {
+    "front": "Que fait ton père ?",
+    "back": "What does your father do (for a job)?"
+   },
+   {
+    "front": "Où travaille ta mère ?",
+    "back": "Where does your mother work?"
+   },
+   {
+    "front": "Il travaille dans un hôpital.",
+    "back": "He works in a hospital."
+   },
+   {
+    "front": "Elle est serveuse.",
+    "back": "She is a waitress (no un/une after être with a job alone)."
+   },
+   {
+    "front": "Je voudrais être ingénieur.",
+    "back": "I would like to be an engineer."
+   },
+   {
+    "front": "du lundi au vendredi",
+    "back": "from Monday to Friday"
+   },
+   {
+    "front": "une usine",
+    "back": "a factory (feminine)"
+   }
+  ]
+ },
+ {
+  "subject": "french-ab-initio",
+  "grade": 5,
+  "topic": "School and Work",
+  "subTopic": "Classroom Language and Instructions",
+  "questions": [
+   {
+    "content": "What does the instruction “Écoutez !” mean?",
+    "options": [
+     "Listen!",
+     "Read!",
+     "Write!",
+     "Repeat!"
+    ],
+    "answer": 0,
+    "explanation": "Écoutez comes from écouter, to listen. Lisez is read, écrivez is write and répétez is repeat.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does “Ouvrez votre cahier” tell you to do?",
+    "options": [
+     "Close your exercise book.",
+     "Lose your exercise book.",
+     "Find your exercise book.",
+     "Open your exercise book."
+    ],
+    "answer": 3,
+    "explanation": "Ouvrez means open. Close is fermez.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The teacher says “Levez la main.” What should you do?",
+    "options": [
+     "Sit down.",
+     "Be quiet.",
+     "Raise your hand.",
+     "Stand up."
+    ],
+    "answer": 2,
+    "explanation": "Lever la main means to raise your hand. Sit down is asseyez-vous and be quiet is taisez-vous.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which sentence is the best way to ask your teacher to say something again?",
+    "options": [
+     "Je peux aller aux toilettes ?",
+     "Pouvez-vous répéter, s'il vous plaît ?",
+     "Comment ça s'écrit ?",
+     "Je suis en retard."
+    ],
+    "answer": 1,
+    "explanation": "Pouvez-vous répéter ? asks someone to repeat. Comment ça s'écrit asks about spelling.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A teacher says: “Silence, s'il vous plaît !” What does she want?",
+    "options": [
+     "Everyone to sit down",
+     "Everyone to be quiet",
+     "Someone to open the door",
+     "Everyone to come in"
+    ],
+    "answer": 1,
+    "explanation": "Silence means be quiet, and s'il vous plaît means please.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Board: “Page 24, exercice 3. Lisez le texte, puis répondez aux questions.” What do you do first?",
+    "options": [
+     "Read the text",
+     "Answer the questions",
+     "Listen to a recording",
+     "Write a new text"
+    ],
+    "answer": 0,
+    "explanation": "Lisez le texte comes first. Puis means then, so répondez aux questions is the second task.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "You want to ask how to say “pen” in French. Which question do you use?",
+    "options": [
+     "Que veut dire « pen » en français ?",
+     "Où est le stylo ?",
+     "Comment ça s'écrit ?",
+     "Comment dit-on « pen » en français ?"
+    ],
+    "answer": 3,
+    "explanation": "Comment dit-on ... en français ? asks for the French word. Comment ça s'écrit ? asks for the spelling.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Sign: “Interdit de manger en classe. Téléphones éteints, s'il vous plaît.” What are the rules?",
+    "options": [
+     "Eating is allowed and phones are off",
+     "No eating but phones can be used",
+     "No eating in class and phones switched off",
+     "No talking and phones can be used"
+    ],
+    "answer": 2,
+    "explanation": "Interdit means forbidden, so no eating. Téléphones éteints means phones switched off.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The teacher tells the whole class to write the answers. Which sentence does she say?",
+    "options": [
+     "Écris les réponses.",
+     "Écrivons les réponses.",
+     "Écrivez les réponses.",
+     "Écrivent les réponses."
+    ],
+    "answer": 2,
+    "explanation": "To a group we use the vous command: écrivez. Écris is for one friend, and écrivons means let us write.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student says: “Madame, je suis désolé, je suis en retard. J'ai oublié mon livre.” What has happened?",
+    "options": [
+     "He is early and forgot his book.",
+     "He is late and forgot his book.",
+     "He is late and lost his pen.",
+     "He is ill and has no book."
+    ],
+    "answer": 1,
+    "explanation": "En retard means late and j'ai oublié means I forgot.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does “Ne parlez pas !” mean?",
+    "options": [
+     "Do not talk!",
+     "Speak!",
+     "Do not write!",
+     "Do not listen!"
+    ],
+    "answer": 0,
+    "explanation": "Ne ... pas around the verb makes it negative, and parlez comes from parler, to speak or talk.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student asks: “Je peux aller aux toilettes, s'il vous plaît ?” What does the student want?",
+    "options": [
+     "to go to the canteen",
+     "to borrow a pen",
+     "to open the window",
+     "permission to go to the toilets"
+    ],
+    "answer": 3,
+    "explanation": "Aux toilettes means to the toilets, and je peux ... ? asks for permission.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Homework note: “Pour demain, faites l'exercice 5 et apprenez le vocabulaire.” What must students do?",
+    "options": [
+     "Do exercise 5 and learn the vocabulary by next Monday.",
+     "Do exercise 5 and write a text tomorrow.",
+     "Learn the vocabulary but skip exercise 5.",
+     "Do exercise 5 and learn the vocabulary for tomorrow."
+    ],
+    "answer": 3,
+    "explanation": "Pour demain means for tomorrow, faites is do and apprenez is learn.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript: “Bonjour la classe. Asseyez-vous. Ouvrez vos livres à la page douze. Regardez l'image, puis écoutez le texte deux fois. Ne parlez pas pendant l'écoute.” What should students do after looking at the picture?",
+    "options": [
+     "Talk with a partner",
+     "Read page twelve aloud",
+     "Listen to the text twice",
+     "Close their books"
+    ],
+    "answer": 2,
+    "explanation": "Puis écoutez le texte deux fois: after the picture they listen twice. They must not talk during the listening.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A teacher says to one pupil: “Ferme la fenêtre, Léo.” Now she gives the same instruction to the whole class. Which sentence is correct?",
+    "options": [
+     "Fermes la fenêtre.",
+     "Fermez la fenêtre.",
+     "Fermons la fenêtre.",
+     "Fermez la fenêtres."
+    ],
+    "answer": 1,
+    "explanation": "For a group the command ends in -ez. Fermes is a wrong spelling, and fermons means let us close.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which is the most polite way to ask your teacher to repeat?",
+    "options": [
+     "Pouvez-vous répéter, s'il vous plaît ?",
+     "Répétez !",
+     "Tu répètes ça ?",
+     "Répète, toi !"
+    ],
+    "answer": 0,
+    "explanation": "With a teacher use vous and a question with s'il vous plaît. Bare commands and tu forms sound rude.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Listening transcript: “Excusez-moi, madame, que veut dire « ciseaux » ? — Ça veut dire scissors. — Merci. Comment ça s'écrit ? — C-I-S-E-A-U-X.” What did the student ask about?",
+    "options": [
+     "the meaning of the word and how to spell it",
+     "the pronunciation of the word and where to find it",
+     "the meaning of the word and the page number",
+     "the spelling of the word and when the lesson ends"
+    ],
+    "answer": 0,
+    "explanation": "Que veut dire asks for the meaning and comment ça s'écrit asks for the spelling.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Class rules: “1. Levez la main pour parler. 2. Écoutez quand un camarade parle. 3. Ne mangez pas. 4. Travaillez en silence pendant le contrôle.” Léo eats a sandwich and speaks without waiting. Which rules does he break?",
+    "options": [
+     "2 and 4",
+     "1 and 4",
+     "2 and 3",
+     "3 and 1"
+    ],
+    "answer": 3,
+    "explanation": "Ne mangez pas is rule 3, and speaking without raising his hand breaks rule 1 (levez la main pour parler).",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What you need to know\nIn a French class you hear and read short instructions all the time. For the eAssessment you must understand what you are told to do, and be able to ask for help politely.\n\n## Teacher instructions (vous form)\nA teacher speaking to the class uses the vous form of the imperative. For -er verbs, take the vous form of the verb and drop the word vous: vous écoutez becomes Écoutez !\n- Écoutez ! (Listen!)\n- Regardez le tableau. (Look at the board.)\n- Ouvrez votre livre à la page 12. (Open your book at page 12.)\n- Fermez votre cahier. (Close your exercise book.)\n- Lisez le texte. (Read the text.)\n- Écrivez les réponses. (Write the answers.)\n- Répétez, s'il vous plaît. (Repeat, please.)\n- Répondez aux questions. (Answer the questions.)\n- Levez la main. (Raise your hand.)\n- Asseyez-vous. (Sit down.)\n- Taisez-vous. / Silence ! (Be quiet.)\n- Travaillez avec un partenaire. (Work with a partner.)\n\n## Talking to one friend (tu form)\nWith one person you use tu. For -er verbs the tu command has no -s: Écoute ! Regarde ! Ferme la porte ! Other verbs keep the s: Écris ! Lis ! Fais l'exercice !\n\n## Negative commands\nPut ne before the verb and pas after it: Ne parlez pas ! (Do not talk!) Ne mangez pas en classe ! (Do not eat in class!)\n\n## Useful questions for students\n- Pouvez-vous répéter, s'il vous plaît ? (Can you repeat, please?)\n- Je ne comprends pas. (I do not understand.)\n- Que veut dire « cahier » ? (What does cahier mean?)\n- Comment dit-on « pen » en français ? (How do you say pen in French?)\n- Comment ça s'écrit ? (How is that spelled?)\n- C'est quelle page ? (Which page is it?)\n- Je peux aller aux toilettes, s'il vous plaît ? (May I go to the toilet?)\n- Excusez-moi, madame / monsieur. (Excuse me, miss / sir.)\n- Je suis désolé(e), je suis en retard. (Sorry, I am late.)\n- J'ai oublié mon livre. (I forgot my book.)\n\nWhen you speak to a teacher, use vous and add s'il vous plaît.\n\n## School signs and homework\n- Interdit de manger en classe. (Eating in class is forbidden.)\n- Téléphones éteints. (Phones off.)\n- Pour demain, faites l'exercice 5. (For tomorrow, do exercise 5.)\n- Apprenez le vocabulaire. (Learn the vocabulary.)\n- Il y a un contrôle lundi. (There is a test on Monday.)\n\n## How this is examined\nYou may read a note on the board, a list of class rules or a teacher's homework instructions, or hear a short transcript of a lesson beginning. Questions ask what you must do, in which order, what is forbidden and which polite question fits a situation. In writing you may be asked to write a short message to a teacher saying you are late or that you forgot something.\n\n## Common mistakes\n- Using tu commands with a teacher or a whole class. Use the vous form.\n- Forgetting the accent in écoutez, répétez and répondez.\n- Putting the negative around the wrong word: ne ... pas goes around the verb.\n- Confusing que veut dire (meaning) with comment ça s'écrit (spelling).\n\nExam tip: Look for the verb at the start of each sentence. Imperatives come first, so a list of verbs like lisez, puis répondez tells you the order of tasks.",
+  "flashcards": [
+   {
+    "front": "Écoutez !",
+    "back": "Listen! (vous command to a class; to one friend: Écoute !)"
+   },
+   {
+    "front": "Ouvrez votre livre.",
+    "back": "Open your book."
+   },
+   {
+    "front": "Levez la main.",
+    "back": "Raise your hand."
+   },
+   {
+    "front": "Je ne comprends pas.",
+    "back": "I do not understand."
+   },
+   {
+    "front": "Que veut dire « cahier » ?",
+    "back": "What does cahier mean?"
+   },
+   {
+    "front": "Comment ça s'écrit ?",
+    "back": "How is that spelled?"
+   },
+   {
+    "front": "Ne parlez pas !",
+    "back": "Do not talk! (ne before the verb, pas after)"
+   },
+   {
+    "front": "Pouvez-vous répéter, s'il vous plaît ?",
+    "back": "Can you repeat, please? (polite, with vous)"
+   },
+   {
+    "front": "Je suis désolé(e), je suis en retard.",
+    "back": "I am sorry, I am late."
+   }
+  ]
+ }
+]

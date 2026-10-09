@@ -1,6 +1,6 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
-import { BookOpen, Layers, Sparkles, LineChart } from "lucide-react";
+import { BookOpen, Layers, Sparkles, LineChart, Timer } from "lucide-react";
 import { fetchSubjects, GROUP_BG } from "@/lib/myp";
 import { Button } from "@/components/ui/button";
 
@@ -64,19 +64,18 @@ function Home() {
           <p className="text-sm uppercase tracking-[0.2em] text-muted-foreground">
             For IB MYP Grades 1-5 · built around MYP 5
           </p>
-          <h1 className="mt-4 max-w-3xl text-5xl leading-tight md:text-6xl">
-            Revision that actually tells you why you got it wrong.
-          </h1>
+          <h1 className="mt-4 max-w-3xl text-5xl leading-tight md:text-7xl">MYP Revision</h1>
           <p className="mt-5 max-w-xl text-lg text-muted-foreground">
-            Question banks, flashcards and progress tracking across all 21 MYP subjects — with
-            achievement reported on MYP Levels 1 to 8.
+            Question banks, study notes, flashcards and practice papers across all 21 MYP subjects,
+            with feedback that explains why you got it wrong. Achievement is reported on MYP Levels
+            1 to 8.
           </p>
           <div className="mt-8 flex flex-wrap gap-3">
             <Button asChild size="lg" className="rounded-full">
-              <Link to="/eassessment">Practise your eAssessment</Link>
+              <Link to="/subjects">Start revising</Link>
             </Button>
             <Button asChild size="lg" variant="outline" className="rounded-full">
-              <Link to="/subjects">Browse all subjects</Link>
+              <Link to="/daily">Today's challenge</Link>
             </Button>
           </div>
           <p className="mt-5 text-xs text-muted-foreground">
@@ -99,6 +98,30 @@ function Home() {
               <p className="mt-2 text-sm text-muted-foreground">{body}</p>
             </div>
           ))}
+        </div>
+      </section>
+
+      <section className="mx-auto max-w-[1200px] px-6 pb-16 md:px-12">
+        <div className="flex flex-col gap-6 rounded-lg border border-border bg-card p-8 shadow-[var(--shadow-soft)] md:flex-row md:items-center md:justify-between">
+          <div className="max-w-xl">
+            <span className="flex size-10 items-center justify-center rounded-full bg-secondary">
+              <Timer className="size-5 text-primary" />
+            </span>
+            <h2 className="mt-4 font-display text-3xl">Preparing for the MYP eAssessment?</h2>
+            <p className="mt-2 text-muted-foreground">
+              Sit timed, exam-style papers for each on-screen exam, practise mixed tests, build your
+              own exam from the question bank and see your Level 1-8 with an estimated overall
+              grade.
+            </p>
+          </div>
+          <div className="flex shrink-0 flex-wrap gap-3">
+            <Button asChild size="lg" className="rounded-full">
+              <Link to="/eassessment">Go to eAssessment practice</Link>
+            </Button>
+            <Button asChild size="lg" variant="outline" className="rounded-full">
+              <Link to="/past-papers">Practice papers</Link>
+            </Button>
+          </div>
         </div>
       </section>
 

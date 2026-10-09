@@ -17,6 +17,7 @@ import {
   describeResult,
   findArea,
   formatDuration,
+  formulaSheetFor,
 } from "@/lib/eassessment";
 import { masteryOf, STATUS_LABEL } from "@/lib/progress";
 import { PaperRunner } from "@/components/study/PaperRunner";
@@ -139,6 +140,7 @@ function AreaPage() {
               subjectId={subject.id}
               subjectName={subject.name}
               areaMinutes={area.minutes}
+              areaKey={area.key}
               initialPaperId={search.paper ?? null}
             />
           ) : null}
@@ -238,11 +240,13 @@ function TimedPapers({
   subjectId,
   subjectName,
   areaMinutes,
+  areaKey,
   initialPaperId,
 }: {
   subjectId: string;
   subjectName: string;
   areaMinutes: number;
+  areaKey: string;
   initialPaperId: string | null;
 }) {
   const [paperId, setPaperId] = useState<string | null>(initialPaperId);
@@ -251,7 +255,12 @@ function TimedPapers({
     queryFn: () => fetchPapers(subjectId, GRADE),
   });
   const paper = papers?.find((p) => p.id === paperId);
-  const suggested = (count: number) => Math.min(areaMinutes, Math.max(20, count * 8));
+  const isMock = (title: string) => title.includes("Full eAssessment Mock");
+  const suggested = (count: number, title = "") =>
+    isMock(title) ? areaMinutes : Math.min(areaMinutes, Math.max(20, count * 8));
+  const sortedPapers = [...(papers ?? [])].sort(
+    (a, b) => Number(isMock(b.title)) - Number(isMock(a.title)) || a.title.localeCompare(b.title),
+  );
 
   if (paper) {
     const count = paper.paper_questions?.[0]?.count ?? 0;
@@ -260,7 +269,7 @@ function TimedPapers({
         paper={paper}
         subjectId={subjectId}
         subjectName={subjectName}
-        exam={{ minutes: suggested(count) }}
+        exam={{ minutes: suggested(count, paper.title), formulas: formulaSheetFor(areaKey) }}
         onExit={() => setPaperId(null)}
       />
     );
@@ -279,7 +288,7 @@ function TimedPapers({
         against the mark scheme. Results show your Level 1-8 and an estimated overall 1-7.
       </p>
       <ul className="flex flex-col gap-3">
-        {papers.map((p) => {
+        {sortedPapers.map((p) => {
           const count = p.paper_questions?.[0]?.count ?? 0;
           return (
             <li key={p.id}>
@@ -290,7 +299,8 @@ function TimedPapers({
               >
                 <h3 className="font-display text-lg">{p.title}</h3>
                 <p className="text-sm text-muted-foreground">
-                  {count} questions · {suggested(count)} minutes · AI marked
+                  {isMock(p.title) ? "Full-length mock · " : ""}
+                  {count} questions · {suggested(count, p.title)} minutes · AI marked
                 </p>
               </button>
             </li>

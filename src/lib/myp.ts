@@ -245,6 +245,14 @@ export async function fetchPapers(subjectId: string, grade: number) {
 
 export type PaperQuestion = Tables<"paper_questions">;
 
+/** Marks available for a paper question: the sum of the "[n]" marks in its mark scheme. */
+export function marksOf(markScheme: string | null) {
+  if (!markScheme) return 0;
+  let total = 0;
+  for (const m of markScheme.matchAll(/\[(\d+)\]/g)) total += Number(m[1]);
+  return total;
+}
+
 export async function fetchPaperQuestions(paperId: string) {
   const { data, error } = await supabase
     .from("paper_questions")

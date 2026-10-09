@@ -201,3 +201,90 @@ export const EXAM_TIPS: { title: string; body: string }[] = [
     body: "Practise typing longer answers and using on-screen tools, because you will not be writing by hand. Get comfortable with the timer on this site.",
   },
 ];
+
+export type FormulaGroup = { title: string; lines: string[] };
+
+const MATHS_FORMULAS: FormulaGroup[] = [
+  {
+    title: "Number and algebra",
+    lines: [
+      "Percentage change = (new − original) ÷ original × 100",
+      "Percentage error = |measured − actual| ÷ actual × 100",
+      "Compound interest: A = P(1 + r/100)ⁿ",
+      "Standard form: a × 10ᵏ, where 1 ≤ a < 10",
+      "Quadratic formula: x = (−b ± √(b² − 4ac)) ÷ 2a",
+      "Arithmetic sequence: uₙ = a + (n − 1)d",
+      "Gradient: m = (y₂ − y₁) ÷ (x₂ − x₁); line: y = mx + c",
+    ],
+  },
+  {
+    title: "Geometry and trigonometry",
+    lines: [
+      "Pythagoras: a² + b² = c²",
+      "sin θ = opp ÷ hyp, cos θ = adj ÷ hyp, tan θ = opp ÷ adj",
+      "Sine rule: a ÷ sin A = b ÷ sin B",
+      "Cosine rule: a² = b² + c² − 2bc cos A",
+      "Area of a triangle = ½ab sin C",
+      "Circle: C = 2πr, A = πr²; arc = θ/360 × 2πr; sector = θ/360 × πr²",
+      "Prism: V = base area × height; cylinder: V = πr²h",
+      "Pyramid and cone: V = ⅓ × base area × height; sphere: V = 4/3 πr³, S = 4πr²",
+      "Cylinder curved surface = 2πrh; cone curved surface = πrl",
+    ],
+  },
+  {
+    title: "Statistics and probability",
+    lines: [
+      "Mean = sum of values ÷ number of values",
+      "P(A or B) = P(A) + P(B) − P(A and B)",
+      "Independent events: P(A and B) = P(A) × P(B)",
+      "Conditional probability: P(A | B) = P(A and B) ÷ P(B)",
+      "Frequency density = frequency ÷ class width",
+    ],
+  },
+];
+
+const SCIENCE_FORMULAS: FormulaGroup[] = [
+  {
+    title: "Physics",
+    lines: [
+      "speed = distance ÷ time; acceleration = change in velocity ÷ time",
+      "v = u + at; v² = u² + 2as; s = ut + ½at²",
+      "force = mass × acceleration (F = ma); weight = mass × g (g = 10 N/kg)",
+      "work done = force × distance; power = energy ÷ time",
+      "KE = ½mv²; GPE = mgh",
+      "pressure = force ÷ area; density = mass ÷ volume",
+      "V = IR; P = VI; E = Pt; Q = It",
+      "wave speed = frequency × wavelength",
+      "Q = mcΔT",
+    ],
+  },
+  {
+    title: "Chemistry",
+    lines: [
+      "moles = mass ÷ molar mass (n = m ÷ M)",
+      "concentration (mol/dm³) = moles ÷ volume (dm³)",
+      "gas volume at room temperature and pressure = moles × 24 dm³",
+      "percentage yield = actual yield ÷ theoretical yield × 100",
+      "percentage by mass of an element = (Ar × atoms) ÷ Mr × 100",
+      "ΔH = energy to break bonds − energy released making bonds",
+      "Rf = distance moved by spot ÷ distance moved by solvent",
+      "rate = change in amount ÷ time",
+    ],
+  },
+  {
+    title: "Biology and data",
+    lines: [
+      "magnification = image size ÷ actual size",
+      "percentage change = (new − original) ÷ original × 100",
+      "mean = total ÷ number of readings; ignore anomalies",
+      "percentage error = |measured − accepted| ÷ accepted × 100",
+    ],
+  },
+];
+
+/** On-screen formula reference shown in exam mode (a reminder sheet, not a substitute for revision). */
+export function formulaSheetFor(areaKey: string): FormulaGroup[] | null {
+  if (areaKey === "mathematics") return MATHS_FORMULAS;
+  if (areaKey === "sciences") return SCIENCE_FORMULAS;
+  return null;
+}

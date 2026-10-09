@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "visual-arts",
+  "grade": 5,
+  "topic": "Presenting and Reflecting",
+  "subTopic": "Curating and Displaying Work",
+  "questions": [
+   {
+    "content": "What is a curator?",
+    "options": [
+     "A person who sells paint",
+     "A person who selects and organises works for an exhibition",
+     "A person who cleans galleries",
+     "A printing machine"
+    ],
+    "answer": 1,
+    "explanation": "Curators choose which works to show and how to arrange them so the display tells a clear story.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does a label (caption) next to an artwork usually include?",
+    "options": [
+     "Only the price",
+     "Only the colour names",
+     "Title, artist, date, medium and sometimes a short explanation",
+     "The viewer's name"
+    ],
+    "answer": 2,
+    "explanation": "Labels provide key information that helps viewers understand the work.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why is lighting important in an exhibition?",
+    "options": [
+     "It affects how colours, textures and details are seen",
+     "It has no effect",
+     "It only matters for sculpture",
+     "It replaces labels"
+    ],
+    "answer": 0,
+    "explanation": "Good lighting highlights the work without causing glare, shadows or damage.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is an artist statement?",
+    "options": [
+     "A short text explaining the ideas and intention behind the work",
+     "A shopping list",
+     "A weather report",
+     "A price tag"
+    ],
+    "answer": 0,
+    "explanation": "Artist statements help viewers understand your aims and choices.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which hanging height is generally recommended for most 2D works in a gallery?",
+    "options": [
+     "On the floor",
+     "The centre of the work around average eye level",
+     "As high as possible",
+     "At random heights"
+    ],
+    "answer": 1,
+    "explanation": "Hanging at eye level makes viewing comfortable and consistent.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A student arranges portrait drawings in a group, spacing them evenly with the same frame style. Which principle does this support?",
+    "options": [
+     "Random chaos",
+     "Loss of balance",
+     "Asymmetric disorder",
+     "Unity and rhythm in the display"
+    ],
+    "answer": 3,
+    "explanation": "Consistent framing and spacing connect works as a set.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why might a curator group works by theme rather than by date?",
+    "options": [
+     "To help viewers see connections between ideas",
+     "Because dates are not important in any exhibition",
+     "To hide the works",
+     "To avoid labels"
+    ],
+    "answer": 0,
+    "explanation": "Thematic groupings tell a story and encourage comparisons.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A watercolour is displayed in strong direct sunlight. What is the main risk?",
+    "options": [
+     "It will get bigger",
+     "The colours may fade and the paper be damaged",
+     "The paint will get thicker",
+     "It will change into oil"
+    ],
+    "answer": 1,
+    "explanation": "Light, especially UV, can damage sensitive works, so museums control it.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A sculpture is placed so that visitors can only see the front. Which problem does this create?",
+    "options": [
+     "Viewers see too many colours",
+     "Viewers miss the form from other angles",
+     "It changes materials",
+     "It becomes 2D"
+    ],
+    "answer": 1,
+    "explanation": "3D work should usually be viewable from all sides if designed that way.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which choice is best for presenting a small delicate drawing?",
+    "options": [
+     "Leaving it loose on the floor",
+     "Folding it",
+     "A clean mount and frame with space around it",
+     "Taping it with strong tape to the wall"
+    ],
+    "answer": 2,
+    "explanation": "Mounting protects the work and creates a neat visual frame.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A digital artwork is to be shown in a school gallery. Which consideration is most relevant?",
+    "options": [
+     "Screen size, resolution, power, and whether it will play reliably",
+     "Only the paint thickness",
+     "Whether it has a frame of wood",
+     "Whether it is hung with nails"
+    ],
+    "answer": 0,
+    "explanation": "Digital display needs technology planning and testing.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student arranges works from darkest to lightest across the wall. Which effect might this create?",
+    "options": [
+     "A visual flow guiding viewers along the display",
+     "Randomness",
+     "Loss of unity",
+     "No movement"
+    ],
+    "answer": 0,
+    "explanation": "Ordering by value or colour can create rhythm and direction for the viewer.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A visitor with limited vision attends your exhibition. Which step improves accessibility?",
+    "options": [
+     "Use tiny text",
+     "Provide large-print labels, good lighting and clear paths",
+     "Lower the lighting",
+     "Place objects in the walkway"
+    ],
+    "answer": 1,
+    "explanation": "Accessible design makes displays usable for more people.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is it useful to test a display layout with a floor plan or mock-up first?",
+    "options": [
+     "Because real works are not allowed",
+     "To avoid curating",
+     "To remove the need for labels",
+     "To check spacing, viewing flow and what fits before hanging real work"
+    ],
+    "answer": 3,
+    "explanation": "Mock-ups show problems without risking the artwork.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student includes a QR code on a label linking to a video of their process. What is the purpose?",
+    "options": [
+     "To give extra context for interested viewers",
+     "To hide the artwork",
+     "To replace the artwork",
+     "To reduce information"
+    ],
+    "answer": 0,
+    "explanation": "Extra media can enrich the viewer's understanding while keeping labels short.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An exhibition aims to raise awareness of ocean pollution. Which curatorial decision best supports this aim?",
+    "options": [
+     "Hanging works in random order with no text",
+     "Using a cool, consistent palette in the display, a clear introduction panel and a layout that builds from problem to solution",
+     "Using only unrelated paintings",
+     "Hiding the title"
+    ],
+    "answer": 1,
+    "explanation": "The display should reinforce the message through text, layout and design.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two classmates curate the same set of eight works. One group displays them in a crowded cluster with a small label; the other spaces them with clear pathways and consistent labels. Which statement is most accurate?",
+    "options": [
+     "The first approach is always better",
+     "The second approach likely improves viewing and communicates more clearly",
+     "Spacing has no effect",
+     "Labels reduce understanding"
+    ],
+    "answer": 1,
+    "explanation": "Space, consistency and clarity help viewers focus and understand.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student considers whether to display a controversial artwork in a school exhibition. What is the most responsible approach?",
+    "options": [
+     "Hide the context",
+     "Ignore the audience",
+     "Consider audience, context and school guidelines, and add contextual information",
+     "Remove all labels"
+    ],
+    "answer": 2,
+    "explanation": "Curators balance freedom of expression with audience, age and policies, and explain context.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Presenting your work is the final stage of making. A thoughtful display helps viewers understand your ideas, and it shows that you care about your art. Curating and displaying work is part of the MYP Arts cycle of exploring, making and presenting, and it relates strongly to criterion D (Responding), where you communicate and evaluate your work for an audience.\n\n## What is curating?\nA **curator** selects and organises artworks for an exhibition and decides how they are displayed and explained. Even in a school show, you act as a curator when you choose which pieces to include and how to arrange them. Good curators think about the **audience**, the **message** and the **space**.\n\n## Choosing and grouping work\n- Select pieces that show your best work and your creative journey, not simply everything you made.\n- Group works by **theme**, **technique**, **colour**, **chronology** (order made) or **idea**. Groupings help viewers see connections.\n- Create a **flow**: where will visitors begin and end? Use an opening piece or panel to introduce the idea and a strong finishing piece.\n- Consider balance and rhythm in the layout: repeated frames, even spacing and aligned edges create unity. A single larger work can act as a focal point.\n\n## Display techniques\n- **2D works**: mount or frame them to protect and present them. Hang with the centre near average eye level. Keep spacing consistent.\n- **3D works**: use plinths or tables at a comfortable height, and allow viewers to walk around if the piece is designed to be viewed from all sides.\n- **Digital works**: plan for screens, projection, sound, power and testing. Check that files play reliably and loop correctly.\n- **Lighting**: choose lighting that shows colours and textures without glare or heat. Avoid strong direct sunlight, which can fade or damage works.\n- **Safety**: secure heavy objects, keep walkways clear, and use safe fixings.\n\n## Labels and text\nLabels should be clear and consistent: title, artist, date, medium and a short note if useful. An **artist statement** explains your intention and ideas in your own words. Use readable fonts and enough contrast, and keep text concise. A QR code can link to extra material such as a process video.\n\n## Accessibility and audience\nThink about who will visit. Provide clear pathways, good lighting, text large enough to read, and consider seating or alternative formats. If an artwork deals with sensitive topics, give context and think about the age of the audience and school guidelines.\n\n## Planning and testing\nMake a **floor plan** or mock-up before hanging real work. Test sightlines, spacing and where people will stand. Ask for feedback during setup.\n\n## Common mistakes\n- Crowding too many works close together.\n- Inconsistent labels or frames that distract from the art.\n- Poor lighting or glare.\n- Forgetting protection and safety.\n- Not explaining the idea to the audience.\n\n## How this is examined\nQuestions describe an exhibition situation and ask for the best arrangement, label content, or display choice for a given aim or audience. Look for answers that match the message and care for both artwork and visitors.\n\nExam tip: link each display decision to audience and intention: 'Even spacing and matching frames create unity so the viewer reads the six portraits as one series.'",
+  "flashcards": [
+   {
+    "front": "Curator",
+    "back": "A person who selects, organises and explains artworks for an exhibition."
+   },
+   {
+    "front": "Ways to group work",
+    "back": "By theme, technique, colour, chronology or idea, to help viewers see connections."
+   },
+   {
+    "front": "Hanging height for 2D work",
+    "back": "Generally with the centre of the work near average eye level, with consistent spacing."
+   },
+   {
+    "front": "What goes on a label?",
+    "back": "Title, artist, date, medium and, if useful, a short note. Keep it clear, readable and consistent."
+   },
+   {
+    "front": "Artist statement",
+    "back": "A short text explaining your intention and ideas behind the work, in your own words."
+   },
+   {
+    "front": "Lighting for display",
+    "back": "Show colour and texture clearly without glare or heat; avoid strong direct sunlight, which can fade work."
+   },
+   {
+    "front": "Displaying 3D work",
+    "back": "Use plinths or tables at comfortable height and allow viewing from all sides if the piece is designed that way."
+   },
+   {
+    "front": "Accessible exhibitions",
+    "back": "Clear pathways, good lighting, large readable text and consideration for different visitors' needs."
+   },
+   {
+    "front": "Why make a floor plan or mock-up?",
+    "back": "To test spacing, flow and fit before hanging real work, avoiding problems and damage."
+   }
+  ]
+ },
+ {
+  "subject": "visual-arts",
+  "grade": 5,
+  "topic": "Presenting and Reflecting",
+  "subTopic": "Reflecting on Your Own Work",
+  "questions": [
+   {
+    "content": "What is reflection in the creative process?",
+    "options": [
+     "Looking in a mirror",
+     "Thinking critically about what you made, how, and what you learned",
+     "Copying a model",
+     "Selling work"
+    ],
+    "answer": 1,
+    "explanation": "Reflection links evidence in your work to your learning and next steps.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which sentence is reflective?",
+    "options": [
+     "I painted a picture",
+     "It is done",
+     "I learned that layering thin glazes gave me smoother tones than one thick coat",
+     "I like painting"
+    ],
+    "answer": 2,
+    "explanation": "A reflective statement explains what you did, what happened and what you learned.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why should you reflect during the process, not just at the end?",
+    "options": [
+     "So you can improve your work while you are still making it",
+     "So you can avoid finishing",
+     "Because the final piece is not important",
+     "Because reflection replaces art"
+    ],
+    "answer": 0,
+    "explanation": "Ongoing reflection guides decisions and development.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which prompt best starts a reflection?",
+    "options": [
+     "What worked well and what would I change?",
+     "Who is the winner?",
+     "Is it big?",
+     "How many pages did I fill?"
+    ],
+    "answer": 0,
+    "explanation": "Questions about success and change prompt analysis and planning.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'strength' mean in an evaluation of your work?",
+    "options": [
+     "A heavy item",
+     "A part that works well and achieves your aim",
+     "A rule",
+     "A mistake"
+    ],
+    "answer": 1,
+    "explanation": "Strengths and weaknesses should be identified with reasons.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A student writes: 'The final piece is good.' How could it be improved?",
+    "options": [
+     "Add the word very",
+     "Remove all details",
+     "Write it again the same way",
+     "Add evidence and explanation of why it is effective for the intention"
+    ],
+    "answer": 3,
+    "explanation": "Evidence-based comments are stronger than general opinions.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why compare your final work with your original intention?",
+    "options": [
+     "To judge how far you achieved your aims",
+     "To find a different subject",
+     "To copy it",
+     "To avoid improving"
+    ],
+    "answer": 0,
+    "explanation": "Measuring outcome against aims shows how successful the work is.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which kind of feedback is generally most useful for reflection?",
+    "options": [
+     "General praise",
+     "Specific comments linked to your aims from different viewers",
+     "Insults",
+     "A single word"
+    ],
+    "answer": 1,
+    "explanation": "Specific, varied feedback reveals strengths and blind spots.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student says their sculpture collapsed because the base was too narrow. What does this show?",
+    "options": [
+     "A poor attitude",
+     "Honest identification of a cause and a lesson for next time",
+     "A reason to hide the work",
+     "Something not worth recording"
+    ],
+    "answer": 1,
+    "explanation": "Naming causes of problems and what you will change is high-quality reflection.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of these links reflection to future action best?",
+    "options": [
+     "I hope it goes better",
+     "Nothing to change",
+     "Next time I will test the paint on the paper first, because it bled in my final piece",
+     "It was bad"
+    ],
+    "answer": 2,
+    "explanation": "Reflection that sets specific next steps shows growth.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student reflects on how a classmate's feedback changed their idea. What should they include?",
+    "options": [
+     "What the feedback was, what they changed and the effect of the change",
+     "Only who gave it",
+     "Only the date",
+     "Only that they disagreed"
+    ],
+    "answer": 0,
+    "explanation": "Showing how feedback influenced decisions demonstrates responsiveness.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which format could be used for reflection in a portfolio?",
+    "options": [
+     "Annotated images, written notes, video or audio commentary",
+     "Only a single title",
+     "Only a signature",
+     "Only a price"
+    ],
+    "answer": 0,
+    "explanation": "Reflection can take many forms, as long as it is clear and evidence-based.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is it valuable to reflect on your own learning and not only the artwork?",
+    "options": [
+     "It replaces the artwork",
+     "It shows what skills and ideas you have developed",
+     "It is optional in all cases",
+     "It makes the project shorter"
+    ],
+    "answer": 1,
+    "explanation": "Learning reflection includes skills, approaches and changes in thinking.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student wants to be balanced in a self-evaluation. Which approach is best?",
+    "options": [
+     "Only list successes",
+     "Only list failures",
+     "Avoid details",
+     "Discuss both successes and limitations with evidence"
+    ],
+    "answer": 3,
+    "explanation": "Balanced evaluation is more credible and useful.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student writes: 'My use of warm complementary accents gave a clear focal point, but the empty lower third weakened balance. Next I will add a darker foreground.' Which features make this strong?",
+    "options": [
+     "Evidence, evaluation of effect and a specific next step",
+     "Length only",
+     "Use of the word accents",
+     "A vague opinion"
+    ],
+    "answer": 0,
+    "explanation": "It names choices, judges their effect and plans improvement.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student believes reflection is just saying sorry for mistakes. Which correction is best?",
+    "options": [
+     "Reflection is blaming others",
+     "Reflection is analysing decisions and outcomes to learn and improve, whether things went well or not",
+     "Reflection is only for failures",
+     "Reflection is optional decoration"
+    ],
+    "answer": 1,
+    "explanation": "Reflection covers successes and problems alike.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A classmate says your work does not communicate your stated aim of peace, because the palette is harsh. How should you respond reflectively?",
+    "options": [
+     "Ignore the comment",
+     "Consider the evidence, test alternatives such as softer colours, and record what you decide and why",
+     "Change the aim secretly",
+     "Argue the viewer is wrong"
+    ],
+    "answer": 1,
+    "explanation": "Taking feedback seriously and testing a response shows critical thinking.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which statement shows the deepest reflection on creative thinking?",
+    "options": [
+     "I chose the first idea",
+     "I followed the teacher's example",
+     "I rejected my first idea because it copied the artist too closely, and combined two sketches to make a more original concept",
+     "I did not change anything"
+    ],
+    "answer": 2,
+    "explanation": "Explaining how and why ideas evolved shows creative thinking and self-awareness.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Reflection is the thinking you do about your art and about yourself as an artist. It turns experience into learning. In MYP Arts you reflect throughout the process in your journal and at the end in an evaluation. It supports criterion C (Thinking creatively), criterion B (Developing skills) and criterion D (Responding).\n\n## What reflection includes\nGood reflection covers three areas:\n- **The work**: what it looks like, how elements and principles were used, how well it communicates your intention.\n- **The process**: what you tried, what worked, what did not, and how you solved problems.\n- **Yourself as a learner**: what skills and ideas you developed, how you responded to feedback and what you would do next.\n\n## Reflection prompts\nUse questions to start:\n- What was my intention and did I achieve it?\n- What worked well and why? What would I change?\n- What did feedback show me, and what did I do about it?\n- Which decisions most improved the work?\n- What did I learn about the media, the theme or myself?\n- How does my work connect to the artists and contexts I studied?\n\n## Reflecting with evidence\nCompare a vague comment and a strong one. 'I like my painting' is an opinion. 'The warm accents against a cool background created a clear focal point, but the empty lower third weakened the balance' uses evidence and judgement. Tie each point to something visible in the work, a sample or a photograph, and be specific.\n\n## Balanced and honest\nA trustworthy self-evaluation identifies both **strengths** and **limitations**. If something failed, explain the cause and what you learned. For example: 'The sculpture collapsed because the base was too narrow; next time I will build a wider base and test the structure.' Honest reflection is a sign of maturity, not weakness.\n\n## Using feedback\nGather feedback from teachers, classmates and your intended audience. Record what they said, decide which comments to act on, and note the effect of your changes. You do not need to accept every suggestion, but you should consider each and justify your choices.\n\n## Looking forward\nReflection ends with action. Say what you will do next: test a new material, adjust a composition, research an artist or plan a bigger project. This links one piece of work to the next and shows development.\n\n## Forms of reflection\nReflection can be written annotations, voice or video recordings, labelled photographs, side-by-side comparisons of drafts, or a final evaluation page. Choose the form that makes your thinking clearest.\n\n## Common mistakes\n- Only describing what you did, without judging it.\n- Using vague praise or criticism.\n- Hiding problems.\n- Leaving reflection until the very end.\n- Not linking comments to evidence or next steps.\n\n## How this is examined\nQuestions give sample reflections and ask which is strongest, how to improve a weak one, or what a next step should be. Choose answers that include evidence, judgement and action.\n\nExam tip: use the chain 'I did... because... it resulted in... so next time I will...'.",
+  "flashcards": [
+   {
+    "front": "Three areas of reflection",
+    "back": "The work (how well it communicates), the process (what you tried and solved), and yourself as a learner (skills developed, response to feedback)."
+   },
+   {
+    "front": "Reflective chain",
+    "back": "'I did... because... it resulted in... so next time I will...'"
+   },
+   {
+    "front": "Why reflect during the process?",
+    "back": "So you can improve the work while you are still making it, not only at the end."
+   },
+   {
+    "front": "Strong vs weak reflection",
+    "back": "Strong: specific, evidence-based, balanced, ends with action. Weak: vague opinion such as 'I like it' or 'it was good'."
+   },
+   {
+    "front": "Strengths and limitations",
+    "back": "A balanced self-evaluation identifies both with reasons. Honesty about problems is a sign of maturity."
+   },
+   {
+    "front": "Using feedback",
+    "back": "Record it, decide which comments to act on, explain your choices and note the effect of changes."
+   },
+   {
+    "front": "Forms of reflection",
+    "back": "Annotations, voice or video recordings, labelled photographs, draft comparisons or a final evaluation page."
+   },
+   {
+    "front": "Comparing with intention",
+    "back": "Judge how far the final work achieves your original aims, using visible evidence."
+   },
+   {
+    "front": "Reflection ends with...",
+    "back": "Action: say what you will test, change or research next, linking one piece of work to the next."
+   }
+  ]
+ },
+ {
+  "subject": "visual-arts",
+  "grade": 5,
+  "topic": "Presenting and Reflecting",
+  "subTopic": "Using the Arts Criteria",
+  "questions": [
+   {
+    "content": "How many criteria are used to assess MYP Arts?",
+    "options": [
+     "Two",
+     "Four",
+     "Three",
+     "Five"
+    ],
+    "answer": 1,
+    "explanation": "MYP Arts is assessed with criteria A, B, C and D.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is criterion A in MYP Arts?",
+    "options": [
+     "Developing skills",
+     "Thinking creatively",
+     "Knowing and understanding",
+     "Responding"
+    ],
+    "answer": 2,
+    "explanation": "Criterion A covers knowledge of the art form, its concepts, and its context.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is criterion B in MYP Arts?",
+    "options": [
+     "Developing skills",
+     "Knowing and understanding",
+     "Thinking creatively",
+     "Responding"
+    ],
+    "answer": 0,
+    "explanation": "Criterion B focuses on applying skills and techniques and showing artistic process.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is criterion C in MYP Arts?",
+    "options": [
+     "Thinking creatively",
+     "Responding",
+     "Knowing and understanding",
+     "Developing skills"
+    ],
+    "answer": 0,
+    "explanation": "Criterion C is about developing a creative idea, exploring options and taking risks.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is criterion D in MYP Arts?",
+    "options": [
+     "Developing skills",
+     "Responding",
+     "Thinking creatively",
+     "Knowing and understanding"
+    ],
+    "answer": 1,
+    "explanation": "Criterion D is about responding to and evaluating art, including your own work and its context.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the maximum level a student can earn in each criterion?",
+    "options": [
+     "Level 7",
+     "Level 6",
+     "Level 10",
+     "Level 8"
+    ],
+    "answer": 3,
+    "explanation": "MYP achievement levels run from Levels 1-8 within each criterion.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Levels are grouped into bands. Which band contains Level 5?",
+    "options": [
+     "5–6",
+     "1–2",
+     "3–4",
+     "7–8"
+    ],
+    "answer": 0,
+    "explanation": "Bands are 1–2, 3–4, 5–6 and 7–8.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the maximum total mark across all four criteria?",
+    "options": [
+     "28",
+     "32",
+     "24",
+     "40"
+    ],
+    "answer": 1,
+    "explanation": "Four criteria × a maximum of Level 8 gives 32.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A teacher says your work 'demonstrates excellent knowledge of art concepts and context'. Which criterion is this?",
+    "options": [
+     "B: Developing skills",
+     "A: Knowing and understanding",
+     "C: Thinking creatively",
+     "D: Responding"
+    ],
+    "answer": 1,
+    "explanation": "Knowledge of concepts, conventions and context is criterion A.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student's journal shows several experiments, evidence of technical improvement and use of the media with control. Which criterion does this mainly support?",
+    "options": [
+     "A: Knowing and understanding",
+     "D: Responding",
+     "B: Developing skills",
+     "None of them"
+    ],
+    "answer": 2,
+    "explanation": "Application of skills and techniques, plus process, is criterion B.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student explores unusual ideas, tests different directions and develops an original concept. Which criterion is this?",
+    "options": [
+     "C: Thinking creatively",
+     "A: Knowing and understanding",
+     "B: Developing skills",
+     "D: Responding"
+    ],
+    "answer": 0,
+    "explanation": "Creative thinking involves ideas, exploration and a willingness to take risks.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student writes a critical evaluation of their finished piece and compares it with other artists. Which criterion does this relate to?",
+    "options": [
+     "D: Responding",
+     "A: Knowing and understanding",
+     "B: Developing skills",
+     "C: Thinking creatively"
+    ],
+    "answer": 0,
+    "explanation": "Evaluating and reflecting on art and its context is criterion D.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student has a very good, finished artwork but no journal pages or experiments. Which criteria are at risk?",
+    "options": [
+     "Only criterion A",
+     "B and C, because process evidence is limited",
+     "None",
+     "Criterion D only"
+    ],
+    "answer": 1,
+    "explanation": "Without process evidence, development of skills and creative thinking cannot be shown clearly.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student receives Levels 6, 5, 7 and 6 across criteria A, B, C and D. What is their total?",
+    "options": [
+     "22",
+     "26",
+     "20",
+     "24"
+    ],
+    "answer": 3,
+    "explanation": "6 + 5 + 7 + 6 = 24 out of 32. A separate conversion is later used to give an overall subject grade.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student has a total of 20 across the four criteria. Which statement is accurate?",
+    "options": [
+     "Their average is Level 5 per criterion",
+     "Their average is Level 4",
+     "Their average is Level 6",
+     "Their average cannot be found"
+    ],
+    "answer": 0,
+    "explanation": "20 ÷ 4 = 5.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A teacher's feedback says 'Your evaluation lists what you did but doesn't judge how well it worked'. Which action will best raise the criterion D level?",
+    "options": [
+     "Add more pictures only",
+     "Add specific judgements about effectiveness with evidence and reasons",
+     "Remove the evaluation",
+     "Make the text bigger"
+    ],
+    "answer": 1,
+    "explanation": "Higher levels in D need critical, evidence-based evaluation, not just description.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student plans to improve their criterion C level. Which action fits best?",
+    "options": [
+     "Copy the first idea",
+     "Generate several different ideas, justify the selected one and show how it develops through exploration",
+     "Choose the safest design without exploring",
+     "Skip planning"
+    ],
+    "answer": 1,
+    "explanation": "Creative thinking rewards exploring alternatives, developing ideas and taking considered risks.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student's work is secure on criterion B but they struggle on A. Which approach helps most?",
+    "options": [
+     "Add more decoration",
+     "Make the work larger",
+     "Research art concepts and contexts, and use correct vocabulary in explanations of how their work relates to them",
+     "Ignore the vocabulary"
+    ],
+    "answer": 2,
+    "explanation": "Criterion A rewards knowledge and understanding, shown through accurate terminology and context links.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Your MYP Arts work is judged using four assessment criteria. Knowing them well lets you plan your portfolio, understand your teacher's feedback and target the next level. Remember that MYP achievement uses **Levels 1-8** for each criterion.\n\n## The four criteria\n- **Criterion A: Knowing and understanding.** You show knowledge of the art form, its concepts, processes and conventions, and of the contexts in which art is made. You use subject vocabulary accurately and explain how knowledge informs your work.\n- **Criterion B: Developing skills.** You learn and apply skills and techniques, and demonstrate the application of those skills in your art. This shows through your control of media, your experiments, and evidence of improving craft across the process.\n- **Criterion C: Thinking creatively.** You develop a clear artistic intention, explore alternative ideas, take risks and show how your concept evolves. Original thinking and well-justified decisions are key.\n- **Criterion D: Responding.** You respond to and evaluate art, including your own and that of others, in different cultural and historical contexts. You reflect critically and communicate your understanding of the impact of art on people and society.\n\n## Levels, bands and totals\nEach criterion is marked from Level 1 to Level 8. Levels are grouped into four bands: 1–2, 3–4, 5–6 and 7–8. A criterion level is chosen by comparing your work with the descriptors and finding the best fit. The four criterion levels are added to give a total out of 32. Teachers then use grade boundaries to convert the total into an overall subject grade, reported on a separate scale. Always keep the two apart: criterion achievement is Levels 1-8, while the overall grade is a different scale.\n\nExample: Levels of 6, 5, 7 and 6 add up to 24 out of 32. Dividing by four gives an average of Level 6 per criterion.\n\n## How levels differ\nDescriptors move from limited to excellent. At the lower bands, work shows limited or basic knowledge, skills or ideas, with little explanation. In the middle bands, work shows adequate to substantial understanding, with good control and some explanation. At the top band, work shows excellent, insightful, well-justified and consistent quality supported by detailed evidence. Words to watch: **limited, adequate, substantial, excellent**; **basic, good, extensive**; **superficial, sound, detailed, critical**.\n\n## Evidence matters\n- For A, show vocabulary, concepts and context.\n- For B, keep process evidence: tests, drafts and photographs of stages.\n- For C, show alternatives, risks and reasons for decisions.\n- For D, include critical evaluation, comparisons and links to context.\nA great finished piece with no process evidence cannot demonstrate B and C fully.\n\n## Using the criteria to improve\nRead the descriptors for the next band up and turn them into a checklist. Ask your teacher for examples. Self-assess your journal using the same language. Spend your effort on the criterion you find weakest.\n\n## Common mistakes\n- Thinking only the final artwork matters.\n- Writing description where evaluation is needed.\n- Forgetting vocabulary and context.\n- Confusing criteria letters, for example C (creative thinking) with D (responding).\n\n## How this is examined\nQuestions test whether you can match evidence to criteria, calculate totals from levels, and decide the best action to reach a higher level.\n\nExam tip: memorise the sequence A Knowing, B Developing, C Thinking creatively, D Responding, and the total of 32 across four criteria.",
+  "flashcards": [
+   {
+    "front": "The four MYP Arts criteria",
+    "back": "A: Knowing and understanding. B: Developing skills. C: Thinking creatively. D: Responding."
+   },
+   {
+    "front": "Achievement levels",
+    "back": "Each criterion is marked in Levels 1-8, grouped into bands 1–2, 3–4, 5–6 and 7–8."
+   },
+   {
+    "front": "Maximum total",
+    "back": "32 (four criteria × Level 8). Totals are converted to an overall subject grade on a separate scale using boundaries."
+   },
+   {
+    "front": "Criterion A evidence",
+    "back": "Accurate vocabulary, knowledge of concepts, processes and conventions, and links to context."
+   },
+   {
+    "front": "Criterion B evidence",
+    "back": "Control of media, experiments, drafts, and visible improvement in skills across the process."
+   },
+   {
+    "front": "Criterion C evidence",
+    "back": "A clear intention, alternative ideas, risk-taking and justified decisions as the concept develops."
+   },
+   {
+    "front": "Criterion D evidence",
+    "back": "Critical evaluation of your own and others' art, comparisons, and understanding of context and impact."
+   },
+   {
+    "front": "Descriptor words",
+    "back": "Lower to higher: limited, adequate, substantial, excellent. Higher levels show detail, insight and justification."
+   },
+   {
+    "front": "Why keep process evidence?",
+    "back": "A strong final piece alone cannot show criteria B and C; journals, tests and drafts demonstrate development and creative thinking."
+   }
+  ]
+ }
+]

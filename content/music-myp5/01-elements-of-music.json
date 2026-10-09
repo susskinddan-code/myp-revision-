@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "music",
+  "grade": 5,
+  "topic": "Elements of Music",
+  "subTopic": "Pitch, Rhythm and Notation",
+  "questions": [
+   {
+    "content": "In 4/4 time, how many beats does a minim (half note) last?",
+    "options": [
+     "1 beat",
+     "2 beats",
+     "3 beats",
+     "4 beats"
+    ],
+    "answer": 1,
+    "explanation": "A minim is worth two crotchet beats. A semibreve is the 4-beat note.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which clef is normally used for the higher notes, such as the right hand of a piano part?",
+    "options": [
+     "Treble clef",
+     "Bass clef",
+     "Percussion clef",
+     "Key clef"
+    ],
+    "answer": 0,
+    "explanation": "The treble clef (G clef) curls around the G above middle C and is used for higher pitches. The bass clef is used for lower notes.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In a time signature, what does the top number tell you?",
+    "options": [
+     "How fast the music is",
+     "Which key the music is in",
+     "How loud the bar is",
+     "How many beats are in each bar"
+    ],
+    "answer": 3,
+    "explanation": "The top number counts the beats per bar. The bottom number shows which note value counts as one beat.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which symbol raises a note by one semitone?",
+    "options": [
+     "Flat (♭)",
+     "Natural (♮)",
+     "Sharp (♯)",
+     "Rest"
+    ],
+    "answer": 2,
+    "explanation": "A sharp raises the pitch by a semitone, a flat lowers it, and a natural cancels an earlier sharp or flat.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does a rest show in a score?",
+    "options": [
+     "A note held for longer",
+     "A silence of a set length",
+     "A repeat of the last bar",
+     "A sudden loud note"
+    ],
+    "answer": 1,
+    "explanation": "Rests are written silences. Each rest has a length that matches a note value, for example a crotchet rest lasts one beat.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A student reads the notes on the five lines of the treble clef from the bottom upwards. Which letters do they read?",
+    "options": [
+     "E G B D F",
+     "F A C E G",
+     "G B D F A",
+     "A C E G B"
+    ],
+    "answer": 0,
+    "explanation": "The lines of the treble clef from the bottom are E, G, B, D, F. A memory aid is 'Every Good Boy Deserves Fun'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a piece in 3/4, which single note fills one whole bar?",
+    "options": [
+     "Semibreve",
+     "Minim",
+     "Dotted crotchet",
+     "Dotted minim"
+    ],
+    "answer": 3,
+    "explanation": "A minim is 2 beats and the dot adds half (1 beat), so a dotted minim is 3 crotchet beats. A semibreve is 4 beats and is too long.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The spaces of the treble clef, from bottom to top, spell which word?",
+    "options": [
+     "EGBDF",
+     "CAGE",
+     "FACE",
+     "BEAD"
+    ],
+    "answer": 2,
+    "explanation": "The four spaces are F, A, C, E, which spell FACE. The lines are E G B D F.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A crotchet is tied to a minim of the same pitch. For how many beats is the note held?",
+    "options": [
+     "2 beats",
+     "3 beats",
+     "1 beat",
+     "4 beats"
+    ],
+    "answer": 1,
+    "explanation": "A tie joins notes of the same pitch into one sound. 1 beat + 2 beats = 3 beats, and the note is not played again at the tie.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does a dot placed after a note do?",
+    "options": [
+     "Makes it half as long again",
+     "Doubles its length",
+     "Shortens it by half",
+     "Makes it louder"
+    ],
+    "answer": 0,
+    "explanation": "A dot adds half the note's value. A dotted crotchet is 1 + ½ = 1½ beats.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A tune is in 6/8. How is a bar usually felt?",
+    "options": [
+     "Six equal strong crotchet beats",
+     "Three main beats, each split into two quavers",
+     "Four main beats",
+     "Two main beats, each split into three quavers"
+    ],
+    "answer": 3,
+    "explanation": "6/8 is compound duple time: six quavers grouped as two groups of three, giving two main pulses.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Counting every letter name including the first, what is the interval from C up to G?",
+    "options": [
+     "A third",
+     "A fourth",
+     "A fifth",
+     "A sixth"
+    ],
+    "answer": 2,
+    "explanation": "C, D, E, F, G is five letter names, so the interval is a fifth. Counting from zero would wrongly give a fourth.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "On a piano, what is the distance from E up to F?",
+    "options": [
+     "One tone",
+     "One semitone",
+     "Two semitones",
+     "A third"
+    ],
+    "answer": 1,
+    "explanation": "There is no black key between E and F, so they are neighbouring notes one semitone apart.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In 4/4, which bar adds up to exactly four crotchet beats?",
+    "options": [
+     "Dotted crotchet, quaver, minim",
+     "Dotted minim, dotted crotchet",
+     "Semibreve, two crotchets",
+     "Minim, minim, quaver"
+    ],
+    "answer": 0,
+    "explanation": "1½ + ½ + 2 = 4. The others total 4½, 6 and 4½ beats, so they overfill the bar.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A score has F♯ in its key signature. A bar later the composer writes an F♮ accidental, then another F follows in the same bar. How should the second F be played?",
+    "options": [
+     "As F♯, because the key signature always wins",
+     "As F♯, because accidentals only affect one note",
+     "As F♭, to balance the natural",
+     "As F♮, because the accidental lasts to the end of the bar"
+    ],
+    "answer": 3,
+    "explanation": "An accidental stays in force until the next bar line, so the later F in that bar is still natural. In the next bar the key signature applies again.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A melody has accents on the 'and' between beats (1 AND 2 AND 3 AND) instead of on the main beats. What is this effect called?",
+    "options": [
+     "Anacrusis",
+     "Ostinato",
+     "Syncopation",
+     "Pedal note"
+    ],
+    "answer": 2,
+    "explanation": "Syncopation places stress on weak beats or off-beats, which makes a rhythm feel unexpected or 'bouncy'.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Three quaver triplets are written over a bracket marked 3 in 2/4. How long do the three notes last together?",
+    "options": [
+     "One minim",
+     "One crotchet beat",
+     "One quaver",
+     "Three crotchet beats"
+    ],
+    "answer": 1,
+    "explanation": "A triplet fits three notes into the time normally taken by two. Three quavers in the time of two quavers equals one crotchet beat.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A bar of 2/4 contains a crotchet rest, a quaver, a quaver rest and another quaver. Is the bar complete?",
+    "options": [
+     "No: it totals 2½ beats, so it is overfull",
+     "Yes: it totals exactly 2 beats",
+     "Yes: rests are not counted",
+     "No: it totals 1½ beats, so it is short"
+    ],
+    "answer": 0,
+    "explanation": "Add the values: 1 + ½ + ½ + ½ = 2½ beats, but 2/4 holds only 2. Rests count in full, so the bar is overfull and needs correcting.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## The building blocks\nPitch is how high or low a sound is. In written music, pitch is shown by where a note sits on the **stave**, a set of five lines and four spaces. The **clef** at the start tells you which pitches the lines represent. The **treble clef** is used for higher notes: its lines from the bottom are E G B D F and its spaces spell FACE. The **bass clef** is used for lower notes: its lines are G B D F A and its spaces are A C E G. Notes that go above or below the stave sit on small **ledger lines**, and middle C sits on the first ledger line below the treble stave.\n\nPitch moves by **semitones** (the smallest step on a piano, such as E to F) and **tones** (two semitones, such as C to D). A **sharp** (♯) raises a note by a semitone, a **flat** (♭) lowers it by a semitone and a **natural** (♮) cancels either. An accidental written in the music lasts until the end of that bar. A **key signature** at the start of each line applies to the whole piece.\n\nAn **interval** is the distance between two pitches. Count the letter names including the first and last: C up to E is a third, C up to G is a fifth, and C up to the next C is an octave.\n\n## Rhythm and note values\nRhythm is the pattern of long and short sounds. The **beat** is the steady pulse. In 4/4 the main note values are:\n- **Semibreve** (whole note): 4 beats\n- **Minim** (half note): 2 beats\n- **Crotchet** (quarter note): 1 beat\n- **Quaver** (eighth note): ½ beat\n- **Semiquaver** (sixteenth note): ¼ beat\n\nEach note value has a matching **rest** for silence. A **dot** after a note adds half its value, so a dotted crotchet lasts 1½ beats. A **tie** joins two notes of the same pitch into one longer sound. A **triplet** squeezes three notes into the time of two. **Syncopation** puts stress on off-beats or weak beats, which creates excitement.\n\n## Time signatures\nThe **time signature** sits after the clef. The top number shows beats per bar and the bottom number shows the note value of one beat (4 means crotchet, 8 means quaver). 2/4 has two crotchet beats, 3/4 has three (a waltz feel), and 4/4 has four (called common time). In **compound time**, such as 6/8, the beats divide into three, so a bar of 6/8 is felt as two big beats, each made of three quavers. Bar lines divide the music into bars.\n\n## Common mistakes\n- Counting an interval from zero instead of counting the first note as one.\n- Forgetting that rests count towards the total in a bar.\n- Thinking an accidental lasts for the whole piece rather than the bar.\n- Mixing up the lines and spaces of the two clefs.\n\n## How this is examined\nExam-style questions give a short stimulus, such as a rhythm described in words, a bar written as note names, or a time signature, and ask you to identify, calculate or justify. You may need to add note values to check that a bar is complete, name an interval, state what a symbol means, or explain why a composer used syncopation or compound time. Precise vocabulary is rewarded.\n\nExam tip: When checking a bar, write each note value as a number of beats and add them up; the total must match the top number of the time signature.",
+  "flashcards": [
+   {
+    "front": "Treble clef lines and spaces",
+    "back": "Lines (bottom to top): E G B D F. Spaces: F A C E (spells FACE)."
+   },
+   {
+    "front": "Bass clef lines and spaces",
+    "back": "Lines (bottom to top): G B D F A. Spaces: A C E G."
+   },
+   {
+    "front": "Note values in 4/4",
+    "back": "Semibreve 4 beats, minim 2, crotchet 1, quaver ½, semiquaver ¼."
+   },
+   {
+    "front": "What does a dot do?",
+    "back": "A dot after a note adds half of its value: a dotted minim = 3 beats, a dotted crotchet = 1½ beats."
+   },
+   {
+    "front": "What is a tie?",
+    "back": "A curved line joining two notes of the same pitch so they sound as one longer note."
+   },
+   {
+    "front": "Time signature 3/4",
+    "back": "Three crotchet beats in each bar, giving a waltz-like feel."
+   },
+   {
+    "front": "Compound time (e.g. 6/8)",
+    "back": "Each main beat divides into three. 6/8 = two beats, each of three quavers."
+   },
+   {
+    "front": "Semitone vs tone",
+    "back": "A semitone is the smallest step (E to F). A tone is two semitones (C to D)."
+   },
+   {
+    "front": "Syncopation",
+    "back": "Placing stress on weak beats or off-beats so the rhythm feels off-balance."
+   }
+  ]
+ },
+ {
+  "subject": "music",
+  "grade": 5,
+  "topic": "Elements of Music",
+  "subTopic": "Tempo, Dynamics and Texture",
+  "questions": [
+   {
+    "content": "What does the Italian word 'allegro' tell a performer?",
+    "options": [
+     "Play slowly",
+     "Play fast and lively",
+     "Play very softly",
+     "Gradually get louder"
+    ],
+    "answer": 1,
+    "explanation": "Allegro is a tempo marking meaning fast and cheerful. Adagio and largo are slow.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which symbol means 'loud'?",
+    "options": [
+     "f",
+     "p",
+     "mp",
+     "dim."
+    ],
+    "answer": 0,
+    "explanation": "The letter f stands for forte (loud), p for piano (soft), and mp for mezzo piano (moderately soft).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does tempo describe?",
+    "options": [
+     "How loud the music is",
+     "How high the notes are",
+     "The number of instruments",
+     "The speed of the beat"
+    ],
+    "answer": 3,
+    "explanation": "Tempo is the speed of the pulse and is often measured in beats per minute (BPM).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'crescendo' mean?",
+    "options": [
+     "Gradually getting slower",
+     "Suddenly stopping",
+     "Gradually getting louder",
+     "Gradually getting softer"
+    ],
+    "answer": 2,
+    "explanation": "A crescendo (cresc.) is a gradual increase in volume. A diminuendo is the opposite.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Music with one melody line and no accompaniment has which texture?",
+    "options": [
+     "Homophonic",
+     "Monophonic",
+     "Polyphonic",
+     "Heterophonic"
+    ],
+    "answer": 1,
+    "explanation": "Monophonic means a single melodic line, for example one person singing alone.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A piece is marked 'andante' and then 'ritardando' at the end. What should the performer do at the end?",
+    "options": [
+     "Gradually slow down from a walking pace",
+     "Speed up from a walking pace",
+     "Stop completely",
+     "Get louder at a walking pace"
+    ],
+    "answer": 0,
+    "explanation": "Andante is a moderate walking tempo. Ritardando (rit.) means gradually slowing down.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a song, a singer is accompanied by chords on a guitar. The melody stands out clearly and the guitar supports it. Which texture is this?",
+    "options": [
+     "Monophonic",
+     "Polyphonic",
+     "Unison",
+     "Homophonic"
+    ],
+    "answer": 3,
+    "explanation": "Homophonic texture has a main melody with chordal accompaniment. Polyphonic has two or more equally important melodies.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Two voices sing the same melody, but the second begins two bars after the first. What is this technique called?",
+    "options": [
+     "Drone",
+     "Call and response",
+     "Canon (round)",
+     "Unison"
+    ],
+    "answer": 2,
+    "explanation": "In a canon each voice imitates the same melody, entering one after another. A round such as 'Frère Jacques' is a simple example.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which list puts these dynamics in order from softest to loudest?",
+    "options": [
+     "p, pp, mf, ff",
+     "pp, p, mf, ff",
+     "ff, mf, p, pp",
+     "mf, pp, p, ff"
+    ],
+    "answer": 1,
+    "explanation": "pp (very soft) < p (soft) < mf (moderately loud) < ff (very loud).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the difference between 'staccato' and 'legato'?",
+    "options": [
+     "Staccato is short and detached, legato is smooth and connected",
+     "Staccato is smooth, legato is short",
+     "Staccato is loud, legato is soft",
+     "Staccato is fast, legato is slow"
+    ],
+    "answer": 0,
+    "explanation": "These are articulation terms. They affect how notes are joined, not their volume or tempo.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A tempo marking says ♩ = 120. How many crotchet beats occur in 30 seconds?",
+    "options": [
+     "30",
+     "120",
+     "240",
+     "60"
+    ],
+    "answer": 3,
+    "explanation": "120 beats per minute is 2 beats each second, so 30 seconds contains 60 beats.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A film composer wants the music to build tension. Which combination would work best?",
+    "options": [
+     "Diminuendo with thin texture and falling tempo",
+     "Constant piano with single line",
+     "Crescendo with thickening texture and rising tempo",
+     "Steady forte with a monophonic line"
+    ],
+    "answer": 2,
+    "explanation": "Getting louder, adding layers and speeding up all increase intensity. The other options reduce energy or stay static.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which term describes music where several independent melodies are heard at the same time?",
+    "options": [
+     "Monophonic",
+     "Polyphonic",
+     "Homophonic",
+     "Unison"
+    ],
+    "answer": 1,
+    "explanation": "Polyphonic (contrapuntal) texture layers separate melodic lines of equal importance, as in a fugue.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A piece lasts 48 bars in 4/4 at 96 crotchet beats per minute. How long does it last in seconds?",
+    "options": [
+     "120 seconds",
+     "96 seconds",
+     "48 seconds",
+     "192 seconds"
+    ],
+    "answer": 0,
+    "explanation": "Total beats = 48 × 4 = 192. At 96 beats per minute, 192 ÷ 96 = 2 minutes = 120 seconds.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student writes: 'The texture changes from monophonic to homophonic at bar 9.' What evidence would best support this?",
+    "options": [
+     "The melody gets louder",
+     "The key changes",
+     "The tempo doubles",
+     "A solo melody becomes a melody with chords underneath"
+    ],
+    "answer": 3,
+    "explanation": "Texture is about the number of lines and how they relate. A solo line gaining chordal support is the move from monophonic to homophonic.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A conductor writes 'rubato' over a phrase in a romantic piano piece. What is the best interpretation?",
+    "options": [
+     "Play at a strictly steady tempo",
+     "Play as quietly as possible",
+     "Flexibly speed up and slow down for expression",
+     "Play each note short"
+    ],
+    "answer": 2,
+    "explanation": "Rubato means 'robbed time': the performer bends the tempo slightly, taking time and giving it back for expressive effect.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A score shows a sudden 'sfz' on a chord in a quiet passage. Which effect does the composer want?",
+    "options": [
+     "A gradual crescendo over the whole bar",
+     "A sudden strong accent that surprises the listener",
+     "A silent pause",
+     "A change to a slower tempo"
+    ],
+    "answer": 1,
+    "explanation": "Sforzando (sfz) means a sudden strong accent. It is used for shock and contrast, not for gradual change.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which of these changes is a change of tempo, not of dynamics?",
+    "options": [
+     "From adagio to presto",
+     "From p to f",
+     "From legato to staccato",
+     "From unison to chords"
+    ],
+    "answer": 0,
+    "explanation": "Adagio (slow) to presto (very fast) alters the speed. p to f is dynamics, and legato to staccato is articulation.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Tempo: how fast?\nTempo is the speed of the beat. It can be described with Italian words or with a metronome marking in **beats per minute (BPM)**. A marking such as ♩ = 120 means 120 crotchet beats every minute. Common tempo words, from slow to fast, are:\n- **Largo** and **adagio**: very slow, broad\n- **Andante**: walking pace\n- **Moderato**: moderate speed\n- **Allegro**: fast and lively\n- **Vivace** and **presto**: very fast\n\nChanges of speed are also marked. **Accelerando** (accel.) means gradually getting faster, **ritardando** (rit.) or **rallentando** means gradually slowing, and **a tempo** means return to the original speed. **Rubato** allows the performer to stretch and squeeze the tempo for expression. A **pause** (fermata) holds a note longer than written.\n\nYou can use BPM to work out how long a piece lasts. Multiply the number of bars by the beats in each bar, then divide by the BPM to get minutes. For example, 32 bars of 4/4 is 128 beats, and at 64 BPM that is two minutes.\n\n## Dynamics: how loud?\nDynamics are the volume levels in music. From softest to loudest: **pp** (pianissimo), **p** (piano), **mp** (mezzo piano), **mf** (mezzo forte), **f** (forte), **ff** (fortissimo). **Crescendo** (getting louder) and **diminuendo** or decrescendo (getting softer) are gradual changes, shown with hairpin signs. **Sforzando** (sfz) is a sudden strong accent. Dynamics help to shape phrases and create emotion, drama and contrast.\n\n**Articulation** is how notes are attacked and joined: **legato** (smooth), **staccato** (short and detached), **accent** (stressed) and **tenuto** (held for full value). Do not confuse articulation with dynamics.\n\n## Texture: how many layers?\nTexture describes how many layers of sound there are and how they relate:\n- **Monophonic**: a single melodic line, with or without doubling at the octave.\n- **Homophonic**: a main melody with chordal accompaniment, the most common texture in songs.\n- **Polyphonic**: two or more independent melodies at once, for example a canon, round or fugue.\n- **Unison**: everyone plays or sings the same notes together.\n- **Heterophonic**: slightly different versions of one melody played at the same time, often in folk traditions.\n\nWe also use the words **thin** (few layers) and **thick** (many layers). A **drone** is a long held or repeated note beneath a melody. **Call and response** is a question-and-answer pattern between a leader and a group.\n\n## Common mistakes\n- Saying a loud piece is fast. Dynamics and tempo are separate.\n- Calling every accompanied song polyphonic; if one melody dominates it is homophonic.\n- Using 'legato' as a dynamic.\n\n## How this is examined\nQuestions usually give a short description of an extract or a score marking and ask you to identify the tempo, dynamic or texture, explain its effect, or suggest what a composer could change to create a mood. Use precise terms and link them to an effect, such as 'the thin texture makes the opening feel lonely'.\n\nExam tip: Name the element, give the term, then explain the effect on the listener in the same sentence.",
+  "flashcards": [
+   {
+    "front": "Allegro / Andante / Adagio",
+    "back": "Allegro = fast and lively. Andante = walking pace. Adagio = slow."
+   },
+   {
+    "front": "BPM",
+    "back": "Beats per minute: the number of beats in 60 seconds. ♩ = 120 means 120 crotchets a minute."
+   },
+   {
+    "front": "Dynamics from soft to loud",
+    "back": "pp, p, mp, mf, f, ff."
+   },
+   {
+    "front": "Crescendo vs diminuendo",
+    "back": "Crescendo = gradually louder. Diminuendo (decrescendo) = gradually softer."
+   },
+   {
+    "front": "Accelerando / ritardando",
+    "back": "Accelerando = gradually faster. Ritardando (rit.) = gradually slower."
+   },
+   {
+    "front": "Monophonic texture",
+    "back": "A single melodic line with no accompaniment."
+   },
+   {
+    "front": "Homophonic texture",
+    "back": "A main melody supported by chords or accompaniment."
+   },
+   {
+    "front": "Polyphonic texture",
+    "back": "Two or more independent melodies at the same time, such as a canon or fugue."
+   },
+   {
+    "front": "Legato vs staccato",
+    "back": "Legato = smooth and connected. Staccato = short and detached. These are articulation, not dynamics."
+   }
+  ]
+ },
+ {
+  "subject": "music",
+  "grade": 5,
+  "topic": "Elements of Music",
+  "subTopic": "Scales, Keys and Harmony",
+  "questions": [
+   {
+    "content": "How many notes does a major scale contain before the octave repeats?",
+    "options": [
+     "Five different notes",
+     "Seven different notes",
+     "Six different notes",
+     "Eight different notes"
+    ],
+    "answer": 1,
+    "explanation": "A major scale has seven different notes, and the eighth note is the octave of the first.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a chord?",
+    "options": [
+     "Three or more notes sounded together",
+     "A single long note",
+     "A fast run of notes",
+     "A repeated rhythm"
+    ],
+    "answer": 0,
+    "explanation": "A chord combines several pitches at the same time. A triad has three notes.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which pattern of tones (T) and semitones (S) makes a major scale?",
+    "options": [
+     "T S T T S T T",
+     "S T T S T T T",
+     "T T T S T T S",
+     "T T S T T T S"
+    ],
+    "answer": 3,
+    "explanation": "A major scale is T T S T T T S. The second pattern is the natural minor scale.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the tonic of the key of G major?",
+    "options": [
+     "D",
+     "B",
+     "G",
+     "C"
+    ],
+    "answer": 2,
+    "explanation": "The tonic is the first note (degree 1) of the scale and gives the key its name.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does a key signature show?",
+    "options": [
+     "The speed of the piece",
+     "Which notes are sharp or flat throughout the piece",
+     "The loudness of the piece",
+     "The number of bars"
+    ],
+    "answer": 1,
+    "explanation": "The sharps or flats at the start of each stave tell you which notes are altered, and so the key.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "How many sharps does the key of G major have?",
+    "options": [
+     "One (F♯)",
+     "Two (F♯ and C♯)",
+     "One (B♭)",
+     "None"
+    ],
+    "answer": 0,
+    "explanation": "G major has one sharp, F♯. D major has two (F♯, C♯). F major has one flat, B♭.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which three notes make the C major triad?",
+    "options": [
+     "C, D, E",
+     "C, F, A",
+     "C, E, A",
+     "C, E, G"
+    ],
+    "answer": 3,
+    "explanation": "A triad is built from the root, third and fifth of the scale: C, E, G.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A piece in A minor has a sad, serious character. Which feature most often causes this?",
+    "options": [
+     "A major third above the tonic",
+     "A faster tempo",
+     "A minor third above the tonic",
+     "A louder dynamic"
+    ],
+    "answer": 2,
+    "explanation": "The minor third (A to C) gives minor keys their darker character, compared with the major third in major keys.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The notes of a chord are played one after another instead of together. What is this called?",
+    "options": [
+     "Cluster",
+     "Arpeggio (broken chord)",
+     "Drone",
+     "Glissando"
+    ],
+    "answer": 1,
+    "explanation": "An arpeggio plays chord notes in sequence, rising or falling. A glissando slides across pitches.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In the key of C major, which chords are chord I, IV and V?",
+    "options": [
+     "C, F and G",
+     "C, D and E",
+     "C, E and G",
+     "D, F and A"
+    ],
+    "answer": 0,
+    "explanation": "The primary chords are built on degrees 1, 4 and 5 of the scale: C (I), F (IV) and G (V).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A melody ends on a chord V and then chord I, making a feeling of finishing. What is this cadence called?",
+    "options": [
+     "Imperfect cadence",
+     "Plagal cadence",
+     "Interrupted cadence",
+     "Perfect cadence"
+    ],
+    "answer": 3,
+    "explanation": "V to I is a perfect cadence and sounds like a full stop. Ending on V sounds unfinished (imperfect).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A song changes from C major to E♭ major in the middle. What is this called?",
+    "options": [
+     "Transposition",
+     "Syncopation",
+     "Modulation",
+     "Inversion"
+    ],
+    "answer": 2,
+    "explanation": "Modulation is a change of key within a piece. Transposition is moving a whole piece to a new key.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A composer wants a song to move from the tonic key of C major to its relative minor for the sad verse. To which key should the music move?",
+    "options": [
+     "D minor",
+     "A minor",
+     "G minor",
+     "E♭ major"
+    ],
+    "answer": 1,
+    "explanation": "The relative minor of C major is A minor because they share a key signature. D minor and G minor are neighbouring keys but not relative.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A harmony is described as 'dissonant, tense and needs to resolve'. What should happen next to satisfy the ear?",
+    "options": [
+     "Move to a consonant chord, such as the tonic",
+     "Add more dissonant notes",
+     "Stop abruptly",
+     "Repeat the same chord louder"
+    ],
+    "answer": 0,
+    "explanation": "Dissonance creates tension, and resolution to a consonant chord, often the tonic, releases it.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student states a piece is in D major because there are two sharps. Which extra check shows she is right?",
+    "options": [
+     "The sharps are B♭ and E♭",
+     "The tempo is allegro",
+     "The time signature is 3/4",
+     "The sharps are F♯ and C♯ and the music ends on D"
+    ],
+    "answer": 3,
+    "explanation": "D major has F♯ and C♯. Checking the final chord and melody centre on D confirms it, because B minor shares the same signature.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The melody uses C major notes but keeps returning to A and ends on A. Which is the most likely key?",
+    "options": [
+     "C major",
+     "F major",
+     "A minor",
+     "E minor"
+    ],
+    "answer": 2,
+    "explanation": "Sharing the C major signature, a tune that centres and ends on A is in A minor, its relative minor.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "What does transposing a tune from C major to D major do to every note?",
+    "options": [
+     "Changes the rhythms",
+     "Raises each note by a tone, keeping the same intervals",
+     "Makes the tune twice as fast",
+     "Reverses the order of notes"
+    ],
+    "answer": 1,
+    "explanation": "Transposition shifts all notes by the same interval: C to D is a tone. The shape and rhythm stay the same.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which statement best explains why major keys sound happy and minor keys sad?",
+    "options": [
+     "Their third and sixth degrees differ in size",
+     "They always use different time signatures",
+     "Minor keys are always slower",
+     "Major keys are always louder"
+    ],
+    "answer": 0,
+    "explanation": "Differences in the third (and usually sixth and seventh) steps alter the mood. Tempo and volume are separate choices.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Scales\nA **scale** is a set of notes arranged in order of pitch. The **major scale** has seven different notes and follows the pattern tone, tone, semitone, tone, tone, tone, semitone (T T S T T T S). C major uses only the white notes of a piano: C D E F G A B C. A **minor scale** has a different pattern; the natural minor is T S T T S T T, giving a darker, sadder character. The first note of the scale is the **tonic** and gives the key its name. Notes in a scale are numbered as **degrees**, with the tonic as degree 1.\n\nA **chromatic scale** uses all twelve semitones. A **pentatonic scale** has five notes and is found in folk and pop music around the world.\n\n## Keys and key signatures\nThe **key** tells you which scale a piece is based on and which note feels like home. A **key signature** is the group of sharps or flats written at the start of each stave. For example:\n- C major: no sharps or flats\n- G major: one sharp (F♯)\n- D major: two sharps (F♯, C♯)\n- F major: one flat (B♭)\n- B♭ major: two flats (B♭, E♭)\n\nEvery major key has a **relative minor** that shares its key signature. It starts three semitones lower: A minor is relative to C major, and E minor is relative to G major. **Modulation** is a change of key within a piece. **Transposition** means moving the whole piece to a different key, keeping the same pattern of intervals.\n\n## Chords and harmony\n**Harmony** is what happens when notes sound together. A **chord** has three or more notes. The basic chord is a **triad**: the root, third and fifth of a scale. In C major the triad is C, E, G. Chords are numbered with Roman numerals from the scale degree they are built on. The main ones are **I** (tonic), **IV** (subdominant) and **V** (dominant). In C major these are C, F and G. When chord notes are played one after another, it is an **arpeggio** (or broken chord).\n\n**Cadences** are chord endings to phrases. A **perfect cadence** is V then I and sounds finished. An **imperfect cadence** ends on V and sounds unfinished. A **plagal cadence** is IV then I, sometimes called the 'Amen' cadence. An **interrupted cadence** is V then vi and sounds surprising.\n\nHarmony may be **consonant** (stable, pleasant) or **dissonant** (tense, wanting to resolve). Composers use dissonance to create tension and then release it with a consonant chord.\n\n## Common mistakes\n- Confusing relative minor (shares signature) with the tonic minor (shares the same starting note).\n- Saying a piece is in a key just from the key signature without checking the ending.\n- Mixing up transposition and modulation.\n\n## How this is examined\nTypical items present a short description of notes, a key signature or a chord pattern and ask you to name the key, identify a chord or cadence, or explain the effect of a change from major to minor. You may also justify a harmonic choice for a given mood in a composition task.\n\nExam tip: To decide between a major key and its relative minor, check where the melody starts and finishes and which chord ends the piece.",
+  "flashcards": [
+   {
+    "front": "Major scale pattern",
+    "back": "T T S T T T S (tone = 2 semitones, S = semitone)."
+   },
+   {
+    "front": "Tonic",
+    "back": "The first note of a scale (degree 1). It gives the key its name and feels like 'home'."
+   },
+   {
+    "front": "Triad",
+    "back": "A three-note chord made from the root, third and fifth of a scale. C major triad = C E G."
+   },
+   {
+    "front": "Primary chords",
+    "back": "I, IV and V. In C major: C, F and G."
+   },
+   {
+    "front": "Relative minor",
+    "back": "The minor key sharing a major key's signature, starting 3 semitones lower. A minor is relative to C major."
+   },
+   {
+    "front": "Perfect cadence",
+    "back": "Chord V then chord I. Sounds finished, like a full stop."
+   },
+   {
+    "front": "Modulation vs transposition",
+    "back": "Modulation = changing key within a piece. Transposition = moving a whole piece to another key."
+   },
+   {
+    "front": "Arpeggio",
+    "back": "A chord played one note at a time, rising or falling (a broken chord)."
+   },
+   {
+    "front": "Consonance vs dissonance",
+    "back": "Consonant = stable and pleasing. Dissonant = tense, wants to resolve to consonance."
+   }
+  ]
+ }
+]

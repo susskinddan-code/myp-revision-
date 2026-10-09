@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "visual-arts",
+  "grade": 5,
+  "topic": "Visual Analysis",
+  "subTopic": "Elements of Art",
+  "questions": [
+   {
+    "content": "Which element of art describes the lightness or darkness of a colour or surface?",
+    "options": [
+     "Texture",
+     "Value",
+     "Space",
+     "Line"
+    ],
+    "answer": 1,
+    "explanation": "Value is the range from light to dark. Texture is surface quality, space is the area around and within objects, and line is a mark joining points.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A student draws with a thick, curved, flowing mark. Which element of art are they mainly using?",
+    "options": [
+     "Form",
+     "Shape",
+     "Line",
+     "Hue"
+    ],
+    "answer": 2,
+    "explanation": "Line is a mark made by a moving point, and it can be thick, thin, curved or straight.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which colours are the primary colours in the traditional pigment (painting) colour wheel?",
+    "options": [
+     "Red, yellow and blue",
+     "Red, green and blue",
+     "Orange, green and purple",
+     "Cyan, magenta and black"
+    ],
+    "answer": 0,
+    "explanation": "The traditional painter's wheel uses red, yellow and blue as primaries. Red, green and blue are the primaries of light (screens).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the difference between shape and form?",
+    "options": [
+     "Shape is two-dimensional; form is three-dimensional",
+     "Shape is coloured; form is black and white",
+     "Shape is natural; form is man-made",
+     "Shape is always geometric; form is always organic"
+    ],
+    "answer": 0,
+    "explanation": "Shape has height and width only, while form also has depth, such as a sphere compared with a circle.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A rough, bumpy surface on a clay pot is an example of which element?",
+    "options": [
+     "Value",
+     "Texture",
+     "Hue",
+     "Line"
+    ],
+    "answer": 1,
+    "explanation": "Texture is how a surface feels or looks like it would feel, such as rough, smooth, bumpy or silky.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Two colours sit directly opposite each other on the colour wheel. What are they called?",
+    "options": [
+     "Analogous colours",
+     "Monochromatic colours",
+     "Tertiary colours",
+     "Complementary colours"
+    ],
+    "answer": 3,
+    "explanation": "Complementary colours (for example blue and orange) are opposite each other and create strong contrast. Analogous colours sit side by side.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A painting uses only blues, blue-greens and greens. Which colour scheme is this?",
+    "options": [
+     "Analogous",
+     "Complementary",
+     "Triadic",
+     "Monochromatic"
+    ],
+    "answer": 0,
+    "explanation": "Analogous schemes use neighbouring colours on the wheel. A monochromatic scheme uses one hue only, in different tints and shades.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An artist adds white to red to make pink. What has been created?",
+    "options": [
+     "A shade",
+     "A tint",
+     "A tone of grey",
+     "A complementary"
+    ],
+    "answer": 1,
+    "explanation": "Adding white to a hue makes a tint; adding black makes a shade; adding grey makes a tone.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A drawing shows a sphere with a bright patch on one side, a mid-tone, and a dark side with a cast shadow. What is the artist using to suggest form?",
+    "options": [
+     "Only line",
+     "A range of values",
+     "Flat shapes of colour",
+     "Pattern"
+    ],
+    "answer": 1,
+    "explanation": "Gradations of value (light, mid-tone, shadow) make a flat shape look three-dimensional.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a landscape, distant hills are painted paler and bluer than the trees close to the viewer. Which idea is shown?",
+    "options": [
+     "Implied texture",
+     "Complementary contrast",
+     "Atmospheric perspective creating the illusion of space",
+     "Positive shape"
+    ],
+    "answer": 2,
+    "explanation": "Distant objects look lighter, cooler and less detailed, which creates depth. This is the element of space at work.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is negative space in an artwork?",
+    "options": [
+     "The area around and between the main subjects",
+     "The darkest part of the picture",
+     "A space left unfinished by mistake",
+     "The area painted with cool colours"
+    ],
+    "answer": 0,
+    "explanation": "Negative space surrounds the positive shapes. Artists use it deliberately to shape the composition.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which pair describes warm and cool colours?",
+    "options": [
+     "Red/orange are warm; blue/green are cool",
+     "Blue/purple are warm; yellow/orange are cool",
+     "Black is warm; white is cool",
+     "Green/red are both cool"
+    ],
+    "answer": 0,
+    "explanation": "Warm colours seem to advance and feel energetic; cool colours often seem to recede and feel calm.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student makes a print with a repeated line pattern over a dark background. Which statement describes a high-contrast result?",
+    "options": [
+     "Dark lines on a dark ground make strong contrast",
+     "Pale lines on a dark ground make a strong value contrast",
+     "Similar mid-greys make strong contrast",
+     "Using one hue only guarantees contrast"
+    ],
+    "answer": 1,
+    "explanation": "Contrast is the difference between values. Light on dark, or dark on light, makes the strongest contrast.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A portrait uses a limited palette of browns, with one small patch of bright blue near the eyes. Which effect is most likely intended?",
+    "options": [
+     "The painting becomes monochromatic",
+     "The blue recedes into the background",
+     "The painting loses all emphasis",
+     "The blue becomes a focal point through colour contrast"
+    ],
+    "answer": 3,
+    "explanation": "A small area of contrasting hue against a muted palette attracts the eye. A monochromatic work could not include the blue.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An artist wants a calm, restful atmosphere. Which choice of elements best suits this aim?",
+    "options": [
+     "Soft, cool analogous colours, gentle curves and low contrast",
+     "Sharp zigzag lines, clashing complementaries and high contrast",
+     "Heavy black outlines and jagged shapes",
+     "Random bright colours of equal intensity"
+    ],
+    "answer": 0,
+    "explanation": "Cool analogous colours, curves and low contrast produce a calm mood; sharp lines and clashing colours feel tense.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student mixes orange and its complement, blue, in equal amounts and gets a muddy brown-grey. What does this show?",
+    "options": [
+     "The paint was low quality only",
+     "Mixing complementary colours neutralises them",
+     "Blue and orange are analogous",
+     "The mix has become a tint"
+    ],
+    "answer": 1,
+    "explanation": "Complementaries cancel each other's intensity when mixed. This is useful for making natural neutrals, but too much mixing leads to mud.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two drawings of the same cube are compared. Drawing A has outline only. Drawing B uses tonal shading and a cast shadow. Which element makes B look more convincing in space?",
+    "options": [
+     "Line weight alone",
+     "Value used to show form and shadow",
+     "Increased saturation",
+     "Repetition of shape"
+    ],
+    "answer": 1,
+    "explanation": "Tonal shading shows how light falls on a form and where it sits relative to a surface, creating volume and space.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which analysis of the following extract is strongest? 'The artist uses short, broken lines in the sky and long, smooth lines in the water.'",
+    "options": [
+     "Lines are used, which is an element of art",
+     "The artist drew lines because lines are necessary",
+     "The contrast between line types creates movement in the sky and calm in the water",
+     "The sky and water are both done with the same line quality"
+    ],
+    "answer": 2,
+    "explanation": "A strong analysis names the element, describes its quality, and explains the effect. The other statements only name or contradict.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "The elements of art are the basic building blocks that artists use to make any artwork. Think of them as the vocabulary of visual language: you can combine them in endless ways, but you first need to recognise each one and describe it accurately. The seven elements most often used in MYP Arts are line, shape, form, colour (hue, value, saturation), value, texture and space.\n\n## The seven elements\n- **Line**: a mark made by a moving point. Lines can be thick or thin, straight or curved, continuous or broken. Line can show direction, edge, movement and mood.\n- **Shape**: a flat, two-dimensional area with height and width, enclosed by line or by a change of colour or value. Shapes can be geometric (circle, square) or organic (irregular, natural).\n- **Form**: a three-dimensional object with height, width and depth, either real (a sculpture) or suggested (a shaded drawing of a sphere).\n- **Colour**: described by hue (the name of the colour), value (lightness or darkness) and saturation, also called intensity (how vivid or dull it is).\n- **Value**: the lightness or darkness of any colour or surface. Value creates contrast and the illusion of form.\n- **Texture**: how a surface feels or appears to feel. Actual texture can be touched; visual or implied texture is created by marks.\n- **Space**: the area around, between and within objects. Positive space holds the main subjects; negative space surrounds them. Artists create depth with overlapping, size change, placement and atmospheric perspective.\n\n## Colour in more detail\nIn the traditional painting colour wheel the primary colours are red, yellow and blue. Mixing two primaries gives a secondary (orange, green, purple), and mixing a primary with a neighbouring secondary gives a tertiary colour. Learn these useful terms:\n- **Complementary colours** sit opposite each other (such as blue and orange) and create strong contrast.\n- **Analogous colours** sit side by side (such as yellow, yellow-green and green) and feel harmonious.\n- **Monochromatic** means one hue used in many tints and shades.\n- A **tint** is a hue plus white, a **shade** is a hue plus black, and a **tone** is a hue plus grey.\n- **Warm** colours (reds, oranges, yellows) often feel energetic and seem to advance; **cool** colours (blues, greens, purples) often feel calm and seem to recede.\n\n## Using elements to create effects\nElements are never random. A jagged, thick line suggests anger or tension, while a flowing thin line feels gentle. A small patch of bright colour in a muted painting becomes a focal point. A dark shape against a pale ground gives strong contrast, while neighbouring mid-tones give a quiet, low-contrast feel. When you describe an artwork, always link the element to its effect: name it, describe it, then explain what it does.\n\n## Common mistakes\n- Mixing up shape and form. Shape is flat; form has volume.\n- Confusing value with saturation. Value is light to dark; saturation is dull to vivid.\n- Saying the primary colours are red, green and blue for paint. That is the set for light on screens.\n- Writing 'the artist uses colour' with no detail. Say which colours, how they are arranged and what effect they have.\n\n## How this is examined\nQuestions usually show a short description of an artwork or a student's studio problem, then ask you to identify the element, explain an effect, or choose the best way to achieve a mood. Stronger answers use accurate vocabulary and connect each choice to the meaning or impact on the viewer.\n\nExam tip: use the pattern element, evidence, effect. For example: 'The high-contrast value (element) between the pale figure and dark ground (evidence) draws the eye to the figure (effect).'",
+  "flashcards": [
+   {
+    "front": "List the main elements of art",
+    "back": "Line, shape, form, colour, value, texture and space."
+   },
+   {
+    "front": "Shape vs form",
+    "back": "Shape is two-dimensional (height and width). Form is three-dimensional (it also has depth), real or suggested."
+   },
+   {
+    "front": "Hue, value, saturation",
+    "back": "Hue is the colour name; value is how light or dark it is; saturation (intensity) is how vivid or dull it is."
+   },
+   {
+    "front": "Primary colours (pigment)",
+    "back": "Red, yellow and blue. Secondaries are orange, green and purple."
+   },
+   {
+    "front": "Complementary colours",
+    "back": "Opposite each other on the colour wheel (e.g. blue and orange). They give strong contrast and neutralise each other when mixed."
+   },
+   {
+    "front": "Analogous colours",
+    "back": "Neighbours on the colour wheel (e.g. yellow, yellow-green, green). They give a harmonious effect."
+   },
+   {
+    "front": "Tint, shade, tone",
+    "back": "Tint = hue + white. Shade = hue + black. Tone = hue + grey."
+   },
+   {
+    "front": "Positive and negative space",
+    "back": "Positive space holds the main subjects; negative space is the area around and between them."
+   },
+   {
+    "front": "Actual vs implied texture",
+    "back": "Actual texture can be felt (thick paint, collage). Implied texture is created by marks that look like a texture."
+   }
+  ]
+ },
+ {
+  "subject": "visual-arts",
+  "grade": 5,
+  "topic": "Visual Analysis",
+  "subTopic": "Principles of Design",
+  "questions": [
+   {
+    "content": "Which principle of design describes the way the eye is led to the most important part of an artwork?",
+    "options": [
+     "Rhythm",
+     "Emphasis",
+     "Balance",
+     "Proportion"
+    ],
+    "answer": 1,
+    "explanation": "Emphasis (focal point) is created by contrast, size, colour or placement so the viewer looks there first.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A design is mirrored exactly on either side of a central line. What type of balance is this?",
+    "options": [
+     "Asymmetrical",
+     "Radial",
+     "Symmetrical",
+     "Random"
+    ],
+    "answer": 2,
+    "explanation": "Symmetrical balance has matching halves. Asymmetrical balance uses different elements that still feel equal in visual weight.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does repetition of a shape across a poster create?",
+    "options": [
+     "Pattern and rhythm",
+     "Emphasis on one shape only",
+     "Perfect asymmetry",
+     "Negative space"
+    ],
+    "answer": 0,
+    "explanation": "Repeating elements creates pattern, and regular repetition creates a visual beat called rhythm.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which principle refers to the relationship between the sizes of parts within a whole, such as head to body in a figure?",
+    "options": [
+     "Proportion",
+     "Contrast",
+     "Unity",
+     "Movement"
+    ],
+    "answer": 0,
+    "explanation": "Proportion compares sizes of parts. Scale compares size to something external.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is unity in an artwork?",
+    "options": [
+     "Using only one colour",
+     "The feeling that all parts belong together",
+     "Having an exactly symmetrical layout",
+     "Making every part equally prominent"
+    ],
+    "answer": 1,
+    "explanation": "Unity (harmony) comes from linking elements such as colour, shape or style so the work feels complete.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A poster uses a huge red circle among many small grey squares. Which principle is most obvious?",
+    "options": [
+     "Symmetry",
+     "Repetition only",
+     "Radial balance",
+     "Contrast leading to emphasis"
+    ],
+    "answer": 3,
+    "explanation": "The big red circle differs strongly in size, colour and shape, so it stands out as the focal point.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An artwork has a large dark shape on the left and several small bright shapes on the right, and still feels stable. Which balance is it?",
+    "options": [
+     "Asymmetrical balance",
+     "Symmetrical balance",
+     "Radial balance",
+     "No balance"
+    ],
+    "answer": 0,
+    "explanation": "Different elements can balance in visual weight without being identical, which is asymmetrical balance.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A painter places a winding river that leads the eye from the bottom corner up to a distant castle. Which principle is used?",
+    "options": [
+     "Proportion",
+     "Movement",
+     "Symmetry",
+     "Pattern only"
+    ],
+    "answer": 1,
+    "explanation": "Movement directs the viewer's eye through a work using lines, edges and repeated shapes.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the difference between pattern and rhythm?",
+    "options": [
+     "Pattern is only in sculpture; rhythm is only in painting",
+     "Pattern is a repeated design; rhythm is the visual beat created by repetition and variation",
+     "Pattern uses colour; rhythm uses line",
+     "They are exactly the same thing"
+    ],
+    "answer": 1,
+    "explanation": "Pattern repeats elements in a set way. Rhythm is the flow or beat made by repeated elements, which can include variation.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A designer repeats the same shape, but changes its size gradually from large to small. Which effect is produced?",
+    "options": [
+     "Strict symmetry",
+     "Loss of unity",
+     "Rhythm with a sense of progression or depth",
+     "Flat colour"
+    ],
+    "answer": 2,
+    "explanation": "Gradual change gives progressive rhythm and can suggest space or movement.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why might an artist deliberately distort proportion in a figure with a huge head and tiny body?",
+    "options": [
+     "To express an idea or exaggerate a feature",
+     "Because proportions cannot be changed",
+     "To make the work symmetrical",
+     "To remove emphasis"
+    ],
+    "answer": 0,
+    "explanation": "Distorted proportion is a common expressive choice, as in caricature or surreal work.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A circular mandala has elements arranged outward from a centre. Which kind of balance is this?",
+    "options": [
+     "Radial balance",
+     "Asymmetrical balance",
+     "Diagonal balance",
+     "Proportional balance"
+    ],
+    "answer": 0,
+    "explanation": "Radial balance spreads elements around a central point, like the spokes of a wheel.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which change would reduce unity in a collage?",
+    "options": [
+     "Repeating a colour across the work",
+     "Adding unrelated styles, colours and shapes with no link",
+     "Using a shared border",
+     "Keeping a consistent theme"
+    ],
+    "answer": 1,
+    "explanation": "Unity needs links such as colour, theme or style. Random, unrelated parts weaken it.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A poster has text and image perfectly mirrored, with everything evenly spaced and the same size. Which weakness might a critic mention?",
+    "options": [
+     "The poster has too much contrast",
+     "It lacks balance",
+     "The proportions are impossible",
+     "There may be no clear emphasis, so the eye has nowhere to start"
+    ],
+    "answer": 3,
+    "explanation": "Perfect symmetry with equal emphasis can feel static. A focal point gives the viewer a place to begin.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student writes: 'The artist uses rhythm because there are stripes.' Which improvement gives the strongest analysis?",
+    "options": [
+     "State how the stripes repeat and vary, and how this makes the eye move across the work",
+     "Add that stripes are a pattern",
+     "Remove the word rhythm",
+     "Say that rhythm is always good"
+    ],
+    "answer": 0,
+    "explanation": "Good analysis names the principle, uses evidence and explains its effect on the viewer.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "In a composition the focal point is placed exactly in the centre and surrounded by symmetrical elements. What effect is most likely?",
+    "options": [
+     "A sense of chaos and instability",
+     "A stable, formal, calm feeling",
+     "Random movement",
+     "Loss of emphasis"
+    ],
+    "answer": 1,
+    "explanation": "Central placement with symmetry creates stability and formality; instability needs off-centre or diagonal arrangements.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A designer wants a feeling of tension in a poster. Which combination best supports this?",
+    "options": [
+     "Gentle horizontal lines and symmetrical layout",
+     "Strong diagonals, unbalanced weight and high contrast",
+     "Equal sizes and soft colours",
+     "Evenly repeated shapes with low contrast"
+    ],
+    "answer": 1,
+    "explanation": "Diagonals and imbalance feel dynamic and unstable. Horizontals and symmetry feel at rest.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Compare two works. Work A repeats identical flowers in rows. Work B varies flower size, colour and direction but keeps a limited palette. Which statement is most accurate?",
+    "options": [
+     "A shows asymmetry; B shows no unity",
+     "Both show the same pattern",
+     "A shows regular pattern; B shows varied rhythm with unity from the palette",
+     "A has no repetition; B has strict repetition"
+    ],
+    "answer": 2,
+    "explanation": "Identical repetition makes pattern. Variation within a limited palette creates lively rhythm while the palette keeps unity.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "The principles of design describe how artists organise the elements of art to make a composition work. If the elements are the ingredients, the principles are the recipe. In MYP Arts you are expected to identify them, explain how they are used, and choose them deliberately in your own work.\n\n## The main principles\n- **Balance**: the distribution of visual weight. **Symmetrical** balance mirrors the two halves. **Asymmetrical** balance uses different elements that still feel equal, for example one large dark shape balanced by several small bright ones. **Radial** balance spreads elements around a central point, like a mandala.\n- **Emphasis (focal point)**: the part that grabs attention first. It is created through contrast of colour, value, size, shape or placement, or by isolating a subject.\n- **Contrast**: differences between elements, such as light and dark, large and small, rough and smooth. Contrast adds interest and can create emphasis.\n- **Movement**: how the eye travels through the work. Lines, edges, repeated shapes and diagonals guide the viewer.\n- **Pattern**: a repeated arrangement of elements in a set way.\n- **Rhythm**: the visual beat made by repetition, which can be regular, alternating or progressive (changing gradually).\n- **Proportion and scale**: proportion compares the sizes of parts within a work; scale compares the size of the work or object to something else, such as the human body.\n- **Unity (harmony)**: the sense that everything belongs together. It is built through a consistent palette, theme, style or repeated shapes.\n- **Variety**: the differences that keep a work interesting. Good compositions balance unity and variety.\n\n## Putting principles to work\nImagine a poster for a school science fair. To make the title the focal point, you might make it much larger than other text, in a colour that contrasts with the background. To lead the eye downward, you could arrange smaller images along a diagonal. To make the poster feel unified, you could repeat one colour in the title, the images and the border. Each decision is a principle used for a purpose.\n\nDifferent principles create different moods. Symmetry and horizontals feel stable and formal. Diagonals, imbalance and strong contrast feel dynamic and tense. Gradual repetition feels flowing. Distorted proportion can express humour, fear or fantasy.\n\n## Common mistakes\n- Treating symmetry as the only kind of balance. Asymmetrical balance is common and often more interesting.\n- Confusing pattern and rhythm. Pattern is the repeated design; rhythm is the beat or flow it creates.\n- Using many principles in a list without evidence. Pick two or three and explain them well.\n- Forgetting that perfect unity with no variety can feel dull, and lots of variety with no unity feels chaotic.\n\n## How this is examined\nQuestions describe a composition and ask which principle is being used, what effect it has, or how to change it to match an intention. You may be asked to evaluate a composition, so use words like 'effective because' and 'less successful because'.\n\nExam tip: always connect principle, evidence and effect. 'Asymmetrical balance (principle) between the large dark tree and the three small bright houses (evidence) keeps the picture stable but lively (effect).'",
+  "flashcards": [
+   {
+    "front": "Balance: three types",
+    "back": "Symmetrical (mirrored), asymmetrical (different but equal in weight) and radial (arranged around a centre)."
+   },
+   {
+    "front": "Emphasis",
+    "back": "The focal point that grabs attention first, made by contrast, size, colour or placement."
+   },
+   {
+    "front": "Contrast",
+    "back": "Differences between elements (light/dark, large/small, rough/smooth) that add interest and can create emphasis."
+   },
+   {
+    "front": "Movement",
+    "back": "How the viewer's eye is led through the work by lines, edges, diagonals and repeated shapes."
+   },
+   {
+    "front": "Pattern vs rhythm",
+    "back": "Pattern is a repeated design. Rhythm is the visual beat created by repetition, regular, alternating or progressive."
+   },
+   {
+    "front": "Proportion vs scale",
+    "back": "Proportion compares sizes of parts within a work. Scale compares the work or object to something else, such as the human body."
+   },
+   {
+    "front": "Unity",
+    "back": "The feeling that all parts belong together, built with a consistent palette, theme, style or repeated shapes."
+   },
+   {
+    "front": "Variety",
+    "back": "Differences that keep a work interesting. Compositions need a good balance of unity and variety."
+   },
+   {
+    "front": "Effect of diagonals",
+    "back": "Strong diagonals feel dynamic and tense; horizontals and symmetry feel stable and calm."
+   }
+  ]
+ },
+ {
+  "subject": "visual-arts",
+  "grade": 5,
+  "topic": "Visual Analysis",
+  "subTopic": "Analysing and Critiquing Artworks",
+  "questions": [
+   {
+    "content": "Which word best describes the first stage of analysis, where you say what you can see without giving opinions?",
+    "options": [
+     "Judgement",
+     "Description",
+     "Prediction",
+     "Interpretation"
+    ],
+    "answer": 1,
+    "explanation": "Describing records the visible facts (subject, colours, materials). Interpretation and judgement come later.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'formal analysis' focus on?",
+    "options": [
+     "The artist's family life",
+     "How much the work sold for",
+     "How elements and principles are used in the artwork",
+     "The gallery's opening hours"
+    ],
+    "answer": 2,
+    "explanation": "Formal analysis looks at line, colour, composition and so on, not external facts.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which sentence is a description rather than an opinion?",
+    "options": [
+     "The painting shows a woman in a blue coat standing by a window",
+     "The painting is beautiful",
+     "The painting is boring",
+     "The painting is the best in the room"
+    ],
+    "answer": 0,
+    "explanation": "A description states what is visible. Words like beautiful or boring are opinions.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does it mean to interpret an artwork?",
+    "options": [
+     "To suggest what it means or communicates, using evidence",
+     "To copy it exactly",
+     "To say if you like it",
+     "To list its materials only"
+    ],
+    "answer": 0,
+    "explanation": "Interpretation is a reasoned explanation of meaning, supported by visual evidence.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which term describes a judgement about how successful an artwork is?",
+    "options": [
+     "Description",
+     "Evaluation",
+     "Documentation",
+     "Imitation"
+    ],
+    "answer": 1,
+    "explanation": "Evaluation weighs strengths and weaknesses, giving reasons.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A critic writes: 'The cool blues and empty space make the figure look lonely.' Which parts of analysis does this sentence combine?",
+    "options": [
+     "Only a description of materials",
+     "Only the artist's biography",
+     "Only a technical judgement of skill",
+     "Evidence of elements and an interpretation of mood"
+    ],
+    "answer": 3,
+    "explanation": "It names elements (cool blues, empty space) and links them to mood (loneliness).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of the following is the strongest piece of visual evidence for the claim 'the artist wants us to feel the crowd's energy'?",
+    "options": [
+     "Short, broken brushstrokes in bright colours that cover the whole canvas",
+     "The frame is made of wood",
+     "The painting is large",
+     "The artist was born in a big city"
+    ],
+    "answer": 0,
+    "explanation": "Visual evidence must come from the artwork itself, such as brushwork and colour, to support meaning.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is it important to mention context when analysing an artwork?",
+    "options": [
+     "Context replaces looking at the work",
+     "Time, place and purpose can change how the work is understood",
+     "Context is always unimportant",
+     "Context only matters for sculpture"
+    ],
+    "answer": 1,
+    "explanation": "Knowing when, where and why a work was made helps explain choices and meanings.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence is the best evaluation?",
+    "options": [
+     "I think it is nice",
+     "The strong diagonal composition is effective because it leads the eye to the figure, though the busy background competes for attention",
+     "The artist did well",
+     "It has a diagonal"
+    ],
+    "answer": 1,
+    "explanation": "A good evaluation gives a judgement, reasons and a balanced view of strengths and weaknesses.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Two students analyse the same portrait. Student A: 'It has a face.' Student B: 'The soft side lighting gives the face gentle modelling, creating a thoughtful mood.' What makes B stronger?",
+    "options": [
+     "It is longer",
+     "It uses the word face",
+     "It uses specific vocabulary, evidence and an explained effect",
+     "It states an opinion without evidence"
+    ],
+    "answer": 2,
+    "explanation": "Specific evidence plus effect is what makes analysis strong. Length alone does not.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a critique, what is a good way to give constructive feedback to a classmate?",
+    "options": [
+     "Identify a strength and a specific suggestion, linked to their intention",
+     "Say only that you do not like it",
+     "Compare them with a famous artist",
+     "Avoid mentioning any problems"
+    ],
+    "answer": 0,
+    "explanation": "Constructive feedback is specific, respectful and connected to what the artist is trying to do.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student says that an abstract painting 'means nothing because there is nothing in it'. Which response is best?",
+    "options": [
+     "Abstract work can still communicate through colour, line and composition, so look for these choices",
+     "They are right because it has no objects",
+     "Abstract art cannot be analysed",
+     "Only titles can give meaning"
+    ],
+    "answer": 0,
+    "explanation": "Abstract art uses elements and principles to express mood and ideas, so it can be analysed formally.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is a limitation of judging an artwork only by how realistic it looks?",
+    "options": [
+     "Realism is never used",
+     "It ignores works whose purpose is expression or concept rather than realism",
+     "It always gives accurate results",
+     "It makes all art equal"
+    ],
+    "answer": 1,
+    "explanation": "Many artists distort or simplify on purpose, so realism is just one of many possible aims.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An image of a crowded market is painted in warm reds with thick, rapid strokes. What interpretation is best supported by this evidence?",
+    "options": [
+     "The mood is silent and still",
+     "The scene is a cold, empty field",
+     "The artist wanted precise photographic detail",
+     "The mood is lively and energetic"
+    ],
+    "answer": 3,
+    "explanation": "Warm colours and quick thick strokes suggest energy and activity, matching the crowded scene.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A critic says 'This work is successful because it is famous'. What is the problem with this reasoning?",
+    "options": [
+     "Fame does not explain how the artwork's visual choices work",
+     "It uses too much evidence",
+     "It is too formal",
+     "It refers to context"
+    ],
+    "answer": 0,
+    "explanation": "Fame is not visual evidence. Evaluation should refer to the artwork's elements, principles, ideas and effect.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student compares two landscapes. Which approach is the most effective comparison?",
+    "options": [
+     "Describing one work entirely and ignoring the other",
+     "Discussing the same aspects (colour, composition, mood) for both works and showing similarities and differences",
+     "Listing the artists' birthdays",
+     "Saying both are landscapes"
+    ],
+    "answer": 1,
+    "explanation": "Comparison works best when the same criteria are applied to both works and links are made between them.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The artist of a protest poster says her aim was to shock. A viewer finds the image shocking. Which statement best judges the work?",
+    "options": [
+     "The work is poor because shocking images are wrong",
+     "The work is effective in achieving its intention, supported by the harsh contrast and large scale that provoke the reaction",
+     "Intentions never matter in judging art",
+     "The work succeeds only if it is beautiful"
+    ],
+    "answer": 1,
+    "explanation": "Judging success against intention and evidence is a valid method. Beauty is not the only standard.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student's essay says: 'The painting uses red. Red means anger. So the painting is about anger.' What is the main weakness?",
+    "options": [
+     "It describes the colours",
+     "It mentions the artwork",
+     "It treats colour symbolism as fixed without considering context and other evidence",
+     "It uses a conclusion"
+    ],
+    "answer": 2,
+    "explanation": "Colour meanings vary with culture, context and use. Strong interpretation weighs several pieces of evidence.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Analysing and critiquing artworks means looking closely, thinking carefully and explaining your ideas with evidence. It is central to MYP Arts criterion D (Responding), and it also supports your own making, because the more you understand how other artists solve problems, the better your own choices become.\n\n## A four-step method\nA reliable way to structure your thinking is describe, analyse, interpret, evaluate.\n- **Describe**: say what you can see, without opinion. Subject, colours, materials, size, composition. Example: 'A seated woman in a blue coat looks out of a window; the room is dark.'\n- **Analyse**: examine how the elements of art and principles of design are used. Example: 'Strong value contrast between the lit face and the dark room draws attention to her expression.'\n- **Interpret**: suggest what the work means or communicates, using evidence. Example: 'The dark room and her distant gaze suggest loneliness or longing.'\n- **Evaluate**: judge how successful the work is, giving reasons and considering strengths and weaknesses. Example: 'The lighting is highly effective at conveying mood, but the cluttered table on the right distracts from the main figure.'\n\n## Using evidence and vocabulary\nEvidence is anything you can point to in the artwork: a colour, a line quality, a placement, a technique. A claim without evidence is just an opinion. Compare these two sentences: 'It is a sad painting' and 'Muted blue-greys and drooping diagonal lines give the painting a sad mood.' The second is much stronger. Use accurate subject vocabulary such as hue, texture, composition, focal point, medium, brushwork and tone.\n\n## Context and intention\nArtworks are made at a certain time, in a certain place and for a certain purpose. Knowing the context, such as a political event or a cultural tradition, can help explain the choices. Still, keep your focus on what is visible: context supports analysis; it does not replace it. You can also judge a work by its intention. A protest poster may aim to shock, a portrait to flatter, a landscape to calm. Ask: did the artist achieve the aim, and how?\n\n## Critiquing peers\nA critique is a discussion about artwork to help improve it. Good critique is respectful, specific and useful. Try: 'The textures in the bark are convincing. To make the tree the focal point, you could make the background paler.' Avoid vague comments such as 'It's good' or personal comments about the artist.\n\n## Comparing works\nWhen comparing two artworks, use the same points for both (for example colour, composition, mood and context) and write about similarities and differences together, not in two separate lists.\n\n## Common mistakes\n- Giving only opinion ('I like it') without evidence.\n- Describing and never explaining the effect.\n- Treating symbolism as fixed. A colour or object can mean different things in different cultures and contexts.\n- Judging only on realism or fame.\n\n## How this is examined\nYou may be shown a description or reproduction of an artwork and asked to select the best analysis, interpretation or feedback, or to explain how a choice creates an effect. Strong responses use specific evidence, correct vocabulary and balanced judgement.\n\nExam tip: use the sentence frame 'The artist uses ___ (evidence), which creates ___ (effect), suggesting ___ (meaning).'",
+  "flashcards": [
+   {
+    "front": "Four-step method of analysis",
+    "back": "Describe, analyse, interpret, evaluate."
+   },
+   {
+    "front": "Describe",
+    "back": "State what you can see (subject, colours, materials, composition) without giving opinions."
+   },
+   {
+    "front": "Formal analysis",
+    "back": "Examining how the elements of art and principles of design are used in a work."
+   },
+   {
+    "front": "Interpret",
+    "back": "Suggest what the work means or communicates, supported by visual evidence."
+   },
+   {
+    "front": "Evaluate",
+    "back": "Judge how successful the work is, giving reasons and balancing strengths and weaknesses."
+   },
+   {
+    "front": "What counts as evidence?",
+    "back": "Anything visible in the work: colour, line quality, composition, technique, scale, subject matter."
+   },
+   {
+    "front": "Sentence frame for analysis",
+    "back": "Element/evidence, then effect, then meaning: 'The artist uses ___, which creates ___, suggesting ___.'"
+   },
+   {
+    "front": "Constructive peer critique",
+    "back": "Respectful, specific and useful: name a strength, give a clear suggestion, and link it to the artist's intention."
+   },
+   {
+    "front": "Is symbolism fixed?",
+    "back": "No. Colours and objects can mean different things in different cultures and contexts, so support interpretations with several pieces of evidence."
+   }
+  ]
+ }
+]

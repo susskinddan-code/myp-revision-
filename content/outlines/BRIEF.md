@@ -56,3 +56,8 @@ Subjects: french-ab-initio, spanish-ab-initio, mandarin-ab-initio (outline in co
 - Do not use real copyrighted texts; invent all mini-texts. Use fictional names and places.
 - Validator rejects the strings "1-7"/"1 to 7"/"out of 7": avoid them. The word "a level" counts as a false positive, avoid it.
 - Content must be internally verified: check every example sentence twice.
+
+## Language & Literature in French/Spanish, and Arts/Design/PHE additions
+- french-language-and-literature / spanish-language-and-literature: MYP 5 Language & Literature taught IN that language. Question stems, options, notes and flashcards are written in the target language (French/Spanish) with short English glosses only where helpful; texts are your own original invented extracts; target-language accuracy is critical. The note still needs >= 450 words (count words in the target language).
+- visual-arts, music, drama, product-design, digital-design, physical-health-education: these are ePortfolio-assessed in MYP, so questions are knowledge-and-analysis style (vocabulary, techniques, history/context at MYP level, design-cycle reasoning, safety, health concepts, criterion language), not performance tasks. Keep to MYP level, accurate, non-sensitive (no dieting numbers, no medical advice beyond general safe-practice education).
+- environmental-systems: MYP sciences (not Diploma ESS): ecosystems, sustainability, pollution, climate, resources, fieldwork.

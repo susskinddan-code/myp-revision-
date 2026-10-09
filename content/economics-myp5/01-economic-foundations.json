@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "economics",
+  "grade": 5,
+  "topic": "Economic Foundations",
+  "subTopic": "Scarcity, Choice and Opportunity Cost",
+  "questions": [
+   {
+    "content": "Which statement best defines scarcity in economics?",
+    "options": [
+     "Resources are limited but human wants are unlimited",
+     "A good is out of stock in the shops this week",
+     "Goods are so expensive that most people cannot buy them",
+     "Only poor countries lack enough resources"
+    ],
+    "answer": 0,
+    "explanation": "Scarcity is the basic economic problem: finite resources against unlimited wants. It affects every country and person, rich or poor, and is not just a temporary shortage.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is the best definition of opportunity cost?",
+    "options": [
+     "The money price paid for a good",
+     "The total value of all the alternatives not chosen",
+     "The cost of producing a good",
+     "The next best alternative given up when a choice is made"
+    ],
+    "answer": 3,
+    "explanation": "Opportunity cost is the value of the single next best alternative sacrificed, not all alternatives and not just the money paid.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The three basic questions every economy must answer are about what to produce, how to produce it and:",
+    "options": [
+     "when to stop producing it",
+     "where to export it",
+     "for whom to produce it",
+     "why prices should rise"
+    ],
+    "answer": 2,
+    "explanation": "The basic economic questions are What? How? For whom? They exist because resources are scarce.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a need rather than a want?",
+    "options": [
+     "Designer trainers",
+     "Clean drinking water",
+     "A games console",
+     "A holiday abroad"
+    ],
+    "answer": 1,
+    "explanation": "Needs are essentials for survival such as food, water and shelter. The other items are wants that make life more enjoyable but are not essential.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A beach town has so much sea air that nobody has to pay for it or give up anything to breathe it. Economists would call breathing air here a:",
+    "options": [
+     "capital good",
+     "free good",
+     "luxury good",
+     "public sector good"
+    ],
+    "answer": 1,
+    "explanation": "A free good is not scarce and has no opportunity cost to use. Most goods and services are economic goods because they are scarce.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Amira has a free Saturday afternoon. Her ranked options are: 1) study for a test, 2) work a shift and earn $48, 3) go to the cinema. She chooses to study. What is her opportunity cost?",
+    "options": [
+     "The $48 she could have earned working",
+     "The $48 and the cinema trip together",
+     "The cinema trip only",
+     "There is none because studying is free"
+    ],
+    "answer": 0,
+    "explanation": "Opportunity cost is only the next best alternative given up. Her second-best option was the shift, so the cost is the $48. Studying is not 'free' because her time has alternatives.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A council has $10 million. It could build a hospital wing, a school or a bypass. It ranks them in that order and builds the hospital wing. What is the opportunity cost?",
+    "options": [
+     "The bypass that could have been built",
+     "The school and the bypass together",
+     "The $10 million spent on the hospital wing",
+     "The school that could have been built"
+    ],
+    "answer": 3,
+    "explanation": "The next best alternative is the school (second ranked). Opportunity cost is not the sum of all alternatives and not simply the money spent.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A farm can move between two crops. Combination A is 60 tonnes of wheat and 20 tonnes of corn. Combination B is 40 tonnes of wheat and 50 tonnes of corn. What is the opportunity cost, in wheat, of each extra tonne of corn when moving from A to B?",
+    "options": [
+     "1.5 tonnes of wheat",
+     "20 tonnes of wheat",
+     "⅔ of a tonne of wheat",
+     "30 tonnes of wheat"
+    ],
+    "answer": 2,
+    "explanation": "Moving from A to B gives 30 more corn and loses 20 wheat. 20 ÷ 30 = ⅔ tonne of wheat per tonne of corn. 1.5 is the wrong way round (corn given up per wheat).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "On a production possibility curve, a point inside the curve shows that the economy is:",
+    "options": [
+     "producing the maximum possible output",
+     "producing something it cannot ever reach",
+     "not using all its resources fully or efficiently",
+     "using only capital goods"
+    ],
+    "answer": 2,
+    "explanation": "Points on the curve are efficient. A point inside means resources, such as workers, are unemployed or wasted, so more of both goods could be made.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which event would shift a production possibility curve outwards?",
+    "options": [
+     "A fall in the price of one good",
+     "Discovery of a new technology that makes workers more productive",
+     "A large rise in unemployment",
+     "A decision to produce more food and fewer cars"
+    ],
+    "answer": 1,
+    "explanation": "An outward shift needs more or better resources or technology. Moving along the curve (choosing different goods) or unemployment (moving inside it) do not shift the curve.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A company can invest $200,000 in a new machine that is expected to earn $30,000 a year, or put the money in a bank account paying 5% interest a year. What is the yearly opportunity cost of buying the machine?",
+    "options": [
+     "$10,000",
+     "$200,000",
+     "$30,000",
+     "$20,000"
+    ],
+    "answer": 0,
+    "explanation": "5% of $200,000 = $10,000, the interest given up. The machine's net gain over the next best use is $30,000 − $10,000 = $20,000, which is not the opportunity cost itself.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student says, 'Scarcity is not a problem in my country because we are rich.' Which reply is correct?",
+    "options": [
+     "She is right: scarcity only affects developing countries",
+     "She is right: scarcity disappears when GDP is high",
+     "She is wrong: scarcity only affects non-renewable resources",
+     "Scarcity affects all countries because wants are still greater than resources"
+    ],
+    "answer": 3,
+    "explanation": "Even wealthy countries have limited resources, time and money relative to their wants, so they must still make choices and bear opportunity costs.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A government clears rainforest to create farmland for soya. Which is an opportunity cost of this decision?",
+    "options": [
+     "The income earned by the soya farmers",
+     "The number of tractors the farmers bought",
+     "The extra soya exported",
+     "The lost habitat and carbon storage the forest provided"
+    ],
+    "answer": 3,
+    "explanation": "Opportunity costs are the benefits given up. The forest's wildlife habitat and carbon storage are lost. The other options are benefits or inputs of the chosen option.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An economy produces phones and tablets. Combinations are: A (0 phones, 90 tablets); B (20, 80); C (40, 60); D (60, 35); E (80, 0). What is the opportunity cost, in tablets, of each extra phone when moving from D to E?",
+    "options": [
+     "0.57 tablets",
+     "35 tablets",
+     "1.75 tablets",
+     "1.25 tablets"
+    ],
+    "answer": 2,
+    "explanation": "Moving D to E gives 20 more phones and loses 35 tablets. 35 ÷ 20 = 1.75. 0.57 is 20 ÷ 35 (phones lost per tablet), and 1.25 is the cost between C and D.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "In the same data (A to E), the opportunity cost of a phone rises from 0.5 tablets to 1.75 tablets as more phones are made. The best explanation is that:",
+    "options": [
+     "phones are becoming cheaper to buy",
+     "resources are not equally good at making both goods, so the best suited are moved first",
+     "workers become less willing to work",
+     "tablets are always more valuable than phones"
+    ],
+    "answer": 1,
+    "explanation": "Resources are specialised. At first, workers and machines best suited to phones switch over; later, resources that are better at tablets must be moved, so more tablets are lost for each phone.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A politician says a new stadium will be 'free' because it is paid for by lottery funds. Which response is most economically accurate?",
+    "options": [
+     "The funds have an opportunity cost because they could have been used for something else",
+     "It is free because no taxes are raised",
+     "It is free because the lottery is voluntary",
+     "It has no cost because the stadium will make a profit"
+    ],
+    "answer": 0,
+    "explanation": "Using scarce funds on the stadium means giving up the next best use, such as schools or parks, so it is never truly free.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A country uses more of its resources to make machines and factories and fewer consumer goods this year. What is the most likely long-term result?",
+    "options": [
+     "Its production possibility curve shifts outwards in the future",
+     "Its production possibility curve shifts inwards",
+     "Its consumer goods production must rise immediately",
+     "Scarcity disappears"
+    ],
+    "answer": 0,
+    "explanation": "Capital goods increase future productive capacity, so the curve shifts out later. The cost is fewer consumer goods now, which is the opportunity cost.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A farmer has 10 hectares. A hectare of wheat gives 4 tonnes selling at $200 a tonne. A hectare of barley gives 6 tonnes selling at $150 a tonne. The farmer plants all 10 hectares with barley. What is the opportunity cost of planting one hectare of barley, and is it worth it?",
+    "options": [
+     "$900 of barley revenue; no, because wheat is better",
+     "$800; no, because 4 tonnes is less than 6 tonnes",
+     "$100 of lost profit; yes, because tonnes are higher",
+     "$800 of wheat revenue; yes, because barley earns $900 per hectare"
+    ],
+    "answer": 3,
+    "explanation": "Barley earns 6 × 150 = $900 per hectare. Wheat earns 4 × 200 = $800, the opportunity cost. Since $900 > $800, barley is better by $100, though more tonnes alone is not the right comparison.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Scarcity is the starting point of all economics. It means that resources such as land, workers, machines and time are limited, while human wants are unlimited. Because we cannot have everything, every person, business and government must make choices. This is called the basic economic problem.\n\n## Needs and wants\nNeeds are things essential for survival, such as food, water and shelter. Wants are things that make life nicer but are not essential, such as a new phone. Wants are almost endless, which is why scarcity never goes away. Scarcity affects rich and poor countries alike, since even a wealthy country cannot do everything at once. Do not confuse scarcity with a shortage. A shortage is a temporary lack of a good in a market, whereas scarcity is permanent.\n\n## The three basic questions\nBecause of scarcity, every society must decide **what** to produce, **how** to produce it and **for whom** to produce it. Different economic systems answer these questions in different ways.\n\n## Opportunity cost\nMaking a choice means giving something up. **Opportunity cost** is the value of the next best alternative that you gave up. It is only one alternative, the second best, not all the options you did not pick.\n\nWorked example: you have a free evening and rank your choices as 1) study, 2) work a shift for $40, 3) see friends. If you study, your opportunity cost is the $40 shift. Note that opportunity cost does not have to be money. It can be time, enjoyment or a natural environment that is lost. Clearing a forest for farmland gives up wildlife habitat and carbon storage.\n\n## Production possibility curves\nA **production possibility curve (PPC)** shows the maximum combinations of two goods an economy can produce when all resources are used fully and efficiently.\n- Points **on** the curve are efficient.\n- Points **inside** the curve mean resources are unemployed or wasted.\n- Points **outside** are unattainable for now.\n- Moving along the curve shows opportunity cost: more of one good means less of the other.\n- The curve **shifts outwards** with more resources, better technology or better education. It shifts inwards after a disaster or war.\n\nYou can calculate opportunity cost from a PPC: divide what is lost by what is gained. If an economy gives up 35 tablets to gain 20 phones, each phone costs 35 ÷ 20 = 1.75 tablets. The curve is usually bowed outwards because resources are not equally suited to making both goods, so opportunity cost rises as you make more of one good.\n\n## Common mistakes\n- Saying opportunity cost is the money price. It is the next best alternative given up.\n- Adding up all the alternatives instead of choosing the single next best.\n- Saying a good is 'free' because someone else pays. It still has an opportunity cost.\n- Dividing the wrong way round when calculating from a table. Always do 'lost ÷ gained'.\n\n## How this is examined\nQuestions give a context such as a council with a budget, a farmer with two crops or a country with a table of output. You may be asked to state the opportunity cost, calculate it from data, show that it rises, or justify a choice. Extended tasks ask you to evaluate a decision by looking at benefits, costs and who is affected, including the environment.\n\nExam tip: Always name the specific alternative given up and, if you are given numbers, show your 'lost ÷ gained' working.",
+  "flashcards": [
+   {
+    "front": "Scarcity",
+    "back": "Limited resources compared with unlimited wants. It is the basic economic problem and affects every country."
+   },
+   {
+    "front": "Opportunity cost",
+    "back": "The value of the next best alternative given up when a choice is made."
+   },
+   {
+    "front": "Three basic economic questions",
+    "back": "What to produce? How to produce it? For whom to produce it?"
+   },
+   {
+    "front": "Need vs want",
+    "back": "A need is essential for survival (food, water, shelter). A want is something that improves life but is not essential."
+   },
+   {
+    "front": "Production possibility curve (PPC)",
+    "back": "A curve showing the maximum combinations of two goods an economy can make with all resources fully and efficiently used."
+   },
+   {
+    "front": "Point inside a PPC",
+    "back": "Resources are unemployed or used inefficiently, so the economy could make more of both goods."
+   },
+   {
+    "front": "What shifts a PPC outwards?",
+    "back": "More resources, better technology or a more skilled workforce (economic growth)."
+   },
+   {
+    "front": "Formula for opportunity cost on a PPC",
+    "back": "Opportunity cost of one unit = amount of the other good given up ÷ amount gained."
+   },
+   {
+    "front": "Shortage vs scarcity",
+    "back": "A shortage is a temporary lack of a good in a market. Scarcity is permanent: resources are limited but wants are not."
+   }
+  ]
+ },
+ {
+  "subject": "economics",
+  "grade": 5,
+  "topic": "Economic Foundations",
+  "subTopic": "Economic Systems",
+  "questions": [
+   {
+    "content": "In a command economy, who mainly decides what, how and for whom to produce?",
+    "options": [
+     "The government or a central planner",
+     "Individual consumers through prices",
+     "Private firms competing for profit",
+     "Families following tradition"
+    ],
+    "answer": 0,
+    "explanation": "In a command (planned) economy the state owns most resources and makes the key decisions.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which feature is typical of a market economy?",
+    "options": [
+     "Most businesses are owned by the state",
+     "Decisions are based on custom and tradition",
+     "The government sets production targets for every firm",
+     "Prices are set by the interaction of supply and demand"
+    ],
+    "answer": 3,
+    "explanation": "Market economies rely on the price mechanism and private ownership, with firms seeking profit.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A mixed economy is one in which:",
+    "options": [
+     "only the government makes decisions",
+     "only private firms exist",
+     "both the private sector and the government play important roles",
+     "people exchange goods only by barter"
+    ],
+    "answer": 2,
+    "explanation": "Most real economies are mixed, with a blend of private enterprise and government involvement.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which economy mainly relies on custom, farming, hunting and bartering?",
+    "options": [
+     "Command economy",
+     "Traditional economy",
+     "Market economy",
+     "Mixed economy"
+    ],
+    "answer": 1,
+    "explanation": "A traditional economy follows methods passed down through generations, often in small rural communities.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In a market economy, who owns most businesses?",
+    "options": [
+     "The government",
+     "Private individuals and companies",
+     "The local community as a whole",
+     "Foreign embassies"
+    ],
+    "answer": 1,
+    "explanation": "Private ownership and the profit motive are central to market economies.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is an advantage of a command economy?",
+    "options": [
+     "The government can direct resources quickly to national aims such as housing or health",
+     "It gives consumers a huge variety of goods",
+     "Firms have strong incentives to innovate for profit",
+     "Prices adjust automatically to changes in demand"
+    ],
+    "answer": 0,
+    "explanation": "Planned economies can concentrate resources on chosen goals. The other options describe strengths of market economies.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is a disadvantage of a pure market economy?",
+    "options": [
+     "Planners lack information about consumers",
+     "There is little choice for consumers",
+     "Firms have no reason to cut costs",
+     "Public goods and fair access to essentials may be under-provided, and inequality can grow"
+    ],
+    "answer": 3,
+    "explanation": "Firms only produce what is profitable, so goods like street lighting and affordable basics for the poor may be missed.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In one economy, shops have long queues for shoes while warehouses are full of unwanted coats. Which problem of an economic system does this best illustrate?",
+    "options": [
+     "Prices rising too quickly through competition",
+     "Too much consumer choice",
+     "Planners cannot easily know what consumers really want",
+     "Firms making excess profits"
+    ],
+    "answer": 2,
+    "explanation": "With no price signals, central planners may produce the wrong amounts of goods, causing shortages of some things and surpluses of others.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A country's government runs the railways and hospitals, while private firms run supermarkets and phone companies. This country has a:",
+    "options": [
+     "pure command economy",
+     "pure market economy",
+     "mixed economy",
+     "traditional economy"
+    ],
+    "answer": 2,
+    "explanation": "A blend of state-run and private-run sectors is a mixed economy, the most common type.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which action shows a move towards a more market-based economy?",
+    "options": [
+     "Nationalising the steel industry",
+     "Privatisation of a state-owned telecom company",
+     "Setting production targets for all factories",
+     "Introducing government rationing of food"
+    ],
+    "answer": 1,
+    "explanation": "Privatisation transfers ownership from the state to private owners, increasing the role of markets.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the role of profit in a market economy?",
+    "options": [
+     "It rewards firms for producing what consumers want and signals where to put resources",
+     "It is set by the government to fund services",
+     "It ensures everyone has equal income",
+     "It makes goods free for consumers"
+    ],
+    "answer": 0,
+    "explanation": "Profit is both an incentive and a signal: high profits attract firms to produce more of a good that is in demand.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A village farms the same crops in the same way as past generations and swaps goods with neighbours. Which is a weakness of this system?",
+    "options": [
+     "It creates large income inequality through profit",
+     "It relies on central government plans",
+     "It depends on a complex financial system",
+     "It is slow to change and often produces low output"
+    ],
+    "answer": 3,
+    "explanation": "Traditional systems are stable but resist new methods, so growth is slow and they can be vulnerable to drought or disaster.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why do almost all countries have mixed economies?",
+    "options": [
+     "Mixed economies have no opportunity cost",
+     "Mixed economies have no scarcity",
+     "It is illegal to have only one type",
+     "Pure markets and pure planning both have weaknesses, so governments and private firms share roles"
+    ],
+    "answer": 3,
+    "explanation": "Markets can fail to provide public goods or fairness, while planning can lack incentives and information. Mixing aims to get the best of both.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Government spending as a share of GDP: Country B is 35% with GDP of $800 billion; Country C is 60% with GDP of $400 billion. Which statement is supported by the data?",
+    "options": [
+     "Country C's government spends more in dollars and has the larger share",
+     "Country B's government has the larger share and spends more in dollars",
+     "Country B's government spends more in dollars, but Country C's government has the larger share",
+     "Country C's government spends more in dollars but has the smaller share"
+    ],
+    "answer": 2,
+    "explanation": "B spends 0.35 × 800 = $280 billion; C spends 0.60 × 400 = $240 billion. C's share (60%) is larger, but B spends more in dollars, so always check whether data is a share or an amount.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student classifies a country as a command economy using only its share of government spending. What is the main limitation?",
+    "options": [
+     "It shows the exact output of every firm",
+     "It ignores who owns resources and who sets prices",
+     "It proves the country is a market economy",
+     "It measures the number of consumers"
+    ],
+    "answer": 1,
+    "explanation": "Government spending share is a useful hint, but economic systems depend on ownership, price setting and regulation, so one statistic is not enough.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The government nationalises the water supply. Which is the strongest evaluative argument against this decision?",
+    "options": [
+     "State-run monopolies may lack the profit incentive to cut costs and improve service",
+     "Water is essential for life",
+     "The government can ensure all homes are connected",
+     "Prices need not aim to make a profit"
+    ],
+    "answer": 0,
+    "explanation": "The other options are arguments for nationalisation. The lack of competition and profit pressure may cause inefficiency, which is a valid counter-argument.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A country moves from a command economy towards a market economy. What is a likely short-run cost?",
+    "options": [
+     "Unemployment as inefficient state firms close and subsidies end",
+     "Immediate abundance of goods for everyone",
+     "Fewer private businesses",
+     "The government taking over more industries"
+    ],
+    "answer": 0,
+    "explanation": "Transition often brings job losses and price rises before efficiency gains appear, which is why timing and support matter.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "For a concert, the government sets a maximum ticket price below the price that equates demand and supply. What is the most likely outcome?",
+    "options": [
+     "Everyone who wants a ticket can buy one",
+     "A surplus of unsold tickets",
+     "Producers make more tickets",
+     "More people want tickets than are available, leading to queues or resale at higher prices"
+    ],
+    "answer": 3,
+    "explanation": "A price ceiling below equilibrium creates excess demand. Allocation then depends on queues or luck, and a black market may appear.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "An economic system is the way a society organises its scarce resources to answer the three basic questions: what to produce, how to produce it and for whom. There are four main types, and real economies sit somewhere on a spectrum between them.\n\n## Traditional economy\nDecisions follow custom and the methods of earlier generations. People often farm, hunt or fish, and may trade by swapping goods (barter). Strengths: stable, strong community links, and less environmental damage in many cases. Weaknesses: slow to change, low output and little technology, so they can be hit hard by drought or disaster.\n\n## Market economy\nResources are mainly privately owned and decisions are made through the **price mechanism**. Prices rise when demand is high, which signals firms to produce more, and fall when demand is weak. Firms are driven by **profit**, and consumers decide through their spending.\n- Strengths: wide choice, strong incentives to innovate, resources respond quickly to changes in demand, and less need for large government.\n- Weaknesses: public goods such as street lighting may not be provided, inequality can grow, firms may ignore pollution, and essentials may be unaffordable for the poor.\n\n## Command (planned) economy\nThe government owns most resources and decides what, how and for whom to produce. Plans may set output targets and prices.\n- Strengths: can direct resources to national goals, can reduce inequality, and can guarantee basic goods such as housing.\n- Weaknesses: planners lack information about what people want, so there are shortages of some goods and surpluses of others. There is little incentive to work hard or innovate, less choice, and often poor quality.\n\n## Mixed economy\nMost countries, from Canada to India to France, are **mixed economies**. Private firms provide most goods, while the government provides some services (such as education, health or defence), regulates markets and taxes to redistribute income. Countries differ in how much of each they use, so we describe an economy as 'more market-based' or 'more planned'. Actions such as **privatisation** (selling state firms) move an economy towards the market. **Nationalisation** (taking firms into state ownership) moves it towards planning.\n\n## Common mistakes\n- Saying a country is entirely one type. Almost all are mixed.\n- Judging a system by one statistic. Look at ownership, price setting and regulation.\n- Mixing up strengths: choice and innovation belong to markets, equality and planning to command systems.\n- Confusing share and amount. A 60% share of a small GDP can be less money than 35% of a big GDP.\n\n## How this is examined\nTypical tasks give a short description of a country or an extract about a policy and ask you to identify the system, explain advantages and disadvantages, or evaluate a change such as privatisation or a price cap. Higher marks need balanced evaluation with specific consequences for consumers, workers, firms and the environment, and a justified conclusion.\n\nExam tip: When asked to evaluate, give at least one benefit and one drawback, name who is affected, and finish with a justified judgement.",
+  "flashcards": [
+   {
+    "front": "Traditional economy",
+    "back": "Decisions based on custom and past generations; often farming, hunting and barter. Stable but slow to change."
+   },
+   {
+    "front": "Market economy",
+    "back": "Private ownership, prices set by supply and demand, and firms driven by profit. Strong choice and innovation but may increase inequality."
+   },
+   {
+    "front": "Command economy",
+    "back": "The government owns most resources and plans production. Can meet national goals but suffers shortages, surpluses and little incentive."
+   },
+   {
+    "front": "Mixed economy",
+    "back": "A system where both private firms and the government play important roles. Most countries are mixed."
+   },
+   {
+    "front": "Price mechanism",
+    "back": "Prices rise and fall with demand and supply, signalling to firms and consumers how to use resources."
+   },
+   {
+    "front": "Role of profit",
+    "back": "An incentive for firms to produce goods that consumers want and a signal of where resources are needed."
+   },
+   {
+    "front": "Privatisation",
+    "back": "Selling state-owned firms to private owners, moving an economy towards the market."
+   },
+   {
+    "front": "Nationalisation",
+    "back": "Taking private firms into state ownership, moving an economy towards planning."
+   },
+   {
+    "front": "Key weakness of a command economy",
+    "back": "Planners lack information on consumer wants, creating shortages and surpluses, and there is little incentive to innovate."
+   }
+  ]
+ },
+ {
+  "subject": "economics",
+  "grade": 5,
+  "topic": "Economic Foundations",
+  "subTopic": "Factors of Production",
+  "questions": [
+   {
+    "content": "Which factor of production includes natural resources such as oil, forests and farmland?",
+    "options": [
+     "Land",
+     "Labour",
+     "Capital",
+     "Enterprise"
+    ],
+    "answer": 0,
+    "explanation": "Land covers all natural resources used in production, not just ground.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the reward for labour?",
+    "options": [
+     "Rent",
+     "Interest",
+     "Profit",
+     "Wages"
+    ],
+    "answer": 3,
+    "explanation": "Wages (or salaries) reward labour. Rent rewards land, interest rewards capital and profit rewards enterprise.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In economics, 'capital' refers to:",
+    "options": [
+     "money held in a bank account",
+     "natural resources like coal",
+     "man-made goods such as machinery used to produce other goods",
+     "the skills of the workforce only"
+    ],
+    "answer": 2,
+    "explanation": "Capital means physical resources like machines and factories. Money is financial capital, not capital in the factor-of-production sense.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does an entrepreneur do?",
+    "options": [
+     "Provides natural resources",
+     "Organises the other factors and takes risks in the hope of profit",
+     "Only works for a fixed wage",
+     "Lends money for interest"
+    ],
+    "answer": 1,
+    "explanation": "Entrepreneurs combine land, labour and capital and risk their own money. Their reward is profit, which can also be a loss.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is an example of capital for a bakery?",
+    "options": [
+     "The baker's skills",
+     "A delivery van owned by the bakery",
+     "Cash in the bank",
+     "The wheat growing in a field"
+    ],
+    "answer": 1,
+    "explanation": "A van is a man-made good used to produce and deliver goods. Cash is not capital in this sense, and the baker's work is labour.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A farm has: a tractor, a field, a seasonal picker and an owner who decides what to plant and takes the financial risk. Which pairing is correct?",
+    "options": [
+     "Tractor is capital; owner is enterprise",
+     "Field is capital; picker is enterprise",
+     "Tractor is land; owner is labour",
+     "Picker is capital; field is enterprise"
+    ],
+    "answer": 0,
+    "explanation": "The tractor is man-made (capital), the field is land, the picker is labour, and the decision-making risk-taking owner is the entrepreneur.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A factory produces 4,800 units a month with 40 workers. What is labour productivity?",
+    "options": [
+     "192 units per worker",
+     "4,760 units per worker",
+     "0.0083 units per worker",
+     "120 units per worker"
+    ],
+    "answer": 3,
+    "explanation": "Labour productivity = output ÷ number of workers = 4,800 ÷ 40 = 120.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A hair salon relies mostly on staff, with little equipment. A car factory uses mainly robots. Which description is correct?",
+    "options": [
+     "The salon is capital-intensive and the factory is labour-intensive",
+     "Both are labour-intensive",
+     "The salon is labour-intensive and the car factory is capital-intensive",
+     "Both are land-intensive"
+    ],
+    "answer": 2,
+    "explanation": "Labour-intensive production uses a lot of workers relative to capital; capital-intensive uses a lot of machinery.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of the following is a non-renewable natural resource?",
+    "options": [
+     "Fish stocks managed sustainably",
+     "A replanted forest",
+     "Coal",
+     "Wind"
+    ],
+    "answer": 2,
+    "explanation": "Coal takes millions of years to form, so it cannot be replaced on human timescales.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A landowner leases a building to a shop. The payment received is called:",
+    "options": [
+     "wages",
+     "rent",
+     "interest",
+     "profit"
+    ],
+    "answer": 1,
+    "explanation": "Rent is the reward for the use of land or property.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which change increases the quantity (not quality) of labour in an economy?",
+    "options": [
+     "More people of working age joining the workforce",
+     "Workers receiving better training",
+     "New machines being installed",
+     "A fall in raw material prices"
+    ],
+    "answer": 0,
+    "explanation": "Quantity is about how many workers there are. Training improves quality, which raises productivity.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A bakery has revenue of $9,000. Its costs are wages $3,500, rent $1,200, loan interest $300 and ingredients $2,000. How much profit does the entrepreneur receive?",
+    "options": [
+     "$4,000",
+     "$7,000",
+     "$5,500",
+     "$2,000"
+    ],
+    "answer": 3,
+    "explanation": "Total costs = 3,500 + 1,200 + 300 + 2,000 = $7,000. Profit = 9,000 − 7,000 = $2,000. $4,000 forgets ingredients.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A coal miner cannot easily get a job as a software developer without retraining. This is an example of:",
+    "options": [
+     "geographical immobility of labour",
+     "capital intensity",
+     "diminishing returns",
+     "occupational immobility of labour"
+    ],
+    "answer": 3,
+    "explanation": "Occupational immobility means workers lack the skills to switch jobs. Geographical immobility is about difficulty moving location.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A factory with 40 workers makes 4,800 units. It hires 10 more workers and output rises to 5,400. What happens to output per worker?",
+    "options": [
+     "It rises from 120 to 135",
+     "It stays at 120",
+     "It falls from 120 to 108",
+     "It rises from 120 to 150"
+    ],
+    "answer": 2,
+    "explanation": "Before: 4,800 ÷ 40 = 120. After: 5,400 ÷ 50 = 108. Output rose, but not in proportion, which is a sign of diminishing returns.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A country has huge oil reserves but remains poor. Which is the best explanation?",
+    "options": [
+     "Oil is not a factor of production",
+     "It lacks the capital, skilled labour and enterprise to turn the land resource into goods",
+     "Land is the only factor that matters",
+     "Natural resources are never scarce"
+    ],
+    "answer": 1,
+    "explanation": "All four factors work together. Having land alone does not guarantee growth without machinery, skills and entrepreneurs.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A firm replaces 20 workers paid $25,000 a year each with a machine costing $400,000 that lasts 10 years. Ignoring other costs, what is the annual net saving?",
+    "options": [
+     "$460,000",
+     "$500,000",
+     "$100,000",
+     "$4,600,000"
+    ],
+    "answer": 0,
+    "explanation": "Wages saved = 20 × 25,000 = $500,000. Machine cost per year = 400,000 ÷ 10 = $40,000. Net saving = 500,000 − 40,000 = $460,000. Wider impacts include job losses.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A forestry company replants trees as it harvests. Why is this a better long-term approach than clearing the forest completely?",
+    "options": [
+     "It keeps the land resource renewable, so future production is not sacrificed",
+     "It removes all opportunity costs",
+     "It increases the supply of labour",
+     "It means capital is no longer needed"
+    ],
+    "answer": 0,
+    "explanation": "Sustainable use keeps the supply of the resource available for future generations, reducing the long-term opportunity cost of today's production.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A company pays for training courses for all its staff. In terms of factors of production, what is the most likely effect?",
+    "options": [
+     "The quantity of capital falls",
+     "The quantity of land rises",
+     "Entrepreneurs earn rent",
+     "The quality of labour improves, raising productivity"
+    ],
+    "answer": 3,
+    "explanation": "Training is investment in human capital, which raises the skills and output per worker.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Factors of production are the resources used to make goods and services. Because they are scarce, how they are used matters a great deal. There are four factors, each with its own reward.\n\n## The four factors\n- **Land**: all natural resources, including farmland, forests, minerals, oil and water. Reward: **rent**. Some are renewable (such as forests and fish if managed sustainably) and some are non-renewable (such as coal and oil).\n- **Labour**: the physical and mental effort of workers. Reward: **wages**. The quantity of labour is the number of workers and hours. The quality depends on skills, education and training, sometimes called human capital.\n- **Capital**: man-made goods used to produce other goods, such as machines, tools, factories and delivery vans. Reward: **interest**. In economics, capital does not mean money, even though firms need money to buy it.\n- **Enterprise**: the entrepreneur who organises the other factors, makes decisions and takes risks. Reward: **profit** (or loss if the business fails).\n\n## Capital-intensive and labour-intensive\nA **labour-intensive** firm uses many workers compared with machinery (a hair salon or a care home). A **capital-intensive** firm uses a lot of machinery (a car factory with robots). Firms choose depending on costs, the type of product and the availability of workers.\n\n## Productivity\n**Labour productivity** is output per worker, found by dividing total output by the number of workers. Worked example: a factory makes 4,800 units with 40 workers, so productivity is 4,800 ÷ 40 = 120 units per worker. If it hires 10 more workers and makes 5,400 units, productivity is 5,400 ÷ 50 = 108. Output rose but productivity fell, which hints at **diminishing returns**. Productivity can rise through training, better technology and better organisation.\n\n## Mobility\nWorkers may find it hard to switch jobs or places. **Occupational immobility** means lacking the skills for another job (a miner becoming a programmer). **Geographical immobility** means being unable or unwilling to move area because of housing costs or family ties. Immobility is a cause of structural unemployment.\n\n## Combining the factors\nNo factor works alone. A country with oil still needs machinery, skilled workers and entrepreneurs. Factors also have opportunity costs: land used for housing cannot be used for farming. Sustainability matters because overusing non-renewable or renewable resources today reduces what is available for future generations.\n\n## Common mistakes\n- Treating capital as money. Capital is man-made equipment.\n- Mixing up rewards: rent is for land, interest for capital.\n- Forgetting to subtract all costs before finding profit.\n- Calling more workers 'higher productivity'. Productivity is output per worker.\n\n## How this is examined\nQuestions often use a business or a country as a context. You might classify resources, calculate productivity or profit from figures, or discuss why switching to machines affects workers and the environment. Longer tasks ask you to evaluate whether automation or sustainable resource use is a good choice for a business or a community.\n\nExam tip: When calculating, show the formula first, then the numbers, and give the units, such as 'units per worker'.",
+  "flashcards": [
+   {
+    "front": "Land",
+    "back": "All natural resources, such as farmland, forests, oil and water. Its reward is rent."
+   },
+   {
+    "front": "Labour",
+    "back": "The physical and mental effort of workers. Its reward is wages."
+   },
+   {
+    "front": "Capital (factor of production)",
+    "back": "Man-made goods like machines and factories used to make other goods. Its reward is interest. It is not simply money."
+   },
+   {
+    "front": "Enterprise",
+    "back": "The entrepreneur organises the other factors and takes risks. The reward is profit (or loss)."
+   },
+   {
+    "front": "Labour productivity",
+    "back": "Output per worker = total output ÷ number of workers."
+   },
+   {
+    "front": "Labour-intensive vs capital-intensive",
+    "back": "Labour-intensive uses many workers (a salon). Capital-intensive uses a lot of machinery (a robot car factory)."
+   },
+   {
+    "front": "Renewable vs non-renewable resource",
+    "back": "Renewable can be replaced if managed well (forests, fish). Non-renewable cannot in human timescales (coal, oil)."
+   },
+   {
+    "front": "Occupational immobility",
+    "back": "Workers lack the skills to move into another type of job, which can cause structural unemployment."
+   },
+   {
+    "front": "Human capital",
+    "back": "The skills and knowledge of workers gained through education and training; raising it improves labour productivity."
+   }
+  ]
+ }
+]

@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "geography",
+  "grade": 5,
+  "topic": "Geographical Skills",
+  "subTopic": "Map Skills and Grid References",
+  "questions": [
+   {
+    "content": "On a topographic map, the bottom-left corner of a grid square is where easting line 34 meets northing line 71. What is the correct four-figure grid reference for that square?",
+    "options": [
+     "7134",
+     "3471",
+     "3417",
+     "4371"
+    ],
+    "answer": 1,
+    "explanation": "Grid references always give the easting (along the bottom) first and then the northing (up the side): 34 then 71 gives 3471. Reversing them is the most common error.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A map has the scale 1:50 000. What distance on the ground does 1 cm on the map represent?",
+    "options": [
+     "50 m",
+     "5 km",
+     "500 m",
+     "50 km"
+    ],
+    "answer": 2,
+    "explanation": "1 cm × 50 000 = 50 000 cm, which is 500 m. Dividing 50 000 cm by 100 converts to metres.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "On a map, contour lines are drawn very close together on one side of a hill. What does this show about that side?",
+    "options": [
+     "A gentle slope",
+     "A steep slope",
+     "A flat plateau",
+     "A river valley"
+    ],
+    "answer": 1,
+    "explanation": "Contours join points of equal height, so lines packed closely mean the land rises quickly over a short distance, which is a steep slope.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A student walks from a campsite towards the direction exactly opposite to south-west. Which direction is she heading?",
+    "options": [
+     "South-east",
+     "North-west",
+     "North-east",
+     "South"
+    ],
+    "answer": 2,
+    "explanation": "The opposite of south-west is north-east: both the north-south and east-west parts of the direction are reversed.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "On most topographic maps, which colour is used for water features such as rivers and lakes?",
+    "options": [
+     "Green",
+     "Brown",
+     "Black",
+     "Blue"
+    ],
+    "answer": 3,
+    "explanation": "Blue is the standard colour for water. Green is usually vegetation or woodland, and brown is normally used for contours.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A trail on a 1:25 000 map measures 6.4 cm in a straight line between a car park and a viewpoint. What is the real straight-line distance?",
+    "options": [
+     "16 km",
+     "1.6 km",
+     "160 m",
+     "6.4 km"
+    ],
+    "answer": 1,
+    "explanation": "6.4 cm × 25 000 = 160 000 cm = 1.6 km. Answers of 16 km or 160 m come from slipping a power of ten when converting centimetres to kilometres.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A railway station lies in the grid square with easting 52 and northing 70. It is about four-tenths of the way across the square and seven-tenths of the way up. What is its six-figure grid reference?",
+    "options": [
+     "524707",
+     "527704",
+     "524 070",
+     "542 707"
+    ],
+    "answer": 0,
+    "explanation": "The easting is 52 followed by the tenths across (4) giving 524; the northing is 70 followed by tenths up (7) giving 707. So the reference is 524707, with eastings always first.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Point B is exactly due east of point A. What is the bearing from A to B?",
+    "options": [
+     "000°",
+     "180°",
+     "270°",
+     "090°"
+    ],
+    "answer": 3,
+    "explanation": "Bearings are measured clockwise from north. North is 000°, east is 090°, south is 180° and west is 270°.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A path climbs 80 m in height over a horizontal distance of 2 km (2000 m). What is the average gradient?",
+    "options": [
+     "1 in 25",
+     "1 in 80",
+     "1 in 2.5",
+     "1 in 160"
+    ],
+    "answer": 0,
+    "explanation": "Gradient = horizontal distance ÷ vertical rise = 2000 ÷ 80 = 25, so it rises 1 m for every 25 m travelled (1 in 25).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Two maps of the same park are available: one at 1:25 000 and one at 1:50 000. A student wants to plan fieldwork sites accurately. Which statement is correct?",
+    "options": [
+     "1:50 000 is the larger scale and shows more detail",
+     "Both show the same detail because the park is the same size",
+     "1:25 000 is the larger scale and shows more detail",
+     "1:25 000 is the smaller scale and shows more detail"
+    ],
+    "answer": 2,
+    "explanation": "A larger scale has a smaller number after the colon. 1:25 000 shows a smaller area in greater detail, which is better for planning precise sites.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "On a map, contour lines form V-shapes where they cross a stream. In which direction do the points of the Vs aim?",
+    "options": [
+     "Towards higher ground, upstream",
+     "Towards lower ground, downstream",
+     "Towards the nearest road",
+     "Towards the north"
+    ],
+    "answer": 0,
+    "explanation": "Contours bend upstream where they cross a valley because the valley floor slopes down gently. The V points towards higher ground, which tells you the direction of river flow is the opposite way.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A meandering river on a 1:50 000 map is measured with a piece of string and is 12 cm long, while the straight-line distance between its ends is 9 cm. What is the real length of the river along its course?",
+    "options": [
+     "4.5 km",
+     "6 km",
+     "9 km",
+     "12 km"
+    ],
+    "answer": 1,
+    "explanation": "12 cm × 50 000 = 600 000 cm = 6 km. The 4.5 km figure is the straight-line distance (9 cm), which underestimates the winding river.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A bar scale on a map shows that 4 cm equals 2 km. A path measures 7 cm on the map. How long is the path?",
+    "options": [
+     "14 km",
+     "3.5 km",
+     "1.75 km",
+     "7 km"
+    ],
+    "answer": 1,
+    "explanation": "4 cm = 2 km so 1 cm = 0.5 km. 7 cm × 0.5 = 3.5 km. Doubling instead of halving gives the wrong answer of 14 km.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "On a 1:50 000 map each grid square has sides of 2 cm. A lake covers three full grid squares and half of a fourth. What is the real area of the lake?",
+    "options": [
+     "3.5 km²",
+     "7 km²",
+     "14 km²",
+     "1.75 km²"
+    ],
+    "answer": 0,
+    "explanation": "2 cm × 50 000 = 100 000 cm = 1 km, so each square is 1 km × 1 km = 1 km². The lake covers 3 + 0.5 = 3.5 km².",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A town is 8 cm from a harbour on a 1:50 000 map. A student redraws part of the area on a 1:25 000 map. How far apart will the same two places be on the new map?",
+    "options": [
+     "4 cm",
+     "8 cm",
+     "16 cm",
+     "32 cm"
+    ],
+    "answer": 2,
+    "explanation": "The real distance is 8 × 50 000 = 400 000 cm. On the 1:25 000 map this is 400 000 ÷ 25 000 = 16 cm. Larger scale means the same ground distance looks longer on the page.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A group identifies a footbridge for a river survey. Why is a six-figure grid reference better than a four-figure reference for sharing its location?",
+    "options": [
+     "It is shorter and so quicker to write",
+     "It pinpoints the bridge to a 100 m square instead of a 1 km square",
+     "It gives the height of the bridge above sea level",
+     "It works without needing a map"
+    ],
+    "answer": 1,
+    "explanation": "A four-figure reference only identifies a whole 1 km grid square, which could contain several bridges. A six-figure reference divides the square into tenths and locates the feature within about 100 m.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A viewpoint at 100 m above sea level looks towards a hilltop at 150 m. In between, the contour map shows a ridge that reaches 160 m. Assuming no trees or buildings, what can be concluded about intervisibility?",
+    "options": [
+     "The hilltop is visible because it is higher than the viewpoint",
+     "The hilltop is visible because ridges are only a few metres wide",
+     "The hilltop is not visible because the 160 m ridge is higher than the line of sight",
+     "Visibility cannot be assessed from a contour map"
+    ],
+    "answer": 2,
+    "explanation": "A straight line from 100 m to 150 m passes below 160 m at the ridge, so the ridge blocks the view. Contour maps allow this kind of line-of-sight reasoning.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student photocopies a map and enlarges it by 150%. The map shows the ratio scale 1:50 000 and a bar scale of 0 to 5 km. Which scale can still be trusted?",
+    "options": [
+     "Both, since scales are printed on the map",
+     "The ratio scale 1:50 000 only",
+     "The bar scale only, because it is enlarged along with the map",
+     "Neither, because enlarged maps have no scale"
+    ],
+    "answer": 2,
+    "explanation": "The bar scale grows with the map, so it stays accurate. The ratio 1:50 000 is now wrong, because 1 cm on the enlarged copy no longer represents 500 m on the ground.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why map skills matter\nMaps are the geographer's basic tool. In the MYP eAssessment you may be given a map extract and asked to find places, measure distances, describe relief or plan a route. Every one of these uses the same small set of skills, so learning them well earns reliable marks.\n\n## Direction and bearings\nThe eight compass points run N, NE, E, SE, S, SW, W, NW. For more precision we use **bearings**, which are measured clockwise from north using three figures. North is 000°, east is 090°, south is 180° and west is 270°. Always measure from the starting point, not the destination.\n\n## Grid references\nA map is covered by grid lines. Vertical lines are called **eastings** and horizontal lines **northings**. Remember: along the corridor, then up the stairs. Eastings come first.\n- **Four-figure reference** (for example 3471): identifies a whole grid square, using the lines at its bottom-left corner.\n- **Six-figure reference** (for example 524707): divides the square into tenths, so the first two digits are the easting, the third is tenths across, the next two are the northing and the last is tenths up. It locates a feature to within about 100 m.\n\n## Scale and distance\nScale links the map to the real world. A **ratio scale** such as 1:50 000 means 1 cm on the map is 50 000 cm (500 m) on the ground. A **bar scale** is a printed line you can measure against. To find real distance: map distance × scale number, then convert units. For a winding route, lay a piece of string along the path, then straighten it and measure.\n\nA **large-scale** map (1:10 000, 1:25 000) shows a small area in great detail. A **small-scale** map (1:1 000 000) shows a big area with little detail. The number after the colon is smaller on a large-scale map.\n\n## Relief and contours\nContour lines join points of equal height. Close lines mean a steep slope, wide gaps mean gentle slope, and contours that bend into Vs show valleys (the V points upstream, towards higher land). Spot heights and triangulation pillars give exact heights. **Gradient** is vertical rise divided by horizontal distance; a rise of 80 m over 2000 m is 1 in 25.\n\n## Worked example\nA path measures 7.2 cm on a 1:25 000 map. Real distance = 7.2 × 25 000 = 180 000 cm = 1.8 km. If the path climbs 90 m, gradient = 1800 ÷ 90 = 1 in 20 if the horizontal distance is taken as 1800 m.\n\n## Common mistakes\n- Writing the northing before the easting.\n- Forgetting to convert centimetres into metres or kilometres.\n- Assuming an enlarged photocopy keeps a correct ratio scale (only a bar scale stays accurate).\n- Confusing large scale with large area.\n\n## How this is examined\nQuestions usually place a map in a context, such as planning a new footpath, siting a campsite or choosing a flood-safe location. You are asked to state a grid reference, calculate a distance, describe the relief, then justify a decision using map evidence. Strong answers quote reference numbers and heights from the map.\n\nExam tip: Show your working for every distance calculation, and always give units in your final answer.",
+  "flashcards": [
+   {
+    "front": "Which comes first in a grid reference?",
+    "back": "Eastings (along the bottom) come first, then northings (up the side). Remember: along the corridor, then up the stairs."
+   },
+   {
+    "front": "Four-figure vs six-figure grid reference",
+    "back": "Four-figure identifies a whole 1 km square. Six-figure uses tenths to locate a feature within about 100 m."
+   },
+   {
+    "front": "What does a scale of 1:50 000 mean?",
+    "back": "1 cm on the map represents 50 000 cm, which is 500 m, on the ground."
+   },
+   {
+    "front": "Large-scale vs small-scale map",
+    "back": "Large scale (e.g. 1:10 000) shows a small area in lots of detail. Small scale (e.g. 1:1 000 000) shows a large area with little detail."
+   },
+   {
+    "front": "What are contour lines?",
+    "back": "Lines joining points of equal height above sea level. Close together means steep; far apart means gentle."
+   },
+   {
+    "front": "How are bearings measured?",
+    "back": "Clockwise from north, using three figures: N 000°, E 090°, S 180°, W 270°."
+   },
+   {
+    "front": "Formula for gradient",
+    "back": "Gradient = horizontal distance ÷ vertical rise, often written as 1 in n. For example 2000 m across and 80 m up is 1 in 25."
+   },
+   {
+    "front": "How do you measure a winding river on a map?",
+    "back": "Lay string along the river's curves, straighten it against the scale bar or ruler, then convert using the map scale."
+   },
+   {
+    "front": "What shape do contours make in a valley?",
+    "back": "V-shapes whose points aim upstream, towards higher ground."
+   }
+  ]
+ },
+ {
+  "subject": "geography",
+  "grade": 5,
+  "topic": "Geographical Skills",
+  "subTopic": "Graphs, Data and Fieldwork",
+  "questions": [
+   {
+    "content": "A student records the daily rainfall at a weather station for 30 days. Which graph is best for showing how a continuous measurement changes over time?",
+    "options": [
+     "Pie chart",
+     "Line graph",
+     "Pictogram",
+     "Choropleth map"
+    ],
+    "answer": 1,
+    "explanation": "Line graphs are used for continuous data that changes over time. Pie charts show proportions of a whole, and choropleth maps show data by area.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Five pedestrian counts in a street were 12, 15, 9, 14 and 10. What is the mean count?",
+    "options": [
+     "12",
+     "11",
+     "14",
+     "60"
+    ],
+    "answer": 0,
+    "explanation": "The total is 12 + 15 + 9 + 14 + 10 = 60, and 60 ÷ 5 = 12. The 60 is just the sum and has not been divided by the number of counts.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A class measures river width and depth themselves at three sites. What type of data is this?",
+    "options": [
+     "Secondary data",
+     "Primary data",
+     "Qualitative data only",
+     "Estimated data"
+    ],
+    "answer": 1,
+    "explanation": "Primary data is collected first-hand by the investigators. Secondary data comes from existing sources such as a census or government website.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A map shades regions in darker colours where more people per km² live. What type of map is this?",
+    "options": [
+     "Isoline map",
+     "Proportional symbol map",
+     "Choropleth map",
+     "Flow-line map"
+    ],
+    "answer": 2,
+    "explanation": "A choropleth map uses shading intensity across defined areas to show a value such as population density.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a suitable fieldwork hypothesis?",
+    "options": [
+     "Rivers are interesting",
+     "River velocity increases with distance downstream",
+     "Why do rivers flood?",
+     "Collect data at five sites"
+    ],
+    "answer": 1,
+    "explanation": "A hypothesis is a testable statement that can be supported or rejected using data. The other options are an opinion, a question and an instruction.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A class counts the litter items found on six beaches: 3, 4, 7, 8, 9 and 12. What is the median?",
+    "options": [
+     "7",
+     "7.5",
+     "8",
+     "6.6"
+    ],
+    "answer": 1,
+    "explanation": "With six values in order (3, 4, 7, 8, 9, 12) the median is the mean of the middle two values: (7 + 8) ÷ 2 = 7.5.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "River velocity at five points was measured as 0.2, 0.5, 0.9, 1.1 and 0.7 m/s. What is the range?",
+    "options": [
+     "0.9 m/s",
+     "0.7 m/s",
+     "1.1 m/s",
+     "0.2 m/s"
+    ],
+    "answer": 0,
+    "explanation": "Range = highest – lowest = 1.1 – 0.2 = 0.9 m/s. Quoting only the highest value is a common slip.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A scatter graph shows that as distance from the city centre increases, the number of pedestrians per minute decreases. How would you describe the correlation?",
+    "options": [
+     "Positive correlation",
+     "No correlation",
+     "Negative correlation",
+     "Perfect correlation"
+    ],
+    "answer": 2,
+    "explanation": "When one variable rises while the other falls, the correlation is negative. Positive correlation means both rise together.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Visitor numbers to a nature reserve rose from 8000 in 2020 to 10 000 in 2024. What was the percentage increase?",
+    "options": [
+     "20%",
+     "2000%",
+     "125%",
+     "25%"
+    ],
+    "answer": 3,
+    "explanation": "Percentage change = (increase ÷ original) × 100 = (2000 ÷ 8000) × 100 = 25%. Dividing by the new value would give 20%, which is a frequent mistake.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "To survey shoppers fairly, a team interviews every 10th person who walks past a point in the high street. What is this sampling method called?",
+    "options": [
+     "Random sampling",
+     "Systematic sampling",
+     "Stratified sampling",
+     "Quota sampling"
+    ],
+    "answer": 1,
+    "explanation": "Choosing items at regular intervals (every nth) is systematic sampling. Random sampling uses chance, such as drawing numbers.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A group interviews people about local transport only on weekday mornings between 8 am and 9 am. What is the main weakness of this approach?",
+    "options": [
+     "It produces no primary data",
+     "It is biased towards commuters and misses other travellers",
+     "It uses too large a sample",
+     "It cannot be repeated"
+    ],
+    "answer": 1,
+    "explanation": "Choosing one narrow time introduces sampling bias, because the people at that time are not typical of all residents.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a pie chart of land use, farmland makes up 25% of the total. What angle does the farmland sector take?",
+    "options": [
+     "25°",
+     "45°",
+     "90°",
+     "250°"
+    ],
+    "answer": 2,
+    "explanation": "A full circle is 360°, so 25% = 0.25 × 360° = 90°. Writing 25° confuses the percentage with the angle.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why does a student measure river depth at each site three times and use the mean?",
+    "options": [
+     "To make the fieldwork look more complicated",
+     "To reduce the effect of random errors and improve reliability",
+     "To prove the hypothesis is correct",
+     "To change qualitative data into quantitative data"
+    ],
+    "answer": 1,
+    "explanation": "Repeats allow an unusual reading to be spotted and averaged out, increasing the reliability of the result. It does not prove a hypothesis.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Velocity readings at one site were 0.40, 0.50, 0.45, 0.48 and 1.90 m/s. The 1.90 m/s reading came from a dropped float that was swept by a waterfall. Which measure better represents the typical velocity, and why?",
+    "options": [
+     "Mean (0.75 m/s), because it uses every value",
+     "Mean (0.75 m/s), because anomalies must always be included",
+     "Median (0.48 m/s), because it is not pulled up by the anomaly",
+     "Range (1.5 m/s), because it shows the spread"
+    ],
+    "answer": 2,
+    "explanation": "The mean is 3.73 ÷ 5 ≈ 0.75 m/s, which is dragged up by the anomaly. The median of the sorted data is 0.48 m/s and represents the typical flow better.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student measures a stream as 5.2 m wide with a tape that is later checked against a true width of 5.0 m. What is the percentage error in the measurement?",
+    "options": [
+     "0.2%",
+     "3.8%",
+     "4%",
+     "5.2%"
+    ],
+    "answer": 2,
+    "explanation": "Error = 5.2 – 5.0 = 0.2 m. Percentage error = 0.2 ÷ 5.0 × 100 = 4%. Dividing by 5.2 would give 3.8%, but error is compared with the true value.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A group studies five rivers and finds that all five widen downstream. They conclude that all rivers in the world get wider downstream. What is the main weakness of this conclusion?",
+    "options": [
+     "Rivers do not change downstream",
+     "The sample of five rivers is too small and unrepresentative to generalise",
+     "Five is too many for fieldwork",
+     "Width cannot be measured accurately"
+    ],
+    "answer": 1,
+    "explanation": "A small sample from one area supports the pattern locally but cannot justify a world-wide claim. The conclusion should be limited to the rivers studied.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A scatter graph shows a positive correlation between the number of beach cafés and the amount of litter on beaches. A student concludes that cafés cause the litter. Which response is most reasonable?",
+    "options": [
+     "The conclusion is proven because the graph is positive",
+     "Cafés and litter may both be linked to visitor numbers, so causation is not proven",
+     "The graph must be wrong",
+     "Litter causes cafés to open"
+    ],
+    "answer": 1,
+    "explanation": "Correlation shows a relationship, not a cause. A third factor, such as the number of visitors, could explain both. Evaluating this is a key part of data analysis.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which is the best risk control before collecting data from a stream after a period of heavy rain?",
+    "options": [
+     "Work alone to save time",
+     "Check the river level and forecast, work in pairs and avoid entering deep or fast water",
+     "Wear no special footwear to move quickly",
+     "Collect data only in the fastest part of the channel"
+    ],
+    "answer": 1,
+    "explanation": "Good risk assessment identifies the hazard (high, fast water) and reduces it with specific controls: checking conditions, working with others and keeping out of dangerous water.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why data and fieldwork skills matter\nGeography is an evidence-based subject. In the MYP eAssessment you will often be given data, such as a table described in words, a graph or fieldwork results, and asked to describe patterns, calculate values and judge how trustworthy the results are. These skills also underpin Criterion D style tasks, where you are rewarded for stating assumptions, checking accuracy and evaluating your methods.\n\n## The enquiry process\nGood fieldwork follows a sequence: ask a question or write a **hypothesis** (a testable statement such as river velocity increases downstream), plan methods, collect data, present it, analyse it and evaluate. You should be able to explain why each choice was made.\n\n## Types of data\n- **Primary data** is collected first-hand, such as measuring river width yourself.\n- **Secondary data** already exists, for example census figures.\n- **Quantitative data** is numerical; **qualitative data** is descriptive, such as opinions from interviews.\n\n## Sampling\nYou cannot measure everything, so you take a sample. **Random** sampling uses chance, **systematic** sampling picks every nth item, and **stratified** sampling makes sure each sub-group is represented in proportion. Bias appears when the sample is not typical, for example interviewing people only in one place at one time.\n\n## Presenting data\n- **Line graphs** show continuous change over time.\n- **Bar charts** compare categories.\n- **Pie charts** show proportions of a whole; angle = percentage × 3.6.\n- **Scatter graphs** show the relationship between two variables. A line of best fit helps you describe it as positive, negative or no correlation.\n- **Choropleth maps** shade areas by value.\n\n## Statistics\nThe **mean** is the sum divided by the number of values. The **median** is the middle value of ordered data (average the middle two if there is an even number). The **range** is the highest minus the lowest. If the data has an **anomaly**, the median is a better measure of typical value than the mean. **Percentage change** is (change ÷ original) × 100. **Percentage error** is (measured – true) ÷ true × 100.\n\n## Evaluating fieldwork\nThink about accuracy (how close to the true value), reliability (do repeats agree), sample size and bias. Correlation does not prove causation: two things can rise together because of a third factor. State clearly what the data shows and does not show, and keep conclusions limited to your sample.\n\n## Safety\nA risk assessment names a hazard, who is at risk and the control measure, for example checking river levels and working in pairs.\n\n## Worked example\nVelocity readings: 0.40, 0.50, 0.45, 0.48, 1.90 m/s. Mean = 3.73 ÷ 5 = 0.746 m/s. Sorted data is 0.40, 0.45, 0.48, 0.50, 1.90 so the median is 0.48 m/s. The median is closer to the typical value because 1.90 is an anomaly.\n\n## Common mistakes\n- Dividing by the new value rather than the original when finding percentage change.\n- Claiming a correlation proves one thing causes the other.\n- Writing conclusions about the whole world from a tiny sample.\n\n## How this is examined\nYou are given data from a fieldwork enquiry, asked to calculate a mean or percentage, describe the pattern, then evaluate the method and suggest improvements.\n\nExam tip: When you evaluate, name a specific weakness (small sample, one time of day) and say exactly how you would improve it.",
+  "flashcards": [
+   {
+    "front": "Primary vs secondary data",
+    "back": "Primary data is collected first-hand by you (e.g. measuring river width). Secondary data already exists (e.g. census, government statistics)."
+   },
+   {
+    "front": "What is a hypothesis?",
+    "back": "A testable statement or prediction that fieldwork data can support or reject, e.g. river velocity increases downstream."
+   },
+   {
+    "front": "Systematic sampling",
+    "back": "Choosing items at regular intervals, such as every 10th person or every 20 m along a transect."
+   },
+   {
+    "front": "Mean, median and range",
+    "back": "Mean = total ÷ number of values. Median = middle value of ordered data. Range = highest minus lowest."
+   },
+   {
+    "front": "When is the median better than the mean?",
+    "back": "When data has an anomaly (an extreme value), because the median is not pulled towards it."
+   },
+   {
+    "front": "Percentage change formula",
+    "back": "Percentage change = (new – original) ÷ original × 100."
+   },
+   {
+    "front": "Percentage error formula",
+    "back": "Percentage error = (measured – true) ÷ true × 100, ignoring any minus sign."
+   },
+   {
+    "front": "Positive vs negative correlation",
+    "back": "Positive: both variables increase together. Negative: one increases as the other decreases."
+   },
+   {
+    "front": "Does correlation prove causation?",
+    "back": "No. A relationship may be caused by a third factor, or be chance. More evidence is needed to show a cause."
+   }
+  ]
+ },
+ {
+  "subject": "geography",
+  "grade": 5,
+  "topic": "Geographical Skills",
+  "subTopic": "GIS and Remote Sensing",
+  "questions": [
+   {
+    "content": "What does the abbreviation GIS stand for?",
+    "options": [
+     "Global Imaging Survey",
+     "Geographic Information System",
+     "Ground Inspection Scheme",
+     "General Isoline Series"
+    ],
+    "answer": 1,
+    "explanation": "A Geographic Information System is software that stores, analyses and displays spatial data on layered digital maps.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In a GIS, different sets of information such as roads, rivers and buildings are stored separately and can be switched on or off. What are these called?",
+    "options": [
+     "Layers",
+     "Keys",
+     "Contours",
+     "Grids"
+    ],
+    "answer": 0,
+    "explanation": "A GIS holds each type of data in its own layer, which can be shown alone or overlaid with other layers.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these best defines remote sensing?",
+    "options": [
+     "Measuring a river with a tape on site",
+     "Collecting information about the Earth from a distance, for example by satellite or aircraft",
+     "Interviewing residents by phone",
+     "Drawing a map by hand"
+    ],
+    "answer": 1,
+    "explanation": "Remote sensing means gathering data without being physically in contact with the place, usually through satellites, aircraft or drones.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which system uses signals from satellites to tell a handheld device its location on Earth?",
+    "options": [
+     "GPS",
+     "GDP",
+     "CBD",
+     "GIS"
+    ],
+    "answer": 0,
+    "explanation": "The Global Positioning System lets a receiver calculate its position from satellite signals. GIS analyses data but does not itself locate a device.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a key advantage of satellite images for monitoring the environment?",
+    "options": [
+     "They are always taken at night",
+     "They cover large areas and can be repeated regularly",
+     "They can see through every cloud",
+     "They show opinions of local people"
+    ],
+    "answer": 1,
+    "explanation": "Satellites can image large or remote areas repeatedly, so changes over time can be tracked. Optical images cannot see through cloud.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A council overlays a layer of flood zones on a layer of homes in a GIS. What can it do with the result?",
+    "options": [
+     "Prove that floods have no effect",
+     "Identify which homes are in areas at risk of flooding",
+     "Change the height of the river",
+     "Replace the need for any fieldwork"
+    ],
+    "answer": 1,
+    "explanation": "Overlaying layers lets planners see where two sets of data coincide, such as homes and flood zones, which supports decisions about protection.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A satellite image has a resolution of 30 m, meaning each pixel represents 30 m × 30 m. What ground area does one pixel cover?",
+    "options": [
+     "30 m²",
+     "60 m²",
+     "900 m²",
+     "9000 m²"
+    ],
+    "answer": 2,
+    "explanation": "30 m × 30 m = 900 m². Resolution refers to the side length of each square pixel, so the area is the side squared.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In many false-colour satellite images, healthy vegetation appears bright red. Why are false-colour images used?",
+    "options": [
+     "To hide the real location",
+     "To make patterns, such as vegetation health, easier to see using wavelengths we cannot see",
+     "Because satellites cannot detect green",
+     "To reduce the file size only"
+    ],
+    "answer": 1,
+    "explanation": "False-colour images assign visible colours to non-visible wavelengths, such as near-infrared, which plants reflect strongly. This highlights vegetation in a way ordinary photographs cannot.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A researcher wants to map a rainforest area but the region is under cloud for most of the year. What is a limitation of using standard optical satellite images?",
+    "options": [
+     "Optical sensors cannot be used on land",
+     "Cloud blocks the view, so useful images may be rare",
+     "They need fieldwork to be taken",
+     "They only work in deserts"
+    ],
+    "answer": 1,
+    "explanation": "Optical sensors record reflected light, which clouds block. Radar satellites can see through cloud, but they work differently.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Geographers compare satellite images of the same forest taken in 2005 and 2025 to find where trees have been cleared. What is this technique called?",
+    "options": [
+     "Change detection",
+     "Random sampling",
+     "Triangulation",
+     "Sketch mapping"
+    ],
+    "answer": 0,
+    "explanation": "Change detection compares images of the same place at different times to see what has altered, such as forest loss or urban growth.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "After the 2010 earthquake in Haiti, volunteers around the world traced roads and buildings from satellite images onto an online map. What is this type of mapping called?",
+    "options": [
+     "Triangulation mapping",
+     "Crowdsourced mapping",
+     "Isoline mapping",
+     "Tectonic mapping"
+    ],
+    "answer": 1,
+    "explanation": "Crowdsourced mapping, such as OpenStreetMap, uses many volunteers to add data. It helped rescue teams find routes in Port-au-Prince.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a GIS, a river is stored as a line and a lake as a closed shape defined by coordinates. What type of data format is this?",
+    "options": [
+     "Raster data",
+     "Vector data",
+     "Qualitative data",
+     "Primary data"
+    ],
+    "answer": 1,
+    "explanation": "Vector data stores features as points, lines and polygons. Raster data is made of a grid of pixels, such as a satellite image.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A planner wants to find every school within 500 m of a main road using a GIS. Which GIS function does this?",
+    "options": [
+     "Buffering around the road layer",
+     "Changing the map scale",
+     "Printing the map",
+     "Deleting the school layer"
+    ],
+    "answer": 0,
+    "explanation": "A buffer draws a zone of set distance around a feature. Overlaying it on the schools layer shows which schools fall inside the 500 m zone.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A satellite image has 10 m resolution (each pixel is 10 m × 10 m). A cleared patch of forest has an area of 4500 m². Approximately how many pixels does it cover?",
+    "options": [
+     "4.5",
+     "45",
+     "450",
+     "4500"
+    ],
+    "answer": 1,
+    "explanation": "One pixel covers 10 × 10 = 100 m². The patch covers 4500 ÷ 100 = 45 pixels. Forgetting to square the resolution would give 450.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A planning team uses a GIS to choose a site for a wind farm. Which combination of layers would be most useful for deciding?",
+    "options": [
+     "Average wind speed, protected habitats, distance to houses and the electricity grid",
+     "Only the names of nearby towns",
+     "Only the colour of the land",
+     "Only the date of the last election"
+    ],
+    "answer": 0,
+    "explanation": "A good site needs strong wind, low conflict with wildlife and homes, and grid access. GIS lets planners weigh these factors together.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Very high-resolution images of private gardens are widely available online. Which concern is most directly linked to this?",
+    "options": [
+     "Loss of privacy",
+     "Increased rainfall",
+     "Faster plate movement",
+     "A fall in the price of maps"
+    ],
+    "answer": 0,
+    "explanation": "Detailed imagery can reveal personal property and activities, so privacy and responsible use of data are important ethical concerns.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A vegetation index measured by satellite for a farming region falls from 0.7 to 0.3 over ten years. Which conclusion is best supported by this evidence alone?",
+    "options": [
+     "Vegetation cover or health has probably decreased, but the cause needs further evidence",
+     "Deforestation by loggers is certain",
+     "The climate has definitely warmed",
+     "The satellite has been moved"
+    ],
+    "answer": 0,
+    "explanation": "The index shows a fall in greenness, but not why. Drought, overgrazing, land use change or sensor changes might all contribute, so more evidence is needed.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student wants to map individual houses in a village using freely available images with 1 km resolution. Why is this unsuitable?",
+    "options": [
+     "1 km pixels are too large; one pixel covers much more than a house",
+     "1 km images only show the oceans",
+     "Houses cannot be seen from space",
+     "Free images are always out of date"
+    ],
+    "answer": 0,
+    "explanation": "Each 1 km pixel covers 1 km², far bigger than a house, so individual buildings blend into a single value. Much finer resolution is needed for this task.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What is GIS?\nA **Geographic Information System (GIS)** is computer software that stores, analyses and displays information linked to places. Instead of one flat map, a GIS has many **layers**, such as roads, rivers, land use, population and flood zones. Layers can be switched on or off and **overlaid** to find patterns and answer questions, for example which homes lie inside a flood zone.\n\n## Data types in a GIS\n- **Vector data** stores features as points (a school), lines (a road or river) and polygons (a lake or district).\n- **Raster data** is a grid of pixels, like a satellite image or a digital elevation model.\n\n## Remote sensing\n**Remote sensing** means collecting information about the Earth from a distance, usually using satellites, aircraft or drones. Sensors record energy reflected or emitted from the surface. Common sources include Landsat and Sentinel satellites.\n- **True-colour images** look like ordinary photographs.\n- **False-colour images** use wavelengths we cannot see, such as near-infrared. Healthy vegetation reflects strongly and often appears bright red.\n- **Radar** can see through cloud and darkness.\n\n## Resolution\n**Resolution** is the size of the ground area one pixel represents. A 30 m resolution means each pixel covers 30 m × 30 m = 900 m². Fine resolution (1 m) shows individual buildings; coarse resolution (1 km) shows only large features. Fine detail usually means smaller coverage or a higher cost.\n\n## GPS\nThe **Global Positioning System** uses satellite signals to calculate your exact position. Fieldworkers use GPS to record coordinates for sample sites which can then be added to a GIS.\n\n## Uses\n- **Change detection**: compare images from different years to track deforestation, glacier retreat, coastal erosion or urban sprawl.\n- **Disaster response**: map damage after earthquakes or floods. Volunteers can contribute through crowdsourced mapping, as happened with OpenStreetMap after the 2010 Haiti earthquake.\n- **Planning**: choose sites for wind farms, hospitals or flood defences by overlaying constraints.\n\n## Advantages and limitations\nAdvantages: large and remote areas covered, regular repeats, data can be analysed quickly, and layers can be combined. Limitations: cloud blocks optical images, software and training cost money, resolution may be too coarse, and data still needs checking with fieldwork (ground truthing). There are also ethical issues such as privacy.\n\n## Worked example\nA cleared forest patch is 4500 m². The image resolution is 10 m, so each pixel is 100 m². Number of pixels = 4500 ÷ 100 = 45.\n\n## Common mistakes\n- Treating resolution as an area rather than a side length. Always square it.\n- Saying satellites can see through clouds without mentioning radar.\n- Assuming an image shows the cause of a change, when it only shows that a change happened.\n\n## How this is examined\nExpect a context such as planning a flood scheme or tracking deforestation, with a described satellite image or GIS layers. You may be asked to identify what layers to overlay, calculate area from pixels, state a limitation and justify whether GIS is the best tool.\n\nExam tip: When asked to evaluate GIS, give one clear advantage, one limitation, and then a judgement tied to the scenario.",
+  "flashcards": [
+   {
+    "front": "What is GIS?",
+    "back": "A Geographic Information System: software that stores, analyses and displays spatial data as layers on digital maps."
+   },
+   {
+    "front": "What is a GIS layer?",
+    "back": "A separate set of data, such as roads, rivers or land use, that can be switched on or off and overlaid with other layers."
+   },
+   {
+    "front": "Define remote sensing",
+    "back": "Collecting data about the Earth's surface from a distance, using satellites, aircraft or drones."
+   },
+   {
+    "front": "What does GPS do?",
+    "back": "Uses satellite signals to work out a receiver's precise position on Earth, so sites can be recorded accurately."
+   },
+   {
+    "front": "Vector vs raster data",
+    "back": "Vector data uses points, lines and polygons. Raster data is a grid of pixels, e.g. a satellite image."
+   },
+   {
+    "front": "What is resolution?",
+    "back": "The ground size represented by one pixel. A 30 m resolution means each pixel covers 30 m × 30 m = 900 m²."
+   },
+   {
+    "front": "Why use false-colour images?",
+    "back": "They show wavelengths we cannot see, e.g. near-infrared, making features such as healthy vegetation (often red) easier to identify."
+   },
+   {
+    "front": "What is change detection?",
+    "back": "Comparing images of the same place from different dates to see changes such as deforestation or urban growth."
+   },
+   {
+    "front": "Limitation of optical satellite images",
+    "back": "Cloud blocks the view. Resolution can also be too coarse, and results should be checked with fieldwork (ground truthing)."
+   }
+  ]
+ }
+]

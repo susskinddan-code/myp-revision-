@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "geography",
+  "grade": 5,
+  "topic": "Urbanisation",
+  "subTopic": "Urban Growth and Megacities",
+  "questions": [
+   {
+    "content": "What does the term 'urbanisation' mean?",
+    "options": [
+     "The growth of farmland around cities",
+     "The movement of people out of cities",
+     "A rise in the number of cars in cities",
+     "An increase in the proportion of a country's people living in towns and cities"
+    ],
+    "answer": 3,
+    "explanation": "Urbanisation is about the share of the population living in urban areas. Movement out of cities is counter-urbanisation.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "How is a 'megacity' usually defined?",
+    "options": [
+     "A city with more than 10 million people",
+     "A city that is a national capital",
+     "A city with more than 1 million people",
+     "A city that has a port"
+    ],
+    "answer": 0,
+    "explanation": "A megacity is a city with a population of 10 million or more. Being a capital or having a port does not make a city a megacity.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which parts of the world are currently urbanising most rapidly?",
+    "options": [
+     "Western Europe and North America",
+     "Antarctica and the Arctic",
+     "Asia and Africa",
+     "Australia and New Zealand"
+    ],
+    "answer": 2,
+    "explanation": "Most of the fastest urban growth is in Asia and Africa, where many people are moving to cities. Western Europe and North America urbanised earlier and are already highly urban.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these cities is among the largest urban areas in the world, with a population of around 37 million in the greater metropolitan area?",
+    "options": [
+     "Tokyo",
+     "Reykjavik",
+     "Canberra",
+     "Geneva"
+    ],
+    "answer": 0,
+    "explanation": "The greater Tokyo area is usually named by the United Nations as the largest urban agglomeration, with more than 30 million people. The other three are small cities.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "An 'informal settlement' (such as a favela or shanty town) is best described as:",
+    "options": [
+     "A luxury area close to the city centre",
+     "A planned housing estate with full services",
+     "A business park in the suburbs",
+     "Housing built without legal permission, often with poor services"
+    ],
+    "answer": 3,
+    "explanation": "Informal settlements are built on land without legal ownership or planning approval and often lack water, sanitation and secure tenure.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A country has 80 million people and 60% of them live in urban areas. How many urban residents is that?",
+    "options": [
+     "20 million",
+     "60 million",
+     "4.8 million",
+     "48 million"
+    ],
+    "answer": 3,
+    "explanation": "60% of 80 million = 0.6 × 80 = 48 million. Answering 60 million treats the percentage as if it were a number of millions.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A city of 2.4 million people is growing at 3% a year. Using the rule of 70, about how long will it take to double in size?",
+    "options": [
+     "70 years",
+     "About 23 years",
+     "About 14 years",
+     "About 46 years"
+    ],
+    "answer": 1,
+    "explanation": "Doubling time ≈ 70 ÷ 3 = 23.3 years. The starting population does not change the doubling time.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A city of 6.4 million people covers 800 km². What is its population density?",
+    "options": [
+     "800 people per km²",
+     "80 people per km²",
+     "5.12 people per km²",
+     "8000 people per km²"
+    ],
+    "answer": 3,
+    "explanation": "Population density = population ÷ area = 6 400 000 ÷ 800 = 8000 people per km².",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why do cities in many low and middle income countries grow faster than cities in high income countries?",
+    "options": [
+     "They have fewer jobs, so people stay",
+     "Strong rural-to-urban migration plus a high natural increase",
+     "Governments have banned rural living",
+     "They have lower birth rates than rural areas"
+    ],
+    "answer": 1,
+    "explanation": "Cities in these countries receive many migrants from the countryside, who are often young and have children there. This adds natural increase to migration.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why are informal settlements often found on steep hillsides, flood plains or next to railways?",
+    "options": [
+     "Because this land is cheap or unused and people have little choice",
+     "Because the government plans them there",
+     "Because these places have the best services",
+     "Because land there is the most expensive"
+    ],
+    "answer": 0,
+    "explanation": "Poor migrants cannot afford formal housing, so they occupy land that is risky or unwanted. This makes them vulnerable to landslides, floods and eviction.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A young couple moves from a large city to a village 60 km away to find cheaper housing and a quieter life. What is this process called?",
+    "options": [
+     "Urbanisation",
+     "Counter-urbanisation",
+     "Megacity growth",
+     "Urban renewal"
+    ],
+    "answer": 1,
+    "explanation": "Counter-urbanisation is the movement of people from large urban areas to smaller towns and rural villages, common in wealthier countries.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A city needs 120 000 new households housed every year but only 40 000 new homes are built each year. How large is the housing shortfall after 5 years, assuming no change?",
+    "options": [
+     "80 000",
+     "200 000",
+     "600 000",
+     "400 000"
+    ],
+    "answer": 3,
+    "explanation": "Yearly shortfall = 120 000 − 40 000 = 80 000. Over 5 years it adds up to 80 000 × 5 = 400 000. Informal housing often fills the gap.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In 2000 a country had 60 million people, 40% living in towns. In 2020 it had 80 million people, 60% living in towns. Which statement is correct?",
+    "options": [
+     "The urban population doubled, while the rural population fell by about 11%",
+     "The urban population rose by 20 million, and the rural population stayed the same",
+     "The urban population rose by 20%, and the rural population doubled",
+     "Both urban and rural populations doubled"
+    ],
+    "answer": 0,
+    "explanation": "Urban: 24 million → 48 million (doubled). Rural: 36 million → 32 million, a fall of 4 ÷ 36 × 100 ≈ 11%. Always convert percentages to actual numbers before comparing.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A country's total population and its urban population both grow by 2% each year. Which statement is true about its level of urbanisation?",
+    "options": [
+     "Urbanisation is rising quickly, because cities are growing",
+     "The share of people living in urban areas stays the same, so it is not urbanising",
+     "Urbanisation is falling quickly",
+     "No conclusion is possible without the death rate"
+    ],
+    "answer": 1,
+    "explanation": "Urbanisation measures the percentage of people who are urban. If both numbers grow at the same rate the percentage is unchanged, even though cities get bigger.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Karvela is a fictional megacity of 12 million people. A survey finds 40% live in informal settlements. A report claims 'about 5 million are in informal housing'. How should this be judged?",
+    "options": [
+     "Accurate to the nearest million: 4.8 million",
+     "Wrong: it should be 40 million",
+     "Wrong: it should be 2.4 million",
+     "Accurate: it is exactly 5 million"
+    ],
+    "answer": 0,
+    "explanation": "40% of 12 million = 4.8 million, which rounds to about 5 million. The statement is a fair approximation but not an exact figure.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Why are megacities in Asia and Africa growing faster than most European cities today?",
+    "options": [
+     "European cities are banned from growing",
+     "European cities have more rural migrants",
+     "They are going through rapid industrialisation and rural-to-urban migration now, whereas Europe urbanised earlier",
+     "Asian and African cities have no natural increase"
+    ],
+    "answer": 2,
+    "explanation": "Europe's main period of urbanisation took place during and after its industrial revolution. Many Asian and African countries are in that phase now, with large rural populations still moving to cities.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student argues: 'Cities are good for national economies because they bring workers, firms and services together.' Which concept best supports this?",
+    "options": [
+     "Counter-urbanisation",
+     "Deforestation",
+     "Agglomeration, where activities cluster and benefit from shared markets and skills",
+     "Natural decrease"
+    ],
+    "answer": 2,
+    "explanation": "Agglomeration means firms and workers gain from being close together, with bigger markets, shared infrastructure and more specialised skills. This is why cities produce a large share of national output.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A newspaper article states 'Megacities are the main cause of poverty because poverty is highest there.' Which weakness should a student identify first?",
+    "options": [
+     "The article does not mention Tokyo",
+     "Megacities have too many roads",
+     "It confuses correlation with cause and gives no data to compare rural poverty",
+     "The article is too short"
+    ],
+    "answer": 2,
+    "explanation": "Poverty can be concentrated in cities because many poor people move there seeking work. Without comparisons to rural areas, the claim of cause is unsupported.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What is urbanisation?\nUrbanisation is the increase in the **proportion** of a country's people who live in towns and cities. More than half of the world's people now live in urban areas, and the number keeps rising. It is important to separate two ideas: **urban growth** means the cities get bigger in number of people, while **urbanisation** means the percentage of people who are urban goes up. If everyone in a country grows at the same rate, cities grow but the country does not urbanise.\n\n## Where is it happening?\nHigh income countries in Europe and North America urbanised during and after the industrial revolution, and now most people there already live in cities. Today the fastest urban growth is in Asia and Africa, in low and middle income countries. A **megacity** is a city with 10 million people or more. Examples include Tokyo, Delhi, Shanghai, Mexico City, São Paulo, Cairo and Lagos. Many new megacities are in low and middle income countries.\n\n## Causes of urban growth\n- **Rural-to-urban migration**. Push factors: poverty, farms too small, drought, poor schools and clinics, lack of jobs. Pull factors: jobs, higher wages, better education and healthcare, and the hope of a better life.\n- **Natural increase**. Migrants are often young adults, so cities have many births. Better healthcare also lowers death rates.\n- **Economic growth and industrialisation**: factories and offices cluster in cities (agglomeration).\n- **Reclassification**: sometimes villages are officially counted as part of a city.\n\n## Opportunities and challenges of cities\nOpportunities: jobs, services, culture, economic output and more efficient use of land per person. Challenges: housing shortages, informal settlements, traffic, air pollution, waste, pressure on water and crime. Rapid growth makes planning harder because new people arrive faster than services can be built.\n\n## Informal settlements\nInformal settlements (called favelas in Brazil, for example) grow when migrants cannot afford formal housing. They are often built on land that is cheap but risky, such as steep slopes or flood plains. They usually lack clean water, sanitation, electricity and secure ownership. However, residents often build strong communities and run small businesses.\n\n## Calculations\n- Urban population = total population × percentage urban. For 80 million people with 60% urban: 0.6 × 80 = 48 million.\n- Density = population ÷ area. For 6.4 million in 800 km²: 8000 per km².\n- Doubling time ≈ 70 ÷ growth rate. At 3% this is about 23 years.\n- Shortfall = need − supply. If 120 000 households form each year and 40 000 homes are built, the gap is 80 000 each year.\n\n## Common mistakes\n- Mixing up urban growth and urbanisation.\n- Saying that all informal settlements are 'slums with no hope'. Strong answers mention community and improvement.\n- Not giving figures when describing a trend.\n- Forgetting that natural increase, as well as migration, drives city growth.\n\n## How this is examined\nQuestions often give a short extract or data about a city, with population totals and percentages, and ask you to extract numbers, calculate urban populations or densities, then explain causes and discuss impacts. Longer tasks ask you to evaluate whether urban growth is mainly an opportunity or a problem and to use named examples.\n\nExam tip: for any city you mention, include its country, one figure (such as population) and one specific cause or effect.",
+  "flashcards": [
+   {
+    "front": "Urbanisation",
+    "back": "An increase in the proportion of a country's population living in towns and cities."
+   },
+   {
+    "front": "Megacity",
+    "back": "A city with a population of 10 million or more, for example Tokyo, Delhi or Lagos."
+   },
+   {
+    "front": "Urban growth vs urbanisation",
+    "back": "Urban growth is cities getting bigger in numbers. Urbanisation is the share of people who are urban rising."
+   },
+   {
+    "front": "Two main causes of urban growth",
+    "back": "Rural-to-urban migration and natural increase among the young urban population."
+   },
+   {
+    "front": "Rural push factors",
+    "back": "Poverty, small farms, drought, few jobs and poor services such as schools and clinics."
+   },
+   {
+    "front": "Urban pull factors",
+    "back": "Jobs, higher wages, better education and healthcare, and more opportunities."
+   },
+   {
+    "front": "Informal settlement",
+    "back": "Housing built without legal permission, often with no sanitation or secure ownership. Called favelas in Brazil."
+   },
+   {
+    "front": "Counter-urbanisation",
+    "back": "Movement of people from large cities into smaller towns and villages, common in high income countries."
+   },
+   {
+    "front": "Population density formula",
+    "back": "Population ÷ area (km²). For example 6.4 million ÷ 800 km² = 8000 people per km²."
+   }
+  ]
+ },
+ {
+  "subject": "geography",
+  "grade": 5,
+  "topic": "Urbanisation",
+  "subTopic": "Urban Challenges and Planning",
+  "questions": [
+   {
+    "content": "Which term describes the uncontrolled spread of a city into the surrounding countryside?",
+    "options": [
+     "Urban sprawl",
+     "Counter-urbanisation",
+     "Gentrification",
+     "Pedestrianisation"
+    ],
+    "answer": 0,
+    "explanation": "Urban sprawl is the outward spread of low-density development from a city. It uses farmland and increases car use.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a 'brownfield site'?",
+    "options": [
+     "A forest protected by law",
+     "Land in the countryside never built on",
+     "A farm outside the city",
+     "Land that has been built on before and is now unused"
+    ],
+    "answer": 3,
+    "explanation": "Brownfield sites are previously developed land, such as old factories. Greenfield sites are undeveloped land, usually on the edge of the city.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a typical cause of air pollution in a large city?",
+    "options": [
+     "Cycle lanes",
+     "Parks and trees",
+     "Traffic and industrial emissions",
+     "Rainwater tanks"
+    ],
+    "answer": 2,
+    "explanation": "Vehicle exhaust, factories and power plants release pollutants such as nitrogen oxides and particles. Trees and cycle lanes help reduce pollution.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the main purpose of a green belt around a city?",
+    "options": [
+     "To build more roads",
+     "To limit urban sprawl and protect countryside",
+     "To attract tourists",
+     "To create housing for migrants"
+    ],
+    "answer": 1,
+    "explanation": "A green belt is a zone of protected land around a city where new building is restricted, helping stop the city from spreading.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Traffic congestion means:",
+    "options": [
+     "Too many vehicles for the available road space, which slows travel",
+     "A road closed for building work",
+     "A shortage of cars in a city",
+     "A high number of bicycles"
+    ],
+    "answer": 0,
+    "explanation": "Congestion occurs when demand for road space exceeds capacity, leading to delays, pollution and lost time.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Curitiba in Brazil became well known from the 1970s for a transport solution based on:",
+    "options": [
+     "An underground rail network",
+     "A bus rapid transit system with dedicated lanes",
+     "A ban on all buses",
+     "A cable car system for commuters"
+    ],
+    "answer": 1,
+    "explanation": "Curitiba developed bus rapid transit, using dedicated bus lanes and raised boarding tubes to give a cheaper alternative to a metro.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A fictional city, Karvela, charges $10 per day for 80 000 vehicles entering the centre on each working day. Assuming 250 working days a year, what is the annual revenue?",
+    "options": [
+     "$800 000",
+     "$20 million",
+     "$200 million",
+     "$2 billion"
+    ],
+    "answer": 2,
+    "explanation": "$10 × 80 000 = $800 000 per day. Multiplying by 250 days gives $200 000 000, which is $200 million.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "After a congestion charge starts, daily vehicles entering the centre fall from 250 000 to 200 000. What is the percentage decrease?",
+    "options": [
+     "25%",
+     "50%",
+     "10%",
+     "20%"
+    ],
+    "answer": 3,
+    "explanation": "Change = 50 000. 50 000 ÷ 250 000 × 100 = 20%. Using the new figure as the base gives 25%, which is wrong.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In land use zoning, why do cities often keep industrial areas away from housing?",
+    "options": [
+     "Because factories need to be in the middle of schools",
+     "To reduce noise, pollution and health risks for residents",
+     "Because homes never need roads",
+     "To make travel to work longer"
+    ],
+    "answer": 1,
+    "explanation": "Zoning separates incompatible land uses so residents are protected from noise, smells and pollution. The trade-off is that people may have to travel further to work.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A self-help housing scheme gives residents of an informal settlement building materials, water pipes and training to improve their own homes. Why is this often cost-effective?",
+    "options": [
+     "It requires the government to demolish the settlement",
+     "It removes all residents from the city",
+     "It makes residents pay the full cost of everything",
+     "It uses local labour and builds on existing communities, so costs are lower than rebuilding"
+    ],
+    "answer": 3,
+    "explanation": "Self-help schemes keep people in their neighbourhoods and use their own skills. This costs less than clearing the area and re-housing everyone.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Gentrification occurs when:",
+    "options": [
+     "Wealthier people move into poorer areas, pushing up rents and prices",
+     "A city's population falls sharply",
+     "Factories open in a deprived area",
+     "People move from the city to the coast"
+    ],
+    "answer": 0,
+    "explanation": "Gentrification regenerates an area but can force long-term, lower-income residents out because of higher housing costs.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A city plans to build new flats on a brownfield site rather than on a greenfield site. Which is an advantage of the brownfield choice?",
+    "options": [
+     "It is usually cheaper to clear the land",
+     "It protects countryside and uses land in the city that already has roads and services nearby",
+     "It avoids all contamination issues",
+     "It always makes the homes cheaper"
+    ],
+    "answer": 1,
+    "explanation": "Brownfield land is already within the built-up area, so it uses existing services and spares greenfield land. However, old industrial sites can be contaminated and expensive to clean.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A city's recycling plant processes 18 000 tonnes of a total of 60 000 tonnes of household waste. The city's target is a 45% recycling rate. How many extra tonnes must it recycle to reach the target?",
+    "options": [
+     "9 000 tonnes",
+     "27 000 tonnes",
+     "15 000 tonnes",
+     "12 000 tonnes"
+    ],
+    "answer": 0,
+    "explanation": "Target = 0.45 × 60 000 = 27 000 tonnes. Extra needed = 27 000 − 18 000 = 9 000 tonnes. The current rate is 30%.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A planner says: 'Congestion charging solved our traffic problem because traffic is down 20% in the centre.' Which question would best test this claim?",
+    "options": [
+     "How many people live in the city?",
+     "Has traffic increased on roads just outside the charge zone, and have public transport options improved?",
+     "How much does the charge cost to collect?",
+     "What colour are the buses?"
+    ],
+    "answer": 1,
+    "explanation": "A strong evaluation checks for displacement of traffic and whether alternatives exist. A fall in one zone does not prove the whole city's problem is solved.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A residents' group opposes an urban redevelopment scheme that improves roads and parks but raises local rents by 40%. Which perspective is the group most likely to be expressing?",
+    "options": [
+     "The developer, who wants to maximise profit",
+     "The tourist, who wants nicer parks",
+     "The council, which wants to reduce spending",
+     "Low-income tenants worried about being priced out"
+    ],
+    "answer": 3,
+    "explanation": "Rising rents are a major concern for existing low-income residents. Recognising different stakeholder perspectives is a key skill in urban planning questions.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which is the best reason why simply demolishing an informal settlement and moving residents to the edge of the city can fail?",
+    "options": [
+     "Residents lose jobs and social networks that depend on the original location, so many return",
+     "Houses on the edge are always larger",
+     "Demolition makes the air cleaner",
+     "Residents prefer long commutes"
+    ],
+    "answer": 0,
+    "explanation": "Informal workers often depend on local customers and nearby jobs. Being moved far away can cut income and break community ties, undermining the scheme.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A city builds a new ring road to reduce congestion and traffic initially falls, but within five years it has returned to the old level. What is the best explanation?",
+    "options": [
+     "Roads wear out within five years",
+     "More road space encourages extra car use and development, which fills the capacity",
+     "Cars use less fuel on ring roads",
+     "People stop using public transport because it is too cheap"
+    ],
+    "answer": 1,
+    "explanation": "Induced demand means that easier driving encourages more car trips and sprawl. This is why many cities favour public transport and demand management rather than only building roads.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which statement gives the most balanced evaluation of bus rapid transit compared with building an underground metro?",
+    "options": [
+     "Metros never help cities",
+     "Bus rapid transit is always better in every city",
+     "Bus rapid transit costs less and can be built faster, but a metro can carry more passengers on very busy corridors",
+     "Bus rapid transit cannot use roads"
+    ],
+    "answer": 2,
+    "explanation": "A good answer weighs cost, speed of construction, capacity and city context. Bus rapid transit is cheaper and quicker; metros move more people on heavy routes but cost much more.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why cities face challenges\nWhen cities grow quickly or without a plan, problems appear. Housing is short, roads are full, services are stretched and the environment suffers. **Urban planning** is the process of deciding how land is used and how services and transport are provided so that a city works well for the people who live in it.\n\n## Common urban challenges\n- **Housing**: shortages lead to high prices, overcrowding and informal settlements.\n- **Traffic congestion**: too many vehicles for road space waste time and fuel and increase pollution.\n- **Pollution**: air pollution from vehicles and industry, noise, and waste in water.\n- **Waste**: large cities produce huge quantities of rubbish and need collection and treatment.\n- **Urban sprawl**: low-density spread onto surrounding countryside, which uses farmland and increases car dependence.\n- **Inequality and crime**: wealthy and poor areas may exist side by side.\n- **Strain on services**: water supply, sewage, health and schools.\n\n## Planning responses\n- **Transport**: public transport such as metros, trams and bus rapid transit (Curitiba in Brazil is a well-known example from the 1970s), cycle lanes and pedestrian zones. **Congestion charging**, such as in central London since 2003, makes drivers pay to enter an area.\n- **Housing**: building on **brownfield** sites (previously built-on land) before **greenfield** sites, building higher-density homes, and self-help or upgrading schemes for informal settlements (providing water, electricity and secure ownership).\n- **Green belts**: protected land around a city to limit sprawl.\n- **Zoning**: dividing the city into areas for housing, industry, shops and green space.\n- **Regeneration**: improving run-down areas, which can lead to **gentrification** if rents rise and original residents are priced out.\n\n## Evaluating a scheme\nPlanning questions often ask you to judge a solution. Consider who benefits, who loses, the cost, how long it takes, side effects and how sustainable it is. For example, a ring road may cut congestion for a short time but encourages more driving, which means congestion returns. Congestion charging can cut traffic in the centre, but it must be paired with good public transport so people have a real choice.\n\nWorked example: a city charges $10 a day to 80 000 vehicles on 250 working days. Annual revenue = 10 × 80 000 × 250 = $200 million. If traffic falls from 250 000 to 200 000 vehicles, the decrease is 50 000 ÷ 250 000 × 100 = 20%.\n\n## Different stakeholders\nResidents, businesses, developers, commuters and the council may all have different views. A new redevelopment may attract jobs and investment (supported by business) but raise rents (opposed by tenants). Showing that you understand perspectives is a mark of a strong answer.\n\n## Common mistakes\n- Describing a scheme without saying what problem it solves.\n- Assuming one solution works for every city.\n- Giving only advantages, with no limitations or costs.\n- Mixing up brownfield and greenfield.\n\n## How this is examined\nYou may be given a short source about a city plan, with figures, then asked to select data, calculate percentage change or revenue, describe the problem, and finally judge whether the scheme is likely to succeed and for whom.\n\nExam tip: when you evaluate, use the words 'however' and 'overall' to show a balanced judgement, and finish by stating which stakeholder gains most.",
+  "flashcards": [
+   {
+    "front": "Urban sprawl",
+    "back": "The uncontrolled outward spread of a city into the surrounding countryside, often low density and car dependent."
+   },
+   {
+    "front": "Brownfield vs greenfield",
+    "back": "Brownfield: land previously built on and now unused. Greenfield: undeveloped land, often on the city edge."
+   },
+   {
+    "front": "Green belt",
+    "back": "A zone of protected land around a city where building is restricted, to limit sprawl."
+   },
+   {
+    "front": "Congestion charge",
+    "back": "A fee for driving into a defined central zone. Used to cut traffic and fund public transport, e.g. London from 2003."
+   },
+   {
+    "front": "Bus rapid transit (Curitiba)",
+    "back": "A bus system with dedicated lanes and fast boarding, developed in Curitiba from the 1970s as a cheaper alternative to a metro."
+   },
+   {
+    "front": "Self-help housing scheme",
+    "back": "A programme helping residents of informal settlements to improve their homes with materials, services and secure ownership."
+   },
+   {
+    "front": "Gentrification",
+    "back": "Wealthier people move into a poorer area, improving it but raising rents and sometimes forcing out original residents."
+   },
+   {
+    "front": "Zoning",
+    "back": "Dividing a city into areas for housing, industry, retail or green space to reduce conflicts such as noise and pollution."
+   },
+   {
+    "front": "Induced demand",
+    "back": "When new road space encourages more car use, so congestion returns after a short time."
+   }
+  ]
+ },
+ {
+  "subject": "geography",
+  "grade": 5,
+  "topic": "Urbanisation",
+  "subTopic": "Sustainable Cities",
+  "questions": [
+   {
+    "content": "Which definition best matches 'sustainable development'?",
+    "options": [
+     "Development that uses as many resources as possible quickly",
+     "Development that only benefits the richest people",
+     "Development that stops all economic growth",
+     "Development that meets present needs without harming the ability of future generations to meet theirs"
+    ],
+    "answer": 3,
+    "explanation": "Sustainable development balances economic, social and environmental needs now and in the future. It does not mean stopping growth.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a feature of a sustainable city?",
+    "options": [
+     "Heavy reliance on private cars",
+     "Efficient public transport and cycle routes",
+     "Landfill as the only waste solution",
+     "Little green space"
+    ],
+    "answer": 1,
+    "explanation": "Sustainable cities reduce car use and emissions by providing safe, efficient alternatives such as trains, buses, cycling and walking routes.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "An 'ecological footprint' measures:",
+    "options": [
+     "The area of land and sea needed to supply a population's resources and absorb its waste",
+     "The number of footpaths in a city",
+     "The number of animals in a park",
+     "The height of buildings"
+    ],
+    "answer": 0,
+    "explanation": "The ecological footprint estimates how much productive land and water is needed to support a lifestyle. A bigger footprint is less sustainable.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is an example of renewable energy that a sustainable city might use?",
+    "options": [
+     "Coal",
+     "Oil",
+     "Natural gas",
+     "Solar power"
+    ],
+    "answer": 3,
+    "explanation": "Solar, wind, hydro and geothermal energy are renewable. Coal, oil and gas are fossil fuels that will run out and add to greenhouse gas emissions.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is part of the '3Rs' used to reduce waste?",
+    "options": [
+     "Rebuild, Resist, Remove",
+     "Reduce, Reuse, Recycle",
+     "Rent, Repair, Resell",
+     "Run, Rest, Repeat"
+    ],
+    "answer": 1,
+    "explanation": "The 3Rs are reduce, reuse, recycle. Reducing waste at source is generally the most effective step.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A city emits 6 million tonnes of CO₂ a year and has 2 million people. What are its emissions per person?",
+    "options": [
+     "12 tonnes",
+     "0.33 tonnes",
+     "4 tonnes",
+     "3 tonnes"
+    ],
+    "answer": 3,
+    "explanation": "Emissions per person = 6 million ÷ 2 million = 3 tonnes of CO₂. Dividing the other way round gives 0.33.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The city above sets a target to cut total emissions by 25%. If it does this, what will its total emissions be?",
+    "options": [
+     "4.5 million tonnes",
+     "1.5 million tonnes",
+     "5.75 million tonnes",
+     "3 million tonnes"
+    ],
+    "answer": 0,
+    "explanation": "25% of 6 million = 1.5 million. 6 − 1.5 = 4.5 million tonnes. The figure of 1.5 million is only the reduction, not what remains.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A city uses 500 GWh of electricity a year and cuts consumption by 40% using efficient buildings and LED lighting. How much electricity does it now use?",
+    "options": [
+     "200 GWh",
+     "460 GWh",
+     "300 GWh",
+     "340 GWh"
+    ],
+    "answer": 2,
+    "explanation": "40% of 500 = 200 GWh saved. 500 − 200 = 300 GWh remains. Subtracting 40 instead of 40% gives the wrong answer.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Singapore recycles used water into 'NEWater'. Which sustainability goal does this most directly support?",
+    "options": [
+     "Reducing reliance on imported water and conserving resources",
+     "Increasing car ownership",
+     "Expanding urban sprawl",
+     "Reducing the number of parks"
+    ],
+    "answer": 0,
+    "explanation": "Recycling water reduces demand on external supplies and uses a limited resource more than once. This is a form of circular resource use.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which urban design feature helps to reduce the 'urban heat island' effect?",
+    "options": [
+     "Dark tarmac everywhere",
+     "More car parks",
+     "Green roofs, trees and reflective surfaces",
+     "Tall glass buildings without shade"
+    ],
+    "answer": 2,
+    "explanation": "Cities are warmer than the surrounding countryside because buildings and roads store heat. Vegetation and light surfaces reduce temperatures and improve comfort.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A car emits 0.2 kg of CO₂ per km. A worker commutes 10 km each way for 220 days a year by car. How much CO₂ does this commute produce in a year?",
+    "options": [
+     "44 kg",
+     "880 kg",
+     "440 kg",
+     "8.8 kg"
+    ],
+    "answer": 1,
+    "explanation": "Daily distance = 20 km. 20 × 220 = 4400 km per year. 4400 × 0.2 = 880 kg. Forgetting the return journey would give 440 kg.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A 'compact city' design keeps homes, jobs and shops close together. Which benefit is most closely linked to this design?",
+    "options": [
+     "It increases the need for long commutes",
+     "It uses more farmland",
+     "It reduces travel distances, so walking, cycling and public transport work better",
+     "It makes cities less dense"
+    ],
+    "answer": 2,
+    "explanation": "Mixed, higher-density areas shorten journeys and support public transport, cutting emissions and saving land.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Urban farming, such as rooftop gardens and community plots, is promoted in some cities. Which is the best sustainability argument for it?",
+    "options": [
+     "It stops all food imports permanently",
+     "It reduces food miles and provides fresh local food and green space",
+     "It removes the need for farmland everywhere",
+     "It increases urban sprawl"
+    ],
+    "answer": 1,
+    "explanation": "Growing food locally reduces transport emissions and can improve access to fresh produce. It will not replace rural farming entirely, so the claim that it stops all food imports permanently overstates.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Two cities are compared. City P has per-person emissions of 3.0 tonnes, reduced from 4.0 tonnes over 10 years. City Q has per-person emissions of 5.0 tonnes, reduced from 5.5 tonnes. Which statement is correct?",
+    "options": [
+     "Q has done better because its emissions are higher",
+     "P cut by 25% and Q cut by about 9%, so P achieved a bigger relative improvement",
+     "P and Q cut emissions by the same percentage",
+     "Q cut by 0.5 tonnes so it has a bigger relative cut"
+    ],
+    "answer": 1,
+    "explanation": "P: 1.0 ÷ 4.0 = 25%. Q: 0.5 ÷ 5.5 ≈ 9.1%. Comparing percentage change, not just absolute change, shows which city improved more.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A city introduces free public transport. Passenger numbers rise by 30%, but surveys show many new passengers previously walked or cycled. What is the best conclusion?",
+    "options": [
+     "Free transport always reduces emissions",
+     "The scheme has no effect on anything",
+     "The benefit to emissions may be smaller than expected, because some passengers switched from walking or cycling, not driving",
+     "Walking and cycling cause more pollution than buses"
+    ],
+    "answer": 2,
+    "explanation": "To reduce emissions, a scheme needs to switch drivers to public transport. If walkers and cyclists switch instead, the benefit is limited. Good evaluation looks at where the new users came from.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which is the best justification for why a sustainable city needs to consider social as well as environmental goals?",
+    "options": [
+     "Social goals have nothing to do with sustainability",
+     "Environmental measures never cost money",
+     "Only the environment matters",
+     "If housing and services are unaffordable or unfair, residents will not support or benefit from the scheme, so it is not sustainable in the long run"
+    ],
+    "answer": 3,
+    "explanation": "Sustainability has three pillars: environmental, economic and social. A green project that makes housing unaffordable fails the social test.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A city claims it is now 'carbon neutral' because it buys carbon offsets, while its actual emissions have not fallen. What is the strongest criticism?",
+    "options": [
+     "Offsets are always illegal",
+     "Neutrality needs no evidence",
+     "It is only a limited solution because emissions have not been reduced at source",
+     "Offsets increase the temperature of cities"
+    ],
+    "answer": 2,
+    "explanation": "Offsets pay for reductions elsewhere but do not reduce the city's own emissions. A better strategy prioritises cutting emissions first and uses offsets only for what remains.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A city proposes to ban all private cars in the centre within a year. Which is the most important factor in judging whether this plan will be sustainable?",
+    "options": [
+     "Whether the ban is popular with a single politician",
+     "The colour of the new road signs",
+     "Whether people have affordable, reliable alternatives and whether businesses can still receive deliveries",
+     "Whether the city has a river"
+    ],
+    "answer": 2,
+    "explanation": "A plan only works if residents, workers and businesses can still function. Evaluating practicality, fairness and economic impact is more important than superficial features.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What makes a city sustainable?\nA **sustainable city** meets the needs of its people today without damaging the environment or the chances of future generations. Sustainability has three linked parts: **environmental** (low pollution and waste, protecting nature), **economic** (jobs and affordable living) and **social** (fairness, health, community and safe housing). A scheme that is green but unaffordable is not truly sustainable.\n\nThe United Nations Sustainable Development Goal 11 is about making cities and settlements inclusive, safe, resilient and sustainable.\n\n## Features of sustainable cities\n- **Transport**: reliable public transport, safe cycling and walking routes, electric vehicles and limits on cars in the centre.\n- **Energy**: renewable sources such as solar and wind, energy-efficient buildings, LED lighting and insulation.\n- **Waste**: the 3Rs (reduce, reuse, recycle), composting and turning waste into energy. A circular approach keeps materials in use for longer.\n- **Water**: reducing leaks, collecting rainwater and recycling water. Singapore is well known for recycling used water as NEWater.\n- **Green space**: parks, trees, green roofs and urban farms improve air quality, reduce the urban heat island effect and support wellbeing.\n- **Housing and design**: compact, mixed-use neighbourhoods where homes, shops, schools and jobs are close together, reducing travel.\n- **Community**: affordable housing, involving residents in decisions and good services for all.\n\n## Examples\n- **Curitiba, Brazil**: bus rapid transit, large parks and recycling programmes.\n- **Copenhagen, Denmark**: very high levels of cycling and a goal to become carbon neutral.\n- **Singapore**: green buildings, vertical gardens, strong planning and water recycling.\n- **Freiburg, Germany**: solar energy and car-free neighbourhoods such as Vauban.\n\n## Measuring sustainability\nGeographers use indicators such as **ecological footprint**, CO₂ per person, percentage of waste recycled, share of renewable energy and air quality measurements.\n\nWorked example: a city emits 6 million tonnes of CO₂ and has 2 million residents. Emissions per person = 6 ÷ 2 = 3 tonnes. A 25% cut leaves 6 × 0.75 = 4.5 million tonnes. If a city cuts per-person emissions from 4.0 to 3.0 tonnes, that is a 25% fall; another city cutting from 5.5 to 5.0 achieved only about 9%, so comparing percentage change is fairer than comparing absolute change.\n\n## Limits and criticisms\nSustainable schemes can be expensive, may benefit wealthier areas first or cause gentrification. Some claims, such as being 'carbon neutral' through offsets, may not reduce actual emissions. Success depends on political will, funding and public support.\n\n## Common mistakes\n- Writing about 'the environment' only, ignoring the social and economic parts.\n- Listing features without explaining how they reduce a problem.\n- Calling a city sustainable without any data.\n- Confusing renewable and non-renewable energy.\n\n## How this is examined\nIn the eAssessment you may be given a plan for a sustainable district with figures on energy, waste or travel. You could be asked to pick relevant data, calculate percentage change or emissions per person, then judge the plan, state assumptions and mention limitations. Some questions ask you to recommend and justify a plan for a fictional city.\n\nExam tip: for evaluate or justify questions, link each feature to a specific impact, include a figure, and mention at least one limitation or trade-off before you give your overall judgement.",
+  "flashcards": [
+   {
+    "front": "Sustainable development",
+    "back": "Development that meets the needs of people today without reducing the ability of future generations to meet their needs."
+   },
+   {
+    "front": "Three pillars of sustainability",
+    "back": "Environmental, economic and social. A sustainable city balances all three."
+   },
+   {
+    "front": "Ecological footprint",
+    "back": "The area of land and water needed to provide a population's resources and absorb its waste."
+   },
+   {
+    "front": "The 3Rs",
+    "back": "Reduce, reuse, recycle. Reducing waste at the start is usually the most effective."
+   },
+   {
+    "front": "Urban heat island",
+    "back": "Cities are warmer than nearby countryside because buildings and roads absorb and hold heat. Trees and green roofs help."
+   },
+   {
+    "front": "Compact city",
+    "back": "A high-density, mixed-use design with homes, jobs and shops close together, reducing travel and saving land."
+   },
+   {
+    "front": "Sustainable transport examples",
+    "back": "Metro, trams, bus rapid transit, cycling and walking routes, electric vehicles and congestion charging."
+   },
+   {
+    "front": "SDG 11",
+    "back": "A UN goal to make cities and human settlements inclusive, safe, resilient and sustainable."
+   },
+   {
+    "front": "Why compare percentage change, not just absolute change?",
+    "back": "A 0.5 tonne cut is a larger fraction of a small total than a large total, so percentages give a fairer comparison."
+   }
+  ]
+ }
+]

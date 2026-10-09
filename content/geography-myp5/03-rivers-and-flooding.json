@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "geography",
+  "grade": 5,
+  "topic": "Rivers and Flooding",
+  "subTopic": "River Processes and Landforms",
+  "questions": [
+   {
+    "content": "What is the name for the point where a smaller river joins a larger river?",
+    "options": [
+     "Source",
+     "Confluence",
+     "Watershed",
+     "Mouth"
+    ],
+    "answer": 1,
+    "explanation": "A confluence is where two rivers meet. The smaller river joining the main one is called a tributary. The source is where a river starts.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which type of erosion happens when rocks carried by the river scrape against the bed and banks?",
+    "options": [
+     "Attrition",
+     "Abrasion",
+     "Solution",
+     "Hydraulic action"
+    ],
+    "answer": 1,
+    "explanation": "Abrasion is the grinding of the bed and banks by the river's load. Attrition is when pieces of load knock against each other and become smaller and rounder.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A narrow, V-shaped valley with steep sides and interlocking spurs is typically found in which part of a river?",
+    "options": [
+     "Upper course",
+     "Middle course",
+     "Lower course",
+     "Delta"
+    ],
+    "answer": 0,
+    "explanation": "In the upper course, vertical erosion cuts the valley downwards, creating a V-shape. Interlocking spurs are hillsides the river winds around.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "When does a river deposit its load?",
+    "options": [
+     "When its energy and velocity decrease",
+     "When its velocity increases",
+     "Only in the upper course",
+     "Only when it is frozen"
+    ],
+    "answer": 0,
+    "explanation": "Rivers can only carry material while they have enough energy. When discharge or velocity falls, such as on the inside of a bend, deposition occurs.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which transport process moves small particles such as clay and silt, carrying them in the water?",
+    "options": [
+     "Traction",
+     "Saltation",
+     "Suspension",
+     "Attrition"
+    ],
+    "answer": 2,
+    "explanation": "Suspension carries fine material within the flow. Traction rolls large boulders along the bed, and saltation bounces pebbles along it.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which statement best explains how a waterfall forms?",
+    "options": [
+     "A river flows over a band of hard rock lying above softer rock, which erodes faster",
+     "Waves cut through a headland",
+     "A glacier melts",
+     "Wind blows away soft rock"
+    ],
+    "answer": 0,
+    "explanation": "The soft rock beneath is eroded more quickly, undercutting the hard cap rock, which eventually collapses. The waterfall retreats upstream, leaving a gorge.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "At a meander bend, where does the river erode most strongly and where does it deposit?",
+    "options": [
+     "Erodes the inside bend, deposits on the outside",
+     "Erodes the outside bend, deposits on the inside",
+     "Erodes and deposits equally on both sides",
+     "Erodes only the bed"
+    ],
+    "answer": 1,
+    "explanation": "The fastest flow is on the outside of a bend, forming a river cliff. Slow flow on the inside deposits material and forms a slip-off slope.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How does an oxbow lake form?",
+    "options": [
+     "Heavy rainfall fills a dip",
+     "Erosion of the outside bends narrows the neck of a meander until the river cuts through, and deposition seals off the old loop",
+     "A glacier carves a hollow",
+     "A dam is built"
+    ],
+    "answer": 1,
+    "explanation": "As the outer banks of a meander erode, the neck narrows. During a flood the river cuts across, and the abandoned loop is cut off by deposition, forming an oxbow lake.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student times a float travelling 20 m downstream in 16 seconds. What is the surface velocity of the river?",
+    "options": [
+     "0.8 m/s",
+     "1.25 m/s",
+     "3.2 m/s",
+     "36 m/s"
+    ],
+    "answer": 1,
+    "explanation": "Velocity = distance ÷ time = 20 ÷ 16 = 1.25 m/s. Dividing time by distance (0.8) gives the wrong result.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A river channel is 6 m wide with an average depth of 1.5 m. The mean velocity is 0.8 m/s. What is the discharge?",
+    "options": [
+     "7.2 m³/s",
+     "9 m³/s",
+     "4.8 m³/s",
+     "12.5 m³/s"
+    ],
+    "answer": 0,
+    "explanation": "Cross-sectional area = 6 × 1.5 = 9 m². Discharge = area × velocity = 9 × 0.8 = 7.2 m³/s (cubic metres per second).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Along the long profile of a river from source to mouth, how does the size of the bed load typically change?",
+    "options": [
+     "It becomes larger and more angular",
+     "It becomes smaller and more rounded",
+     "It stays the same",
+     "It becomes larger and rounder"
+    ],
+    "answer": 1,
+    "explanation": "Attrition and abrasion break up and round the load, so particles are small and smooth downstream.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "On a floodplain, long raised banks of coarse material run along the river sides. What are these natural features called?",
+    "options": [
+     "Levees",
+     "Oxbows",
+     "Plunge pools",
+     "Spurs"
+    ],
+    "answer": 0,
+    "explanation": "During floods the heaviest material is deposited next to the channel first, building up natural levees.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Where a river enters a calm sea or lake it deposits its load as a fan-shaped landform. What is this called?",
+    "options": [
+     "A delta",
+     "A gorge",
+     "A ridge",
+     "A tributary"
+    ],
+    "answer": 0,
+    "explanation": "A delta forms when a river slows on meeting standing water and drops sediment faster than the sea can remove it.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The width, depth and discharge of a river all increase downstream. Yet its velocity also tends to increase even though the gradient is gentler. Which is the best explanation?",
+    "options": [
+     "The water is pushed by wind",
+     "The channel becomes larger and smoother, so there is less friction relative to the water volume",
+     "The river is flowing downhill faster at the mouth",
+     "The load gets heavier"
+    ],
+    "answer": 1,
+    "explanation": "A bigger, smoother channel means less of the water touches the bed and banks, so friction is reduced. Efficiency increases and velocity rises despite the gentler slope.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A fictional river falls from 800 m above sea level at its source to sea level over a course of 160 km. What is its average gradient?",
+    "options": [
+     "1 in 20",
+     "1 in 200",
+     "1 in 800",
+     "1 in 5"
+    ],
+    "answer": 1,
+    "explanation": "160 km = 160 000 m. Gradient = 160 000 ÷ 800 = 200, so 1 in 200. A mistake is to forget to convert kilometres into metres.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The discharge of a river at a gauging station rises from 7.2 m³/s to 9.0 m³/s after a storm. What is the percentage increase?",
+    "options": [
+     "18%",
+     "20%",
+     "25%",
+     "80%"
+    ],
+    "answer": 2,
+    "explanation": "Increase = 9.0 – 7.2 = 1.8. 1.8 ÷ 7.2 = 0.25, so 25%. Dividing by the new value would give 20%.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A fictional waterfall has retreated 600 m upstream, leaving a gorge. If it retreats at about 2 m per year, roughly how long has it taken?",
+    "options": [
+     "30 years",
+     "120 years",
+     "300 years",
+     "1200 years"
+    ],
+    "answer": 2,
+    "explanation": "Time = distance ÷ rate = 600 ÷ 2 = 300 years. Retreat happens because the plunge pool undercuts the hard cap rock which then collapses.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student records bed load sizes at four sites from upstream to downstream: 18 cm, 12 cm, 6 cm, 2 cm. Another student claims this proves the river is becoming faster. Which comment is most accurate?",
+    "options": [
+     "The data support the pattern of decreasing load size due to attrition, but say nothing directly about speed",
+     "The data prove the river is faster",
+     "The data are meaningless",
+     "The data show deposition has stopped"
+    ],
+    "answer": 0,
+    "explanation": "Smaller load downstream fits a typical long profile and is caused by erosion processes. It does not measure velocity, so the claim is a mistaken inference.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## The river system\nA river begins at its **source**, often in highlands, and ends at its **mouth**, where it meets a sea or lake. **Tributaries** join the main river at **confluences**. The area drained by a river and its tributaries is the **drainage basin**, edged by a high ground boundary called the **watershed**.\n\n## Long profile and the three courses\nThe **upper course** has steep gradients, a narrow channel, large angular rocks and vertical erosion. The **middle course** has gentler slopes with more lateral (sideways) erosion. The **lower course** has a wide, deep channel, fine sediment and deposition. Generally, going downstream, width, depth, discharge and velocity increase, while gradient and bed load size decrease. Velocity rises because a larger channel has less friction compared with its volume of water.\n\n## Processes\n**Erosion**\n- **Hydraulic action**: force of water in cracks.\n- **Abrasion**: load scraping the bed and banks.\n- **Attrition**: particles knocking together, becoming smaller and rounder.\n- **Solution**: dissolving of rocks like limestone.\n\n**Transport**: **traction** (rolling boulders), **saltation** (bouncing pebbles), **suspension** (fine particles carried in water) and **solution** (dissolved minerals).\n\n**Deposition** happens when energy falls: low flow, shallow water or reaching the sea.\n\n## Landforms\n- **V-shaped valleys and interlocking spurs** in the upper course.\n- **Waterfalls and gorges**: hard rock over soft rock; undercutting forms a plunge pool, the cap rock collapses and the waterfall retreats upstream, leaving a gorge.\n- **Meanders**: erosion on the outside bend creates a river cliff, deposition on the inside creates a slip-off slope.\n- **Oxbow lakes**: a meander neck is cut through and the old loop is sealed off.\n- **Floodplains and levees**: flat land flooded from time to time; levees are raised banks of coarse sediment.\n- **Deltas**: formed where the river meets calm water and drops its load.\n\n## Measuring a river\n- **Velocity** = distance ÷ time (for example 20 m in 16 s = 1.25 m/s).\n- **Cross-sectional area** = width × mean depth.\n- **Discharge** = area × velocity, in m³/s. A channel 6 m wide, 1.5 m deep with a velocity of 0.8 m/s has a discharge of 6 × 1.5 × 0.8 = 7.2 m³/s.\n- **Gradient** = vertical drop over horizontal distance.\n\n## Common mistakes\n- Confusing erosion with transport and deposition.\n- Saying the river erodes the inside of a meander.\n- Forgetting to convert km to m in gradient calculations.\n- Forgetting that bed load gets smaller downstream.\n\n## How this is examined\nQuestions typically show a field sketch, diagram or table of fieldwork data (width, depth, velocity) from a river. You calculate discharge, describe changes downstream, explain the formation of a landform and consider limitations such as a small sample or measuring on one day.\n\nExam tip: When explaining a landform, write the process as a sequence (first, then, eventually) and name the specific erosion or deposition process at each step.",
+  "flashcards": [
+   {
+    "front": "Source, mouth, tributary, confluence",
+    "back": "Source: where a river starts. Mouth: where it ends. Tributary: smaller river that joins another. Confluence: the meeting point."
+   },
+   {
+    "front": "Four erosion processes",
+    "back": "Hydraulic action, abrasion, attrition and solution."
+   },
+   {
+    "front": "Four transport processes",
+    "back": "Traction (rolling), saltation (bouncing), suspension (carried in water) and solution (dissolved)."
+   },
+   {
+    "front": "How does a waterfall form?",
+    "back": "River flows over hard rock above soft rock. Soft rock erodes faster, undercutting the cap rock until it collapses. Waterfall retreats, leaving a gorge."
+   },
+   {
+    "front": "Meander: erosion and deposition",
+    "back": "Erosion on the outside bend forms a river cliff. Deposition on the inside bend forms a slip-off slope."
+   },
+   {
+    "front": "How does an oxbow lake form?",
+    "back": "The neck of a meander erodes narrower until the river breaks through; deposition seals the old loop, leaving a lake."
+   },
+   {
+    "front": "Discharge formula",
+    "back": "Discharge (m³/s) = cross-sectional area (m²) × velocity (m/s). Area = width × mean depth."
+   },
+   {
+    "front": "Changes downstream",
+    "back": "Width, depth, discharge and velocity increase. Gradient and load size decrease; load becomes more rounded."
+   },
+   {
+    "front": "Levee",
+    "back": "A natural raised bank beside the channel, built from coarse sediment deposited during repeated floods."
+   }
+  ]
+ },
+ {
+  "subject": "geography",
+  "grade": 5,
+  "topic": "Rivers and Flooding",
+  "subTopic": "Flooding Causes and Management",
+  "questions": [
+   {
+    "content": "What is a flood?",
+    "options": [
+     "When a river's discharge exceeds the capacity of its channel and water spills onto the land",
+     "When a river is frozen",
+     "When the river level is lower than normal",
+     "When a river changes direction"
+    ],
+    "answer": 0,
+    "explanation": "A flood happens when a river overflows its banks because the discharge is greater than the channel can hold.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a human cause of increased flood risk?",
+    "options": [
+     "Heavy rainfall",
+     "Building roads and car parks over fields",
+     "Steep valley sides",
+     "Snowmelt in spring"
+    ],
+    "answer": 1,
+    "explanation": "Impermeable surfaces stop water soaking in and send it quickly to rivers via drains. Heavy rain and snowmelt are physical causes.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "On a storm hydrograph, what is the lag time?",
+    "options": [
+     "The time between peak rainfall and peak discharge",
+     "The total length of the storm",
+     "The highest discharge value",
+     "The time between two floods"
+    ],
+    "answer": 0,
+    "explanation": "Lag time is the delay between the highest rainfall and the highest river discharge. A short lag time means a faster, flashier response.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which flood management method is an example of hard engineering?",
+    "options": [
+     "Floodplain zoning",
+     "Building a flood wall",
+     "Planting trees in the upper catchment",
+     "Flood warnings"
+    ],
+    "answer": 1,
+    "explanation": "Hard engineering uses artificial structures such as dams, walls and embankments. Zoning, afforestation and warnings are soft engineering.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does deforestation in a drainage basin do to flood risk?",
+    "options": [
+     "Reduces it, because there is less water",
+     "Increases it, because fewer trees intercept rain and take up water",
+     "Has no effect",
+     "Reduces it, because soil gets drier"
+    ],
+    "answer": 1,
+    "explanation": "Trees intercept rainfall and take water up through roots. Removing them increases surface runoff reaching the river quickly.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A storm hydrograph shows peak rainfall at 06:00 and peak river discharge at 10:30. What is the lag time?",
+    "options": [
+     "3.5 hours",
+     "4 hours",
+     "4.5 hours",
+     "16.5 hours"
+    ],
+    "answer": 2,
+    "explanation": "From 06:00 to 10:30 is 4 hours 30 minutes, which is 4.5 hours.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Compared with a rural river, how does an urban river's hydrograph usually look after the same storm?",
+    "options": [
+     "Higher peak and shorter lag time",
+     "Lower peak and longer lag time",
+     "The same shape",
+     "No peak at all"
+    ],
+    "answer": 0,
+    "explanation": "Impermeable surfaces and drains speed water into the river, producing a steeper rising limb, a higher peak and a shorter lag time.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of the following is a physical factor that increases flood risk?",
+    "options": [
+     "Steep slopes and impermeable bedrock",
+     "Building flood barriers",
+     "Zoning rules",
+     "Reservoirs"
+    ],
+    "answer": 0,
+    "explanation": "Steep slopes send water to the river quickly and impermeable rock stops infiltration. Barriers, zoning and reservoirs are management measures.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the main purpose of a dam and reservoir in flood management?",
+    "options": [
+     "To store water and release it gradually",
+     "To speed up the river",
+     "To remove sediment",
+     "To make the river wider"
+    ],
+    "answer": 0,
+    "explanation": "Dams store floodwater in times of high flow and release it slowly. They can also generate electricity but may flood land upstream and trap sediment.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A town straightens its river channel to take flood water away faster. What is a likely problem?",
+    "options": [
+     "It can increase flood risk downstream by sending water there more quickly",
+     "It reduces erosion",
+     "It creates more meanders",
+     "It lowers discharge"
+    ],
+    "answer": 0,
+    "explanation": "Channel straightening speeds up flow and transfers the problem downstream. This is why managers consider the whole river basin.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement best describes floodplain zoning?",
+    "options": [
+     "Restricting building on land likely to flood, and allowing uses like parks",
+     "Raising river banks with concrete",
+     "Digging the river deeper",
+     "Building a barrage"
+    ],
+    "answer": 0,
+    "explanation": "Zoning is a soft engineering approach that reduces vulnerability by keeping valuable buildings away from flood-prone land.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Rural river peak discharge was 40 m³/s and urban river peak after the same storm was 100 m³/s. By what percentage is the urban peak higher?",
+    "options": [
+     "60%",
+     "150%",
+     "250%",
+     "40%"
+    ],
+    "answer": 1,
+    "explanation": "Increase = 100 – 40 = 60. 60 ÷ 40 × 100 = 150%. A common error is dividing by the larger value, giving 60%.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Bangladesh is on the Ganges-Brahmaputra delta. Which combination best explains why flooding is frequent there?",
+    "options": [
+     "Monsoon rain, snowmelt in the Himalayas, low-lying land and storm surges",
+     "Desert climate and high altitude",
+     "Volcanic eruptions",
+     "Lack of rivers"
+    ],
+    "answer": 0,
+    "explanation": "Heavy monsoon rain and Himalayan meltwater feed large rivers, the delta is very low-lying, and cyclone storm surges push sea water inland.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A river is described as having a 100-year flood level. A resident says: We had one last year, so we are safe for a century. What is the correct interpretation?",
+    "options": [
+     "The resident is correct",
+     "There is a 1% chance of a flood of that size in any given year, regardless of last year",
+     "The next flood is exactly 100 years away",
+     "The flood cannot happen again"
+    ],
+    "answer": 1,
+    "explanation": "A 100-year flood has a 1 in 100 chance each year. Floods are random events, so having one does not make the next year safe.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "If the chance of a flood in any one year is 1% (0.01), what is the approximate chance of at least one such flood in a 10-year period?",
+    "options": [
+     "1%",
+     "10%",
+     "9.6%",
+     "99%"
+    ],
+    "answer": 2,
+    "explanation": "Chance of no flood in 10 years = 0.99¹⁰ ≈ 0.904, so the chance of at least one is 1 – 0.904 ≈ 9.6%. Adding 1% ten times gives 10%, which is close but not exact.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A council considers a concrete flood wall that protects its town but sends floodwater to villages downstream, or planting trees and creating wetlands upstream. Which is the most sustainable judgement?",
+    "options": [
+     "The wall, because it is always cheapest",
+     "Upstream trees and wetlands, because they slow runoff, create habitats and avoid transferring risk, though they work more slowly",
+     "Neither, because floods cannot be managed",
+     "The wall, because it benefits everyone equally"
+    ],
+    "answer": 1,
+    "explanation": "Soft engineering works with nature and benefits the whole catchment. A wall may protect one town but increase flood risk elsewhere. A strong evaluation notes both advantages and limits.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A flood defence scheme costs $12 million and prevents average annual damage of $0.6 million. Ignoring other benefits and running costs, in how many years do the avoided damages equal the cost?",
+    "options": [
+     "2 years",
+     "20 years",
+     "12 years",
+     "72 years"
+    ],
+    "answer": 1,
+    "explanation": "$12 million ÷ $0.6 million per year = 20 years. This payback period is one measure used in cost-benefit analysis, although lives and wellbeing also matter.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two hydrographs from the same storm show River A with a lag time of 6 hours and a peak of 40 m³/s, and River B with a lag time of 2 hours and a peak of 100 m³/s. Which statement is best supported?",
+    "options": [
+     "River B is more likely to flood quickly, perhaps because of urban land use or steep slopes",
+     "River A is more likely to flash flood",
+     "They have identical flood risk",
+     "River B has a drainage basin with more forest"
+    ],
+    "answer": 0,
+    "explanation": "A short lag time and high peak mean water reaches the channel fast and in large volume. Possible causes include impermeable surfaces, steep terrain or saturated ground, though data alone cannot confirm which.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What causes flooding?\nA river floods when its **discharge** (volume of water per second) is greater than the channel can hold, and water spills across the **floodplain**. Flood risk depends on both **physical** and **human** factors.\n\n**Physical causes**\n- Heavy or prolonged rainfall, especially when soil is already saturated.\n- Rapid snowmelt in spring.\n- Steep slopes, which send water quickly to the river.\n- Impermeable rock and clay soils, which stop water from soaking in (infiltration).\n- Storm surges and high tides in estuaries.\n\n**Human causes**\n- **Urbanisation**: roads, roofs and car parks are impermeable, and drains send water straight to rivers.\n- **Deforestation**: fewer trees to intercept rain and take up water.\n- **Climate change**: heavier storms in many places.\n- Building on floodplains, which puts more people and property at risk.\n- Poor land management such as compacted farm soil.\n\n## Storm hydrographs\nA **storm hydrograph** shows rainfall and river discharge over time. Key terms: **peak discharge** (highest flow), **lag time** (time between peak rainfall and peak discharge), the **rising limb** and the **falling limb**. A flashy river, such as one in a city or on steep ground, has a short lag time and high peak. A rural, forested basin has a longer lag time and lower peak.\n\n## Managing floods\n**Hard engineering** (artificial structures)\n- Dams and reservoirs store water and release it slowly.\n- Flood walls and embankments raise the banks.\n- Channel straightening or dredging moves water faster, but may send floods downstream.\nThese are effective but expensive and can harm the environment.\n\n**Soft engineering** (working with nature)\n- Afforestation and wetland restoration slow runoff.\n- Floodplain zoning keeps valuable buildings away from flood-prone land.\n- Flood warnings and evacuation plans.\n- Allowing controlled flooding of farmland (managed retreat).\nThese are cheaper and more sustainable, but may not give full protection.\n\n## Flood probability\nA \"1 in 100 year flood\" has a 1% chance each year; it does not mean it happens only once in a century. Over ten years the chance of at least one such flood is 1 – 0.99¹⁰ ≈ 9.6%.\n\n## Judging a scheme\nA cost-benefit approach compares cost with benefits such as damage avoided. If a scheme costs $12 million and avoids $0.6 million damage per year, the payback time is 12 ÷ 0.6 = 20 years. Also consider who benefits, effects on other places, environment and long-term maintenance.\n\n## Common mistakes\n- Describing causes without saying how they increase runoff or discharge.\n- Believing a 100-year flood happens only once a century.\n- Ignoring that hard engineering can move the problem downstream.\n\n## How this is examined\nYou are given a hydrograph and a short description of land use and asked to read the lag time and peak, explain the differences, and evaluate a management option using evidence.\n\nExam tip: In an evaluation, give a benefit, a limitation and a final judgement that refers to the specific place in the question.",
+  "flashcards": [
+   {
+    "front": "Storm hydrograph",
+    "back": "A graph showing rainfall and river discharge over time after a storm. Shows peak discharge, lag time, rising and falling limbs."
+   },
+   {
+    "front": "Lag time",
+    "back": "The time between peak rainfall and peak river discharge. Short in urban or steep basins; long in rural or forested basins."
+   },
+   {
+    "front": "Physical causes of flooding",
+    "back": "Heavy rain, saturated ground, snowmelt, steep slopes, impermeable rock and storm surges."
+   },
+   {
+    "front": "Human causes of flooding",
+    "back": "Urbanisation (impermeable surfaces), deforestation, building on floodplains, poor land management and climate change."
+   },
+   {
+    "front": "Hard engineering",
+    "back": "Artificial structures such as dams, flood walls, embankments and channel straightening. Effective but costly and may move flooding downstream."
+   },
+   {
+    "front": "Soft engineering",
+    "back": "Working with nature: afforestation, wetlands, floodplain zoning, flood warnings. Cheaper and more sustainable but less protection."
+   },
+   {
+    "front": "Why do impermeable surfaces increase flooding?",
+    "back": "Water cannot infiltrate, so it runs quickly across the surface and through drains into the river, raising peak discharge."
+   },
+   {
+    "front": "Meaning of a 100-year flood",
+    "back": "A flood with a 1% chance of occurring in any given year. It can happen in consecutive years."
+   },
+   {
+    "front": "Why consider the whole drainage basin?",
+    "back": "Measures in one place can change flood risk elsewhere, e.g. straightening a channel can increase flooding downstream."
+   }
+  ]
+ },
+ {
+  "subject": "geography",
+  "grade": 5,
+  "topic": "Rivers and Flooding",
+  "subTopic": "River Basin Case Studies",
+  "questions": [
+   {
+    "content": "The Thames Barrier protects London from which type of flooding?",
+    "options": [
+     "Flash floods from mountain streams",
+     "Tidal surges from the North Sea",
+     "Glacial lake bursts",
+     "Monsoon rain"
+    ],
+    "answer": 1,
+    "explanation": "The Thames Barrier, built after the 1953 North Sea flood and completed in the early 1980s, closes to block tidal surges coming up the estuary.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The Three Gorges Dam is on which river?",
+    "options": [
+     "Yangtze",
+     "Nile",
+     "Mississippi",
+     "Rhine"
+    ],
+    "answer": 0,
+    "explanation": "The Three Gorges Dam is on China's Yangtze River. It aims to control floods, generate hydroelectricity and improve shipping.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a benefit of the Three Gorges Dam?",
+    "options": [
+     "Generates large amounts of renewable hydroelectric power",
+     "Increases sediment reaching the delta",
+     "Preserves all the original villages",
+     "Has no cost to local people"
+    ],
+    "answer": 0,
+    "explanation": "The dam has a capacity of about 22 500 MW, producing large amounts of electricity without burning fossil fuels at the site.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In summer 2010 serious floods affected Pakistan. Which river system was mainly involved?",
+    "options": [
+     "Indus",
+     "Thames",
+     "Amazon",
+     "Danube"
+    ],
+    "answer": 0,
+    "explanation": "Heavy monsoon rain caused the Indus and its tributaries to overflow, affecting around 20 million people.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A case study answer should include which of the following?",
+    "options": [
+     "Specific place names, figures and facts",
+     "Only general statements",
+     "A list of unrelated places",
+     "Personal opinions without evidence"
+    ],
+    "answer": 0,
+    "explanation": "Examiners reward precise, accurate detail such as locations, dates and numbers. General statements score lower.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A fictional basin, the River Alder, floods its town of Kelburn after 120 mm of rain falls in 24 hours onto saturated ground. Which description of causes is best?",
+    "options": [
+     "Heavy rain on already saturated soil, causing rapid runoff into the river",
+     "Dry soils absorbing water",
+     "A drought lowering river levels",
+     "Glacier retreat"
+    ],
+    "answer": 0,
+    "explanation": "When soil is already full of water, extra rain cannot infiltrate and runs straight into the river, increasing discharge.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Over 1.3 million people were relocated for the Three Gorges Dam. What does this illustrate about large dam projects?",
+    "options": [
+     "Benefits may come with major social costs",
+     "Dams never need reservoirs",
+     "Relocation is always voluntary and simple",
+     "Dams affect only wildlife"
+    ],
+    "answer": 0,
+    "explanation": "Large dams create reservoirs that flood towns and farmland. Evaluating a scheme means weighing energy and flood control against displacement.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Dams trap sediment behind the wall. What is a likely effect downstream?",
+    "options": [
+     "Deltas and floodplain farms may receive less nutrient-rich silt",
+     "More sediment than before",
+     "Increased floodplain fertility",
+     "Faster delta growth"
+    ],
+    "answer": 0,
+    "explanation": "With less sediment arriving, deltas can shrink and floodplain soils receive fewer nutrients. This is an environmental cost of dams.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Pakistan's 2010 floods affected about 20 million people. About one-fifth of the country was under water. Which factor made the human impact worse?",
+    "options": [
+     "Many people lived on the floodplain and had limited resources to recover",
+     "Pakistan has no rivers",
+     "Rainfall was below average",
+     "Warnings arrived months early"
+    ],
+    "answer": 0,
+    "explanation": "Many people depend on floodplain farming and have few resources. Poverty and limited infrastructure increase vulnerability and slow recovery.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In the fictional Alder basin, a council plants 400 hectares of woodland upstream and restores wetlands. Which short-term limitation applies?",
+    "options": [
+     "Trees take years to grow, so the flood benefit builds slowly",
+     "Woodland immediately stops all floods",
+     "Trees increase runoff",
+     "Wetlands raise river speed"
+    ],
+    "answer": 0,
+    "explanation": "Natural flood management works gradually as vegetation matures. This is a weakness compared with a wall, which works at once.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The Thames Barrier consists of 10 steel gates across the river at Woolwich. What type of flood management is it?",
+    "options": [
+     "Hard engineering",
+     "Soft engineering",
+     "Afforestation",
+     "Zoning"
+    ],
+    "answer": 0,
+    "explanation": "The barrier is a large engineered structure, so it is hard engineering. It is expensive but gives a high level of protection against tidal surges.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of the following would be best evidence to include when writing about the impact of a flood in a case study?",
+    "options": [
+     "Number of people displaced and cost of damage",
+     "A general opinion about rain",
+     "A picture description without data",
+     "The date of the case-study chapter"
+    ],
+    "answer": 0,
+    "explanation": "Quantitative data on people and costs demonstrates real knowledge and supports a judgement about scale of impact.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why do planners increasingly manage floods across a whole river basin rather than town by town?",
+    "options": [
+     "Actions in one place, such as walls or straightened channels, can increase flood risk elsewhere",
+     "Rivers only flood in towns",
+     "Basins are always small",
+     "It avoids the need for any data"
+    ],
+    "answer": 0,
+    "explanation": "Water moves through the whole catchment, so measures upstream affect downstream places. A basin-wide plan can share the risk and use natural storage such as wetlands.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A fictional dam on the River Alder costs $90 million, provides electricity worth $4 million a year and avoids flood damage worth $2 million a year. How many years until the benefits equal the cost?",
+    "options": [
+     "15 years",
+     "22.5 years",
+     "30 years",
+     "45 years"
+    ],
+    "answer": 0,
+    "explanation": "Annual benefits = $4 million + $2 million = $6 million. $90 million ÷ $6 million = 15 years.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student concludes: The Three Gorges Dam is a complete success because it generates power. Which response is most balanced?",
+    "options": [
+     "Agree, because power is the only important factor",
+     "The dam has benefits, but displacement, sediment trapping and ecological damage must also be weighed, so success depends on the criteria used",
+     "Disagree, because dams never help",
+     "The dam has no environmental effects"
+    ],
+    "answer": 1,
+    "explanation": "A good evaluation considers economic, social and environmental effects and states which criteria are being used to judge success.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two fictional towns on the same river: Upstream Town builds a high flood wall. Downstream Town floods more severely afterwards. What is the most likely geographical explanation?",
+    "options": [
+     "The wall confined water and increased flow to downstream areas",
+     "Walls make rivers shallower",
+     "Downstream towns have no floodplain",
+     "The wall reduces rainfall"
+    ],
+    "answer": 0,
+    "explanation": "A wall stops the river spreading across the floodplain, so higher flows pass to areas downstream. This is why basin-wide planning is important.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A report on the River Alder says rainfall rose 12% over 30 years and flooding doubled, so the rainfall increase alone caused the doubling. Which is the best critique?",
+    "options": [
+     "It is correct as rainfall is the only factor",
+     "It ignores other factors such as new housing on the floodplain and drainage changes",
+     "Flooding cannot be measured",
+     "Rainfall cannot change"
+    ],
+    "answer": 1,
+    "explanation": "A 12% rise in rainfall is unlikely on its own to double floods. Land use change and urban runoff probably contribute, so the claim oversimplifies.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "You must choose between Option 1: flood wall (cost $30m, protects 5000 homes with a 1-in-100 standard) and Option 2: wetlands and upstream storage (cost $18m, reduces peak flow by 15%, creates habitat). Which is the best recommendation approach?",
+    "options": [
+     "Always choose the cheaper",
+     "Compare effectiveness, cost per household, environmental effects and risk transfer, then justify the choice",
+     "Always choose the wall",
+     "Choose by colour of the plan"
+    ],
+    "answer": 1,
+    "explanation": "A strong judgement uses clear criteria: protection level, cost ($6000 per home for the wall), environmental benefits and effects elsewhere. The best option depends on what the community values and how much risk it will accept.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why case studies matter\nGeography answers are strongest when they use specific places, facts and figures. In the MYP eAssessment you may be given a source about a river basin or flood event and asked to analyse it, but you may also be asked to draw on case studies you have learnt. This sub-topic gives you a toolkit of three real examples plus a fictional basin to practise with.\n\n## Case study 1: Three Gorges Dam, Yangtze River, China\n- **What**: one of the world's largest dams, built across the Yangtze. The main wall was completed in the mid-2000s and the project was fully operating in the early 2010s.\n- **Aims**: reduce flooding in the Yangtze's lower basin, generate hydroelectric power (capacity about 22 500 MW) and improve river shipping.\n- **Benefits**: large supply of renewable electricity, reduced flood peaks, bigger ships can travel inland.\n- **Costs**: over 1.3 million people relocated, loss of farmland and historic sites, sediment trapped behind the wall which reduces nutrients for downstream farms and deltas, and changes to habitats.\n\n## Case study 2: Pakistan floods, 2010\n- Monsoon rains were far above normal and the Indus and its tributaries overflowed.\n- About one-fifth of the country was flooded and around 20 million people were affected.\n- Impacts: homes, crops and livestock destroyed, disease risk from dirty water, and long-term economic damage.\n- Why so serious: many people live and farm on the floodplain, infrastructure is limited and many families have few resources to recover. This shows that **vulnerability** matters as well as rainfall.\n\n## Case study 3: Thames Barrier, London\n- **What**: ten large steel gates across the Thames at Woolwich, completed in the early 1980s after the 1953 North Sea floods.\n- **Purpose**: close when a tidal surge threatens, protecting central London.\n- **Evaluation**: high protection for a very valuable area, but expensive, and designed for the sea-level conditions of its time, so it needs upgrading as sea level rises.\n\n## Fictional example: River Alder\nUse imagined examples to practise. Suppose a fictional town, Kelburn, floods after 120 mm of rain on saturated soil. A plan could combine a wall, upstream woodland and wetlands. When judging, compare cost, effectiveness, effects elsewhere and sustainability.\n\n## Evaluating a scheme\nUse a simple structure:\n- **Benefits**: economic (electricity, protected property), social (lives saved) and environmental.\n- **Costs**: money, displacement, ecosystem damage, risk transfer.\n- **Who gains and who loses?**\n- **Judgement**: a clear conclusion that states the criteria used.\nExample calculation: a $90 million dam giving $6 million per year in total benefits pays back in 90 ÷ 6 = 15 years.\n\n## Common mistakes\n- Writing vague statements like the dam helped people without figures.\n- Only listing benefits and no costs.\n- Mixing up facts between case studies.\n- Concluding too strongly from limited data.\n\n## How this is examined\nCase study questions often supply a source with figures and ask you to extract data, calculate a total or percentage, explain why impacts differ, and make a judgement that uses your own knowledge.\n\nExam tip: Add at least two precise facts (a number, a name or a date) for every case study point, and finish with a judgement that gives a reason.",
+  "flashcards": [
+   {
+    "front": "Three Gorges Dam: location and aims",
+    "back": "On the Yangtze, China. Aims: flood control, hydroelectric power (about 22 500 MW) and better shipping."
+   },
+   {
+    "front": "Three Gorges Dam: costs",
+    "back": "Over 1.3 million people relocated, loss of farmland and historic sites, sediment trapped, habitat change."
+   },
+   {
+    "front": "Pakistan floods 2010",
+    "back": "Monsoon floods on the Indus; about one-fifth of the country flooded and around 20 million people affected."
+   },
+   {
+    "front": "Why were the Pakistan floods so damaging?",
+    "back": "Heavy monsoon rain plus a heavily settled floodplain, limited infrastructure and low resources for recovery (high vulnerability)."
+   },
+   {
+    "front": "Thames Barrier",
+    "back": "Ten steel gates at Woolwich, completed in the early 1980s, protecting London from tidal surges from the North Sea."
+   },
+   {
+    "front": "Effects of dams on sediment",
+    "back": "Dams trap sediment, so downstream floodplains and deltas get fewer nutrients and deltas can shrink."
+   },
+   {
+    "front": "How to evaluate a flood scheme",
+    "back": "Compare benefits and costs (economic, social, environmental), who gains and loses, effects elsewhere, then give a justified judgement."
+   },
+   {
+    "front": "Payback period",
+    "back": "Cost ÷ annual benefit. For example, $90 million ÷ $6 million per year = 15 years."
+   },
+   {
+    "front": "Hard vs soft engineering in case studies",
+    "back": "Hard: Thames Barrier, Three Gorges Dam. Soft: afforestation, wetlands, zoning and warnings. Hard is more certain; soft is more sustainable."
+   }
+  ]
+ }
+]

@@ -1,0 +1,791 @@
+[
+  {
+    "subject": "economics",
+    "grade": 5,
+    "topic": "Labour Markets",
+    "subTopic": "Wages and Employment",
+    "questions": [
+      {
+        "content": "A bakery chain hires more staff before a holiday because customers are expected to buy many more cakes. Which term describes why the bakery demands extra labour?",
+        "options": [
+          "Derived demand",
+          "Joint supply",
+          "Composite demand",
+          "Elastic supply"
+        ],
+        "answer": 0,
+        "explanation": "Firms do not want workers for their own sake; they want them to produce goods that consumers demand. Labour demand is therefore derived from the demand for the product.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "In a labour market, which group forms the supply of labour?",
+        "options": [
+          "Firms that want to hire workers",
+          "People willing and able to work at each wage rate",
+          "The government's job centres only",
+          "Customers buying the final product"
+        ],
+        "answer": 1,
+        "explanation": "Workers supply their labour. The supply curve shows how many people are willing and able to work at each wage. Firms form the demand side.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Demand for labour in a town rises because several new shops open, while the number of people looking for work stays the same. What is most likely to happen to the equilibrium wage?",
+        "options": [
+          "It falls",
+          "It stays the same",
+          "It rises",
+          "It becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "A rise in labour demand shifts the demand curve right. With supply unchanged, the equilibrium wage and the number employed both increase.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Mina earns £11.50 per hour and works 38 hours in a normal week. How much does she earn in a normal week before tax?",
+        "options": [
+          "£418.00",
+          "£437.00",
+          "£449.00",
+          "£460.00"
+        ],
+        "answer": 1,
+        "explanation": "£11.50 × 38 = £437.00. Always multiply the hourly rate by the hours worked.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which factor is most likely to explain why a qualified pilot is paid more than a car-park attendant?",
+        "options": [
+          "Pilots are always older",
+          "Pilots work in more cities",
+          "Pilots need long training and are scarcer",
+          "Car parks make no profit"
+        ],
+        "answer": 2,
+        "explanation": "Wage differentials arise because skilled workers are scarcer (lower supply) and the work is valuable. Training takes time and money, which limits how many people can do the job.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "In a town, the equilibrium wage for warehouse workers is £8 per hour. The government sets a minimum wage of £10. At £10, firms want to hire 400 workers and 700 people want to work. What happens?",
+        "options": [
+          "A shortage of 300 workers",
+          "A surplus of 300 workers, so unemployment",
+          "A shortage of 400 workers",
+          "Equilibrium is reached at 550 workers"
+        ],
+        "answer": 1,
+        "explanation": "At £10, supply (700) exceeds demand (400), giving a surplus of labour of 300. These people want work but cannot find it, which is unemployment.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A surgeon earns far more than a care-home assistant. Which explanation is the strongest in economic terms?",
+        "options": [
+          "Surgeons have more friends in government",
+          "Surgeons' skills are scarce and the value of their work is high, so demand is high relative to supply",
+          "Care-home work is never useful",
+          "Surgeons work shorter hours in every country"
+        ],
+        "answer": 1,
+        "explanation": "Pay differences reflect the interaction of demand and supply. Surgeons need years of training (low supply) and their work creates high value (high demand), so the equilibrium wage is high.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Kofi earns £14 per hour. For overtime his employer pays 1.5 times his normal rate. How much does he earn for 8 hours of overtime?",
+        "options": [
+          "£112",
+          "£140",
+          "£168",
+          "£196"
+        ],
+        "answer": 2,
+        "explanation": "Overtime rate = £14 × 1.5 = £21 per hour. For 8 hours: £21 × 8 = £168. £112 ignores the 1.5 multiplier.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A cleaner's pay rises from £9.00 to £10.80 per hour. What is the percentage increase?",
+        "options": [
+          "1.8%",
+          "16.7%",
+          "18%",
+          "20%"
+        ],
+        "answer": 3,
+        "explanation": "Change = £1.80. Percentage change = 1.80 ÷ 9.00 × 100 = 20%. Dividing by the new wage (10.80) would wrongly give 16.7%.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A workshop sells each chair it makes for £5. The extra output from each additional worker is: 1st worker 12 units, 2nd 10 units, 3rd 8 units, 4th 6 units. The wage is £45 per day. A rational firm hires how many workers?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "answer": 1,
+        "explanation": "Extra revenue from each worker: 12×5 = £60, 10×5 = £50, 8×5 = £40, 6×5 = £30. The first two workers bring in more than the £45 wage; the third brings only £40, so the firm stops at 2.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Workers' pay rises by 4% over a year, but prices rise by 6% over the same year. What happens to their real wage?",
+        "options": [
+          "It rises by about 2%",
+          "It stays the same",
+          "It falls by about 2%",
+          "It falls by 10%"
+        ],
+        "answer": 2,
+        "explanation": "Real wages measure what pay can buy. Pay grew more slowly than prices, so purchasing power fell by roughly 2% (1.04 ÷ 1.06 ≈ 0.981). Do not add the two percentages.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "In a company, men earn an average of £20 per hour and women earn an average of £16 per hour. Measured against the men's average, what is the gender pay gap?",
+        "options": [
+          "4%",
+          "20%",
+          "25%",
+          "80%"
+        ],
+        "answer": 1,
+        "explanation": "Gap = (20 − 16) ÷ 20 × 100 = 20%. Dividing by the women's average (16) would give 25%, which uses the wrong base.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A coastal region's population grows because many families move in, increasing the number of people looking for jobs. Other things equal, what happens in its labour market?",
+        "options": [
+          "Labour supply shifts right, wages tend to fall and employment tends to rise",
+          "Labour demand shifts right, wages rise",
+          "Labour supply shifts left, wages rise",
+          "Nothing changes because wages are fixed"
+        ],
+        "answer": 0,
+        "explanation": "More people willing to work shifts the supply curve right. The equilibrium wage falls and the number employed rises, if demand is unchanged.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A government raises the legal minimum wage from £8 (the equilibrium wage) to £10. A newspaper says: 'This policy helps all low-paid workers.' Which evaluation is the most balanced?",
+        "options": [
+          "It is correct, because every worker's pay rises",
+          "It is wrong, because wages never change",
+          "Workers who keep their jobs gain, but some may lose jobs or hours, so the overall effect depends on how many jobs are lost",
+          "It only affects firms, not workers"
+        ],
+        "answer": 2,
+        "explanation": "A wage floor above equilibrium raises pay for those still employed but reduces the quantity of labour demanded. A balanced answer weighs both effects rather than claiming everyone benefits.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A car factory installs robots that do the work of many assembly workers. Which description of the likely effect on its labour market is most accurate?",
+        "options": [
+          "The supply of labour shifts right",
+          "Demand for assembly workers falls, shifting the demand curve left, reducing the wage and/or employment",
+          "Demand for assembly workers rises because cars are cheaper to make",
+          "There is no effect because robots are not workers"
+        ],
+        "answer": 1,
+        "explanation": "If robots replace workers, the demand for that type of labour falls. The demand curve moves left, lowering the wage and/or the number employed, unless new jobs (e.g. robot maintenance) offset this.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Oil-rig workers receive higher pay than office workers with similar qualifications. Which is the best economic explanation?",
+        "options": [
+          "Offshore work is dangerous and remote, so a higher wage is needed to persuade enough people to supply their labour",
+          "Office workers are less productive in every case",
+          "Oil rigs have lower costs than offices",
+          "The government always sets rig wages higher"
+        ],
+        "answer": 0,
+        "explanation": "Unpleasant or risky conditions reduce the number of people willing to do the job at a given wage. Employers must offer a higher wage to attract enough workers: a compensating wage difference.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Using the earlier workshop (selling price £5, wage £45 per day), the 5th worker would add 6 units of output. Demand for chairs rises, and the selling price increases to £8. Will the firm now hire the 5th worker?",
+        "options": [
+          "No, because 6 units is below the 4th worker's output",
+          "No, because the wage is higher than £45",
+          "Yes, because 6 × £8 = £48, which is more than the £45 wage",
+          "Yes, because any price rise means hiring everyone available"
+        ],
+        "answer": 2,
+        "explanation": "Extra revenue = 6 × £8 = £48, which exceeds the £45 wage, so the extra worker adds more to revenue than to cost. This shows how a rise in product demand raises labour demand.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Ana is paid £12.40 per hour for a 40-hour week. She works 48 weeks a year, with 4 weeks unpaid. Her friend claims her yearly pay is £25,792. Which statement is correct?",
+        "options": [
+          "The friend is right: 12.40 × 40 × 52 = £25,792",
+          "The friend is wrong: Ana earns £23,808 because she is paid for 48 weeks, not 52",
+          "The friend is wrong: Ana earns £19,840",
+          "The friend is right because unpaid weeks are paid at half rate"
+        ],
+        "answer": 1,
+        "explanation": "£12.40 × 40 = £496 per week; £496 × 48 = £23,808. The friend used 52 weeks, ignoring the assumption of 4 unpaid weeks. Always check the assumptions in a question.",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "## What is a labour market?\nA labour market is where people sell their work (supply of labour) and firms buy it (demand for labour). The price of labour is the **wage**. As in any market, the equilibrium wage is where the quantity of labour supplied equals the quantity demanded.\n\n## Demand for labour\nFirms demand labour because they want to produce goods and services. This is called **derived demand**: it depends on how much consumers want what the workers produce. The demand curve slopes downward: at a higher wage, firms hire fewer workers. A firm will keep hiring as long as the extra revenue a worker brings in is higher than the wage it must pay. For example, if a worker makes 8 extra chairs sold at £5 each, the extra revenue is £40. If the wage is £45, hiring that worker loses money.\n\nDemand for labour shifts when the demand for the product changes, when productivity changes, or when technology replaces or helps workers. A fall in demand for a product, or robots replacing workers, shifts demand left.\n\n## Supply of labour\nSupply of labour is the number of people willing and able to work at each wage. A higher wage encourages more people to take the job, so the supply curve slopes upward. It shifts when the population changes, when migration happens, when training makes more people qualified, or when attitudes to work change.\n\n## Why wages differ\nWage differentials exist because markets differ. Pay tends to be higher when skills are scarce and need long training (surgeons, pilots), when the job is risky or unpleasant (offshore oil work), or when workers are very productive. Pay tends to be lower for jobs that many people can do with little training. Trade unions, discrimination and the gender pay gap can also affect wages. The pay gap is calculated as (difference ÷ average of the higher-paid group) × 100.\n\n## Minimum wages\nA minimum wage is a legal floor. If set above the equilibrium wage, the quantity of labour supplied rises but the quantity demanded falls, creating a surplus: unemployment. Workers who keep their jobs gain, but some may lose jobs or hours. If set below equilibrium, it has no effect.\n\n## Nominal and real wages\nThe **nominal wage** is the money you are paid. The **real wage** is what that money can buy after allowing for price changes. If pay rises 4% but prices rise 6%, real wages fall.\n\n## Useful calculations\n- Weekly pay = hourly wage × hours.\n- Overtime pay = normal rate × multiplier × overtime hours.\n- Percentage change = change ÷ original × 100.\n\n## Common mistakes\n- Dividing by the new value instead of the original when finding percentage change.\n- Saying a minimum wage always causes unemployment (it depends on where it is set).\n- Confusing nominal and real wages.\n\n## How this is examined\nIn the on-screen exam you may get a short source about a local labour market (a factory closing, a new minimum wage) with wage and job figures. You are asked to state the equilibrium, calculate a percentage change, explain why a wage changed, and evaluate who gains and who loses from a policy using the evidence.\n\nExam tip: When asked to evaluate a wage policy, name at least one winner and one loser, use a number from the data, and reach a judgement.",
+    "flashcards": [
+      {
+        "front": "Derived demand",
+        "back": "Demand for something because of what it helps to produce. Labour is demanded because firms want to produce goods that consumers buy."
+      },
+      {
+        "front": "Equilibrium wage",
+        "back": "The wage at which the quantity of labour supplied equals the quantity of labour demanded."
+      },
+      {
+        "front": "What happens if a minimum wage is set above the equilibrium wage?",
+        "back": "Labour supplied exceeds labour demanded, creating a surplus of labour (unemployment). Those with jobs gain; some lose jobs or hours."
+      },
+      {
+        "front": "Nominal wage vs real wage",
+        "back": "Nominal wage is pay in money terms. Real wage is what the pay can buy after price changes are taken into account."
+      },
+      {
+        "front": "Percentage change formula",
+        "back": "(New value − original value) ÷ original value × 100."
+      },
+      {
+        "front": "Give two reasons for wage differentials",
+        "back": "Scarce skills and long training; risky or unpleasant conditions; high productivity; trade union power; differences in demand for the product."
+      },
+      {
+        "front": "What shifts labour supply to the right?",
+        "back": "More people willing to work: population growth, migration, better training, more women entering work, a rise in the retirement age."
+      },
+      {
+        "front": "What shifts labour demand to the left?",
+        "back": "A fall in demand for the product, lower productivity, or technology (such as robots) replacing workers."
+      },
+      {
+        "front": "Gender pay gap calculation",
+        "back": "(Higher group's average pay − lower group's average pay) ÷ higher group's average pay × 100."
+      }
+    ]
+  },
+  {
+    "subject": "economics",
+    "grade": 5,
+    "topic": "Labour Markets",
+    "subTopic": "Unemployment and Its Causes",
+    "questions": [
+      {
+        "content": "Which person is counted as unemployed in official statistics?",
+        "options": [
+          "A full-time student not looking for work",
+          "A retired person",
+          "A person without a job who is available for work and actively looking for it",
+          "A person with a part-time job"
+        ],
+        "answer": 2,
+        "explanation": "Official unemployment counts people who are jobless, able and available to work, and actively seeking work. Students not looking and retired people are outside the labour force.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Sana leaves one job to look for a better one and takes three weeks to find it. What type of unemployment is this?",
+        "options": [
+          "Cyclical",
+          "Structural",
+          "Frictional",
+          "Seasonal"
+        ],
+        "answer": 2,
+        "explanation": "Frictional unemployment is the short time between jobs while people search and employers recruit. It exists even in a healthy economy.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Ski instructors in an alpine village are out of work every summer. What type of unemployment is this?",
+        "options": [
+          "Seasonal",
+          "Cyclical",
+          "Frictional",
+          "Structural"
+        ],
+        "answer": 0,
+        "explanation": "Seasonal unemployment is linked to the time of year, as in tourism, farming and construction.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A country has 8,000 people employed and 500 unemployed. What is the unemployment rate (to 1 decimal place)?",
+        "options": [
+          "5.9%",
+          "6.3%",
+          "6.0%",
+          "5.0%"
+        ],
+        "answer": 0,
+        "explanation": "Labour force = employed + unemployed = 8,500. Rate = 500 ÷ 8,500 × 100 = 5.9%. Dividing by 8,000 would wrongly give 6.3%.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which of these is a likely consequence of high unemployment for the economy?",
+        "options": [
+          "Higher output because more people are free",
+          "Lost output and higher government spending on benefits",
+          "Lower government spending on benefits",
+          "Higher tax revenue from income tax"
+        ],
+        "answer": 1,
+        "explanation": "Unemployed workers do not produce, so output is lost. Governments pay more in benefits and collect less income tax, worsening the budget.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A coal-mining region loses most of its mines as the country shifts to renewable energy. Miners cannot easily move into new roles because their skills do not match the new jobs. What type of unemployment is this?",
+        "options": [
+          "Frictional",
+          "Structural",
+          "Seasonal",
+          "Cyclical"
+        ],
+        "answer": 1,
+        "explanation": "Structural unemployment results from a long-term mismatch between workers' skills or location and the jobs available, often after an industry declines.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "During a recession, shops, factories and building firms all cut staff because spending across the economy has fallen. What type of unemployment is this?",
+        "options": [
+          "Cyclical",
+          "Frictional",
+          "Seasonal",
+          "Voluntary"
+        ],
+        "answer": 0,
+        "explanation": "Cyclical unemployment is caused by falling total demand during a downturn in the economic cycle. It tends to fall when the economy recovers.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A country has 15,000 people in its labour force and 900 are unemployed. What is the unemployment rate?",
+        "options": [
+          "0.6%",
+          "5.7%",
+          "6.0%",
+          "6.4%"
+        ],
+        "answer": 2,
+        "explanation": "900 ÷ 15,000 × 100 = 6.0%. The labour force (not the whole population) is the denominator.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which policy is the best match for reducing structural unemployment among former factory workers?",
+        "options": [
+          "Cutting interest rates to boost spending",
+          "Funding retraining programmes in skills that employers need",
+          "Making job adverts more colourful",
+          "Raising the minimum wage"
+        ],
+        "answer": 1,
+        "explanation": "Structural unemployment comes from a skills mismatch, so training addresses the cause. Lower interest rates mainly tackle cyclical unemployment.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A fall in the value of a country's exports leads to factory closures. Which type of unemployment is most likely to rise first?",
+        "options": [
+          "Cyclical, because demand for the output has fallen",
+          "Frictional, because workers are choosy",
+          "Seasonal, because it happens each year",
+          "None, because exports do not affect jobs"
+        ],
+        "answer": 0,
+        "explanation": "Lower export demand reduces total demand and output, causing cyclical job losses. If the loss is permanent it may become structural later.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A town has a labour force of 20,000 and an unemployment rate of 8%. How many people are unemployed?",
+        "options": [
+          "160",
+          "1,600",
+          "2,500",
+          "8,000"
+        ],
+        "answer": 1,
+        "explanation": "8% of 20,000 = 0.08 × 20,000 = 1,600. Always apply the percentage to the labour force.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "In one month, 400 unemployed people in a labour force of 20,000 find jobs (the labour force stays the same). Before this, 1,600 were unemployed. What is the new unemployment rate?",
+        "options": [
+          "2%",
+          "6%",
+          "6.5%",
+          "8%"
+        ],
+        "answer": 1,
+        "explanation": "New unemployed = 1,600 − 400 = 1,200. Rate = 1,200 ÷ 20,000 × 100 = 6%. The labour force is unchanged because those people moved from unemployed to employed.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A town has 12,000 people in work and 600 unemployed. What is its unemployment rate, to 1 decimal place?",
+        "options": [
+          "4.8%",
+          "5.0%",
+          "4.6%",
+          "6.0%"
+        ],
+        "answer": 0,
+        "explanation": "Labour force = 12,000 + 600 = 12,600. Rate = 600 ÷ 12,600 × 100 = 4.8%. Dividing by 12,000 (5.0%) leaves out the unemployed from the base.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A government report says: 'Unemployment is caused only by lazy workers who do not want to work.' Which response is the most economically accurate?",
+        "options": [
+          "The report is correct because all unemployment is voluntary",
+          "The report is wrong because most unemployment arises from lack of demand, skill mismatches, location or job-search time",
+          "The report is wrong because unemployment does not exist",
+          "The report is correct because benefits are always generous"
+        ],
+        "answer": 1,
+        "explanation": "Economists identify frictional, structural, cyclical and seasonal causes, mostly outside individual workers' control. Some voluntary unemployment can exist, but not as the only cause.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A town has a labour force of 20,000 with 1,600 unemployed. Then 200 of the unemployed become discouraged and stop looking for work (and leave the labour force). Nobody finds a job. What is the new unemployment rate to 1 decimal place?",
+        "options": [
+          "7.0%",
+          "7.1%",
+          "8.0%",
+          "7.9%"
+        ],
+        "answer": 1,
+        "explanation": "Unemployed = 1,600 − 200 = 1,400. Labour force = 20,000 − 200 = 19,800. Rate = 1,400 ÷ 19,800 × 100 = 7.1%. The rate falls even though no one found work, which is why the statistic can hide discouraged workers.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A country's unemployment rate falls from 8% to 7.1% but the number of employed people stays at 18,400. Which conclusion is best supported?",
+        "options": [
+          "Jobs have been created",
+          "Some people may have stopped looking for work and left the labour force",
+          "Population has fallen to zero",
+          "Unemployment benefits have been abolished"
+        ],
+        "answer": 1,
+        "explanation": "If employment did not change, the lower rate must come from a smaller labour force, for example discouraged workers leaving. The rate alone can mislead.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A government plans to reduce all four types of unemployment by cutting interest rates to boost spending. Evaluate this plan.",
+        "options": [
+          "It will fix all types equally",
+          "It mainly helps cyclical unemployment; structural and frictional unemployment need training and better job information",
+          "It will have no effect on any type",
+          "It will remove seasonal unemployment completely"
+        ],
+        "answer": 1,
+        "explanation": "Lower rates raise total demand, reducing cyclical unemployment. A skills mismatch (structural) needs retraining, and frictional unemployment needs faster matching of workers to jobs.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A region's unemployment rate is 12%, far above the national average of 5%. Most of its unemployed are former textile workers. Which pair of statements is the best analysis?",
+        "options": [
+          "Cyclical unemployment; raise spending nationally only",
+          "Structural unemployment due to industry decline; retraining and attracting new industries are most suitable",
+          "Frictional unemployment; nothing is needed",
+          "Seasonal unemployment; wait for summer"
+        ],
+        "answer": 1,
+        "explanation": "A concentrated, long-lasting rise after an industry's decline is structural. Retraining and attracting new employers addresses the cause. Spending nationally is a weak match.",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "## What is unemployment?\nA person is counted as **unemployed** if they have no job, are able and available to work, and are actively looking for work. The **labour force** is everyone who is employed plus everyone who is unemployed. People who are not seeking work (full-time students, retirees, people caring for family) are outside the labour force.\n\nThe **unemployment rate** = (number unemployed ÷ labour force) × 100. Example: 500 unemployed and 8,000 employed gives a labour force of 8,500, so the rate is 500 ÷ 8,500 × 100 ≈ 5.9%.\n\n## Types and causes\n- **Frictional unemployment**: short-term unemployment while moving between jobs, such as a graduate searching or someone changing career. It exists in every economy. Better job information reduces it.\n- **Structural unemployment**: a long-term mismatch between workers' skills or location and the jobs available. It often follows the decline of an industry, such as coal mining or textiles, or the arrival of new technology. Retraining and help to relocate are suitable policies.\n- **Cyclical unemployment**: caused by a fall in total demand during a recession. Firms produce less and need fewer workers. It falls when the economy recovers. Government spending or lower interest rates can help.\n- **Seasonal unemployment**: linked to the time of year, such as ski resorts, farm harvests and beach tourism.\n\n## Costs of unemployment\nFor individuals: lost income, lower living standards, stress and loss of skills. For the economy: lost output, because unemployed workers could be producing; higher government spending on benefits; and lower income tax and spending. Communities with high unemployment may suffer more crime and poorer health.\n\n## Limits of the statistic\nThe rate may hide problems. **Discouraged workers** who stop looking are no longer counted, so the rate can fall even if no new jobs appear. **Underemployment** (part-time workers wanting full-time work) is also hidden. Averages can also hide regional differences.\n\n## Worked example\nA town has a labour force of 20,000 and 1,600 unemployed (8%). If 400 of them find jobs, unemployment becomes 1,200 and the rate is 6%. If instead 200 give up looking, the labour force falls to 19,800 and the rate is 1,400 ÷ 19,800 ≈ 7.1%, but there are still no new jobs.\n\n## Common mistakes\n- Using the whole population instead of the labour force in the calculation.\n- Mixing up structural and cyclical (structural is a mismatch, cyclical is a lack of demand).\n- Assuming a falling rate always means more jobs.\n\n## How this is examined\nExam items often give a table of unemployment figures for two regions or years plus a short extract about a factory closing. You are asked to calculate the rate, identify the type of unemployment from clues in the source, explain consequences and judge which policy suits the cause.\n\nExam tip: Name the type of unemployment, quote a clue from the source, then match the policy to that cause.",
+    "flashcards": [
+      {
+        "front": "Unemployment rate formula",
+        "back": "(Number unemployed ÷ labour force) × 100, where labour force = employed + unemployed."
+      },
+      {
+        "front": "Frictional unemployment",
+        "back": "Short-term unemployment while people move between jobs or search for a suitable one."
+      },
+      {
+        "front": "Structural unemployment",
+        "back": "Long-term unemployment caused by a mismatch between workers' skills or location and available jobs, often after an industry declines."
+      },
+      {
+        "front": "Cyclical unemployment",
+        "back": "Unemployment caused by a fall in total demand during a recession; falls when the economy recovers."
+      },
+      {
+        "front": "Seasonal unemployment",
+        "back": "Unemployment linked to the time of year, such as tourism, farming or construction work."
+      },
+      {
+        "front": "Who is in the labour force?",
+        "back": "All people who are employed plus all who are unemployed and actively seeking work."
+      },
+      {
+        "front": "Discouraged workers",
+        "back": "People who stop looking for work. They leave the labour force, so the unemployment rate can fall without more jobs."
+      },
+      {
+        "front": "Best policy for structural unemployment",
+        "back": "Retraining, education and help to move to areas with jobs, so skills match the vacancies available."
+      },
+      {
+        "front": "Two costs of unemployment to the economy",
+        "back": "Lost output, higher government spending on benefits, lower tax revenue and lower consumer spending."
+      }
+    ]
+  },
+  {
+    "subject": "economics",
+    "grade": 5,
+    "topic": "Labour Markets",
+    "subTopic": "Education, Skills and Productivity",
+    "questions": [
+      {
+        "content": "What does 'human capital' mean?",
+        "options": [
+          "Money held in a bank account",
+          "The knowledge, skills and health of workers",
+          "Machines used in factories",
+          "Land owned by a company"
+        ],
+        "answer": 1,
+        "explanation": "Human capital is the stock of skills, knowledge and health that makes workers productive. Investing in education and training increases it.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which formula gives labour productivity?",
+        "options": [
+          "Output ÷ number of workers",
+          "Wages ÷ output",
+          "Profit × workers",
+          "Number of workers ÷ output"
+        ],
+        "answer": 0,
+        "explanation": "Labour productivity is output per worker (or per hour worked). Higher output from the same workers means higher productivity.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A factory makes 4,800 units with 40 workers. What is the output per worker?",
+        "options": [
+          "12",
+          "120",
+          "160",
+          "192,000"
+        ],
+        "answer": 1,
+        "explanation": "4,800 ÷ 40 = 120 units per worker.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which of these is an example of investment in human capital?",
+        "options": [
+          "Buying a delivery van",
+          "A company paying for its staff to take a coding course",
+          "Building a car park",
+          "Reducing the price of a product"
+        ],
+        "answer": 1,
+        "explanation": "Training workers raises their skills, which is human capital. A van or car park is physical capital.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Why do workers with more education usually earn higher wages on average?",
+        "options": [
+          "They work longer hours by law",
+          "Their skills make them more productive and scarcer",
+          "They pay lower taxes",
+          "Employers must pay graduates more by law"
+        ],
+        "answer": 1,
+        "explanation": "Education raises productivity and the supply of highly skilled workers is limited, so employers are willing to pay more.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Before training, a firm made 4,800 units with 40 workers. After training programmes, it makes 5,700 units with 38 workers. What is the percentage increase in output per worker?",
+        "options": [
+          "18.75%",
+          "20%",
+          "25%",
+          "30%"
+        ],
+        "answer": 2,
+        "explanation": "Before: 120 per worker. After: 5,700 ÷ 38 = 150. Increase = (150 − 120) ÷ 120 × 100 = 25%. Total output rose only 18.75%, but productivity compares output per worker.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which of the following would most directly raise labour productivity?",
+        "options": [
+          "Hiring the same workers for fewer hours with no other change",
+          "Giving workers better tools and training",
+          "Lowering the product's price",
+          "Reducing the number of customers"
+        ],
+        "answer": 1,
+        "explanation": "Productivity rises through more capital (tools, machines), better skills, better organisation or technology.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A firm spends £20,000 training staff. The extra output from training is worth £28,000. What is the net benefit?",
+        "options": [
+          "£8,000",
+          "£20,000",
+          "£28,000",
+          "£48,000"
+        ],
+        "answer": 0,
+        "explanation": "Net benefit = benefit − cost = £28,000 − £20,000 = £8,000. A positive value suggests the training was worthwhile financially.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A country raises school and college attendance over twenty years. Which long-term effect is most likely?",
+        "options": [
+          "A less skilled workforce",
+          "Higher productivity and potential economic growth",
+          "Lower wages for everyone",
+          "No change in the economy"
+        ],
+        "answer": 1,
+        "explanation": "A better-educated workforce is more productive, which raises output and can support long-term growth and higher incomes.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Why might a firm be reluctant to pay for general training such as language courses?",
+        "options": [
+          "Trained workers might leave for competitors, so the firm loses its investment",
+          "Training lowers productivity",
+          "Training is illegal",
+          "Workers never learn"
+        ],
+        "answer": 0,
+        "explanation": "General skills can be used anywhere. A trained worker may be poached by a rival, so the firm that paid does not get all the benefit. This can lead to under-investment in training.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A firm's weekly wage bill is £3,000 and it produces 150 units. After new machines and training, the wage bill is £3,300 and it produces 220 units. What happens to labour cost per unit?",
+        "options": [
+          "It rises from £20 to £15",
+          "It falls from £20 to £15",
+          "It stays at £20",
+          "It rises from £15 to £20"
+        ],
+        "answer": 1,
+        "explanation": "Before: 3,000 ÷ 150 = £20 per unit. After: 3,300 ÷ 220 = £15 per unit. Wages rose, but productivity rose faster, so unit labour cost fell.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A factory with 60 workers each works 40 hours a week and produces 2,400 units in a week. What is output per hour worked across the whole workforce?",
+        "options": [
+          "1 unit",
+          "4 units",
+          "40 units",
+          "60 units"
+        ],
+        "answer": 0,
+        "explanation": "Total hours = 60 × 40 = 2,400. Output per hour = 2,400 ÷ 2,400 = 1 unit.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Four workers each work 8 hours a day and together produce 640 items a day. What is their output per worker-hour?",
+        "options": [
+          "5",
+          "20",
+          "80",
+          "160"
+        ],
+        "answer": 1,
+        "explanation": "Total worker-hours = 4 × 8 = 32. Output per worker-hour = 640 ÷ 32 = 20 items. 160 is output per worker per day.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A government wants to raise productivity. A report says 'Education spending is waste because it does not give immediate profit.' Which is the strongest response?",
+        "options": [
+          "Agree: only short-term profits matter",
+          "Disagree: education has long-run benefits such as higher productivity, higher tax revenues and lower unemployment, even though returns take years",
+          "Agree: schools do not teach skills",
+          "Disagree: education is free of any cost"
+        ],
+        "answer": 1,
+        "explanation": "Education is an investment with delayed returns. A balanced answer recognises the opportunity cost and time lag but highlights lasting benefits.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Two firms each raise wages by 10%. Firm A's productivity rises 15% and Firm B's productivity rises 2%. Which statement is most accurate about unit labour costs?",
+        "options": [
+          "Both firms' unit labour costs rise equally",
+          "Firm A's unit labour cost falls and Firm B's rises",
+          "Firm B's falls and Firm A's rises",
+          "Neither is affected by productivity"
+        ],
+        "answer": 1,
+        "explanation": "Unit labour cost depends on wages relative to productivity. Firm A's output per worker grows faster than its wages, so costs per unit fall. Firm B's wages outpace productivity, so costs per unit rise.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A town spends heavily on a new training college, yet unemployment among its graduates stays high because the courses do not match local employers' needs. What is the best interpretation?",
+        "options": [
+          "Training never improves employment",
+          "Spending alone is not enough; the skills must match labour-market demand",
+          "Graduates are lazy",
+          "The town should close all colleges"
+        ],
+        "answer": 1,
+        "explanation": "A skills mismatch leaves graduates structurally unemployed. Effective policy aligns training with the jobs employers actually offer.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Two countries both train workers. Country X spends 5% of GDP on education and its output per worker rises 3% a year. Country Y spends 2% and its output per worker rises 1% a year. A student concludes 'More education spending causes faster productivity growth.' What is the most careful evaluation?",
+        "options": [
+          "The conclusion is proved by two data points",
+          "The data are consistent with the claim but do not prove it, since other factors such as investment, technology and institutions may also differ",
+          "The data prove that spending lowers productivity",
+          "Education has no connection to productivity"
+        ],
+        "answer": 1,
+        "explanation": "Correlation does not prove causation. With only two countries, other differences could explain the gap, so the conclusion should be cautious.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A call centre replaces half of its basic-skill staff with automated systems and trains the remaining staff in advanced customer service. Which outcome best matches this change?",
+        "options": [
+          "Lower labour productivity and fewer skills",
+          "Higher productivity and a shift in demand toward higher-skilled workers, with a risk of structural unemployment for those not retrained",
+          "No change in the labour market",
+          "A rise in demand for low-skilled workers"
+        ],
+        "answer": 1,
+        "explanation": "Automation and training raise output per worker and shift demand toward skilled labour. Displaced low-skilled workers risk structural unemployment unless they are retrained.",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "## Why skills matter\nEconomists describe workers' knowledge, skills and health as **human capital**. Just as a firm invests in machines (physical capital), people and governments invest in human capital through schooling, university, apprenticeships, on-the-job training and healthcare. This investment increases **productivity**, which is the amount produced per worker or per hour worked.\n\nLabour productivity = output ÷ number of workers (or hours). If a factory makes 4,800 units with 40 workers, output per worker is 4,800 ÷ 40 = 120 units.\n\n## What raises productivity?\n- Better education and training.\n- More or better capital: tools, machinery, software.\n- Improved technology.\n- Better management and organisation of work.\n- Better health and nutrition of workers.\n\n## Benefits of higher productivity\nWhen workers produce more, firms can pay higher wages without raising prices, and the economy can grow. A useful measure is **unit labour cost** = total labour cost ÷ output. Suppose a firm pays £3,000 for 150 units (£20 per unit). After training it pays £3,300 for 220 units (£15 per unit). Wages rose, yet cost per unit fell because productivity grew faster than pay. That makes the firm more competitive.\n\nFor individuals, more education usually means higher wages, more job choices and lower risk of unemployment, because skilled workers are scarcer and more productive. For governments, an educated workforce means higher tax revenue and less spending on benefits.\n\n## Costs and problems\nTraining has an **opportunity cost**: money and time that could be used elsewhere. Returns can take years. A firm paying for general training may see workers leave to competitors, so firms may under-invest. This is one reason governments subsidise education. Training also has to match demand: if courses teach skills that employers do not want, graduates can still face structural unemployment.\n\n## Technology and skills\nAutomation can replace repetitive jobs and raise productivity, but it can leave workers without suitable skills. Retraining helps workers move into growing areas. Rising demand for skilled labour can increase wage differences between skilled and unskilled workers.\n\n## Evaluating investment in skills\nA simple cost-benefit check is: net benefit = value of extra output − cost of training. If a firm spends £20,000 and gains £28,000 of extra output, the net benefit is £8,000. Evaluation also considers timing, who gains, and whether other factors could explain the results.\n\n## Common mistakes\n- Confusing total output with output per worker.\n- Saying that higher wages always raise costs (they may not if productivity rises faster).\n- Claiming causation from a single comparison.\n\n## How this is examined\nIn the on-screen exam you may see data on output, workers and wages before and after a training scheme or a new machine. You are asked to calculate productivity or unit costs, explain why they changed and evaluate whether the investment was worthwhile, stating limitations.\n\nExam tip: Show the calculation for output per worker, then comment on both the benefits and the limits of the data.",
+    "flashcards": [
+      {
+        "front": "Human capital",
+        "back": "The knowledge, skills, experience and health of the workforce that make workers productive."
+      },
+      {
+        "front": "Labour productivity",
+        "back": "Output per worker (or per hour): total output ÷ number of workers (or hours worked)."
+      },
+      {
+        "front": "Unit labour cost",
+        "back": "Total labour cost ÷ output. It falls if productivity rises faster than wages."
+      },
+      {
+        "front": "Name three ways to raise productivity",
+        "back": "Education and training, better machinery or technology, better management and organisation, better worker health."
+      },
+      {
+        "front": "Why might firms under-invest in general training?",
+        "back": "Trained workers can leave for competitors, so the firm may not capture the benefit of its spending."
+      },
+      {
+        "front": "Why do skilled workers earn more on average?",
+        "back": "They are more productive and scarcer, so demand is high relative to supply."
+      },
+      {
+        "front": "Opportunity cost of training",
+        "back": "The money and time spent on training that could have been used on other things, such as machinery or production."
+      },
+      {
+        "front": "Risk of automation for workers",
+        "back": "Jobs can be replaced, causing structural unemployment unless workers are retrained for new roles."
+      },
+      {
+        "front": "Net benefit formula",
+        "back": "Value of the benefit − cost. A positive net benefit suggests the investment is worthwhile."
+      }
+    ]
+  }
+]

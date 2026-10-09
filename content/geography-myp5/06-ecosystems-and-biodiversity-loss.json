@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "geography",
+  "grade": 5,
+  "topic": "Ecosystems and Biodiversity Loss",
+  "subTopic": "Ecosystems and Food Webs",
+  "questions": [
+   {
+    "content": "In a food chain, which group of organisms makes its own food using sunlight?",
+    "options": [
+     "Producers",
+     "Primary consumers",
+     "Decomposers",
+     "Carnivores"
+    ],
+    "answer": 0,
+    "explanation": "Producers, such as plants and algae, use photosynthesis to make food. They form the first trophic level.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is an abiotic (non-living) part of an ecosystem?",
+    "options": [
+     "Soil moisture",
+     "A fungus",
+     "An insect",
+     "A tree"
+    ],
+    "answer": 0,
+    "explanation": "Abiotic factors include temperature, light, water and soil conditions. Plants, animals and fungi are biotic.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the role of decomposers such as fungi and bacteria?",
+    "options": [
+     "Break down dead material and return nutrients to the soil",
+     "Make food by photosynthesis",
+     "Hunt herbivores",
+     "Pollinate flowers"
+    ],
+    "answer": 0,
+    "explanation": "Decomposers recycle nutrients from dead plants and animals back into the soil so producers can use them again.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "An animal that eats only plants is called what?",
+    "options": [
+     "Herbivore",
+     "Carnivore",
+     "Omnivore",
+     "Decomposer"
+    ],
+    "answer": 0,
+    "explanation": "Herbivores are primary consumers. Carnivores eat other animals and omnivores eat both.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does biodiversity mean?",
+    "options": [
+     "The variety of living things in an area",
+     "The number of people in a region",
+     "The amount of rain",
+     "The size of a forest"
+    ],
+    "answer": 0,
+    "explanation": "Biodiversity covers the variety of species, genetic differences within species and the variety of ecosystems.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Producers in an ecosystem contain 10 000 kJ of energy. Assuming only 10% of energy passes to each next trophic level, how much energy reaches the third trophic level (secondary consumers)?",
+    "options": [
+     "100 kJ",
+     "1000 kJ",
+     "10 kJ",
+     "1 kJ"
+    ],
+    "answer": 0,
+    "explanation": "Producers have 10 000 kJ. Primary consumers receive 10% = 1000 kJ. Secondary consumers receive 10% of that = 100 kJ.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why are food chains rarely longer than four or five links?",
+    "options": [
+     "Energy is lost as heat, movement and waste at each stage, so too little remains",
+     "Animals stop eating",
+     "Plants run out of water",
+     "Predators dislike meat"
+    ],
+    "answer": 0,
+    "explanation": "Only a small fraction of energy passes on at each level. Most is used in life processes or lost as heat, so top levels cannot support many individuals.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Of 20 000 kJ available to a herd of herbivores, 2000 kJ is stored in their bodies and passed on. What is the efficiency of this energy transfer?",
+    "options": [
+     "10%",
+     "1%",
+     "90%",
+     "100%"
+    ],
+    "answer": 0,
+    "explanation": "Efficiency = 2000 ÷ 20 000 × 100 = 10%.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a food web, a disease kills most of the frogs that eat insects. What is the most likely immediate effect on the insect population?",
+    "options": [
+     "It increases because there is less predation",
+     "It decreases",
+     "It stays exactly the same",
+     "It disappears"
+    ],
+    "answer": 0,
+    "explanation": "Fewer predators usually means more prey, at least in the short term. Later, food supply and other predators would limit the increase.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Sea otters eat sea urchins, which graze on kelp. When otters are removed, urchins increase and kelp forests disappear. What kind of species are otters here?",
+    "options": [
+     "Keystone species",
+     "Producers",
+     "Decomposers",
+     "Invasive species"
+    ],
+    "answer": 0,
+    "explanation": "A keystone species has a disproportionately large effect on its ecosystem. Losing it can cause big changes in the community.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In which way does the nutrient cycle in a tropical rainforest differ from that in a coniferous forest?",
+    "options": [
+     "Nutrients cycle rapidly through living plants because decomposition is very fast in the warm, wet conditions",
+     "Nutrients are stored mainly in a thick litter layer",
+     "There is no decomposition",
+     "Nutrients are stored in the soil only"
+    ],
+    "answer": 0,
+    "explanation": "In rainforests, dead material decays within weeks, and roots absorb nutrients quickly, so most nutrients are held in the biomass. In cold coniferous forests decay is slow and nutrients stay in the litter.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Mercury released from industry builds up in the bodies of large predatory fish such as tuna. What is this process called?",
+    "options": [
+     "Bioaccumulation (biomagnification)",
+     "Photosynthesis",
+     "Attrition",
+     "Eutrophication"
+    ],
+    "answer": 0,
+    "explanation": "Toxins that are not broken down accumulate in organisms and become more concentrated at each trophic level, so top predators have the highest levels.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In the food chain grass → grasshopper → frog → snake, which organism is the secondary consumer?",
+    "options": [
+     "Frog",
+     "Grasshopper",
+     "Snake",
+     "Grass"
+    ],
+    "answer": 0,
+    "explanation": "The grasshopper is the primary consumer, the frog eats it so is the secondary consumer, and the snake is the tertiary consumer. Grass is the producer.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Students sample a meadow using five 1 m² quadrats and count 8, 12, 10, 14 and 6 daisies. The meadow area is 400 m². What is the best estimate of the total number of daisies?",
+    "options": [
+     "4000",
+     "50",
+     "400",
+     "20 000"
+    ],
+    "answer": 0,
+    "explanation": "Mean per quadrat = 50 ÷ 5 = 10 daisies per m². 10 × 400 m² = 4000. The estimate assumes the quadrats are random and representative.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A grassland food web contains grass, rabbits, mice, foxes and hawks. Foxes are hunted out. Which sequence of effects is most plausible?",
+    "options": [
+     "Rabbit numbers rise, grass is overgrazed, and food competition increases, so populations are unbalanced",
+     "Grass grows taller everywhere",
+     "Hawks increase quickly because they have no food",
+     "Nothing changes"
+    ],
+    "answer": 0,
+    "explanation": "Removing a predator causes prey to rise, increasing pressure on producers. This shows how interconnected food webs are, and that effects can spread through many levels.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Pollution raises the concentration of a toxin from 0.1 mg per kg in plankton to 1 mg in small fish and 10 mg in large fish. What is the main conclusion?",
+    "options": [
+     "The toxin becomes about 10 times more concentrated at each step, so top predators face the greatest risk",
+     "The toxin disappears over time",
+     "The plankton are most affected",
+     "Large fish are safest"
+    ],
+    "answer": 0,
+    "explanation": "A tenfold rise at each level shows biomagnification. Top consumers eat many contaminated prey and therefore hold the highest doses.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student studying a pond says: Food webs are more reliable than food chains when predicting the effects of removing a species. Why is this a valid claim?",
+    "options": [
+     "Webs show the multiple feeding links, so predicted effects account for alternative food sources",
+     "Chains show more species",
+     "Webs only show plants",
+     "Chains include decomposers"
+    ],
+    "answer": 0,
+    "explanation": "Real organisms eat several foods. A web shows these links, so it better predicts which species can switch food and which will suffer.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A monoculture pine plantation replaces a mixed forest. Which statement best explains why the plantation is often more vulnerable to disease?",
+    "options": [
+     "Low biodiversity means one pest can spread to nearly all trees and there are fewer natural predators of pests",
+     "Pine trees cannot photosynthesise",
+     "Plantations get no sunlight",
+     "Diseases only attack mixed forests"
+    ],
+    "answer": 0,
+    "explanation": "Biodiverse ecosystems are more resilient because they have a variety of species and checks on pests. Monocultures lack this.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What is an ecosystem?\nAn **ecosystem** is a community of living things (**biotic** factors) interacting with their non-living surroundings (**abiotic** factors such as sunlight, temperature, water and soil). Ecosystems vary in size from a pond to a rainforest. A set of linked ecosystems with a similar climate is a biome.\n\n## Feeding relationships\n- **Producers** make food by photosynthesis (plants, algae).\n- **Primary consumers** are herbivores.\n- **Secondary and tertiary consumers** are carnivores or omnivores.\n- **Decomposers** (fungi, bacteria) break down dead material and return nutrients to the soil.\nA **food chain** shows one feeding path, such as grass → rabbit → fox. A **food web** shows many interlinked chains, so it is more realistic. Each step is a **trophic level**.\n\n## Energy flow\nEnergy enters from the Sun and only about **10%** passes to the next trophic level. The rest is lost as heat, movement and waste. So 10 000 kJ in producers gives 1000 kJ in primary consumers and 100 kJ in secondary consumers. This is why food chains are short and why there are fewer top predators than herbivores.\nEfficiency = energy passed on ÷ energy available × 100.\n\n## Nutrient cycling\nNutrients move between **stores** (biomass, litter, soil) and **flows** (uptake, leaf fall, decomposition, leaching). In a tropical rainforest, decomposition is very fast, so most nutrients are in the living biomass and the soil is thin. In a cold forest, decay is slow and nutrients stay in the litter layer.\n\n## Interdependence\nA change in one species affects others. If a predator disappears, its prey may increase and overgraze vegetation. A **keystone species**, such as sea otters protecting kelp by eating sea urchins, has an especially large effect.\n\n## Bioaccumulation\nSome toxins, such as mercury or certain pesticides, are not broken down. They build up in animals and become more concentrated at each trophic level (**biomagnification**), so top predators like tuna or eagles are most at risk.\n\n## Biodiversity\n**Biodiversity** is the variety of life, including species and habitats. High biodiversity makes an ecosystem more resilient to disease and change. Monocultures, such as a single-species plantation, are vulnerable. We sample ecosystems with **quadrats**: if the mean is 10 plants per m² and the area is 400 m², we estimate 4000 plants, assuming a random and representative sample.\n\n## Worked example\nA herd has 20 000 kJ available and 2000 kJ is passed on. Efficiency = 2000 ÷ 20 000 × 100 = 10%.\n\n## Common mistakes\n- Drawing arrows in the wrong direction. Arrows show the flow of energy, from the food to the eater.\n- Saying energy is destroyed. It is transferred and mostly lost as heat.\n- Saying decomposers are not part of the food web.\n\n## How this is examined\nYou may be given a food web or a table of energy values and asked to calculate efficiency, predict what happens if a species is removed and explain your reasoning. You might also evaluate a sampling method.\n\nExam tip: When predicting changes, trace the effect step by step along the feeding links and use words like because and as a result.",
+  "flashcards": [
+   {
+    "front": "Biotic vs abiotic factors",
+    "back": "Biotic: living parts of an ecosystem (plants, animals, fungi). Abiotic: non-living parts (light, temperature, water, soil)."
+   },
+   {
+    "front": "Producer, consumer, decomposer",
+    "back": "Producers make food by photosynthesis. Consumers eat other organisms. Decomposers break down dead material and recycle nutrients."
+   },
+   {
+    "front": "Food chain vs food web",
+    "back": "A chain shows one feeding path. A web shows many linked chains and is more realistic."
+   },
+   {
+    "front": "10% rule",
+    "back": "Only about 10% of energy passes to the next trophic level; the rest is lost as heat, movement and waste."
+   },
+   {
+    "front": "Energy transfer efficiency",
+    "back": "Energy passed on ÷ energy available × 100."
+   },
+   {
+    "front": "Keystone species",
+    "back": "A species with a disproportionately large effect on its ecosystem, e.g. sea otters protecting kelp forests."
+   },
+   {
+    "front": "Biomagnification",
+    "back": "Toxins such as mercury become more concentrated at each trophic level, so top predators are most affected."
+   },
+   {
+    "front": "Why is biodiversity important?",
+    "back": "A varied ecosystem is more resilient to disease and change, supports ecosystem services and has cultural and economic value."
+   },
+   {
+    "front": "Rainforest nutrient cycle",
+    "back": "Fast decomposition and fast uptake mean most nutrients are stored in the biomass, and the soil is thin and low in nutrients."
+   }
+  ]
+ },
+ {
+  "subject": "geography",
+  "grade": 5,
+  "topic": "Ecosystems and Biodiversity Loss",
+  "subTopic": "Tropical Rainforests and Deforestation",
+  "questions": [
+   {
+    "content": "The Amazon rainforest is mostly located in which country?",
+    "options": [
+     "Brazil",
+     "Indonesia",
+     "Kenya",
+     "India"
+    ],
+    "answer": 0,
+    "explanation": "About 60% of the Amazon rainforest lies within Brazil, with the rest in countries such as Peru and Colombia.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is deforestation?",
+    "options": [
+     "The permanent removal of forest, usually for another land use",
+     "Planting a new forest",
+     "A forest fire caused by lightning",
+     "Seasonal leaf fall"
+    ],
+    "answer": 0,
+    "explanation": "Deforestation means clearing trees and converting the land, for example to farms, mines or roads.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which activity is the largest single driver of deforestation in the Amazon?",
+    "options": [
+     "Cattle ranching",
+     "Ecotourism",
+     "Beekeeping",
+     "Rubber tapping by hand"
+    ],
+    "answer": 0,
+    "explanation": "Land cleared for pasture for beef cattle accounts for a large share of Amazon forest loss, followed by crops such as soya.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The tallest rainforest layer, with trees rising above the rest, is called what?",
+    "options": [
+     "Emergent layer",
+     "Forest floor",
+     "Understorey",
+     "Canopy"
+    ],
+    "answer": 0,
+    "explanation": "Emergent trees poke above the canopy. Below are the canopy, understorey and forest floor.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is an environmental effect of deforestation?",
+    "options": [
+     "Loss of habitat and biodiversity",
+     "More species",
+     "Cleaner air in every case",
+     "Increased soil fertility for decades"
+    ],
+    "answer": 0,
+    "explanation": "When forest is cleared, many species lose their homes and may become extinct, because rainforests contain a huge variety of life.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "After a rainforest is cleared, farmland often loses fertility within a few years. Why?",
+    "options": [
+     "Most nutrients were stored in the vegetation, and heavy rain washes the thin soil's nutrients away",
+     "The soil becomes too deep",
+     "Rainfall stops",
+     "Sunlight disappears"
+    ],
+    "answer": 0,
+    "explanation": "Rainforest soils are low in nutrients because they are held in the biomass. Once trees are removed, nutrients are leached and the topsoil is eroded.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How does deforestation contribute to global warming?",
+    "options": [
+     "Trees store carbon, so burning or rotting released CO₂ and fewer trees absorb it",
+     "Trees produce heat",
+     "Forests make clouds disappear",
+     "It increases methane in the oceans"
+    ],
+    "answer": 0,
+    "explanation": "Clearing releases stored carbon as CO₂, and fewer trees remain to take up CO₂ through photosynthesis.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The Amazon forest cover in a region falls from 4.0 million km² to 3.4 million km². What is the percentage decrease?",
+    "options": [
+     "15%",
+     "17.6%",
+     "0.6%",
+     "85%"
+    ],
+    "answer": 0,
+    "explanation": "Decrease = 0.6 million km². 0.6 ÷ 4.0 × 100 = 15%. Dividing by the new total gives 17.6%, which is the wrong base.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is an example of sustainable management of rainforest?",
+    "options": [
+     "Selective logging with replanting and certification",
+     "Clear-cutting large areas",
+     "Burning for pasture",
+     "Unlimited road building"
+    ],
+    "answer": 0,
+    "explanation": "Selective logging removes only some mature trees, leaving the canopy and allowing regrowth. Certification (for example by the Forest Stewardship Council) helps buyers choose responsible timber.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why does ecotourism help conserve a rainforest?",
+    "options": [
+     "It gives local people income from keeping the forest standing, if well managed",
+     "It always damages the forest",
+     "It brings no money",
+     "It encourages logging"
+    ],
+    "answer": 0,
+    "explanation": "Visitors pay to see intact forest, creating jobs. Poorly managed tourism can still cause pollution and disturbance, so limits are needed.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A debt-for-nature swap involves which of the following?",
+    "options": [
+     "A country's debt is reduced in return for protecting forest",
+     "A nation selling all its trees",
+     "Farmers swapping crops",
+     "A company buying a forest to cut it"
+    ],
+    "answer": 0,
+    "explanation": "Lenders cancel or reduce debt if the borrower country invests in conservation, giving a financial incentive to protect forest.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why are rainforest soils described as fragile?",
+    "options": [
+     "The topsoil is thin and nutrient levels depend on a constant supply from leaf litter and living plants",
+     "The soils are very deep and rich",
+     "They are frozen",
+     "They contain too much salt"
+    ],
+    "answer": 0,
+    "explanation": "Rapid decomposition and uptake mean there is little humus. Remove the vegetation and the supply stops.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why can clearing forest on steep slopes increase flooding in the valley below?",
+    "options": [
+     "Fewer trees intercept rain and roots no longer bind soil, so water and sediment reach rivers faster",
+     "Cleared slopes absorb more water",
+     "Rain stops falling",
+     "Rivers become shorter"
+    ],
+    "answer": 0,
+    "explanation": "Without trees, less rain is intercepted and soaks in, so runoff is faster. Eroded soil also fills river channels, reducing their capacity.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A fictional reserve in the Rio Verde basin loses 11 000 km² of forest in one year from a total of 5.5 million km². What percentage of forest was lost?",
+    "options": [
+     "0.2%",
+     "2%",
+     "20%",
+     "0.02%"
+    ],
+    "answer": 0,
+    "explanation": "11 000 ÷ 5 500 000 × 100 = 0.2%. Small yearly percentages add up over decades, and the loss is still very large in absolute terms.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Ranchers clear 1000 hectares of forest that stored 150 tonnes of carbon per hectare. How much carbon was stored in the cleared area?",
+    "options": [
+     "150 000 tonnes",
+     "15 000 tonnes",
+     "1500 tonnes",
+     "1 500 000 tonnes"
+    ],
+    "answer": 0,
+    "explanation": "1000 × 150 = 150 000 tonnes. Much of this would be released to the atmosphere as CO₂ when the trees are burned or decay.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A politician argues: Clearing the rainforest for soya farms creates jobs, so it is a good plan. Which response gives the best balanced evaluation?",
+    "options": [
+     "Jobs and export income are short-term benefits, but soils decline fast and the loss of biodiversity and carbon storage affects the long term and other countries",
+     "Jobs are irrelevant",
+     "Rainforests have no value",
+     "Soya farms last forever on cleared forest soil"
+    ],
+    "answer": 0,
+    "explanation": "A strong evaluation weighs economic, social and environmental effects, and short-term against long-term consequences.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Satellite images show rainforest loss slowing after a country introduces fines, protected areas and monitoring. Which conclusion is most reasonable?",
+    "options": [
+     "The policies may have contributed, but other factors such as commodity prices must be checked",
+     "Policies definitely caused the whole change",
+     "Satellites cannot measure forests",
+     "No policy ever works"
+    ],
+    "answer": 0,
+    "explanation": "Correlation does not prove cause. Prices, weather and enforcement all influence clearing, so a good analysis considers these other factors.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which strategy is most likely to reduce pressure on rainforest in the long term?",
+    "options": [
+     "Making farming on existing cleared land more productive, with protection and incentives to keep forest standing",
+     "Building more roads into the forest",
+     "Clearing forest for quick profit",
+     "Banning all tourism"
+    ],
+    "answer": 0,
+    "explanation": "If farmers can earn more from the land they already have, there is less need to clear new forest. Protection and payments for conservation help keep trees standing.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## The tropical rainforest\nTropical rainforests grow near the equator where it is hot (about 27°C) and wet (more than 2000 mm of rain) all year. The largest is the **Amazon**, mostly in Brazil and spread across several South American countries. Others are in the Congo Basin and South-East Asia (for example Indonesia). They contain a huge variety of plant and animal species.\n\n## Structure\nLayers from top to bottom: **emergent** trees, **canopy** (thick roof that holds most life), **understorey** and **forest floor** (dark, with fast decomposition). Adaptations include drip tips to shed rain, buttress roots to support tall trees in shallow soil, and climbing plants.\n\n## Soils and nutrients\nDecomposition is very rapid and nutrients are taken up quickly by roots. As a result, most nutrients are stored in the vegetation and the soil is thin and infertile. When the trees are cleared, nutrients are quickly washed away and fertility drops within a few years.\n\n## Causes of deforestation\n- **Commercial farming**: cattle ranching (the largest driver in the Amazon) and soya, plus palm oil in Indonesia.\n- **Logging** for timber.\n- **Mining** and **energy projects**, such as dams.\n- **Roads** that open up remote areas.\n- **Subsistence farming** and settlements as populations grow.\n\n## Impacts\n- **Biodiversity loss**: habitat destroyed and species may become extinct.\n- **Soil erosion** and flooding: without roots and canopy, rain washes soil into rivers.\n- **Climate**: burning or decay releases stored carbon as CO₂, and fewer trees take up CO₂. Less transpiration can reduce local rainfall.\n- **People**: Indigenous communities lose homes and livelihoods; some people gain jobs and income.\n\n## Sustainable management\n- **Selective logging** and replanting, with timber certified by schemes such as the Forest Stewardship Council.\n- **Protected areas** and reserves with monitoring, including by satellite.\n- **Ecotourism** that gives local people income for keeping forest standing.\n- **Debt-for-nature swaps**, where debt is reduced in return for conservation.\n- **Agroforestry** and more productive farming on already cleared land.\n- **Reducing demand** for products linked to deforestation.\n\n## Calculations\nPercentage decrease = decrease ÷ original × 100. A fall from 4.0 to 3.4 million km² is 0.6 ÷ 4.0 = 15%. For a very large forest, even 0.2% a year (11 000 km² of 5.5 million km²) is a huge area. Carbon stored: 1000 ha × 150 tonnes per ha = 150 000 tonnes.\n\n## Evaluating\nConsider short-term economic gains against long-term environmental costs, and who benefits. Be careful with cause and effect: falling deforestation after a new law may also reflect lower crop prices.\n\n## Common mistakes\n- Saying rainforests have fertile soil.\n- Forgetting the global effects on carbon and climate.\n- Giving only one side in an evaluation.\n\n## How this is examined\nQuestions may offer a source about a rainforest region with figures on forest loss. You calculate percentage change, explain causes and impacts, and judge which management strategy is the most sustainable.\n\nExam tip: Link every cause to a specific impact, then judge a management option using the words in the short term and in the long term.",
+  "flashcards": [
+   {
+    "front": "Rainforest climate",
+    "back": "About 27°C all year with a small range, and more than 2000 mm of rainfall spread across the year."
+   },
+   {
+    "front": "Four rainforest layers",
+    "back": "Emergent, canopy, understorey and forest floor."
+   },
+   {
+    "front": "Largest cause of Amazon deforestation",
+    "back": "Cattle ranching, followed by soya farming, logging, mining, roads and settlement."
+   },
+   {
+    "front": "Why are rainforest soils infertile?",
+    "back": "Nutrients are held in the vegetation. After clearing, heavy rain leaches them away and the thin topsoil erodes."
+   },
+   {
+    "front": "How does deforestation affect climate?",
+    "back": "Stored carbon is released as CO₂ when forest burns or decays, and fewer trees remain to absorb CO₂."
+   },
+   {
+    "front": "Selective logging",
+    "back": "Removing only some mature trees, leaving the canopy and young trees to regrow. More sustainable than clear-cutting."
+   },
+   {
+    "front": "Debt-for-nature swap",
+    "back": "A lender reduces a country's debt in return for investment in protecting forest or other habitats."
+   },
+   {
+    "front": "Ecotourism",
+    "back": "Low-impact tourism that gives local people income from keeping the forest standing, if well managed."
+   },
+   {
+    "front": "Rainforest adaptations",
+    "back": "Drip tips, buttress roots, climbers and a layered structure to compete for light."
+   }
+  ]
+ },
+ {
+  "subject": "geography",
+  "grade": 5,
+  "topic": "Ecosystems and Biodiversity Loss",
+  "subTopic": "Desertification and Land Degradation",
+  "questions": [
+   {
+    "content": "What is desertification?",
+    "options": [
+     "Degradation of land in dry areas that turns productive land into desert-like conditions",
+     "The natural formation of sand dunes only",
+     "A volcanic process",
+     "An increase in rainfall"
+    ],
+    "answer": 0,
+    "explanation": "Desertification is land degradation in arid, semi-arid and dry sub-humid regions, caused by climate variation and human activity.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which region of Africa on the southern edge of the Sahara is especially at risk of desertification?",
+    "options": [
+     "The Sahel",
+     "The Congo Basin",
+     "The Nile Delta",
+     "The Cape"
+    ],
+    "answer": 0,
+    "explanation": "The Sahel is a semi-arid belt south of the Sahara with unreliable rainfall, where drought and land pressure cause degradation.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Overgrazing damages land because livestock do what?",
+    "options": [
+     "Eat vegetation faster than it can regrow, leaving soil bare",
+     "Add too much water",
+     "Plant too many seeds",
+     "Make the soil cold"
+    ],
+    "answer": 0,
+    "explanation": "Bare soil is easily blown or washed away by wind and rain. Without roots to bind it, fertility declines.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a human cause of desertification?",
+    "options": [
+     "Cutting trees for fuelwood",
+     "Heavy summer rain",
+     "Tectonic plate movement",
+     "High tides"
+    ],
+    "answer": 0,
+    "explanation": "Removing trees for fuel exposes soil to erosion. Other human causes include overcultivation, overgrazing and poor irrigation.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Planting rows of trees to reduce wind speed and protect farmland is an example of what?",
+    "options": [
+     "Soil conservation",
+     "Soil erosion",
+     "Salinisation",
+     "Overgrazing"
+    ],
+    "answer": 0,
+    "explanation": "Tree windbreaks and shelter belts reduce wind erosion and protect crops.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A village has grazing land that can support 50 cattle sustainably. The herd now has 80 cattle. What percentage of the sustainable limit is the herd?",
+    "options": [
+     "160%",
+     "62.5%",
+     "30%",
+     "130%"
+    ],
+    "answer": 0,
+    "explanation": "80 ÷ 50 × 100 = 160%. The land is carrying 60% more cattle than it can support, which leads to overgrazing and soil degradation.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why do falling rainfall and population growth together increase desertification risk in the Sahel?",
+    "options": [
+     "Less water for plants while more people and livestock need food and fuel, so land is overused",
+     "More rain means more erosion",
+     "Population growth reduces demand",
+     "Rain increases salinity only"
+    ],
+    "answer": 0,
+    "explanation": "Pressure on land increases as resources fall. The combination leads to overcultivation, overgrazing and woodcutting.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Poorly managed irrigation in dry regions can cause salinisation. What is this?",
+    "options": [
+     "Salts build up in the soil as water evaporates, reducing crop growth",
+     "Soil becomes sweeter",
+     "Rainwater gets stored",
+     "Soil becomes more fertile"
+    ],
+    "answer": 0,
+    "explanation": "Evaporation leaves salts at the surface, which harm crops and eventually make the soil unusable.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In Burkina Faso, farmers dig small planting pits called zaï. How does this technique help?",
+    "options": [
+     "It collects water and compost near seeds, improving crop yields in dry conditions",
+     "It removes soil",
+     "It stops all rain",
+     "It plants trees underwater"
+    ],
+    "answer": 0,
+    "explanation": "Zaï pits capture scarce rainfall and concentrate nutrients, helping restore degraded land cheaply with local materials.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The Great Green Wall initiative aims to restore land across Africa. What is its main approach?",
+    "options": [
+     "Planting and restoring vegetation and sustainable land use across the Sahel",
+     "Building a concrete wall around the Sahara",
+     "Moving the Sahara south",
+     "Flooding the desert"
+    ],
+    "answer": 0,
+    "explanation": "The programme, launched in 2007, supports communities to restore degraded land with trees, grasses and sustainable farming across the Sahel.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Drip irrigation delivers water directly to plant roots. Why is it suitable for dry regions?",
+    "options": [
+     "It reduces evaporation and water waste",
+     "It increases salinity by flooding",
+     "It needs no pipes",
+     "It cools the air"
+    ],
+    "answer": 0,
+    "explanation": "Targeted watering uses much less water than flooding fields, so more land can be irrigated and salinisation risk falls.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of these is an effect of desertification on people?",
+    "options": [
+     "Crop failure, food shortages and migration",
+     "Higher yields",
+     "Better water supply",
+     "Fewer migrants"
+    ],
+    "answer": 0,
+    "explanation": "As land loses fertility, farmers lose income and food supply. Many people migrate to towns or other countries.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why does removing vegetation increase wind erosion of soil in dry regions?",
+    "options": [
+     "Roots no longer bind the soil and plants no longer shelter it from the wind",
+     "Plants add dust to the air",
+     "Wind speed falls",
+     "Soil becomes wetter"
+    ],
+    "answer": 0,
+    "explanation": "Vegetation protects soil and holds it together. Bare, dry topsoil is easily lifted and blown away, reducing fertility.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "About 12 million hectares of land are lost to drought and desertification each year. If this rate stayed the same, how many hectares would be lost over 15 years?",
+    "options": [
+     "180 million",
+     "27 million",
+     "1.8 billion",
+     "18 million"
+    ],
+    "answer": 0,
+    "explanation": "12 million × 15 = 180 million hectares. The estimate assumes a constant rate, though the actual figure varies.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A farmer changes from flood irrigation using 100 units of water per plot to drip irrigation using 60 units. If the farm has 40 plots, how many units of water are saved in total?",
+    "options": [
+     "1600",
+     "4000",
+     "2400",
+     "160"
+    ],
+    "answer": 0,
+    "explanation": "Saving per plot = 100 – 60 = 40 units. 40 × 40 = 1600 units. Total use falls from 4000 to 2400, a 40% saving.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Aid agencies debate whether to build a large borehole with a pump or support farmers with simple stone lines and compost. Which statement shows the best geographical evaluation?",
+    "options": [
+     "Boreholes provide quick water but can lead to overuse near wells, while stone lines are cheaper, use local skills and are easier to maintain, so the best option depends on local needs and resources",
+     "Boreholes are always best",
+     "Stone lines are useless",
+     "Neither option helps"
+    ],
+    "answer": 0,
+    "explanation": "Judgement should consider cost, sustainability, who benefits and potential problems such as overgrazing near the well. Appropriate technology often fits local capacity better.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student claims the Sahel is becoming a desert purely because of climate change. Which is the best critique?",
+    "options": [
+     "Climate variability matters, but human pressures such as overgrazing and woodcutting also contribute, and some areas have regreened with good management",
+     "The claim is completely correct",
+     "Climate has no effect",
+     "Desertification only occurs in the Arctic"
+    ],
+    "answer": 0,
+    "explanation": "Land degradation has several causes. Evidence of regreening in parts of the Sahel where farmers protect trees shows that management makes a difference.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which pair of actions would most effectively break the cycle of desertification in a village where families depend on fuelwood and livestock?",
+    "options": [
+     "Providing efficient stoves and fenced rotational grazing areas",
+     "Cutting more trees to sell",
+     "Adding more livestock",
+     "Ploughing steep slopes"
+    ],
+    "answer": 0,
+    "explanation": "Efficient stoves reduce wood use, and rotational grazing allows vegetation to recover. Both address causes of degradation while meeting needs.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What is desertification?\n**Desertification** is the degradation of land in dry areas (arid, semi-arid and dry sub-humid) so that it loses its productivity. It does not simply mean deserts expanding. It happens when fertile land becomes dry, bare and eroded. Dry lands cover roughly 40% of the Earth's land surface, and about 12 million hectares are lost to drought and desertification every year.\n\n## Where does it happen?\nThe **Sahel** is a semi-arid belt of Africa just south of the Sahara, including countries such as Mali, Niger, Chad and Burkina Faso. Rainfall is low and unreliable, and droughts in the 1970s and 1980s brought famine. Other areas at risk include parts of Central Asia, Australia and the Americas.\n\n## Causes\n**Physical**\n- Low and unreliable rainfall, droughts and high temperatures.\n- Strong winds that blow away dry topsoil.\n- Climate change in some regions.\n\n**Human**\n- **Overgrazing**: too many animals eat the vegetation faster than it can regrow, leaving bare soil.\n- **Overcultivation**: growing crops repeatedly without rest or fertiliser exhausts the soil.\n- **Deforestation** for fuelwood and farmland, which removes roots that bind soil.\n- **Poor irrigation**: water evaporates, leaving salts behind (**salinisation**).\n- **Population growth** and poverty, which increase pressure on land.\n\n## Impacts\n- Crop failure, loss of grazing land and food shortages.\n- Loss of income and increased poverty.\n- Migration to cities or other countries, and sometimes conflict over scarce land and water.\n- Loss of biodiversity and soil fertility.\n\n## Management and solutions\n- **Soil conservation**: stone lines, contour ploughing, terraces and windbreaks.\n- **Water management**: drip irrigation and rainwater harvesting. Zaï pits in Burkina Faso collect water and compost near seeds.\n- **Agroforestry**: growing trees with crops; farmers in Niger have regrown trees from living stumps, improving yields.\n- **Sustainable grazing**: limiting herd numbers and rotating pastures.\n- **Alternative energy**: efficient stoves and solar power to reduce fuelwood use.\n- **Large schemes**: the Great Green Wall, launched in 2007, is an African-led project that supports restoring land across the Sahel.\nAppropriate technology that uses local skills and materials is often more sustainable than expensive imported systems.\n\n## Calculations\n- Carrying capacity check: a herd of 80 on land supporting 50 is 80 ÷ 50 × 100 = 160%, so overstocked by 60%.\n- Water saving: 100 units reduced to 60 units per plot saves 40 units; for 40 plots this is 1600 units.\n- Large-scale loss: 12 million hectares × 15 years = 180 million hectares.\n\n## Evaluating\nWhen assessing a solution, compare its cost, who it helps, how long it lasts and whether local people can maintain it. Be wary of simple explanations. Desertification usually has several causes at once.\n\n## Common mistakes\n- Saying that deserts naturally spread into fertile land with no human link.\n- Ignoring the role of poverty and population pressure.\n- Listing solutions without saying how they work.\n\n## How this is examined\nYou may study a source about a Sahel village, calculate the stocking rate or percentage change in yields, explain the causes and impacts, and justify which strategy is the most sustainable.\n\nExam tip: For each cause give a link such as removes vegetation, so soil is exposed, so wind and rain erode it.",
+  "flashcards": [
+   {
+    "front": "Desertification",
+    "back": "Degradation of land in dry areas caused by climate variation and human activities, reducing its productivity."
+   },
+   {
+    "front": "The Sahel",
+    "back": "A semi-arid belt south of the Sahara with unreliable rainfall; badly affected by drought and land degradation."
+   },
+   {
+    "front": "Human causes of desertification",
+    "back": "Overgrazing, overcultivation, deforestation for fuelwood, poor irrigation and population pressure."
+   },
+   {
+    "front": "Physical causes of desertification",
+    "back": "Low and unreliable rainfall, drought, high temperatures and strong winds that erode topsoil."
+   },
+   {
+    "front": "Salinisation",
+    "back": "Salts build up in soil when irrigation water evaporates, harming crops and making land unusable."
+   },
+   {
+    "front": "Zaï pits",
+    "back": "Small planting pits (Burkina Faso) that collect water and compost near seeds to improve yields on degraded land."
+   },
+   {
+    "front": "Great Green Wall",
+    "back": "African-led project launched in 2007 to restore degraded land across the Sahel with trees, grasses and sustainable farming."
+   },
+   {
+    "front": "Drip irrigation",
+    "back": "Delivers water directly to plant roots, cutting evaporation and water use and reducing salinisation."
+   },
+   {
+    "front": "Effects of desertification on people",
+    "back": "Crop failure, food shortages, poverty, loss of livelihoods and migration."
+   }
+  ]
+ }
+]

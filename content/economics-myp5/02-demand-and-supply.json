@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "economics",
+  "grade": 5,
+  "topic": "Demand and Supply",
+  "subTopic": "Demand and the Demand Curve",
+  "questions": [
+   {
+    "content": "According to the law of demand, if the price of a good rises (and everything else stays the same), the quantity demanded will:",
+    "options": [
+     "fall",
+     "rise",
+     "stay exactly the same",
+     "double"
+    ],
+    "answer": 0,
+    "explanation": "The law of demand states an inverse relationship between price and quantity demanded, ceteris paribus.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A change in the price of a good itself causes:",
+    "options": [
+     "a shift of the demand curve to the right",
+     "a shift of the demand curve to the left",
+     "a change in the slope of the supply curve",
+     "a movement along the demand curve"
+    ],
+    "answer": 3,
+    "explanation": "Price is on the vertical axis, so a price change moves you along the curve. Only other factors shift the curve.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of the following would shift the demand curve for a normal good to the right?",
+    "options": [
+     "A rise in the good's own price",
+     "A rise in the cost of raw materials",
+     "A rise in consumers' incomes",
+     "A new technology in production"
+    ],
+    "answer": 2,
+    "explanation": "For a normal good, higher income raises demand at every price. Raw material costs and technology affect supply, not demand.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does the Latin phrase 'ceteris paribus' mean in economics?",
+    "options": [
+     "Prices always rise",
+     "All other things being equal",
+     "The government will intervene",
+     "Supply equals demand"
+    ],
+    "answer": 1,
+    "explanation": "Economists change one factor at a time and hold the others constant to see its effect.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Tea and coffee are substitutes. If the price of coffee rises, what happens to the demand for tea?",
+    "options": [
+     "It decreases",
+     "It increases",
+     "It stays the same",
+     "It becomes zero"
+    ],
+    "answer": 1,
+    "explanation": "Consumers switch to the cheaper alternative, so demand for tea shifts right.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Printers and ink cartridges are complements. If the price of printers rises sharply, what is the likely effect on demand for cartridges?",
+    "options": [
+     "It falls, shifting the curve left",
+     "It rises, shifting the curve right",
+     "There is a movement down the demand curve",
+     "Nothing changes"
+    ],
+    "answer": 0,
+    "explanation": "Fewer printers are bought, so fewer cartridges are needed at every price. Complements are demanded together.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "When consumers' incomes rise by 10%, demand for bus journeys in a city falls. For these consumers bus travel is a:",
+    "options": [
+     "normal good",
+     "luxury good",
+     "public good",
+     "inferior good"
+    ],
+    "answer": 3,
+    "explanation": "An inferior good is one where demand falls as income rises because people switch to better alternatives such as cars.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A cafe records: $2 per cup sells 100; $3 sells 90; $4 sells 60; $5 sells 30. At which price is total revenue highest?",
+    "options": [
+     "$2",
+     "$4",
+     "$3",
+     "$5"
+    ],
+    "answer": 2,
+    "explanation": "Revenue = price × quantity: 200, 270, 240, 150. The highest is $270 at $3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "At a price of $5, three consumers want 12, 8 and 20 units. What is market demand at $5?",
+    "options": [
+     "20 units",
+     "12 units",
+     "40 units",
+     "960 units"
+    ],
+    "answer": 2,
+    "explanation": "Market demand is the sum of individual demands: 12 + 8 + 20 = 40.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A successful advertising campaign for trainers will most likely:",
+    "options": [
+     "shift the demand curve to the left",
+     "shift the demand curve to the right",
+     "cause a movement up the demand curve",
+     "shift the supply curve to the left"
+    ],
+    "answer": 1,
+    "explanation": "Advertising changes tastes, increasing demand at every price.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of the following does NOT shift the demand curve for pizza?",
+    "options": [
+     "A change in the price of pizza",
+     "A rise in incomes",
+     "A fall in the price of burgers, a substitute",
+     "An expectation that pizza prices will soon rise"
+    ],
+    "answer": 0,
+    "explanation": "A change in the good's own price causes movement along the curve. The other factors change demand at every price.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "At a price of $6, quantity demanded was 500 units. After incomes rise, 620 units are demanded at $6. What has happened?",
+    "options": [
+     "Quantity demanded increased by 24% due to a price cut",
+     "Demand decreased by 24%",
+     "Demand increased by 120%",
+     "Demand increased by 24%"
+    ],
+    "answer": 3,
+    "explanation": "(620 − 500) ÷ 500 × 100 = 24%. The price stayed at $6, so this is a shift, not a movement along the curve.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "People hear that fuel prices will rise next month. What is the likely effect on current demand for fuel?",
+    "options": [
+     "It decreases because prices are higher",
+     "It stays the same",
+     "It becomes zero",
+     "It increases as people buy before the price rise"
+    ],
+    "answer": 3,
+    "explanation": "Expectations of future price rises encourage people to buy now, shifting current demand right.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The demand function for a product is Qd = 500 − 20P. After a rise in income the function becomes Qd = 560 − 20P. What is the change in quantity demanded at a price of $10?",
+    "options": [
+     "A decrease of 60 units",
+     "An increase of 560 units",
+     "An increase of 60 units",
+     "No change"
+    ],
+    "answer": 2,
+    "explanation": "Before: 500 − 200 = 300. After: 560 − 200 = 360. At the same price, demand has risen by 60, which is a shift.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A bakery cuts the price of bread from $4 to $3. In the same month, a health campaign reduces bread demand. What can we conclude about the quantity sold?",
+    "options": [
+     "It must rise because price fell",
+     "The price cut moves along the curve, the campaign shifts it left, so the net effect depends on their sizes",
+     "It must fall because of the campaign",
+     "It cannot change because supply is fixed"
+    ],
+    "answer": 1,
+    "explanation": "Two separate effects occur. The result depends on which is bigger, which is why economists use ceteris paribus when studying one factor.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A coffee shop raises its price by 20% but sales stay the same. A student claims this breaks the law of demand. Which is the best reply?",
+    "options": [
+     "Another factor, such as higher incomes, may have shifted demand to the right at the same time",
+     "The law of demand is always wrong",
+     "Coffee is a free good",
+     "The supply curve must have shifted instead"
+    ],
+    "answer": 0,
+    "explanation": "The law holds ceteris paribus. If demand shifted right while price rose, quantity could stay the same.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "During a recession, sales of budget supermarket brands rise 15% while sales of premium brands fall. What does this suggest?",
+    "options": [
+     "Budget brands are inferior goods and premium brands are normal goods",
+     "Both are inferior goods",
+     "Both are normal goods",
+     "Budget brands are complements of premium brands"
+    ],
+    "answer": 0,
+    "explanation": "As incomes fall, people switch down to cheaper brands (inferior), and buy fewer premium (normal) goods.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student surveys 50 classmates to draw a demand curve for a school lunch, asking what they 'would' pay. What is the most important limitation?",
+    "options": [
+     "The survey shows the supply curve",
+     "Demand curves cannot be drawn from numbers",
+     "Surveys always give exact figures",
+     "Stated intentions may differ from real buying behaviour, and the sample is small"
+    ],
+    "answer": 3,
+    "explanation": "People often say they would buy more or less than they actually do, and 50 classmates may not represent the whole market. Both reduce reliability.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Demand is the quantity of a good or service that consumers are willing and able to buy at different prices in a given period. Notice the phrase 'willing and able': wanting a yacht does not count unless you can afford it.\n\n## The law of demand\nThe **law of demand** says that, ceteris paribus (all other things equal), when the price of a good rises the quantity demanded falls, and when the price falls the quantity demanded rises. This is why the demand curve slopes **downward** from left to right. People buy less when it is expensive because they can switch to substitutes and their money buys less.\n\n## Movement or shift?\nThis is the most tested idea in the topic.\n- A change in the **good's own price** causes a **movement along** the curve (an 'extension' or 'contraction' of demand).\n- A change in any **other factor** shifts the **whole curve**. A shift right means an increase in demand. A shift left is a decrease.\n\n## Factors that shift demand\n- **Income**: for a **normal good** a rise in income increases demand. For an **inferior good** (such as budget brands or bus travel when people can afford cars) it decreases demand.\n- **Prices of related goods**: a rise in the price of a **substitute** (coffee) increases demand for the alternative (tea). A rise in the price of a **complement** (printers) decreases demand for the other good (ink).\n- **Tastes and fashion**, helped by advertising or trends.\n- **Population**: more potential buyers shifts demand right.\n- **Expectations**: if people expect prices to rise soon, they buy now.\n\n## Market demand\nMarket demand is the sum of the demand of all consumers at each price. If three people want 12, 8 and 20 units at $5, market demand is 40 units.\n\n## Working with numbers\nYou may meet a demand schedule. For example, a cafe sells 100 cups at $2, 90 at $3, 60 at $4 and 30 at $5. Total revenue is price × quantity, so revenue is $200, $270, $240 and $150. A demand function such as Qd = 500 − 20P lets you calculate quantity: at P = 10, Qd = 300. If the function becomes Qd = 560 − 20P, demand has shifted right by 60 at every price. Percent change = (new − old) ÷ old × 100.\n\n## Common mistakes\n- Saying a price change 'shifts' demand. It is a movement along the curve.\n- Forgetting that complements go in opposite directions to substitutes.\n- Saying inferior means poor quality. It refers to how demand responds to income.\n- Not holding other factors constant, so two effects get mixed up.\n\n## How this is examined\nTypical stimulus: a short news item or table, such as a fall in the price of a competing product or a rise in incomes. You decide whether there is a movement or a shift, calculate changes, and explain in a sentence using economic reasoning. Higher-level tasks ask you to evaluate a data collection method, such as a survey, and discuss its reliability.\n\nExam tip: Always say whether it is a movement along or a shift of the curve, and name the direction (left or right).",
+  "flashcards": [
+   {
+    "front": "Demand",
+    "back": "The quantity of a good or service consumers are willing and able to buy at different prices in a period of time."
+   },
+   {
+    "front": "Law of demand",
+    "back": "Ceteris paribus, as price rises quantity demanded falls, and as price falls quantity demanded rises."
+   },
+   {
+    "front": "Movement vs shift",
+    "back": "Own price change = movement along the demand curve. Change in any other factor (income, tastes, etc.) = shift of the whole curve."
+   },
+   {
+    "front": "Normal vs inferior good",
+    "back": "Normal: demand rises as income rises. Inferior: demand falls as income rises (e.g. budget brands)."
+   },
+   {
+    "front": "Substitutes",
+    "back": "Goods that can replace each other (tea and coffee). A price rise in one increases demand for the other."
+   },
+   {
+    "front": "Complements",
+    "back": "Goods used together (printers and ink). A price rise in one decreases demand for the other."
+   },
+   {
+    "front": "Five factors that shift demand",
+    "back": "Income, prices of related goods, tastes (advertising), population, and expectations."
+   },
+   {
+    "front": "Market demand",
+    "back": "The sum of all individual consumers' demands at each price."
+   },
+   {
+    "front": "Total revenue",
+    "back": "Price × quantity sold. It can rise or fall when price changes, depending on how quantity responds."
+   }
+  ]
+ },
+ {
+  "subject": "economics",
+  "grade": 5,
+  "topic": "Demand and Supply",
+  "subTopic": "Supply and the Supply Curve",
+  "questions": [
+   {
+    "content": "The law of supply states that as the price of a good rises, the quantity supplied will:",
+    "options": [
+     "rise",
+     "fall",
+     "stay the same",
+     "become zero"
+    ],
+    "answer": 0,
+    "explanation": "Higher prices make production more profitable, encouraging firms to supply more, so the supply curve slopes upward.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A change in the price of a good itself causes:",
+    "options": [
+     "a shift of the supply curve to the right",
+     "a shift of the supply curve to the left",
+     "a shift of the demand curve",
+     "a movement along the supply curve"
+    ],
+    "answer": 3,
+    "explanation": "Own price is on the axis, so a price change causes movement along the curve.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of the following would shift the supply curve to the right?",
+    "options": [
+     "A rise in workers' wages",
+     "A tax on the product",
+     "Improved technology that cuts the cost of production",
+     "A fall in the number of firms"
+    ],
+    "answer": 2,
+    "explanation": "Lower costs make production more profitable at every price, so supply increases.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A rise in wages for factory workers will most likely cause the firm's supply curve to:",
+    "options": [
+     "shift to the right",
+     "shift to the left",
+     "stay the same",
+     "become vertical"
+    ],
+    "answer": 1,
+    "explanation": "Higher costs reduce profitability, so firms supply less at each price.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A government subsidy to producers will:",
+    "options": [
+     "shift supply to the left",
+     "shift supply to the right",
+     "shift demand to the left",
+     "have no effect"
+    ],
+    "answer": 1,
+    "explanation": "A subsidy lowers production costs, so firms can supply more at every price.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Three firms supply 120, 80 and 200 units at a certain price. What is market supply at that price?",
+    "options": [
+     "400 units",
+     "200 units",
+     "80 units",
+     "9,600 units"
+    ],
+    "answer": 0,
+    "explanation": "Market supply is the sum of all firms' supply: 120 + 80 + 200 = 400.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A drought destroys much of a country's wheat crop. What happens to the supply curve of wheat?",
+    "options": [
+     "It shifts right",
+     "It stays the same",
+     "Only demand changes",
+     "It shifts left"
+    ],
+    "answer": 3,
+    "explanation": "Weather affects agricultural output; less wheat is available at every price.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why does the supply curve slope upward?",
+    "options": [
+     "Consumers want less at higher prices",
+     "Firms are forced by law to produce more",
+     "Higher prices make it profitable to produce more, and extra output usually costs more to make",
+     "Costs fall as output rises in every case"
+    ],
+    "answer": 2,
+    "explanation": "Producers need a higher price to cover increasing marginal costs, and higher prices raise potential profit.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A new firm enters a market. What happens to market supply?",
+    "options": [
+     "It decreases",
+     "It stays the same",
+     "It increases",
+     "Demand decreases"
+    ],
+    "answer": 2,
+    "explanation": "More firms means more output available at every price, so the market supply curve shifts right.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A firm's supply function is Qs = 4P − 8. What quantity does it supply at a price of $10?",
+    "options": [
+     "40 units",
+     "32 units",
+     "8 units",
+     "2 units"
+    ],
+    "answer": 1,
+    "explanation": "Substitute P = 10: 4 × 10 − 8 = 32.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A firm's cost per unit rises from $6 to $7.50. What is the percentage increase in cost, and what is the likely effect on supply?",
+    "options": [
+     "25%, supply decreases",
+     "20%, supply increases",
+     "25%, supply increases",
+     "1.5%, supply decreases"
+    ],
+    "answer": 0,
+    "explanation": "(7.50 − 6) ÷ 6 × 100 = 25%. Higher costs reduce profit, so firms supply less at each price.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Farmers expect the price of their crop to be much higher next season. What might they do this season?",
+    "options": [
+     "Sell more now",
+     "Stop growing crops",
+     "Lower prices immediately",
+     "Hold back some stock, reducing current supply"
+    ],
+    "answer": 3,
+    "explanation": "Producers who expect higher future prices may delay selling or store output, reducing present supply.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which factor does NOT shift the supply curve?",
+    "options": [
+     "A change in input costs",
+     "A change in technology",
+     "A new tax on producers",
+     "A change in the price of the good itself"
+    ],
+    "answer": 3,
+    "explanation": "Own price changes cause movement along the curve. The others change costs or production conditions.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A farm's supply at different prices: $2 supplies 50; $4 supplies 90; $6 supplies 130; $8 supplies 150. Between which two prices does quantity supplied respond least per $1 rise?",
+    "options": [
+     "$2 and $4",
+     "$4 and $6",
+     "$6 and $8",
+     "All the same"
+    ],
+    "answer": 2,
+    "explanation": "Increases per $1: 20, 20, then 10. The smallest response is between $6 and $8, perhaps because capacity limits are approached.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A firm's supply function is Qs = 4P − 8. The government gives a subsidy of $2 per unit, so the firm effectively receives P + 2. What is quantity supplied when the market price is $10?",
+    "options": [
+     "32 units",
+     "40 units",
+     "34 units",
+     "12 units"
+    ],
+    "answer": 1,
+    "explanation": "With the subsidy, Qs = 4(P + 2) − 8. At P = 10: 4 × 12 − 8 = 40. The subsidy increases supply by 8 units at this price.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The same firm (Qs = 4P − 8) faces a tax of $3 per unit, so it effectively receives P − 3. What quantity is supplied at a market price of $10?",
+    "options": [
+     "20 units",
+     "32 units",
+     "29 units",
+     "44 units"
+    ],
+    "answer": 0,
+    "explanation": "Qs = 4(P − 3) − 8. At P = 10: 4 × 7 − 8 = 20. The tax reduces supply by 12 units at this price.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A government subsidises solar panel installation. Which statement best evaluates the policy?",
+    "options": [
+     "Supply of panels rises, lowering the price and benefiting the environment, but the money has an opportunity cost for taxpayers",
+     "Supply falls and prices rise",
+     "It has no cost to anyone",
+     "It only affects demand for panels"
+    ],
+    "answer": 0,
+    "explanation": "Subsidies shift supply right and can cut emissions, but public funds could have been used elsewhere, so evaluation should balance both.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Firm X adopts new technology that cuts costs, but at the same time the government imposes a tax on its product. What can we say about its supply?",
+    "options": [
+     "Supply must increase",
+     "Supply must decrease",
+     "Supply cannot change",
+     "The effects work in opposite directions, so the net shift depends on which is larger"
+    ],
+    "answer": 3,
+    "explanation": "Cost-cutting technology shifts supply right and the tax shifts it left. The result depends on the relative sizes of the two effects.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Supply is the quantity of a good or service that producers are willing and able to sell at different prices in a given period. The supply curve helps explain how businesses respond to price signals.\n\n## The law of supply\nThe **law of supply** says that, ceteris paribus, as the price of a good rises the quantity supplied rises, and as the price falls the quantity supplied falls. The supply curve therefore slopes **upwards**. Higher prices mean higher potential profit, and since producing extra units usually costs more, firms need higher prices to be willing to make them.\n\n## Movement or shift?\n- A change in the **good's own price** causes a **movement along** the supply curve.\n- A change in any **other factor** shifts the **whole curve**. A shift right is an increase in supply. A shift left is a decrease in supply.\n\n## Factors that shift supply\n- **Costs of production**: higher wages or raw material prices shift supply left, lower costs shift it right.\n- **Technology**: better methods reduce costs and increase supply.\n- **Taxes and subsidies**: a tax on producers raises costs and shifts supply left. A subsidy lowers costs and shifts supply right.\n- **Number of firms**: more firms increase market supply.\n- **Weather and natural events**: especially important for agriculture. A drought shifts supply of crops to the left.\n- **Expectations**: if producers expect a higher price in the future, they may hold stock back and reduce current supply.\n\n## Market supply\nMarket supply is the sum of the quantities every firm will supply at each price. If three firms supply 120, 80 and 200 units at $5, market supply is 400 units.\n\n## Working with numbers\nA supply function such as Qs = 4P − 8 allows calculation. At P = 10, Qs = 32. A per-unit subsidy of $2 means the firm acts as if the price were P + 2, so at P = 10 supply becomes 4(12) − 8 = 40. A tax of $3 per unit works the other way: 4(10 − 3) − 8 = 20. Percentage change in cost = (new − old) ÷ old × 100, so a rise from $6 to $7.50 is 25%.\n\n## Supply and sustainability\nSupply decisions have environmental and social consequences. A subsidy for solar panels may increase supply and cut emissions. A tax on plastic bags increases costs, discouraging supply. Evaluate by thinking about who gains, who pays and the opportunity cost of public money.\n\n## Common mistakes\n- Saying a price change shifts supply. It is a movement along the curve.\n- Mixing up which way taxes and subsidies shift supply (tax: left, subsidy: right).\n- Confusing a change in demand with a change in supply when explaining a price change.\n- Forgetting to add the firms' supplies to find market supply.\n\n## How this is examined\nYou are typically given a context such as a drought, a new machine or a tax, and asked to identify the shift, draw or describe the curve, calculate changes, and explain the effect on price and output. Extended tasks ask you to evaluate a government subsidy or tax for its economic and environmental effects.\n\nExam tip: Use the phrase 'at every price' when describing a shift, and state clearly the direction of the shift.",
+  "flashcards": [
+   {
+    "front": "Supply",
+    "back": "The quantity of a good or service producers are willing and able to sell at different prices in a period."
+   },
+   {
+    "front": "Law of supply",
+    "back": "Ceteris paribus, as price rises, quantity supplied rises, so the supply curve slopes upwards."
+   },
+   {
+    "front": "Movement vs shift (supply)",
+    "back": "Own price change = movement along the supply curve. Any other factor (costs, technology, taxes) shifts the whole curve."
+   },
+   {
+    "front": "Four things that shift supply right",
+    "back": "Lower costs, better technology, a subsidy, or more firms entering the market."
+   },
+   {
+    "front": "Effect of a tax on producers",
+    "back": "It raises costs, so supply shifts left (decreases)."
+   },
+   {
+    "front": "Effect of a subsidy to producers",
+    "back": "It lowers costs, so supply shifts right (increases)."
+   },
+   {
+    "front": "Market supply",
+    "back": "The sum of the quantities all firms supply at each price."
+   },
+   {
+    "front": "Why supply of crops may shift left",
+    "back": "Poor weather, such as drought, reduces harvests so less is available at every price."
+   },
+   {
+    "front": "Percentage change formula",
+    "back": "(New value − old value) ÷ old value × 100."
+   }
+  ]
+ },
+ {
+  "subject": "economics",
+  "grade": 5,
+  "topic": "Demand and Supply",
+  "subTopic": "Market Equilibrium and Price Changes",
+  "questions": [
+   {
+    "content": "Market equilibrium occurs where:",
+    "options": [
+     "quantity demanded equals quantity supplied",
+     "price is as high as possible",
+     "supply is greater than demand",
+     "the government sets the price"
+    ],
+    "answer": 0,
+    "explanation": "At equilibrium there is no shortage or surplus, so there is no pressure for the price to change.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "If the market price is above the equilibrium price there will be:",
+    "options": [
+     "a shortage",
+     "equilibrium",
+     "a fall in costs",
+     "a surplus (excess supply)"
+    ],
+    "answer": 3,
+    "explanation": "At a higher price, firms supply more than consumers demand, so unsold stock builds up and price tends to fall.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "If the market price is below the equilibrium price there will be:",
+    "options": [
+     "a surplus",
+     "a rise in supply",
+     "a shortage (excess demand)",
+     "no change"
+    ],
+    "answer": 2,
+    "explanation": "At a low price, consumers want more than firms supply, which pushes price up.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Demand increases while supply is unchanged. What happens to equilibrium price and quantity?",
+    "options": [
+     "Both fall",
+     "Both rise",
+     "Price rises, quantity falls",
+     "Price falls, quantity rises"
+    ],
+    "answer": 1,
+    "explanation": "A rightward shift in demand moves along the supply curve to a higher price and higher quantity.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Supply decreases while demand is unchanged. What happens to equilibrium price and quantity?",
+    "options": [
+     "Both rise",
+     "Price rises, quantity falls",
+     "Both fall",
+     "Price falls, quantity rises"
+    ],
+    "answer": 1,
+    "explanation": "A leftward shift in supply creates a shortage at the old price, so price rises, and less is traded.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A market has: price $2, Qd 90, Qs 10; $4, Qd 70, Qs 30; $6, Qd 50, Qs 50; $8, Qd 30, Qs 70. What is the equilibrium price and quantity?",
+    "options": [
+     "$6 and 50 units",
+     "$4 and 70 units",
+     "$8 and 70 units",
+     "$6 and 100 units"
+    ],
+    "answer": 0,
+    "explanation": "Equilibrium is where Qd = Qs, which is at $6 where both are 50.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Using the same data, what happens at a price of $2?",
+    "options": [
+     "A surplus of 80 units",
+     "A shortage of 40 units",
+     "Equilibrium",
+     "A shortage of 80 units"
+    ],
+    "answer": 3,
+    "explanation": "At $2, Qd = 90 and Qs = 10, so there is excess demand of 90 − 10 = 80 units.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Using the same data, what happens at a price of $8?",
+    "options": [
+     "A shortage of 40 units",
+     "A surplus of 70 units",
+     "A surplus of 40 units",
+     "A shortage of 20 units"
+    ],
+    "answer": 2,
+    "explanation": "At $8, Qs = 70 and Qd = 30, so excess supply is 70 − 30 = 40 units.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Demand falls and supply rises. What definitely happens to the equilibrium price?",
+    "options": [
+     "It rises",
+     "It stays the same",
+     "It falls",
+     "It cannot be known"
+    ],
+    "answer": 2,
+    "explanation": "Both shifts push the price down. The effect on quantity is uncertain because demand pushes quantity down and supply pushes it up.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A storm ruins a large part of the orange crop. What is the most likely effect on the market for oranges?",
+    "options": [
+     "Demand increases, so price rises",
+     "Supply decreases, so price rises and quantity traded falls",
+     "Supply increases, so price falls",
+     "Nothing changes"
+    ],
+    "answer": 1,
+    "explanation": "The storm reduces the supply of oranges. The price rises, which also reduces quantity demanded.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Qd = 240 − 20P and Qs = 60 + 10P. What is the equilibrium price and quantity?",
+    "options": [
+     "Price $6 and quantity 120",
+     "Price $8 and quantity 80",
+     "Price $10 and quantity 40",
+     "Price $6 and quantity 60"
+    ],
+    "answer": 0,
+    "explanation": "Set Qd = Qs: 240 − 20P = 60 + 10P, so 180 = 30P, P = 6. Then Q = 240 − 120 = 120.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A new technology lowers costs while a fashion trend raises demand. What happens to equilibrium quantity?",
+    "options": [
+     "It falls",
+     "It stays the same",
+     "It cannot be known",
+     "It rises"
+    ],
+    "answer": 3,
+    "explanation": "Both shifts, demand right and supply right, increase quantity. The effect on price is uncertain because demand pushes it up and supply pushes it down.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A shortage appears when the price is too low. How does the price mechanism correct this?",
+    "options": [
+     "Price falls, which increases demand",
+     "The government must always step in",
+     "Supply immediately falls",
+     "Price rises, which reduces quantity demanded and raises quantity supplied"
+    ],
+    "answer": 3,
+    "explanation": "Rising prices act as a signal and an incentive, rationing demand and attracting more supply until equilibrium is restored.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In the market with Qd = 240 − 20P and Qs = 60 + 10P, demand increases to Qd = 300 − 20P. By what percentage does equilibrium price rise?",
+    "options": [
+     "25%",
+     "20%",
+     "33.3%",
+     "66.7%"
+    ],
+    "answer": 2,
+    "explanation": "New equilibrium: 300 − 20P = 60 + 10P, so P = 8 (Q = 140). Old price was $6, so (8 − 6) ÷ 6 × 100 = 33.3%.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "In the original market (Qd = 240 − 20P, Qs = 60 + 10P), a supply disruption changes supply to Qs = 10P. By how much does equilibrium quantity change?",
+    "options": [
+     "It falls by 50% from 120 to 60",
+     "It falls by 33.3% from 120 to 80",
+     "It rises by 33.3%",
+     "It falls by 25% from 120 to 90"
+    ],
+    "answer": 1,
+    "explanation": "New equilibrium: 240 − 20P = 10P gives P = 8, Q = 80. The change is (80 − 120) ÷ 120 = −33.3%.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "In the original market, the government sets a minimum price of $8. What happens?",
+    "options": [
+     "Qs is 140 and Qd is 80, a surplus of 60",
+     "Qs is 80 and Qd is 140, a shortage of 60",
+     "Equilibrium is reached",
+     "Qs is 120 and Qd is 120"
+    ],
+    "answer": 0,
+    "explanation": "At P = 8, Qd = 240 − 160 = 80 and Qs = 60 + 80 = 140, a surplus of 60. A price floor above equilibrium creates unsold stock.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A newspaper says 'house prices have risen because the supply of houses has increased'. What is the problem with this statement?",
+    "options": [
+     "An increase in supply would lower the price, so a rise in demand or a fall in supply is more likely",
+     "Supply has no effect on price",
+     "House prices cannot rise",
+     "Demand never changes"
+    ],
+    "answer": 0,
+    "explanation": "Price and supply move in opposite directions when supply shifts. A price rise suggests demand rose or supply fell.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student uses the demand and supply model to predict the price of tickets for a stadium concert. What is the biggest limitation?",
+    "options": [
+     "Concerts have no demand",
+     "The model needs the number of fans on social media",
+     "The price is always zero",
+     "The seller may have market power, capacity is fixed and buyers may not have full information"
+    ],
+    "answer": 3,
+    "explanation": "The basic model assumes many competing sellers and flexible supply. Fixed capacity and a single seller with market power mean prices may not behave as the model predicts.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Markets bring buyers and sellers together. The price at which what buyers want to buy matches what sellers want to sell is the equilibrium price. Understanding how and why this changes is central to economics.\n\n## Equilibrium\n**Market equilibrium** is where the demand curve and supply curve cross. At the **equilibrium price**, quantity demanded equals quantity supplied (the **equilibrium quantity**). There is no shortage or surplus, so there is no pressure for the price to change.\n\n## Disequilibrium\n- If the price is **above** equilibrium, quantity supplied exceeds quantity demanded: a **surplus** (excess supply). Firms cut prices to sell stock, so the price falls.\n- If the price is **below** equilibrium, quantity demanded exceeds quantity supplied: a **shortage** (excess demand). Buyers compete and prices rise.\nThe size of a surplus or shortage is found by subtracting: for example, if Qd = 90 and Qs = 10 at $2, the shortage is 80 units.\n\n## The price mechanism\nThe price mechanism does three jobs. It **signals** where resources are needed, gives **incentives** (higher prices attract more supply) and **rations** goods to those willing and able to pay. When a shortage pushes the price up, quantity demanded falls and quantity supplied rises until equilibrium is restored.\n\n## Changes in equilibrium\nAlways follow three steps: identify which curve shifts, in which direction, then read off the new price and quantity.\n- Demand right: price up, quantity up. Demand left: price down, quantity down.\n- Supply right: price down, quantity up. Supply left: price up, quantity down.\n- If both curves shift, one variable is certain and the other is not. Demand falls and supply rises: price definitely falls, quantity is uncertain.\n\n## Worked example with equations\nSuppose Qd = 240 − 20P and Qs = 60 + 10P. Set them equal: 240 − 20P = 60 + 10P. This gives 180 = 30P, so P = 6 and Q = 120. If demand rises to Qd = 300 − 20P, then 300 − 20P = 60 + 10P, so P = 8 and Q = 140. The price has risen by (8 − 6) ÷ 6 = 33.3% and quantity by 16.7%.\n\n## Common mistakes\n- Saying 'supply increased' when the price rose. A supply increase lowers price.\n- Moving both curves when only one factor changed.\n- Forgetting to give both price and quantity effects.\n- Mixing up shortage and surplus. A price too low gives a shortage.\n\n## Limits of the model\nThe model assumes many buyers and sellers, similar products and flexible prices. Real markets may have a single powerful seller, fixed capacity (stadiums) or incomplete information. Evaluating a model by stating its assumptions is a skill rewarded in real-world tasks.\n\n## How this is examined\nYou are usually given a table, equations or a news story, then asked to find equilibrium, identify a shortage or surplus, or explain the effect of a shift. Extended tasks ask you to state assumptions, check your calculations and evaluate the model for a specific real-world market.\n\nExam tip: Describe each step: which curve shifts, which direction, what happens at the old price, and the new equilibrium.",
+  "flashcards": [
+   {
+    "front": "Equilibrium price",
+    "back": "The price at which quantity demanded equals quantity supplied, so there is no shortage or surplus."
+   },
+   {
+    "front": "Surplus (excess supply)",
+    "back": "Occurs when price is above equilibrium: quantity supplied > quantity demanded. Price tends to fall."
+   },
+   {
+    "front": "Shortage (excess demand)",
+    "back": "Occurs when price is below equilibrium: quantity demanded > quantity supplied. Price tends to rise."
+   },
+   {
+    "front": "Demand rises, supply unchanged",
+    "back": "Equilibrium price and quantity both rise."
+   },
+   {
+    "front": "Supply falls, demand unchanged",
+    "back": "Equilibrium price rises and quantity falls."
+   },
+   {
+    "front": "Finding equilibrium from equations",
+    "back": "Set Qd = Qs, solve for P, then substitute P back to find Q."
+   },
+   {
+    "front": "Three functions of the price mechanism",
+    "back": "Signalling where resources are needed, giving incentives, and rationing goods."
+   },
+   {
+    "front": "Both curves shift",
+    "back": "One effect is certain, the other is not: e.g. demand falls and supply rises means price falls, quantity uncertain."
+   },
+   {
+    "front": "Limits of the demand and supply model",
+    "back": "It assumes many buyers and sellers, similar products and flexible prices; real markets may have market power or fixed capacity."
+   }
+  ]
+ }
+]

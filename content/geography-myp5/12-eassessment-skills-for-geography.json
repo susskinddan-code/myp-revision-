@@ -1,0 +1,440 @@
+[
+  {
+    "subject": "geography",
+    "grade": 5,
+    "topic": "eAssessment Skills for Geography",
+    "subTopic": "Data and Source Analysis in Geography",
+    "questions": [
+      {
+        "content": "A student wants to show how the flow of a river changes during and after a storm. Which type of graph is most suitable?",
+        "options": ["Pie chart", "Line graph", "Pictogram", "Choropleth map"],
+        "answer": 1,
+        "explanation": "A line graph shows change over time, so it suits river discharge during a storm (a hydrograph). Pie charts show proportions of a whole.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which of these is an example of primary data?",
+        "options": ["A census table downloaded from a government website", "A textbook map of a town", "A pedestrian count you carry out yourself in a high street", "A news report about a flood"],
+        "answer": 2,
+        "explanation": "Primary data is collected first-hand by the investigator, for example through counts, surveys and measurements. Secondary data was collected by someone else.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "In a data set, what is an anomaly?",
+        "options": ["The total of all values", "The most common value", "A value that does not fit the general pattern", "A value that is repeated"],
+        "answer": 2,
+        "explanation": "An anomaly is an unusual result that stands out from the rest of the data. It should be checked and discussed, not simply ignored.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A scatter graph shows that as distance from the coast increases, average temperature in summer also increases. What type of relationship is this?",
+        "options": ["Negative correlation", "No correlation", "Positive correlation", "A random pattern"],
+        "answer": 2,
+        "explanation": "When both variables increase together, the correlation is positive. A downward-sloping pattern would be negative.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "River widths measured at four sites were 4 m, 9 m, 15 m and 22 m. What is the range?",
+        "options": ["18 m", "22 m", "4 m", "12.5 m"],
+        "answer": 0,
+        "explanation": "Range = highest − lowest = 22 − 4 = 18 m. The range tells you how spread out the data are.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Daily rainfall (mm) over seven days at a weather station was: 12, 15, 9, 14, 60, 11, 13. What is the mean to one decimal place?",
+        "options": ["13.0 mm", "19.1 mm", "60.0 mm", "14.0 mm"],
+        "answer": 1,
+        "explanation": "Total = 134. 134 ÷ 7 = 19.14, which is 19.1 mm to one decimal place. The 60 mm day pulls the mean up.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Using the same rainfall data (12, 15, 9, 14, 60, 11, 13), what is the median?",
+        "options": ["14 mm", "19.1 mm", "60 mm", "13 mm"],
+        "answer": 3,
+        "explanation": "In order: 9, 11, 12, 13, 14, 15, 60. The middle (fourth) value is 13 mm.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "The number of visitors to a museum fell from 50 000 to 38 000. What is the percentage change?",
+        "options": ["+24%", "−32%", "−24%", "−12%"],
+        "answer": 2,
+        "explanation": "Change = −12 000. −12 000 ÷ 50 000 × 100 = −24%. Dividing by the new value would give about −32%, which is wrong.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "In a questionnaire, 18 of 60 respondents said they use public transport daily. What percentage is this?",
+        "options": ["18%", "42%", "30%", "33%"],
+        "answer": 2,
+        "explanation": "18 ÷ 60 × 100 = 30%. Reversing the division would give 333%.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A student asks 20 people outside one café at lunchtime about shopping habits in a town. What is the main limitation of this sample?",
+        "options": ["It is too small to calculate a percentage", "It may be unrepresentative: it is small, and taken at one place and time", "Questionnaires cannot be used in towns", "It collects secondary data"],
+        "answer": 1,
+        "explanation": "Samples should be large enough and spread over different times and places. A small sample at one spot may be biased.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A tourist board brochure says 'tourism has transformed our island for the better.' Why should this source be treated with caution when studying impacts?",
+        "options": ["Brochures are never accurate", "Its purpose is to promote the destination, so it may leave out negative impacts", "Brochures contain no words", "It was published recently"],
+        "answer": 1,
+        "explanation": "To judge a source, consider who made it and why. A promotional purpose suggests possible bias, so cross-check it with other sources.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A choropleth map is shaded darker where population density is higher. What does this technique show?",
+        "options": ["Exact positions of every person", "Differences in a value between areas", "The route of a river", "The height of mountains"],
+        "answer": 1,
+        "explanation": "Choropleth maps use shading to show variation in a quantity, such as density or income, between areas.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Using the rainfall data (12, 15, 9, 14, 60, 11, 13), a student wants a typical daily value. Which statement is the best justified?",
+        "options": ["The mean of 19.1 mm is best because it uses all values", "The median of 13 mm (or the mean without the 60 mm anomaly, about 12.3 mm) is better, because the anomaly distorts the mean", "The range of 51 mm is best", "No value can be used"],
+        "answer": 1,
+        "explanation": "The 60 mm result is an anomaly that raises the mean well above most days. The median is not affected by extreme values. A good answer would also check whether the 60 mm reading is real.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Source A, a government report, says a new dam brings 'clear benefits' and gives figures for electricity. Source B, a campaign group leaflet, says it 'destroys communities' and gives no figures. Which evaluation is best?",
+        "options": ["Source B is better because it is more emotional", "Source A has data but may emphasise benefits, Source B gives no evidence and has an opposing purpose, so both should be cross-checked", "Source A is fully reliable because governments are always neutral", "Neither can be used"],
+        "answer": 1,
+        "explanation": "Evaluating sources means considering origin, purpose, evidence and limitations. Both may be one-sided, so a student should look for corroboration from other sources.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A student estimates that a bridge has 1500 cars passing in an hour. A careful count gives 1200. What is the percentage error of the estimate?",
+        "options": ["20%", "25%", "30%", "300%"],
+        "answer": 1,
+        "explanation": "Error = 1500 − 1200 = 300. Percentage error = 300 ÷ 1200 × 100 = 25%, using the accurate value as the base.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Visitor numbers at a lake were 200 in 2018, 230 in 2019 and 260 in 2020. A student predicts 320 for 2022 using a straight-line trend. Which statement about the prediction is correct?",
+        "options": ["It is exactly right because the data are linear", "It is a reasonable estimate (adding 30 per year), but it assumes the trend continues and ignores other factors", "It is wrong because 2022 is not a year", "It should be 260"],
+        "answer": 1,
+        "explanation": "The numbers rise by 30 a year, so 260 + 2 × 30 = 320. Extrapolation relies on the assumption that the pattern continues, so it has limits.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "In a river investigation a student timed one orange float over 10 m at each of five sites, once. Which improvement would most increase the reliability of the results?",
+        "options": ["Use a bigger orange", "Repeat each measurement three times and use the mean", "Measure only one site", "Ignore the results at fast sites"],
+        "answer": 1,
+        "explanation": "Repeating measurements and calculating a mean reduces the effect of random error. It also helps identify anomalies.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A graph shows that towns with more cafés also have more traffic accidents. A student writes 'cafés cause accidents.' What is the best evaluation?",
+        "options": ["Correct because the graph shows a relationship", "Incorrect: both are probably linked to town size, so a correlation does not prove cause", "Correct because cafés cause noise", "Incorrect because graphs cannot show relationships"],
+        "answer": 1,
+        "explanation": "Larger towns have more cafés and more traffic, so both rise together. A hidden third factor can explain a correlation.",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "## Why data skills matter\nIn geography, evidence comes from numbers, graphs, maps and written sources. In the eAssessment you are often given this material in a short, realistic context, such as a weather station record, a tourism survey or a report on a river project. Your job is to pull out the relevant information, process it, interpret it and judge how far you can trust it.\n\n## Reading graphs and maps\n- **Line graphs** show change over time (for example a hydrograph).\n- **Bar charts** compare categories. **Histograms** show frequency of grouped data.\n- **Pie charts** show proportions of a whole.\n- **Scatter graphs** show relationships between two variables. A line of best fit helps describe the trend. Upward means positive correlation, downward means negative, and no pattern means no correlation.\n- **Choropleth maps** use shading to show differences between areas. **Isoline maps** (such as contours) join places of equal value.\n\nWhen describing a graph, give the overall trend, quote figures with units, mention the highest and lowest values and any anomalies.\n\n## Key calculations\n- **Mean** = total ÷ number of values. **Median** = middle value when ordered. **Range** = highest − lowest.\n- **Percentage** = part ÷ whole × 100. 18 out of 60 is 30%.\n- **Percentage change** = (new − old) ÷ old × 100. From 50 000 to 38 000 gives −24%.\n- **Percentage error** = (estimate − true value) ÷ true value × 100. An estimate of 1500 when the true count is 1200 has an error of 300 ÷ 1200 = 25%.\n\nWorked example: rainfall on seven days (mm) was 12, 15, 9, 14, 60, 11 and 13. Mean = 134 ÷ 7 = 19.1 mm. Ordered: 9, 11, 12, 13, 14, 15, 60 so median = 13 mm and range = 51 mm. The 60 mm day is an anomaly that pulls the mean upwards, so the median or the mean without the anomaly (12.3 mm) is more typical. A good student also checks whether 60 mm is a recording error or a real storm.\n\n## Evaluating data and sampling\nAsk: How big was the sample? Was it random or biased? Was it taken at one time or place only? Was equipment accurate? Repeating measurements and calculating a mean improves reliability. Mention limitations such as small samples, weather on the day, human error or missing data.\n\n## Evaluating sources\nFor any source consider **origin** (who produced it and when), **purpose** (why it was made), **value** (what useful information it contains) and **limitations** (what is missing or biased). A tourism brochure aims to promote a place, a campaign leaflet aims to persuade, and a government report may emphasise its own policy. Compare sources to see where they agree and disagree.\n\n## Correlation and cause\nTwo things rising together do not prove one causes the other. A hidden factor, such as town size, can explain both. Use careful wording such as 'is linked to' or 'may be a factor'.\n\n## Predictions and assumptions\nIf visitors are 200, 230 and 260 in three years, a linear trend adds 30 a year, so 320 would be predicted two years after 260. State the assumption that the pattern continues, and note that real life may change.\n\n## Common mistakes\n- Describing a graph without numbers.\n- Using the mean when there is an anomaly without comment.\n- Dividing by the wrong value in a percentage change.\n- Treating all sources as equally reliable, or dismissing a source just because it has a purpose.\n\n## How this is examined\nThe eAssessment typically builds up: first routine tasks (state a value, calculate a mean), then reasoning (show that, justify), and finally an extended task asking you to select relevant data, calculate, consider accuracy and limitations, and judge the impact or sustainability of a decision.\n\nExam tip: for every calculation, show the formula, include the unit, and add one sentence on what the number means for the geography question.",
+    "flashcards": [
+      { "front": "Mean, median and range", "back": "Mean: total ÷ number of values. Median: middle value when ordered. Range: highest − lowest." },
+      { "front": "Percentage change formula", "back": "(New − old) ÷ old × 100. A fall from 50 000 to 38 000 is −24%." },
+      { "front": "Percentage error", "back": "(Estimate − true value) ÷ true value × 100. Use the accurate value as the base." },
+      { "front": "Anomaly", "back": "A result that does not fit the pattern. Check it, report it and consider its effect on the mean." },
+      { "front": "Primary vs secondary data", "back": "Primary data is collected first-hand by you. Secondary data was collected by someone else." },
+      { "front": "Correlation does not prove cause", "back": "Two variables can rise together because of a hidden third factor, e.g. town size. Say 'linked to'." },
+      { "front": "How to evaluate a source (OPVL)", "back": "Origin, purpose, value and limitations: who made it, why, what it offers and what it leaves out." },
+      { "front": "Ways to improve reliability", "back": "Repeat measurements, use a bigger and more random sample, use accurate equipment and take readings at different times." },
+      { "front": "Choropleth map", "back": "A map that shades areas to show how a value such as density or income varies between them." }
+    ]
+  },
+  {
+    "subject": "geography",
+    "grade": 5,
+    "topic": "eAssessment Skills for Geography",
+    "subTopic": "Case Studies and Extended Answers",
+    "questions": [
+      {
+        "content": "What is a case study in geography?",
+        "options": ["A detailed example of a real place or event used to support a point", "A list of definitions", "A map with no labels", "A guess about a place"],
+        "answer": 0,
+        "explanation": "A case study is a specific real-world example with named places, dates and facts that illustrate a geographical idea.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "In the PEEL paragraph structure, what does the second 'E' stand for?",
+        "options": ["Evidence", "Example", "Explain", "Evaluate"],
+        "answer": 2,
+        "explanation": "PEEL stands for Point, Evidence, Explain, Link. Evidence comes first, then you explain how it supports your point.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What does the command term 'state' ask you to do?",
+        "options": ["Write a long essay", "Give a specific name, value or short answer", "Compare two places in detail", "Judge a plan with pros and cons"],
+        "answer": 1,
+        "explanation": "'State' needs a brief, specific answer without explanation or discussion.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which detail would make a case study answer strongest?",
+        "options": ["A vague comment such as 'many people were affected'", "The place name, a date and a statistic", "A general statement about all countries", "A personal opinion with no evidence"],
+        "answer": 1,
+        "explanation": "Specific facts, such as the place, time and figures, show real knowledge and support your argument.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What should a good conclusion to an extended answer do?",
+        "options": ["Introduce a new topic", "Repeat the question word for word only", "Give a clear overall judgement that answers the question, supported by the main points", "List random facts"],
+        "answer": 2,
+        "explanation": "A conclusion should answer the question directly and summarise why, based on the strongest evidence in the answer.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "How does 'explain' differ from 'describe' as a command term?",
+        "options": ["They mean the same", "'Explain' needs reasons or causes, while 'describe' gives an account of features or patterns", "'Describe' needs a judgement, 'explain' does not", "'Explain' needs only a number"],
+        "answer": 1,
+        "explanation": "To describe is to give a detailed account of what is there. To explain is to give reasons for how or why something happens.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A question says 'Evaluate the success of a flood management scheme.' What must the answer include?",
+        "options": ["Only a description of the scheme", "Strengths, limitations and a supported judgement", "Only the cost", "A list of rivers"],
+        "answer": 1,
+        "explanation": "'Evaluate' asks you to weigh strengths and limitations, consider evidence and come to a reasoned judgement.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "In the fictional town of Port Calder, 1200 of the town's 8000 homes were flooded. What percentage of homes were flooded?",
+        "options": ["12%", "15%", "6.7%", "1.5%"],
+        "answer": 1,
+        "explanation": "1200 ÷ 8000 × 100 = 15%. Using precise figures like this makes case study evidence stronger.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which sentence uses evidence best in a paragraph about the effects of an earthquake in a low income country?",
+        "options": ["Earthquakes are bad for countries.", "The Gorkha earthquake of 25 April 2015 in Nepal had a magnitude of 7.8 and damaged many buildings, which shows how weak construction increases impacts.", "Nepal is a country.", "People were sad."],
+        "answer": 1,
+        "explanation": "It names the place and date, gives the magnitude and links the evidence to an explanation. The other sentences are vague or do not make a point.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A question asks 'To what extent is tourism beneficial for a destination?' What does 'to what extent' require?",
+        "options": ["A list of facts about tourism", "Only positive points", "A balanced argument and a clear judgement about how far the statement is true", "A diagram"],
+        "answer": 2,
+        "explanation": "These questions need you to weigh arguments for and against and decide on the degree, for example 'to a large extent, but only if leakage is reduced'.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "What is the best first step before writing an extended answer in an on-screen exam?",
+        "options": ["Start writing immediately without reading", "Identify the command term and key words, then plan three or four points", "Copy the question", "Skip the case study"],
+        "answer": 1,
+        "explanation": "Planning ensures you answer the question asked, use the right depth and include a structure that flows.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A student answers 'Explain why the impacts of the 2011 Tōhoku earthquake and tsunami were severe' by listing the date (11 March 2011), the magnitude (about 9.0) and what the waves looked like. What is the main weakness?",
+        "options": ["The answer includes dates", "It describes events but gives no reasons that explain the severity", "It uses numbers", "It is too accurate"],
+        "answer": 1,
+        "explanation": "The answer has facts but no explanation. The student should link them to reasons, such as the size of the earthquake generating a tsunami that hit low-lying coasts and a nuclear power plant.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A question asks for an example of an earthquake in a low income country to show how development level affects impacts. Which case study is the best choice?",
+        "options": ["Nepal, 2015 (magnitude 7.8)", "A flood in Europe", "A volcanic eruption in a high income country", "A hurricane"],
+        "answer": 0,
+        "explanation": "Choosing a case study that matches the question's hazard and development context makes the answer relevant. Nepal is a low income country that experienced a major earthquake in April 2015.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Student A writes: 'Floods are bad.' Student B writes: 'In Port Calder, 15% of homes were flooded, which damaged businesses because stock was destroyed, so the local economy lost income.' Which comparison is accurate?",
+        "options": ["A is better because it is shorter", "B is better because it gives evidence and explains the effect", "They are equal", "A is better because it is a statement"],
+        "answer": 1,
+        "explanation": "B includes a specific statistic and links cause and effect. A makes a vague claim with no evidence.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "In the Port Calder flood, damage totalled $24 million and insurance covered 40%. How much damage was uninsured?",
+        "options": ["$9.6 million", "$14.4 million", "$16 million", "$10 million"],
+        "answer": 1,
+        "explanation": "Insured = 40% of 24 = $9.6 million. Uninsured = 24 − 9.6 = $14.4 million, or 60% of 24. $9.6 million is only the insured part.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A flood scheme in Port Calder would cost $30 million. A major flood causes $24 million of damage and happens on average once every 10 years. Assuming the scheme prevents all damage, about how many years would it take for the avoided damage to equal the cost?",
+        "options": ["1.25 years", "3 years", "12.5 years", "30 years"],
+        "answer": 2,
+        "explanation": "Average yearly damage = 24 ÷ 10 = $2.4 million. Payback = 30 ÷ 2.4 = 12.5 years. A fuller evaluation would note that the scheme may not stop every flood and has maintenance costs.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A student uses one case study of a flood in a small town to claim 'all flood defences in all countries are ineffective.' What is the best criticism?",
+        "options": ["The student used a case study", "The conclusion over-generalises from a single example without evidence about other places", "The case study was too detailed", "The student used a place name"],
+        "answer": 1,
+        "explanation": "A single example can illustrate a point, but it cannot prove a claim about all places. Strong answers qualify their statements.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A question asks 'To what extent was the flood scheme in Port Calder sustainable?' Which concluding sentence is strongest?",
+        "options": ["The scheme is good.", "Overall, the scheme is sustainable to a moderate extent: it protects 6000 homes at about $5000 per home, but it needs continuing maintenance and may be overwhelmed by larger floods.", "Floods are common.", "In conclusion, I have written about floods."],
+        "answer": 1,
+        "explanation": "A strong conclusion answers the question, uses evidence and shows balance by giving a limitation. The other options are vague or do not answer the question.",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "## What are case studies and why do they matter?\nIn geography, a **case study** is a detailed example of a real place, event or project that you use as evidence. Examiners reward answers that go beyond general statements and use specific, accurate details: names, dates, figures and consequences. In the eAssessment, the context is often provided for you, but when a question asks you to refer to an example you have studied, you need your own knowledge ready. You can use real examples (only if you are sure of the facts) or the fictional examples given in the question.\n\n## Building a good case study bank\nFor each topic, prepare one or two examples and note:\n- **Where and when** (for example, the Gorkha earthquake in Nepal on 25 April 2015, magnitude 7.8; the Tōhoku earthquake and tsunami in Japan on 11 March 2011).\n- **Causes and processes** that explain what happened.\n- **Impacts** (social, economic and environmental) and **responses** (short and long term).\n- **Evaluation**: what worked, what did not, who benefited.\nChoose examples that match the question's context, such as a low income or high income country.\n\n## Command terms\nThe command term tells you the depth of answer.\n- **State**: a short, specific answer.\n- **Describe**: give a detailed account of features or patterns.\n- **Explain**: give reasons or causes, using 'because' and 'therefore'.\n- **Compare**: similarities and differences.\n- **Discuss**: a balanced review of different arguments.\n- **Evaluate**: weigh strengths and limitations and reach a judgement.\n- **Justify**: give valid reasons and evidence to support a choice.\n- **To what extent**: decide how far a statement is true.\n\n## Structuring an extended answer\n1. **Plan**: underline the command term and key words, and jot down three or four points.\n2. **Introduce** briefly by answering the question in one sentence.\n3. **Write PEEL paragraphs**: Point (the idea), Evidence (a fact, figure or case study detail), Explain (how the evidence supports the point) and Link (back to the question).\n4. **Conclude** with a clear judgement and the key reason.\n\n## Using numbers in case studies\nWorked example (fictional town of Port Calder): 1200 of 8000 homes were flooded, which is 15%. Damage was $24 million and insurance covered 40% ($9.6 million), so $14.4 million was uninsured. A flood scheme costing $30 million that prevents damage from a flood every 10 years (average $2.4 million a year) would take 30 ÷ 2.4 = 12.5 years to pay for itself. State assumptions such as 'the scheme stops all damage' and mention limitations such as maintenance costs and larger future floods.\n\n## Making a judgement\nHigher-level answers weigh several factors (economic, social and environmental), consider different stakeholders, and decide which matters most. Use phrases like 'however', 'on the other hand' and 'overall'. Avoid absolute words such as 'always' unless you can prove them. Avoid generalising from one case.\n\n## Common mistakes\n- Describing when the question says explain.\n- Listing facts without linking them to the question.\n- Using a case study that does not fit the question.\n- Writing a conclusion that only repeats earlier points.\n\n## How this is examined\nThe final parts of an eAssessment unit often ask you to identify relevant information in a source, calculate, consider accuracy and limitations, and then judge the impact or sustainability of a decision. Practise turning data into a short written argument.\n\nExam tip: for every paragraph, check there is a fact, a reason and a link to the question; if one is missing, add it before moving on.",
+    "flashcards": [
+      { "front": "Case study", "back": "A detailed example of a real place or event, with names, dates and figures, used as evidence for a geographical idea." },
+      { "front": "PEEL", "back": "Point, Evidence, Explain, Link. A paragraph structure that keeps answers focused and supported." },
+      { "front": "State vs describe vs explain", "back": "State: brief fact. Describe: detailed account of features or patterns. Explain: give reasons for how or why." },
+      { "front": "Evaluate", "back": "Weigh strengths and limitations of something using evidence, then reach a supported judgement." },
+      { "front": "To what extent", "back": "Give a balanced argument and decide how far a statement is true, for example 'to a large extent, but...'." },
+      { "front": "Gorkha earthquake, Nepal", "back": "Struck on 25 April 2015 with a magnitude of 7.8. A case study of a major earthquake in a low income country." },
+      { "front": "Tōhoku earthquake and tsunami", "back": "Struck Japan on 11 March 2011 with a magnitude of about 9.0, causing a major tsunami." },
+      { "front": "What makes a strong conclusion?", "back": "A clear judgement that answers the question directly, supported by the strongest evidence and showing balance." },
+      { "front": "Avoiding over-generalising", "back": "One case study illustrates a point but cannot prove a claim about all places. Use words like 'in this case' and 'often'." }
+    ]
+  },
+  {
+    "subject": "geography",
+    "grade": 5,
+    "topic": "eAssessment Skills for Geography",
+    "subTopic": "Using the Criteria to Improve Answers",
+    "questions": [
+      {
+        "content": "How many assessment criteria are used in MYP Individuals and Societies (which includes geography)?",
+        "options": ["Two", "Three", "Four", "Eight"],
+        "answer": 2,
+        "explanation": "I&S uses four criteria: A Knowing and understanding, B Investigating, C Communicating and D Thinking critically.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which I&S criterion focuses on knowing and understanding subject content and using correct terminology?",
+        "options": ["Criterion A", "Criterion B", "Criterion C", "Criterion D"],
+        "answer": 0,
+        "explanation": "Criterion A is Knowing and understanding: using terminology and showing knowledge through descriptions, explanations and examples.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which criterion is mainly about analysing and evaluating sources and synthesising information into arguments?",
+        "options": ["Criterion B", "Criterion A", "Criterion C", "Criterion D"],
+        "answer": 3,
+        "explanation": "Criterion D is Thinking critically: discussing concepts, synthesising information, evaluating sources and interpreting perspectives.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What is the highest achievement level a student can reach in a single MYP criterion?",
+        "options": ["Level 5", "Level 6", "Level 7", "Level 8"],
+        "answer": 3,
+        "explanation": "MYP criterion levels run from 1 to 8 (Levels 1-8), grouped in bands of 1–2, 3–4, 5–6 and 7–8.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Criterion C (Communicating) includes which of the following?",
+        "options": ["Structuring information appropriately and documenting sources", "Only using long words", "Memorising facts", "Collecting fieldwork data only"],
+        "answer": 0,
+        "explanation": "Criterion C looks at how clearly and appropriately you communicate and how you structure your work and document your sources.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A response states 'The river floods because of rain.' Which change would most improve the response on Criterion A?",
+        "options": ["Add precise terminology and an explanation, such as 'heavy rainfall saturates the soil so surface runoff increases and discharge rises quickly'", "Make the sentence shorter", "Add a picture", "Remove the word 'rain'"],
+        "answer": 0,
+        "explanation": "Criterion A rewards correct subject terminology and detailed, accurate explanations with examples. The improved sentence explains the process.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which words help you move from description towards explanation?",
+        "options": ["because, therefore, as a result", "and, then, next", "very, really, quite", "also, plus, too"],
+        "answer": 0,
+        "explanation": "Linking words that show cause and effect make reasoning explicit and show deeper understanding.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A student gets 6 on Criterion A, 5 on B, 7 on C and 4 on D. What is the total across the four criteria and which is the weakest?",
+        "options": ["22; Criterion D", "22; Criterion C", "21; Criterion D", "28; Criterion A"],
+        "answer": 0,
+        "explanation": "6 + 5 + 7 + 4 = 22 out of 32. The lowest level is 4 on Criterion D, so critical thinking is the priority to improve.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Feedback says: 'You have described the sources but not judged their reliability.' Which action would improve the answer?",
+        "options": ["Copy more quotes from the sources", "Comment on each source's origin, purpose, value and limitations", "Shorten the answer", "Use bigger headings"],
+        "answer": 1,
+        "explanation": "This feedback relates to Criterion D. To improve, evaluate the sources by asking who made them, why, what they offer and what they leave out.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A response uses accurate terminology and detailed, correct explanations with relevant examples throughout. In which descriptor band does this performance most likely sit for Criterion A?",
+        "options": ["1–2 (limited)", "3–4 (adequate)", "7–8 (excellent)", "No band applies"],
+        "answer": 2,
+        "explanation": "The higher bands describe accurate, detailed knowledge with consistent use of terminology and good examples. The lower bands describe limited or basic understanding.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "In a written task, a student includes a reference list with a consistent format. Which criterion benefits most?",
+        "options": ["Criterion A", "Criterion C", "Criterion D", "None of them"],
+        "answer": 1,
+        "explanation": "Documenting sources using a recognised convention is part of Criterion C, Communicating.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A student writes 'tectonic plates are big pieces of ground that move.' Which rewrite shows the best use of terminology?",
+        "options": ["Tectonic plates are large slabs of the lithosphere that move slowly on the asthenosphere", "Plates are rocks that go places", "Plates are things in the ground", "Plates move because they want to"],
+        "answer": 0,
+        "explanation": "Precise subject terms such as lithosphere and asthenosphere show greater understanding, although the explanation must also be accurate.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A student's scores rise from a total of 22 to 26 (out of 32). What is the percentage increase in the total score?",
+        "options": ["4%", "15.4%", "18.2%", "81.25%"],
+        "answer": 2,
+        "explanation": "Increase = 4. 4 ÷ 22 × 100 = 18.2%. The figure of 81.25% is the new total as a percentage of 32, not the increase.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Two answers evaluate a tourism scheme. Answer P lists benefits and costs. Answer Q lists benefits and costs, compares the views of residents and business owners, and judges which impact matters most with evidence. Which is stronger for Criterion D and why?",
+        "options": ["P, because it is shorter", "Q, because it interprets different perspectives and makes a supported judgement", "P, because it has no judgement", "They are the same"],
+        "answer": 1,
+        "explanation": "Criterion D rewards synthesis, evaluation and interpretation of perspectives. Q goes beyond listing to weighing the evidence.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A teacher comment reads: 'Your research question is too broad and doesn't suggest what data to collect.' Which criterion is this mostly about, and what is the best next step?",
+        "options": ["Criterion B; narrow the question and link it to specific data and methods", "Criterion C; use bigger fonts", "Criterion A; learn more definitions", "Criterion D; remove all sources"],
+        "answer": 0,
+        "explanation": "Formulating a clear, focused research question and an action plan is part of Criterion B, Investigating. A narrower question makes it clear what evidence to collect.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "After a mock, a student has Criterion A = 7, B = 5, C = 6 and D = 5. Which revision plan is the most sensible?",
+        "options": ["Spend all the time on Criterion A because it is highest", "Focus on practising research questions and methods (B) and evaluating sources and perspectives (D)", "Ignore all criteria and rewrite the notes", "Only practise handwriting"],
+        "answer": 1,
+        "explanation": "Targeting the lowest levels gives the largest potential gain. A good plan also keeps practising the other criteria so strengths are maintained.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A student says: 'My answer is two pages long so it must reach the top level.' What is the best response?",
+        "options": ["Agreed: length always decides the level", "Disagree: levels depend on the quality of knowledge, reasoning and evidence matched to the descriptors, not length", "Agreed: longer answers never have errors", "Disagree: top levels are impossible"],
+        "answer": 1,
+        "explanation": "Descriptors focus on accuracy, depth, structure and critical thinking. A concise, well-supported answer can score higher than a long, vague one.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A student wants to turn a Level 5 answer into a Level 7 answer on a question about managing a coastline. Which change is the most relevant?",
+        "options": ["Add a longer introduction about the sea", "Add specific evidence, weigh strengths and limitations of the options, consider different stakeholders and give a justified judgement", "Repeat each point twice", "Replace sentences with bullet points of single words"],
+        "answer": 1,
+        "explanation": "Moving to the top bands requires more depth and critical thinking: evaluating options, considering perspectives and supporting a conclusion with evidence.",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "## Why use the criteria?\nYour work in MYP Individuals and Societies, including geography, is judged using four criteria. If you know what they reward, you can plan and improve your answers on purpose rather than hoping for the best. The criteria are used in the same way for class tasks and exam-style questions, so learning them helps in the eAssessment too.\n\n## The four criteria\n**Criterion A: Knowing and understanding.** Use accurate subject terminology and show knowledge and understanding through descriptions, explanations and examples. To improve: use precise vocabulary (lithosphere, leakage, dependency ratio), explain with because and therefore, and add named examples.\n\n**Criterion B: Investigating.** Formulate a clear, focused research question, plan how to investigate it, collect and record relevant information and reflect on the process and results. To improve: narrow broad questions, choose methods that fit the question, record data carefully and evaluate what went well and what did not.\n\n**Criterion C: Communicating.** Communicate information and ideas clearly for the audience and purpose, structure work in an appropriate format and document sources using a recognised convention. To improve: use paragraphs, headings, and a consistent reference style, and edit for clarity.\n\n**Criterion D: Thinking critically.** Discuss concepts and issues, synthesise information into valid arguments, analyse and evaluate sources and data (origin, purpose, value, limitations) and interpret different perspectives and their implications. To improve: weigh evidence, compare sources, consider stakeholders and justify your judgements.\n\n## Levels and bands\nEach criterion is assessed using achievement levels from 1 to 8 (Levels 1-8). The descriptors are grouped in bands: 1–2 (limited), 3–4 (adequate), 5–6 (substantial) and 7–8 (excellent). Moving up a band usually means more accuracy, more detail, more independence and deeper reasoning. For example, a response that only lists facts sits lower than one that explains and links them, and one that weighs evidence and reaches a justified judgement sits higher.\n\n## Using the criteria as a checklist\nBefore you hand in or submit an answer, ask:\n- A: Did I use the right terms and give examples?\n- B: Is my question focused? Did I show how I gathered evidence?\n- C: Is my work clearly organised and are sources credited?\n- D: Did I evaluate the sources, consider more than one view and reach a conclusion?\n\n## Worked example: setting targets\nA student scores A = 6, B = 5, C = 7 and D = 4. The total is 6 + 5 + 7 + 4 = 22 out of 32, and the weakest criterion is D. The target is to practise evaluating sources using origin, purpose, value and limitations, and to write conclusions that weigh perspectives. If the next total is 26, the improvement is 4 levels, or 4 ÷ 22 × 100 = 18.2% more than before. Be careful to describe this as an increase of 18.2%, not 81.25%, which is the new score as a share of 32.\n\n## Using feedback\nLook for patterns in teacher feedback. Comments such as 'describe more' or 'give examples' point to A; 'question too broad' or 'method unclear' to B; 'structure' or 'references' to C; 'evaluate' or 'bias' to D. Choose one or two targets and practise them on new questions.\n\n## Common mistakes\n- Believing that a longer answer automatically gets a higher level.\n- Ignoring the command term and criteria wording.\n- Treating evaluation as just saying 'it has pros and cons' without judgement.\n- Forgetting to document sources.\n\n## How this is examined\nIn the eAssessment you answer questions that call on these skills: a source or data set to analyse, calculations, a short explanation, and a final extended task that requires you to select information, consider accuracy and limitations and make a supported decision. Writing with the criteria in mind helps you cover each of these.\n\nExam tip: before submitting, scan your answer with the checklist A, B, C, D and add one sentence of evaluation, one example or one piece of evidence if any is missing.",
+    "flashcards": [
+      { "front": "Criterion A", "back": "Knowing and understanding: use terminology and show knowledge through descriptions, explanations and examples." },
+      { "front": "Criterion B", "back": "Investigating: a focused research question, an action plan, relevant data collection and reflection on the process." },
+      { "front": "Criterion C", "back": "Communicating: clear, well-structured work for the audience and purpose, with sources documented in a recognised way." },
+      { "front": "Criterion D", "back": "Thinking critically: discuss concepts, synthesise information, evaluate sources and interpret different perspectives." },
+      { "front": "MYP achievement levels", "back": "Each criterion is judged on Levels 1-8, in bands: 1–2 limited, 3–4 adequate, 5–6 substantial, 7–8 excellent." },
+      { "front": "Moving from describe to explain", "back": "Use linking words such as because, therefore and as a result, and give reasons for how or why." },
+      { "front": "Source evaluation points", "back": "Origin, purpose, value and limitations. Say who made it, why, what it offers and what it leaves out." },
+      { "front": "Setting a target from feedback", "back": "Find which criterion the comments match, choose the lowest one, and practise it with new questions." },
+      { "front": "Does length equal a higher level?", "back": "No. Levels reward accuracy, depth, evidence, structure and critical thinking, not how long the answer is." }
+    ]
+  }
+]

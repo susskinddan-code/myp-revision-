@@ -1,0 +1,1054 @@
+[
+ {
+  "subject": "geography",
+  "grade": 5,
+  "topic": "Weather and Climate",
+  "subTopic": "Weather Elements and Measurement",
+  "questions": [
+   {
+    "content": "Which instrument measures atmospheric pressure?",
+    "options": [
+     "Anemometer",
+     "Barometer",
+     "Rain gauge",
+     "Hygrometer"
+    ],
+    "answer": 1,
+    "explanation": "A barometer measures air pressure, usually in millibars or hectopascals. An anemometer measures wind speed, a rain gauge measures rainfall and a hygrometer measures humidity.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In which units is rainfall usually measured?",
+    "options": [
+     "Degrees Celsius",
+     "Millimetres",
+     "Kilometres per hour",
+     "Millibars"
+    ],
+    "answer": 1,
+    "explanation": "A rain gauge collects water and the depth is measured in millimetres.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A wind described as a westerly blows from which direction?",
+    "options": [
+     "From the east",
+     "From the west",
+     "Towards the west",
+     "Towards the north"
+    ],
+    "answer": 1,
+    "explanation": "Winds are named after the direction they come from. A westerly blows from the west towards the east.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which weather station box is painted white and has slatted sides?",
+    "options": [
+     "Stevenson screen",
+     "Rain gauge",
+     "Wind vane",
+     "Sunshine recorder"
+    ],
+    "answer": 0,
+    "explanation": "A Stevenson screen protects thermometers from direct sun and rain while letting air flow through. The white paint reflects heat so readings are accurate.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What type of weather is usually linked with an area of low pressure?",
+    "options": [
+     "Clear skies and calm",
+     "Cloud, rain and wind",
+     "Drought",
+     "Frost only"
+    ],
+    "answer": 1,
+    "explanation": "In low pressure (a depression), air rises, cools and condenses to form cloud and rain. Isobars are often close together, giving strong winds.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Daily rainfall over seven days at a school was 12, 8, 0, 30, 5, 15 and 10 mm. What was the mean daily rainfall to one decimal place?",
+    "options": [
+     "10.0 mm",
+     "11.4 mm",
+     "80 mm",
+     "30 mm"
+    ],
+    "answer": 1,
+    "explanation": "The total is 80 mm and 80 ÷ 7 ≈ 11.4 mm. Quoting 80 mm is the total, and 30 is the maximum.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Rain falls when warm moist air is forced up over mountains, cools and condenses. What is this rainfall called?",
+    "options": [
+     "Convectional rainfall",
+     "Relief rainfall",
+     "Frontal rainfall",
+     "Acid rain"
+    ],
+    "answer": 1,
+    "explanation": "Relief (orographic) rainfall happens when air is forced to rise over high ground. The sheltered side often becomes a dry rain shadow.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Monthly mean temperatures in a city (°C): 5, 6, 9, 12, 16, 19, 21, 21, 18, 13, 8, 5. What is the annual temperature range?",
+    "options": [
+     "16°C",
+     "21°C",
+     "5°C",
+     "12.75°C"
+    ],
+    "answer": 0,
+    "explanation": "Range = highest – lowest = 21 – 5 = 16°C. The 12.75°C figure is the mean temperature.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why should a rain gauge be placed in an open area, away from trees and buildings?",
+    "options": [
+     "So that the collected rainfall is not blocked or affected by sheltering",
+     "To keep it cool",
+     "So that it can measure wind",
+     "To avoid evaporation only"
+    ],
+    "answer": 0,
+    "explanation": "Trees and buildings can intercept rain or cause drips, giving unreliable readings. Placement affects accuracy.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "On a weather map, isobars are close together. What does this show?",
+    "options": [
+     "Strong winds",
+     "Calm weather",
+     "Frost",
+     "Heavy snowfall for certain"
+    ],
+    "answer": 0,
+    "explanation": "Isobars join places of equal pressure. Close isobars mean a steep pressure gradient, so air moves quickly from high to low pressure, creating strong winds.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Warm air near the ground in summer rises quickly, cools, forms tall clouds and brings a short heavy storm. What type of rainfall is this?",
+    "options": [
+     "Convectional",
+     "Relief",
+     "Frontal",
+     "Orographic"
+    ],
+    "answer": 0,
+    "explanation": "Convectional rainfall is caused by intense heating of the ground, leading to rising air. It is common in tropical areas and on hot summer afternoons.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student wants to measure the maximum temperature of a day. Which approach gives the most reliable data?",
+    "options": [
+     "Read a thermometer in direct sunlight at noon",
+     "Use a maximum thermometer inside a Stevenson screen and record it at the same time each day",
+     "Ask five friends to guess",
+     "Place the thermometer on a metal roof"
+    ],
+    "answer": 1,
+    "explanation": "Thermometers should be shaded and ventilated and read at a consistent time to avoid bias. Direct sun and metal surfaces give falsely high values.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does a hygrometer measure?",
+    "options": [
+     "The amount of water vapour in the air (humidity)",
+     "Wind speed",
+     "Rainfall depth",
+     "Air pressure"
+    ],
+    "answer": 0,
+    "explanation": "A hygrometer measures humidity. Anemometers measure wind speed, rain gauges measure rainfall and barometers measure pressure.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Weather records for a town show 353 mm of rain over a year. In a student's table for the 12 months the values are: 40, 35, 38, 30, 27, 20, 15, 16, 22, 30, 38, 42. What is the correct total and mean monthly rainfall to 1 decimal place?",
+    "options": [
+     "Total 353 mm, mean 29.4 mm",
+     "Total 353 mm, mean 35.3 mm",
+     "Total 29.4 mm, mean 353 mm",
+     "Total 4236 mm, mean 353 mm"
+    ],
+    "answer": 0,
+    "explanation": "The sum is 353 mm. Dividing by 12 gives 29.4 mm per month. Dividing by 10 gives 35.3, which is wrong because there are 12 months.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A depression passes over a coastal city. Which sequence of changes would the barometer and sky most likely show?",
+    "options": [
+     "Pressure falls, cloud thickens and rain begins, then pressure rises as skies clear",
+     "Pressure rises, then rain begins",
+     "Pressure stays constant, snow falls",
+     "Pressure falls and skies stay clear"
+    ],
+    "answer": 0,
+    "explanation": "A falling barometer signals an approaching depression with rising air and cloud. As it moves away, pressure rises and skies clear.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student measures wind speed with a hand-held anemometer only once, at 3 pm on a calm day. She concludes the town has low wind speeds all year. What is the best evaluation of her method?",
+    "options": [
+     "It is reliable because anemometers are accurate",
+     "One reading at a single time cannot represent a whole year, so she needs repeated data over time",
+     "Wind speeds cannot be measured",
+     "Calm days prove low speeds in winter"
+    ],
+    "answer": 1,
+    "explanation": "A single measurement is a very small sample. Weather varies by time of day and season, so multiple readings over a long period are needed before generalising.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A weather map shows a windy afternoon in a region with a pressure of 985 hPa at the centre, rising to 1015 hPa 300 km away. Which statement is best?",
+    "options": [
+     "The pressure difference is 30 hPa over 300 km, a steep gradient that suggests strong winds",
+     "The pressure difference is 1000 hPa",
+     "A pressure of 985 hPa is high pressure with clear skies",
+     "Pressure has no link with wind"
+    ],
+    "answer": 0,
+    "explanation": "1015 – 985 = 30 hPa across 300 km. A big difference over a short distance drives strong winds. Low central pressure means cloud and rain.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Weather in Town A on the windward side of a mountain range has annual rainfall of 2000 mm, while Town B on the leeward side has 500 mm. Which explanation is best?",
+    "options": [
+     "Air loses moisture as it rises on the windward side, leaving a rain shadow on the leeward side",
+     "Town B is closer to the sea",
+     "Air rises on the leeward side",
+     "Mountains do not affect rainfall"
+    ],
+    "answer": 0,
+    "explanation": "Moist air rises over the mountain, cools and drops rain on the windward side. The air that descends on the leeward side is dry and warms, creating a rain shadow.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Weather and measurement\n**Weather** is the day-to-day condition of the atmosphere: temperature, rainfall, wind, pressure, cloud and humidity. Accurate measurement lets us compare places and see patterns. Weather stations use standard instruments and standard conditions so that data can be compared fairly.\n\n## Instruments\n- **Thermometer** (temperature in °C): placed in a **Stevenson screen**, a white, louvred box about 1.2 m above the ground, to shield it from direct sun and rain. A maximum-minimum thermometer records daily highs and lows.\n- **Rain gauge** (rainfall in mm): placed in an open site, away from trees and buildings.\n- **Barometer** (pressure in millibars or hPa).\n- **Anemometer** (wind speed in km/h or knots) and **wind vane** (direction).\n- **Sunshine recorder** (hours of sunshine) and **hygrometer** (humidity).\n\n## Wind and pressure\nWind blows from high pressure to low pressure. Winds are named from the direction they come from, so a westerly blows from the west. On a weather map, **isobars** join places with the same pressure. Close isobars mean strong winds.\n- **Low pressure (depression)**: air rises, cools and condenses, giving cloud, rain and wind.\n- **High pressure (anticyclone)**: air sinks, giving clear skies, light winds, hot weather in summer and frost or fog in winter.\n\n## Types of rainfall\n- **Relief**: moist air is forced up over hills, cools and condenses. The far side is a dry **rain shadow**.\n- **Convectional**: the ground heats, air rises and forms tall clouds and heavy showers.\n- **Frontal**: warm air meets cold air and rises over it.\n\n## Handling weather data\nYou should be able to calculate:\n- **Mean**: add all values and divide by the number of values. Seven days of rain adding to 80 mm give a mean of 80 ÷ 7 ≈ 11.4 mm per day.\n- **Range**: highest minus lowest. Monthly temperatures from 5°C to 21°C give a range of 16°C.\n- **Total**: sum of monthly rainfall.\nWhen you describe a graph, quote the highest and lowest values and the months in which they happen.\n\n## Reliability and accuracy\nA single reading is not enough. Repeating measurements at the same time each day, using the same instrument and placing it correctly all improve reliability. Be careful with claims: a week of records describes weather, not climate.\n\n## Worked example\nPressure falls from 1015 hPa to 985 hPa over 300 km. The drop is 30 hPa, which is a steep gradient. Expect strong winds and probably rain, because low pressure brings rising air.\n\n## Common mistakes\n- Mixing up which direction a wind blows from.\n- Saying high pressure brings rain.\n- Forgetting units.\n- Confusing weather (short-term) with climate (long-term).\n\n## How this is examined\nYou may get a table of weather data and a weather map and be asked to calculate a mean or range, describe a pattern, explain the type of rainfall, then evaluate how reliable the data collection method is.\n\nExam tip: When you comment on a data set, quote two actual values with units and then explain the pattern geographically.",
+  "flashcards": [
+   {
+    "front": "Weather vs climate",
+    "back": "Weather is the short-term state of the atmosphere (hours or days). Climate is the average weather over at least 30 years."
+   },
+   {
+    "front": "Barometer",
+    "back": "Measures atmospheric pressure in millibars or hectopascals (hPa)."
+   },
+   {
+    "front": "Stevenson screen",
+    "back": "White, louvred box about 1.2 m above ground that shelters thermometers from direct sun and rain while allowing air flow."
+   },
+   {
+    "front": "Low pressure (depression) weather",
+    "back": "Rising air gives cloud, rain and often strong winds, with isobars close together."
+   },
+   {
+    "front": "High pressure (anticyclone) weather",
+    "back": "Sinking air gives clear skies and light winds; hot in summer, cold with frost or fog in winter."
+   },
+   {
+    "front": "Relief rainfall",
+    "back": "Moist air is forced up high ground, cools and condenses. The sheltered side is a drier rain shadow."
+   },
+   {
+    "front": "Convectional rainfall",
+    "back": "Strong heating makes air rise, form tall clouds and heavy storms. Common in the tropics and summer afternoons."
+   },
+   {
+    "front": "What do close isobars show?",
+    "back": "A steep pressure gradient and therefore strong winds."
+   },
+   {
+    "front": "How is wind direction named?",
+    "back": "By where it blows from. A westerly blows from the west."
+   }
+  ]
+ },
+ {
+  "subject": "geography",
+  "grade": 5,
+  "topic": "Weather and Climate",
+  "subTopic": "Climate Zones and Biomes",
+  "questions": [
+   {
+    "content": "What is the difference between weather and climate?",
+    "options": [
+     "Weather is short-term conditions, climate is the average over at least 30 years",
+     "They are the same",
+     "Climate changes hourly",
+     "Weather is measured in decades"
+    ],
+    "answer": 0,
+    "explanation": "Weather is the conditions on a given day; climate is the long-term average pattern, usually calculated over about 30 years.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which climate zone is found close to the equator, with high temperatures and heavy rain all year?",
+    "options": [
+     "Tropical rainforest",
+     "Hot desert",
+     "Tundra",
+     "Mediterranean"
+    ],
+    "answer": 0,
+    "explanation": "Near the equator the sun is high, giving constant warmth and daily convectional rainfall. Rainforests grow there.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a biome?",
+    "options": [
+     "A large ecosystem defined by its climate, plants and animals",
+     "A type of weather",
+     "A mountain range",
+     "A food chain"
+    ],
+    "answer": 0,
+    "explanation": "A biome is a large natural region, such as rainforest or tundra, with a particular climate and typical vegetation and animals.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these biomes receives the least rainfall?",
+    "options": [
+     "Hot desert",
+     "Tropical rainforest",
+     "Temperate forest",
+     "Savanna"
+    ],
+    "answer": 0,
+    "explanation": "Hot deserts receive less than about 250 mm of rain a year.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why are temperatures generally higher near the equator than near the poles?",
+    "options": [
+     "The sun's rays are more concentrated because they strike at a higher angle",
+     "The equator is closer to the sun by many millions of km",
+     "There is more wind",
+     "The poles have more oceans"
+    ],
+    "answer": 0,
+    "explanation": "At the equator the sun is nearly overhead, concentrating energy on a small area. At the poles rays strike at a low angle and are spread over a larger area, and pass through more atmosphere.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A town at sea level has an average temperature of 20°C. Temperature falls about 6.5°C for every 1000 m of height. What is the expected temperature at 3000 m in the nearby mountains?",
+    "options": [
+     "0.5°C",
+     "13.5°C",
+     "-6.5°C",
+     "19.5°C"
+    ],
+    "answer": 0,
+    "explanation": "3 × 6.5 = 19.5°C fall. 20 – 19.5 = 0.5°C. Subtracting only once (13.5°C) forgets the three 1000 m steps.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Climate graph data for a city: temperature stays between 26°C and 27°C all year, and every month has more than 150 mm of rain. Which biome is this city in?",
+    "options": [
+     "Tropical rainforest",
+     "Hot desert",
+     "Tundra",
+     "Temperate grassland"
+    ],
+    "answer": 0,
+    "explanation": "Constant high temperatures with a small range and heavy rain in all months match the equatorial climate of tropical rainforest.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Monthly mean temperatures at a desert site range from 32°C to 41°C, with daily extremes varying greatly. What is the annual temperature range of the monthly means?",
+    "options": [
+     "9°C",
+     "41°C",
+     "32°C",
+     "73°C"
+    ],
+    "answer": 0,
+    "explanation": "Range = 41 – 32 = 9°C. The daily range in a desert is much larger because the clear sky allows heat to escape at night.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Britain is warmer than places at similar latitude in Canada. Which factor is most responsible?",
+    "options": [
+     "The North Atlantic Drift, a warm ocean current",
+     "More mountains in Britain",
+     "Britain is nearer to the equator by 20 degrees",
+     "More deserts nearby"
+    ],
+    "answer": 0,
+    "explanation": "The North Atlantic Drift brings warm water from the Gulf of Mexico and warms the air over western Europe.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A Mediterranean climate has which seasonal pattern?",
+    "options": [
+     "Hot, dry summers and mild, wetter winters",
+     "Cold dry summers and hot wet winters",
+     "Constant rain all year",
+     "Snow all year"
+    ],
+    "answer": 0,
+    "explanation": "Mediterranean climates (southern Europe, California) have hot dry summers and mild wet winters, supporting drought-resistant vegetation like olive trees.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why do tropical rainforest trees have drip tips on their leaves and buttress roots?",
+    "options": [
+     "Drip tips shed heavy rain quickly, and buttress roots support tall trees in thin soils",
+     "To store water for the dry season",
+     "To trap insects",
+     "To survive snow"
+    ],
+    "answer": 0,
+    "explanation": "Adaptations help organisms survive in their environment. Rainforest leaves shed water and buttress roots stabilise shallow-rooted giants.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How do cacti survive in hot deserts?",
+    "options": [
+     "They store water in thick stems and have spines to reduce water loss",
+     "They have large flat leaves",
+     "They need heavy rain every day",
+     "They grow in the shade of tall trees"
+    ],
+    "answer": 0,
+    "explanation": "Cacti store water, have shallow wide roots to absorb rain quickly, and spines instead of leaves reduce water loss.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which description best fits a savanna climate?",
+    "options": [
+     "Warm all year, with distinct wet and dry seasons",
+     "Cold and dry all year",
+     "Hot and wet every month",
+     "Mild with rain only in summer"
+    ],
+    "answer": 0,
+    "explanation": "Savannas lie between rainforests and deserts. The wet season supports grasses and the long dry season limits tree cover.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A city has the following monthly rainfall in mm: 150, 160, 170, 200, 250, 300, 280, 260, 240, 220, 200, 170. What is the approximate annual total?",
+    "options": [
+     "2600 mm",
+     "2000 mm",
+     "260 mm",
+     "3600 mm"
+    ],
+    "answer": 0,
+    "explanation": "Adding the 12 values gives 2600 mm, which is consistent with a tropical rainforest (more than 2000 mm a year). The 260 option is a power-of-ten slip, and 2000 mm ignores part of the data.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A climate graph shows July temperature of 22°C and rainfall of 5 mm, January temperature of 8°C and rainfall of 90 mm. Which statement is best supported?",
+    "options": [
+     "It is consistent with a Mediterranean climate, with dry summers and wetter winters",
+     "It is a tropical rainforest",
+     "It is tundra",
+     "It is a hot desert because the temperature is above 20°C"
+    ],
+    "answer": 0,
+    "explanation": "The dry, warm summer and wetter, mild winter is the classic Mediterranean pattern. A single pair of months is limited evidence, so a full year of data would confirm it.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two cities are on the same latitude. City P is on the coast and has temperatures of 8°C to 20°C through the year. City Q is deep inland and has -5°C to 28°C. What explains the bigger range at Q?",
+    "options": [
+     "Continentality, because land heats and cools faster than the sea, which moderates coastal climates",
+     "Q is closer to the equator",
+     "The sea is warmer than land in winter in every place",
+     "Q has more oceans"
+    ],
+    "answer": 0,
+    "explanation": "Water heats and cools slowly, so coastal places have milder, narrower ranges (range of 12°C vs 33°C). Inland locations have more extreme seasons.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The Arctic tundra has a short growing season and permafrost. Which adaptation would help a plant survive there?",
+    "options": [
+     "Low-growing, shallow-rooted plants that grow quickly in the brief summer",
+     "Very tall trees with deep roots",
+     "Large thin leaves that lose water",
+     "Roots that grow below the permafrost"
+    ],
+    "answer": 0,
+    "explanation": "Permafrost stops deep rooting. Low growth shelters plants from wind and cold, and fast growth uses the short summer.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student says: The climate in my town was cold last week, so the climate is cold. What is the main error?",
+    "options": [
+     "Climate is the long-term average, not a week's weather",
+     "Climate cannot be cold",
+     "Weather is only measured in years",
+     "There is no error"
+    ],
+    "answer": 0,
+    "explanation": "One cold week is weather. Climate needs at least about 30 years of data to show an average and typical patterns.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Weather and climate\n**Weather** is the state of the atmosphere at a time and place. **Climate** is the average pattern of weather over a long period, usually at least 30 years. A **biome** is a large natural region defined by its climate, soils, plants and animals.\n\n## What controls climate?\n- **Latitude**: near the equator the sun is overhead, so energy is concentrated and temperatures are high. At the poles the sun's rays strike at a low angle and spread out, so it is cold.\n- **Altitude**: temperature falls by about 6.5°C for every 1000 m you climb.\n- **Distance from the sea (continentality)**: the sea heats and cools slowly, so coasts have milder, wetter climates with a smaller temperature range. Inland places have bigger ranges.\n- **Ocean currents**: the North Atlantic Drift warms western Europe.\n- **Prevailing winds and relief**: winds from the sea bring moisture. Mountains cause relief rainfall and rain shadows.\n\n## Reading a climate graph\nTemperature is shown as a line and rainfall as bars. Quote the highest and lowest temperature, the temperature range, the wettest and driest months and the total rainfall. Then name the likely climate. Remember that a single graph is limited evidence; it only shows averages for one place.\n\n## Major biomes\n- **Tropical rainforest**: about 27°C all year, more than 2000 mm of rain, constant growing season. Tall trees with buttress roots, drip tips and layers (emergent, canopy, understorey, forest floor).\n- **Savanna**: warm all year with wet and dry seasons. Grasses, scattered trees such as acacia.\n- **Hot desert**: less than about 250 mm rain, very high daytime temperatures and cold nights. Plants like cacti store water and have spines; animals are often nocturnal.\n- **Mediterranean**: hot dry summers, mild wetter winters. Drought-resistant trees and shrubs such as olive and cork oak.\n- **Temperate**: four seasons, rain all year, deciduous woodland.\n- **Tundra**: very cold, short growing season, permafrost, low shrubs and mosses.\n\n## Adaptation\nPlants and animals have features that help them survive their biome. Cacti store water; tundra plants hug the ground; rainforest leaves have drip tips.\n\n## Worked example\nA town at sea level has a mean temperature of 20°C. At 3000 m, temperature is lower by 3 × 6.5 = 19.5°C, so about 0.5°C.\n\n## Common mistakes\n- Confusing weather with climate.\n- Forgetting to multiply the altitude correction by the number of thousand metres.\n- Using one year's data as the climate.\n- Describing a biome only by name without climate figures.\n\n## How this is examined\nExam questions give a climate graph described in words or numbers and ask you to identify the biome, give evidence, explain the controls such as latitude and ocean currents and then judge how well the data support your conclusion.\n\nExam tip: To identify a biome, write the temperature figure, the rainfall figure and the seasonal pattern, then name the climate.",
+  "flashcards": [
+   {
+    "front": "Climate vs weather",
+    "back": "Weather: short-term conditions. Climate: the average weather over at least 30 years."
+   },
+   {
+    "front": "What is a biome?",
+    "back": "A large ecosystem shaped by climate, with typical plants and animals, such as tropical rainforest or tundra."
+   },
+   {
+    "front": "Tropical rainforest climate",
+    "back": "About 27°C all year, small temperature range, over 2000 mm of rain with heavy rainfall every month."
+   },
+   {
+    "front": "Hot desert climate",
+    "back": "Less than about 250 mm of rain, very hot days, cold nights, large daily temperature range."
+   },
+   {
+    "front": "Mediterranean climate",
+    "back": "Hot dry summers and mild, wetter winters. Vegetation is drought-resistant, such as olive trees."
+   },
+   {
+    "front": "Altitude and temperature",
+    "back": "Temperature falls about 6.5°C for every 1000 m of height gained."
+   },
+   {
+    "front": "Continentality",
+    "back": "Inland places have larger temperature ranges than coastal places because land heats and cools faster than the sea."
+   },
+   {
+    "front": "North Atlantic Drift",
+    "back": "A warm ocean current that brings mild weather to western Europe, including the UK."
+   },
+   {
+    "front": "Rainforest adaptations",
+    "back": "Drip tips shed rain, buttress roots support tall trees, layered canopy competes for light."
+   }
+  ]
+ },
+ {
+  "subject": "geography",
+  "grade": 5,
+  "topic": "Weather and Climate",
+  "subTopic": "Causes and Evidence of Climate Change",
+  "questions": [
+   {
+    "content": "Which gas is the main greenhouse gas released by burning fossil fuels?",
+    "options": [
+     "Carbon dioxide",
+     "Oxygen",
+     "Nitrogen",
+     "Helium"
+    ],
+    "answer": 0,
+    "explanation": "Burning coal, oil and gas releases carbon dioxide (CO₂). It is the most important human-produced greenhouse gas by quantity.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does the greenhouse effect do?",
+    "options": [
+     "Traps some heat in the atmosphere, keeping Earth warm enough for life",
+     "Cools the Earth",
+     "Removes ozone",
+     "Stops rain"
+    ],
+    "answer": 0,
+    "explanation": "Greenhouse gases absorb and re-emit heat radiated from Earth. The natural greenhouse effect keeps average temperatures around 15°C instead of about -18°C.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a human cause of the enhanced greenhouse effect?",
+    "options": [
+     "Burning fossil fuels",
+     "Changes in Earth's orbit",
+     "Volcanic eruptions",
+     "Variations in solar output"
+    ],
+    "answer": 0,
+    "explanation": "Fossil fuel burning adds extra CO₂. Orbit changes, volcanoes and the sun are natural causes.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which gas, released by cattle and rice paddies, is a powerful greenhouse gas?",
+    "options": [
+     "Methane",
+     "Argon",
+     "Hydrogen",
+     "Neon"
+    ],
+    "answer": 0,
+    "explanation": "Methane (CH₄) traps much more heat per molecule than CO₂ over a short time scale, although it stays in the atmosphere for fewer years.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Scientists drill cores of ancient ice from Antarctica. What can they learn from tiny air bubbles trapped in it?",
+    "options": [
+     "Past atmospheric composition, including CO₂ levels",
+     "The age of the Moon",
+     "Daily rainfall",
+     "Ocean salinity today"
+    ],
+    "answer": 0,
+    "explanation": "Air bubbles trapped in the ice preserve samples of the ancient atmosphere, so scientists can compare past CO₂ and temperature records.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Atmospheric CO₂ has risen from about 280 ppm before the industrial era to about 420 ppm today. What is the percentage increase?",
+    "options": [
+     "50%",
+     "33%",
+     "140%",
+     "67%"
+    ],
+    "answer": 0,
+    "explanation": "Increase = 420 – 280 = 140 ppm. 140 ÷ 280 × 100 = 50%. Using 420 as the base gives 33%.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is an example of a natural cause of past climate change?",
+    "options": [
+     "Variations in Earth's orbit and tilt",
+     "Burning coal",
+     "Deforestation by farming",
+     "Car exhausts"
+    ],
+    "answer": 0,
+    "explanation": "Changes in Earth's orbit and tilt, called Milankovitch cycles, helped drive ice ages. Volcanoes and changes in the sun are also natural influences.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Mountain glaciers worldwide are generally retreating. Why is this considered evidence of global warming?",
+    "options": [
+     "Higher temperatures cause more melting than snowfall can replace",
+     "Glaciers move faster in winter",
+     "Rainfall has stopped",
+     "Mountains are shrinking"
+    ],
+    "answer": 0,
+    "explanation": "Glacier retreat shows widespread warming. Many glaciers in different regions are shrinking at the same time, which is difficult to explain by local factors alone.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of the following are direct measurements showing rising CO₂ in recent decades?",
+    "options": [
+     "Continuous measurements at Mauna Loa, Hawaii, since 1958",
+     "Dinosaur fossils",
+     "Tree rings from 1500",
+     "Weather forecasts"
+    ],
+    "answer": 0,
+    "explanation": "The Mauna Loa record (the Keeling curve) shows a steady rise in CO₂ with small seasonal wiggles from plants taking up and releasing CO₂.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Average global temperature has risen by about 1.1°C since the late 1800s. Which statement is accurate?",
+    "options": [
+     "It is a global average and some places have warmed more than others",
+     "Every place warms by exactly 1.1°C",
+     "It shows no change in the Arctic",
+     "It proves every winter is warmer"
+    ],
+    "answer": 0,
+    "explanation": "The figure is a global mean. The Arctic has warmed faster, and individual cold spells still occur because weather varies from year to year.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why does the loss of Arctic sea ice increase warming further?",
+    "options": [
+     "Dark ocean absorbs more sunlight than bright ice, a positive feedback",
+     "Ice produces heat",
+     "Ice makes more clouds",
+     "The ocean is shallow"
+    ],
+    "answer": 0,
+    "explanation": "Ice reflects sunlight (high albedo). When it melts, darker water absorbs more heat, causing more melting. This is a positive feedback loop.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement describes the enhanced greenhouse effect?",
+    "options": [
+     "Extra greenhouse gases from human activities trap more heat than the natural level",
+     "The natural effect that keeps Earth habitable",
+     "The effect of the ozone hole",
+     "Heat produced by cities"
+    ],
+    "answer": 0,
+    "explanation": "The natural greenhouse effect is vital. The enhanced greenhouse effect is the extra warming due to additional greenhouse gases from humans.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which greenhouse gas is released as waste decays in landfill sites?",
+    "options": [
+     "Methane",
+     "Argon",
+     "Oxygen",
+     "Helium"
+    ],
+    "answer": 0,
+    "explanation": "Decaying organic waste without oxygen produces methane, a powerful greenhouse gas. Some landfills capture it and burn it for energy.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A graph shows average global temperatures rising by about 0.2°C per decade over the last 40 years. If this rate continues, how much extra warming is expected over the next 40 years?",
+    "options": [
+     "0.8°C",
+     "0.2°C",
+     "8°C",
+     "2°C"
+    ],
+    "answer": 0,
+    "explanation": "40 years is four decades. 4 × 0.2°C = 0.8°C. This is a linear prediction, and the real rate may change depending on emissions.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Measurements show that the sun's output has been roughly steady since 1980 while global temperatures have risen. What does this suggest?",
+    "options": [
+     "Changes in the sun are unlikely to be the main cause of recent warming",
+     "The sun caused all warming",
+     "Temperature measurements are wrong",
+     "CO₂ has no role"
+    ],
+    "answer": 0,
+    "explanation": "If the sun's output were responsible, it would need to have increased. Steady output while temperature rose points to another cause, such as greenhouse gases.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student argues: CO₂ and temperature both rose since 1900, so CO₂ must be the cause. What is the best response?",
+    "options": [
+     "Correlation alone is not proof, but combined with the known physics of greenhouse gases and other evidence it strongly supports CO₂ as a cause",
+     "Correlation always proves causation",
+     "The data are random",
+     "CO₂ falls when temperature rises"
+    ],
+    "answer": 0,
+    "explanation": "A strong conclusion uses multiple lines of evidence: measured physics, ice cores, patterns of warming and ruling out natural causes, not just a matching trend.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Without any natural greenhouse effect, the average temperature on Earth would be about -18°C, but it is actually about 15°C. How large is the warming effect?",
+    "options": [
+     "33°C",
+     "3°C",
+     "-3°C",
+     "18°C"
+    ],
+    "answer": 0,
+    "explanation": "15 – (–18) = 33°C. This shows the natural effect is vital. The concern is the extra warming added by humans.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A sceptic says: There were ice ages and warm periods before humans, so current warming must be natural. Which reply is strongest?",
+    "options": [
+     "Natural changes did occur, but they were slow and explained by known causes, whereas current warming is rapid and matches the rise in human emissions",
+     "Climate never changed before",
+     "Ice ages did not exist",
+     "Humans caused ice ages"
+    ],
+    "answer": 0,
+    "explanation": "Past changes had natural drivers such as orbital cycles. The present rate of change and the match with fossil-fuel emissions point to human influence.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## The greenhouse effect\nThe Sun's energy warms the Earth, which sends heat back out as infrared radiation. **Greenhouse gases** such as carbon dioxide (CO₂), methane (CH₄), water vapour and nitrous oxide absorb some of this heat and re-emit it, warming the lower atmosphere. This **natural greenhouse effect** is essential: without it the average temperature would be about -18°C instead of about 15°C, a difference of 33°C.\n\n## The enhanced greenhouse effect\nHuman activities have added extra greenhouse gases. This is the **enhanced greenhouse effect**.\n- **Burning fossil fuels** (coal, oil, gas) for electricity, transport and industry releases CO₂.\n- **Deforestation** removes trees that absorb CO₂, and burning forests releases it.\n- **Agriculture**: cattle and rice paddies produce methane; fertilisers release nitrous oxide.\n- **Landfill** produces methane as waste decays.\nAtmospheric CO₂ has risen from about 280 parts per million before the industrial era to about 420 ppm, an increase of 50%.\n\n## Natural causes\nClimate has always changed. Natural causes include changes in Earth's orbit and tilt (Milankovitch cycles), variations in the Sun's output and large volcanic eruptions that can cool the planet for a short time. These are real but cannot explain the rapid warming of recent decades. Solar output has been roughly steady since the 1980s while temperatures have risen.\n\n## Evidence for climate change\n- **Temperature records**: global average temperature has risen by about 1.1°C since the late 1800s.\n- **Ice cores**: air bubbles trapped in ice show past CO₂ levels and temperature, which have moved together.\n- **Mauna Loa observatory**: continuous CO₂ measurements since 1958 show a steady rise.\n- **Retreating glaciers** and shrinking Arctic sea ice.\n- **Sea-level rise** from melting ice and thermal expansion.\n- **Changing seasons**, such as earlier spring and shifts in species ranges.\n\n## Feedback\nA **positive feedback** amplifies change. As Arctic ice melts, the darker sea absorbs more heat, causing more melting.\n\n## Reading the data\nWhen you read a graph, quote values and time periods. For example, a rise of 0.2°C per decade for four decades gives about 0.8°C. Be careful to say that predictions assume the trend continues.\n\n## Evaluating claims\nCorrelation alone does not prove causation. Strong conclusions use many independent lines of evidence and known science. Be cautious about single events: one cold winter does not disprove global warming because weather is variable and climate is a long-term average.\n\n## Worked example\nCO₂ rises from 280 ppm to 420 ppm. Increase = 140 ppm. Percentage increase = 140 ÷ 280 × 100 = 50%.\n\n## Common mistakes\n- Confusing the greenhouse effect with the ozone hole.\n- Saying the greenhouse effect is bad. The natural effect is essential; the extra effect is the problem.\n- Using one weather event as evidence for or against climate change.\n\n## How this is examined\nYou may be given graphs or sources about CO₂ and temperature, asked to calculate a percentage change, describe the trend, state the limits of the data and judge how convincing the evidence is.\n\nExam tip: Always name a cause, explain how it increases greenhouse gases, and refer to evidence with figures.",
+  "flashcards": [
+   {
+    "front": "Natural greenhouse effect",
+    "back": "Greenhouse gases trap heat, keeping Earth around 15°C instead of about -18°C. It is essential for life."
+   },
+   {
+    "front": "Enhanced greenhouse effect",
+    "back": "Extra warming caused by additional greenhouse gases from human activities such as burning fossil fuels."
+   },
+   {
+    "front": "Main greenhouse gases",
+    "back": "Carbon dioxide, methane, nitrous oxide and water vapour."
+   },
+   {
+    "front": "Human causes of climate change",
+    "back": "Burning fossil fuels, deforestation, agriculture (methane from cattle and rice) and landfill waste."
+   },
+   {
+    "front": "Natural causes of climate change",
+    "back": "Changes in Earth's orbit and tilt, variations in solar output and volcanic eruptions."
+   },
+   {
+    "front": "Ice core evidence",
+    "back": "Air bubbles trapped in ice show past CO₂ levels. Cores show that CO₂ and temperature have moved together over hundreds of thousands of years."
+   },
+   {
+    "front": "CO₂ levels",
+    "back": "About 280 ppm before the industrial era and about 420 ppm today, an increase of 50%."
+   },
+   {
+    "front": "Global temperature rise",
+    "back": "About 1.1°C above late 19th-century levels. It is a global average, and the Arctic has warmed faster."
+   },
+   {
+    "front": "Positive feedback example",
+    "back": "Melting sea ice exposes darker ocean, which absorbs more heat, causing more ice to melt."
+   }
+  ]
+ },
+ {
+  "subject": "geography",
+  "grade": 5,
+  "topic": "Weather and Climate",
+  "subTopic": "Responses to Climate Change",
+  "questions": [
+   {
+    "content": "What is the difference between mitigation and adaptation?",
+    "options": [
+     "Mitigation reduces the causes of climate change, adaptation prepares for its effects",
+     "They mean the same thing",
+     "Adaptation reduces emissions, mitigation builds sea walls",
+     "Mitigation is only for poor countries"
+    ],
+    "answer": 0,
+    "explanation": "Mitigation tackles the causes (cutting emissions). Adaptation deals with impacts (for example flood defences and drought-resistant crops).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a form of renewable energy?",
+    "options": [
+     "Wind power",
+     "Coal",
+     "Natural gas",
+     "Oil"
+    ],
+    "answer": 0,
+    "explanation": "Wind, solar, hydro and geothermal energy are renewable, and produce very little or no greenhouse gas during operation.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The 2015 Paris Agreement aims to keep global warming well below what level compared with pre-industrial times?",
+    "options": [
+     "2°C, while pursuing 1.5°C",
+     "5°C",
+     "10°C",
+     "0.1°C"
+    ],
+    "answer": 0,
+    "explanation": "Countries agreed to limit warming to well below 2°C above pre-industrial levels and to try for 1.5°C.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a carbon footprint?",
+    "options": [
+     "The total greenhouse gases produced by a person, product or activity",
+     "A footprint in the soil",
+     "The weight of a tree",
+     "A type of fossil fuel"
+    ],
+    "answer": 0,
+    "explanation": "A carbon footprint is measured in tonnes of CO₂ equivalent and covers things like transport, energy use and food.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is an example of adaptation?",
+    "options": [
+     "Building cyclone shelters in Bangladesh",
+     "Installing solar panels",
+     "Planting forests to absorb CO₂",
+     "Using electric cars"
+    ],
+    "answer": 0,
+    "explanation": "Cyclone shelters help people cope with stronger storms, so they are adaptation. The others reduce emissions or absorb CO₂, which is mitigation.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A country emits 300 million tonnes of CO₂ a year and has 60 million people. What are emissions per person?",
+    "options": [
+     "5 tonnes",
+     "0.2 tonnes",
+     "18 tonnes",
+     "500 tonnes"
+    ],
+    "answer": 0,
+    "explanation": "300 million ÷ 60 million = 5 tonnes per person. Per-person figures help compare countries fairly.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A city plans to cut emissions of 50 million tonnes by 40%. What will its emissions be after the cut?",
+    "options": [
+     "30 million tonnes",
+     "20 million tonnes",
+     "10 million tonnes",
+     "40 million tonnes"
+    ],
+    "answer": 0,
+    "explanation": "40% of 50 = 20, so emissions fall by 20 million, leaving 30 million tonnes. A common mistake is to give the amount cut (20) as the final level.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement describes a carbon tax?",
+    "options": [
+     "A charge on emissions that encourages firms and people to pollute less",
+     "A tax on trees",
+     "A subsidy for fossil fuels",
+     "A fee for using public transport only"
+    ],
+    "answer": 0,
+    "explanation": "A carbon tax puts a price on emitting CO₂, which gives an incentive to use cleaner energy.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why do many countries invest in public transport and cycle lanes?",
+    "options": [
+     "To reduce emissions from road transport and improve air quality",
+     "To increase car use",
+     "To raise sea levels",
+     "To reduce rainfall"
+    ],
+    "answer": 0,
+    "explanation": "Road transport is a major source of CO₂. Switching to public transport and cycling reduces emissions and congestion.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The Netherlands, much of which is below sea level, has built storm surge barriers and raised dikes. What does this show?",
+    "options": [
+     "A wealthy country adapting to flood risk",
+     "A country mitigating emissions",
+     "A natural process",
+     "An energy policy"
+    ],
+    "answer": 0,
+    "explanation": "Large engineering schemes such as the Delta Works are adaptation measures that protect against flooding.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does net zero mean?",
+    "options": [
+     "The amount of greenhouse gases emitted is balanced by the amount removed from the atmosphere",
+     "No energy is used",
+     "No people live there",
+     "Zero rainfall"
+    ],
+    "answer": 0,
+    "explanation": "Net zero means any remaining emissions are offset by removal, for example through forests or carbon capture.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is a valid limitation of planting trees as a solution to climate change?",
+    "options": [
+     "Trees take many years to grow and need land that may be used for other purposes",
+     "Trees release oxygen",
+     "Trees provide shade",
+     "Trees stop rainfall"
+    ],
+    "answer": 0,
+    "explanation": "Forests absorb CO₂ but slowly, and land is limited. Tree planting should be combined with reducing emissions.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which individual action is an example of mitigation?",
+    "options": [
+     "Choosing public transport instead of driving",
+     "Building a flood wall",
+     "Storing rainwater",
+     "Moving homes inland"
+    ],
+    "answer": 0,
+    "explanation": "Mitigation reduces emissions. Using public transport lowers CO₂ from cars. The other options are adaptations to the effects of climate change.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A country emits 800 million tonnes a year and plans to cut by 5% of the previous year's level every year. What will emissions be after three years, to the nearest million tonnes?",
+    "options": [
+     "686 million tonnes",
+     "680 million tonnes",
+     "640 million tonnes",
+     "600 million tonnes"
+    ],
+    "answer": 0,
+    "explanation": "Each year multiplies by 0.95: 800 × 0.95³ = 685.9, which is about 686 million tonnes. A flat 5% of 800 each year would give 680, which is not what the plan states.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Many low-income countries argue that high-income countries should do more to reduce emissions. What is the strongest geographical reasoning for this?",
+    "options": [
+     "High-income countries have produced most historical emissions and have more resources, while low-income countries are often more vulnerable",
+     "Low-income countries produce the most emissions per person",
+     "Climate change affects only rich countries",
+     "Emissions have no link with wealth"
+    ],
+    "answer": 0,
+    "explanation": "The argument uses historical responsibility, capacity and vulnerability. A balanced answer would also note that emissions from fast-growing economies are rising.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An island nation has an average elevation of 1.5 m. Which pair of responses is the best combination for its long-term future?",
+    "options": [
+     "Adaptation such as sea walls and raising land, plus campaigning for global mitigation",
+     "Only building houses closer to shore",
+     "No action since it emits little",
+     "Only individual recycling"
+    ],
+    "answer": 0,
+    "explanation": "The island needs adaptation because it is exposed, but its own emissions are tiny, so it also depends on global mitigation. Combining both is the most realistic.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A town replaces 10 000 petrol cars that each emit 2 tonnes of CO₂ per year with electric cars whose electricity causes 0.8 tonnes each per year. What is the annual saving, and what is a limit of this calculation?",
+    "options": [
+     "12 000 tonnes; it ignores emissions in manufacturing and depends on how the electricity is produced",
+     "20 000 tonnes; there are no limits",
+     "8000 tonnes; it ignores cost",
+     "1200 tonnes; it ignores the number of cars"
+    ],
+    "answer": 0,
+    "explanation": "Saving per car = 2 – 0.8 = 1.2 tonnes, so 10 000 × 1.2 = 12 000 tonnes per year. The limit is that manufacturing emissions and the electricity mix are not included.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which statement best evaluates international agreements such as the Paris Agreement?",
+    "options": [
+     "They set shared goals, but depend on voluntary national pledges and may not be strong enough on their own",
+     "They fully solve climate change",
+     "They have no effect",
+     "They are legally enforced with fines on every country"
+    ],
+    "answer": 0,
+    "explanation": "Agreements create cooperation and targets, but enforcement is limited, and many pledges are not enough to meet the goals. Strong judgements show both sides.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Two types of response\nResponses to climate change fall into two groups.\n- **Mitigation**: reducing greenhouse gas emissions or removing CO₂ from the air, to tackle the causes.\n- **Adaptation**: adjusting to the effects that cannot be avoided, to reduce harm.\nBoth are needed: mitigation limits how much the climate changes, adaptation protects people from the changes that are already happening.\n\n## Mitigation\n- **Renewable energy**: wind, solar, hydro and geothermal produce little CO₂ during operation. Switching away from coal, oil and gas is the biggest step.\n- **Energy efficiency**: better insulation, LED lighting and efficient appliances.\n- **Transport**: public transport, cycling, walking and electric vehicles.\n- **Forests**: afforestation and protecting existing forests, because trees absorb CO₂.\n- **Carbon capture and storage**: trapping CO₂ from power stations and storing it underground.\n- **Carbon pricing**: a carbon tax or emissions trading gives firms a financial reason to cut emissions.\n- **Individual actions**: reducing meat, flights and waste lowers a person's **carbon footprint**.\n\n## Adaptation\n- Flood defences, such as the Dutch Delta Works.\n- Cyclone shelters and early warnings in Bangladesh.\n- Drought-resistant crops and efficient irrigation.\n- Water storage and rainwater harvesting.\n- Raising land or relocating communities on low islands such as the Maldives.\n\n## International agreements\nThe **Kyoto Protocol** (1997) set emission targets for developed countries. The **Paris Agreement** (2015) commits nearly all countries to limit warming to well below 2°C, with efforts for 1.5°C, using pledges from each country. Strengths: shared goals and cooperation. Limits: pledges are voluntary and may not be enough.\n\n## Fairness\nHigh-income countries have produced most historical emissions, while many low-income countries are more vulnerable and have fewer resources. This is why financial and technology support for adaptation is debated. At the same time emissions from rapidly industrialising countries are growing.\n\n## Calculating\n- Per-person emissions: total emissions ÷ population. 300 million tonnes ÷ 60 million people = 5 tonnes each.\n- Percentage cut: 40% of 50 million tonnes is 20 million, leaving 30 million.\n- Compounding cut: 800 million tonnes reduced by 5% of the previous year's level for three years is 800 × 0.95³ ≈ 686 million tonnes.\n\n## Net zero\nNet zero means any emissions remaining are balanced by removals such as forests or carbon capture.\n\n## Evaluating responses\nCompare **cost**, **effectiveness**, **speed**, **fairness** and **side effects**. Renewable energy is effective but needs investment. Tree planting is slow. Individual action matters but cannot work without government and industry change.\n\n## Common mistakes\n- Mixing up mitigation and adaptation.\n- Writing that one single solution can fix everything.\n- Ignoring fairness between countries.\n\n## How this is examined\nYou may be given a source describing a country's climate strategy, asked to calculate a percentage cut or emissions per person, categorise measures and evaluate whether the strategy is sufficient and fair.\n\nExam tip: For every response you suggest, state whether it is mitigation or adaptation, and give one strength and one limitation.",
+  "flashcards": [
+   {
+    "front": "Mitigation vs adaptation",
+    "back": "Mitigation reduces the causes of climate change (cut emissions). Adaptation prepares for or reduces the effects (flood defences, new crops)."
+   },
+   {
+    "front": "Examples of mitigation",
+    "back": "Renewable energy, energy efficiency, public transport, electric vehicles, afforestation, carbon capture and carbon taxes."
+   },
+   {
+    "front": "Examples of adaptation",
+    "back": "Sea walls, cyclone shelters, drought-resistant crops, rainwater harvesting and relocating vulnerable communities."
+   },
+   {
+    "front": "Paris Agreement 2015",
+    "back": "Countries pledged to limit warming to well below 2°C above pre-industrial levels and to pursue 1.5°C, using national pledges."
+   },
+   {
+    "front": "Kyoto Protocol 1997",
+    "back": "An earlier agreement that set emission reduction targets for developed countries."
+   },
+   {
+    "front": "What is net zero?",
+    "back": "Balancing the greenhouse gases emitted with the amount removed from the atmosphere."
+   },
+   {
+    "front": "Carbon footprint",
+    "back": "The total greenhouse gases produced by a person, product or activity, measured in tonnes of CO₂ equivalent."
+   },
+   {
+    "front": "Carbon tax",
+    "back": "A charge on CO₂ emissions that gives firms and people a financial incentive to cut pollution."
+   },
+   {
+    "front": "Why is fairness debated?",
+    "back": "High-income countries emitted most historically and have more resources, but low-income countries are often more vulnerable."
+   }
+  ]
+ }
+]

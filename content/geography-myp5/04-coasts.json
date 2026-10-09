@@ -1,0 +1,528 @@
+[
+ {
+  "subject": "geography",
+  "grade": 5,
+  "topic": "Coasts",
+  "subTopic": "Coastal Processes and Landforms",
+  "questions": [
+   {
+    "content": "Which type of wave has a strong backwash that removes material from the beach?",
+    "options": [
+     "Constructive wave",
+     "Destructive wave",
+     "Tidal wave",
+     "Swell wave"
+    ],
+    "answer": 1,
+    "explanation": "Destructive waves are steep and frequent, with a weak swash and a strong backwash that drags sediment back to the sea. Constructive waves build up beaches.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is fetch?",
+    "options": [
+     "The height of a wave",
+     "The distance of open water over which the wind blows",
+     "The time between two waves",
+     "The width of a beach"
+    ],
+    "answer": 1,
+    "explanation": "Longer fetch gives waves more time to gather energy, so they become larger and more powerful. This is why the Atlantic coast of the UK has big waves.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The movement of sediment along a beach in a zigzag pattern is called what?",
+    "options": [
+     "Longshore drift",
+     "Hydraulic action",
+     "Saltation",
+     "Attrition"
+    ],
+    "answer": 0,
+    "explanation": "Waves hit the beach at an angle with the prevailing wind (swash), but backwash runs straight down the slope, so material is moved sideways along the coast.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A narrow stretch of land that sticks out into the sea, with cliffs on three sides, is called what?",
+    "options": [
+     "Bay",
+     "Headland",
+     "Spit",
+     "Estuary"
+    ],
+    "answer": 1,
+    "explanation": "Headlands are made of resistant rock that erodes more slowly than the surrounding land. Bays form in softer rock.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which process involves waves forcing air into cracks in the rock, weakening it over time?",
+    "options": [
+     "Hydraulic action",
+     "Corrosion",
+     "Deposition",
+     "Weathering by wind"
+    ],
+    "answer": 0,
+    "explanation": "Hydraulic action is the force of water and compressed air in cracks. Repeated pressure widens cracks until pieces break away.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the correct order of landforms as a headland erodes?",
+    "options": [
+     "Cave, crack, arch, stack, stump",
+     "Crack, cave, arch, stack, stump",
+     "Stack, arch, cave, crack, stump",
+     "Crack, arch, cave, stump, stack"
+    ],
+    "answer": 1,
+    "explanation": "A crack widens into a cave, the cave erodes through to form an arch, the arch collapses leaving a stack, and the stack erodes to a stump.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why does a wave-cut platform form at the base of a cliff?",
+    "options": [
+     "Deposition builds a flat ledge",
+     "The base is undercut into a notch, the cliff collapses and retreats, leaving a gently sloping rock surface",
+     "Rivers carry material to the base",
+     "Frost lifts the land"
+    ],
+    "answer": 1,
+    "explanation": "Erosion cuts a wave-cut notch, the overhang collapses and the cliff retreats. The remaining flat rock surface is exposed at low tide.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A coastline has bands of hard chalk and soft clay running at right angles to the sea. What landforms are likely to develop?",
+    "options": [
+     "Headlands where the hard rock is, bays where the clay is",
+     "Only long sandy beaches",
+     "Deltas",
+     "Glaciers"
+    ],
+    "answer": 0,
+    "explanation": "Soft rock erodes faster than hard rock. The result is bays in the clay and headlands in the chalk, a discordant coastline.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A spit is a long, narrow ridge of sand or shingle attached to land at one end. What is the main process that builds it?",
+    "options": [
+     "Longshore drift depositing material where the coastline changes direction",
+     "River erosion",
+     "Frost shattering",
+     "Rising sea levels only"
+    ],
+    "answer": 0,
+    "explanation": "Material is moved along the coast by longshore drift and deposited where the coast turns or at an estuary, extending into the sea. Spurn Head is an example.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Constructive waves occur about 6 times per minute. What is the time between waves?",
+    "options": [
+     "6 seconds",
+     "10 seconds",
+     "60 seconds",
+     "0.1 seconds"
+    ],
+    "answer": 1,
+    "explanation": "60 seconds ÷ 6 waves = 10 seconds per wave. Destructive waves are more frequent, about 10 to 15 per minute.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Freeze-thaw weathering affects cliffs. What is the sequence?",
+    "options": [
+     "Water enters cracks, freezes and expands, then thaws, gradually breaking the rock",
+     "Rock melts, then freezes",
+     "Wind removes rock",
+     "Waves freeze"
+    ],
+    "answer": 0,
+    "explanation": "Water expands by about 9% when it freezes, wedging cracks wider. Repeated freezing and thawing breaks off fragments.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A cliff is made of soft clay with heavy rain. Rainwater saturates it and the cliff face slumps downwards. What is this process?",
+    "options": [
+     "Mass movement",
+     "Longshore drift",
+     "Deposition",
+     "Solution"
+    ],
+    "answer": 0,
+    "explanation": "Mass movement is the downhill movement of material under gravity, such as slumping and landslides. It is a weathering-related process rather than marine erosion.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which landform is a ridge of sand or shingle that joins an island to the mainland?",
+    "options": [
+     "Tombolo",
+     "Stack",
+     "Wave-cut notch",
+     "Delta"
+    ],
+    "answer": 0,
+    "explanation": "A tombolo forms when deposition links an offshore island to the coast. A stack is an isolated column of rock.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A cliff at a monitoring site retreats 1.5 m per year. How much land will be lost in 40 years if the rate stays the same?",
+    "options": [
+     "6 m",
+     "40 m",
+     "60 m",
+     "600 m"
+    ],
+    "answer": 2,
+    "explanation": "1.5 m × 40 = 60 m. The rate could change because of storms or sea level rise, so this is only an estimate.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A school recorded a cliff top 80 m from a road in 1990 and 32 m from it in 2020. If erosion continues at the same average rate, how many more years until the cliff top reaches the road?",
+    "options": [
+     "10 years",
+     "20 years",
+     "30 years",
+     "48 years"
+    ],
+    "answer": 1,
+    "explanation": "Loss = 80 – 32 = 48 m in 30 years = 1.6 m per year. 32 ÷ 1.6 = 20 years. Using 48 as the answer confuses distance lost with time left.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Why does a spit often have a curved or hooked end?",
+    "options": [
+     "Because of changes in wave direction or wind, and wave refraction around the end",
+     "Because rivers push it",
+     "Because rocks are heavier there",
+     "Because of earthquakes"
+    ],
+    "answer": 0,
+    "explanation": "Waves bend (refract) around the end of the spit and secondary winds push material, curving the tip. Behind it, calm water allows salt marsh to form.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two beaches face the same sea. Beach X has 6 waves per minute with strong swash, and Beach Y has 14 waves per minute with strong backwash. Which statement is best supported?",
+    "options": [
+     "Beach X is likely to be building up and Beach Y being eroded",
+     "Beach Y is likely to be building up and Beach X being eroded",
+     "Both beaches are growing",
+     "Wave frequency has no link with beach change"
+    ],
+    "answer": 0,
+    "explanation": "Low-frequency waves with strong swash (constructive) add sediment. High-frequency waves with strong backwash (destructive) remove it. Other factors such as storms would need checking.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which is the best explanation for why a stack eventually becomes a stump?",
+    "options": [
+     "Waves and weathering continue to erode the base and sides until the stack collapses and only a low remnant remains",
+     "Deposition builds a platform",
+     "The sea level drops",
+     "A river fills it"
+    ],
+    "answer": 0,
+    "explanation": "A stack is a sea-isolated column. Continued erosion and weathering at its base and sides make it collapse, leaving a stump covered at high tide.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Waves\nWaves are formed by wind blowing over the sea. Their size depends on **wind strength**, **wind duration** and **fetch** (the distance of open water the wind crosses). Long fetch gives large, powerful waves.\n- **Constructive waves**: low and long, about 6 to 8 per minute, with strong swash and weak backwash. They **build** beaches.\n- **Destructive waves**: tall and steep, about 10 to 15 per minute, with strong backwash. They **erode** beaches.\n\n## Weathering and mass movement\n- **Freeze–thaw**: water in cracks freezes, expands and breaks rock.\n- **Biological weathering**: roots widen cracks.\n- **Mass movement**: slumping, sliding and rock falls, especially when rock is soaked with water.\n\n## Coastal erosion\n- **Hydraulic action**: force of water and air compressed into cracks.\n- **Abrasion**: waves hurling pebbles at the cliff.\n- **Attrition**: stones colliding and becoming smaller and rounder.\n- **Solution**: dissolving of rocks such as limestone.\n\n## Transport and deposition\nSediment is moved along the coast by **longshore drift**. Swash carries material up the beach at an angle with the prevailing wind, backwash drags it straight down, so it zigzags along the shore. **Deposition** happens when waves lose energy, such as in sheltered bays.\n\n## Erosional landforms\n- **Headlands and bays**: alternating hard and soft rock (discordant coastline). Soft rock erodes into bays, hard rock remains as headlands.\n- **Cliffs and wave-cut platforms**: waves cut a notch, the cliff collapses and retreats leaving a rocky platform.\n- **Caves, arches, stacks, stumps**: a crack in a headland is enlarged into a cave, which cuts through to form an arch. The arch collapses leaving a stack, which erodes to a stump.\n\n## Depositional landforms\n- **Beaches** (sand or shingle).\n- **Spits**: long ridges of sand or shingle joined to land at one end, formed by longshore drift at a change in coastline direction. The tip often curves, and salt marsh forms in the shelter behind. \n- **Bars and tombolos** link or connect islands to the land.\n\n## Calculations\nCliff retreat rate = distance lost ÷ time. If a cliff top moved from 80 m to 32 m from a road in 30 years, it retreated 48 m, so 1.6 m per year. The road is 32 m away, so reaches in 32 ÷ 1.6 = 20 years if the rate does not change.\n\n## Common mistakes\n- Mixing up swash and backwash.\n- Saying longshore drift is caused by tides.\n- Listing landforms in the wrong order.\n- Giving a sequence without naming processes.\n\n## How this is examined\nQuestions often show a diagram or map extract of a stretch of coast, ask you to name landforms, explain how one formed using a sequence and then use data such as retreat rates to make predictions.\n\nExam tip: Explain landform formation as a step-by-step sequence and include at least two named processes.",
+  "flashcards": [
+   {
+    "front": "Constructive waves",
+    "back": "Low, long waves (6 to 8 per minute) with strong swash and weak backwash. They build up beaches."
+   },
+   {
+    "front": "Destructive waves",
+    "back": "High, steep waves (10 to 15 per minute) with strong backwash and weak swash. They erode beaches."
+   },
+   {
+    "front": "What is fetch?",
+    "back": "The distance of open water over which the wind blows. A longer fetch produces bigger, more powerful waves."
+   },
+   {
+    "front": "Longshore drift",
+    "back": "Zigzag movement of sediment along a coast: swash moves it up the beach at an angle with the wind, backwash returns it straight down."
+   },
+   {
+    "front": "Four coastal erosion processes",
+    "back": "Hydraulic action, abrasion, attrition and solution."
+   },
+   {
+    "front": "Headland and bay formation",
+    "back": "Hard rock alternates with soft rock. Soft rock erodes quickly to form bays; hard rock remains as headlands."
+   },
+   {
+    "front": "Sequence of erosional landforms",
+    "back": "Crack, cave, arch, stack, stump."
+   },
+   {
+    "front": "How does a wave-cut platform form?",
+    "back": "Waves cut a notch at the cliff base; the overhang collapses, the cliff retreats and a flat rocky platform remains."
+   },
+   {
+    "front": "How does a spit form?",
+    "back": "Longshore drift carries sediment and deposits it where the coastline changes direction or a river mouth interrupts, building a ridge into the sea."
+   }
+  ]
+ },
+ {
+  "subject": "geography",
+  "grade": 5,
+  "topic": "Coasts",
+  "subTopic": "Coastal Erosion and Management",
+  "questions": [
+   {
+    "content": "Which of these is an example of soft engineering at the coast?",
+    "options": [
+     "Sea wall",
+     "Rock armour",
+     "Beach nourishment",
+     "Groynes made of steel"
+    ],
+    "answer": 2,
+    "explanation": "Beach nourishment adds sand or shingle to a beach, working with natural processes. Walls, rock armour and groynes are hard engineering structures.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the main purpose of groynes on a beach?",
+    "options": [
+     "To trap sediment moved by longshore drift",
+     "To stop waves forming",
+     "To store drinking water",
+     "To raise sea level"
+    ],
+    "answer": 0,
+    "explanation": "Groynes are barriers built at right angles to the shore. They trap sand, building up the beach, which absorbs wave energy.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which coast in England is often described as one of the fastest-eroding in Europe?",
+    "options": [
+     "Holderness",
+     "Cornwall",
+     "Isle of Skye",
+     "Cumbria"
+    ],
+    "answer": 0,
+    "explanation": "The Holderness coast in Yorkshire is made of soft boulder clay, which erodes at around 2 m per year on average.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does managed retreat (managed realignment) mean?",
+    "options": [
+     "Allowing the sea to flood or erode certain areas in a planned way",
+     "Building a bigger sea wall",
+     "Moving the sea",
+     "Stopping all planning"
+    ],
+    "answer": 0,
+    "explanation": "Planners allow land to flood, often creating salt marshes that absorb wave energy, and may move people and buildings away.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Rising sea level is mainly caused by which two processes linked to global warming?",
+    "options": [
+     "Melting land ice and the thermal expansion of seawater",
+     "Evaporation and rainfall",
+     "Earthquakes and tides",
+     "Wind and currents"
+    ],
+    "answer": 0,
+    "explanation": "Water from melting glaciers and ice sheets adds to the sea, and warmer water takes up more space (thermal expansion).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A 1200 m stretch of coast is protected by rock armour costing £1800 per metre. What is the total cost?",
+    "options": [
+     "£2.16 million",
+     "£216 000",
+     "£21.6 million",
+     "£1.8 million"
+    ],
+    "answer": 0,
+    "explanation": "1200 × £1800 = £2 160 000, which is £2.16 million. Mistakes with zeros are very common in cost calculations.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A sea wall for the same 1200 m would cost £5000 per metre. How much more expensive than rock armour (£1800 per metre) is the wall?",
+    "options": [
+     "£3.84 million",
+     "£6 million",
+     "£2.16 million",
+     "£3.2 million"
+    ],
+    "answer": 0,
+    "explanation": "Wall = 1200 × £5000 = £6 million. Rock armour = £2.16 million. Difference = £3.84 million.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "At Mappleton on the Holderness coast, rock groynes and rock armour were built in 1991. What was an unintended effect on the coast further south?",
+    "options": [
+     "It increased erosion downdrift because less sediment arrived",
+     "It reduced erosion everywhere",
+     "It created a new beach all along the coast",
+     "It stopped longshore drift worldwide"
+    ],
+    "answer": 0,
+    "explanation": "By trapping sediment, the structures starved the beaches downdrift of material, so the unprotected coast eroded faster. This is a common problem with hard engineering.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A shoreline management plan option called hold the line means what?",
+    "options": [
+     "Maintaining or upgrading existing defences",
+     "Letting nature take its course",
+     "Moving buildings inland",
+     "Building new land seaward"
+    ],
+    "answer": 0,
+    "explanation": "Hold the line keeps the coastline where it is. The other main options are advance the line, managed realignment and no active intervention.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Beach nourishment of 120 000 m³ of sand costs £8 per m³. What is the cost?",
+    "options": [
+     "£96 000",
+     "£960 000",
+     "£9.6 million",
+     "£15 000"
+    ],
+    "answer": 1,
+    "explanation": "120 000 × 8 = 960 000. Nourishment must be repeated because the sea removes the sand over time.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Dune regeneration involves planting marram grass and fencing off areas. How does it help the coast?",
+    "options": [
+     "Roots bind sand, forming a natural barrier that absorbs wave energy",
+     "It increases erosion",
+     "It makes the sea warmer",
+     "It reduces rainfall"
+    ],
+    "answer": 0,
+    "explanation": "Marram grass traps sand and stabilises dunes. They act as a flexible, natural sea defence and provide habitat.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The Maldives has an average ground level of about 1.5 m above sea level. Why is it particularly vulnerable?",
+    "options": [
+     "Even small sea-level rises could flood large areas of the islands",
+     "It has strong earthquakes",
+     "It has too many rivers",
+     "It is far from the sea"
+    ],
+    "answer": 0,
+    "explanation": "Low-lying land means that a rise of even half a metre would flood large areas and contaminate fresh water. It illustrates why coastal management matters.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A beach nourishment scheme costs £960 000, but the sand is lost by the sea after about 8 years. What is the average cost per year?",
+    "options": [
+     "£120 000",
+     "£96 000",
+     "£7 680 000",
+     "£1 200 000"
+    ],
+    "answer": 0,
+    "explanation": "£960 000 ÷ 8 = £120 000 per year. This shows why nourishment, although natural-looking, is a recurring cost.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A town considers a defence that protects property worth £20 million and costs £15 million to build. What is the benefit–cost ratio and what does it suggest?",
+    "options": [
+     "About 1.33, benefits exceed cost, so it is economically justified on these figures",
+     "0.75, so it is not justified",
+     "5, so it is cheap",
+     "1, so it has no value"
+    ],
+    "answer": 0,
+    "explanation": "20 ÷ 15 ≈ 1.33. A ratio above 1 suggests benefits are greater than costs, though environmental and social effects also matter.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A village of 40 homes valued at £0.2 million each is threatened. A £4 million wall will protect it. A resident group wants it built, while a nearby farmer will lose land from changed sediment flow. Which statement best evaluates the scheme?",
+    "options": [
+     "The wall costs £4 million for £8 million of property, a ratio of 2, but it creates winners and losers, so wider effects must be weighed",
+     "The wall is certainly the best because 8 is bigger than 4",
+     "The farmer's views do not matter",
+     "The scheme has no costs"
+    ],
+    "answer": 0,
+    "explanation": "Property value is 40 × £0.2 million = £8 million, so the ratio is 2. However, a full evaluation looks at who gains, who loses and long-term effects, not only cost.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A map shows a cliff retreating 1.6 m per year. A house is 24 m from the edge. A resident says It will be safe for the next 20 years. Is this correct, assuming a constant rate?",
+    "options": [
+     "Yes, because 24 ÷ 1.6 = 15, so there are 15 years",
+     "No, the house will be at the edge in about 15 years, so 20 years is too long",
+     "Yes, erosion stops after 10 years",
+     "No, it will be at the edge in 38 years"
+    ],
+    "answer": 1,
+    "explanation": "24 ÷ 1.6 = 15 years. In practice, the house becomes unsafe even earlier because the ground near an eroding edge is unstable. The claim of 20 years is wrong.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Why can hard engineering be described as unsustainable in the long term at many coasts?",
+    "options": [
+     "It is costly to build and maintain, may transfer erosion elsewhere and may fail as sea level rises",
+     "It is always cheaper than soft engineering",
+     "It does not work at all",
+     "It is made only from wood"
+    ],
+    "answer": 0,
+    "explanation": "Defences need ongoing maintenance and are designed for past conditions. Rising seas and storms may overwhelm them, and they can shift problems along the coast.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which statement shows the strongest geographical judgement on managed retreat?",
+    "options": [
+     "It is sensible in places where the value of land is low, because it cuts costs and creates salt marsh, but it is hard for homeowners who lose property and need compensation",
+     "It is always best",
+     "It is never useful",
+     "It is the same as hold the line"
+    ],
+    "answer": 0,
+    "explanation": "A strong judgement is conditional and balanced. It names benefits (cost, habitat creation, natural defence) and drawbacks (loss of property, community opposition).",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why coasts erode\nCoastal erosion is the wearing away of land by waves, helped by weathering and mass movement. It happens fastest where waves are powerful (long fetch, storms) and rock is weak. The Holderness coast in Yorkshire, made of soft boulder clay, retreats about 2 m a year on average and is one of the fastest-eroding coasts in Europe. Rising **sea level**, caused by melting land ice and thermal expansion of warming water, increases the risk of flooding and erosion.\n\n## Why manage coasts?\nCoasts contain homes, farms, roads, industry and tourism. Managers want to protect valuable land, but defences cost money and can affect other places. Decisions should balance **economic, social and environmental** factors.\n\n## Hard engineering\n- **Sea walls**: curved concrete walls reflecting waves. Very effective, but expensive (for example about £5000 per metre) and can cause erosion at their base.\n- **Rock armour (rip-rap)**: large boulders absorbing wave energy; cheaper (for example about £1800 per metre) but can look unattractive.\n- **Groynes**: barriers that trap sediment moved by longshore drift, building up the beach. They can starve beaches further along the coast.\n\n## Soft engineering\n- **Beach nourishment**: adding sand or shingle. It looks natural but is temporary and must be repeated.\n- **Dune regeneration**: planting marram grass and fencing to rebuild sand dunes.\n- **Managed retreat**: letting low-value land flood or erode, often creating salt marsh that absorbs energy.\n\n## Shoreline management plans\nPlanners choose between **hold the line**, **advance the line**, **managed realignment** and **no active intervention**, based on the value of what is protected.\n\n## Case example\nAt Mappleton on the Holderness coast, rock groynes and armour were built in 1991 to protect the village. They trapped sediment and protected Mappleton, but the coast further south was starved of material and eroded faster. This shows that hard engineering can transfer the problem.\n\n## Costs and benefits\nA **benefit–cost ratio** is value of what is protected ÷ cost. Protecting £20 million of property with a £15 million scheme gives about 1.33. A ratio above 1 suggests it is worthwhile on money alone, but you must also weigh social effects, habitats and fairness.\n\n## Worked example\nRock armour for 1200 m at £1800 per metre costs 1200 × 1800 = £2.16 million. A sea wall at £5000 per metre costs £6 million. The wall is £3.84 million more.\n\n## Evaluating\nUse a clear structure: give an advantage, a disadvantage and a judgement. Think about sustainability: does the option still work when sea level rises? Who wins and who loses?\n\n## Common mistakes\n- Describing a method without saying how it works.\n- Writing that hard engineering is always better or soft always worse.\n- Forgetting that defences can increase erosion elsewhere.\n\n## How this is examined\nYou may be given a map of a village and a table of options with costs, then asked to calculate totals, identify the best option for the place and justify it while noting limitations.\n\nExam tip: Use the phrase however or on the other hand to show balance and finish with a justified recommendation tied to the place.",
+  "flashcards": [
+   {
+    "front": "Sea wall",
+    "back": "Hard engineering: concrete wall that reflects waves. Very effective but expensive and can increase erosion at its base."
+   },
+   {
+    "front": "Rock armour",
+    "back": "Hard engineering: large boulders in front of a cliff or wall to absorb wave energy. Cheaper than a wall but can be unsightly."
+   },
+   {
+    "front": "Groynes",
+    "back": "Barriers at right angles to the shore that trap sediment from longshore drift; they can starve beaches downdrift."
+   },
+   {
+    "front": "Beach nourishment",
+    "back": "Soft engineering: adding sand or shingle to a beach. Looks natural but needs repeating."
+   },
+   {
+    "front": "Managed retreat",
+    "back": "Allowing the sea to flood or erode areas in a planned way, often forming salt marsh that absorbs wave energy."
+   },
+   {
+    "front": "Four shoreline management options",
+    "back": "Hold the line, advance the line, managed realignment and no active intervention."
+   },
+   {
+    "front": "Holderness coast",
+    "back": "Soft boulder clay in Yorkshire eroding about 2 m per year on average, one of Europe's fastest-eroding coasts."
+   },
+   {
+    "front": "Causes of sea-level rise",
+    "back": "Melting land ice (glaciers, ice sheets) and thermal expansion of warming seawater."
+   },
+   {
+    "front": "Benefit–cost ratio",
+    "back": "Value of what is protected ÷ cost of the scheme. A ratio above 1 suggests benefits exceed costs."
+   }
+  ]
+ }
+]

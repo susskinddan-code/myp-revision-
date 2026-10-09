@@ -1,0 +1,791 @@
+[
+  {
+    "subject": "economics",
+    "grade": 5,
+    "topic": "International Trade",
+    "subTopic": "Comparative Advantage and Protectionism",
+    "questions": [
+      {
+        "content": "What does it mean if a country has an absolute advantage in producing a good?",
+        "options": [
+          "It can produce the good at a lower opportunity cost than others",
+          "It can produce more of the good with the same resources than another country",
+          "It imposes tariffs on the good",
+          "It exports the good to every country"
+        ],
+        "answer": 1,
+        "explanation": "Absolute advantage means being able to produce more output with the same resources (or the same output with fewer resources). Comparative advantage is about opportunity cost.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What does comparative advantage mean?",
+        "options": [
+          "Producing a good at a lower opportunity cost than another producer",
+          "Producing the largest amount of everything",
+          "Having the biggest population",
+          "Charging the highest prices"
+        ],
+        "answer": 0,
+        "explanation": "A country has a comparative advantage in a good if its opportunity cost of making that good is lower than other countries' opportunity cost.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What is a tariff?",
+        "options": [
+          "A tax placed on imported goods",
+          "A limit on the quantity of imports",
+          "A payment to exporters",
+          "A ban on exports"
+        ],
+        "answer": 0,
+        "explanation": "A tariff is a tax on imports, which raises their price. A quota is a limit on the quantity that can be imported.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What is a quota?",
+        "options": [
+          "A tax on exports",
+          "A limit on the quantity of a good that can be imported",
+          "A subsidy to consumers",
+          "A fall in the exchange rate"
+        ],
+        "answer": 1,
+        "explanation": "A quota sets a maximum quantity of a good that can be imported in a period.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which of these is a benefit of international trade?",
+        "options": [
+          "Less choice for consumers",
+          "Access to a wider variety of goods and lower prices through specialisation",
+          "Fewer export markets for firms",
+          "Higher costs for everyone"
+        ],
+        "answer": 1,
+        "explanation": "Trade allows specialisation and larger markets, giving consumers more choice and often lower prices, and firms access to bigger markets.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "With the same resources, Country X can produce 60 phones or 30 laptops, and Country Y can produce 40 phones or 10 laptops. What is the opportunity cost of one laptop in each country?",
+        "options": [
+          "X: 2 phones; Y: 4 phones",
+          "X: 0.5 phones; Y: 0.25 phones",
+          "X: 4 phones; Y: 2 phones",
+          "X: 30 phones; Y: 10 phones"
+        ],
+        "answer": 0,
+        "explanation": "In X, giving up 60 phones gives 30 laptops, so 1 laptop costs 60 ÷ 30 = 2 phones. In Y, 1 laptop costs 40 ÷ 10 = 4 phones.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Using the same data, which country has a comparative advantage in laptops, and which in phones?",
+        "options": [
+          "X in laptops; Y in phones",
+          "Y in laptops; X in phones",
+          "X in both",
+          "Y in both"
+        ],
+        "answer": 0,
+        "explanation": "X has the lower opportunity cost of laptops (2 phones against 4). In phones, X gives up 0.5 laptops per phone (30 ÷ 60) and Y gives up 0.25 (10 ÷ 40), so Y has the lower cost and the comparative advantage in phones.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "In the same example, which statement about absolute advantage is correct?",
+        "options": [
+          "Y has an absolute advantage in both goods",
+          "X has an absolute advantage in both goods",
+          "Neither has any absolute advantage",
+          "X has absolute advantage only in laptops"
+        ],
+        "answer": 1,
+        "explanation": "X produces more of both goods with the same resources (60 against 40 phones; 30 against 10 laptops). Yet trade is still beneficial because Y has a comparative advantage in phones.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "An imported bicycle costs $200 before a 15% tariff. What is the price after the tariff?",
+        "options": [
+          "$215",
+          "$230",
+          "$185",
+          "$200.15"
+        ],
+        "answer": 1,
+        "explanation": "15% of $200 = $30. The new price is $230.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A country imports 10,000 bicycles, each with a $30 tariff. How much tariff revenue does the government receive?",
+        "options": [
+          "$30,000",
+          "$300,000",
+          "$3,000,000",
+          "$10,030"
+        ],
+        "answer": 1,
+        "explanation": "10,000 × $30 = $300,000.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A young car industry in a developing country is protected by tariffs until it becomes large enough to compete. Which argument for protection is this?",
+        "options": [
+          "The infant industry argument",
+          "The comparative advantage argument",
+          "The dumping argument",
+          "The efficiency argument"
+        ],
+        "answer": 0,
+        "explanation": "The infant industry argument says new industries need temporary protection while they develop economies of scale and skills.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which group is most likely to lose from a tariff on imported shoes?",
+        "options": [
+          "Domestic shoe producers",
+          "Domestic consumers, who pay higher prices",
+          "The government",
+          "Workers in the domestic shoe industry"
+        ],
+        "answer": 1,
+        "explanation": "A tariff raises the price paid by consumers and reduces choice. Domestic producers and their workers, and the government (from revenue), tend to gain.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which of these is a non-tariff barrier to trade?",
+        "options": [
+          "A 10% tax on imported cars",
+          "Slow and complicated licensing rules for importers",
+          "A subsidy that lowers the price of exports",
+          "A free trade agreement"
+        ],
+        "answer": 1,
+        "explanation": "Non-tariff barriers restrict trade without a tax on imports, for example licensing requirements, quotas or burdensome paperwork. A tariff is a tax.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Using the earlier data (X: 2 phones per laptop; Y: 4 phones per laptop), the two countries agree to trade at 3 phones for 1 laptop. What is the gain to X per laptop it exports?",
+        "options": [
+          "X gains 1 phone, because it receives 3 phones instead of giving up only 2 to make a laptop itself",
+          "X loses 1 phone",
+          "X gains 3 phones",
+          "There is no gain"
+        ],
+        "answer": 0,
+        "explanation": "Making a laptop costs X 2 phones. By exporting it for 3 phones X ends up with 1 phone extra. Y pays 3 phones instead of the 4 it would give up making a laptop, so Y also gains 1 phone.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A government protects its steel industry with a high tariff. Which evaluation is most complete?",
+        "options": [
+          "It protects jobs in steel but raises prices for steel users and consumers, risks retaliation and reduces efficiency",
+          "It has no costs",
+          "It helps all industries equally",
+          "It always lowers prices"
+        ],
+        "answer": 0,
+        "explanation": "Protection helps some producers and workers but imposes costs on consumers and downstream industries. Other countries may retaliate with their own tariffs.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Country A places tariffs on goods from Country B. Country B retaliates with tariffs of its own. What is the most likely outcome?",
+        "options": [
+          "Both countries' exports fall and consumers in both face higher prices, a trade war",
+          "Both countries' exports rise",
+          "Prices fall everywhere",
+          "Nothing changes"
+        ],
+        "answer": 0,
+        "explanation": "A cycle of retaliation reduces trade and raises prices, making consumers and exporters in both countries worse off.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A newspaper claims: 'Country X can produce everything more cheaply than Country Y, so trade with Y can never benefit X.' What is the best criticism?",
+        "options": [
+          "The claim is correct",
+          "It confuses absolute and comparative advantage: X still gains by specialising where its opportunity cost is lower and trading",
+          "X cannot export",
+          "Y has no goods"
+        ],
+        "answer": 1,
+        "explanation": "Gains from trade depend on differences in opportunity cost, not on absolute advantage. Even a country that is better at everything benefits from specialising.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A country removes a 15% tariff on imported bicycles that cost $200 before tax. What happens to the consumer price, and which type of firm is most at risk?",
+        "options": [
+          "The price falls from $230 to $200; less efficient domestic producers may lose sales",
+          "The price rises to $230; foreign firms lose",
+          "The price stays at $230",
+          "The price falls to $170; domestic firms gain"
+        ],
+        "answer": 0,
+        "explanation": "Removing the tariff cuts the price by $30 to $200, benefiting consumers. Domestic firms that cannot compete on price face more competition.",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "## Why countries trade\nNo country can produce everything efficiently. Countries differ in resources, skills and climate, so trading allows them to **specialise** and then exchange goods. Trade gives consumers more choice and often lower prices, gives firms bigger markets and allows economies of scale.\n\n## Absolute and comparative advantage\nA country has an **absolute advantage** when it can produce more of a good with the same resources than another country. A country has a **comparative advantage** when its **opportunity cost** of producing a good is lower.\n\nExample: with the same resources, Country X can make 60 phones or 30 laptops; Country Y can make 40 phones or 10 laptops.\n- Opportunity cost of a laptop: X gives up 60 ÷ 30 = 2 phones; Y gives up 40 ÷ 10 = 4 phones. X has the comparative advantage in laptops.\n- Opportunity cost of a phone: X gives up 30 ÷ 60 = 0.5 laptops; Y gives up 10 ÷ 40 = 0.25 laptops. Y has the comparative advantage in phones.\n\nX has an absolute advantage in both goods, yet both countries gain from trade. If they trade at 3 phones for 1 laptop (between 2 and 4), X receives 3 phones for a laptop that costs it 2 phones to make, and Y pays 3 phones instead of 4. Both gain.\n\n## Protectionism\nSome governments restrict trade to protect domestic producers. Methods:\n- **Tariffs**: taxes on imports. A 15% tariff on a $200 bicycle makes it $230. If 10,000 are imported, the government collects 10,000 × $30 = $300,000.\n- **Quotas**: limits on the quantity of imports.\n- **Subsidies** to domestic producers, which lower their costs.\n- **Regulations and standards** that make imports harder to sell.\n\n## Arguments for protection\n- Protecting **infant industries** while they grow.\n- Protecting jobs in declining industries.\n- Preventing **dumping**, where foreign firms sell below cost.\n- National security (such as food or defence).\n- Raising government revenue.\n\n## Arguments against\nProtection raises prices and reduces choice for consumers, protects inefficient firms, can raise costs for industries that use imports, and may cause **retaliation**, leading to a trade war that reduces trade and hurts exporters.\n\n## Common mistakes\n- Confusing absolute and comparative advantage.\n- Dividing the wrong way when calculating opportunity cost.\n- Forgetting that tariffs help some groups (producers, government) while hurting others (consumers).\n\n## How this is examined\nIn the on-screen exam you may be given a production table for two countries and a source about a new tariff. You calculate opportunity costs, state the comparative advantage, work out a tariff price or revenue and evaluate who gains and loses, including limits such as retaliation.\n\nExam tip: When you state a comparative advantage, show the opportunity cost calculation for both countries, then compare them.",
+    "flashcards": [
+      {
+        "front": "Absolute advantage",
+        "back": "Being able to produce more of a good than another country using the same resources."
+      },
+      {
+        "front": "Comparative advantage",
+        "back": "Being able to produce a good at a lower opportunity cost than another country."
+      },
+      {
+        "front": "How to find opportunity cost from a production table",
+        "back": "Divide the amount of the other good given up by the amount of this good gained, e.g. 60 phones ÷ 30 laptops = 2 phones per laptop."
+      },
+      {
+        "front": "Tariff",
+        "back": "A tax on imports, raising their price and giving revenue to the government."
+      },
+      {
+        "front": "Quota",
+        "back": "A limit on the quantity of a good that can be imported in a period."
+      },
+      {
+        "front": "Infant industry argument",
+        "back": "New industries need temporary protection until they grow big enough to compete internationally."
+      },
+      {
+        "front": "Dumping",
+        "back": "Selling goods abroad at a price below cost or below the home price, often to drive out competitors."
+      },
+      {
+        "front": "Main costs of protectionism",
+        "back": "Higher prices and less choice for consumers, protects inefficient firms, and risks retaliation and trade wars."
+      },
+      {
+        "front": "Why do both countries gain from trading at 3 phones per laptop when opportunity costs are 2 and 4?",
+        "back": "Each gets the good for fewer units of other goods than it would give up making it at home, so both end up with more."
+      }
+    ]
+  },
+  {
+    "subject": "economics",
+    "grade": 5,
+    "topic": "International Trade",
+    "subTopic": "Exchange Rates",
+    "questions": [
+      {
+        "content": "What is an exchange rate?",
+        "options": [
+          "The price of one currency in terms of another",
+          "The interest rate on a loan",
+          "The rate of inflation",
+          "The tax on imports"
+        ],
+        "answer": 0,
+        "explanation": "An exchange rate says how much of one currency is needed to buy one unit of another, for example £1 = $1.25.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "£1 = $1.25. A US tourist wants to pay for a hotel that costs £400. How many dollars does it cost?",
+        "options": [
+          "$320",
+          "$400",
+          "$500",
+          "$525"
+        ],
+        "answer": 2,
+        "explanation": "£400 × 1.25 = $500. Multiply by the number of dollars per pound.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What is currency appreciation?",
+        "options": [
+          "A rise in the value of a currency against other currencies",
+          "A fall in a currency's value",
+          "A rise in prices at home",
+          "A rise in the interest rate"
+        ],
+        "answer": 0,
+        "explanation": "Appreciation means a currency buys more units of another currency. Depreciation is the opposite.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What is currency depreciation?",
+        "options": [
+          "A rise in the value of the currency",
+          "A fall in the value of a currency against other currencies",
+          "A rise in exports",
+          "A rise in tax revenue"
+        ],
+        "answer": 1,
+        "explanation": "Depreciation (in a floating system) means the currency buys fewer units of other currencies.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Under a floating exchange rate system, what mainly determines the value of a currency?",
+        "options": [
+          "Demand and supply for the currency in the foreign exchange market",
+          "A fixed decision by the government every day",
+          "The number of banks",
+          "The price of gold only"
+        ],
+        "answer": 0,
+        "explanation": "In a floating system the exchange rate moves with demand and supply of the currency. In a fixed system the government or central bank targets a value.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "The exchange rate rises from £1 = $1.25 to £1 = $1.40. By what percentage has the pound appreciated against the dollar?",
+        "options": [
+          "10%",
+          "12%",
+          "15%",
+          "1.5%"
+        ],
+        "answer": 1,
+        "explanation": "(1.40 − 1.25) ÷ 1.25 × 100 = 12%.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "After the exchange rate moves to £1 = $1.40, what does the £400 hotel cost a US tourist, and how does that affect UK tourism?",
+        "options": [
+          "$500; no effect",
+          "$560; it becomes more expensive for US visitors, which may reduce tourist numbers",
+          "$285.71; it increases tourism",
+          "$400; no effect"
+        ],
+        "answer": 1,
+        "explanation": "400 × 1.40 = $560, which is $60 more than before. A stronger pound makes the UK dearer for visitors paying in dollars.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A UK firm sells a machine for £2,000. How does the dollar price change when the rate moves from £1 = $1.25 to £1 = $1.40?",
+        "options": [
+          "From $2,500 to $2,800",
+          "From $2,500 to $2,400",
+          "From $1,600 to $1,428",
+          "No change"
+        ],
+        "answer": 0,
+        "explanation": "2,000 × 1.25 = $2,500. 2,000 × 1.40 = $2,800. A stronger pound makes exports dearer for foreign buyers, which may reduce sales.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A euro is worth ¥160 and falls to ¥144. What is the percentage depreciation of the euro against the yen?",
+        "options": [
+          "10%",
+          "11.1%",
+          "16%",
+          "1.6%"
+        ],
+        "answer": 0,
+        "explanation": "(144 − 160) ÷ 160 × 100 = −10%, a 10% depreciation. Dividing by 144 would wrongly give 11.1%.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "€1 = £0.85. A British shopper buys a jacket priced €120 in Paris. What is the price in pounds?",
+        "options": [
+          "£102",
+          "£141",
+          "£120",
+          "£85"
+        ],
+        "answer": 0,
+        "explanation": "120 × 0.85 = £102.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Using €1 = £0.85, a hotel in London costs £85 a night. What does it cost a visitor paying in euros?",
+        "options": [
+          "€72.25",
+          "€100",
+          "€85",
+          "€10"
+        ],
+        "answer": 1,
+        "explanation": "85 ÷ 0.85 = €100. To convert pounds to euros, divide by the pounds per euro.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A country's currency depreciates. Which effect is most likely in the short run?",
+        "options": [
+          "Imports become more expensive and exports cheaper for foreign buyers",
+          "Imports become cheaper and exports dearer",
+          "No effect on prices",
+          "Exports are banned"
+        ],
+        "answer": 0,
+        "explanation": "A weaker currency buys fewer foreign goods (dearer imports) but makes domestic goods cheaper abroad (cheaper exports).",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A central bank raises interest rates and foreign investors move savings into that country's banks. What is the likely effect on the exchange rate?",
+        "options": [
+          "Appreciation, as demand for the currency rises",
+          "Depreciation",
+          "No change",
+          "The currency disappears"
+        ],
+        "answer": 0,
+        "explanation": "Investors need the currency to deposit savings, increasing demand for it and pushing up its value.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A country's currency depreciates by 10% to help exporters. A critic says 'This will certainly fix our trade deficit.' Which reply is best?",
+        "options": [
+          "The critic is right: depreciation always cures deficits",
+          "Exports become cheaper but imports dearer; the effect depends on how responsive demand is, on time lags and on whether the country relies on imported inputs",
+          "Depreciation always worsens deficits",
+          "The exchange rate does not affect trade"
+        ],
+        "answer": 1,
+        "explanation": "Cheaper exports may increase sales, but dearer imports can raise firms' costs and prices. The overall effect depends on elasticities and time.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A UK firm exports to the US and buys materials from the UK only. The pound appreciates from $1.25 to $1.40. The firm keeps its £2,000 price. Which outcome is likely?",
+        "options": [
+          "US buyers pay $2,800 instead of $2,500, so sales may fall and the firm's competitiveness is reduced",
+          "US buyers pay less, so sales increase",
+          "Nothing changes",
+          "UK costs rise"
+        ],
+        "answer": 0,
+        "explanation": "The foreign-currency price rises by 12% when the pound appreciates. The firm must cut costs or accept fewer sales, unless it lowers the pound price.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Because its currency has depreciated, a country must pay more for imported oil, and fuel prices rise across the economy. Which type of inflation does this cause?",
+        "options": [
+          "Cost-push inflation (imported inflation)",
+          "Demand-pull inflation caused by exports",
+          "Deflation",
+          "Disinflation"
+        ],
+        "answer": 0,
+        "explanation": "Dearer imported raw materials raise firms' costs, which are passed on to consumers, a form of cost-push inflation.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A manufacturer imports half of its parts and exports half of its output. Its home currency depreciates by 10%. Evaluate the effect on the firm.",
+        "options": [
+          "Its exports become cheaper abroad, which may raise sales, but its imported parts become dearer, which raises costs, so the net effect is uncertain",
+          "Only benefits",
+          "Only costs",
+          "No effect at all"
+        ],
+        "answer": 0,
+        "explanation": "Exchange-rate changes have mixed effects on firms that both export and import. A balanced answer weighs both and notes that the net impact depends on the sizes involved.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A US firm imports UK goods worth £80,000. The exchange rate rises from £1 = $1.25 to £1 = $1.40. How much more, in dollars, does the firm have to pay for the same goods?",
+        "options": [
+          "$1,200",
+          "$12,000",
+          "$120,000",
+          "$112,000"
+        ],
+        "answer": 1,
+        "explanation": "Before: 80,000 × 1.25 = $100,000. After: 80,000 × 1.40 = $112,000. The extra cost is $12,000. $112,000 is the new total, not the extra.",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "## What is an exchange rate?\nAn **exchange rate** is the price of one currency in terms of another. If £1 = $1.25, one pound buys 1.25 US dollars. Exchange rates matter because they determine the price of imports and exports, the cost of holidays abroad and the profits of firms that trade internationally.\n\n## Converting currencies\n- To change pounds into dollars, **multiply** by the dollars per pound: £400 × 1.25 = $500.\n- To change dollars into pounds, **divide**: $500 ÷ 1.25 = £400.\n\nSimilarly, if €1 = £0.85, then a €120 jacket costs 120 × 0.85 = £102, and a £85 hotel costs 85 ÷ 0.85 = €100.\n\n## Appreciation and depreciation\nWhen a currency buys more of another currency it **appreciates**. When it buys less, it **depreciates**. If the pound moves from $1.25 to $1.40 it has appreciated by (1.40 − 1.25) ÷ 1.25 = 12%.\n\n## How exchange rates are determined\nIn a **floating** system the value of the currency depends on demand and supply in the foreign exchange market. Demand for a currency rises when foreigners want to buy the country's exports, invest there or save there, particularly if interest rates are high. In a **fixed** system the central bank tries to keep the rate at a target level.\n\n## Effects of changes\n**If the currency appreciates**:\n- Exports become dearer for foreigners (a UK machine at £2,000 rises from $2,500 to $2,800), so sales may fall.\n- Imports become cheaper, helping consumers and firms that import parts, and reducing inflation.\n- Foreign holidays are cheaper for residents, but the country is a dearer destination for tourists.\n\n**If the currency depreciates**:\n- Exports become cheaper abroad and may sell more.\n- Imports become dearer, which can cause cost-push inflation.\n- Foreign holidays are more expensive for residents but the country becomes cheaper for visitors.\n\nA depreciation does not always fix a trade deficit. The result depends on how responsive demand is, how long adjustment takes and how much a country depends on imported inputs.\n\n## Common mistakes\n- Multiplying when you should divide, or the reverse.\n- Using the new rate as the base for percentage change.\n- Saying that a strong currency is always good (exporters may suffer).\n\n## How this is examined\nIn the on-screen exam you might be given exchange rates for two years, a price list for a British firm selling in the US and an extract about a currency falling. You convert prices, calculate a percentage change, explain winners and losers, and evaluate the effect on the trade balance.\n\nExam tip: Write the conversion rule first (multiply or divide) and check that your answer makes sense for the direction of the rate.",
+    "flashcards": [
+      {
+        "front": "Exchange rate",
+        "back": "The price of one currency expressed in terms of another, e.g. £1 = $1.25."
+      },
+      {
+        "front": "Converting £ to $ when £1 = $1.25",
+        "back": "Multiply by 1.25. To convert $ to £, divide by 1.25."
+      },
+      {
+        "front": "Appreciation",
+        "back": "A rise in the value of a currency against another; it buys more foreign currency."
+      },
+      {
+        "front": "Depreciation",
+        "back": "A fall in the value of a currency against another; it buys less foreign currency."
+      },
+      {
+        "front": "Floating exchange rate",
+        "back": "A rate determined by demand and supply in the foreign exchange market, without a government target."
+      },
+      {
+        "front": "Effect of appreciation on exports and imports",
+        "back": "Exports become dearer for foreign buyers; imports become cheaper for domestic buyers."
+      },
+      {
+        "front": "Effect of depreciation on exports and imports",
+        "back": "Exports become cheaper abroad; imports become dearer, which can raise inflation."
+      },
+      {
+        "front": "What can raise demand for a currency?",
+        "back": "Higher exports, foreign investment, tourism and higher interest rates attracting foreign savings."
+      },
+      {
+        "front": "Percentage change in an exchange rate",
+        "back": "(New rate − old rate) ÷ old rate × 100."
+      }
+    ]
+  },
+  {
+    "subject": "economics",
+    "grade": 5,
+    "topic": "International Trade",
+    "subTopic": "Globalisation and Trade Blocs",
+    "questions": [
+      {
+        "content": "What is globalisation?",
+        "options": [
+          "Increasing connections between countries through trade, investment, people and information",
+          "A decline in international trade",
+          "A tax on foreign goods",
+          "The growth of one country's economy only"
+        ],
+        "answer": 0,
+        "explanation": "Globalisation is the growing integration of the world economy: more trade, investment, migration and shared technology and ideas.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What is a transnational corporation (TNC)?",
+        "options": [
+          "A business that operates in more than one country",
+          "A business that only sells locally",
+          "A government-run bank",
+          "A non-profit school"
+        ],
+        "answer": 0,
+        "explanation": "TNCs have operations (factories, offices, shops) in several countries and are a main driver of globalisation.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What is a free trade area?",
+        "options": [
+          "Countries agree to remove tariffs on trade between themselves, but each sets its own tariffs on outsiders",
+          "Countries share a currency",
+          "Countries ban all imports",
+          "Countries share one government"
+        ],
+        "answer": 0,
+        "explanation": "In a free trade area members trade without tariffs among themselves but keep separate trade policies for non-members.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What extra feature does a customs union have compared with a free trade area?",
+        "options": [
+          "A common external tariff on goods from non-members",
+          "No trade between members",
+          "A single government",
+          "Free movement of money only"
+        ],
+        "answer": 0,
+        "explanation": "A customs union has free trade among members and a shared tariff for outsiders.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which organisation, founded in 1995, sets rules for international trade and helps settle trade disputes?",
+        "options": [
+          "The World Trade Organization (WTO)",
+          "The World Health Organization",
+          "FIFA",
+          "OPEC"
+        ],
+        "answer": 0,
+        "explanation": "The WTO promotes freer trade by agreeing rules and offering a way to settle disputes between members.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A country has GDP of $1,000 billion, exports of $300 billion and imports of $250 billion. What is its trade openness, measured as (exports + imports) ÷ GDP?",
+        "options": [
+          "5%",
+          "30%",
+          "55%",
+          "125%"
+        ],
+        "answer": 2,
+        "explanation": "(300 + 250) ÷ 1,000 × 100 = 55%. A high figure shows the economy relies heavily on trade.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A trade bloc's members export $150 billion in total, of which $60 billion goes to other members. What share of exports stays within the bloc?",
+        "options": [
+          "25%",
+          "40%",
+          "60%",
+          "90%"
+        ],
+        "answer": 1,
+        "explanation": "60 ÷ 150 × 100 = 40%.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which is a likely benefit of belonging to a trade bloc?",
+        "options": [
+          "Tariff-free access to a large market of members",
+          "Complete protection from every kind of competition",
+          "Higher tariffs on partner countries",
+          "No need to follow any rules"
+        ],
+        "answer": 0,
+        "explanation": "Removing tariffs among members widens the market, encourages specialisation and economies of scale, and can lower prices.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which is a possible cost of joining a trade bloc?",
+        "options": [
+          "Members may buy from a higher-cost partner because outside goods face a tariff",
+          "Lower prices for all goods",
+          "More competition, leading to higher costs",
+          "The ability to ignore all rules"
+        ],
+        "answer": 0,
+        "explanation": "Trade diversion can occur if consumers switch from cheaper non-member suppliers to dearer members because of tariffs. Members may also lose some independence in trade policy.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A clothing brand closes its factory in a high-wage country and opens one in a lower-wage country. What is this called?",
+        "options": [
+          "Offshoring",
+          "Protectionism",
+          "Dumping",
+          "Austerity"
+        ],
+        "answer": 0,
+        "explanation": "Offshoring moves production abroad, usually to cut costs. It reduces jobs at home in that industry and may create jobs abroad.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which statement best describes a benefit of globalisation for consumers?",
+        "options": [
+          "Wider choice and often lower prices",
+          "Higher prices on all goods",
+          "Fewer products available",
+          "Less information about products"
+        ],
+        "answer": 0,
+        "explanation": "Competition and trade increase variety and can lower prices.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A tiny local shop closes after a global supermarket chain opens nearby. Which cost of globalisation does this illustrate?",
+        "options": [
+          "Increased competition, which may drive small local firms out of business",
+          "Higher tariffs",
+          "A fall in the exchange rate",
+          "A shortage of workers"
+        ],
+        "answer": 0,
+        "explanation": "Large multinational firms can undercut smaller firms using economies of scale, so small businesses may close.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A car company based in one country builds a new factory in another country. What is this called?",
+        "options": [
+          "Foreign direct investment (FDI)",
+          "A quota",
+          "A tariff",
+          "A subsidy"
+        ],
+        "answer": 0,
+        "explanation": "FDI is investment by a firm in physical operations such as factories or shops in a foreign country. It is a key feature of globalisation.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A developing country welcomes a TNC that builds a factory employing 5,000 local workers. Evaluate this.",
+        "options": [
+          "It brings jobs, investment, skills and tax revenue, but profits may leave the country, wages may be low and local firms may struggle",
+          "It has only benefits",
+          "It has only costs",
+          "It has no effect"
+        ],
+        "answer": 0,
+        "explanation": "Foreign direct investment can boost growth but there are trade-offs. Strong answers weigh jobs and income against profit repatriation, working conditions and environmental effects.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Country A joins a customs union. Before, it imported cars from Japan at a tariff-free price of $20,000. Now Japan's cars face a common 10% external tariff, so it buys cars from a member country at $21,000. What is this effect called, and what happens?",
+        "options": [
+          "Trade diversion; consumers pay more because imports switch from a lower-cost outsider to a higher-cost member",
+          "Trade creation; consumers pay less",
+          "Dumping; prices collapse",
+          "Quota; supply falls to zero"
+        ],
+        "answer": 0,
+        "explanation": "With the 10% tariff Japan's cars would cost $22,000, so buyers switch to the member's $21,000 cars. Imports shift from a cheaper source to a dearer one: trade diversion.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A report states: 'Because trade made up 55% of GDP in Country A and 25% in Country B, Country A must be richer than Country B.' Which is the best criticism?",
+        "options": [
+          "The claim is correct",
+          "Trade openness measures reliance on trade, not income level or wellbeing, so no conclusion about wealth follows from it",
+          "55% is lower than 25%",
+          "Trade and GDP are unrelated"
+        ],
+        "answer": 1,
+        "explanation": "A high ratio of trade to GDP shows how dependent an economy is on trade. Small countries are often highly open, even if they are not wealthy.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Some people argue that globalisation widens inequality between and within countries. Which evidence would best support this?",
+        "options": [
+          "Skilled workers' wages and profits rise while low-skilled workers in industries moved abroad lose jobs",
+          "Everyone's income rises by the same percentage",
+          "Prices fall for all goods and wages rise equally",
+          "Trade is falling"
+        ],
+        "answer": 0,
+        "explanation": "To support the claim you need evidence that gains are unevenly shared. Rising pay at the top and job losses for others would show that.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A trade bloc agrees to remove tariffs among its members and add a common external tariff of 10%. A non-member exporter says 'This bloc is purely good for the world economy.' What is a balanced judgement?",
+        "options": [
+          "It is correct: blocs always raise world welfare",
+          "Blocs create trade among members and bigger markets but may divert trade from efficient outsiders, so the effect on the world economy depends on which effect is larger",
+          "Blocs always reduce trade",
+          "Blocs have no effect on outsiders"
+        ],
+        "answer": 1,
+        "explanation": "Evaluation weighs trade creation within the bloc against diversion away from outsiders, and notes it depends on the size of each effect.",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "## What is globalisation?\n**Globalisation** is the increasing connection of economies, businesses and people around the world. It happens through the growth of international trade, flows of money and investment, movement of people, and the spread of technology and ideas. Cheaper transport, the internet and lower trade barriers have all sped it up.\n\n## Drivers\n- **Transnational corporations (TNCs)** operate in many countries, building factories, buying inputs and selling products across borders.\n- **Trade agreements** that lower tariffs and quotas. The **World Trade Organization (WTO)**, founded in 1995, sets rules for trade and helps settle disputes.\n- **Technology** in transport, containers, communications and finance.\n\n## Trade blocs\nA **trade bloc** is a group of countries that agree to reduce trade barriers among themselves.\n- **Free trade area**: no tariffs between members, but each member sets its own tariffs on outsiders.\n- **Customs union**: free trade between members and a common external tariff on non-members.\n- **Single market**: also allows free movement of capital, services and people between members.\n\nSeveral regional blocs exist around the world, such as the European Union's single market, ASEAN in Southeast Asia and the agreement between the USA, Mexico and Canada.\n\n**Benefits**: bigger markets, specialisation and economies of scale, lower prices, more competition and investment. **Costs**: trade diversion, loss of some policy independence, and adjustment costs for industries that lose protection.\n\nTrade diversion example: before joining, Country A buys cars from Japan at $20,000. A common external tariff of 10% makes them $22,000, so buyers switch to a member's cars at $21,000. Imports move from a cheaper to a dearer source. By contrast, **trade creation** occurs when cheaper member goods replace expensive domestic ones.\n\n## Measuring openness\nTrade openness = (exports + imports) ÷ GDP × 100. With exports of $300bn, imports of $250bn and GDP of $1,000bn the figure is 55%. A higher figure means more dependence on trade.\n\n## Benefits and costs of globalisation\n**Benefits**: more choice and often lower prices, more jobs from foreign investment, transfer of technology, larger markets for firms and faster growth in many countries.\n**Costs**: job losses when firms offshore production, closures of small firms facing global competition, pressure on wages and workers' rights, environmental damage from production and transport, and widening inequality if gains are unevenly shared. Countries can also become exposed to shocks that spread across borders.\n\n## Common mistakes\n- Mixing up free trade areas and customs unions.\n- Saying globalisation only has positive or only negative effects.\n- Interpreting trade openness as wealth.\n\n## How this is examined\nIn the on-screen exam you could be given data on a country's exports, imports and GDP, plus an extract about a trade agreement or a factory moving abroad. You calculate openness or shares, explain who gains and loses, and evaluate the agreement or the TNC's effects with a judgement.\n\nExam tip: For any globalisation judgement, name winners and losers, give evidence from the source and say whether the long-run benefits outweigh the costs.",
+    "flashcards": [
+      {
+        "front": "Globalisation",
+        "back": "The growing integration of economies and societies through trade, investment, migration, technology and ideas."
+      },
+      {
+        "front": "Transnational corporation (TNC)",
+        "back": "A firm that has operations, such as factories or offices, in more than one country."
+      },
+      {
+        "front": "Free trade area vs customs union",
+        "back": "Both remove tariffs between members. A customs union also has a common external tariff on non-members."
+      },
+      {
+        "front": "World Trade Organization (WTO)",
+        "back": "Founded in 1995. It sets trade rules and helps settle disputes between member countries."
+      },
+      {
+        "front": "Trade diversion",
+        "back": "Trade switches from a lower-cost non-member to a higher-cost member because of the bloc's external tariff."
+      },
+      {
+        "front": "Trade creation",
+        "back": "Trade rises as cheaper goods from member countries replace more expensive domestic production."
+      },
+      {
+        "front": "Offshoring",
+        "back": "Moving production or services to another country, usually to reduce costs."
+      },
+      {
+        "front": "Trade openness formula",
+        "back": "(Exports + imports) ÷ GDP × 100. Shows how dependent an economy is on trade."
+      },
+      {
+        "front": "Two costs of globalisation",
+        "back": "Job losses in industries that move abroad; closure of small firms; inequality; environmental damage; exposure to global shocks."
+      }
+    ]
+  }
+]

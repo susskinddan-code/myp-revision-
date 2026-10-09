@@ -1,0 +1,791 @@
+[
+  {
+    "subject": "economics",
+    "grade": 5,
+    "topic": "Personal Finance and Economics Exam Skills",
+    "subTopic": "Money, Banking and Interest",
+    "questions": [
+      {
+        "content": "Which of these is a function of money?",
+        "options": [
+          "A medium of exchange",
+          "A way to avoid all prices",
+          "A way to make goods free",
+          "A replacement for work"
+        ],
+        "answer": 0,
+        "explanation": "Money's functions are a medium of exchange, a store of value, a unit of account and a standard for deferred payments (debts).",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What is interest?",
+        "options": [
+          "The price of borrowing money, or the reward for saving it",
+          "A tax on shopping",
+          "A fee for opening a bank",
+          "A government subsidy"
+        ],
+        "answer": 0,
+        "explanation": "Borrowers pay interest to lenders. Savers earn interest from the bank for letting it use their money.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What is the main role of a commercial bank?",
+        "options": [
+          "To accept deposits and lend money to customers",
+          "To set the base interest rate",
+          "To print the country's notes",
+          "To collect taxes"
+        ],
+        "answer": 0,
+        "explanation": "Commercial banks take deposits from savers and lend to households and firms, earning a profit from the difference in interest rates. The central bank sets the base rate.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A saver deposits £2,000 at 4% simple interest for 3 years. How much interest is earned in total?",
+        "options": [
+          "£80",
+          "£240",
+          "£2,240",
+          "£250"
+        ],
+        "answer": 1,
+        "explanation": "Simple interest = 2,000 × 0.04 × 3 = £240. £2,240 would be the total balance, not the interest.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Why is barter (swapping goods directly) inconvenient compared with using money?",
+        "options": [
+          "You need to find someone who has what you want and wants what you have",
+          "Barter is illegal",
+          "Barter has too many prices",
+          "Barter needs banks"
+        ],
+        "answer": 0,
+        "explanation": "Barter requires a 'double coincidence of wants'. Money solves this because everyone accepts it as payment.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "£1,000 is saved at 5% compound interest per year. What is the balance after 3 years (to the nearest penny)?",
+        "options": [
+          "£1,150.00",
+          "£1,157.63",
+          "£1,165.00",
+          "£1,050.00"
+        ],
+        "answer": 1,
+        "explanation": "1,000 × 1.05³ = £1,157.63. Compound interest is earned on previous interest as well, so it exceeds simple interest (£1,150).",
+        "difficulty": "medium"
+      },
+      {
+        "content": "£1,000 is saved at 5% compound interest. What is the balance after 2 years?",
+        "options": [
+          "£1,100.00",
+          "£1,102.50",
+          "£1,105.00",
+          "£1,125.00"
+        ],
+        "answer": 1,
+        "explanation": "Year 1: £1,050. Year 2: 1,050 × 1.05 = £1,102.50. The extra £2.50 compared with simple interest comes from interest earned on interest.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A loan of £1,200 is repaid over 12 months with a flat interest charge of 10% of the amount borrowed. What is the monthly repayment?",
+        "options": [
+          "£100",
+          "£110",
+          "£120",
+          "£132"
+        ],
+        "answer": 1,
+        "explanation": "Interest = 10% of £1,200 = £120. Total repayment = £1,320. Monthly = 1,320 ÷ 12 = £110.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A savings account pays 3% interest, but inflation is 4%. What happens to the purchasing power of savings?",
+        "options": [
+          "It rises",
+          "It falls by about 1%",
+          "It stays the same",
+          "It doubles"
+        ],
+        "answer": 1,
+        "explanation": "Real interest ≈ 3% − 4% = −1%. Prices grow faster than the balance, so the savings buy less.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Why do lenders usually charge a higher interest rate to a borrower who is more likely to fail to repay?",
+        "options": [
+          "To compensate for the higher risk of losing the money",
+          "Because banks dislike the borrower",
+          "Because the government requires it",
+          "To reduce inflation"
+        ],
+        "answer": 0,
+        "explanation": "Interest rates reflect risk. Riskier borrowers pay more because the chance of default is greater.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "What does APR (annual percentage rate) on a loan show?",
+        "options": [
+          "The yearly cost of borrowing, including interest and some fees, as a percentage",
+          "The bank's profit",
+          "The inflation rate",
+          "The savings rate"
+        ],
+        "answer": 0,
+        "explanation": "APR lets borrowers compare the yearly cost of different loans. A lower APR is cheaper.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which statement describes the central bank's role?",
+        "options": [
+          "It sets the base interest rate and supervises the banking system",
+          "It sells goods to the public",
+          "It lends only to families",
+          "It decides each person's wages"
+        ],
+        "answer": 0,
+        "explanation": "The central bank manages monetary policy, issues currency and helps keep the banking system stable, acting as a lender of last resort to banks in difficulty.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A credit card debt of £500 charges 24% interest a year (simple interest for one year). How much interest is charged?",
+        "options": [
+          "£12",
+          "£24",
+          "£120",
+          "£240"
+        ],
+        "answer": 2,
+        "explanation": "500 × 0.24 = £120. Always convert the percentage to a decimal before multiplying.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A saver has £1,000 for 10 years at 5% compound interest, and another has £1,000 at 5% simple interest for 10 years. What is the difference in their final balances, to the nearest pound?",
+        "options": [
+          "£129",
+          "£50",
+          "£500",
+          "£629"
+        ],
+        "answer": 0,
+        "explanation": "Compound: 1,000 × 1.05¹⁰ ≈ £1,628.89. Simple: 1,000 + 10 × 50 = £1,500. Difference ≈ £128.89, about £129.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Account A pays 4% simple interest for 5 years. Account B pays 3.8% compound interest for 5 years. Both start with £1,000. Which gives more money, and by how much (to the nearest pound)?",
+        "options": [
+          "A by £5",
+          "B by £5",
+          "A by £50",
+          "They are the same"
+        ],
+        "answer": 1,
+        "explanation": "A: 1,000 + 5 × 40 = £1,200. B: 1,000 × 1.038⁵ ≈ £1,205. B is higher by about £5 even though the rate looks lower, because interest compounds.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A student says 'A credit card at 24% a year is the same as a bank loan at 24% a year, so there is no need to compare them.' What is the best criticism?",
+        "options": [
+          "Fees, how often interest is added and how long the money is borrowed also matter, so the APR and terms should be compared",
+          "They are always identical",
+          "Credit cards are interest-free forever",
+          "Loans never have a rate"
+        ],
+        "answer": 0,
+        "explanation": "Two products with the same headline rate can differ in total cost because of charges, compounding frequency and repayment terms. That is why APR and the full terms are compared.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A family has £1,500 in a bank account paying 2% interest while inflation is 3%. They also owe £500 on a credit card charging 24% interest a year. What is the best advice, and why?",
+        "options": [
+          "Use the savings to repay the card, because the 24% cost of the debt is far higher than the interest earned on savings",
+          "Keep the savings and the debt, because savings are always better",
+          "Borrow more to save more",
+          "Ignore the card because interest is small"
+        ],
+        "answer": 0,
+        "explanation": "The card costs about £120 a year in interest (24% of £500) while the savings earn about £30 (2% of £1,500) and lose value in real terms. Repaying the debt gives a much better return.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A bank offers 6% compound interest a year for 3 years on £1,000. A friend says the total will be exactly £1,180. What is the best response?",
+        "options": [
+          "The friend used simple interest; compound interest gives about £1,191",
+          "The friend is right",
+          "The balance will be £1,060",
+          "The balance will be £3,000"
+        ],
+        "answer": 0,
+        "explanation": "Simple interest would give 1,000 + 3 × 60 = £1,180. With compounding the balance is 1,000 × 1.06³ ≈ £1,191.02.",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "## What is money?\nMoney is anything that people accept in payment. It has four main functions:\n- **Medium of exchange**: used to buy and sell goods, avoiding the problem of barter, where you must find someone who wants what you have and has what you want.\n- **Store of value**: you can save it and use it later, although inflation reduces its value.\n- **Unit of account**: prices are quoted in money so goods can be compared.\n- **Standard of deferred payment**: debts are agreed and repaid in money.\n\n## Banks\n**Commercial banks** take deposits from savers and lend to households and firms. They earn a profit because they charge a higher interest rate on loans than they pay on deposits. They also provide payment services, accounts and advice. The **central bank** sets the base interest rate, issues currency, supervises banks and acts as a lender of last resort when banks are in trouble.\n\n## Interest\n**Interest** is the price of borrowing and the reward for saving.\n- **Simple interest** is calculated on the original amount only: interest = principal × rate × time. £2,000 at 4% for 3 years earns 2,000 × 0.04 × 3 = £240.\n- **Compound interest** is calculated on the original amount plus interest already earned: balance = principal × (1 + rate)ⁿ. £1,000 at 5% for 3 years becomes 1,000 × 1.05³ = £1,157.63, compared with £1,150 under simple interest. Over ten years the gap grows: £1,628.89 compared with £1,500.\n\nThe **APR** (annual percentage rate) shows the yearly cost of borrowing, including some charges, so loans can be compared. A loan of £1,200 with a flat 10% charge costs £120, so the total repaid is £1,320, or £110 a month for 12 months. Loans are dearer when the borrower is riskier or when the lender has no security.\n\n## Real interest and inflation\n**Real interest rate ≈ nominal rate − inflation.** A saver on 3% when inflation is 4% loses about 1% of purchasing power.\n\n## Managing money\n- Save for emergencies and goals; choose a rate above inflation where possible.\n- Pay off high-interest debts such as credit cards first. Owing £500 at 24% costs about £120 a year, more than the interest earned on most savings.\n- Spread risk. Investing offers the chance of higher returns but you may lose money.\n- Keep a budget: income, essential spending, savings.\n\n## Common mistakes\n- Using simple interest when the question says compound.\n- Forgetting to add the interest to the principal for the final balance.\n- Ignoring inflation when judging whether savings are growing.\n\n## How this is examined\nIn the on-screen exam you may be given a short scenario about a person choosing between two savings accounts or between loans. You calculate interest or balances, compare the offers, consider risk and inflation, and justify a recommendation.\n\nExam tip: Show the formula, calculate each option, then compare using real figures and mention one risk or assumption in your recommendation.",
+    "flashcards": [
+      {
+        "front": "Four functions of money",
+        "back": "Medium of exchange, store of value, unit of account and standard of deferred payment."
+      },
+      {
+        "front": "Simple interest formula",
+        "back": "Interest = principal × rate × time. Interest is earned only on the original amount."
+      },
+      {
+        "front": "Compound interest formula",
+        "back": "Balance = principal × (1 + rate)ⁿ, where n is the number of years. Interest is earned on interest too."
+      },
+      {
+        "front": "Role of a commercial bank",
+        "back": "Takes deposits from savers and lends to borrowers, earning profit from the gap between lending and deposit rates."
+      },
+      {
+        "front": "Role of the central bank",
+        "back": "Sets the base interest rate, issues currency, supervises banks and acts as lender of last resort."
+      },
+      {
+        "front": "APR",
+        "back": "Annual percentage rate: the yearly cost of borrowing as a percentage, used to compare loans."
+      },
+      {
+        "front": "Real interest rate",
+        "back": "Approximately the nominal interest rate minus inflation. If negative, savings lose purchasing power."
+      },
+      {
+        "front": "Why do riskier borrowers pay higher interest?",
+        "back": "The lender faces a greater chance of not being repaid, so charges more to compensate."
+      },
+      {
+        "front": "Which debts should be repaid first?",
+        "back": "Those with the highest interest rates, such as credit cards, because they cost the most over time."
+      }
+    ]
+  },
+  {
+    "subject": "economics",
+    "grade": 5,
+    "topic": "Personal Finance and Economics Exam Skills",
+    "subTopic": "Data Skills and Calculations in Economics",
+    "questions": [
+      {
+        "content": "A shop's weekly sales rise from 80 to 92 items. What is the percentage increase?",
+        "options": [
+          "12%",
+          "13%",
+          "15%",
+          "86%"
+        ],
+        "answer": 2,
+        "explanation": "(92 − 80) ÷ 80 × 100 = 15%. Dividing by 92 would give the wrong base.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Five towns have unemployment rates (%) of 12, 14, 15, 18 and 41. What is the median?",
+        "options": [
+          "14",
+          "15",
+          "18",
+          "20"
+        ],
+        "answer": 1,
+        "explanation": "The values are already in order; the middle (third) value is 15.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "For the same five values (12, 14, 15, 18, 41), what is the mean?",
+        "options": [
+          "15",
+          "18",
+          "20",
+          "100"
+        ],
+        "answer": 2,
+        "explanation": "12 + 14 + 15 + 18 + 41 = 100, and 100 ÷ 5 = 20.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which type of graph is best for showing how inflation changed each year for ten years?",
+        "options": [
+          "A line graph",
+          "A pie chart",
+          "A map",
+          "A scatter plot of random numbers"
+        ],
+        "answer": 0,
+        "explanation": "Line graphs show trends over time. Pie charts show shares of a whole at one point in time.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What does the range of a data set measure?",
+        "options": [
+          "The difference between the largest and smallest values",
+          "The middle value",
+          "The most common value",
+          "The total"
+        ],
+        "answer": 0,
+        "explanation": "Range = highest − lowest. It shows how spread out the data is.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Price elasticity of demand (PED) is found by dividing the percentage change in quantity demanded by the percentage change in price. When a price rises by 10%, quantity demanded falls by 15%. What is the PED (ignoring the sign), and what does it mean?",
+        "options": [
+          "1.5; demand is elastic",
+          "0.67; demand is inelastic",
+          "15; demand is perfectly elastic",
+          "1.5; demand is inelastic"
+        ],
+        "answer": 0,
+        "explanation": "15 ÷ 10 = 1.5. A value above 1 means quantity falls by a bigger percentage than price rose: demand is elastic.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A price index has a base year value of 100. The price of a basket was £250 in the base year and is £275 now. What is the index value now?",
+        "options": [
+          "110",
+          "125",
+          "10",
+          "275"
+        ],
+        "answer": 0,
+        "explanation": "275 ÷ 250 × 100 = 110, which means prices are 10% higher than in the base year.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "The unemployment rate rises from 5% to 7%. Which statement is correct?",
+        "options": [
+          "It rose by 2 percentage points, which is a 40% increase",
+          "It rose by 2%",
+          "It rose by 40 percentage points",
+          "It rose by 20%"
+        ],
+        "answer": 0,
+        "explanation": "7 − 5 = 2 percentage points. As a percentage change: 2 ÷ 5 × 100 = 40%. These are different ways to describe the change.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "In the data 12, 14, 15, 18 and 41, why might the median be a better summary than the mean?",
+        "options": [
+          "The extreme value 41 pulls the mean upwards",
+          "The median is always larger",
+          "The mean cannot be calculated",
+          "There is no difference"
+        ],
+        "answer": 0,
+        "explanation": "An outlier such as 41 raises the mean to 20, which is higher than most values. The median (15) is less affected.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A graph of a company's profit has a vertical axis that starts at 95 instead of 0, making a small rise look huge. What is the problem?",
+        "options": [
+          "A truncated axis can exaggerate changes and mislead readers",
+          "The axis should be numbered backwards",
+          "The graph is always accurate",
+          "Graphs cannot show profit"
+        ],
+        "answer": 0,
+        "explanation": "Not starting from zero (without saying so) makes small differences look big. Always check the axis scale.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A study finds that towns with more ice-cream sales also have more sunburn. What is the best conclusion?",
+        "options": [
+          "Ice cream causes sunburn",
+          "There is a correlation, but a third factor such as hot weather probably explains both",
+          "Sunburn causes ice cream sales",
+          "The data must be wrong"
+        ],
+        "answer": 1,
+        "explanation": "Correlation does not prove causation. Hot sunny weather increases both ice-cream sales and sunburn.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A survey about public transport asks only people waiting at one train station. Why might the results be unreliable for the whole city?",
+        "options": [
+          "The sample is biased because it only includes train users",
+          "The sample is too random",
+          "Surveys are never useful",
+          "Stations have no people"
+        ],
+        "answer": 0,
+        "explanation": "A sample should represent the whole population. Asking only people at a train station excludes others, such as drivers and cyclists.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A shop's daily sales (items) over seven days are 3, 5, 5, 7, 9, 5 and 2. What is the mode?",
+        "options": [
+          "5",
+          "3",
+          "7",
+          "5.1"
+        ],
+        "answer": 0,
+        "explanation": "The mode is the most frequent value. The number 5 appears three times. The mean is about 5.1 and the median is also 5.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A product sells 100 units at £10 each. The price rises 10% to £11 and sales fall 15% to 85 units. How does the total revenue change?",
+        "options": [
+          "It falls by 6.5%",
+          "It rises by 10%",
+          "It stays at £1,000",
+          "It falls by 15%"
+        ],
+        "answer": 0,
+        "explanation": "Before: 100 × 10 = £1,000. After: 85 × 11 = £935. Change = (935 − 1,000) ÷ 1,000 × 100 = −6.5%. Demand is elastic (PED 1.5), so the price rise cuts revenue.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A firm's nominal sales grew 6% in a year in which prices rose 4%. A manager says the firm sold 6% more goods. Which statement is the best evaluation?",
+        "options": [
+          "The claim is wrong: after allowing for the 4% rise in prices, the volume of sales rose by only about 2%",
+          "The claim is right",
+          "Sales volume fell",
+          "Nominal figures include no price changes"
+        ],
+        "answer": 0,
+        "explanation": "Real growth ≈ 6% − 4% = 2% (1.06 ÷ 1.04 ≈ 1.019). Using nominal figures overstates the rise in goods sold.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A report claims that a new tax caused unemployment to fall from 8% to 6% in one year. The data come from one region over one year and no other factors are discussed. What is the strongest criticism?",
+        "options": [
+          "There is no evidence of causation: other factors (growth, seasonal hiring, people leaving the labour force) may explain the change, and the sample is small",
+          "The data are perfect",
+          "A fall of 2 points cannot occur",
+          "Taxes cannot affect anything"
+        ],
+        "answer": 0,
+        "explanation": "To judge cause and effect you need more regions, more years and controls for other factors. The conclusion should be cautious.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Two shops' prices are shown by indexes. Shop A's index rises from 100 to 110 over two years. Shop B's rises from 100 to 108 in the first year and then by 4% in the second year. Which shop raised prices more over the two years?",
+        "options": [
+          "Shop B, whose index is about 112.3",
+          "Shop A, whose index is 110",
+          "They raised prices equally",
+          "Neither raised prices"
+        ],
+        "answer": 0,
+        "explanation": "B: 108 × 1.04 = 112.32. A: 110. So B's prices rose more overall (12.3% against 10%).",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A town's population grows 3% and its total GDP grows 5%. A student says 'GDP per person rose 8%.' What is the right response?",
+        "options": [
+          "The student is wrong: per-person growth is about 2% (1.05 ÷ 1.03 ≈ 1.019), not the sum of the growth rates",
+          "The student is right",
+          "GDP per person fell",
+          "GDP per person rose 15%"
+        ],
+        "answer": 0,
+        "explanation": "Per-person output is GDP divided by population, so you compare growth rates by division (or approximately subtract), not add them.",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "## Why data skills matter\nEconomics uses numbers to describe how markets and economies behave. In an exam you will be given data in text, tables or graphs, and asked to select the relevant figures, calculate something, interpret the result and comment on its reliability. The calculations are not hard but the details matter: the right base, the right units and the right wording.\n\n## Essential calculations\n- **Percentage change** = (new − old) ÷ old × 100. From 80 to 92 is 12 ÷ 80 = 15%.\n- **Percentage points** are the simple difference between two percentages. A rise from 5% to 7% is 2 percentage points but a 40% increase (2 ÷ 5).\n- **Mean** = total ÷ number of values. **Median** = middle value when ordered. **Mode** = most frequent value. **Range** = highest − lowest. With 12, 14, 15, 18, 41 the mean is 20 and the median is 15. The outlier of 41 pulls the mean upwards, so the median is a better typical value.\n- **Index numbers**: choose a base year equal to 100. If a basket cost £250 in the base year and £275 now, the index is 275 ÷ 250 × 100 = 110.\n- **Price elasticity of demand (PED)** = % change in quantity demanded ÷ % change in price. If price rises 10% and quantity falls 15%, PED = 1.5, which is elastic. If it is below 1, it is inelastic.\n- **Revenue** = price × quantity. At £10 and 100 units revenue is £1,000. After a price rise to £11 and sales of 85, revenue is £935, a 6.5% fall.\n- **Real values** remove inflation. Real growth ≈ nominal growth − inflation. Per-person values divide by population.\n\n## Choosing and reading graphs\n- Line graphs show change over time.\n- Bar charts compare categories.\n- Pie charts show shares of a total.\n- Scatter graphs show a possible relationship between two variables.\nAlways check titles, units and scales. A vertical axis that does not start at zero can exaggerate changes.\n\n## Reliability and limitations\n- **Correlation is not causation.** Two things may move together because of a third factor or by chance.\n- **Sample bias**: a survey of people in only one place or group may not represent everyone.\n- **Averages hide differences** such as inequality between groups.\n- **Time period**: one year of data may not show a trend.\n- **Rounding**: round only at the end and state the precision you use.\n- **Assumptions**: say what you have assumed, such as 'other factors stay the same'.\n\n## Common mistakes\n- Using the new value as the base in percentage change.\n- Confusing percentage points and percent.\n- Adding growth rates instead of dividing or subtracting when finding real or per-person growth.\n- Forgetting units.\n\n## How this is examined\nIn the on-screen exam, questions build up: first extract a figure from a table, then calculate a change, then explain what it shows, and finally comment on accuracy and limits or judge a claim made in a news extract.\n\nExam tip: Write the formula, substitute the numbers from the stimulus, give the answer with units and add one sentence on what it means or how reliable it is.",
+    "flashcards": [
+      {
+        "front": "Percentage change formula",
+        "back": "(New value − old value) ÷ old value × 100."
+      },
+      {
+        "front": "Percentage points vs percent",
+        "back": "Percentage points are the simple difference between two percentages. Percent change compares the change with the starting value."
+      },
+      {
+        "front": "Mean, median, mode, range",
+        "back": "Mean: total ÷ count. Median: middle value. Mode: most common. Range: highest − lowest."
+      },
+      {
+        "front": "When is the median better than the mean?",
+        "back": "When there are extreme values (outliers) that pull the mean away from the typical value."
+      },
+      {
+        "front": "Index number formula",
+        "back": "(Current value ÷ base-year value) × 100. The base year equals 100."
+      },
+      {
+        "front": "Price elasticity of demand (PED)",
+        "back": "% change in quantity demanded ÷ % change in price. Above 1 is elastic; below 1 is inelastic."
+      },
+      {
+        "front": "Revenue formula",
+        "back": "Revenue = price × quantity sold."
+      },
+      {
+        "front": "Correlation vs causation",
+        "back": "Two variables moving together does not prove one causes the other; a third factor or chance may explain it."
+      },
+      {
+        "front": "Three ways data can be misleading",
+        "back": "Truncated axes, biased samples, hidden averages or outliers, short time periods, mixing real and nominal values."
+      }
+    ]
+  },
+  {
+    "subject": "economics",
+    "grade": 5,
+    "topic": "Personal Finance and Economics Exam Skills",
+    "subTopic": "Exam Technique and Using the Criteria",
+    "questions": [
+      {
+        "content": "In MYP Individuals and Societies, which criterion assesses 'Knowing and understanding'?",
+        "options": [
+          "Criterion A",
+          "Criterion B",
+          "Criterion C",
+          "Criterion D"
+        ],
+        "answer": 0,
+        "explanation": "The four I&S criteria are A: Knowing and understanding, B: Investigating, C: Communicating and D: Thinking critically.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which criterion in I&S focuses on evaluating sources and developing arguments, a skill called 'Thinking critically'?",
+        "options": [
+          "Criterion A",
+          "Criterion B",
+          "Criterion C",
+          "Criterion D"
+        ],
+        "answer": 3,
+        "explanation": "Criterion D, Thinking critically, includes analysing concepts and evidence, evaluating sources and synthesising information to reach a reasoned conclusion.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What does the command term 'state' ask you to do?",
+        "options": [
+          "Give a brief answer without explanation",
+          "Write a long essay",
+          "Weigh up strengths and limitations",
+          "Compare two things in detail"
+        ],
+        "answer": 0,
+        "explanation": "State means giving a specific name, value or short answer. No explanation is required.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What does the command term 'explain' ask you to do?",
+        "options": [
+          "Give reasons or causes in a detailed account",
+          "Only list facts",
+          "Give one-word answers",
+          "Guess the answer"
+        ],
+        "answer": 0,
+        "explanation": "Explain means a detailed account including reasons or causes. Use words such as 'because' or 'this leads to'.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "How many levels of achievement are there for each MYP criterion?",
+        "options": [
+          "Levels 1-8",
+          "Levels 1-5",
+          "Levels 1-10",
+          "Levels 1-4"
+        ],
+        "answer": 0,
+        "explanation": "Each MYP criterion is judged on Levels 1-8, with higher levels showing deeper knowledge, analysis and judgement.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A student gets Level 7 on Criterion A, Level 6 on B, Level 5 on C and Level 6 on D. What is the total out of the possible 32?",
+        "options": [
+          "22",
+          "24",
+          "26",
+          "28"
+        ],
+        "answer": 1,
+        "explanation": "7 + 6 + 5 + 6 = 24. The maximum is 4 criteria × 8 levels = 32.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A question says 'Evaluate the impact of a minimum wage on a labour market.' Which answer best meets the command term?",
+        "options": [
+          "It weighs benefits and drawbacks, uses evidence and reaches a judgement",
+          "It lists three facts about wages",
+          "It defines the word 'wage'",
+          "It describes only the benefits"
+        ],
+        "answer": 0,
+        "explanation": "Evaluate means to weigh strengths and limitations, using evidence, and to reach a reasoned judgement.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A question says 'Describe the trend in the data.' What is the best way to respond?",
+        "options": [
+          "Say what the pattern is, quoting figures and years from the data",
+          "Explain the causes in detail",
+          "Give your opinion only",
+          "Ignore the numbers"
+        ],
+        "answer": 0,
+        "explanation": "Describe means a detailed account of what is happening, so refer to the specific numbers, direction and any change in the pattern.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which approach is best for a longer 'discuss' question on government intervention?",
+        "options": [
+          "Present arguments on more than one side, use evidence from the stimulus and give a supported conclusion",
+          "Give one-sided arguments only",
+          "Write only a definition",
+          "Avoid using data"
+        ],
+        "answer": 0,
+        "explanation": "Discuss asks for a balanced review of different arguments with clear, evidence-based conclusions.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A source about a tax is written by a group that sells the taxed product. Which is the best comment on its value?",
+        "options": [
+          "Its purpose may be to persuade, so it may be biased, but it can still show the firms' viewpoint",
+          "It is completely reliable",
+          "It is worthless in every way",
+          "Its origin does not matter"
+        ],
+        "answer": 0,
+        "explanation": "Evaluating a source involves its origin, purpose, value and limitations. A producer's source may be biased but is useful for a perspective.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "You have 30 minutes for a question worth 10 marks and 15 minutes for another worth 5 marks. Which statement shows good time management?",
+        "options": [
+          "Match time roughly to marks and leave a short time to check",
+          "Spend all the time on the first question",
+          "Skip all calculations",
+          "Write as much as possible without reading the question"
+        ],
+        "answer": 0,
+        "explanation": "Time should reflect the marks available. Keep a few minutes at the end to check calculations and wording.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "In a multiple-choice question you are unsure between two answers. What is the best approach?",
+        "options": [
+          "Cross out clearly wrong options, check the data in the stimulus and choose the best-supported option",
+          "Choose the longest option",
+          "Leave it blank",
+          "Change answers randomly"
+        ],
+        "answer": 0,
+        "explanation": "Eliminate options that contradict the data or definitions, then pick the best-supported one. Never leave a question blank on a multiple-choice paper.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A question says 'Using the source, explain why the price of rice rose.' What must a strong answer include?",
+        "options": [
+          "Reasons for the price rise supported by specific evidence from the source",
+          "A general essay about all food prices with no reference to the source",
+          "A definition of the word 'price' only",
+          "A list of unrelated facts"
+        ],
+        "answer": 0,
+        "explanation": "'Using the source' means your explanation must be built on evidence from the stimulus. 'Explain' means giving reasons or causes.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Student X writes: 'A tax on sugary drinks is good.' Student Y writes: 'A tax on sugary drinks raises the price, so demand falls, as the data show a 12% fall; it may also reduce health costs, but poorer households may pay more, so it is likely to help overall.' Why is Y's answer stronger?",
+        "options": [
+          "It uses evidence, explains the chain, considers more than one effect and reaches a reasoned judgement",
+          "It is longer only",
+          "It uses fewer ideas",
+          "It avoids numbers"
+        ],
+        "answer": 0,
+        "explanation": "Higher-level answers explain how and why, use data, consider limitations or different groups, and justify a conclusion.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A question asks you to 'justify a recommendation' on a government policy using a data table. Which structure is best?",
+        "options": [
+          "State the recommendation, support it with two or three pieces of evidence from the table, address one counter-argument or limitation, then conclude",
+          "List random facts",
+          "Give a recommendation with no reasons",
+          "Describe the table only"
+        ],
+        "answer": 0,
+        "explanation": "To justify is to give valid reasons or evidence supporting a conclusion. Acknowledging a limitation shows critical thinking.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A calculation question asks you to 'show that' unemployment fell by 2 percentage points from 7.4% to 5.4%. Which response is best?",
+        "options": [
+          "Write 7.4 − 5.4 = 2.0, so the fall is 2 percentage points",
+          "Write only the number 2",
+          "Write 'it fell'",
+          "Write 7.4 + 5.4 = 12.8"
+        ],
+        "answer": 0,
+        "explanation": "'Show that' needs working that leads to the given result. Writing the subtraction displays the reasoning and the units.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A student answers an 'evaluate' question by listing five advantages of a policy and one sentence of conclusion. How could the answer be improved most?",
+        "options": [
+          "Add disadvantages and limits, weigh them against the advantages using evidence, and justify the judgement",
+          "Add five more advantages",
+          "Delete the conclusion",
+          "Remove all evidence"
+        ],
+        "answer": 0,
+        "explanation": "Evaluation needs balance and a reasoned judgement. A one-sided list of benefits meets only part of the command term.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "In an extended task you are given sources with inflation, unemployment and growth data and asked: 'To what extent should the government prioritise reducing inflation?' Which opening of the conclusion is best?",
+        "options": [
+          "To a large extent, because inflation of 7% in the source is well above the target and hurts savers, although growth and jobs remain important",
+          "Inflation is a word.",
+          "I think so.",
+          "Inflation is the only thing that matters in all economies at every time"
+        ],
+        "answer": 0,
+        "explanation": "A strong conclusion answers the question directly ('to what extent'), uses evidence from the source, and acknowledges other considerations.",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "## How I&S is assessed\nIn MYP Individuals and Societies (which includes economics), your work is judged against four criteria, each on **Levels 1-8**. The maximum from the four criteria is 4 × 8 = 32. For example, Levels 7, 6, 5 and 6 add up to 24 out of 32.\n- **Criterion A: Knowing and understanding**: using subject terms, facts and concepts accurately, and explaining them with examples.\n- **Criterion B: Investigating**: planning and researching a question, using methods, collecting and recording information.\n- **Criterion C: Communicating**: organising ideas clearly, using sources and referencing correctly.\n- **Criterion D: Thinking critically**: analysing concepts, evaluating sources and evidence, interpreting different perspectives and reaching conclusions.\n\nThe on-screen exam uses stimulus material (sources, data, graphs and short scenarios) and questions that mix knowing, applying and thinking critically.\n\n## Command terms\nCommand terms tell you how much to write and what to do.\n- **State / Identify**: a brief answer, no explanation.\n- **Define / Outline**: a short meaning or summary.\n- **Describe**: a detailed account of what happened or what the data shows, quoting figures.\n- **Explain**: give reasons or causes, using 'because' and 'which leads to'.\n- **Analyse**: break an issue into its parts and show how they connect.\n- **Compare**: show similarities and differences between things, referring to both.\n- **Justify**: give valid reasons or evidence for a decision.\n- **Discuss**: a balanced review of different arguments, with a supported conclusion.\n- **Evaluate**: weigh strengths and limitations, and reach a judgement.\n- **To what extent**: how far does the evidence support a claim?\n- **Show that**: write the working that leads to the given answer.\n\n## Building a strong answer\n1. Read the stimulus and the question. Underline the command term and key words.\n2. Pull out relevant data. Quote figures from the source.\n3. Use economic terms accurately (opportunity cost, elasticity, externality, inflation).\n4. Build a chain of reasoning: cause, effect and consequence.\n5. Consider more than one view, such as different groups affected, short-run and long-run effects.\n6. Check sources by their origin, purpose, value and limitations.\n7. End with a clear judgement that answers the question.\n\n## Calculations\nWrite the formula, substitute numbers, give the answer with units and say what it means. Check percentages (base value), percentage points and rounding.\n\n## Multiple-choice technique\nRead the whole stimulus. Cross out options that contradict the data or definitions. Watch for words like 'only' and 'always'. Never leave a question blank.\n\n## Time\nShare time according to the marks. Leave a few minutes to check calculations and read your answers back.\n\n## Common mistakes\n- Describing when the question asks for evaluation.\n- Ignoring the stimulus and writing everything you know.\n- One-sided arguments with no conclusion.\n- Writing only the answer to a calculation with no working.\n\n## How this is examined\nOn-screen tasks often build up. First, extract a value from a source. Next, calculate or explain. Finally, an extended question asks you to evaluate a policy or judge a claim, using evidence, considering limitations and giving a justified conclusion.\n\nExam tip: Before you write, circle the command term, then check that your last sentence answers it directly.",
+    "flashcards": [
+      {
+        "front": "The four I&S criteria",
+        "back": "A: Knowing and understanding; B: Investigating; C: Communicating; D: Thinking critically. Each is judged on Levels 1-8."
+      },
+      {
+        "front": "Maximum total from the four criteria",
+        "back": "4 criteria × 8 levels = 32."
+      },
+      {
+        "front": "State vs explain",
+        "back": "State: a brief answer with no explanation. Explain: give reasons or causes in a detailed account."
+      },
+      {
+        "front": "Describe vs analyse",
+        "back": "Describe: give a detailed account of what is shown. Analyse: break something into parts and show how they connect."
+      },
+      {
+        "front": "Evaluate",
+        "back": "Weigh up strengths and limitations using evidence, and reach a justified judgement."
+      },
+      {
+        "front": "Discuss",
+        "back": "Give a balanced review of different arguments, with a supported conclusion."
+      },
+      {
+        "front": "Justify",
+        "back": "Give valid reasons or evidence in support of an answer or conclusion."
+      },
+      {
+        "front": "How to evaluate a source",
+        "back": "Consider its origin, purpose, value and limitations."
+      },
+      {
+        "front": "Steps for a strong extended answer",
+        "back": "Read command term; use data from the stimulus; use economic terms; explain cause and effect; consider other views; give a judgement."
+      }
+    ]
+  }
+]

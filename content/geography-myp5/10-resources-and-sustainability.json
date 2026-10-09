@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "geography",
+  "grade": 5,
+  "topic": "Resources and Sustainability",
+  "subTopic": "Food and Water Security",
+  "questions": [
+   {
+    "content": "What does 'food security' mean?",
+    "options": [
+     "Guarding farms with security staff",
+     "A country growing only one type of crop",
+     "All people having reliable access to enough safe and nutritious food",
+     "Storing food for more than ten years"
+    ],
+    "answer": 2,
+    "explanation": "Food security means people at all times have physical and economic access to enough safe and nutritious food. It is about access and reliability, not security guards.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which term describes a long-term shortage of food that leads to widespread hunger and death in an area?",
+    "options": [
+     "Famine",
+     "Harvest",
+     "Surplus",
+     "Irrigation"
+    ],
+    "answer": 0,
+    "explanation": "A famine is an extreme shortage of food in a region that causes widespread hunger and deaths. Droughts, conflict and poor distribution are common causes.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Irrigation means:",
+    "options": [
+     "Draining water from fields",
+     "Artificially supplying water to crops",
+     "Spraying crops with pesticides",
+     "Planting trees around fields"
+    ],
+    "answer": 1,
+    "explanation": "Irrigation supplies water to crops using canals, pipes, sprinklers or drips when rain is not enough.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of the following is a use of water in agriculture?",
+    "options": [
+     "Producing aluminium cans only",
+     "Growing crops and watering livestock",
+     "Making electric cars only",
+     "Printing newspapers"
+    ],
+    "answer": 1,
+    "explanation": "Agriculture is the largest use of freshwater globally, mostly for irrigation and livestock.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What was the main aim of the Green Revolution that began in the 1960s?",
+    "options": [
+     "To plant more trees in cities",
+     "To close farms",
+     "To reduce rainfall",
+     "To increase crop yields using high-yielding varieties, fertilisers and irrigation"
+    ],
+    "answer": 3,
+    "explanation": "The Green Revolution introduced high-yielding crop varieties, fertilisers, pesticides and irrigation, greatly raising yields in countries such as India.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A country has 6000 million m³ of renewable freshwater a year and 4 million people. A common guideline is that below 1700 m³ per person indicates water stress. What is the water available per person and what does it indicate?",
+    "options": [
+     "1500 m³ per person: water stress",
+     "1500 m³ per person: no stress",
+     "24 000 m³ per person: water stress",
+     "2400 m³ per person: no stress"
+    ],
+    "answer": 0,
+    "explanation": "6000 million ÷ 4 million = 1500 m³ per person, which is below 1700, so the country is water stressed.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A farming region increases wheat yield from 3.0 to 4.2 tonnes per hectare. What is the percentage increase?",
+    "options": [
+     "12%",
+     "29%",
+     "140%",
+     "40%"
+    ],
+    "answer": 3,
+    "explanation": "Change = 1.2. 1.2 ÷ 3.0 × 100 = 40%. Dividing by the new yield gives about 29%, which is incorrect.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A country grows 9 million tonnes of grain in a year but needs 12 million tonnes. What is its food self-sufficiency?",
+    "options": [
+     "133%",
+     "25%",
+     "75%",
+     "3%"
+    ],
+    "answer": 2,
+    "explanation": "Self-sufficiency = production ÷ consumption × 100 = 9 ÷ 12 × 100 = 75%. The shortfall of 3 million tonnes must be imported.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is a cause of food insecurity that is not related to climate?",
+    "options": [
+     "Drought",
+     "Flooding",
+     "Poverty that prevents people from buying food",
+     "Frost"
+    ],
+    "answer": 2,
+    "explanation": "Food can be available in a market but people may be unable to afford it. Poverty affects access, which is one dimension of food security.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A city's water network loses 30% of the 200 million litres put into it each day through leaks. How much water is lost each day?",
+    "options": [
+     "6 million litres",
+     "30 million litres",
+     "600 million litres",
+     "60 million litres"
+    ],
+    "answer": 3,
+    "explanation": "30% of 200 million = 0.30 × 200 = 60 million litres a day. Fixing leaks can be cheaper than finding new supplies.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which method of irrigation uses water most efficiently?",
+    "options": [
+     "Flood irrigation",
+     "Spraying water high into the air in strong sunshine",
+     "Drip irrigation, which delivers water close to plant roots",
+     "Leaving canals open to evaporate"
+    ],
+    "answer": 2,
+    "explanation": "Drip irrigation reduces evaporation and runoff by supplying small amounts of water directly where needed.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The Aral Sea in Central Asia shrank greatly after the 1960s. What was the main cause?",
+    "options": [
+     "Rivers feeding it were diverted to irrigate cotton and other crops",
+     "A rise in rainfall over the region",
+     "The building of coastal resorts",
+     "Over-fishing alone"
+    ],
+    "answer": 0,
+    "explanation": "Water from the Amu Darya and Syr Darya rivers was diverted for irrigation, so far less reached the sea. Fishing industries collapsed and dust storms increased.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Countries can face 'economic water scarcity' even where there is enough water in rivers and aquifers. Which situation best illustrates this?",
+    "options": [
+     "A desert with no groundwater at all",
+     "A town where rivers flow nearby but poor people lack pipes, wells and money to access safe water",
+     "A wet region where heavy rain stops farming",
+     "A lake that has dried up due to climate"
+    ],
+    "answer": 1,
+    "explanation": "Economic scarcity is caused by a lack of investment or infrastructure, not a lack of water itself. Physical scarcity occurs when there is not enough water.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A country raises irrigation efficiency so that it needs 20% less water per tonne of rice. Production was 5 million tonnes using 40 billion m³. If production stays the same, how much water will it use?",
+    "options": [
+     "20 billion m³",
+     "32 billion m³",
+     "8 billion m³",
+     "48 billion m³"
+    ],
+    "answer": 1,
+    "explanation": "20% of 40 = 8 billion m³ saved. 40 − 8 = 32 billion m³ remain. The figure of 8 billion m³ is only the saving.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Report A says 'Food production is rising, so hunger will end'. Table B shows production rose 12% but the number of undernourished people did not fall. Which is the best evaluation of Report A?",
+    "options": [
+     "It is correct because production rose",
+     "It is correct because tables are never reliable",
+     "It is incorrect because production always falls",
+     "It is weak because food security also depends on access, affordability and distribution, not only production"
+    ],
+    "answer": 3,
+    "explanation": "Producing more food does not guarantee that poor people can afford it or that it reaches them. Food security includes availability, access, use and stability.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which is a likely negative environmental effect of the Green Revolution's intensive methods?",
+    "options": [
+     "Cleaner groundwater",
+     "Reduced use of chemicals",
+     "More forests in farming areas",
+     "Pollution from fertilisers and pesticides and falling groundwater levels"
+    ],
+    "answer": 3,
+    "explanation": "High-yield farming relies on fertilisers, pesticides and heavy irrigation. These can pollute water and deplete aquifers, so long-term sustainability is questioned.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A government plans a large dam to supply irrigation water. Which factor would a student need to weigh most carefully when judging the plan?",
+    "options": [
+     "Only the height of the dam",
+     "The benefits of more water and electricity against loss of land, displacement of people and effects downstream",
+     "Only the colour of the reservoir",
+     "The number of tourists in other countries"
+    ],
+    "answer": 1,
+    "explanation": "Large projects have winners and losers. A strong evaluation compares benefits with social, environmental and economic costs, including effects on other users of the river.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A rise in the price of grain on world markets worsens food insecurity in a country that imports most of its grain. Which dimension of food security is most affected?",
+    "options": [
+     "Access, because families cannot afford the food",
+     "Availability of fertile soil",
+     "The country's total rainfall",
+     "Nutrition knowledge only"
+    ],
+    "answer": 0,
+    "explanation": "Higher prices reduce affordability. Even if grain exists in the market, poor families cannot buy it, which is a problem of access.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why food and water matter\nFood and water are basic resources that every person needs. As the world population grows and incomes rise, demand increases. At the same time climate change, conflict, pollution and poverty put pressure on supply. Geographers study how to make sure that everyone has enough in a way that does not damage the planet.\n\n## Food security\n**Food security** means all people, at all times, have physical and economic access to enough safe and nutritious food. It has four parts:\n- **Availability**: enough food is produced or imported.\n- **Access**: people can afford and reach the food.\n- **Utilisation**: food is safe, nutritious and used well, which needs clean water and health.\n- **Stability**: supply and access are reliable over time.\n\nCauses of food insecurity include drought and floods, poverty, conflict, high food prices, poor storage and transport, pests, and land used for cash crops instead of food. **Famine** is extreme food shortage with widespread death. **Malnutrition** includes not getting enough food and also diets lacking key nutrients.\n\n## Increasing food supply\nThe **Green Revolution** (from the 1960s) used high-yielding varieties, fertilisers, pesticides and irrigation to increase yields, especially in India and parts of Asia. It raised production but also caused pollution and falling groundwater, and favoured richer farmers who could afford inputs. Other approaches: improved storage, small-scale irrigation, agroforestry, sustainable farming and reducing food waste.\n\nWorked example: yield rising from 3.0 to 4.2 tonnes per hectare is a 1.2 ÷ 3.0 × 100 = 40% increase. If a country grows 9 million tonnes but needs 12 million, its self-sufficiency is 9 ÷ 12 × 100 = 75%.\n\n## Water security\nWater is essential for drinking, sanitation, farming and industry. Agriculture uses most of the world's freshwater. A commonly used guideline is that a country with less than 1700 m³ of renewable water per person per year faces **water stress**, below 1000 m³ is **water scarcity**, and below 500 m³ is **absolute scarcity**. A country with 6000 million m³ and 4 million people has 1500 m³ per person, so it is water stressed.\n\nThere are two types of scarcity. **Physical scarcity**: not enough water exists. **Economic scarcity**: water exists but lack of money and infrastructure stops people accessing it.\n\n## Managing water\nDams and reservoirs store water and generate electricity but may displace people and disturb ecosystems. Drip irrigation and fixing leaks save water: a network losing 30% of 200 million litres a day wastes 60 million litres. Recycling water, rainwater harvesting and water pricing also help. The Aral Sea shrank dramatically after the 1960s because rivers feeding it were diverted to irrigate crops, showing the cost of overuse.\n\n## Common mistakes\n- Thinking food security is only about producing enough food. Access and affordability matter.\n- Mixing up physical and economic water scarcity.\n- Giving only benefits of the Green Revolution or only problems.\n\n## How this is examined\nIn the eAssessment you may be given a source about a drought region or a dam project, with data on population, water supply and crop yields. Tasks include selecting the relevant figures, calculating water per person or percentage change, explaining causes and judging a proposal, including the people affected and how sustainable it is.\n\nExam tip: for judge or evaluate questions, compare short-term benefits with long-term costs and name who gains and who loses.",
+  "flashcards": [
+   {
+    "front": "Food security",
+    "back": "All people at all times have physical and economic access to enough safe, nutritious food."
+   },
+   {
+    "front": "Four dimensions of food security",
+    "back": "Availability, access, utilisation and stability."
+   },
+   {
+    "front": "Green Revolution",
+    "back": "From the 1960s, high-yielding varieties, fertilisers, pesticides and irrigation raised crop yields, especially in India and Asia."
+   },
+   {
+    "front": "Water stress guideline",
+    "back": "Less than 1700 m³ of renewable water per person per year. Below 1000 is scarcity; below 500 is absolute scarcity."
+   },
+   {
+    "front": "Physical vs economic water scarcity",
+    "back": "Physical: not enough water exists. Economic: water exists but poverty or lack of infrastructure blocks access."
+   },
+   {
+    "front": "Drip irrigation",
+    "back": "Delivers small amounts of water directly to plant roots, reducing evaporation and waste."
+   },
+   {
+    "front": "Aral Sea",
+    "back": "Shrank after the 1960s because its feeding rivers were diverted for irrigation, harming fishing, health and the climate nearby."
+   },
+   {
+    "front": "Food self-sufficiency formula",
+    "back": "Production ÷ consumption × 100. For example 9 million t ÷ 12 million t = 75%."
+   },
+   {
+    "front": "Famine",
+    "back": "An extreme food shortage in an area causing widespread hunger and deaths, often due to drought, conflict or poor distribution."
+   }
+  ]
+ },
+ {
+  "subject": "geography",
+  "grade": 5,
+  "topic": "Resources and Sustainability",
+  "subTopic": "Energy Resources",
+  "questions": [
+   {
+    "content": "Which of these is a renewable energy resource?",
+    "options": [
+     "Coal",
+     "Wind",
+     "Natural gas",
+     "Oil"
+    ],
+    "answer": 1,
+    "explanation": "Wind is replenished naturally and will not run out. Coal, oil and gas are fossil fuels that take millions of years to form.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of the following is a fossil fuel?",
+    "options": [
+     "Geothermal heat",
+     "Solar power",
+     "Tidal energy",
+     "Coal"
+    ],
+    "answer": 3,
+    "explanation": "Coal, oil and natural gas are fossil fuels formed from ancient plants and animals. Burning them releases carbon dioxide.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the term 'energy mix'?",
+    "options": [
+     "The temperature of a power station",
+     "The combination of different energy sources a country uses",
+     "A kind of battery",
+     "A mix of fuel and water"
+    ],
+    "answer": 1,
+    "explanation": "A country's energy mix shows the share of coal, gas, nuclear, hydro, wind, solar and other sources used to meet its needs.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which energy source uses the heat from rocks deep within the Earth, as used widely in Iceland?",
+    "options": [
+     "Geothermal",
+     "Biomass",
+     "Wave",
+     "Wind"
+    ],
+    "answer": 0,
+    "explanation": "Geothermal energy uses underground heat, which is common in volcanic countries like Iceland. It is renewable.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Burning fossil fuels contributes to climate change mainly because it releases:",
+    "options": [
+     "Oxygen",
+     "Nitrogen only",
+     "Carbon dioxide",
+     "Pure water only"
+    ],
+    "answer": 2,
+    "explanation": "Burning fossil fuels releases carbon dioxide, a greenhouse gas that traps heat in the atmosphere.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A country's electricity comes from: coal 40%, natural gas 25%, hydroelectric 20% and wind 15%. What percentage comes from renewable sources?",
+    "options": [
+     "35%",
+     "20%",
+     "65%",
+     "15%"
+    ],
+    "answer": 0,
+    "explanation": "Renewables are hydroelectric and wind: 20% + 15% = 35%. Coal and gas (65%) are fossil fuels.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A wind farm has 10 turbines, each with a capacity of 3 MW. On average the turbines operate at 35% of capacity (the capacity factor). How much electricity does the farm produce in a day?",
+    "options": [
+     "252 MWh",
+     "720 MWh",
+     "30 MWh",
+     "10.5 MWh"
+    ],
+    "answer": 0,
+    "explanation": "Total capacity = 30 MW. Average output = 30 × 0.35 = 10.5 MW. Over 24 hours: 10.5 × 24 = 252 MWh. The figure of 720 MWh wrongly assumes the turbines run at full power all day.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A typical household uses 4000 kWh a year (4 MWh). Using the wind farm's output of 252 MWh per day, roughly how many households could it supply across a 365-day year?",
+    "options": [
+     "About 63",
+     "About 23 000",
+     "About 92 000",
+     "About 2300"
+    ],
+    "answer": 1,
+    "explanation": "Annual output = 252 × 365 = 91 980 MWh. Dividing by 4 MWh per household gives about 22 995, or roughly 23 000 homes.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is a disadvantage of solar power for a country in northern Europe?",
+    "options": [
+     "Panels release large amounts of CO₂ when running",
+     "Sunlight is weaker and less reliable in winter",
+     "It uses up fossil fuels",
+     "It cannot be used on roofs"
+    ],
+    "answer": 1,
+    "explanation": "Solar output depends on sunlight, which varies with latitude, weather and season. This is why storage and a mix of sources are important.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A household installs solar panels costing $6000 that save $800 a year on electricity bills. How long is the payback period?",
+    "options": [
+     "4.8 years",
+     "7.5 years",
+     "750 years",
+     "13.3 years"
+    ],
+    "answer": 1,
+    "explanation": "Payback period = cost ÷ annual saving = 6000 ÷ 800 = 7.5 years.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is nuclear power considered a low-carbon but non-renewable source?",
+    "options": [
+     "It burns coal slowly and is renewable",
+     "It does not release CO₂ when generating electricity but relies on uranium, which is finite, and creates radioactive waste",
+     "It uses wind and is unlimited",
+     "It uses sunlight directly"
+    ],
+    "answer": 1,
+    "explanation": "Nuclear plants produce little CO₂ during operation but need mined uranium and create waste that must be stored safely. Accidents such as Chernobyl (1986) and Fukushima (2011) affect public attitudes.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is 'energy security'?",
+    "options": [
+     "Guards at power stations",
+     "A reliable and affordable supply of energy without dependence on uncertain sources",
+     "A stock of coal only",
+     "Banning all imports"
+    ],
+    "answer": 1,
+    "explanation": "Energy security means a country can reliably meet its energy needs at reasonable prices. Relying on a single imported fuel makes supply vulnerable.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A coal power station emits 0.9 kg of CO₂ per kWh. If a country replaces 100 GWh (100 million kWh) of coal electricity with wind power, how many tonnes of CO₂ are avoided? (1 tonne = 1000 kg, and assume wind emits none.)",
+    "options": [
+     "900 tonnes",
+     "9 000 tonnes",
+     "90 000 tonnes",
+     "900 000 tonnes"
+    ],
+    "answer": 2,
+    "explanation": "100 000 000 × 0.9 = 90 000 000 kg. Divide by 1000 to give 90 000 tonnes. Remember to convert kg to tonnes.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A wind farm company says its farm is 'always producing 30 MW'. The farm has 30 MW of capacity and a capacity factor of 35%. Which is the best evaluation?",
+    "options": [
+     "Accurate, since capacity is output",
+     "Misleading, because 30 MW is the maximum and average output is about 10.5 MW",
+     "Accurate, because wind always blows",
+     "Misleading, because output is 35 MW"
+    ],
+    "answer": 1,
+    "explanation": "Capacity is the maximum output. Real output varies with wind, and the capacity factor shows the average, here 30 × 0.35 = 10.5 MW.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Denmark generates a large share of its electricity from wind. Which challenge does this create and what is a sensible response?",
+    "options": [
+     "Wind never varies, so no response is needed",
+     "Wind is fossil-based and must be burned",
+     "Wind only works at night",
+     "Output varies with the weather, so the country needs storage, links to neighbouring grids and backup sources"
+    ],
+    "answer": 3,
+    "explanation": "Intermittent sources need flexible systems, such as interconnectors, storage and back-up generation, to keep supply steady when the wind drops.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A country plans to build a large hydroelectric dam in a valley. Which pair gives a benefit and a drawback?",
+    "options": [
+     "Benefit: uses fossil fuels; drawback: reliable power",
+     "Benefit: low-carbon electricity; drawback: flooding of land and loss of habitats and homes",
+     "Benefit: flooding; drawback: low-carbon electricity",
+     "Benefit: needs no construction; drawback: no electricity"
+    ],
+    "answer": 1,
+    "explanation": "Hydroelectricity produces low-carbon power but creating a reservoir floods land, disturbs ecosystems and may displace people.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A government must choose between a new coal plant (cheap, reliable, high CO₂) and a solar farm (higher initial cost, no CO₂, output varies). Which is the best way to reach a judgement?",
+    "options": [
+     "Choose whichever is cheapest to build now, ignoring all other factors",
+     "Choose coal because CO₂ is not a concern",
+     "Weigh cost, reliability, emissions and long-term effects, and consider a mix with storage",
+     "Choose solar because it is new"
+    ],
+    "answer": 2,
+    "explanation": "Good judgements consider economic, environmental and social criteria over the short and long term. A combination of sources often balances reliability and sustainability.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A source states that 'renewables are cheaper than fossil fuels'. The data shows the cost per kWh of wind is lower than gas in 2024 but the table does not include the cost of storage. What limitation should a student identify?",
+    "options": [
+     "The table has numbers",
+     "Wind is always more expensive",
+     "The comparison may be incomplete because storage and grid costs are missing",
+     "Gas is renewable"
+    ],
+    "answer": 2,
+    "explanation": "A fair comparison should include all relevant costs. Without storage or backup costs the comparison may overestimate the advantage of variable sources.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why energy matters\nEnergy powers homes, transport, industry and farming. Access to reliable electricity is closely linked to development, health and education. The way we produce energy affects the climate, air quality and the landscape, so choosing energy sources is a major geographical issue.\n\n## Types of energy resources\n**Non-renewable** resources will run out because they form far more slowly than we use them.\n- **Fossil fuels**: coal, oil and natural gas. Cheap and reliable, but burning them releases carbon dioxide and other pollutants, which contribute to climate change.\n- **Nuclear power** (uranium): produces very little CO₂ when running, but uranium is finite and radioactive waste must be stored safely. Accidents such as Chernobyl (1986) and Fukushima (2011) influence public opinion.\n\n**Renewable** resources are replenished naturally.\n- **Solar**: uses sunlight; output varies with weather and season.\n- **Wind**: turbines turn wind into electricity; output depends on wind.\n- **Hydroelectric**: uses flowing water, usually from dams; low carbon but dams flood land and affect rivers.\n- **Geothermal**: uses heat from underground; widely used in Iceland.\n- **Biomass**: burning plant material; can be low carbon if replanted but may compete with food crops.\n- **Tidal and wave**: predictable but expensive and still developing.\n\n## Energy mix and energy security\nThe **energy mix** is the share of each source. Example: coal 40%, gas 25%, hydro 20% and wind 15% means renewables provide 20 + 15 = 35%. **Energy security** means a stable and affordable supply. Countries that import most of their fuel can be vulnerable to price rises or political disputes. A varied mix lowers that risk.\n\n## Calculations in context\n- **Capacity factor**: average output ÷ maximum capacity. A wind farm with 10 turbines of 3 MW has 30 MW capacity. At 35%, average output = 10.5 MW, or 10.5 × 24 = 252 MWh per day, or about 91 980 MWh per year. If a household uses 4 MWh a year, this supplies about 23 000 homes.\n- **Payback period** = cost ÷ annual saving. Solar panels costing $6000 and saving $800 a year pay back in 7.5 years.\n- **Emissions avoided**: coal at 0.9 kg CO₂ per kWh. Replacing 100 million kWh avoids 90 million kg, or 90 000 tonnes.\n\n## Advantages and disadvantages\nRenewables cut emissions and use free resources, but can be intermittent, need storage and grid upgrades, and may have high start-up costs. Fossil fuels are reliable and established but pollute and will run out. A balanced judgement considers cost, reliability, environment, jobs and fairness. Many countries aim for a mix.\n\n## Common mistakes\n- Saying renewables have 'no impact'. They have land and habitat effects.\n- Calling nuclear renewable. Uranium is finite.\n- Confusing capacity with actual output.\n- Forgetting to convert units such as kWh, MWh and kg to tonnes.\n\n## How this is examined\nThe eAssessment often gives a proposal, such as a new wind farm or power station, with data on cost, output and emissions. You need to select relevant data, calculate output, savings or payback, state your assumptions and then decide whether the proposal is a good choice, mentioning limits of the model.\n\nExam tip: when you justify an energy choice, name at least one economic, one environmental and one social factor, and state a limitation of the data you used.",
+  "flashcards": [
+   {
+    "front": "Renewable vs non-renewable energy",
+    "back": "Renewable sources are replenished naturally (wind, solar, hydro). Non-renewable sources, like fossil fuels and uranium, are finite."
+   },
+   {
+    "front": "Fossil fuels",
+    "back": "Coal, oil and natural gas formed from ancient organisms. Burning them releases CO₂, which adds to climate change."
+   },
+   {
+    "front": "Energy mix",
+    "back": "The combination of energy sources a country uses, such as coal, gas, nuclear, hydro, wind and solar."
+   },
+   {
+    "front": "Energy security",
+    "back": "A reliable, affordable energy supply that is not easily disrupted by prices or politics."
+   },
+   {
+    "front": "Capacity factor",
+    "back": "Average actual output divided by maximum possible output. A 30 MW wind farm at 35% averages 10.5 MW."
+   },
+   {
+    "front": "Payback period",
+    "back": "Cost ÷ annual saving. For example $6000 ÷ $800 per year = 7.5 years."
+   },
+   {
+    "front": "Advantage and drawback of nuclear power",
+    "back": "Low CO₂ during generation, but uses finite uranium and creates radioactive waste with accident risks."
+   },
+   {
+    "front": "Geothermal energy",
+    "back": "Uses heat from underground rocks. Widely used in volcanic countries such as Iceland."
+   },
+   {
+    "front": "Problem with wind and solar",
+    "back": "Output varies with weather, so storage, grid links and backup sources are needed."
+   }
+  ]
+ },
+ {
+  "subject": "geography",
+  "grade": 5,
+  "topic": "Resources and Sustainability",
+  "subTopic": "Sustainable Resource Management",
+  "questions": [
+   {
+    "content": "What does 'resource management' mean?",
+    "options": [
+     "Using resources as fast as possible",
+     "Planning how to use resources so they last and cause the least harm",
+     "Ignoring waste",
+     "Selling all resources abroad"
+    ],
+    "answer": 1,
+    "explanation": "Resource management means controlling the use of resources so that supply is protected and impacts are limited.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is an example of a non-renewable resource?",
+    "options": [
+     "Solar radiation",
+     "Wind",
+     "Crude oil",
+     "Fresh fruit grown on a farm"
+    ],
+    "answer": 2,
+    "explanation": "Oil forms over millions of years and cannot be replaced on a human time scale, so it is non-renewable.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Overfishing happens when:",
+    "options": [
+     "Fish are caught faster than they can reproduce",
+     "Too many fish are born",
+     "Fish are protected",
+     "Fish live in rivers"
+    ],
+    "answer": 0,
+    "explanation": "Overfishing removes fish at a rate that stops populations from replacing themselves, which can cause stocks to collapse.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which action is an example of recycling?",
+    "options": [
+     "Burying rubbish in a landfill",
+     "Burning rubbish in the open",
+     "Throwing food away",
+     "Melting used aluminium cans to make new products"
+    ],
+    "answer": 3,
+    "explanation": "Recycling processes used materials into new products, saving raw materials and energy.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a 'circular economy'?",
+    "options": [
+     "An economy that only has circular roads",
+     "An economy that keeps materials in use through reuse, repair and recycling to cut waste",
+     "An economy that ends trade",
+     "An economy where products are used once and thrown away"
+    ],
+    "answer": 1,
+    "explanation": "A circular economy designs out waste. In contrast, a linear economy follows take, make and throw away.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A fish stock of 100 000 tonnes grows by 12% a year if left alone. A fishing fleet catches 10 000 tonnes a year. What happens to the stock in one year?",
+    "options": [
+     "It falls by 10 000 tonnes",
+     "It increases by 2000 tonnes",
+     "It stays exactly the same",
+     "It increases by 12 000 tonnes"
+    ],
+    "answer": 1,
+    "explanation": "Growth = 12% of 100 000 = 12 000 tonnes. Catch = 10 000, so net change = +2000 tonnes. The catch is sustainable at this level.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A country has 600 million tonnes of coal reserves and uses 15 million tonnes a year. At this rate how long will the reserves last?",
+    "options": [
+     "9 years",
+     "90 years",
+     "40 years",
+     "4 years"
+    ],
+    "answer": 2,
+    "explanation": "600 ÷ 15 = 40 years. In reality, use may change and new reserves may be found, so this is an estimate.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In 1992 Canada ordered a moratorium on cod fishing off Newfoundland. What was the main reason?",
+    "options": [
+     "Fishermen demanded higher prices",
+     "Cod numbers had collapsed after decades of overfishing",
+     "A new law banned all fishing worldwide",
+     "Cod migrated to rivers"
+    ],
+    "answer": 1,
+    "explanation": "Northern cod stocks collapsed due to overfishing, leading to a ban and the loss of thousands of jobs. It is a standard example of unsustainable resource use.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A forest company harvests 2% of a 50 000 hectare forest each year and replants the same area. How many hectares are cut and replanted each year?",
+    "options": [
+     "100 hectares",
+     "1000 hectares",
+     "10 000 hectares",
+     "2000 hectares"
+    ],
+    "answer": 1,
+    "explanation": "2% of 50 000 = 0.02 × 50 000 = 1000 hectares. Replanting an equal area is one element of sustainable forestry.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is an example of a fishing quota?",
+    "options": [
+     "An upper limit on the amount of fish a boat may land",
+     "A tax on boats",
+     "A requirement to fish only at night",
+     "A ban on eating fish"
+    ],
+    "answer": 0,
+    "explanation": "Quotas cap catches to let fish stocks recover. Other tools include closed seasons, bigger net mesh sizes and marine protected areas.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which approach to forestry is most sustainable?",
+    "options": [
+     "Clear-felling the whole forest at once",
+     "Selective logging with replanting and certification of the wood",
+     "Cutting forest without any plan",
+     "Burning forest to make farmland"
+    ],
+    "answer": 1,
+    "explanation": "Selective logging and replanting maintain forest cover. Certification, such as FSC labels, helps buyers choose responsibly sourced timber.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is a reason why recycling can be more sustainable than extracting new raw materials?",
+    "options": [
+     "It always costs more energy",
+     "It uses up more land",
+     "It can use far less energy and reduce waste going to landfill",
+     "It makes materials non-renewable"
+    ],
+    "answer": 2,
+    "explanation": "Recycled materials such as aluminium need much less energy than producing new metal from ore, and recycling lowers waste and mining impacts.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A school produces 800 kg of waste each week. A composting and recycling scheme diverts 35% of it from the bin. How much waste still goes in the bin each week?",
+    "options": [
+     "280 kg",
+     "520 kg",
+     "765 kg",
+     "35 kg"
+    ],
+    "answer": 1,
+    "explanation": "35% of 800 = 280 kg is diverted. 800 − 280 = 520 kg remains. The figure of 280 kg is only the amount diverted.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A fish stock of 100 000 tonnes grows by 12% a year. Fishers raise the catch to 15 000 tonnes a year. What happens in one year and what is the long-term outcome if it continues?",
+    "options": [
+     "The stock rises by 3000 tonnes and keeps rising",
+     "The stock falls by 3000 tonnes, and a continued decline could lead to collapse",
+     "The stock stays the same",
+     "The stock grows by 12 000 tonnes"
+    ],
+    "answer": 1,
+    "explanation": "Growth = 12 000 and catch = 15 000, so net change = −3000. A smaller stock grows less in absolute terms, so continuing this level of catch speeds the decline.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A city recycling programme costs $2 million per year and avoids sending 12 000 tonnes of waste to landfill, which would cost $200 per tonne. What is the net result?",
+    "options": [
+     "The programme saves $2.4 million in landfill costs, so it more than covers its cost by $0.4 million",
+     "The programme costs $2.4 million more than it saves",
+     "The programme saves exactly $2 million",
+     "The programme loses $200 000"
+    ],
+    "answer": 0,
+    "explanation": "Landfill saving = 12 000 × $200 = $2.4 million. Saving minus cost = $0.4 million gain, before counting wider environmental benefits.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A town depends on its local fishery for jobs. A proposal would suspend fishing for three years to let stocks recover. Which is the best evaluation?",
+    "options": [
+     "It will certainly benefit everyone immediately",
+     "It protects long-term stocks and jobs but causes short-term hardship, so compensation or alternative jobs are needed",
+     "It has no costs",
+     "It has no benefits"
+    ],
+    "answer": 1,
+    "explanation": "Sustainable management often involves a trade-off between short-term income and long-term resource health. Good answers suggest ways to reduce the hardship.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which statement best explains the 'tragedy of the commons' for ocean fishing?",
+    "options": [
+     "Fishers have no interest in catching fish",
+     "Because no single person owns the sea, each fisher gains by catching more, but together they deplete the stock",
+     "Fish always repopulate quickly",
+     "Commons are always well managed"
+    ],
+    "answer": 1,
+    "explanation": "When a shared resource is open to all, individual self-interest can lead to overuse that harms everyone. International agreements and quotas aim to avoid this.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two cities each cut waste by 5000 tonnes. City P went from 50 000 to 45 000 tonnes. City Q went from 20 000 to 15 000 tonnes. Which statement is correct?",
+    "options": [
+     "Both reduced waste by the same percentage",
+     "P reduced by 10% and Q reduced by 25%, so Q achieved a larger relative reduction",
+     "P reduced by 25% and Q by 10%",
+     "Neither reduced waste"
+    ],
+    "answer": 1,
+    "explanation": "P: 5000 ÷ 50 000 = 10%. Q: 5000 ÷ 20 000 = 25%. Using percentages shows Q achieved a bigger relative cut despite the same absolute reduction.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What is sustainable resource management?\nResources are materials and energy that people use, such as water, soil, forests, fish, minerals and fuels. **Sustainable resource management** means using resources in a way that meets present needs without reducing the ability of future generations to meet theirs. It balances environmental, economic and social needs.\n\n## Why management is needed\n- Population and consumption are growing.\n- Non-renewable resources, such as oil and coal, can run out. If a country has 600 million tonnes of coal and uses 15 million tonnes a year, the reserves last 600 ÷ 15 = 40 years at current use.\n- Renewable resources can also be depleted if used faster than they regenerate, as happens with fish and forests.\n- Waste and pollution damage ecosystems and human health.\n\n## Fish stocks\nA fish stock regrows by breeding. If a stock of 100 000 tonnes grows 12% a year, it adds 12 000 tonnes. A catch of 10 000 tonnes is sustainable (stock rises by 2000), but a catch of 15 000 tonnes means the stock falls by 3000 and may collapse. In 1992 Canada ordered a moratorium on cod fishing off Newfoundland after cod stocks collapsed from overfishing, and thousands of jobs were lost. Management tools include **quotas**, closed seasons, minimum net mesh sizes, marine protected areas and monitoring.\n\n## Forests\nSustainable forestry involves selective logging, replanting, protecting wildlife areas and certification such as the FSC label. Cutting 2% of 50 000 hectares each year and replanting means 1000 hectares are replaced annually.\n\n## Waste and the circular economy\nA **linear economy** is take, make, use, throw away. A **circular economy** keeps materials in use for longer through repair, reuse and recycling. The **3Rs** are reduce, reuse and recycle, with reducing being most effective. Recycling can use much less energy than making new materials from raw ore, and reduces landfill.\n\nWorked example: a recycling scheme costs $2 million a year and diverts 12 000 tonnes from landfill that would cost $200 per tonne. Saving = 12 000 × 200 = $2.4 million, so it gains $0.4 million, plus environmental benefits.\n\n## Governing shared resources\nThe **tragedy of the commons** describes how people who share an open resource, such as the sea, each have an incentive to take more, so the resource is depleted. International agreements, laws, taxes and certification schemes try to control this. Individuals can help by choosing sustainable products and reducing waste.\n\n## Trade-offs\nManagement often involves conflict. Reducing fishing protects stocks but harms fishing communities. Protecting forests conserves habitats but limits income from logging. Strong answers recognise these trade-offs and suggest ways of reducing the harm, such as retraining workers or compensation.\n\n## Common mistakes\n- Believing renewable resources can never be used up.\n- Giving solutions without explaining how they work.\n- Ignoring the people affected by management decisions.\n- Comparing waste reductions in tonnes only; percentages show relative progress.\n\n## How this is examined\nQuestions might give figures for a fish stock, forest or waste scheme. You will be asked to pick out relevant data, calculate net change or savings, explain a management approach and evaluate whether it is sustainable, for whom and with what limitations.\n\nExam tip: when evaluating, name the short-term and long-term effects separately, and say who gains and who loses.",
+  "flashcards": [
+   {
+    "front": "Sustainable resource management",
+    "back": "Using resources so that present needs are met without harming the ability of future generations to meet theirs."
+   },
+   {
+    "front": "Overfishing",
+    "back": "Catching fish faster than the population can reproduce, which can cause stocks to collapse."
+   },
+   {
+    "front": "Fishing quota",
+    "back": "A limit on the amount of fish that can be caught. Other tools include closed seasons and net-size rules."
+   },
+   {
+    "front": "Newfoundland cod (1992)",
+    "back": "Canada ordered a moratorium on northern cod fishing after stocks collapsed from overfishing; many jobs were lost."
+   },
+   {
+    "front": "Circular economy",
+    "back": "An economy that keeps materials in use through reuse, repair and recycling to reduce waste, unlike take-make-dispose."
+   },
+   {
+    "front": "The 3Rs",
+    "back": "Reduce, reuse, recycle. Reducing is the most effective as it prevents waste at source."
+   },
+   {
+    "front": "Tragedy of the commons",
+    "back": "When a shared resource is open to all, self-interest leads to overuse and everyone loses."
+   },
+   {
+    "front": "Reserve lifetime formula",
+    "back": "Reserves ÷ annual use. For example 600 million t ÷ 15 million t per year = 40 years."
+   },
+   {
+    "front": "Sustainable forestry",
+    "back": "Selective logging, replanting, protecting habitats and certification such as the FSC label."
+   }
+  ]
+ }
+]

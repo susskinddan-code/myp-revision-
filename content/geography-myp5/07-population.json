@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "geography",
+  "grade": 5,
+  "topic": "Population",
+  "subTopic": "Population Growth and Structure",
+  "questions": [
+   {
+    "content": "Which statement correctly defines natural increase?",
+    "options": [
+     "Births plus immigration minus deaths",
+     "The birth rate minus the death rate",
+     "The number of people added by migration",
+     "The number of births per woman"
+    ],
+    "answer": 1,
+    "explanation": "Natural increase (or change) looks only at births and deaths: birth rate minus death rate. Migration is not included, which is why adding immigration to the calculation is wrong.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A geography student reads that a country has a crude birth rate (CBR) of 18. What does this mean?",
+    "options": [
+     "18% of the population are babies",
+     "Each woman has 18 children",
+     "18 babies are born each year for every 100 people",
+     "There are 18 live births per 1000 people per year"
+    ],
+    "answer": 3,
+    "explanation": "Crude birth rate is measured per 1000 of the total population per year. It is not a percentage and it is not the same as fertility rate per woman.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In the Demographic Transition Model, which stage has a high birth rate and a rapidly falling death rate, so the population grows quickly?",
+    "options": [
+     "Stage 2",
+     "Stage 1",
+     "Stage 3",
+     "Stage 4"
+    ],
+    "answer": 0,
+    "explanation": "In Stage 2 death rates fall because of better medicine, sanitation and food, but birth rates stay high. In Stage 1 both rates are high so growth is slow.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A population pyramid has a very wide base that narrows quickly towards the top. What does this show?",
+    "options": [
+     "A high proportion of elderly people",
+     "A country with very low death rates",
+     "A high birth rate and a young population",
+     "A country with net emigration only"
+    ],
+    "answer": 2,
+    "explanation": "A wide base means many children, which comes from a high birth rate. The narrow top shows fewer people surviving to old age.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the approximate total fertility rate needed for a population to replace itself in a country with low child mortality?",
+    "options": [
+     "1.0 children per woman",
+     "5.0 children per woman",
+     "2.1 children per woman",
+     "3.5 children per woman"
+    ],
+    "answer": 2,
+    "explanation": "Replacement level is about 2.1 children per woman. The extra 0.1 allows for children who die before reaching adulthood.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Country Alba has a crude birth rate of 24 per 1000 and a crude death rate of 8 per 1000. What is its natural increase as a percentage?",
+    "options": [
+     "16%",
+     "1.6%",
+     "0.16%",
+     "3.2%"
+    ],
+    "answer": 1,
+    "explanation": "Natural increase = 24 − 8 = 16 per 1000. To change per 1000 into a percentage divide by 10, which gives 1.6%.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A town's population is growing at 2% per year. Using the 'rule of 70', roughly how long will it take for the population to double?",
+    "options": [
+     "70 years",
+     "14 years",
+     "140 years",
+     "35 years"
+    ],
+    "answer": 3,
+    "explanation": "Doubling time ≈ 70 ÷ growth rate (%). 70 ÷ 2 = 35 years. Students often forget to divide and give 70.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A country has 30 million people aged 0–14, 60 million aged 15–64 and 10 million aged 65 and over. What is its dependency ratio?",
+    "options": [
+     "66.7",
+     "50.0",
+     "16.7",
+     "40.0"
+    ],
+    "answer": 0,
+    "explanation": "Dependency ratio = (young + old) ÷ working-age × 100 = (30 + 10) ÷ 60 × 100 = 66.7. The answer of 40 forgets to divide by the working-age group.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A country has low birth rates and low death rates, and its total population is slowly rising or levelling off. Which stage of the Demographic Transition Model is this?",
+    "options": [
+     "Stage 2",
+     "Stage 3",
+     "Stage 1",
+     "Stage 4"
+    ],
+    "answer": 3,
+    "explanation": "Stage 4 has both rates low, so natural increase is small. In Stage 3 the birth rate is still falling and the population is still growing noticeably.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is the most likely reason the death rate falls during Stage 2 of the Demographic Transition Model?",
+    "options": [
+     "Women choose to have fewer children",
+     "Improved sanitation, healthcare and food supply",
+     "People move from rural to urban areas",
+     "Governments introduce pension schemes"
+    ],
+    "answer": 1,
+    "explanation": "Death rates fall first because of cleaner water, vaccines, better food and medicine. Women choosing fewer children (a falling birth rate) comes later in Stage 3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A country's pyramid has a narrow base, a bulge in the middle and a wide top section for people aged 65 and over. Which is the best interpretation?",
+    "options": [
+     "An ageing population with a low birth rate",
+     "A rapidly growing young population",
+     "A country at Stage 2 of the model",
+     "A country with very high infant mortality"
+    ],
+    "answer": 0,
+    "explanation": "A narrow base shows few births and a wide top shows many older people. This pattern is typical of countries such as Japan, which are in a late stage of the model.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a year there were 36 infant deaths (under age 1) among 1200 live births in a district. What is the infant mortality rate?",
+    "options": [
+     "3 per 1000",
+     "36 per 1000",
+     "300 per 1000",
+     "30 per 1000"
+    ],
+    "answer": 3,
+    "explanation": "Infant mortality rate = deaths under 1 ÷ live births × 1000 = 36 ÷ 1200 × 1000 = 30 per 1000. Using 1000 births as the base is the key step.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A government report says: 'Our crude birth rate is 20 per 1000, our crude death rate is 10 per 1000 and net migration is −4 per 1000.' What is the total population growth rate?",
+    "options": [
+     "1.4%",
+     "0.6%",
+     "1.0%",
+     "2.4%"
+    ],
+    "answer": 1,
+    "explanation": "Total change = natural increase + net migration = (20 − 10) + (−4) = 6 per 1000, which is 0.6%. Leaving out migration would give 1.0%.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Country P has 18 m aged 0–14, 50 m aged 15–64 and 7 m aged 65+. Country Q has 8 m aged 0–14, 40 m aged 15–64 and 16 m aged 65+. Which statement is correct?",
+    "options": [
+     "P has the higher ratio, mainly because of old dependants",
+     "Both have the same ratio of 50",
+     "Q has the higher ratio, mainly because of old dependants",
+     "P has the higher ratio, mainly because of child dependants"
+    ],
+    "answer": 2,
+    "explanation": "P: (18 + 7) ÷ 50 × 100 = 50. Q: (8 + 16) ÷ 40 × 100 = 60. Q's ratio is higher and most of its dependants are elderly, so it faces pension and healthcare pressure.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A city's population was 8 million in 2010 and 9.2 million in 2020. A student claims: 'The population grew by 15% over the decade.' Which response best verifies or corrects this?",
+    "options": [
+     "Correct: (9.2 − 8) ÷ 8 × 100 = 15%",
+     "Incorrect: it grew by 12% because 1.2 ÷ 10 years",
+     "Incorrect: it grew by 13% because 1.2 ÷ 9.2 × 100",
+     "Correct: 9.2 ÷ 8 = 1.15 so it grew by 1.15%"
+    ],
+    "answer": 0,
+    "explanation": "Percentage change = change ÷ original × 100 = 1.2 ÷ 8 × 100 = 15%. Dividing by the new value (giving 13%) is a common error, and 1.15 is a multiplier, not a percentage.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Country Z's crude birth rate fell from 38 to 22 per 1000 over 30 years while its crude death rate fell from 11 to 7 per 1000. A student concludes 'the population must now be shrinking.' What is the best evaluation?",
+    "options": [
+     "Correct, because the birth rate has fallen",
+     "Correct, because the death rate has fallen too",
+     "Incorrect, because natural increase is still +15 per 1000",
+     "Incorrect, because natural increase has risen over the period"
+    ],
+    "answer": 2,
+    "explanation": "Natural increase fell from 27 to 15 per 1000, so growth is slower but still positive. A falling growth rate does not mean a falling population.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A country introduced a policy that brought fertility down to 1.6, yet its population continues to rise for several more decades. Which concept best explains this?",
+    "options": [
+     "Population momentum from a large number of young adults entering childbearing years",
+     "A rising death rate among older people",
+     "A sudden increase in the replacement rate",
+     "Falling life expectancy in the working-age group"
+    ],
+    "answer": 0,
+    "explanation": "Previous high fertility created large cohorts who are now having children, so total births stay high for a while. Population momentum delays the effect of lower fertility.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student wants to judge how well the Demographic Transition Model predicts a small island that has strong in-migration of workers. Which limitation is most relevant?",
+    "options": [
+     "The model needs a pyramid for each stage",
+     "The model has too many stages to be useful",
+     "The model only measures death rates",
+     "The model ignores migration, which drives this island's growth"
+    ],
+    "answer": 3,
+    "explanation": "The model is based on birth and death rates, originally from European experience, and does not include migration or government policy. For this island migration is the key factor, so the model is a weak predictor.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why population matters\nGeographers study population because the number of people, how fast it changes and who they are all affect how a country plans for schools, hospitals, jobs, housing and food. The world population passed 8 billion in 2022, but growth is very uneven: some countries are growing fast and others are shrinking.\n\n## Key measures\n- **Crude birth rate (CBR)**: live births per 1000 people per year.\n- **Crude death rate (CDR)**: deaths per 1000 people per year.\n- **Natural increase** = CBR − CDR (per 1000). Divide by 10 to turn it into a percentage.\n- **Net migration** = immigrants − emigrants. Total population change = natural increase + net migration.\n- **Infant mortality rate**: deaths of babies under 1 per 1000 live births.\n- **Total fertility rate**: average number of children per woman. About 2.1 is replacement level.\n- **Life expectancy**: average number of years a newborn is expected to live.\n- **Doubling time** ≈ 70 ÷ growth rate (%).\n\n## Population pyramids\nA population pyramid shows the percentage or number of males and females in each age group. A wide base means a high birth rate and a young population. A narrow base with a wide top shows low birth rates and an ageing population. A pyramid with a sudden dent can show the effect of war, famine or a strict birth policy. When you describe one, mention the base, the middle and the top, and then link it to causes and consequences.\n\n## Dependency ratio\nDependants are people who are too young (0–14) or too old (65+) to be in full-time work. Dependency ratio = (young + old) ÷ working-age (15–64) × 100.\n\nWorked example: 30 million aged 0–14, 60 million aged 15–64 and 10 million aged 65+. Ratio = (30 + 10) ÷ 60 × 100 = 66.7. A higher ratio means each worker supports more dependants, so there is more pressure on taxes, pensions and healthcare.\n\n## The Demographic Transition Model (DTM)\n- **Stage 1**: high birth and death rates, so slow growth.\n- **Stage 2**: death rate falls (medicine, sanitation, food) but the birth rate stays high, so rapid growth.\n- **Stage 3**: birth rate falls (education, contraception, women working, urban living), growth slows.\n- **Stage 4**: low birth and death rates, slow growth or stable.\n- **Stage 5** (sometimes added): birth rate below death rate, so the population falls.\n\nThe model is useful because it shows change over time, but it was based on Europe, ignores migration and does not allow for government policies or disasters.\n\n## Common mistakes\n- Mixing up per 1000 and percentage.\n- Saying a falling growth rate means a falling population. It only means slower growth.\n- Forgetting migration in total change.\n- Describing a pyramid without any numbers or comparison.\n\n## How this is examined\nIn the eAssessment you are likely to get a short context, such as a country profile, with birth and death rates or a pyramid described in words. You may have to pull out the relevant numbers, calculate natural increase or dependency ratio, show that a statement is true, and then judge what the data means for the country. Higher-level parts ask you to discuss impacts or evaluate how useful a model is.\n\nExam tip: when a question says calculate, show your working and units (per 1000 or %); when it says evaluate, give a strength and a limitation of the data or model.",
+  "flashcards": [
+   {
+    "front": "Natural increase",
+    "back": "Birth rate minus death rate (per 1000 people per year). It does not include migration."
+   },
+   {
+    "front": "Crude birth rate",
+    "back": "The number of live births per 1000 people in a population in one year."
+   },
+   {
+    "front": "Dependency ratio formula",
+    "back": "(Number aged 0–14 + number aged 65+) ÷ number aged 15–64 × 100."
+   },
+   {
+    "front": "Replacement level fertility",
+    "back": "About 2.1 children per woman, enough for a population to replace itself where child mortality is low."
+   },
+   {
+    "front": "Rule of 70",
+    "back": "Doubling time in years ≈ 70 ÷ the annual growth rate in percent."
+   },
+   {
+    "front": "Why does the death rate fall in Stage 2 of the DTM?",
+    "back": "Better medicine, sanitation, clean water and food supply, while birth rates stay high."
+   },
+   {
+    "front": "What does a narrow base on a pyramid show?",
+    "back": "A low birth rate, with fewer children. If the top is wide, the population is ageing."
+   },
+   {
+    "front": "Infant mortality rate",
+    "back": "Deaths of babies under one year old per 1000 live births in a year."
+   },
+   {
+    "front": "Limitation of the DTM",
+    "back": "It is based on European history and ignores migration, government policy and disasters such as war or disease."
+   }
+  ]
+ },
+ {
+  "subject": "geography",
+  "grade": 5,
+  "topic": "Population",
+  "subTopic": "Migration Patterns and Causes",
+  "questions": [
+   {
+    "content": "What is the definition of an international migrant?",
+    "options": [
+     "Someone who moves within their own country",
+     "Someone who travels abroad for a short holiday",
+     "Someone who moves from one country to live in another",
+     "Someone who is born in a city"
+    ],
+    "answer": 2,
+    "explanation": "International migration means crossing a national border to live in another country. Movement within a country is internal migration.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a 'push factor'?",
+    "options": [
+     "Better schools in the destination",
+     "Higher wages in a city",
+     "Warmer climate elsewhere",
+     "War or conflict in the home area"
+    ],
+    "answer": 3,
+    "explanation": "Push factors make people want to leave a place, such as conflict, unemployment or natural disasters. The others describe pull factors that attract people to a destination.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which term describes people forced to flee their homes but who stay inside their own country?",
+    "options": [
+     "Internally displaced persons",
+     "Economic migrants",
+     "Asylum seekers",
+     "Refugees"
+    ],
+    "answer": 0,
+    "explanation": "Internally displaced persons (IDPs) have been forced to move but have not crossed an international border. Refugees have crossed a border.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Moving from a village to a city within the same country is called:",
+    "options": [
+     "International migration",
+     "Counter-urbanisation",
+     "Rural-to-urban migration",
+     "Forced return"
+    ],
+    "answer": 2,
+    "explanation": "Rural-to-urban migration is the movement of people from the countryside to towns and cities, usually in search of work or services.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Money sent home by migrant workers to their families is known as:",
+    "options": [
+     "Aid",
+     "Tariffs",
+     "Remittances",
+     "Subsidies"
+    ],
+    "answer": 2,
+    "explanation": "Remittances are money transfers from migrants to people in their home country. They are a major source of income for many low and middle income countries.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In one year a country recorded 450 000 immigrants and 310 000 emigrants. What was its net migration?",
+    "options": [
+     "+760 000",
+     "+140 000",
+     "−140 000",
+     "+310 000"
+    ],
+    "answer": 1,
+    "explanation": "Net migration = immigrants − emigrants = 450 000 − 310 000 = +140 000. A positive value means the country gained people through migration.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A family leaves a farming area after three years of drought and low crop yields and moves to a coastal city where a factory is hiring. Which pairing is correct?",
+    "options": [
+     "Push: factory jobs; pull: drought",
+     "Push: drought; pull: factory jobs",
+     "Push: coastal city; pull: farming",
+     "Push: low yields; pull: low yields"
+    ],
+    "answer": 1,
+    "explanation": "The drought pushes the family out of the countryside, while the factory work pulls them toward the city. Mixing up the origin and destination is a common error.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A person leaves their country because they have a well-founded fear of persecution because of their religion and has crossed into a neighbouring state. How are they classified?",
+    "options": [
+     "Economic migrant",
+     "Internally displaced person",
+     "Refugee",
+     "Seasonal worker"
+    ],
+    "answer": 2,
+    "explanation": "A refugee has crossed an international border and has a well-founded fear of persecution. An economic migrant moves mainly for work and better living standards.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "5000 workers from a fictional country, Norvia, each send home $200 a month. How much do they send home in total in one year?",
+    "options": [
+     "$12 million",
+     "$1 million",
+     "$2.4 million",
+     "$120 million"
+    ],
+    "answer": 0,
+    "explanation": "$200 × 12 months = $2400 per worker; $2400 × 5000 = $12 000 000. Forgetting to multiply by 12 would give $1 million.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is a likely negative effect on the source country when many young skilled workers, such as doctors, emigrate?",
+    "options": [
+     "A brain drain that weakens health services",
+     "A fall in the amount of remittances",
+     "A rise in the birth rate of the source country",
+     "More workers available for jobs at home"
+    ],
+    "answer": 0,
+    "explanation": "When skilled people leave, the home country loses the training and investment spent on them. This is called brain drain. Remittances usually rise, not fall.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of these is the best example of a 'barrier' (intervening obstacle) to migration?",
+    "options": [
+     "A high-paying job in the destination",
+     "Strict visa rules and expensive travel costs",
+     "Family already living abroad",
+     "A civil war at home"
+    ],
+    "answer": 1,
+    "explanation": "Intervening obstacles are factors that make moving harder, such as distance, cost, border controls and visa rules. Family networks usually help migration.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Between 2011 and the late 2010s, a civil war in Syria led millions of people to leave the country. Which type of migration is this mainly?",
+    "options": [
+     "Voluntary retirement migration",
+     "Forced migration of refugees",
+     "Seasonal agricultural migration",
+     "Student migration"
+    ],
+    "answer": 1,
+    "explanation": "People fleeing war are forced migrants because they have little choice about leaving. Many became refugees in neighbouring countries such as Türkiye, Lebanon and Jordan.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A country's remittances were $3.6 billion in a year, and its GDP was $24 billion. What percentage of GDP do remittances represent, and what does this suggest?",
+    "options": [
+     "1.5%; they are of little importance",
+     "15%; the economy depends heavily on them",
+     "15%; the economy is too rich to need them",
+     "6.7%; they are almost unimportant"
+    ],
+    "answer": 1,
+    "explanation": "3.6 ÷ 24 × 100 = 15%. A share this large shows many families and the national economy rely on money sent from abroad.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Town A has 12 000 births, 9 000 deaths, 5 000 immigrants and 8 000 emigrants in one year. A councillor says the population is falling. Which evaluation is correct?",
+    "options": [
+     "Correct: emigration exceeds immigration, so it must fall",
+     "Incorrect: births exceed deaths, so it must rise",
+     "Incorrect: net migration is +3 000 so it rises by 6 000",
+     "The population is unchanged: natural +3 000 offsets net migration −3 000"
+    ],
+    "answer": 3,
+    "explanation": "Natural increase = 12 000 − 9 000 = +3 000. Net migration = 5 000 − 8 000 = −3 000. Total change = 0, so the councillor is wrong. You must combine both parts.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A wealthy country with a low birth rate and an ageing population is considering allowing more working-age immigrants. Which argument best supports this?",
+    "options": [
+     "Immigrants always lower wages for all workers",
+     "It will immediately raise the death rate",
+     "Younger workers can fill job gaps and pay taxes that support services for older people",
+     "It will increase the country's dependency ratio"
+    ],
+    "answer": 2,
+    "explanation": "Working-age migrants can ease labour shortages and widen the tax base, lowering the dependency ratio. The claim that immigrants always lower wages is not a fact and does not always hold.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Source A says 'migration brings only costs to host countries.' Source B is a table showing migrants made up 12% of nurses and 9% of taxpayers in a country. Which is the best judgement on Source A?",
+    "options": [
+     "It is accurate because it has no figures",
+     "It is accurate because Source B agrees with it",
+     "It is weak because it is one-sided and the data in Source B shows contributions",
+     "It is the most reliable source because it is short"
+    ],
+    "answer": 2,
+    "explanation": "Evaluating a source means checking evidence and balance. Source A makes an absolute claim with no evidence, while Source B shows migrants contribute to services and taxes.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which statement best explains why most international migrants move to countries that are geographically close or have historic ties to their home country?",
+    "options": [
+     "Distance and cost act as barriers, while shared language and existing networks reduce risk",
+     "Borders only allow movement between neighbouring countries",
+     "Neighbouring countries always have higher wages",
+     "Pull factors do not exist for distant countries"
+    ],
+    "answer": 0,
+    "explanation": "Shorter moves cost less and are easier. Shared language, culture and family networks make settling in simpler. Neighbours do not always have higher wages, so the claim that neighbours always have higher wages is wrong.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A government wants to discourage rural-to-urban migration. Which policy is most likely to work, based on the causes of migration?",
+    "options": [
+     "Closing all schools in cities",
+     "Banning people from travelling by train",
+     "Building more skyscrapers in the capital",
+     "Improving rural jobs, electricity, schools and clinics"
+    ],
+    "answer": 3,
+    "explanation": "Migration is driven by push and pull factors. Tackling rural push factors, such as poor services and few jobs, reduces the need to leave. Restrictive policies often fail.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What is migration?\nMigration is the movement of people from one place to live in another. It can be **internal** (inside a country, such as rural-to-urban) or **international** (across a border). Migration can be **voluntary**, when people choose to move, or **forced**, when people have to leave because of conflict, persecution or disaster. It can be permanent or temporary, for example seasonal workers who return home each year.\n\n## Key terms\n- **Immigrant**: someone who arrives to live in a country. **Emigrant**: someone who leaves a country.\n- **Net migration** = immigrants − emigrants.\n- **Refugee**: a person who has crossed a border because of a well-founded fear of persecution.\n- **Asylum seeker**: a person who has asked for protection but has not yet been officially recognised as a refugee.\n- **Internally displaced person (IDP)**: forced to flee but still inside their own country.\n- **Economic migrant**: moves mainly for work or a better standard of living.\n- **Remittances**: money sent home by migrants.\n\n## Push and pull factors\n**Push factors** make people leave: war, persecution, unemployment, low wages, drought, floods, poor healthcare and education.\n\n**Pull factors** attract people: jobs, higher wages, safety, good schools and hospitals, family already living there, political freedom.\n\nBetween them there are **intervening obstacles** such as cost, distance, visa rules, language and border controls. Whether someone moves depends on how strong the push and pull are compared with the obstacles. Connections like family and friends abroad make a move more likely.\n\n## Major patterns\n- Rural-to-urban movement is the biggest flow in many low and middle income countries as cities grow quickly.\n- Many migrants move from lower income to higher income countries, for example from South Asia to the Gulf states for construction and care work.\n- Many refugees stay in neighbouring countries. For example, millions of Syrians fled after the civil war began in 2011, with most staying in Türkiye, Lebanon and Jordan.\n- Counter-flows also occur, such as retirement migration from northern Europe to Spain.\n\n## Impacts\nFor the **source country**: remittances, less pressure on jobs and new skills when migrants return; but brain drain, loss of young workers and families split apart.\nFor the **host country**: workers to fill gaps, new ideas and a wider tax base; but pressure on housing and services in some areas, and sometimes tension if integration is poor.\n\nWorked example: 5000 workers each send $200 a month. Yearly remittances = 5000 × 200 × 12 = $12 000 000. If national GDP is $24 billion, a flow of $3.6 billion would be 3.6 ÷ 24 × 100 = 15%.\n\n## Common mistakes\n- Mixing up push and pull factors, or listing them without linking them to a place.\n- Calling every migrant a refugee. Refugees and economic migrants are different.\n- Saying migration is only good or only bad. Strong answers give both sides.\n\n## How this is examined\nQuestions often give a short extract, a flow map described in words or a data set with numbers of arrivals and departures. You may be asked to state push and pull factors, calculate net migration, then discuss impacts or justify a policy. Evaluate sources by asking who wrote them and whether they give evidence.\n\nExam tip: use the words 'push' and 'pull' and name the place each factor belongs to, then add one impact for the source and one for the host country.",
+  "flashcards": [
+   {
+    "front": "Push factor",
+    "back": "A negative condition at home that makes people leave, such as war, unemployment, drought or poor services."
+   },
+   {
+    "front": "Pull factor",
+    "back": "An attraction in the destination, such as jobs, higher wages, safety or better schools and healthcare."
+   },
+   {
+    "front": "Net migration",
+    "back": "Number of immigrants minus the number of emigrants over a period of time."
+   },
+   {
+    "front": "Refugee",
+    "back": "A person who has crossed an international border because of a well-founded fear of persecution."
+   },
+   {
+    "front": "Internally displaced person (IDP)",
+    "back": "A person forced to leave their home who has not crossed an international border."
+   },
+   {
+    "front": "Remittances",
+    "back": "Money sent home by migrants to relatives. For some countries it is a large share of national income."
+   },
+   {
+    "front": "Brain drain",
+    "back": "The emigration of skilled workers, such as doctors and engineers, which weakens the source country."
+   },
+   {
+    "front": "Intervening obstacle",
+    "back": "A barrier between origin and destination such as cost, distance, visa rules or language."
+   },
+   {
+    "front": "Economic migrant",
+    "back": "A person who moves mainly to find work or a better standard of living, not because of persecution."
+   }
+  ]
+ },
+ {
+  "subject": "geography",
+  "grade": 5,
+  "topic": "Population",
+  "subTopic": "Population Policies and Challenges",
+  "questions": [
+   {
+    "content": "A government that tries to reduce population growth is following which type of policy?",
+    "options": [
+     "Pro-natalist policy",
+     "Anti-natalist policy",
+     "Open-border policy",
+     "Urbanisation policy"
+    ],
+    "answer": 1,
+    "explanation": "Anti-natalist policies aim to lower birth rates, for example by promoting family planning. Pro-natalist policies encourage more births.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which country introduced a one-child policy in around 1980 to slow population growth?",
+    "options": [
+     "Japan",
+     "India",
+     "China",
+     "Brazil"
+    ],
+    "answer": 2,
+    "explanation": "China's one-child policy began around 1980 and was relaxed to a two-child policy in 2016.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is an example of a pro-natalist measure?",
+    "options": [
+     "Fines for a third child",
+     "Paid parental leave and child allowances",
+     "Free condoms in clinics",
+     "Education campaigns about small families"
+    ],
+    "answer": 1,
+    "explanation": "Pro-natalist policies encourage births, using benefits such as payments and parental leave. The other options aim to reduce births.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is an 'ageing population'?",
+    "options": [
+     "A population where the average age is falling",
+     "A population with a growing share of older people",
+     "A population with only older immigrants",
+     "A population that is increasing very fast"
+    ],
+    "answer": 1,
+    "explanation": "An ageing population has a rising proportion of people aged 65 and over, usually because of low birth rates and longer life expectancy.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is the main aim of providing family planning education and contraception?",
+    "options": [
+     "To increase death rates",
+     "To give people more choice about the number and timing of children",
+     "To attract migrants",
+     "To raise the retirement age"
+    ],
+    "answer": 1,
+    "explanation": "Family planning helps people decide whether and when to have children, which can reduce birth rates and improve health, especially for women.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is a likely consequence of China's one-child policy over several decades?",
+    "options": [
+     "A rapidly growing young population",
+     "A shortage of elderly people",
+     "A falling birth rate and a faster ageing population",
+     "A rise in the number of children per family"
+    ],
+    "answer": 2,
+    "explanation": "The policy cut fertility and slowed population growth, but led to fewer young workers and an ageing population. It also contributed to an imbalance between boys and girls.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Japan has one of the oldest populations in the world. Which challenge does this most directly cause?",
+    "options": [
+     "Too many schools for the number of children",
+     "Rising pressure on pensions, healthcare and care services",
+     "Large numbers of children who need housing",
+     "A lack of elderly people to work"
+    ],
+    "answer": 1,
+    "explanation": "An ageing population means more people receiving pensions and needing healthcare, while fewer workers pay taxes. Too many schools is the opposite of the real problem, because there are fewer children.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A country raises its retirement age from 65 to 68. Which problem is this policy mainly trying to reduce?",
+    "options": [
+     "A high birth rate",
+     "A low death rate in infants",
+     "Pressure of an ageing population on pensions and labour supply",
+     "Overcrowding in cities"
+    ],
+    "answer": 2,
+    "explanation": "A later retirement age keeps people working and paying tax for longer and delays pension payments. It helps balance the dependency ratio.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A fictional country, Tavara, has 40 million people and a natural increase of 1.5% a year. What is its approximate population after one year if there is no migration?",
+    "options": [
+     "40.15 million",
+     "41.5 million",
+     "46.0 million",
+     "40.6 million"
+    ],
+    "answer": 3,
+    "explanation": "1.5% of 40 million = 0.6 million. So 40 + 0.6 = 40.6 million. Many students forget that 1.5% means 0.015, not 0.15.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Niger has among the highest fertility rates in the world. Which challenge is most closely linked to this?",
+    "options": [
+     "A very high proportion of old dependants",
+     "Providing enough schools, food and jobs for a young and fast-growing population",
+     "A shortage of young people",
+     "Falling life expectancy due to retirement"
+    ],
+    "answer": 1,
+    "explanation": "High fertility leads to a large child population, which demands education, healthcare and eventually jobs. The challenge is to keep services in line with numbers.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which factor is widely shown to reduce birth rates without force?",
+    "options": [
+     "Educating girls and women",
+     "Reducing access to schools",
+     "Lowering the cost of fertility treatments",
+     "Raising the number of children needed for farm work"
+    ],
+    "answer": 0,
+    "explanation": "When girls stay in school longer, they tend to marry later and have fewer children. This is a voluntary route to lower fertility.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A town's pyramid shows many young adults who moved there for work, and few older people. Which problem is most likely to arise later?",
+    "options": [
+     "No problems at all",
+     "A big rise in the number of schools needed straight away",
+     "A fall in the number of workers now",
+     "Pressure on healthcare and pensions as this group ages"
+    ],
+    "answer": 3,
+    "explanation": "A large working-age group will eventually become a large elderly group. Planning ahead for care and pensions is a long-term population challenge.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A country offers cash for each child born. Fertility rises from 1.4 to 1.6 but is still below replacement level. Which is the best evaluation?",
+    "options": [
+     "The policy failed completely because fertility rose",
+     "The policy solved the problem because fertility rose",
+     "The policy had a small effect, and fertility is still below 2.1, so other measures are needed",
+     "Fertility cannot be changed by policy"
+    ],
+    "answer": 2,
+    "explanation": "A rise of 0.2 shows some effect, but 1.6 is well under replacement. A balanced answer notes both the improvement and its limits.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement about China's move from one-child to two-child (2016) and three-child (2021) policies is most accurate?",
+    "options": [
+     "It was a response to a shrinking and ageing workforce",
+     "It was introduced because the country had too few elderly people",
+     "It was introduced to increase the number of rural farmers",
+     "It was intended to stop all migration to cities"
+    ],
+    "answer": 0,
+    "explanation": "As the workforce shrank and the share of older people rose, China loosened limits to encourage more births. The other options do not match the reasons.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Country X (Stage 2 of the DTM) has a dependency ratio of 85 mostly because of children. Country Y (Stage 4) has a ratio of 55 mostly because of elderly people. Which comparison is correct?",
+    "options": [
+     "Both will need more schools",
+     "X needs to expand education and jobs; Y needs to expand pensions and care",
+     "X needs pensions; Y needs schools",
+     "Neither faces a challenge because their ratios differ"
+    ],
+    "answer": 1,
+    "explanation": "The type of dependant matters as well as the size of the ratio. X has many children, so it needs education and future jobs. Y has many elderly people, so it needs care and pension funding.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A planner argues: 'Because the birth rate has fallen, we do not need to build any more homes for 20 years.' Which assumption does the planner make that may be wrong?",
+    "options": [
+     "That households are not getting smaller or older people living longer in separate homes",
+     "That births are measured per 1000",
+     "That there is a government",
+     "That population grows only through births"
+    ],
+    "answer": 0,
+    "explanation": "Housing demand depends on the number of households. Smaller families, divorces and elderly people living alone can keep demand high even if births fall. Migration also matters.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which is the strongest justification for a government choosing voluntary policies (education, contraception) over strict limits such as fines?",
+    "options": [
+     "Voluntary methods give faster results in every case",
+     "Strict limits are always cheaper",
+     "Voluntary methods work only in rich countries",
+     "They respect human rights and avoid problems such as unbalanced sex ratios and hidden births"
+    ],
+    "answer": 3,
+    "explanation": "Strict limits can cause serious social and ethical issues. Voluntary approaches often reduce fertility through education and choice, but usually more slowly, so options A and B overstate the case.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A government wants to evaluate whether a family planning programme worked. Which evidence would be the most convincing?",
+    "options": [
+     "A single story from one happy family",
+     "The fertility rate before and after the programme compared with a similar region without the programme",
+     "The opinion of a politician who supports the programme",
+     "The number of leaflets printed"
+    ],
+    "answer": 1,
+    "explanation": "Comparing change over time, with a comparison area, gives reliable evidence about impact. Leaflets measure effort, not outcome, and a single story is not representative.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why governments act\nPopulation change can create problems. If the population grows too fast, a country may struggle to provide enough food, water, homes, schools and jobs. If the population shrinks or ages, there may be too few workers to support the older generation. Governments therefore use **population policies** to influence the number and structure of their people.\n\n## Types of policy\n- **Anti-natalist** (reduce births): family planning clinics, free or cheap contraception, education campaigns, raising the marriage age, and, in extreme cases, legal limits on family size.\n- **Pro-natalist** (increase births): cash payments for children, paid parental leave, free childcare, tax breaks and housing support.\n- **Migration policies**: encouraging skilled immigrants, or limiting arrivals with quotas and visas.\n- **Ageing policies**: raising the retirement age, encouraging private pensions, building care services and supporting older workers.\n\n## Case study: China\nChina's one-child policy started around 1980 and was relaxed to two children in 2016 and three children in 2021. It slowed growth and helped economic development, but it also led to a rapidly ageing population, a shrinking workforce, an imbalance between boys and girls and a generation of children without siblings. China changed course because it now faces labour shortages and the ageing problem.\n\n## Case study: Japan\nJapan has one of the oldest populations in the world, with low birth rates and long life expectancy. The challenges include higher healthcare costs, pension pressure, rural villages that lose young people and labour shortages. Responses include encouraging older workers to stay employed, using robots in care and industry, and debates about immigration.\n\n## High fertility countries\nSome countries, such as Niger, have very high fertility rates and a large young population. The main challenge is providing enough education, healthcare, food and jobs. Evidence shows that educating girls, improving child survival and giving access to family planning all help fertility to fall by choice.\n\n## Worked example\nA country has 40 million people and natural increase of 1.5%. Growth = 40 × 0.015 = 0.6 million, so after a year the population is 40.6 million. If net migration is +0.1 million, it becomes 40.7 million.\n\n## Evaluating policies\nWhen asked to judge a policy, think about: How effective was it (data before and after)? How fair is it (rights and choice)? What are the side effects? Is it sustainable in the long term? A strong answer weighs strengths and limitations and uses numbers.\n\n## Common mistakes\n- Confusing anti-natalist and pro-natalist.\n- Writing only that the policy 'worked' without evidence.\n- Forgetting that changes in fertility take decades to change the age structure (population momentum).\n- Treating all countries as having the same problem. Young and old populations need different solutions.\n\n## How this is examined\nQuestions usually give a country profile with fertility, age structure or a policy timeline. You may need to calculate change, describe the policy, explain the challenge it targets and then evaluate its success using the data.\n\nExam tip: when you are asked to evaluate a policy, name one benefit, one drawback and then reach a clear judgement supported by a statistic.",
+  "flashcards": [
+   {
+    "front": "Anti-natalist policy",
+    "back": "A policy to reduce birth rates, such as family planning, contraception, education or limits on family size."
+   },
+   {
+    "front": "Pro-natalist policy",
+    "back": "A policy to increase birth rates, such as child payments, paid parental leave and free childcare."
+   },
+   {
+    "front": "China's one-child policy",
+    "back": "Began around 1980 to slow growth. Relaxed to two children in 2016 and three in 2021 as the population aged."
+   },
+   {
+    "front": "Challenge of an ageing population",
+    "back": "Higher pension and healthcare costs, fewer workers and taxpayers, and a higher elderly dependency ratio."
+   },
+   {
+    "front": "Challenge of a very young population",
+    "back": "Providing enough schools, healthcare, food and later jobs for a large and growing number of children."
+   },
+   {
+    "front": "How does educating girls affect fertility?",
+    "back": "Educated girls usually marry later and choose to have fewer children, so birth rates fall."
+   },
+   {
+    "front": "Population momentum",
+    "back": "Population keeps growing for decades after fertility falls because there are many young adults of childbearing age."
+   },
+   {
+    "front": "Ways to respond to an ageing population",
+    "back": "Raise retirement age, support older workers, invest in care services, encourage immigration or births."
+   },
+   {
+    "front": "Why are voluntary policies often preferred?",
+    "back": "They respect individual rights and avoid side effects like unbalanced sex ratios, although results can be slower."
+   }
+  ]
+ }
+]

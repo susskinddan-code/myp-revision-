@@ -1,0 +1,528 @@
+[
+ {
+  "subject": "economics",
+  "grade": 5,
+  "topic": "Elasticity",
+  "subTopic": "Price Elasticity of Demand",
+  "questions": [
+   {
+    "content": "Price elasticity of demand (PED) is calculated as:",
+    "options": [
+     "percentage change in quantity demanded ÷ percentage change in price",
+     "percentage change in price ÷ percentage change in quantity demanded",
+     "change in quantity ÷ change in price",
+     "price × quantity"
+    ],
+    "answer": 0,
+    "explanation": "PED measures how responsive quantity demanded is to a price change: %ΔQd ÷ %ΔP.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A good has a PED of −2.5 (ignoring the sign, 2.5). Demand is:",
+    "options": [
+     "inelastic",
+     "unit elastic",
+     "perfectly inelastic",
+     "elastic"
+    ],
+    "answer": 3,
+    "explanation": "If the size of PED is greater than 1, quantity demanded changes by a bigger percentage than price, so demand is elastic.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which product is most likely to have inelastic demand?",
+    "options": [
+     "A particular brand of chocolate bar",
+     "Holidays to one resort",
+     "Insulin for people with diabetes",
+     "Fashion trainers"
+    ],
+    "answer": 2,
+    "explanation": "Necessities with no close substitutes have inelastic demand, because people must buy them whatever the price.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "If PED = 0, demand is:",
+    "options": [
+     "perfectly elastic",
+     "perfectly inelastic",
+     "unit elastic",
+     "elastic"
+    ],
+    "answer": 1,
+    "explanation": "A PED of 0 means quantity demanded does not respond at all to a price change.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which factor makes demand for a good MORE elastic?",
+    "options": [
+     "It is a necessity",
+     "There are many close substitutes",
+     "It takes up a tiny part of income",
+     "Consumers have no alternatives"
+    ],
+    "answer": 1,
+    "explanation": "If consumers can easily switch to substitutes, a small price rise leads to a large fall in quantity demanded.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A shop raises the price of a snack from $2.00 to $2.40. Weekly sales fall from 1,000 to 900. What is the PED (ignoring the sign)?",
+    "options": [
+     "0.5",
+     "2.0",
+     "1.0",
+     "10"
+    ],
+    "answer": 0,
+    "explanation": "%ΔP = +20%; %ΔQd = −10%. PED = 10 ÷ 20 = 0.5, so demand is inelastic.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Using the same data (price $2.00 to $2.40, sales 1,000 to 900), what is the change in total revenue?",
+    "options": [
+     "Falls by $160",
+     "Rises by $100",
+     "Stays the same",
+     "Rises by $160"
+    ],
+    "answer": 3,
+    "explanation": "Revenue before = 2.00 × 1,000 = $2,000. After = 2.40 × 900 = $2,160. With inelastic demand, a price rise increases revenue.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A cafe cuts the price of a sandwich from $50 to $45 per party tray. Orders rise from 200 to 260. What is the PED (ignoring the sign) and the revenue change?",
+    "options": [
+     "0.33, revenue rises from $10,000 to $11,700",
+     "3, revenue falls",
+     "3, revenue rises from $10,000 to $11,700",
+     "1, revenue stays at $10,000"
+    ],
+    "answer": 2,
+    "explanation": "%ΔP = −10%; %ΔQ = +30%; PED = 30 ÷ 10 = 3 (elastic). Revenue: 50 × 200 = $10,000 and 45 × 260 = $11,700, so a price cut increases revenue when demand is elastic.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is demand for petrol usually more elastic in the long run than the short run?",
+    "options": [
+     "Petrol becomes cheaper over time",
+     "People stop needing fuel entirely",
+     "Over time people can buy efficient cars, change commutes or use alternatives",
+     "Supply is perfectly elastic"
+    ],
+    "answer": 2,
+    "explanation": "Time allows consumers to find substitutes, which makes demand more responsive.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which good is likely to have the MOST inelastic demand?",
+    "options": [
+     "A new smartphone model",
+     "Salt",
+     "A holiday abroad",
+     "A cinema ticket"
+    ],
+    "answer": 1,
+    "explanation": "Salt is cheap relative to income, has no close substitute and is bought in small amounts regardless of price.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "PED for a product is −1.5. The price rises by 4%. By how much will quantity demanded change?",
+    "options": [
+     "It falls by 6%",
+     "It falls by 2.7%",
+     "It rises by 6%",
+     "It falls by 4%"
+    ],
+    "answer": 0,
+    "explanation": "%ΔQd = PED × %ΔP = −1.5 × 4 = −6%.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Cigarettes have a PED of −0.3. The government's tax raises the price by 10%. What is the most likely outcome?",
+    "options": [
+     "Consumption falls by 33%",
+     "Consumption stays the same exactly",
+     "Consumption rises",
+     "Consumption falls by about 3% and tax revenue rises"
+    ],
+    "answer": 3,
+    "explanation": "%ΔQd = −0.3 × 10 = −3%. Demand is inelastic, so the tax raises revenue but only slightly reduces consumption.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is demand for 'Brand X' cereal more elastic than demand for cereal in general?",
+    "options": [
+     "Cereal is a luxury good",
+     "Brand X is cheaper",
+     "There is a close substitute for cereal as a whole",
+     "Other brands are close substitutes for Brand X"
+    ],
+    "answer": 3,
+    "explanation": "The narrower the definition of a product, the more substitutes exist, so demand is more elastic.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A seller raises the price of a ticket from $8 to $10. Sales fall from 600 to 540. What is the PED (ignoring the sign) and what happens to revenue?",
+    "options": [
+     "2.5, revenue falls",
+     "0.4, revenue falls from $5,400 to $4,800",
+     "0.4, revenue rises from $4,800 to $5,400",
+     "1, revenue unchanged"
+    ],
+    "answer": 2,
+    "explanation": "%ΔP = +25%, %ΔQd = −10%, so PED = 10 ÷ 25 = 0.4 (inelastic). Revenue: 8 × 600 = $4,800; 10 × 540 = $5,400.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A firm's PED is 0.6 and it wants to raise total revenue. Which action should it take?",
+    "options": [
+     "Cut the price",
+     "Raise the price",
+     "Keep price the same",
+     "Cut price and advertise to double quantity"
+    ],
+    "answer": 1,
+    "explanation": "With inelastic demand, quantity falls by a smaller percentage than price rises, so revenue goes up.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A cinema finds student PED is 2.2 and adult PED is 0.7. What pricing strategy maximises revenue?",
+    "options": [
+     "A lower price for students and a higher price for adults",
+     "A higher price for students and a lower price for adults",
+     "The same price for everyone",
+     "Free tickets for adults"
+    ],
+    "answer": 0,
+    "explanation": "Elastic student demand responds strongly to lower prices (revenue rises), while inelastic adult demand falls little when prices rise.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A tax raises the price of sugary drinks by 20%. PED is −0.4 and current sales are 1,000,000 litres. What is the likely effect on consumption, and what does it show?",
+    "options": [
+     "It falls by 80,000 litres; a small reduction because demand is inelastic",
+     "It falls by 200,000 litres; a large reduction",
+     "It falls by 8,000 litres",
+     "It falls by 400,000 litres"
+    ],
+    "answer": 0,
+    "explanation": "%ΔQd = −0.4 × 20 = −8%, which is 80,000 litres. The tax raises revenue but only modestly improves health, so other measures such as education may be needed.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A firm calculates PED from only one year of sales data and plans to use it for the next five years. What is the best criticism?",
+    "options": [
+     "PED can only be calculated for supply",
+     "One year is always enough",
+     "PED never changes",
+     "Other factors like incomes and tastes may have changed, so the estimate may be unreliable"
+    ],
+    "answer": 3,
+    "explanation": "Real PED values can change as incomes, substitutes and tastes change, and a single estimate cannot hold other factors constant.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Demand for some goods changes a lot when the price changes. For others it hardly changes at all. **Price elasticity of demand (PED)** measures how responsive quantity demanded is to a change in price.\n\n## The formula\nPED = % change in quantity demanded ÷ % change in price\n\nThe answer is normally negative because price and quantity move in opposite directions, so many courses ignore the sign. Percentage change = (new − old) ÷ old × 100.\n\nWorked example: price rises from $2.00 to $2.40 (+20%) and sales fall from 1,000 to 900 (−10%). PED = 10 ÷ 20 = 0.5.\n\n## Interpreting PED\n- **PED > 1: elastic.** Quantity changes by a bigger percentage than price.\n- **PED < 1: inelastic.** Quantity changes by a smaller percentage than price.\n- **PED = 1: unit elastic.**\n- **PED = 0: perfectly inelastic.** Quantity does not change at all.\n\n## Determinants of PED\n- **Availability of substitutes**: more close substitutes means more elastic.\n- **Necessity or luxury**: necessities (insulin, salt) are inelastic. Luxuries are elastic.\n- **Share of income**: cheap items bought in small amounts are inelastic. Expensive items are more elastic.\n- **Time**: demand is more elastic in the long run since consumers find alternatives.\n- **Width of definition**: a brand has a higher PED than the whole product category.\n\n## PED and total revenue\nTotal revenue = price × quantity.\n- **Inelastic demand**: raising the price increases revenue. A price cut lowers it.\n- **Elastic demand**: lowering the price increases revenue. A price rise lowers it.\nIn the example above, revenue rose from $2,000 to $2,160 because demand was inelastic. If a sandwich tray falls from $50 to $45 and orders rise from 200 to 260, PED = 30 ÷ 10 = 3 and revenue rises from $10,000 to $11,700.\n\n## Predicting changes\nRearranging, % change in quantity = PED × % change in price. If PED is −1.5 and price rises by 4%, quantity falls by 6%.\n\n## Applications\nFirms use PED to set prices, for example a cinema charging students less (elastic) than adults (inelastic). Governments use it to predict the effects of taxes. A tax on cigarettes or sugary drinks with inelastic demand raises revenue but reduces consumption only a little. That is helpful for funding services but weaker for health goals, so other policies may be needed.\n\n## Common mistakes\n- Dividing the wrong way around (price over quantity).\n- Using the raw change instead of the percentage change.\n- Saying 'inelastic means demand does not change'. It changes, but by a smaller percentage.\n- Forgetting that revenue effects depend on elasticity.\n\n## Limitations\nPED estimates are based on past data. Incomes, tastes and substitutes change, so values are never exact. A good evaluation says so.\n\n## How this is examined\nQuestions give a short context and a table or two data points. You calculate PED or revenue, interpret the result and make a recommendation, for example whether a firm should raise prices. Extended tasks ask you to state assumptions, check percentage changes carefully and evaluate a tax or pricing decision.\n\nExam tip: Show the percentage changes for price and quantity first, then divide, and say whether demand is elastic or inelastic.",
+  "flashcards": [
+   {
+    "front": "PED formula",
+    "back": "% change in quantity demanded ÷ % change in price (percentage change = (new − old) ÷ old × 100)."
+   },
+   {
+    "front": "Elastic demand",
+    "back": "PED greater than 1: quantity demanded changes by a bigger percentage than price."
+   },
+   {
+    "front": "Inelastic demand",
+    "back": "PED less than 1: quantity demanded changes by a smaller percentage than price."
+   },
+   {
+    "front": "Four determinants of PED",
+    "back": "Availability of substitutes, necessity vs luxury, share of income spent, and time (more elastic in the long run)."
+   },
+   {
+    "front": "Revenue and inelastic demand",
+    "back": "Raising price increases total revenue; cutting price decreases it."
+   },
+   {
+    "front": "Revenue and elastic demand",
+    "back": "Cutting price increases total revenue; raising price decreases it."
+   },
+   {
+    "front": "Total revenue",
+    "back": "Price × quantity sold."
+   },
+   {
+    "front": "Predicting a change",
+    "back": "% change in quantity = PED × % change in price. E.g. PED −1.5 and price +4% gives quantity −6%."
+   },
+   {
+    "front": "Why tax inelastic goods?",
+    "back": "Demand falls only a little, so tax revenue rises, but the tax does little to cut consumption."
+   }
+  ]
+ },
+ {
+  "subject": "economics",
+  "grade": 5,
+  "topic": "Elasticity",
+  "subTopic": "Elasticity of Supply and Applications",
+  "questions": [
+   {
+    "content": "Price elasticity of supply (PES) is calculated as:",
+    "options": [
+     "percentage change in quantity supplied ÷ percentage change in price",
+     "percentage change in price ÷ percentage change in quantity supplied",
+     "change in supply ÷ change in demand",
+     "price × quantity supplied"
+    ],
+    "answer": 0,
+    "explanation": "PES shows how responsive producers are to a price change.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "If PES is greater than 1, supply is:",
+    "options": [
+     "inelastic",
+     "perfectly inelastic",
+     "unit elastic",
+     "elastic"
+    ],
+    "answer": 3,
+    "explanation": "A PES above 1 means output rises by a larger percentage than price.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which factor makes supply MORE elastic?",
+    "options": [
+     "Production takes a long time",
+     "Inputs are hard to find",
+     "Firms have spare capacity and stocks of goods",
+     "The firm is operating at full capacity"
+    ],
+    "answer": 2,
+    "explanation": "Spare capacity and stocks allow firms to increase output quickly in response to a higher price.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why is the short-run supply of many crops inelastic?",
+    "options": [
+     "Farmers do not want profit",
+     "Growing crops takes time, so output cannot quickly respond to price",
+     "Crops can be made instantly",
+     "Demand is always inelastic"
+    ],
+    "answer": 1,
+    "explanation": "Planting and harvesting cycles limit how fast farmers can respond to price signals.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A stadium with 40,000 fixed seats sells tickets for one night. In the short run its supply of seats is:",
+    "options": [
+     "perfectly elastic",
+     "perfectly inelastic",
+     "elastic",
+     "unit elastic"
+    ],
+    "answer": 1,
+    "explanation": "No matter how high the price, the number of seats cannot change tonight, so PES = 0.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A price rise of 10% leads firms to increase quantity supplied by 25%. What is PES?",
+    "options": [
+     "2.5",
+     "0.4",
+     "1.5",
+     "35"
+    ],
+    "answer": 0,
+    "explanation": "PES = 25 ÷ 10 = 2.5, so supply is elastic.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The price of a product rises from $4 to $5, and quantity supplied rises from 800 to 840. What is the PES?",
+    "options": [
+     "5",
+     "0.8",
+     "1.25",
+     "0.2"
+    ],
+    "answer": 3,
+    "explanation": "%ΔP = 25%; %ΔQs = 5%. PES = 5 ÷ 25 = 0.2, so supply is inelastic.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A bumper wheat harvest increases supply. Demand for wheat is inelastic. What happens to farmers' total revenue?",
+    "options": [
+     "It rises, because quantity rises",
+     "It stays the same",
+     "It falls, because the price falls by a larger percentage than quantity rises",
+     "It rises because demand is inelastic"
+    ],
+    "answer": 2,
+    "explanation": "With inelastic demand, a big price fall is needed to sell the extra wheat, so revenue falls. This is why farm incomes are unstable.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A tax is placed on a good with inelastic demand. Who bears most of the tax?",
+    "options": [
+     "Producers",
+     "The government",
+     "Consumers",
+     "Nobody"
+    ],
+    "answer": 2,
+    "explanation": "Because consumers cannot cut back much, producers can pass most of the tax on through higher prices.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Income rises by 5% and demand for restaurant meals rises by 10%. What is the income elasticity of demand (YED)?",
+    "options": [
+     "0.5",
+     "2.0",
+     "15",
+     "−2.0"
+    ],
+    "answer": 1,
+    "explanation": "YED = %ΔQd ÷ %Δincome = 10 ÷ 5 = 2. A value above 1 shows a luxury (income-elastic) good.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Income rises by 10% and demand for instant noodles falls by 4%. What is YED and what does it show?",
+    "options": [
+     "−0.4, an inferior good",
+     "0.4, a normal good",
+     "−0.4, a normal good",
+     "4, a luxury good"
+    ],
+    "answer": 0,
+    "explanation": "YED = −4 ÷ 10 = −0.4. A negative YED means demand falls as incomes rise, so it is an inferior good.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The price of coffee rises 10% and demand for tea rises 6%. What is the cross elasticity of demand (XED) and what does it show?",
+    "options": [
+     "−0.6, the goods are complements",
+     "+0.6, the goods are complements",
+     "+1.67, the goods are substitutes",
+     "+0.6, the goods are substitutes"
+    ],
+    "answer": 3,
+    "explanation": "XED = %ΔQd of tea ÷ %ΔP of coffee = 6 ÷ 10 = +0.6. A positive value means substitutes.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The price of printers rises 5% and demand for ink falls 2%. What is XED and what does it show?",
+    "options": [
+     "+0.4, the goods are substitutes",
+     "−0.4, the goods are substitutes",
+     "−2.5, the goods are complements",
+     "−0.4, the goods are complements"
+    ],
+    "answer": 3,
+    "explanation": "XED = −2 ÷ 5 = −0.4. A negative value means complements, which are bought together.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A city's population grows quickly and house building is slow. What is likely to happen to house prices?",
+    "options": [
+     "They fall because supply is elastic",
+     "They stay the same",
+     "They rise sharply because supply is inelastic in the short run",
+     "They fall because demand is perfectly elastic"
+    ],
+    "answer": 2,
+    "explanation": "Housing takes years to build, so supply is inelastic. Rising demand therefore pushes prices up a lot.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A bakery with spare ovens raises its price 8% and increases output 20%. When it reaches full capacity, a further price rise does not increase output. What are the PES values?",
+    "options": [
+     "0.4 first, then 1",
+     "2.5 first, then 0",
+     "2.5 first, then 1",
+     "0.4 first, then 0"
+    ],
+    "answer": 1,
+    "explanation": "First stage: 20 ÷ 8 = 2.5. At full capacity, quantity supplied cannot rise, so PES = 0 in the short run.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A harvest falls by 10% and demand for the crop has PED −0.5. By roughly how much must the price rise to clear the market?",
+    "options": [
+     "20%",
+     "5%",
+     "10%",
+     "50%"
+    ],
+    "answer": 0,
+    "explanation": "%ΔP = %ΔQ ÷ PED = −10 ÷ −0.5 = 20%. Inelastic demand means large price swings, which explains unstable farm incomes.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Solar panel suppliers have PES = 0.3 in the short run. The government introduces a subsidy. What is the most likely short-run result?",
+    "options": [
+     "Output rises only a little and much of the subsidy goes to higher prices and profit",
+     "Output rises massively",
+     "Prices fall to zero",
+     "No effect on prices"
+    ],
+    "answer": 0,
+    "explanation": "Inelastic supply means firms cannot quickly increase output, so the extra demand pushes prices and profits up. Long-run effects can be larger.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A $2 per unit tax is placed on a good. Before the tax the price is $10. After the tax, consumers pay $11.60. What share of the tax is paid by consumers, and what does it suggest?",
+    "options": [
+     "20%, demand is relatively elastic",
+     "80%, supply is perfectly inelastic",
+     "50%, demand and supply have equal elasticity",
+     "80%, demand is relatively inelastic"
+    ],
+    "answer": 3,
+    "explanation": "Consumers pay (11.60 − 10) ÷ 2 = 80% of the tax, producers 20%. The larger burden on consumers suggests demand is less elastic than supply.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Elasticity of supply tells us how quickly and how much producers can change output when price changes. It also leads us to useful applications for farmers, house prices and taxes.\n\n## Price elasticity of supply (PES)\nPES = % change in quantity supplied ÷ % change in price\n\nWorked example: price rises from $4 to $5 (+25%) and quantity supplied rises from 800 to 840 (+5%). PES = 5 ÷ 25 = 0.2, which is inelastic. If a 10% price rise leads to a 25% rise in output, PES = 2.5, which is elastic.\n- **PES > 1: elastic.**\n- **PES < 1: inelastic.**\n- **PES = 0: perfectly inelastic** (e.g. seats in a stadium tonight).\n\n## Determinants of PES\n- **Spare capacity** and **stocks**: more means more elastic.\n- **Time**: supply is more elastic in the long run because firms can build factories and train workers.\n- **Mobility of factors**: if workers and materials can be moved easily, supply is more elastic.\n- **Production time**: crops and housing take a long time, so supply is inelastic in the short run.\n- **Storage**: goods that can be stored (canned food) can be released quickly.\n\n## Applications\n- **Farm incomes**: crops have inelastic supply in the short run and often inelastic demand. A bumper harvest pushes prices down sharply and farmers' revenue may fall. If a harvest falls by 10% and PED is −0.5, price must rise by 10 ÷ 0.5 = 20%. This is why farm incomes and food prices are unstable.\n- **Housing**: supply is inelastic, so rising demand sends house prices up quickly.\n- **Taxes**: when demand is inelastic, consumers bear most of a tax. If a $2 tax raises the price paid from $10 to $11.60, consumers pay 1.60 ÷ 2 = 80% of the tax.\n- **Subsidies**: if supply is inelastic, a subsidy for products such as solar panels may raise prices and profits more than output in the short run.\n\n## Other elasticities\n- **Income elasticity of demand (YED)** = %ΔQd ÷ %Δincome. Positive means a normal good (above 1 is a luxury). Negative means an inferior good.\n- **Cross elasticity of demand (XED)** = %ΔQd of good A ÷ %ΔP of good B. Positive means substitutes. Negative means complements.\n\n## Common mistakes\n- Mixing up PES with PED. PES uses quantity supplied.\n- Saying a tax is paid by whoever the law says pays it. The burden depends on elasticities.\n- Forgetting the sign of XED and YED, since the sign tells you the type of good.\n- Using actual changes rather than percentages.\n\n## How this is examined\nYou get a market in a real-world context, such as a farming region, a housing shortage or a new tax. You calculate PES, YED or XED, interpret what they show and evaluate an outcome. Extended tasks ask you to identify relevant information, state assumptions, check your calculations and judge the impact on groups such as consumers, producers and the environment.\n\nExam tip: Write the formula, show each percentage change, then interpret the answer in context.",
+  "flashcards": [
+   {
+    "front": "PES formula",
+    "back": "% change in quantity supplied ÷ % change in price."
+   },
+   {
+    "front": "Elastic supply",
+    "back": "PES greater than 1: quantity supplied changes by a bigger percentage than price."
+   },
+   {
+    "front": "Determinants of PES",
+    "back": "Spare capacity, stocks, time, mobility of factors, production time and ease of storage."
+   },
+   {
+    "front": "Why farm incomes are unstable",
+    "back": "Crop supply is inelastic in the short run and demand is often inelastic, so supply changes cause large price swings."
+   },
+   {
+    "front": "Tax and inelastic demand",
+    "back": "Consumers bear most of the tax because they cannot cut back much, so producers can pass it on."
+   },
+   {
+    "front": "Income elasticity of demand (YED)",
+    "back": "% change in quantity demanded ÷ % change in income. Positive: normal good (above 1 luxury). Negative: inferior good."
+   },
+   {
+    "front": "Cross elasticity of demand (XED)",
+    "back": "% change in quantity demanded of A ÷ % change in price of B. Positive: substitutes. Negative: complements."
+   },
+   {
+    "front": "Why house prices rise sharply",
+    "back": "Housing supply is inelastic in the short run because building takes time, so demand increases push prices up."
+   },
+   {
+    "front": "PES = 0",
+    "back": "Perfectly inelastic supply, such as the fixed seats in a stadium on a given night."
+   }
+  ]
+ }
+]

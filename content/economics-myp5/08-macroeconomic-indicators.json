@@ -1,0 +1,791 @@
+[
+  {
+    "subject": "economics",
+    "grade": 5,
+    "topic": "Macroeconomic Indicators",
+    "subTopic": "Economic Growth and GDP",
+    "questions": [
+      {
+        "content": "What does Gross Domestic Product (GDP) measure?",
+        "options": [
+          "The total savings of a country's households",
+          "The total value of final goods and services produced in a country in a period",
+          "The government's total tax revenue",
+          "The number of people in work"
+        ],
+        "answer": 1,
+        "explanation": "GDP is the total value of all final goods and services produced within a country's borders over a period, usually a year or a quarter.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What is meant by economic growth?",
+        "options": [
+          "A rise in prices",
+          "An increase in real GDP over time",
+          "A rise in unemployment",
+          "An increase in the population only"
+        ],
+        "answer": 1,
+        "explanation": "Economic growth is an increase in the output of an economy, normally measured by the percentage change in real GDP.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "An economy has consumption C = 600, investment I = 150, government spending G = 200, exports X = 180 and imports M = 130 (all in $ billion). What is GDP using C + I + G + (X − M)?",
+        "options": [
+          "1,000",
+          "1,130",
+          "1,260",
+          "1,110"
+        ],
+        "answer": 0,
+        "explanation": "GDP = 600 + 150 + 200 + (180 − 130) = 600 + 150 + 200 + 50 = $1,000 billion. Imports are subtracted, not added.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What is the difference between real GDP and nominal GDP?",
+        "options": [
+          "Real GDP is adjusted for changes in prices; nominal GDP is not",
+          "Nominal GDP is adjusted for population; real GDP is not",
+          "Real GDP excludes exports",
+          "They are the same"
+        ],
+        "answer": 0,
+        "explanation": "Nominal GDP uses current prices, so it rises with inflation. Real GDP removes the effect of price changes, so it shows changes in actual output.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "How is GDP per capita calculated?",
+        "options": [
+          "GDP × population",
+          "GDP ÷ population",
+          "GDP ÷ number of firms",
+          "Population ÷ GDP"
+        ],
+        "answer": 1,
+        "explanation": "GDP per capita = GDP ÷ population. It gives the average output per person.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A country's GDP rises from $1,000 billion to $1,030 billion. What is the rate of economic growth?",
+        "options": [
+          "0.3%",
+          "3%",
+          "30%",
+          "3.3%"
+        ],
+        "answer": 1,
+        "explanation": "Growth = (1,030 − 1,000) ÷ 1,000 × 100 = 3%. Use the original value as the base.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Nominal GDP is $1,260 billion and the price index (GDP deflator) is 105, with the base year at 100. What is real GDP?",
+        "options": [
+          "$1,155 billion",
+          "$1,200 billion",
+          "$1,323 billion",
+          "$1,365 billion"
+        ],
+        "answer": 1,
+        "explanation": "Real GDP = nominal GDP ÷ deflator × 100 = 1,260 ÷ 105 × 100 = $1,200 billion. Multiplying instead of dividing gives the wrong answer.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A country has GDP of $600 billion and a population of 20 million. What is GDP per capita?",
+        "options": [
+          "$3,000",
+          "$30,000",
+          "$300,000",
+          "$120,000"
+        ],
+        "answer": 1,
+        "explanation": "$600,000,000,000 ÷ 20,000,000 = $30,000 per person. Take care converting billions and millions.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Nominal GDP grows by 5% in a year while the general price level rises by 3%. Approximately how much did real GDP grow?",
+        "options": [
+          "8%",
+          "5%",
+          "2%",
+          "15%"
+        ],
+        "answer": 2,
+        "explanation": "Real growth is roughly nominal growth minus inflation: 5% − 3% = 2% (precisely 1.05 ÷ 1.03 ≈ 1.019, about 1.9%).",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which of the following is NOT counted in GDP?",
+        "options": [
+          "A new laptop sold by a shop",
+          "A haircut at a salon",
+          "Unpaid cooking for your own family",
+          "A bridge built by the government"
+        ],
+        "answer": 2,
+        "explanation": "GDP counts goods and services that are produced and traded in the market or provided by government. Unpaid household work is not recorded, which is one limitation of GDP.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which change is most likely to raise an economy's long-term growth?",
+        "options": [
+          "A fall in investment",
+          "More investment in capital and better education",
+          "A rise in the number of strikes",
+          "A cut in the school leaving age to 10"
+        ],
+        "answer": 1,
+        "explanation": "Long-term growth depends on increases in the quantity and quality of factors of production, such as capital, labour skills and technology.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A country's real GDP falls for two consecutive quarters. What is this usually called?",
+        "options": [
+          "A boom",
+          "A recession",
+          "Hyperinflation",
+          "A trade surplus"
+        ],
+        "answer": 1,
+        "explanation": "A common definition of recession is two or more consecutive quarters of falling real GDP.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which is a cost, rather than a benefit, of fast economic growth?",
+        "options": [
+          "Higher incomes",
+          "More jobs",
+          "Greater resource depletion and pollution",
+          "Greater tax revenue"
+        ],
+        "answer": 2,
+        "explanation": "Fast growth may use up non-renewable resources and increase pollution. Benefits include higher incomes, jobs and tax revenue.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Between two years nominal GDP rises from 500 to 520 (units: $ billion) while the price index rises from 100 to 104. What is the real GDP growth?",
+        "options": [
+          "4%",
+          "0%",
+          "20%",
+          "−4%"
+        ],
+        "answer": 1,
+        "explanation": "Real GDP in year 2 = 520 ÷ 104 × 100 = 500, the same as year 1. Real growth is 0%: the entire rise in nominal GDP was due to higher prices.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A country's real GDP grows by 2% in a year, but its population grows by 3%. What happens to GDP per capita?",
+        "options": [
+          "It rises by about 1%",
+          "It stays unchanged",
+          "It falls by about 1%",
+          "It rises by 5%"
+        ],
+        "answer": 2,
+        "explanation": "Output per person = GDP ÷ population. Output grew slower than population (1.02 ÷ 1.03 ≈ 0.99), so GDP per capita fell by about 1% even though the economy grew.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Country A has a higher GDP per capita than Country B. A student concludes that people in A are happier and better off. Which is the strongest criticism of this conclusion?",
+        "options": [
+          "GDP per capita is always inaccurate",
+          "GDP per capita is an average; it ignores income distribution, the environment, leisure, unpaid work and the informal economy",
+          "GDP only measures exports",
+          "Country B must be richer"
+        ],
+        "answer": 1,
+        "explanation": "GDP per capita is a useful but limited measure of living standards. It does not show how income is shared, environmental damage, working hours or informal activity.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "An economy's GDP rises from 1,000 to 1,050. Consumption rose from 600 to 620, investment from 150 to 180, government spending stayed at 200, exports rose from 180 to 190 and imports rose from 130 to 140. Which components explain the entire rise?",
+        "options": [
+          "Government spending and exports",
+          "Consumption and investment (net exports were unchanged)",
+          "Exports and imports only",
+          "Investment and government spending"
+        ],
+        "answer": 1,
+        "explanation": "Consumption rose by 20 and investment by 30, a total of 50. Net exports (X − M) were 50 in both years because exports and imports both rose by 10, so they did not contribute.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A report states that a country achieved 4% growth for ten years, but the richest 10% captured most of the extra income and CO₂ emissions doubled. Which evaluation is best?",
+        "options": [
+          "Growth is always good, so the policy is a total success",
+          "Growth raised output, but the benefits were unevenly shared and the environmental cost threatens future sustainability, so success is only partial",
+          "Growth is always bad",
+          "Emissions are irrelevant to economics"
+        ],
+        "answer": 1,
+        "explanation": "Strong evaluation weighs benefits and costs using evidence: higher output (a benefit) against inequality and environmental damage (costs).",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "## What is GDP?\n**Gross Domestic Product (GDP)** is the total value of all final goods and services produced inside a country in a period, usually a year. It is the most common measure of the size of an economy. Only final goods are counted, to avoid double counting: the flour inside a loaf of bread is not counted separately from the bread.\n\nGDP can be measured as total spending: **GDP = C + I + G + (X − M)**, where C is consumption, I is investment, G is government spending, X is exports and M is imports. With C = 600, I = 150, G = 200, X = 180 and M = 130, GDP = 600 + 150 + 200 + 50 = 1,000.\n\n## Nominal and real GDP\n**Nominal GDP** is measured at current prices, so it can rise just because prices rise. **Real GDP** is adjusted for inflation using a price index (the deflator). Real GDP = nominal GDP ÷ price index × 100. If nominal GDP is 1,260 and the index is 105, real GDP is 1,200. Always use real GDP when judging growth.\n\n## Economic growth\n**Economic growth** is the percentage increase in real GDP. Growth rate = (new − old) ÷ old × 100. From 1,000 to 1,030 is 3% growth. A **recession** is usually defined as two or more consecutive quarters of falling real GDP.\n\nGrowth comes from more or better factors of production: investment in capital, education and training, new technology, discovery of resources, and a bigger labour force.\n\n## GDP per capita\nGDP per capita = GDP ÷ population. It gives the average output per person and is better than total GDP for comparing living standards. If GDP rises 2% but population rises 3%, GDP per capita falls about 1%.\n\n## Benefits and costs of growth\nBenefits: higher incomes and consumption, more jobs, more tax revenue to pay for schools and hospitals, and more resources to tackle poverty. Costs: pollution and climate change, depletion of non-renewable resources, rising inequality if gains go to a few, and stress or long working hours.\n\n## Limits of GDP as a measure of wellbeing\nGDP ignores unpaid work (such as childcare at home), the informal economy, income distribution, environmental damage, leisure time and health or happiness. This is why development indicators such as the HDI are also used.\n\n## Common mistakes\n- Using nominal GDP to claim growth.\n- Adding imports to GDP instead of subtracting.\n- Confusing GDP with GDP per capita.\n- Saying that high GDP means everyone is well off.\n\n## How this is examined\nIn the on-screen exam you may be given a table of GDP, prices and population over several years. You are asked to calculate growth or GDP per capita, adjust for inflation, and evaluate whether living standards improved, noting limitations of the data.\n\nExam tip: Check whether figures are real or nominal before you calculate growth, and mention at least one limit of GDP when evaluating.",
+    "flashcards": [
+      {
+        "front": "GDP",
+        "back": "The total value of all final goods and services produced within a country in a given period."
+      },
+      {
+        "front": "Expenditure formula for GDP",
+        "back": "GDP = C + I + G + (X − M): consumption, investment, government spending and net exports."
+      },
+      {
+        "front": "Real GDP formula",
+        "back": "Real GDP = nominal GDP ÷ price index × 100. It removes the effect of inflation."
+      },
+      {
+        "front": "Economic growth",
+        "back": "An increase in real GDP over time, measured as the percentage change in real GDP."
+      },
+      {
+        "front": "GDP per capita",
+        "back": "GDP ÷ population: the average output (and rough income) per person."
+      },
+      {
+        "front": "Recession",
+        "back": "Usually two or more consecutive quarters of falling real GDP."
+      },
+      {
+        "front": "Three sources of economic growth",
+        "back": "More capital investment, a more educated and skilled workforce, and improved technology (also more resources or workers)."
+      },
+      {
+        "front": "Two costs of fast growth",
+        "back": "Pollution and resource depletion; widening inequality if the gains go to a few people."
+      },
+      {
+        "front": "Limits of GDP as a measure of wellbeing",
+        "back": "Ignores unpaid work, the informal economy, income distribution, environmental damage, leisure and happiness."
+      }
+    ]
+  },
+  {
+    "subject": "economics",
+    "grade": 5,
+    "topic": "Macroeconomic Indicators",
+    "subTopic": "Inflation and Deflation",
+    "questions": [
+      {
+        "content": "What is inflation?",
+        "options": [
+          "A fall in the general price level",
+          "A sustained rise in the general price level",
+          "A rise in the price of one product",
+          "A rise in wages only"
+        ],
+        "answer": 1,
+        "explanation": "Inflation is a sustained increase in the general level of prices across the economy, not just a rise in one product's price.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What does the Consumer Price Index (CPI) measure?",
+        "options": [
+          "The average change in prices of a typical basket of goods and services bought by households",
+          "The total value of exports",
+          "The number of consumers",
+          "Government spending"
+        ],
+        "answer": 0,
+        "explanation": "The CPI tracks the cost of a representative basket of items households buy, and changes in it are used to measure the inflation rate.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What is deflation?",
+        "options": [
+          "A slower rise in prices",
+          "A fall in the general price level",
+          "A rise in unemployment",
+          "A fall in GDP"
+        ],
+        "answer": 1,
+        "explanation": "Deflation is a sustained fall in the general price level. Do not confuse it with disinflation, where prices still rise but more slowly.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "The CPI rises from 112 to 117.6 in a year. What is the inflation rate?",
+        "options": [
+          "4.7%",
+          "5%",
+          "5.6%",
+          "6%"
+        ],
+        "answer": 1,
+        "explanation": "Inflation = (117.6 − 112) ÷ 112 × 100 = 5%.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Inflation caused by total spending in the economy growing faster than the economy's ability to produce is called:",
+        "options": [
+          "Cost-push inflation",
+          "Demand-pull inflation",
+          "Deflation",
+          "Stagnation"
+        ],
+        "answer": 1,
+        "explanation": "In demand-pull inflation, too much money chases too few goods, pulling prices up. Cost-push inflation comes from rising costs of production.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A sudden rise in the world price of oil makes transport, farming and manufacturing more expensive, and prices rise across the economy. What type of inflation is this?",
+        "options": [
+          "Demand-pull",
+          "Cost-push",
+          "Deflationary",
+          "Structural"
+        ],
+        "answer": 1,
+        "explanation": "Higher costs of production push up firms' prices. This is cost-push inflation.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A simple basket has three categories. Food has a weight of 40% and its prices rise 5%; housing has a weight of 35% and rises 2%; transport has a weight of 25% and rises 4%. What is the weighted inflation rate?",
+        "options": [
+          "3.0%",
+          "3.7%",
+          "3.67%",
+          "4.0%"
+        ],
+        "answer": 1,
+        "explanation": "0.40 × 5 + 0.35 × 2 + 0.25 × 4 = 2.0 + 0.7 + 1.0 = 3.7%. A simple average of 5, 2 and 4 (3.67%) ignores the weights.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A jacket costs £80. Prices of clothes rise by 6%. What is the new price?",
+        "options": [
+          "£84.80",
+          "£85.00",
+          "£86.00",
+          "£80.48"
+        ],
+        "answer": 0,
+        "explanation": "£80 × 1.06 = £84.80. Adding 6 pounds (£86) confuses a percentage with a pound amount.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Inflation is 4% a year. What is the best description of what happens to the purchasing power of £100 kept as cash for one year?",
+        "options": [
+          "It rises to £104",
+          "It stays at £100 of purchasing power",
+          "It buys about what £96 bought before",
+          "It falls to zero"
+        ],
+        "answer": 2,
+        "explanation": "With 4% higher prices, £100 buys what about £96 (100 ÷ 1.04 ≈ 96.15) bought a year earlier.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A saver earns 3% interest on a bank account while inflation is 4%. What is the approximate real interest rate?",
+        "options": [
+          "+7%",
+          "+1%",
+          "−1%",
+          "0%"
+        ],
+        "answer": 2,
+        "explanation": "Real interest rate ≈ nominal rate − inflation = 3% − 4% = −1%. The saver's money buys less at the end of the year.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Consumers expect prices to fall next year, so they delay buying a new laptop. Why can deflation be harmful?",
+        "options": [
+          "Falling prices always increase spending",
+          "Delayed spending reduces demand, which can lower output and employment",
+          "Falling prices always raise wages",
+          "Deflation lowers the value of everything equally"
+        ],
+        "answer": 1,
+        "explanation": "If people postpone purchases, firms sell less, cut production and possibly jobs, which can deepen a downturn.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which group is most likely to lose from unexpected high inflation?",
+        "options": [
+          "People who borrowed at a fixed interest rate",
+          "People living on a fixed income such as a fixed pension",
+          "A firm that owns property whose value rises",
+          "The government with a large fixed debt"
+        ],
+        "answer": 1,
+        "explanation": "A fixed income buys less when prices rise. Borrowers with fixed rates gain because they repay in money that is worth less.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Workers' pay rises by 3% and inflation is 5%. What is the approximate change in the real wage?",
+        "options": [
+          "A rise of 8%",
+          "A rise of 2%",
+          "A fall of about 2%",
+          "No change"
+        ],
+        "answer": 2,
+        "explanation": "Real wage change ≈ 3% − 5% = −2% (precisely 1.03 ÷ 1.05 ≈ 0.981). Pay rose, but purchasing power fell.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "The CPI is 100 in Year 1, 108 in Year 2 and 112.32 in Year 3. Which statement is correct?",
+        "options": [
+          "Prices fell in Year 3",
+          "Inflation was 8% in Year 2 and 4% in Year 3, so prices still rose but inflation slowed (disinflation)",
+          "Inflation was 12.32% in Year 3",
+          "There was deflation in Year 3"
+        ],
+        "answer": 1,
+        "explanation": "Year 2: (108 − 100) ÷ 100 = 8%. Year 3: (112.32 − 108) ÷ 108 = 4%. The index still rose, so there was no deflation; the rate of inflation fell, which is called disinflation.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A pensioner spends 70% of her income on food and 30% on housing. Food prices rise 5% and housing prices rise 2%. The official CPI inflation for the whole country is 3.7%. What is her personal inflation rate?",
+        "options": [
+          "3.5%",
+          "4.1%",
+          "3.7%",
+          "7%"
+        ],
+        "answer": 1,
+        "explanation": "0.70 × 5 + 0.30 × 2 = 3.5 + 0.6 = 4.1%. Her spending pattern differs from the national basket, so her experience of inflation is higher than the official figure.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A bulk pack of beans cost £250 in Year 1 when the CPI was 100. By Year 5 the CPI is 112. If the pack's price rose exactly in line with the CPI, what does it cost?",
+        "options": [
+          "£262",
+          "£280",
+          "£312",
+          "£250"
+        ],
+        "answer": 1,
+        "explanation": "£250 × 112 ÷ 100 = £280. Adding 12 pounds (£262) is a common mistake: the index is a percentage scale, not pounds.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Trade unions win wage rises of 8% while productivity grows 2%. Firms raise prices to cover their higher costs, then workers demand further rises. What is the best name and evaluation of this process?",
+        "options": [
+          "A wage-price spiral; it can cause cost-push inflation, especially when wages grow faster than productivity",
+          "Deflation; prices fall as wages rise",
+          "Demand-pull inflation caused by exports only",
+          "A harmless cycle that has no costs"
+        ],
+        "answer": 0,
+        "explanation": "When wage growth outpaces productivity, unit labour costs rise and firms pass costs on in prices. A repeating cycle is called a wage-price spiral, a form of cost-push inflation.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A worker's pay rises from £2,000 to £2,100 a month (5%) while the CPI rises from 112 to 117.6. What happens to the worker's real pay, measured in base-period prices?",
+        "options": [
+          "It rises by 5%",
+          "It is unchanged at about £2,000",
+          "It falls by 5%",
+          "It rises to £2,205"
+        ],
+        "answer": 1,
+        "explanation": "Real pay = 2,100 ÷ 117.6 × 112 = £2,000. Prices rose by 5% (117.6 ÷ 112 = 1.05), the same as pay, so purchasing power is unchanged.",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "## What is inflation?\n**Inflation** is a sustained rise in the general level of prices in an economy. It does not mean that every price rises, or that one product becomes dearer. It means the average price level climbs, so money buys less over time. **Deflation** is a sustained fall in the price level. **Disinflation** is when prices still rise but more slowly than before.\n\n## Measuring inflation\nStatisticians record the cost of a typical household shopping basket of goods and services, giving the **Consumer Price Index (CPI)**. Each item has a **weight** reflecting how much households spend on it, so housing counts more than a toy. Inflation rate = (new CPI − old CPI) ÷ old CPI × 100. If the CPI rises from 112 to 117.6, inflation is 5%.\n\nA weighted calculation: food (weight 40%) up 5%, housing (35%) up 2%, transport (25%) up 4% gives 0.40 × 5 + 0.35 × 2 + 0.25 × 4 = 3.7%.\n\n## Causes\n- **Demand-pull inflation**: total spending grows faster than the economy can produce, so firms raise prices. Too much money chases too few goods.\n- **Cost-push inflation**: higher costs of production (wages, raw materials, energy, imports after the currency falls) push prices up. A wage-price spiral can follow when wages and prices chase each other.\n\n## Consequences of inflation\nSavers lose out if the interest rate is below inflation (the real interest rate, roughly nominal rate minus inflation, is negative). People on fixed incomes lose purchasing power. Workers lose if pay rises more slowly than prices (real wages fall). Firms face uncertainty and higher menu costs, and exports may become less competitive. Borrowers with fixed-rate loans can benefit because they repay in money that is worth less. Very high inflation (hyperinflation) can destroy savings and confidence in money.\n\n## Consequences of deflation\nFalling prices might sound good, but people may delay buying, expecting lower prices. Falling demand can reduce output, profits and jobs. Debts become heavier in real terms.\n\n## Controlling inflation\nMost central banks aim for low, stable inflation (often 2%). Tools include raising interest rates to cool spending and supply-side policies to lower costs.\n\n## Common mistakes\n- Taking a simple average when weights are given.\n- Confusing disinflation (slower rise) with deflation (a fall).\n- Treating the CPI as pounds or dollars rather than an index.\n- Forgetting that individuals' experience of inflation can differ from the national figure.\n\n## How this is examined\nIn the on-screen exam you may get a table of CPI values or weighted categories and a news extract about a price rise. You are asked to calculate inflation, identify whether it is cost-push or demand-pull from clues, explain who gains and loses, and evaluate a policy response.\n\nExam tip: Use the index formula with the original value as the base, and quote data from the source when you identify the cause.",
+    "flashcards": [
+      {
+        "front": "Inflation",
+        "back": "A sustained rise in the general price level, so each unit of money buys less."
+      },
+      {
+        "front": "Inflation rate formula",
+        "back": "(New CPI − old CPI) ÷ old CPI × 100."
+      },
+      {
+        "front": "Demand-pull inflation",
+        "back": "Caused by total spending rising faster than the economy's productive capacity; too much money chasing too few goods."
+      },
+      {
+        "front": "Cost-push inflation",
+        "back": "Caused by rising costs of production, such as wages, energy or raw materials, which firms pass on in higher prices."
+      },
+      {
+        "front": "Deflation vs disinflation",
+        "back": "Deflation is a fall in the general price level. Disinflation is a fall in the inflation rate (prices still rise, but more slowly)."
+      },
+      {
+        "front": "Real interest rate",
+        "back": "Approximately the nominal interest rate minus the inflation rate. If negative, savers lose purchasing power."
+      },
+      {
+        "front": "Who loses from high inflation?",
+        "back": "Savers with low interest, people on fixed incomes, and workers whose pay rises slower than prices."
+      },
+      {
+        "front": "Why can deflation be harmful?",
+        "back": "Consumers delay spending, demand falls, output and jobs fall, and debts become heavier in real terms."
+      },
+      {
+        "front": "Why are CPI weights used?",
+        "back": "Items matter differently in household budgets. Weights reflect the share of spending on each category, so big items change the index more."
+      }
+    ]
+  },
+  {
+    "subject": "economics",
+    "grade": 5,
+    "topic": "Macroeconomic Indicators",
+    "subTopic": "Employment and Policy Goals",
+    "questions": [
+      {
+        "content": "Which of these is a main macroeconomic policy goal of most governments?",
+        "options": [
+          "Maximising the price of food",
+          "Low unemployment",
+          "Higher unemployment benefits for all",
+          "A permanent trade deficit"
+        ],
+        "answer": 1,
+        "explanation": "Typical goals are stable prices (low inflation), low unemployment, steady economic growth and a balanced external position, increasingly alongside sustainability and fair income distribution.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A country has 10,000 people of working age. Of these, 6,300 are in employment. What is the employment rate?",
+        "options": [
+          "37%",
+          "63%",
+          "6.3%",
+          "73%"
+        ],
+        "answer": 1,
+        "explanation": "Employment rate = employed ÷ working-age population × 100 = 6,300 ÷ 10,000 × 100 = 63%.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "In the same country the labour force is 6,800 (employed plus unemployed). What is the participation rate among the 10,000 working-age people?",
+        "options": [
+          "63%",
+          "68%",
+          "74%",
+          "6.8%"
+        ],
+        "answer": 1,
+        "explanation": "Participation rate = labour force ÷ working-age population × 100 = 6,800 ÷ 10,000 × 100 = 68%.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A country sells $90 billion of goods and $40 billion of services abroad. It buys $100 billion of goods and $25 billion of services from abroad. What is the balance of trade in goods and services?",
+        "options": [
+          "A deficit of $5 billion",
+          "A surplus of $5 billion",
+          "A surplus of $15 billion",
+          "A deficit of $10 billion"
+        ],
+        "answer": 1,
+        "explanation": "Exports = 90 + 40 = 130. Imports = 100 + 25 = 125. Balance = 130 − 125 = +$5 billion, a surplus.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which statement describes price stability as a policy goal?",
+        "options": [
+          "Prices never change",
+          "Low and predictable inflation",
+          "Falling prices every year",
+          "Rapid inflation to encourage spending"
+        ],
+        "answer": 1,
+        "explanation": "Price stability usually means low, steady inflation (for example a target near 2%), not zero change and not deflation.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "In the country above (6,800 in the labour force and 6,300 employed), what is the unemployment rate to 1 decimal place?",
+        "options": [
+          "5.0%",
+          "7.4%",
+          "6.3%",
+          "8.0%"
+        ],
+        "answer": 1,
+        "explanation": "Unemployed = 6,800 − 6,300 = 500. Rate = 500 ÷ 6,800 × 100 = 7.4%. The denominator is the labour force, not the working-age population.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A government cuts interest rates to reduce unemployment, but inflation rises as a result. What does this show?",
+        "options": [
+          "Policy goals can conflict, creating trade-offs",
+          "All goals are always achievable together",
+          "Inflation is unrelated to spending",
+          "Unemployment has no cause"
+        ],
+        "answer": 0,
+        "explanation": "Policies that boost demand can reduce unemployment but risk raising inflation. Governments often have to prioritise.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A country buys more from abroad than it sells and runs a large deficit year after year. Why might this be a problem?",
+        "options": [
+          "It must borrow or sell assets to pay for it, which may not be sustainable",
+          "It makes the country richer",
+          "It lowers imports",
+          "It increases exports automatically"
+        ],
+        "answer": 0,
+        "explanation": "A persistent deficit must be financed by borrowing or selling assets to foreigners, which can build up debt and leave the economy vulnerable.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which indicator is the best choice for comparing average living standards of two countries of very different population sizes?",
+        "options": [
+          "Total GDP",
+          "Real GDP per capita",
+          "Total exports",
+          "The size of the government"
+        ],
+        "answer": 1,
+        "explanation": "Per-person figures remove the effect of population size. Real GDP per capita also adjusts for price changes.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A government reports 'record low unemployment' but many workers have only part-time jobs and want more hours. Which concept does this highlight?",
+        "options": [
+          "Underemployment",
+          "Hyperinflation",
+          "Exchange rate",
+          "Deflation"
+        ],
+        "answer": 0,
+        "explanation": "Underemployment means people work fewer hours than they want, or in jobs below their skills. The headline unemployment rate does not show it.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which of the following is a normative statement?",
+        "options": [
+          "Unemployment fell from 7.4% to 5.3%",
+          "The government ought to give the highest priority to reducing unemployment",
+          "Inflation was 3% last year",
+          "GDP is calculated as C + I + G + (X − M)"
+        ],
+        "answer": 1,
+        "explanation": "A normative statement is a value judgement about what should be. The others are positive statements that can be checked against evidence.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Why do many governments aim for steady growth rather than the fastest possible growth?",
+        "options": [
+          "Fast growth may overheat the economy, causing inflation, and harm the environment",
+          "Fast growth always lowers employment",
+          "Steady growth is impossible",
+          "Growth does not affect anything"
+        ],
+        "answer": 0,
+        "explanation": "Very rapid growth can create shortages and inflation or use resources unsustainably. Steady growth is easier to maintain.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Why might a government prefer a low rate of inflation instead of zero inflation?",
+        "options": [
+          "Some inflation gives a buffer against falling into deflation",
+          "Zero inflation is illegal",
+          "Zero inflation raises unemployment benefits",
+          "Inflation lowers wages for all"
+        ],
+        "answer": 0,
+        "explanation": "A small positive inflation target leaves room for central banks to cut rates and avoids the risks of deflation.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "In Year 1 a country has 10,000 working-age people, 6,300 employed and 500 unemployed. In Year 2, employment is still 6,300 but unemployment is 350. What is the best explanation for the fall in unemployment, and the new rate?",
+        "options": [
+          "Jobs were created; the rate is 5.3%",
+          "Some people left the labour force, so the rate fell to about 5.3% without any new jobs",
+          "The population doubled; the rate is 3.5%",
+          "Unemployment benefits ended; the rate is 6.3%"
+        ],
+        "answer": 1,
+        "explanation": "Employment did not change, but 150 fewer people are counted as unemployed. The labour force fell from 6,800 to 6,650, and 350 ÷ 6,650 ≈ 5.3%. The fall reflects people dropping out, not new jobs.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Country P reports: growth 4%, inflation 7%, unemployment 3% and a current account deficit of 6% of GDP. A government adviser says 'Inflation and the external deficit are the main concerns.' Which judgement is best supported?",
+        "options": [
+          "The adviser is wrong: all four indicators are healthy",
+          "The adviser has a point: inflation well above a typical 2% target and a large deficit suggest an overheating economy, even though growth and employment look strong",
+          "Only unemployment matters",
+          "Only growth matters"
+        ],
+        "answer": 1,
+        "explanation": "Strong growth and low unemployment alongside high inflation and a large deficit are typical signs of overheating. A good answer evaluates all four goals using the numbers.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A government plans to double economic growth quickly through factory expansion and cheaper fuel. Which statement gives the best evaluation using several policy goals?",
+        "options": [
+          "It will help every goal equally",
+          "It may raise growth and jobs but could increase inflation, imports and pollution, so it may conflict with price stability, the trade balance and sustainability",
+          "It has no effect on the environment",
+          "It will remove all trade-offs"
+        ],
+        "answer": 1,
+        "explanation": "Policy goals often conflict. Strong evaluation names benefits and likely side effects across several goals, and weighs them.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Country Q has unemployment of 4%, inflation of 2% and growth of 2.5%, but its richest 10% hold 70% of all income. A minister declares 'All our economic goals have been met.' What is the fairest comment?",
+        "options": [
+          "Correct: no other goals exist",
+          "Partly correct: the traditional targets look good, but the minister overlooks income distribution and perhaps sustainability, which are also goals for many governments",
+          "Incorrect: inflation of 2% is deflation",
+          "Incorrect: unemployment of 4% is impossible"
+        ],
+        "answer": 1,
+        "explanation": "Headline indicators can be healthy while other goals, such as a fair distribution of income, are not met. Good evaluation questions the claim with evidence.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A country has a labour force of 6,800 and 500 people are unemployed. The government's target is an unemployment rate of 5%, assuming the labour force stays the same. How many more people must find work to meet the target?",
+        "options": [
+          "340",
+          "160",
+          "500",
+          "1,000"
+        ],
+        "answer": 1,
+        "explanation": "5% of 6,800 = 340 unemployed at the target. Currently 500 are unemployed, so 500 − 340 = 160 more people must find work. 340 is the number still unemployed at the target, not the number who must find jobs.",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "## Why governments have goals\nGovernments try to manage the whole economy with a set of **macroeconomic policy goals**. The main ones are:\n- **Stable prices**: low, predictable inflation, often a target of about 2%.\n- **Low unemployment** (high employment): as many people as possible who want a job can find one.\n- **Steady economic growth**: rising real GDP without boom and bust.\n- **A balanced external position**: over time, the money spent on imports should not be far above the earnings from exports (the balance of payments, which includes the trade balance in goods and services).\n\nMany governments now add **sustainability** (protecting the environment) and a **fair distribution of income** to this list.\n\n## Employment indicators\nWork out the right denominator each time.\n- **Employment rate** = employed ÷ working-age population × 100. With 6,300 employed out of 10,000 working-age people, the rate is 63%.\n- **Participation rate** = labour force ÷ working-age population × 100. With a labour force of 6,800, this is 68%.\n- **Unemployment rate** = unemployed ÷ labour force × 100. With 500 unemployed, 500 ÷ 6,800 ≈ 7.4%.\n\nHeadline rates can mislead. If unemployed people give up looking, the unemployment rate falls without any new jobs. Underemployment (part-time workers who want full-time work) is not visible in the rate either.\n\n## External balance\nThe **trade balance** compares the value of exports with imports. Exports of $130 billion and imports of $125 billion give a surplus of $5 billion. A **deficit** means a country buys more than it sells. A temporary deficit can be financed, but a large one for many years means borrowing or selling assets, which can be risky.\n\n## Conflicts between goals\nGoals often clash, creating **trade-offs**. Cutting interest rates may boost growth and jobs but could raise inflation and imports. Fast growth may harm the environment. Governments therefore decide which goals matter most at a given time and accept some costs.\n\n## Positive and normative statements\nA **positive** statement can be tested with facts: 'Unemployment fell to 5.3%.' A **normative** statement is a value judgement: 'The government should focus on jobs.' Evaluation answers use positive evidence to support a normative judgement.\n\n## Common mistakes\n- Using the wrong base for unemployment, employment or participation rates.\n- Thinking low unemployment automatically means a healthy economy.\n- Treating goals as always compatible.\n\n## How this is examined\nIn the on-screen exam, a scenario might give you a dashboard of growth, inflation, unemployment and the trade balance for a country. You are asked to calculate a rate, say which goals are met, explain a trade-off and judge what the government should prioritise using the evidence.\n\nExam tip: Check every indicator against its goal, then make a clear judgement about which goal is most urgent and why.",
+    "flashcards": [
+      {
+        "front": "Four main macroeconomic goals",
+        "back": "Stable prices (low inflation), low unemployment, steady economic growth and a balanced external position (trade or payments balance)."
+      },
+      {
+        "front": "Employment rate",
+        "back": "Employed ÷ working-age population × 100."
+      },
+      {
+        "front": "Participation rate",
+        "back": "Labour force ÷ working-age population × 100."
+      },
+      {
+        "front": "Unemployment rate",
+        "back": "Unemployed ÷ labour force × 100."
+      },
+      {
+        "front": "Trade balance",
+        "back": "Value of exports minus value of imports. Positive is a surplus; negative is a deficit."
+      },
+      {
+        "front": "Trade-off between policy goals",
+        "back": "Pursuing one goal can harm another, such as cutting interest rates to cut unemployment but raising inflation."
+      },
+      {
+        "front": "Underemployment",
+        "back": "Workers who would like more hours, or work below their skill level, but are not counted as unemployed."
+      },
+      {
+        "front": "Positive vs normative statement",
+        "back": "Positive: a testable statement of fact. Normative: a value judgement about what should be done."
+      },
+      {
+        "front": "Why might a large persistent trade deficit be a problem?",
+        "back": "It must be financed by borrowing or selling assets, which can build up debt and make the economy vulnerable."
+      }
+    ]
+  }
+]

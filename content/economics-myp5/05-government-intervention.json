@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "economics",
+  "grade": 5,
+  "topic": "Government Intervention",
+  "subTopic": "Taxes and Subsidies",
+  "questions": [
+   {
+    "content": "Which of the following is an indirect tax?",
+    "options": [
+     "Value added tax (sales tax) on goods",
+     "Income tax",
+     "Tax on company profits",
+     "Tax on wealth"
+    ],
+    "answer": 0,
+    "explanation": "Indirect taxes are placed on spending on goods and services and are collected by sellers. Income tax is a direct tax.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A progressive tax is one where:",
+    "options": [
+     "everyone pays the same percentage",
+     "lower earners pay a larger percentage",
+     "only companies pay",
+     "higher earners pay a larger percentage of their income"
+    ],
+    "answer": 3,
+    "explanation": "Progressive taxes take a higher proportion of income as income rises, which helps to reduce inequality.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A subsidy is:",
+    "options": [
+     "a tax on producers",
+     "a fine for pollution",
+     "a payment from the government to producers or consumers to reduce costs or prices",
+     "a loan from a bank"
+    ],
+    "answer": 2,
+    "explanation": "Subsidies encourage production or consumption of goods the government wants more of.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Total tax revenue from a per-unit tax equals:",
+    "options": [
+     "price × quantity",
+     "tax per unit × quantity sold",
+     "tax per unit ÷ quantity",
+     "price − cost"
+    ],
+    "answer": 1,
+    "explanation": "For example, a $3 tax on 100 units raises $300.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A per-unit tax on producers shifts the supply curve:",
+    "options": [
+     "to the right",
+     "to the left (upwards)",
+     "not at all",
+     "into a vertical line only"
+    ],
+    "answer": 1,
+    "explanation": "The tax raises the cost of supplying each unit, so less is supplied at every price.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "An 8% sales tax is added to a $250 jacket. What is the final price?",
+    "options": [
+     "$270",
+     "$258",
+     "$20",
+     "$330"
+    ],
+    "answer": 0,
+    "explanation": "Tax = 0.08 × 250 = $20. Final price = 250 + 20 = $270.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A country's income tax has the first $12,000 tax-free and 20% on income above that. How much tax does a person earning $32,000 pay?",
+    "options": [
+     "$6,400",
+     "$2,400",
+     "$20,000",
+     "$4,000"
+    ],
+    "answer": 3,
+    "explanation": "Taxable income = 32,000 − 12,000 = 20,000; tax = 0.2 × 20,000 = $4,000. That is an average rate of 12.5% of total income.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Person A earns $20,000 and pays $2,000 in sales taxes in a year. Person B earns $100,000 and pays $5,000. What type of tax burden do the sales taxes represent?",
+    "options": [
+     "Progressive, because B pays more dollars",
+     "Proportional, because both pay sales taxes",
+     "Regressive, because A pays 10% of income and B pays 5%",
+     "Progressive, because A pays less in dollars"
+    ],
+    "answer": 2,
+    "explanation": "A regressive tax takes a larger percentage of income from lower earners. B pays more in dollars, but A pays 10% against 5%.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why might a government subsidise electric cars?",
+    "options": [
+     "To raise the price of electric cars",
+     "To raise tax revenue",
+     "To lower their price and encourage buying, reducing pollution",
+     "To reduce supply"
+    ],
+    "answer": 2,
+    "explanation": "Electric cars cause fewer emissions, so subsidies target a positive externality.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why are taxes on cigarettes often high?",
+    "options": [
+     "Demand is perfectly elastic",
+     "Demand is inelastic, so revenue is raised and consumption of a demerit good is discouraged",
+     "Cigarettes are a public good",
+     "Governments dislike revenue"
+    ],
+    "answer": 1,
+    "explanation": "Inelastic demand means quantity falls only slightly, so revenue rises.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Demand is Qd = 240 − 20P and supply is Qs = 60 + 10P. A tax of $3 per unit is placed on producers, so supply becomes Qs = 60 + 10(P − 3). What is the new equilibrium price paid by consumers and quantity?",
+    "options": [
+     "$7 and 100 units",
+     "$6 and 120 units",
+     "$9 and 100 units",
+     "$4 and 100 units"
+    ],
+    "answer": 0,
+    "explanation": "Set 240 − 20P = 30 + 10P, giving P = 7. Q = 240 − 140 = 100. Consumers now pay $7, up from $6.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In the same market, what share of the $3 tax is paid by consumers?",
+    "options": [
+     "All of it",
+     "Two thirds",
+     "None of it",
+     "One third"
+    ],
+    "answer": 3,
+    "explanation": "Consumers pay $7 instead of $6, an extra $1 of the $3 tax. Producers receive 7 − 3 = $4, which is $2 less than before, so they bear two thirds.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In the same market, a $3 per-unit subsidy to producers changes supply to Qs = 60 + 10(P + 3). What is the new equilibrium price and quantity?",
+    "options": [
+     "$7 and 100 units",
+     "$3 and 140 units",
+     "$5 and 120 units",
+     "$5 and 140 units"
+    ],
+    "answer": 3,
+    "explanation": "Set 240 − 20P = 90 + 10P, giving P = 5. Q = 240 − 100 = 140. The price consumers pay falls from $6 to $5.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In the market with a $3 tax, what is the tax revenue and what do producers receive per unit?",
+    "options": [
+     "$360 and $7 per unit",
+     "$300 and $7 per unit",
+     "$300 and $4 per unit",
+     "$100 and $3 per unit"
+    ],
+    "answer": 2,
+    "explanation": "Revenue = 3 × 100 = $300. Price paid is $7 but $3 goes to the government, so producers keep $4.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "In the market with a $3 per-unit subsidy, what is the cost to the government and what share of the subsidy do consumers gain?",
+    "options": [
+     "$300; two thirds",
+     "$420; one third",
+     "$420; two thirds",
+     "$140; one third"
+    ],
+    "answer": 1,
+    "explanation": "Cost = 3 × 140 = $420. Consumers pay $5 instead of $6, gaining $1 of the $3 per unit, which is one third. Producers receive $8 instead of $6, so they gain $2.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A government wants to cut sugar consumption. The tax raises the price by $3 on a good selling 120 units, cutting sales to 100 units. What is the percentage fall in quantity?",
+    "options": [
+     "16.7%",
+     "20%",
+     "12%",
+     "83.3%"
+    ],
+    "answer": 0,
+    "explanation": "(120 − 100) ÷ 120 × 100 = 16.7%. The base is the original quantity.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which is a valid criticism of subsidising electric car purchases?",
+    "options": [
+     "Taxpayers bear the cost and most buyers may be higher-income households",
+     "It increases pollution",
+     "It raises car prices",
+     "It reduces demand for electric cars"
+    ],
+    "answer": 0,
+    "explanation": "Subsidies have an opportunity cost, and if they mostly help wealthier households, they may be less fair.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A very high tax on cigarettes is introduced. Which unintended consequence is most likely?",
+    "options": [
+     "Everyone stops smoking",
+     "Tax revenue is certain to rise forever",
+     "Cigarettes become a free good",
+     "Increased smuggling and illegal sales"
+    ],
+    "answer": 3,
+    "explanation": "High prices create incentives for black markets, which can reduce revenue and the intended health effect.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Governments use taxes and subsidies to change the prices that people and firms face. They are two of the most common tools for correcting market failure and raising money.\n\n## Types of tax\n- **Direct taxes** are paid directly from income or profit, such as income tax and corporation tax.\n- **Indirect taxes** are paid on spending, such as value added tax (sales tax) or taxes on fuel and cigarettes. They are collected by sellers.\nTaxes can also be described by how they relate to income:\n- **Progressive**: a higher percentage as income rises.\n- **Proportional**: the same percentage for all.\n- **Regressive**: a lower percentage as income rises (sales taxes often act like this because poorer households spend more of their income).\n\nWorked example of income tax: the first $12,000 is tax-free and 20% is paid on the rest. Someone earning $32,000 pays 0.2 × 20,000 = $4,000, an average rate of 12.5%.\n\n## Why use taxes?\n- To raise **revenue** for public services.\n- To discourage **demerit goods** and **negative externalities** (carbon taxes, tobacco tax).\n- To redistribute income.\n\n## Subsidies\nA **subsidy** is money paid by the government to producers or consumers to lower costs or prices. Reasons include supporting goods with positive externalities (vaccines, clean energy), protecting key industries and keeping essentials affordable.\n\n## Effects on the market\nA per-unit tax raises costs, shifting **supply left**. A subsidy lowers costs, shifting **supply right**.\n\nUsing Qd = 240 − 20P and Qs = 60 + 10P (equilibrium $6, 120 units):\n- **$3 tax**: new supply Qs = 60 + 10(P − 3). Equilibrium: $7 and 100 units. Revenue = 3 × 100 = $300. Consumers pay $1 more (one third of the tax). Producers receive $4, which is $2 less (two thirds). The more elastic side of the market bears less of the burden, here supply is less elastic than demand, so producers bear more.\n- **$3 subsidy**: new supply Qs = 60 + 10(P + 3). Equilibrium: $5 and 140 units. Cost = 3 × 140 = $420. Consumers pay $1 less, producers receive $2 more.\n\n## Percentage change\nQuantity fell from 120 to 100 under the tax, so the change is (100 − 120) ÷ 120 × 100 = −16.7%.\n\n## Evaluating taxes and subsidies\n- Taxes can raise revenue and reduce harmful consumption, but may hit low-income groups hardest, create black markets and cut jobs in affected industries.\n- Subsidies can increase output and lower prices, but cost taxpayers money (an opportunity cost), can make firms dependent and may mostly benefit higher-income households.\n- The effect depends on elasticities. A tax on goods with inelastic demand raises revenue but barely reduces use.\n\n## Common mistakes\n- Shifting the wrong curve. Producer taxes and subsidies shift supply.\n- Forgetting that revenue = tax per unit × the new quantity.\n- Saying consumers always pay the whole tax. It depends on elasticity.\n- Confusing progressive and regressive. Look at the percentage of income, not the dollar amount.\n\n## How this is examined\nTypical stimulus: a news item about a tax on sugary drinks or a subsidy for solar panels, with a small equation or table. You calculate prices, revenue and shares of the burden, and evaluate benefits and costs for consumers, producers, government and the environment. Longer tasks ask you to state assumptions and justify a recommendation.\n\nExam tip: For calculations, label the old and new equilibrium clearly and show every step, then comment on who gains and who loses.",
+  "flashcards": [
+   {
+    "front": "Direct tax",
+    "back": "A tax paid directly from income or profit, such as income tax."
+   },
+   {
+    "front": "Indirect tax",
+    "back": "A tax on spending, such as sales tax or VAT, collected by sellers."
+   },
+   {
+    "front": "Progressive vs regressive tax",
+    "back": "Progressive: higher earners pay a larger percentage of income. Regressive: lower earners pay a larger percentage."
+   },
+   {
+    "front": "Subsidy",
+    "back": "A payment from the government to producers or consumers to lower costs or prices."
+   },
+   {
+    "front": "Effect of a per-unit tax on supply",
+    "back": "Raises costs and shifts supply to the left (price up, quantity down)."
+   },
+   {
+    "front": "Effect of a subsidy on supply",
+    "back": "Lowers costs and shifts supply to the right (price down, quantity up)."
+   },
+   {
+    "front": "Tax revenue formula",
+    "back": "Tax per unit × quantity sold after the tax."
+   },
+   {
+    "front": "Who pays a tax?",
+    "back": "The burden is shared. Consumers pay more when demand is inelastic, producers pay more when demand is elastic."
+   },
+   {
+    "front": "Drawbacks of taxes and subsidies",
+    "back": "Taxes: hit poor households, black markets, job losses. Subsidies: opportunity cost for taxpayers, dependency, benefits may go to richer households."
+   }
+  ]
+ },
+ {
+  "subject": "economics",
+  "grade": 5,
+  "topic": "Government Intervention",
+  "subTopic": "Price Controls and Regulation",
+  "questions": [
+   {
+    "content": "A price ceiling is:",
+    "options": [
+     "a legal maximum price",
+     "a legal minimum price",
+     "a tax on producers",
+     "a subsidy"
+    ],
+    "answer": 0,
+    "explanation": "A ceiling stops sellers charging above a set price, usually to protect consumers.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A price floor is:",
+    "options": [
+     "a legal maximum price",
+     "a type of tax",
+     "a quota",
+     "a legal minimum price"
+    ],
+    "answer": 3,
+    "explanation": "Floors stop prices falling below a set level, often to protect producers or workers.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A price ceiling set below the equilibrium price will cause:",
+    "options": [
+     "a surplus",
+     "equilibrium",
+     "a shortage",
+     "a fall in demand to zero"
+    ],
+    "answer": 2,
+    "explanation": "A low price increases quantity demanded and reduces quantity supplied, so demand exceeds supply.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A price floor set above the equilibrium price will cause:",
+    "options": [
+     "a shortage",
+     "a surplus",
+     "equilibrium",
+     "no effect"
+    ],
+    "answer": 1,
+    "explanation": "A higher price reduces quantity demanded and raises quantity supplied, so there is excess supply.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Rent control and a minimum wage are examples of, respectively:",
+    "options": [
+     "a price floor and a price ceiling",
+     "a price ceiling and a price floor",
+     "two price ceilings",
+     "two price floors"
+    ],
+    "answer": 1,
+    "explanation": "Rent control caps rents (ceiling). A minimum wage sets a lower limit on pay (floor).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Demand is Qd = 240 − 20P and supply is Qs = 60 + 10P. A ceiling of $4 is set. What is the shortage?",
+    "options": [
+     "60 units",
+     "20 units",
+     "100 units",
+     "160 units"
+    ],
+    "answer": 0,
+    "explanation": "At $4, Qd = 240 − 80 = 160 and Qs = 60 + 40 = 100. Shortage = 160 − 100 = 60.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In the same market, a price floor of $8 is set. What is the surplus?",
+    "options": [
+     "140 units",
+     "80 units",
+     "20 units",
+     "60 units"
+    ],
+    "answer": 3,
+    "explanation": "At $8, Qd = 240 − 160 = 80 and Qs = 60 + 80 = 140. Surplus = 140 − 80 = 60.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In the floor of $8 market, the government buys the surplus at $8. What does this cost?",
+    "options": [
+     "$560",
+     "$1,120",
+     "$480",
+     "$60"
+    ],
+    "answer": 2,
+    "explanation": "Surplus of 60 units × $8 = $480, paid by taxpayers.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is a black market?",
+    "options": [
+     "A market with no buyers",
+     "A market run by the government",
+     "Illegal trading at prices above the legal maximum",
+     "A market where prices are too low for firms"
+    ],
+    "answer": 2,
+    "explanation": "When ceilings cause shortages, some people trade illegally at higher prices.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A labour market has an equilibrium wage of $10 with 1,000 workers employed. A minimum wage of $12 leads employers to want 900 workers while 1,200 seek jobs. How many are unemployed?",
+    "options": [
+     "200",
+     "300",
+     "100",
+     "900"
+    ],
+    "answer": 1,
+    "explanation": "Unemployment = labour supplied − labour demanded = 1,200 − 900 = 300. Workers who keep their jobs earn more, but some lose out.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of these is an example of regulation?",
+    "options": [
+     "A law requiring safety tests for toys",
+     "A subsidy for farmers",
+     "A tax on petrol",
+     "A free school lunch"
+    ],
+    "answer": 0,
+    "explanation": "Regulation sets legal rules about how firms behave or what they can sell.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A government sets a fishing quota for each boat. What is the main aim?",
+    "options": [
+     "To increase tobacco sales",
+     "To lower income tax",
+     "To raise prices of everything",
+     "To protect fish stocks from overfishing"
+    ],
+    "answer": 3,
+    "explanation": "Quotas limit output so the resource can recover and remain sustainable.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why might a government hold a buffer stock of grain?",
+    "options": [
+     "To increase price volatility",
+     "To make grain scarce",
+     "To end farming",
+     "To buy when prices are low and sell when prices are high, stabilising prices"
+    ],
+    "answer": 3,
+    "explanation": "Buying in good harvests raises low prices, and selling in poor harvests lowers high prices, giving stability for farmers and consumers.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A city fixes rents below the market rate. What are the likely long-run effects?",
+    "options": [
+     "Rental homes increase and quality rises",
+     "Rents rise above the market rate",
+     "Fewer rental homes are offered, and landlords may reduce maintenance",
+     "Demand for homes disappears"
+    ],
+    "answer": 2,
+    "explanation": "With lower returns, landlords may sell, convert or neglect properties, so the shortage can persist or grow.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Using the market Qd = 240 − 20P and Qs = 60 + 10P, a price floor of $8 is supported by the government buying the surplus. By how much do farmers' revenues rise compared with the equilibrium revenue of $6 × 120?",
+    "options": [
+     "$480",
+     "$400",
+     "$1,120",
+     "$720"
+    ],
+    "answer": 1,
+    "explanation": "Farmers' revenue = 8 × 140 = $1,120 (the government buys 60 units). Equilibrium revenue = 6 × 120 = $720. The rise is $400, but taxpayers pay $480.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A government caps the price of bread in a shortage. Who is most likely to gain and lose?",
+    "options": [
+     "Consumers who find bread gain; those who cannot find bread and suppliers lose",
+     "All consumers gain equally",
+     "Only suppliers gain",
+     "Nobody is affected"
+    ],
+    "answer": 0,
+    "explanation": "The price is lower for those who get some, but supply falls so some go without, creating queues or black markets.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The floor of $8 is what percentage above the equilibrium price of $6, and the surplus is what percentage of equilibrium quantity (120)?",
+    "options": [
+     "33.3% and 50%",
+     "25% and 50%",
+     "33.3% and 33.3%",
+     "25% and 33.3%"
+    ],
+    "answer": 0,
+    "explanation": "(8 − 6) ÷ 6 = 33.3%. Surplus 60 ÷ 120 = 50%. Always use the equilibrium value as the base.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An analysis predicts a rent ceiling will create a shortage of 60 units. Which limitation should be stated?",
+    "options": [
+     "It assumes landlords are charities",
+     "It shows exactly how many people will move",
+     "It ignores that rent exists",
+     "It assumes everyone obeys the law and that supply does not adapt over time"
+    ],
+    "answer": 3,
+    "explanation": "Real markets include evasion, black markets and changes in supply over time, so predictions are estimates.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Sometimes governments do not trust the market price and try to control it directly. Another approach is regulation, which sets rules about how firms and consumers behave.\n\n## Price ceilings (maximum prices)\nA **price ceiling** is a legal maximum price. It is meant to make essential goods affordable. For it to work, it must be set **below** the equilibrium price. Example: **rent control**.\nResult: quantity demanded rises, quantity supplied falls, creating a **shortage**. Consequences can include queues, rationing, **black markets**, poorer quality and landlords withdrawing homes.\n\nWorked example with Qd = 240 − 20P and Qs = 60 + 10P (equilibrium $6, 120 units): a ceiling of $4 gives Qd = 160 and Qs = 100, so there is a shortage of 60 units. Only 100 units are actually traded.\n\n## Price floors (minimum prices)\nA **price floor** is a legal minimum price, set **above** the equilibrium price. Examples: minimum prices for farm products and a **minimum wage** (a floor in the labour market).\nResult: quantity supplied rises, quantity demanded falls, creating a **surplus**.\n\nWorked example: a floor of $8 gives Qs = 140 and Qd = 80, a surplus of 60 units. If the government buys the surplus, the cost is 60 × 8 = $480. Farmers' revenue becomes 8 × 140 = $1,120, up from 6 × 120 = $720, a rise of $400, but taxpayers pay $480 and the food may go to waste.\n\nIn a labour market, suppose the equilibrium wage is $10 with 1,000 jobs. A minimum wage of $12 leads employers to want 900 workers while 1,200 want jobs, so 300 are unemployed. Those who keep jobs earn more, but others lose out. How large the job loss is depends on elasticity and local conditions.\n\n## Other tools\n- **Regulation**: safety standards, age limits, bans, licensing and advertising rules.\n- **Quotas**: limits on output, such as fishing quotas that protect fish stocks.\n- **Buffer stocks**: the government buys produce when prices are low and sells when they are high to stabilise prices.\n\n## Evaluating\nPrice controls and regulation can help vulnerable groups, protect health and the environment, and stabilise incomes. Costs include shortages and surpluses, black markets, higher taxes, enforcement costs and reduced incentives to supply. The long run often differs from the short run because suppliers adapt.\n\n## Common mistakes\n- Drawing a ceiling above equilibrium. It would have no effect.\n- Mixing up shortage and surplus.\n- Forgetting that taxpayers fund buying surpluses.\n- Giving only benefits without drawbacks.\n\n## How this is examined\nYou will often see a table or equations for a market and a government price control. Tasks ask you to find the shortage or surplus, calculate the cost or revenue, and judge winners and losers. Evaluation tasks ask you to state assumptions (such as full compliance) and the limits of a model.\n\nExam tip: Always compare the controlled price with the equilibrium price first. It tells you immediately whether there will be a shortage or surplus.",
+  "flashcards": [
+   {
+    "front": "Price ceiling",
+    "back": "A legal maximum price. If set below equilibrium it creates a shortage (e.g. rent control)."
+   },
+   {
+    "front": "Price floor",
+    "back": "A legal minimum price. If set above equilibrium it creates a surplus (e.g. minimum wage, farm price supports)."
+   },
+   {
+    "front": "Black market",
+    "back": "Illegal trading at prices above a legal maximum, caused by shortages."
+   },
+   {
+    "front": "Effect of a minimum wage",
+    "back": "Raises pay for those who keep jobs but may reduce the number of jobs, causing unemployment."
+   },
+   {
+    "front": "Quota",
+    "back": "A limit on the quantity that can be produced or caught, e.g. fishing quotas to protect stocks."
+   },
+   {
+    "front": "Buffer stock",
+    "back": "The government buys produce when prices are low and sells when prices are high to stabilise prices."
+   },
+   {
+    "front": "Regulation",
+    "back": "Laws and rules about how firms act, such as safety standards, bans and age limits."
+   },
+   {
+    "front": "Cost of buying a surplus",
+    "back": "Surplus quantity × the guaranteed price, paid by taxpayers."
+   },
+   {
+    "front": "Why the long run can differ",
+    "back": "Suppliers adapt over time, e.g. landlords leave the rental market, so shortages can get worse."
+   }
+  ]
+ },
+ {
+  "subject": "economics",
+  "grade": 5,
+  "topic": "Government Intervention",
+  "subTopic": "Evaluating Government Intervention",
+  "questions": [
+   {
+    "content": "Government failure occurs when:",
+    "options": [
+     "intervention makes the allocation of resources worse or creates new problems",
+     "markets work perfectly",
+     "taxes are zero",
+     "firms have profits"
+    ],
+    "answer": 0,
+    "explanation": "Policies can cause unintended consequences, cost more than expected or be based on poor information.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Cost-benefit analysis involves:",
+    "options": [
+     "only counting costs",
+     "only counting benefits",
+     "ignoring the environment",
+     "comparing the total costs and benefits of a decision"
+    ],
+    "answer": 3,
+    "explanation": "It weighs all costs and benefits, including external ones, to see if a project is worthwhile.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is an example of an unintended consequence?",
+    "options": [
+     "A vaccine campaign lowering disease",
+     "A school being built where planned",
+     "A rent ceiling reducing the number of rental homes",
+     "A tax raising the revenue expected"
+    ],
+    "answer": 2,
+    "explanation": "Unintended consequences are side effects that policymakers did not aim for or expect.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In evaluating a policy, 'equity' means:",
+    "options": [
+     "the cheapest option",
+     "fairness in how costs and benefits are shared",
+     "the fastest option",
+     "the largest option"
+    ],
+    "answer": 1,
+    "explanation": "Equity concerns how a policy affects different groups, such as low-income families.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In evaluating a policy, 'efficiency' means:",
+    "options": [
+     "the policy is popular",
+     "resources are used to get the best output at the lowest cost",
+     "the policy is large",
+     "the policy is old"
+    ],
+    "answer": 1,
+    "explanation": "An efficient policy achieves its aim without wasting scarce resources.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A project costs $9 million and brings benefits worth $12 million. What is the net benefit and the benefit-cost ratio?",
+    "options": [
+     "$3 million and 1.33",
+     "$21 million and 0.75",
+     "$3 million and 0.75",
+     "−$3 million and 1.33"
+    ],
+    "answer": 0,
+    "explanation": "Net benefit = 12 − 9 = $3 million. Ratio = 12 ÷ 9 = 1.33, so benefits exceed costs.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Project A: cost $5m, benefit $6m. Project B: cost $8m, benefit $10.4m. Project C: cost $3m, benefit $3.3m. Which has the highest net benefit?",
+    "options": [
+     "Project A",
+     "Project C",
+     "All are equal",
+     "Project B"
+    ],
+    "answer": 3,
+    "explanation": "Net benefits: A $1m, B $2.4m, C $0.3m. B is highest. The benefit-cost ratios are 1.2, 1.3 and 1.1, so B also has the best ratio.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A government is deciding about a solar subsidy. Which is a valid reason to consider the long run?",
+    "options": [
+     "Long-run effects never matter",
+     "Only the first year matters",
+     "The costs come now but many benefits, such as lower emissions, come later",
+     "The subsidy has no cost"
+    ],
+    "answer": 2,
+    "explanation": "Many environmental policies need time to pay off, so a short-term view may undervalue them.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why might a government set a tax at the wrong level?",
+    "options": [
+     "It knows everything",
+     "It cannot calculate percentages",
+     "It lacks accurate information about the true external cost and consumer responses",
+     "It is not allowed to tax"
+    ],
+    "answer": 2,
+    "explanation": "Information problems cause government failure; for example, setting a pollution tax needs an estimate of the damage.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Collecting a tax costs $2 million and raises $10 million. What is the net revenue and the cost of collection as a share of revenue?",
+    "options": [
+     "$12 million and 20%",
+     "$8 million and 20%",
+     "$8 million and 80%",
+     "$2 million and 20%"
+    ],
+    "answer": 1,
+    "explanation": "Net = 10 − 2 = $8 million. Share = 2 ÷ 10 = 20%. Administration costs reduce the value of a policy.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A city introduces a congestion charge. Which group is most likely to lose?",
+    "options": [
+     "Drivers and businesses that depend on driving into the centre",
+     "Public transport users",
+     "Pedestrians",
+     "Residents breathing cleaner air"
+    ],
+    "answer": 0,
+    "explanation": "Payers lose directly, while others gain, so policies must be judged by effects on different stakeholders.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A sustainable policy is one that:",
+    "options": [
+     "makes the most money now",
+     "is cheapest in the first year",
+     "uses the most resources",
+     "meets today's needs without harming the ability of future generations to meet theirs"
+    ],
+    "answer": 3,
+    "explanation": "Sustainability looks at long-term environmental, social and economic effects.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why might a politician choose a popular short-term policy rather than a better long-term one?",
+    "options": [
+     "Politicians never think about voters",
+     "Long-term policies are illegal",
+     "Short-term policies are free",
+     "Elections are held regularly and voters may reward quick results"
+    ],
+    "answer": 3,
+    "explanation": "Political short-termism is a cause of government failure.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A congestion charge of $15 per day cuts vehicles entering a city centre from 100,000 to 80,000 a day. Running costs are $0.3 million a day. What is the daily net revenue?",
+    "options": [
+     "$1,200,000",
+     "$1,500,000",
+     "$900,000",
+     "$600,000"
+    ],
+    "answer": 2,
+    "explanation": "Revenue = 80,000 × 15 = $1.2 million. Net = 1.2 − 0.3 = $0.9 million. The charge also reduces vehicles by 20%.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A plastic bag charge is followed by an 85% fall in bags used. A claim says the charge caused the fall. Which evidence would best test this claim?",
+    "options": [
+     "Ask one person's opinion",
+     "Compare with a similar area without the charge and with the same area before the charge",
+     "Count only after the charge",
+     "Compare with last year's rainfall"
+    ],
+    "answer": 1,
+    "explanation": "Comparing with a control group and a before-and-after check helps rule out other causes, which improves reliability.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A government must guarantee emissions fall below a fixed level. Which approach gives the most certainty of the amount of pollution?",
+    "options": [
+     "A cap on total emissions with tradable permits",
+     "A small tax",
+     "An information campaign",
+     "A voluntary pledge"
+    ],
+    "answer": 0,
+    "explanation": "A cap fixes the quantity of emissions. A tax fixes the price, so the quantity reduction depends on elasticity.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A new rail line was planned to cost $40 million but actually cost $52 million. By what percentage did the actual cost exceed the planned cost?",
+    "options": [
+     "30%",
+     "23.1%",
+     "12%",
+     "130%"
+    ],
+    "answer": 0,
+    "explanation": "Overrun = 52 − 40 = 12. 12 ÷ 40 × 100 = 30%. Dividing by the actual cost gives 23.1%, which is the wrong base.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which is the best concluding judgement on a sugar tax?",
+    "options": [
+     "The tax is always a perfect policy",
+     "The tax is a total failure",
+     "The tax has no effect at all",
+     "Demand is fairly inelastic so the tax will cut consumption modestly while raising money for health, but it is regressive, so the revenue should be used well and the results monitored"
+    ],
+    "answer": 3,
+    "explanation": "A strong conclusion weighs both sides, uses evidence such as elasticity, mentions who is affected and gives a justified judgement.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "When a government intervenes in a market, it needs to ask whether the policy works and whether it is worth its costs. Evaluation is the skill of weighing evidence to reach a judgement.\n\n## Government failure\n**Government failure** occurs when intervention makes things worse or creates new problems. Causes include:\n- **Poor information**: it is hard to know the true size of an externality or how consumers will react.\n- **Unintended consequences**: rent control reduces the number of rental homes. High taxes encourage smuggling.\n- **Administrative costs**: collecting and enforcing policies uses resources. If it costs $2 million to raise $10 million, net revenue is $8 million and collection takes 20%.\n- **Political short-termism**: politicians may favour policies that give quick, popular results before an election.\n- **Cost overruns**: if a rail line planned at $40 million costs $52 million, the overrun is 12 ÷ 40 = 30%.\n\n## Cost-benefit analysis (CBA)\nCBA adds up all the costs and benefits, including external and environmental ones, and compares them. Net benefit = total benefit − total cost. The benefit-cost ratio = benefit ÷ cost. For a $9 million project with $12 million of benefits, net benefit = $3 million and the ratio is 1.33. When comparing projects, look at the net benefit and the ratio. Limits of CBA: some benefits, such as a species, are hard to value in money, and forecasts may be wrong.\n\n## Criteria for evaluating a policy\n- **Effectiveness**: does it achieve its aim?\n- **Efficiency**: does it use resources well?\n- **Equity**: is it fair to different groups?\n- **Sustainability**: does it meet the needs of today without harming future generations?\n- **Cost and side-effects**: who pays, and what else changes?\n- **Time**: short-run and long-run effects can differ.\n\n## Stakeholders\nAlways ask who gains and who loses: consumers, producers, workers, taxpayers, the government and the environment. A congestion charge might help pedestrians and public transport users but cost drivers and shops.\n\n## Testing a claim\nIf bag use falls 85% after a charge, that is not enough to prove the charge caused it. Compare with a similar area without the charge, and with the same area before it, to rule out other factors.\n\n## Writing a strong evaluation\n1. Explain how the policy works.\n2. Give advantages and disadvantages, with evidence or numbers.\n3. State the assumptions and limits of the data.\n4. Consider different groups and the short run and long run.\n5. Give a justified overall judgement.\n\n## Common mistakes\n- Giving only one side of the argument.\n- Ignoring numbers provided in the stimulus.\n- Using the wrong base in a percentage calculation. The base is the original or planned value.\n- Concluding without a reason.\n\n## How this is examined\nEvaluation tasks give a data set or article about a policy, such as a congestion charge, and ask you to select relevant information, calculate net effects, discuss reliability and decide whether the policy is sustainable. This is the core of the real-world application criterion.\n\nExam tip: Finish with a clear judgement beginning 'Overall...' and give one reason based on evidence from the stimulus.",
+  "flashcards": [
+   {
+    "front": "Government failure",
+    "back": "When intervention makes resource allocation worse or creates new problems."
+   },
+   {
+    "front": "Causes of government failure",
+    "back": "Poor information, unintended consequences, administrative costs, short-termism and cost overruns."
+   },
+   {
+    "front": "Cost-benefit analysis",
+    "back": "Comparing the total costs and benefits (including external) of a project. Net benefit = benefits − costs."
+   },
+   {
+    "front": "Benefit-cost ratio",
+    "back": "Total benefits ÷ total costs. A ratio above 1 means benefits exceed costs."
+   },
+   {
+    "front": "Criteria for evaluating a policy",
+    "back": "Effectiveness, efficiency, equity (fairness), sustainability, cost and side-effects, and time scale."
+   },
+   {
+    "front": "Equity",
+    "back": "Fairness in how costs and benefits of a policy are shared between groups."
+   },
+   {
+    "front": "Sustainable policy",
+    "back": "One that meets present needs without reducing the ability of future generations to meet theirs."
+   },
+   {
+    "front": "Percentage cost overrun",
+    "back": "(Actual − planned) ÷ planned × 100."
+   },
+   {
+    "front": "Structure of a good evaluation",
+    "back": "Explain the policy, give advantages and disadvantages with evidence, note assumptions and limits, consider stakeholders and time, then give a justified judgement."
+   }
+  ]
+ }
+]

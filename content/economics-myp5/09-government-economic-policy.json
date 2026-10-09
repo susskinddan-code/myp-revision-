@@ -1,0 +1,791 @@
+[
+  {
+    "subject": "economics",
+    "grade": 5,
+    "topic": "Government Economic Policy",
+    "subTopic": "Fiscal Policy and Budgets",
+    "questions": [
+      {
+        "content": "What is fiscal policy?",
+        "options": [
+          "Changing interest rates",
+          "Using government spending and taxation to influence the economy",
+          "Controlling the exchange rate only",
+          "Printing money to pay debts"
+        ],
+        "answer": 1,
+        "explanation": "Fiscal policy uses government spending and taxes to affect total demand, output and employment. Interest rates are the tool of monetary policy.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A government spends $410 billion in a year and collects $380 billion in tax revenue. What is the budget position?",
+        "options": [
+          "A surplus of $30 billion",
+          "A deficit of $30 billion",
+          "A deficit of $790 billion",
+          "Balanced"
+        ],
+        "answer": 1,
+        "explanation": "Spending is higher than revenue by 410 − 380 = $30 billion, so the budget is in deficit.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which of the following is an example of expansionary fiscal policy?",
+        "options": [
+          "Raising income tax to cut demand",
+          "Building new railways and cutting income tax to boost spending",
+          "Raising interest rates",
+          "Cutting all government spending"
+        ],
+        "answer": 1,
+        "explanation": "Expansionary fiscal policy increases government spending and/or cuts taxes, raising total demand.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which of these is an indirect tax?",
+        "options": [
+          "Income tax",
+          "Value added tax (VAT) on goods",
+          "Corporation tax on profits",
+          "Tax on wages deducted at work"
+        ],
+        "answer": 1,
+        "explanation": "Indirect taxes are placed on spending, such as VAT, and are paid by the consumer to the seller. Income and corporation taxes are direct taxes.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What is the national debt?",
+        "options": [
+          "The total amount a government has borrowed and not yet repaid",
+          "The deficit in one year",
+          "The total tax collected",
+          "The money held by households"
+        ],
+        "answer": 0,
+        "explanation": "The national debt is the accumulated total of past borrowing. Each deficit adds to it; each surplus can reduce it.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A tax system has these bands: 0% on the first 10,000; 20% on income from 10,000 to 40,000; 40% on income above 40,000. How much tax does someone with an income of 50,000 pay?",
+        "options": [
+          "10,000",
+          "20,000",
+          "6,000",
+          "12,000"
+        ],
+        "answer": 0,
+        "explanation": "Band 2: 30,000 × 20% = 6,000. Band 3: 10,000 × 40% = 4,000. Total = 10,000. Applying 40% to the whole 50,000 would wrongly give 20,000.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A phone costs £60 including 20% VAT. How much of the price is VAT?",
+        "options": [
+          "£12",
+          "£10",
+          "£6",
+          "£15"
+        ],
+        "answer": 1,
+        "explanation": "Price before VAT = 60 ÷ 1.2 = £50. VAT = 60 − 50 = £10. Taking 20% of £60 (£12) is a common error because VAT is added to the pre-tax price.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A government has a deficit of $30 billion in an economy with GDP of $600 billion. What is the deficit as a percentage of GDP?",
+        "options": [
+          "2%",
+          "5%",
+          "20%",
+          "0.5%"
+        ],
+        "answer": 1,
+        "explanation": "30 ÷ 600 × 100 = 5%. Governments often compare deficits and debt with GDP to judge whether they are affordable.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A tax takes a larger percentage of income from low earners than from high earners. What is this type of tax called?",
+        "options": [
+          "Progressive",
+          "Regressive",
+          "Proportional",
+          "Direct"
+        ],
+        "answer": 1,
+        "explanation": "A regressive tax takes a larger percentage of income from low earners than high earners, for example a flat tax on a basic necessity.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "During a recession, tax revenue falls and spending on unemployment benefits rises automatically, even with no new decisions. What are these effects called?",
+        "options": [
+          "Automatic stabilisers",
+          "Quantitative easing",
+          "Tariffs",
+          "Supply-side policies"
+        ],
+        "answer": 0,
+        "explanation": "Automatic stabilisers reduce the size of swings in the economy: benefits and lower tax payments support demand in a downturn, and the reverse in a boom.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "An economy is booming and inflation is rising above target. Which fiscal action is the most suitable?",
+        "options": [
+          "Raise taxes or cut government spending (contractionary policy)",
+          "Cut taxes and increase spending",
+          "Do nothing and print more money",
+          "Cut all interest rates"
+        ],
+        "answer": 0,
+        "explanation": "To reduce excess demand the government can tighten fiscal policy by raising taxes or cutting spending.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which is a disadvantage of using government spending to boost the economy in a recession?",
+        "options": [
+          "It increases the budget deficit and may add to the national debt",
+          "It always cuts unemployment immediately",
+          "It reduces total demand",
+          "It has no opportunity cost"
+        ],
+        "answer": 0,
+        "explanation": "Extra spending usually needs borrowing. It also has an opportunity cost, and there can be time lags before projects create jobs.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which of the following is an example of capital spending by a government?",
+        "options": [
+          "Paying teachers' monthly salaries",
+          "Building a new bridge",
+          "Paying unemployment benefits",
+          "Buying paper for government offices"
+        ],
+        "answer": 1,
+        "explanation": "Capital spending is on long-lasting assets such as bridges, schools and hospitals. Salaries, benefits and supplies are current spending.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Using the tax bands (0% up to 10,000; 20% from 10,000 to 40,000; 40% above 40,000), what is the average tax rate for someone earning 50,000, and what is their marginal rate?",
+        "options": [
+          "Average 20%, marginal 40%",
+          "Average 40%, marginal 20%",
+          "Average 20%, marginal 20%",
+          "Average 10%, marginal 40%"
+        ],
+        "answer": 0,
+        "explanation": "Tax is 10,000 on 50,000, an average of 20%. The next pound earned is taxed at the top band, 40%, which is the marginal rate.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Using the same bands, someone earning 25,000 gets a bonus of 1,000. How much of the bonus do they keep?",
+        "options": [
+          "600",
+          "800",
+          "1,000",
+          "400"
+        ],
+        "answer": 1,
+        "explanation": "At 25,000 the person is in the 20% band, so the 1,000 is taxed at 20% (200). They keep 800. The 40% rate only applies above 40,000.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A country enters a recession. Without any new policy decisions, its budget deficit grows from 3% to 6% of GDP. A commentator says 'The government has been reckless.' Which response is best?",
+        "options": [
+          "The commentator is right: deficits only grow because of new decisions",
+          "Part of the rise reflects automatic stabilisers (lower tax revenue and higher benefits), so the deficit does not by itself show recklessness",
+          "A rise in the deficit is impossible in a recession",
+          "Deficits always fall in recessions"
+        ],
+        "answer": 1,
+        "explanation": "In a recession falling incomes cut tax revenue and rising unemployment raises benefit spending, which enlarges the deficit automatically. Judging policy needs more evidence.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "To tackle a recession, a government could (A) cut income tax by $5 billion or (B) spend $5 billion on rail upgrades. Which comparison is the most accurate?",
+        "options": [
+          "A is always better because people spend every pound",
+          "B directly adds to demand and improves infrastructure, but takes longer; A may be partly saved or spent on imports, and benefits mostly the taxpaying households",
+          "Both have exactly the same effects",
+          "Neither can affect demand"
+        ],
+        "answer": 1,
+        "explanation": "Government spending adds to demand immediately in principle and can raise long-term capacity, but projects take time. Tax cuts act faster but some of the money may be saved or spent on imports.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A government cuts spending by 10% to reduce its deficit (austerity). Evaluate the likely short-term effect on the economy.",
+        "options": [
+          "Growth will definitely rise",
+          "It can reduce the deficit over time, but lower spending reduces demand, which may slow growth and raise unemployment, and could make the deficit harder to reduce in the short run",
+          "It increases public services",
+          "There will be no change in jobs"
+        ],
+        "answer": 1,
+        "explanation": "Cutting spending lowers demand and incomes. This can reduce tax revenue and raise benefit costs, partly offsetting the savings. A strong answer weighs the long-term benefit against short-term costs.",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "## What is fiscal policy?\n**Fiscal policy** is the use of government spending and taxation to influence the economy. Governments set a **budget** each year, planning how much to collect in tax and how much to spend on schools, hospitals, defence, transport and welfare.\n\n- **Budget deficit**: spending is greater than revenue. Example: spending $410bn, revenue $380bn gives a $30bn deficit.\n- **Budget surplus**: revenue is greater than spending.\n- **National debt**: the total accumulated borrowing. Deficits add to it.\n\nDeficits are often compared with GDP. A $30bn deficit in an economy of $600bn is 5% of GDP.\n\n## Types of tax\n- **Direct taxes** are paid from income or wealth: income tax, corporation tax.\n- **Indirect taxes** are paid when spending: VAT, fuel duty.\n- **Progressive** taxes take a higher percentage as income rises. **Regressive** taxes take a higher percentage from low earners. **Proportional** taxes take the same percentage.\n\nWorked example with bands of 0% up to 10,000; 20% between 10,000 and 40,000; 40% above 40,000. On 50,000 the tax is 30,000 × 20% + 10,000 × 40% = 6,000 + 4,000 = 10,000. The **average rate** is 10,000 ÷ 50,000 = 20%. The **marginal rate**, the tax on the next pound earned, is 40%.\n\n## Expansionary and contractionary policy\n- **Expansionary**: increase spending and/or cut taxes to raise demand, usually in a recession.\n- **Contractionary**: cut spending and/or raise taxes to reduce demand, usually when inflation is high or the economy is overheating.\n\n## Automatic stabilisers\nSome changes happen without new decisions. In a recession tax revenue falls and unemployment benefit spending rises, supporting demand. In a boom the reverse happens. These **automatic stabilisers** smooth the economic cycle, but also make deficits grow in downturns.\n\n## Strengths and weaknesses\nStrengths: can be targeted at particular groups or regions, can fund long-term investment such as infrastructure, and can redistribute income. Weaknesses: time lags before policy takes effect, higher deficits and debt (interest payments become a burden), opportunity cost, possible political pressure, and some tax cuts are saved or spent on imports rather than boosting domestic demand. Austerity reduces deficits but can slow growth in the short term.\n\n## Common mistakes\n- Mixing up deficit (a yearly flow) and debt (an accumulated stock).\n- Applying the top tax rate to all income instead of only to the top band.\n- Calculating VAT as a percentage of the VAT-inclusive price.\n\n## How this is examined\nIn the on-screen exam you might see a budget table with revenue and spending, or a set of tax bands and a short extract from a finance minister. Expect to calculate a deficit, a tax bill or an average rate, then evaluate a proposal by weighing benefits, costs, time lags and who gains.\n\nExam tip: When you evaluate a budget proposal, state who benefits, who pays, the likely effect on demand and the deficit, and then reach a judgement.",
+    "flashcards": [
+      {
+        "front": "Fiscal policy",
+        "back": "The use of government spending and taxation to influence the level of economic activity."
+      },
+      {
+        "front": "Budget deficit vs national debt",
+        "back": "A deficit is one year's spending above revenue. The national debt is the total of all past borrowing still owed."
+      },
+      {
+        "front": "Expansionary fiscal policy",
+        "back": "Raising government spending and/or cutting taxes to increase demand, used in a recession."
+      },
+      {
+        "front": "Contractionary fiscal policy",
+        "back": "Cutting spending and/or raising taxes to reduce demand, used when inflation is high or the economy overheats."
+      },
+      {
+        "front": "Progressive vs regressive tax",
+        "back": "Progressive: higher percentage taken as income rises. Regressive: higher percentage taken from low incomes."
+      },
+      {
+        "front": "Direct and indirect taxes",
+        "back": "Direct: on income or wealth (income tax). Indirect: on spending (VAT, fuel duty)."
+      },
+      {
+        "front": "Average rate vs marginal rate",
+        "back": "Average = total tax ÷ total income. Marginal = the tax rate on the next unit of income earned."
+      },
+      {
+        "front": "Automatic stabilisers",
+        "back": "Features such as benefits and progressive taxes that automatically support demand in a recession and restrain it in a boom."
+      },
+      {
+        "front": "Two weaknesses of fiscal policy",
+        "back": "Time lags before effects appear; higher deficits and debt. Also opportunity cost and possible leakages into saving and imports."
+      }
+    ]
+  },
+  {
+    "subject": "economics",
+    "grade": 5,
+    "topic": "Government Economic Policy",
+    "subTopic": "Monetary Policy and Interest Rates",
+    "questions": [
+      {
+        "content": "What is monetary policy?",
+        "options": [
+          "Government decisions on tax rates",
+          "Actions by the central bank to influence interest rates and the money supply",
+          "Rules on international trade",
+          "Government borrowing"
+        ],
+        "answer": 1,
+        "explanation": "Monetary policy is usually controlled by the central bank and works mainly through interest rates and the supply of money.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which organisation usually sets the main interest rate (the base rate) in a country?",
+        "options": [
+          "Local councils",
+          "The central bank",
+          "Supermarkets",
+          "Trade unions"
+        ],
+        "answer": 1,
+        "explanation": "The central bank sets the base rate, which influences the rates that commercial banks charge and pay.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What is the most likely effect of a rise in interest rates on borrowing?",
+        "options": [
+          "Borrowing becomes more expensive, so it tends to fall",
+          "Borrowing becomes cheaper, so it rises",
+          "No effect",
+          "Banks stop all lending"
+        ],
+        "answer": 0,
+        "explanation": "Higher interest rates raise the cost of loans and mortgages, so households and firms borrow less.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A bank pays savers a nominal interest rate of 5% while inflation is 3%. What is the approximate real interest rate?",
+        "options": [
+          "8%",
+          "2%",
+          "−2%",
+          "15%"
+        ],
+        "answer": 1,
+        "explanation": "Real rate ≈ nominal rate − inflation = 5% − 3% = 2%.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A central bank wants to reduce high inflation. Which action is most likely?",
+        "options": [
+          "Raise the interest rate",
+          "Cut the interest rate",
+          "Print large amounts of money",
+          "Encourage more borrowing"
+        ],
+        "answer": 0,
+        "explanation": "Raising rates reduces borrowing and spending, easing demand-pull pressure on prices.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A firm borrows £10,000 for one year at 6% simple interest. How much interest must it pay?",
+        "options": [
+          "£60",
+          "£600",
+          "£6,000",
+          "£10,600"
+        ],
+        "answer": 1,
+        "explanation": "Interest = 10,000 × 0.06 × 1 = £600. £10,600 is the total repaid (loan plus interest), not the interest alone.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A household has a £200,000 interest-only mortgage. The interest rate rises from 4% to 5%. By how much do yearly interest payments increase?",
+        "options": [
+          "£1,000",
+          "£2,000",
+          "£8,000",
+          "£10,000"
+        ],
+        "answer": 1,
+        "explanation": "At 4% the interest is £8,000; at 5% it is £10,000. The increase is £2,000 a year, or about £167 a month.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which chain of events correctly shows how a cut in interest rates affects the economy?",
+        "options": [
+          "Borrowing falls, spending falls, inflation rises",
+          "Borrowing becomes cheaper, consumption and investment rise, demand and growth increase",
+          "Savers get higher returns, so they spend nothing",
+          "Exports always fall"
+        ],
+        "answer": 1,
+        "explanation": "Lower rates reduce the cost of credit and the reward for saving, encouraging spending and investment, so total demand rises.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Why might a rise in interest rates strengthen a country's currency?",
+        "options": [
+          "Foreign investors seek higher returns, increasing demand for the currency",
+          "Imports become free",
+          "Exports are banned",
+          "Foreign banks stop trading"
+        ],
+        "answer": 0,
+        "explanation": "Higher rates attract savings from abroad. Buying the currency to deposit money raises its value, although this can make exports more expensive.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Why do many countries make their central bank independent from the government?",
+        "options": [
+          "So rates are set to meet inflation targets rather than for short-term political gain",
+          "So the government can print money freely",
+          "So that taxes disappear",
+          "So the central bank never changes rates"
+        ],
+        "answer": 0,
+        "explanation": "Governments might be tempted to cut rates before an election. An independent central bank is more credible in keeping inflation low.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Interest rates are cut, but spending takes many months to respond. What is this delay called?",
+        "options": [
+          "A time lag",
+          "A tariff",
+          "A subsidy",
+          "An externality"
+        ],
+        "answer": 0,
+        "explanation": "Monetary policy works with time lags: it can take a year or more for rate changes to feed through to spending and prices.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A central bank buys government bonds from banks to inject new money into the economy and encourage lending. What is this policy called?",
+        "options": [
+          "Quantitative easing",
+          "Austerity",
+          "Protectionism",
+          "Privatisation"
+        ],
+        "answer": 0,
+        "explanation": "In quantitative easing the central bank creates money to buy financial assets, raising the money supply and lowering long-term interest rates.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "An economy is in recession with low inflation and rising unemployment. What would a central bank most likely do?",
+        "options": [
+          "Cut interest rates to encourage borrowing and spending",
+          "Raise interest rates sharply",
+          "Ban all lending",
+          "Raise taxes"
+        ],
+        "answer": 0,
+        "explanation": "Lower rates reduce the cost of borrowing and encourage consumption and investment, supporting demand and jobs. Raising rates would deepen the downturn.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A savings account pays 1% while inflation is 4%. What is the approximate real interest rate, and what does it mean for savers?",
+        "options": [
+          "+5%; savers gain purchasing power",
+          "−3%; savers lose purchasing power",
+          "+3%; savers gain",
+          "−5%; savers gain"
+        ],
+        "answer": 1,
+        "explanation": "1% − 4% = −3%. Prices rise faster than the balance grows, so savings buy less each year.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A central bank cuts rates to zero, yet banks refuse to lend and firms will not invest because they expect weak demand. What does this show about monetary policy?",
+        "options": [
+          "Monetary policy always works instantly",
+          "Lower rates cannot guarantee higher spending when confidence is low or banks do not lend",
+          "Interest rates have no effect on anything",
+          "Lending is always unlimited"
+        ],
+        "answer": 1,
+        "explanation": "Cheap credit only boosts demand if households and firms want to borrow and banks are willing to lend. Fiscal policy may be needed.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "An economy faces slow growth and high inflation at the same time, with the central bank under pressure to act. Which statement best identifies the dilemma?",
+        "options": [
+          "Raising rates would reduce inflation but risk slower growth and higher unemployment, while cutting rates would help growth but risk higher inflation",
+          "Both problems are solved by any rate change",
+          "Interest rates do not affect inflation or growth",
+          "The central bank should do nothing forever"
+        ],
+        "answer": 0,
+        "explanation": "When goals conflict, policy has trade-offs. The central bank must judge which risk is more serious and how likely each effect is.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Interest rates rise from 4% to 5%. Which statement evaluates the effects most fully?",
+        "options": [
+          "Everyone gains",
+          "Borrowers such as mortgage holders lose, savers gain, and firms may cut investment and exporters may suffer if the currency rises; inflation may fall",
+          "Only the government is affected",
+          "Savers lose and borrowers gain"
+        ],
+        "answer": 1,
+        "explanation": "Rate changes affect groups differently. A strong answer names winners and losers and links to the economy-wide effects on inflation, investment and the exchange rate.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A newspaper says: 'The central bank cut rates by 1%, so people must be spending 1% more.' What is the best criticism of this claim?",
+        "options": [
+          "A rate cut does not translate one-for-one into a spending change; effects depend on confidence, lags, banks' lending and other influences",
+          "The claim is correct because rates and spending are identical",
+          "Rates only affect imports",
+          "Rate cuts reduce spending in all cases"
+        ],
+        "answer": 0,
+        "explanation": "The link between interest rates and spending is indirect and uncertain. Strong evaluation points to lags, confidence and other factors.",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "## What is monetary policy?\n**Monetary policy** is the use of interest rates and the supply of money to influence the economy. In most countries a **central bank** is responsible. It sets a main interest rate (the base rate), and commercial banks use this as a guide to the rates they charge on loans and pay on savings.\n\nMost central banks aim for low and stable inflation, often with a target of about 2%. Many are independent from the government, so rates are set for the long-term health of the economy rather than short-term political gain.\n\n## How interest rates work\nThe interest rate is the cost of borrowing and the reward for saving.\n- **Higher interest rates**: borrowing is more expensive and saving is more attractive. Households and firms spend and invest less. Demand falls, which reduces inflation. The currency may rise because foreign savers want to hold it, making exports dearer and imports cheaper.\n- **Lower interest rates**: borrowing is cheaper and saving is less rewarding. Consumption and investment rise. Demand and growth increase, with a risk of higher inflation. The currency may fall, helping exports.\n\nExample: a £200,000 interest-only mortgage at 4% costs £8,000 a year in interest. At 5% it costs £10,000, an increase of £2,000 a year (about £167 a month). Mortgage holders have less to spend, but savers earn more.\n\n## Nominal and real rates\n**Real interest rate ≈ nominal rate − inflation.** A saver on 5% when inflation is 3% gains about 2% in purchasing power. A saver on 1% when inflation is 4% loses about 3%: the real rate is negative.\n\n## Other tools\n**Quantitative easing (QE)**: when rates are already very low, the central bank creates money to buy bonds, raising the money supply and encouraging lending. Central banks can also give guidance on future rates.\n\n## Strengths and limits\nStrengths: central banks can act quickly, are independent of politics and policy is flexible. Limits: **time lags** (a year or more), the effect is uncertain, rate changes affect groups unevenly (borrowers versus savers), and lower rates may fail if confidence is low or banks will not lend. A single tool cannot solve conflicts such as high inflation with weak growth.\n\n## Common mistakes\n- Mixing up the direction: higher rates reduce spending and inflation.\n- Forgetting to separate nominal and real rates.\n- Saying that rate changes affect everyone in the same way.\n\n## How this is examined\nIn the on-screen exam you might be given a news extract about a central bank raising rates and a table of inflation and unemployment. You calculate interest payments or real rates, explain the transmission chain and evaluate winners, losers and limits of the policy.\n\nExam tip: Always describe the chain step by step, from the interest rate to borrowing, spending, demand and then inflation or growth.",
+    "flashcards": [
+      {
+        "front": "Monetary policy",
+        "back": "Central bank actions on interest rates and the money supply to influence inflation, growth and employment."
+      },
+      {
+        "front": "What happens when interest rates rise?",
+        "back": "Borrowing becomes dearer and saving more attractive, so spending and investment fall, easing inflation. The currency may strengthen."
+      },
+      {
+        "front": "What happens when interest rates fall?",
+        "back": "Borrowing is cheaper, so consumption and investment rise, increasing demand and growth. Inflation may rise and the currency may weaken."
+      },
+      {
+        "front": "Real interest rate",
+        "back": "Approximately nominal interest rate minus the inflation rate."
+      },
+      {
+        "front": "Typical inflation target",
+        "back": "Many central banks target low, stable inflation of about 2%."
+      },
+      {
+        "front": "Why have an independent central bank?",
+        "back": "So interest rate decisions focus on long-term inflation control rather than short-term political goals."
+      },
+      {
+        "front": "Quantitative easing",
+        "back": "The central bank creates money to buy bonds, increasing the money supply and encouraging lending when rates are already very low."
+      },
+      {
+        "front": "Time lag in monetary policy",
+        "back": "Rate changes can take a year or more to affect spending and prices fully."
+      },
+      {
+        "front": "Who gains and loses from higher interest rates?",
+        "back": "Savers gain; borrowers (such as mortgage holders) and indebted firms lose. Exporters may lose if the currency strengthens."
+      }
+    ]
+  },
+  {
+    "subject": "economics",
+    "grade": 5,
+    "topic": "Government Economic Policy",
+    "subTopic": "Supply-Side Policies",
+    "questions": [
+      {
+        "content": "What is the main aim of supply-side policies?",
+        "options": [
+          "To increase the economy's productive capacity and efficiency",
+          "To cut taxes only",
+          "To reduce the supply of money",
+          "To raise exports by devaluing"
+        ],
+        "answer": 0,
+        "explanation": "Supply-side policies aim to raise the economy's long-run ability to produce goods and services, for example by improving skills, infrastructure and competition.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which of these is a supply-side policy?",
+        "options": [
+          "Cutting interest rates to boost spending",
+          "Funding apprenticeships and training",
+          "Raising government spending on welfare payments",
+          "Printing more money"
+        ],
+        "answer": 1,
+        "explanation": "Training raises productivity and the skills of the workforce. Interest rates and spending are demand-side tools.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What does privatisation mean?",
+        "options": [
+          "Transferring an organisation from government ownership to private owners",
+          "Closing a business",
+          "Making all companies public",
+          "Giving subsidies to schools"
+        ],
+        "answer": 0,
+        "explanation": "Privatisation sells state-owned firms to private investors, in the hope that competition and profit motives improve efficiency.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What does deregulation mean?",
+        "options": [
+          "Removing or reducing government rules on businesses",
+          "Raising taxes on firms",
+          "Increasing government control",
+          "Banning imports"
+        ],
+        "answer": 0,
+        "explanation": "Deregulation removes restrictions, so that new firms can enter markets and compete. It may also reduce protection for consumers or workers.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which of these would most directly improve the quality of the workforce?",
+        "options": [
+          "Cutting the quality of schools",
+          "Investing in education and training",
+          "Raising import tariffs",
+          "Increasing VAT"
+        ],
+        "answer": 1,
+        "explanation": "Education and training increase workers' skills and productivity, boosting the economy's long-run capacity.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "An economy with GDP of $400 billion invests in training and roads that raise its potential output by 2%. By how much does potential output rise?",
+        "options": [
+          "$2 billion",
+          "$8 billion",
+          "$20 billion",
+          "$80 billion"
+        ],
+        "answer": 1,
+        "explanation": "2% of 400 = 0.02 × 400 = $8 billion.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A government cuts the corporation tax rate from 25% to 20% on a firm's profit of $2 million. How much more profit does the firm keep?",
+        "options": [
+          "$100,000",
+          "$400,000",
+          "$500,000",
+          "$1,000,000"
+        ],
+        "answer": 0,
+        "explanation": "Tax at 25% = $500,000; at 20% = $400,000. The firm keeps $100,000 more.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which of these is a demand-side policy rather than a supply-side policy?",
+        "options": [
+          "Building new motorways",
+          "Cutting income tax to raise household spending",
+          "Funding university places",
+          "Making it easier to start a business"
+        ],
+        "answer": 1,
+        "explanation": "A tax cut to boost spending acts on demand. The others raise productive capacity or competitiveness.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Why do supply-side policies usually take a long time to work?",
+        "options": [
+          "Training, building and investment take years to produce results",
+          "They are illegal in the short term",
+          "They only affect exports",
+          "They cancel themselves out"
+        ],
+        "answer": 0,
+        "explanation": "Education, infrastructure and new businesses take years to develop, so the effects appear slowly. This is a key limitation.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Government spending on a high-speed internet network lets small firms in rural areas sell online. Which description is the best?",
+        "options": [
+          "Investment in infrastructure that raises productive capacity and competitiveness",
+          "Contractionary monetary policy",
+          "A tariff",
+          "A price control"
+        ],
+        "answer": 0,
+        "explanation": "Better infrastructure reduces firms' costs and widens markets, a supply-side improvement.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A government reduces unemployment benefits to encourage more people to take jobs. Which is a possible disadvantage?",
+        "options": [
+          "It may increase poverty and inequality among the unemployed",
+          "It will always create better jobs",
+          "It will lower the labour supply to zero",
+          "It raises benefits for everyone"
+        ],
+        "answer": 0,
+        "explanation": "Lower benefits can raise incentives to work but also push the jobless into hardship, particularly where jobs are scarce.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A shortage of skilled welders exists while many unemployed people lack those skills. Which supply-side policy best targets this problem?",
+        "options": [
+          "Subsidised welding courses and apprenticeships",
+          "A cut in interest rates",
+          "A rise in VAT",
+          "A ban on imports"
+        ],
+        "answer": 0,
+        "explanation": "A skills mismatch is best tackled by training that matches the skills employers need.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A government cuts income tax rates for low earners so that taking a job leaves workers with more take-home pay. What is this policy intended to do, and what type of policy is it?",
+        "options": [
+          "Increase the incentive to work; a supply-side policy",
+          "Reduce the money supply; a monetary policy",
+          "Raise the exchange rate; a trade policy",
+          "Cut imports; a protectionist policy"
+        ],
+        "answer": 0,
+        "explanation": "Making work more rewarding encourages more people to supply their labour, raising the economy's productive capacity. It acts on incentives, so it is supply-side, although it also affects demand through spending.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A government cuts corporation tax from 25% to 20%, hoping firms will invest more. A firm receives the tax cut but uses the extra money to pay its owners rather than investing. What does this show?",
+        "options": [
+          "Tax cuts do not guarantee higher investment, so the policy may not achieve its aim",
+          "Supply-side policies always work",
+          "Firms never receive tax cuts",
+          "Investment is impossible"
+        ],
+        "answer": 0,
+        "explanation": "Incentives depend on firms' choices and their expectations about demand. A good evaluation questions whether the intended outcome will occur.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Compare two proposals: (A) cut interest rates, and (B) invest in apprenticeships and transport links. Which comparison is the most accurate?",
+        "options": [
+          "A works faster on demand but can raise inflation; B takes longer but raises capacity and can reduce inflationary pressure",
+          "A and B have the same speed and effects",
+          "B only affects demand",
+          "A permanently raises productivity"
+        ],
+        "answer": 0,
+        "explanation": "Demand-side policy acts quickly but may increase inflation. Supply-side policy raises long-run capacity but takes time and costs money now.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A government privatises a water company, which then raises prices sharply. Why is this a risk of privatisation?",
+        "options": [
+          "A private firm with little competition can use monopoly power to raise prices",
+          "Privatisation always lowers prices",
+          "Water cannot be sold",
+          "There are no regulators"
+        ],
+        "answer": 0,
+        "explanation": "Where there is no real competition, private owners may raise prices, so regulation may be needed to protect consumers.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A government plans to cut red tape so that new businesses can start in one day, and to spend on retraining. A minister says 'This will end unemployment and inflation immediately.' What is the best evaluation?",
+        "options": [
+          "Correct; supply-side policies are instant",
+          "Overstated: the policies may raise capacity and lower costs over time, but effects take years and cannot guarantee both outcomes",
+          "Wrong; the policies have no effect",
+          "Correct; there are no trade-offs"
+        ],
+        "answer": 1,
+        "explanation": "Supply-side policies can improve growth, jobs and inflation over the long run, but results are slow and uncertain.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Country X increases spending on education from 4% to 6% of its $500 billion GDP. How much extra is spent, and what is a sensible comment on its impact?",
+        "options": [
+          "$10 billion extra; benefits are likely to appear over many years and depend on how well the money is used",
+          "$10 billion extra; benefits appear immediately",
+          "$30 billion extra; no benefits",
+          "$20 billion extra; benefits are guaranteed"
+        ],
+        "answer": 0,
+        "explanation": "2% of $500 billion = $10 billion. Education spending is a long-term investment whose payoff depends on quality, relevance and time.",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "## What are supply-side policies?\n**Supply-side policies** aim to increase the economy's ability to produce goods and services, which is its **productive capacity**. Instead of boosting spending, they make the economy more efficient. Over time this raises potential output, can help growth, reduce unemployment and keep inflation down because costs fall and more can be produced.\n\n## Examples of supply-side policies\n- **Education and training**: schools, apprenticeships and retraining improve skills and productivity. Spending of 2% of a $500bn GDP is $10bn.\n- **Infrastructure investment**: roads, railways, ports and broadband cut firms' costs and widen markets.\n- **Tax incentives**: lower corporation tax lets firms keep more profit (cutting the rate from 25% to 20% on $2m of profit saves $100,000), which may encourage investment. Lower income tax may encourage work.\n- **Deregulation**: removing unnecessary rules so new firms can enter markets and compete.\n- **Privatisation**: selling state-owned firms to private owners to encourage efficiency and competition.\n- **Labour market reforms**: for example, changing benefits to encourage job search, or helping people move to areas with jobs.\n- **Encouraging competition and innovation**: support for research and new businesses.\n\n## Supply-side versus demand-side\nDemand-side policies (changing interest rates, taxes or government spending) change total spending in the short run. Supply-side policies change the capacity of the economy in the long run. A tax cut meant to boost household spending is demand-side. Funding apprenticeships is supply-side.\n\n## Why they matter\nIn the long run, a larger productive capacity means the economy can grow faster without prices rising, because firms can supply more at lower cost. This is why many governments combine supply-side policies with demand-side tools, using demand management for short-term swings and supply-side reforms for lasting improvement.\n\n## Advantages\nThey can raise long-term growth without causing inflation, improve competitiveness against other countries, reduce structural unemployment by matching skills to jobs, and make markets more efficient.\n\n## Disadvantages and limits\n- **Time lags**: education, construction and new firms take years.\n- **Cost**: spending on training and infrastructure has an opportunity cost.\n- **No guarantee**: firms might not invest the tax savings.\n- **Equity**: cutting benefits or deregulating can harm vulnerable groups, increase inequality or reduce protection for workers and consumers.\n- **Monopoly risk**: privatised firms with little competition can raise prices unless regulated.\n\n## Common mistakes\n- Confusing supply-side policies with demand-side policies like lowering interest rates.\n- Claiming results will be instant.\n- Ignoring who loses out from reforms.\n\n## How this is examined\nIn the on-screen exam you could see a case study of a country with low productivity and a minister's plan, along with figures for spending and GDP. You calculate the cost or benefit, classify each policy as supply-side or demand-side, explain how it raises capacity and evaluate its time lag, cost and fairness.\n\nExam tip: For each policy you recommend, give one benefit, one cost or limit, and a judgement about the timescale.",
+    "flashcards": [
+      {
+        "front": "Supply-side policies",
+        "back": "Government policies that aim to raise an economy's productive capacity and efficiency in the long run."
+      },
+      {
+        "front": "Examples of supply-side policies",
+        "back": "Education and training, infrastructure investment, tax incentives, deregulation, privatisation and labour market reforms."
+      },
+      {
+        "front": "Privatisation",
+        "back": "Selling state-owned businesses to private owners, intended to improve efficiency through competition and the profit motive."
+      },
+      {
+        "front": "Deregulation",
+        "back": "Removing or reducing rules on businesses so more firms can enter markets and compete."
+      },
+      {
+        "front": "Supply-side vs demand-side policy",
+        "back": "Supply-side raises long-run productive capacity. Demand-side changes total spending in the short run (interest rates, taxes, government spending)."
+      },
+      {
+        "front": "Main advantage of supply-side policies",
+        "back": "They can raise growth and employment without causing inflation, and improve competitiveness over time."
+      },
+      {
+        "front": "Main disadvantages of supply-side policies",
+        "back": "They take a long time, cost money, may not change firms' behaviour and can harm vulnerable groups."
+      },
+      {
+        "front": "How does training tackle structural unemployment?",
+        "back": "It gives workers the skills employers need, reducing the mismatch between the unemployed and available jobs."
+      },
+      {
+        "front": "Risk of privatising a firm with no competition",
+        "back": "The private owner may use monopoly power to raise prices, so regulation may be needed to protect consumers."
+      }
+    ]
+  }
+]

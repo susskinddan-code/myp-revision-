@@ -1,0 +1,791 @@
+[
+  {
+    "subject": "economics",
+    "grade": 5,
+    "topic": "Development and Sustainability",
+    "subTopic": "Measuring Development and the HDI",
+    "questions": [
+      {
+        "content": "Which three dimensions does the Human Development Index (HDI) combine?",
+        "options": [
+          "Health, education and standard of living",
+          "Exports, imports and tax",
+          "Population, area and climate",
+          "Inflation, unemployment and growth"
+        ],
+        "answer": 0,
+        "explanation": "The HDI combines a long and healthy life (life expectancy), knowledge (education) and a decent standard of living (income per person).",
+        "difficulty": "easy"
+      },
+      {
+        "content": "On what range of values is the HDI reported?",
+        "options": [
+          "0 to 1, where higher means greater human development",
+          "0 to 100 only",
+          "−1 to 1",
+          "1 to 100 where lower means more development"
+        ],
+        "answer": 0,
+        "explanation": "HDI values lie between 0 and 1. A value closer to 1 shows higher human development.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which of these is a measure of economic development rather than a purely economic output measure?",
+        "options": [
+          "Life expectancy",
+          "Total exports",
+          "Number of banks",
+          "Total tax revenue"
+        ],
+        "answer": 0,
+        "explanation": "Development looks at people's quality of life, including health and education. Life expectancy is a key health indicator in the HDI.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What is the difference between economic growth and economic development?",
+        "options": [
+          "Growth is a rise in output; development is an improvement in living standards, health, education and wellbeing",
+          "They are exactly the same",
+          "Growth is about education only",
+          "Development is a fall in output"
+        ],
+        "answer": 0,
+        "explanation": "Economic growth means a rise in real GDP. Development is wider: it covers improvements in people's quality of life.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which organisation publishes the HDI each year?",
+        "options": [
+          "The United Nations Development Programme (UNDP)",
+          "FIFA",
+          "The World Trade Organization",
+          "A national bank"
+        ],
+        "answer": 0,
+        "explanation": "The UNDP publishes the Human Development Index and ranks countries by it.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "To compare life expectancy across countries, the index is built as (actual − minimum) ÷ (maximum − minimum), with minimum 20 years and maximum 85 years. A country has a life expectancy of 72. What is its life expectancy index?",
+        "options": [
+          "0.80",
+          "0.85",
+          "0.72",
+          "0.52"
+        ],
+        "answer": 0,
+        "explanation": "(72 − 20) ÷ (85 − 20) = 52 ÷ 65 = 0.80. Do not divide by 85 alone.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A country's expected years of schooling is 12, with a minimum of 0 and a maximum of 18. What is its education index for this measure (to 2 decimal places)?",
+        "options": [
+          "0.60",
+          "0.67",
+          "0.75",
+          "0.12"
+        ],
+        "answer": 1,
+        "explanation": "(12 − 0) ÷ (18 − 0) = 12 ÷ 18 = 0.67.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A country has HDI value 0.62. UNDP groups countries as very high (0.800 or above), high (0.700 to 0.799), medium (0.550 to 0.699) and low (below 0.550). Which group is it in?",
+        "options": [
+          "Very high",
+          "High",
+          "Medium",
+          "Low"
+        ],
+        "answer": 2,
+        "explanation": "0.62 lies between 0.550 and 0.699, so it is in the medium human development group.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Country P has a GDP per capita much higher than Country Q, yet its HDI is lower. What is the most likely explanation?",
+        "options": [
+          "Country P has lower life expectancy or schooling, even though incomes are high",
+          "GDP is not part of the HDI",
+          "Country Q must have more tax",
+          "HDI ignores health"
+        ],
+        "answer": 0,
+        "explanation": "Income is only one of three dimensions. A country can have high income but poorer health or education, giving a lower HDI.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which is a limitation of using GDP per capita alone as a measure of development?",
+        "options": [
+          "It does not show how income is distributed or whether people are healthy and educated",
+          "It is too hard to calculate",
+          "It includes literacy",
+          "It counts happiness"
+        ],
+        "answer": 0,
+        "explanation": "GDP per capita is an average. It hides inequality and ignores health, education and environmental quality.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which additional indicator would best show the quality of healthcare in a country?",
+        "options": [
+          "Infant mortality rate",
+          "Number of cars",
+          "Total exports",
+          "Size of the army"
+        ],
+        "answer": 0,
+        "explanation": "The infant mortality rate (deaths of babies per 1,000 births) reflects healthcare, nutrition and sanitation.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Why are HDI rankings and GDP rankings for countries often different?",
+        "options": [
+          "The HDI includes health and education as well as income",
+          "The HDI ignores income",
+          "GDP ranks only small countries",
+          "They are produced on different planets"
+        ],
+        "answer": 0,
+        "explanation": "Because HDI adds health and education, some countries rank higher or lower on HDI than their income alone would suggest.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which change would directly raise a country's HDI?",
+        "options": [
+          "An increase in average life expectancy",
+          "A rise in the number of soldiers",
+          "A fall in the number of schools",
+          "An increase in the price of gold"
+        ],
+        "answer": 0,
+        "explanation": "The HDI includes life expectancy, schooling and income per person. Longer life expectancy raises the health index and therefore the HDI.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "In a simplified calculation, a country has a life expectancy index of 0.80, an education index of 0.60 and an income index of 0.70. If HDI is taken as the average of the three, what is it?",
+        "options": [
+          "0.70",
+          "0.65",
+          "0.80",
+          "2.10"
+        ],
+        "answer": 0,
+        "explanation": "(0.80 + 0.60 + 0.70) ÷ 3 = 2.10 ÷ 3 = 0.70. The official HDI uses a slightly different average (a geometric mean), but the principle of combining three indexes is the same.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A country's life expectancy rises from 60 to 66 years. Using the index (actual − 20) ÷ (85 − 20), by how much does the life expectancy index rise (to 2 decimal places)?",
+        "options": [
+          "0.06",
+          "0.09",
+          "0.10",
+          "0.92"
+        ],
+        "answer": 1,
+        "explanation": "Before: 40 ÷ 65 = 0.615. After: 46 ÷ 65 = 0.708. The rise is 0.092, about 0.09.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A government celebrates that its GDP per capita doubled in ten years. A report adds that life expectancy and schooling did not change and the richest 5% earned most of the extra income. How should the claim of improved development be judged?",
+        "options": [
+          "Fully accepted: higher income always means development",
+          "Treated cautiously: income rose but health and education stayed the same and the gains were concentrated, so development may not have improved for most people",
+          "Rejected because GDP is irrelevant",
+          "Accepted because inequality does not matter"
+        ],
+        "answer": 1,
+        "explanation": "Development is multi-dimensional. Evidence on health, education and distribution shows whether higher income improved ordinary people's lives.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A student says: 'Country A has an HDI of 0.90 and Country B has 0.45, so everyone in A lives twice as well as everyone in B.' What is the best criticism?",
+        "options": [
+          "The HDI is an average that hides differences within countries and the scale is an index, not a measure of how many times better life is",
+          "HDI cannot be compared",
+          "A must have a lower HDI",
+          "The HDI measures only GDP"
+        ],
+        "answer": 0,
+        "explanation": "An index value of 0.90 against 0.45 shows a big gap in average human development but does not mean 'twice as well' for everyone. Averages hide inequality within countries.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Which statement best evaluates the HDI as a measure of development?",
+        "options": [
+          "It is useful because it combines health, education and income, but it leaves out inequality, the environment and political freedom",
+          "It is perfect and complete",
+          "It is useless",
+          "It only measures wealth"
+        ],
+        "answer": 0,
+        "explanation": "A strong evaluation notes both the HDI's strengths (broader than GDP, simple, comparable) and its limits (averages, missing factors).",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "## Growth versus development\n**Economic growth** is an increase in real GDP. **Economic development** is wider: it means improvements in people's quality of life, such as longer, healthier lives, better education, cleaner environments, safer communities and greater freedom. A country can grow without developing if the gains are shared unfairly or if health and education do not improve.\n\n## Why not just use GDP per capita?\nGDP per capita (GDP ÷ population) is easy to compare. But it is an average. It does not show how income is shared, ignores unpaid work and the informal economy, ignores the environment and says nothing about health or education. So economists use other indicators as well.\n\n## The Human Development Index (HDI)\nThe **HDI**, published by the United Nations Development Programme (UNDP), combines three dimensions:\n- **Health**: life expectancy at birth.\n- **Education**: expected years of schooling and average years of schooling.\n- **Standard of living**: income per person (GNI per capita).\n\nEach dimension is turned into an index between 0 and 1 using: (actual value − minimum) ÷ (maximum − minimum). For life expectancy with a minimum of 20 and maximum of 85, a value of 72 gives (72 − 20) ÷ 65 = 0.80. Expected schooling of 12 years with a range of 0 to 18 gives 12 ÷ 18 = 0.67. The three indexes are then combined into a single HDI between 0 and 1. For revision, you can think of it as an average; the official calculation uses a slightly different average (a geometric mean). With indexes of 0.80, 0.60 and 0.70 the simplified average is 0.70.\n\nCountries are grouped as very high (0.800 and above), high (0.700 to 0.799), medium (0.550 to 0.699) and low (below 0.550) human development.\n\n## Strengths and weaknesses of the HDI\nStrengths: broader than GDP alone, simple to understand, allows comparison between countries and over time, highlights that income is not everything. Weaknesses: it uses national averages and so hides inequality; it leaves out the environment, political freedom, gender gaps and safety; and some data may be less reliable.\n\n## Other indicators\n- Infant mortality rate (deaths of babies under one per 1,000 births).\n- Literacy rate.\n- Access to clean water and sanitation.\n- Number of doctors per 1,000 people.\n- Poverty rate.\n- Measures of inequality such as the Gini coefficient.\n\nUsing several indicators together gives a fuller picture than any single one.\n\n## Common mistakes\n- Using growth and development as if they mean the same thing.\n- Dividing by the maximum instead of the range (maximum minus minimum).\n- Saying that a high HDI means every person is well off.\n\n## How this is examined\nIn the on-screen exam you may be given a table with GDP per capita, life expectancy and schooling for three countries. You are asked to calculate an index, compare rankings and judge which country is most developed, noting limitations of the data.\n\nExam tip: Always say what each indicator shows, and note that national averages can hide differences between groups.",
+    "flashcards": [
+      {
+        "front": "Economic growth vs economic development",
+        "back": "Growth is a rise in real GDP. Development is an improvement in living standards, health, education and wellbeing."
+      },
+      {
+        "front": "Three dimensions of the HDI",
+        "back": "Health (life expectancy), education (years of schooling) and standard of living (income per person)."
+      },
+      {
+        "front": "HDI range",
+        "back": "A value between 0 and 1. Closer to 1 means higher human development."
+      },
+      {
+        "front": "Index formula for one HDI dimension",
+        "back": "(Actual value − minimum value) ÷ (maximum value − minimum value)."
+      },
+      {
+        "front": "Who publishes the HDI?",
+        "back": "The United Nations Development Programme (UNDP)."
+      },
+      {
+        "front": "HDI groups",
+        "back": "Very high (0.800 and above), high (0.700 to 0.799), medium (0.550 to 0.699), low (below 0.550)."
+      },
+      {
+        "front": "Limitations of GDP per capita",
+        "back": "An average that hides inequality and ignores unpaid work, the informal economy, health, education and the environment."
+      },
+      {
+        "front": "Limitations of the HDI",
+        "back": "Uses averages that hide inequality, and leaves out the environment, gender gaps, political freedom and safety."
+      },
+      {
+        "front": "Infant mortality rate",
+        "back": "Number of babies who die before age one per 1,000 live births. Shows healthcare and living conditions."
+      }
+    ]
+  },
+  {
+    "subject": "economics",
+    "grade": 5,
+    "topic": "Development and Sustainability",
+    "subTopic": "Sustainable Development and the Environment",
+    "questions": [
+      {
+        "content": "Which statement best defines sustainable development?",
+        "options": [
+          "Development that meets the needs of the present without harming the ability of future generations to meet their needs",
+          "Development that uses all resources as fast as possible",
+          "Development that only helps the rich",
+          "Development that ignores the environment"
+        ],
+        "answer": 0,
+        "explanation": "Sustainable development balances economic, social and environmental goals so that future generations are not left worse off.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which of the following is a renewable resource?",
+        "options": [
+          "Coal",
+          "Oil",
+          "Wind",
+          "Natural gas"
+        ],
+        "answer": 2,
+        "explanation": "Renewable resources, such as wind, solar and water power, are naturally replaced. Coal, oil and gas are finite fossil fuels.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What are the three pillars of sustainability?",
+        "options": [
+          "Economic, social and environmental",
+          "Political, military and legal",
+          "Tax, interest and exchange",
+          "Local, national and global"
+        ],
+        "answer": 0,
+        "explanation": "Sustainable development needs a strong economy, fair social conditions and a healthy environment, all together.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "In 2015 the United Nations agreed a set of goals for 2030 to end poverty and protect the planet. What are they called?",
+        "options": [
+          "The Sustainable Development Goals (SDGs)",
+          "The Trade Tariffs",
+          "The Millennium Cup",
+          "The Growth Index"
+        ],
+        "answer": 0,
+        "explanation": "The 17 Sustainable Development Goals cover poverty, health, education, equality, clean energy, climate action and more.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What is a carbon tax?",
+        "options": [
+          "A tax on the carbon dioxide emissions produced by burning fuels",
+          "A subsidy for coal",
+          "A tax on exports",
+          "A reward for pollution"
+        ],
+        "answer": 0,
+        "explanation": "A carbon tax makes polluters pay for their emissions, encouraging them to cut pollution and use cleaner energy.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A firm releases 2 tonnes of CO₂ for each unit it produces. A carbon tax of $50 per tonne is introduced. By how much does the tax raise the firm's cost per unit?",
+        "options": [
+          "$25",
+          "$50",
+          "$100",
+          "$200"
+        ],
+        "answer": 2,
+        "explanation": "2 tonnes × $50 = $100 per unit.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A country generates 120 TWh of electricity, of which 30 TWh comes from renewable sources. What share is renewable?",
+        "options": [
+          "4%",
+          "25%",
+          "30%",
+          "75%"
+        ],
+        "answer": 1,
+        "explanation": "30 ÷ 120 × 100 = 25%.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A country cuts annual greenhouse gas emissions from 500 million tonnes to 425 million tonnes. What is the percentage reduction?",
+        "options": [
+          "7.5%",
+          "15%",
+          "17.6%",
+          "75%"
+        ],
+        "answer": 1,
+        "explanation": "(500 − 425) ÷ 500 × 100 = 15%. Use the original value as the base.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A village shares one lake for fishing. Each fisher catches more to earn more, and fish stocks collapse. What idea does this illustrate?",
+        "options": [
+          "The tragedy of the commons",
+          "Comparative advantage",
+          "A fixed exchange rate",
+          "Deflation"
+        ],
+        "answer": 0,
+        "explanation": "When a shared resource is free to use, individuals have an incentive to overuse it, harming everyone in the long run.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "What does a country's 'ecological footprint' measure?",
+        "options": [
+          "The amount of land and resources needed to support its people and absorb their waste",
+          "The distance of its coastline",
+          "Its number of factories",
+          "Its trade deficit"
+        ],
+        "answer": 0,
+        "explanation": "The ecological footprint compares human demand on nature with the Earth's capacity to regenerate resources.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A company invests $120 million in a solar farm that saves $20 million a year in energy costs. How many years will it take to recover the investment from the savings alone?",
+        "options": [
+          "4",
+          "5",
+          "6",
+          "12"
+        ],
+        "answer": 2,
+        "explanation": "120 ÷ 20 = 6 years. This is the payback period.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A circular economy tries to reduce waste by reusing, repairing and recycling products. Which action best fits this idea?",
+        "options": [
+          "A phone maker offers a repair and take-back scheme to reuse parts",
+          "A shop throws away unsold stock",
+          "A factory dumps waste in a river",
+          "A city buries all its rubbish"
+        ],
+        "answer": 0,
+        "explanation": "In a circular economy materials stay in use as long as possible, rather than being discarded after one use.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which is a short-run cost of switching from coal to solar power for a country?",
+        "options": [
+          "High up-front investment in new equipment and grids",
+          "Higher air pollution",
+          "Greater dependence on finite fuels",
+          "More carbon emissions"
+        ],
+        "answer": 0,
+        "explanation": "Renewable energy often needs large initial spending before the savings and environmental benefits appear. The other options are costs of continuing with coal.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A developing country wants to grow quickly by burning cheap coal. Which statement best evaluates this choice?",
+        "options": [
+          "It may raise output and incomes quickly, but causes pollution, health costs and climate damage, so it is not sustainable in the long term",
+          "It has no costs",
+          "It always reduces poverty permanently",
+          "It is the only way to grow"
+        ],
+        "answer": 0,
+        "explanation": "Evaluation weighs short-term economic benefits against environmental and social costs and the effects on future generations.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A government sets a carbon tax at $50 per tonne. A steelworks emitting 2 tonnes per unit raises its price by the full tax, so each unit costs $100 more. Which outcome is the most likely?",
+        "options": [
+          "Demand for its steel may fall and the firm has an incentive to cut emissions, but low-income consumers may bear higher prices",
+          "No effect on anyone",
+          "Pollution rises",
+          "Steel becomes free"
+        ],
+        "answer": 0,
+        "explanation": "The tax creates an incentive to pollute less, and the extra cost reduces demand. A full evaluation notes who bears the cost.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A country's GDP grows 4% a year and its emissions grow 1% a year. A minister says 'We have achieved sustainable growth.' What is the best response?",
+        "options": [
+          "Correct, because emissions grew slower than GDP",
+          "Partly correct: emissions per unit of output fell (decoupling), but total emissions still rose, so the environmental burden is still increasing",
+          "Wrong, because emissions fell",
+          "Wrong, because GDP cannot grow"
+        ],
+        "answer": 1,
+        "explanation": "Falling emissions per unit of GDP is progress, but total emissions still rose. Sustainability requires reducing total pressure on the environment to a safe level.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A firm switches to solar power costing $120 million, saving $20 million per year. The panels last 15 years. A manager says the investment is only worthwhile if payback is under 5 years. How should this be evaluated?",
+        "options": [
+          "Payback is 6 years, so it fails the manager's rule; but over 15 years total savings of $300 million far exceed the cost, so the manager's rule may be too narrow",
+          "It always fails",
+          "Payback is 4 years so it passes",
+          "Payback is irrelevant to firms"
+        ],
+        "answer": 0,
+        "explanation": "120 ÷ 20 = 6 years. Over 15 years savings are 15 × 20 = $300 million, so there is a large net benefit. Good evaluation questions the criterion used.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Why do economists say that environmental problems such as pollution often need government action?",
+        "options": [
+          "Polluters do not pay the full cost, so markets alone produce too much pollution (a negative externality)",
+          "Markets always solve pollution on their own",
+          "Pollution is good for growth",
+          "Governments never affect pollution"
+        ],
+        "answer": 0,
+        "explanation": "The cost of pollution falls on third parties, so firms ignore it. Taxes, regulation and permits can make polluters face the true cost.",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "## What is sustainable development?\n**Sustainable development** means meeting the needs of people today without damaging the ability of future generations to meet their own needs. It rests on three linked pillars:\n- **Economic**: a strong economy with jobs and growth.\n- **Social**: fairness, health, education and opportunity for all.\n- **Environmental**: protecting nature, resources and the climate.\n\nIf one pillar is sacrificed for the others, development is not sustainable.\n\n## Resources\n- **Renewable resources** are naturally replaced: sunlight, wind, water, and forests if managed carefully.\n- **Non-renewable resources** are finite: coal, oil, gas and many minerals. Burning fossil fuels also releases carbon dioxide (CO₂), which contributes to climate change.\n\n## Environmental problems\nMany environmental problems arise because costs fall on others. Pollution is a **negative externality**: the polluter does not pay the full cost. Shared resources such as fisheries or the atmosphere can be overused, the **tragedy of the commons**. The **ecological footprint** compares the land and resources people use with what the Earth can regenerate.\n\n## Global agreements\nIn 2015 the United Nations agreed the **17 Sustainable Development Goals (SDGs)** to be achieved by 2030, covering poverty, health, education, equality, clean energy and climate action. In the same year the Paris Agreement committed countries to limiting global warming, aiming to keep the rise well below 2°C and pursue 1.5°C.\n\n## Policies\n- **Carbon taxes**: a firm that emits 2 tonnes of CO₂ per unit and pays $50 per tonne faces $100 extra cost per unit, which creates an incentive to cut emissions.\n- **Regulation**: limits on pollution, bans on harmful substances.\n- **Subsidies** for renewable energy, public transport and insulation.\n- **Tradable permits**: firms buy and sell the right to pollute within a cap.\n- **Circular economy**: design products for reuse, repair and recycling.\n- Education and changes in behaviour.\n\n## Calculations\n- Renewable share = renewable ÷ total × 100. 30 out of 120 TWh is 25%.\n- Percentage reduction in emissions = (old − new) ÷ old × 100. From 500 to 425 million tonnes is 15%.\n- Payback period = cost ÷ yearly saving. $120 million ÷ $20 million = 6 years.\n\n## Trade-offs\nGrowth can reduce poverty but also create pollution. Cheap fossil fuels help industry but damage the climate. Policies such as carbon taxes can raise prices for poor households. Evaluation involves weighing short-term and long-term effects and who bears the cost. 'Decoupling' means growing GDP while emissions per unit fall, but total emissions may still rise.\n\n## Common mistakes\n- Treating sustainability as only about the environment.\n- Using the new value instead of the original in percentage change.\n- Ignoring time scales (short-term benefit versus long-term cost).\n\n## How this is examined\nIn the on-screen exam you might read a case study of a country choosing between a coal plant and a solar farm, with cost and emission data. You calculate shares, percentage changes or payback, then evaluate the options across economic, social and environmental criteria and make a reasoned recommendation.\n\nExam tip: Use all three pillars in your evaluation, add a time frame (short and long term), and finish with a clear judgement.",
+    "flashcards": [
+      {
+        "front": "Sustainable development",
+        "back": "Development that meets present needs without reducing the ability of future generations to meet theirs."
+      },
+      {
+        "front": "Three pillars of sustainability",
+        "back": "Economic, social and environmental."
+      },
+      {
+        "front": "Renewable vs non-renewable resources",
+        "back": "Renewable resources are naturally replaced (wind, solar). Non-renewable are finite (coal, oil, gas)."
+      },
+      {
+        "front": "Tragedy of the commons",
+        "back": "A shared resource is overused because each user gains personally while the cost is shared, eventually harming everyone."
+      },
+      {
+        "front": "Carbon tax",
+        "back": "A tax on CO₂ emissions that makes polluters pay and encourages cleaner production."
+      },
+      {
+        "front": "Sustainable Development Goals (SDGs)",
+        "back": "17 goals agreed by the United Nations in 2015 for 2030, including ending poverty, clean energy and climate action."
+      },
+      {
+        "front": "Ecological footprint",
+        "back": "The area of land and resources needed to support a population's consumption and absorb its waste."
+      },
+      {
+        "front": "Circular economy",
+        "back": "An economy that keeps materials in use through reuse, repair and recycling instead of single use and disposal."
+      },
+      {
+        "front": "Payback period",
+        "back": "Cost of an investment ÷ yearly savings. It shows how long to recover the cost."
+      }
+    ]
+  },
+  {
+    "subject": "economics",
+    "grade": 5,
+    "topic": "Development and Sustainability",
+    "subTopic": "Inequality and Poverty",
+    "questions": [
+      {
+        "content": "What is absolute poverty?",
+        "options": [
+          "Not having enough income to meet basic needs such as food, water and shelter",
+          "Earning less than the average person in your country",
+          "Having a smaller house than your neighbour",
+          "Not owning a car"
+        ],
+        "answer": 0,
+        "explanation": "Absolute poverty is measured against a fixed standard of basic needs. Relative poverty compares people to others in their own society.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What is relative poverty?",
+        "options": [
+          "Having an income well below the typical income in your own country",
+          "Having no income at all",
+          "Living in another country",
+          "Owning many relatives"
+        ],
+        "answer": 0,
+        "explanation": "Relative poverty is judged against the living standards of others in the same society, for example below 60% of the median income.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What does the Gini coefficient measure?",
+        "options": [
+          "The degree of income inequality in a country",
+          "The rate of inflation",
+          "The number of exports",
+          "Life expectancy"
+        ],
+        "answer": 0,
+        "explanation": "The Gini coefficient ranges from 0 (perfect equality) to 1 (one person has all the income).",
+        "difficulty": "easy"
+      },
+      {
+        "content": "On a Gini scale from 0 to 1, which country has the most equal distribution of income?",
+        "options": [
+          "Gini 0.25",
+          "Gini 0.45",
+          "Gini 0.60",
+          "Gini 0.80"
+        ],
+        "answer": 0,
+        "explanation": "A lower Gini coefficient shows more equality. 0.25 is the lowest of these.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which is a cause of income inequality?",
+        "options": [
+          "Differences in education, skills and inherited wealth",
+          "Everyone earning the same wage",
+          "A perfectly fair tax system with no differences",
+          "Equal access to jobs in all places"
+        ],
+        "answer": 0,
+        "explanation": "Inequality arises from differences in skills, education, wealth, discrimination, location and the types of job available.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "A country's median income is $30,000. A relative poverty line is set at 60% of the median. What is the poverty line?",
+        "options": [
+          "$12,000",
+          "$18,000",
+          "$20,000",
+          "$24,000"
+        ],
+        "answer": 1,
+        "explanation": "0.60 × 30,000 = $18,000. Households with less than this are classed as being in relative poverty.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "In a country of 80 million people, 12 million live below the poverty line. What is the poverty rate?",
+        "options": [
+          "12%",
+          "15%",
+          "6.7%",
+          "20%"
+        ],
+        "answer": 1,
+        "explanation": "12 ÷ 80 × 100 = 15%.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "The richest 20% of households receive 50% of total income and the poorest 20% receive 5%. What is the ratio of the top group's share to the bottom group's share?",
+        "options": [
+          "2.5",
+          "10",
+          "25",
+          "45"
+        ],
+        "answer": 1,
+        "explanation": "50 ÷ 5 = 10. The richest fifth receive ten times the share of the poorest fifth.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Total national income is $1,000 billion. The poorest 20% receive 5% of income. After reforms they receive 7% of the same total. By what percentage has their income risen?",
+        "options": [
+          "2%",
+          "20%",
+          "40%",
+          "70%"
+        ],
+        "answer": 2,
+        "explanation": "Before: 5% of 1,000 = $50 billion. After: 7% = $70 billion. The rise is 20 ÷ 50 × 100 = 40%. The change of 2 is in percentage points, not percent.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which government policy is most likely to reduce income inequality?",
+        "options": [
+          "A progressive tax system with benefits for low-income households",
+          "Cutting all benefits and taxes for high earners only",
+          "Removing schools",
+          "Raising taxes on food only"
+        ],
+        "answer": 0,
+        "explanation": "Progressive taxes take more from high earners, and benefits and public services help low-income households.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "On a Lorenz curve, what does a curve far below the line of equality show?",
+        "options": [
+          "Greater inequality in income",
+          "Greater equality in income",
+          "Higher inflation",
+          "Lower unemployment"
+        ],
+        "answer": 0,
+        "explanation": "The further the Lorenz curve bows away from the line of equality, the more unequal the distribution of income.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A family cannot afford healthy food, so a child does less well at school, leaving them with low-paid jobs later. What idea does this illustrate?",
+        "options": [
+          "The poverty cycle (cycle of deprivation)",
+          "Comparative advantage",
+          "An exchange rate",
+          "Deflation"
+        ],
+        "answer": 0,
+        "explanation": "Poverty can limit health, education and opportunities, which keeps people poor across generations unless something breaks the cycle.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which is a likely consequence of very high inequality?",
+        "options": [
+          "Lower social mobility and greater social tension",
+          "Equal life chances for everyone",
+          "No difference in health outcomes",
+          "Higher trust in all institutions"
+        ],
+        "answer": 0,
+        "explanation": "High inequality can limit opportunities for those born poor, harm health and weaken social cohesion.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A country's Gini coefficient falls from 0.45 to 0.40 while GDP per capita rises 3% a year. A student concludes 'Everyone is now better off.' Which is the strongest criticism?",
+        "options": [
+          "The Gini coefficient is an overall measure; it does not show whether the poorest group's real incomes rose, or how different regions and groups fare",
+          "The Gini coefficient always rises",
+          "GDP per capita cannot rise",
+          "Inequality is irrelevant"
+        ],
+        "answer": 0,
+        "explanation": "A lower Gini means incomes are more evenly spread, but averages and summary measures can hide the experience of particular groups. More evidence is needed.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A country raises its minimum wage and increases income tax rates on the highest earners, using the revenue to fund free school meals. Which evaluation is most balanced?",
+        "options": [
+          "It is likely to reduce inequality and poverty, but a higher minimum wage may reduce hiring and high taxes may reduce incentives to work or invest",
+          "It has only benefits",
+          "It has only costs",
+          "It will increase inequality"
+        ],
+        "answer": 0,
+        "explanation": "Redistribution policies have benefits and possible costs. Good evaluation weighs both and refers to evidence on size and timing.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "In Country A, the absolute poverty rate falls from 40% to 25% over twenty years, but the Gini coefficient rises from 0.35 to 0.50. Which interpretation is best?",
+        "options": [
+          "Fewer people are in absolute poverty, but incomes are now less equally distributed, so living conditions have improved for many while the gap between rich and poor has widened",
+          "Poverty and inequality both fell",
+          "Poverty rose",
+          "The data cannot be interpreted"
+        ],
+        "answer": 0,
+        "explanation": "Poverty and inequality are different measures. A country can reduce absolute poverty while inequality rises if the rich gain faster than the poor.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A charity says: 'The poverty rate is 15% in a country of 80 million, so there are 12 million people in poverty.' Another says the line is too low and that 20% should be counted. How many people would be counted if the rate were 20%, and what does this show?",
+        "options": [
+          "16 million; the choice of poverty line strongly affects the measured amount of poverty",
+          "20 million; nothing changes",
+          "12 million; the line does not matter",
+          "8 million; poverty has fallen"
+        ],
+        "answer": 0,
+        "explanation": "20% of 80 million = 16 million, 4 million more than at 15%. Where the poverty line is drawn changes how many people are counted as poor.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A country sets its relative poverty line at 60% of median income. The median is $30,000, then rises to $33,000. A household's income stays at $18,500. What happens to its poverty status?",
+        "options": [
+          "It was above the line ($18,000) and is now below the line ($19,800), so it falls into relative poverty even though its income is unchanged",
+          "It stays above the line",
+          "It was below the line and is now above it",
+          "It is unaffected because poverty lines are fixed"
+        ],
+        "answer": 0,
+        "explanation": "Old line: 0.60 × 30,000 = $18,000. New line: 0.60 × 33,000 = $19,800. $18,500 is now below the line. Relative poverty depends on how others' incomes change.",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "## Poverty\n**Absolute poverty** means not having enough income to meet basic needs: food, clean water, shelter, clothing and healthcare. It is measured against a fixed standard, such as a daily income line set by international organisations. **Relative poverty** means having an income far below that of most people in your society. It is often defined as less than 60% of the median income. If the median is $30,000, the line is 0.60 × 30,000 = $18,000.\n\nThe **poverty rate** is the percentage of people below the line: 12 million out of 80 million is 15%. Changing the line changes the numbers: at 20% the count would be 16 million.\n\n## Inequality\n**Income inequality** is the gap between people with high incomes and low incomes. **Wealth inequality** refers to the gap in assets such as property and savings. Economists measure inequality in several ways:\n- **Gini coefficient**: from 0 (everyone has equal incomes) to 1 (one person has everything). Lower means more equal.\n- **Lorenz curve**: a graph showing the share of income held by shares of the population. The further the curve bows below the line of equality, the greater the inequality.\n- **Income shares**: if the richest 20% receive 50% and the poorest 20% receive 5%, the ratio is 50 ÷ 5 = 10. Moving the poorest fifth from 5% to 7% of a $1,000 billion total lifts their income from $50 billion to $70 billion, a rise of 40%, even though the share rose by only 2 percentage points.\n\n## Causes\nDifferences in education and skills, inherited wealth, discrimination, unemployment, low-paid or insecure work, location (rural areas with few jobs), poor health, weak institutions, and changes such as automation or globalisation that favour skilled workers.\n\n## Consequences\nPoor health and education, lower life expectancy, wasted talent, lower social mobility, social tension and crime, and a poverty cycle in which low income leads to poor schooling and so to low income again. Very high inequality may also slow growth if many people cannot use their potential.\n\n## Policies\n- **Progressive taxes** and benefits to redistribute income.\n- A **minimum wage**, though it may reduce hiring if set too high.\n- Investment in education, healthcare and training.\n- Support for small businesses, fair pay and job creation in poorer regions.\n- Aid and debt relief for poor countries.\n\n## Trade-offs\nRedistribution may reduce incentives to work or invest, and generous benefits cost money. But doing nothing leaves poverty and its costs. Good evaluation weighs these.\n\n## Common mistakes\n- Mixing up poverty (low income) and inequality (gap between groups).\n- Confusing percentage points with percentage change.\n- Assuming a lower Gini always means less poverty.\n\n## How this is examined\nIn the on-screen exam you may be given a Gini coefficient over time, poverty lines and income shares of quintiles. You calculate rates or ratios, interpret the pattern and evaluate a policy, saying who gains, who loses and what the data cannot tell you.\n\nExam tip: Separate poverty from inequality in your answer, and use numbers from the source to support each point.",
+    "flashcards": [
+      {
+        "front": "Absolute poverty",
+        "back": "Income too low to meet basic needs such as food, clean water, shelter and healthcare; judged against a fixed standard."
+      },
+      {
+        "front": "Relative poverty",
+        "back": "Income far below the typical level in a society, often set at less than 60% of the median income."
+      },
+      {
+        "front": "Gini coefficient",
+        "back": "Measure of income inequality from 0 (perfect equality) to 1 (maximum inequality)."
+      },
+      {
+        "front": "Lorenz curve",
+        "back": "Graph of cumulative income share against population share. The further it is from the line of equality, the greater the inequality."
+      },
+      {
+        "front": "Poverty rate",
+        "back": "Number of people below the poverty line ÷ total population × 100."
+      },
+      {
+        "front": "Three causes of income inequality",
+        "back": "Differences in education and skills, inherited wealth, discrimination, unemployment or low-paid work, location."
+      },
+      {
+        "front": "Poverty cycle",
+        "back": "Low income leads to poor health and education, which leads to low-paid jobs, so poverty repeats across generations."
+      },
+      {
+        "front": "Policies to reduce inequality",
+        "back": "Progressive taxes, benefits, a minimum wage, investment in education and healthcare, and support for poorer regions."
+      },
+      {
+        "front": "Percentage points vs percentage change",
+        "back": "A move from 5% to 7% is 2 percentage points but a 40% rise in the amount (2 ÷ 5 × 100)."
+      }
+    ]
+  }
+]

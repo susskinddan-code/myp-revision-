@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "geography",
+  "grade": 5,
+  "topic": "Development and Inequality",
+  "subTopic": "Measuring Development",
+  "questions": [
+   {
+    "content": "What does GDP measure?",
+    "options": [
+     "The number of people living in a country",
+     "The total value of goods and services produced within a country in a year",
+     "The average life expectancy",
+     "The amount of foreign aid received"
+    ],
+    "answer": 1,
+    "explanation": "Gross Domestic Product is the total value of all goods and services produced within a country's borders in a year. Dividing by population gives GDP per capita.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which three components are combined to produce the Human Development Index (HDI)?",
+    "options": [
+     "Rainfall, temperature and population",
+     "Exports, imports and debt",
+     "Life expectancy, education and income per person",
+     "Birth rate, death rate and migration"
+    ],
+    "answer": 2,
+    "explanation": "The HDI combines health (life expectancy), education (years of schooling) and standard of living (income per person). It gives a score between 0 and 1.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a social indicator of development?",
+    "options": [
+     "GDP per capita",
+     "Literacy rate",
+     "Value of exports",
+     "Number of cars produced"
+    ],
+    "answer": 1,
+    "explanation": "Social indicators measure people's wellbeing, such as literacy, life expectancy or infant mortality. GDP and exports are economic indicators.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "An HDI score closer to 1 means:",
+    "options": [
+     "Lower human development",
+     "Higher human development",
+     "A larger population",
+     "A bigger land area"
+    ],
+    "answer": 1,
+    "explanation": "The HDI ranges from 0 to 1, and a score near 1 shows very high human development.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which measure shows how unequally income is shared in a country?",
+    "options": [
+     "Literacy rate",
+     "Birth rate",
+     "Gini coefficient",
+     "Life expectancy"
+    ],
+    "answer": 2,
+    "explanation": "The Gini coefficient measures inequality. A value of 0 means everyone has the same income and a value near 1 means one person has almost everything.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A country has a GDP of $300 billion and a population of 50 million. What is its GDP per capita?",
+    "options": [
+     "$600",
+     "$15 000",
+     "$1500",
+     "$6000"
+    ],
+    "answer": 3,
+    "explanation": "GDP per capita = $300 000 000 000 ÷ 50 000 000 = $6000. Always check the units before dividing.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A country has 12 000 doctors and 8 million people. How many doctors are there per 1000 people?",
+    "options": [
+     "15",
+     "0.15",
+     "1.5",
+     "150"
+    ],
+    "answer": 2,
+    "explanation": "12 000 ÷ 8 000 000 × 1000 = 1.5 doctors per 1000 people.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A country's literacy rate rises from 60% to 75%. Which statement is correct?",
+    "options": [
+     "A rise of 15 percentage points, which is a 25% increase",
+     "A rise of 15%, which is 15 percentage points",
+     "A rise of 25 percentage points, which is 15%",
+     "A rise of 15 percentage points, which is a 15% increase"
+    ],
+    "answer": 0,
+    "explanation": "75 − 60 = 15 percentage points. As a percentage change, 15 ÷ 60 × 100 = 25%. Percentage points and percent are different.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is GDP per capita a limited measure of development when used alone?",
+    "options": [
+     "It is not measured in money",
+     "It only counts rural people",
+     "It is an average that ignores inequality, health and education",
+     "It never changes"
+    ],
+    "answer": 2,
+    "explanation": "A high average income can hide that most people are poor. Composite indices such as the HDI add health and education information.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Country A has a GDP per capita of $2000, life expectancy of 62 and an infant mortality rate of 58 per 1000. Country B has $12 000, 78 years and 6 per 1000. Which statement is best supported?",
+    "options": [
+     "Country A is more developed",
+     "Country B shows higher levels of development on all three indicators",
+     "The data are too limited to say anything",
+     "Country B has more people"
+    ],
+    "answer": 1,
+    "explanation": "B has higher income, longer life expectancy and lower infant mortality, all pointing to higher development. The data does not tell us about population.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why do geographers often use several indicators to judge development, instead of one?",
+    "options": [
+     "Each indicator is exactly the same",
+     "One indicator is always inaccurate",
+     "Different indicators show different aspects, so combining them gives a fuller picture",
+     "Using many indicators makes data collection easier"
+    ],
+    "answer": 2,
+    "explanation": "Development has economic, social and environmental parts. A single measure, such as income, cannot capture health, education or equality.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A country's GDP is $5000 per person in 2015 and $5600 per person in 2020. What is the percentage increase?",
+    "options": [
+     "6%",
+     "10.7%",
+     "12%",
+     "600%"
+    ],
+    "answer": 2,
+    "explanation": "Change = 600. 600 ÷ 5000 × 100 = 12%. Dividing by the new value to get 10.7% is incorrect.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A country's economy grew by 4% in a year while its population grew by 3%. About how much did GDP per capita grow?",
+    "options": [
+     "About 7%",
+     "About 4%",
+     "About 12%",
+     "About 1%"
+    ],
+    "answer": 3,
+    "explanation": "GDP per capita ≈ 1.04 ÷ 1.03 = 1.0097, so it grew by about 1%. Fast population growth can cancel out much of the economic growth.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An oil-rich country has a very high GDP per capita but a low HDI ranking compared with its income. What is the best explanation?",
+    "options": [
+     "Oil wealth is not counted in GDP",
+     "HDI only includes oil output",
+     "Wealth may be concentrated in a few people, and health and education may not have improved as much as income",
+     "A high GDP always means a high HDI"
+    ],
+    "answer": 2,
+    "explanation": "GDP per capita is an average. If the money is unequally shared or not spent on health and schools, HDI will be lower than income suggests.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "On a Lorenz curve diagram the further the curve bows below the line of perfect equality, the:",
+    "options": [
+     "Lower the population",
+     "Higher the literacy",
+     "Greater the inequality of income",
+     "Smaller the economy"
+    ],
+    "answer": 2,
+    "explanation": "The line of equality shows 20% of people earning 20% of income and so on. A curve that sags below the line means the poorest groups receive a smaller share, so inequality is higher.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Country X reports a Gini coefficient of 0.55 and Country Y a Gini coefficient of 0.30, with the same average income. What can a student justify?",
+    "options": [
+     "Income is more equally shared in Y, so a typical person in X may be worse off than the average suggests",
+     "Country X is the richer country",
+     "Country Y has more people",
+     "The Gini coefficient cannot be compared"
+    ],
+    "answer": 0,
+    "explanation": "A lower Gini means more equality. With equal averages, X's high inequality means a few earn far above the average and many earn below it.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A report ranks countries only by GDP per capita. A student writes a critique. Which point is the strongest?",
+    "options": [
+     "The ranking is useless because GDP can be calculated",
+     "It ignores differences in health, education, inequality, and environmental damage",
+     "The ranking is too accurate",
+     "GDP is not a number"
+    ],
+    "answer": 1,
+    "explanation": "A strong evaluation names what is missing. GDP does not capture unpaid work, inequality, wellbeing or environmental costs, so rankings can mislead.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A government claims that development is 'improving' because its HDI rose from 0.61 to 0.64. Which question would best check the claim?",
+    "options": [
+     "Did all three components rise, or only one, and is the gain shared across regions and groups?",
+     "Is 0.64 greater than 0.61?",
+     "What is the capital city?",
+     "Is the HDI a number?"
+    ],
+    "answer": 0,
+    "explanation": "A composite index can rise because of one component. Checking each component and who benefits gives a more reliable judgement.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What is development?\nDevelopment means improvement in people's standard of living and quality of life. It includes better incomes, health, education, safety and freedom, not just money. Countries are sometimes grouped as low, middle or high income, or as less economically developed and more economically developed. Remember these groups are broad and countries can change category over time. Newly industrialising or emerging economies, such as Brazil, India and China, have grown quickly in recent decades.\n\n## Economic indicators\n- **Gross Domestic Product (GDP)**: the total value of goods and services produced in a country in a year.\n- **GDP per capita**: GDP ÷ population. This allows fair comparison between big and small countries.\n- **Gross National Income (GNI)**: the income earned by a country's people and firms, including income from abroad.\n- **Employment structure**: the share of workers in primary, secondary and tertiary jobs. High income countries usually have more tertiary jobs.\n\n## Social indicators\n- **Life expectancy**: average years a newborn is expected to live.\n- **Infant mortality rate**: deaths under one year per 1000 live births.\n- **Literacy rate**: the percentage of adults who can read and write.\n- **Access to clean water, sanitation, doctors per 1000 people**.\n\n## Composite measures\nThe **Human Development Index (HDI)** combines life expectancy (health), years of schooling (education) and income per person (standard of living) into one score between 0 and 1. The closer to 1, the higher the human development.\n\nThe **Gini coefficient** measures inequality of income. A value of 0 would mean perfect equality; the nearer to 1 the more unequal. A **Lorenz curve** shows the same idea in a graph: the further it sags below the line of equality, the more unequal the society.\n\n## Why averages can mislead\nGDP per capita is an average. It does not show how income is shared, whether people have good health and education or what damage has been done to the environment. A country can have a high GDP per capita but many poor people. This is why the HDI and other indicators are used alongside GDP.\n\n## Calculations\n- GDP per capita = $300 billion ÷ 50 million = $6000.\n- Doctors per 1000 = 12 000 ÷ 8 million × 1000 = 1.5.\n- Percentage change = change ÷ original × 100. From $5000 to $5600 is 600 ÷ 5000 × 100 = 12%.\n- Percentage points: literacy rising from 60% to 75% is 15 percentage points but a 25% increase (15 ÷ 60).\n- GDP per capita growth ≈ GDP growth minus population growth. Growth of 4% with population growth of 3% gives about 1%.\n\n## Sustainable Development Goals\nIn 2015 the United Nations adopted 17 Sustainable Development Goals (SDGs) to be achieved by 2030. They include ending poverty, zero hunger, good health, quality education, gender equality and clean water. They recognise that development must be social, economic and environmental.\n\n## Common mistakes\n- Treating development as only about money.\n- Mixing up percent and percentage points.\n- Describing an indicator without saying what it shows.\n- Using one indicator to judge a whole country.\n\n## How this is examined\nQuestions give a data table (described in words) for two or more countries. You might be asked to select the relevant figures, calculate GDP per capita or a percentage change, compare the countries and justify which is more developed. Extended tasks ask you to evaluate how reliable the indicators are and what limitations they have.\n\nExam tip: when comparing countries, quote figures from both and say what each indicator shows about quality of life, then comment on one limitation of the data.",
+  "flashcards": [
+   {
+    "front": "GDP",
+    "back": "Gross Domestic Product: the total value of goods and services produced within a country in a year."
+   },
+   {
+    "front": "GDP per capita",
+    "back": "GDP divided by the population. It gives the average output or income per person."
+   },
+   {
+    "front": "Human Development Index (HDI)",
+    "back": "A score from 0 to 1 combining life expectancy, years of schooling and income per person. Closer to 1 is higher."
+   },
+   {
+    "front": "Gini coefficient",
+    "back": "A measure of income inequality. 0 is perfect equality; values closer to 1 show greater inequality."
+   },
+   {
+    "front": "Infant mortality rate",
+    "back": "Deaths of babies under 1 year old per 1000 live births. A low figure usually shows better healthcare."
+   },
+   {
+    "front": "Social vs economic indicators",
+    "back": "Social: literacy, life expectancy, infant mortality. Economic: GDP per capita, employment structure, exports."
+   },
+   {
+    "front": "Why can GDP per capita mislead?",
+    "back": "It is an average, so it hides inequality and does not show health, education or environmental damage."
+   },
+   {
+    "front": "Percentage points vs percent",
+    "back": "Literacy from 60% to 75% is a 15 percentage point rise but a 25% increase (15 ÷ 60 × 100)."
+   },
+   {
+    "front": "Sustainable Development Goals",
+    "back": "17 UN goals adopted in 2015 to be reached by 2030, covering poverty, hunger, health, education, equality and climate."
+   }
+  ]
+ },
+ {
+  "subject": "geography",
+  "grade": 5,
+  "topic": "Development and Inequality",
+  "subTopic": "Causes of Inequality",
+  "questions": [
+   {
+    "content": "What is meant by the 'development gap'?",
+    "options": [
+     "The distance between two capital cities",
+     "The difference in living standards between richer and poorer countries",
+     "The gap in age between boys and girls",
+     "The time it takes to build a road"
+    ],
+    "answer": 1,
+    "explanation": "The development gap is the difference in wealth, health and education between more and less developed parts of the world.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a primary product?",
+    "options": [
+     "Smartphone",
+     "Insurance service",
+     "Copper ore",
+     "Car"
+    ],
+    "answer": 2,
+    "explanation": "Primary products are raw materials taken from the land or sea, such as ore, crops and oil. They usually earn less than manufactured goods.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A landlocked country is one that:",
+    "options": [
+     "Has no border with another country",
+     "Has no coast and no direct access to the sea",
+     "Is made up of many islands",
+     "Is completely surrounded by water"
+    ],
+    "answer": 1,
+    "explanation": "Landlocked countries depend on neighbours to reach ports, which can raise the cost of trade.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of the following is an example of a cause of inequality within a country?",
+    "options": [
+     "Equal access to schools",
+     "Unequal access to education and healthcare between rural and urban areas",
+     "A single national currency",
+     "A well-run public transport system"
+    ],
+    "answer": 1,
+    "explanation": "Differences in access to services between regions, genders or groups create unequal chances and outcomes.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Debt means:",
+    "options": [
+     "Money that a country gets for free",
+     "Money a country has saved",
+     "A tax on exports",
+     "Money owed to lenders that has to be paid back, often with interest"
+    ],
+    "answer": 3,
+    "explanation": "A country with large debts must spend part of its income on repayments, leaving less for services such as schools and hospitals.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A country exports goods priced at an index of 120 and imports goods priced at an index of 150. Terms of trade = (export price index ÷ import price index) × 100. What is its terms of trade value?",
+    "options": [
+     "125",
+     "80",
+     "30",
+     "270"
+    ],
+    "answer": 1,
+    "explanation": "120 ÷ 150 × 100 = 80. A value below 100 means export prices are weaker than import prices, so the country can buy fewer imports per unit exported.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A country earns $10 billion from exports and has to pay $2 billion a year in debt repayments. What percentage of export earnings is used for debt service?",
+    "options": [
+     "20%",
+     "5%",
+     "2%",
+     "80%"
+    ],
+    "answer": 0,
+    "explanation": "2 ÷ 10 × 100 = 20%. This money cannot be spent on development projects.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "70% of a country's export earnings come from copper. If the world price of copper falls by 30% and export volumes stay the same, by what percentage do total export earnings fall?",
+    "options": [
+     "30%",
+     "70%",
+     "21%",
+     "40%"
+    ],
+    "answer": 2,
+    "explanation": "The fall applies only to the copper share: 0.7 × 0.30 = 0.21, or 21%. This shows the risk of depending on one primary product.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why does relying on primary exports often keep a country poor?",
+    "options": [
+     "Primary products always have rising prices",
+     "Prices are volatile and usually lower than for manufactured goods, so incomes are unstable",
+     "Primary exports require no workers",
+     "Only rich countries buy primary products"
+    ],
+    "answer": 1,
+    "explanation": "Prices of raw materials swing widely and processing (value added) usually happens elsewhere. Countries that only export raw materials miss out on higher profits.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which historical factor has contributed to inequality between some countries?",
+    "options": [
+     "Colonial rule that extracted resources and set up borders without regard for local people",
+     "A shared language",
+     "Equal trade deals",
+     "Having more coastline"
+    ],
+    "answer": 0,
+    "explanation": "In many places colonial economies were organised to export raw materials to the colonising power, leaving limited industry and infrastructure after independence.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement best describes how conflict can increase inequality?",
+    "options": [
+     "It always builds new schools",
+     "It brings foreign investment immediately",
+     "It destroys infrastructure, forces people to flee and discourages investment",
+     "It reduces the need for healthcare"
+    ],
+    "answer": 2,
+    "explanation": "War damages roads, schools and hospitals, displaces people and reduces trade and investment, making recovery slow.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In many countries girls receive fewer years of schooling than boys. What is the most likely long-term effect?",
+    "options": [
+     "Higher fertility, lower household income and slower national development",
+     "Lower birth rates and faster development",
+     "No effect on the economy",
+     "Better health for children"
+    ],
+    "answer": 0,
+    "explanation": "Educating girls is linked to later marriage, fewer children, better health and higher incomes. Unequal access holds back households and the whole economy.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A country's top 10% of earners receive 45% of national income and the bottom 40% receive 10%. A student claims: 'income is shared equally.' Which response is the most accurate?",
+    "options": [
+     "Correct, as 45% + 10% = 55%",
+     "Incorrect: if shared equally, the bottom 40% would get 40% of income, but they receive only 10%",
+     "Correct, because the top group is only 10%",
+     "Incorrect, because the bottom 40% receive more than the top 10%"
+    ],
+    "answer": 1,
+    "explanation": "In perfect equality each share of the population receives the same share of income. Here the bottom 40% receive a quarter of what equality would give them, showing high inequality.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A landlocked country has a rail link to a neighbour's port that was closed after a dispute. Trade costs rise by 25% and a container cost $4000. What is the new cost?",
+    "options": [
+     "$4025",
+     "$5000",
+     "$4250",
+     "$1000"
+    ],
+    "answer": 1,
+    "explanation": "25% of $4000 = $1000. $4000 + $1000 = $5000. The figure of $1000 is only the increase.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A rural region has one clinic for every 40 000 people, while the capital city has one clinic for every 8000 people. How many times better served is the capital?",
+    "options": [
+     "32 times",
+     "8 times",
+     "0.2 times",
+     "5 times"
+    ],
+    "answer": 3,
+    "explanation": "40 000 ÷ 8000 = 5, so the capital has five times as many clinics per person. Subtracting would give 32 000, which is not a ratio.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which explanation best links inequality to a 'cycle of poverty'?",
+    "options": [
+     "Poor families cannot afford schooling or healthcare, so children have lower skills and incomes and remain poor",
+     "Wealthy families spend less than poor families",
+     "Education is free so poverty ends quickly",
+     "Poverty rises when hospitals are built"
+    ],
+    "answer": 0,
+    "explanation": "A cycle of poverty is self-reinforcing: low income leads to poor education and health, which keeps incomes low in the next generation.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A source says 'inequality exists only because poor countries have bad governments'. What is the best evaluation?",
+    "options": [
+     "It is correct because governments control everything",
+     "It is one factor, but it ignores history, geography, trade rules and debt, so it is oversimplified",
+     "It is correct because corruption is the only cause",
+     "It is correct because geography is irrelevant"
+    ],
+    "answer": 1,
+    "explanation": "Governance matters, but inequality has many causes. Strong answers recognise multiple, linked factors and avoid single-cause claims.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which policy is most likely to reduce inequality within a country over the long term?",
+    "options": [
+     "Cutting funding for rural schools",
+     "Investing in education, healthcare and infrastructure in the poorest regions",
+     "Ending all taxes",
+     "Moving all industry to the capital"
+    ],
+    "answer": 1,
+    "explanation": "Targeted investment improves skills, health and access to markets in neglected areas, which spreads opportunity.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Inequality between and within countries\nInequality means unequal shares of wealth, income, health or opportunity. It exists **between countries** (the development gap) and **within countries** (for example between rural and urban areas, or between men and women). Understanding the causes helps explain why some places develop faster than others. No single cause is enough: the causes are linked.\n\n## Historical causes\nMany countries were colonies. Colonial economies were often organised to extract raw materials, such as minerals and cash crops, for the ruling country, with little investment in factories, schools or local industry. After independence, some countries kept relying on a few raw exports and had borders and institutions that were not designed for them. The effects of this history can last for decades.\n\n## Physical and geographical causes\n- **Landlocked** countries have no coast, so trade depends on neighbours and is more expensive.\n- **Climate and hazards**: drought, floods, cyclones and earthquakes damage crops and buildings and divert money to recovery.\n- **Disease**: illnesses such as malaria reduce workers' health and cost money to treat.\n- **Resources**: lack of resources can limit growth, but resource-rich countries can also suffer if wealth is not shared well.\n\n## Economic causes\n- **Dependence on primary products**: raw materials usually earn less than manufactured goods, and prices are volatile. If 70% of exports are copper and the copper price falls 30%, total earnings drop by 0.7 × 30% = 21%.\n- **Terms of trade** = export price index ÷ import price index × 100. A value of 80 (120 ÷ 150 × 100) means a country can buy fewer imports for each unit it exports.\n- **Debt**: if 20% of export earnings go to repayments ($2 billion out of $10 billion), there is less to spend on schools and hospitals.\n- **Trade barriers**: tariffs and quotas can block poorer countries from selling processed goods in richer markets.\n\n## Political and social causes\n- **Conflict and instability** destroy infrastructure and drive people away.\n- **Corruption and weak governance** waste money and discourage investment.\n- **Gender inequality**: when girls get less education and women have fewer job opportunities, families and economies lose out.\n- **Unequal access to services** between regions or groups keeps some people poor.\n\n## Inequality within countries\nIn many countries cities and richer regions have better schools, healthcare, jobs and transport than rural areas. Investment tends to flow to places that are already doing well, which can widen the gap (a cumulative cycle). Income inequality can be measured with the Gini coefficient.\n\nWorked example: the top 10% of earners get 45% of income while the bottom 40% get just 10%. Under equality the bottom 40% would get 40%, so their share is only a quarter of what equality would give. A region with one clinic per 40 000 people compared with a city with one per 8000 has five times fewer clinics per person (40 000 ÷ 8000 = 5).\n\n## Cycle of poverty\nPoverty leads to poor health and little education, which means low-skilled jobs and low income, which keeps families poor. Breaking the cycle often needs outside help, such as investment in schools and clinics.\n\n## Common mistakes\n- Blaming one factor only, such as corruption or climate.\n- Writing that poor countries are poor 'because they are lazy'. This is not supported by evidence.\n- Not linking the cause to its effect on people.\n\n## How this is examined\nExpect a short source or data set about a country, followed by questions that ask you to select the relevant data, calculate a percentage or ratio, explain one or two causes, then evaluate how far a cause explains the inequality.\n\nExam tip: when asked to 'discuss' causes, give at least two linked factors, use evidence from the source and say which you think matters most and why.",
+  "flashcards": [
+   {
+    "front": "Development gap",
+    "back": "The difference in living standards and wealth between richer and poorer countries or regions."
+   },
+   {
+    "front": "Landlocked country",
+    "back": "A country with no coastline, which must use neighbours' ports so trade is often slower and more expensive."
+   },
+   {
+    "front": "Why are primary exports risky?",
+    "back": "Raw material prices swing widely and are usually lower than manufactured goods, making incomes unstable."
+   },
+   {
+    "front": "Terms of trade formula",
+    "back": "(Export price index ÷ import price index) × 100. Below 100 means the country buys fewer imports per unit exported."
+   },
+   {
+    "front": "Debt service",
+    "back": "The money a country spends repaying loans and interest, leaving less for schools, health and infrastructure."
+   },
+   {
+    "front": "Colonial legacy",
+    "back": "Many colonies were set up to export raw materials, leaving limited industry, schools and infrastructure after independence."
+   },
+   {
+    "front": "Cycle of poverty",
+    "back": "Low income leads to poor health and education, which keeps incomes low and passes poverty to the next generation."
+   },
+   {
+    "front": "Gender inequality and development",
+    "back": "When girls get less education and women fewer jobs, family incomes and national growth are lower."
+   },
+   {
+    "front": "Inequality within countries",
+    "back": "Differences between urban and rural areas, regions, genders or groups in income, services and opportunities."
+   }
+  ]
+ },
+ {
+  "subject": "geography",
+  "grade": 5,
+  "topic": "Development and Inequality",
+  "subTopic": "Aid, Trade and Globalisation",
+  "questions": [
+   {
+    "content": "Aid given directly from one government to another is called:",
+    "options": [
+     "Multilateral aid",
+     "Bilateral aid",
+     "Emergency aid only",
+     "Charity aid"
+    ],
+    "answer": 1,
+    "explanation": "Bilateral aid goes from one country to another. Multilateral aid is pooled through organisations such as the United Nations or World Bank.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a tariff?",
+    "options": [
+     "A tax on imported goods",
+     "A gift from one country to another",
+     "A ban on trade",
+     "A loan to a developing country"
+    ],
+    "answer": 0,
+    "explanation": "A tariff is a tax placed on imports. It makes foreign goods more expensive compared with local ones.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these best describes globalisation?",
+    "options": [
+     "Countries becoming more separated from each other",
+     "Countries ending all trade",
+     "A single government for the world",
+     "Increasing connections between countries through trade, investment, technology and migration"
+    ],
+    "answer": 3,
+    "explanation": "Globalisation is the growing interdependence of countries through flows of goods, money, ideas and people.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the aim of Fairtrade schemes?",
+    "options": [
+     "To pay farmers and workers a fair price and support better conditions",
+     "To raise the price of food for consumers only",
+     "To stop all exports",
+     "To make farms bigger"
+    ],
+    "answer": 0,
+    "explanation": "Fairtrade pays producers a minimum price and a premium for community projects, giving more stable incomes.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Aid delivered quickly after an earthquake, such as food, tents and medicine, is an example of:",
+    "options": [
+     "Tied aid",
+     "Debt relief",
+     "Emergency (short-term) aid",
+     "Long-term development aid"
+    ],
+    "answer": 2,
+    "explanation": "Short-term aid responds to a crisis. Long-term aid builds things such as schools and water systems to reduce future need.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A country imposes a 15% tariff on imported shoes that cost $40 before the tariff. What is the price after the tariff?",
+    "options": [
+     "$55",
+     "$46",
+     "$40.15",
+     "$6"
+    ],
+    "answer": 1,
+    "explanation": "15% of $40 = $6. $40 + $6 = $46. The figure of $6 is only the tax.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The UN target is for rich countries to give 0.7% of their gross national income (GNI) as aid. If a country has a GNI of $400 billion, how much would the target be?",
+    "options": [
+     "$28 billion",
+     "$0.28 billion",
+     "$2.8 billion",
+     "$280 million"
+    ],
+    "answer": 2,
+    "explanation": "0.7% = 0.007. 0.007 × $400 billion = $2.8 billion. A common error is to treat 0.7% as 7%.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A donor gives a country a loan on the condition that it must buy equipment from the donor's own companies. What is this called?",
+    "options": [
+     "Tied aid",
+     "Fairtrade",
+     "Charity aid",
+     "Emergency aid"
+    ],
+    "answer": 0,
+    "explanation": "Tied aid has conditions that benefit the donor. It can reduce the usefulness of the aid for the recipient.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is a main reason why globalisation has accelerated since the late twentieth century?",
+    "options": [
+     "Increased tariffs everywhere",
+     "The end of all transport",
+     "Containerisation, cheaper transport and the internet",
+     "Less international travel"
+    ],
+    "answer": 2,
+    "explanation": "Cheaper shipping and air freight, container ports and fast communications made it easier for goods, money and information to move across the world.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Microfinance schemes, such as the Grameen Bank in Bangladesh, give small loans to poor people. How do they help development?",
+    "options": [
+     "They give large gifts with no conditions",
+     "They only fund big companies",
+     "They allow people to start small businesses and earn an income",
+     "They replace the need for schools"
+    ],
+    "answer": 2,
+    "explanation": "Small loans let people buy tools, animals or stock to start or grow a business, often women, which improves household incomes.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is a potential disadvantage of aid for a recipient country?",
+    "options": [
+     "It may create dependency or be lost to corruption",
+     "It can never build schools",
+     "It always lowers life expectancy",
+     "It must be repaid within a week"
+    ],
+    "answer": 0,
+    "explanation": "If aid is badly managed or lasts too long without building local capacity, countries may rely on it. Corruption may also divert funds.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement is a benefit of free trade for an exporting country?",
+    "options": [
+     "Access to larger markets for its goods",
+     "Higher tariffs on its own exports",
+     "Fewer export sales",
+     "Banning imports"
+    ],
+    "answer": 0,
+    "explanation": "Free trade reduces barriers, so exporters can sell to more customers. Risks include increased competition and dependence on foreign markets.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A coffee farmer receives $0.50 for coffee beans that are sold in a shop as a packaged product for $6. A Fairtrade scheme raises the farmer's price by 40%. What does the farmer now receive?",
+    "options": [
+     "$0.90",
+     "$0.70",
+     "$0.20",
+     "$2.40"
+    ],
+    "answer": 1,
+    "explanation": "40% of $0.50 = $0.20. $0.50 + $0.20 = $0.70. The shop price is a distractor because the question is about the farmer's price.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A source states that a country received $2 billion in aid, but spent $3 billion repaying debts in the same year. What is the best interpretation?",
+    "options": [
+     "The country is receiving net benefits from aid",
+     "The debts are zero",
+     "Aid is irrelevant",
+     "More money flows out in debt payments than comes in as aid, which limits the value of the aid"
+    ],
+    "answer": 3,
+    "explanation": "A net outflow of $1 billion shows how debt can cancel out aid. This is one reason for campaigns for debt relief.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A rich country pays subsidies to its farmers so they can sell crops cheaply on the world market. How might this affect farmers in a poorer country?",
+    "options": [
+     "It raises their prices",
+     "It lets them avoid competition",
+     "It guarantees them export contracts",
+     "They may be undercut, lowering their incomes and sales"
+    ],
+    "answer": 3,
+    "explanation": "Subsidised goods can sell below the true cost, making it hard for poorer farmers to compete in local and export markets.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An evaluation of globalisation states: 'It has reduced poverty in some countries but increased inequality in others.' Which evidence would best support both parts of the statement?",
+    "options": [
+     "The number of airports",
+     "Data showing a falling poverty rate in a manufacturing exporter, and a rising Gini coefficient in a country where only a few benefit",
+     "A picture of a shipping container",
+     "The length of the coastline"
+    ],
+    "answer": 1,
+    "explanation": "To support a two-sided statement you need data for both sides. Other options do not measure poverty or inequality.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Why might a country choose to receive aid through multilateral organisations rather than bilateral agreements?",
+    "options": [
+     "Multilateral aid never has conditions",
+     "Multilateral aid is always larger",
+     "Multilateral aid is only emergency aid",
+     "Multilateral aid is less likely to be tied to the donor's own political or commercial interests"
+    ],
+    "answer": 3,
+    "explanation": "Because multilateral aid is pooled, it is less directly linked to a single donor's interests. However, organisations can still attach conditions to loans.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A fictional country, Tavara, removes tariffs on cheap imported clothes. Local clothing firms lose sales but consumers pay lower prices. What is the best judgement of the policy?",
+    "options": [
+     "It benefits everyone equally",
+     "It harms everyone equally",
+     "It has costs and benefits: consumers gain while some local workers lose jobs, so support for retraining may be needed",
+     "It has no effect on anyone"
+    ],
+    "answer": 2,
+    "explanation": "Trade policies create winners and losers. A balanced judgement considers both groups and suggests ways to reduce the harm.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Ways to reduce the development gap\nAid, trade and globalisation can all help countries to develop, but each also has drawbacks. A strong geography answer weighs the benefits and costs and considers who gains and who loses.\n\n## Types of aid\n- **Bilateral aid**: given by one government directly to another.\n- **Multilateral aid**: donated by many countries to organisations such as the United Nations or the World Bank, which then distribute it.\n- **NGO aid**: from non-governmental organisations and charities.\n- **Emergency (short-term) aid**: food, shelter and medicine after disasters.\n- **Long-term (development) aid**: schools, clinics, clean water and training.\n- **Tied aid**: comes with conditions, for example that the money must be spent on the donor's products.\n- **Loans and debt relief**: loans must be repaid; debt relief cancels or reduces them.\n\nThe United Nations has set a target for rich countries to give 0.7% of gross national income (GNI) as aid. For a country with a GNI of $400 billion that is 0.007 × 400 = $2.8 billion.\n\n**Advantages of aid**: saves lives in emergencies, builds services, can lift people out of poverty. **Disadvantages**: can create dependency, may be lost to corruption, may be tied to donor interests, and may not reach the poorest.\n\n## Small-scale approaches\nMicrofinance, such as the Grameen Bank in Bangladesh, gives small loans to poor people to start businesses. Appropriate technology uses simple, low-cost tools that locals can maintain, like hand pumps and solar lamps. NGOs often work at community level.\n\n## Trade\nTrade means buying and selling goods and services. Countries can restrict trade with **tariffs** (taxes on imports), **quotas** (limits on quantity) and **subsidies** (payments to producers to keep prices low). Free trade means fewer barriers, giving larger markets but more competition. **Fairtrade** guarantees producers a minimum price and a premium for community projects. For example, a 15% tariff on shoes costing $40 adds $6, making the price $46. A 40% rise in the price paid to a farmer who receives $0.50 per unit brings it to $0.70.\n\nRich-country subsidies and tariffs on processed goods can make it hard for poorer countries to compete.\n\n## Globalisation\nGlobalisation is the growing connection between countries through trade, investment, technology, culture and migration. It has grown because of containerised shipping, cheaper air travel, the internet and trade agreements. Benefits include jobs, cheaper goods, access to technology and ideas. Costs include job losses in some industries, pressure on the environment, loss of local culture and widening inequality within some countries. Evidence shows that poverty fell in some fast-growing exporting countries, but gains were unevenly shared.\n\n## Evaluating approaches\nWhen you evaluate aid, trade or globalisation, ask: Who benefits? Is it sustainable? Does it help people in the long term or only in the short term? Is the money reaching those who need it? If a country receives $2 billion in aid but pays $3 billion in debt service, the net flow is out of the country, so aid alone is not enough.\n\n## Common mistakes\n- Describing aid as only good or only bad.\n- Confusing bilateral and multilateral aid.\n- Forgetting to explain the effect of tariffs on both producers and consumers.\n- Not using evidence or figures.\n\n## How this is examined\nYou may be given a source about an aid project or trade deal, with some statistics. Typical tasks: pick out the relevant data, calculate a percentage or price change, explain how the approach helps development and then evaluate how successful it is, stating assumptions and limits of the source.\n\nExam tip: for a judgement question, name both winners and losers, and finish with a clear conclusion that begins with 'Overall'.",
+  "flashcards": [
+   {
+    "front": "Bilateral vs multilateral aid",
+    "back": "Bilateral: from one government to another. Multilateral: pooled from many countries and distributed by an organisation such as the UN or World Bank."
+   },
+   {
+    "front": "Tied aid",
+    "back": "Aid given with conditions that benefit the donor, such as having to buy goods or services from the donor country."
+   },
+   {
+    "front": "Short-term vs long-term aid",
+    "back": "Short-term responds to emergencies with food and shelter. Long-term builds schools, clinics and water supplies."
+   },
+   {
+    "front": "UN aid target",
+    "back": "Rich countries are asked to give 0.7% of their gross national income as aid."
+   },
+   {
+    "front": "Tariff",
+    "back": "A tax on imported goods that raises their price and protects local producers."
+   },
+   {
+    "front": "Fairtrade",
+    "back": "A scheme that guarantees producers a minimum price and an extra premium for community projects."
+   },
+   {
+    "front": "Microfinance",
+    "back": "Small loans to poor people (for example from the Grameen Bank in Bangladesh) to start small businesses."
+   },
+   {
+    "front": "Globalisation",
+    "back": "Growing interconnection between countries through trade, investment, technology, culture and migration."
+   },
+   {
+    "front": "Drivers of globalisation",
+    "back": "Containerised shipping, cheaper air travel, the internet and trade agreements that lower barriers."
+   }
+  ]
+ }
+]

@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "economics",
+  "grade": 5,
+  "topic": "Market Failure",
+  "subTopic": "Externalities and the Environment",
+  "questions": [
+   {
+    "content": "An externality is best described as:",
+    "options": [
+     "a cost or benefit that affects a third party not involved in the transaction",
+     "a tax paid by producers",
+     "the price of a good",
+     "the profit made by a firm"
+    ],
+    "answer": 0,
+    "explanation": "Externalities are spillover effects on people who did not buy or sell the good, such as neighbours of a noisy factory.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is an example of a negative externality?",
+    "options": [
+     "A farmer selling more crops",
+     "A shop reducing its prices",
+     "A student paying for tuition",
+     "Smoke from a factory that harms nearby residents' health"
+    ],
+    "answer": 3,
+    "explanation": "Pollution imposes costs on third parties who are not compensated.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is an example of a positive externality?",
+    "options": [
+     "A factory dumping waste in a river",
+     "A driver causing traffic jams",
+     "A person being vaccinated, which also protects others",
+     "A firm raising prices"
+    ],
+    "answer": 2,
+    "explanation": "Vaccination benefits others by lowering the spread of disease.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Social cost is equal to:",
+    "options": [
+     "private cost − external cost",
+     "private cost + external cost",
+     "external cost only",
+     "private benefit + external benefit"
+    ],
+    "answer": 1,
+    "explanation": "Social cost is the full cost to society: costs to the producer plus costs imposed on others.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Market failure means:",
+    "options": [
+     "the market has crashed completely",
+     "the market allocates resources inefficiently, so society does not get the best outcome",
+     "firms are making losses",
+     "prices have fallen"
+    ],
+    "answer": 1,
+    "explanation": "Market failure occurs when free markets lead to over- or under-provision of goods, for example because of externalities.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A chemical plant has a private cost of $20 per unit and causes $6 per unit of pollution damage to a nearby community. What is the social cost per unit?",
+    "options": [
+     "$26",
+     "$14",
+     "$20",
+     "$6"
+    ],
+    "answer": 0,
+    "explanation": "Social cost = private cost + external cost = 20 + 6 = $26.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The plant makes 1,000 units. What is the total external cost?",
+    "options": [
+     "$26,000",
+     "$20,000",
+     "$1,000",
+     "$6,000"
+    ],
+    "answer": 3,
+    "explanation": "External cost per unit × quantity = 6 × 1,000 = $6,000.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "If a good creates a negative externality and is left to the free market, what is likely to happen?",
+    "options": [
+     "It will be underproduced",
+     "Output will be at the socially best level",
+     "It will be overproduced and overconsumed compared with the socially best level",
+     "Production will stop"
+    ],
+    "answer": 2,
+    "explanation": "Producers and consumers ignore the external cost, so the price is too low and output too high.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "If a good creates a positive externality, a free market will probably:",
+    "options": [
+     "overproduce it",
+     "produce the socially best amount",
+     "underproduce it",
+     "not produce it at all"
+    ],
+    "answer": 2,
+    "explanation": "Buyers only consider their private benefit, so too little is bought compared to what is best for society.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the aim of a carbon tax?",
+    "options": [
+     "To increase profits for polluters",
+     "To make polluters pay the external cost (internalise the externality)",
+     "To ban all production",
+     "To reduce the government's revenue"
+    ],
+    "answer": 1,
+    "explanation": "A tax raises the private cost towards the social cost, discouraging pollution.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A government sets a limit on total emissions and lets firms trade permits to emit. This policy is called:",
+    "options": [
+     "tradable pollution permits",
+     "a subsidy",
+     "price discrimination",
+     "nationalisation"
+    ],
+    "answer": 0,
+    "explanation": "A cap limits total pollution. Firms that cut emissions cheaply can sell spare permits.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is an example of a positive externality of consumption?",
+    "options": [
+     "A noisy party",
+     "Smoking in public places",
+     "A factory polluting a river",
+     "Education increasing the productivity and civic skills of a whole community"
+    ],
+    "answer": 3,
+    "explanation": "Educated people benefit others through higher productivity and better decisions, which is an external benefit.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why do fishing boats often overfish an open ocean area?",
+    "options": [
+     "Fish have no value",
+     "Governments always subsidise fishing",
+     "Fish can be produced instantly",
+     "No one owns the stock, so each boat gains the catch while the cost of depleting fish is shared by all"
+    ],
+    "answer": 3,
+    "explanation": "This is a common resource problem. Individual incentives conflict with the long-term interest of all fishers.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A paper mill's private cost is $400 per tonne and external cost is $90 per tonne. It sells 2,000 tonnes at $450. What is the net benefit to society (revenue minus social cost)?",
+    "options": [
+     "$100,000",
+     "$80,000",
+     "−$80,000",
+     "−$100,000"
+    ],
+    "answer": 2,
+    "explanation": "Social cost per tonne = 490, so social cost = $980,000; revenue = $900,000. Net = −$80,000. The firm's private profit is $100,000, which hides the loss to society.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A carbon tax of $30 per tonne is introduced on a product whose external cost is $40 per tonne. What can be said?",
+    "options": [
+     "The tax over-corrects the externality",
+     "The tax reduces the problem but does not fully internalise the externality",
+     "The tax removes the externality exactly",
+     "The tax has no effect"
+    ],
+    "answer": 1,
+    "explanation": "A $30 tax closes only part of the $40 gap, so output will still be above the socially best level.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which is an advantage of a pollution tax over a ban on a harmful chemical?",
+    "options": [
+     "Firms with the lowest costs of cutting pollution reduce most, and the government raises revenue",
+     "It guarantees no pollution at all",
+     "It costs nothing to any firm",
+     "It is easier to monitor than every ban"
+    ],
+    "answer": 0,
+    "explanation": "Taxes give flexibility and revenue. A ban gives certainty but may cost more and removes choice.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A council estimates the external cost of a motorway at $5 million. A later study shows the true cost was $6.25 million. What is the percentage error of the estimate (relative to the true value)?",
+    "options": [
+     "20%",
+     "25%",
+     "1.25%",
+     "5%"
+    ],
+    "answer": 0,
+    "explanation": "Error = 6.25 − 5 = 1.25. Percentage error = 1.25 ÷ 6.25 × 100 = 20%. Using the estimate as the base would give 25%, which is the wrong denominator.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Why is setting a pollution tax difficult in practice?",
+    "options": [
+     "Pollution never harms anyone",
+     "Taxes cannot be collected",
+     "Firms have no costs",
+     "It is hard to measure the monetary value of damage to health and wildlife"
+    ],
+    "answer": 3,
+    "explanation": "External costs are often non-market and uncertain, so a tax may be set too high or too low.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Markets usually work well for many goods, but sometimes they fail to give the best outcome for society. This is called **market failure**. One of the most important causes is externalities, especially environmental damage.\n\n## What is an externality?\nAn **externality** is a cost or benefit felt by a third party who is not part of the buying or selling. Neither the buyer nor the seller pays for it or is paid for it.\n- A **negative externality** imposes a cost on others: factory smoke, noise from a nightclub, traffic jams, plastic in the ocean.\n- A **positive externality** gives a benefit to others: vaccination, education, a well-kept garden, research that leads to new knowledge.\n\n## Private, external and social\n- **Private cost**: the cost to the producer or consumer making the choice.\n- **External cost**: the cost to third parties.\n- **Social cost = private cost + external cost.**\nSimilarly, social benefit = private benefit + external benefit.\n\nWorked example: a plant has a private cost of $20 per unit and causes $6 of pollution damage per unit. Social cost = $26. If it makes 1,000 units, total external cost = $6,000.\n\n## Why does the market fail?\nDecision makers consider only their own costs and benefits. With a negative externality, the price is too low, so too much is produced and consumed (**overproduction**). With a positive externality, too little is produced and consumed (**underproduction**). This leaves society worse off than necessary. A paper mill with a private cost of $400 and an external cost of $90 per tonne, selling at $450, makes private profit of $50 per tonne, but society loses $40 per tonne.\n\n## Environmental examples\nPollution, climate change, deforestation and overfishing involve negative externalities. Overfishing is a common resource problem: nobody owns the sea, so each boat gains the catch while the cost of fewer fish is shared by all.\n\n## Policy responses\n- **Taxes** (such as a carbon tax) raise private cost towards social cost, which is called internalising the externality.\n- **Regulation and bans** set limits or forbid harmful activities.\n- **Tradable permits** cap total pollution and let firms trade the right to emit.\n- **Subsidies** and **public provision** encourage goods with positive externalities, such as education.\n- **Information campaigns** change behaviour.\nA good evaluation weighs benefits against costs, such as lost jobs, higher prices, enforcement problems and the difficulty of measuring damage.\n\n## Common mistakes\n- Treating an externality as any cost. It must affect a third party.\n- Forgetting that social cost includes private cost.\n- Saying negative externalities cause underproduction. They cause overproduction.\n- Calculating percentage error with the wrong base. Divide by the true value.\n\n## How this is examined\nQuestions use a local context, such as a factory beside a river or a city considering a congestion charge. You identify the externality, calculate social cost or percentage error, and evaluate a policy by considering effects on firms, consumers, workers and the environment. Extended tasks ask you to judge whether a policy is sustainable.\n\nExam tip: Name the third party affected and say whether the cost or benefit is external, then link it to over- or under-production.",
+  "flashcards": [
+   {
+    "front": "Externality",
+    "back": "A cost or benefit that affects a third party who is not involved in the buying or selling."
+   },
+   {
+    "front": "Negative externality",
+    "back": "An external cost, such as pollution or noise. Leads to overproduction and overconsumption compared to the social optimum."
+   },
+   {
+    "front": "Positive externality",
+    "back": "An external benefit, such as vaccination or education. Leads to underproduction and underconsumption."
+   },
+   {
+    "front": "Social cost formula",
+    "back": "Social cost = private cost + external cost."
+   },
+   {
+    "front": "Market failure",
+    "back": "When the free market allocates resources inefficiently, leaving society worse off."
+   },
+   {
+    "front": "Internalising an externality",
+    "back": "Making the producer or consumer pay for the external cost or receive the external benefit, e.g. via a tax or subsidy."
+   },
+   {
+    "front": "Tradable pollution permits",
+    "back": "A cap on total emissions with permits that firms can buy and sell."
+   },
+   {
+    "front": "Common resource problem",
+    "back": "Nobody owns the resource (e.g. fish in the sea), so users overuse it and the cost is shared by everyone."
+   },
+   {
+    "front": "Percentage error",
+    "back": "|estimate − true value| ÷ true value × 100."
+   }
+  ]
+ },
+ {
+  "subject": "economics",
+  "grade": 5,
+  "topic": "Market Failure",
+  "subTopic": "Public Goods and Merit Goods",
+  "questions": [
+   {
+    "content": "A good that is non-rival means:",
+    "options": [
+     "one person's use does not reduce the amount available to others",
+     "only one person can use it",
+     "it must be paid for",
+     "it is always free"
+    ],
+    "answer": 0,
+    "explanation": "Non-rival goods can be enjoyed by many people at once, such as a lighthouse signal.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A good that is non-excludable means:",
+    "options": [
+     "only people who pay can use it",
+     "it can be stored",
+     "it is owned by the government",
+     "people cannot be prevented from using it, even if they do not pay"
+    ],
+    "answer": 3,
+    "explanation": "If you cannot stop non-payers using a good, firms cannot charge for it.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is a pure public good?",
+    "options": [
+     "A restaurant meal",
+     "A bus ticket",
+     "National defence",
+     "A pair of trainers"
+    ],
+    "answer": 2,
+    "explanation": "Defence protects everyone in the country, you cannot exclude anyone, and one person's protection does not reduce another's.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Merit goods are goods that:",
+    "options": [
+     "are always free",
+     "are under-consumed because people undervalue their benefits",
+     "are produced only by the government",
+     "harm others"
+    ],
+    "answer": 1,
+    "explanation": "Education and health care have large benefits that individuals may not fully appreciate, so the market gives too little.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Demerit goods, such as tobacco, are:",
+    "options": [
+     "under-consumed",
+     "over-consumed because people underestimate the harm",
+     "non-rival",
+     "always cheap"
+    ],
+    "answer": 1,
+    "explanation": "Demerit goods cause harm to the user and often to others, but people may not fully recognise the risks.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The free-rider problem occurs when:",
+    "options": [
+     "people benefit from a good without paying for it",
+     "firms charge too much",
+     "the government sets a price",
+     "goods are overproduced"
+    ],
+    "answer": 0,
+    "explanation": "If non-payers cannot be excluded, many choose not to pay, so private firms cannot make a profit.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why are public goods usually provided by governments?",
+    "options": [
+     "Governments always produce more efficiently",
+     "Consumers do not want them",
+     "They are cheap to produce",
+     "Private firms cannot charge users, so there is no profit incentive"
+    ],
+    "answer": 3,
+    "explanation": "Free riders mean private firms would not recover costs, so governments use taxes to pay.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of these is a public good?",
+    "options": [
+     "A cinema ticket",
+     "A pizza",
+     "A flood defence wall protecting a town",
+     "A privately owned toll road"
+    ],
+    "answer": 2,
+    "explanation": "Everyone behind the wall is protected and cannot be excluded, and extra residents do not reduce the protection.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Fish in the open ocean are rival but non-excludable. This makes them:",
+    "options": [
+     "a pure public good",
+     "a merit good",
+     "a common resource, at risk of being overused",
+     "a private good"
+    ],
+    "answer": 2,
+    "explanation": "When one boat takes fish, there are fewer for others (rival), but no one can be stopped from fishing (non-excludable).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why does a government subsidise or provide vaccinations?",
+    "options": [
+     "They are demerit goods",
+     "They are merit goods with large external benefits, so the market would under-provide them",
+     "They are public bads",
+     "They are produced only by monopolies"
+    ],
+    "answer": 1,
+    "explanation": "Individuals consider only their own benefit, but vaccination also protects others, so the government encourages more.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A town of 10,000 people needs street lights costing $250,000. If paid by taxes, the cost per person is $25. If only 4,000 people voluntarily donate equally, what does each donor pay?",
+    "options": [
+     "$62.50",
+     "$25",
+     "$100",
+     "$6.25"
+    ],
+    "answer": 0,
+    "explanation": "250,000 ÷ 4,000 = $62.50. Free riders force donors to pay more, which discourages donating and shows why taxation is used.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why do some students not eat fruit even though it is cheap and healthy? Economists would say fruit and vegetables are an example of:",
+    "options": [
+     "a public good",
+     "a demerit good",
+     "a free good",
+     "a merit good, because people may not recognise the long-term benefits"
+    ],
+    "answer": 3,
+    "explanation": "Lack of information or short-term thinking leads to under-consumption of merit goods.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A sugar tax is introduced on soft drinks. This is mainly intended to:",
+    "options": [
+     "increase consumption of a merit good",
+     "provide a public good",
+     "create a monopoly",
+     "reduce consumption of a demerit good"
+    ],
+    "answer": 3,
+    "explanation": "Taxes raise the price, discouraging overconsumption of goods that harm health.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of these is excludable but nearly non-rival, so firms can charge for it?",
+    "options": [
+     "Street lighting",
+     "National defence",
+     "A subscription to an online video service",
+     "A public park open to everyone"
+    ],
+    "answer": 2,
+    "explanation": "A subscription lets the firm exclude non-payers using passwords, but one extra viewer does not reduce others' use.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which statement is a valid evaluation of government provision of street lighting?",
+    "options": [
+     "It is free so it has no opportunity cost",
+     "It removes free riding and gives universal access, but taxpayers bear the cost and officials may misjudge how much is needed",
+     "It will always be provided more efficiently than by firms",
+     "It benefits only people who pay"
+    ],
+    "answer": 1,
+    "explanation": "Government provision solves the free-rider problem but costs taxes and may not match actual need.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A vaccine costs $35. A person values it at $30, and the external benefit to others is $20. What is the minimum per-vaccine subsidy to get this person to buy it, and what is the social benefit?",
+    "options": [
+     "$5 and $50",
+     "$20 and $50",
+     "$5 and $30",
+     "$35 and $20"
+    ],
+    "answer": 0,
+    "explanation": "The price must fall from $35 to $30, so the subsidy is at least $5. Social benefit = private $30 + external $20 = $50, so the subsidy is worthwhile.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A politician says 'The park is free, so it costs nothing'. What is the best economic response?",
+    "options": [
+     "Taxes pay for it and the land and money could have been used elsewhere, so there is an opportunity cost",
+     "The statement is correct",
+     "Parks are produced by monopolies",
+     "Free goods never exist"
+    ],
+    "answer": 0,
+    "explanation": "Goods that are free at the point of use are still paid for through taxes and use scarce resources.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Smoking prevalence fell from 25% to 20% of adults after a tax. Which statement is correct?",
+    "options": [
+     "It fell by 5%, which is the same as 20 percentage points",
+     "It fell by 25 percentage points",
+     "It fell by 20 percentage points",
+     "It fell by 5 percentage points, a 20% fall in the rate"
+    ],
+    "answer": 3,
+    "explanation": "The difference between 25% and 20% is 5 percentage points. Relative to the starting rate, 5 ÷ 25 = 20%. Mixing the two is a common error.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Not all goods are the same. Some cannot be supplied properly by free markets, and others are under- or over-consumed. Understanding the differences explains why governments provide health care, defence and streetlights.\n\n## Two key features\n- **Rivalry**: a good is **rival** if one person's use reduces what is left for others (an apple). It is **non-rival** if many can use it at the same time without reducing others' use (a lighthouse signal).\n- **Excludability**: a good is **excludable** if people who do not pay can be stopped from using it (a cinema). It is **non-excludable** if you cannot stop them (street lighting).\n\n## Public goods\n**Public goods** are non-rival and non-excludable, such as national defence, street lighting and flood defences. Because non-payers cannot be excluded, the **free-rider problem** arises: people enjoy the good without paying, so private firms cannot make a profit and will not supply it. Governments therefore provide public goods using tax revenue.\n\nWorked example: street lights cost $250,000 for a town of 10,000 people. A tax of $25 per person pays for them. If only 4,000 people paid voluntarily, each would need to pay 250,000 ÷ 4,000 = $62.50, and many would refuse.\n\n## Other categories\n- **Private goods** are rival and excludable (food, clothes).\n- **Common resources** are rival but non-excludable (ocean fish, shared pastures). They are at risk of being overused.\n- Goods that are excludable but nearly non-rival, such as an online subscription, can be sold by firms.\n\n## Merit and demerit goods\n**Merit goods**, such as education, vaccinations and health care, are under-consumed because people do not fully realise their benefits, or because positive externalities are ignored. Governments can subsidise them, provide them free or run information campaigns.\n\n**Demerit goods**, such as tobacco, alcohol and sugary drinks, are over-consumed because people underestimate the harm or because of negative externalities. Governments use taxes, age limits, bans and warnings.\n\n## Evaluating government action\n- Benefits: universal access, no free riding, better health and education.\n- Costs: taxes and the opportunity cost of spending, a risk of over- or under-providing, and a loss of freedom of choice when goods are restricted.\n- Nothing is truly free. A 'free' park or school is paid for by taxpayers.\n\n## Reading percentages carefully\nWhen a rate falls from 25% to 20%, that is a fall of 5 **percentage points**, but a 20% fall relative to the original rate (5 ÷ 25). Be clear which one you mean.\n\n## Common mistakes\n- Labelling a good as public simply because the government provides it. Hospitals are provided by governments but are not pure public goods.\n- Mixing up merit goods (under-consumed) with demerit goods (over-consumed).\n- Forgetting the free-rider problem in explanations.\n- Saying public goods are free. They are paid for through taxes.\n\n## How this is examined\nYou may be given a table of goods to classify, or a scenario such as a town deciding whether to pay for a flood wall. You are asked to explain why the market will not provide it, calculate costs per person, and evaluate whether the government should intervene. Extended tasks require you to weigh benefits, costs and sustainability.\n\nExam tip: Use the words 'non-rival' and 'non-excludable' in your definition, and always mention the free-rider problem.",
+  "flashcards": [
+   {
+    "front": "Non-rival",
+    "back": "One person's use of the good does not reduce the amount available to others."
+   },
+   {
+    "front": "Non-excludable",
+    "back": "People cannot be prevented from using the good, even if they have not paid."
+   },
+   {
+    "front": "Public good",
+    "back": "A good that is non-rival and non-excludable, e.g. street lighting or national defence."
+   },
+   {
+    "front": "Free-rider problem",
+    "back": "People benefit from a good without paying, so private firms cannot make a profit and the market fails to provide it."
+   },
+   {
+    "front": "Merit good",
+    "back": "A good that is under-consumed because people undervalue its benefits, e.g. education and vaccination."
+   },
+   {
+    "front": "Demerit good",
+    "back": "A good that is over-consumed because people underestimate harm, e.g. tobacco and sugary drinks."
+   },
+   {
+    "front": "Common resource",
+    "back": "A good that is rival but non-excludable, such as ocean fish, which is at risk of overuse."
+   },
+   {
+    "front": "Government responses to merit goods",
+    "back": "Subsidies, free provision and information campaigns."
+   },
+   {
+    "front": "Percentage points vs percent",
+    "back": "A fall from 25% to 20% is 5 percentage points, but a 20% fall relative to the starting rate."
+   }
+  ]
+ },
+ {
+  "subject": "economics",
+  "grade": 5,
+  "topic": "Market Failure",
+  "subTopic": "Information Failure and Monopoly Power",
+  "questions": [
+   {
+    "content": "Information failure happens when:",
+    "options": [
+     "buyers or sellers do not have accurate or complete information",
+     "prices are too low",
+     "goods are too cheap to produce",
+     "the government sets taxes"
+    ],
+    "answer": 0,
+    "explanation": "If decisions are made on poor information, resources may be misallocated.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Asymmetric information means:",
+    "options": [
+     "both parties know everything",
+     "information is free",
+     "no information exists",
+     "one party in a transaction knows more than the other"
+    ],
+    "answer": 3,
+    "explanation": "For example, a used-car seller usually knows more about its faults than the buyer.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A monopoly is a market where:",
+    "options": [
+     "many firms sell identical goods",
+     "the government sets all prices",
+     "one firm dominates or is the only supplier",
+     "there are no buyers"
+    ],
+    "answer": 2,
+    "explanation": "A monopoly has significant market power because it has few or no competitors.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is a barrier to entry that protects a monopoly?",
+    "options": [
+     "Many competitors",
+     "High start-up costs or a patent",
+     "Low prices",
+     "Easy access to technology"
+    ],
+    "answer": 1,
+    "explanation": "Barriers make it hard for new firms to join the market and compete.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which policy helps to tackle information failure about a health risk?",
+    "options": [
+     "Higher advertising",
+     "Compulsory health warnings on packaging",
+     "A ban on all information",
+     "Removing nutritional labels"
+    ],
+    "answer": 1,
+    "explanation": "Providing clear information helps consumers make informed choices.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why might buyers avoid the second-hand car market even if many cars are in good condition?",
+    "options": [
+     "They fear the seller knows hidden faults that they cannot see",
+     "Second-hand cars are always the same price",
+     "Sellers must give a guarantee",
+     "Cars have no faults"
+    ],
+    "answer": 0,
+    "explanation": "Asymmetric information reduces trust, so buyers offer lower prices or avoid buying, which harms honest sellers too.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Compared with a competitive market, a monopoly is likely to produce:",
+    "options": [
+     "a lower price and a higher quantity",
+     "a lower price and a lower quantity",
+     "the same price and quantity",
+     "a higher price and a lower quantity"
+    ],
+    "answer": 3,
+    "explanation": "Without competition, a monopoly can restrict output and raise prices to increase profit.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why does the government grant patents to inventors?",
+    "options": [
+     "To stop all innovation",
+     "To reduce prices immediately",
+     "To give a temporary monopoly that rewards innovation",
+     "To end competition permanently"
+    ],
+    "answer": 2,
+    "explanation": "Patents let inventors recover research costs for a period, encouraging innovation, but they also create market power.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does a competition authority do?",
+    "options": [
+     "Sets the price of all products",
+     "Owns monopolies",
+     "Investigates mergers and anti-competitive behaviour and can fine or block firms",
+     "Produces goods"
+    ],
+    "answer": 2,
+    "explanation": "Its role is to protect consumers by keeping markets competitive.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Firm shares in a market are: A 55%, B 20%, C 15%, D 10%. What is the two-firm concentration ratio?",
+    "options": [
+     "55%",
+     "75%",
+     "45%",
+     "100%"
+    ],
+    "answer": 1,
+    "explanation": "Add the shares of the two largest firms: 55 + 20 = 75%. A high ratio indicates the market is dominated by a few firms.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A monopoly with a unit cost of $9 raises its price from $12 to $15 and cuts sales from 5,000 to 4,000. What is the percentage rise in price and the change in profit?",
+    "options": [
+     "25% and profit rises by $9,000",
+     "20% and profit falls",
+     "25% and profit falls by $9,000",
+     "33% and profit rises by $6,000"
+    ],
+    "answer": 0,
+    "explanation": "Price rise: 3 ÷ 12 = 25%. Profit before: 3 × 5,000 = $15,000; after: 6 × 4,000 = $24,000. Profit rises by $9,000 even though output falls.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is a possible benefit of a large dominant firm?",
+    "options": [
+     "Higher competition",
+     "More choice always",
+     "Lower barriers to entry",
+     "Economies of scale that can lower average costs"
+    ],
+    "answer": 3,
+    "explanation": "Large firms can spread fixed costs and may pass savings on, although there is no guarantee they will.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Several firms secretly agree to fix their prices at a high level. This is called:",
+    "options": [
+     "a merger, which is always legal",
+     "competition",
+     "price discrimination",
+     "a cartel, which is usually illegal"
+    ],
+    "answer": 3,
+    "explanation": "A cartel acts like a monopoly, harming consumers, so competition law often bans it.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Food labels with clear traffic-light colours are introduced. Which is a limitation of this policy?",
+    "options": [
+     "Labels increase information failure",
+     "Labels make all food cheaper",
+     "Some consumers may ignore the labels and firms face extra costs",
+     "Nobody can read colours"
+    ],
+    "answer": 2,
+    "explanation": "Information only works if consumers use it, and the policy involves costs, so evaluation should weigh both.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A water company is a regulated monopoly with a price cap. Which is a valid evaluation point?",
+    "options": [
+     "The cap guarantees more profit",
+     "The cap protects consumers but may reduce the firm's incentive or funds to invest in quality",
+     "Price caps remove all costs",
+     "Caps make the monopoly more powerful"
+    ],
+    "answer": 1,
+    "explanation": "Price caps lower bills, but if the cap is too tight, the firm may cut investment or quality.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A monopoly sells 4,000 units at $15 with a unit cost of $9. A price cap of $13 leads to 4,600 units sold. What is the change in profit?",
+    "options": [
+     "A fall of $5,600",
+     "A rise of $5,600",
+     "A fall of $2,000",
+     "No change"
+    ],
+    "answer": 0,
+    "explanation": "Before: 6 × 4,000 = $24,000. After: 4 × 4,600 = $18,400. Change = −$5,600. Consumers gain, and the firm's profit falls.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two firms with 30% and 25% of the market want to merge. Which information would be MOST useful for deciding whether to block the merger?",
+    "options": [
+     "Evidence about likely price rises and barriers for new competitors",
+     "The colour of the firms' logos",
+     "The number of employees' pets",
+     "The firms' favourite songs"
+    ],
+    "answer": 0,
+    "explanation": "Competition authorities weigh market power: whether the merged firm could raise prices and whether new firms can enter.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A dominant energy supplier faces no real competitors. Which is a valid argument that this could harm environmental progress?",
+    "options": [
+     "Monopolies always invent clean tech",
+     "Competitors always burn coal",
+     "Prices must fall to zero",
+     "Without competition there is less pressure to invest in cleaner technology"
+    ],
+    "answer": 3,
+    "explanation": "Pressure from rivals pushes firms to innovate. A dominant firm may delay change, although some monopolies do invest heavily, so this is an argument, not a rule.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Markets can fail when people do not have the information they need, or when one firm has too much power. These two causes of market failure explain many consumer protection laws and competition rules.\n\n## Information failure\n**Information failure** occurs when buyers or sellers lack accurate or full information, so decisions are not the best for them or for society.\n- **Asymmetric information**: one party knows more than the other. A used-car seller knows the faults, the buyer does not. Because buyers worry about hidden problems, they offer low prices, which hurts honest sellers.\n- **Consumers underestimate risks**: smokers may underestimate long-term harm. People may not realise how much sugar is in a drink. This leads to over-consumption of demerit goods and under-consumption of merit goods.\n\nSolutions include **labelling and warnings**, **education campaigns**, **regulation** (safety standards and truthful advertising), and **guarantees** or independent inspections. These have limits: some people ignore the information, and compliance costs money.\n\n## Monopoly power\nA **monopoly** is a firm that is the only supplier, or one that dominates the market. In practice, a firm with a very large market share has **market power**. Monopoly power depends on **barriers to entry**, such as high start-up costs, patents, control of key resources, strong brands and economies of scale.\n\nCompared with competitive markets, firms with market power may:\n- charge higher prices and restrict output;\n- offer less choice and lower quality;\n- have less pressure to innovate and cut costs;\n- earn high profits.\n\nWorked example: a monopoly with a unit cost of $9 raises its price from $12 to $15 (a 25% rise) and cuts sales from 5,000 to 4,000. Profit rises from 3 × 5,000 = $15,000 to 6 × 4,000 = $24,000. The firm gains while consumers pay more and get less.\n\n## Possible benefits\nLarge firms can have **economies of scale**, which may reduce costs and prices, and can afford research. **Patents** reward innovators with a temporary monopoly. The question is whether the benefits are passed on.\n\n## Concentration ratio\nA **concentration ratio** adds the market shares of the largest firms. If the shares are 55%, 20%, 15% and 10%, the two-firm concentration ratio is 75%.\n\n## Government responses\n- **Competition authorities** investigate mergers and cartels (firms secretly agreeing prices).\n- **Price caps** limit what a regulated monopoly can charge, but a very tight cap may reduce investment.\n- **Breaking up** large firms, **encouraging new entrants** or **opening up markets**.\n- **Nationalisation** is another option for natural monopolies, with the risk of inefficiency.\n\n## Common mistakes\n- Thinking all monopolies are bad. Weigh costs and benefits.\n- Confusing information failure with lack of choice.\n- Forgetting that profit rises for a monopoly even when output falls.\n- Giving only one side. Evaluation needs both.\n\n## How this is examined\nScenarios include a merger proposal, a drug company with a patent or a food-labelling law. You identify the failure, use data such as market shares or prices to calculate effects, and evaluate a policy including its unintended consequences. Extended tasks ask you to state assumptions, judge reliability of information and reach a justified conclusion.\n\nExam tip: For 'evaluate', give at least one advantage and one disadvantage of the policy, then make a clear final judgement.",
+  "flashcards": [
+   {
+    "front": "Information failure",
+    "back": "Buyers or sellers lack accurate or complete information, so choices are not the best for them or for society."
+   },
+   {
+    "front": "Asymmetric information",
+    "back": "One party in a transaction knows more than the other, such as a used-car seller who knows about hidden faults."
+   },
+   {
+    "front": "Monopoly",
+    "back": "A single firm, or a dominant firm, with significant market power and few or no competitors."
+   },
+   {
+    "front": "Barriers to entry",
+    "back": "Obstacles that stop new firms joining a market: start-up costs, patents, economies of scale, control of resources."
+   },
+   {
+    "front": "Effects of monopoly power",
+    "back": "Higher prices, lower output, less choice, less pressure to innovate, and high profits."
+   },
+   {
+    "front": "Possible benefits of large firms",
+    "back": "Economies of scale and funds for research, which may lower costs if the savings are passed on."
+   },
+   {
+    "front": "Concentration ratio",
+    "back": "Adding the market shares of the largest firms, e.g. 55% + 20% = 75% for a two-firm ratio."
+   },
+   {
+    "front": "Cartel",
+    "back": "Firms secretly agreeing to fix prices or output. Usually illegal because it harms consumers."
+   },
+   {
+    "front": "Responses to information failure",
+    "back": "Labelling and warnings, education campaigns, regulation of advertising and safety standards."
+   }
+  ]
+ }
+]

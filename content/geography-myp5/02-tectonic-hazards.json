@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "geography",
+  "grade": 5,
+  "topic": "Tectonic Hazards",
+  "subTopic": "Plate Tectonics and Boundaries",
+  "questions": [
+   {
+    "content": "The Earth's plates are made of the crust and the rigid top part of the mantle. What is this combined rigid layer called?",
+    "options": [
+     "Asthenosphere",
+     "Lithosphere",
+     "Outer core",
+     "Atmosphere"
+    ],
+    "answer": 1,
+    "explanation": "The lithosphere (crust plus uppermost mantle) is broken into plates. These float on the softer, slowly flowing asthenosphere below.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "At a constructive plate boundary, what happens to the plates?",
+    "options": [
+     "They slide past each other",
+     "They move apart and new crust forms",
+     "They collide and crumple",
+     "They stop moving"
+    ],
+    "answer": 1,
+    "explanation": "At a constructive (divergent) boundary plates move apart and magma rises to fill the gap, creating new crust. The Mid-Atlantic Ridge is an example.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "At a destructive boundary between an oceanic plate and a continental plate, which plate is forced down into the mantle?",
+    "options": [
+     "The continental plate, because it is thicker",
+     "The oceanic plate, because it is denser",
+     "Neither plate moves",
+     "Both plates sink equally"
+    ],
+    "answer": 1,
+    "explanation": "Oceanic crust is denser than continental crust, so it sinks (subducts) beneath the lighter continental plate.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The San Andreas Fault in California is where two plates slide past each other. What type of boundary is this?",
+    "options": [
+     "Constructive",
+     "Destructive",
+     "Conservative",
+     "Collision"
+    ],
+    "answer": 2,
+    "explanation": "At a conservative (transform) boundary, plates slide past each other sideways. Crust is neither created nor destroyed, but earthquakes are common.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The Ring of Fire, a belt of volcanoes and earthquakes, surrounds which ocean?",
+    "options": [
+     "Atlantic Ocean",
+     "Indian Ocean",
+     "Arctic Ocean",
+     "Pacific Ocean"
+    ],
+    "answer": 3,
+    "explanation": "The Ring of Fire follows the edge of the Pacific Plate, where many destructive and conservative boundaries are found.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which process is thought to be the main driver of plate movement?",
+    "options": [
+     "Ocean tides",
+     "Convection currents in the mantle and the pull of sinking plates",
+     "Wind erosion",
+     "Changes in the Moon's phase"
+    ],
+    "answer": 1,
+    "explanation": "Heat from the core drives slow convection currents in the mantle, and the weight of a subducting plate pulling the rest behind it also moves plates. Tides and wind are not responsible.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The Himalayas formed where the Indian Plate collided with the Eurasian Plate. Both are continental crust. What type of landform formed?",
+    "options": [
+     "Fold mountains, with little volcanic activity",
+     "A chain of active composite volcanoes",
+     "A mid-ocean ridge",
+     "Rift valley lakes only"
+    ],
+    "answer": 0,
+    "explanation": "Continental crust is too light to subduct, so the plates crumple upwards into fold mountains. Without subduction there is little melting, so few volcanoes form.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which piece of evidence supports the theory of continental drift?",
+    "options": [
+     "The same fossil species found on continents now separated by ocean",
+     "Rainfall in the Amazon",
+     "Tides in the Atlantic",
+     "The height of Mount Everest"
+    ],
+    "answer": 0,
+    "explanation": "Fossils of the freshwater reptile Mesosaurus appear in both South America and Africa, suggesting the continents were once joined. The coastlines also fit together like a jigsaw.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Rock samples from the sea floor are dated. Which pattern supports sea-floor spreading at a mid-ocean ridge?",
+    "options": [
+     "Rocks get older with distance from the ridge",
+     "Rocks get younger with distance from the ridge",
+     "All rocks are the same age",
+     "Rocks are oldest at the ridge"
+    ],
+    "answer": 0,
+    "explanation": "New rock forms at the ridge, then moves outwards. So the youngest rock is at the ridge crest and rocks get steadily older further away.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The Atlantic Ocean is widening at an average of 2.5 cm per year. Assuming a constant rate, how much wider will it be after 1 million years?",
+    "options": [
+     "2.5 km",
+     "25 km",
+     "250 km",
+     "2500 km"
+    ],
+    "answer": 1,
+    "explanation": "2.5 cm × 1 000 000 = 2 500 000 cm. Dividing by 100 000 converts to kilometres: 25 km.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The Hawaiian Islands lie in the middle of the Pacific Plate, far from any plate boundary. What explains their volcanoes?",
+    "options": [
+     "A hotspot, where a plume of hot magma rises beneath the plate",
+     "A destructive boundary under the islands",
+     "A collision with Asia",
+     "Erosion by waves"
+    ],
+    "answer": 0,
+    "explanation": "A hotspot is a fixed source of magma in the mantle. As the plate moves over it, a chain of volcanoes forms.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why are volcanoes and earthquakes found at destructive boundaries but only earthquakes at most conservative boundaries?",
+    "options": [
+     "Conservative boundaries contain no rock",
+     "At conservative boundaries plates slide past without subduction or magma rising",
+     "Volcanoes only form on land",
+     "Earthquakes do not occur at destructive boundaries"
+    ],
+    "answer": 1,
+    "explanation": "Volcanoes need magma to reach the surface. At destructive boundaries subduction melts the plate; at conservative boundaries no crust is destroyed or pulled apart, so friction produces earthquakes only.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The Nazca Plate subducts beneath South America to form the Andes. Which landform is also found next to the subducting plate?",
+    "options": [
+     "An ocean trench",
+     "A rift valley",
+     "A delta",
+     "A desert dune"
+    ],
+    "answer": 0,
+    "explanation": "Where a plate bends and descends it creates a deep ocean trench, such as the Peru–Chile Trench, next to the mountain range.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The Pacific Plate moves north-west at about 7 cm per year over a stationary hotspot. An island chain member formed 5 million years ago. About how far has that island travelled from the hotspot?",
+    "options": [
+     "35 km",
+     "350 km",
+     "3500 km",
+     "35 000 km"
+    ],
+    "answer": 1,
+    "explanation": "7 cm × 5 000 000 = 35 000 000 cm = 350 km. This is why older islands in a chain are further from the active volcano.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Rocks on the sea floor are 0 million years old at a ridge and 5 million years old 100 km away. What is the average spreading rate on that side of the ridge?",
+    "options": [
+     "0.2 cm per year",
+     "2 cm per year",
+     "20 cm per year",
+     "5 cm per year"
+    ],
+    "answer": 1,
+    "explanation": "100 km ÷ 5 million years = 20 km per million years. 20 km = 2 000 000 cm, divided by 1 000 000 years = 2 cm per year.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A region has shallow earthquakes, no volcanoes and a long straight valley where fences are offset sideways. Which boundary type is best supported by this evidence?",
+    "options": [
+     "Constructive",
+     "Conservative",
+     "Destructive with subduction",
+     "Hotspot"
+    ],
+    "answer": 1,
+    "explanation": "Sideways offsets and no volcanoes point to plates sliding past each other (conservative). A constructive boundary would produce volcanoes, and subduction would produce deep earthquakes and volcanoes.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Iceland has volcanoes, hot springs and a long rift crossing the island. Which combination explains this best?",
+    "options": [
+     "Collision of two continental plates",
+     "A constructive boundary, the Mid-Atlantic Ridge, plus a hotspot",
+     "A conservative boundary alone",
+     "Subduction of the Pacific Plate"
+    ],
+    "answer": 1,
+    "explanation": "Iceland sits on the Mid-Atlantic Ridge, where the North American and Eurasian plates diverge, and also over a hotspot, which creates extra magma and lifts the ridge above sea level.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Alfred Wegener proposed continental drift in 1912, but most scientists rejected it for decades. What was the main reason for rejection?",
+    "options": [
+     "He had no evidence from fossils",
+     "He could not explain a convincing mechanism for how continents moved",
+     "He claimed Earth was flat",
+     "He lived in Antarctica"
+    ],
+    "answer": 1,
+    "explanation": "Wegener had good evidence, such as matching coastlines and fossils, but no explanation of what moved continents. Sea-floor spreading and mantle convection later supplied the mechanism.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Inside the Earth\nThe Earth has four main layers: the thin **crust**, the thick **mantle**, the liquid **outer core** and the solid **inner core**. The crust and the rigid top of the mantle form the **lithosphere**, which is broken into large pieces called **tectonic plates**. These slowly move (a few centimetres a year, about as fast as fingernails grow) on the softer **asthenosphere**. **Convection currents** in the mantle and the pull of sinking plates drive this movement.\n\n## Two types of crust\n- **Oceanic crust** is thin (about 5 to 10 km) and dense, mainly basalt.\n- **Continental crust** is thicker (about 30 to 70 km) and lighter.\nBecause oceanic crust is denser, it sinks when the two meet.\n\n## Plate boundaries\n- **Constructive (divergent)**: plates move apart. Magma rises and creates new crust and volcanoes. Example: the Mid-Atlantic Ridge and Iceland. Features include ridges and rift valleys.\n- **Destructive (convergent)**: plates move together. An oceanic plate subducts beneath a continental plate, forming ocean trenches, fold mountains and composite volcanoes. Example: the Nazca Plate and South America, forming the Andes.\n- **Collision boundary**: two continental plates collide and crumple into fold mountains with little volcanic activity. Example: the Himalayas.\n- **Conservative (transform)**: plates slide past each other. Crust is not created or destroyed, but friction builds up and causes earthquakes. Example: the San Andreas Fault.\n\n## Hotspots\nSome volcanoes, like Hawaii, form over a **hotspot**, a fixed plume of hot rock in the mantle. As the plate moves, a chain of islands forms, with the oldest furthest from the active volcano.\n\n## Evidence for plate tectonics\n- Jigsaw fit of South America and Africa.\n- Matching fossils and rock types on separated continents.\n- Sea-floor rocks are youngest at ridges and older further away.\n- Earthquakes and volcanoes cluster along plate boundaries, such as the Pacific Ring of Fire.\n\n## History of the idea\nAlfred Wegener proposed **continental drift** in 1912. Many scientists rejected it because he could not explain how continents moved. In the mid-20th century, sea-floor mapping and dating provided the mechanism and the theory became accepted.\n\n## Worked example\nA sea-floor sample 100 km from a ridge is 5 million years old. Spreading rate = 100 km ÷ 5 million years = 20 km per million years = 2 cm per year (20 km is 2 000 000 cm).\n\n## Common mistakes\n- Saying plates sink into the core: they sink into the mantle.\n- Mixing up constructive and destructive.\n- Claiming earthquakes occur only at boundaries: some happen within plates, though most occur at boundaries.\n- Forgetting to convert cm to km.\n\n## How this is examined\nQuestions usually give a map or a description of a place (for example a coastline with a deep trench and a volcanic chain), then ask you to identify the boundary type, explain the processes and use evidence to justify your answer.\n\nExam tip: When you name a boundary, always add the direction of plate movement and the landform or hazard that results.",
+  "flashcards": [
+   {
+    "front": "Constructive boundary",
+    "back": "Plates move apart; magma rises to form new crust. Features: ridges, rift valleys, shield volcanoes. Example: Mid-Atlantic Ridge."
+   },
+   {
+    "front": "Destructive boundary",
+    "back": "Plates move together; the denser oceanic plate subducts. Features: trenches, composite volcanoes, fold mountains. Example: Andes."
+   },
+   {
+    "front": "Conservative boundary",
+    "back": "Plates slide past each other. No crust created or destroyed. Strong earthquakes but no volcanoes. Example: San Andreas Fault."
+   },
+   {
+    "front": "Collision boundary",
+    "back": "Two continental plates meet; neither subducts, so crust crumples into fold mountains. Example: Himalayas."
+   },
+   {
+    "front": "Why does oceanic crust subduct?",
+    "back": "It is denser than continental crust, so it sinks beneath the lighter plate."
+   },
+   {
+    "front": "What is a hotspot?",
+    "back": "A fixed plume of hot magma rising within the mantle, forming volcanoes as a plate moves over it. Example: Hawaii."
+   },
+   {
+    "front": "What drives plate movement?",
+    "back": "Convection currents in the mantle and slab pull, where a sinking plate drags the rest of the plate behind it."
+   },
+   {
+    "front": "Evidence for continental drift",
+    "back": "Jigsaw fit of coastlines, matching fossils such as Mesosaurus, matching rocks, and sea-floor rocks getting older away from ridges."
+   },
+   {
+    "front": "Lithosphere",
+    "back": "The rigid outer layer made of the crust and top of the mantle, broken into plates that move on the softer asthenosphere."
+   }
+  ]
+ },
+ {
+  "subject": "geography",
+  "grade": 5,
+  "topic": "Tectonic Hazards",
+  "subTopic": "Earthquakes and Volcanoes",
+  "questions": [
+   {
+    "content": "What is the name for the point on the Earth's surface directly above where an earthquake begins?",
+    "options": [
+     "Focus",
+     "Epicentre",
+     "Fault line",
+     "Crater"
+    ],
+    "answer": 1,
+    "explanation": "The focus is the underground point where the rock breaks. The epicentre is the point on the surface directly above it, where shaking is usually strongest.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which instrument records the shaking caused by an earthquake?",
+    "options": [
+     "Barometer",
+     "Seismometer",
+     "Anemometer",
+     "Thermometer"
+    ],
+    "answer": 1,
+    "explanation": "A seismometer detects ground vibrations and a seismograph records them. The other instruments measure pressure, wind speed and temperature.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which type of volcano has gentle slopes and runny lava that flows a long way?",
+    "options": [
+     "Composite volcano",
+     "Shield volcano",
+     "Cinder cone only",
+     "Ash volcano only"
+    ],
+    "answer": 1,
+    "explanation": "Shield volcanoes, such as those in Hawaii, erupt runny basalt lava, which spreads widely to form wide and gently sloping cones.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is molten rock called after it has erupted onto the surface?",
+    "options": [
+     "Magma",
+     "Lava",
+     "Ash",
+     "Pumice"
+    ],
+    "answer": 1,
+    "explanation": "Underground it is called magma. Once it reaches the surface it is called lava.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a secondary effect of a major earthquake?",
+    "options": [
+     "Buildings collapsing during the shaking",
+     "A tsunami or fires from broken gas pipes after the shaking",
+     "The ground splitting along the fault",
+     "The first tremor"
+    ],
+    "answer": 1,
+    "explanation": "Primary effects are caused directly by the shaking and ground movement. Secondary effects, such as tsunamis, fires, landslides and disease, follow afterwards.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A magnitude 7 earthquake is recorded. Compared with a magnitude 5 earthquake, how much larger is the ground motion measured by the seismograph?",
+    "options": [
+     "2 times",
+     "20 times",
+     "100 times",
+     "1000 times"
+    ],
+    "answer": 2,
+    "explanation": "The scale is logarithmic: each whole number increase means ten times larger ground motion. Two steps is 10 × 10 = 100 times.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why are composite (strato) volcanoes often more explosive than shield volcanoes?",
+    "options": [
+     "Their magma is thick and sticky, trapping gas until pressure causes violent eruptions",
+     "Their lava is very hot and runny",
+     "They form only underwater",
+     "They have no vents"
+    ],
+    "answer": 0,
+    "explanation": "Composite volcanoes at destructive boundaries produce viscous (thick) magma that traps gas. Pressure builds up and is released explosively.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In 2011 a magnitude 9.0 earthquake off the coast of Japan generated a tsunami. What caused the tsunami?",
+    "options": [
+     "Heavy rainfall",
+     "Sudden movement of the sea floor that displaced a huge volume of water",
+     "A volcano on land erupting",
+     "A change in tides"
+    ],
+    "answer": 1,
+    "explanation": "The sea floor was suddenly lifted when the plates slipped. This pushed the water above it, sending waves across the ocean.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The 2010 Eyjafjallajökull eruption in Iceland sent ash high into the atmosphere. What was a major economic effect?",
+    "options": [
+     "Lava flooded European capitals",
+     "Air travel across Europe was disrupted for several days",
+     "Rainfall increased in the Sahara",
+     "Oil prices fell to zero"
+    ],
+    "answer": 1,
+    "explanation": "Volcanic ash can damage jet engines, so many European airspaces were closed, stranding millions of passengers and costing airlines billions.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Scientists monitoring a volcano see small earthquakes, a bulging slope and rising sulphur dioxide gas. What does this suggest?",
+    "options": [
+     "Magma is moving up and an eruption may be approaching",
+     "The volcano is extinct",
+     "A tsunami will form",
+     "Plate movement has stopped"
+    ],
+    "answer": 0,
+    "explanation": "Swelling, gas increases and many small earthquakes are precursors that magma is rising. They help forecast eruptions, although exact timing remains uncertain.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In 2010 an earthquake of magnitude 7.0 struck near Port-au-Prince, Haiti and killed over 100 000 people. A magnitude 8.8 earthquake in Chile in the same year killed far fewer. What is the best explanation for the difference?",
+    "options": [
+     "Chile has no earthquakes",
+     "Chile had stronger building standards, better preparation and the epicentre was farther from large cities",
+     "Haiti had less rain",
+     "The magnitude scale works backwards"
+    ],
+    "answer": 1,
+    "explanation": "The impact of a hazard depends on vulnerability as well as size. Haiti was poorer, had weak buildings and a shallow quake near a capital, while Chile enforced building codes.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "P waves travel faster than S waves. What does this allow scientists to do?",
+    "options": [
+     "Stop an earthquake",
+     "Estimate how far away an earthquake was from the time gap between the two waves",
+     "Predict its date",
+     "Change the epicentre"
+    ],
+    "answer": 1,
+    "explanation": "Because the S waves arrive after the P waves, a larger time gap means a more distant epicentre. Using three stations the epicentre can be located.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A town sits on the flank of a composite volcano. Which is the most dangerous volcanic hazard moving fast down the slope with little warning?",
+    "options": [
+     "Pyroclastic flow",
+     "Acid rain",
+     "Pumice",
+     "A gentle lava creep"
+    ],
+    "answer": 0,
+    "explanation": "A pyroclastic flow is a fast cloud of hot gas and ash that can exceed 100 km/h and is deadly. Slow lava can usually be outrun.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "At a seismic station 210 km from an earthquake, P waves travel at 6 km/s and S waves at 3.5 km/s. What is the time gap between the arrival of P and S waves?",
+    "options": [
+     "25 seconds",
+     "35 seconds",
+     "60 seconds",
+     "95 seconds"
+    ],
+    "answer": 0,
+    "explanation": "P-wave time = 210 ÷ 6 = 35 s. S-wave time = 210 ÷ 3.5 = 60 s. The gap is 60 – 35 = 25 s. The other options are individual arrival times or their sum.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A different station records a gap of 50 s between P waves (6 km/s) and S waves (3.5 km/s). Approximately how far is the epicentre?",
+    "options": [
+     "210 km",
+     "300 km",
+     "420 km",
+     "840 km"
+    ],
+    "answer": 2,
+    "explanation": "Time gap = d/3.5 – d/6 = 0.119d. Setting 0.119d = 50 gives d ≈ 420 km. Distance is twice as large as the earlier example because the gap is twice as long.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student argues: Because magnitude 8 is only one more than magnitude 7, it releases only slightly more energy. What is wrong with this statement?",
+    "options": [
+     "Nothing, the scale is linear",
+     "The scale is logarithmic, so each step is a large multiplication of ground motion and a much larger multiplication of energy",
+     "Magnitude 8 releases less energy",
+     "Magnitude cannot compare earthquakes"
+    ],
+    "answer": 1,
+    "explanation": "Each whole number is about ten times greater ground motion and roughly 32 times more energy released. Treating the scale as linear is a classic misconception.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two earthquakes of the same magnitude strike. One occurs 5 km below a city of old brick buildings and the other 300 km deep beneath a sparsely populated region. Which statement is best?",
+    "options": [
+     "Both will cause identical damage because the magnitude is the same",
+     "The shallow quake under the city is likely to cause far more damage",
+     "The deep quake will cause more damage because it is bigger",
+     "Neither can cause damage"
+    ],
+    "answer": 1,
+    "explanation": "Damage depends on depth, distance to people, building quality and ground conditions, not just on magnitude. Shallow quakes near vulnerable cities are the most destructive.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A news report states that scientists successfully predicted the exact date and time of last year's eruption of a volcano and also of an earthquake. Which comment is most accurate for current science?",
+    "options": [
+     "Both can be predicted to the hour",
+     "Volcanic eruptions can often be forecast from warning signs, but earthquakes cannot be reliably predicted",
+     "Earthquakes are easier to predict than eruptions",
+     "Neither can be monitored"
+    ],
+    "answer": 1,
+    "explanation": "Volcanoes give measurable precursors, so forecasts are possible although not precise. There is currently no reliable method to predict when and where an earthquake will strike.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Earthquakes\nAn earthquake happens when stress builds up along a **fault** as plates try to move, then suddenly releases. The underground point where the rock breaks is the **focus**. The point on the surface directly above is the **epicentre**. Shallow-focus earthquakes usually cause more damage than deep ones.\n\n**Seismic waves** spread out from the focus. **P waves** (primary) are fastest and arrive first, **S waves** (secondary) are slower. Seismometers record them, and the time gap between P and S waves shows how far the earthquake was. Using records from three stations scientists can locate the epicentre.\n\n**Magnitude** (energy released) is measured on the Moment Magnitude scale, which replaced the Richter scale. It is logarithmic: each step up is about 10 times larger ground motion. So magnitude 7 produces 100 times larger ground motion than magnitude 5. The Mercalli scale measures the intensity of damage.\n\n## Effects of earthquakes\n- **Primary effects** happen during the shaking: collapsed buildings, ground rupture, deaths and injuries.\n- **Secondary effects** follow: tsunamis, landslides, fires from broken gas pipes, disease from damaged water supplies, and economic loss.\nCase example: the 2011 Tohoku earthquake (magnitude about 9.0) off Japan triggered a huge tsunami that caused most of the deaths. In 2010 Haiti (magnitude 7.0) suffered over 100 000 deaths, while a far stronger Chilean quake (8.8) caused far fewer because of better building standards.\n\n## Volcanoes\nA volcano forms where magma reaches the surface through a vent. Two common types:\n- **Shield volcanoes** have runny basalt lava, gentle slopes and non-explosive eruptions (Hawaii). They occur at constructive boundaries and hotspots.\n- **Composite volcanoes** have thick, sticky magma, steep sides and layers of ash and lava. They occur at destructive boundaries and erupt explosively (Mount Pinatubo, Mount Fuji).\n\n**Volcanic hazards** include lava flows, ash fall, gases, **pyroclastic flows** (fast, burning clouds of gas and ash) and **lahars** (volcanic mudflows). In 2010 ash from Eyjafjallajökull in Iceland shut much of European airspace.\n\n## Monitoring\nVolcanoes give warning signs: small earthquakes, swelling of the slope, rising gas such as sulphur dioxide and rising temperatures. Scientists can forecast eruptions, but not exactly. Earthquakes currently cannot be reliably predicted.\n\n## Why impacts differ\nImpact depends on magnitude, depth, distance from people, building quality, time of day, wealth and preparedness. The same hazard can produce a disaster in one country and a minor event in another.\n\n## Worked example\nP waves 6 km/s, S waves 3.5 km/s, station 210 km away: P arrives at 210 ÷ 6 = 35 s, S arrives at 210 ÷ 3.5 = 60 s, gap = 25 s.\n\n## Common mistakes\n- Mixing up magma (underground) and lava (surface).\n- Treating the magnitude scale as linear.\n- Saying earthquakes can be predicted.\n- Ignoring secondary effects in a question about impacts.\n\n## How this is examined\nYou may get a table of two events (for example a high-income and a low-income country) and be asked to compare effects, explain why they differ, and judge which factor mattered most.\n\nExam tip: Use the words primary and secondary, then link the size of the impact to a human factor such as building standards.",
+  "flashcards": [
+   {
+    "front": "Focus vs epicentre",
+    "back": "Focus: the point underground where an earthquake begins. Epicentre: the point on the surface directly above it."
+   },
+   {
+    "front": "How is earthquake magnitude measured?",
+    "back": "On the Moment Magnitude scale (replacing Richter). It is logarithmic: each whole number is about 10 times more ground motion."
+   },
+   {
+    "front": "P waves and S waves",
+    "back": "P waves are faster and arrive first; S waves are slower. The time gap between them shows the distance to the epicentre."
+   },
+   {
+    "front": "Primary vs secondary effects",
+    "back": "Primary: caused directly by shaking (collapse, deaths). Secondary: later results such as tsunami, fire, landslides, disease."
+   },
+   {
+    "front": "Shield volcano",
+    "back": "Gentle slopes, runny basalt lava, mostly non-explosive. Found at constructive boundaries and hotspots, e.g. Hawaii."
+   },
+   {
+    "front": "Composite volcano",
+    "back": "Steep slopes, layers of ash and lava, thick sticky magma, explosive eruptions. Found at destructive boundaries, e.g. Mount Fuji."
+   },
+   {
+    "front": "What is a pyroclastic flow?",
+    "back": "A fast-moving cloud of hot gas, ash and rock that rushes down a volcano, often over 100 km/h and extremely deadly."
+   },
+   {
+    "front": "Signs a volcano may erupt",
+    "back": "Small earthquakes, swelling or tilting of the slope, rising sulphur dioxide and heat. Eruptions can be forecast, earthquakes cannot be predicted."
+   },
+   {
+    "front": "Tohoku 2011",
+    "back": "Magnitude about 9.0 earthquake off Japan; the tsunami caused most deaths and damaged the Fukushima nuclear plant."
+   }
+  ]
+ },
+ {
+  "subject": "geography",
+  "grade": 5,
+  "topic": "Tectonic Hazards",
+  "subTopic": "Hazard Management and Preparation",
+  "questions": [
+   {
+    "content": "Which action is recommended for personal safety during an earthquake if you are indoors?",
+    "options": [
+     "Run outside quickly through doorways",
+     "Drop, cover and hold on under sturdy furniture",
+     "Stand next to windows to see what is happening",
+     "Use the lift to leave the building"
+    ],
+    "answer": 1,
+    "explanation": "Drop, cover and hold on protects you from falling objects. Running out risks injury from falling glass or masonry, and lifts can fail.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the purpose of a hazard map?",
+    "options": [
+     "To show areas most at risk from a hazard so planners can avoid or protect them",
+     "To change the path of lava",
+     "To record the weather in the past",
+     "To measure plate speed"
+    ],
+    "answer": 0,
+    "explanation": "Hazard maps show where earthquakes, tsunamis or lava flows are most likely to cause harm, guiding land-use planning and evacuation routes.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a long-term response to earthquake risk?",
+    "options": [
+     "Search and rescue after the quake",
+     "Building earthquake-resistant buildings and enforcing building codes",
+     "Setting up emergency shelters on the day",
+     "Sending emergency food aid"
+    ],
+    "answer": 1,
+    "explanation": "Long-term responses reduce future vulnerability. Rescue, shelters and aid are short-term responses after the event.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In the risk equation, which of these factors increases the risk from a tectonic hazard?",
+    "options": [
+     "High vulnerability of the population",
+     "Good emergency services",
+     "Strong building standards",
+     "Effective warning systems"
+    ],
+    "answer": 0,
+    "explanation": "Risk = hazard × vulnerability ÷ capacity to cope. Greater vulnerability raises risk, while strong services and standards raise the capacity to cope and lower risk.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is an evacuation?",
+    "options": [
+     "Rebuilding a damaged town",
+     "Moving people out of a danger zone before or during a hazard",
+     "Measuring magnitude",
+     "Teaching in school"
+    ],
+    "answer": 1,
+    "explanation": "Evacuation moves people to safer areas using planned routes, which is vital before volcanic eruptions and tsunamis.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A fictional town, Marlow Bay, has 60 000 residents. 15 000 people live in the coastal zone that must be evacuated when a tsunami warning is issued. What percentage of residents must evacuate?",
+    "options": [
+     "15%",
+     "25%",
+     "40%",
+     "4%"
+    ],
+    "answer": 1,
+    "explanation": "15 000 ÷ 60 000 = 0.25, which is 25%.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Japan builds many skyscrapers on base isolators and uses cross-bracing. What is the aim of these designs?",
+    "options": [
+     "To stop plates moving",
+     "To absorb or reduce earthquake shaking so buildings do not collapse",
+     "To make buildings taller",
+     "To warn of tsunamis"
+    ],
+    "answer": 1,
+    "explanation": "Base isolators and flexible, braced frames allow a building to move with the shaking instead of breaking, reducing the risk of collapse.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is community education, such as regular evacuation drills, valuable?",
+    "options": [
+     "It prevents earthquakes",
+     "It makes people aware of what to do and reduces panic and casualties",
+     "It replaces the need for building codes",
+     "It gives exact earthquake dates"
+    ],
+    "answer": 1,
+    "explanation": "Drills improve the speed and organisation of response. They do not stop hazards, and should be used alongside engineering and planning.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why can a low-income country often find it harder to manage tectonic hazards than a high-income country?",
+    "options": [
+     "It has less rock",
+     "It may have fewer resources for strong buildings, warning systems and emergency services",
+     "It has fewer plates",
+     "It has stronger earthquakes"
+    ],
+    "answer": 1,
+    "explanation": "Lower capacity to cope, such as less money for enforcement and monitoring, increases vulnerability. The size of the hazard itself is not different.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In the Pacific, buoys measure changes in sea level and send data to warning centres. What is their main purpose?",
+    "options": [
+     "Detecting tsunamis so warnings can be issued",
+     "Measuring fish stocks",
+     "Predicting earthquakes years ahead",
+     "Mapping volcanoes"
+    ],
+    "answer": 0,
+    "explanation": "Tsunami detection buoys sense passing waves in the open ocean, allowing coastal warnings that give people time to move to high ground.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of the following is a short-term, immediate response after a major earthquake?",
+    "options": [
+     "Search and rescue, first aid and emergency shelters",
+     "Changing national building laws",
+     "Planning new cities",
+     "Teaching geography in schools"
+    ],
+    "answer": 0,
+    "explanation": "Immediate responses save lives in the first hours and days. Changing laws and planning are long-term.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "After a volcanic eruption, an exclusion zone is created around the crater. What is the reason for this?",
+    "options": [
+     "To reduce tourist numbers",
+     "To keep people out of areas where hazards such as pyroclastic flows could occur",
+     "To stop plate movement",
+     "To collect rainwater"
+    ],
+    "answer": 1,
+    "explanation": "Exclusion zones restrict access to places which are most likely to be hit by hazards, saving lives even though it may disrupt farming and tourism.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A practice evacuation moves 4500 people out of a danger zone in 3 hours. At this rate, how long would it take to evacuate 12 000 people?",
+    "options": [
+     "8 hours",
+     "4 hours",
+     "6 hours",
+     "36 hours"
+    ],
+    "answer": 0,
+    "explanation": "4500 ÷ 3 = 1500 people per hour. 12 000 ÷ 1500 = 8 hours. Planners use rates like this to decide how early a warning must be given.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A city has a 1 in 20 chance each year (5%) of a damaging earthquake causing $40 million of damage. Retrofitting schools costs $24 million and would reduce damage by 80%. Ignoring other benefits, how many years of average savings are needed to repay the cost?",
+    "options": [
+     "12 years",
+     "15 years",
+     "20 years",
+     "30 years"
+    ],
+    "answer": 1,
+    "explanation": "Expected yearly loss = 0.05 × $40 million = $2 million. An 80% reduction saves $1.6 million per year. $24 million ÷ $1.6 million = 15 years. Lives saved are an additional benefit not counted here.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two cities face the same hazard. City A has a population of 2 million with weak buildings and few hospitals. City B has 2 million with strong codes and early warning. According to the risk equation, which statement is correct?",
+    "options": [
+     "City A has lower risk because its hazard is the same",
+     "City A has higher risk because of higher vulnerability and lower capacity to cope",
+     "Both have equal risk",
+     "City B has higher risk because it has more technology"
+    ],
+    "answer": 1,
+    "explanation": "Risk depends on the hazard, vulnerability and capacity to cope. Equal hazards but weaker buildings and services give City A the higher risk.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A government can spend its budget on predicting earthquakes, enforcing building codes, or only on rescue equipment. Which approach would most likely save the most lives in the long term, and why?",
+    "options": [
+     "Prediction, because earthquakes can be forecast exactly",
+     "Enforcing building codes, because most deaths result from building collapse and this reduces vulnerability",
+     "Rescue equipment alone, because it is cheapest",
+     "Doing nothing"
+    ],
+    "answer": 1,
+    "explanation": "Reliable earthquake prediction is not possible, and most deaths come from collapsing buildings. Strong codes reduce vulnerability permanently, so they save lives before an event occurs.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A community on a volcano's slope refuses to evacuate despite a warning because their farms are on rich volcanic soil. Which statement best evaluates the situation?",
+    "options": [
+     "The community is irrational and the problem is simple",
+     "People balance risks and benefits, so management must consider livelihoods, such as offering safe alternatives and compensation",
+     "Volcanic soil is infertile",
+     "Warnings are unnecessary"
+    ],
+    "answer": 1,
+    "explanation": "Fertile soil provides income, so people accept risk. Effective management needs both safety measures and support for livelihoods. Simply issuing warnings may not work.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An early warning system gives 60 seconds of notice before a tsunami reaches an area with a population evenly spread over a 3 km wide coastal strip. People can move at 1 m/s to reach high ground. What is the furthest distance from high ground from which a person can safely escape in time?",
+    "options": [
+     "60 m",
+     "600 m",
+     "3 km",
+     "1 km"
+    ],
+    "answer": 0,
+    "explanation": "Distance = speed × time = 1 m/s × 60 s = 60 m. Most people in the 3 km strip would not escape, so vertical evacuation towers or longer warnings are needed.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why management matters\nWe cannot stop earthquakes or eruptions, but we can reduce the damage they cause. Hazard management looks at three stages: **prediction and monitoring**, **protection and preparation** before the event, and **response** afterwards.\n\n## Risk\nGeographers describe risk with an idea like this: **risk = hazard × vulnerability ÷ capacity to cope**. A large hazard in an empty region is low risk. A smaller hazard in a crowded city with weak buildings is high risk. Reducing vulnerability and increasing capacity to cope is how we lower risk.\n\n## Monitoring and prediction\n- Volcanoes: seismometers, tilt meters, gas sensors and satellite images detect signs of rising magma. Eruptions can be forecast but not to the hour.\n- Earthquakes: they cannot be reliably predicted. Some countries, such as Japan, use **early warning systems** that detect first waves and send alerts seconds before strong shaking.\n- Tsunamis: ocean buoys and tide gauges detect waves and trigger coastal warnings.\n\n## Protection (reducing the damage)\n- **Building design**: base isolators, cross-bracing, flexible frames and shock absorbers, plus strictly enforced building codes. Retrofitting older buildings makes them stronger.\n- **Land-use planning**: using hazard maps to keep schools, hospitals and homes away from the most dangerous zones.\n- **Engineering**: tsunami walls, tsunami towers and evacuation routes.\n\n## Preparation (getting people ready)\n- Education and regular drills (drop, cover and hold on).\n- Emergency kits, evacuation plans and practised routes.\n- Exclusion zones around active volcanoes.\n\n## Response\n- **Short-term (immediate)**: search and rescue, first aid, clean water, shelters, food, communications.\n- **Long-term**: rebuilding, new building laws, improved warnings, and support for livelihoods and health.\n\n## Differences between richer and poorer places\nHigh-income countries usually have more money for monitoring, strong buildings and fast emergency response. Low-income countries may lack funds, so impacts are greater, and they depend more on international aid. However, wealth does not remove risk, as the 2011 Japan tsunami showed.\n\n## Evaluating strategies\nIn Criterion-style questions you are asked to judge. Compare cost, effectiveness, who benefits and what the limits are. Planning and building codes cost money but save lives for decades, while warning systems depend on people reacting quickly.\n\n## Worked example\nA city faces a 5% yearly chance of an earthquake causing $40 million damage: expected loss = 0.05 × 40 = $2 million a year. If retrofitting cuts damage by 80%, savings = $1.6 million per year. A $24 million programme repays itself in 24 ÷ 1.6 = 15 years.\n\n## Common mistakes\n- Writing that hazards can be stopped.\n- Giving only a list without judging effectiveness.\n- Mixing up short-term and long-term responses.\n\n## How this is examined\nYou may read a source on a city's preparations, extract figures, calculate a cost or percentage, and then justify which strategy is most sustainable.\n\nExam tip: Judge strategies with a reason such as it reduces vulnerability permanently, and mention a limit, such as cost or people not following warnings.",
+  "flashcards": [
+   {
+    "front": "Risk equation",
+    "back": "Risk = hazard × vulnerability ÷ capacity to cope. Reduce vulnerability or increase capacity to reduce risk."
+   },
+   {
+    "front": "Drop, cover and hold on",
+    "back": "The recommended action during an earthquake indoors: drop to the floor, take cover under sturdy furniture and hold on until shaking stops."
+   },
+   {
+    "front": "Earthquake-resistant building features",
+    "back": "Base isolators, cross-bracing, flexible frames, shock absorbers and reinforced foundations."
+   },
+   {
+    "front": "Short-term vs long-term responses",
+    "back": "Short-term: rescue, first aid, shelter, food, water. Long-term: rebuilding, new laws, better warnings and livelihood support."
+   },
+   {
+    "front": "Purpose of a hazard map",
+    "back": "Shows areas at most risk so planners can control building, plan evacuation routes and target preparation."
+   },
+   {
+    "front": "How are tsunamis detected?",
+    "back": "Ocean buoys and tide gauges sense passing waves and send data to warning centres to trigger coastal alerts."
+   },
+   {
+    "front": "Exclusion zone",
+    "back": "An area around an active volcano that people are not allowed to enter, because hazards like pyroclastic flows could kill."
+   },
+   {
+    "front": "Can earthquakes be predicted?",
+    "back": "No. They cannot be reliably predicted. Early warning systems give seconds of notice after the first waves are detected."
+   },
+   {
+    "front": "Why do poorer countries suffer more?",
+    "back": "Fewer resources for strong buildings, monitoring, warning and emergency services means higher vulnerability and lower capacity to cope."
+   }
+  ]
+ }
+]

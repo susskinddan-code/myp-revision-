@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "spanish-ab-initio",
+  "grade": 5,
+  "topic": "Spanish Grammar Essentials",
+  "subTopic": "Present Tense, Ser and Estar",
+  "questions": [
+   {
+    "content": "Choose the correct word: Yo ____ estudiante.",
+    "options": [
+     "eres",
+     "soy",
+     "es",
+     "estoy"
+    ],
+    "answer": 1,
+    "explanation": "With yo (I), the verb ser is soy. Eres is for tú, es is for he/she, and estoy is a form of estar.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Choose the correct word: Ellos ____ en casa.",
+    "options": [
+     "están",
+     "son",
+     "estás",
+     "es"
+    ],
+    "answer": 0,
+    "explanation": "Ellos (they) with estar is están. We use estar for where someone is, so están en casa means they are at home.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is the correct form of 'hablar' for 'nosotros' (we)?",
+    "options": [
+     "hablan",
+     "hablo",
+     "hablas",
+     "hablamos"
+    ],
+    "answer": 3,
+    "explanation": "Regular -ar verbs take -amos for nosotros: hablamos. Hablan is ellos, hablo is yo and hablas is tú.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Choose the correct word: Tú ____ pan en el desayuno. (comer)",
+    "options": [
+     "como",
+     "come",
+     "comes",
+     "comen"
+    ],
+    "answer": 2,
+    "explanation": "Regular -er verbs end in -es for tú: comes. Como is yo, come is él/ella and comen is ellos.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Choose the correct word: Mi hermana ____ doce años.",
+    "options": [
+     "es",
+     "tiene",
+     "está",
+     "tienes"
+    ],
+    "answer": 1,
+    "explanation": "Spanish uses tener for age, so mi hermana tiene doce años. Ser and estar are never used to say how old someone is.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Choose the correct word: Madrid ____ la capital de España.",
+    "options": [
+     "es",
+     "está",
+     "son",
+     "estás"
+    ],
+    "answer": 0,
+    "explanation": "Ser is used for identity and definitions, so Madrid es la capital. Está would be used for temporary states or location, not for a definition.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Choose the correct word: La tienda ____ cerca del banco.",
+    "options": [
+     "es",
+     "son",
+     "hay",
+     "está"
+    ],
+    "answer": 3,
+    "explanation": "Estar is used for the location of things, so la tienda está cerca del banco. Hay cannot be used with a definite subject like la tienda in this pattern.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Choose the correct word: Ella ____ cansada hoy.",
+    "options": [
+     "es",
+     "tiene",
+     "está",
+     "hay"
+    ],
+    "answer": 2,
+    "explanation": "Tiredness is a temporary state, so we use estar: ella está cansada. Ser would suggest tiredness is part of her character.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence is correct?",
+    "options": [
+     "Mi padre está médico.",
+     "Mi padre es médico.",
+     "Mi padre tiene médico.",
+     "Mi padre ser médico."
+    ],
+    "answer": 1,
+    "explanation": "Jobs use ser: es médico. Está is wrong for a job, tiene means has, and ser is the infinitive, which cannot follow mi padre.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the correct form of 'vivir' for 'vosotros' (you all, informal)?",
+    "options": [
+     "vivís",
+     "vives",
+     "viven",
+     "vivimos"
+    ],
+    "answer": 0,
+    "explanation": "Regular -ir verbs take -ís for vosotros: vivís. Vives is tú, viven is ellos/ellas and vivimos is nosotros.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read the text.\n'Me llamo Lucía. Soy de Chile pero ahora vivo en Sevilla. Mi casa está cerca del centro.'\nWhere does Lucía live now?",
+    "options": [
+     "In Chile",
+     "In the centre of Santiago",
+     "In Madrid",
+     "In Seville"
+    ],
+    "answer": 3,
+    "explanation": "Ahora vivo en Sevilla means 'now I live in Seville'. She is from Chile (soy de Chile) but no longer lives there.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Choose the correct word: Yo ____ un perro y dos gatos. (tener)",
+    "options": [
+     "tiengo",
+     "teno",
+     "tengo",
+     "tengos"
+    ],
+    "answer": 2,
+    "explanation": "Tener is irregular in the yo form: tengo. Tiengo, teno and tengos do not exist.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Choose the correct word: Ella ____ un helado de fresa. (querer)",
+    "options": [
+     "quere",
+     "quiere",
+     "quiera",
+     "queres"
+    ],
+    "answer": 1,
+    "explanation": "Querer is a stem-changing verb (e to ie) in the singular: quiere for él/ella. The stem does not change in nosotros (queremos).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Choose the correct pair: Mis padres ____ de México y ahora ____ en Canadá.",
+    "options": [
+     "son / están",
+     "están / son",
+     "son / son",
+     "están / están"
+    ],
+    "answer": 0,
+    "explanation": "Origin uses ser (son de México). Where someone is at present uses estar (están en Canadá).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence is INCORRECT?",
+    "options": [
+     "Soy de Argentina.",
+     "Estoy muy contento.",
+     "Ellas son amigas.",
+     "Mi madre está profesora."
+    ],
+    "answer": 3,
+    "explanation": "A job uses ser, so it should be 'Mi madre es profesora'. The other three sentences use ser and estar correctly.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "What are the correct yo forms of 'hacer' and 'salir'?",
+    "options": [
+     "hazo, salo",
+     "hago, salo",
+     "hago, salgo",
+     "hacio, salgo"
+    ],
+    "answer": 2,
+    "explanation": "Both verbs add a g in the yo form: hago and salgo. The rest of the verb is regular.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Read the message.\n'Hola Pablo: Estoy en la playa con mi familia. Es un día muy bonito y estamos contentos. Mi hermano es deportista y juega al tenis.'\nWhich statement is TRUE?",
+    "options": [
+     "The writer is at home.",
+     "The writer is at the beach with the family.",
+     "The brother is unhappy.",
+     "The writer plays tennis."
+    ],
+    "answer": 1,
+    "explanation": "Estoy en la playa con mi familia confirms the beach. It is the brother who plays tennis (juega al tenis), and everyone is happy (contentos).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Why does the sentence 'Estamos en clase' use estar and not ser?",
+    "options": [
+     "Estar is used to say where someone is.",
+     "Ser is never used with nosotros.",
+     "Estamos is a form of ser.",
+     "Location is shown with tener."
+    ],
+    "answer": 0,
+    "explanation": "A useful memory aid is that location uses estar. Estamos is nosotros in the present of estar, while ser would be somos.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Present tense: the basics\nSpanish verbs change their endings to show who is doing the action. This means you can often drop the subject pronoun (yo, tú, él...) because the ending already tells the reader who it is. There are three groups of regular verbs, shown here with hablar (to speak), comer (to eat) and vivir (to live).\n- -ar verbs: hablo, hablas, habla, hablamos, habláis, hablan\n- -er verbs: como, comes, come, comemos, coméis, comen\n- -ir verbs: vivo, vives, vive, vivimos, vivís, viven\nRemember the order: yo, tú, él/ella/usted, nosotros, vosotros, ellos/ellas/ustedes. In Latin America, ustedes is used instead of vosotros.\n\n## Common irregular verbs\nSome very common verbs do not follow the pattern. You must learn them by heart.\n- tener (to have): tengo, tienes, tiene, tenemos, tenéis, tienen\n- hacer (to do, make): hago, haces, hace, hacemos, hacéis, hacen\n- ir (to go): voy, vas, va, vamos, vais, van\n- querer (to want): quiero, quieres, quiere, queremos, queréis, quieren\nQuerer is a stem-changing verb: the e becomes ie, except in nosotros and vosotros. Other examples are poder (puedo) and dormir (duermo).\n\n## Ser and estar: two verbs for \"to be\"\nEnglish has one verb \"to be\", but Spanish has two. Both are irregular.\n- ser: soy, eres, es, somos, sois, son\n- estar: estoy, estás, está, estamos, estáis, están\nUse **ser** for identity and permanent features: name, nationality, job, origin, description, time and relationships. Examples: Soy Ana. Es profesor. Somos de Perú. Son las tres.\nUse **estar** for location and temporary states or feelings: Estoy en casa. Está cansada. La tienda está cerca. Estamos contentos.\nA helpful memory trick is that \"How you feel and where you are always use the verb estar.\"\n\n## Age with tener\nSpanish does not use ser for age. Say Tengo quince años (I have fifteen years), never Soy quince años.\n\n## Common mistakes\n- Using ser for location: say Estoy en el colegio, not Soy en el colegio.\n- Using estar for jobs: say Es médico, not Está médico.\n- Forgetting that the verb ending must match the subject: Yo tengo, not Yo tiene.\n- Translating \"I am 15\" word for word.\n\n## How this is examined\nIn the reading and writing tasks you rarely see grammar questions in isolation. Instead, the correct verb form is the difference between a message that makes sense and one that does not. You may be asked to choose the correct word to complete a short text, to spot the sentence with an error, or to write a short message about yourself, your family and where you live. Examiners reward accurate use of ser, estar and tener with age.\n\nExam tip: Before you write any sentence with \"to be\", ask yourself two quick questions: \"Is it where? Is it a feeling that can change?\" If yes, use estar. If it is who, what, where from or what job, use ser.",
+  "flashcards": [
+   {
+    "front": "soy, eres, es, somos, sois, son",
+    "back": "The present tense of ser (to be): used for identity, origin, job, description and time."
+   },
+   {
+    "front": "estoy, estás, está, estamos, estáis, están",
+    "back": "The present tense of estar (to be): used for location and temporary states or feelings."
+   },
+   {
+    "front": "Ser or estar? Estoy cansada.",
+    "back": "Estar, because tiredness is a temporary feeling. Estoy cansada means I am tired."
+   },
+   {
+    "front": "Ser or estar? Es profesor.",
+    "back": "Ser, because a job is an identity. Es profesor means he is a teacher."
+   },
+   {
+    "front": "How do you say 'I am 14' in Spanish?",
+    "back": "Tengo catorce años. Spanish uses tener (to have) for age, not ser."
+   },
+   {
+    "front": "Endings of regular -ar verbs (hablar)",
+    "back": "-o, -as, -a, -amos, -áis, -an: hablo, hablas, habla, hablamos, habláis, hablan."
+   },
+   {
+    "front": "Endings of regular -er verbs (comer)",
+    "back": "-o, -es, -e, -emos, -éis, -en: como, comes, come, comemos, coméis, comen."
+   },
+   {
+    "front": "yo form of tener, hacer, salir",
+    "back": "tengo, hago, salgo. These are irregular in the yo form only (tener also changes its stem in other forms)."
+   },
+   {
+    "front": "querer (to want): stem change",
+    "back": "quiero, quieres, quiere, queremos, queréis, quieren. The e becomes ie, except for nosotros and vosotros."
+   }
+  ]
+ },
+ {
+  "subject": "spanish-ab-initio",
+  "grade": 5,
+  "topic": "Spanish Grammar Essentials",
+  "subTopic": "Articles, Questions and Negatives",
+  "questions": [
+   {
+    "content": "Choose the correct article: ____ libro (the book)",
+    "options": [
+     "la",
+     "los",
+     "el",
+     "las"
+    ],
+    "answer": 2,
+    "explanation": "Libro is masculine singular, so the article is el.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Choose the correct article: ____ casa (the house)",
+    "options": [
+     "el",
+     "la",
+     "los",
+     "un"
+    ],
+    "answer": 1,
+    "explanation": "Casa is feminine singular, so the definite article is la.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Choose the correct article: ____ chicos (the boys)",
+    "options": [
+     "los",
+     "las",
+     "el",
+     "unos"
+    ],
+    "answer": 0,
+    "explanation": "Chicos is masculine plural, so the article is los. Unos means 'some', not 'the'.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which question word means 'where'?",
+    "options": [
+     "¿Cuándo?",
+     "¿Quién?",
+     "¿Cómo?",
+     "¿Dónde?"
+    ],
+    "answer": 3,
+    "explanation": "Dónde asks about place. Cuándo is when, quién is who and cómo is how.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "How do you say 'I don't like it' in Spanish?",
+    "options": [
+     "Me no gusta.",
+     "Me gusta no.",
+     "No me gusta.",
+     "No gusto."
+    ],
+    "answer": 2,
+    "explanation": "To make a sentence negative, put no directly before the verb phrase: No me gusta.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Choose the correct article: Tengo ____ mesa en mi habitación.",
+    "options": [
+     "un",
+     "una",
+     "el",
+     "unos"
+    ],
+    "answer": 1,
+    "explanation": "Mesa is feminine singular, so 'a table' is una mesa.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the plural of 'el lápiz'?",
+    "options": [
+     "los lápices",
+     "los lápizes",
+     "las lápices",
+     "los lápiz"
+    ],
+    "answer": 0,
+    "explanation": "Words ending in -z change z to c and add -es in the plural: lápiz becomes lápices. The article stays masculine: los.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Choose the correct question word: ¿____ años tienes?",
+    "options": [
+     "Cuánto",
+     "Cuántas",
+     "Cuándo",
+     "Cuántos"
+    ],
+    "answer": 3,
+    "explanation": "Años is masculine plural, so cuántos must agree. Cuándo means 'when' and does not fit a question about number.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 'Nunca como carne' mean?",
+    "options": [
+     "I always eat meat.",
+     "I sometimes eat meat.",
+     "I never eat meat.",
+     "I do not like meat."
+    ],
+    "answer": 2,
+    "explanation": "Nunca means never. Como is the yo form of comer, so nunca como carne means I never eat meat.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence means 'I don't have any pets'?",
+    "options": [
+     "Tengo no mascotas.",
+     "No tengo mascotas.",
+     "No tengo no mascotas.",
+     "Yo no mascotas tengo."
+    ],
+    "answer": 1,
+    "explanation": "The negative word no goes before the verb. Spanish does not put it after the verb or use it twice here.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Choose the correct word: Voy ____ cine con mis amigos.",
+    "options": [
+     "al",
+     "a el",
+     "del",
+     "a la"
+    ],
+    "answer": 0,
+    "explanation": "The preposition a and the article el join to make al. A el is never written.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Complete the dialogue.\n'— ¿____ estudias español? — ____ me gusta.'",
+    "options": [
+     "Porque / Por qué",
+     "Por qué / Por qué",
+     "Porque / Porque",
+     "Por qué / Porque"
+    ],
+    "answer": 3,
+    "explanation": "Two words with an accent (por qué) ask the question. One word without an accent (porque) gives the answer.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which question is correctly written?",
+    "options": [
+     "Dónde vives?",
+     "¿Dónde vives",
+     "¿Dónde vives?",
+     "Dónde vives¿"
+    ],
+    "answer": 2,
+    "explanation": "Spanish questions begin with an upside-down question mark and end with a normal one.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which pair is correct?",
+    "options": [
+     "la día, el mano",
+     "el día, la mano",
+     "el día, el mano",
+     "la día, la mano"
+    ],
+    "answer": 1,
+    "explanation": "Día is masculine even though it ends in -a, and mano is feminine even though it ends in -o. These are common exceptions.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence means 'Nobody comes to the party'?",
+    "options": [
+     "Nadie viene a la fiesta.",
+     "No nadie viene a la fiesta.",
+     "Nadie no viene a la fiesta.",
+     "Viene nadie a la fiesta."
+    ],
+    "answer": 0,
+    "explanation": "When nadie comes before the verb, you do not add no. If it comes after the verb, you need no: No viene nadie a la fiesta.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Read the notice.\n'El museo abre de martes a sábado. No abre los domingos ni los lunes.'\nOn which days is the museum closed?",
+    "options": [
+     "Only Monday",
+     "Tuesday and Saturday",
+     "Saturday and Sunday",
+     "Sunday and Monday"
+    ],
+    "answer": 3,
+    "explanation": "Ni means 'nor', so no abre los domingos ni los lunes means it does not open on Sundays or Mondays.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "You want to know when a film begins. Which question do you ask?",
+    "options": [
+     "¿Cuántos empieza la película?",
+     "¿Quién empieza la película?",
+     "¿A qué hora empieza la película?",
+     "¿Dónde hora empieza la película?"
+    ],
+    "answer": 2,
+    "explanation": "A qué hora asks 'at what time'. Cuántos means how many, quién means who and dónde hora makes no sense.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Choose the correct pair: Tengo ____ amigas españolas y ____ amigo mexicano.",
+    "options": [
+     "unos / una",
+     "unas / un",
+     "unas / una",
+     "unos / un"
+    ],
+    "answer": 1,
+    "explanation": "Amigas is feminine plural, so unas. Amigo is masculine singular, so un.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Articles: the, a and some\nIn Spanish every noun has a gender (masculine or feminine) and a number (singular or plural). The article must match both. Learn each noun together with its article.\n- Definite articles (the): el (masculine singular), la (feminine singular), los (masculine plural), las (feminine plural). Examples: el libro, la casa, los chicos, las chicas.\n- Indefinite articles (a, some): un, una, unos, unas. Examples: un perro, una mesa, unos amigos, unas amigas.\nMost nouns ending in -o are masculine and most ending in -a are feminine, but there are exceptions: el día, el mapa, la mano. Nouns ending in -ción or -dad are feminine: la estación, la ciudad.\nTo make a plural, add -s after a vowel (casa becomes casas) and -es after a consonant (ciudad becomes ciudades). A noun ending in -z changes to -ces: lápiz becomes lápices.\nRemember al (a + el) and del (de + el): Voy al parque. Es el libro del profesor.\n\n## Asking questions\nQuestions start with ¿ and end with ?. Question words always have an accent.\n- ¿Qué? (what), ¿Quién? (who), ¿Dónde? (where), ¿Cuándo? (when), ¿Cómo? (how), ¿Cuánto? (how much), ¿Cuántos? (how many), ¿Por qué? (why), ¿Cuál? (which)\nCuánto and cuántos agree with the noun: ¿Cuántos años tienes? ¿Cuántas hermanas tienes?\nDo not confuse ¿Por qué? (why) with porque (because): ¿Por qué estudias español? Porque me gusta.\n\n## Negatives\nTo make a sentence negative, put no before the verb: Vivo en Madrid becomes No vivo en Madrid. Other negative words are nunca (never), nadie (nobody), nada (nothing) and ninguno (none).\nIf the negative word comes after the verb, you also need no before the verb: No como nada. No hablo nunca con él. If it comes before the verb, you do not need no: Nadie vive aquí. Nunca como carne.\nFor opinions, use No me gusta or No me gustan: No me gustan las matemáticas.\n\n## Common mistakes\n- Writing el casa instead of la casa.\n- Forgetting the upside-down ¿ at the start of a question.\n- Mixing up porque and por qué.\n- Putting no after the verb instead of before it.\n\n## How this is examined\nThese ideas appear in almost every task. In reading and listening you must understand what a question word is asking (for example, cuándo asks for a time or date). In writing you are expected to use articles correctly, ask or answer simple questions and give a negative opinion. A typical question gives a notice or message with negatives such as no abre los lunes, and asks which days or things are affected.\n\nExam tip: When you see a question word in a task, underline it. It tells you the kind of detail you need to find: ¿Cuándo? means a time or date, ¿Dónde? means a place, ¿Cuánto? means a price or amount.",
+  "flashcards": [
+   {
+    "front": "el, la, los, las",
+    "back": "The definite articles (the): el masculine singular, la feminine singular, los masculine plural, las feminine plural."
+   },
+   {
+    "front": "un, una, unos, unas",
+    "back": "The indefinite articles (a, some): un perro, una mesa, unos amigos, unas amigas."
+   },
+   {
+    "front": "al and del",
+    "back": "a + el = al (Voy al cine); de + el = del (el libro del profesor). Only el combines, not la, los or las."
+   },
+   {
+    "front": "¿Dónde? ¿Cuándo? ¿Quién?",
+    "back": "Where? When? Who? Question words always carry a written accent."
+   },
+   {
+    "front": "¿Por qué? vs porque",
+    "back": "¿Por qué? (two words, accent) means why? Porque (one word) means because."
+   },
+   {
+    "front": "¿Cuántos? vs ¿Cuántas?",
+    "back": "How many? They agree with the noun: ¿Cuántos años? (masculine), ¿Cuántas hermanas? (feminine)."
+   },
+   {
+    "front": "How do you make a sentence negative?",
+    "back": "Put no before the verb: No vivo en Madrid. No me gusta el pescado."
+   },
+   {
+    "front": "nunca, nadie, nada",
+    "back": "Never, nobody, nothing. After the verb you also need no: No como nada. Before the verb, no is not needed: Nadie come."
+   },
+   {
+    "front": "Plural of lápiz and ciudad",
+    "back": "lápiz becomes lápices (z becomes c, add -es); ciudad becomes ciudades (add -es after a consonant)."
+   }
+  ]
+ },
+ {
+  "subject": "spanish-ab-initio",
+  "grade": 5,
+  "topic": "Spanish Grammar Essentials",
+  "subTopic": "Adjectives, Agreement and Possessives",
+  "questions": [
+   {
+    "content": "Choose the correct word: Mi hermana es ____. (alto)",
+    "options": [
+     "alto",
+     "altos",
+     "altas",
+     "alta"
+    ],
+    "answer": 3,
+    "explanation": "Hermana is feminine singular, so the adjective must be feminine singular: alta.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Choose the correct word: Los libros son ____. (nuevo)",
+    "options": [
+     "nuevo",
+     "nueva",
+     "nuevos",
+     "nuevas"
+    ],
+    "answer": 2,
+    "explanation": "Libros is masculine plural, so the adjective becomes nuevos.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Complete the sentence with 'my': ____ amigos viven en Bogotá.",
+    "options": [
+     "Mi",
+     "Mis",
+     "Tus",
+     "Su"
+    ],
+    "answer": 1,
+    "explanation": "Amigos is plural, so 'my' becomes mis. Mi is singular, and tus and su mean your and his/her/their.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'simpático' mean?",
+    "options": [
+     "friendly, nice",
+     "sympathetic",
+     "strict",
+     "funny"
+    ],
+    "answer": 0,
+    "explanation": "Simpático means nice or friendly. It is a false friend, as it does not mean sympathetic.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Complete the sentence with 'your' (informal): ____ casa es grande.",
+    "options": [
+     "Tú",
+     "Ti",
+     "Te",
+     "Tu"
+    ],
+    "answer": 3,
+    "explanation": "Tu without an accent means 'your'. Tú with an accent means 'you'.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Choose the correct word: Las chicas son ____. (inteligente)",
+    "options": [
+     "inteligente",
+     "inteligentas",
+     "inteligentes",
+     "inteligentos"
+    ],
+    "answer": 2,
+    "explanation": "Adjectives ending in -e have the same masculine and feminine form, but add -s in the plural: inteligentes.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which phrase is correct?",
+    "options": [
+     "una casa blanco",
+     "una casa blanca",
+     "un casa blanco",
+     "unas casa blanca"
+    ],
+    "answer": 1,
+    "explanation": "Colour adjectives go after the noun and agree with it. Casa is feminine, so blanca.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Complete the sentence with 'our': ____ profesora es simpática.",
+    "options": [
+     "Nuestra",
+     "Nuestro",
+     "Nuestras",
+     "Nuestros"
+    ],
+    "answer": 0,
+    "explanation": "Profesora is feminine singular, so nuestra. The possessive agrees with the thing owned, not the owner.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Ana y Luis tienen un perro. ____ perro se llama Toby.",
+    "options": [
+     "Sus",
+     "Tu",
+     "Nuestro",
+     "Su"
+    ],
+    "answer": 3,
+    "explanation": "Su means 'their' (or his/her) before a singular noun. Perro is singular, so su, not sus.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Choose the correct word: Mi madre y mi tía son ____. (español)",
+    "options": [
+     "españoles",
+     "español",
+     "españolas",
+     "española"
+    ],
+    "answer": 2,
+    "explanation": "Both people are female, so the adjective is feminine plural: españolas.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which phrase is correct?",
+    "options": [
+     "un bueno amigo",
+     "un buen amigo",
+     "una buen amigo",
+     "un amigo buen"
+    ],
+    "answer": 1,
+    "explanation": "Bueno shortens to buen before a masculine singular noun. You can also say un amigo bueno.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Choose the correct word: Mis primos son de México. Son ____.",
+    "options": [
+     "mexicanos",
+     "mexicanas",
+     "mexicano",
+     "mexicanes"
+    ],
+    "answer": 0,
+    "explanation": "Primos is masculine plural, so mexicanos. Nationalities agree like other adjectives, and they begin with a small letter.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read the text.\n'Mi mejor amigo se llama Diego. Es alto y delgado, con el pelo corto y negro. Sus ojos son verdes. Es muy simpático.'\nWhat colour are Diego's eyes?",
+    "options": [
+     "black",
+     "brown",
+     "blue",
+     "green"
+    ],
+    "answer": 3,
+    "explanation": "Sus ojos son verdes: verdes means green. Negro (black) describes his hair.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence is fully correct?",
+    "options": [
+     "Mis hermanas son alto y rubio.",
+     "Mi hermanas son altas y rubias.",
+     "Mis hermanas son altas y rubias.",
+     "Mis hermanas es altas y rubias."
+    ],
+    "answer": 2,
+    "explanation": "The possessive (mis), the verb (son) and both adjectives (altas, rubias) must all be plural and feminine where needed.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Marta says: 'Nuestros profesores son jóvenes.' What does 'nuestros' agree with?",
+    "options": [
+     "Marta, the owner",
+     "profesores, the thing owned",
+     "jóvenes",
+     "the gender of the speaker"
+    ],
+    "answer": 1,
+    "explanation": "A possessive adjective agrees with the noun it describes (profesores: masculine plural), not with the person who owns it.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which phrase is correct?",
+    "options": [
+     "dos camisas verdes y unos pantalones grises",
+     "dos camisas verdes y unos pantalones gris",
+     "dos camisas verdes y unas pantalones grises",
+     "dos camisa verdes y unos pantalones grises"
+    ],
+    "answer": 0,
+    "explanation": "Camisas is plural, so dos camisas. Pantalones is masculine plural, so unos pantalones grises.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Read the text.\n'Mi familia es pequeña. Mi padre es profesor y mi madre es enfermera. Tengo un hermano mayor, que es muy gracioso, y una hermana pequeña, que es muy tímida.'\nHow is the younger sister described?",
+    "options": [
+     "funny",
+     "tall",
+     "strict",
+     "shy"
+    ],
+    "answer": 3,
+    "explanation": "Una hermana pequeña is the younger sister, and que es muy tímida says she is shy. Gracioso (funny) describes the older brother.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence translates 'Our dogs are big'?",
+    "options": [
+     "Nuestras perros son grandes.",
+     "Nuestro perros son grandes.",
+     "Nuestros perros son grandes.",
+     "Nuestros perros son grande."
+    ],
+    "answer": 2,
+    "explanation": "Perros is masculine plural, so nuestros and grandes must both be plural.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Adjectives must agree\nIn Spanish an adjective describes a noun and must agree with it in gender and number. Unlike English, the adjective usually comes after the noun: un perro negro (a black dog), not un negro perro.\nAdjectives that end in -o have four forms:\n- alto (masculine singular), alta (feminine singular), altos (masculine plural), altas (feminine plural)\nAdjectives that end in -e or most consonants have two forms: inteligente / inteligentes, fácil / fáciles, azul / azules.\nAdjectives of nationality that end in a consonant add -a for the feminine: español becomes española, francés becomes francesa. When a group contains both males and females, use the masculine plural.\nColours agree too: una falda roja, unos zapatos negros, dos camisas verdes. Some words shorten before a masculine noun: bueno becomes buen (un buen día), and grande becomes gran before any singular noun (un gran amigo).\n\n## Useful describing words\n- alto/a (tall), bajo/a (short), delgado/a (thin), rubio/a (blond), moreno/a (dark-haired)\n- simpático/a (nice), antipático/a (unpleasant), divertido/a (fun), tímido/a (shy), trabajador/a (hard-working)\n- joven (young), mayor (older), guapo/a (good-looking), pequeño/a (small), grande (big)\nRemember that simpático means friendly, not sympathetic.\n\n## Possessive adjectives\nThese show who owns something.\n- mi / mis (my), tu / tus (your), su / sus (his, her, their, your formal)\n- nuestro / nuestra / nuestros / nuestras (our), vuestro / vuestra / vuestros / vuestras (your, plural informal)\nThey agree with the thing owned, not with the owner. Nuestros profesores means our teachers (profesores is masculine plural). Mi hermano but mis hermanos.\nDo not confuse tu (your) with tú (you), or mi (my) with mí (me).\n\n## A worked example\nLet us describe a family in a few lines: Mi familia es grande. Mi padre es alto y moreno, y mi madre es rubia y muy simpática. Mis hermanos son divertidos, pero mi hermana pequeña es un poco tímida. Nuestra casa es blanca y tiene un jardín enorme. Notice that every adjective matches its noun (padre alto, madre simpática, hermanos divertidos) and that the possessives mi, mis and nuestra match the thing owned.\n\n## Common mistakes\n- Putting the adjective before the noun as in English: say una casa grande.\n- Forgetting to make the adjective plural: say Mis amigos son simpáticos.\n- Making the possessive agree with the owner instead of the thing owned.\n- Writing nationalities with a capital letter: in Spanish they are lower case (mexicano, española).\n\n## How this is examined\nDescribing people, places and objects is one of the most common tasks. In a reading text you may need to match a description (Es alto y delgado, con el pelo negro) to the right person. In writing you may have to describe your family or best friend in a few lines. Accurate agreement is easy to check, so examiners notice it.\n\nExam tip: After you write a description, check every adjective by asking two questions: \"Is the noun masculine or feminine? Is it singular or plural?\" Then make the adjective and possessive match.",
+  "flashcards": [
+   {
+    "front": "alto, alta, altos, altas",
+    "back": "The four forms of an adjective ending in -o: masculine and feminine, singular and plural."
+   },
+   {
+    "front": "inteligente: masculine or feminine?",
+    "back": "Both: un chico inteligente, una chica inteligente. The plural is inteligentes."
+   },
+   {
+    "front": "Where does the adjective go?",
+    "back": "Usually after the noun: una casa blanca, un perro negro. It must agree in gender and number."
+   },
+   {
+    "front": "mi, tu, su",
+    "back": "my, your (informal), his/her/their. Add -s for plural nouns: mis, tus, sus."
+   },
+   {
+    "front": "nuestro, nuestra, nuestros, nuestras",
+    "back": "Our. The possessive agrees with the thing owned: nuestras amigas."
+   },
+   {
+    "front": "tu vs tú",
+    "back": "Tu without an accent means your (tu casa). Tú with an accent means you (tú eres)."
+   },
+   {
+    "front": "simpático/a",
+    "back": "Nice, friendly. It is a false friend: it does not mean sympathetic."
+   },
+   {
+    "front": "bueno becomes buen",
+    "back": "Before a masculine singular noun: un buen amigo. The feminine stays buena: una buena amiga."
+   },
+   {
+    "front": "español → española",
+    "back": "Nationalities ending in a consonant add -a for the feminine. They begin with a small letter in Spanish."
+   }
+  ]
+ }
+]

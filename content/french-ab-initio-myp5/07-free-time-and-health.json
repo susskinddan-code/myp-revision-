@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "french-ab-initio",
+  "grade": 5,
+  "topic": "Free Time and Health",
+  "subTopic": "Hobbies and Sports",
+  "questions": [
+   {
+    "content": "What does 'J'aime nager' mean?",
+    "options": [
+     "I like sailing",
+     "I like swimming",
+     "I am swimming now",
+     "I do not like swimming"
+    ],
+    "answer": 1,
+    "explanation": "'J'aime' = I like, and 'nager' = to swim. After 'j'aime' French uses the infinitive.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which sentence means 'I play football'?",
+    "options": [
+     "Je joue au football.",
+     "Je joue du football.",
+     "Je fais au football.",
+     "Je jouer football."
+    ],
+    "answer": 0,
+    "explanation": "Sports use 'jouer à' (au = à + le), so 'Je joue au football'. 'Jouer de' is for musical instruments.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which sentence means 'I play the guitar'?",
+    "options": [
+     "Je joue à la guitare.",
+     "Je fais de la guitare.",
+     "Je joue la guitare.",
+     "Je joue de la guitare."
+    ],
+    "answer": 3,
+    "explanation": "Instruments take 'jouer de': de la guitare, du piano, de la batterie.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Marie writes: 'Le samedi, je regarde la télé.' What does she do on Saturdays?",
+    "options": [
+     "Reads the news",
+     "Listens to the radio",
+     "Watches TV",
+     "Plays video games"
+    ],
+    "answer": 2,
+    "explanation": "'Regarder la télé' = to watch TV. 'Le samedi' means on Saturdays (every Saturday).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which word means 'rarely'?",
+    "options": [
+     "souvent",
+     "rarement",
+     "toujours",
+     "parfois"
+    ],
+    "answer": 1,
+    "explanation": "'Rarement' = rarely. 'Souvent' = often, 'toujours' = always, 'parfois' = sometimes.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Choose the correct completion: 'Ma sœur ___ de la danse le mardi.'",
+    "options": [
+     "fait",
+     "joue",
+     "fais",
+     "font"
+    ],
+    "answer": 0,
+    "explanation": "'Faire de la danse' is the expression for dancing as an activity. With 'ma sœur' (she), the verb is 'fait'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read the message: 'Salut ! Je m'appelle Hugo. J'adore le basket mais je déteste la natation. Je joue au basket tous les samedis.' How often does Hugo play basketball?",
+    "options": [
+     "Every day",
+     "Every weekend, Saturday and Sunday",
+     "Once a month",
+     "Every Saturday"
+    ],
+    "answer": 3,
+    "explanation": "'Tous les samedis' means every Saturday. He loves basketball and hates swimming.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which phrase correctly says 'I do cycling'?",
+    "options": [
+     "Je fais le vélo.",
+     "Je joue au vélo.",
+     "Je fais du vélo.",
+     "Je fais de vélo."
+    ],
+    "answer": 2,
+    "explanation": "'Faire du vélo' uses du (de + le) because 'vélo' is masculine.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Léa says: 'Je n'aime pas lire, je préfère écouter de la musique.' Which statement is true?",
+    "options": [
+     "She likes reading more than music.",
+     "She prefers listening to music to reading.",
+     "She likes both equally.",
+     "She plays an instrument."
+    ],
+    "answer": 1,
+    "explanation": "'Je n'aime pas lire' = I do not like reading; 'je préfère' = I prefer.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is the best French for 'I go to the cinema with my friends on Fridays'?",
+    "options": [
+     "Le vendredi, je vais au cinéma avec mes amis.",
+     "Le vendredi, je vais à cinéma avec mes amis.",
+     "Le vendredi, je joue au cinéma avec mes amis.",
+     "Le vendredi, je vas au cinéma avec mes amis."
+    ],
+    "answer": 0,
+    "explanation": "'Aller' = je vais, and à + le = au, giving 'au cinéma'. 'Je vas' is not a French form.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence means 'He plays the piano and plays tennis'?",
+    "options": [
+     "Il joue au piano et il joue du tennis.",
+     "Il joue du piano et il fait au tennis.",
+     "Il joue le piano et le tennis.",
+     "Il joue du piano et il joue au tennis."
+    ],
+    "answer": 3,
+    "explanation": "Instrument = jouer de (du piano); sport = jouer à (au tennis). The other options swap the prepositions.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Notice on a club board: 'Atelier théâtre : mercredi, 14 h – 16 h. Pas de cours en juillet.' What is the information?",
+    "options": [
+     "The drama workshop is on Wednesday mornings and in July.",
+     "The dance class is on Tuesday afternoons.",
+     "The drama workshop is on Wednesday afternoons and not in July.",
+     "The drama workshop is every day except July."
+    ],
+    "answer": 2,
+    "explanation": "'Atelier théâtre' = drama workshop; 14 h–16 h is afternoon; 'pas de cours en juillet' = no classes in July.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which word completes: 'Nous ___ du ski en hiver.'",
+    "options": [
+     "faites",
+     "faisons",
+     "font",
+     "fais"
+    ],
+    "answer": 1,
+    "explanation": "With 'nous' the verb 'faire' is 'faisons'. 'Faire du ski' = to go skiing.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Karim writes: 'Je ne joue jamais au golf, mais je fais souvent de la natation.' Which summary is correct?",
+    "options": [
+     "He never plays golf but often swims.",
+     "He often plays golf but never swims.",
+     "He plays golf sometimes and swims rarely.",
+     "He never swims and never plays golf."
+    ],
+    "answer": 0,
+    "explanation": "'Ne ... jamais' = never; 'souvent' = often. Pay attention to which activity each word is attached to.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence is entirely correct?",
+    "options": [
+     "Elle aime jouer à la flûte et faire de l'escalade.",
+     "Elle aime joue de la flûte et faire de l'escalade.",
+     "Elle aime jouer de la flûte et faire d'escalade.",
+     "Elle aime jouer de la flûte et faire de l'escalade."
+    ],
+    "answer": 3,
+    "explanation": "The infinitive follows 'aime', 'jouer de' goes with instruments, and 'de l'' is used before a vowel (escalade).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A text says: 'Après l'école, Thomas fait ses devoirs, puis il joue à des jeux vidéo. Le soir il lit un peu.' What is the order of his activities?",
+    "options": [
+     "Video games, homework, reading",
+     "Reading, homework, video games",
+     "Homework, video games, reading",
+     "Homework, reading, video games"
+    ],
+    "answer": 2,
+    "explanation": "'Puis' (then) and 'le soir' (in the evening) give the sequence: homework, then video games, then reading.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence expresses a preference AND a reason correctly?",
+    "options": [
+     "Je préfère le judo parce que c'est dynamiques.",
+     "Je préfère le judo parce que c'est dynamique.",
+     "Je préfère judo car dynamique est.",
+     "Je préfère le judo parce que il dynamique."
+    ],
+    "answer": 1,
+    "explanation": "'Parce que' introduces a reason followed by a full clause: 'c'est dynamique'. The adjective stays singular after 'c'est'.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "You want to invite a friend (informal) to play tennis on Sunday. Which message is best?",
+    "options": [
+     "Tu veux jouer au tennis dimanche ?",
+     "Voulez-vous jouer du tennis dimanche ?",
+     "Tu veux jouer au tennis le dimanches ?",
+     "Tu veux faire au tennis dimanche ?"
+    ],
+    "answer": 0,
+    "explanation": "'Tu veux' is informal, 'jouer au tennis' is correct, and 'dimanche' alone means this coming Sunday. 'Voulez-vous' is formal and 'du tennis' is wrong.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why this matters\nTalking about what you like to do is one of the most common topics in beginner French. You will meet it in reading texts (messages, club notices, profiles), in listening texts (someone describing their weekend) and in writing tasks (a short email to a penpal). The grammar is small, but examiners reward accuracy with the little words: au, du, de la.\n\n## Expressing likes and dislikes\nAfter these verbs, use the infinitive (the \"to ...\" form):\n- j'aime (I like) / j'adore (I love) / je préfère (I prefer) / je déteste (I hate)\n- Example: J'aime nager. (I like swimming.) Je déteste courir. (I hate running.)\n- To make it negative put ne ... pas around the first verb: Je n'aime pas lire. (I do not like reading.)\n\n## Jouer à or jouer de?\nThis is the most tested point in the topic.\n- Sports and games use jouer à: Je joue au football (à + le = au), Elle joue à la pétanque, Nous jouons aux cartes (à + les = aux).\n- Musical instruments use jouer de: Il joue de la guitare, Je joue du piano (de + le = du), Elles jouent des percussions.\n\n## Faire de\nMany activities use faire + de:\n- faire du sport (to do sport), faire du vélo (to cycle), faire du judo, faire de la natation (to swim), faire de la danse, faire de l'escalade (de l' before a vowel).\n- Remember: de + le = du, de + les = des, de + la stays de la.\n\n## Other useful verbs and phrases\n- lire (to read), écouter de la musique (to listen to music), regarder la télé (to watch TV), aller au cinéma (to go to the cinema), sortir avec mes amis (to go out with my friends), dessiner (to draw), cuisiner (to cook), se promener (to go for a walk)\n- les jeux vidéo (video games), un club (a club), un match (a match), une équipe (a team)\n\n## How often?\n- toujours (always), souvent (often), parfois / quelquefois (sometimes), rarement (rarely), ne ... jamais (never)\n- le samedi or tous les samedis (every Saturday), le week-end (at weekends), après l'école (after school)\n- Put the frequency word after the verb: Je joue souvent au tennis. Je ne joue jamais au golf.\n\n## Giving a reason\nUse parce que (because): J'aime le judo parce que c'est amusant. Useful adjectives: amusant (fun), intéressant (interesting), ennuyeux (boring), fatigant (tiring), difficile (difficult), facile (easy).\n\n## Worked example\nSalut ! Je m'appelle Hugo. J'adore le basket et je joue tous les samedis. Je déteste la natation, c'est ennuyeux. Et toi ?\nMeaning: Hi! I'm Hugo. I love basketball and I play every Saturday. I hate swimming, it is boring. And you?\n\n## Common mistakes\n- Using jouer de with a sport (wrong: je joue du football).\n- Forgetting the article contraction (wrong: je joue à le tennis; right: au tennis).\n- Using a conjugated verb after aime (wrong: j'aime je nage).\n- Putting jamais without ne.\n\n## How this is examined\nReading tasks give a short message or club notice and ask who does what, when, and how often. Listening transcripts describe a weekend and ask you to match a person to an activity. In writing you are asked to describe your hobbies, give one opinion with a reason and say how often you do something.\n\nExam tip: Underline the frequency word (souvent, jamais, tous les ...) in a text before answering, because the question is often about how often, not just what.",
+  "flashcards": [
+   {
+    "front": "jouer à vs jouer de",
+    "back": "Sports and games: jouer à (je joue au tennis). Musical instruments: jouer de (je joue de la guitare)."
+   },
+   {
+    "front": "j'aime / j'adore / je déteste",
+    "back": "I like / I love / I hate. They are followed by an infinitive: J'aime nager."
+   },
+   {
+    "front": "faire du vélo",
+    "back": "to cycle. Faire de + activity: du (masc.), de la (fem.), de l' (vowel), des (plural)."
+   },
+   {
+    "front": "tous les samedis",
+    "back": "every Saturday. Also: le samedi (on Saturdays), le week-end (at weekends)."
+   },
+   {
+    "front": "souvent / parfois / rarement / jamais",
+    "back": "often / sometimes / rarely / never. Never is ne ... jamais: Je ne joue jamais au golf."
+   },
+   {
+    "front": "regarder la télé",
+    "back": "to watch TV"
+   },
+   {
+    "front": "Je préfère le judo parce que c'est amusant.",
+    "back": "I prefer judo because it is fun. 'Parce que' introduces a reason."
+   },
+   {
+    "front": "au / à la / à l' / aux",
+    "back": "to the / to the / to the / to the (plural). au = à + le; aux = à + les. Je joue au football, aux cartes."
+   },
+   {
+    "front": "Tu veux jouer au tennis ?",
+    "back": "Do you want to play tennis? An informal invitation to a friend."
+   }
+  ]
+ },
+ {
+  "subject": "french-ab-initio",
+  "grade": 5,
+  "topic": "Free Time and Health",
+  "subTopic": "Weather and Seasons",
+  "questions": [
+   {
+    "content": "What does 'Il pleut' mean?",
+    "options": [
+     "It is snowing",
+     "It is raining",
+     "It is windy",
+     "It is sunny"
+    ],
+    "answer": 1,
+    "explanation": "'Il pleut' comes from the verb pleuvoir (to rain).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which phrase means 'It is cold'?",
+    "options": [
+     "Il fait froid.",
+     "Il fait chaud.",
+     "Il fait beau.",
+     "Il neige."
+    ],
+    "answer": 0,
+    "explanation": "'Il fait froid' = it is cold. 'Il fait chaud' means it is hot.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which season is 'l'été'?",
+    "options": [
+     "Spring",
+     "Autumn",
+     "Winter",
+     "Summer"
+    ],
+    "answer": 3,
+    "explanation": "L'été = summer; le printemps = spring; l'automne = autumn; l'hiver = winter.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'Il y a du soleil' tell you?",
+    "options": [
+     "It is foggy",
+     "It is stormy",
+     "It is sunny",
+     "It is cloudy"
+    ],
+    "answer": 2,
+    "explanation": "'Du soleil' means sun, so the weather is sunny.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which month is 'juillet'?",
+    "options": [
+     "June",
+     "July",
+     "January",
+     "August"
+    ],
+    "answer": 1,
+    "explanation": "Juillet = July; juin = June; janvier = January; août = August.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Read: 'À Lyon, il fait 28 degrés et il y a du soleil.' What is the weather?",
+    "options": [
+     "Hot and sunny",
+     "Cold and sunny",
+     "Warm and rainy",
+     "Hot and cloudy"
+    ],
+    "answer": 0,
+    "explanation": "28 degrees is hot, and 'du soleil' means sunny.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the correct way to ask 'What is the weather like today?'",
+    "options": [
+     "Quelle heure est-il aujourd'hui ?",
+     "Comment vas-tu aujourd'hui ?",
+     "Qu'est-ce que tu fais aujourd'hui ?",
+     "Quel temps fait-il aujourd'hui ?"
+    ],
+    "answer": 3,
+    "explanation": "'Quel temps fait-il ?' asks about the weather. 'Quelle heure est-il ?' asks for the time.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence is correct for 'In spring it is often windy'?",
+    "options": [
+     "En printemps, il y a souvent du vent.",
+     "Au printemps, il fait souvent vent.",
+     "Au printemps, il y a souvent du vent.",
+     "Au printemps, il est souvent du vent."
+    ],
+    "answer": 2,
+    "explanation": "Use 'au' with printemps and 'il y a du vent' for windy. 'En' is used with été, automne, hiver.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which preposition goes with 'hiver' in 'In winter, it snows'?",
+    "options": [
+     "Au hiver, il neige.",
+     "En hiver, il neige.",
+     "À l'hiver, il neige.",
+     "Dans hiver, il neige."
+    ],
+    "answer": 1,
+    "explanation": "Seasons beginning with a vowel use 'en': en été, en automne, en hiver. Only 'printemps' takes 'au'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Forecast: 'Demain, il pleut le matin, puis il y a du soleil l'après-midi.' What is true?",
+    "options": [
+     "Rain in the morning, sun in the afternoon",
+     "Sun in the morning, rain in the afternoon",
+     "Rain all day",
+     "Sun all day"
+    ],
+    "answer": 0,
+    "explanation": "'Le matin' = morning, 'l'après-midi' = afternoon. 'Puis' (then) gives the order.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Choose the correct date: 'My birthday is on 14 February.'",
+    "options": [
+     "Mon anniversaire est le février quatorze.",
+     "Mon anniversaire est quatorze de février.",
+     "Mon anniversaire est au quatorze février.",
+     "Mon anniversaire est le quatorze février."
+    ],
+    "answer": 3,
+    "explanation": "French gives the day first with 'le': le quatorze février. No 'of' is used.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Lucas says: 'Je n'aime pas l'hiver, il fait trop froid. Je préfère l'été.' Which is true?",
+    "options": [
+     "He prefers winter because it is cold.",
+     "He prefers summer because it rains.",
+     "He prefers summer because winter is too cold.",
+     "He dislikes all seasons."
+    ],
+    "answer": 2,
+    "explanation": "'Trop froid' = too cold; 'je préfère l'été' = I prefer summer.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence is wrong?",
+    "options": [
+     "Il pleut aujourd'hui.",
+     "Il fait pleut aujourd'hui.",
+     "Il fait beau aujourd'hui.",
+     "Il neige aujourd'hui."
+    ],
+    "answer": 1,
+    "explanation": "'Il pleut' is already a full verb, so 'il fait' must not be added. 'Il fait beau' is correct because 'faire' is used with beau, chaud and froid.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A postcard says: 'En août, il fait très chaud ici, mais en décembre il neige et il fait moins deux.' What does 'moins deux' mean?",
+    "options": [
+     "minus two degrees",
+     "two degrees above zero",
+     "twenty degrees",
+     "less than two hours"
+    ],
+    "answer": 0,
+    "explanation": "'Moins' before a number means minus, so it is −2 °C in December.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which statement matches this forecast: 'Mardi : nuageux, 12°. Mercredi : pluie, 9°. Jeudi : soleil, 15°.'?",
+    "options": [
+     "Tuesday will be the warmest day.",
+     "It will rain on Thursday.",
+     "Wednesday will be sunny and mild.",
+     "Thursday will be the warmest and sunniest day."
+    ],
+    "answer": 3,
+    "explanation": "Jeudi has soleil and the highest temperature, 15°. Mercredi has pluie and the lowest.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence correctly combines a season and a weather description?",
+    "options": [
+     "En automne, il pleut souvent et il fait fraise.",
+     "À automne, il pleut souvent et il est frais.",
+     "En automne, il pleut souvent et il fait frais.",
+     "En l'automne, il pleut souvent et il fait frais."
+    ],
+    "answer": 2,
+    "explanation": "'En automne' is correct, 'il pleut' is full on its own, and 'il fait frais' means it is cool. 'Fraise' is a strawberry.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Mia has only learnt the present tense. Which sentence correctly tells a penpal that it is sunny today?",
+    "options": [
+     "Hier, il fait soleil.",
+     "Aujourd'hui, il y a du soleil.",
+     "Aujourd'hui, il est soleil.",
+     "Aujourd'hui, il y a des soleils."
+    ],
+    "answer": 1,
+    "explanation": "In the exam stick to forms you control. 'Il y a du soleil' is correct and clear; 'il est soleil' is not French and 'hier' needs a past tense.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which reply best answers: 'Quel temps fait-il en été chez toi et qu'est-ce que tu fais ?'",
+    "options": [
+     "En été, il fait chaud et je nage à la piscine.",
+     "En été, je fais chaud et il nage à la piscine.",
+     "En été, il chaud fait et je nager.",
+     "En été, il est chaud et je nager à la piscine."
+    ],
+    "answer": 0,
+    "explanation": "The weather uses 'il fait chaud'; the activity uses 'je' + a conjugated verb (nage). The others have the wrong subject or word order.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why this matters\nWeather and seasons turn up in forecasts, postcards, penpal emails and listening texts. Because they are short, set phrases, they are an easy place to gain marks if you learn them exactly. The biggest trap is the verb: French uses faire (to do/make) for many weather expressions where English uses \"to be\".\n\n## Asking about the weather\n- Quel temps fait-il ? (What is the weather like?)\n- Il fait quel temps aujourd'hui ? (informal)\n\n## Weather phrases\nWith il fait:\n- Il fait beau. (It is nice weather.)\n- Il fait chaud. (It is hot.)\n- Il fait froid. (It is cold.)\n- Il fait frais. (It is cool.)\n- Il fait mauvais. (It is bad weather.)\n- Il fait du vent. (It is windy.) Il y a du vent also works.\nWith il y a:\n- Il y a du soleil. (It is sunny.)\n- Il y a des nuages. (It is cloudy.) The adjective nuageux also exists.\n- Il y a de l'orage. (There is a storm.)\n- Il y a du brouillard. (It is foggy.)\nWith a verb of its own (do NOT add il fait):\n- Il pleut. (It is raining.)\n- Il neige. (It is snowing.)\n\n## Temperature\n- Il fait vingt degrés. (It is twenty degrees.)\n- Il fait moins cinq. (It is minus five.)\n- la température (the temperature), la météo (the weather forecast)\n\n## Seasons\n- le printemps (spring) - au printemps\n- l'été (summer) - en été\n- l'automne (autumn) - en automne\n- l'hiver (winter) - en hiver\nOnly printemps takes au. The other three take en.\n\n## Months and dates\n- janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre, décembre (months are not capitalised)\n- Dates use le + number + month: le quatorze février (14 February); only the first of the month uses premier: le premier mai.\n- en juillet or au mois de juillet = in July\n\n## Time words for forecasts\n- aujourd'hui (today), demain (tomorrow), le matin (in the morning), l'après-midi (in the afternoon), le soir (in the evening), puis (then), mais (but)\n\n## Worked example\nForecast: Demain, à Nice, il fait beau le matin, mais il y a des nuages l'après-midi. Il fait vingt-deux degrés.\nMeaning: Tomorrow in Nice it is nice in the morning, but it is cloudy in the afternoon. It is 22 degrees.\n\n## Giving preferences\nJ'aime l'été parce qu'il fait chaud. Je préfère le printemps parce qu'il y a du soleil et il ne fait pas trop chaud.\n\n## Common mistakes\n- Saying il fait pleut or il fait neige (wrong: il pleut, il neige).\n- Using je (I) or est (is): wrong je fais chaud for a general weather statement, wrong il est chaud.\n- Using au with été, automne, hiver (wrong: au hiver).\n- Capitalising months or writing the date as février quatorze.\n\n## How this is examined\nTypical reading tasks give a short forecast or postcard and ask which weather happens at which time or place. In listening transcripts, numbers and time words matter. In writing, you may describe your favourite season with a reason and one activity.\n\nExam tip: In a forecast, match each weather phrase with its time word (le matin, l'après-midi, demain) and watch for mais (but), which signals a change.",
+  "flashcards": [
+   {
+    "front": "Quel temps fait-il ?",
+    "back": "What is the weather like? Typical answers: Il fait beau / Il pleut / Il neige."
+   },
+   {
+    "front": "Il fait chaud / froid / frais",
+    "back": "It is hot / cold / cool. These use 'faire'."
+   },
+   {
+    "front": "Il pleut / Il neige",
+    "back": "It is raining / It is snowing. Never add 'fait' before these verbs."
+   },
+   {
+    "front": "Il y a du soleil / du vent / du brouillard",
+    "back": "It is sunny / windy / foggy. Weather with 'il y a' + du, de la, des or de l'."
+   },
+   {
+    "front": "au printemps / en été / en automne / en hiver",
+    "back": "in spring / in summer / in autumn / in winter. Only 'printemps' takes 'au'."
+   },
+   {
+    "front": "Il fait moins deux.",
+    "back": "It is minus two (degrees). 'Moins' means minus."
+   },
+   {
+    "front": "le quatorze février",
+    "back": "14 February. Dates: le + number + month. The first of the month is 'le premier'."
+   },
+   {
+    "front": "la météo",
+    "back": "the weather forecast"
+   },
+   {
+    "front": "Je préfère l'été parce qu'il fait chaud.",
+    "back": "I prefer summer because it is hot. A preference plus a reason with 'parce que'."
+   }
+  ]
+ },
+ {
+  "subject": "french-ab-initio",
+  "grade": 5,
+  "topic": "Free Time and Health",
+  "subTopic": "Health and the Body",
+  "questions": [
+   {
+    "content": "What does 'la tête' mean?",
+    "options": [
+     "the hand",
+     "the head",
+     "the leg",
+     "the stomach"
+    ],
+    "answer": 1,
+    "explanation": "La tête = head; la main = hand; la jambe = leg; le ventre = stomach.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which phrase means 'I have a headache'?",
+    "options": [
+     "J'ai mal à la tête.",
+     "Je suis mal à la tête.",
+     "Je fais mal à la tête.",
+     "J'ai mal la tête."
+    ],
+    "answer": 0,
+    "explanation": "The structure is 'avoir mal à' + body part: J'ai mal à la tête.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'le médecin' mean?",
+    "options": [
+     "the dentist",
+     "the chemist",
+     "the nurse",
+     "the doctor"
+    ],
+    "answer": 3,
+    "explanation": "Le médecin = doctor; le dentiste = dentist; le pharmacien = chemist (pharmacist); l'infirmier/l'infirmière = nurse.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which body part is 'le pied'?",
+    "options": [
+     "finger",
+     "knee",
+     "foot",
+     "arm"
+    ],
+    "answer": 2,
+    "explanation": "Le pied = foot. Le doigt = finger; le genou = knee; le bras = arm.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'Je suis malade' mean?",
+    "options": [
+     "I am hungry",
+     "I am ill",
+     "I am tired",
+     "I am late"
+    ],
+    "answer": 1,
+    "explanation": "'Malade' = ill, sick. J'ai faim = I am hungry; je suis fatigué(e) = I am tired.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which sentence means 'My arm hurts'?",
+    "options": [
+     "J'ai mal au bras.",
+     "J'ai mal à la bras.",
+     "J'ai mal du bras.",
+     "Je mal au bras."
+    ],
+    "answer": 0,
+    "explanation": "Bras is masculine, so à + le = au: J'ai mal au bras.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Choose the correct form: 'J'ai mal ___ pieds.'",
+    "options": [
+     "au",
+     "à la",
+     "à l'",
+     "aux"
+    ],
+    "answer": 3,
+    "explanation": "'Pieds' is plural, so à + les = aux: J'ai mal aux pieds.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "At the pharmacy, a note says: 'Prenez deux comprimés le matin et un le soir.' How many tablets in a day?",
+    "options": [
+     "Two",
+     "One",
+     "Three",
+     "Four"
+    ],
+    "answer": 2,
+    "explanation": "Two in the morning plus one in the evening makes three tablets.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read: 'Salut Anna, je ne vais pas à l'école aujourd'hui. J'ai de la fièvre et mal à la gorge.' What symptoms does the writer have?",
+    "options": [
+     "A cold and a headache",
+     "A temperature and a sore throat",
+     "A broken leg",
+     "A stomach ache and a cough"
+    ],
+    "answer": 1,
+    "explanation": "'De la fièvre' = a fever/temperature; 'la gorge' = throat.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which advice means 'You must rest'?",
+    "options": [
+     "Tu dois te reposer.",
+     "Tu dois courir.",
+     "Tu dois manger plus de sucre.",
+     "Tu dois aller à l'école."
+    ],
+    "answer": 0,
+    "explanation": "'Devoir' = must; 'se reposer' = to rest. Tu dois te reposer = You must rest.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence recommends something healthy?",
+    "options": [
+     "Il faut jouer toute la nuit.",
+     "Il faut manger des bonbons.",
+     "Il ne faut jamais faire de sport.",
+     "Il faut boire de l'eau et dormir huit heures."
+    ],
+    "answer": 3,
+    "explanation": "'Il faut' = one must. Drinking water and sleeping are healthy habits.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence is correct for 'She has a stomach ache'?",
+    "options": [
+     "Elle est mal au ventre.",
+     "Elle a mal à le ventre.",
+     "Elle a mal au ventre.",
+     "Elle a mal de ventre."
+    ],
+    "answer": 2,
+    "explanation": "'Avoir mal à' + body part, with à + le = au: Elle a mal au ventre.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A doctor says: 'Ça fait mal quand je touche ici ?' Which would be an appropriate patient reply?",
+    "options": [
+     "Oui, il pleut.",
+     "Oui, ça fait mal.",
+     "Non, je suis content.",
+     "Oui, j'ai quinze ans."
+    ],
+    "answer": 1,
+    "explanation": "The question asks whether it hurts when touched; 'Oui, ça fait mal' answers it.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence has an error?",
+    "options": [
+     "Il a mal à les dents.",
+     "Il a mal aux dents.",
+     "Il a mal à la dent.",
+     "Il a mal au dos."
+    ],
+    "answer": 0,
+    "explanation": "à + les must become aux: 'Il a mal aux dents'. The other three are correct.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Tom writes: 'Hier j'ai joué au foot et maintenant j'ai mal aux jambes, mais je n'ai pas mal au dos.' Which statement is correct?",
+    "options": [
+     "His back hurts but his legs do not.",
+     "Both his legs and back hurt.",
+     "Nothing hurts.",
+     "His legs hurt but his back does not."
+    ],
+    "answer": 3,
+    "explanation": "'Mais' marks a contrast; 'je n'ai pas mal au dos' = my back does not hurt.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence gives the best health advice for someone with a cold?",
+    "options": [
+     "Va nager dans la mer en hiver.",
+     "Mange beaucoup de glace.",
+     "Reste à la maison, bois du thé chaud et repose-toi.",
+     "Joue au football sous la pluie."
+    ],
+    "answer": 2,
+    "explanation": "Staying home, drinking hot drinks and resting is sensible. The other options would make a cold worse.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "What is the best response to a pharmacist who asks 'Qu'est-ce qui ne va pas ?'",
+    "options": [
+     "Je vais à la gorge et je tousse.",
+     "J'ai mal à la gorge et je tousse.",
+     "Je suis mal gorge et tousser.",
+     "Gorge est mal et je toussent."
+    ],
+    "answer": 1,
+    "explanation": "'Qu'est-ce qui ne va pas ?' = What is wrong? A correct reply uses 'j'ai mal à' + body part and a conjugated verb (je tousse = I cough).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which pair of sentences correctly describes feelings and a body part?",
+    "options": [
+     "Je suis fatigué et j'ai mal à la tête.",
+     "Je suis fatigué et je suis mal à la tête.",
+     "J'ai fatigué et j'ai mal la tête.",
+     "Je suis fatigué et ai mal à tête."
+    ],
+    "answer": 0,
+    "explanation": "'Être fatigué' for feelings, and 'avoir mal à la tête' for pain. Do not mix être and avoir in these expressions.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why this matters\nHealth vocabulary appears in appointment dialogues, pharmacy notices and messages explaining why someone is absent. The vocabulary is a fixed list of body parts, so it is very learnable, and one grammar rule (avoir mal à) unlocks most of the topic.\n\n## Parts of the body\n- la tête (head), le visage (face), l'œil / les yeux (eye / eyes), le nez (nose), la bouche (mouth), l'oreille (ear), la dent / les dents (tooth / teeth), la gorge (throat)\n- le cou (neck), l'épaule (shoulder), le bras (arm), la main (hand), le doigt (finger)\n- le dos (back), le ventre (stomach, tummy), le cœur (heart)\n- la jambe (leg), le genou (knee), le pied (foot)\n\n## Saying something hurts\nUse avoir mal à + body part. The à changes with the noun:\n- J'ai mal à la tête. (la = feminine, so à la)\n- J'ai mal au dos. (à + le = au)\n- J'ai mal à l'oreille. (vowel, so à l')\n- J'ai mal aux pieds. (à + les = aux)\nOther ways: Ça fait mal. (It hurts.) Mon bras me fait mal. (My arm hurts.)\n\n## Saying how you feel\n- Je suis malade. (I am ill.) Je suis fatigué(e). (I am tired.) Je suis enrhumé(e). (I have a cold.)\n- J'ai de la fièvre. (I have a temperature.) J'ai froid. (I am cold.) J'ai faim / soif. (I am hungry / thirsty.)\n- Je tousse. (I cough.) Je ne me sens pas bien. (I do not feel well.)\n\n## People and places\n- le médecin / le docteur (doctor), l'infirmier / l'infirmière (nurse), le dentiste (dentist), le pharmacien / la pharmacienne (chemist)\n- la pharmacie (pharmacy), l'hôpital (hospital), un rendez-vous (appointment), une ordonnance (prescription), un médicament (medicine), un comprimé (tablet)\n\n## Giving advice\n- Il faut + infinitive (One must ...): Il faut boire de l'eau. Il faut dormir.\n- Tu dois / Vous devez + infinitive (You must ...): Tu dois te reposer.\n- Il ne faut pas + infinitive (You must not): Il ne faut pas fumer.\n- Healthy lifestyle: manger des fruits et des légumes, boire de l'eau, faire du sport, dormir huit heures, se laver les mains.\n\n## Worked example\nDialogue at the doctor:\n- Qu'est-ce qui ne va pas ? (What is wrong?)\n- J'ai mal à la gorge et j'ai de la fièvre depuis hier. (I have a sore throat and a temperature since yesterday.)\n- Vous devez rester à la maison et boire beaucoup d'eau. (You must stay at home and drink lots of water.)\n\n## Common mistakes\n- Writing à le or à les (wrong); always contract to au or aux.\n- Using être instead of avoir in the pain expression (wrong: je suis mal à la tête).\n- Forgetting the feminine -e on fatiguée or malade when a girl writes.\n- Mixing up le pied (foot) with la main (hand), or forgetting that genou (knee) takes -x in the plural: les genoux.\n\n## How this is examined\nExpect a short note or dialogue where you pick out the symptom, the body part, the advice or the appointment time. Distractors often change one detail, such as arm for leg or morning for evening. Writing tasks may ask you to message a teacher to explain why you are absent.\n\nExam tip: Do not translate \"mal\" as \"bad\" in your head. In this topic it means pain, and avoir mal à + body part is the pattern to follow every time.",
+  "flashcards": [
+   {
+    "front": "J'ai mal à la tête.",
+    "back": "I have a headache. Pattern: avoir mal à + body part."
+   },
+   {
+    "front": "au / à la / à l' / aux",
+    "back": "j'ai mal au dos, à la gorge, à l'oreille, aux pieds. au = à + le, aux = à + les."
+   },
+   {
+    "front": "le ventre / le dos / le genou",
+    "back": "stomach / back / knee"
+   },
+   {
+    "front": "la jambe / le pied / la main",
+    "back": "leg / foot / hand"
+   },
+   {
+    "front": "Je suis malade.",
+    "back": "I am ill. Feminine writer: malade stays the same; fatigué becomes fatiguée."
+   },
+   {
+    "front": "J'ai de la fièvre.",
+    "back": "I have a temperature (fever)."
+   },
+   {
+    "front": "Il faut + infinitive",
+    "back": "One must ...: Il faut boire de l'eau. Negative: Il ne faut pas fumer."
+   },
+   {
+    "front": "le médecin / le pharmacien / l'infirmière",
+    "back": "doctor / chemist (pharmacist) / nurse"
+   },
+   {
+    "front": "Qu'est-ce qui ne va pas ?",
+    "back": "What is wrong? A doctor's or pharmacist's question; answer with J'ai mal à ..."
+   }
+  ]
+ }
+]

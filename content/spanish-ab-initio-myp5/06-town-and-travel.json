@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "spanish-ab-initio",
+  "grade": 5,
+  "topic": "Town and Travel",
+  "subTopic": "Places in Town",
+  "questions": [
+   {
+    "content": "What does 'la biblioteca' mean?",
+    "options": [
+     "bookshop",
+     "school",
+     "library",
+     "bank"
+    ],
+    "answer": 2,
+    "explanation": "'La biblioteca' is a library, where you borrow books. A bookshop is 'la librería', which looks similar but is a different word.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which Spanish word is a place where you can buy medicine?",
+    "options": [
+     "la panadería",
+     "la farmacia",
+     "la piscina",
+     "el cine"
+    ],
+    "answer": 1,
+    "explanation": "'La farmacia' is the chemist's (pharmacy). 'La panadería' sells bread, 'la piscina' is a swimming pool and 'el cine' is the cinema.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "You want to buy bread. Where do you go?",
+    "options": [
+     "a la panadería",
+     "a la biblioteca",
+     "al museo",
+     "al banco"
+    ],
+    "answer": 0,
+    "explanation": "'La panadería' is the bakery. The other places are not shops for food.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'el cine' mean?",
+    "options": [
+     "the circus",
+     "the church",
+     "the centre",
+     "the cinema"
+    ],
+    "answer": 3,
+    "explanation": "'El cine' is the cinema. 'La iglesia' is the church and 'el centro' is the town centre.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'En mi ciudad hay un parque' mean?",
+    "options": [
+     "My town is a park.",
+     "In my town I have a park.",
+     "In my town there is a park.",
+     "My town has no park."
+    ],
+    "answer": 2,
+    "explanation": "'Hay' means 'there is / there are'. 'En mi ciudad' means 'in my town'.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Complete the sentence: 'En mi barrio ___ una piscina y dos supermercados.'",
+    "options": [
+     "es",
+     "hay",
+     "están",
+     "tiene"
+    ],
+    "answer": 1,
+    "explanation": "To say that something exists in a place we use 'hay' (there is / there are). It does not change for singular or plural.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read the description.\n\n'El banco está al lado de la farmacia, enfrente del cine.'\n\nWhere is the bank?",
+    "options": [
+     "Next to the chemist's and opposite the cinema",
+     "Opposite the chemist's and next to the cinema",
+     "Behind the chemist's and the cinema",
+     "Between the chemist's and the cinema"
+    ],
+    "answer": 0,
+    "explanation": "'Al lado de' means next to, and 'enfrente de' means opposite. 'Entre' would be needed for between.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 'Mi casa está lejos del colegio' mean?",
+    "options": [
+     "My house is next to the school.",
+     "My house is near the school.",
+     "My house is behind the school.",
+     "My house is far from the school."
+    ],
+    "answer": 3,
+    "explanation": "'Lejos de' means far from. Its opposite is 'cerca de' (near to). 'De + el' becomes 'del'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Complete the sentence: 'El museo está cerca ___ ayuntamiento.'",
+    "options": [
+     "de el",
+     "al",
+     "del",
+     "de la"
+    ],
+    "answer": 2,
+    "explanation": "'De' + 'el' always joins to make 'del'. 'Ayuntamiento' (town hall) is masculine, so 'de la' is also wrong.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read the sign on the door of the post office.\n\n'Oficina de correos. Abierto de lunes a viernes, de 9:00 a 14:00. Cerrado sábados y domingos.'\n\nCan you post a letter there on Saturday?",
+    "options": [
+     "Yes, it is open until 14:00.",
+     "No, it is closed at the weekend.",
+     "Yes, but only in the afternoon.",
+     "No, it is only closed on Sundays."
+    ],
+    "answer": 1,
+    "explanation": "'Cerrado sábados y domingos' means closed on Saturdays and Sundays, so the answer is no.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript:\n\n'Vivo en un pueblo pequeño. Hay una iglesia, un mercado y una plaza, pero no hay cine ni piscina. Para ir al cine, tengo que ir a la ciudad.'\n\nWhich two places does the village NOT have?",
+    "options": [
+     "A cinema and a swimming pool",
+     "A church and a market",
+     "A square and a cinema",
+     "A market and a swimming pool"
+    ],
+    "answer": 0,
+    "explanation": "'No hay cine ni piscina' means there is neither a cinema nor a swimming pool. The church, market and square are in the village.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence correctly says 'There are two banks next to the park'?",
+    "options": [
+     "Hay dos banco al lado del parque.",
+     "Hay dos bancos al lado de el parque.",
+     "Están dos bancos al lado del parque.",
+     "Hay dos bancos al lado del parque."
+    ],
+    "answer": 3,
+    "explanation": "The noun needs a plural -s ('bancos'), and 'de + el' becomes 'del'. 'Hay' is used for introducing things that exist, not 'están'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read the message.\n\n'Quedamos delante del cine a las cinco.' ('Quedamos' means 'we are meeting'.)\n\nWhat is the plan?",
+    "options": [
+     "Meet behind the cinema at five o'clock",
+     "Meet inside the cinema at four o'clock",
+     "Meet in front of the cinema at five o'clock",
+     "Meet next to the cinema at fifteen minutes past five"
+    ],
+    "answer": 2,
+    "explanation": "'Delante de' means in front of, and 'a las cinco' means at five o'clock.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read the email.\n\n'Mi ciudad es grande. Hay un museo famoso en el centro, pero está lejos de mi casa. Cerca de mi casa hay un parque con una piscina, y me gusta nadar allí los sábados.'\n\nWhat does the writer do on Saturdays?",
+    "options": [
+     "Visits the famous museum in the centre",
+     "Swims in the park near home",
+     "Walks to the park to play football",
+     "Goes to the swimming pool in the centre"
+    ],
+    "answer": 1,
+    "explanation": "The museum is far away, but near the house there is a park with a pool where the writer likes swimming ('nadar') on Saturdays.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence contains a mistake?",
+    "options": [
+     "El parque son cerca de mi casa.",
+     "Hay una biblioteca en mi barrio.",
+     "La farmacia está enfrente del banco.",
+     "Mi colegio está lejos de la estación."
+    ],
+    "answer": 0,
+    "explanation": "Location uses 'estar', and 'parque' is singular, so it should be 'El parque está cerca de mi casa'. 'Son' is the plural of 'ser' and is not used for location.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Read the tourist leaflet.\n\n'Bienvenidos a Villalba. El mercado está en la plaza mayor, entre el ayuntamiento y la iglesia.'\n\nWhere exactly is the market?",
+    "options": [
+     "Next to the town hall only",
+     "In front of the church only",
+     "Behind the town hall and the church",
+     "Between the town hall and the church"
+    ],
+    "answer": 3,
+    "explanation": "'Entre ... y ...' means between ... and ... . The market is in the main square, between the two buildings.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which question means 'Is there a chemist's near here?'",
+    "options": [
+     "¿Es una farmacia cerca de aquí?",
+     "¿Tiene una farmacia aquí cerca?",
+     "¿Hay una farmacia cerca de aquí?",
+     "¿Está una farmacia hay?"
+    ],
+    "answer": 2,
+    "explanation": "To ask whether something exists we use 'hay'. 'Cerca de aquí' means near here. The other questions use the wrong verbs.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Listening transcript:\n\n'Mi barrio tiene de todo: hay un supermercado, una panadería y un polideportivo. Lo que más me gusta es el polideportivo porque juego al baloncesto. Lo que no me gusta es que no hay ningún parque.'\n\nWhat does the speaker like and dislike?",
+    "options": [
+     "Likes the park; dislikes the sports centre",
+     "Likes the sports centre; dislikes that there is no park",
+     "Likes the bakery; dislikes the supermarket",
+     "Likes basketball; dislikes the sports centre"
+    ],
+    "answer": 1,
+    "explanation": "'Lo que más me gusta' introduces the favourite thing (the sports centre). 'No hay ningún parque' means there is no park at all, which the speaker dislikes.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why this matters\nDescribing where you live is one of the most common tasks in beginner Spanish. In reading texts you will meet leaflets, signs and emails about a town. In writing you will often be asked to describe your neighbourhood. This topic gives you the places, the words for where things are, and the grammar to put them together.\n\n## Places in town\n- el banco (bank)\n- la biblioteca (library)\n- el cine (cinema)\n- el supermercado (supermarket)\n- la farmacia (chemist's)\n- la panadería (bakery)\n- el parque (park)\n- la piscina (swimming pool)\n- el polideportivo (sports centre)\n- el museo (museum)\n- el mercado (market)\n- la iglesia (church)\n- el ayuntamiento (town hall)\n- la oficina de correos (post office)\n- la estación (station)\n- la plaza (square)\n- el centro (town centre)\n- el barrio (neighbourhood)\n\nLearn each noun with its article. Most nouns ending in -o are masculine and most ending in -a are feminine, but remember that 'el mapa' and 'el día' are masculine.\n\n## Saying what there is: hay\n'Hay' means both 'there is' and 'there are'. It never changes.\n- En mi ciudad hay un cine. (In my town there is a cinema.)\n- Hay dos bancos en mi calle. (There are two banks on my street.)\n- No hay piscina. (There is no swimming pool.)\n- ¿Hay una farmacia cerca de aquí? (Is there a chemist's near here?)\n\n## Saying where things are: estar\nFor location we use 'estar', not 'hay', when we talk about a specific place we already know about.\n- El museo está en el centro. (The museum is in the centre.)\n- Las tiendas están cerca de la plaza. (The shops are near the square.)\n\n## Position words\n- cerca de (near) / lejos de (far from)\n- al lado de (next to)\n- enfrente de (opposite)\n- delante de (in front of) / detrás de (behind)\n- entre ... y ... (between ... and ...)\n\nRemember the contractions: de + el = del, and a + el = al. So we say 'El banco está al lado del cine' and 'Voy al parque'. But 'de la' and 'a la' never change.\n\n## Worked example\nRead: 'Vivo en un barrio tranquilo. Mi casa está cerca de la biblioteca, enfrente de un parque. Hay una panadería al lado del banco.'\nQuestion: What is opposite the writer's house? Answer: a park ('enfrente de un parque').\n\n## How this is examined\nIn the reading paper you may see a leaflet, map description or short email and have to decide where a building is or what a town has. In listening transcripts someone describes their neighbourhood, often mentioning what they like and dislike ('lo que no me gusta es que no hay...'). In writing you may be asked for three or four sentences about your town, using 'hay', 'está' and at least one position word.\n\n## Common mistakes\n- Using 'es' or 'son' for location instead of 'está' or 'están'\n- Writing 'de el' instead of 'del'\n- Making 'hay' plural ('hayn')\n- Mixing up 'la biblioteca' (library) with 'la librería' (bookshop)\n- Forgetting to make the noun plural after a number: 'dos bancos'\n\nExam tip: Underline the position word in a text (cerca, lejos, enfrente, al lado, entre) before you read the answer options, because wrong answers usually swap one of these words.",
+  "flashcards": [
+   {
+    "front": "la biblioteca / la librería",
+    "back": "library / bookshop. Do not mix them up: 'biblioteca' is where you borrow books."
+   },
+   {
+    "front": "hay",
+    "back": "there is / there are. It never changes and is used to say something exists: 'Hay un parque en mi barrio.'"
+   },
+   {
+    "front": "estar for location",
+    "back": "El banco está en la calle Mayor. Use 'está / están' to say where a known place is."
+   },
+   {
+    "front": "cerca de / lejos de",
+    "back": "near to / far from. 'Mi casa está cerca del parque.'"
+   },
+   {
+    "front": "al lado de / enfrente de",
+    "back": "next to / opposite. 'La farmacia está al lado del banco, enfrente del cine.'"
+   },
+   {
+    "front": "entre ... y ...",
+    "back": "between ... and ... 'El mercado está entre el museo y la iglesia.'"
+   },
+   {
+    "front": "de + el / a + el",
+    "back": "They join: del and al. 'Cerca del parque', 'Voy al cine'. 'De la' and 'a la' stay separate."
+   },
+   {
+    "front": "la panadería",
+    "back": "the bakery, where you buy bread. Shops often end in -ería: la farmacia is the exception."
+   },
+   {
+    "front": "¿Hay un banco por aquí?",
+    "back": "Is there a bank around here? A polite way to ask whether a place exists nearby."
+   }
+  ]
+ },
+ {
+  "subject": "spanish-ab-initio",
+  "grade": 5,
+  "topic": "Town and Travel",
+  "subTopic": "Asking for and Giving Directions",
+  "questions": [
+   {
+    "content": "What does 'a la derecha' mean?",
+    "options": [
+     "to the right",
+     "to the left",
+     "straight on",
+     "at the corner"
+    ],
+    "answer": 0,
+    "explanation": "'Derecha' is right and 'izquierda' is left. 'Todo recto' is straight on.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'todo recto' mean?",
+    "options": [
+     "turn round",
+     "on the left",
+     "at the end",
+     "straight on"
+    ],
+    "answer": 3,
+    "explanation": "'Todo recto' means straight on. It is used with verbs like 'sigue' (go on).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'a la izquierda' mean?",
+    "options": [
+     "to the right",
+     "behind",
+     "to the left",
+     "in front"
+    ],
+    "answer": 2,
+    "explanation": "'A la izquierda' means to the left. Do not confuse it with 'derecha' (right).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is 'la esquina' in English?",
+    "options": [
+     "the street",
+     "the corner",
+     "the bridge",
+     "the lift"
+    ],
+    "answer": 1,
+    "explanation": "'La esquina' is the corner of a street. 'El puente' is the bridge.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does '¿Dónde está el banco?' mean?",
+    "options": [
+     "Where is the bank?",
+     "When does the bank open?",
+     "How much is the bank?",
+     "Who is at the bank?"
+    ],
+    "answer": 0,
+    "explanation": "'Dónde' means where. It is the key question word for asking about locations.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Read the directions.\n\n'Sigue todo recto y toma la segunda calle a la izquierda. El cine está a la derecha.'\n\nWhere is the cinema?",
+    "options": [
+     "On the left, in the first street",
+     "Straight on, at the end of the road",
+     "On the right, in the first street on the right",
+     "On the right, in the second street on the left"
+    ],
+    "answer": 3,
+    "explanation": "First go straight on, then take the second street on the left. Once in that street, the cinema is on the right.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A stranger in the street says: 'Gire a la derecha.' How is the stranger speaking to you?",
+    "options": [
+     "Informally, using tú",
+     "To a group of friends",
+     "Formally, using usted",
+     "As if giving a command to a child"
+    ],
+    "answer": 2,
+    "explanation": "'Gire' is the formal (usted) command. The informal (tú) form is 'gira'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "You stop an adult stranger. Which question is the most suitable?",
+    "options": [
+     "¿Cómo eres la estación?",
+     "Perdone, ¿cómo se va a la estación?",
+     "Perdone, ¿cuándo es la estación?",
+     "¿Quién está la estación, tío?"
+    ],
+    "answer": 1,
+    "explanation": "'Perdone' is the polite way to get attention and '¿Cómo se va a...?' asks how to get to a place. The other questions use the wrong question words or are too casual.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 'Cruza el puente' tell you to do?",
+    "options": [
+     "Cross the bridge",
+     "Cross the road at the lights",
+     "Walk round the roundabout",
+     "Walk under the bridge"
+    ],
+    "answer": 0,
+    "explanation": "'Cruzar' means to cross, and 'el puente' is the bridge.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "You hear: 'Gira a la izquierda en el semáforo.' Where do you turn left?",
+    "options": [
+     "At the roundabout",
+     "At the corner",
+     "At the station",
+     "At the traffic lights"
+    ],
+    "answer": 3,
+    "explanation": "'El semáforo' means the traffic lights. A roundabout is 'la rotonda'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read the directions.\n\n'Estás en la plaza. Toma la calle Mayor, sigue todo recto hasta la rotonda y el museo está enfrente.'\n\nWhere is the museum?",
+    "options": [
+     "In the square, next to the street",
+     "On the left of the street",
+     "Opposite you when you reach the roundabout",
+     "Before the roundabout"
+    ],
+    "answer": 2,
+    "explanation": "'Hasta la rotonda' means as far as the roundabout, and 'enfrente' means opposite (straight ahead).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript:\n\n'Para ir a la biblioteca, sal del colegio y gira a la derecha. Sigue unos doscientos metros. La biblioteca está en la esquina, al lado de la panadería.'\n\nWhat do we learn about the library?",
+    "options": [
+     "It is about 20 metres away, opposite the bakery",
+     "It is about 200 metres away, on the corner next to the bakery",
+     "It is about 200 metres away, behind the school",
+     "It is on the left, next to the school"
+    ],
+    "answer": 1,
+    "explanation": "The distance is 'doscientos metros' (200 m), and the library is 'en la esquina, al lado de la panadería'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which phrase means 'the third street on the right'?",
+    "options": [
+     "la tercera calle a la derecha",
+     "la tercer calle a la derecha",
+     "la tercera calle a la izquierda",
+     "la segunda calle a la derecha"
+    ],
+    "answer": 0,
+    "explanation": "'Calle' is feminine, so the ordinal must be 'tercera'. 'Tercer' is only used before a masculine singular noun, as in 'el tercer piso'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read the directions.\n\n'Sal del hotel. Gira a la izquierda. Cruza la calle. Toma la primera calle a la derecha. La farmacia está al final, a mano izquierda.'\n\nWhat do you do straight after crossing the street?",
+    "options": [
+     "Turn left again",
+     "Go to the end of the street",
+     "Go into the chemist's",
+     "Take the first street on the right"
+    ],
+    "answer": 3,
+    "explanation": "The actions are in order: leave, turn left, cross, then take the first street on the right. The chemist's is only at the end of that street.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence contains a mistake?",
+    "options": [
+     "Sigue todo recto hasta la esquina.",
+     "Cruza la plaza.",
+     "Gira a la izquierdo en el semáforo.",
+     "Toma la segunda calle a la derecha."
+    ],
+    "answer": 2,
+    "explanation": "'Izquierda' ends in -a and does not change. The phrase is 'a la izquierda', never 'a la izquierdo'.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Marta replies to a friend who has just arrived at the station.\n\n'Sal por la puerta principal, cruza la plaza y gira a la izquierda. Mi casa está en el número 12, enfrente de la farmacia.'\n\nWhich description is correct?",
+    "options": [
+     "Leave the station, turn left, cross the square; number 12 is next to the chemist's",
+     "Leave the station, cross the square, turn left; number 12 is opposite the chemist's",
+     "Leave the station, cross the square, turn right; number 12 is opposite the chemist's",
+     "Leave the station, cross the square, turn left; number 12 is behind the chemist's"
+    ],
+    "answer": 1,
+    "explanation": "The order is: main door, cross the square, then turn left. 'Enfrente de' means opposite, not next to or behind.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence says 'Turn right at the roundabout and go straight on'?",
+    "options": [
+     "Gira a la derecha en la rotonda y sigue todo recto.",
+     "Gira a la izquierda en la rotonda y sigue todo recto.",
+     "Gira a la derecha en el semáforo y sigue todo recto.",
+     "Gira a la derecha en la rotonda y cruza el puente."
+    ],
+    "answer": 0,
+    "explanation": "Only the first option has the correct direction (derecha), the correct place (rotonda) and the correct second instruction (sigue todo recto).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Listening transcript:\n\n'Perdona, ¿hay un supermercado por aquí? —Sí, hay uno bastante cerca. Está a cinco minutos andando. Toma esta calle, cruza el puente y está a la izquierda, al lado del banco.'\n\nWhich summary is correct?",
+    "options": [
+     "It is five minutes by bus: it is on the right next to the bank",
+     "It is a five-minute walk: it is on the right before the bridge",
+     "It is far away: you need to take a bus past the bank",
+     "It is a five-minute walk: cross the bridge and it is on the left next to the bank"
+    ],
+    "answer": 3,
+    "explanation": "'Andando' means on foot. The directions are: this street, cross the bridge, then it is on the left next to the bank.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why this matters\nAsking for and giving directions is a classic task in beginner Spanish exams. You might read a message from a friend who is lost, listen to someone explaining the way to the station, or write directions to your school. Directions use a small set of words, so they are very learnable.\n\n## Asking the way\n- Perdone, ¿dónde está el banco? (Excuse me, where is the bank?)\n- ¿Cómo se va a la estación? (How do you get to the station?)\n- ¿Para ir al museo? (How do I get to the museum?)\n- ¿Hay una farmacia por aquí? (Is there a chemist's around here?)\n- ¿Está lejos? (Is it far?)\n\nUse 'perdone' with adults you do not know and 'perdona' with people your age.\n\n## Direction words\n- a la derecha (to the right)\n- a la izquierda (to the left)\n- todo recto (straight on)\n- al final de la calle (at the end of the street)\n- en la esquina (on the corner)\n- en el semáforo (at the traffic lights)\n- en la rotonda (at the roundabout)\n- el puente (the bridge)\n- la primera / segunda / tercera calle (the first / second / third street)\n- a cien metros (a hundred metres away)\n- a cinco minutos andando (five minutes on foot)\n\nOrdinals agree with the noun: 'la primera calle' but 'el primer edificio'. Note that 'primero' and 'tercero' lose the final -o before a masculine singular noun.\n\n## Giving instructions\nInformal (tú), used with friends:\n- Sigue todo recto. (Go straight on.)\n- Gira a la derecha. (Turn right.)\n- Cruza la plaza. (Cross the square.)\n- Toma la segunda calle. (Take the second street.)\n\nFormal (usted), used with strangers and adults:\n- Siga todo recto.\n- Gire a la derecha.\n- Cruce la plaza.\n- Tome la segunda calle.\n\nThe tú form looks like the 'he/she' present tense (sigue, gira, cruza, toma). The usted form ends in -e (gire, cruce, tome) except for 'seguir', which becomes 'siga'.\n\n## Worked example\nRead: 'Sal del colegio, gira a la izquierda y sigue todo recto hasta el semáforo. Cruza la calle y el parque está enfrente.'\nSteps: 1 leave the school, 2 turn left, 3 straight on to the traffic lights, 4 cross the road. The park is opposite. If the question asks 'What do you do at the traffic lights?', the answer is 'cross the street'.\n\n## How this is examined\nTexts usually contain three or four instructions in a row, and questions test whether you can keep them in order and decide where the place ends up. Distractors swap left and right, or first and second. In listening transcripts, numbers (metros, minutos) and landmarks (puente, esquina) are often the key detail. In writing you may be asked to give directions from school to a shop in two or three sentences.\n\n## Common mistakes\n- Confusing derecha (right) and izquierda (left)\n- Writing 'izquierdo' instead of 'izquierda' after 'a la'\n- Using tú commands with a stranger\n- Using 'hay' instead of 'está' when you ask where a known place is\n\nExam tip: Draw a quick sketch with arrows while you read or listen to directions. Doing this takes ten seconds and makes it much harder to mix up left, right and the order of the streets.",
+  "flashcards": [
+   {
+    "front": "a la derecha / a la izquierda",
+    "back": "to the right / to the left. 'Gira a la derecha' = Turn right. Never write 'izquierdo' here."
+   },
+   {
+    "front": "todo recto",
+    "back": "straight on. 'Sigue todo recto hasta la esquina.' = Go straight on to the corner."
+   },
+   {
+    "front": "¿Cómo se va a...?",
+    "back": "How do you get to...? '¿Cómo se va a la estación?' = How do I get to the station?"
+   },
+   {
+    "front": "Perdone / Perdona",
+    "back": "Excuse me. 'Perdone' is formal (usted); 'perdona' is informal (tú)."
+   },
+   {
+    "front": "Gira / Gire",
+    "back": "Turn. 'Gira' is informal (tú); 'gire' is formal (usted)."
+   },
+   {
+    "front": "Sigue / Siga",
+    "back": "Go on / Carry on. 'Sigue' is informal; 'siga' is formal. Both come from 'seguir'."
+   },
+   {
+    "front": "el semáforo / la rotonda",
+    "back": "the traffic lights / the roundabout. 'Gira a la izquierda en el semáforo.'"
+   },
+   {
+    "front": "la tercera calle",
+    "back": "the third street. Ordinals agree with the noun: la primera, la segunda, la tercera calle."
+   },
+   {
+    "front": "a cinco minutos andando",
+    "back": "five minutes away on foot. 'Andando' or 'a pie' means walking."
+   }
+  ]
+ },
+ {
+  "subject": "spanish-ab-initio",
+  "grade": 5,
+  "topic": "Town and Travel",
+  "subTopic": "Transport and Holidays",
+  "questions": [
+   {
+    "content": "What does 'el aeropuerto' mean?",
+    "options": [
+     "the harbour",
+     "the bus station",
+     "the airport",
+     "the aeroplane"
+    ],
+    "answer": 2,
+    "explanation": "'El aeropuerto' is the airport. The aircraft itself is 'el avión'.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'a pie' mean in 'Voy al colegio a pie'?",
+    "options": [
+     "by bus",
+     "on foot",
+     "by bike",
+     "by car"
+    ],
+    "answer": 1,
+    "explanation": "'A pie' means on foot. With vehicles we use 'en': 'en autobús', 'en coche'.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is 'un billete de ida y vuelta'?",
+    "options": [
+     "a return ticket",
+     "a single ticket",
+     "a platform ticket",
+     "a plane"
+    ],
+    "answer": 0,
+    "explanation": "'Ida' is the outward journey and 'vuelta' is the return. 'Ida y vuelta' means both.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'la playa' mean?",
+    "options": [
+     "the square",
+     "the mountain",
+     "the plane",
+     "the beach"
+    ],
+    "answer": 3,
+    "explanation": "'La playa' is the beach. 'La montaña' is the mountain.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'Voy en tren' mean?",
+    "options": [
+     "I go to the train.",
+     "I have a train.",
+     "I go by train.",
+     "I am on foot."
+    ],
+    "answer": 2,
+    "explanation": "'Voy' is 'I go' and 'en tren' means by train.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Complete the sentence: 'Mi hermana va al colegio ___ bicicleta.'",
+    "options": [
+     "a",
+     "en",
+     "por",
+     "de"
+    ],
+    "answer": 1,
+    "explanation": "With means of transport we use 'en' (en bicicleta, en tren). The exception is 'a pie' for walking.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read the timetable.\n\n'Tren Madrid–Toledo: salida 9:15, llegada 10:00. Andén 3.'\n\nHow long is the journey?",
+    "options": [
+     "45 minutes",
+     "15 minutes",
+     "1 hour 15 minutes",
+     "1 hour"
+    ],
+    "answer": 0,
+    "explanation": "From 9:15 to 10:00 is 45 minutes. 'Salida' is departure, 'llegada' is arrival and 'andén' is platform.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 'Este verano voy a visitar Barcelona' mean?",
+    "options": [
+     "Last summer I visited Barcelona.",
+     "This summer I am visiting Barcelona every day.",
+     "This summer I like Barcelona.",
+     "This summer I am going to visit Barcelona."
+    ],
+    "answer": 3,
+    "explanation": "'Ir a + infinitive' expresses a future plan. 'Este verano' means this summer.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Complete the sentence: 'Nosotros ___ de vacaciones a la playa.'",
+    "options": [
+     "van",
+     "voy",
+     "vamos",
+     "vas"
+    ],
+    "answer": 2,
+    "explanation": "'Ir' in the present tense: yo voy, tú vas, él va, nosotros vamos, ellos van. The subject 'nosotros' needs 'vamos'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read the postcard.\n\n'¡Hola, Sara! Estoy de vacaciones en la costa. Hace sol y tomo el sol en la playa. Me quedo en un hotel pequeño. ¡Es genial! Un beso, Tomás.'\n\nWhere is Tomás staying?",
+    "options": [
+     "In a campsite",
+     "In a small hotel",
+     "With his family at home",
+     "In a big apartment"
+    ],
+    "answer": 1,
+    "explanation": "'Me quedo en un hotel pequeño' means I am staying in a small hotel.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript:\n\n'Atención, pasajeros del vuelo 305 a Sevilla: la salida es por la puerta 12. El avión sale con diez minutos de retraso.' ('Un retraso' means a delay.)\n\nWhat is the announcement about?",
+    "options": [
+     "Flight 305 to Seville leaves from gate 12, ten minutes late",
+     "Flight 305 from Seville arrives at gate 12 early",
+     "Flight 312 to Seville leaves ten minutes early",
+     "Flight 305 to Seville is cancelled"
+    ],
+    "answer": 0,
+    "explanation": "The announcement gives the flight number (305), destination (Sevilla), gate (puerta 12) and a ten-minute delay.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence says 'I prefer travelling by plane because it is fast'?",
+    "options": [
+     "Prefiero viajar a avión porque es rápido.",
+     "Prefiero viajar en avión porque son rápido.",
+     "Prefiero viajar en avión porque está rápido.",
+     "Prefiero viajar en avión porque es rápido."
+    ],
+    "answer": 3,
+    "explanation": "We use 'en' with transport, and 'es rápido' describes a characteristic of the plane. 'Está rápido' would describe a temporary state.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 'Hago camping en agosto' mean?",
+    "options": [
+     "I make a tent in August.",
+     "I go to a campsite shop in August.",
+     "I go camping in August.",
+     "I stay at a hotel in August."
+    ],
+    "answer": 2,
+    "explanation": "'Hacer camping' means to go camping. 'Agosto' is August.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read the text.\n\n'Este año mis padres y yo vamos a pasar dos semanas en Galicia. Vamos en coche porque el viaje es largo pero barato. Nos quedamos en un camping cerca del mar. Mi hermano prefiere la montaña, pero yo prefiero la playa.'\n\nWhich statement is true?",
+    "options": [
+     "They travel by train and stay at a hotel in the mountains.",
+     "They travel by car and stay at a campsite near the sea.",
+     "They travel by car and stay in a hotel near the beach.",
+     "They travel by plane and stay at a campsite."
+    ],
+    "answer": 1,
+    "explanation": "'En coche' is by car and 'un camping cerca del mar' is a campsite near the sea. Only the writer's brother prefers the mountains.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence is correct?",
+    "options": [
+     "Mis amigos van a la playa en autobús.",
+     "Mis amigos vamos a la playa en autobús.",
+     "Mis amigos va a la playa en autobús.",
+     "Mis amigos voy a la playa en autobús."
+    ],
+    "answer": 0,
+    "explanation": "The plural subject 'mis amigos' needs 'van'. 'Vamos' goes with 'nosotros'.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Read the price list.\n\n'Billete de ida: 14 €. Billete de ida y vuelta: 24 €.'\n\nAna needs to go and come back. How much does she save by buying one return ticket instead of two single tickets?",
+    "options": [
+     "10 euros",
+     "14 euros",
+     "6 euros",
+     "4 euros"
+    ],
+    "answer": 3,
+    "explanation": "Two single tickets cost 2 × 14 = 28 euros. The return costs 24 euros, so she saves 28 − 24 = 4 euros.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence says 'Last year I went to Mexico by plane'?",
+    "options": [
+     "El año pasado voy a México en avión.",
+     "El año pasado fue a México en avión.",
+     "El año pasado fui a México en avión.",
+     "El año pasado fui a México a avión."
+    ],
+    "answer": 2,
+    "explanation": "'Fui' is 'I went' (past of 'ir'). 'Fue' is the he/she form, and 'voy' is present. Transport takes 'en'.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Listening transcript:\n\n'Este verano no vamos a ir al extranjero. Vamos a visitar a mis abuelos en un pueblo de la montaña. Allí no hay playa, pero hay un río y podemos nadar. Vamos en tren y después en autobús.'\n\nWhich statement is correct?",
+    "options": [
+     "They will fly abroad to a village with a beach.",
+     "They will take a train and then a bus to a mountain village where they can swim in a river.",
+     "They will take a bus and then a train to a village with a beach.",
+     "They will stay at home and swim in the pool."
+    ],
+    "answer": 1,
+    "explanation": "'No vamos a ir al extranjero' means they are not going abroad. The village has a river, not a beach, and they travel by train then bus.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why this matters\nHolidays and travel appear in nearly every set of beginner Spanish materials. Typical tasks include reading a postcard, understanding a travel announcement, working out a timetable and writing about where you went or where you are going. This topic combines vocabulary with the verb 'ir' (to go).\n\n## Transport\n- el autobús (bus)\n- el tren (train)\n- el metro (underground)\n- el coche (car)\n- la bicicleta / la bici (bicycle)\n- el avión (plane)\n- el barco (boat, ship)\n- a pie (on foot)\n\nSay how you travel with 'en': voy en tren, vamos en coche. The only exception is walking: voy a pie.\n\n## Stations and airports\n- la estación (station)\n- el aeropuerto (airport)\n- el andén (platform)\n- la salida / la llegada (departure / arrival)\n- un billete de ida (single ticket)\n- un billete de ida y vuelta (return ticket)\n- el vuelo (flight)\n- la puerta (gate)\n- un retraso (a delay)\n\n## Holiday vocabulary\n- las vacaciones (holidays)\n- la playa (beach) / la montaña (mountain) / el campo (countryside)\n- el hotel / el camping (campsite)\n- tomar el sol (to sunbathe)\n- hacer camping (to go camping)\n- visitar museos (to visit museums)\n- quedarse (to stay): me quedo, nos quedamos\n\n## The verb ir\n- yo voy\n- tú vas\n- él / ella va\n- nosotros vamos\n- vosotros vais\n- ellos / ellas van\n\nWe say 'voy a la playa' (a + la) and 'voy al parque' (a + el = al).\n\n## Talking about the future\nUse ir + a + infinitive for plans: 'Voy a visitar Madrid' (I am going to visit Madrid), 'Vamos a hacer camping' (we are going to go camping). Time words help: este verano, el año que viene, mañana.\n\n## Talking about the past\nYou only need a few useful past forms at this level: 'fui' (I went), 'fue' (he/she went) and 'fuimos' (we went). Time words such as 'el año pasado' (last year) signal the past: 'El año pasado fui a México en avión.'\n\n## How this is examined\nReading texts are often postcards, timetables, tickets or adverts. Questions ask for times, prices, destinations and the means of transport. Distractors usually change one detail, such as train for bus or single for return. In listening transcripts, announcements give a flight, a gate and a time; focus on numbers. In writing, you might describe your last holiday or your plans: where, with whom, how you travel and what you do.\n\n## Common mistakes\n- Using 'a' for transport instead of 'en'\n- Using 'va' with 'nosotros' instead of 'vamos'\n- Forgetting 'a' in 'voy a visitar'\n- Mixing up salida and llegada\n\nExam tip: When a question includes arithmetic, such as ticket prices or journey times, write the numbers from the text first, then calculate. Do not trust a first glance at the options.",
+  "flashcards": [
+   {
+    "front": "ir: voy, vas, va, vamos, vais, van",
+    "back": "The present tense of 'ir' (to go) is irregular. 'Nosotros vamos a la playa.'"
+   },
+   {
+    "front": "en autobús / en tren / en coche",
+    "back": "by bus / by train / by car. Transport takes 'en'. Walking is the exception: 'a pie'."
+   },
+   {
+    "front": "un billete de ida y vuelta",
+    "back": "a return ticket. 'Un billete de ida' is a single ticket."
+   },
+   {
+    "front": "la salida / la llegada",
+    "back": "departure / arrival. Timetables list both: 'salida 9:15, llegada 10:00'."
+   },
+   {
+    "front": "el andén",
+    "back": "the platform at a station. 'El tren sale del andén 3.'"
+   },
+   {
+    "front": "voy a + infinitive",
+    "back": "I am going to... A near-future plan: 'Voy a visitar a mis abuelos.'"
+   },
+   {
+    "front": "tomar el sol",
+    "back": "to sunbathe (literally to take the sun). 'Tomo el sol en la playa.'"
+   },
+   {
+    "front": "fui a...",
+    "back": "I went to... Past of 'ir': 'El año pasado fui a México.' Fue = he/she went; fuimos = we went."
+   },
+   {
+    "front": "quedarse en un hotel",
+    "back": "to stay in a hotel. 'Me quedo en un hotel pequeño.' = I am staying in a small hotel."
+   }
+  ]
+ }
+]

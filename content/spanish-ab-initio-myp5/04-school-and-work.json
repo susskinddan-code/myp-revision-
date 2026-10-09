@@ -1,118 +1,791 @@
 [
-  {
-    "subject": "spanish-ab-initio",
-    "grade": 5,
-    "topic": "School and Work",
-    "subTopic": "School Subjects and Objects",
-    "questions": [
-      {"content": "What does the Spanish word 'la regla' mean in a school context?", "options": ["eraser", "pencil case", "ruler", "calculator"], "answer": 2, "explanation": "La regla is a ruler. The eraser is la goma, the pencil case is el estuche and the calculator is la calculadora.", "difficulty": "easy"},
-      {"content": "Which English word matches 'el cuaderno'?", "options": ["notebook", "pen", "backpack", "timetable"], "answer": 0, "explanation": "El cuaderno is a notebook. A pen is el bolígrafo, a backpack is la mochila and a timetable is el horario.", "difficulty": "easy"},
-      {"content": "Which school subject is 'la educación física'?", "options": ["Geography", "Music", "Maths", "Physical Education (PE)"], "answer": 3, "explanation": "La educación física is PE. Remember that física with an accent also appears in la física (physics), so read the full phrase.", "difficulty": "easy"},
-      {"content": "Choose the correct word to complete the sentence: Me ____ las matemáticas.", "options": ["gusta", "gustan", "gusto", "gustas"], "answer": 1, "explanation": "Las matemáticas is plural, so you need gustan. Use gusta only with singular nouns (Me gusta la música).", "difficulty": "easy"},
-      {"content": "What do you carry your books and notebooks in? Choose the Spanish word.", "options": ["la mochila", "el estuche", "la regla", "la pizarra"], "answer": 0, "explanation": "La mochila is a backpack. El estuche is a pencil case and la pizarra is the board.", "difficulty": "easy"},
-      {"content": "Read Lucas's timetable.\nLunes: 9:00 matemáticas, 10:00 inglés, 11:00 recreo, 11:30 historia, 12:30 arte.\nWhich lesson does Lucas have straight after break on Monday?", "options": ["inglés", "arte", "matemáticas", "historia"], "answer": 3, "explanation": "The break (recreo) is at 11:00 and the next entry, at 11:30, is historia. Arte comes later at 12:30.", "difficulty": "medium"},
-      {"content": "Read the message.\n'Hola Lucía, mañana necesito un bolígrafo, una regla y mi calculadora para matemáticas. ¿Tienes una calculadora?'\nWhich object is NOT mentioned in the message?", "options": ["a pen", "a ruler", "a calculator", "a dictionary"], "answer": 3, "explanation": "The message names un bolígrafo (pen), una regla (ruler) and una calculadora (calculator). There is no mention of un diccionario.", "difficulty": "medium"},
-      {"content": "Choose the correct article: ____ geografía es interesante.", "options": ["El", "Los", "La", "Las"], "answer": 2, "explanation": "Geografía ends in -a and is feminine singular, so it takes la. Las would be needed for a plural noun such as las ciencias.", "difficulty": "medium"},
-      {"content": "Read the sentence: 'Me encanta la música porque es divertida.'\nWhy does the speaker like music?", "options": ["It is easy.", "It is fun.", "It is useful.", "It is difficult."], "answer": 1, "explanation": "Divertida means fun. Fácil is easy, útil is useful and difícil is difficult.", "difficulty": "medium"},
-      {"content": "Which sentence correctly says 'I don't like science because it is boring'?", "options": ["No me gustan las ciencias porque son aburridas.", "No me gusta las ciencias porque es aburridas.", "Me no gusta las ciencias porque son aburrido.", "No gusto las ciencias porque son aburridas."], "answer": 0, "explanation": "Las ciencias is plural, so you need gustan, son and the feminine plural aburridas. The 'no' goes before me gustan.", "difficulty": "medium"},
-      {"content": "What is the correct plural of 'el lápiz' (the pencil)?", "options": ["los lápizes", "los lápices", "las lápices", "los lápiz"], "answer": 1, "explanation": "Words ending in -z change z to c before adding -es, and lápiz stays masculine: los lápices. The accent stays on the first a.", "difficulty": "medium"},
-      {"content": "Read the sign in a school.\n'Biblioteca. Silencio, por favor. Abierta de lunes a viernes, de 8:00 a 15:00.'\nWhen is the library open?", "options": ["Every day of the week", "Only at weekends", "Monday to Friday, in the morning and early afternoon", "Monday to Saturday, in the evening"], "answer": 2, "explanation": "De lunes a viernes means Monday to Friday and the hours are 8:00 to 15:00, which is morning and early afternoon.", "difficulty": "medium"},
-      {"content": "Read the text.\n'Mi asignatura favorita es la informática porque el profesor es simpático. No me gusta la educación física porque es muy difícil.'\nWhich statement is true?", "options": ["The writer's favourite subject is IT.", "The writer likes PE.", "The writer thinks IT is difficult.", "The writer's teacher is strict."], "answer": 0, "explanation": "Mi asignatura favorita es la informática means the favourite subject is IT. The writer does not like PE, and simpático means friendly, not strict.", "difficulty": "medium"},
-      {"content": "Listening transcript: 'Buenos días, soy Marcos. Tengo cinco clases hoy: primero matemáticas, después arte y luego inglés. Después del recreo tengo música y educación física. Mi clase favorita es el arte porque me encanta dibujar.'\nWhich statement is correct?", "options": ["He has four classes and his favourite is art.", "He has five classes and his favourite is art.", "He has five classes and his favourite is music.", "He has five classes and PE is before break."], "answer": 1, "explanation": "Marcos says tengo cinco clases and mi clase favorita es el arte. PE comes after the break, and music is not his favourite.", "difficulty": "hard"},
-      {"content": "Choose the correct sentence: 'My teachers (female) are very friendly.'", "options": ["Mis profesoras son muy simpático.", "Mis profesoras son muy simpática.", "Mis profesoras son muy simpáticas.", "Mis profesoras son muy simpáticos."], "answer": 2, "explanation": "Profesoras is feminine plural, so the adjective must be simpáticas. Keep the accent on the á.", "difficulty": "hard"},
-      {"content": "Read the email.\n'Querida Ana: En mi colegio nuevo hay una biblioteca grande. Mi profesor de ciencias se llama señor Ruiz y es muy estricto, pero me gusta porque sus clases son interesantes. Tengo ciencias los martes y los jueves.'\nWhy does the writer like Mr Ruiz's lessons?", "options": ["Because he is very strict, so the class is quiet.", "Because the lessons are interesting, even though he is strict.", "Because the school library is big.", "Because there is science every day."], "answer": 1, "explanation": "The word pero (but) signals contrast: he is strict, but the writer likes the lessons because they are interesting. Science is only on Tuesdays and Thursdays.", "difficulty": "hard"},
-      {"content": "You are asking a friend for equipment. Which sentence says 'I need a ruler and an eraser'?", "options": ["Necesito un regla y una goma.", "Necesito una regla y una goma.", "Necesitas una regla y una goma.", "Necesito una reglas y una goma."], "answer": 1, "explanation": "Regla and goma are both feminine singular, so una is correct for both. Necesitas means 'you need', and una reglas mixes singular and plural.", "difficulty": "hard"},
-      {"content": "A student writes: 'Tengo inglés los martes.' What does this mean?", "options": ["I have English on Tuesdays (every week).", "I have English on one Tuesday only.", "I had English last Tuesday.", "I like English more than Tuesdays."], "answer": 0, "explanation": "Los martes (plural article) means 'on Tuesdays' as a regular habit. El martes means 'on Tuesday' (one particular day).", "difficulty": "hard"},
-      {"content": "Read the opinion.\n'Odio las matemáticas porque son difíciles, pero me gusta la informática porque es útil.'\nWhich pair of reasons is correct?", "options": ["Maths is useful; IT is difficult.", "Maths is boring; IT is fun.", "Maths is difficult; IT is useful.", "Maths is easy; IT is useful."], "answer": 2, "explanation": "Difíciles means difficult (maths) and útil means useful (IT). Odio means I hate, so the first opinion is negative and the second positive.", "difficulty": "hard"}
+ {
+  "subject": "spanish-ab-initio",
+  "grade": 5,
+  "topic": "School and Work",
+  "subTopic": "School Subjects and Objects",
+  "questions": [
+   {
+    "content": "What does the Spanish word 'la regla' mean in a school context?",
+    "options": [
+     "eraser",
+     "pencil case",
+     "ruler",
+     "calculator"
     ],
-    "note": "## School subjects (las asignaturas)\nIn Spanish, school subjects are called las asignaturas or las materias. Most are feminine, and some are plural, so watch the article.\n- las matemáticas (maths) – always plural\n- el inglés (English), el español (Spanish), el francés (French)\n- la historia (history), la geografía (geography)\n- las ciencias (science), la biología (biology), la física (physics), la química (chemistry)\n- la educación física (PE), el arte (art), la música (music), el dibujo (drawing)\n- la informática (IT), la tecnología (technology), el teatro (drama)\n\n## School objects (los objetos de clase)\n- el libro (book), el cuaderno (notebook), el bolígrafo (pen), el lápiz (pencil; plural: los lápices)\n- la regla (ruler), la goma (eraser), el sacapuntas (pencil sharpener), las tijeras (scissors), el pegamento (glue)\n- la mochila (backpack), el estuche (pencil case), la carpeta (folder), la calculadora (calculator)\n- el ordenador (computer), la tableta (tablet), la pizarra (board), el diccionario (dictionary)\n- el profesor / la profesora (teacher), el alumno / la alumna (pupil), el compañero / la compañera (classmate)\n\n## Places and times\n- el colegio / el instituto (school), la clase (class or classroom), la biblioteca (library), el patio (playground), el recreo (break), el horario (timetable)\n- Days of the week are masculine and have no capital letter: lunes, martes, miércoles, jueves, viernes.\n- Los lunes means 'on Mondays' (every week). El lunes means 'on Monday' (one day).\n- To say what lessons you have, use tener: Tengo matemáticas a las nueve. Tengo inglés los martes.\n\n## Giving opinions\n- Me gusta + singular noun: Me gusta la música.\n- Me gustan + plural noun: Me gustan las matemáticas.\n- No me gusta... (I don't like), Me encanta... (I love), Odio... (I hate)\n- Mi asignatura favorita es... (My favourite subject is...)\n- Give a reason with porque + es / son + adjective: fácil (easy), difícil (difficult), aburrido/a (boring), interesante (interesting), divertido/a (fun), útil (useful).\n\nThe adjective agrees with the subject: Me gusta el arte porque es divertido. Me gusta la historia porque es interesante. No me gustan las ciencias porque son aburridas.\n\n## Worked example\nLook at this model answer: 'Mi asignatura favorita es la música porque es divertida. Tengo música los miércoles a las diez. No me gustan las matemáticas porque son difíciles.' It gives an opinion, a reason, a time and a contrast, all in correct Spanish.\n\n## Common mistakes\n- Writing 'Me gusta las matemáticas'. The noun is plural, so use gustan.\n- Forgetting accents: matemáticas, bolígrafo, lápiz, inglés, música, física.\n- Mixing up false friends: la biblioteca is a library, but la librería is a bookshop.\n- Forgetting agreement: la clase es divertida, but el examen es divertido.\n\n## How this is examined\nIn reading tasks you meet a timetable, a school notice or a short email and answer questions about subjects, times and opinions. In listening tasks a student describes their day, and you must pick out which subject is liked, which is disliked and why. In writing tasks you describe your school day or give opinions about subjects with a reason. Marks reward accurate vocabulary, correct agreement and clear reasons using porque.\n\nExam tip: Underline the reason word (porque) and the opinion word (me gusta, odio, me encanta) in every text, because questions often ask WHY someone likes or dislikes a subject.",
-    "flashcards": [
-      {"front": "las matemáticas", "back": "maths (always plural, so: Me gustan las matemáticas)"},
-      {"front": "el cuaderno / el bolígrafo", "back": "the notebook / the pen"},
-      {"front": "la regla / la goma", "back": "the ruler / the eraser"},
-      {"front": "la mochila", "back": "the backpack"},
-      {"front": "How do you say 'My favourite subject is art'?", "back": "Mi asignatura favorita es el arte."},
-      {"front": "Me gusta vs. Me gustan", "back": "Me gusta + singular noun (la música); me gustan + plural noun (las ciencias)."},
-      {"front": "porque es aburrido", "back": "because it is boring (use aburrida with a feminine subject)"},
-      {"front": "el recreo", "back": "break time (playtime)"},
-      {"front": "los lunes vs. el lunes", "back": "los lunes = on Mondays (every week); el lunes = on Monday (one day)"}
-    ]
-  },
-  {
-    "subject": "spanish-ab-initio",
-    "grade": 5,
-    "topic": "School and Work",
-    "subTopic": "Jobs and Workplaces",
-    "questions": [
-      {"content": "What is 'el bombero' in English?", "options": ["firefighter", "police officer", "postman", "waiter"], "answer": 0, "explanation": "El bombero is a firefighter. The police officer is el policía, the postman is el cartero and the waiter is el camarero.", "difficulty": "easy"},
-      {"content": "What does 'Mi padre es médico' mean?", "options": ["My father is a nurse.", "My mother is a doctor.", "My father is a doctor.", "My father has a doctor."], "answer": 2, "explanation": "Mi padre is my father and médico is a doctor. Spanish does not use un before a job after ser.", "difficulty": "easy"},
-      {"content": "Complete the sentence with the best workplace: 'El camarero trabaja en un ____.'", "options": ["hospital", "restaurante", "colegio", "banco"], "answer": 1, "explanation": "A waiter (camarero) works in a restaurante. Doctors work in a hospital and teachers in a colegio.", "difficulty": "easy"},
-      {"content": "'La enfermera' refers to which person?", "options": ["a female nurse", "a male nurse", "a dentist", "a teacher"], "answer": 0, "explanation": "La enfermera is a female nurse (the male nurse is el enfermero). The -a ending and the article la show feminine.", "difficulty": "easy"},
-      {"content": "What is the feminine form of 'el profesor'?", "options": ["la profesor", "la profesora", "la profesoro", "las profesor"], "answer": 1, "explanation": "Many jobs ending in -or add -a for the feminine: el profesor, la profesora. The article also changes to la.", "difficulty": "easy"},
-      {"content": "A man says he is a teacher. Which sentence does he use?", "options": ["Soy profesora.", "Estoy profesor.", "Tengo profesor.", "Soy profesor."], "answer": 3, "explanation": "Jobs use the verb ser: Soy profesor. Profesora is the feminine form, and estar and tener do not express a job.", "difficulty": "medium"},
-      {"content": "Read the advert.\n'Se busca camarero. Restaurante La Plaza. Trabajo de viernes a domingo, de 18:00 a 23:00. Tel: 600 123 456.'\nWhen would the person work?", "options": ["Friday to Sunday evenings", "Monday to Friday mornings", "Every day at lunchtime", "Weekends in the morning"], "answer": 0, "explanation": "De viernes a domingo is Friday to Sunday and 18:00 to 23:00 is the evening. Se busca means 'wanted'.", "difficulty": "medium"},
-      {"content": "'Trabaja en un hospital y ayuda a los enfermos.' Who is being described?", "options": ["una jardinera", "una peluquera", "una dependienta", "una doctora"], "answer": 3, "explanation": "A person who works in a hospital and helps sick people (los enfermos) is a doctor, una doctora. The other jobs are gardener, hairdresser and shop assistant.", "difficulty": "medium"},
-      {"content": "What is the feminine form of 'el dentista'?", "options": ["la dentisa", "la dentisto", "la dentista", "las dentista"], "answer": 2, "explanation": "Jobs ending in -ista keep the same form for both genders. Only the article changes: el dentista, la dentista.", "difficulty": "medium"},
-      {"content": "Read the text.\n'Mi tía Carmen es peluquera. Trabaja en una peluquería en el centro. Le gusta su trabajo porque habla con mucha gente.'\nWhy does Carmen like her job?", "options": ["She earns a lot of money.", "She works in the evening.", "She works from home.", "She talks to many people."], "answer": 3, "explanation": "Porque habla con mucha gente means because she talks with many people. There is no mention of money or of working at home.", "difficulty": "medium"},
-      {"content": "Which question asks 'Where do you work?'", "options": ["¿Cuándo trabajas?", "¿Dónde trabajas?", "¿Qué trabajas?", "¿Quién trabajas?"], "answer": 1, "explanation": "Dónde means where. Cuándo means when, qué means what and quién means who.", "difficulty": "medium"},
-      {"content": "Complete the sentence: 'Mi hermano ____ en una oficina.'", "options": ["trabajo", "trabajas", "trabaja", "trabajan"], "answer": 2, "explanation": "Mi hermano is he/she, so the verb ends in -a: trabaja. Trabajo is I, trabajas is you and trabajan is they.", "difficulty": "medium"},
-      {"content": "A girl says: 'Quiero ser veterinaria porque me encantan los animales.' Which statement is true?", "options": ["She wants to be a vet because she loves animals.", "She is already a vet.", "She does not like animals.", "Her mother is a vet."], "answer": 0, "explanation": "Quiero ser means I want to be, and me encantan los animales means I love animals. Veterinaria is the feminine form of vet.", "difficulty": "medium"},
-      {"content": "Listening transcript: 'Hola, me llamo Pablo. Mi madre es ingeniera y trabaja en una fábrica. Mi padre es cocinero y trabaja por la noche en un restaurante italiano. Yo quiero ser bombero, pero mi hermana quiere ser periodista.'\nWho works at night, and where?", "options": ["His mother, in a factory", "His sister, in an office", "His father, in a restaurant", "Pablo, in a fire station"], "answer": 2, "explanation": "Mi padre es cocinero y trabaja por la noche en un restaurante italiano. His mother works in a factory but no time is given, and Pablo only wants to be a firefighter.", "difficulty": "hard"},
-      {"content": "Which sentence is grammatically correct?", "options": ["Las enfermeras trabajan en el hospital.", "Las enfermero trabajan en el hospital.", "Los enfermeras trabajan en el hospital.", "Las enfermeras trabaja en el hospital."], "answer": 0, "explanation": "Article, noun and verb must all agree: las (feminine plural), enfermeras (feminine plural) and trabajan (they).", "difficulty": "hard"},
-      {"content": "Read the advert.\n'Se necesita dependienta para tienda de ropa. Buen salario. Horario: lunes a sábado, de 10:00 a 14:00. Con experiencia.'\nWhich statement matches the advert?", "options": ["The shop needs a cook to work in the evenings.", "The shop needs a female assistant for Monday to Saturday mornings, with experience.", "The shop needs a male driver for weekends.", "The shop needs a hairdresser with no experience."], "answer": 1, "explanation": "Dependienta is a female shop assistant, the hours 10:00 to 14:00 are morning hours, and con experiencia means with experience.", "difficulty": "hard"},
-      {"content": "Which sentence correctly says 'My sister is a lawyer and works in an office'?", "options": ["Mi hermana es abogado y trabaja en una oficina.", "Mi hermana está abogada y trabaja en una oficina.", "Mi hermana es abogada y trabajan en una oficina.", "Mi hermana es abogada y trabaja en una oficina."], "answer": 3, "explanation": "Use ser for a job, the feminine abogada for a woman, and trabaja for she works. The other options have the wrong gender, the wrong verb or the wrong person.", "difficulty": "hard"},
-      {"content": "Read the dialogue.\n'—¿En qué trabaja tu madre? —Es dentista, pero trabaja desde casa los lunes.'\nWhat is true about the mother?", "options": ["She is a dentist and works from home on Mondays.", "She is a dentist and works only at home.", "She is a nurse and works on Mondays.", "She is a dentist and never works on Mondays."], "answer": 0, "explanation": "Es dentista means she is a dentist, and trabaja desde casa los lunes means she works from home on Mondays (only then). Pero marks the contrast with her usual workplace.", "difficulty": "hard"},
-      {"content": "A boy says he wants to be a male nurse when he grows up. Which sentence is correct?", "options": ["De mayor quiero estar enfermero.", "De mayor quiero ser enfermera.", "De mayor quiero ser enfermero.", "De mayor quiero tener enfermero."], "answer": 2, "explanation": "Use querer + ser for a future job, and the masculine enfermero for a boy. Enfermera would be feminine, and estar or tener cannot express a job.", "difficulty": "hard"}
+    "answer": 2,
+    "explanation": "La regla is a ruler. The eraser is la goma, the pencil case is el estuche and the calculator is la calculadora.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which English word matches 'el cuaderno'?",
+    "options": [
+     "notebook",
+     "pen",
+     "backpack",
+     "timetable"
     ],
-    "note": "## Jobs (las profesiones)\nIn Spanish, most jobs have a masculine and a feminine form. Learn them in pairs.\n- el médico / la médica (doctor), el enfermero / la enfermera (nurse)\n- el profesor / la profesora (teacher), el camarero / la camarera (waiter)\n- el cocinero / la cocinera (cook), el abogado / la abogada (lawyer)\n- el ingeniero / la ingeniera (engineer), el dependiente / la dependienta (shop assistant)\n- el peluquero / la peluquera (hairdresser), el cartero / la cartera (postman / postwoman)\n- el bombero / la bombera (firefighter), el mecánico / la mecánica (mechanic)\n- el policía / la policía, el dentista / la dentista, el periodista / la periodista (same form for both genders)\n\n## Workplaces (los lugares de trabajo)\n- el hospital (hospital), el colegio (school), el restaurante (restaurant), la oficina (office)\n- la tienda (shop), la fábrica (factory), la comisaría (police station), el taller (garage)\n- la peluquería (hairdresser's), el banco (bank), la granja (farm), el parque de bomberos (fire station)\n\n## Saying what someone does\nWith jobs use ser, and do not use un or una:\n- Mi padre es médico. (My father is a doctor.)\n- Soy estudiante. (I am a student.)\n- Mi tía es peluquera. (My aunt is a hairdresser.)\n\nTo say where someone works use trabajar en:\n- Trabajo en una tienda. (I work in a shop.)\n- Mi madre trabaja en un hospital. (My mother works in a hospital.)\n\nUseful verb forms of trabajar: trabajo (I), trabajas (you), trabaja (he/she), trabajamos (we), trabajan (they).\n\n## Asking questions\n- ¿En qué trabajas? (What do you do for a living?)\n- ¿Dónde trabaja tu padre? (Where does your father work?)\n- ¿Qué quieres ser de mayor? (What do you want to be when you are older?)\nAnswer: De mayor quiero ser veterinaria. (When I am older I want to be a vet.)\n\n## Giving reasons and times\n- porque ayudo a la gente (because I help people)\n- porque me gustan los animales (because I like animals)\n- Trabaja de lunes a viernes. (She works Monday to Friday.)\n- Trabaja por la noche. (He works at night.)\n\n## Common mistakes\n- Saying 'Soy un médico'. In Spanish you normally say Soy médico.\n- Using estar for a job. Use ser: Es dentista, not Está dentista.\n- Forgetting to change the ending for a woman: abogada, not abogado.\n- Mixing trabajo (I work) with el trabajo (the job).\n\n## How this is examined\nReading tasks often show a job advert, a short profile or an email in which someone describes their family's jobs. You may need to match a person to a job or to a workplace, or find the working hours. Listening tasks give a short interview about jobs. In writing you describe your family's jobs or your dream career, using ser, trabajar en and querer ser with a reason.\n\nExam tip: When a text mentions a person, check the gender endings (-o / -a), because they tell you whether the text is about a man or a woman and can help you choose the right answer.",
-    "flashcards": [
-      {"front": "el médico / la médica", "back": "the doctor (male / female)"},
-      {"front": "el camarero / la camarera", "back": "the waiter / the waitress"},
-      {"front": "el policía, el dentista, el periodista", "back": "Jobs that keep the same form for men and women: only the article changes (la policía, la dentista)."},
-      {"front": "How do you say 'I am a student'?", "back": "Soy estudiante. (No un/una after ser with a job.)"},
-      {"front": "Mi madre trabaja en un hospital.", "back": "My mother works in a hospital."},
-      {"front": "¿En qué trabajas?", "back": "What do you do for a living? / What is your job?"},
-      {"front": "De mayor quiero ser veterinaria.", "back": "When I am older I want to be a vet."},
-      {"front": "la fábrica / la oficina / la tienda", "back": "the factory / the office / the shop"},
-      {"front": "trabajar: I, he/she, they", "back": "trabajo, trabaja, trabajan"}
-    ]
-  },
-  {
-    "subject": "spanish-ab-initio",
-    "grade": 5,
-    "topic": "School and Work",
-    "subTopic": "Classroom Language and Instructions",
-    "questions": [
-      {"content": "What does the teacher want you to do when she says 'Abre el libro'?", "options": ["Open the book.", "Close the book.", "Read the book aloud.", "Buy a book."], "answer": 0, "explanation": "Abre comes from abrir (to open). Close the book would be Cierra el libro.", "difficulty": "easy"},
-      {"content": "What does 'Silencio, por favor' mean?", "options": ["Hello, please.", "Be quiet, please.", "Sit down, please.", "Come in, please."], "answer": 1, "explanation": "Silencio is silence, so the teacher asks the class to be quiet.", "difficulty": "easy"},
-      {"content": "What do you do when you hear the instruction 'Escucha'?", "options": ["write", "read", "speak", "listen"], "answer": 3, "explanation": "Escucha comes from escuchar (to listen). Escribe is write, lee is read and habla is speak.", "difficulty": "easy"},
-      {"content": "A student asks '¿Puedo ir al baño?' What is the student asking?", "options": ["May I go to the toilet?", "May I go home?", "May I open the window?", "May I have a pen?"], "answer": 0, "explanation": "Puedo ir means 'can I go' and al baño is to the toilet/bathroom.", "difficulty": "easy"},
-      {"content": "Your teacher says 'Gracias.' What do you answer?", "options": ["Lo siento.", "Hasta luego.", "De nada.", "Buenas noches."], "answer": 2, "explanation": "De nada means 'you're welcome', which is the standard reply to gracias. Lo siento means I'm sorry.", "difficulty": "easy"},
-      {"content": "The teacher says: 'Abre tu cuaderno en la página 24 y haz el ejercicio tres.' What must you do?", "options": ["Close your notebook and read page 24.", "Open your notebook at page 24 and do exercise 3.", "Open your book at page 3 and do exercise 24.", "Write your name on page 24 of the book."], "answer": 1, "explanation": "Abre tu cuaderno en la página 24 means open your notebook at page 24, and haz el ejercicio tres means do exercise three.", "difficulty": "medium"},
-      {"content": "You did not hear what the teacher said. Which phrase asks her to say it again?", "options": ["¿Puedo salir, por favor?", "Lo siento, llego tarde.", "¿Puede repetir, por favor?", "¿Cómo te llamas?"], "answer": 2, "explanation": "¿Puede repetir, por favor? means 'Can you repeat, please?' The others ask to leave, apologise for being late or ask someone's name.", "difficulty": "medium"},
-      {"content": "In an exam you read: 'Escoge la respuesta correcta.' What do you have to do?", "options": ["Write the answer in full.", "Copy the question.", "Choose the correct answer.", "Underline the verbs."], "answer": 2, "explanation": "Escoge comes from escoger (to choose), and la respuesta correcta is the correct answer.", "difficulty": "medium"},
-      {"content": "The instruction says: 'Une las palabras con los dibujos.' What is the task?", "options": ["Draw pictures of the words.", "Match the words to the pictures.", "Colour the pictures.", "Write the words in a list."], "answer": 1, "explanation": "Unir means to join or match, so you link each word to its picture.", "difficulty": "medium"},
-      {"content": "Which question asks 'How do you say \"pencil\" in Spanish?'", "options": ["¿Cómo se dice 'pencil' en español?", "¿Cuándo se dice 'pencil' en español?", "¿Dónde se dice 'pencil' en español?", "¿Quién se dice 'pencil' en español?"], "answer": 0, "explanation": "¿Cómo se dice...? asks how to say something. Cuándo is when, dónde is where and quién is who.", "difficulty": "medium"},
-      {"content": "Read the notice.\n'Prohibido usar el móvil en clase. Los móviles están en la mochila.'\nWhere must phones be kept?", "options": ["On the teacher's desk", "In the bag", "In the locker", "In your pocket"], "answer": 1, "explanation": "Los móviles están en la mochila means that the phones are in the backpack. Prohibido usar el móvil means mobile use is forbidden.", "difficulty": "medium"},
-      {"content": "You arrive late to class. Which phrase is most suitable to say to your teacher?", "options": ["Gracias, hasta luego.", "De nada, profesora.", "Lo siento, llego tarde.", "Buenas noches, profesora."], "answer": 2, "explanation": "Lo siento, llego tarde means 'I'm sorry, I'm late'. The other phrases are goodbye, you're welcome and good night, none of which apologise.", "difficulty": "medium"},
-      {"content": "Which pair of instruction and meaning is correct?", "options": ["Siéntate = Stand up", "Levántate = Stand up", "Copia = Listen", "Borra = Read"], "answer": 1, "explanation": "Levántate means stand up. Siéntate means sit down, copia means copy, and borra means rub out or delete.", "difficulty": "medium"},
-      {"content": "Listening transcript: 'Buenos días a todos. Hoy trabajamos en parejas. Primero, lee el texto de la página 40. Después, contesta las preguntas en tu cuaderno. No uses el diccionario. Si tienes una pregunta, levanta la mano.'\nWhat are you told NOT to do?", "options": ["Read page 40.", "Work with a partner.", "Use the dictionary.", "Raise your hand."], "answer": 2, "explanation": "No uses el diccionario means do not use the dictionary. The other three are instructions the teacher gives you to do.", "difficulty": "hard"},
-      {"content": "An exam rubric says: 'Completa las frases con una palabra del recuadro. Hay una palabra extra.' What does the last sentence tell you?", "options": ["You need to add an extra word to each sentence.", "One word in the box is not needed.", "You must write one more sentence.", "Every word in the box is used twice."], "answer": 1, "explanation": "Hay una palabra extra means there is one extra word, so one word in the box will not fit any gap.", "difficulty": "hard"},
-      {"content": "Read the dialogue.\n'Alumno: Perdone, profesora, no entiendo el ejercicio cuatro. Profesora: Lee otra vez la instrucción y mira el ejemplo. Alumno: Vale, gracias.'\nWhat does the teacher tell the student to do?", "options": ["Ask a classmate for help.", "Read the instruction again and look at the example.", "Leave the classroom.", "Do exercise four on the board."], "answer": 1, "explanation": "Lee otra vez la instrucción means read the instruction again, and mira el ejemplo means look at the example. No entiendo means I don't understand.", "difficulty": "hard"},
-      {"content": "You want to know how to spell a word. Which question do you ask?", "options": ["¿Cómo se llama?", "¿Cómo estás?", "¿Cómo se dice?", "¿Cómo se escribe?"], "answer": 3, "explanation": "¿Cómo se escribe? means 'How do you write/spell it?'. ¿Cómo se dice? asks how to say something, and ¿Cómo se llama? asks for a name.", "difficulty": "hard"},
-      {"content": "You are very cold and want the teacher's permission to close the window. Which is the most polite and correct request?", "options": ["Cierro la ventana.", "¿Puedo cerrar la ventana, por favor?", "Cierra la ventana ahora.", "La ventana es cerrada."], "answer": 1, "explanation": "¿Puedo + infinitive, por favor? is the standard polite way to ask permission. The other options are a statement, an order or a wrong structure.", "difficulty": "hard"}
+    "answer": 0,
+    "explanation": "El cuaderno is a notebook. A pen is el bolígrafo, a backpack is la mochila and a timetable is el horario.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which school subject is 'la educación física'?",
+    "options": [
+     "Geography",
+     "Music",
+     "Maths",
+     "Physical Education (PE)"
     ],
-    "note": "## Classroom instructions\nTeachers give instructions using the imperative (the command form). In the singular tú form most commands look like the he/she present tense form, for example abre (open). You need to understand these instructions, and also use polite phrases yourself.\n- Abre el libro / el cuaderno. (Open the book / the notebook.)\n- Cierra el libro. (Close the book.)\n- Escucha. (Listen.) Lee. (Read.) Escribe. (Write.)\n- Mira la pizarra. (Look at the board.)\n- Repite, por favor. (Repeat, please.)\n- Contesta las preguntas. (Answer the questions.)\n- Copia las frases. (Copy the sentences.)\n- Siéntate. (Sit down.) Levántate. (Stand up.)\n- Trabaja con tu compañero / en parejas. (Work with your partner / in pairs.)\n- Haz el ejercicio tres. (Do exercise three.) Haz is an irregular command from hacer.\n- Presta atención. (Pay attention.) Silencio, por favor. (Quiet, please.)\n- Levanta la mano. (Raise your hand.)\n\n## Exam instructions\nThe eAssessment instructions are mostly in the target language, so learn these:\n- Lee el texto. (Read the text.)\n- Escoge la respuesta correcta. (Choose the correct answer.)\n- Completa las frases. (Complete the sentences.)\n- Une las palabras con los dibujos. (Match the words to the pictures.)\n- Marca con una cruz. (Mark with a cross.)\n- Verdadero o falso. (True or false.)\n- Escribe una respuesta de tres frases. (Write an answer of three sentences.)\n- Hay una palabra extra. (There is an extra word.)\n\n## What students say\n- ¿Puedo ir al baño? (May I go to the toilet?)\n- ¿Puedo abrir la ventana, por favor? (May I open the window, please?)\n- ¿Puede repetir, por favor? (Can you repeat, please?)\n- No entiendo. (I don't understand.) / Más despacio, por favor. (More slowly, please.)\n- ¿Cómo se dice 'pencil' en español? (How do you say 'pencil' in Spanish?)\n- ¿Qué significa...? (What does ... mean?) / ¿Cómo se escribe? (How do you spell it?)\n- Tengo una pregunta. (I have a question.)\n- Lo siento, llego tarde. (Sorry, I'm late.)\n- No tengo mi cuaderno. (I don't have my notebook.)\n- Gracias. / De nada. (Thank you. / You're welcome.)\n\n## Be polite\nUse por favor (please) and perdone (excuse me) or perdón. Use ¿Puedo...? followed by an infinitive to ask permission: ¿Puedo salir? (May I leave?).\n\n## Common mistakes\n- Confusing levántate (stand up) with siéntate (sit down).\n- Forgetting that ¿Puedo...? is followed by the infinitive, not a conjugated verb.\n- Using lo siento (I'm sorry) when you mean gracias.\n- Missing the inverted question mark at the start of a question.\n\n## How this is examined\nReading tasks present instructions on a classroom notice, a rubric or a worksheet and ask what you should do. Listening tasks may play a teacher giving instructions, so you must identify what to do and what not to do. In writing you may need to ask for help or explain a problem in a short message, using polite structures.\n\nExam tip: Look for the word no in an instruction (No uses el diccionario). It reverses the meaning completely, and examiners like to test it.",
-    "flashcards": [
-      {"front": "Abre el libro. / Cierra el libro.", "back": "Open the book. / Close the book."},
-      {"front": "Siéntate / Levántate", "back": "Sit down / Stand up"},
-      {"front": "¿Puede repetir, por favor?", "back": "Can you repeat, please?"},
-      {"front": "No entiendo.", "back": "I don't understand."},
-      {"front": "¿Cómo se dice 'ruler' en español?", "back": "How do you say 'ruler' in Spanish?"},
-      {"front": "Escoge la respuesta correcta.", "back": "Choose the correct answer."},
-      {"front": "Une las palabras con los dibujos.", "back": "Match the words to the pictures."},
-      {"front": "Lo siento, llego tarde.", "back": "Sorry, I'm late."},
-      {"front": "¿Puedo ir al baño?", "back": "May I go to the toilet?"}
-    ]
-  }
+    "answer": 3,
+    "explanation": "La educación física is PE. Remember that física with an accent also appears in la física (physics), so read the full phrase.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Choose the correct word to complete the sentence: Me ____ las matemáticas.",
+    "options": [
+     "gusta",
+     "gustan",
+     "gusto",
+     "gustas"
+    ],
+    "answer": 1,
+    "explanation": "Las matemáticas is plural, so you need gustan. Use gusta only with singular nouns (Me gusta la música).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What do you carry your books and notebooks in? Choose the Spanish word.",
+    "options": [
+     "la mochila",
+     "el estuche",
+     "la regla",
+     "la pizarra"
+    ],
+    "answer": 0,
+    "explanation": "La mochila is a backpack. El estuche is a pencil case and la pizarra is the board.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Read Lucas's timetable.\nLunes: 9:00 matemáticas, 10:00 inglés, 11:00 recreo, 11:30 historia, 12:30 arte.\nWhich lesson does Lucas have straight after break on Monday?",
+    "options": [
+     "inglés",
+     "arte",
+     "matemáticas",
+     "historia"
+    ],
+    "answer": 3,
+    "explanation": "The break (recreo) is at 11:00 and the next entry, at 11:30, is historia. Arte comes later at 12:30.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read the message.\n'Hola Lucía, mañana necesito un bolígrafo, una regla y mi calculadora para matemáticas. ¿Tienes una calculadora?'\nWhich object is NOT mentioned in the message?",
+    "options": [
+     "a pen",
+     "a ruler",
+     "a calculator",
+     "a dictionary"
+    ],
+    "answer": 3,
+    "explanation": "The message names un bolígrafo (pen), una regla (ruler) and una calculadora (calculator). There is no mention of un diccionario.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Choose the correct article: ____ geografía es interesante.",
+    "options": [
+     "El",
+     "Los",
+     "La",
+     "Las"
+    ],
+    "answer": 2,
+    "explanation": "Geografía ends in -a and is feminine singular, so it takes la. Las would be needed for a plural noun such as las ciencias.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read the sentence: 'Me encanta la música porque es divertida.'\nWhy does the speaker like music?",
+    "options": [
+     "It is easy.",
+     "It is fun.",
+     "It is useful.",
+     "It is difficult."
+    ],
+    "answer": 1,
+    "explanation": "Divertida means fun. Fácil is easy, útil is useful and difícil is difficult.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence correctly says 'I don't like science because it is boring'?",
+    "options": [
+     "No me gustan las ciencias porque son aburridas.",
+     "No me gusta las ciencias porque es aburridas.",
+     "Me no gusta las ciencias porque son aburrido.",
+     "No gusto las ciencias porque son aburridas."
+    ],
+    "answer": 0,
+    "explanation": "Las ciencias is plural, so you need gustan, son and the feminine plural aburridas. The 'no' goes before me gustan.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the correct plural of 'el lápiz' (the pencil)?",
+    "options": [
+     "los lápizes",
+     "los lápices",
+     "las lápices",
+     "los lápiz"
+    ],
+    "answer": 1,
+    "explanation": "Words ending in -z change z to c before adding -es, and lápiz stays masculine: los lápices. The accent stays on the first a.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read the sign in a school.\n'Biblioteca. Silencio, por favor. Abierta de lunes a viernes, de 8:00 a 15:00.'\nWhen is the library open?",
+    "options": [
+     "Every day of the week",
+     "Only at weekends",
+     "Monday to Friday, in the morning and early afternoon",
+     "Monday to Saturday, in the evening"
+    ],
+    "answer": 2,
+    "explanation": "De lunes a viernes means Monday to Friday and the hours are 8:00 to 15:00, which is morning and early afternoon.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read the text.\n'Mi asignatura favorita es la informática porque el profesor es simpático. No me gusta la educación física porque es muy difícil.'\nWhich statement is true?",
+    "options": [
+     "The writer's favourite subject is IT.",
+     "The writer likes PE.",
+     "The writer thinks IT is difficult.",
+     "The writer's teacher is strict."
+    ],
+    "answer": 0,
+    "explanation": "Mi asignatura favorita es la informática means the favourite subject is IT. The writer does not like PE, and simpático means friendly, not strict.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript: 'Buenos días, soy Marcos. Tengo cinco clases hoy: primero matemáticas, después arte y luego inglés. Después del recreo tengo música y educación física. Mi clase favorita es el arte porque me encanta dibujar.'\nWhich statement is correct?",
+    "options": [
+     "He has four classes and his favourite is art.",
+     "He has five classes and his favourite is art.",
+     "He has five classes and his favourite is music.",
+     "He has five classes and PE is before break."
+    ],
+    "answer": 1,
+    "explanation": "Marcos says tengo cinco clases and mi clase favorita es el arte. PE comes after the break, and music is not his favourite.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Choose the correct sentence: 'My teachers (female) are very friendly.'",
+    "options": [
+     "Mis profesoras son muy simpático.",
+     "Mis profesoras son muy simpática.",
+     "Mis profesoras son muy simpáticas.",
+     "Mis profesoras son muy simpáticos."
+    ],
+    "answer": 2,
+    "explanation": "Profesoras is feminine plural, so the adjective must be simpáticas. Keep the accent on the á.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Read the email.\n'Querida Ana: En mi colegio nuevo hay una biblioteca grande. Mi profesor de ciencias se llama señor Ruiz y es muy estricto, pero me gusta porque sus clases son interesantes. Tengo ciencias los martes y los jueves.'\nWhy does the writer like Mr Ruiz's lessons?",
+    "options": [
+     "Because he is very strict, so the class is quiet.",
+     "Because the lessons are interesting, even though he is strict.",
+     "Because the school library is big.",
+     "Because there is science every day."
+    ],
+    "answer": 1,
+    "explanation": "The word pero (but) signals contrast: he is strict, but the writer likes the lessons because they are interesting. Science is only on Tuesdays and Thursdays.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "You are asking a friend for equipment. Which sentence says 'I need a ruler and an eraser'?",
+    "options": [
+     "Necesito un regla y una goma.",
+     "Necesito una regla y una goma.",
+     "Necesitas una regla y una goma.",
+     "Necesito una reglas y una goma."
+    ],
+    "answer": 1,
+    "explanation": "Regla and goma are both feminine singular, so una is correct for both. Necesitas means 'you need', and una reglas mixes singular and plural.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Read the opinion.\n'Odio las matemáticas porque son difíciles, pero me gusta la informática porque es útil.'\nWhich pair of reasons is correct?",
+    "options": [
+     "Maths is useful; IT is difficult.",
+     "Maths is boring; IT is fun.",
+     "Maths is difficult; IT is useful.",
+     "Maths is easy; IT is useful."
+    ],
+    "answer": 2,
+    "explanation": "Difíciles means difficult (maths) and útil means useful (IT). Odio means I hate, so the first opinion is negative and the second positive.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## School subjects (las asignaturas)\nIn Spanish, school subjects are called las asignaturas or las materias. Most are feminine, and some are plural, so watch the article.\n- las matemáticas (maths) – always plural\n- el inglés (English), el español (Spanish), el francés (French)\n- la historia (history), la geografía (geography)\n- las ciencias (science), la biología (biology), la física (physics), la química (chemistry)\n- la educación física (PE), el arte (art), la música (music), el dibujo (drawing)\n- la informática (IT), la tecnología (technology), el teatro (drama)\n\n## School objects (los objetos de clase)\n- el libro (book), el cuaderno (notebook), el bolígrafo (pen), el lápiz (pencil; plural: los lápices)\n- la regla (ruler), la goma (eraser), el sacapuntas (pencil sharpener), las tijeras (scissors), el pegamento (glue)\n- la mochila (backpack), el estuche (pencil case), la carpeta (folder), la calculadora (calculator)\n- el ordenador (computer), la tableta (tablet), la pizarra (board), el diccionario (dictionary)\n- el profesor / la profesora (teacher), el alumno / la alumna (pupil), el compañero / la compañera (classmate)\n\n## Places and times\n- el colegio / el instituto (school), la clase (class or classroom), la biblioteca (library), el patio (playground), el recreo (break), el horario (timetable)\n- Days of the week are masculine and have no capital letter: lunes, martes, miércoles, jueves, viernes.\n- Los lunes means 'on Mondays' (every week). El lunes means 'on Monday' (one day).\n- To say what lessons you have, use tener: Tengo matemáticas a las nueve. Tengo inglés los martes.\n\n## Giving opinions\n- Me gusta + singular noun: Me gusta la música.\n- Me gustan + plural noun: Me gustan las matemáticas.\n- No me gusta... (I don't like), Me encanta... (I love), Odio... (I hate)\n- Mi asignatura favorita es... (My favourite subject is...)\n- Give a reason with porque + es / son + adjective: fácil (easy), difícil (difficult), aburrido/a (boring), interesante (interesting), divertido/a (fun), útil (useful).\n\nThe adjective agrees with the subject: Me gusta el arte porque es divertido. Me gusta la historia porque es interesante. No me gustan las ciencias porque son aburridas.\n\n## Worked example\nLook at this model answer: 'Mi asignatura favorita es la música porque es divertida. Tengo música los miércoles a las diez. No me gustan las matemáticas porque son difíciles.' It gives an opinion, a reason, a time and a contrast, all in correct Spanish.\n\n## Common mistakes\n- Writing 'Me gusta las matemáticas'. The noun is plural, so use gustan.\n- Forgetting accents: matemáticas, bolígrafo, lápiz, inglés, música, física.\n- Mixing up false friends: la biblioteca is a library, but la librería is a bookshop.\n- Forgetting agreement: la clase es divertida, but el examen es divertido.\n\n## How this is examined\nIn reading tasks you meet a timetable, a school notice or a short email and answer questions about subjects, times and opinions. In listening tasks a student describes their day, and you must pick out which subject is liked, which is disliked and why. In writing tasks you describe your school day or give opinions about subjects with a reason. Marks reward accurate vocabulary, correct agreement and clear reasons using porque.\n\nExam tip: Underline the reason word (porque) and the opinion word (me gusta, odio, me encanta) in every text, because questions often ask WHY someone likes or dislikes a subject.",
+  "flashcards": [
+   {
+    "front": "las matemáticas",
+    "back": "maths (always plural, so: Me gustan las matemáticas)"
+   },
+   {
+    "front": "el cuaderno / el bolígrafo",
+    "back": "the notebook / the pen"
+   },
+   {
+    "front": "la regla / la goma",
+    "back": "the ruler / the eraser"
+   },
+   {
+    "front": "la mochila",
+    "back": "the backpack"
+   },
+   {
+    "front": "How do you say 'My favourite subject is art'?",
+    "back": "Mi asignatura favorita es el arte."
+   },
+   {
+    "front": "Me gusta vs. Me gustan",
+    "back": "Me gusta + singular noun (la música); me gustan + plural noun (las ciencias)."
+   },
+   {
+    "front": "porque es aburrido",
+    "back": "because it is boring (use aburrida with a feminine subject)"
+   },
+   {
+    "front": "el recreo",
+    "back": "break time (playtime)"
+   },
+   {
+    "front": "los lunes vs. el lunes",
+    "back": "los lunes = on Mondays (every week); el lunes = on Monday (one day)"
+   }
+  ]
+ },
+ {
+  "subject": "spanish-ab-initio",
+  "grade": 5,
+  "topic": "School and Work",
+  "subTopic": "Jobs and Workplaces",
+  "questions": [
+   {
+    "content": "What is 'el bombero' in English?",
+    "options": [
+     "firefighter",
+     "police officer",
+     "postman",
+     "waiter"
+    ],
+    "answer": 0,
+    "explanation": "El bombero is a firefighter. The police officer is el policía, the postman is el cartero and the waiter is el camarero.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'Mi padre es médico' mean?",
+    "options": [
+     "My father is a nurse.",
+     "My mother is a doctor.",
+     "My father is a doctor.",
+     "My father has a doctor."
+    ],
+    "answer": 2,
+    "explanation": "Mi padre is my father and médico is a doctor. Spanish does not use un before a job after ser.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Complete the sentence with the best workplace: 'El camarero trabaja en un ____.'",
+    "options": [
+     "hospital",
+     "restaurante",
+     "colegio",
+     "banco"
+    ],
+    "answer": 1,
+    "explanation": "A waiter (camarero) works in a restaurante. Doctors work in a hospital and teachers in a colegio.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "'La enfermera' refers to which person?",
+    "options": [
+     "a female nurse",
+     "a male nurse",
+     "a dentist",
+     "a teacher"
+    ],
+    "answer": 0,
+    "explanation": "La enfermera is a female nurse (the male nurse is el enfermero). The -a ending and the article la show feminine.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the feminine form of 'el profesor'?",
+    "options": [
+     "la profesor",
+     "la profesora",
+     "la profesoro",
+     "las profesor"
+    ],
+    "answer": 1,
+    "explanation": "Many jobs ending in -or add -a for the feminine: el profesor, la profesora. The article also changes to la.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A man says he is a teacher. Which sentence does he use?",
+    "options": [
+     "Soy profesora.",
+     "Estoy profesor.",
+     "Tengo profesor.",
+     "Soy profesor."
+    ],
+    "answer": 3,
+    "explanation": "Jobs use the verb ser: Soy profesor. Profesora is the feminine form, and estar and tener do not express a job.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read the advert.\n'Se busca camarero. Restaurante La Plaza. Trabajo de viernes a domingo, de 18:00 a 23:00. Tel: 600 123 456.'\nWhen would the person work?",
+    "options": [
+     "Friday to Sunday evenings",
+     "Monday to Friday mornings",
+     "Every day at lunchtime",
+     "Weekends in the morning"
+    ],
+    "answer": 0,
+    "explanation": "De viernes a domingo is Friday to Sunday and 18:00 to 23:00 is the evening. Se busca means 'wanted'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "'Trabaja en un hospital y ayuda a los enfermos.' Who is being described?",
+    "options": [
+     "una jardinera",
+     "una peluquera",
+     "una dependienta",
+     "una doctora"
+    ],
+    "answer": 3,
+    "explanation": "A person who works in a hospital and helps sick people (los enfermos) is a doctor, una doctora. The other jobs are gardener, hairdresser and shop assistant.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the feminine form of 'el dentista'?",
+    "options": [
+     "la dentisa",
+     "la dentisto",
+     "la dentista",
+     "las dentista"
+    ],
+    "answer": 2,
+    "explanation": "Jobs ending in -ista keep the same form for both genders. Only the article changes: el dentista, la dentista.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read the text.\n'Mi tía Carmen es peluquera. Trabaja en una peluquería en el centro. Le gusta su trabajo porque habla con mucha gente.'\nWhy does Carmen like her job?",
+    "options": [
+     "She earns a lot of money.",
+     "She works in the evening.",
+     "She works from home.",
+     "She talks to many people."
+    ],
+    "answer": 3,
+    "explanation": "Porque habla con mucha gente means because she talks with many people. There is no mention of money or of working at home.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which question asks 'Where do you work?'",
+    "options": [
+     "¿Cuándo trabajas?",
+     "¿Dónde trabajas?",
+     "¿Qué trabajas?",
+     "¿Quién trabajas?"
+    ],
+    "answer": 1,
+    "explanation": "Dónde means where. Cuándo means when, qué means what and quién means who.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Complete the sentence: 'Mi hermano ____ en una oficina.'",
+    "options": [
+     "trabajo",
+     "trabajas",
+     "trabaja",
+     "trabajan"
+    ],
+    "answer": 2,
+    "explanation": "Mi hermano is he/she, so the verb ends in -a: trabaja. Trabajo is I, trabajas is you and trabajan is they.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A girl says: 'Quiero ser veterinaria porque me encantan los animales.' Which statement is true?",
+    "options": [
+     "She wants to be a vet because she loves animals.",
+     "She is already a vet.",
+     "She does not like animals.",
+     "Her mother is a vet."
+    ],
+    "answer": 0,
+    "explanation": "Quiero ser means I want to be, and me encantan los animales means I love animals. Veterinaria is the feminine form of vet.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript: 'Hola, me llamo Pablo. Mi madre es ingeniera y trabaja en una fábrica. Mi padre es cocinero y trabaja por la noche en un restaurante italiano. Yo quiero ser bombero, pero mi hermana quiere ser periodista.'\nWho works at night, and where?",
+    "options": [
+     "His mother, in a factory",
+     "His sister, in an office",
+     "His father, in a restaurant",
+     "Pablo, in a fire station"
+    ],
+    "answer": 2,
+    "explanation": "Mi padre es cocinero y trabaja por la noche en un restaurante italiano. His mother works in a factory but no time is given, and Pablo only wants to be a firefighter.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence is grammatically correct?",
+    "options": [
+     "Las enfermeras trabajan en el hospital.",
+     "Las enfermero trabajan en el hospital.",
+     "Los enfermeras trabajan en el hospital.",
+     "Las enfermeras trabaja en el hospital."
+    ],
+    "answer": 0,
+    "explanation": "Article, noun and verb must all agree: las (feminine plural), enfermeras (feminine plural) and trabajan (they).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Read the advert.\n'Se necesita dependienta para tienda de ropa. Buen salario. Horario: lunes a sábado, de 10:00 a 14:00. Con experiencia.'\nWhich statement matches the advert?",
+    "options": [
+     "The shop needs a cook to work in the evenings.",
+     "The shop needs a female assistant for Monday to Saturday mornings, with experience.",
+     "The shop needs a male driver for weekends.",
+     "The shop needs a hairdresser with no experience."
+    ],
+    "answer": 1,
+    "explanation": "Dependienta is a female shop assistant, the hours 10:00 to 14:00 are morning hours, and con experiencia means with experience.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence correctly says 'My sister is a lawyer and works in an office'?",
+    "options": [
+     "Mi hermana es abogado y trabaja en una oficina.",
+     "Mi hermana está abogada y trabaja en una oficina.",
+     "Mi hermana es abogada y trabajan en una oficina.",
+     "Mi hermana es abogada y trabaja en una oficina."
+    ],
+    "answer": 3,
+    "explanation": "Use ser for a job, the feminine abogada for a woman, and trabaja for she works. The other options have the wrong gender, the wrong verb or the wrong person.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A boy says he wants to be a male nurse when he grows up. Which sentence is correct?",
+    "options": [
+     "De mayor quiero estar enfermero.",
+     "De mayor quiero ser enfermera.",
+     "De mayor quiero ser enfermero.",
+     "De mayor quiero tener enfermero."
+    ],
+    "answer": 2,
+    "explanation": "Use querer + ser for a future job, and the masculine enfermero for a boy. Enfermera would be feminine, and estar or tener cannot express a job.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Jobs (las profesiones)\nIn Spanish, most jobs have a masculine and a feminine form. Learn them in pairs.\n- el médico / la médica (doctor; also el doctor / la doctora), el enfermero / la enfermera (nurse)\n- el profesor / la profesora (teacher), el camarero / la camarera (waiter)\n- el cocinero / la cocinera (cook), el abogado / la abogada (lawyer)\n- el ingeniero / la ingeniera (engineer), el dependiente / la dependienta (shop assistant)\n- el peluquero / la peluquera (hairdresser), el cartero / la cartera (postman / postwoman)\n- el bombero / la bombera (firefighter), el mecánico / la mecánica (mechanic)\n- el policía / la policía, el dentista / la dentista, el periodista / la periodista (same form for both genders)\n\n## Workplaces (los lugares de trabajo)\n- el hospital (hospital), el colegio (school), el restaurante (restaurant), la oficina (office)\n- la tienda (shop), la fábrica (factory), la comisaría (police station), el taller (garage)\n- la peluquería (hairdresser's), el banco (bank), la granja (farm), el parque de bomberos (fire station)\n\n## Saying what someone does\nWith jobs use ser, and do not use un or una:\n- Mi padre es médico. (My father is a doctor.)\n- Soy estudiante. (I am a student.)\n- Mi tía es peluquera. (My aunt is a hairdresser.)\n\nTo say where someone works use trabajar en:\n- Trabajo en una tienda. (I work in a shop.)\n- Mi madre trabaja en un hospital. (My mother works in a hospital.)\n\nUseful verb forms of trabajar: trabajo (I), trabajas (you), trabaja (he/she), trabajamos (we), trabajan (they).\n\n## Asking questions\n- ¿En qué trabajas? (What do you do for a living?)\n- ¿Dónde trabaja tu padre? (Where does your father work?)\n- ¿Qué quieres ser de mayor? (What do you want to be when you are older?)\nAnswer: De mayor quiero ser veterinaria. (When I am older I want to be a vet.)\n\n## Giving reasons and times\n- porque ayudo a la gente (because I help people)\n- porque me gustan los animales (because I like animals)\n- Trabaja de lunes a viernes. (She works Monday to Friday.)\n- Trabaja por la noche. (He works at night.)\n\n## Common mistakes\n- Saying 'Soy un médico'. In Spanish you normally say Soy médico.\n- Using estar for a job. Use ser: Es dentista, not Está dentista.\n- Forgetting to change the ending for a woman: abogada, not abogado.\n- Mixing trabajo (I work) with el trabajo (the job).\n\n## How this is examined\nReading tasks often show a job advert, a short profile or an email in which someone describes their family's jobs. You may need to match a person to a job or to a workplace, or find the working hours. Listening tasks give a short interview about jobs. In writing you describe your family's jobs or your dream career, using ser, trabajar en and querer ser with a reason.\n\nExam tip: When a text mentions a person, check the gender endings (-o / -a), because they tell you whether the text is about a man or a woman and can help you choose the right answer.",
+  "flashcards": [
+   {
+    "front": "el médico / la médica",
+    "back": "the doctor (male / female)"
+   },
+   {
+    "front": "el camarero / la camarera",
+    "back": "the waiter / the waitress"
+   },
+   {
+    "front": "el policía, el dentista, el periodista",
+    "back": "Jobs that keep the same form for men and women: only the article changes (la policía, la dentista)."
+   },
+   {
+    "front": "How do you say 'I am a student'?",
+    "back": "Soy estudiante. (No un/una after ser with a job.)"
+   },
+   {
+    "front": "Mi madre trabaja en un hospital.",
+    "back": "My mother works in a hospital."
+   },
+   {
+    "front": "¿En qué trabajas?",
+    "back": "What do you do for a living? / What is your job?"
+   },
+   {
+    "front": "De mayor quiero ser veterinaria.",
+    "back": "When I am older I want to be a vet."
+   },
+   {
+    "front": "la fábrica / la oficina / la tienda",
+    "back": "the factory / the office / the shop"
+   },
+   {
+    "front": "trabajar: I, he/she, they",
+    "back": "trabajo, trabaja, trabajan"
+   }
+  ]
+ },
+ {
+  "subject": "spanish-ab-initio",
+  "grade": 5,
+  "topic": "School and Work",
+  "subTopic": "Classroom Language and Instructions",
+  "questions": [
+   {
+    "content": "What does the teacher want you to do when she says 'Abre el libro'?",
+    "options": [
+     "Open the book.",
+     "Close the book.",
+     "Read the book aloud.",
+     "Buy a book."
+    ],
+    "answer": 0,
+    "explanation": "Abre comes from abrir (to open). Close the book would be Cierra el libro.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'Silencio, por favor' mean?",
+    "options": [
+     "Hello, please.",
+     "Be quiet, please.",
+     "Sit down, please.",
+     "Come in, please."
+    ],
+    "answer": 1,
+    "explanation": "Silencio is silence, so the teacher asks the class to be quiet.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What do you do when you hear the instruction 'Escucha'?",
+    "options": [
+     "write",
+     "read",
+     "speak",
+     "listen"
+    ],
+    "answer": 3,
+    "explanation": "Escucha comes from escuchar (to listen). Escribe is write, lee is read and habla is speak.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A student asks '¿Puedo ir al baño?' What is the student asking?",
+    "options": [
+     "May I go to the toilet?",
+     "May I go home?",
+     "May I open the window?",
+     "May I have a pen?"
+    ],
+    "answer": 0,
+    "explanation": "Puedo ir means 'can I go' and al baño is to the toilet/bathroom.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Your teacher says 'Gracias.' What do you answer?",
+    "options": [
+     "Lo siento.",
+     "Hasta luego.",
+     "De nada.",
+     "Buenas noches."
+    ],
+    "answer": 2,
+    "explanation": "De nada means 'you're welcome', which is the standard reply to gracias. Lo siento means I'm sorry.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The teacher says: 'Abre tu cuaderno en la página 24 y haz el ejercicio tres.' What must you do?",
+    "options": [
+     "Close your notebook and read page 24.",
+     "Open your notebook at page 24 and do exercise 3.",
+     "Open your book at page 3 and do exercise 24.",
+     "Write your name on page 24 of the book."
+    ],
+    "answer": 1,
+    "explanation": "Abre tu cuaderno en la página 24 means open your notebook at page 24, and haz el ejercicio tres means do exercise three.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "You did not hear what the teacher said. Which phrase asks her to say it again?",
+    "options": [
+     "¿Puedo salir, por favor?",
+     "Lo siento, llego tarde.",
+     "¿Puede repetir, por favor?",
+     "¿Cómo te llamas?"
+    ],
+    "answer": 2,
+    "explanation": "¿Puede repetir, por favor? means 'Can you repeat, please?' The others ask to leave, apologise for being late or ask someone's name.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In an exam you read: 'Escoge la respuesta correcta.' What do you have to do?",
+    "options": [
+     "Write the answer in full.",
+     "Copy the question.",
+     "Choose the correct answer.",
+     "Underline the verbs."
+    ],
+    "answer": 2,
+    "explanation": "Escoge comes from escoger (to choose), and la respuesta correcta is the correct answer.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The instruction says: 'Une las palabras con los dibujos.' What is the task?",
+    "options": [
+     "Draw pictures of the words.",
+     "Match the words to the pictures.",
+     "Colour the pictures.",
+     "Write the words in a list."
+    ],
+    "answer": 1,
+    "explanation": "Unir means to join or match, so you link each word to its picture.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which question asks 'How do you say \"pencil\" in Spanish?'",
+    "options": [
+     "¿Cómo se dice 'pencil' en español?",
+     "¿Cuándo se dice 'pencil' en español?",
+     "¿Dónde se dice 'pencil' en español?",
+     "¿Quién se dice 'pencil' en español?"
+    ],
+    "answer": 0,
+    "explanation": "¿Cómo se dice...? asks how to say something. Cuándo is when, dónde is where and quién is who.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read the notice.\n'Prohibido usar el móvil en clase. Los móviles están en la mochila.'\nWhere must phones be kept?",
+    "options": [
+     "On the teacher's desk",
+     "In the bag",
+     "In the locker",
+     "In your pocket"
+    ],
+    "answer": 1,
+    "explanation": "Los móviles están en la mochila means that the phones are in the backpack. Prohibido usar el móvil means mobile use is forbidden.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "You arrive late to class. Which phrase is most suitable to say to your teacher?",
+    "options": [
+     "Gracias, hasta luego.",
+     "De nada, profesora.",
+     "Lo siento, llego tarde.",
+     "Buenas noches, profesora."
+    ],
+    "answer": 2,
+    "explanation": "Lo siento, llego tarde means 'I'm sorry, I'm late'. The other phrases are goodbye, you're welcome and good night, none of which apologise.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which pair of instruction and meaning is correct?",
+    "options": [
+     "Siéntate = Stand up",
+     "Levántate = Stand up",
+     "Copia = Listen",
+     "Borra = Read"
+    ],
+    "answer": 1,
+    "explanation": "Levántate means stand up. Siéntate means sit down, copia means copy, and borra means rub out or delete.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript: 'Buenos días a todos. Hoy trabajamos en parejas. Primero, lee el texto de la página 40. Después, contesta las preguntas en tu cuaderno. No uses el diccionario. Si tienes una pregunta, levanta la mano.'\nWhat are you told NOT to do?",
+    "options": [
+     "Read page 40.",
+     "Work with a partner.",
+     "Use the dictionary.",
+     "Raise your hand."
+    ],
+    "answer": 2,
+    "explanation": "No uses el diccionario means do not use the dictionary. The other three are instructions the teacher gives you to do.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An exam rubric says: 'Completa las frases con una palabra del recuadro. Hay una palabra extra.' What does the last sentence tell you?",
+    "options": [
+     "You need to add an extra word to each sentence.",
+     "One word in the box is not needed.",
+     "You must write one more sentence.",
+     "Every word in the box is used twice."
+    ],
+    "answer": 1,
+    "explanation": "Hay una palabra extra means there is one extra word, so one word in the box will not fit any gap.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Read the dialogue.\n'Alumno: Perdone, profesora, no entiendo el ejercicio cuatro. Profesora: Lee otra vez la instrucción y mira el ejemplo. Alumno: Vale, gracias.'\nWhat does the teacher tell the student to do?",
+    "options": [
+     "Ask a classmate for help.",
+     "Read the instruction again and look at the example.",
+     "Leave the classroom.",
+     "Do exercise four on the board."
+    ],
+    "answer": 1,
+    "explanation": "Lee otra vez la instrucción means read the instruction again, and mira el ejemplo means look at the example. No entiendo means I don't understand.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "You want to know how to spell a word. Which question do you ask?",
+    "options": [
+     "¿Cómo se llama?",
+     "¿Cómo estás?",
+     "¿Cómo se dice?",
+     "¿Cómo se escribe?"
+    ],
+    "answer": 3,
+    "explanation": "¿Cómo se escribe? means 'How do you write/spell it?'. ¿Cómo se dice? asks how to say something, and ¿Cómo se llama? asks for a name.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "You are very cold and want the teacher's permission to close the window. Which is the most polite and correct request?",
+    "options": [
+     "Cierro la ventana.",
+     "¿Puedo cerrar la ventana, por favor?",
+     "Cierra la ventana ahora.",
+     "La ventana es cerrada."
+    ],
+    "answer": 1,
+    "explanation": "¿Puedo + infinitive, por favor? is the standard polite way to ask permission. The other options are a statement, an order or a wrong structure.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Classroom instructions\nTeachers give instructions using the imperative (the command form). In the singular tú form most commands look like the he/she present tense form, for example abre (open). You need to understand these instructions, and also use polite phrases yourself.\n- Abre el libro / el cuaderno. (Open the book / the notebook.)\n- Cierra el libro. (Close the book.)\n- Escucha. (Listen.) Lee. (Read.) Escribe. (Write.)\n- Mira la pizarra. (Look at the board.)\n- Repite, por favor. (Repeat, please.)\n- Contesta las preguntas. (Answer the questions.)\n- Copia las frases. (Copy the sentences.)\n- Siéntate. (Sit down.) Levántate. (Stand up.)\n- Trabaja con tu compañero / en parejas. (Work with your partner / in pairs.)\n- Haz el ejercicio tres. (Do exercise three.) Haz is an irregular command from hacer.\n- Presta atención. (Pay attention.) Silencio, por favor. (Quiet, please.)\n- Levanta la mano. (Raise your hand.)\n\n## Exam instructions\nThe eAssessment instructions are mostly in the target language, so learn these:\n- Lee el texto. (Read the text.)\n- Escoge la respuesta correcta. (Choose the correct answer.)\n- Completa las frases. (Complete the sentences.)\n- Une las palabras con los dibujos. (Match the words to the pictures.)\n- Marca con una cruz. (Mark with a cross.)\n- Verdadero o falso. (True or false.)\n- Escribe una respuesta de tres frases. (Write an answer of three sentences.)\n- Hay una palabra extra. (There is an extra word.)\n\n## What students say\n- ¿Puedo ir al baño? (May I go to the toilet?)\n- ¿Puedo abrir la ventana, por favor? (May I open the window, please?)\n- ¿Puede repetir, por favor? (Can you repeat, please?)\n- No entiendo. (I don't understand.) / Más despacio, por favor. (More slowly, please.)\n- ¿Cómo se dice 'pencil' en español? (How do you say 'pencil' in Spanish?)\n- ¿Qué significa...? (What does ... mean?) / ¿Cómo se escribe? (How do you spell it?)\n- Tengo una pregunta. (I have a question.)\n- Lo siento, llego tarde. (Sorry, I'm late.)\n- No tengo mi cuaderno. (I don't have my notebook.)\n- Gracias. / De nada. (Thank you. / You're welcome.)\n\n## Be polite\nUse por favor (please) and perdone (excuse me) or perdón. Use ¿Puedo...? followed by an infinitive to ask permission: ¿Puedo salir? (May I leave?).\n\n## Common mistakes\n- Confusing levántate (stand up) with siéntate (sit down).\n- Forgetting that ¿Puedo...? is followed by the infinitive, not a conjugated verb.\n- Using lo siento (I'm sorry) when you mean gracias.\n- Missing the inverted question mark at the start of a question.\n\n## How this is examined\nReading tasks present instructions on a classroom notice, a rubric or a worksheet and ask what you should do. Listening tasks may play a teacher giving instructions, so you must identify what to do and what not to do. In writing you may need to ask for help or explain a problem in a short message, using polite structures.\n\nExam tip: Look for the word no in an instruction (No uses el diccionario). It reverses the meaning completely, and examiners like to test it.",
+  "flashcards": [
+   {
+    "front": "Abre el libro. / Cierra el libro.",
+    "back": "Open the book. / Close the book."
+   },
+   {
+    "front": "Siéntate / Levántate",
+    "back": "Sit down / Stand up"
+   },
+   {
+    "front": "¿Puede repetir, por favor?",
+    "back": "Can you repeat, please?"
+   },
+   {
+    "front": "No entiendo.",
+    "back": "I don't understand."
+   },
+   {
+    "front": "¿Cómo se dice 'ruler' en español?",
+    "back": "How do you say 'ruler' in Spanish?"
+   },
+   {
+    "front": "Escoge la respuesta correcta.",
+    "back": "Choose the correct answer."
+   },
+   {
+    "front": "Une las palabras con los dibujos.",
+    "back": "Match the words to the pictures."
+   },
+   {
+    "front": "Lo siento, llego tarde.",
+    "back": "Sorry, I'm late."
+   },
+   {
+    "front": "¿Puedo ir al baño?",
+    "back": "May I go to the toilet?"
+   }
+  ]
+ }
 ]

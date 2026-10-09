@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "french-ab-initio",
+  "grade": 5,
+  "topic": "Food and Shopping",
+  "subTopic": "Food and Drink",
+  "questions": [
+   {
+    "content": "What does 'du pain' mean?",
+    "options": [
+     "some cheese",
+     "some bread",
+     "some water",
+     "some milk"
+    ],
+    "answer": 1,
+    "explanation": "'Pain' is bread, and 'du' means some (masculine partitive).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'une pomme' mean?",
+    "options": [
+     "a pear",
+     "a potato",
+     "an orange",
+     "an apple"
+    ],
+    "answer": 3,
+    "explanation": "'Une pomme' is an apple. 'Une pomme de terre' is a potato.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'l'eau' mean?",
+    "options": [
+     "water",
+     "milk",
+     "juice",
+     "wine"
+    ],
+    "answer": 0,
+    "explanation": "'L'eau' is water. Milk is 'le lait' and juice is 'le jus'.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'le fromage' mean?",
+    "options": [
+     "ham",
+     "butter",
+     "cheese",
+     "bread"
+    ],
+    "answer": 2,
+    "explanation": "'Le fromage' is cheese, famous in France. Ham is 'le jambon'.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'le poulet' mean?",
+    "options": [
+     "fish",
+     "beef",
+     "chicken",
+     "pork"
+    ],
+    "answer": 2,
+    "explanation": "'Le poulet' is chicken. Fish is 'le poisson'.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these words is a fruit?",
+    "options": [
+     "la fraise",
+     "la carotte",
+     "le jambon",
+     "le riz"
+    ],
+    "answer": 0,
+    "explanation": "'La fraise' is a strawberry. A carrot is a vegetable, ham is meat and rice is a grain.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Complete the sentence: 'Je voudrais ___ eau.'",
+    "options": [
+     "du",
+     "des",
+     "de la",
+     "de l'"
+    ],
+    "answer": 3,
+    "explanation": "Before a vowel or silent h, 'du/de la' both become 'de l'': 'de l'eau'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 'Je n'aime pas les légumes' mean?",
+    "options": [
+     "I like vegetables.",
+     "I do not like vegetables.",
+     "I do not eat fruit.",
+     "I never cook."
+    ],
+    "answer": 1,
+    "explanation": "'Ne... pas' makes it negative, and 'les légumes' are vegetables. After 'aimer' you use 'le/la/les', not 'du'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence says you love chocolate?",
+    "options": [
+     "Je déteste le chocolat.",
+     "J'adore le chocolat.",
+     "Je mange du chocolat.",
+     "Je n'aime pas le chocolat."
+    ],
+    "answer": 1,
+    "explanation": "'J'adore' means I love. 'Je déteste' means I hate.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 'le déjeuner' mean?",
+    "options": [
+     "breakfast",
+     "dinner",
+     "a snack",
+     "lunch"
+    ],
+    "answer": 3,
+    "explanation": "'Le déjeuner' is lunch. 'Le petit déjeuner' is breakfast and 'le dîner' is dinner.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "'Je suis végétarien, je ne mange pas de viande.' What does the speaker avoid?",
+    "options": [
+     "meat",
+     "vegetables",
+     "cheese",
+     "bread"
+    ],
+    "answer": 0,
+    "explanation": "'La viande' is meat. Notice that the false friend is not 'viand' in English.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Complete the sentence: 'Je ne bois pas ___ lait.'",
+    "options": [
+     "du",
+     "le",
+     "de",
+     "des"
+    ],
+    "answer": 2,
+    "explanation": "After a negative, the partitive (du, de la, des) becomes 'de' or 'd'': 'pas de lait'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which phrase means 'I am thirsty'?",
+    "options": [
+     "J'ai faim.",
+     "Je suis soif.",
+     "J'ai soif.",
+     "Je suis content."
+    ],
+    "answer": 2,
+    "explanation": "French uses 'avoir' (to have) for hunger and thirst: 'j'ai soif'. 'J'ai faim' means I am hungry.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Menu du jour: 'Entrée : salade verte. Plat : poulet avec des frites. Dessert : tarte aux pommes. Boisson comprise.' Which statement is true?",
+    "options": [
+     "A drink is included.",
+     "The dessert is chocolate cake.",
+     "There is a fish dish.",
+     "There is no starter."
+    ],
+    "answer": 0,
+    "explanation": "'Boisson comprise' means drink included. The dessert is an apple tart and the starter is a green salad.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Listening transcript: 'Le matin, je prends des céréales et du lait. Je ne mange pas de pain parce que je n'aime pas ça.' What does the speaker NOT eat for breakfast?",
+    "options": [
+     "cereal",
+     "milk",
+     "chocolate",
+     "bread"
+    ],
+    "answer": 3,
+    "explanation": "'Je ne mange pas de pain' means I do not eat bread. Cereal and milk are what the speaker has.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence is completely correct?",
+    "options": [
+     "Je mange de fromage et je bois de l'eau.",
+     "Je mange du fromage et je bois de l'eau.",
+     "Je mange du fromage et je bois du l'eau.",
+     "Je mange des fromage et je bois de eau."
+    ],
+    "answer": 1,
+    "explanation": "'Fromage' is masculine so 'du fromage'; 'eau' starts with a vowel so 'de l'eau'. The others break these rules.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "'Léo est allergique aux noix et aux œufs.' What can Léo NOT eat?",
+    "options": [
+     "fish and milk",
+     "nuts and eggs",
+     "bread and eggs",
+     "nuts and cheese"
+    ],
+    "answer": 1,
+    "explanation": "'Aux noix' means to nuts and 'aux œufs' means to eggs. 'Allergique à' means allergic to.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Sofia reads 'des raisins' on a market stall. What are they selling?",
+    "options": [
+     "raisins (dried fruit)",
+     "plums",
+     "cherries",
+     "grapes"
+    ],
+    "answer": 3,
+    "explanation": "'Un raisin' is a grape. Dried grapes are 'des raisins secs'. This is a false friend.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Food is a topic that appears in almost every beginner French course and exam. This note gives you the key words and the grammar of \"some\", \"the\" and negatives, which is where most marks are lost.\n\n## Meals and drinks\n- le petit déjeuner (breakfast), le déjeuner (lunch), le goûter (an afternoon snack), le dîner (dinner)\n- l'eau (water), le lait (milk), le jus d'orange (orange juice), le thé (tea), le café (coffee)\n- une limonade (lemonade), un chocolat chaud (hot chocolate)\n\n## Foods\n- le pain (bread), le fromage (cheese), le beurre (butter), les œufs (eggs)\n- le poulet (chicken), le jambon (ham), le poisson (fish), la viande (meat)\n- les légumes (vegetables): une carotte, des haricots verts (green beans), des pommes de terre (potatoes)\n- les fruits (fruit): une pomme, une banane, une fraise (strawberry), un raisin (a grape)\n- le riz (rice), les pâtes (pasta), les frites (chips), la salade, un gâteau (a cake), une glace (an ice cream)\n\n## Saying what you like\nUse \"j'aime\" (I like), \"j'adore\" (I love), \"je n'aime pas\" (I do not like) and \"je déteste\" (I hate) with the definite article le, la, l', les: \"J'aime les fruits\", \"Je déteste le poisson\". The article here talks about things in general.\n\n## Saying what you eat or drink: the partitive\nTo say \"some\", use du (masculine), de la (feminine), de l' (before a vowel or silent h) and des (plural).\n- Je mange du pain. (I eat some bread.)\n- Je mange de la salade. (I eat some salad.)\n- Je bois de l'eau. (I drink some water.)\n- Je mange des légumes. (I eat vegetables.)\n\nAfter a negative, all of these become de (or d'): \"Je ne mange pas de viande\", \"Il ne boit pas d'eau\". After a quantity word you also use de: \"un verre de lait\" (a glass of milk), \"beaucoup de fruits\" (lots of fruit).\n\n## Hungry, thirsty and diets\nFrench uses avoir: \"J'ai faim\" (I am hungry), \"J'ai soif\" (I am thirsty). Useful for diets: \"Je suis végétarien / végétarienne\" (I am vegetarian), \"Je suis allergique aux noix\" (I am allergic to nuts).\n\n## False friends\n- un raisin is a grape, not a raisin (dried grape: un raisin sec)\n- la viande is meat, not \"viand\"\n- un pain is a loaf or bread, not a pan\n\n## Common mistakes\n- Writing \"Je mange de pain\" (it should be du pain) or \"Je ne mange pas du pain\" (de pain).\n- Forgetting the article after \"j'aime\": \"J'aime fromage\" should be \"J'aime le fromage\".\n- Saying \"Je suis faim\" instead of \"J'ai faim\".\n- Mixing up \"le déjeuner\" (lunch) with \"le petit déjeuner\" (breakfast).\n\n## How this is examined\nReading tasks often use a menu, a recipe list or a short blog about favourite meals. You may be given a school canteen menu and asked what a vegetarian can choose. Listening transcripts give two people discussing what they eat for breakfast and lunch. In writing, you describe your favourite meal and say what you do not like, using \"j'aime\", \"je n'aime pas\" and at least one partitive.\n\nExam tip: When you see \"pas de\" or \"ne... jamais de\" in a text, circle the food that follows it. That item is the one the speaker does NOT eat, and examiners love this trap.",
+  "flashcards": [
+   {
+    "front": "du pain / de la salade / de l'eau / des légumes",
+    "back": "some bread / some salad / some water / some vegetables (the four partitives)"
+   },
+   {
+    "front": "Je ne mange pas de viande.",
+    "back": "I do not eat meat. (du/de la/des become de after a negative)"
+   },
+   {
+    "front": "J'ai faim. / J'ai soif.",
+    "back": "I am hungry. / I am thirsty. (avoir, not être)"
+   },
+   {
+    "front": "le petit déjeuner / le déjeuner / le dîner",
+    "back": "breakfast / lunch / dinner"
+   },
+   {
+    "front": "J'adore / J'aime / Je n'aime pas / Je déteste",
+    "back": "I love / I like / I do not like / I hate"
+   },
+   {
+    "front": "un raisin",
+    "back": "a grape (false friend; dried grapes are des raisins secs)"
+   },
+   {
+    "front": "la viande / le poisson / le poulet",
+    "back": "meat / fish / chicken"
+   },
+   {
+    "front": "Je suis végétarien(ne).",
+    "back": "I am vegetarian."
+   },
+   {
+    "front": "beaucoup de fruits",
+    "back": "lots of fruit (de after quantity words)"
+   }
+  ]
+ },
+ {
+  "subject": "french-ab-initio",
+  "grade": 5,
+  "topic": "Food and Shopping",
+  "subTopic": "Ordering in a Café",
+  "questions": [
+   {
+    "content": "What does 'Je voudrais un café' mean?",
+    "options": [
+     "I would like a coffee.",
+     "I am making a coffee.",
+     "I have a coffee.",
+     "I do not like coffee."
+    ],
+    "answer": 0,
+    "explanation": "'Je voudrais' means I would like and is the polite way to order.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "You want to pay in a café. What do you say?",
+    "options": [
+     "La carte, s'il vous plaît.",
+     "Une table, s'il vous plaît.",
+     "L'addition, s'il vous plaît.",
+     "Un menu, s'il vous plaît."
+    ],
+    "answer": 2,
+    "explanation": "'L'addition' is the bill. 'La carte' is the menu.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'un jus d'orange' mean?",
+    "options": [
+     "an orange",
+     "an orange cake",
+     "an orange juice",
+     "an orange tea"
+    ],
+    "answer": 2,
+    "explanation": "'Un jus' is a juice, so 'un jus d'orange' is orange juice.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A waiter asks, 'Qu'est-ce que vous désirez ?' What is he asking?",
+    "options": [
+     "What would you like?",
+     "Where do you live?",
+     "Do you have a reservation?",
+     "How much do you want to pay?"
+    ],
+    "answer": 0,
+    "explanation": "'Qu'est-ce que vous désirez ?' is a standard way to ask what a customer would like.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'un sandwich au jambon' mean?",
+    "options": [
+     "a cheese sandwich",
+     "a sandwich with butter",
+     "a chicken sandwich",
+     "a ham sandwich"
+    ],
+    "answer": 3,
+    "explanation": "'Au jambon' means with ham, and 'jambon' is ham.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The waiter says 'Et comme boisson ?' What does he mean?",
+    "options": [
+     "And for dessert?",
+     "And to drink?",
+     "And how are you?",
+     "And for how long?"
+    ],
+    "answer": 1,
+    "explanation": "'Une boisson' is a drink, so 'comme boisson' means as a drink.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is the most polite way to ask for a lemonade?",
+    "options": [
+     "Donne-moi limonade.",
+     "Je voudrais une limonade, s'il vous plaît.",
+     "Une limonade maintenant.",
+     "Je veux limonade."
+    ],
+    "answer": 1,
+    "explanation": "'Je voudrais... s'il vous plaît' is polite and grammatically correct, with 'une' before the noun.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is 'un croque-monsieur'?",
+    "options": [
+     "a type of coffee",
+     "a dessert with chocolate",
+     "a vegetable soup",
+     "a toasted ham and cheese sandwich"
+    ],
+    "answer": 3,
+    "explanation": "A croque-monsieur is a grilled sandwich with ham and cheese, common on café menus.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How do you ask 'How much is it?'",
+    "options": [
+     "C'est combien ?",
+     "C'est quand ?",
+     "C'est où ?",
+     "C'est qui ?"
+    ],
+    "answer": 0,
+    "explanation": "'Combien' means how much. 'Quand' is when, 'où' is where and 'qui' is who.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The waiter says 'Ça fait huit euros cinquante.' How much is it?",
+    "options": [
+     "€5.80",
+     "€8.05",
+     "€8.50",
+     "€18.50"
+    ],
+    "answer": 2,
+    "explanation": "'Huit euros cinquante' is 8 euros and 50 cents, so €8.50.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Menu: 'Thé 2,50 € ; Chocolat chaud 3,20 € ; Eau minérale 2 €'. How much is a hot chocolate?",
+    "options": [
+     "€2.50",
+     "€2.00",
+     "€3.20",
+     "€3.50"
+    ],
+    "answer": 2,
+    "explanation": "'Chocolat chaud' is hot chocolate and its price is 3,20 € (trois euros vingt). French uses a comma where English uses a decimal point.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The waiter asks 'Vous avez choisi ?' What does he want to know?",
+    "options": [
+     "Have you chosen?",
+     "Do you have a table?",
+     "Have you paid?",
+     "Are you hungry?"
+    ],
+    "answer": 0,
+    "explanation": "'Choisir' means to choose. 'Vous avez choisi' is 'you have chosen'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A customer says 'Je prendrai une crêpe au sucre.' What will they have?",
+    "options": [
+     "a cake with salt",
+     "a coffee with sugar",
+     "a crêpe with ham",
+     "a pancake with sugar"
+    ],
+    "answer": 3,
+    "explanation": "'Je prendrai' means I will have. 'Au sucre' means with sugar.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Dialogue: Serveur : 'Bonjour, vous désirez ?' Client : 'Un croque-monsieur et un jus de pomme.' Serveur : 'Très bien.' Client : 'Et l'addition, s'il vous plaît.' Serveur : 'Voilà, ça fait neuf euros.' What does the customer order to drink?",
+    "options": [
+     "an orange juice",
+     "an apple juice",
+     "a coffee",
+     "a bottle of water"
+    ],
+    "answer": 1,
+    "explanation": "'Un jus de pomme' is an apple juice. The croque-monsieur is food.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Prices: café 2,20 € ; croissant 1,40 €. Léa orders 'Deux cafés et un croissant, s'il vous plaît.' What is the total?",
+    "options": [
+     "€5.60",
+     "€5.80",
+     "€6.00",
+     "€3.60"
+    ],
+    "answer": 1,
+    "explanation": "2 × 2.20 = 4.40, and 4.40 + 1.40 = 5.80. The total is 5,80 € (cinq euros quatre-vingts).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Listening transcript: Client : 'Je voudrais une table pour trois personnes, s'il vous plaît.' Serveur : 'Désolé, c'est complet à l'intérieur. Il y a de la place à la terrasse.' What does the waiter say?",
+    "options": [
+     "The café is closed.",
+     "There is a table free inside only.",
+     "The terrace is full.",
+     "There is no space inside but there is space on the terrace."
+    ],
+    "answer": 3,
+    "explanation": "'Complet' means full, 'à l'intérieur' means inside, and 'de la place à la terrasse' means room on the terrace.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Sign: 'Menu enfant : un plat, une boisson et une glace, 7 €. Pas de menu enfant après 21 h.' Which statement is true?",
+    "options": [
+     "The children's menu is not served after 9 p.m.",
+     "It costs 21 euros.",
+     "It includes a starter and a dessert.",
+     "Adults must order it."
+    ],
+    "answer": 0,
+    "explanation": "'Pas... après 21 h' means not after 9 p.m. The price is 7 euros and the menu has a main, a drink and an ice cream.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A customer says 'Un thé sans sucre et un gâteau, s'il vous plaît.' What does he want?",
+    "options": [
+     "a tea with sugar and a cake",
+     "a coffee without sugar",
+     "a tea without sugar and a cake",
+     "a tea and a salad"
+    ],
+    "answer": 2,
+    "explanation": "'Sans' means without and 'avec' means with. The order is tea with no sugar plus a cake.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Ordering food and drink in French is a very practical situation, and it is a favourite for role-plays, dialogue reading and short transcripts. The language is predictable once you know a few polite phrases.\n\n## Key phrases for the customer\n- Bonjour, une table pour deux personnes, s'il vous plaît. (A table for two, please.)\n- Je voudrais... (I would like...)\n- Je prends... / Je prendrai... (I'll have... / I will have...)\n- Avez-vous...? / Vous avez...? (Do you have...?)\n- C'est combien ? / Ça fait combien ? (How much is it?)\n- L'addition, s'il vous plaît. (The bill, please.)\n- Merci, c'était très bon. (Thank you, it was very good.)\n\n## What the waiter says\n- Vous désirez ? / Qu'est-ce que vous désirez ? (What would you like?)\n- Vous avez choisi ? (Have you chosen?)\n- Et comme boisson ? (And to drink?)\n- Ce sera tout ? (Will that be all?)\n- Voilà. (Here you are.)\n- Ça fait dix euros. (That's ten euros.)\n\n## Menu vocabulary\n- une boisson chaude (hot drink): un café, un thé, un chocolat chaud\n- une boisson froide (cold drink): une eau minérale, une limonade, un jus de pomme\n- un croissant, une baguette, un sandwich au fromage, un croque-monsieur\n- une crêpe, une glace, une tarte aux pommes\n- le plat du jour (today's special), le menu (a fixed-price meal), la carte (the list of everything)\n- sans (without), avec (with): un thé sans sucre, un café avec du lait\n\n## Politeness and register\nAlways use \"vous\" and \"s'il vous plaît\" with the waiter. \"Je voudrais\" is much more polite than \"je veux\" (I want). Say \"Bonjour\" when you enter, and \"Merci, au revoir\" when you leave.\n\n## Prices\nFrench writes prices with a comma: 3,20 € is \"trois euros vingt\". 2,50 € is \"deux euros cinquante\". A price like 5,80 € can be read \"cinq euros quatre-vingts\". Practise adding two or three prices, because exams often ask for a total.\n\n## Worked example\nMenu: un café 2,20 €, un croissant 1,40 €. If you order two coffees and a croissant, calculate 2 × 2.20 = 4.40 and then add 1.40 to get 5.80 €. In French: \"Ça fait cinq euros quatre-vingts.\"\n\n## Common mistakes\n- Forgetting the article: \"Je voudrais café\" should be \"Je voudrais un café\".\n- Confusing \"la carte\" (the menu list) with \"le menu\" (a set meal).\n- Confusing \"sans\" (without) and \"avec\" (with), which changes the order completely.\n- Writing a decimal point instead of a comma for prices.\n\n## How this is examined\nTypical items include a café dialogue, a menu with prices, a sign about opening or menu times, and a short transcript in which customers order. You are usually asked to say what was ordered, calculate a total, or spot a detail such as \"no sugar\" or \"terrace only\". In the writing task you may be asked to write a short dialogue in a café using polite phrases.\n\nExam tip: Re-read the order word by word. Examiners often swap \"avec\" and \"sans\", or change a quantity, so the correct answer is not simply the first drink you notice.",
+  "flashcards": [
+   {
+    "front": "Je voudrais...",
+    "back": "I would like... (polite way to order)"
+   },
+   {
+    "front": "L'addition, s'il vous plaît.",
+    "back": "The bill, please."
+   },
+   {
+    "front": "Vous désirez ?",
+    "back": "What would you like? (waiter)"
+   },
+   {
+    "front": "Et comme boisson ?",
+    "back": "And to drink?"
+   },
+   {
+    "front": "sans / avec",
+    "back": "without / with: un thé sans sucre = a tea without sugar"
+   },
+   {
+    "front": "la carte / le menu",
+    "back": "the full list of dishes / a fixed-price meal"
+   },
+   {
+    "front": "C'est combien ?",
+    "back": "How much is it?"
+   },
+   {
+    "front": "3,20 €",
+    "back": "trois euros vingt (French uses a comma)"
+   },
+   {
+    "front": "un croque-monsieur",
+    "back": "a toasted ham and cheese sandwich"
+   }
+  ]
+ },
+ {
+  "subject": "french-ab-initio",
+  "grade": 5,
+  "topic": "Food and Shopping",
+  "subTopic": "Shopping, Prices and Clothes",
+  "questions": [
+   {
+    "content": "What does 'un pantalon' mean?",
+    "options": [
+     "a shirt",
+     "a skirt",
+     "a pair of trousers",
+     "a coat"
+    ],
+    "answer": 2,
+    "explanation": "'Un pantalon' is trousers (singular in French). A shirt is 'une chemise'.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'une chemise' mean?",
+    "options": [
+     "a shirt",
+     "a chemistry lesson",
+     "a jacket",
+     "a sock"
+    ],
+    "answer": 0,
+    "explanation": "'Une chemise' is a shirt. Do not confuse it with 'la chimie' (chemistry).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'des chaussures' mean?",
+    "options": [
+     "socks",
+     "gloves",
+     "hats",
+     "shoes"
+    ],
+    "answer": 3,
+    "explanation": "'Des chaussures' are shoes, and 'des chaussettes' are socks.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'Combien ça coûte ?' mean?",
+    "options": [
+     "Where is it?",
+     "How much does it cost?",
+     "What size is it?",
+     "When does it open?"
+    ],
+    "answer": 1,
+    "explanation": "'Combien' is how much and 'coûter' is to cost.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'une robe' mean?",
+    "options": [
+     "a robe for a bath",
+     "a dress",
+     "a coat",
+     "a jumper"
+    ],
+    "answer": 1,
+    "explanation": "'Une robe' is a dress. A dressing gown is 'une robe de chambre'.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "'Ça coûte vingt euros.' What is the price?",
+    "options": [
+     "€2",
+     "€12",
+     "€200",
+     "€20"
+    ],
+    "answer": 3,
+    "explanation": "'Vingt' is twenty, so the price is 20 euros.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 'Je cherche un pull' mean?",
+    "options": [
+     "I am looking for a jumper.",
+     "I am buying a pull.",
+     "I am wearing a jumper.",
+     "I like this jumper."
+    ],
+    "answer": 0,
+    "explanation": "'Chercher' means to look for. A 'pull' is a jumper.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The shop assistant asks 'Quelle taille faites-vous ?' What does she want to know?",
+    "options": [
+     "your colour",
+     "your name",
+     "your size",
+     "your budget"
+    ],
+    "answer": 2,
+    "explanation": "'La taille' is size. 'Quelle pointure ?' is used for shoe size.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which phrase correctly says 'a green skirt'?",
+    "options": [
+     "un jupe vert",
+     "une jupe vert",
+     "une jupe verte",
+     "une jupes vertes"
+    ],
+    "answer": 2,
+    "explanation": "'Jupe' is feminine so the adjective takes an extra e: 'verte'. 'Une' agrees with the feminine noun.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Complete the sentence: 'Les chaussettes sont ___.'",
+    "options": [
+     "noires",
+     "noir",
+     "noire",
+     "noirs"
+    ],
+    "answer": 0,
+    "explanation": "'Chaussettes' is feminine plural, so the adjective adds e and s: 'noires'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 'C'est trop cher' mean?",
+    "options": [
+     "It is very cheap.",
+     "It is the right price.",
+     "It is not available.",
+     "It is too expensive."
+    ],
+    "answer": 3,
+    "explanation": "'Trop' means too and 'cher' means expensive (or dear).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A shop window says 'Soldes !' What does it mean?",
+    "options": [
+     "Closed!",
+     "Sale!",
+     "New arrivals!",
+     "Free gift!"
+    ],
+    "answer": 1,
+    "explanation": "'Les soldes' are the sales. 'C'est en solde' means it is on sale.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "You want to try on a jacket. What do you ask?",
+    "options": [
+     "Je peux l'acheter ?",
+     "Je peux l'essayer ?",
+     "Je peux le laver ?",
+     "Je peux le payer ?"
+    ],
+    "answer": 1,
+    "explanation": "'Essayer' means to try on. 'Acheter' is to buy.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Price tags: T-shirt 12,50 € ; jean 39,90 €. Chloé buys both. What is the total?",
+    "options": [
+     "€51.40",
+     "€52.30",
+     "€62.40",
+     "€52.40"
+    ],
+    "answer": 3,
+    "explanation": "12.50 + 39.90 = 52.40. In French: 'cinquante-deux euros quarante'.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A shop sign says: 'Pull : 40 €. Moins 25 % aujourd'hui.' What is the price today?",
+    "options": [
+     "€30",
+     "€15",
+     "€25",
+     "€35"
+    ],
+    "answer": 0,
+    "explanation": "25 % of 40 is 10, and 40 − 10 = 30 euros. 'Moins' here means a reduction.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Listening transcript: Cliente : 'Je voudrais cette veste en taille M.' Vendeur : 'Désolé, nous n'avons plus de M en bleu, mais nous avons du L.' Cliente : 'Alors je prends la noire.' What does the customer decide?",
+    "options": [
+     "She buys the blue jacket in size L.",
+     "She leaves without buying.",
+     "She buys the black jacket.",
+     "She buys a black skirt."
+    ],
+    "answer": 2,
+    "explanation": "No blue M is left, so she says 'je prends la noire' (I'll take the black one).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence is completely correct?",
+    "options": [
+     "Elle porte une jupe blanc et des chaussures noir.",
+     "Elle porte un jupe blanche et des chaussures noires.",
+     "Elle porte une jupe blanche et des chaussures noires.",
+     "Elle porte une jupe blanche et des chaussures noire."
+    ],
+    "answer": 2,
+    "explanation": "'Jupe' (f. sing.) needs 'blanche'; 'chaussures' (f. plural) needs 'noires'. Only one option agrees everywhere.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Sign: 'Magasin ouvert du lundi au samedi, de 9 h à 19 h. Fermé le dimanche.' It is Sunday at 10 a.m. What is true?",
+    "options": [
+     "The shop is closed.",
+     "The shop is open until 19 h.",
+     "The shop opens at 9 h only.",
+     "The shop is closed on Saturday."
+    ],
+    "answer": 0,
+    "explanation": "'Fermé le dimanche' means closed on Sunday. It is open Monday to Saturday.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Shopping and clothes appear in many tasks, from reading a shop sign to listening to a dialogue in a clothes shop. You need clothing vocabulary, number skills for prices and the rules of adjective agreement.\n\n## Clothes\n- un pantalon (trousers), un jean (jeans), un short (shorts)\n- une chemise (a shirt), un tee-shirt, un pull (a jumper), une veste (a jacket), un manteau (a coat)\n- une robe (a dress), une jupe (a skirt)\n- des chaussures (shoes), des chaussettes (socks), des baskets (trainers)\n- un chapeau (a hat), une écharpe (a scarf), des gants (gloves)\n\n## Colours\nrouge (red), bleu (blue), vert (green), jaune (yellow), noir (black), blanc (white), gris (grey), rose (pink), marron (brown, never changes). Colours are adjectives, so they agree with the noun: \"une jupe verte\", \"des chaussures noires\", \"un pull rouge\". Add e for feminine and s for plural. Rouge, jaune and rose already end in e, so they only add s in the plural.\n\n## Shopping language\n- Je cherche... (I am looking for...)\n- Vous avez ça en bleu ? (Do you have this in blue?)\n- Quelle taille faites-vous ? (What size are you?)\n- Je peux l'essayer ? (Can I try it on?)\n- Ça me va bien. (It suits/fits me well.)\n- C'est trop grand / petit / cher. (It is too big / small / expensive.)\n- Je le prends. (I'll take it.)\n- Je peux payer par carte ? (Can I pay by card?)\n- les soldes (the sales), en solde (on sale), une réduction (a discount)\n\n## Prices and numbers\nRemember the numbers 20 to 100: vingt, trente, quarante, cinquante, soixante, soixante-dix (60+10), quatre-vingts (4×20), quatre-vingt-dix (4×20+10), cent. A price like 39,90 € is \"trente-neuf euros quatre-vingt-dix\". For a total, add carefully: 12,50 + 39,90 = 52,40.\n\n## Percentages and reductions\n\"Moins 25 %\" means 25 % off. Example: a 40 € jumper with 25 % off costs 40 − 10 = 30 €. To find 25 %, divide by four.\n\n## Opening hours\nSigns say \"ouvert\" (open) and \"fermé\" (closed), often with days: \"du lundi au samedi\" (Monday to Saturday), \"tous les jours\" (every day). Many French shops are closed on Sundays or Monday mornings.\n\n## Common mistakes\n- Forgetting agreement: \"une jupe noir\" should be \"une jupe noire\".\n- Using the English word order. French puts colour after the noun: \"un pull bleu\".\n- Saying \"trop\" when you mean \"très\". \"Trop cher\" is too expensive; \"très cher\" is very expensive.\n- Confusing \"une chemise\" (shirt) with chemistry.\n\n## How this is examined\nLook for shop adverts, price tags, sales posters, and a short dialogue between a customer and an assistant. You might have to calculate a total, work out a discount, or decide which item matches a description (for example \"une robe rouge à 30 euros\"). In writing you may describe what you wear to school or at the weekend, or write a short shopping message.\n\nExam tip: Check three things for each item: the colour, the size and the price. Wrong answers often match two of these but fail on the third.",
+  "flashcards": [
+   {
+    "front": "un pantalon / une jupe / une robe",
+    "back": "trousers / a skirt / a dress"
+   },
+   {
+    "front": "des chaussures / des chaussettes",
+    "back": "shoes / socks"
+   },
+   {
+    "front": "Quelle taille faites-vous ?",
+    "back": "What size are you?"
+   },
+   {
+    "front": "Je peux l'essayer ?",
+    "back": "Can I try it on?"
+   },
+   {
+    "front": "C'est trop cher.",
+    "back": "It is too expensive."
+   },
+   {
+    "front": "une jupe verte / des chaussures noires",
+    "back": "a green skirt / black shoes (colours agree with the noun)"
+   },
+   {
+    "front": "les soldes",
+    "back": "the sales (en solde = on sale)"
+   },
+   {
+    "front": "Moins 25 %",
+    "back": "25 % off (a 40 € item costs 30 €)"
+   },
+   {
+    "front": "39,90 €",
+    "back": "trente-neuf euros quatre-vingt-dix"
+   }
+  ]
+ }
+]

@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "french-ab-initio",
+  "grade": 5,
+  "topic": "French Grammar Essentials",
+  "subTopic": "Present Tense of Regular and Key Irregular Verbs",
+  "questions": [
+   {
+    "content": "Choose the correct form: 'Je ___ français.' (parler)",
+    "options": [
+     "parles",
+     "parle",
+     "parlons",
+     "parlent"
+    ],
+    "answer": 1,
+    "explanation": "With 'je', -er verbs end in -e: je parle.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which form of 'être' goes with 'nous'?",
+    "options": [
+     "sommes",
+     "sont",
+     "êtes",
+     "est"
+    ],
+    "answer": 0,
+    "explanation": "être: je suis, tu es, il est, nous sommes, vous êtes, ils sont.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which sentence means 'They have a dog'?",
+    "options": [
+     "Ils avons un chien.",
+     "Ils ont une chien.",
+     "Ils sont un chien.",
+     "Ils ont un chien."
+    ],
+    "answer": 3,
+    "explanation": "avoir: ils ont. 'Sont' comes from être, and 'chien' is masculine (un).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the correct form of 'aller' with 'je'?",
+    "options": [
+     "vas",
+     "va",
+     "vais",
+     "allons"
+    ],
+    "answer": 2,
+    "explanation": "aller: je vais, tu vas, il va, nous allons, vous allez, ils vont.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which sentence is correct?",
+    "options": [
+     "Elle habites à Paris.",
+     "Elle habite à Paris.",
+     "Elle habitent à Paris.",
+     "Elle habitons à Paris."
+    ],
+    "answer": 1,
+    "explanation": "With 'elle', regular -er verbs end in -e: elle habite.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Complete: 'Vous ___ de la musique ?' (faire)",
+    "options": [
+     "faites",
+     "faisez",
+     "faisons",
+     "font"
+    ],
+    "answer": 0,
+    "explanation": "faire: je fais, tu fais, il fait, nous faisons, vous faites, ils font. 'Faites' is irregular.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is the correct present tense of 'finir' with 'nous'?",
+    "options": [
+     "finons",
+     "finions",
+     "finissent",
+     "finissons"
+    ],
+    "answer": 3,
+    "explanation": "Regular -ir verbs add -iss- in the plural: nous finissons, vous finissez, ils finissent.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Choose the correct sentence.",
+    "options": [
+     "Nous mangons à midi.",
+     "Nous mangez à midi.",
+     "Nous mangeons à midi.",
+     "Nous mange à midi."
+    ],
+    "answer": 2,
+    "explanation": "Verbs in -ger keep the e before -ons to keep a soft g: nous mangeons.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the correct form of 'prendre' with 'ils'?",
+    "options": [
+     "prendent",
+     "prennent",
+     "prenons",
+     "prend"
+    ],
+    "answer": 1,
+    "explanation": "prendre: je prends, tu prends, il prend, nous prenons, vous prenez, ils prennent (double n).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A friend asks: 'Tu veux venir au cinéma ?' Which reply says 'Yes, I can come on Saturday'?",
+    "options": [
+     "Oui, je peux venir samedi.",
+     "Oui, je pouvons venir samedi.",
+     "Oui, je peut venir samedi.",
+     "Oui, je pouvoir venir samedi."
+    ],
+    "answer": 0,
+    "explanation": "pouvoir: je peux, tu peux, il peut. After 'peux' the next verb stays in the infinitive (venir).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence uses the vowel rule correctly?",
+    "options": [
+     "Je aime le chocolat.",
+     "Je'aime le chocolat.",
+     "J'aimes le chocolat.",
+     "J'aime le chocolat."
+    ],
+    "answer": 3,
+    "explanation": "Je becomes j' before a vowel or silent h, and the verb takes the -e ending: j'aime.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read: 'Mes parents vendent leur voiture.' What does 'vendent' mean in this sentence?",
+    "options": [
+     "are buying",
+     "are washing",
+     "are selling",
+     "are driving"
+    ],
+    "answer": 2,
+    "explanation": "'Vendre' = to sell. Regular -re verbs: ils vendent.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence contains an error?",
+    "options": [
+     "Tu vas au cinéma et ton frère va au parc.",
+     "Tu vas au cinéma et ton frère vont au parc.",
+     "Nous allons au cinéma et eux vont au parc.",
+     "Vous allez au cinéma et ils vont au parc."
+    ],
+    "answer": 1,
+    "explanation": "'Ton frère' is singular (il), so the verb is 'va', not 'vont'.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which pair of verbs completes the sentence correctly? 'Mon père ___ à Lyon et mes sœurs ___ à Nice.' (habiter)",
+    "options": [
+     "habite / habitent",
+     "habites / habite",
+     "habite / habites",
+     "habitent / habite"
+    ],
+    "answer": 0,
+    "explanation": "Singular subject: habite; plural subject: habitent. The endings -e and -ent sound the same but are written differently.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence correctly expresses 'We are going to eat at the café'?",
+    "options": [
+     "Nous allons mangeons au café.",
+     "Nous vont manger au café.",
+     "Nous allez manger au café.",
+     "Nous allons manger au café."
+    ],
+    "answer": 3,
+    "explanation": "Aller (conjugated) + infinitive expresses the near future: nous allons manger. 'Nous' goes with 'allons'.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence has every verb correct?",
+    "options": [
+     "Elle est quinze ans et elle a sportive.",
+     "Elle a quinze ans et elle a sportive.",
+     "Elle a quinze ans et elle est sportive.",
+     "Elle est quinze ans et elle est sportive."
+    ],
+    "answer": 2,
+    "explanation": "French uses avoir for age (elle a quinze ans) and être with adjectives (elle est sportive).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A message says: 'Je me lève à sept heures, puis je prends mon petit déjeuner.' Which verb is reflexive?",
+    "options": [
+     "prends",
+     "me lève",
+     "lève",
+     "petit"
+    ],
+    "answer": 1,
+    "explanation": "'Se lever' (to get up) is reflexive: je me lève. 'Prends' is a normal verb (prendre).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which is the correct question-and-answer pair?",
+    "options": [
+     "Vous pouvez parler anglais ? Oui, nous pouvons.",
+     "Vous pouvez parler anglais ? Oui, nous pouvez.",
+     "Vous pouvez parler anglais ? Oui, je pouvons.",
+     "Vous pouvez parler anglais ? Oui, nous peuvent."
+    ],
+    "answer": 0,
+    "explanation": "The answer subject nous needs 'pouvons'. -ez goes with vous, -ent with ils/elles.",
+    "difficulty": "medium"
+   }
+  ],
+  "note": "## Why this matters\nAlmost every French sentence needs a verb in the right form. At beginner level you mainly use the present tense, so correct verb endings are a big source of accuracy marks in writing and help you decode who does what in reading and listening.\n\n## The three regular patterns\nRegular -er verbs (the biggest group): remove -er, add endings.\n- parler: je parle, tu parles, il/elle parle, nous parlons, vous parlez, ils/elles parlent\nRegular -ir verbs: finir: je finis, tu finis, il finit, nous finissons, vous finissez, ils finissent\nRegular -re verbs: vendre: je vends, tu vends, il vend, nous vendons, vous vendez, ils vendent\nNote that the je form and the il form of -er verbs both end in -e. The -es of tu and -ent of ils are silent when you speak, so you must learn them for writing.\n\n## Key irregular verbs\n- être (to be): je suis, tu es, il est, nous sommes, vous êtes, ils sont\n- avoir (to have): j'ai, tu as, il a, nous avons, vous avez, ils ont\n- aller (to go): je vais, tu vas, il va, nous allons, vous allez, ils vont\n- faire (to do, make): je fais, tu fais, il fait, nous faisons, vous faites, ils font\n- prendre (to take): je prends, tu prends, il prend, nous prenons, vous prenez, ils prennent\n- vouloir (to want): je veux, tu veux, il veut, nous voulons, vous voulez, ils veulent\n- pouvoir (can): je peux, tu peux, il peut, nous pouvons, vous pouvez, ils peuvent\n\n## Special spelling points\n- Before a vowel, je becomes j': j'aime, j'habite.\n- Verbs in -ger add an e before -ons: nous mangeons. Verbs in -cer change to ç: nous commençons.\n- Reflexive verbs have a pronoun: je me lève, tu te lèves, il se lève, nous nous levons.\n- Use avoir for age: J'ai quinze ans (not je suis quinze ans).\n\n## Useful structures\n- aller + infinitive = going to (near future): Je vais jouer au foot.\n- vouloir / pouvoir + infinitive: Je veux sortir. Tu peux venir ?\n- Keep your own sentences simple and correct rather than ambitious and wrong.\n\n## Worked example\nNous habitons à Lille. Mon père travaille dans une banque et ma mère est professeur. Le week-end, nous faisons du vélo.\nMeaning: We live in Lille. My father works in a bank and my mother is a teacher. At weekends we go cycling.\n\n## Common mistakes\n- Using the infinitive after a subject: wrong je parler; right je parle.\n- Using a singular verb with a plural subject: wrong mes parents habite; right mes parents habitent.\n- Writing vous faisez (right: vous faites) or ils prendent (right: ils prennent).\n- Dropping j' before a vowel: wrong je aime.\n\n## How this is examined\nIn reading tasks, a verb ending reveals who is acting (ils ont versus il a). In writing, markers reward verbs that agree with their subject in sentences you create yourself. Multiple-choice items often offer the same verb with four different endings.\n\nExam tip: Before you write a verb, ask \"who is doing it?\" and look at your list. Check every verb in your final answer once for subject agreement.",
+  "flashcards": [
+   {
+    "front": "parler (regular -er)",
+    "back": "je parle, tu parles, il parle, nous parlons, vous parlez, ils parlent"
+   },
+   {
+    "front": "être",
+    "back": "je suis, tu es, il est, nous sommes, vous êtes, ils sont"
+   },
+   {
+    "front": "avoir",
+    "back": "j'ai, tu as, il a, nous avons, vous avez, ils ont. Also used for age: J'ai quinze ans."
+   },
+   {
+    "front": "aller",
+    "back": "je vais, tu vas, il va, nous allons, vous allez, ils vont"
+   },
+   {
+    "front": "faire",
+    "back": "je fais, tu fais, il fait, nous faisons, vous faites, ils font"
+   },
+   {
+    "front": "finir (regular -ir)",
+    "back": "je finis, tu finis, il finit, nous finissons, vous finissez, ils finissent"
+   },
+   {
+    "front": "prendre",
+    "back": "je prends, tu prends, il prend, nous prenons, vous prenez, ils prennent (double n)"
+   },
+   {
+    "front": "vouloir / pouvoir",
+    "back": "veux, veux, veut, voulons, voulez, veulent / peux, peux, peut, pouvons, pouvez, peuvent"
+   },
+   {
+    "front": "nous mangeons / nous commençons",
+    "back": "Verbs in -ger keep the e (mangeons); verbs in -cer take ç (commençons) in the nous form."
+   }
+  ]
+ },
+ {
+  "subject": "french-ab-initio",
+  "grade": 5,
+  "topic": "French Grammar Essentials",
+  "subTopic": "Articles, Questions and Negatives",
+  "questions": [
+   {
+    "content": "Which article goes with 'livre' (masculine)?",
+    "options": [
+     "une",
+     "un",
+     "des",
+     "la"
+    ],
+    "answer": 1,
+    "explanation": "'Un livre' is a book. 'Livre' is a masculine noun, so it takes 'un'; 'une' is for feminine nouns and 'des' for plurals.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'les' mean in 'les élèves'?",
+    "options": [
+     "the (plural)",
+     "a",
+     "some (feminine)",
+     "of the"
+    ],
+    "answer": 0,
+    "explanation": "'Les' is the plural definite article, for masculine and feminine nouns.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which sentence is a question?",
+    "options": [
+     "Tu aimes le sport.",
+     "Je n'aime pas le sport.",
+     "Il aime le sport.",
+     "Tu aimes le sport ?"
+    ],
+    "answer": 3,
+    "explanation": "Raising the voice (and the question mark) turns a statement into a question.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "How do you say 'I do not like fish'?",
+    "options": [
+     "Je aime pas le poisson.",
+     "Je ne aime pas le poisson.",
+     "Je n'aime pas le poisson.",
+     "Je pas aime le poisson."
+    ],
+    "answer": 2,
+    "explanation": "Negative = ne ... pas around the verb; ne becomes n' before a vowel: je n'aime pas.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'Où habites-tu ?' ask?",
+    "options": [
+     "When do you live?",
+     "Where do you live?",
+     "Who lives there?",
+     "How old are you?"
+    ],
+    "answer": 1,
+    "explanation": "'Où' = where; 'habites-tu' = do you live (inverted form).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Choose the right article: 'Je mange ___ pain.' (some bread)",
+    "options": [
+     "du",
+     "de la",
+     "des",
+     "un"
+    ],
+    "answer": 0,
+    "explanation": "Pain is masculine, so 'some bread' = du pain (de + le).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence is correct?",
+    "options": [
+     "Je vais à le marché et à la pharmacie.",
+     "Je vais au marché et au pharmacie.",
+     "Je vais aux marché et à la pharmacie.",
+     "Je vais au marché et à la pharmacie."
+    ],
+    "answer": 3,
+    "explanation": "à + le = au (au marché). Pharmacie is feminine, so à la pharmacie.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Complete the question: '___ tu fais le samedi ?' (What do you do on Saturdays?)",
+    "options": [
+     "Qui est-ce que",
+     "Où est-ce que",
+     "Qu'est-ce que",
+     "Quand est-ce que"
+    ],
+    "answer": 2,
+    "explanation": "'Qu'est-ce que' asks 'what'. Qui = who, où = where, quand = when.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which question asks for a reason?",
+    "options": [
+     "Comment tu ris ?",
+     "Pourquoi tu ris ?",
+     "Combien tu ris ?",
+     "Quand tu ris ?"
+    ],
+    "answer": 1,
+    "explanation": "'Pourquoi' = why. Comment = how, combien = how much/many, quand = when.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is the correct negative form of 'J'ai un frère'?",
+    "options": [
+     "Je n'ai pas de frère.",
+     "Je n'ai pas un frère.",
+     "Je n'ai pas du frère.",
+     "Je ne pas ai de frère."
+    ],
+    "answer": 0,
+    "explanation": "After a negative, un/une/des/du change to de (or d'): Je n'ai pas de frère.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 'Je ne mange jamais de viande' mean?",
+    "options": [
+     "I always eat meat.",
+     "I do not eat meat today.",
+     "I sometimes eat meat.",
+     "I never eat meat."
+    ],
+    "answer": 3,
+    "explanation": "'Ne ... jamais' = never. 'De' replaces 'de la/du' after a negative.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is a correct question using 'est-ce que'?",
+    "options": [
+     "Est-ce que habites tu ici ?",
+     "Est-ce tu habites que ici ?",
+     "Est-ce que tu habites ici ?",
+     "Que est-ce tu habites ici ?"
+    ],
+    "answer": 2,
+    "explanation": "'Est-ce que' goes before the subject and verb: Est-ce que tu habites ici ?",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence is entirely correct?",
+    "options": [
+     "Il n'y a pas une pharmacie dans la rue.",
+     "Il n'y a pas de pharmacie dans la rue.",
+     "Il ne y a pas de pharmacie dans la rue.",
+     "Il y a pas de pharmacie dans la rue."
+    ],
+    "answer": 1,
+    "explanation": "Ne becomes n' before y; and 'une pharmacie' becomes 'de pharmacie' after pas. Spoken French often drops ne, but formal writing keeps it.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Read: 'Je n'aime pas les fruits, mais j'adore les légumes.' Which statement is correct?",
+    "options": [
+     "The speaker likes vegetables but not fruit.",
+     "The speaker likes fruit but not vegetables.",
+     "The speaker likes neither.",
+     "The speaker likes both."
+    ],
+    "answer": 0,
+    "explanation": "'Je n'aime pas' = I do not like (fruits); 'mais' signals a contrast, 'j'adore' (vegetables).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which question and answer match correctly?",
+    "options": [
+     "Combien coûte ce livre ? Il est rouge.",
+     "Quand coûte ce livre ? Il coûte douze euros.",
+     "Comment coûte ce livre ? Il est à la table.",
+     "Combien coûte ce livre ? Il coûte douze euros."
+    ],
+    "answer": 3,
+    "explanation": "'Combien' asks the price or quantity, and the answer gives a price. The other options mismatch the question word.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence is correct for 'We do not have any apples'?",
+    "options": [
+     "Nous n'avons pas des pommes.",
+     "Nous n'avons pas de la pommes.",
+     "Nous n'avons pas de pommes.",
+     "Nous ne avons pas de pommes."
+    ],
+    "answer": 2,
+    "explanation": "Des becomes de after a negative, and ne becomes n' before a vowel (avons).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which is the correct inverted question for 'Do you (vous) have a pen?'",
+    "options": [
+     "Vous avez-vous un stylo ?",
+     "Avez-vous un stylo ?",
+     "Avez un stylo vous ?",
+     "Est-ce avez-vous un stylo ?"
+    ],
+    "answer": 1,
+    "explanation": "Inversion: verb first, then a hyphen and the pronoun. 'Avez-vous un stylo ?' is formal and correct.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which choice completes the dialogue? '— ___ est ton professeur de français ? — C'est Madame Roux.'",
+    "options": [
+     "Qui",
+     "Quand",
+     "Où",
+     "Combien"
+    ],
+    "answer": 0,
+    "explanation": "The answer is a person (Madame Roux), so the question word is 'Qui' (who).",
+    "difficulty": "medium"
+   }
+  ],
+  "note": "## Why this matters\nArticles, questions and negatives are the three small structures that appear in almost every task. If you can build a question and its negative answer correctly, you can handle dialogues, emails and interviews.\n\n## Articles\nDefinite (the): le (masc.), la (fem.), l' (before a vowel), les (plural).\nIndefinite (a, an, some): un (masc.), une (fem.), des (plural).\nPartitive (some, any, with food and drink): du (masc.), de la (fem.), de l' (vowel), des (plural). Je mange du pain. Elle boit de l'eau.\nContractions with à and de:\n- à + le = au, à + les = aux (but à la and à l' do not change): Je vais au parc. Il parle aux élèves.\n- de + le = du, de + les = des: la voiture du professeur.\n\n## Asking questions\nThree ways to ask the same thing:\n- Intonation: Tu habites ici ? (informal)\n- Est-ce que: Est-ce que tu habites ici ?\n- Inversion (formal): Habites-tu ici ? Avez-vous un stylo ?\nQuestion words:\n- qui (who), que / qu'est-ce que (what), où (where), quand (when), comment (how), pourquoi (why), combien (how much / how many), quel / quelle / quels / quelles (which, what)\n- Example: Où est-ce que tu habites ? Quel âge as-tu ?\nAnswer pourquoi with parce que: Pourquoi ? Parce que j'aime ça.\n\n## Negatives\nPut ne ... pas around the verb: Je ne parle pas allemand. Ne becomes n' before a vowel: Il n'aime pas ça.\nOther negatives follow the same pattern:\n- ne ... jamais (never): Je ne mange jamais de viande.\n- ne ... plus (no longer, no more): Il ne joue plus au tennis.\n- ne ... rien (nothing): Je ne sais rien.\nAfter a negative, un / une / des / du / de la change to de (d' before a vowel):\n- J'ai un frère. → Je n'ai pas de frère.\n- Elle a des amis. → Elle n'a pas d'amis.\nException: after être the article does not change: Ce n'est pas un chat.\n\n## Worked example\nEst-ce que tu aimes le sport ? Non, je n'aime pas le sport, mais j'adore la musique. Je joue du piano.\nMeaning: Do you like sport? No, I do not like sport, but I love music. I play the piano.\n\n## Common mistakes\n- Forgetting n' before a vowel: wrong je ne aime pas.\n- Leaving un or des after pas: wrong je n'ai pas un frère.\n- Writing à le or de le (wrong) instead of au and du.\n- Inverting in the wrong way: wrong Vous avez-vous ... (the pronoun appears once only).\n\n## How this is examined\nIn reading, you may have to identify what question word fits an answer (who, where, when). In writing you are expected to produce at least one question and one negative sentence. MCQs usually test contractions (au, du), the negative article de, and matching question words to answers.\n\nExam tip: To build a negative, find the verb, wrap ne ... pas around it, then check whether the noun after it needs de instead of un, une, des.",
+  "flashcards": [
+   {
+    "front": "le / la / l' / les",
+    "back": "the (masculine / feminine / before a vowel / plural)"
+   },
+   {
+    "front": "un / une / des",
+    "back": "a or an (masculine / feminine) / some or plural a"
+   },
+   {
+    "front": "du / de la / de l' / des",
+    "back": "some (masculine / feminine / vowel / plural). Je mange du pain; elle boit de l'eau."
+   },
+   {
+    "front": "au / aux",
+    "back": "to the: à + le = au; à + les = aux. À la and à l' do not change."
+   },
+   {
+    "front": "Est-ce que tu ... ?",
+    "back": "A question form: place before subject and verb. Est-ce que tu habites ici ? (Do you live here?)"
+   },
+   {
+    "front": "qui / où / quand / pourquoi / comment / combien",
+    "back": "who / where / when / why / how / how much or how many"
+   },
+   {
+    "front": "ne ... pas",
+    "back": "not. Je ne parle pas. Before a vowel: Je n'aime pas."
+   },
+   {
+    "front": "ne ... jamais / plus / rien",
+    "back": "never / no longer / nothing: Je ne mange jamais de viande."
+   },
+   {
+    "front": "Je n'ai pas de frère.",
+    "back": "I do not have a brother. After a negative un, une, des and du become de or d'."
+   }
+  ]
+ },
+ {
+  "subject": "french-ab-initio",
+  "grade": 5,
+  "topic": "French Grammar Essentials",
+  "subTopic": "Adjectives, Agreement and Possessives",
+  "questions": [
+   {
+    "content": "Which adjective agrees with 'une fille'?",
+    "options": [
+     "petit",
+     "petite",
+     "petits",
+     "petites"
+    ],
+    "answer": 1,
+    "explanation": "Fille is feminine singular, so the adjective takes -e: petite.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'mon frère' mean?",
+    "options": [
+     "my brother",
+     "your brother",
+     "his brother",
+     "our brother"
+    ],
+    "answer": 0,
+    "explanation": "Mon = my (masculine singular); ton = your; son = his/her; notre = our.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which phrase is correct for 'my sister'?",
+    "options": [
+     "mon sœur",
+     "mes sœur",
+     "me sœur",
+     "ma sœur"
+    ],
+    "answer": 3,
+    "explanation": "Sœur is feminine, so ma. Mon (masculine), mes (plural).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which sentence is correct?",
+    "options": [
+     "Les livres sont intéressant.",
+     "Les livres est intéressants.",
+     "Les livres sont intéressants.",
+     "Les livres sont intéressante."
+    ],
+    "answer": 2,
+    "explanation": "Plural noun, plural adjective (+ s), and the plural verb 'sont'.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'mes amis' mean?",
+    "options": [
+     "my friend (male)",
+     "my friends",
+     "our friends",
+     "his friend"
+    ],
+    "answer": 1,
+    "explanation": "Mes is the plural of mon/ma, so mes amis = my friends.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Choose the correct adjective: 'Ma mère est ___.' (grand)",
+    "options": [
+     "grande",
+     "grand",
+     "grands",
+     "grandes"
+    ],
+    "answer": 0,
+    "explanation": "Mère is feminine singular, so grande.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is the feminine of 'heureux'?",
+    "options": [
+     "heureux",
+     "heureuxe",
+     "heureuses",
+     "heureuse"
+    ],
+    "answer": 3,
+    "explanation": "Adjectives in -eux change to -euse in the feminine: heureux → heureuse.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Choose the correct possessive: 'Anna a un chat. ___ chat s'appelle Mimi.'",
+    "options": [
+     "Sa",
+     "Ses",
+     "Son",
+     "Leur"
+    ],
+    "answer": 2,
+    "explanation": "Son/sa/ses agree with the noun possessed, not the owner. Chat is masculine singular, so son.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence is correct?",
+    "options": [
+     "J'ai une nouveau voiture.",
+     "J'ai une nouvelle voiture.",
+     "J'ai un nouvelle voiture.",
+     "J'ai une voiture nouveau."
+    ],
+    "answer": 1,
+    "explanation": "Nouveau changes to nouvelle with a feminine noun, and it usually goes before the noun.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Where does the adjective go? 'Un chat ___' (noir)",
+    "options": [
+     "Un chat noir",
+     "Un noir chat",
+     "Noir un chat",
+     "Un chat noirs"
+    ],
+    "answer": 0,
+    "explanation": "Colours come after the noun, and agree with it: un chat noir.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which phrase means 'our house'?",
+    "options": [
+     "nos maison",
+     "votre maison",
+     "leur maison",
+     "notre maison"
+    ],
+    "answer": 3,
+    "explanation": "Notre = our (singular). Nos is the plural; votre = your (vous).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence uses the vowel rule correctly?",
+    "options": [
+     "Ma amie est française.",
+     "Mon amie est français.",
+     "Mon amie est française.",
+     "Ma amie est français."
+    ],
+    "answer": 2,
+    "explanation": "Before a feminine noun starting with a vowel, use mon instead of ma for sound. The adjective still agrees with the girl: française.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence is entirely correct?",
+    "options": [
+     "Mes cousines sont grand et sportif.",
+     "Mes cousines sont grandes et sportives.",
+     "Mes cousine sont grandes et sportive.",
+     "Mes cousines est grandes et sportives."
+    ],
+    "answer": 1,
+    "explanation": "Feminine plural subject: cousines, plural verb sont, adjectives with -es.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Read: 'Léo parle de sa sœur et de ses parents.' Why is it 'sa' and not 'son'?",
+    "options": [
+     "Because sœur is a feminine noun",
+     "Because Léo is a girl",
+     "Because there is more than one sister",
+     "Because Léo's sister is older than him"
+    ],
+    "answer": 0,
+    "explanation": "Son/sa/ses agree with the noun owned, not with the owner. Sœur is feminine singular, so sa; parents is plural, so ses. Léo's own gender does not matter.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence is correct for 'Their friends are nice'?",
+    "options": [
+     "Leur amis sont gentils.",
+     "Leurs amis sont gentil.",
+     "Leurs ami sont gentils.",
+     "Leurs amis sont gentils."
+    ],
+    "answer": 3,
+    "explanation": "Leurs agrees with plural 'amis', and the adjective gentils takes -s.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which is the correct French for 'a beautiful girl'?",
+    "options": [
+     "une beau fille",
+     "une beaue fille",
+     "une belle fille",
+     "un belle fille"
+    ],
+    "answer": 2,
+    "explanation": "Beau becomes belle before a feminine noun. The article must also be feminine (une).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Choose the correct phrase: 'her brothers' when talking about Marie.",
+    "options": [
+     "sa frères",
+     "ses frères",
+     "ses frère",
+     "leurs frères"
+    ],
+    "answer": 1,
+    "explanation": "Frères is plural, so ses is used (the owner's gender does not matter).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which description is grammatically correct?",
+    "options": [
+     "Mon petit frère est sympa et mes grandes sœurs sont drôles.",
+     "Mon petit frère est sympas et mes grandes sœurs sont drôle.",
+     "Ma petit frère est sympa et mes grande sœurs sont drôles.",
+     "Mon petite frère est sympa et mes grandes sœurs sont drôles."
+    ],
+    "answer": 0,
+    "explanation": "Petit/frère are masculine singular, grandes/sœurs are feminine plural, drôles agrees with sœurs, and sympa is invariable in the singular and plural.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why this matters\nDescribing people and things uses adjectives and possessives: my brother is tall, her sisters are friendly. French makes these words agree with the noun, so accurate agreement is one of the clearest signals of good writing at beginner level.\n\n## Basic agreement\nMost adjectives change like this:\n- masculine singular: grand\n- feminine singular: add -e → grande\n- masculine plural: add -s → grands\n- feminine plural: add -es → grandes\nIf the masculine already ends in -e, the feminine does not change: jeune, drôle and rouge stay the same. The everyday word sympa does not add -e either: une fille sympa.\nThe adjective agrees with the noun, not with the speaker: Mes sœurs sont petites.\n\n## Common irregular patterns\n- -eux → -euse: heureux → heureuse\n- -if → -ive: sportif → sportive\n- -on / -en → -onne / -enne: bon → bonne\n- blanc → blanche, long → longue, gentil → gentille\n- beau → belle (nouveau → nouvelle, vieux → vieille); before a masculine vowel noun: un bel homme, un nouvel ami\n- Invariable colours: marron (brown), orange (orange)\n\n## Where does the adjective go?\nMost adjectives come after the noun: un chat noir, une voiture rouge, une fille sympa.\nA small group come before: petit, grand, jeune, vieux, beau, joli, bon, mauvais, nouveau, gros. Un petit garçon, une jolie maison.\n\n## Possessive adjectives\nThese agree with the noun owned (not the owner):\n- my: mon (masc.), ma (fem.), mes (plural)\n- your (tu): ton, ta, tes\n- his / her: son, sa, ses\n- our: notre (singular), nos (plural)\n- your (vous): votre, vos\n- their: leur, leurs\nBefore a feminine noun that starts with a vowel use mon, ton, son: mon amie, ton école.\nSon frère = his brother or her brother. Only the context shows whose.\n\n## Describing a person: a model\nMa sœur s'appelle Chloé. Elle est grande et sportive. Elle a les cheveux longs et noirs. Ses amis sont gentils et ses parents sont sympas.\nMeaning: My sister is called Chloé. She is tall and sporty. She has long black hair. Her friends are nice and her parents are kind.\n\n## Common mistakes\n- Forgetting to add -e or -s: wrong ma sœur est petit.\n- Using ma with a vowel: wrong ma amie (right: mon amie).\n- Choosing son or sa by looking at the owner (wrong): Marie parle de son père (père is masculine, so son).\n- Putting a colour before the noun: wrong un rouge livre.\n\n## How this is examined\nReading questions often rely on agreement to show who is being described (grande means a girl). In writing, markers look for agreement and correct possessives in your descriptions. MCQs offer the same adjective in four forms and ask for the right one.\n\nExam tip: After writing an adjective, point back to the noun and ask \"masculine or feminine, one or more?\" It takes five seconds and saves marks.",
+  "flashcards": [
+   {
+    "front": "grand → grande, grands, grandes",
+    "back": "Adjectives agree with the noun: add -e (feminine), -s (plural), -es (feminine plural)."
+   },
+   {
+    "front": "heureux / sportif / beau",
+    "back": "feminine: heureuse / sportive / belle"
+   },
+   {
+    "front": "mon / ma / mes",
+    "back": "my (masculine / feminine / plural). Use mon before a vowel: mon amie."
+   },
+   {
+    "front": "son / sa / ses",
+    "back": "his or her. Chosen by the noun owned, not the owner: son frère, sa sœur, ses parents."
+   },
+   {
+    "front": "notre / nos; votre / vos; leur / leurs",
+    "back": "our; your (vous); their. Singular / plural."
+   },
+   {
+    "front": "un chat noir",
+    "back": "Colours and most adjectives come after the noun."
+   },
+   {
+    "front": "BAGS adjectives",
+    "back": "Beauty, Age, Goodness, Size come before the noun: beau, joli, jeune, vieux, bon, mauvais, petit, grand, gros, nouveau."
+   },
+   {
+    "front": "Invariable adjectives",
+    "back": "marron and orange do not change with gender or number: des chaussures marron."
+   },
+   {
+    "front": "Mon amie est française.",
+    "back": "My (female) friend is French. Mon before vowel; française agrees with a girl."
+   }
+  ]
+ }
+]

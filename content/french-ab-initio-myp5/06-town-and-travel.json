@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "french-ab-initio",
+  "grade": 5,
+  "topic": "Town and Travel",
+  "subTopic": "Places in Town",
+  "questions": [
+   {
+    "content": "What does 'la boulangerie' mean?",
+    "options": [
+     "the library",
+     "the bakery",
+     "the bank",
+     "the butcher's"
+    ],
+    "answer": 1,
+    "explanation": "'La boulangerie' is where you buy bread. The library is 'la bibliothèque'.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'la gare' mean?",
+    "options": [
+     "the garage",
+     "the airport",
+     "the bus stop",
+     "the train station"
+    ],
+    "answer": 3,
+    "explanation": "'La gare' is the train station. 'La gare routière' is the bus station.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'la piscine' mean?",
+    "options": [
+     "the swimming pool",
+     "the pharmacy",
+     "the park",
+     "the market"
+    ],
+    "answer": 0,
+    "explanation": "'La piscine' is the swimming pool.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'le supermarché' mean?",
+    "options": [
+     "the market",
+     "the restaurant",
+     "the supermarket",
+     "the school"
+    ],
+    "answer": 2,
+    "explanation": "'Le supermarché' is the supermarket. 'Le marché' is the market.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'la poste' mean?",
+    "options": [
+     "the police station",
+     "the bank",
+     "the post office",
+     "the hospital"
+    ],
+    "answer": 2,
+    "explanation": "'La poste' is the post office, where you send letters and parcels.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Where do you buy bread in France?",
+    "options": [
+     "à la boulangerie",
+     "à la pharmacie",
+     "à la mairie",
+     "à la banque"
+    ],
+    "answer": 0,
+    "explanation": "The boulangerie sells bread and croissants. A pharmacy sells medicine.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 'Il y a un cinéma dans ma ville' mean?",
+    "options": [
+     "I go to the cinema in town.",
+     "My town has no cinema.",
+     "The cinema is opposite my house.",
+     "There is a cinema in my town."
+    ],
+    "answer": 3,
+    "explanation": "'Il y a' means there is, and 'ma ville' means my town.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 'Il n'y a pas de piscine' mean?",
+    "options": [
+     "There is a big swimming pool.",
+     "There is no swimming pool.",
+     "The pool is closed.",
+     "I do not like swimming."
+    ],
+    "answer": 1,
+    "explanation": "'Il n'y a pas de' means there is no / there are no.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "'La banque est à côté de la mairie.' Where is the bank?",
+    "options": [
+     "opposite the town hall",
+     "next to the town hall",
+     "behind the town hall",
+     "inside the town hall"
+    ],
+    "answer": 1,
+    "explanation": "'À côté de' means next to. 'La mairie' is the town hall.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Where can you borrow books for free?",
+    "options": [
+     "à la librairie",
+     "à la boulangerie",
+     "à la boucherie",
+     "à la bibliothèque"
+    ],
+    "answer": 3,
+    "explanation": "'La bibliothèque' is a library. 'La librairie' is a bookshop where you buy books.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 'à la campagne' mean?",
+    "options": [
+     "in the countryside",
+     "in the camp",
+     "in the town centre",
+     "at the seaside"
+    ],
+    "answer": 0,
+    "explanation": "'La campagne' is the countryside. It is different from 'le camping'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "'Ma ville est petite et tranquille.' What does this say?",
+    "options": [
+     "My town is big and noisy.",
+     "My town is old and pretty.",
+     "My town is small and quiet.",
+     "My town is small and dangerous."
+    ],
+    "answer": 2,
+    "explanation": "'Petite' is small and 'tranquille' is quiet, calm.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Complete the sentence: 'Je vais ___ supermarché.'",
+    "options": [
+     "à la",
+     "aux",
+     "au",
+     "à l'"
+    ],
+    "answer": 2,
+    "explanation": "'À' + 'le' becomes 'au': 'au supermarché'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Text: 'J'habite à Lilleville, une petite ville. Il y a un parc, une église et un marché le samedi. Mais il n'y a pas de cinéma.' Which statement is true?",
+    "options": [
+     "There is a market on Saturdays.",
+     "There is a cinema.",
+     "The town is big.",
+     "The market is on Sundays."
+    ],
+    "answer": 0,
+    "explanation": "'Un marché le samedi' means a market on Saturdays. 'Il n'y a pas de cinéma' means no cinema.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Complete the sentence: 'Elle habite près ___ gare, à côté ___ cinéma.'",
+    "options": [
+     "de le / de la",
+     "du / de la",
+     "à la / au",
+     "de la / du"
+    ],
+    "answer": 3,
+    "explanation": "'De la' stays as it is with a feminine noun, and 'de' + 'le' becomes 'du'.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Listening transcript: 'J'aime ma ville parce qu'il y a beaucoup de magasins, mais c'est bruyant et il y a trop de voitures.' What is the speaker's complaint?",
+    "options": [
+     "There are not enough shops.",
+     "It is noisy and has too much traffic.",
+     "The town is too small.",
+     "There is nowhere to park."
+    ],
+    "answer": 1,
+    "explanation": "'Bruyant' means noisy and 'trop de voitures' means too many cars.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Advert: 'Nouveau centre commercial : 80 magasins, cinéma, parking gratuit.' What is free?",
+    "options": [
+     "the cinema",
+     "the car park",
+     "the shops",
+     "the entrance only"
+    ],
+    "answer": 1,
+    "explanation": "'Parking gratuit' means free parking.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Léa wants to buy a novel. Where should she go?",
+    "options": [
+     "à la bibliothèque",
+     "à la boucherie",
+     "à la mairie",
+     "à la librairie"
+    ],
+    "answer": 3,
+    "explanation": "'La librairie' is a bookshop, so you can buy a novel there. The library lends books.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Talking about your town is a classic exam topic. You will need the names of places, \"il y a\" for saying what exists, and a few prepositions to say where things are.\n\n## Places in town\n- la boulangerie (bakery), la pâtisserie (cake shop), la boucherie (butcher's)\n- la pharmacie (chemist's), la banque (bank), la poste (post office)\n- le supermarché (supermarket), le marché (market), le centre commercial (shopping centre)\n- l'école / le collège (school), la bibliothèque (library), la librairie (bookshop)\n- le cinéma, le théâtre, le musée (museum), la piscine (swimming pool), le stade (stadium)\n- la mairie (town hall), l'église (church), le parc (park), la gare (train station)\n- la rue (street), la place (square), le pont (bridge)\n\n## Beware of false friends\n- la bibliothèque = library, la librairie = bookshop\n- une librairie sells books; a library lends them\n- la gare = station, but \"le garage\" is a garage\n\n## There is, there is not\nUse \"il y a\" (there is / are) and \"il n'y a pas de\" (there is no): \"Dans ma ville, il y a un musée et deux parcs\" (In my town there is a museum and two parks). \"Il n'y a pas de cinéma\" (There is no cinema).\n\n## Where things are: prepositions\n- près de (near), loin de (far from), à côté de (next to), en face de (opposite)\n- devant (in front of), derrière (behind), entre (between), au centre (in the centre)\nWith \"de\" followed by le or les, you must contract: de + le = du, de + les = des. So: \"près du parc\" (near the park) but \"près de la gare\" (near the station) and \"près de l'église\".\n\n## Going to places: à + article\n- à + le = au: \"Je vais au cinéma.\"\n- à + la = à la: \"Je vais à la piscine.\"\n- à + l' = à l': \"Je vais à l'école.\"\n- à + les = aux: \"Je vais aux magasins.\"\n\n## Describing your town\nUse adjectives such as petit, grand, calme, tranquille, bruyant (noisy), animé (lively), ancien (old), moderne, pollué. Start with \"J'habite à...\" (I live in...) then add \"C'est une ville...\" (It is a town...). You can also say \"en ville\" (in town), \"à la campagne\" (in the countryside), \"à la montagne\" (in the mountains), \"au bord de la mer\" (by the sea).\n\nModel: \"J'habite dans une petite ville près de Lyon. Il y a une belle église, un parc et un marché le samedi. Il n'y a pas de piscine, mais c'est tranquille. J'aime ma ville parce que c'est calme.\"\n\n## Common mistakes\n- Saying \"à le cinéma\" instead of \"au cinéma\".\n- Writing \"il n'y a pas un parc\" instead of \"il n'y a pas de parc\".\n- Mixing up \"bibliothèque\" and \"librairie\".\n- Using the wrong article with a place: \"la parc\" instead of \"le parc\".\n\n## How this is examined\nReading texts include an advert for a town, a tourist leaflet or a pen-friend email describing the area. Listening transcripts have a speaker comparing their town with another, listing pros and cons. In writing, you describe your town in four to six sentences saying what there is, what there is not, and whether you like it.\n\nExam tip: Look at \"pas de\" and \"trop de\". \"Il n'y a pas de cinéma\" means none exists, and \"trop de voitures\" is a complaint, not a compliment.",
+  "flashcards": [
+   {
+    "front": "la bibliothèque / la librairie",
+    "back": "library / bookshop (false friend)"
+   },
+   {
+    "front": "Il y a... / Il n'y a pas de...",
+    "back": "There is... / There is no..."
+   },
+   {
+    "front": "à + le = au; à + les = aux",
+    "back": "au cinéma, aux magasins (but à la piscine, à l'école)"
+   },
+   {
+    "front": "de + le = du",
+    "back": "près du parc, à côté du cinéma (but près de la gare)"
+   },
+   {
+    "front": "la mairie",
+    "back": "the town hall"
+   },
+   {
+    "front": "la boulangerie / la pharmacie",
+    "back": "bakery / chemist's"
+   },
+   {
+    "front": "bruyant / tranquille",
+    "back": "noisy / quiet"
+   },
+   {
+    "front": "à la campagne / en ville",
+    "back": "in the countryside / in town"
+   },
+   {
+    "front": "J'habite dans une petite ville.",
+    "back": "I live in a small town."
+   }
+  ]
+ },
+ {
+  "subject": "french-ab-initio",
+  "grade": 5,
+  "topic": "Town and Travel",
+  "subTopic": "Asking for and Giving Directions",
+  "questions": [
+   {
+    "content": "What does 'tout droit' mean?",
+    "options": [
+     "straight on",
+     "turn right",
+     "turn left",
+     "go back"
+    ],
+    "answer": 0,
+    "explanation": "'Tout droit' means straight ahead. 'À droite' means right.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'à gauche' mean?",
+    "options": [
+     "on the right",
+     "straight on",
+     "on the left",
+     "opposite"
+    ],
+    "answer": 2,
+    "explanation": "'À gauche' means to the left; 'à droite' means to the right.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'à droite' mean?",
+    "options": [
+     "on the left",
+     "next to",
+     "on the right",
+     "behind"
+    ],
+    "answer": 2,
+    "explanation": "'À droite' means to/on the right.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'Où est la gare ?' ask?",
+    "options": [
+     "Where is the station?",
+     "When does the station open?",
+     "Who is at the station?",
+     "How far is the station?"
+    ],
+    "answer": 0,
+    "explanation": "'Où' means where.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'en face de' mean?",
+    "options": [
+     "next to",
+     "behind",
+     "between",
+     "opposite"
+    ],
+    "answer": 3,
+    "explanation": "'En face de' means opposite, directly across from something.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'Tournez à gauche' tell you to do?",
+    "options": [
+     "Turn right.",
+     "Turn left.",
+     "Go straight on.",
+     "Stop here."
+    ],
+    "answer": 1,
+    "explanation": "'Tournez' is the polite command form of 'tourner' (to turn), and 'à gauche' is left.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 'Prenez la deuxième rue à droite' mean?",
+    "options": [
+     "Take the first street on the left.",
+     "Take the second street on the right.",
+     "Take the second bridge on the right.",
+     "Take the street on the right, then stop."
+    ],
+    "answer": 1,
+    "explanation": "'La deuxième rue' is the second street and 'prenez' is take.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 'Continuez jusqu'au feu rouge' mean?",
+    "options": [
+     "Stop at the red car.",
+     "Turn at the red house.",
+     "Cross the red bridge.",
+     "Carry on until the traffic lights."
+    ],
+    "answer": 3,
+    "explanation": "'Jusqu'à' means until, and 'le feu rouge' is the red light/traffic light.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "'C'est loin ?' 'Non, c'est à cinq minutes à pied.' What does the reply mean?",
+    "options": [
+     "No, it is a five-minute walk.",
+     "Yes, it is five kilometres away.",
+     "No, it is five minutes by bus.",
+     "Yes, it is five minutes by car."
+    ],
+    "answer": 0,
+    "explanation": "'À pied' means on foot. 'Cinq minutes' is five minutes.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 'Traversez le pont' mean?",
+    "options": [
+     "Follow the river.",
+     "Go under the bridge.",
+     "Cross the bridge.",
+     "Turn at the bridge."
+    ],
+    "answer": 2,
+    "explanation": "'Traverser' means to cross, and 'le pont' is the bridge.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 'le rond-point' mean?",
+    "options": [
+     "the crossroads",
+     "the car park",
+     "the roundabout",
+     "the traffic light"
+    ],
+    "answer": 2,
+    "explanation": "'Le rond-point' is the roundabout. 'Le carrefour' is the crossroads.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which question asks the way politely?",
+    "options": [
+     "Excusez-moi, pour aller à la poste, s'il vous plaît ?",
+     "Où poste ?",
+     "Je vais à la poste ?",
+     "Donnez-moi la poste !"
+    ],
+    "answer": 0,
+    "explanation": "'Pour aller à...' means how do I get to. Adding 'excusez-moi' and 's'il vous plaît' makes it polite.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 'au coin de la rue' mean?",
+    "options": [
+     "at the end of the world",
+     "next to the road works",
+     "in the middle of the street",
+     "on the corner of the street"
+    ],
+    "answer": 3,
+    "explanation": "'Le coin' is the corner.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Directions: 'Allez tout droit. Au rond-point, tournez à droite. La banque est sur votre gauche, en face de l'église.' Where is the bank?",
+    "options": [
+     "Before the roundabout, on your right",
+     "After the roundabout, on your left, opposite the church",
+     "At the roundabout, next to the church",
+     "After the roundabout, on your right, behind the church"
+    ],
+    "answer": 1,
+    "explanation": "You go straight, turn right at the roundabout, and the bank is then 'sur votre gauche' (on your left), 'en face de l'église'.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Directions: 'Prenez la première rue à gauche, puis la deuxième à droite. La pharmacie est entre le café et la boulangerie.' Which statement is true?",
+    "options": [
+     "The pharmacy is next to the bank.",
+     "The pharmacy is between the café and the bakery.",
+     "The pharmacy is opposite the café.",
+     "The pharmacy is the first on the left."
+    ],
+    "answer": 1,
+    "explanation": "'Entre... et...' means between... and... The pharmacy is between the café and the bakery.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Listening transcript: 'Pour aller à la piscine, vous prenez le bus numéro 12 et vous descendez à l'arrêt Mairie. Ensuite, c'est à cent mètres.' Which statement is true?",
+    "options": [
+     "You walk 12 minutes to the pool.",
+     "You take the bus to the pool entrance.",
+     "You get off at the station.",
+     "You get off at the town hall stop and walk 100 metres."
+    ],
+    "answer": 3,
+    "explanation": "'Vous descendez à l'arrêt Mairie' means you get off at the Town Hall stop, then the pool is 100 m away.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which instruction tells you to go back the way you came?",
+    "options": [
+     "Faites demi-tour.",
+     "Continuez tout droit.",
+     "Traversez la rue.",
+     "Tournez à droite."
+    ],
+    "answer": 0,
+    "explanation": "'Faire demi-tour' means to turn round.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "'Tournez à gauche, passez devant la mairie, puis prenez la troisième rue à droite.' What is the correct order?",
+    "options": [
+     "right, past the town hall, third street on the left",
+     "left, third street on the right, past the town hall",
+     "left, past the town hall, third street on the right",
+     "left, past the town hall, second street on the right"
+    ],
+    "answer": 2,
+    "explanation": "The three steps are: turn left, go past the front of the town hall ('devant'), then take the third street on the right.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Giving and following directions tests your listening carefully because one word (gauche or droite, première or deuxième) changes the route completely. This note gives you the key phrases and shows you how to follow a route step by step.\n\n## Asking the way\n- Excusez-moi, où est la gare, s'il vous plaît ? (Excuse me, where is the station?)\n- Pour aller au musée, s'il vous plaît ? (How do I get to the museum?)\n- Est-ce qu'il y a une pharmacie près d'ici ? (Is there a chemist's near here?)\n- C'est loin ? (Is it far?) / C'est près ? (Is it near?)\n\n## Giving directions\nDirections use the polite command form, which is the \"vous\" form without the pronoun:\n- Allez tout droit. (Go straight on.)\n- Tournez à gauche / à droite. (Turn left / right.)\n- Prenez la première / deuxième / troisième rue. (Take the first / second / third street.)\n- Continuez jusqu'au feu rouge. (Carry on to the traffic lights.)\n- Traversez la place / le pont. (Cross the square / the bridge.)\n- Passez devant l'église. (Go past the church.)\n- Faites demi-tour. (Turn round.)\n- Descendez la rue. (Go down the street.)\n\n## Position words\n- sur votre gauche / sur votre droite (on your left / right)\n- au coin de la rue (on the street corner)\n- au carrefour (at the crossroads), au rond-point (at the roundabout), au feu (at the lights)\n- à côté de (next to), en face de (opposite), entre (between), derrière (behind), devant (in front)\n- après (after), avant (before), jusqu'à (until)\n\n## Distances\n- C'est à cent mètres. (It is 100 metres away.)\n- C'est à cinq minutes à pied. (It is a five-minute walk.)\n- C'est à dix minutes en bus. (It is a ten-minute bus ride.)\n\n## Ordinal numbers\npremière (first), deuxième (second), troisième (third), quatrième (fourth). They are used with \"rue\" to count the roads.\n\n## Worked example\n\"Allez tout droit. Prenez la deuxième rue à gauche. La poste est en face du parc.\" Step 1: walk straight. Step 2: pass one street, then turn left on the second. Step 3: the post office is opposite the park. Draw a tiny sketch map as you listen or read, because it makes mistakes easier to spot.\n\n## Common mistakes\n- Mixing gauche (left) and droite (right), or thinking \"tout droit\" means right. It means straight on.\n- Forgetting that \"jusqu'à\" + \"le\" becomes \"jusqu'au\".\n- Confusing \"devant\" (in front of) with \"derrière\" (behind).\n- Misreading \"la deuxième rue\" as the second street after turning rather than the second on your route.\n\n## How this is examined\nThe reading paper may include a text message giving directions to a friend's house or a leaflet for a tourist trail. In listening, a speaker describes a route and you must choose the place on a map or decide where someone ends up. Writing tasks may ask you to explain to a visitor how to get from school to the station, using at least three direction words.\n\nExam tip: Number each instruction (1, 2, 3) as you read or listen. Then follow them on a simple sketch before choosing your answer.",
+  "flashcards": [
+   {
+    "front": "tout droit",
+    "back": "straight on"
+   },
+   {
+    "front": "à gauche / à droite",
+    "back": "left / right"
+   },
+   {
+    "front": "Tournez à gauche.",
+    "back": "Turn left."
+   },
+   {
+    "front": "Prenez la deuxième rue à droite.",
+    "back": "Take the second street on the right."
+   },
+   {
+    "front": "Continuez jusqu'au feu rouge.",
+    "back": "Carry on until the traffic lights."
+   },
+   {
+    "front": "en face de / à côté de / entre",
+    "back": "opposite / next to / between"
+   },
+   {
+    "front": "Pour aller à la gare, s'il vous plaît ?",
+    "back": "How do I get to the station, please?"
+   },
+   {
+    "front": "C'est à cinq minutes à pied.",
+    "back": "It is a five-minute walk."
+   },
+   {
+    "front": "le rond-point / le carrefour",
+    "back": "the roundabout / the crossroads"
+   }
+  ]
+ },
+ {
+  "subject": "french-ab-initio",
+  "grade": 5,
+  "topic": "Town and Travel",
+  "subTopic": "Transport and Holidays",
+  "questions": [
+   {
+    "content": "What does 'l'avion' mean?",
+    "options": [
+     "the train",
+     "the boat",
+     "the plane",
+     "the bus"
+    ],
+    "answer": 2,
+    "explanation": "'L'avion' is the plane. The train is 'le train'.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'en bus' mean?",
+    "options": [
+     "by bus",
+     "in a bus station",
+     "at a bus stop",
+     "with a friend"
+    ],
+    "answer": 0,
+    "explanation": "'En' is used with most vehicles: en bus, en train, en voiture.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'à vélo' mean?",
+    "options": [
+     "by car",
+     "by motorbike",
+     "on foot",
+     "by bike"
+    ],
+    "answer": 3,
+    "explanation": "'Un vélo' is a bicycle. French uses 'à' for bike and foot.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'les vacances' mean?",
+    "options": [
+     "the vacations of the school only",
+     "the holidays",
+     "the weekend",
+     "the travel"
+    ],
+    "answer": 1,
+    "explanation": "'Les vacances' is always plural in French and means the holidays.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'la plage' mean?",
+    "options": [
+     "the page",
+     "the beach",
+     "the park",
+     "the lake"
+    ],
+    "answer": 1,
+    "explanation": "'La plage' is the beach. A page is 'une page' but looks similar.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "'Je vais à l'école à pied.' How does the speaker get to school?",
+    "options": [
+     "by bike",
+     "by bus",
+     "by car",
+     "on foot"
+    ],
+    "answer": 3,
+    "explanation": "'À pied' means on foot.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 'Je voudrais un billet aller-retour pour Lyon' mean?",
+    "options": [
+     "I would like a return ticket to Lyon.",
+     "I would like a single ticket to Lyon.",
+     "I would like a seat on the plane to Lyon.",
+     "I would like to leave Lyon."
+    ],
+    "answer": 0,
+    "explanation": "'Un aller-retour' is a return ticket. A one-way ticket is 'un aller simple'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Complete the sentence: 'Elle va au collège ___ pied.'",
+    "options": [
+     "en",
+     "par",
+     "à",
+     "sur"
+    ],
+    "answer": 2,
+    "explanation": "Use 'à' for walking and things you ride (à pied, à vélo). Use 'en' for most vehicles you sit inside (en bus, en voiture).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Complete the sentence: 'Nous allons ___ Italie.'",
+    "options": [
+     "au",
+     "à",
+     "en",
+     "aux"
+    ],
+    "answer": 2,
+    "explanation": "Feminine countries (and those starting with a vowel) take 'en': en Italie, en France, en Espagne.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 'Cet été, nous allons visiter Paris' mean?",
+    "options": [
+     "This summer, we are going to visit Paris.",
+     "Last summer, we visited Paris.",
+     "We live in Paris in summer.",
+     "We would like to visit Paris."
+    ],
+    "answer": 0,
+    "explanation": "'Aller' + infinitive expresses the near future: 'nous allons visiter' is 'we are going to visit'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The announcement says 'Le train part du quai 3.' What does it tell you?",
+    "options": [
+     "The train arrives at 3 o'clock.",
+     "The train has 3 carriages.",
+     "Ticket number 3 is valid.",
+     "The train leaves from platform 3."
+    ],
+    "answer": 3,
+    "explanation": "'Un quai' is a platform; 'partir' means to leave.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 'un aller simple' mean?",
+    "options": [
+     "a return ticket",
+     "a single (one-way) ticket",
+     "a simple holiday",
+     "a first-class seat"
+    ],
+    "answer": 1,
+    "explanation": "'Aller simple' is a one-way ticket.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 'Je loge à l'hôtel' mean?",
+    "options": [
+     "I am looking for a hotel.",
+     "I am staying at a hotel.",
+     "I work in a hotel.",
+     "I am leaving the hotel."
+    ],
+    "answer": 1,
+    "explanation": "'Loger' means to stay or lodge.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Notice: 'TGV 8421 : Paris 07h45 → Marseille 10h50. Quai 6. Retard : 10 minutes.' Which statement is true?",
+    "options": [
+     "The train arrives at 6 o'clock.",
+     "The train goes to Paris at 10h50.",
+     "The train is on time.",
+     "The train leaves from platform 6 and is 10 minutes late."
+    ],
+    "answer": 3,
+    "explanation": "'Quai 6' is platform 6 and 'retard' means delay.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Postcard: 'Salut Inès ! Je suis en vacances à Nice avec ma famille. On loge dans un petit hôtel près de la plage. Il fait très chaud ! Demain, nous allons visiter le vieux port. Bisous, Tom'. What will Tom do tomorrow?",
+    "options": [
+     "visit the old port",
+     "go to the beach",
+     "go home",
+     "stay in the hotel"
+    ],
+    "answer": 0,
+    "explanation": "'Demain, nous allons visiter le vieux port' means they will visit the old port tomorrow.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Complete the sentence: 'Je vais au collège ___ bus, mais mon frère y va ___ pied.'",
+    "options": [
+     "à / en",
+     "en / en",
+     "en / à",
+     "à / à"
+    ],
+    "answer": 2,
+    "explanation": "Use 'en' with bus and 'à' with pied: 'en bus', 'à pied'.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Listening transcript: 'Cette année, on ne part pas à l'étranger. On va rester en France, dans les Alpes, pour faire de la randonnée.' What is the plan?",
+    "options": [
+     "a beach holiday abroad",
+     "a skiing trip to Switzerland",
+     "a hiking holiday in France",
+     "a city break in Paris"
+    ],
+    "answer": 2,
+    "explanation": "'Ne... pas à l'étranger' means not going abroad. They stay in France in the Alps to go hiking.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence is correct?",
+    "options": [
+     "Nous allons au Japon en avion.",
+     "Nous allons en Japon à avion.",
+     "Nous allons au Japon à avion.",
+     "Nous allons à Japon en l'avion."
+    ],
+    "answer": 0,
+    "explanation": "'Japon' is masculine, so 'au Japon'; 'en avion' is the correct way to say by plane.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Transport and holidays give you the chance to use the near future (\"I am going to...\") and to talk about where you went, how you travelled and what you do on holiday. At beginner level you need vocabulary, prepositions for countries and vehicles, and simple future plans.\n\n## Transport vocabulary\n- le train (train), le bus / l'autobus (bus), le métro (underground), le tram (tram)\n- la voiture (car), le vélo (bike), la moto (motorbike), l'avion (plane), le bateau (boat)\n- la gare (train station), l'aéroport (airport), l'arrêt de bus (bus stop), le quai (platform)\n- un billet (ticket): un aller simple (single) and un aller-retour (return)\n- un horaire (timetable), le départ (departure), l'arrivée (arrival), le retard (delay)\n\n## How do you travel? en or à?\nUse \"en\" with most vehicles you sit inside: en voiture, en bus, en train, en avion, en bateau. Use \"à\" for things you ride or do on foot: à vélo, à moto, à pied.\n- Je vais à l'école à pied. (I walk to school.)\n- Nous voyageons en train. (We travel by train.)\n\n## Holiday vocabulary\n- les vacances (holidays), un voyage (a trip), un séjour (a stay)\n- la plage (beach), la mer (sea), la montagne (mountains), la campagne (countryside), la ville (city)\n- un hôtel, un camping (campsite), une auberge de jeunesse (youth hostel)\n- faire du camping, faire de la randonnée (hiking), nager, visiter un musée, bronzer\n- à l'étranger (abroad), rester (to stay)\n\n## Going to countries\n- Feminine countries and those beginning with a vowel take \"en\": en France, en Espagne, en Italie.\n- Masculine countries take \"au\": au Canada, au Japon, au Maroc.\n- Plural countries take \"aux\": aux États-Unis.\n- Cities take \"à\": à Paris, à Londres.\n\n## Talking about future plans\nUse the near future: present tense of aller + infinitive.\n- Cet été, je vais visiter Rome. (This summer I am going to visit Rome.)\n- Nous allons loger dans un petit hôtel. (We are going to stay in a small hotel.)\n- Ils vont faire de la randonnée. (They are going to go hiking.)\nRemember aller: je vais, tu vas, il va, nous allons, vous allez, ils vont.\n\n## Writing a postcard\nA model: \"Salut Marie ! Je suis en vacances à Nice. Il fait chaud et je vais à la plage tous les jours. Demain, nous allons visiter le musée. À bientôt, Paul.\" Useful openers are \"Salut\" and \"Cher / Chère\"; closings include \"Bisous\" and \"À bientôt\".\n\n## Common mistakes\n- Saying \"en pied\" instead of \"à pied\", or \"à bus\" instead of \"en bus\", or \"à bus\" instead of \"en bus\".\n- Choosing the wrong preposition with a country: \"en Japon\" should be \"au Japon\".\n- Forgetting that \"les vacances\" is plural.\n- Misreading \"retard\" (delay) as \"arrivée\".\n\n## How this is examined\nTypical items are a timetable or travel notice, a postcard or email from a holiday, and a transcript of someone planning their next trip. Questions ask how they travel, where they stay, what the weather is like and what they plan to do next. In writing you describe a holiday, saying where you go, who with, how you travel and one future plan.\n\nExam tip: Check the tense of the verb. \"Je vais visiter\" is a plan for the future, while a present-tense \"je visite\" describes what you do now. Questions often hinge on that difference.",
+  "flashcards": [
+   {
+    "front": "en train / en bus / en voiture / en avion",
+    "back": "by train / bus / car / plane"
+   },
+   {
+    "front": "à vélo / à pied / à moto",
+    "back": "by bike / on foot / by motorbike"
+   },
+   {
+    "front": "un aller simple / un aller-retour",
+    "back": "a single ticket / a return ticket"
+   },
+   {
+    "front": "le quai / le retard",
+    "back": "the platform / the delay"
+   },
+   {
+    "front": "en France / au Canada / aux États-Unis",
+    "back": "to France / to Canada / to the United States"
+   },
+   {
+    "front": "Je vais visiter Rome.",
+    "back": "I am going to visit Rome. (aller + infinitive = near future)"
+   },
+   {
+    "front": "les vacances",
+    "back": "the holidays (always plural)"
+   },
+   {
+    "front": "à l'étranger",
+    "back": "abroad"
+   },
+   {
+    "front": "faire de la randonnée",
+    "back": "to go hiking"
+   }
+  ]
+ }
+]

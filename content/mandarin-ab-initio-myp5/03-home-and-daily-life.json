@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "mandarin-ab-initio",
+  "grade": 5,
+  "topic": "Home and Daily Life",
+  "subTopic": "Rooms and Furniture",
+  "questions": [
+   {
+    "content": "What does 客厅 (kètīng) mean?",
+    "options": [
+     "Kitchen",
+     "Living room",
+     "Bedroom",
+     "Bathroom"
+    ],
+    "answer": 1,
+    "explanation": "客厅 is the living room, where the family sits and watches TV. The kitchen is 厨房 (chúfáng).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 厨房 (chúfáng) mean?",
+    "options": [
+     "Kitchen",
+     "Bathroom",
+     "Garden",
+     "Bedroom"
+    ],
+    "answer": 0,
+    "explanation": "厨房 is the kitchen. A bedroom is 卧室 (wòshì).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which word means 'bed'?",
+    "options": [
+     "桌子 (zhuōzi)",
+     "椅子 (yǐzi)",
+     "门 (mén)",
+     "床 (chuáng)"
+    ],
+    "answer": 3,
+    "explanation": "床 means bed. 桌子 is a table, 椅子 is a chair and 门 is a door.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 椅子 (yǐzi) mean?",
+    "options": [
+     "Table",
+     "Lamp",
+     "Chair",
+     "Sofa"
+    ],
+    "answer": 2,
+    "explanation": "椅子 is a chair. A table is 桌子 (zhuōzi) and a sofa is 沙发 (shāfā).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 窗户 (chuānghu) mean?",
+    "options": [
+     "Door",
+     "Window",
+     "Lamp",
+     "Fridge"
+    ],
+    "answer": 1,
+    "explanation": "窗户 is a window. A door is 门 (mén).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 我家有三个卧室 (wǒ jiā yǒu sān ge wòshì) mean?",
+    "options": [
+     "My home has three bedrooms",
+     "I have three homes",
+     "My bedroom has three beds",
+     "I live in three rooms"
+    ],
+    "answer": 0,
+    "explanation": "家 is home, 有 is 'has', 三个 is 'three' and 卧室 is bedroom.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 书在桌子上 (shū zài zhuōzi shàng) mean?",
+    "options": [
+     "The book is under the table",
+     "The book is beside the table",
+     "The book is in the table",
+     "The book is on the table"
+    ],
+    "answer": 3,
+    "explanation": "上 (shàng) means on or above. Under would be 下面 (xiàmiàn).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 猫在床下面 (māo zài chuáng xiàmiàn) mean? [猫 = cat]",
+    "options": [
+     "The cat is on the bed",
+     "The cat is behind the bed",
+     "The cat is under the bed",
+     "The cat is in the kitchen"
+    ],
+    "answer": 2,
+    "explanation": "下面 means underneath, so the cat is under the bed.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Choose the word that completes the sentence: 我的书___椅子旁边。(wǒ de shū ___ yǐzi pángbiān.) 'My book is beside the chair.'",
+    "options": [
+     "有 (yǒu)",
+     "在 (zài)",
+     "是 (shì)",
+     "很 (hěn)"
+    ],
+    "answer": 1,
+    "explanation": "在 means 'is located at'. It is used to say where something is. 有 means 'there is / has'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In which room would you most likely find a 冰箱 (bīngxiāng, fridge)?",
+    "options": [
+     "厨房 (chúfáng)",
+     "卧室 (wòshì)",
+     "花园 (huāyuán)",
+     "卫生间 (wèishēngjiān)"
+    ],
+    "answer": 0,
+    "explanation": "A fridge belongs in the kitchen, 厨房. 花园 is the garden and 卫生间 is the bathroom.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read: 我家有一个客厅、两个卧室和一个厨房。客厅里有沙发和电视。(Wǒ jiā yǒu yí ge kètīng, liǎng ge wòshì hé yí ge chúfáng. Kètīng lǐ yǒu shāfā hé diànshì.)\n\nWhat is in the living room?",
+    "options": [
+     "A bed and a desk",
+     "A fridge and a table",
+     "A sofa and a fridge",
+     "A sofa and a TV"
+    ],
+    "answer": 3,
+    "explanation": "The second sentence says 客厅里有沙发和电视: in the living room there is a sofa and a TV.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How do you say 'There is no desk in my room'?",
+    "options": [
+     "我的房间不有书桌 (wǒ de fángjiān bù yǒu shūzhuō)",
+     "我的房间不是书桌 (wǒ de fángjiān bú shì shūzhuō)",
+     "我的房间没有书桌 (wǒ de fángjiān méiyǒu shūzhuō)",
+     "我的房间没书桌有 (wǒ de fángjiān méi shūzhuō yǒu)"
+    ],
+    "answer": 2,
+    "explanation": "The negative of 有 is 没有, not 不有. 不是 would mean 'is not a desk'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is the correct pinyin for 厨房?",
+    "options": [
+     "chǔfáng",
+     "chúfáng",
+     "chùfáng",
+     "chúfàng"
+    ],
+    "answer": 1,
+    "explanation": "厨 is second tone (chú) and 房 is also second tone (fáng).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript: 小明: 我的房间很小。有一张床、一张书桌和一把椅子。书桌在窗户旁边。(Xiǎomíng: Wǒ de fángjiān hěn xiǎo. Yǒu yì zhāng chuáng, yì zhāng shūzhuō hé yì bǎ yǐzi. Shūzhuō zài chuānghu pángbiān.)\n\nWhere is the desk?",
+    "options": [
+     "Beside the window",
+     "Under the bed",
+     "Next to the door",
+     "On the chair"
+    ],
+    "answer": 0,
+    "explanation": "书桌在窗户旁边: the desk is beside the window. 张 and 把 are measure words for bed/desk and chair.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Read: 妈妈在厨房。爸爸在客厅，他在看电视。姐姐在卧室，她不在客厅。(Māma zài chúfáng. Bàba zài kètīng, tā zài kàn diànshì. Jiějie zài wòshì, tā bú zài kètīng.) [看电视 = watch TV]\n\nWho is in the living room?",
+    "options": [
+     "Mum",
+     "Older sister",
+     "Mum and older sister",
+     "Dad"
+    ],
+    "answer": 3,
+    "explanation": "Only 爸爸 is said to be in the 客厅. Mum is in the kitchen and the sister is in the bedroom.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence correctly says 'There is a lamp on the desk'?",
+    "options": [
+     "灯有书桌上 (dēng yǒu shūzhuō shàng)",
+     "书桌在灯上有 (shūzhuō zài dēng shàng yǒu)",
+     "书桌上有灯 (shūzhuō shàng yǒu dēng)",
+     "有灯书桌上 (yǒu dēng shūzhuō shàng)"
+    ],
+    "answer": 2,
+    "explanation": "For 'there is', use place + 有 + thing. You could also say 灯在书桌上 (the lamp is on the desk), but that uses thing + 在 + place.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence correctly says 'The sofa is in the living room'?",
+    "options": [
+     "沙发有客厅里 (shāfā yǒu kètīng lǐ)",
+     "沙发在客厅里 (shāfā zài kètīng lǐ)",
+     "客厅里在沙发 (kètīng lǐ zài shāfā)",
+     "沙发是在客厅有 (shāfā shì zài kètīng yǒu)"
+    ],
+    "answer": 1,
+    "explanation": "Thing + 在 + place tells where something is. 里 (lǐ) means inside.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student writes 我家是三个卧室 (wǒ jiā shì sān ge wòshì) to mean 'My home has three bedrooms'. What is the mistake?",
+    "options": [
+     "是 should be 有",
+     "个 should be 吗",
+     "三 should come after 卧室",
+     "There is no mistake"
+    ],
+    "answer": 0,
+    "explanation": "是 links two nouns, but here we want 'has', which is 有: 我家有三个卧室.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Talking about your home\nDescribing where you live is a popular topic in reading and listening tasks. In Mandarin a home is 家 (jiā) and a house or flat is 房子 (fángzi). A single room in a house is 房间 (fángjiān), as in 我的房间 (wǒ de fángjiān), \"my room\". Always learn each word with its pinyin and tone marks.\n\n## Rooms\n- 客厅 (kètīng): living room\n- 卧室 (wòshì): bedroom\n- 厨房 (chúfáng): kitchen\n- 卫生间 (wèishēngjiān): bathroom\n- 餐厅 (cāntīng): dining room\n- 花园 (huāyuán): garden\n\n## Furniture and objects\n- 桌子 (zhuōzi): table\n- 椅子 (yǐzi): chair\n- 床 (chuáng): bed\n- 沙发 (shāfā): sofa\n- 书桌 (shūzhuō): desk\n- 书架 (shūjià): bookshelf\n- 冰箱 (bīngxiāng): fridge\n- 电视 (diànshì): television\n- 灯 (dēng): lamp\n- 窗户 (chuānghu): window\n- 门 (mén): door\n\n## Saying what your home has: 有\nUse 有 (yǒu) for \"there is / has\". The negative is 没有 (méiyǒu), never 不有. 我家有三个卧室 (wǒ jiā yǒu sān ge wòshì) means \"My home has three bedrooms\". 厨房里没有桌子 (chúfáng lǐ méiyǒu zhuōzi) means \"There is no table in the kitchen\". Numbers go before a measure word: 个 (ge) is the general one, and 间 (jiān) is often used for rooms. Beds and desks use 张 (zhāng), and chairs use 把 (bǎ). Note that two is 两 (liǎng) before a measure word, so say 两个卧室, not 二个卧室.\n\n## Saying where things are: 在\nUse 在 (zài) to say where something is, with the pattern thing + 在 + place. 书在桌子上 (shū zài zhuōzi shàng) means \"The book is on the table\". Useful position words:\n- 上 / 上面 (shàng / shàngmiàn): on, above\n- 下 / 下面 (xià / xiàmiàn): under\n- 里 / 里面 (lǐ / lǐmiàn): inside\n- 旁边 (pángbiān): beside\n- 前面 (qiánmian): in front of\n- 后面 (hòumiàn): behind\n\nExamples: 猫在床下面 (māo zài chuáng xiàmiàn), \"The cat is under the bed\". 沙发在客厅里 (shāfā zài kètīng lǐ), \"The sofa is in the living room\". 书桌在窗户旁边 (shūzhuō zài chuānghu pángbiān), \"The desk is beside the window\".\n\n## Describing size\nPut 很 (hěn, very) before an adjective and do not use 是: 我的房间很小 (wǒ de fángjiān hěn xiǎo), \"My room is small\". Big is 大 (dà), small is 小 (xiǎo). \n\n## Two patterns, two meanings\n- Place + 有 + thing introduces what is in a place: 客厅里有沙发 (there is a sofa in the living room).\n- Thing + 在 + place says where a known thing is: 沙发在客厅里 (the sofa is in the living room).\n\n## Common mistakes\n- Using 是 instead of 有 for \"has\".\n- Saying 不有 instead of 没有.\n- Using 二 instead of 两 before a measure word.\n- Putting the place before the thing when using 在.\n- Forgetting the neutral tone in 桌子 (zhuōzi) and 椅子 (yǐzi).\n\n## How this is examined\nRooms and furniture appear in short descriptions of a house, estate agent style adverts, a message to a host family or a floor plan described in words. You may be asked what is in a given room, where an object is, or how many rooms there are. In writing you can describe your own home in four or five sentences: how many rooms, what is in your room and where things are.\n\nExam tip: Read the position word slowly (上, 下, 里, 旁边) because the whole answer often depends on it. Underline the room name, then find the object that is linked to it, and always check whether the text uses 有 or 在 before choosing.",
+  "flashcards": [
+   {
+    "front": "客厅 / 卧室 / 厨房",
+    "back": "客厅 (kètīng) = living room; 卧室 (wòshì) = bedroom; 厨房 (chúfáng) = kitchen."
+   },
+   {
+    "front": "卫生间 (wèishēngjiān)",
+    "back": "Bathroom. 花园 (huāyuán) is the garden and 餐厅 (cāntīng) is the dining room."
+   },
+   {
+    "front": "桌子 / 椅子 / 床",
+    "back": "桌子 (zhuōzi) = table; 椅子 (yǐzi) = chair; 床 (chuáng) = bed. The 子 in the first two is neutral tone."
+   },
+   {
+    "front": "沙发 / 冰箱 / 电视",
+    "back": "沙发 (shāfā) = sofa; 冰箱 (bīngxiāng) = fridge; 电视 (diànshì) = television."
+   },
+   {
+    "front": "我家有…",
+    "back": "Wǒ jiā yǒu… = My home has… For example 我家有三个卧室 (wǒ jiā yǒu sān ge wòshì), my home has three bedrooms."
+   },
+   {
+    "front": "没有 (méiyǒu)",
+    "back": "The negative of 有 (to have / there is). Say 没有, never 不有: 房间里没有桌子 = there is no table in the room."
+   },
+   {
+    "front": "书在桌子上",
+    "back": "Shū zài zhuōzi shàng = The book is on the table. Thing + 在 + place says where something is."
+   },
+   {
+    "front": "上 / 下 / 里 / 旁边",
+    "back": "上 (shàng) on; 下 (xià) under; 里 (lǐ) inside; 旁边 (pángbiān) beside. 前面 (qiánmian) = in front; 后面 (hòumiàn) = behind."
+   },
+   {
+    "front": "有 or 在?",
+    "back": "Place + 有 + thing = there is (客厅里有沙发). Thing + 在 + place = is located (沙发在客厅里)."
+   }
+  ]
+ },
+ {
+  "subject": "mandarin-ab-initio",
+  "grade": 5,
+  "topic": "Home and Daily Life",
+  "subTopic": "Daily Routines",
+  "questions": [
+   {
+    "content": "What does 起床 (qǐchuáng) mean?",
+    "options": [
+     "Go to bed",
+     "Get up",
+     "Brush your teeth",
+     "Have breakfast"
+    ],
+    "answer": 1,
+    "explanation": "起床 means to get up. Going to bed is 睡觉 (shuìjiào).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 睡觉 (shuìjiào) mean?",
+    "options": [
+     "Sleep / go to bed",
+     "Wake up",
+     "Do homework",
+     "Take a shower"
+    ],
+    "answer": 0,
+    "explanation": "睡觉 means to sleep. Showering is 洗澡 (xǐzǎo).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 吃早饭 (chī zǎofàn) mean?",
+    "options": [
+     "Eat lunch",
+     "Eat dinner",
+     "Cook",
+     "Eat breakfast"
+    ],
+    "answer": 3,
+    "explanation": "吃 is eat and 早饭 is breakfast. Lunch is 午饭 (wǔfàn) and dinner is 晚饭 (wǎnfàn).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 做作业 (zuò zuòyè) mean?",
+    "options": [
+     "Watch TV",
+     "Go to school",
+     "Do homework",
+     "Play football"
+    ],
+    "answer": 2,
+    "explanation": "做 means do and 作业 means homework.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 每天 (měitiān) mean?",
+    "options": [
+     "Tomorrow",
+     "Every day",
+     "Today",
+     "Every week"
+    ],
+    "answer": 1,
+    "explanation": "每 means every and 天 means day. Tomorrow is 明天 (míngtiān).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 我七点起床 (wǒ qī diǎn qǐchuáng) mean?",
+    "options": [
+     "I get up at seven o'clock",
+     "I go to bed at seven o'clock",
+     "I have breakfast at seven o'clock",
+     "I sleep for seven hours"
+    ],
+    "answer": 0,
+    "explanation": "七点 is seven o'clock and 起床 is get up.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence correctly says 'I go to school at eight o'clock'?",
+    "options": [
+     "我上学八点 (wǒ shàngxué bā diǎn)",
+     "八点上学我 (bā diǎn shàngxué wǒ)",
+     "上学我八点 (shàngxué wǒ bā diǎn)",
+     "我八点上学 (wǒ bā diǎn shàngxué)"
+    ],
+    "answer": 3,
+    "explanation": "In Mandarin the time word goes before the verb: subject + time + verb.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 放学 (fàngxué) mean?",
+    "options": [
+     "School starts",
+     "Go home",
+     "School finishes",
+     "Do homework"
+    ],
+    "answer": 2,
+    "explanation": "放学 means school is over for the day. Going home is 回家 (huí jiā), which usually comes after it.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read: 我每天早上六点半起床，然后刷牙，吃早饭。(Wǒ měitiān zǎoshang liù diǎn bàn qǐchuáng, ránhòu shuāyá, chī zǎofàn.) [刷牙 = brush teeth, 半 = half]\n\nWhat does the writer do straight after getting up?",
+    "options": [
+     "Eats breakfast",
+     "Brushes their teeth",
+     "Goes to school",
+     "Takes a shower"
+    ],
+    "answer": 1,
+    "explanation": "然后 means 'then'. After 起床 comes 刷牙, and breakfast comes after that.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 然后 (ránhòu) mean?",
+    "options": [
+     "Then, afterwards",
+     "First",
+     "Never",
+     "Often"
+    ],
+    "answer": 0,
+    "explanation": "然后 links two actions in order. 先 (xiān) means first.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How do you say 'I often watch TV in the evening'?",
+    "options": [
+     "我常常看电视晚上 (wǒ chángcháng kàn diànshì wǎnshang)",
+     "我看晚上电视常常 (wǒ kàn wǎnshang diànshì chángcháng)",
+     "晚上看电视我常常 (wǎnshang kàn diànshì wǒ chángcháng)",
+     "我晚上常常看电视 (wǒ wǎnshang chángcháng kàn diànshì)"
+    ],
+    "answer": 3,
+    "explanation": "Time word and frequency word come before the verb: 我 + 晚上 + 常常 + 看电视.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Choose the word that completes the sentence: 我在学校___午饭。(wǒ zài xuéxiào ___ wǔfàn.) 'I eat lunch at school.'",
+    "options": [
+     "睡 (shuì)",
+     "看 (kàn)",
+     "吃 (chī)",
+     "洗 (xǐ)"
+    ],
+    "answer": 2,
+    "explanation": "吃午饭 means to eat lunch. 睡 is sleep, 看 is look/watch and 洗 is wash.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How do you say 'I do not eat breakfast'?",
+    "options": [
+     "我吃不早饭 (wǒ chī bù zǎofàn)",
+     "我不吃早饭 (wǒ bù chī zǎofàn)",
+     "我是不吃早饭 (wǒ shì bù chī zǎofàn)",
+     "我不是吃早饭 (wǒ bú shì chī zǎofàn)"
+    ],
+    "answer": 1,
+    "explanation": "Put 不 directly before the verb. 不是 means 'is not', so it cannot be used here.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript: 玲玲: 我每天七点吃早饭，七点半上学。下午四点放学，然后回家做作业。晚上十点睡觉。(Línglíng: Wǒ měitiān qī diǎn chī zǎofàn, qī diǎn bàn shàngxué. Xiàwǔ sì diǎn fàngxué, ránhòu huí jiā zuò zuòyè. Wǎnshang shí diǎn shuìjiào.)\n\nWhat does Lingling do after school finishes?",
+    "options": [
+     "Goes home and does homework",
+     "Eats breakfast",
+     "Goes to bed",
+     "Goes to school"
+    ],
+    "answer": 0,
+    "explanation": "After 放学 at four o'clock she goes home (回家) and does homework (做作业). She sleeps at ten in the evening.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Read: 周末我不上学。我十点起床，然后看电视。下午我和朋友玩。(Zhōumò wǒ bú shàngxué. Wǒ shí diǎn qǐchuáng, ránhòu kàn diànshì. Xiàwǔ wǒ hé péngyou wán.) [周末 = weekend, 玩 = play, spend time]\n\nWhich statement is true?",
+    "options": [
+     "At the weekend the writer goes to school at ten",
+     "The writer watches TV in the afternoon and has no friends",
+     "The writer gets up at four in the afternoon",
+     "At the weekend the writer gets up at ten and spends the afternoon with friends"
+    ],
+    "answer": 3,
+    "explanation": "The text says no school, up at 10:00, TV, then the afternoon with friends.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence says 'First I do homework, then I watch TV'?",
+    "options": [
+     "我先看电视，然后做作业 (wǒ xiān kàn diànshì, ránhòu zuò zuòyè)",
+     "我然后做作业，先看电视 (wǒ ránhòu zuò zuòyè, xiān kàn diànshì)",
+     "我先做作业，然后看电视 (wǒ xiān zuò zuòyè, ránhòu kàn diànshì)",
+     "我做作业先，看电视然后 (wǒ zuò zuòyè xiān, kàn diànshì ránhòu)"
+    ],
+    "answer": 2,
+    "explanation": "先 (first) goes before the first action and 然后 (then) before the second. The first distractor reverses the order.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student writes 我吃早饭在家 (wǒ chī zǎofàn zài jiā) for 'I eat breakfast at home'. What is the mistake?",
+    "options": [
+     "吃 should be 睡",
+     "The place phrase should go before the verb: 我在家吃早饭",
+     "早饭 should be 晚饭",
+     "There is no mistake"
+    ],
+    "answer": 1,
+    "explanation": "Place phrases with 在 go before the verb: subject + 在 + place + verb.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which is the correct pinyin with tone marks for 我不上学 (I do not go to school)?",
+    "options": [
+     "wǒ bú shàngxué",
+     "wǒ bù shàngxué",
+     "wǒ bǔ shàngxué",
+     "wǒ bú shǎngxué"
+    ],
+    "answer": 0,
+    "explanation": "不 changes to bú before a fourth-tone syllable, and 上 (shàng) is fourth tone.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Talking about your day\nA daily routine is a very common topic in beginner reading and writing tasks. Your aim is to say what you do, at what time, and in which order. Mandarin sentences are short and follow one clear order, so once you know the pattern you can build many sentences.\n\n## Key routine verbs\n- 起床 (qǐchuáng): get up\n- 刷牙 (shuāyá): brush teeth\n- 洗澡 (xǐzǎo): have a shower or bath\n- 吃早饭 (chī zǎofàn): eat breakfast\n- 吃午饭 (chī wǔfàn): eat lunch\n- 吃晚饭 (chī wǎnfàn): eat dinner\n- 上学 (shàngxué): go to school\n- 放学 (fàngxué): school finishes\n- 回家 (huí jiā): go home\n- 做作业 (zuò zuòyè): do homework\n- 看电视 (kàn diànshì): watch TV\n- 睡觉 (shuìjiào): go to sleep\n\n## Time words\n- 每天 (měitiān): every day\n- 早上 (zǎoshang): morning\n- 中午 (zhōngwǔ): noon\n- 下午 (xiàwǔ): afternoon\n- 晚上 (wǎnshang): evening\n- 周末 (zhōumò): weekend\n- 常常 (chángcháng): often\n- 点 (diǎn): o'clock, so 七点 (qī diǎn) is seven o'clock, and 半 (bàn) means half, so 六点半 is half past six\n\n## The golden rule: time before verb\nIn English we can say \"I get up at seven\" or \"At seven I get up\". In Mandarin the time word must come before the verb, either right after the subject or at the very start of the sentence.\n- 我七点起床 (wǒ qī diǎn qǐchuáng): I get up at seven.\n- 我每天早上七点起床 (wǒ měitiān zǎoshang qī diǎn qǐchuáng): I get up at seven every morning.\n- 晚上我常常看电视 (wǎnshang wǒ chángcháng kàn diànshì): In the evening I often watch TV.\nNever put the time at the end, so 我起床七点 is wrong.\n\n## Place before verb too\nA place with 在 (zài) also goes before the verb: 我在学校吃午饭 (wǒ zài xuéxiào chī wǔfàn), \"I eat lunch at school\". So the full order is subject + time + place + verb + object.\n\n## Linking actions\nUse 先 (xiān, first) and 然后 (ránhòu, then) to put actions in order: 我先做作业，然后看电视 (wǒ xiān zuò zuòyè, ránhòu kàn diànshì), \"First I do homework, then I watch TV\". 和 (hé) means \"and\" between nouns or people: 我和朋友玩 (wǒ hé péngyou wán), \"I spend time with a friend\".\n\n## Negatives\nPut 不 (bù) before the verb: 我不吃早饭 (wǒ bù chī zǎofàn), \"I don't eat breakfast\". Remember the tone change: 不 becomes bú before a fourth tone, as in 我不上学 (wǒ bú shàngxué).\n\n## Worked example\nLingling's day: 我七点半上学 (I go to school at 7:30). 下午四点放学 (school finishes at 4 p.m.). 然后回家做作业 (then I go home and do homework). 晚上十点睡觉 (I go to bed at 10 p.m.).\n\n## Common mistakes\n- Putting the time or place after the verb.\n- Using 是 before a verb, as in 我是吃早饭.\n- Mixing up 早饭 (breakfast), 午饭 (lunch) and 晚饭 (dinner).\n- Forgetting that 不 changes to bú before a fourth tone.\n\n## How this is examined\nRoutines appear as short diary entries, emails to a penfriend and listening passages about a typical day. Questions ask for a time, the order of two events, or what someone does after school. In writing tasks you should give four or five routine sentences with times, using 先 and 然后 for extra credit.\n\nExam tip: In a listening or reading text about a day, write the times down in a list next to the activities. Then check each answer against the time word that comes before the verb, and watch for 然后 because it tells you what happens next.",
+  "flashcards": [
+   {
+    "front": "起床 / 睡觉",
+    "back": "起床 (qǐchuáng) = get up; 睡觉 (shuìjiào) = go to bed, sleep."
+   },
+   {
+    "front": "吃早饭 / 午饭 / 晚饭",
+    "back": "吃 (chī) = eat. 早饭 (zǎofàn) breakfast; 午饭 (wǔfàn) lunch; 晚饭 (wǎnfàn) dinner."
+   },
+   {
+    "front": "上学 / 放学 / 回家",
+    "back": "上学 (shàngxué) = go to school; 放学 (fàngxué) = school finishes; 回家 (huí jiā) = go home."
+   },
+   {
+    "front": "做作业 (zuò zuòyè)",
+    "back": "Do homework. 作业 (zuòyè) means homework."
+   },
+   {
+    "front": "每天 / 常常",
+    "back": "每天 (měitiān) = every day; 常常 (chángcháng) = often. Both go before the verb."
+   },
+   {
+    "front": "我七点起床",
+    "back": "Wǒ qī diǎn qǐchuáng = I get up at seven. The time word comes before the verb."
+   },
+   {
+    "front": "先…然后…",
+    "back": "先 (xiān) = first, 然后 (ránhòu) = then: 我先做作业，然后看电视 = first I do homework, then I watch TV."
+   },
+   {
+    "front": "我在学校吃午饭",
+    "back": "Wǒ zài xuéxiào chī wǔfàn = I eat lunch at school. 在 + place goes before the verb."
+   },
+   {
+    "front": "我不吃早饭",
+    "back": "Wǒ bù chī zǎofàn = I don't eat breakfast. 不 goes before the verb and becomes bú before a fourth tone."
+   }
+  ]
+ },
+ {
+  "subject": "mandarin-ab-initio",
+  "grade": 5,
+  "topic": "Home and Daily Life",
+  "subTopic": "Telling the Time",
+  "questions": [
+   {
+    "content": "What does 现在几点？(xiànzài jǐ diǎn?) ask?",
+    "options": [
+     "What day is it today?",
+     "What time is it now?",
+     "How old are you?",
+     "Where are you now?"
+    ],
+    "answer": 1,
+    "explanation": "现在 means now and 几点 means 'what o'clock'.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What time is 三点 (sān diǎn)?",
+    "options": [
+     "3 o'clock",
+     "3 minutes",
+     "Half past three",
+     "3 hours"
+    ],
+    "answer": 0,
+    "explanation": "点 means o'clock, so 三点 is three o'clock.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 半 (bàn) mean in a time?",
+    "options": [
+     "Quarter",
+     "Minute",
+     "O'clock",
+     "Half"
+    ],
+    "answer": 3,
+    "explanation": "半 means half. 七点半 is half past seven.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which time is 两点 (liǎng diǎn)?",
+    "options": [
+     "12:00",
+     "4:00",
+     "2:00",
+     "10:00"
+    ],
+    "answer": 2,
+    "explanation": "For 2 o'clock we use 两 (liǎng), not 二. 十二点 is 12 o'clock.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 下午 (xiàwǔ) mean?",
+    "options": [
+     "Morning",
+     "Afternoon",
+     "Evening",
+     "Night"
+    ],
+    "answer": 1,
+    "explanation": "下午 is afternoon. Morning is 上午 (shàngwǔ).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which time is 七点半 (qī diǎn bàn)?",
+    "options": [
+     "7:30",
+     "7:15",
+     "7:50",
+     "6:30"
+    ],
+    "answer": 0,
+    "explanation": "半 means half, so 七点半 is half past seven.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which time is 九点一刻 (jiǔ diǎn yí kè)?",
+    "options": [
+     "9:45",
+     "9:10",
+     "1:09",
+     "9:15"
+    ],
+    "answer": 3,
+    "explanation": "刻 (kè) means a quarter of an hour. 一刻 is 15 minutes and 三刻 is 45 minutes.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which time is 八点零五分 (bā diǎn líng wǔ fēn)?",
+    "options": [
+     "8:50",
+     "5:08",
+     "8:05",
+     "8:15"
+    ],
+    "answer": 2,
+    "explanation": "分 (fēn) means minutes. 零 (líng) is used for single-digit minutes, so 零五分 is 05.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How do you say 'I get up at half past six'?",
+    "options": [
+     "我起床六点半 (wǒ qǐchuáng liù diǎn bàn)",
+     "我六点半起床 (wǒ liù diǎn bàn qǐchuáng)",
+     "我半六点起床 (wǒ bàn liù diǎn qǐchuáng)",
+     "我六半点起床 (wǒ liù bàn diǎn qǐchuáng)"
+    ],
+    "answer": 1,
+    "explanation": "The time word comes before the verb, and half goes after 点: 六点半.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 上午九点 (shàngwǔ jiǔ diǎn) mean?",
+    "options": [
+     "9 a.m.",
+     "9 p.m.",
+     "9:30 a.m.",
+     "12 noon"
+    ],
+    "answer": 0,
+    "explanation": "上午 is the morning, so 上午九点 is nine in the morning.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read: 八点上课，十二点吃午饭，三点半放学。(Bā diǎn shàngkè, shí'èr diǎn chī wǔfàn, sān diǎn bàn fàngxué.) [上课 = lessons begin]\n\nWhen does school finish?",
+    "options": [
+     "3:00",
+     "12:00",
+     "8:30",
+     "3:30"
+    ],
+    "answer": 3,
+    "explanation": "放学 means school finishes, and it is linked to 三点半, half past three.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What time is 差五分十点 (chà wǔ fēn shí diǎn)? [差 = short of, to]",
+    "options": [
+     "10:05",
+     "5:10",
+     "9:55",
+     "10:55"
+    ],
+    "answer": 2,
+    "explanation": "差五分十点 means five minutes short of ten o'clock, which is 9:55.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which question means 'What time do you get up?'",
+    "options": [
+     "你起床几点吗？(nǐ qǐchuáng jǐ diǎn ma?)",
+     "你几点起床？(nǐ jǐ diǎn qǐchuáng?)",
+     "你点几起床？(nǐ diǎn jǐ qǐchuáng?)",
+     "你几月起床？(nǐ jǐ yuè qǐchuáng?)"
+    ],
+    "answer": 1,
+    "explanation": "几点 asks for the time and comes before the verb. 几月 asks for the month.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript: 老师: 现在是八点五十分。九点上课。(Lǎoshī: Xiànzài shì bā diǎn wǔshí fēn. Jiǔ diǎn shàngkè.)\n\nHow many minutes are left before the lesson starts?",
+    "options": [
+     "10",
+     "5",
+     "50",
+     "60"
+    ],
+    "answer": 0,
+    "explanation": "8:50 to 9:00 is ten minutes.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Station notice: 火车八点二十分开。(Huǒchē bā diǎn èrshí fēn kāi.) [火车 = train, 开 = leaves] Ming checks his watch: 现在差一刻八点。(Xiànzài chà yí kè bā diǎn.)\n\nHow long must he wait?",
+    "options": [
+     "15 minutes",
+     "25 minutes",
+     "45 minutes",
+     "35 minutes"
+    ],
+    "answer": 3,
+    "explanation": "差一刻八点 is a quarter to eight, 7:45. From 7:45 to 8:20 is 35 minutes.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Invitation: 周六下午两点半在我家。(Zhōuliù xiàwǔ liǎng diǎn bàn zài wǒ jiā.) [周六 = Saturday]\n\nWhen is the party?",
+    "options": [
+     "Saturday at 2:30 a.m.",
+     "Saturday at 3:30 p.m.",
+     "Saturday at 2:30 p.m.",
+     "Sunday at 2:30 p.m."
+    ],
+    "answer": 2,
+    "explanation": "周六 is Saturday, 下午 is afternoon, and 两点半 is half past two.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which of these is NOT a correct way to say 3:45?",
+    "options": [
+     "三点四十五分 (sān diǎn sìshíwǔ fēn)",
+     "三点一刻 (sān diǎn yí kè)",
+     "三点三刻 (sān diǎn sān kè)",
+     "差一刻四点 (chà yí kè sì diǎn)"
+    ],
+    "answer": 1,
+    "explanation": "三点一刻 is 3:15. 3:45 can be 三点四十五分, 三点三刻 or 差一刻四点.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Read: 小明七点一刻起床，七点三刻吃早饭，八点上学。(Xiǎomíng qī diǎn yí kè qǐchuáng, qī diǎn sān kè chī zǎofàn, bā diǎn shàngxué.)\n\nHow long is it between getting up and breakfast?",
+    "options": [
+     "30 minutes",
+     "15 minutes",
+     "45 minutes",
+     "60 minutes"
+    ],
+    "answer": 0,
+    "explanation": "七点一刻 is 7:15 and 七点三刻 is 7:45. 7:45 − 7:15 = 30 minutes.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Saying the time\nTelling the time in Mandarin follows the clock very closely, which makes it easy once you know the numbers from one to sixty. Time is tested in timetables, notices, messages and listening passages, so aim to read it without translating each part.\n\n## Key words\n- 点 (diǎn): o'clock\n- 分 (fēn): minute\n- 半 (bàn): half\n- 刻 (kè): quarter of an hour\n- 差 (chà): short of, to\n- 现在 (xiànzài): now\n- 几点 (jǐ diǎn): what time\n- 上午 (shàngwǔ): morning\n- 中午 (zhōngwǔ): noon\n- 下午 (xiàwǔ): afternoon\n- 晚上 (wǎnshang): evening\n\n## Full hours\nUse number + 点. 三点 (sān diǎn) is 3:00 and 十一点 (shíyī diǎn) is 11:00. For two o'clock use 两点 (liǎng diǎn), not 二点. Ask 现在几点？(xiànzài jǐ diǎn?), \"What time is it now?\". Answer 现在九点 (xiànzài jiǔ diǎn), \"It is nine o'clock\".\n\n## Half and quarter hours\n- 七点半 (qī diǎn bàn): 7:30\n- 九点一刻 (jiǔ diǎn yí kè): 9:15\n- 九点三刻 (jiǔ diǎn sān kè): 9:45\nYou can also use the minutes: 九点十五分 (jiǔ diǎn shíwǔ fēn) is 9:15 and 九点四十五分 (jiǔ diǎn sìshíwǔ fēn) is 9:45.\n\n## Minutes\nSay the hour, then the minutes, then 分. When the minutes are below ten, add 零 (líng): 八点零五分 (bā diǎn líng wǔ fēn) is 8:05. For other minutes just say the number: 八点二十分 (bā diǎn èrshí fēn) is 8:20.\n\n## Minutes to the hour\n差 (chà) means \"short of\" and works like \"to\" in English: 差五分十点 (chà wǔ fēn shí diǎn) is five to ten, 9:55. 差一刻八点 (chà yí kè bā diǎn) is a quarter to eight, 7:45.\n\n## Morning, afternoon, evening\nPut the part of the day before the time: 上午九点 (shàngwǔ jiǔ diǎn) is 9 a.m., 下午三点 (xiàwǔ sān diǎn) is 3 p.m. and 晚上八点 (wǎnshang bā diǎn) is 8 p.m.\n\n## Time in a sentence\nTime goes before the verb, so say 我七点半起床 (wǒ qī diǎn bàn qǐchuáng), \"I get up at 7:30\". Ask 你几点起床？(nǐ jǐ diǎn qǐchuáng?), \"What time do you get up?\". Never put the time at the end of the sentence.\n\n## Worked example\nA notice says 火车八点二十分开 (the train leaves at 8:20) and your watch says 差一刻八点 (7:45). To find how long you wait, work in minutes: from 7:45 to 8:00 is 15 minutes and from 8:00 to 8:20 is 20 minutes, so you wait 15 + 20 = 35 minutes.\n\n## Common mistakes\n- Saying 二点 instead of 两点.\n- Reading 一刻 as 1 minute instead of 15 minutes.\n- Forgetting 零 in times such as 8:05.\n- Reading 差 as an addition, when it takes time away.\n- Putting the time at the end of the sentence.\n\n## How this is examined\nTime appears in timetables, train and cinema notices, invitations and short dialogues. Typical questions ask when something starts, how long you wait, or what time a person does something. Writing tasks often ask for a short plan with times.\n\nExam tip: Turn every Chinese time into digits as you read, like 7:45, and then do the sums with digits. In listening, 刻 and 差 are the key words that make a time earlier or later than it first sounds, so listen for them.",
+  "flashcards": [
+   {
+    "front": "点 / 分",
+    "back": "点 (diǎn) = o'clock; 分 (fēn) = minute. 三点十分 (sān diǎn shí fēn) = 3:10."
+   },
+   {
+    "front": "现在几点？",
+    "back": "Xiànzài jǐ diǎn? = What time is it now? Answer: 现在七点 (xiànzài qī diǎn), it is 7 o'clock."
+   },
+   {
+    "front": "两点 (liǎng diǎn)",
+    "back": "2 o'clock. Use 两, not 二, before 点 and measure words."
+   },
+   {
+    "front": "半 (bàn)",
+    "back": "Half: 七点半 (qī diǎn bàn) = 7:30."
+   },
+   {
+    "front": "一刻 / 三刻",
+    "back": "一刻 (yí kè) = quarter hour, 15 minutes: 九点一刻 = 9:15. 三刻 (sān kè) = 45 minutes: 九点三刻 = 9:45."
+   },
+   {
+    "front": "零 (líng) in times",
+    "back": "Used for minutes under ten: 八点零五分 (bā diǎn líng wǔ fēn) = 8:05."
+   },
+   {
+    "front": "差 (chà)",
+    "back": "Short of, to: 差五分十点 (chà wǔ fēn shí diǎn) = five to ten = 9:55."
+   },
+   {
+    "front": "上午 / 下午 / 晚上",
+    "back": "上午 (shàngwǔ) = morning; 下午 (xiàwǔ) = afternoon; 晚上 (wǎnshang) = evening."
+   },
+   {
+    "front": "我七点半起床",
+    "back": "Wǒ qī diǎn bàn qǐchuáng = I get up at 7:30. The time comes before the verb."
+   }
+  ]
+ }
+]

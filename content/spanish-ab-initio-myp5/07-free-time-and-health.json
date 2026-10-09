@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "spanish-ab-initio",
+  "grade": 5,
+  "topic": "Free Time and Health",
+  "subTopic": "Hobbies and Sports",
+  "questions": [
+   {
+    "content": "What does 'nadar' mean?",
+    "options": [
+     "to dance",
+     "to read",
+     "to swim",
+     "to run"
+    ],
+    "answer": 2,
+    "explanation": "'Nadar' is to swim. 'Bailar' is to dance, 'leer' is to read and 'correr' is to run.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'leer' mean?",
+    "options": [
+     "to write",
+     "to read",
+     "to listen",
+     "to play"
+    ],
+    "answer": 1,
+    "explanation": "'Leer' is to read. Do not mix it up with 'escribir' (to write).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'Me gusta bailar' mean?",
+    "options": [
+     "I like dancing.",
+     "I like singing.",
+     "I do not like dancing.",
+     "I am dancing now."
+    ],
+    "answer": 0,
+    "explanation": "'Me gusta' + infinitive means I like doing something. 'Bailar' is to dance.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which verb do we use for playing a musical instrument, such as the guitar?",
+    "options": [
+     "jugar",
+     "hacer",
+     "ver",
+     "tocar"
+    ],
+    "answer": 3,
+    "explanation": "We use 'tocar' for instruments ('toco la guitarra') and 'jugar' for games and sports ('juego al fútbol').",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'los fines de semana' mean?",
+    "options": [
+     "every day",
+     "on weekdays",
+     "at weekends",
+     "at the end of the year"
+    ],
+    "answer": 2,
+    "explanation": "'Fin de semana' is weekend. With 'los' it means regularly, on weekends.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Complete the sentence: 'Mi hermano ___ al tenis los sábados.'",
+    "options": [
+     "jugo",
+     "juega",
+     "juegas",
+     "jugamos"
+    ],
+    "answer": 1,
+    "explanation": "'Jugar' changes its stem (u → ue) in the present tense: juego, juegas, juega, jugamos, jugáis, juegan. A brother is 'él', so 'juega'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence correctly says 'I play the piano'?",
+    "options": [
+     "Toco el piano.",
+     "Juego el piano.",
+     "Juego al piano.",
+     "Toco al piano."
+    ],
+    "answer": 0,
+    "explanation": "For instruments we use 'tocar' with the article and no 'a': 'Toco el piano'. 'Jugar a' is for games and sports.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read the text.\n\n'Me llamo Elena. Me encanta el deporte. Juego al baloncesto los martes y los jueves y nado los sábados. No me gusta correr.'\n\nOn which days does Elena play basketball?",
+    "options": [
+     "Saturdays only",
+     "Tuesdays and Saturdays",
+     "Every day",
+     "Tuesdays and Thursdays"
+    ],
+    "answer": 3,
+    "explanation": "'Los martes y los jueves' means on Tuesdays and Thursdays. She swims on Saturdays.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence means 'I hate playing video games'?",
+    "options": [
+     "Me encanta jugar a los videojuegos.",
+     "Prefiero jugar a los videojuegos.",
+     "Odio jugar a los videojuegos.",
+     "Nunca juego a los videojuegos."
+    ],
+    "answer": 2,
+    "explanation": "'Odio' means I hate. 'Me encanta' is I love, 'prefiero' is I prefer, and 'nunca juego' only says that I never play.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Complete the sentence: 'A mis amigos ___ gusta ver películas.'",
+    "options": [
+     "le",
+     "les",
+     "me",
+     "nos"
+    ],
+    "answer": 1,
+    "explanation": "'A mis amigos' is 'to them', so the pronoun is 'les'. Singular 'a mi amigo' would take 'le'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript:\n\n'¿Qué haces en tu tiempo libre? —Normalmente salgo con mis amigos y vamos al cine. A veces toco la guitarra en casa. Nunca veo la tele.'\n\nWhat does the speaker never do?",
+    "options": [
+     "Watch television",
+     "Play the guitar",
+     "Go to the cinema",
+     "Go out with friends"
+    ],
+    "answer": 0,
+    "explanation": "'Nunca' means never, and 'ver la tele' is to watch TV. 'A veces' means sometimes.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read the message.\n\n'Hola, Leo: ¿Quieres jugar al fútbol mañana a las cuatro en el parque? Trae tu balón. Marcos.'\n\nWhat does Marcos want?",
+    "options": [
+     "To go to the cinema tomorrow at four",
+     "To play basketball in the park today",
+     "To buy a ball with Leo at four",
+     "To play football with Leo in the park tomorrow at four"
+    ],
+    "answer": 3,
+    "explanation": "'¿Quieres jugar...?' is an invitation. 'Mañana a las cuatro en el parque' gives the day, time and place, and 'trae tu balón' asks Leo to bring a ball.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 'Prefiero la natación al fútbol' mean?",
+    "options": [
+     "I prefer football to swimming.",
+     "I like swimming and football.",
+     "I prefer swimming to football.",
+     "I hate swimming but like football."
+    ],
+    "answer": 2,
+    "explanation": "'Preferir A a B' means to prefer A to B. 'La natación' is swimming.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read the text.\n\n'Mi hermana y yo no tenemos los mismos gustos. A ella le encanta leer y escuchar música clásica, pero a mí me gusta más el deporte. Yo juego al fútbol cada día.'\n\nWhich statement is correct?",
+    "options": [
+     "The writer loves reading, but his sister plays football daily.",
+     "The writer's sister loves reading, but the writer plays football daily.",
+     "Both of them love classical music.",
+     "The writer's sister plays football and reads every day."
+    ],
+    "answer": 1,
+    "explanation": "'A ella le encanta leer' refers to the sister. The writer prefers sport and plays football every day ('cada día').",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence is correct?",
+    "options": [
+     "Nosotros jugamos al baloncesto los viernes.",
+     "Nosotros juegamos al baloncesto los viernes.",
+     "Nosotros jugamos baloncesto al los viernes.",
+     "Nosotros juegan al baloncesto los viernes."
+    ],
+    "answer": 0,
+    "explanation": "The 'nosotros' form of 'jugar' is 'jugamos' (no stem change). The stem change only happens in the other forms except 'vosotros'.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence says 'My sister likes dancing and singing'?",
+    "options": [
+     "A mi hermana me gusta bailar y cantar.",
+     "A mi hermana le gustan bailar y cantar.",
+     "Mi hermana gusta bailar y cantar.",
+     "A mi hermana le gusta bailar y cantar."
+    ],
+    "answer": 3,
+    "explanation": "We use 'le' for 'to her', and 'gusta' (singular) before infinitives, even two of them. 'Me' would mean 'to me'.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Read the survey answers.\n\n'¿Con qué frecuencia? Nadar: todos los días. Leer: a menudo. Ver la tele: a veces. Videojuegos: nunca.'\n\nWhich statement is correct?",
+    "options": [
+     "She reads every day and sometimes swims.",
+     "She often watches TV and never reads.",
+     "She swims every day and never plays video games.",
+     "She plays video games sometimes and swims often."
+    ],
+    "answer": 2,
+    "explanation": "'Todos los días' is every day, 'a menudo' often, 'a veces' sometimes and 'nunca' never.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Listening transcript:\n\n'Los fines de semana, mis amigos y yo jugamos al fútbol por la mañana. Por la tarde, mi amigo Paco toca la guitarra y yo escucho música. Los domingos no salimos porque tenemos que estudiar.'\n\nWhat do they do on Sundays?",
+    "options": [
+     "They play football in the morning.",
+     "They stay in because they have to study.",
+     "They go out and listen to music.",
+     "They go to a concert with Paco."
+    ],
+    "answer": 1,
+    "explanation": "'No salimos' means we do not go out, and 'porque tenemos que estudiar' gives the reason: they have to study.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why this matters\nFree time is one of the friendliest topics in Spanish. Almost every beginner text includes people talking about what they like, what they play and how often they do it. You will practise opinions, a few key verbs and frequency words.\n\n## Hobbies and sports\n- jugar al fútbol / al baloncesto / al tenis (to play football / basketball / tennis)\n- jugar a los videojuegos (to play video games)\n- nadar (to swim)\n- correr (to run)\n- montar en bici (to ride a bike)\n- bailar (to dance)\n- cantar (to sing)\n- leer (to read)\n- escuchar música (to listen to music)\n- ver la tele (to watch television)\n- ir al cine (to go to the cinema)\n- salir con amigos (to go out with friends)\n- tocar la guitarra / el piano (to play the guitar / the piano)\n\nNotice the difference between 'jugar a' for games and sports, and 'tocar' for instruments: 'juego al tenis' but 'toco la guitarra'.\n\n## Giving opinions\n- Me encanta... (I love...)\n- Me gusta... (I like...)\n- No me gusta... (I do not like...)\n- Odio... (I hate...)\n- Prefiero... (I prefer...)\n\nAfter these phrases use the infinitive: 'Me gusta nadar.' For other people change the pronoun: 'A mi hermana le gusta bailar' and 'A mis amigos les gusta ver películas.' With a plural noun use 'gustan': 'Me gustan los deportes.'\n\n## The verb jugar\n- yo juego\n- tú juegas\n- él / ella juega\n- nosotros jugamos\n- vosotros jugáis\n- ellos / ellas juegan\n\nThe vowel u changes to ue in all forms except nosotros and vosotros. Say 'Mi amigo juega al tenis' and 'Jugamos al fútbol'.\n\n## How often?\n- todos los días (every day)\n- los fines de semana (at weekends)\n- a menudo (often)\n- a veces (sometimes)\n- una vez a la semana (once a week)\n- nunca (never)\n\nPosition matters: 'Nunca veo la tele' means 'I never watch TV'. You can also say 'No veo la tele nunca'.\n\n## Worked example\nRead: 'Los sábados juego al fútbol con mis amigos. Por la tarde veo una película. Los domingos no salgo porque tengo que estudiar.'\nQuestion: What does the writer do on Saturday afternoon? Answer: watches a film ('por la tarde veo una película').\n\n## How this is examined\nReading texts are often profiles, forum posts or emails about hobbies. Questions ask what a person likes, how often they do something and what they do not like. Distractors swap people (he / she) or frequency words. In listening transcripts someone answers '¿Qué haces en tu tiempo libre?' and the answer includes several activities with frequency words. In writing you may be asked to write three sentences about your hobbies and one reason.\n\n## Common mistakes\n- Using 'jugar' for an instrument\n- Forgetting the 'a' after 'jugar': juego al fútbol\n- Saying 'jugamos' as 'juegamos'\n- Mixing up 'me gusta' (singular) and 'me gustan' (plural noun)\n- Mixing up 'a menudo' (often) and 'a veces' (sometimes)\n\nExam tip: Look for the little words that change the meaning of an activity: nunca, a veces, todos los días and no me gusta. They are the most common reason students choose the wrong answer.",
+  "flashcards": [
+   {
+    "front": "jugar: juego, juegas, juega, jugamos, jugáis, juegan",
+    "back": "Stem-changing verb (u → ue) except in 'nosotros' and 'vosotros'. 'Mi amigo juega al tenis.'"
+   },
+   {
+    "front": "jugar a / tocar",
+    "back": "Jugar a + game or sport (juego al fútbol); tocar + instrument (toco la guitarra)."
+   },
+   {
+    "front": "Me encanta / Me gusta / Odio",
+    "back": "I love / I like / I hate. They are followed by an infinitive: 'Me encanta bailar.'"
+   },
+   {
+    "front": "A mi hermana le gusta...",
+    "back": "My sister likes... 'Le' = to her/him; 'les' = to them. 'A mis amigos les gusta ver películas.'"
+   },
+   {
+    "front": "a menudo / a veces / nunca",
+    "back": "often / sometimes / never. Frequency words appear in nearly every free-time text."
+   },
+   {
+    "front": "los fines de semana",
+    "back": "at weekends (regularly). 'Los sábados' = on Saturdays (every Saturday)."
+   },
+   {
+    "front": "ver la tele",
+    "back": "to watch television. 'Nunca veo la tele.' = I never watch TV."
+   },
+   {
+    "front": "salir con amigos",
+    "back": "to go out with friends. 'Salgo con mis amigos los viernes.'"
+   },
+   {
+    "front": "¿Qué haces en tu tiempo libre?",
+    "back": "What do you do in your free time? A typical question in a listening or speaking task."
+   }
+  ]
+ },
+ {
+  "subject": "spanish-ab-initio",
+  "grade": 5,
+  "topic": "Free Time and Health",
+  "subTopic": "Weather and Seasons",
+  "questions": [
+   {
+    "content": "What does 'hace calor' mean?",
+    "options": [
+     "it is cold",
+     "it is windy",
+     "it is raining",
+     "it is hot"
+    ],
+    "answer": 3,
+    "explanation": "'Hace calor' means it is hot. 'Hace frío' is cold and 'hace viento' is windy.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'llueve' mean?",
+    "options": [
+     "it is snowing",
+     "it is sunny",
+     "it is raining",
+     "it is foggy"
+    ],
+    "answer": 2,
+    "explanation": "'Llover' means to rain. 'Nevar' (nieva) means to snow.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which season is 'el otoño'?",
+    "options": [
+     "spring",
+     "autumn",
+     "summer",
+     "winter"
+    ],
+    "answer": 1,
+    "explanation": "'El otoño' is autumn. 'La primavera' is spring, 'el verano' summer and 'el invierno' winter.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does the question '¿Qué tiempo hace?' mean?",
+    "options": [
+     "What is the weather like?",
+     "What time is it?",
+     "What day is it?",
+     "What are you doing?"
+    ],
+    "answer": 0,
+    "explanation": "'El tiempo' can mean both time and weather. With 'hace' the question is about the weather.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'nieva' mean?",
+    "options": [
+     "it is raining",
+     "it is cloudy",
+     "it is hot",
+     "it is snowing"
+    ],
+    "answer": 3,
+    "explanation": "'Nevar' is to snow. The nouns are 'la nieve' (snow) and 'la lluvia' (rain).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Complete the sentence: 'En invierno ___ mucho frío.'",
+    "options": [
+     "es",
+     "está",
+     "hace",
+     "tiene"
+    ],
+    "answer": 2,
+    "explanation": "Weather expressions use 'hacer': hace frío, hace calor, hace viento. 'Tiene frío' describes a person who feels cold.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read the forecast.\n\n'Mañana en Sevilla: sol y 34 grados. En Bilbao: nublado y lluvia, 17 grados.'\n\nHow many degrees warmer is Seville than Bilbao?",
+    "options": [
+     "34",
+     "17",
+     "51",
+     "7"
+    ],
+    "answer": 1,
+    "explanation": "The difference is 34 − 17 = 17 degrees. 'Nublado' means cloudy.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read the sentence.\n\n'Me gusta el verano porque hace calor y puedo ir a la playa.'\n\nWhy does the speaker like summer?",
+    "options": [
+     "It is hot and they can go to the beach.",
+     "It is cold and they can ski.",
+     "It is rainy and they can stay at home.",
+     "It is windy and they can fly a kite."
+    ],
+    "answer": 0,
+    "explanation": "'Hace calor' means it is hot, and 'puedo ir a la playa' means I can go to the beach.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence says 'It is windy and cloudy'?",
+    "options": [
+     "Hace viento y hay nublado.",
+     "Está viento y hace nublado.",
+     "Hace viento y es nublado.",
+     "Hace viento y está nublado."
+    ],
+    "answer": 3,
+    "explanation": "Wind uses 'hace viento'. For cloud we use 'está nublado' (it is cloudy). The other options mix the verbs.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which Spanish month means 'March'?",
+    "options": [
+     "mayo",
+     "junio",
+     "marzo",
+     "agosto"
+    ],
+    "answer": 2,
+    "explanation": "'Marzo' is March and 'mayo' is May, which look similar. 'Junio' is June and 'agosto' is August.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript:\n\n'Hoy hace mucho frío y nieva en las montañas. En la costa llueve un poco, pero por la tarde sale el sol.'\n\nWhat is the weather like on the coast today?",
+    "options": [
+     "Snow all day",
+     "Rain at first, then sun in the afternoon",
+     "Sun in the morning, rain in the afternoon",
+     "Cold and snowing in the afternoon"
+    ],
+    "answer": 1,
+    "explanation": "'Llueve un poco' is a little rain, and 'por la tarde sale el sol' means the sun comes out in the afternoon.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 'Hace buen tiempo, así que vamos a la playa' mean?",
+    "options": [
+     "The weather is nice, so we are going to the beach.",
+     "The weather is bad, so we are not going to the beach.",
+     "It is hot, so we are going home.",
+     "It is time to go to the beach."
+    ],
+    "answer": 0,
+    "explanation": "'Buen tiempo' means good weather, and 'así que' means so.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which expression is the opposite of 'hace buen tiempo'?",
+    "options": [
+     "hace frío",
+     "hace sol",
+     "hace calor",
+     "hace mal tiempo"
+    ],
+    "answer": 3,
+    "explanation": "The direct opposite of good weather is bad weather. 'Hace frío' is only one type of bad weather.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read the postcard.\n\n'Estoy en Buenos Aires con mi tío. Aquí es julio y es invierno: ¡hace frío y llueve mucho! En mi país ahora es verano. Mañana voy a visitar un museo porque llueve.'\n\nWhich statement is correct?",
+    "options": [
+     "It is summer in Buenos Aires in July, so it is hot.",
+     "The writer will go to the beach tomorrow.",
+     "It is winter in Buenos Aires in July, so it is cold and rainy.",
+     "The writer's country has winter now."
+    ],
+    "answer": 2,
+    "explanation": "Argentina is in the southern hemisphere, where seasons are the opposite of Spain's. The writer says it is winter in July and that they will visit a museum because of the rain.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence contains a mistake?",
+    "options": [
+     "Llueve mucho en otoño.",
+     "Hace llueve en abril.",
+     "Hace sol y calor.",
+     "En primavera hace buen tiempo."
+    ],
+    "answer": 1,
+    "explanation": "'Llover' is a verb on its own: 'Llueve en abril'. 'Hace' is used only with nouns such as sol, calor, frío and viento.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Read the weather chart.\n\n'Temperaturas en Madrid: lunes 12°, martes 15°, miércoles 18°, jueves 21°, viernes 17°.'\n\nWhich day is warmest, and how much warmer is it than Monday?",
+    "options": [
+     "Thursday, 9 degrees warmer",
+     "Wednesday, 6 degrees warmer",
+     "Thursday, 21 degrees warmer",
+     "Friday, 5 degrees warmer"
+    ],
+    "answer": 0,
+    "explanation": "The highest value is 21° on Thursday ('jueves'). The difference from Monday is 21 − 12 = 9 degrees.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence says 'In spring it often rains, but in summer it is hot'?",
+    "options": [
+     "En primavera hace llueve a menudo, pero en verano hace calor.",
+     "En primavera llueve a menudo, pero en verano es calor.",
+     "En primavera llueve a menudo, pero en verano tiene calor.",
+     "En primavera llueve a menudo, pero en verano hace calor."
+    ],
+    "answer": 3,
+    "explanation": "'Llueve' stands alone and weather heat uses 'hace calor'. 'Es calor' is wrong and 'tiene calor' describes a person.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Listening transcript:\n\n'El sábado va a hacer sol y mucho calor, 30 grados. El domingo va a haber tormenta por la tarde.' ('Tormenta' means storm.)\n\nWhich plan matches the forecast?",
+    "options": [
+     "Stay in on Saturday and go to the beach on Sunday afternoon",
+     "Go skiing on Saturday and Sunday",
+     "Go to the beach on Saturday and stay in on Sunday afternoon",
+     "Have a picnic on Sunday afternoon"
+    ],
+    "answer": 2,
+    "explanation": "Saturday will be sunny and hot, so the beach is a good idea. On Sunday afternoon there will be a storm, so it is better to stay in.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why this matters\nWeather is a classic beginner topic, because it appears in forecasts, postcards, emails and conversations. It also gives you a perfect chance to practise one of Spanish's most useful verbs: 'hacer'.\n\n## Asking about the weather\n- ¿Qué tiempo hace? (What is the weather like?)\n- ¿Qué tiempo va a hacer mañana? (What will the weather be like tomorrow?)\n- ¿Cuántos grados hace? (How many degrees is it?)\n\n## Weather expressions with hacer\n- Hace sol (it is sunny)\n- Hace calor (it is hot)\n- Hace frío (it is cold)\n- Hace viento (it is windy)\n- Hace buen tiempo (the weather is good)\n- Hace mal tiempo (the weather is bad)\n\n## Other weather expressions\n- Llueve (it rains / it is raining)\n- Nieva (it snows / it is snowing)\n- Está nublado (it is cloudy)\n- Hay niebla (it is foggy)\n- Hay tormenta (there is a storm)\n- Hace 25 grados (it is 25 degrees)\n\nDo not write 'hace llueve'. The verbs 'llover' and 'nevar' do not need 'hace'. Do not use 'tener' for weather, because 'tengo calor' means 'I am hot' (the person), but 'hace calor' means 'it is hot' (the weather).\n\n## Seasons and months\n- la primavera (spring)\n- el verano (summer)\n- el otoño (autumn)\n- el invierno (winter)\n\nMonths: enero, febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre. In Spanish months and seasons do not begin with a capital letter. Use 'en' with seasons and months: 'En verano hace calor', 'En enero nieva'.\n\nRemember that in the southern hemisphere, in countries such as Argentina and Chile, the seasons are reversed. When it is July, it is winter there.\n\n## Talking about the future weather\nUse 'va a' + infinitive: 'Mañana va a llover' (it is going to rain tomorrow), 'Va a hacer sol' (it is going to be sunny), 'Va a haber tormenta' (there will be a storm).\n\n## Worked example\nRead: 'Hoy hace viento y está nublado, pero no llueve. Por la tarde hace 18 grados.' What is the weather like today? Windy and cloudy, no rain, 18° in the afternoon.\n\n## How this is examined\nIn reading, you may meet a short weather forecast for several cities or a postcard. You may have to compare temperatures, find the warmest or coldest place, or choose an activity that suits the weather. In listening, the forecast contains times of day (mañana, por la tarde) which can change the answer. In writing, you may describe the weather in your town in each season and say which you prefer and why.\n\n## Common mistakes\n- Writing 'hace llueve' or 'hace nieva'\n- Using 'es calor' or 'tiene calor' for the weather\n- Mixing up 'frío' (cold) and 'fresco' (cool)\n- Forgetting that seasons are opposite in the southern hemisphere\n\nExam tip: For forecast questions, write down each city or day with its weather and temperature as you read. Then answer the question with your notes, not from memory.",
+  "flashcards": [
+   {
+    "front": "¿Qué tiempo hace?",
+    "back": "What is the weather like? Answer with 'hace' + noun: 'Hace sol.'"
+   },
+   {
+    "front": "hace calor / hace frío",
+    "back": "it is hot / it is cold (weather). 'Tengo calor' means I (a person) am hot."
+   },
+   {
+    "front": "llueve / nieva",
+    "back": "it rains / it snows. These verbs stand alone: never 'hace llueve'."
+   },
+   {
+    "front": "está nublado",
+    "back": "it is cloudy. Cloud uses 'estar', not 'hacer'."
+   },
+   {
+    "front": "hace buen / mal tiempo",
+    "back": "the weather is good / bad. 'Hace buen tiempo, vamos a la playa.'"
+   },
+   {
+    "front": "la primavera, el verano, el otoño, el invierno",
+    "back": "spring, summer, autumn, winter. Use 'en': 'En otoño llueve mucho.'"
+   },
+   {
+    "front": "enero, febrero, marzo, abril, mayo, junio",
+    "back": "January to June. Months are not capitalised in Spanish."
+   },
+   {
+    "front": "julio, agosto, septiembre, octubre, noviembre, diciembre",
+    "back": "July to December. Months are written with a small letter, and 'septiembre' has a p."
+   },
+   {
+    "front": "va a hacer sol",
+    "back": "it is going to be sunny. 'Ir a + infinitive' gives the future forecast."
+   }
+  ]
+ },
+ {
+  "subject": "spanish-ab-initio",
+  "grade": 5,
+  "topic": "Free Time and Health",
+  "subTopic": "Health and the Body",
+  "questions": [
+   {
+    "content": "What does 'la cabeza' mean?",
+    "options": [
+     "the hand",
+     "the leg",
+     "the back",
+     "the head"
+    ],
+    "answer": 3,
+    "explanation": "'La cabeza' is the head. 'La mano' is the hand, 'la pierna' the leg and 'la espalda' the back.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'el brazo' mean?",
+    "options": [
+     "the leg",
+     "the foot",
+     "the arm",
+     "the neck"
+    ],
+    "answer": 2,
+    "explanation": "'El brazo' is the arm. 'La pierna' is the leg.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'Tengo fiebre' mean?",
+    "options": [
+     "I have a cold.",
+     "I have a temperature.",
+     "I am hungry.",
+     "I am cold."
+    ],
+    "answer": 1,
+    "explanation": "'Fiebre' is fever. A cold is 'un resfriado' or 'un catarro'.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is 'la espalda' in English?",
+    "options": [
+     "the back",
+     "the shoulder",
+     "the stomach",
+     "the knee"
+    ],
+    "answer": 0,
+    "explanation": "'La espalda' is the back. 'La rodilla' is the knee and 'el estómago' is the stomach.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Who is 'el médico'?",
+    "options": [
+     "the dentist",
+     "the chemist",
+     "the teacher",
+     "the doctor"
+    ],
+    "answer": 3,
+    "explanation": "'El médico' is the doctor. A dentist is 'el dentista'.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Complete the sentence: 'Me ___ la cabeza.'",
+    "options": [
+     "duelen",
+     "dolor",
+     "duele",
+     "duelo"
+    ],
+    "answer": 2,
+    "explanation": "'Doler' works like 'gustar': use 'duele' with a singular body part and 'duelen' with a plural one.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Complete the sentence: 'Me ___ los pies.'",
+    "options": [
+     "duele",
+     "duelen",
+     "duelo",
+     "dolores"
+    ],
+    "answer": 1,
+    "explanation": "'Los pies' is plural, so the verb is 'duelen'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 'Tengo dolor de estómago' mean?",
+    "options": [
+     "I have stomach ache.",
+     "I have a sore throat.",
+     "I have a headache.",
+     "I have toothache."
+    ],
+    "answer": 0,
+    "explanation": "'Dolor de' + body part means pain in that part. 'Estómago' is the stomach.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read the dialogue.\n\n'—¿Qué te pasa? —Me duele la garganta y tengo tos. —Debes beber agua caliente y descansar.'\n\nWhat advice does the speaker get?",
+    "options": [
+     "Take a cold shower",
+     "Go to the dentist",
+     "Do more sport",
+     "Drink hot water and rest"
+    ],
+    "answer": 3,
+    "explanation": "'Debes' means you should. 'Beber agua caliente' is to drink hot water and 'descansar' is to rest.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 'Hay que beber mucha agua' mean?",
+    "options": [
+     "I drink a lot of water.",
+     "There is a lot of water.",
+     "You have to drink lots of water.",
+     "Water is expensive."
+    ],
+    "answer": 2,
+    "explanation": "'Hay que' + infinitive is an impersonal expression meaning one must / you have to.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript:\n\n'Hoy no voy al colegio porque estoy enfermo. Tengo fiebre y me duele todo el cuerpo. Mi madre llama al médico.'\n\nWhy is the speaker staying at home?",
+    "options": [
+     "He has a doctor's appointment.",
+     "He is ill with a temperature.",
+     "He is on holiday.",
+     "He has hurt his foot at football."
+    ],
+    "answer": 1,
+    "explanation": "'Estoy enfermo' means I am ill and 'tengo fiebre' means I have a temperature.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence says 'My legs hurt'?",
+    "options": [
+     "Me duelen las piernas.",
+     "Me duele las piernas.",
+     "Me duelen la pierna.",
+     "Tengo duelen las piernas."
+    ],
+    "answer": 0,
+    "explanation": "'Las piernas' is plural so the verb is 'duelen'. 'Me duelen' already means 'hurt me', so you do not add 'tengo'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 'Tengo un resfriado' mean?",
+    "options": [
+     "I have a fever.",
+     "I have a cough.",
+     "I have a headache.",
+     "I have a cold."
+    ],
+    "answer": 3,
+    "explanation": "'Un resfriado' (or 'un catarro') is a cold. 'La gripe' is flu.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read the notice in a chemist's.\n\n'Farmacia Sol. Abierto de 9:00 a 21:00. Para la tos: jarabe, dos cucharadas al día. Si tienes fiebre más de tres días, ve al médico.'\n\nWhen should you see a doctor?",
+    "options": [
+     "If you have a cough for one day",
+     "If you take two spoonfuls of syrup",
+     "If you have a fever for more than three days",
+     "If the chemist's is closed"
+    ],
+    "answer": 2,
+    "explanation": "'Más de tres días' means more than three days, and 've al médico' means go to the doctor.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence contains a mistake?",
+    "options": [
+     "Me duele el brazo.",
+     "Me duele las manos.",
+     "Me duelen los dientes.",
+     "Tengo dolor de cabeza."
+    ],
+    "answer": 1,
+    "explanation": "'Las manos' is plural, so the verb must be 'duelen': 'Me duelen las manos'.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Read the email.\n\n'Para estar sano, como fruta y verdura todos los días, hago ejercicio tres veces por semana y duermo ocho horas. No bebo refrescos porque tienen mucho azúcar.'\n\nWhich statement is correct?",
+    "options": [
+     "The writer exercises three times a week and avoids sugary drinks.",
+     "The writer exercises every day and drinks lemonade.",
+     "The writer sleeps three hours and eats fruit.",
+     "The writer eats fruit once a week."
+    ],
+    "answer": 0,
+    "explanation": "'Tres veces por semana' is three times a week. The writer does not drink soft drinks ('refrescos') because they contain a lot of sugar.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence says 'You should rest and take the medicine'?",
+    "options": [
+     "Debes descansas y tomas la medicina.",
+     "Debo descansar y tomar la medicina.",
+     "Debes descansar y toman la medicina.",
+     "Debes descansar y tomar la medicina."
+    ],
+    "answer": 3,
+    "explanation": "'Debes' + infinitive means you should. After 'debes' we use the infinitive for both verbs; 'debo' would mean I should.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Listening transcript:\n\n'—Buenos días. ¿Qué le pasa? —Me duele mucho la espalda desde el lunes. —¿Hace deporte? —Sí, juego al tenis tres veces a la semana. —Entonces no puede jugar durante dos semanas. Tiene que descansar.'\n\nWhat is the doctor's advice?",
+    "options": [
+     "Play more tennis to strengthen the back",
+     "Take medicine for three days",
+     "No tennis for two weeks, and rest",
+     "Rest for one week, then play tennis"
+    ],
+    "answer": 2,
+    "explanation": "'No puede jugar durante dos semanas' means he cannot play for two weeks, and 'tiene que descansar' means he must rest.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why this matters\nHealth and the body is a practical topic. It is useful if you are ever unwell in a Spanish-speaking country, and it appears in dialogues at the doctor's, notices in a chemist's and emails about healthy lifestyles. It also teaches the useful verb 'doler' (to hurt).\n\n## Parts of the body\n- la cabeza (head)\n- el cuello (neck)\n- la garganta (throat)\n- el brazo (arm)\n- la mano (hand)\n- la espalda (back)\n- el estómago (stomach)\n- la pierna (leg)\n- la rodilla (knee)\n- el pie (foot)\n- los ojos (eyes)\n- la nariz (nose)\n- la boca (mouth)\n- los dientes (teeth)\n\nBe careful with gender: 'la mano' is feminine even though it ends in -o.\n\n## Saying what hurts\nThere are two ways:\n- Me duele la cabeza. / Me duelen los pies. (My head hurts. / My feet hurt.)\n- Tengo dolor de cabeza / de estómago / de garganta. (I have a headache / stomach ache / sore throat.)\n\nUse 'duele' for one thing and 'duelen' for more than one: 'Me duele el brazo' but 'Me duelen las piernas'. Be careful: the body part is the subject of the sentence, so it decides if the verb is singular or plural.\n\n## Illnesses\n- Estoy enfermo / enferma (I am ill)\n- Tengo fiebre (I have a temperature)\n- Tengo tos (I have a cough)\n- Tengo un resfriado (I have a cold)\n- Tengo gripe (I have flu)\n\n## Advice\n- Debes descansar. (You should rest.)\n- Debes beber agua. (You should drink water.)\n- Tienes que ir al médico. (You have to go to the doctor.)\n- Hay que dormir ocho horas. (One must sleep eight hours.)\n- Es bueno hacer ejercicio. (It is good to do exercise.)\n\nAfter these phrases use the infinitive.\n\n## Healthy living\n- comer fruta y verdura (to eat fruit and vegetables)\n- beber mucha agua (to drink lots of water)\n- hacer ejercicio (to do exercise)\n- dormir ocho horas (to sleep eight hours)\n- la comida sana (healthy food)\n- el azúcar (sugar)\n\n## Doctor's dialogue\n- ¿Qué te pasa? / ¿Qué le pasa? (What is wrong? informal / formal)\n- Me duele la garganta. (My throat hurts.)\n- Tiene que descansar. (You have to rest. formal)\n\n## How this is examined\nReading tasks include a notice in a chemist's, an email about a healthy lifestyle or a message from someone who is ill. You will need to choose what hurts, how long it has lasted, or what advice is given. Listening transcripts usually come as a dialogue with the doctor, and the advice often includes numbers (days, times a week). In writing you may write a short message saying you are ill, what hurts and what you will do.\n\n## Common mistakes\n- Saying 'Me duele los pies' instead of 'Me duelen los pies'\n- Using 'tengo' with a body part ('tengo la cabeza') instead of 'tengo dolor de cabeza'\n- Using 'es' instead of 'estoy' for illness\n- Forgetting the article with a body part: 'me duele la cabeza', not 'me duele mi cabeza'\n\nExam tip: Check whether the body part is singular or plural, because 'duele' and 'duelen' tell you the answer, and always read the advice sentence carefully for numbers and for words like 'no' and 'durante'.",
+  "flashcards": [
+   {
+    "front": "Me duele / Me duelen",
+    "back": "My ... hurts / hurt. 'Me duele la cabeza.' 'Me duelen los pies.' The body part decides singular or plural."
+   },
+   {
+    "front": "Tengo dolor de cabeza",
+    "back": "I have a headache. Also: dolor de estómago, de garganta, de muelas (toothache)."
+   },
+   {
+    "front": "Tengo fiebre / tos",
+    "back": "I have a temperature / a cough. 'Tengo un resfriado' = I have a cold."
+   },
+   {
+    "front": "Estoy enfermo / enferma",
+    "back": "I am ill. Use 'estoy' for health. Enfermo = male, enferma = female."
+   },
+   {
+    "front": "Debes + infinitive",
+    "back": "You should... 'Debes descansar y beber agua.'"
+   },
+   {
+    "front": "Tienes que + infinitive",
+    "back": "You have to... 'Tienes que ir al médico.'"
+   },
+   {
+    "front": "Hay que + infinitive",
+    "back": "One must... (impersonal). 'Hay que dormir ocho horas.'"
+   },
+   {
+    "front": "la mano",
+    "back": "the hand. Feminine even though it ends in -o: 'la mano', 'las manos'."
+   },
+   {
+    "front": "¿Qué te pasa?",
+    "back": "What is wrong with you? Informal. The formal form is '¿Qué le pasa?'"
+   }
+  ]
+ }
+]

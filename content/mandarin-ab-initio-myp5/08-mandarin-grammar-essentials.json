@@ -1,0 +1,791 @@
+[
+  {
+    "subject": "mandarin-ab-initio",
+    "grade": 5,
+    "topic": "Mandarin Grammar Essentials",
+    "subTopic": "Sentence Order, Shi, You and Negation",
+    "questions": [
+      {
+        "content": "Which sentence means 'I am a student'?",
+        "options": [
+          "我有学生 (wǒ yǒu xuésheng)",
+          "我不是学生 (wǒ bú shì xuésheng)",
+          "我是学生 (wǒ shì xuésheng)",
+          "我没有学生 (wǒ méiyǒu xuésheng)"
+        ],
+        "answer": 2,
+        "explanation": "是 (shì) links two nouns, so 我是学生 means 'I am a student'. 我有学生 would mean 'I have a student' and the other two are negatives.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What does 我没有哥哥 (wǒ méiyǒu gēge) mean?",
+        "options": [
+          "I do not have an older brother",
+          "I am not an older brother",
+          "I do not like my older brother",
+          "I have an older brother"
+        ],
+        "answer": 0,
+        "explanation": "没有 (méiyǒu) is the negative of 有 (yǒu, to have), so the sentence says the speaker has no older brother.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which is the correct negative of 我是中国人 (wǒ shì Zhōngguó rén)?",
+        "options": [
+          "我没是中国人 (wǒ méi shì Zhōngguó rén)",
+          "我不有中国人 (wǒ bù yǒu Zhōngguó rén)",
+          "我是不中国人 (wǒ shì bù Zhōngguó rén)",
+          "我不是中国人 (wǒ bú shì Zhōngguó rén)"
+        ],
+        "answer": 3,
+        "explanation": "是 is negated with 不, placed directly before it. 不 changes to bú (second tone) before the fourth tone of 是.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which sentence correctly says 'She likes tea'?",
+        "options": [
+          "喜欢她茶 (xǐhuan tā chá)",
+          "她喜欢茶 (tā xǐhuan chá)",
+          "茶喜欢她 (chá xǐhuan tā)",
+          "她茶喜欢 (tā chá xǐhuan)"
+        ],
+        "answer": 1,
+        "explanation": "Mandarin basic word order is subject + verb + object, like English. 茶喜欢她 would mean 'Tea likes her'.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which word means 'to have'?",
+        "options": [
+          "是 (shì)",
+          "有 (yǒu)",
+          "在 (zài)",
+          "要 (yào)"
+        ],
+        "answer": 1,
+        "explanation": "有 means 'to have' (or 'there is'). 是 is 'to be', 在 is 'to be at' and 要 is 'to want'.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "How do you say 'I do not have a pen' in Mandarin?",
+        "options": [
+          "我不有笔 (wǒ bù yǒu bǐ)",
+          "我有不笔 (wǒ yǒu bù bǐ)",
+          "我不是笔 (wǒ bú shì bǐ)",
+          "我没有笔 (wǒ méiyǒu bǐ)"
+        ],
+        "answer": 3,
+        "explanation": "有 is always negated with 没, giving 没有. 不有 does not exist, and 我不是笔 means 'I am not a pen'.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which sentence correctly says 'I am tall'?",
+        "options": [
+          "我很高 (wǒ hěn gāo)",
+          "我是高 (wǒ shì gāo)",
+          "我是很高 (wǒ shì hěn gāo)",
+          "我有高 (wǒ yǒu gāo)"
+        ],
+        "answer": 0,
+        "explanation": "Adjectives do not need 是. Use subject + 很 + adjective. 很 here is often just a link word, so it does not always mean 'very'.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which sentence correctly says 'I am a student too'?",
+        "options": [
+          "我是也学生 (wǒ shì yě xuésheng)",
+          "也我是学生 (yě wǒ shì xuésheng)",
+          "我也是学生 (wǒ yě shì xuésheng)",
+          "我是学生也 (wǒ shì xuésheng yě)"
+        ],
+        "answer": 2,
+        "explanation": "也 (yě, also) goes after the subject and before the verb. It never goes after the verb or at the end of a sentence.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which sentence correctly says 'They are all Chinese'?",
+        "options": [
+          "他们是都中国人 (tāmen shì dōu Zhōngguó rén)",
+          "都他们是中国人 (dōu tāmen shì Zhōngguó rén)",
+          "他们是中国人都 (tāmen shì Zhōngguó rén dōu)",
+          "他们都是中国人 (tāmen dōu shì Zhōngguó rén)"
+        ],
+        "answer": 3,
+        "explanation": "都 (dōu, all) goes before the verb, after the subject. It cannot sit after 是 or at the end.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which sentence correctly says 'I study Chinese at school'?",
+        "options": [
+          "我学中文在学校 (wǒ xué Zhōngwén zài xuéxiào)",
+          "我在学校学中文 (wǒ zài xuéxiào xué Zhōngwén)",
+          "我学在学校中文 (wǒ xué zài xuéxiào Zhōngwén)",
+          "我中文学在学校 (wǒ Zhōngwén xué zài xuéxiào)"
+        ],
+        "answer": 1,
+        "explanation": "Place phrases such as 在学校 (at school) come before the main verb in Mandarin, unlike English where they usually come last.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Read: 我叫王明 (wǒ jiào Wáng Míng)。我是中学生 (wǒ shì zhōngxuéshēng)。我没有哥哥，也没有姐姐 (wǒ méiyǒu gēge, yě méiyǒu jiějie)。我有一个弟弟 (wǒ yǒu yí ge dìdi)。 Which brothers and sisters does Wang Ming have?",
+        "options": [
+          "One older brother and one older sister",
+          "One younger brother and one older sister",
+          "One younger brother only",
+          "No brothers or sisters"
+        ],
+        "answer": 2,
+        "explanation": "He has no older brother (哥哥) and no older sister (姐姐), but he has one younger brother (弟弟).",
+        "difficulty": "medium"
+      },
+      {
+        "content": "A student wrote 我不有手机 (wǒ bù yǒu shǒujī) for 'I do not have a mobile phone'. What is the mistake?",
+        "options": [
+          "有 must be negated with 没, not 不",
+          "手机 must come before 有",
+          "是 is missing before 有",
+          "不 must go after 手机"
+        ],
+        "answer": 0,
+        "explanation": "The correct sentence is 我没有手机 (wǒ méiyǒu shǒujī). 不 negates 是 and most other verbs, but 有 uses 没.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which sentence is NOT correct Mandarin?",
+        "options": [
+          "她是漂亮 (tā shì piàoliang)",
+          "他很忙 (tā hěn máng)",
+          "我们都是学生 (wǒmen dōu shì xuésheng)",
+          "我也有狗 (wǒ yě yǒu gǒu)"
+        ],
+        "answer": 0,
+        "explanation": "Adjectives such as 漂亮 (pretty) take 很, not 是. The correct sentence is 她很漂亮 (tā hěn piàoliang).",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Someone asks 你是老师吗？(nǐ shì lǎoshī ma?). Which reply correctly says 'No, I am a student'?",
+        "options": [
+          "没是，我是学生 (méi shì, wǒ shì xuésheng)",
+          "不有，我是学生 (bù yǒu, wǒ shì xuésheng)",
+          "不是，我是学生 (bú shì, wǒ shì xuésheng)",
+          "我不吗，是学生 (wǒ bù ma, shì xuésheng)"
+        ],
+        "answer": 2,
+        "explanation": "The question uses 是, so the short negative answer repeats the verb with 不: 不是. 没 is only used with 有 and past events.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Which sentence correctly says 'My friends also all have dogs'?",
+        "options": [
+          "我的朋友都也有狗 (wǒ de péngyou dōu yě yǒu gǒu)",
+          "我的朋友也都有狗 (wǒ de péngyou yě dōu yǒu gǒu)",
+          "我的朋友有也都狗 (wǒ de péngyou yǒu yě dōu gǒu)",
+          "也都我的朋友有狗 (yě dōu wǒ de péngyou yǒu gǒu)"
+        ],
+        "answer": 1,
+        "explanation": "When both appear, 也 comes before 都, and both go between the subject and the verb: subject + 也 + 都 + verb.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Read: 小红：你有哥哥吗？(Xiǎohóng: nǐ yǒu gēge ma?) 小丽：我没有哥哥，但是我有两个姐姐 (Xiǎolì: wǒ méiyǒu gēge, dànshì wǒ yǒu liǎng ge jiějie). What does Xiaoli have?",
+        "options": [
+          "Two older brothers and no sisters",
+          "One older sister and one older brother",
+          "Two younger sisters and no brothers",
+          "Two older sisters and no older brother"
+        ],
+        "answer": 3,
+        "explanation": "但是 (dànshì) means 'but'. 没有哥哥 means no older brother; 两个姐姐 means two older sisters.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Which sentence correctly says 'My father is not a doctor, and he does not have a car'?",
+        "options": [
+          "我爸爸没是医生，也不有车 (wǒ bàba méi shì yīshēng, yě bù yǒu chē)",
+          "我爸爸不是医生，也不有车 (wǒ bàba bú shì yīshēng, yě bù yǒu chē)",
+          "我爸爸不是医生，也没有车 (wǒ bàba bú shì yīshēng, yě méiyǒu chē)",
+          "我爸爸没是医生，也没有车 (wǒ bàba méi shì yīshēng, yě méiyǒu chē)"
+        ],
+        "answer": 2,
+        "explanation": "Use 不 for 是 (不是) and 没 for 有 (没有). Each negative must match its own verb, and only one option does this twice.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A student wants to write 'I am not tired' and chooses 我不是累 (wǒ bú shì lèi). Which correction is right and why?",
+        "options": [
+          "我没累 (wǒ méi lèi); adjectives always take 没",
+          "我不累 (wǒ bú lèi); an adjective is negated with 不 and needs no 是",
+          "我是不累 (wǒ shì bú lèi); 不 must follow 是",
+          "我有不累 (wǒ yǒu bú lèi); 有 is needed for feelings"
+        ],
+        "answer": 1,
+        "explanation": "Adjectives work as the predicate on their own, so they are negated directly with 不: 我不累. Adding 是 is a common English-influenced error.",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "## Why word order matters\nMandarin has no verb endings and no plurals, so almost all meaning comes from word order. If you learn a few patterns well, you can build hundreds of correct sentences. In a reading task a wrong guess at word order can reverse the meaning, and in writing it loses marks for accuracy.\n\n## Basic order: subject, verb, object\nMandarin uses the same basic order as English: subject + verb + object.\n- 我喜欢茶 (wǒ xǐhuan chá): I like tea\n- 她学中文 (tā xué Zhōngwén): She studies Chinese\n- 他们喝水 (tāmen hē shuǐ): They drink water\n\nTime words and place phrases come BEFORE the main verb. The order is subject + time + place + verb + object.\n- 我明天去学校 (wǒ míngtiān qù xuéxiào): I am going to school tomorrow\n- 我在学校学中文 (wǒ zài xuéxiào xué Zhōngwén): I study Chinese at school\n\n## 是 (shì): to be\nUse 是 to link two nouns, for identity, nationality and jobs.\n- 我是学生 (wǒ shì xuésheng): I am a student\n- 他是老师 (tā shì lǎoshī): He is a teacher\n- 她是中国人 (tā shì Zhōngguó rén): She is Chinese\nDo NOT use 是 before an adjective. Say 我很高 (wǒ hěn gāo), not 我是高. The word 很 (hěn) works as a link here and often needs no 'very' in English.\n\n## 有 (yǒu): to have, there is\n- 我有一只猫 (wǒ yǒu yì zhī māo): I have a cat\n- 她有两个姐姐 (tā yǒu liǎng ge jiějie): She has two older sisters\n\n## Negation: 不 and 没\nThis is the most tested point in the topic.\n- **不** (bù) negates 是 and most verbs and adjectives: 我不是老师 (wǒ bú shì lǎoshī), 我不喝咖啡 (wǒ bù hē kāfēi), 我不累 (wǒ bú lèi)\n- **没** (méi) negates 有: 我没有哥哥 (wǒ méiyǒu gēge). Never say 不有.\n- 没 also negates past actions, covered in the aspect topic.\nTone note: 不 is bù, but it becomes bú before a fourth-tone syllable, so 不是 is written bú shì.\n\n## 也 and 都\n- 也 (yě) means also or too: 我也是学生 (wǒ yě shì xuésheng)\n- 都 (dōu) means all or both: 我们都是学生 (wǒmen dōu shì xuésheng)\nBoth go between the subject and the verb. If you need both, 也 comes first: 他们也都有狗 (tāmen yě dōu yǒu gǒu).\n\n## Yes/no questions with 吗\nAdd 吗 (ma) to the end of a statement: 你是学生吗？ (nǐ shì xuésheng ma?). A short answer repeats the verb: 是 (yes) or 不是 (no); 有 (yes) or 没有 (no).\n\n## Common mistakes\n- Using 不有 instead of 没有\n- Writing 我是高 instead of 我很高\n- Putting the place after the verb, as in English\n- Putting 也 or 都 after the verb\n\n## How this is examined\nIn reading tasks you meet short messages and profiles, such as 我没有哥哥，但是我有两个姐姐, and you must decide who has what. Negation is a favourite trap, because a student who skims past 没 or 不 picks the opposite answer. In writing tasks, accuracy marks depend on correct basic order, correct negation and sensible use of 很, 也 and 都.\n\nExam tip: Before you answer a reading question, circle every 不 and 没 in the text, then check whether the answer you chose says the opposite of what the writer meant.",
+    "flashcards": [
+      {
+        "front": "我是学生 (wǒ shì xuésheng)",
+        "back": "I am a student. 是 links two nouns: subject + 是 + noun."
+      },
+      {
+        "front": "我很高 (wǒ hěn gāo)",
+        "back": "I am tall. Adjectives take 很 and no 是. Wrong: 我是高."
+      },
+      {
+        "front": "我没有哥哥 (wǒ méiyǒu gēge)",
+        "back": "I do not have an older brother. 有 is negated with 没, never 不."
+      },
+      {
+        "front": "我不是老师 (wǒ bú shì lǎoshī)",
+        "back": "I am not a teacher. 不 negates 是. 不 becomes bú before a fourth tone."
+      },
+      {
+        "front": "Order for time and place in a Mandarin sentence",
+        "back": "Subject + time + place + verb + object, e.g. 我明天在家学中文 (wǒ míngtiān zài jiā xué Zhōngwén): Tomorrow I will study Chinese at home."
+      },
+      {
+        "front": "也 (yě) and 都 (dōu): where do they go?",
+        "back": "Between the subject and the verb. If both appear, 也 comes first: 我们也都是学生 (wǒmen yě dōu shì xuésheng)."
+      },
+      {
+        "front": "你是学生吗？(nǐ shì xuésheng ma?)",
+        "back": "Are you a student? 吗 turns a statement into a yes/no question. Answer 是 or 不是."
+      },
+      {
+        "front": "他们都有狗 (tāmen dōu yǒu gǒu)",
+        "back": "They all have dogs. 都 means all or both and goes before the verb."
+      },
+      {
+        "front": "Which word negates 有?",
+        "back": "没 (méi): 没有 (méiyǒu) means do not have, or there is not. 不有 is always wrong."
+      }
+    ]
+  },
+  {
+    "subject": "mandarin-ab-initio",
+    "grade": 5,
+    "topic": "Mandarin Grammar Essentials",
+    "subTopic": "Measure Words and Question Forms",
+    "questions": [
+      {
+        "content": "Which measure word is the general-purpose one, used with people and many objects?",
+        "options": [
+          "本 (běn)",
+          "杯 (bēi)",
+          "个 (gè)",
+          "张 (zhāng)"
+        ],
+        "answer": 2,
+        "explanation": "个 is the all-purpose measure word, as in 一个人 (yí ge rén, one person). The others are for books, cups and flat objects.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Choose the correct measure word: 三___书 (sān ___ shū, three books).",
+        "options": [
+          "本 (běn)",
+          "只 (zhī)",
+          "杯 (bēi)",
+          "条 (tiáo)"
+        ],
+        "answer": 0,
+        "explanation": "本 is used for books and notebooks: 三本书 (sān běn shū).",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Choose the correct measure word: 两___猫 (liǎng ___ māo, two cats).",
+        "options": [
+          "本 (běn)",
+          "张 (zhāng)",
+          "杯 (bēi)",
+          "只 (zhī)"
+        ],
+        "answer": 3,
+        "explanation": "只 is the measure word for most small animals, such as cats and birds: 两只猫 (liǎng zhī māo).",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What does 什么 (shénme) mean?",
+        "options": [
+          "Who",
+          "What",
+          "Where",
+          "Why"
+        ],
+        "answer": 1,
+        "explanation": "什么 means 'what', as in 这是什么？ (zhè shì shénme?, What is this?). Who is 谁, where is 哪儿 and why is 为什么.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which word, placed at the end of a statement, turns it into a yes/no question?",
+        "options": [
+          "了 (le)",
+          "吗 (ma)",
+          "的 (de)",
+          "都 (dōu)"
+        ],
+        "answer": 1,
+        "explanation": "吗 makes a yes/no question: 你有哥哥吗？ (nǐ yǒu gēge ma?). 了 marks a completed action and 的 shows possession.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Complete: 我想喝一___水 (wǒ xiǎng hē yì ___ shuǐ, I want to drink a glass of water).",
+        "options": [
+          "本 (běn)",
+          "张 (zhāng)",
+          "只 (zhī)",
+          "杯 (bēi)"
+        ],
+        "answer": 3,
+        "explanation": "杯 is the measure word for cups and glasses of drinks: 一杯水 (yì bēi shuǐ).",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which question means 'Who is that?'",
+        "options": [
+          "那是谁？(nà shì shéi?)",
+          "那是什么？(nà shì shénme?)",
+          "那在哪儿？(nà zài nǎr?)",
+          "那是几？(nà shì jǐ?)"
+        ],
+        "answer": 0,
+        "explanation": "谁 (shéi) asks about people. 什么 asks 'what', 哪儿 asks 'where' and 几 asks 'how many'.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which question correctly asks 'Where is the library?'",
+        "options": [
+          "图书馆在谁？(túshūguǎn zài shéi?)",
+          "图书馆在什么吗？(túshūguǎn zài shénme ma?)",
+          "图书馆在哪儿？(túshūguǎn zài nǎr?)",
+          "图书馆哪儿在？(túshūguǎn nǎr zài?)"
+        ],
+        "answer": 2,
+        "explanation": "The question word replaces the answer in the same place. 在哪儿 (zài nǎr) asks where something is. Question words never take 吗.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which phrase correctly says 'two people'?",
+        "options": [
+          "二个人 (èr ge rén)",
+          "两人个 (liǎng rén gè)",
+          "二人个 (èr rén gè)",
+          "两个人 (liǎng ge rén)"
+        ],
+        "answer": 3,
+        "explanation": "Before a measure word, 'two' is 两 (liǎng), not 二 (èr). The measure word follows the number and comes before the noun.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which question is NOT correct Mandarin?",
+        "options": [
+          "你叫什么名字？(nǐ jiào shénme míngzi?)",
+          "你叫什么名字吗？(nǐ jiào shénme míngzi ma?)",
+          "你是学生吗？(nǐ shì xuésheng ma?)",
+          "你有几个哥哥？(nǐ yǒu jǐ ge gēge?)"
+        ],
+        "answer": 1,
+        "explanation": "A question that already has a question word such as 什么 must not also end with 吗. Use one or the other.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Read: 小李：我要一杯茶、两个面包和三瓶水 (Xiǎo Lǐ: wǒ yào yì bēi chá, liǎng ge miànbāo hé sān píng shuǐ). What does Xiao Li order?",
+        "options": [
+          "2 cups of tea, 1 bread roll, 3 bottles of water",
+          "1 cup of tea, 3 bread rolls, 2 bottles of water",
+          "1 cup of tea, 2 bread rolls, 3 bottles of water",
+          "3 cups of tea, 2 bread rolls, 1 bottle of water"
+        ],
+        "answer": 2,
+        "explanation": "Match each number to its measure word: 一杯茶 (one cup of tea), 两个面包 (two bread rolls), 三瓶水 (three bottles of water).",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which question word is best for asking a large number, such as how many students are in a school?",
+        "options": [
+          "多少 (duōshao)",
+          "几 (jǐ)",
+          "谁 (shéi)",
+          "哪 (nǎ)"
+        ],
+        "answer": 0,
+        "explanation": "多少 is used for any number, especially large ones. 几 is normally used when you expect a small number, under about ten.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which phrase uses the measure word correctly?",
+        "options": [
+          "一张桌子 (yì zhāng zhuōzi, a table)",
+          "一本桌子 (yì běn zhuōzi)",
+          "一只书 (yì zhī shū)",
+          "一杯猫 (yì bēi māo)"
+        ],
+        "answer": 0,
+        "explanation": "张 is used for flat objects such as tables, paper and tickets. 本 is for books, 只 for small animals and 杯 for cups.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Read: 小明：我有两个姐姐，你呢？(Xiǎomíng: wǒ yǒu liǎng ge jiějie, nǐ ne?) 小红：我没有姐姐，我有一个哥哥 (Xiǎohóng: wǒ méiyǒu jiějie, wǒ yǒu yí ge gēge). What does 你呢 (nǐ ne) mean, and what does Xiaohong have?",
+        "options": [
+          "'Who are you?'; she has one older sister",
+          "'And you?'; she has two older sisters",
+          "'And you?'; she has one older brother",
+          "'Where are you?'; she has one older brother"
+        ],
+        "answer": 2,
+        "explanation": "呢 (ne) after a noun or pronoun asks 'and what about...?' Xiaohong says she has no older sisters but one older brother.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A student wrote 我有二本书 (wǒ yǒu èr běn shū). Which correction is right?",
+        "options": [
+          "我有两书本 (wǒ yǒu liǎng shū běn)",
+          "我有两本书 (wǒ yǒu liǎng běn shū)",
+          "我有本两书 (wǒ yǒu běn liǎng shū)",
+          "我有两本书吗 (wǒ yǒu liǎng běn shū ma)"
+        ],
+        "answer": 1,
+        "explanation": "Use 两 for 'two' before a measure word, then the measure word, then the noun. Adding 吗 would turn the statement into a question.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Which is the correct A-not-A question meaning 'Is he your teacher?'",
+        "options": [
+          "他是不你的老师？(tā shì bù nǐ de lǎoshī?)",
+          "他不是是你的老师？(tā bú shì shì nǐ de lǎoshī?)",
+          "他是吗不你的老师？(tā shì ma bù nǐ de lǎoshī?)",
+          "他是不是你的老师？(tā shì bu shì nǐ de lǎoshī?)"
+        ],
+        "answer": 3,
+        "explanation": "In an A-not-A question you repeat the verb with its negative: 是不是 (shì bu shì). It does not need 吗.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "At a restaurant, the waiter asks 请问，几位？(qǐngwèn, jǐ wèi?). The customer answers 三位 (sān wèi). What is the waiter asking?",
+        "options": [
+          "How many dishes would you like?",
+          "How many nights will you stay?",
+          "How many people are in your group?",
+          "Which table would you like?"
+        ],
+        "answer": 2,
+        "explanation": "位 (wèi) is the polite measure word for people. 几位 asks how many people, and 三位 means a group of three.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Match the measure words in order: 一___鱼 (fish), 一___椅子 (chair), 一___雨伞 (umbrella).",
+        "options": [
+          "只 (zhī), 张 (zhāng), 个 (gè)",
+          "条 (tiáo), 把 (bǎ), 把 (bǎ)",
+          "个 (gè), 条 (tiáo), 本 (běn)",
+          "杯 (bēi), 把 (bǎ), 张 (zhāng)"
+        ],
+        "answer": 1,
+        "explanation": "鱼 takes 条 (long, thin things). Chairs and umbrellas, which have a handle or something to hold, take 把.",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "## Why measure words matter\nIn English we say 'three books' or 'a cup of tea'. In Mandarin, between a number and a noun you must add a **measure word** (also called a classifier). The pattern is number + measure word + noun. Measure words appear in almost every reading text, so they are worth learning properly.\n\n## The pattern\n- 三本书 (sān běn shū): three books\n- 一杯茶 (yì bēi chá): a cup of tea\n- 两只猫 (liǎng zhī māo): two cats\n\nThe word for 'two' is 两 (liǎng), not 二 (èr), before a measure word. You still use 二 when counting or in numbers like 十二 (shí'èr, twelve).\n\n## Essential measure words\n- 个 (gè): general, for people and many objects: 一个人 (yí ge rén, one person)\n- 本 (běn): books and notebooks: 一本书 (yì běn shū)\n- 支 (zhī): pens: 一支笔 (yì zhī bǐ)\n- 张 (zhāng): flat things such as paper, tables and tickets: 一张纸 (yì zhāng zhǐ, a sheet of paper)\n- 只 (zhī): small animals: 一只狗 (yì zhī gǒu, a dog)\n- 条 (tiáo): long, thin things such as fish, rivers and trousers: 一条鱼 (yì tiáo yú)\n- 杯 (bēi): cups and glasses: 一杯水 (yì bēi shuǐ)\n- 瓶 (píng): bottles: 两瓶水 (liǎng píng shuǐ)\n- 碗 (wǎn): bowls: 一碗米饭 (yì wǎn mǐfàn, a bowl of rice)\n- 件 (jiàn): clothes worn on the upper body: 一件衣服 (yí jiàn yīfu)\n- 双 (shuāng): pairs: 一双鞋 (yì shuāng xié, a pair of shoes)\n- 把 (bǎ): things with a handle, such as chairs and umbrellas: 一把椅子 (yì bǎ yǐzi)\n- 位 (wèi): polite, for people: 三位客人 (sān wèi kèrén, three guests)\n- 口 (kǒu): members of a family: 我家有四口人 (wǒ jiā yǒu sì kǒu rén, there are four people in my family)\nWhen in doubt, 个 is the safest choice.\n\n## Question forms\n- 吗 (ma): yes/no questions: 你喜欢猫吗？ (nǐ xǐhuan māo ma?)\n- 什么 (shénme): what: 你喝什么？ (nǐ hē shénme?)\n- 谁 (shéi): who: 她是谁？ (tā shì shéi?)\n- 哪儿 (nǎr): where: 你在哪儿？ (nǐ zài nǎr?)\n- 几 (jǐ): how many, small numbers: 你有几个朋友？ (nǐ yǒu jǐ ge péngyou?)\n- 多少 (duōshao): how many or how much: 这个多少钱？ (zhège duōshao qián?, How much is this?)\n- 为什么 (wèishénme): why\n- 呢 (ne): 'and you?': 我很好，你呢？ (wǒ hěn hǎo, nǐ ne?)\n- A-not-A: 你是不是学生？ (nǐ shì bu shì xuésheng?)\n\nThe key rule: the question word takes the place of the answer, so word order does not change. Question-word questions never end with 吗.\n\n## Common mistakes\n- Forgetting the measure word: 三书 instead of 三本书\n- Using 二 instead of 两: 二个人\n- Adding 吗 to a question that already has 什么 or 谁\n- Moving the question word to the front, as in English\n\n## How this is examined\nMenus, shopping lists and short dialogues are packed with numbers and measure words, such as 一杯茶、两个面包 and 三瓶水. Questions then ask you to total items or choose what a person ordered. In writing tasks, correct use of 个, 本 and 杯 shows control of the language.\n\nExam tip: In a shopping or menu text, pair every number with its measure word and noun before you do any sums, so that you never mix up a quantity of tea with a quantity of bread.",
+    "flashcards": [
+      {
+        "front": "个 (gè)",
+        "back": "The general measure word, used for people and many objects: 一个人 (yí ge rén). Use it when you are not sure which measure word to choose."
+      },
+      {
+        "front": "本 (běn)",
+        "back": "Measure word for books and notebooks: 一本书 (yì běn shū), 三本书 (sān běn shū)."
+      },
+      {
+        "front": "只 (zhī)",
+        "back": "Measure word for most small animals: 一只猫 (yì zhī māo), 两只狗 (liǎng zhī gǒu)."
+      },
+      {
+        "front": "杯 (bēi) and 瓶 (píng)",
+        "back": "杯 is for cups and glasses: 一杯茶 (yì bēi chá). 瓶 is for bottles: 两瓶水 (liǎng píng shuǐ)."
+      },
+      {
+        "front": "张 (zhāng)",
+        "back": "Measure word for flat objects such as paper, tables and tickets: 一张纸 (yì zhāng zhǐ), 一张桌子 (yì zhāng zhuōzi)."
+      },
+      {
+        "front": "Two people: 二个人 or 两个人?",
+        "back": "两个人 (liǎng ge rén). Use 两 (liǎng) for 'two' before a measure word. Use 二 (èr) only for counting and in numbers like 十二."
+      },
+      {
+        "front": "什么 / 谁 / 哪儿 (shénme / shéi / nǎr)",
+        "back": "What / who / where. They take the place of the answer in the sentence and never need 吗."
+      },
+      {
+        "front": "几 (jǐ) vs 多少 (duōshao)",
+        "back": "Both mean how many. 几 is for small numbers, usually under ten. 多少 can be used for any number, and is used for prices: 多少钱？ (duōshao qián?)."
+      },
+      {
+        "front": "你呢？(nǐ ne?)",
+        "back": "And you? 呢 gives a question back after you have answered: 我很好，你呢？ (wǒ hěn hǎo, nǐ ne?)"
+      }
+    ]
+  },
+  {
+    "subject": "mandarin-ab-initio",
+    "grade": 5,
+    "topic": "Mandarin Grammar Essentials",
+    "subTopic": "Time Words and Aspect Particles",
+    "questions": [
+      {
+        "content": "What does 明天 (míngtiān) mean?",
+        "options": [
+          "Yesterday",
+          "Today",
+          "Tomorrow",
+          "Now"
+        ],
+        "answer": 2,
+        "explanation": "明天 means tomorrow. Yesterday is 昨天 (zuótiān), today is 今天 (jīntiān) and now is 现在 (xiànzài).",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What does 昨天 (zuótiān) mean?",
+        "options": [
+          "Yesterday",
+          "Tomorrow",
+          "Every day",
+          "Last year"
+        ],
+        "answer": 0,
+        "explanation": "昨天 means yesterday. Every day is 每天 (měitiān).",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What does the question 现在几点？(xiànzài jǐ diǎn?) ask?",
+        "options": [
+          "What day is it today?",
+          "Where are you now?",
+          "How old are you?",
+          "What time is it now?"
+        ],
+        "answer": 3,
+        "explanation": "现在 means now, 几 means how many, and 点 (diǎn) means o'clock, so the question asks for the time.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "What time is 三点半 (sān diǎn bàn)?",
+        "options": [
+          "3:15",
+          "3:30",
+          "3:45",
+          "5:30"
+        ],
+        "answer": 1,
+        "explanation": "半 (bàn) means half. 三点半 is half past three, 3:30.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which particle shows that an action has been completed?",
+        "options": [
+          "吗 (ma)",
+          "了 (le)",
+          "呢 (ne)",
+          "的 (de)"
+        ],
+        "answer": 1,
+        "explanation": "了 after a verb shows completion: 我吃了 (wǒ chī le, I ate). 吗 makes questions and 的 shows possession.",
+        "difficulty": "easy"
+      },
+      {
+        "content": "Which sentence correctly says 'I went to school yesterday'?",
+        "options": [
+          "我去学校昨天了 (wǒ qù xuéxiào zuótiān le)",
+          "我昨天学校去了 (wǒ zuótiān xuéxiào qù le)",
+          "我去了学校昨天 (wǒ qù le xuéxiào zuótiān)",
+          "我昨天去学校了 (wǒ zuótiān qù xuéxiào le)"
+        ],
+        "answer": 3,
+        "explanation": "The time word 昨天 goes before the verb, after the subject. 了 marks the completed action.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which sentence correctly says 'I did not eat breakfast'?",
+        "options": [
+          "我没吃早饭 (wǒ méi chī zǎofàn)",
+          "我不吃了早饭 (wǒ bù chī le zǎofàn)",
+          "我没吃了早饭 (wǒ méi chī le zǎofàn)",
+          "我没有吃了早饭 (wǒ méiyǒu chī le zǎofàn)"
+        ],
+        "answer": 0,
+        "explanation": "To negate a past action, use 没 or 没有 and drop 了. Never use 没 and 了 together on the same verb.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "What does 我去过北京 (wǒ qù guo Běijīng) mean?",
+        "options": [
+          "I am going to Beijing tomorrow",
+          "I am in Beijing now",
+          "I have been to Beijing before",
+          "I want to go to Beijing"
+        ],
+        "answer": 2,
+        "explanation": "过 (guo) after a verb shows past experience: you did it at least once in your life.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which sentence correctly says 'I get up at 6:30 every day'?",
+        "options": [
+          "我起床每天六点半 (wǒ qǐchuáng měitiān liù diǎn bàn)",
+          "我起床六点半每天 (wǒ qǐchuáng liù diǎn bàn měitiān)",
+          "六点半起床我每天 (liù diǎn bàn qǐchuáng wǒ měitiān)",
+          "我每天六点半起床 (wǒ měitiān liù diǎn bàn qǐchuáng)"
+        ],
+        "answer": 3,
+        "explanation": "Time words go before the verb. Larger time words come first (每天), then the clock time (六点半), then the verb.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Read: 今天星期五 (jīntiān xīngqīwǔ)。下午三点我有中文课 (xiàwǔ sān diǎn wǒ yǒu Zhōngwén kè)。四点半我去打篮球 (sì diǎn bàn wǒ qù dǎ lánqiú)。晚上七点我在家吃饭 (wǎnshang qī diǎn wǒ zài jiā chī fàn). What does the writer do at 4:30 pm?",
+        "options": [
+          "Has a Chinese lesson",
+          "Goes to play basketball",
+          "Eats dinner at home",
+          "Goes to school"
+        ],
+        "answer": 1,
+        "explanation": "四点半 is 4:30 and 去打篮球 means goes to play basketball. The Chinese lesson is at 3:00 and dinner is at 7:00.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "What does 我妈妈在做饭 (wǒ māma zài zuò fàn) mean?",
+        "options": [
+          "My mum cooked",
+          "My mum will cook",
+          "My mum is cooking",
+          "My mum has never cooked"
+        ],
+        "answer": 2,
+        "explanation": "在 before a verb shows an action in progress, like 'is ...ing'. 做饭 means to cook.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which is the correct way to say 'two o'clock'?",
+        "options": [
+          "两点 (liǎng diǎn)",
+          "二点 (èr diǎn)",
+          "两个点 (liǎng ge diǎn)",
+          "二个点 (èr ge diǎn)"
+        ],
+        "answer": 0,
+        "explanation": "Use 两 for two o'clock: 两点. Clock times do not take 个.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "In Chinese, dates go from large to small. What date is 三月五日 (sān yuè wǔ rì)?",
+        "options": [
+          "5 March",
+          "3 May",
+          "3 March",
+          "5 May"
+        ],
+        "answer": 0,
+        "explanation": "月 (yuè) is month and 日 (rì) is day. 三月 is March, 五日 is the fifth, so the date is 5 March.",
+        "difficulty": "medium"
+      },
+      {
+        "content": "Which sentence correctly says 'I have never eaten Chinese food'?",
+        "options": [
+          "我不吃过中国菜 (wǒ bù chī guo Zhōngguó cài)",
+          "我没吃了中国菜 (wǒ méi chī le Zhōngguó cài)",
+          "我没吃过中国菜 (wǒ méi chī guo Zhōngguó cài)",
+          "我不吃了中国菜 (wǒ bù chī le Zhōngguó cài)"
+        ],
+        "answer": 2,
+        "explanation": "Negative experience uses 没 + verb + 过. 不 is not used with 过 or 了 for a past event, and 没吃了 is wrong.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Read: A：你吃午饭了吗？(nǐ chī wǔfàn le ma?) B：还没有，我现在在写作业 (hái méiyǒu, wǒ xiànzài zài xiě zuòyè). What is B's situation?",
+        "options": [
+          "B has finished lunch and is doing homework",
+          "B has not eaten lunch yet and is doing homework now",
+          "B will eat lunch and do homework tomorrow",
+          "B never eats lunch"
+        ],
+        "answer": 1,
+        "explanation": "还没有 (hái méiyǒu) means 'not yet', and 在写作业 means is doing homework now.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "What does 要下雨了 (yào xià yǔ le) mean?",
+        "options": [
+          "It rained yesterday",
+          "It is raining now",
+          "It never rains",
+          "It is going to rain"
+        ],
+        "answer": 3,
+        "explanation": "要...了 (yào ... le) shows something is about to happen. Rain right now would be 在下雨 (zài xià yǔ).",
+        "difficulty": "hard"
+      },
+      {
+        "content": "A student wrote 我昨天不去学校了 (wǒ zuótiān bú qù xuéxiào le) to mean 'I did not go to school yesterday'. Which correction is best?",
+        "options": [
+          "我昨天不去过学校 (wǒ zuótiān bú qù guo xuéxiào)",
+          "我昨天去学校没了 (wǒ zuótiān qù xuéxiào méi le)",
+          "我昨天没去学校 (wǒ zuótiān méi qù xuéxiào)",
+          "我没昨天去学校 (wǒ méi zuótiān qù xuéxiào)"
+        ],
+        "answer": 2,
+        "explanation": "A past event that did not happen is negated with 没 directly before the verb, and 了 is dropped. The time word still comes before 没.",
+        "difficulty": "hard"
+      },
+      {
+        "content": "Read: 我们星期一到星期五上课 (wǒmen xīngqīyī dào xīngqīwǔ shàngkè)，早上八点上课 (zǎoshang bā diǎn shàngkè)，下午三点半放学 (xiàwǔ sān diǎn bàn fàngxué)。星期六和星期天不上课 (xīngqīliù hé xīngqītiān bú shàngkè). Which statement is true?",
+        "options": [
+          "Lessons start at 9:00 am",
+          "Lessons end at 3:30 pm on weekdays",
+          "Lessons also run on Saturday morning",
+          "Lessons end at 3:00 pm"
+        ],
+        "answer": 1,
+        "explanation": "下午三点半放学 means school finishes at 3:30 pm. Lessons start at 8:00 am and there are none on Saturday or Sunday.",
+        "difficulty": "hard"
+      }
+    ],
+    "note": "## Why time words matter\nMandarin verbs do not change for past, present or future. Instead, time is shown by time words (like yesterday or tomorrow) and by small particles that show whether an action is finished, ongoing or experienced. Time words are among the most common clues in reading and listening texts.\n\n## Key time words\n- 今天 (jīntiān): today\n- 明天 (míngtiān): tomorrow\n- 昨天 (zuótiān): yesterday\n- 现在 (xiànzài): now\n- 每天 (měitiān): every day\n- 早上 (zǎoshang): morning\n- 下午 (xiàwǔ): afternoon\n- 晚上 (wǎnshang): evening\n- 今年 (jīnnián): this year; 去年 (qùnián): last year; 明年 (míngnián): next year\n- 星期一 (xīngqīyī) to 星期六 (xīngqīliù): Monday to Saturday; 星期天 (xīngqītiān): Sunday\n\nTime words go BEFORE the verb: 我明天去学校 (wǒ míngtiān qù xuéxiào, I am going to school tomorrow). If you use a time and a place, put the time first: 我今天在家学中文 (wǒ jīntiān zài jiā xué Zhōngwén).\n\n## Telling the time\n- 三点 (sān diǎn): 3:00\n- 两点 (liǎng diǎn): 2:00 (use 两, not 二)\n- 三点半 (sān diǎn bàn): 3:30\n- 三点一刻 (sān diǎn yí kè): 3:15\n- 三点十分 (sān diǎn shí fēn): 3:10\n\nDates go from large to small: 2026年10月9日 (èr líng èr liù nián shí yuè jiǔ rì). Month and day are written with 月 (yuè) and 日 (rì), or 号 (hào) when speaking.\n\n## Aspect particles\n**了 (le): completed action.** Put it after the verb: 我吃了早饭 (wǒ chī le zǎofàn, I ate breakfast). The negative drops 了 and uses 没: 我没吃早饭 (wǒ méi chī zǎofàn). Never write 没...了 on the same verb.\n\n**过 (guo): past experience.** 我去过北京 (wǒ qù guo Běijīng, I have been to Beijing). The negative is 没...过: 我没去过北京 (wǒ méi qù guo Běijīng, I have never been to Beijing).\n\n**在 (zài): action in progress.** Put it before the verb: 他在看书 (tā zài kàn shū, he is reading). Compare this with the place word 在, as in 他在家 (he is at home).\n\n**要...了 (yào ... le): about to happen.** 要下雨了 (yào xià yǔ le): it is going to rain.\n\nUseful extras: 已经 (yǐjīng, already), 还没有 (hái méiyǒu, not yet), 常常 (chángcháng, often).\n\n## Common mistakes\n- Putting the time word after the verb\n- Using 不 instead of 没 for a past event\n- Keeping 了 in a negative sentence\n- Writing 二点 for two o'clock\n- Confusing the date order with English day-month order\n\n## How this is examined\nTimetables, diary entries, invitations and messages test your ability to find the right time and day. A typical question asks what someone does at a given time, or whether something has already happened. The particle 了 and the word 没 are common clues about what is done and what is not.\n\nExam tip: Underline every time word in the text first, then match each one to its activity before you read the answer options.",
+    "flashcards": [
+      {
+        "front": "今天 / 明天 / 昨天",
+        "back": "Today / tomorrow / yesterday: jīntiān / míngtiān / zuótiān. Time words go before the verb, after the subject."
+      },
+      {
+        "front": "三点半 (sān diǎn bàn)",
+        "back": "3:30. 半 means half. 3:15 is 三点一刻 (sān diǎn yí kè). Two o'clock is 两点, not 二点."
+      },
+      {
+        "front": "了 (le)",
+        "back": "Marks a completed action, placed after the verb: 我吃了早饭 (wǒ chī le zǎofàn): I ate breakfast."
+      },
+      {
+        "front": "How do you make a past sentence negative?",
+        "back": "Use 没 (méi) before the verb and drop 了: 我没吃早饭 (wǒ méi chī zǎofàn): I did not eat breakfast."
+      },
+      {
+        "front": "过 (guo)",
+        "back": "Shows past experience: 我去过北京 (wǒ qù guo Běijīng): I have been to Beijing. Negative: 我没去过北京."
+      },
+      {
+        "front": "在 + verb (zài)",
+        "back": "Shows an action in progress: 他在看书 (tā zài kàn shū): He is reading."
+      },
+      {
+        "front": "要...了 (yào ... le)",
+        "back": "Something is about to happen: 要下雨了 (yào xià yǔ le): It is going to rain."
+      },
+      {
+        "front": "五月三日 (wǔ yuè sān rì)",
+        "back": "3 May. Chinese dates run large to small: year, month, day. 月 is month and 日 is day."
+      },
+      {
+        "front": "还没有 (hái méiyǒu)",
+        "back": "Not yet. Used as a short answer: 你吃饭了吗？还没有。(Have you eaten? Not yet.)"
+      }
+    ]
+  }
+]

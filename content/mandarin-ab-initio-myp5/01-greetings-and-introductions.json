@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "mandarin-ab-initio",
+  "grade": 5,
+  "topic": "Greetings and Introductions",
+  "subTopic": "Greetings and Farewells",
+  "questions": [
+   {
+    "content": "What does 再见 (zàijiàn) mean?",
+    "options": [
+     "Hello",
+     "Thank you",
+     "Goodbye",
+     "Sorry"
+    ],
+    "answer": 2,
+    "explanation": "再见 is the standard way to say goodbye. Literally it means 'again see'.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 谢谢 (xièxie) mean?",
+    "options": [
+     "Excuse me",
+     "Good night",
+     "You're welcome",
+     "Thank you"
+    ],
+    "answer": 3,
+    "explanation": "谢谢 means thank you. The reply 'you're welcome' is 不客气 (bú kèqi).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which phrase means 'Good morning'?",
+    "options": [
+     "早上好 (zǎoshang hǎo)",
+     "晚上好 (wǎnshang hǎo)",
+     "晚安 (wǎn'ān)",
+     "再见 (zàijiàn)"
+    ],
+    "answer": 0,
+    "explanation": "早上 means morning, so 早上好 is good morning. 晚上好 is good evening and 晚安 is good night.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 晚安 (wǎn'ān) mean?",
+    "options": [
+     "Good morning",
+     "Good night",
+     "See you tomorrow",
+     "Hello"
+    ],
+    "answer": 1,
+    "explanation": "晚安 is said when someone is going to bed. It is a farewell, not a greeting.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which phrase means 'You're welcome'?",
+    "options": [
+     "对不起 (duìbuqǐ)",
+     "你好 (nǐ hǎo)",
+     "不客气 (bú kèqi)",
+     "请进 (qǐng jìn)"
+    ],
+    "answer": 2,
+    "explanation": "不客气 literally means 'don't be polite' and is the usual reply to 谢谢. 对不起 means sorry.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "You meet your grandmother's friend, an elderly lady, for the first time. Which greeting is the most polite?",
+    "options": [
+     "你好 (nǐ hǎo)",
+     "再见 (zàijiàn)",
+     "晚安 (wǎn'ān)",
+     "您好 (nín hǎo)"
+    ],
+    "answer": 3,
+    "explanation": "您 is the respectful form of 你 and is used for elders and teachers. 再见 and 晚安 are farewells.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Mei asks you: 你好吗？(nǐ hǎo ma?) Which reply fits best?",
+    "options": [
+     "我很好，谢谢。(wǒ hěn hǎo, xièxie.)",
+     "不客气。(bú kèqi.)",
+     "再见。(zàijiàn.)",
+     "对不起。(duìbuqǐ.)"
+    ],
+    "answer": 0,
+    "explanation": "你好吗 means 'How are you?' and 我很好，谢谢 means 'I'm very well, thanks'. The other replies answer different things.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 明天见 (míngtiān jiàn) mean?",
+    "options": [
+     "See you tonight",
+     "See you tomorrow",
+     "Good morning",
+     "Good night"
+    ],
+    "answer": 1,
+    "explanation": "明天 means tomorrow and 见 means see, so 明天见 is 'see you tomorrow'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Your teacher walks in and says 同学们好 (tóngxuémen hǎo), 'Hello, everyone'. What do students usually reply?",
+    "options": [
+     "晚安 (wǎn'ān)",
+     "不客气 (bú kèqi)",
+     "老师好 (lǎoshī hǎo)",
+     "对不起 (duìbuqǐ)"
+    ],
+    "answer": 2,
+    "explanation": "Students greet the teacher with 老师好, meaning 'Hello, teacher'. The other phrases do not fit a classroom greeting.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "You step on a classmate's foot and say 对不起 (duìbuqǐ). What does your classmate say to show it is okay?",
+    "options": [
+     "谢谢 (xièxie)",
+     "早上好 (zǎoshang hǎo)",
+     "再见 (zàijiàn)",
+     "没关系 (méi guānxi)"
+    ],
+    "answer": 3,
+    "explanation": "没关系 means 'it doesn't matter / no problem' and answers an apology. 谢谢 would reply to a favour.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript: 小明: 早上好，李老师！(Xiǎomíng: Zǎoshang hǎo, Lǐ lǎoshī!) 李老师: 早上好，小明。你好吗？(Lǐ lǎoshī: Zǎoshang hǎo, Xiǎomíng. Nǐ hǎo ma?) 小明: 我很好，谢谢。(Xiǎomíng: Wǒ hěn hǎo, xièxie.)\n\nWhen does this conversation take place?",
+    "options": [
+     "In the morning",
+     "In the evening",
+     "At bedtime",
+     "In the afternoon"
+    ],
+    "answer": 0,
+    "explanation": "Both speakers say 早上好, 'good morning'. Teacher Li also asks how Xiaoming is, and he says he is well.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A sign on a classroom door says 请进 (qǐng jìn). What does it ask you to do?",
+    "options": [
+     "Please be quiet",
+     "Please come in",
+     "Please sit down",
+     "Please go away"
+    ],
+    "answer": 1,
+    "explanation": "请 means please and 进 means enter. 'Please sit down' is 请坐 (qǐng zuò).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is the correct pinyin with tone marks for 谢谢?",
+    "options": [
+     "xiéxie",
+     "xièxiè",
+     "xièxie",
+     "xiěxie"
+    ],
+    "answer": 2,
+    "explanation": "谢 is fourth tone (è) and the second 谢 is normally said in the neutral tone, so we write xièxie.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In 你好 (nǐ hǎo), both syllables are third tone. How is it actually pronounced?",
+    "options": [
+     "Both syllables sound like first tone",
+     "The second syllable sounds like fourth tone",
+     "Both syllables are said low and flat",
+     "The first syllable sounds like second tone (ní hǎo)"
+    ],
+    "answer": 3,
+    "explanation": "When two third tones meet, the first changes to a rising second tone. We still write nǐ hǎo.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Li says 晚上好 (wǎnshang hǎo) to her teacher at 8 a.m. What is the mistake?",
+    "options": [
+     "晚上好 means 'good evening'; she should say 早上好",
+     "晚上好 is too informal for a teacher",
+     "晚上好 means 'goodbye'; she should say 再见",
+     "There is no mistake; 晚上好 means hello at any time"
+    ],
+    "answer": 0,
+    "explanation": "晚上 means evening or night. In the morning the correct greeting is 早上好.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Transcript: 小红: 晚安，妈妈！(Xiǎohóng: Wǎn'ān, māma!) 妈妈: 晚安，明天见！(Māma: Wǎn'ān, míngtiān jiàn!)\n\nWhat can you conclude?",
+    "options": [
+     "It is morning and they are meeting for the first time",
+     "It is bedtime and they will meet again tomorrow",
+     "It is evening and they will not meet again",
+     "It is lunchtime and they are saying thank you"
+    ],
+    "answer": 1,
+    "explanation": "晚安 shows it is bedtime and 明天见 means 'see you tomorrow'. Nothing in the text suggests a first meeting or a thank-you.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which question-and-answer pair is NOT a natural exchange?",
+    "options": [
+     "A: 你好吗？(nǐ hǎo ma?) B: 我很好。(wǒ hěn hǎo.)",
+     "A: 对不起！(duìbuqǐ!) B: 没关系。(méi guānxi.)",
+     "A: 谢谢！(xièxie!) B: 早上好。(zǎoshang hǎo.)",
+     "A: 谢谢！(xièxie!) B: 不客气。(bú kèqi.)"
+    ],
+    "answer": 2,
+    "explanation": "'Thanks' should be answered with 不客气, not with a morning greeting. The other three pairs are normal.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Tom is leaving his friend's grandfather's house in the evening. Which pair of phrases is the best polite greeting on arrival and farewell on leaving?",
+    "options": [
+     "晚安 (wǎn'ān) ... 您好 (nín hǎo)",
+     "早上好 (zǎoshang hǎo) ... 不客气 (bú kèqi)",
+     "对不起 (duìbuqǐ) ... 请进 (qǐng jìn)",
+     "您好 (nín hǎo) ... 再见 (zàijiàn)"
+    ],
+    "answer": 3,
+    "explanation": "您好 greets an elder politely and 再见 says goodbye. 晚安 is only for bedtime and 不客气 is a reply to thanks.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why greetings matter\nGreetings are the first thing tested in beginner Mandarin, and they appear in nearly every reading and listening task. Mandarin is a tonal language, so always learn each word together with its pinyin (the Roman-letter spelling) and tone marks. The four tones are first (ā, high and flat), second (á, rising), third (ǎ, dipping) and fourth (à, falling). A fifth, neutral tone has no mark.\n\n## Hello and how are you\n- 你好 (nǐ hǎo): hello, the all-purpose greeting\n- 您好 (nín hǎo): hello, very polite, for elders and teachers\n- 早上好 (zǎoshang hǎo): good morning\n- 晚上好 (wǎnshang hǎo): good evening\n- 老师好 (lǎoshī hǎo): hello, teacher\n- 同学们好 (tóngxuémen hǎo): hello, everyone (said by a teacher to students)\n- 你好吗？(nǐ hǎo ma?): how are you?\n- 我很好，谢谢。(wǒ hěn hǎo, xièxie.): I'm very well, thank you.\n\nThe word 吗 (ma) turns a statement into a yes/no question, so 你好 becomes 你好吗？. Notice that you say 很 (hěn, very) before 好 when describing yourself.\n\n## Goodbyes\n- 再见 (zàijiàn): goodbye\n- 明天见 (míngtiān jiàn): see you tomorrow\n- 一会儿见 (yíhuìr jiàn): see you in a moment\n- 晚安 (wǎn'ān): good night, only said at bedtime\n\n## Thanks, sorry and polite words\n- 谢谢 (xièxie): thank you\n- 不客气 (bú kèqi): you're welcome\n- 对不起 (duìbuqǐ): I'm sorry\n- 没关系 (méi guānxi): it doesn't matter, no problem\n- 请 (qǐng): please, as in 请进 (qǐng jìn, please come in) and 请坐 (qǐng zuò, please sit)\n\n## Tone changes you must know\nWhen two third tones come together, the first one is pronounced as a second tone. So 你好 is written nǐ hǎo but said ní hǎo. Also, 不 (bù) becomes bú before a fourth-tone syllable, which is why 不客气 is written bú kèqi. You write the changed form for 不 but the original form for the third-tone rule.\n\n## Formal or friendly?\nUse 您 with teachers, grandparents and strangers who are clearly older. Use 你 with friends and classmates. In a classroom, students stand and say 老师好 when the teacher arrives.\n\n## Common mistakes\n- Mixing up 早上好 (morning) and 晚上好 (evening) because both end in 好.\n- Using 晚安 as hello. It means good night and is only a farewell.\n- Replying 谢谢 to 谢谢. The reply is 不客气.\n- Forgetting tone marks. Without them the pinyin is wrong in an exam.\n\n## How this is examined\nIn the reading and listening papers, greetings appear in short dialogues, notes and signs. You may be asked to match a phrase to its English meaning, choose a suitable reply, work out the time of day from the greeting, or decide whether a speaker is being formal or informal. In writing tasks you can earn marks by opening and closing a message with a correct greeting and farewell, such as 你好 at the start and 再见 or 明天见 at the end.\n\nExam tip: Look for the key character in each phrase (早, 晚, 谢, 对, 见). Spotting one known character is often enough to choose the right answer, and always copy pinyin tone marks carefully.",
+  "flashcards": [
+   {
+    "front": "你好 (nǐ hǎo)",
+    "back": "Hello. Written nǐ hǎo but said ní hǎo, because the first of two third tones becomes a second tone."
+   },
+   {
+    "front": "您好 (nín hǎo)",
+    "back": "Hello, polite form. 您 is the respectful 'you', used with elders, teachers and strangers."
+   },
+   {
+    "front": "早上好 / 晚上好",
+    "back": "早上好 (zǎoshang hǎo) = good morning; 晚上好 (wǎnshang hǎo) = good evening."
+   },
+   {
+    "front": "晚安 (wǎn'ān)",
+    "back": "Good night. Said only at bedtime as a farewell, never as a hello."
+   },
+   {
+    "front": "再见 / 明天见",
+    "back": "再见 (zàijiàn) = goodbye; 明天见 (míngtiān jiàn) = see you tomorrow."
+   },
+   {
+    "front": "谢谢 → ?",
+    "back": "The reply to 谢谢 (xièxie, thank you) is 不客气 (bú kèqi), 'you're welcome'."
+   },
+   {
+    "front": "对不起 → ?",
+    "back": "对不起 (duìbuqǐ) means 'I'm sorry'. Reply with 没关系 (méi guānxi), 'it doesn't matter'."
+   },
+   {
+    "front": "你好吗？ → ?",
+    "back": "How are you? Reply: 我很好，谢谢。(wǒ hěn hǎo, xièxie.) = I'm very well, thank you. 吗 (ma) makes a question."
+   },
+   {
+    "front": "请进 / 请坐",
+    "back": "请进 (qǐng jìn) = please come in; 请坐 (qǐng zuò) = please sit down. 请 (qǐng) means please."
+   }
+  ]
+ },
+ {
+  "subject": "mandarin-ab-initio",
+  "grade": 5,
+  "topic": "Greetings and Introductions",
+  "subTopic": "Introducing Yourself and Others",
+  "questions": [
+   {
+    "content": "What does 我叫大卫 (wǒ jiào Dàwèi) mean?",
+    "options": [
+     "I like David",
+     "I am David's teacher",
+     "My name is David",
+     "David is my friend"
+    ],
+    "answer": 2,
+    "explanation": "我叫 means 'I am called' and is the usual way to give your name.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 你叫什么名字？(nǐ jiào shénme míngzi?) ask?",
+    "options": [
+     "Where do you live?",
+     "How old are you?",
+     "Who is your teacher?",
+     "What is your name?"
+    ],
+    "answer": 3,
+    "explanation": "什么名字 means 'what name', so the question asks for the person's name.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 学生 (xuéshēng) mean?",
+    "options": [
+     "Student",
+     "Teacher",
+     "Friend",
+     "Parent"
+    ],
+    "answer": 0,
+    "explanation": "学生 means student. A teacher is 老师 (lǎoshī).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 我是英国人 (wǒ shì Yīngguó rén) mean?",
+    "options": [
+     "I am Chinese",
+     "I am British",
+     "I live in Britain",
+     "I like Britain"
+    ],
+    "answer": 1,
+    "explanation": "Country + 人 (rén, person) gives a nationality, so 英国人 is a British person.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which word means 'we'?",
+    "options": [
+     "你们 (nǐmen)",
+     "他们 (tāmen)",
+     "我们 (wǒmen)",
+     "朋友 (péngyou)"
+    ],
+    "answer": 2,
+    "explanation": "我们 is 'we'. 你们 is 'you' (plural) and 他们 is 'they'.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 她是我的朋友 (tā shì wǒ de péngyou) mean?",
+    "options": [
+     "He is my teacher",
+     "She is my student",
+     "I am her friend's teacher",
+     "She is my friend"
+    ],
+    "answer": 3,
+    "explanation": "她 means she, 是 means is, 我的 means my and 朋友 means friend.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Choose the word that completes the sentence: 我___美国人。(wǒ ___ Měiguó rén.) 'I am American.'",
+    "options": [
+     "是 (shì)",
+     "叫 (jiào)",
+     "很 (hěn)",
+     "有 (yǒu)"
+    ],
+    "answer": 0,
+    "explanation": "是 links two nouns, 'I am an American person'. 叫 means 'is called' and 有 means 'have'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "You meet a new classmate for the first time. Which phrase is the best thing to say?",
+    "options": [
+     "明天见 (míngtiān jiàn)",
+     "很高兴认识你 (hěn gāoxìng rènshi nǐ)",
+     "不客气 (bú kèqi)",
+     "晚安 (wǎn'ān)"
+    ],
+    "answer": 1,
+    "explanation": "很高兴认识你 means 'Nice to meet you'. The other phrases are goodbyes or a reply to thanks.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How do you say 'I am not Chinese'?",
+    "options": [
+     "我不中国人 (wǒ bù Zhōngguó rén)",
+     "我没是中国人 (wǒ méi shì Zhōngguó rén)",
+     "我不是中国人 (wǒ bú shì Zhōngguó rén)",
+     "我是不中国人 (wǒ shì bù Zhōngguó rén)"
+    ],
+    "answer": 2,
+    "explanation": "The negative is 不 placed directly before 是, and 不 becomes bú before the fourth tone. 没 is used with 有, not 是.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read: 这是我的朋友，她叫玲玲。(Zhè shì wǒ de péngyou, tā jiào Línglíng.)\n\nWho is being introduced?",
+    "options": [
+     "A male teacher named Lingling",
+     "The speaker's sister named Lingling",
+     "A student who is not a friend",
+     "A female friend named Lingling"
+    ],
+    "answer": 3,
+    "explanation": "这是 means 'this is', 朋友 is friend and 她 shows the person is female.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript: 大家好！我叫马克，我是澳大利亚人。我是学生。我住在悉尼。(Dàjiā hǎo! Wǒ jiào Mǎkè, wǒ shì Àodàlìyà rén. Wǒ shì xuéshēng. Wǒ zhù zài Xīní.) [大家 = everyone]\n\nWhere does Mark live?",
+    "options": [
+     "Sydney",
+     "Australia's capital, Canberra",
+     "London",
+     "Beijing"
+    ],
+    "answer": 0,
+    "explanation": "住在 means 'live in' and the place after it is 悉尼 (Sydney). Mark is Australian, but the question asks where he lives.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Someone asks 你是哪国人？(nǐ shì nǎ guó rén?). Which reply is correct for a person from France?",
+    "options": [
+     "我叫法国。(wǒ jiào Fǎguó.)",
+     "我是法国人。(wǒ shì Fǎguó rén.)",
+     "我住法国人。(wǒ zhù Fǎguó rén.)",
+     "我是学生吗。(wǒ shì xuéshēng ma.)"
+    ],
+    "answer": 1,
+    "explanation": "哪国人 asks 'which country person?', so the answer is country + 人 with 是.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 我是学生，她也是学生 (wǒ shì xuéshēng, tā yě shì xuéshēng) mean?",
+    "options": [
+     "I am a student but she is not",
+     "I am a student and she is a teacher",
+     "I am a student and she is also a student",
+     "We are both teachers"
+    ],
+    "answer": 2,
+    "explanation": "也 (yě) means 'also' and goes before the verb 是.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence correctly says 'My name is Li Hua and I live in Beijing'?",
+    "options": [
+     "我是叫李华，我住是北京。(wǒ shì jiào Lǐ Huá, wǒ zhù shì Běijīng.)",
+     "我李华叫，我北京住在。(wǒ Lǐ Huá jiào, wǒ Běijīng zhù zài.)",
+     "我叫在李华，我住北京人。(wǒ jiào zài Lǐ Huá, wǒ zhù Běijīng rén.)",
+     "我叫李华，我住在北京。(wǒ jiào Lǐ Huá, wǒ zhù zài Běijīng.)"
+    ],
+    "answer": 3,
+    "explanation": "Chinese keeps subject, verb, object order: 我叫李华 and 我住在北京. The other options scramble the order or misuse 是 and 在.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "You hear: tā shì wǒ de lǎoshī. Can you tell from the sound alone whether the teacher is male or female?",
+    "options": [
+     "No, 他, 她 and 它 are all pronounced tā",
+     "Yes, 她 has a falling tone",
+     "Yes, 他 has a rising tone",
+     "Yes, the word 的 (de) shows the gender"
+    ],
+    "answer": 0,
+    "explanation": "他 (he), 她 (she) and 它 (it) are written differently but sound identical. In listening you need other clues, such as a name.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Read: 这是我的老师。她叫张老师。她是中国人，她也是我的朋友。(Zhè shì wǒ de lǎoshī. Tā jiào Zhāng lǎoshī. Tā shì Zhōngguó rén, tā yě shì wǒ de péngyou.)\n\nWhich statement is true?",
+    "options": [
+     "Teacher Zhang is a student and the writer's friend",
+     "Teacher Zhang is Chinese and also the writer's friend",
+     "Teacher Zhang is American and the writer's teacher",
+     "Teacher Zhang is the writer's friend but not a teacher"
+    ],
+    "answer": 1,
+    "explanation": "The text says she is a teacher (老师), Chinese (中国人) and also (也) a friend (朋友).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student writes 我是叫小明 (wǒ shì jiào Xiǎomíng). What is the problem?",
+    "options": [
+     "小明 should come before 我",
+     "叫 must be changed to 住",
+     "是 and 叫 should not be used together; it should be 我叫小明",
+     "There is no problem"
+    ],
+    "answer": 2,
+    "explanation": "叫 already means 'am called', so no 是 is needed. 我叫小明 is correct.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Someone asks 你是学生吗？(nǐ shì xuéshēng ma?). Which is a correct 'no' answer?",
+    "options": [
+     "没是，我没学生。(méi shì, wǒ méi xuéshēng.)",
+     "不，我不学生吗。(bù, wǒ bù xuéshēng ma.)",
+     "是，我不是学生。(shì, wǒ bú shì xuéshēng.)",
+     "不是，我不是学生。(bú shì, wǒ bú shì xuéshēng.)"
+    ],
+    "answer": 3,
+    "explanation": "Answer a 是…吗 question with 是 or 不是 and repeat the sentence. 不 negates 是, while 没 does not.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Saying who you are\nIn Mandarin you give your name with 我叫 (wǒ jiào) plus your name: 我叫大卫 (wǒ jiào Dàwèi), \"My name is David\". Chinese names put the family name first, so 李华 (Lǐ Huá) has the family name Li and the given name Hua. To ask someone's name, say 你叫什么名字？(nǐ jiào shénme míngzi?).\n\n## The verb 是 (shì)\nThe verb 是 means \"to be\" and links two nouns: 我是学生 (wǒ shì xuéshēng), \"I am a student\". It is not used before adjectives. For the negative, put 不 straight before 是: 我不是老师 (wǒ bú shì lǎoshī), \"I am not a teacher\". Remember that 不 changes to bú before a fourth tone. Add 吗 (ma) to ask a yes/no question: 你是学生吗？(nǐ shì xuéshēng ma?).\n\n## Pronouns\n- 我 (wǒ): I\n- 你 (nǐ): you\n- 他 (tā): he\n- 她 (tā): she\n- 我们 (wǒmen): we\n- 你们 (nǐmen): you (plural)\n- 他们 (tāmen): they\n- 的 (de): shows belonging, as in 我的朋友 (wǒ de péngyou), my friend\n\nNotice that 他 and 她 sound exactly the same, so in listening you rely on names and context.\n\n## People and jobs\n- 学生 (student)\n- 老师 (teacher)\n- 朋友 (friend)\n- 同学 (classmate)\n\n## Countries and nationalities\nAdd 人 (rén, person) to a country name to make a nationality:\n- 中国 (Zhōngguó, China) → 中国人 (Chinese person)\n- 英国 (Yīngguó, Britain) → 英国人\n- 美国 (Měiguó, USA) → 美国人\n- 法国 (Fǎguó, France) → 法国人\n- 澳大利亚 (Àodàlìyà, Australia) → 澳大利亚人\n\nAsk 你是哪国人？(nǐ shì nǎ guó rén?), \"Which country are you from?\". To say where you live use 住在 (zhù zài): 我住在伦敦 (wǒ zhù zài Lúndūn), \"I live in London\".\n\n## Introducing others\nUse 这是 (zhè shì), \"this is\": 这是我的朋友，她叫玲玲 (zhè shì wǒ de péngyou, tā jiào Línglíng). To add \"also\", place 也 (yě) before the verb: 她也是学生 (tā yě shì xuéshēng). When meeting someone say 很高兴认识你 (hěn gāoxìng rènshi nǐ), \"Nice to meet you\".\n\n## Common mistakes\n- Saying 我是叫… Use 我叫… only.\n- Using 没 to negate 是. Always 不是.\n- Putting 也 after the verb. It goes before: 她也是, not 她是也.\n- Putting 很 before 是. Never write 我很是学生.\n\n## How this is examined\nSelf-introductions are a favourite for reading and listening. You might read a short profile or hear a speaker give a name, nationality, home city and job, then answer questions about one detail. In writing you may be asked to introduce yourself and a friend in four or five sentences, so practise a full model: name, nationality, where you live and one fact about a friend.\n\nExam tip: In listening, note the key detail words (name, country, city, job) and notice that 我 stays the same even when the question asks about \"he\" or \"she\". Check whether the question asks where someone is from or where they live, because the answers can be different.",
+  "flashcards": [
+   {
+    "front": "我叫… (wǒ jiào…)",
+    "back": "I am called… Use it for your name only, with no 是: 我叫大卫 (wǒ jiào Dàwèi)."
+   },
+   {
+    "front": "你叫什么名字？",
+    "back": "Nǐ jiào shénme míngzi? = What is your name?"
+   },
+   {
+    "front": "我是… (wǒ shì…)",
+    "back": "I am… 是 links two nouns: 我是学生 (wǒ shì xuéshēng), I am a student. Negative: 我不是… (wǒ bú shì…)."
+   },
+   {
+    "front": "你是哪国人？",
+    "back": "Nǐ shì nǎ guó rén? = Which country are you from? Answer with country + 人: 我是中国人 (wǒ shì Zhōngguó rén)."
+   },
+   {
+    "front": "我住在… (wǒ zhù zài…)",
+    "back": "I live in… For example 我住在伦敦 (wǒ zhù zài Lúndūn), I live in London."
+   },
+   {
+    "front": "这是我的朋友",
+    "back": "Zhè shì wǒ de péngyou = This is my friend. 的 (de) shows belonging."
+   },
+   {
+    "front": "他 / 她 / 我们",
+    "back": "他 (tā) = he; 她 (tā) = she, both sound the same; 我们 (wǒmen) = we."
+   },
+   {
+    "front": "也 (yě)",
+    "back": "Also. It goes before the verb: 她也是学生 (tā yě shì xuéshēng), she is also a student."
+   },
+   {
+    "front": "很高兴认识你",
+    "back": "Hěn gāoxìng rènshi nǐ = Nice to meet you. Said when you meet someone for the first time."
+   }
+  ]
+ },
+ {
+  "subject": "mandarin-ab-initio",
+  "grade": 5,
+  "topic": "Greetings and Introductions",
+  "subTopic": "Numbers, Age and Dates",
+  "questions": [
+   {
+    "content": "What number is 五 (wǔ)?",
+    "options": [
+     "4",
+     "6",
+     "5",
+     "9"
+    ],
+    "answer": 2,
+    "explanation": "五 is five. Four is 四 (sì), six is 六 (liù) and nine is 九 (jiǔ).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What number is 八 (bā)?",
+    "options": [
+     "7",
+     "9",
+     "10",
+     "8"
+    ],
+    "answer": 3,
+    "explanation": "八 is eight. Seven is 七 (qī) and nine is 九 (jiǔ).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 十 (shí) mean?",
+    "options": [
+     "10",
+     "1",
+     "4",
+     "100"
+    ],
+    "answer": 0,
+    "explanation": "十 is ten. It looks like a plus sign. One is 一 (yī) and four is 四 (sì).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which day is 星期一 (xīngqīyī)?",
+    "options": [
+     "Sunday",
+     "Monday",
+     "Tuesday",
+     "Friday"
+    ],
+    "answer": 1,
+    "explanation": "星期 means week and 一 means one, so 星期一 is the first day, Monday. Tuesday is 星期二.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which month is 三月 (sān yuè)?",
+    "options": [
+     "February",
+     "June",
+     "March",
+     "September"
+    ],
+    "answer": 2,
+    "explanation": "Months are number + 月 (yuè). Three is 三, so 三月 is March.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What number is 十五 (shíwǔ)?",
+    "options": [
+     "5",
+     "50",
+     "10",
+     "15"
+    ],
+    "answer": 3,
+    "explanation": "十五 is ten plus five, which is fifteen. Fifty would be 五十 (wǔshí).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 我十六岁 (wǒ shíliù suì) mean?",
+    "options": [
+     "I am 16 years old",
+     "I have 6 friends",
+     "I am 10 years old",
+     "I was born in June"
+    ],
+    "answer": 0,
+    "explanation": "十六 is 16 and 岁 (suì) means years of age.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What number is 二十三 (èrshísān)?",
+    "options": [
+     "32",
+     "23",
+     "203",
+     "13"
+    ],
+    "answer": 1,
+    "explanation": "二十三 means two tens and three, so 23. Thirty-two is 三十二 (sānshí'èr).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How do you say 'twelve' in Mandarin?",
+    "options": [
+     "二十 (èrshí)",
+     "一二 (yī èr)",
+     "十二 (shí'èr)",
+     "二十一 (èrshíyī)"
+    ],
+    "answer": 2,
+    "explanation": "Teen numbers are 十 + a digit, so twelve is 十二. 二十 is 20 and 二十一 is 21.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 你几岁？(nǐ jǐ suì?) ask?",
+    "options": [
+     "What day is it?",
+     "Which month is your birthday?",
+     "How many brothers do you have?",
+     "How old are you? (usually asked to a child)"
+    ],
+    "answer": 3,
+    "explanation": "几 means 'how many' and 岁 means years of age. For older people you can use 你多大？(nǐ duō dà?).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 今天星期四 (jīntiān xīngqīsì) mean?",
+    "options": [
+     "Today is Thursday",
+     "Tomorrow is Thursday",
+     "Today is Sunday",
+     "Today is the fourth of the month"
+    ],
+    "answer": 0,
+    "explanation": "今天 means today and 星期四 is Thursday (week + four).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 我的生日是六月八号 (wǒ de shēngrì shì liù yuè bā hào) mean?",
+    "options": [
+     "My birthday is on 6 August",
+     "My birthday is on 8 June",
+     "I am 68 years old",
+     "My birthday is on the 6th of the eighth month"
+    ],
+    "answer": 1,
+    "explanation": "Month comes before day in Chinese: 六月 is June and 八号 is the 8th. 号 (hào) is the spoken word for 'day of the month'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is November?",
+    "options": [
+     "十月 (shí yuè)",
+     "一月 (yī yuè)",
+     "十一月 (shíyī yuè)",
+     "十二月 (shí'èr yuè)"
+    ],
+    "answer": 2,
+    "explanation": "November is the eleventh month, so 十一月. 十月 is October and 十二月 is December.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Complete the sum: 三加九等于几？(sān jiā jiǔ děngyú jǐ?) [加 = plus, 等于 = equals]",
+    "options": [
+     "十 (shí)",
+     "二十 (èrshí)",
+     "九三 (jiǔ sān)",
+     "十二 (shí'èr)"
+    ],
+    "answer": 3,
+    "explanation": "3 + 9 = 12, which is 十二. 二十 would be 20.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Listening transcript: 玲玲: 你的生日是几月几号？(Línglíng: Nǐ de shēngrì shì jǐ yuè jǐ hào?) 大卫: 我的生日是十二月二十五号。(Dàwèi: Wǒ de shēngrì shì shí'èr yuè èrshíwǔ hào.)\n\nWhen is David's birthday?",
+    "options": [
+     "25 December",
+     "12 May",
+     "15 December",
+     "25 February"
+    ],
+    "answer": 0,
+    "explanation": "十二月 is December and 二十五号 is the 25th. Chinese says the month first, then the day.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "How is the date 3月14日 read aloud in written style?",
+    "options": [
+     "十四月三日 (shísì yuè sān rì)",
+     "三月十四日 (sān yuè shísì rì)",
+     "三十四月 (sānshísì yuè)",
+     "三月四十一日 (sān yuè sìshíyī rì)"
+    ],
+    "answer": 1,
+    "explanation": "Month comes first: 3 = 三, and 14 = 十四 (ten and four). 日 (rì) is the written form of 号.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Read: 小红: 我今年十四岁，我哥哥十七岁。(Xiǎohóng: Wǒ jīnnián shísì suì, wǒ gēge shíqī suì.) [今年 = this year, 哥哥 = older brother]\n\nHow many years older is her brother?",
+    "options": [
+     "2 years",
+     "4 years",
+     "3 years",
+     "31 years"
+    ],
+    "answer": 2,
+    "explanation": "十七 is 17 and 十四 is 14, and 17 − 14 = 3.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Today is 星期五 (xīngqīwǔ). 后天 (hòutiān) means 'the day after tomorrow'. What day is 后天?",
+    "options": [
+     "星期六 (xīngqīliù)",
+     "星期四 (xīngqīsì)",
+     "星期一 (xīngqīyī)",
+     "星期日 (xīngqīrì)"
+    ],
+    "answer": 3,
+    "explanation": "Friday is the fifth day; tomorrow is Saturday (星期六) and the day after tomorrow is Sunday, 星期日 (also called 星期天).",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Numbers 0 to 10\nChinese numbers are very logical, so they are worth learning well.\n- 零 (líng): 0\n- 一 (yī): 1\n- 二 (èr): 2\n- 三 (sān): 3\n- 四 (sì): 4\n- 五 (wǔ): 5\n- 六 (liù): 6\n- 七 (qī): 7\n- 八 (bā): 8\n- 九 (jiǔ): 9\n- 十 (shí): 10\n\n## Building bigger numbers\nFor 11 to 19 say ten + digit: 十一 (shíyī) is 11, 十五 (shíwǔ) is 15 and 十九 (shíjiǔ) is 19. For tens say digit + ten: 二十 (èrshí) is 20 and 三十 (sānshí) is 30. Add the units last: 二十三 (èrshísān) is 23. Watch word order: 三十二 is 32 but 二十三 is 23. For 100 say 一百 (yìbǎi).\n\n## Talking about age\nUse 岁 (suì), which means \"years of age\". I am fifteen is 我十五岁 (wǒ shíwǔ suì). Ask a child 你几岁？(nǐ jǐ suì?). Ask a teenager or adult 你多大？(nǐ duō dà?). Use 今年 (jīnnián, this year) to add \"this year\".\n\n## Months\nMonths are number + 月 (yuè): 一月 (yī yuè) January, 二月 February, 三月 March, up to 十二月 (shí'èr yuè) December. Mandarin does not use separate names for months.\n\n## Days of the week\nDays are 星期 (xīngqī, week) + number: 星期一 Monday, 星期二 Tuesday, 星期三 Wednesday, 星期四 Thursday, 星期五 Friday, 星期六 Saturday. Sunday is special: 星期日 (xīngqīrì) or 星期天 (xīngqītiān).\n\n## Dates\nChinese dates go from big to small: year, month, day. 2027年3月14日 is read as the year, then 三月 and 十四日. In speech, 号 (hào) is used for the day: 三月十四号 (sān yuè shísì hào). The written form is 日 (rì). Ask the date with 今天几月几号？(jīntiān jǐ yuè jǐ hào?) and the weekday with 今天星期几？(jīntiān xīngqī jǐ?). Useful time words: 今天 (today), 明天 (tomorrow), 后天 (the day after tomorrow) and 生日 (shēngrì, birthday): 我的生日是六月八号 (wǒ de shēngrì shì liù yuè bā hào), \"My birthday is on 8 June\".\n\n## Worked example\n三加九等于几？(sān jiā jiǔ děngyú jǐ?) uses 加 (plus) and 等于 (equals). 3 + 9 = 12, so the answer is 十二 (shí'èr).\n\n## Common mistakes\n- Swapping tens and units (二十三 is 23, not 32).\n- Putting the day before the month. Mandarin always goes month first.\n- Forgetting that 星期日 is Sunday, not 星期七.\n- Writing 十一 for November. November is 十一月, with 月.\n\n## How this is examined\nNumber and date questions appear in notices, tickets, birthday invitations and timetables. You may be asked to read a date from a short invitation, work out a person's age from a message, or spot which day an event happens. Writing tasks often include a birthday or age in a short profile.\n\nExam tip: Convert every Chinese number to digits as you read, and write the digits next to the text in your notes. In listening, numbers go quickly, so listen for the 十 (shí) in teens and tens and double-check month before day.",
+  "flashcards": [
+   {
+    "front": "一 二 三 四 五",
+    "back": "yī, èr, sān, sì, wǔ = 1, 2, 3, 4, 5."
+   },
+   {
+    "front": "六 七 八 九 十",
+    "back": "liù, qī, bā, jiǔ, shí = 6, 7, 8, 9, 10."
+   },
+   {
+    "front": "十五 / 二十三",
+    "back": "十五 (shíwǔ) = 15 (ten + five); 二十三 (èrshísān) = 23 (two tens + three). Tens come first, then units."
+   },
+   {
+    "front": "我十五岁",
+    "back": "Wǒ shíwǔ suì = I am 15 years old. 岁 (suì) means years of age."
+   },
+   {
+    "front": "你几岁？/ 你多大？",
+    "back": "Nǐ jǐ suì? asks a child's age. Nǐ duō dà? asks an older person's age. Both mean 'How old are you?'"
+   },
+   {
+    "front": "三月 / 十二月",
+    "back": "三月 (sān yuè) = March; 十二月 (shí'èr yuè) = December. Months are number + 月 (yuè)."
+   },
+   {
+    "front": "星期一 … 星期日",
+    "back": "星期 (xīngqī) = week. 星期一 Monday to 星期六 Saturday; Sunday is 星期日 (xīngqīrì) or 星期天 (xīngqītiān)."
+   },
+   {
+    "front": "今天几月几号？",
+    "back": "Jīntiān jǐ yuè jǐ hào? = What is today's date? Month first, then day. 号 (hào) is spoken; 日 (rì) is written."
+   },
+   {
+    "front": "今天 / 明天 / 后天",
+    "back": "今天 (jīntiān) = today; 明天 (míngtiān) = tomorrow; 后天 (hòutiān) = the day after tomorrow."
+   }
+  ]
+ }
+]

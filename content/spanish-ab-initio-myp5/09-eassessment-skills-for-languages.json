@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "spanish-ab-initio",
+  "grade": 5,
+  "topic": "eAssessment Skills for Languages",
+  "subTopic": "Reading Comprehension Strategies",
+  "questions": [
+   {
+    "content": "What is the best first step when you start a reading task?",
+    "options": [
+     "Read the questions and look at the title and text type",
+     "Translate every word of the text",
+     "Skip the questions until you finish",
+     "Guess answers without reading"
+    ],
+    "answer": 0,
+    "explanation": "Previewing the questions and the text type tells you what to look for, so your reading has a purpose.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A word in a text looks like English: 'la información'. What is the best guess?",
+    "options": [
+     "informer",
+     "inflation",
+     "interview",
+     "information"
+    ],
+    "answer": 3,
+    "explanation": "Many Spanish words are cognates, which look and mean almost the same as English words. La información means information.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Read the notice.\n'Se vende bicicleta. 50 euros. Llamar al 600 123 456.'\nWhat type of text is this?",
+    "options": [
+     "A recipe",
+     "A timetable",
+     "An advertisement",
+     "A school report"
+    ],
+    "answer": 2,
+    "explanation": "Se vende means 'for sale', and the text gives a price and a phone number, which is typical of an advertisement.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which English word matches 'la biblioteca'?",
+    "options": [
+     "bookshop",
+     "library",
+     "school",
+     "desk"
+    ],
+    "answer": 1,
+    "explanation": "La biblioteca is a library. It is a false friend of bookshop, which is la librería.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The text says: 'No hay clases el viernes.' Is this statement true or false? 'There are classes on Friday.'",
+    "options": [
+     "False",
+     "True",
+     "Not mentioned",
+     "True only in the morning"
+    ],
+    "answer": 0,
+    "explanation": "No hay clases means there are no classes, so the statement is false.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Read the message.\n'Hola Marta: El sábado voy a la piscina con Pablo a las diez. ¿Quieres venir? Mándame un mensaje. Un abrazo, Eva.'\nWhat is Eva asking Marta?",
+    "options": [
+     "To lend her a swimsuit",
+     "To meet at ten at school",
+     "To call Pablo",
+     "Whether she wants to come to the pool"
+    ],
+    "answer": 3,
+    "explanation": "¿Quieres venir? means 'Do you want to come?' and Mándame un mensaje means 'send me a message'. Un abrazo is just a friendly sign-off.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read the notice.\n'Abrimos de lunes a viernes de 9:00 a 17:00. Los sábados abrimos solo por la mañana.'\nCan you visit on Saturday at 3 p.m.?",
+    "options": [
+     "Yes, it is open until 17:00",
+     "Yes, it is open all day",
+     "No, it is only open on Saturday mornings",
+     "No, it is closed on Saturdays"
+    ],
+    "answer": 2,
+    "explanation": "The shop is open on Saturdays, but solo por la mañana means only in the morning. The 9:00 to 17:00 hours apply Monday to Friday.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "You find an unknown word in a text. What is the best approach?",
+    "options": [
+     "Stop and leave the question blank",
+     "Use the context and similar words, then keep reading",
+     "Translate every word in the sentence",
+     "Change the meaning of the question"
+    ],
+    "answer": 1,
+    "explanation": "Context clues and words you already know often give enough meaning, and you do not need every word to answer.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read the information.\n'Las entradas cuestan quince euros para adultos y ocho euros para niños.'\nHow much do two adults and one child pay?",
+    "options": [
+     "38 euros",
+     "23 euros",
+     "31 euros",
+     "30 euros"
+    ],
+    "answer": 0,
+    "explanation": "Two adults pay 2 × 15 = 30 euros, plus 8 euros for the child gives 38. The answer 23 only counts one adult.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "You need to find the departure time of a train in a timetable. Which technique is most useful?",
+    "options": [
+     "Reading every line slowly",
+     "Translating the whole timetable",
+     "Looking only at the headline",
+     "Scanning for the place name and the numbers"
+    ],
+    "answer": 3,
+    "explanation": "Scanning means looking quickly for specific key words or numbers. A timetable is made for this.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read the message.\n'Querida Ana: Gracias por la invitación. Lo siento, no puedo ir a tu fiesta porque tengo un examen el lunes. ¡Que lo pases bien!'\nWhy can the writer not go to the party?",
+    "options": [
+     "Because she is ill",
+     "Because she is travelling",
+     "Because of an exam on Monday",
+     "Because she has no invitation"
+    ],
+    "answer": 2,
+    "explanation": "Porque introduces the reason: tengo un examen el lunes. Lo siento means 'I am sorry'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read the text.\n'Hace mucho frío y llevo bufanda y guantes.'\nWhich season is it most likely?",
+    "options": [
+     "Summer (verano)",
+     "Winter (invierno)",
+     "Spring (primavera)",
+     "Autumn (otoño)"
+    ],
+    "answer": 1,
+    "explanation": "Hace mucho frío means it is very cold, and a scarf and gloves also suggest winter. Using clues like this is called inference.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read the text.\n'Me gusta el fútbol, pero prefiero el tenis.'\nWhich sport does the writer prefer?",
+    "options": [
+     "Tennis",
+     "Football",
+     "Both equally",
+     "Neither"
+    ],
+    "answer": 0,
+    "explanation": "Pero signals a contrast, and prefiero el tenis says tennis is preferred.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read the text.\n'Normalmente voy al colegio en autobús, pero hoy voy a pie porque el autobús llega tarde.'\nWhy does the writer walk today?",
+    "options": [
+     "The bus is full",
+     "It is a sunny day",
+     "The school is close",
+     "The bus is late"
+    ],
+    "answer": 3,
+    "explanation": "Voy a pie means 'I go on foot', and porque el autobús llega tarde means because the bus arrives late.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Read the notice.\n'El museo está cerrado los lunes. El martes es gratis para estudiantes. Los otros días la entrada cuesta seis euros.'\nA student visits on Tuesday. How much does the student pay?",
+    "options": [
+     "6 euros",
+     "3 euros",
+     "Nothing, it is free",
+     "The museum is closed"
+    ],
+    "answer": 2,
+    "explanation": "Gratis means free, and the notice says Tuesday is free for students. Six euros is the price for the other days.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Read the text.\n'Lola está contenta porque mañana empiezan las vacaciones.'\nWhy is Lola happy?",
+    "options": [
+     "The holidays ended yesterday",
+     "The holidays start tomorrow",
+     "She has won a prize",
+     "She is going to a party"
+    ],
+    "answer": 1,
+    "explanation": "Mañana empiezan las vacaciones means the holidays begin tomorrow. Do not confuse mañana (tomorrow) with the morning.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "After choosing an answer in a reading task, what is the most reliable way to check it?",
+    "options": [
+     "Find the exact words in the text that support it",
+     "Choose the longest option",
+     "Check that it sounds familiar",
+     "Pick the answer that mentions a number"
+    ],
+    "answer": 0,
+    "explanation": "A correct answer must be supported by the text. Going back to the evidence avoids falling for distractors.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Read the text.\n'Mi hermana tiene tres años más que yo. Yo tengo doce años.'\nHow old is the writer's sister?",
+    "options": [
+     "9",
+     "12",
+     "3",
+     "15"
+    ],
+    "answer": 3,
+    "explanation": "Más que means 'more than', so the sister is 12 + 3 = 15. The numbers 12 and 3 are both in the text but neither is the answer.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why reading strategies matter\nAt ab initio level you will not know every word, and the real eAssessment does not expect you to. It tests whether you can find the right information in a short text, such as a message, a sign, an advertisement, a menu or a timetable. Good strategies often win more marks than a big vocabulary.\n\n## Before you read\n- Look at the text type. A notice, an email, a menu and a timetable each have familiar words. A message starts with Hola or Querida and ends with Un abrazo or Hasta pronto.\n- Read the questions first. They tell you what to hunt for: a time, a place, a price, a reason, an opinion.\n- Notice the command word in English: \"State\", \"Identify\", \"Explain why\".\n\n## While you read\n- **Scan** for numbers, names and key words. Use this for timetables and prices.\n- **Skim** for the main idea. Read the first and last sentences and any title.\n- Use **cognates**, words that look like English: el restaurante, la información, importante, el teléfono.\n- Beware of **false friends**: la biblioteca (library, not bookshop), simpático (nice, not sympathetic), el éxito (success, not exit).\n- Use **context clues** and your knowledge of word families. If you know trabajar (to work), then el trabajo is probably work or job.\n- Look for **link words**: porque (because), pero (but), y (and), también (also), además (as well), nunca (never).\n- Spot **negatives**. No abre los domingos is the opposite of abre los domingos.\n\n## Watching out for distractors\nExam writers often include numbers or details that are true in the text but do not answer the question. For example, in 'Mi hermana tiene tres años más que yo. Yo tengo doce años' you must add before answering. Always check exactly who or what the question is about and which time or day it asks about.\n\n## A quick method\n1. Read the question. 2. Find the matching part of the text. 3. Read that part twice. 4. Choose the answer supported by the words. 5. Check you have answered what was asked.\n\n## Common mistakes\n- Trying to translate every word and running out of time.\n- Choosing an answer because one word in it appears in the text.\n- Ignoring words such as no, nunca, solo and menos.\n- Mixing up days, times and numbers.\n\n## How this is examined\nReading tasks usually give a short, simple text and ask multiple-choice questions about detail, reason or opinion. You might also see true or false statements. The answer is nearly always stated or can be worked out from a clear clue in the text.\n\nExam tip: Underline the word in the question that tells you what to find (who, when, why, how much), then look for words of that type in the text. If you cannot find the exact word, look for a close one with a similar meaning.",
+  "flashcards": [
+   {
+    "front": "Cognate",
+    "back": "A word that looks like and means almost the same as an English word, such as la información (information) or el restaurante."
+   },
+   {
+    "front": "False friend: la biblioteca",
+    "back": "It means library, not bookshop. A bookshop is la librería."
+   },
+   {
+    "front": "False friend: simpático",
+    "back": "It means nice or friendly, not sympathetic."
+   },
+   {
+    "front": "Scanning",
+    "back": "Looking quickly for specific details such as numbers, names, times or prices, without reading every word."
+   },
+   {
+    "front": "Skimming",
+    "back": "Reading quickly for the general idea, using the title, first line and last line."
+   },
+   {
+    "front": "porque, pero, también",
+    "back": "because, but, also. Link words help you follow reasons, contrasts and extra information."
+   },
+   {
+    "front": "Why do negatives matter?",
+    "back": "No abre los lunes means it does NOT open on Mondays. Missing no, nunca or nadie flips the meaning."
+   },
+   {
+    "front": "¿Cuánto? ¿Cuándo? ¿Por qué?",
+    "back": "How much? When? Why? They tell you whether to look for a price, a time or a reason."
+   },
+   {
+    "front": "How to check an answer",
+    "back": "Go back to the text and find the exact words that support your choice. Do not choose an answer just because one word matches."
+   }
+  ]
+ },
+ {
+  "subject": "spanish-ab-initio",
+  "grade": 5,
+  "topic": "eAssessment Skills for Languages",
+  "subTopic": "Listening Text Strategies",
+  "questions": [
+   {
+    "content": "What should you do before the audio begins in a listening task?",
+    "options": [
+     "Close your eyes and wait",
+     "Read the questions and predict the kind of words you will hear",
+     "Write a summary of the topic",
+     "Translate the instructions"
+    ],
+    "answer": 1,
+    "explanation": "Reading the questions first tells you what details to listen for, such as a price, a time or a name.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "You hear 'quince'. Which number is it?",
+    "options": [
+     "15",
+     "50",
+     "5",
+     "14"
+    ],
+    "answer": 0,
+    "explanation": "Quince is 15. Cincuenta is 50, cinco is 5 and catorce is 14.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Listening transcript: 'Hola, me llamo Rosa y tengo trece años.'\nHow old is Rosa?",
+    "options": [
+     "30",
+     "3",
+     "12",
+     "13"
+    ],
+    "answer": 3,
+    "explanation": "Trece is 13. Treinta is 30. Do not confuse the endings -ce and -nta.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "You miss an answer in a listening task. What is best to do?",
+    "options": [
+     "Stop and wait for the recording again",
+     "Leave the whole task blank",
+     "Move on and write your best guess",
+     "Change your earlier answers"
+    ],
+    "answer": 2,
+    "explanation": "Stay with the recording. Write a guess, listen for the next question and keep going.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What should you write down while you listen?",
+    "options": [
+     "Every sentence in full",
+     "Key words such as numbers, names and times",
+     "Only the first word",
+     "A translation of the whole text"
+    ],
+    "answer": 1,
+    "explanation": "Short notes of key details are fast and useful. Full sentences make you miss the next piece of information.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Listening transcript: 'El tren para Valencia sale a las ocho y cuarto del andén tres.'\nWhat time does the train leave?",
+    "options": [
+     "8:15",
+     "8:45",
+     "7:45",
+     "8:30"
+    ],
+    "answer": 0,
+    "explanation": "Y cuarto means quarter past, so ocho y cuarto is 8:15. Y media would be 8:30 and menos cuarto would be 7:45.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript: 'El concierto es el sábado, no el viernes. Empieza a las siete.'\nOn which day is the concert?",
+    "options": [
+     "Friday",
+     "Sunday",
+     "Thursday",
+     "Saturday"
+    ],
+    "answer": 3,
+    "explanation": "The speaker corrects the day: es el sábado, no el viernes. Words like no signal a correction.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript: 'Normalmente tomo café, pero hoy tomo té.'\nWhat does the speaker drink today?",
+    "options": [
+     "Coffee",
+     "Water",
+     "Tea",
+     "Juice"
+    ],
+    "answer": 2,
+    "explanation": "Pero signals a change: normally coffee, but today (hoy) tea. The question asks about today.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript: '— ¿Cuánto es? — Son doce euros con cincuenta.'\nHow much is it?",
+    "options": [
+     "€15.20",
+     "€12.50",
+     "€12.05",
+     "€50.12"
+    ],
+    "answer": 1,
+    "explanation": "Doce euros con cincuenta is 12 euros and 50 cents. Listen for the order of the numbers.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript: 'Quedamos a las nueve y media.'\nWhat time are they meeting?",
+    "options": [
+     "9:30",
+     "8:30",
+     "9:50",
+     "10:30"
+    ],
+    "answer": 0,
+    "explanation": "Y media means half past, so nueve y media is 9:30.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript: 'Mi cumpleaños es el veinte de marzo.'\nWhen is the speaker's birthday?",
+    "options": [
+     "2 March",
+     "20 May",
+     "12 March",
+     "20 March"
+    ],
+    "answer": 3,
+    "explanation": "El veinte de marzo is the 20th of March. Marzo is March and mayo is May.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript: 'No quiero la camiseta roja, quiero la azul.'\nWhich colour does the speaker want?",
+    "options": [
+     "Red",
+     "Green",
+     "Blue",
+     "Black"
+    ],
+    "answer": 2,
+    "explanation": "The speaker rejects red (no quiero la roja) and chooses blue (azul). Distractors often use a colour that is mentioned but rejected.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the best use of the first listening?",
+    "options": [
+     "Write down every word",
+     "Understand the general topic and write the easier answers",
+     "Answer only the final question",
+     "Translate the text in your head"
+    ],
+    "answer": 1,
+    "explanation": "The first listening gives you the general idea. Use the second to check details and fill gaps.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript: 'Hola, soy Jorge. El partido no es a las cinco, es a las seis, porque el campo está ocupado.'\nWhy has the match time changed?",
+    "options": [
+     "The pitch is in use",
+     "It is raining",
+     "The coach is ill",
+     "It is too cold"
+    ],
+    "answer": 0,
+    "explanation": "El campo está ocupado means the pitch is occupied. The time moves from 5 to 6 o'clock.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Listening transcript: '— Quiero dos entradas para la película de las siete. — Lo siento, está completa. Hay una sesión a las nueve.'\nWhat is the problem?",
+    "options": [
+     "The cinema is closed",
+     "The tickets are too expensive",
+     "The film has finished",
+     "The 7 o'clock showing is full"
+    ],
+    "answer": 3,
+    "explanation": "Está completa means it is full. The clerk offers another showing at nine, but the question asks about the problem.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Listening transcript: 'Tengo dos hermanos: Luis, que tiene diez años, y Pablo, que tiene quince.'\nHow old is the younger brother?",
+    "options": [
+     "15",
+     "12",
+     "10",
+     "25"
+    ],
+    "answer": 2,
+    "explanation": "Luis is 10 and Pablo is 15, so Luis is the younger one. Read the question carefully, as it asks for the younger brother.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Listening transcript: 'No hay clase de música hoy, hay clase de arte.'\nWhat lesson is there today?",
+    "options": [
+     "Music",
+     "Art",
+     "Sport",
+     "No lesson"
+    ],
+    "answer": 1,
+    "explanation": "No hay clase de música means there is no music class, and hay clase de arte says there is art.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Listening transcript: 'Salimos de casa a las ocho menos diez y llegamos al colegio a las ocho y diez.'\nHow long is the journey?",
+    "options": [
+     "20 minutes",
+     "10 minutes",
+     "40 minutes",
+     "60 minutes"
+    ],
+    "answer": 0,
+    "explanation": "Ocho menos diez is 7:50 and ocho y diez is 8:10, so the journey takes 20 minutes.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What the listening task is like\nIn the real eAssessment you listen to short recordings, such as announcements, phone messages and conversations, and answer questions. Because we cannot play audio here, our practice questions show a written \"Listening transcript\". Practise reading each one slowly, then imagine hearing it once or twice at normal speed.\n\n## Before you listen\n- Read all the questions and the options. They show the topic and the kind of details to catch.\n- Predict vocabulary. If the question mentions a train, expect times, platforms (el andén) and places.\n- Notice the question word: cuándo (time or date), cuánto (price or amount), dónde (place), por qué (reason).\n\n## While you listen\n- Write only **key words**: numbers, names, days, times, colours, places. Use quick spellings or digits rather than full sentences.\n- Listen for **signals of change**: pero (but), no... sino, en realidad, ahora, hoy. They often introduce the real answer. In 'Normalmente tomo café, pero hoy tomo té', the answer is tea.\n- Listen for **corrections**: El concierto es el sábado, no el viernes. The speaker gives both days, but only one is the answer.\n- Watch for **negatives**: No hay clase de música means there is no music class.\n- Do not panic if you miss a word. Keep listening for the next piece of information.\n\n## Numbers and times\nPractise hearing numbers because they are easy to mix up.\n- quince (15) and cincuenta (50); trece (13) and treinta (30)\n- y cuarto (quarter past), y media (half past), menos cuarto (quarter to), menos diez (ten to)\n- The price 12,50 € is doce euros con cincuenta.\nWrite the digits as you hear them, then re-read your answer.\n\n## After the first listening\nUse the break to fill in what you can. During the second listening, check your answers and fill the gaps. If you still do not know an answer, write a sensible guess based on the question, because you do not lose marks for a guess.\n\n## Common mistakes\n- Choosing the first number or day you hear without waiting for a correction.\n- Answering about the wrong person, such as the older brother instead of the younger one.\n- Writing too much and missing the next question.\n- Mixing up time expressions such as y media and menos cuarto.\n\n## How this is examined\nListening questions test detail (a time, a price, a place), reason (por qué) and sometimes opinion. Speakers often say a wrong detail and then correct it, or give two options and choose one. Careful attention to small words such as no, pero and solo is rewarded.\n\nExam tip: In the preparation time, circle the question word in each question and write a tiny reminder next to it, such as \"time?\", \"price?\" or \"reason?\". Then listen for exactly that kind of information.",
+  "flashcards": [
+   {
+    "front": "Listening transcript",
+    "back": "In our practice, the written text of what you would hear. In the exam you hear a recording once or twice."
+   },
+   {
+    "front": "quince / cincuenta",
+    "back": "15 / 50. Do not mix them up when you hear numbers."
+   },
+   {
+    "front": "trece / treinta",
+    "back": "13 / 30. Listen to the ending: -ce for the teens, -nta for the tens."
+   },
+   {
+    "front": "y cuarto, y media, menos cuarto",
+    "back": "quarter past, half past, quarter to. For example, las ocho y media is 8:30 and las ocho menos cuarto is 7:45."
+   },
+   {
+    "front": "pero",
+    "back": "but. It signals a change or contrast, and the real answer often comes after it."
+   },
+   {
+    "front": "no es..., es...",
+    "back": "It is not..., it is... A correction: no es a las cinco, es a las seis (not at five, at six)."
+   },
+   {
+    "front": "¿Cuánto es?",
+    "back": "How much is it? Listen for the price: doce euros con cincuenta is 12.50 euros."
+   },
+   {
+    "front": "How should you take notes?",
+    "back": "Write key words, numbers, names and times, not full sentences."
+   },
+   {
+    "front": "What if you miss an answer?",
+    "back": "Move on, write a guess and be ready for the next question. You can check again in the second listening."
+   }
+  ]
+ },
+ {
+  "subject": "spanish-ab-initio",
+  "grade": 5,
+  "topic": "eAssessment Skills for Languages",
+  "subTopic": "Writing a Short Response",
+  "questions": [
+   {
+    "content": "Which opening is suitable for an informal email to a friend?",
+    "options": [
+     "Estimado señor,",
+     "Muy señor mío:",
+     "Hola Marta,",
+     "A quien corresponda:"
+    ],
+    "answer": 2,
+    "explanation": "Hola followed by the friend's name is friendly and informal. The others are formal greetings.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which sign-off is suitable for a friend?",
+    "options": [
+     "Atentamente",
+     "Un abrazo",
+     "Muy atentamente",
+     "Le saluda atentamente"
+    ],
+    "answer": 1,
+    "explanation": "Un abrazo (a hug) is a warm, informal ending. The other options are formal.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The task asks for 50 to 70 words. What should you do?",
+    "options": [
+     "Write within the range and cover every bullet point",
+     "Write as much as you can",
+     "Write only one sentence",
+     "Write in English if you run out of Spanish"
+    ],
+    "answer": 0,
+    "explanation": "Staying within the range and covering all the points shows you have understood the task and keeps your language accurate.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which sentence is correct?",
+    "options": [
+     "Me gusto jugar al fútbol.",
+     "Yo gusta fútbol jugar.",
+     "Me gustan jugar al fútbol.",
+     "Me gusta jugar al fútbol."
+    ],
+    "answer": 3,
+    "explanation": "Me gusta is followed by a verb in the infinitive. Jugar al fútbol means to play football.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'porque' mean?",
+    "options": [
+     "but",
+     "also",
+     "because",
+     "never"
+    ],
+    "answer": 2,
+    "explanation": "Porque is used to give reasons: Me gusta el verano porque hace sol.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The task: 'Write about your weekend: where you go, who with and your opinion.' Which answer covers all three?",
+    "options": [
+     "Me gusta el cine.",
+     "Los sábados voy al cine con mi hermano. Me gusta mucho porque las películas son divertidas.",
+     "Voy al cine los sábados.",
+     "Mi hermano es simpático y tiene quince años."
+    ],
+    "answer": 1,
+    "explanation": "This answer gives the place (cine), the person (con mi hermano) and an opinion with a reason (me gusta porque...). The others miss one or more points.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In which sentence are capital letters used correctly?",
+    "options": [
+     "El martes voy al colegio.",
+     "El Lunes voy al colegio.",
+     "Soy Española y vivo en Madrid.",
+     "Mi amigo es Francés."
+    ],
+    "answer": 0,
+    "explanation": "In Spanish, days, months and nationalities begin with a small letter. Only the first word of a sentence and proper names such as Madrid are capitalised.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Choose the best link word: Me gusta el verano ____ hace sol.",
+    "options": [
+     "pero",
+     "o",
+     "también",
+     "porque"
+    ],
+    "answer": 3,
+    "explanation": "Porque gives a reason: I like summer because it is sunny.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence means 'I think the town is boring'?",
+    "options": [
+     "Creo que la ciudad es aburrido.",
+     "Creo la que ciudad es aburrida.",
+     "Creo que la ciudad es aburrida.",
+     "Pienso de la ciudad aburrida."
+    ],
+    "answer": 2,
+    "explanation": "Creo que introduces an opinion, and the adjective aburrida agrees with ciudad (feminine).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence says 'Next weekend I am going to visit my grandparents'?",
+    "options": [
+     "El próximo fin de semana voy visitar a mis abuelos.",
+     "El próximo fin de semana voy a visitar a mis abuelos.",
+     "El próximo fin de semana voy a visitando a mis abuelos.",
+     "El próximo fin de semana voy a visito a mis abuelos."
+    ],
+    "answer": 1,
+    "explanation": "The future is formed with ir + a + infinitive: voy a visitar. The infinitive never changes after voy a.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which question is correctly written?",
+    "options": [
+     "¿Cómo estás?",
+     "¿Como estás?",
+     "Cómo estás?",
+     "¿Cómo estas?"
+    ],
+    "answer": 0,
+    "explanation": "The question word cómo needs an accent, and estás (you are) needs its accent to be different from estas (these). The question also needs ¿.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The task has three bullet points but you only write about two. What is the likely result?",
+    "options": [
+     "Nothing, because the Spanish is accurate",
+     "You gain extra marks",
+     "The examiner ignores the missing point",
+     "You lose marks for an incomplete answer"
+    ],
+    "answer": 3,
+    "explanation": "Covering all the points is part of the task. Plan one or two sentences for each bullet.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The task: 'Describe your best friend.' Which answer is best?",
+    "options": [
+     "Sara.",
+     "Mi mejor amiga Sara alto simpático.",
+     "Mi mejor amiga se llama Sara. Es alta y simpática y tiene el pelo largo.",
+     "My best friend Sara is tall."
+    ],
+    "answer": 2,
+    "explanation": "The best answer uses full, correct sentences in Spanish with agreement (alta, simpática). The others are too short, have errors or are in English.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student wrote 'Mi hermano es 12 años.' Which correction is right?",
+    "options": [
+     "Mi hermano está doce años.",
+     "Mi hermano tiene doce años.",
+     "Mi hermano es doce años.",
+     "Mi hermano tienes doce años."
+    ],
+    "answer": 1,
+    "explanation": "Spanish uses tener for age, and the verb must be tiene for él.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence contains an agreement error?",
+    "options": [
+     "Las clases son aburrido.",
+     "Tengo dos gatos negros.",
+     "Mi casa es muy bonita.",
+     "Mis amigos son simpáticos."
+    ],
+    "answer": 0,
+    "explanation": "Clases is plural and feminine, so the adjective must be aburridas.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Your friend asks: '¿Qué haces en tu tiempo libre?' Which opening sentence of your reply answers it?",
+    "options": [
+     "Sí, gracias.",
+     "Me llamo Pablo y tengo quince años.",
+     "Vivo en una casa grande.",
+     "En mi tiempo libre juego al baloncesto y escucho música."
+    ],
+    "answer": 3,
+    "explanation": "The question is about free time, so the reply should mention activities. The other sentences are correct Spanish but do not answer the question.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student wrote 'Yo tiene quince años.' What is the error?",
+    "options": [
+     "Tener is not used for age",
+     "Quince should be quinze",
+     "The verb does not match yo; it should be tengo",
+     "Yo must be removed"
+    ],
+    "answer": 2,
+    "explanation": "With yo, the verb tener is tengo. Tiene is for él/ella/usted.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence has the correct word order and form?",
+    "options": [
+     "Me no gusta el pescado porque huele mal.",
+     "No me gusta el pescado porque huele mal.",
+     "No gusta me el pescado porque huele mal.",
+     "No me gusta el pescado porque huele malo."
+    ],
+    "answer": 1,
+    "explanation": "No goes before me gusta, and mal (adverb, not changing) follows the verb huele. Malo is an adjective and is not used here.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What the writing task is like\nIn the eAssessment writing task you usually respond to a short prompt, such as an email from a friend, an advert or a topic like \"my family\" or \"my town\". You are normally told how many words to write and which points to include. At ab initio level, clear, accurate sentences matter more than long or complicated ones.\n\n## Plan before you write\n1. Read the task twice and underline the bullet points. Each one needs at least one sentence.\n2. Note the text type and who you are writing to. A friend gets Hola and Un abrazo. Formal letters use Estimado/a and Atentamente.\n3. Jot down useful words for each point.\n4. Choose simple structures you are sure about.\n\n## Building good sentences\nUse patterns you know well and add detail:\n- Introduce yourself: Me llamo Ana y tengo quince años. Soy de Londres.\n- Describe: Mi mejor amigo es alto y simpático. Tiene el pelo corto.\n- Give opinions with reasons: Me gusta el fútbol porque es divertido. No me gustan las matemáticas porque son difíciles.\n- Talk about routines and places: Vivo en una casa pequeña. Por la mañana voy al colegio en autobús.\n- Talk about plans: El sábado voy a ir al cine con mis amigos.\nLink ideas with y (and), pero (but), porque (because), también (also) and por eso (so, therefore).\n\n## Check your accuracy\nAfter writing, check each sentence against this list:\n- The verb ending matches the subject (yo tengo, ella tiene).\n- You used ser, estar and tener correctly.\n- Adjectives agree in gender and number (las clases aburridas).\n- Accents and punctuation are present (¿Cómo estás?, ¡Hola!), and days and months have small letters.\n- The word count is in the range.\n\n## A model answer\nTask: write to a penfriend about your free time (about 60 words). Hola Carlos: Gracias por tu correo. En mi tiempo libre juego al baloncesto con mis amigos y escucho música. Me gusta el baloncesto porque es muy divertido. Los fines de semana voy al cine con mi hermana. Mi película favorita es una comedia. ¿Y tú? ¿Qué haces en tu tiempo libre? Un abrazo, Sam. Notice the greeting, answers to the topic, reasons, a question for the reader and a friendly ending.\n\n## Common mistakes\n- Writing in English or mixing in English words.\n- Missing out one of the bullet points.\n- Writing long, complicated sentences that contain errors.\n- Using words from another language. Stick to the Spanish you are sure about.\n- Forgetting the verb altogether, as in Mi casa muy grande.\n\n## How this is examined\nWriting is marked for how well you communicate the required message, how clear and accurate your language is and how well you use vocabulary and structures. A short answer with all points covered in simple, correct Spanish scores better than a long one with many errors.\n\nExam tip: Use the last two minutes to proofread. Look at every verb and every adjective and ask: \"Does it match its subject or noun?\" These are the easiest errors to fix and often the most visible.",
+  "flashcards": [
+   {
+    "front": "Hola Marta, ... Un abrazo",
+    "back": "An informal email: start with Hola and the name, end with Un abrazo (a hug) or Hasta pronto (see you soon)."
+   },
+   {
+    "front": "Estimado señor, ... Atentamente",
+    "back": "A formal letter: dear sir, ... yours sincerely. Do not use these with friends."
+   },
+   {
+    "front": "Me gusta + infinitive",
+    "back": "Me gusta jugar al fútbol: I like to play football. Use me gustan with plural nouns: me gustan los deportes."
+   },
+   {
+    "front": "Giving a reason",
+    "back": "Use porque: Me gusta el verano porque hace sol (I like summer because it is sunny)."
+   },
+   {
+    "front": "Opinion starters",
+    "back": "Creo que... (I think that...), En mi opinión... (in my opinion...), Me parece que... (it seems to me that...)."
+   },
+   {
+    "front": "Talking about the future",
+    "back": "ir + a + infinitive: Voy a visitar a mis abuelos (I am going to visit my grandparents)."
+   },
+   {
+    "front": "Saying your age",
+    "back": "Tengo quince años. Use tener, not ser. Tengo with yo, tiene with él/ella."
+   },
+   {
+    "front": "Punctuation in Spanish",
+    "back": "¿Cómo estás? ¡Hola! Questions and exclamations start with an upside-down mark. Days and months start with a small letter."
+   },
+   {
+    "front": "Proofreading checklist",
+    "back": "Check verb endings, ser/estar/tener, adjective agreement, accents, bullet points covered and word count."
+   }
+  ]
+ }
+]

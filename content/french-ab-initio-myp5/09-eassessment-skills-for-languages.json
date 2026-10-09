@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "french-ab-initio",
+  "grade": 5,
+  "topic": "eAssessment Skills for Languages",
+  "subTopic": "Reading Comprehension Strategies",
+  "questions": [
+   {
+    "content": "A sign on a door says 'Défense de fumer'. What does it mean?",
+    "options": [
+     "Smoking is allowed here",
+     "Smoking is forbidden",
+     "Fire exit",
+     "No entry for children"
+    ],
+    "answer": 1,
+    "explanation": "'Défense de' means 'it is forbidden to', and 'fumer' is to smoke.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A shop window says 'Ouvert du lundi au samedi'. When is the shop open?",
+    "options": [
+     "Monday to Saturday",
+     "Saturday only",
+     "Every day of the week",
+     "Monday to Friday"
+    ],
+    "answer": 0,
+    "explanation": "'Du lundi au samedi' means from Monday to Saturday, so Sunday is not included.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A door has the word 'Poussez'. What should you do?",
+    "options": [
+     "Pull the door",
+     "Knock on the door",
+     "Wait outside",
+     "Push the door"
+    ],
+    "answer": 3,
+    "explanation": "'Poussez' means push. The opposite instruction is 'Tirez' (pull).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does the sign 'Fermé' mean?",
+    "options": [
+     "Open",
+     "Free",
+     "Closed",
+     "Far away"
+    ],
+    "answer": 2,
+    "explanation": "'Fermé' is closed, from 'fermer' (to close). 'Ouvert' is open.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the best thing to do BEFORE you read a French text in the exam?",
+    "options": [
+     "Translate every word in order",
+     "Read the title and the questions first",
+     "Skip the questions until the end",
+     "Guess the answers without reading"
+    ],
+    "answer": 1,
+    "explanation": "Skimming the title and reading the questions first tells you what to look for, which saves time and helps you focus.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Tom writes: 'Salut Léa, je ne peux pas venir samedi parce que je suis malade.' Why can't Tom come on Saturday?",
+    "options": [
+     "He is ill",
+     "He is tired",
+     "He has a football match",
+     "He is on holiday"
+    ],
+    "answer": 0,
+    "explanation": "'Parce que' introduces the reason and 'malade' means ill or sick.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "'Je suis à la bibliothèque.' Where is the speaker?",
+    "options": [
+     "In the bookshop",
+     "In the bakery",
+     "At the swimming pool",
+     "In the library"
+    ],
+    "answer": 3,
+    "explanation": "'Bibliothèque' is a false friend: it means library, not bookshop (which is 'librairie').",
+    "difficulty": "medium"
+   },
+   {
+    "content": "'Le magasin ouvre à neuf heures et ferme à dix-huit heures.' When does the shop close?",
+    "options": [
+     "9 am",
+     "8 pm",
+     "6 pm",
+     "6 am"
+    ],
+    "answer": 2,
+    "explanation": "'Dix-huit heures' is 18:00, which is 6 pm. 'Neuf heures' is 9 o'clock, when it opens.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An exam question starts with 'Pourquoi'. What kind of answer is it asking for?",
+    "options": [
+     "A time",
+     "A reason",
+     "A place",
+     "A price"
+    ],
+    "answer": 1,
+    "explanation": "'Pourquoi' means why, so you need a reason. Look for 'parce que' or 'car' in the text.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Timetable: 'Train pour Lyon: départ 14h25, arrivée 16h40.' How long is the journey?",
+    "options": [
+     "2 hours 15 minutes",
+     "2 hours 25 minutes",
+     "1 hour 55 minutes",
+     "3 hours 15 minutes"
+    ],
+    "answer": 0,
+    "explanation": "From 14:25 to 16:40 is 2 hours and 15 minutes (14:25 to 16:25 is 2 hours, plus 15 minutes).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "'Je n'aime pas le poisson.' Which statement is true?",
+    "options": [
+     "The speaker loves fish",
+     "The speaker does not eat meat",
+     "The speaker likes fish a little",
+     "The speaker does not like fish"
+    ],
+    "answer": 3,
+    "explanation": "'Ne ... pas' makes a sentence negative. Spot it so you do not give the opposite meaning.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "You do not know the word 'cadeau' in: 'Pour l'anniversaire de ma mère, j'achète un cadeau.' What is the best guess from context?",
+    "options": [
+     "A cake",
+     "A card",
+     "A present",
+     "A party"
+    ],
+    "answer": 2,
+    "explanation": "A birthday, buying something: 'cadeau' is a present. Using context is a key reading strategy.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "'Le concert commence à vingt heures, mais les portes ouvrent à dix-neuf heures.' When do the doors open?",
+    "options": [
+     "8 pm",
+     "7 pm",
+     "9 pm",
+     "6 pm"
+    ],
+    "answer": 1,
+    "explanation": "'Dix-neuf heures' is 19:00, so 7 pm. Careful: 8 pm is when the concert starts, which is a distractor.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Message: 'Salut Inès ! Samedi, je vais au cinéma avec Paul, mais dimanche je suis libre. On peut faire du vélo ?' What does the writer suggest?",
+    "options": [
+     "Going cycling on Sunday",
+     "Going to the cinema on Sunday",
+     "Going cycling on Saturday",
+     "Meeting Paul on Sunday"
+    ],
+    "answer": 0,
+    "explanation": "The writer is busy on Saturday ('mais' signals the contrast) and free on Sunday, when they suggest 'faire du vélo' (cycling).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "'Chloé n'a pas aimé le concert parce que la musique était trop forte.' Why did Chloé not enjoy the concert?",
+    "options": [
+     "The tickets were too expensive",
+     "The concert was too long",
+     "She did not like the singer",
+     "The music was too loud"
+    ],
+    "answer": 3,
+    "explanation": "'Parce que' gives the reason: 'trop forte' means too loud. The past tense is not needed to find the answer.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "'Les magasins sont fermés le dimanche, sauf la boulangerie.' Which shop may be open on Sunday?",
+    "options": [
+     "The supermarket",
+     "The bookshop",
+     "The bakery",
+     "All the shops"
+    ],
+    "answer": 2,
+    "explanation": "'Sauf' means except. Only the bakery is an exception to the Sunday closing.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Menu: 'Menu enfant : 8 € (jusqu'à 12 ans). Menu adulte : 15 €.' Two adults and a 10-year-old each take the set menu. What is the total?",
+    "options": [
+     "31 €",
+     "38 €",
+     "45 €",
+     "23 €"
+    ],
+    "answer": 1,
+    "explanation": "The child is under 12, so pays 8 €. Two adults pay 2 × 15 = 30 €. Total 30 + 8 = 38 €.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "'Ce soir, il pleut et il fait froid. Nous restons à la maison et nous regardons un film.' Which conclusion is best supported?",
+    "options": [
+     "They chose an indoor activity because of the weather",
+     "They are going to the cinema",
+     "They are playing outside",
+     "They are on holiday by the sea"
+    ],
+    "answer": 0,
+    "explanation": "'Il pleut' (it rains) and 'il fait froid' (it is cold) explain why they stay home ('restons à la maison'). Always back an answer with evidence.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Reading comprehension in the MYP eAssessment asks you to understand short, everyday French texts: signs, messages, emails, menus, timetables and notices. You do not need to understand every word. You need a good method, and this note gives you one.\n\n## How this is examined\nYou read a short text and answer multiple-choice questions in English. The questions often use a key word from the text, and the distractors may use words from the text that are in the wrong place. Marks go to students who find the exact detail that answers the question, not to those who match the first familiar word they see.\n\n## The four-step method\n- **Preview**: read the title, the type of text (email, sign, menu) and the questions first. This tells you what to hunt for.\n- **Skim**: read the whole text quickly for the general idea: who, where, what, when.\n- **Scan**: go back and look for the precise detail the question needs (a time, a price, a reason).\n- **Check**: make sure your answer matches the text and that no word like \"pas\", \"sauf\" or \"mais\" changes the meaning.\n\n## Clues you can use\n- **Cognates** are words that look like English and mean the same: le restaurant, la musique, important, le sport, le chocolat.\n- **False friends** look like English but mean something different: la bibliothèque (library, not bookshop; the bookshop is la librairie), actuellement (currently, not actually).\n- **Context**: if you do not know \"cadeau\" in \"J'achète un cadeau pour l'anniversaire de ma mère\", the birthday tells you it is a present.\n- **Word families**: \"fermé\" (closed) links to \"fermer\", \"ouvert\" (open) links to \"ouvrir\".\n\n## Small words that change meaning\n- ne ... pas (not): Je n'aime pas le poisson (I do not like fish)\n- ne ... jamais (never): Il ne mange jamais de viande (He never eats meat)\n- mais (but): shows a contrast, so the key information often comes after it\n- parce que / car (because): introduces the reason\n- sauf (except): Ouvert tous les jours sauf le lundi (open every day except Monday)\n- avant / après (before / after), puis (then)\n\n## Question words\n- Qui? (who) - a person\n- Où? (where) - a place\n- Quand? (when) - a time or date\n- Combien? (how much / how many) - a number or price\n- Pourquoi? (why) - a reason\n- Comment? (how) - a way or description\n\n## Numbers, times and prices\nCheck numbers carefully, since distractors are often similar. \"Dix-sept\" is 17 but \"soixante-dix\" is 70. \"Quinze heures trente\" is 15:30, which is 3:30 pm. When you work out a journey time, subtract carefully: a train leaving at 14h25 and arriving at 16h40 takes 2 hours 15 minutes.\n\n## Worked example\nText: \"Salut Inès ! Samedi, je vais au cinéma avec Paul, mais dimanche je suis libre. On peut faire du vélo ?\" Question: what does the writer suggest? The word \"mais\" signals that Saturday is busy and Sunday is free. \"Faire du vélo\" means to go cycling. Answer: cycling on Sunday. The trap answers use \"cinéma\" and \"samedi\".\n\n## Common mistakes\n- Choosing an option just because it contains a word from the text\n- Ignoring \"pas\", \"jamais\" or \"sauf\"\n- Spending ages on one unknown word instead of using context\n- Writing what you think happens rather than what the text says\n\nExam tip: Underline the key word in each question, find that word (or its meaning) in the text, and read the words just before and after it. Then check every option against the text before choosing.",
+  "flashcards": [
+   {
+    "front": "Défense de fumer",
+    "back": "No smoking (smoking is forbidden)."
+   },
+   {
+    "front": "Poussez / Tirez",
+    "back": "Push / Pull (signs on doors)."
+   },
+   {
+    "front": "Ouvert / Fermé",
+    "back": "Open / Closed."
+   },
+   {
+    "front": "la bibliothèque (false friend)",
+    "back": "The library, NOT a bookshop. The bookshop is 'la librairie'."
+   },
+   {
+    "front": "sauf",
+    "back": "Except. 'Ouvert tous les jours sauf le lundi' = open every day except Monday."
+   },
+   {
+    "front": "parce que",
+    "back": "Because. It introduces a reason, which answers the question 'Pourquoi ?'."
+   },
+   {
+    "front": "Qui ? Où ? Quand ? Combien ? Pourquoi ?",
+    "back": "Who? Where? When? How much/many? Why? Match the question word to the type of answer."
+   },
+   {
+    "front": "What are the four steps for reading comprehension?",
+    "back": "Preview the questions, skim for the gist, scan for details, then check your answer against the text."
+   },
+   {
+    "front": "ne ... pas / ne ... jamais",
+    "back": "Not / never. These negatives reverse the meaning, so spot them: 'Je ne mange jamais de viande' = I never eat meat."
+   }
+  ]
+ },
+ {
+  "subject": "french-ab-initio",
+  "grade": 5,
+  "topic": "eAssessment Skills for Languages",
+  "subTopic": "Listening Text Strategies",
+  "questions": [
+   {
+    "content": "What is a 'Listening transcript' in this course?",
+    "options": [
+     "A list of vocabulary words",
+     "A written version of what is said in the recording",
+     "A translation into English",
+     "A French grammar table"
+    ],
+    "answer": 1,
+    "explanation": "The transcript gives you the exact French that was spoken, so you can practise the same skills as in a listening task.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Listening transcript: 'Il est quinze heures trente.' What time is it?",
+    "options": [
+     "3:30 pm",
+     "5:30 pm",
+     "3:15 pm",
+     "1:30 pm"
+    ],
+    "answer": 0,
+    "explanation": "'Quinze heures' is 15:00, which is 3 pm, and 'trente' means thirty minutes.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What should you do before the recording starts?",
+    "options": [
+     "Close your eyes and relax",
+     "Write the answers from memory",
+     "Translate the whole recording",
+     "Read the questions and predict the kind of answer"
+    ],
+    "answer": 3,
+    "explanation": "Reading the questions first tells you what to listen for (a number, a place, a reason).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Listening transcript: 'Je m'appelle Karim et j'ai quinze ans.' How old is Karim?",
+    "options": [
+     "50",
+     "14",
+     "15",
+     "16"
+    ],
+    "answer": 2,
+    "explanation": "'J'ai quinze ans' means I am fifteen. French uses 'avoir' (to have) for age.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Listening transcript: 'Aujourd'hui, il fait beau.' What is the weather like?",
+    "options": [
+     "Rainy",
+     "Nice",
+     "Cold",
+     "Windy"
+    ],
+    "answer": 1,
+    "explanation": "'Il fait beau' means the weather is nice. Rain is 'il pleut'.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Listening transcript: 'Le billet coûte soixante-dix euros.' How much is the ticket?",
+    "options": [
+     "70 euros",
+     "60 euros",
+     "17 euros",
+     "77 euros"
+    ],
+    "answer": 0,
+    "explanation": "'Soixante-dix' is literally sixty-ten, which is 70. Seventeen is 'dix-sept'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript: 'Rendez-vous devant le cinéma à dix-neuf heures quinze.' When and where do they meet?",
+    "options": [
+     "7:50 pm outside the cinema",
+     "9:15 pm inside the cinema",
+     "7:15 pm outside the school",
+     "7:15 pm outside the cinema"
+    ],
+    "answer": 3,
+    "explanation": "'Dix-neuf heures quinze' is 19:15, i.e. 7:15 pm, and 'devant' means in front of.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript: 'Je ne mange jamais de viande.' What does the speaker say?",
+    "options": [
+     "They often eat meat",
+     "They eat meat once a week",
+     "They never eat meat",
+     "They do not like vegetables"
+    ],
+    "answer": 2,
+    "explanation": "'Ne ... jamais' means never. Do not miss the negative when you listen.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript: 'Le match est mardi... non, pardon, mercredi.' When is the match?",
+    "options": [
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Monday"
+    ],
+    "answer": 1,
+    "explanation": "The speaker corrects themselves. The final word 'mercredi' is the answer, so keep listening to the end.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript: 'Le train pour Paris partira du quai numéro quatre.' Which platform is it?",
+    "options": [
+     "Platform 4",
+     "Platform 14",
+     "Platform 40",
+     "Platform 2"
+    ],
+    "answer": 0,
+    "explanation": "'Quatre' is four. 'Quatorze' would be fourteen and 'quarante' forty.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript: 'J'adore le foot, mais je déteste le tennis.' Which sport does the speaker dislike?",
+    "options": [
+     "Football",
+     "Both sports",
+     "Neither sport",
+     "Tennis"
+    ],
+    "answer": 3,
+    "explanation": "'Déteste' means hate. 'Mais' shows a contrast with 'j'adore' (I love).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "You hear a word you do not know in the middle of a recording. What is the best strategy?",
+    "options": [
+     "Stop and try to remember it",
+     "Give up on the whole question",
+     "Keep listening and use the context",
+     "Write the first answer you think of"
+    ],
+    "answer": 2,
+    "explanation": "Dwelling on one word makes you miss the next part. Use the words around it and move on.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript: 'J'ai deux frères et une sœur. Ma sœur s'appelle Zoé.' How many brothers and sisters does the speaker have?",
+    "options": [
+     "2",
+     "3",
+     "1",
+     "4"
+    ],
+    "answer": 1,
+    "explanation": "Two brothers plus one sister make three. Zoé is only the sister's name, not an extra person.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Voicemail: 'Allô Sophie, c'est Théo. Le cours de natation n'est plus à seize heures mais à dix-sept heures. Apporte ton maillot de bain et une serviette.' What is the new time and what should Sophie bring?",
+    "options": [
+     "5 pm; a swimsuit and a towel",
+     "4 pm; a swimsuit and a towel",
+     "5 pm; a swimsuit and a hat",
+     "4 pm; a water bottle and a towel"
+    ],
+    "answer": 0,
+    "explanation": "'N'est plus à seize heures mais à dix-sept heures' means no longer at 4 pm but at 5 pm. 'Maillot de bain' is a swimsuit and 'serviette' a towel.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Listening transcript: 'Le magasin ouvre à neuf heures, sauf le lundi où il ouvre à midi.' When does the shop open on Monday?",
+    "options": [
+     "At 9 am",
+     "At 9 pm",
+     "It is closed on Monday",
+     "At midday"
+    ],
+    "answer": 3,
+    "explanation": "'Sauf' means except. On Monday the opening time is 'midi', which is 12:00.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Listening transcript: 'Le film commence à vingt heures, mais on mange avant, à dix-huit heures trente.' When do they eat?",
+    "options": [
+     "8:00 pm",
+     "8:30 pm",
+     "6:30 pm",
+     "6:00 pm"
+    ],
+    "answer": 2,
+    "explanation": "They eat at 18:30, which is 6:30 pm. The film at 8 pm is the distractor.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Listening transcript: 'Je voudrais une glace à la fraise et un thé, s'il vous plaît. Non, pas de thé, un jus d'orange.' What does the customer finally order?",
+    "options": [
+     "A strawberry ice cream and a tea",
+     "A strawberry ice cream and an orange juice",
+     "A vanilla ice cream and an orange juice",
+     "An orange juice only"
+    ],
+    "answer": 1,
+    "explanation": "The customer changes their mind: 'pas de thé' replaces the tea with an orange juice.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Listening transcript: 'Demain, il y a du soleil le matin et de la pluie l'après-midi.' When is the best time for a picnic?",
+    "options": [
+     "In the morning",
+     "In the afternoon",
+     "In the evening",
+     "Both morning and afternoon"
+    ],
+    "answer": 0,
+    "explanation": "The morning is sunny ('du soleil') and the afternoon is rainy ('de la pluie'), so the picnic should be in the morning.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "In the MYP eAssessment you listen to short French recordings and answer questions in English. On this site we cannot play audio, so listening practice is given as a written \"Listening transcript\". The skills are the same: catch the key details, ignore the noise and avoid the traps.\n\n## How this is examined\nYou usually hear a short announcement, message or conversation, often twice. The questions ask for specific details: a time, a number, a place, an opinion or a reason. Distractors are things the speaker mentions but then changes, or numbers that sound similar.\n\n## Before the recording\n- Read all the questions and the options. Underline what kind of answer you need.\n- Predict vocabulary: a question about a train means numbers, times and platforms.\n- Note the question words: Quand? (when) needs a time, Combien? (how much) needs a number, Où? (where) needs a place.\n\n## During the recording\n- Do not try to understand every word. Listen for the words that answer the questions.\n- Write short notes in French or English, such as numbers or key words, and do not write full sentences.\n- If you miss something, move on. Use the second listening to fill the gaps.\n- Listen all the way to the end of each part, because speakers often correct themselves: \"Le match est mardi... non, pardon, mercredi\" means Wednesday.\n\n## Number traps\nNumbers are the most common source of lost marks. Practise these pairs.\n- quatre (4) and quatorze (14) and quarante (40)\n- seize (16) and soixante (60)\n- dix-sept (17) and soixante-dix (70)\n- quinze (15) and cinquante (50)\nTimes: \"dix-neuf heures quinze\" is 19:15, so 7:15 pm. \"Midi\" is 12:00 and \"minuit\" is midnight. \"Et demie\" means half past and \"et quart\" means quarter past.\n\n## Signal words\n- mais (but): the information after it is often the important part\n- non, pardon / plutôt (I mean / rather): a correction\n- sauf (except), pas de (no/none), ne ... jamais (never), ne ... plus (no longer)\n- d'abord, puis, ensuite, enfin (first, then, next, finally): the order of events\n\n## Worked example\nTranscript: \"Allô Sophie, c'est Théo. Le cours de natation n'est plus à seize heures mais à dix-sept heures. Apporte ton maillot de bain et une serviette.\" Notes: swimming, not 16h, now 17h, swimsuit and towel. Answer: 5 pm, bring a swimsuit and a towel. The old time (4 pm) is the distractor.\n\n## Useful listening vocabulary\n- un message (a message), une annonce (an announcement), un rendez-vous (a meeting)\n- à quelle heure? (at what time?), un billet (a ticket), le quai (the platform)\n- il fait beau (it is nice), il pleut (it is raining), il fait froid (it is cold)\n\n## Common mistakes\n- Choosing the first number you hear, even when it is later corrected\n- Mixing up similar numbers such as seize and soixante\n- Missing \"ne ... pas\" or \"ne ... jamais\" and giving the opposite meaning\n- Panicking over one unknown word and losing the next sentence\n\nExam tip: Write the numbers you hear as digits straight away (for example 17h00 or 70 €), and wait until the speaker has finished before you lock in an answer.",
+  "flashcards": [
+   {
+    "front": "quatre / quatorze / quarante",
+    "back": "4 / 14 / 40. Listen to the whole word because the endings differ."
+   },
+   {
+    "front": "seize / soixante",
+    "back": "16 / 60. A common listening trap."
+   },
+   {
+    "front": "dix-sept / soixante-dix",
+    "back": "17 / 70. Soixante-dix is literally 'sixty-ten'."
+   },
+   {
+    "front": "midi / minuit",
+    "back": "Midday (12:00) / midnight."
+   },
+   {
+    "front": "et quart / et demie",
+    "back": "Quarter past / half past: 'trois heures et quart' = 3:15, 'trois heures et demie' = 3:30."
+   },
+   {
+    "front": "non, pardon...",
+    "back": "No, sorry... A speaker is correcting themselves, so the NEXT word is the answer."
+   },
+   {
+    "front": "ne ... plus",
+    "back": "No longer: 'Le cours n'est plus à seize heures' = the lesson is no longer at 4 pm."
+   },
+   {
+    "front": "d'abord, puis, ensuite, enfin",
+    "back": "First, then, next, finally. They tell you the order of events."
+   },
+   {
+    "front": "What should you do before the recording starts?",
+    "back": "Read the questions, underline what type of answer you need, and predict likely vocabulary."
+   }
+  ]
+ },
+ {
+  "subject": "french-ab-initio",
+  "grade": 5,
+  "topic": "eAssessment Skills for Languages",
+  "subTopic": "Writing a Short Response",
+  "questions": [
+   {
+    "content": "You write an informal email to a friend. Which greeting is best?",
+    "options": [
+     "Monsieur le Directeur,",
+     "Salut Marie !",
+     "Madame,",
+     "Au revoir Marie !"
+    ],
+    "answer": 1,
+    "explanation": "'Salut' is a friendly greeting for a friend. 'Au revoir' is a goodbye, and 'Monsieur' or 'Madame' are formal.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which sign-off suits an email to a friend?",
+    "options": [
+     "À bientôt !",
+     "Bonjour !",
+     "Bienvenue !",
+     "Excusez-moi !"
+    ],
+    "answer": 0,
+    "explanation": "'À bientôt' means see you soon. The other options are a greeting, a welcome and an apology.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which sentence correctly says 'I live in London'?",
+    "options": [
+     "Je habite à Londres.",
+     "J'habites à Londres.",
+     "Je habiter à Londres.",
+     "J'habite à Londres."
+    ],
+    "answer": 3,
+    "explanation": "'Je' becomes 'j'' before a vowel or silent h, and the verb ends in -e for 'je'.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which phrase means 'because'?",
+    "options": [
+     "pourquoi",
+     "alors",
+     "parce que",
+     "aussi"
+    ],
+    "answer": 2,
+    "explanation": "'Parce que' gives a reason. 'Pourquoi' means why, 'alors' means so and 'aussi' means also.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which sentence correctly says 'My name is Ana'?",
+    "options": [
+     "Je appelle Ana.",
+     "Je m'appelle Ana.",
+     "Mon nom appelle Ana.",
+     "Je suis appelle Ana."
+    ],
+    "answer": 1,
+    "explanation": "'Je m'appelle' is the reflexive verb s'appeler and is the standard way to give your name.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A task asks you to write about your hobbies in about 50 words. What is the best first step?",
+    "options": [
+     "Plan a few ideas using French you know",
+     "Write in English, then translate",
+     "Write as much as possible without stopping",
+     "Copy a text from memory"
+    ],
+    "answer": 0,
+    "explanation": "A short plan keeps you on topic. Use words and structures you are sure of rather than risky translations.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which linking word shows contrast?",
+    "options": [
+     "et",
+     "donc",
+     "parce que",
+     "mais"
+    ],
+    "answer": 3,
+    "explanation": "'Mais' means but: 'J'aime le tennis, mais je n'aime pas le golf.' 'Et' adds, 'donc' gives a result and 'parce que' gives a reason.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence is correct?",
+    "options": [
+     "J'aime jouer à le football parce que c'est amusant.",
+     "J'aime joue au football parce que c'est amusant.",
+     "J'aime jouer au football parce que c'est amusant.",
+     "J'aime jouer au football parce que sont amusant."
+    ],
+    "answer": 2,
+    "explanation": "'À' + 'le' becomes 'au'. After 'aimer' the verb stays in the infinitive (jouer), and 'c'est' is the correct form for 'it is'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence correctly says 'Tomorrow I am going to play tennis'?",
+    "options": [
+     "Demain, je suis jouer au tennis.",
+     "Demain, je vais jouer au tennis.",
+     "Demain, je vais joue au tennis.",
+     "Demain, je vais jouer à le tennis."
+    ],
+    "answer": 1,
+    "explanation": "The near future is 'aller' (present) + infinitive: 'je vais jouer'. Also 'à le' contracts to 'au'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A task has three bullet points: school, family and weekend. What should you do?",
+    "options": [
+     "Write something about each bullet point",
+     "Write only about the weekend",
+     "Write about school only, in great detail",
+     "Ignore the bullet points and write freely"
+    ],
+    "answer": 0,
+    "explanation": "The marks reward covering every part of the task. Missing a bullet point loses marks, however good the rest is.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence is fully correct?",
+    "options": [
+     "Mon sœur est petite.",
+     "Ma sœur est petit.",
+     "Ma sœur sont petite.",
+     "Ma sœur est petite."
+    ],
+    "answer": 3,
+    "explanation": "'Sœur' is feminine, so use 'ma' and the feminine 'petite'. The verb 'est' agrees with one person.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 'À mon avis' mean?",
+    "options": [
+     "In my house",
+     "At my age",
+     "In my opinion",
+     "On my way"
+    ],
+    "answer": 2,
+    "explanation": "'À mon avis' introduces an opinion, for example 'À mon avis, le français est facile.'",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student wants to give a reason for liking a sport. Which sentence works best?",
+    "options": [
+     "J'aime la natation parce que.",
+     "J'aime la natation parce que c'est relaxant.",
+     "J'aime parce que la natation relaxant.",
+     "Parce que la natation j'aime."
+    ],
+    "answer": 1,
+    "explanation": "A full reason needs 'parce que' followed by a complete clause: 'c'est relaxant'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Task: you receive an invitation to the cinema. You must accept, suggest a time and ask a question. Which reply covers all three?",
+    "options": [
+     "Merci pour l'invitation ! Oui, je veux bien venir. On se retrouve à quinze heures ? Tu apportes quelque chose ?",
+     "Merci pour l'invitation ! Oui, je veux bien venir. À bientôt !",
+     "Merci ! On se retrouve à quinze heures devant le cinéma.",
+     "Non, je ne peux pas venir. Tu apportes quelque chose ?"
+    ],
+    "answer": 0,
+    "explanation": "The first reply accepts ('je veux bien venir'), suggests a time ('à quinze heures') and asks a question ('Tu apportes quelque chose ?'). The others miss at least one part.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence correctly says 'I do not have a brother'?",
+    "options": [
+     "Je n'ai pas un frère.",
+     "Je ne ai pas de frère.",
+     "Je n'ai pas des frère.",
+     "Je n'ai pas de frère."
+    ],
+    "answer": 3,
+    "explanation": "'Ne' becomes 'n'' before 'ai', and after a negative 'un/une/des' becomes 'de' (or 'd'').",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence correctly gives someone's age?",
+    "options": [
+     "Elle est quinze ans.",
+     "Elle a quinze années.",
+     "Elle a quinze ans.",
+     "Elle a quinze an."
+    ],
+    "answer": 2,
+    "explanation": "In French you 'have' an age (avoir), and 'ans' is plural. Using 'être' is the classic mistake.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which response is best because it adds detail and a reason?",
+    "options": [
+     "J'aime la musique.",
+     "J'aime la musique, surtout le rock, parce que c'est énergique. Le week-end, j'écoute de la musique avec mes amis.",
+     "Musique, j'aime.",
+     "J'aime la musique, la musique, la musique."
+    ],
+    "answer": 1,
+    "explanation": "It gives an opinion, a detail ('surtout le rock'), a reason and an extra fact. Repeating words adds nothing.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student writes: 'Mon amie est grand et sportif.' Which correction is right?",
+    "options": [
+     "Mon amie est grande et sportive.",
+     "Mon amie est grand et sportive.",
+     "Mon amie est grande et sportif.",
+     "Mon amie sont grande et sportive."
+    ],
+    "answer": 0,
+    "explanation": "'Amie' is feminine, so both adjectives take the feminine form: grande and sportive.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "In the MYP eAssessment, writing tasks ask for a short response, usually an informal email, a message or a few sentences answering bullet points. Success depends on three things: answering the task fully, writing accurate French, and using a little variety.\n\n## How this is examined\nYou are given a situation (for example a message from a French friend) and several bullet points to cover. A strong response answers every bullet point, uses the correct form (greeting, sign-off), stays close to the word count and shows control of simple grammar. Quality of language matters more than length.\n\n## Plan in 60 seconds\n- Read the task and underline the bullet points.\n- Jot down one or two ideas for each point, using French you are certain of.\n- Decide on a simple structure: greeting, one short paragraph per bullet point, sign-off.\n- Never write in English first and translate it. Choose ideas you can say in French.\n\n## Greetings and sign-offs\n- Salut Marie ! (Hi Marie!) - for a friend\n- Cher Paul / Chère Sophie (Dear Paul / Dear Sophie)\n- À bientôt ! (See you soon!), Bises (love, informal), Amicalement (best wishes)\n- Merci pour ton message (Thanks for your message)\n\n## Useful building blocks\n- Je m'appelle ... (my name is), J'ai quinze ans (I am fifteen), J'habite à ... (I live in)\n- J'aime / Je n'aime pas / Je déteste + noun or infinitive: J'aime la musique. J'aime jouer au tennis.\n- Opinions and reasons: à mon avis (in my opinion), parce que (because), c'est amusant (it is fun)\n- Linking words: et (and), mais (but), aussi (also), alors (so), puis (then)\n- Near future: je vais + infinitive: Demain, je vais jouer au football.\n- Questions to ask: Et toi ? Tu aimes ...? Qu'est-ce que tu fais le week-end ?\n\n## Accuracy checklist\n- **Verbs agree with the subject**: je joue, tu joues, nous jouons.\n- **Elision**: je + vowel becomes j' (j'habite), ne + vowel becomes n' (je n'ai pas).\n- **Gender and agreement**: ma sœur est grande, mon frère est grand. Adjectives agree with the noun they describe.\n- **After a negative**: Je n'ai pas de frère (not \"un frère\").\n- **à + le = au, à + les = aux**: je joue au tennis, je vais aux magasins.\n- **Age**: Elle a quinze ans (avoir, not être).\n- **Accents**: école, à, où, français. Learn them with the word.\n\n## Worked example\nTask: reply to an invitation to the cinema. Accept, suggest a time and ask a question. Response: \"Salut Léa ! Merci pour l'invitation. Oui, je veux bien venir. On se retrouve à quinze heures devant le cinéma ? Tu apportes quelque chose ? À bientôt ! Tom\". Check: accepted, time suggested, question asked, friendly greeting and sign-off.\n\n## Adding quality\n- Give a reason: J'aime la natation parce que c'est relaxant.\n- Add a detail: surtout (especially), souvent (often), avec mes amis (with my friends)\n- Use a short contrast with mais.\n- Avoid repeating the same sentence pattern throughout.\n\n## Common mistakes\n- Missing a bullet point\n- Writing far too much or far too little\n- Using \"être\" for age or forgetting agreement of adjectives\n- Using risky vocabulary from a translator instead of safe words you know\n\nExam tip: Leave one minute at the end for proofreading. Check verbs, agreements, accents and that every bullet point is answered.",
+  "flashcards": [
+   {
+    "front": "Salut ! / À bientôt !",
+    "back": "Hi! / See you soon! Informal greeting and sign-off for a friend."
+   },
+   {
+    "front": "J'habite à ...",
+    "back": "I live in ... (j' before a vowel; the verb ends in -e)."
+   },
+   {
+    "front": "Elle a quinze ans.",
+    "back": "She is fifteen. French uses avoir (to have) for age, never être."
+   },
+   {
+    "front": "Je n'ai pas de frère.",
+    "back": "I do not have a brother. After a negative, un/une/des become de (or d')."
+   },
+   {
+    "front": "à + le / à + les",
+    "back": "Au and aux: je joue au tennis, je vais aux magasins."
+   },
+   {
+    "front": "Demain, je vais jouer au tennis.",
+    "back": "Near future: aller (present) + infinitive."
+   },
+   {
+    "front": "parce que / mais / alors",
+    "back": "Because / but / so. Linking words that make your writing flow."
+   },
+   {
+    "front": "À mon avis, ...",
+    "back": "In my opinion, ... Use it to introduce an opinion and then give a reason."
+   },
+   {
+    "front": "What are the steps to write a short response?",
+    "back": "Underline the bullet points, plan ideas, write one short part for each, then proofread verbs, agreements, accents."
+   }
+  ]
+ }
+]

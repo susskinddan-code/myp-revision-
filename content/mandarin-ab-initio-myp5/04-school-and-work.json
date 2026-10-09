@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "mandarin-ab-initio",
+  "grade": 5,
+  "topic": "School and Work",
+  "subTopic": "School Subjects and Objects",
+  "questions": [
+   {
+    "content": "What does 数学 (shùxué) mean?",
+    "options": [
+     "Science",
+     "Maths",
+     "History",
+     "Music"
+    ],
+    "answer": 1,
+    "explanation": "数学 is mathematics. Science is 科学 (kēxué).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 英语 (Yīngyǔ) mean?",
+    "options": [
+     "English",
+     "Chinese",
+     "Geography",
+     "Art"
+    ],
+    "answer": 0,
+    "explanation": "英语 is the English language. Chinese is 中文 (Zhōngwén).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 书包 (shūbāo) mean?",
+    "options": [
+     "Ruler",
+     "Dictionary",
+     "Book",
+     "Schoolbag"
+    ],
+    "answer": 3,
+    "explanation": "书 is book and 包 is bag, so 书包 is a schoolbag.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 笔 (bǐ) mean?",
+    "options": [
+     "Book",
+     "Ruler",
+     "Pen",
+     "Eraser"
+    ],
+    "answer": 2,
+    "explanation": "笔 is a pen. 铅笔 (qiānbǐ) is a pencil, literally 'lead pen'.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 体育 (tǐyù) mean?",
+    "options": [
+     "Music",
+     "PE (physical education)",
+     "Art",
+     "Science"
+    ],
+    "answer": 1,
+    "explanation": "体育 is PE. Music is 音乐 (yīnyuè) and art is 美术 (měishù).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 我最喜欢音乐 (wǒ zuì xǐhuan yīnyuè) mean?",
+    "options": [
+     "I like music the most",
+     "I am the best at music",
+     "I never have music",
+     "I play music every day"
+    ],
+    "answer": 0,
+    "explanation": "最 means most, so 最喜欢 is 'like the most' or 'favourite'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence means 'I have a Chinese book'?",
+    "options": [
+     "我是中文书 (wǒ shì Zhōngwén shū)",
+     "我在一本中文书 (wǒ zài yì běn Zhōngwén shū)",
+     "我很一本中文书 (wǒ hěn yì běn Zhōngwén shū)",
+     "我有一本中文书 (wǒ yǒu yì běn Zhōngwén shū)"
+    ],
+    "answer": 3,
+    "explanation": "有 means 'have' and 本 (běn) is the measure word for books.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 因为 (yīnwèi) mean?",
+    "options": [
+     "But",
+     "Why",
+     "Because",
+     "Also"
+    ],
+    "answer": 2,
+    "explanation": "因为 introduces a reason. 为什么 (wèishénme) means 'why'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read: 我喜欢科学，因为很有意思。我不喜欢历史，因为很难。(Wǒ xǐhuan kēxué, yīnwèi hěn yǒu yìsi. Wǒ bù xǐhuan lìshǐ, yīnwèi hěn nán.) [有意思 = interesting]\n\nWhy does the writer not like history?",
+    "options": [
+     "It is interesting",
+     "It is difficult",
+     "It is easy",
+     "There is too much homework"
+    ],
+    "answer": 1,
+    "explanation": "很难 means 'very difficult'. The writer likes science because it is interesting.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read: 书包里有两本书和一支笔。(Shūbāo lǐ yǒu liǎng běn shū hé yì zhī bǐ.)\n\nWhat is in the bag?",
+    "options": [
+     "Two books and one pen",
+     "Two pens and one book",
+     "One book and two rulers",
+     "Two books and one pencil"
+    ],
+    "answer": 0,
+    "explanation": "两本书 is two books and 一支笔 is one pen. A pencil would be 铅笔.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is the best reply to 你为什么喜欢体育？(nǐ wèishénme xǐhuan tǐyù?)",
+    "options": [
+     "我是学生 (wǒ shì xuéshēng)",
+     "在学校 (zài xuéxiào)",
+     "星期三 (xīngqīsān)",
+     "因为很有意思 (yīnwèi hěn yǒu yìsi)"
+    ],
+    "answer": 3,
+    "explanation": "A 为什么 question asks for a reason, which begins with 因为.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is the correct pinyin for 铅笔?",
+    "options": [
+     "qiánbí",
+     "qiānbì",
+     "qiānbǐ",
+     "qiǎnbǐ"
+    ],
+    "answer": 2,
+    "explanation": "铅 is first tone (qiān) and 笔 is third tone (bǐ).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which word is the odd one out?",
+    "options": [
+     "数学 (shùxué)",
+     "铅笔 (qiānbǐ)",
+     "科学 (kēxué)",
+     "历史 (lìshǐ)"
+    ],
+    "answer": 1,
+    "explanation": "数学, 科学 and 历史 are school subjects. 铅笔 is a pencil, a school object.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read: 星期一有数学、英语和体育。星期二有科学、音乐和地理。(Xīngqīyī yǒu shùxué, Yīngyǔ hé tǐyù. Xīngqī'èr yǒu kēxué, yīnyuè hé dìlǐ.) [地理 = geography]\n\nWhich subjects are on Tuesday?",
+    "options": [
+     "Science, music and geography",
+     "Maths, English and PE",
+     "Science, music and PE",
+     "Maths, music and geography"
+    ],
+    "answer": 0,
+    "explanation": "星期二 is Tuesday. The list after it is 科学, 音乐 and 地理.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Notice: 请带铅笔、尺子和橡皮。明天有数学考试。(Qǐng dài qiānbǐ, chǐzi hé xiàngpí. Míngtiān yǒu shùxué kǎoshì.) [带 = bring, 考试 = test]\n\nWhat should students do?",
+    "options": [
+     "Bring a pen and dictionary for an English test",
+     "Hand in their homework tomorrow",
+     "Stay at home tomorrow",
+     "Bring a pencil, ruler and eraser for tomorrow's maths test"
+    ],
+    "answer": 3,
+    "explanation": "请带 means 'please bring'. 数学考试 is a maths test and it is tomorrow (明天).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Listening transcript: 大卫: 你最喜欢什么课？(Dàwèi: Nǐ zuì xǐhuan shénme kè?) 玲玲: 我最喜欢美术，因为我喜欢画画。你呢？(Línglíng: Wǒ zuì xǐhuan měishù, yīnwèi wǒ xǐhuan huàhuà. Nǐ ne?) 大卫: 我喜欢体育，不喜欢美术。(Dàwèi: Wǒ xǐhuan tǐyù, bù xǐhuan měishù.) [画画 = draw, paint]\n\nWhich statement is true?",
+    "options": [
+     "Both students like art",
+     "David likes art and PE",
+     "Lingling likes art but David does not",
+     "Lingling's favourite is PE"
+    ],
+    "answer": 2,
+    "explanation": "Lingling's favourite is 美术 (art). David says he likes PE and does not like art.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student writes 我喜欢很数学 (wǒ xǐhuan hěn shùxué) to mean 'I like maths a lot'. What is the mistake?",
+    "options": [
+     "数学 should be before 我",
+     "很 should come before 喜欢",
+     "喜欢 should be 是",
+     "There is no mistake"
+    ],
+    "answer": 1,
+    "explanation": "Degree words go before the verb: 我很喜欢数学.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which measure word completes 一___铅笔 (yì ___ qiānbǐ), 'one pencil'?",
+    "options": [
+     "支 (zhī)",
+     "本 (běn)",
+     "张 (zhāng)",
+     "间 (jiān)"
+    ],
+    "answer": 0,
+    "explanation": "支 is used for pens and pencils. 本 is for books, 张 for flat things like paper, and 间 for rooms.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## School life in Mandarin\nSchool is a very natural topic in beginner tasks because you can talk about things you see every day. In this sub-topic you will learn subject names, classroom objects, how to say what you like and why, and a few measure words. Always learn pinyin and tones with every word.\n\n## School subjects\n- 数学 (shùxué): maths\n- 英语 (Yīngyǔ): English\n- 中文 (Zhōngwén): Chinese\n- 科学 (kēxué): science\n- 历史 (lìshǐ): history\n- 地理 (dìlǐ): geography\n- 体育 (tǐyù): PE\n- 音乐 (yīnyuè): music\n- 美术 (měishù): art\n- 课 (kè): lesson, class\n\n## School objects\n- 书 (shū): book\n- 本子 (běnzi): notebook\n- 笔 (bǐ): pen\n- 铅笔 (qiānbǐ): pencil\n- 橡皮 (xiàngpí): eraser\n- 尺子 (chǐzi): ruler\n- 书包 (shūbāo): schoolbag\n- 词典 (cídiǎn): dictionary\n- 电脑 (diànnǎo): computer\n- 黑板 (hēibǎn): blackboard\n- 教室 (jiàoshì): classroom\n\n## Giving opinions\nUse 喜欢 (xǐhuan, like). 我喜欢数学 (wǒ xǐhuan shùxué) means \"I like maths\". Add 最 (zuì, most) for a favourite: 我最喜欢音乐 (wǒ zuì xǐhuan yīnyuè), \"I like music the most\". Put 很 (hěn) before 喜欢 for \"like a lot\": 我很喜欢科学. The negative is 不喜欢 (bù xǐhuan): 我不喜欢历史.\n\nTo ask about a favourite say 你最喜欢什么课？(nǐ zuì xǐhuan shénme kè?), \"Which subject do you like most?\".\n\n## Giving reasons\n为什么 (wèishénme) means \"why\" and 因为 (yīnwèi) means \"because\". Useful describing words are 有意思 (yǒu yìsi, interesting), 难 (nán, difficult) and 容易 (róngyì, easy). Remember to put 很 before adjectives: 数学很难 (shùxué hěn nán), \"Maths is difficult\". Full example: 我喜欢科学，因为很有意思 (wǒ xǐhuan kēxué, yīnwèi hěn yǒu yìsi), \"I like science because it is interesting\".\n\n## Having things and measure words\nUse 有 (yǒu) for \"have\": 我有一本书 (wǒ yǒu yì běn shū), \"I have a book\". Between a number and a noun Mandarin needs a measure word.\n- 本 (běn): books and notebooks, as in 两本书 (liǎng běn shū), two books\n- 支 (zhī): pens and pencils, as in 一支笔 (yì zhī bǐ), one pen\n- 把 (bǎ): rulers and chairs, as in 一把尺子 (yì bǎ chǐzi)\n- 个 (ge): the general measure word, as in 一个书包 (yí ge shūbāo)\nUse 两 (liǎng) for \"two\" before a measure word. The negative of 有 is 没有: 我没有尺子 (wǒ méiyǒu chǐzi), \"I don't have a ruler\".\n\n## Timetable language\nDays of the week and subjects are often combined in a timetable: 星期一有数学 (xīngqīyī yǒu shùxué), \"On Monday there is maths\". \n\n## Common mistakes\n- Putting 很 after 喜欢 instead of before it.\n- Using 是 before an adjective, such as 数学是很难.\n- Using the wrong measure word, such as 一本笔.\n- Forgetting that 铅笔 means pencil, not just pen.\n- Missing tone marks on 数学 (shùxué) and 历史 (lìshǐ).\n\n## How this is examined\nSchool topics appear in timetables, notices, short school profiles and conversations about favourite subjects. Questions often ask which lesson is on a certain day, why someone likes a subject, or what to bring. Writing tasks ask you to describe your school day and give an opinion with a reason.\n\nExam tip: When you see 因为, the reason follows it. Mark the subject name, then the opinion word (喜欢 or 不喜欢) and finally the reason, so you never mix up what the writer likes and dislikes.",
+  "flashcards": [
+   {
+    "front": "数学 / 英语 / 科学",
+    "back": "数学 (shùxué) = maths; 英语 (Yīngyǔ) = English; 科学 (kēxué) = science."
+   },
+   {
+    "front": "历史 / 地理",
+    "back": "历史 (lìshǐ) = history; 地理 (dìlǐ) = geography."
+   },
+   {
+    "front": "体育 / 音乐 / 美术",
+    "back": "体育 (tǐyù) = PE; 音乐 (yīnyuè) = music; 美术 (měishù) = art."
+   },
+   {
+    "front": "书包 / 笔 / 铅笔",
+    "back": "书包 (shūbāo) = schoolbag; 笔 (bǐ) = pen; 铅笔 (qiānbǐ) = pencil."
+   },
+   {
+    "front": "尺子 / 橡皮",
+    "back": "尺子 (chǐzi) = ruler; 橡皮 (xiàngpí) = eraser."
+   },
+   {
+    "front": "我最喜欢…",
+    "back": "Wǒ zuì xǐhuan… = I like… the most. 最 (zuì) means most: 我最喜欢音乐 = music is my favourite."
+   },
+   {
+    "front": "为什么 / 因为",
+    "back": "为什么 (wèishénme) = why; 因为 (yīnwèi) = because. 因为 introduces the reason."
+   },
+   {
+    "front": "很有意思 / 很难",
+    "back": "很有意思 (hěn yǒu yìsi) = very interesting; 很难 (hěn nán) = very difficult. Put 很 before the adjective."
+   },
+   {
+    "front": "本 / 支 (measure words)",
+    "back": "本 (běn) for books: 一本书. 支 (zhī) for pens and pencils: 一支笔. Use 两 (liǎng) for two: 两本书."
+   }
+  ]
+ },
+ {
+  "subject": "mandarin-ab-initio",
+  "grade": 5,
+  "topic": "School and Work",
+  "subTopic": "Jobs and Workplaces",
+  "questions": [
+   {
+    "content": "What does 医生 (yīshēng) mean?",
+    "options": [
+     "Nurse",
+     "Doctor",
+     "Teacher",
+     "Driver"
+    ],
+    "answer": 1,
+    "explanation": "医生 is a doctor. A nurse is 护士 (hùshi).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 司机 (sījī) mean?",
+    "options": [
+     "Driver",
+     "Doctor",
+     "Cook",
+     "Farmer"
+    ],
+    "answer": 0,
+    "explanation": "司机 means driver, for example of a bus or taxi.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 医院 (yīyuàn) mean?",
+    "options": [
+     "School",
+     "Bank",
+     "Shop",
+     "Hospital"
+    ],
+    "answer": 3,
+    "explanation": "医 is medicine and 院 is an institution, so 医院 is a hospital.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 商店 (shāngdiàn) mean?",
+    "options": [
+     "Bank",
+     "Office",
+     "Shop",
+     "Factory"
+    ],
+    "answer": 2,
+    "explanation": "商店 is a shop. A bank is 银行 (yínháng).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 厨师 (chúshī) mean?",
+    "options": [
+     "Waiter",
+     "Chef, cook",
+     "Nurse",
+     "Engineer"
+    ],
+    "answer": 1,
+    "explanation": "厨师 is a cook or chef. 厨房 (chúfáng) is the kitchen, and the same 厨 appears in both words.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 我妈妈是护士 (wǒ māma shì hùshi) mean?",
+    "options": [
+     "My mum is a nurse",
+     "My mum is a doctor",
+     "My mum has a nurse",
+     "My mum likes nurses"
+    ],
+    "answer": 0,
+    "explanation": "是 links two nouns: 妈妈 (mum) = 护士 (nurse).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 她在医院工作 (tā zài yīyuàn gōngzuò) mean?",
+    "options": [
+     "She is a patient in hospital",
+     "She studies at the hospital",
+     "She likes hospitals",
+     "She works in a hospital"
+    ],
+    "answer": 3,
+    "explanation": "在 + place + 工作 means 'work at a place'. 工作 is work.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Where does a 服务员 (fúwùyuán, waiter) work?",
+    "options": [
+     "银行 (yínháng, bank)",
+     "医院 (yīyuàn, hospital)",
+     "饭馆 (fànguǎn, restaurant)",
+     "学校 (xuéxiào, school)"
+    ],
+    "answer": 2,
+    "explanation": "A waiter serves customers in a restaurant, 饭馆.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is the best reply to 你做什么工作？(nǐ zuò shénme gōngzuò?)",
+    "options": [
+     "我十五岁 (wǒ shíwǔ suì)",
+     "我是工程师 (wǒ shì gōngchéngshī)",
+     "我住在北京 (wǒ zhù zài Běijīng)",
+     "我很好 (wǒ hěn hǎo)"
+    ],
+    "answer": 1,
+    "explanation": "The question asks 'What job do you do?', so the reply names a job with 是.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 我想当老师 (wǒ xiǎng dāng lǎoshī) mean?",
+    "options": [
+     "I want to be a teacher",
+     "I am a teacher",
+     "I like teachers",
+     "My teacher is coming"
+    ],
+    "answer": 0,
+    "explanation": "想 means want to, and 当 means become or be (as a job).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read: 我叫王明。我爸爸是司机，他在公司工作。我妈妈是医生，她在医院工作。(Wǒ jiào Wáng Míng. Wǒ bàba shì sījī, tā zài gōngsī gōngzuò. Wǒ māma shì yīshēng, tā zài yīyuàn gōngzuò.) [公司 = company]\n\nWhere does Wang Ming's father work?",
+    "options": [
+     "At a hospital",
+     "At a school",
+     "At a bank",
+     "At a company"
+    ],
+    "answer": 3,
+    "explanation": "The father is a driver who works at a 公司 (company). The mother works at the hospital.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How do you say 'My father is not a police officer'?",
+    "options": [
+     "我爸爸没是警察 (wǒ bàba méi shì jǐngchá)",
+     "我爸爸不警察 (wǒ bàba bù jǐngchá)",
+     "我爸爸不是警察 (wǒ bàba bú shì jǐngchá)",
+     "我爸爸是不警察 (wǒ bàba shì bù jǐngchá)"
+    ],
+    "answer": 2,
+    "explanation": "The negative of 是 is 不是. 没 is for 有, and 是 cannot be dropped.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is the correct pinyin for 医生?",
+    "options": [
+     "yíshēng",
+     "yīshēng",
+     "yīshèng",
+     "yǐshēng"
+    ],
+    "answer": 1,
+    "explanation": "Both 医 and 生 are first tone, so there are no tone changes.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript: 小红: 我爸爸是农民，他不在城市工作。他在农场工作。(Xiǎohóng: Wǒ bàba shì nóngmín, tā bú zài chéngshì gōngzuò. Tā zài nóngchǎng gōngzuò.) [城市 = city, 农场 = farm]\n\nWhere does Xiaohong's father work?",
+    "options": [
+     "On a farm",
+     "In a city",
+     "In a hospital",
+     "In a factory"
+    ],
+    "answer": 0,
+    "explanation": "He is a farmer (农民). He does not work in the city; he works on a 农场, a farm.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Advert: 我们的饭馆需要服务员。星期六和星期天工作。请给我们打电话。(Wǒmen de fànguǎn xūyào fúwùyuán. Xīngqīliù hé xīngqītiān gōngzuò. Qǐng gěi wǒmen dǎ diànhuà.) [需要 = need, 打电话 = phone]\n\nWhat is the advert for?",
+    "options": [
+     "A cook at a restaurant on weekdays",
+     "A teacher at a school at weekends",
+     "A driver for a company on Saturdays only",
+     "A waiter at a restaurant, working at the weekend"
+    ],
+    "answer": 3,
+    "explanation": "The restaurant needs a 服务员 (waiter) who works on Saturday and Sunday.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Listening transcript: 大明: 我想当医生，因为我想帮助人。(Dàmíng: Wǒ xiǎng dāng yīshēng, yīnwèi wǒ xiǎng bāngzhù rén.) 小英: 我不想当医生，我想当工程师。(Xiǎoyīng: Wǒ bù xiǎng dāng yīshēng, wǒ xiǎng dāng gōngchéngshī.) [帮助 = help]\n\nWhich statement is true?",
+    "options": [
+     "Both want to be doctors",
+     "Daming wants to be an engineer and Xiaoying a doctor",
+     "Daming wants to be a doctor and Xiaoying wants to be an engineer",
+     "Neither wants a job"
+    ],
+    "answer": 2,
+    "explanation": "Daming says 想当医生. Xiaoying says 不想当医生 and 想当工程师.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student writes 我妈妈工作在医院 (wǒ māma gōngzuò zài yīyuàn) for 'My mum works in a hospital'. What is the mistake?",
+    "options": [
+     "妈妈 should be 爸爸",
+     "The place phrase should come before the verb: 在医院工作",
+     "医院 should be 学校",
+     "There is no mistake"
+    ],
+    "answer": 1,
+    "explanation": "In Mandarin the place phrase goes before the verb: 她在医院工作.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which job and workplace pair does NOT match?",
+    "options": [
+     "护士 (nurse) – 银行 (bank)",
+     "老师 (teacher) – 学校 (school)",
+     "医生 (doctor) – 医院 (hospital)",
+     "厨师 (cook) – 饭馆 (restaurant)"
+    ],
+    "answer": 0,
+    "explanation": "A nurse works in a hospital, not a bank. The other three pairs match.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Talking about jobs\nJobs and workplaces are part of everyday conversations, such as asking about someone's family. You must be able to name common jobs, say where people work and say what you want to be in the future.\n\n## Jobs\n- 医生 (yīshēng): doctor\n- 护士 (hùshi): nurse\n- 老师 (lǎoshī): teacher\n- 司机 (sījī): driver\n- 警察 (jǐngchá): police officer\n- 厨师 (chúshī): cook, chef\n- 工程师 (gōngchéngshī): engineer\n- 律师 (lǜshī): lawyer\n- 农民 (nóngmín): farmer\n- 服务员 (fúwùyuán): waiter, waitress\n- 售货员 (shòuhuòyuán): shop assistant\n\n## Workplaces\n- 医院 (yīyuàn): hospital\n- 学校 (xuéxiào): school\n- 商店 (shāngdiàn): shop\n- 饭馆 (fànguǎn): restaurant\n- 办公室 (bàngōngshì): office\n- 公司 (gōngsī): company\n- 工厂 (gōngchǎng): factory\n- 银行 (yínháng): bank\n- 农场 (nóngchǎng): farm\n\n## Saying what someone does\nUse 是 (shì) with a job name: 我爸爸是医生 (wǒ bàba shì yīshēng), \"My dad is a doctor\". To ask, say 你做什么工作？(nǐ zuò shénme gōngzuò?), \"What job do you do?\". For a parent you can ask 你爸爸做什么工作？. The negative is 不是: 他不是警察 (tā bú shì jǐngchá), \"He is not a police officer\". A word like 工作 (gōngzuò) is both a noun, \"job\", and a verb, \"to work\".\n\n## Saying where someone works\nUse 在 (zài) + workplace + 工作 (gōngzuò). The place phrase must go before the verb.\n- 她在医院工作 (tā zài yīyuàn gōngzuò): she works in a hospital.\n- 我爸爸在公司工作 (wǒ bàba zài gōngsī gōngzuò): my dad works at a company.\n- 他不在城市工作 (tā bú zài chéngshì gōngzuò): he doesn't work in the city.\nYou can join the two ideas: 我妈妈是护士，她在医院工作 (my mum is a nurse; she works in a hospital).\n\n## Saying what you want to be\n想 (xiǎng) means \"want to\" and 当 (dāng) means \"to become\" a job. 我想当老师 (wǒ xiǎng dāng lǎoshī) means \"I want to be a teacher\". The negative is 不想: 我不想当医生 (wǒ bù xiǎng dāng yīshēng), \"I don't want to be a doctor\". Add a reason with 因为 (yīnwèi, because): 我想当医生，因为我想帮助人 (I want to be a doctor because I want to help people).\n\n## Matching job and place\nA good revision habit is to learn pairs: 老师 – 学校, 医生 and 护士 – 医院, 服务员 and 厨师 – 饭馆, 农民 – 农场, 售货员 – 商店.\n\n## Common mistakes\n- Putting the workplace after the verb: 她工作在医院.\n- Using 没 to negate 是 (it should be 不是).\n- Mixing up 医生 (doctor) and 医院 (hospital) because they share 医.\n- Missing the neutral tone in 护士 (hùshi).\n\n## How this is examined\nJobs appear in family descriptions, profiles, job adverts and conversations about the future. Typical tasks ask what job a person does, where they work, or what someone wants to be. Writing tasks often ask you to describe two family members and their jobs.\n\nExam tip: When a text lists several people, draw a quick table of person, job and place. Check which person each detail belongs to before you answer, because exam texts often compare two people.",
+  "flashcards": [
+   {
+    "front": "医生 / 护士",
+    "back": "医生 (yīshēng) = doctor; 护士 (hùshi) = nurse. Both usually work at a 医院 (yīyuàn), a hospital."
+   },
+   {
+    "front": "老师 / 司机 / 警察",
+    "back": "老师 (lǎoshī) = teacher; 司机 (sījī) = driver; 警察 (jǐngchá) = police officer."
+   },
+   {
+    "front": "厨师 / 服务员",
+    "back": "厨师 (chúshī) = cook, chef; 服务员 (fúwùyuán) = waiter or waitress."
+   },
+   {
+    "front": "工程师 / 农民",
+    "back": "工程师 (gōngchéngshī) = engineer; 农民 (nóngmín) = farmer, who works on a 农场 (nóngchǎng), a farm."
+   },
+   {
+    "front": "你做什么工作？",
+    "back": "Nǐ zuò shénme gōngzuò? = What job do you do? Reply: 我是… (wǒ shì…), I am a…"
+   },
+   {
+    "front": "她在医院工作",
+    "back": "Tā zài yīyuàn gōngzuò = She works in a hospital. Pattern: 在 + place + 工作. The place goes before the verb."
+   },
+   {
+    "front": "公司 / 银行 / 商店",
+    "back": "公司 (gōngsī) = company; 银行 (yínháng) = bank; 商店 (shāngdiàn) = shop."
+   },
+   {
+    "front": "我想当…",
+    "back": "Wǒ xiǎng dāng… = I want to be a… For example 我想当老师 (wǒ xiǎng dāng lǎoshī), I want to be a teacher."
+   },
+   {
+    "front": "我爸爸不是医生",
+    "back": "Wǒ bàba bú shì yīshēng = My dad is not a doctor. Negate 是 with 不, giving 不是."
+   }
+  ]
+ },
+ {
+  "subject": "mandarin-ab-initio",
+  "grade": 5,
+  "topic": "School and Work",
+  "subTopic": "Classroom Language and Instructions",
+  "questions": [
+   {
+    "content": "What does 站起来 (zhàn qǐlai) mean?",
+    "options": [
+     "Sit down",
+     "Stand up",
+     "Open your book",
+     "Be quiet"
+    ],
+    "answer": 1,
+    "explanation": "站 means stand. To sit down is 坐下 (zuòxia).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 听 (tīng) mean?",
+    "options": [
+     "Listen",
+     "Read",
+     "Write",
+     "Speak"
+    ],
+    "answer": 0,
+    "explanation": "听 means to listen. Reading is 读 (dú), writing is 写 (xiě) and speaking is 说 (shuō).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 写 (xiě) mean?",
+    "options": [
+     "Read",
+     "Listen",
+     "Draw",
+     "Write"
+    ],
+    "answer": 3,
+    "explanation": "写 means to write. Reading aloud is 读 (dú).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 我不明白 (wǒ bù míngbai) mean?",
+    "options": [
+     "I do not agree",
+     "I do not have a pen",
+     "I do not understand",
+     "I am not here"
+    ],
+    "answer": 2,
+    "explanation": "明白 means to understand, and 不 makes it negative.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 请安静 (qǐng ānjìng) mean?",
+    "options": [
+     "Please sit down",
+     "Please be quiet",
+     "Please come in",
+     "Please read aloud"
+    ],
+    "answer": 1,
+    "explanation": "安静 means quiet. 请 means please.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 请打开书，第十页 (qǐng dǎkāi shū, dì shí yè) mean?",
+    "options": [
+     "Please open your book to page ten",
+     "Please close your book at page ten",
+     "Please write ten pages",
+     "Please read ten books"
+    ],
+    "answer": 0,
+    "explanation": "打开 is open and 第十页 is 'page ten'. 第 (dì) makes numbers ordinal.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "You did not hear the teacher. What do you say?",
+    "options": [
+     "老师，再见 (lǎoshī, zàijiàn)",
+     "老师，请坐 (lǎoshī, qǐng zuò)",
+     "老师，我很好 (lǎoshī, wǒ hěn hǎo)",
+     "老师，请再说一遍 (lǎoshī, qǐng zài shuō yí biàn)"
+    ],
+    "answer": 3,
+    "explanation": "再说一遍 means 'say it once more'. The other replies do not ask for repetition.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A sign says 请不要说话 (qǐng búyào shuōhuà). What does it mean?",
+    "options": [
+     "Please speak Chinese",
+     "Please talk louder",
+     "Please do not talk",
+     "Please listen to me"
+    ],
+    "answer": 2,
+    "explanation": "不要 means 'do not' and 说话 means to talk.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does the teacher want when she says 请举手 (qǐng jǔ shǒu)?",
+    "options": [
+     "Stand up",
+     "Raise your hand",
+     "Hand in your homework",
+     "Wave goodbye"
+    ],
+    "answer": 1,
+    "explanation": "举 is raise and 手 is hand.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 书用英语怎么说？(shū yòng Yīngyǔ zěnme shuō?) ask?",
+    "options": [
+     "How do you say 书 in English?",
+     "Where is the book?",
+     "How many books are there?",
+     "What do you read?"
+    ],
+    "answer": 0,
+    "explanation": "用英语 means 'using English' and 怎么说 means 'how to say'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The teacher says 对了！(duì le!). What does she mean?",
+    "options": [
+     "Wrong!",
+     "Sit down!",
+     "Be quiet!",
+     "Correct!"
+    ],
+    "answer": 3,
+    "explanation": "对 means correct. Wrong is 错 (cuò).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Notice: 下课以后请关灯和关门。(Xiàkè yǐhòu qǐng guān dēng hé guān mén.) [下课 = class ends, 以后 = after, 关 = turn off/close]\n\nWhat must students do after class?",
+    "options": [
+     "Switch on the light and open the door",
+     "Clean the board",
+     "Turn off the light and close the door",
+     "Stay in the classroom"
+    ],
+    "answer": 2,
+    "explanation": "关灯 is turn off the light and 关门 is close the door.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is the correct pinyin for 请坐?",
+    "options": [
+     "qīng zuò",
+     "qǐng zuò",
+     "qǐng zuó",
+     "qíng zuò"
+    ],
+    "answer": 1,
+    "explanation": "请 is third tone and 坐 is fourth tone, so qǐng zuò.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript: 老师: 同学们好！请坐。请打开书，第五页。先听，然后跟我读。(Lǎoshī: Tóngxuémen hǎo! Qǐng zuò. Qǐng dǎkāi shū, dì wǔ yè. Xiān tīng, ránhòu gēn wǒ dú.) [跟我读 = read after me]\n\nWhat do students do first after they open their books?",
+    "options": [
+     "Listen",
+     "Read aloud",
+     "Write",
+     "Stand up"
+    ],
+    "answer": 0,
+    "explanation": "先听 means 'first listen'. Reading after the teacher comes later, after 然后.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Listening transcript: 学生: 老师，我有问题。(Xuésheng: Lǎoshī, wǒ yǒu wèntí.) 老师: 请说。(Lǎoshī: Qǐng shuō.) 学生: “谢谢”用英语怎么说？(Xuésheng: “Xièxie” yòng Yīngyǔ zěnme shuō?) [问题 = question]\n\nWhat is the student asking?",
+    "options": [
+     "How to say 'thank you' in Chinese",
+     "Whether he can leave the room",
+     "What the homework is",
+     "How to say 谢谢 in English"
+    ],
+    "answer": 3,
+    "explanation": "The student asks how 谢谢 is said in English.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The teacher says: 请站起来，请看黑板，请坐下。(Qǐng zhàn qǐlai, qǐng kàn hēibǎn, qǐng zuòxia.) What is the correct order of actions?",
+    "options": [
+     "Sit down, look at the board, stand up",
+     "Look at the board, stand up, sit down",
+     "Stand up, look at the board, sit down",
+     "Stand up, sit down, look at the board"
+    ],
+    "answer": 2,
+    "explanation": "The instructions are given in the order they should be done.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence means 'Don't write!'?",
+    "options": [
+     "没写！(méi xiě!)",
+     "不要写！(búyào xiě!)",
+     "我不写。(wǒ bù xiě.)",
+     "不是写！(bú shì xiě!)"
+    ],
+    "answer": 1,
+    "explanation": "不要 gives a negative command. 我不写 means 'I won't write', which is a statement about yourself.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Listening transcript: 老师: 你明白吗？(Lǎoshī: Nǐ míngbai ma?) 学生: 对不起，我不明白。(Xuésheng: Duìbuqǐ, wǒ bù míngbai.) 老师: 没关系，我再说一遍。(Lǎoshī: Méi guānxi, wǒ zài shuō yí biàn.)\n\nHow does the teacher respond?",
+    "options": [
+     "She says it is fine and will explain again",
+     "She tells the student off",
+     "She ends the lesson",
+     "She asks him to leave"
+    ],
+    "answer": 0,
+    "explanation": "没关系 means 'no problem' and 我再说一遍 means 'I will say it again'.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Understanding the classroom\nClassroom language is the Mandarin you hear and use in lessons. It appears in listening tasks, because teachers give instructions, and in dialogues where students ask for help. A short list of key phrases will make you more confident and also improves your writing and speaking.\n\n## Teacher instructions\n- 请坐 (qǐng zuò) / 坐下 (zuòxia): sit down\n- 请站起来 (qǐng zhàn qǐlai): please stand up\n- 请打开书 (qǐng dǎkāi shū): please open your book\n- 请合上书 (qǐng hé shàng shū): please close your book\n- 请看黑板 (qǐng kàn hēibǎn): please look at the board\n- 请听 (qǐng tīng): please listen\n- 请读 (qǐng dú): please read\n- 请写 (qǐng xiě): please write\n- 请说 (qǐng shuō): please speak\n- 请跟我读 (qǐng gēn wǒ dú): please read after me\n- 请安静 (qǐng ānjìng): please be quiet\n- 请举手 (qǐng jǔ shǒu): please raise your hand\nThe word 请 (qǐng, please) is the most common start of an instruction. A page number uses 第 (dì) + number + 页 (yè): 第十页 (dì shí yè) means page ten.\n\n## Negative commands\nUse 不要 (búyào) to say \"don't\": 请不要说话 (qǐng búyào shuōhuà), \"Please don't talk\". Do not confuse it with 不 alone, which describes what you do: 我不写 (wǒ bù xiě) means \"I don't write / I won't write\".\n\n## What students say\n- 我不明白 (wǒ bù míngbai) or 我不懂 (wǒ bù dǒng): I don't understand\n- 我明白了 (wǒ míngbai le): I understand now\n- 请再说一遍 (qǐng zài shuō yí biàn): please say it again\n- 老师，我有问题 (lǎoshī, wǒ yǒu wèntí): teacher, I have a question\n- 请问… (qǐngwèn…): excuse me, may I ask…\n- “书”用英语怎么说？(“shū” yòng Yīngyǔ zěnme shuō?): how do you say 书 in English?\n- 对 (duì) correct and 错 (cuò) wrong\n\n## Lesson start and end\n- 上课 (shàngkè): the lesson begins\n- 下课 (xiàkè): the lesson ends\n- 开始 (kāishǐ): to begin\n- 作业 (zuòyè): homework\n- 同学们好 (tóngxuémen hǎo) is the teacher's greeting, answered with 老师好 (lǎoshī hǎo).\n\n## Worked example\nTeacher: 请打开书，第五页。(Open your books to page five.) Teacher: 先听，然后跟我读。(First listen, then read after me.) The key order words are 先 (first) and 然后 (then). If a question asks what you do first, choose the action after 先, which is listening.\n\n## Putting a request politely\nStart with 老师 and add 请: 老师，请再说一遍。(Teacher, please say it again.) Finish with 谢谢 if the teacher helps you. If you are sorry, say 对不起 and the teacher may reply 没关系.\n\n## Common mistakes\n- Mixing 听 (listen) and 看 (look) because both are used for senses.\n- Confusing 不要 (don't!) and 不 (not).\n- Reading 第十页 (page ten) as ten pages.\n- Forgetting tone marks on 请 (qǐng) and 坐 (zuò).\n\n## How this is examined\nClassroom language appears in listening transcripts of lessons, signs on classroom doors and notes from teachers. You might be asked what the teacher wants you to do, in which order, or what a student is asking. In writing, you might write a short note to a teacher asking for help.\n\nExam tip: Look for 请 and 先 / 然后 because they mark the instruction and the sequence. When a question asks for the order of actions, number each action in the text before you read the answer options.",
+  "flashcards": [
+   {
+    "front": "请坐 / 请站起来",
+    "back": "请坐 (qǐng zuò) = please sit; 请站起来 (qǐng zhàn qǐlai) = please stand up."
+   },
+   {
+    "front": "请打开书，第十页",
+    "back": "Qǐng dǎkāi shū, dì shí yè = Please open your book to page ten. 第…页 (dì…yè) = page number."
+   },
+   {
+    "front": "听 / 读 / 写 / 说",
+    "back": "听 (tīng) listen; 读 (dú) read; 写 (xiě) write; 说 (shuō) speak."
+   },
+   {
+    "front": "请再说一遍",
+    "back": "Qǐng zài shuō yí biàn = Please say it again. Use it when you did not hear or understand."
+   },
+   {
+    "front": "我不明白 / 我明白了",
+    "back": "我不明白 (wǒ bù míngbai) = I don't understand; 我明白了 (wǒ míngbai le) = I understand now."
+   },
+   {
+    "front": "不要 (búyào)",
+    "back": "Don't. 请不要说话 (qǐng búyào shuōhuà) = please don't talk. Different from 不 alone, which means 'not'."
+   },
+   {
+    "front": "上课 / 下课",
+    "back": "上课 (shàngkè) = the lesson begins; 下课 (xiàkè) = the lesson ends."
+   },
+   {
+    "front": "对 / 错",
+    "back": "对 (duì) = correct; 错 (cuò) = wrong. 对了！(duì le!) = Correct!"
+   },
+   {
+    "front": "“书”用英语怎么说？",
+    "back": "Shū yòng Yīngyǔ zěnme shuō? = How do you say 书 in English? Useful for asking vocabulary."
+   }
+  ]
+ }
+]

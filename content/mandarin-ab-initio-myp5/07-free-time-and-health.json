@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "mandarin-ab-initio",
+  "grade": 5,
+  "topic": "Free Time and Health",
+  "subTopic": "Hobbies and Sports",
+  "questions": [
+   {
+    "content": "What does 踢足球 (tī zúqiú) mean?",
+    "options": [
+     "Play basketball",
+     "Play football",
+     "Swim",
+     "Run"
+    ],
+    "answer": 1,
+    "explanation": "踢 means kick and 足球 is football (soccer). Basketball is 篮球 (lánqiú).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 游泳 (yóuyǒng) mean?",
+    "options": [
+     "Swim",
+     "Run",
+     "Dance",
+     "Sing"
+    ],
+    "answer": 0,
+    "explanation": "游泳 means to swim. Running is 跑步 (pǎobù).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 唱歌 (chànggē) mean?",
+    "options": [
+     "Dance",
+     "Draw",
+     "Read",
+     "Sing"
+    ],
+    "answer": 3,
+    "explanation": "唱歌 is to sing. Dancing is 跳舞 (tiàowǔ).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 爱好 (àihào) mean?",
+    "options": [
+     "Sport",
+     "Friend",
+     "Hobby",
+     "Homework"
+    ],
+    "answer": 2,
+    "explanation": "爱好 means hobby or interest. 你的爱好是什么？ asks 'What are your hobbies?'",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 跳舞 (tiàowǔ) mean?",
+    "options": [
+     "Sing",
+     "Dance",
+     "Swim",
+     "Cycle"
+    ],
+    "answer": 1,
+    "explanation": "跳舞 means to dance. Singing is 唱歌.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 我喜欢打篮球 (wǒ xǐhuan dǎ lánqiú) mean?",
+    "options": [
+     "I like playing basketball",
+     "I like watching basketball",
+     "I do not like basketball",
+     "I can play basketball"
+    ],
+    "answer": 0,
+    "explanation": "喜欢 is like and 打篮球 is play basketball.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which verb is used with 足球 (zúqiú, football)?",
+    "options": [
+     "打 (dǎ)",
+     "弹 (tán)",
+     "唱 (chàng)",
+     "踢 (tī)"
+    ],
+    "answer": 3,
+    "explanation": "Football uses 踢 (kick). 打 is used for basketball, tennis and table tennis, and 弹 for instruments.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 他弹钢琴 (tā tán gāngqín) mean?",
+    "options": [
+     "He sings",
+     "He buys a piano",
+     "He plays the piano",
+     "He listens to the piano"
+    ],
+    "answer": 2,
+    "explanation": "弹 is used with instruments that you pluck or press, such as the piano.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is the best reply to 你的爱好是什么？(nǐ de àihào shì shénme?)",
+    "options": [
+     "我十五岁 (wǒ shíwǔ suì)",
+     "我的爱好是画画 (wǒ de àihào shì huàhuà)",
+     "我住在上海 (wǒ zhù zài Shànghǎi)",
+     "我是学生 (wǒ shì xuéshēng)"
+    ],
+    "answer": 1,
+    "explanation": "The question asks about hobbies. 画画 means draw or paint.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 我不太喜欢跑步 (wǒ bú tài xǐhuan pǎobù) mean?",
+    "options": [
+     "I do not like running very much",
+     "I like running a lot",
+     "I cannot run",
+     "I run every day"
+    ],
+    "answer": 0,
+    "explanation": "不太 means 'not very'. Note that 不 becomes bú before the fourth tone 太.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read: 小明喜欢踢足球，也喜欢打乒乓球。他不喜欢游泳。(Xiǎomíng xǐhuan tī zúqiú, yě xǐhuan dǎ pīngpāngqiú. Tā bù xǐhuan yóuyǒng.)\n\nWhat does Xiaoming NOT like?",
+    "options": [
+     "Football",
+     "Table tennis",
+     "Playing sport",
+     "Swimming"
+    ],
+    "answer": 3,
+    "explanation": "不喜欢游泳 means he does not like swimming. He likes football and table tennis.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 我周末经常骑自行车 (wǒ zhōumò jīngcháng qí zìxíngchē) mean?",
+    "options": [
+     "At weekends I never cycle",
+     "On weekdays I walk to school",
+     "At weekends I often cycle",
+     "I cycle once a year"
+    ],
+    "answer": 2,
+    "explanation": "周末 is weekend, 经常 is often and 骑自行车 is ride a bike.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is the correct pinyin for 乒乓球 (table tennis)?",
+    "options": [
+     "pīngbāngqiú",
+     "pīngpāngqiú",
+     "pǐngpāngqiú",
+     "pīngpàngqiú"
+    ],
+    "answer": 1,
+    "explanation": "乒 is pīng, 乓 is pāng and 球 is qiú. The first two syllables are first tone.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript: 玲玲: 你周末做什么？(Línglíng: Nǐ zhōumò zuò shénme?) 大卫: 星期六我踢足球，星期天我在家看书。你呢？(Dàwèi: Xīngqīliù wǒ tī zúqiú, xīngqītiān wǒ zài jiā kànshū. Nǐ ne?) 玲玲: 我星期六游泳，星期天和朋友唱歌。(Línglíng: Wǒ xīngqīliù yóuyǒng, xīngqītiān hé péngyou chànggē.)\n\nWhat does Lingling do on Sunday?",
+    "options": [
+     "Sings with friends",
+     "Reads at home",
+     "Plays football",
+     "Swims"
+    ],
+    "answer": 0,
+    "explanation": "星期天 is Sunday. Lingling sings with friends (和朋友唱歌). David reads at home and she swims on Saturday.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Message: 明天下午三点我们打篮球，你来吗？(Míngtiān xiàwǔ sān diǎn wǒmen dǎ lánqiú, nǐ lái ma?) Reply: 我不会打篮球，但是我想看。(Wǒ bú huì dǎ lánqiú, dànshì wǒ xiǎng kàn.) [来 = come, 但是 = but]\n\nWhat does the reply say?",
+    "options": [
+     "I cannot come because I am busy",
+     "I can play basketball and I want to watch",
+     "I do not like basketball",
+     "I cannot play basketball but I want to watch"
+    ],
+    "answer": 3,
+    "explanation": "不会 means 'cannot (not know how to)'. 但是 means 'but', and 想看 means 'want to watch'.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence says 'I can swim'?",
+    "options": [
+     "我游泳会 (wǒ yóuyǒng huì)",
+     "我是游泳 (wǒ shì yóuyǒng)",
+     "我会游泳 (wǒ huì yóuyǒng)",
+     "我有游泳 (wǒ yǒu yóuyǒng)"
+    ],
+    "answer": 2,
+    "explanation": "会 (huì) means 'can' as a learned skill, and goes before the verb.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student writes 我喜欢打足球 (wǒ xǐhuan dǎ zúqiú). What is the mistake?",
+    "options": [
+     "喜欢 should be 是",
+     "The verb for football should be 踢",
+     "足球 should be 篮球",
+     "There is no mistake"
+    ],
+    "answer": 1,
+    "explanation": "Football uses 踢: 我喜欢踢足球. 打 is used for basketball, tennis and table tennis.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Class survey (each student chose one): 十个人喜欢游泳，八个人喜欢跑步，六个人喜欢跳舞。(Shí ge rén xǐhuan yóuyǒng, bā ge rén xǐhuan pǎobù, liù ge rén xǐhuan tiàowǔ.)\n\nHow many students answered the survey in total?",
+    "options": [
+     "24",
+     "18",
+     "16",
+     "14"
+    ],
+    "answer": 0,
+    "explanation": "10 + 8 + 6 = 24.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Free-time vocabulary\nHobbies are a favourite topic for beginner reading, listening and writing tasks. You are expected to name hobbies, say what you like and dislike, and talk about what you do at weekends. Remember to learn each word with pinyin and tone marks.\n\n## Sports\n- 踢足球 (tī zúqiú): play football\n- 打篮球 (dǎ lánqiú): play basketball\n- 打乒乓球 (dǎ pīngpāngqiú): play table tennis\n- 打网球 (dǎ wǎngqiú): play tennis\n- 游泳 (yóuyǒng): swim\n- 跑步 (pǎobù): run\n- 骑自行车 (qí zìxíngchē): ride a bike\n\n## Other hobbies\n- 唱歌 (chànggē): sing\n- 跳舞 (tiàowǔ): dance\n- 画画 (huàhuà): draw, paint\n- 看书 (kànshū): read\n- 听音乐 (tīng yīnyuè): listen to music\n- 弹钢琴 (tán gāngqín): play the piano\n- 弹吉他 (tán jítā): play the guitar\n- 玩游戏 (wán yóuxì): play games\n\n## Choosing the right verb\nMandarin uses a different verb with different activities, so learn them as a set.\n- 踢 (tī, kick) is used for football: 踢足球.\n- 打 (dǎ, hit) is used for ball games with a bat, racket or hand: 打篮球, 打网球, 打乒乓球.\n- 弹 (tán, play) is used for the piano and the guitar: 弹钢琴, 弹吉他.\n- 骑 (qí, ride) is used for bikes: 骑自行车.\nUsing the wrong verb, such as 打足球, is a very common mistake.\n\n## Likes and dislikes\nUse 喜欢 (xǐhuan) followed by the activity: 我喜欢游泳 (wǒ xǐhuan yóuyǒng). Add 很 (hěn) before 喜欢 for \"like a lot\" and 不 (bù) for a dislike: 我不喜欢跑步 (wǒ bù xǐhuan pǎobù). 不太 (bú tài) means \"not very\": 我不太喜欢跑步. Use 也 (yě, also) before the verb: 他也喜欢踢足球 (tā yě xǐhuan tī zúqiú). To ask, say 你的爱好是什么？(nǐ de àihào shì shénme?), \"What are your hobbies?\", and answer 我的爱好是画画 (wǒ de àihào shì huàhuà).\n\n## Frequency and ability\n- 经常 (jīngcháng) / 常常 (chángcháng): often, placed before the verb: 我经常骑自行车.\n- 周末 (zhōumò): weekend: 周末我踢足球.\n- 会 (huì): can, a learned skill: 我会游泳 (wǒ huì yóuyǒng), \"I can swim\". The negative is 不会: 我不会打篮球 (wǒ bú huì dǎ lánqiú).\n- 想 (xiǎng): want to: 我想看 (wǒ xiǎng kàn), \"I want to watch\".\n- 但是 (dànshì): but.\n\n## Worked example\nRead: 星期六我踢足球，星期天我在家看书。 This means \"On Saturday I play football, on Sunday I read at home\". To answer \"What does he do on Sunday?\", find 星期天 first. The answer is after it: reading at home.\n\n## Common mistakes\n- Using 打 with 足球 (it should be 踢).\n- Writing 我会不游泳 instead of 我不会游泳.\n- Forgetting the tone change 不 to bú in 不太 and 不会.\n- Putting 经常 after the verb.\n\n## How this is examined\nHobby questions appear in messages inviting a friend, surveys, short profiles and listening dialogues comparing two people's weekends. You will often be asked who likes what, which day an activity happens, or whether someone can do something. In writing, give two or three hobbies, a reason or frequency, and a sentence about a friend.\n\nExam tip: In dialogues with two speakers, write A and B at the top of your notes and record each person's hobbies separately. The wrong options in the exam are usually correct facts about the other speaker.",
+  "flashcards": [
+   {
+    "front": "踢足球 / 打篮球",
+    "back": "踢足球 (tī zúqiú) = play football; 打篮球 (dǎ lánqiú) = play basketball. Football uses 踢, ball games with a racket or hand use 打."
+   },
+   {
+    "front": "打乒乓球 / 打网球",
+    "back": "打乒乓球 (dǎ pīngpāngqiú) = play table tennis; 打网球 (dǎ wǎngqiú) = play tennis."
+   },
+   {
+    "front": "游泳 / 跑步",
+    "back": "游泳 (yóuyǒng) = swim; 跑步 (pǎobù) = run."
+   },
+   {
+    "front": "唱歌 / 跳舞 / 画画",
+    "back": "唱歌 (chànggē) = sing; 跳舞 (tiàowǔ) = dance; 画画 (huàhuà) = draw or paint."
+   },
+   {
+    "front": "弹钢琴 / 弹吉他",
+    "back": "弹钢琴 (tán gāngqín) = play the piano; 弹吉他 (tán jítā) = play the guitar. Use 弹 with instruments."
+   },
+   {
+    "front": "你的爱好是什么？",
+    "back": "Nǐ de àihào shì shénme? = What are your hobbies? Reply: 我的爱好是… (wǒ de àihào shì…)."
+   },
+   {
+    "front": "我不太喜欢…",
+    "back": "Wǒ bú tài xǐhuan… = I don't like… very much. 不太 (bú tài) = not very."
+   },
+   {
+    "front": "经常 / 周末",
+    "back": "经常 (jīngcháng) = often, before the verb; 周末 (zhōumò) = weekend."
+   },
+   {
+    "front": "会 (huì)",
+    "back": "Can, as a learned skill: 我会游泳 (wǒ huì yóuyǒng) = I can swim. Negative: 不会 (bú huì)."
+   }
+  ]
+ },
+ {
+  "subject": "mandarin-ab-initio",
+  "grade": 5,
+  "topic": "Free Time and Health",
+  "subTopic": "Weather and Seasons",
+  "questions": [
+   {
+    "content": "What does 下雨 (xià yǔ) mean?",
+    "options": [
+     "It is snowing",
+     "It is raining",
+     "It is windy",
+     "It is sunny"
+    ],
+    "answer": 1,
+    "explanation": "下 is to fall and 雨 is rain. 下雪 (xià xuě) is snow.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 夏天 (xiàtiān) mean?",
+    "options": [
+     "Summer",
+     "Spring",
+     "Autumn",
+     "Winter"
+    ],
+    "answer": 0,
+    "explanation": "夏天 is summer. Winter is 冬天 (dōngtiān).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 冷 (lěng) mean?",
+    "options": [
+     "Hot",
+     "Warm",
+     "Wet",
+     "Cold"
+    ],
+    "answer": 3,
+    "explanation": "冷 means cold. Hot is 热 (rè).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 晴天 (qíngtiān) mean?",
+    "options": [
+     "A cloudy day",
+     "A rainy day",
+     "A sunny day",
+     "A snowy day"
+    ],
+    "answer": 2,
+    "explanation": "晴天 is a clear, sunny day. A cloudy day is 阴天 (yīntiān).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 冬天 (dōngtiān) mean?",
+    "options": [
+     "Spring",
+     "Winter",
+     "Summer",
+     "Autumn"
+    ],
+    "answer": 1,
+    "explanation": "冬天 is winter, the cold season. Spring is 春天 (chūntiān).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 今天天气怎么样？(jīntiān tiānqì zěnmeyàng?) ask?",
+    "options": [
+     "What is the weather like today?",
+     "What day is it today?",
+     "How old are you today?",
+     "What time is it?"
+    ],
+    "answer": 0,
+    "explanation": "天气 is weather and 怎么样 means 'how is it?'",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 今天二十八度，很热 (jīntiān èrshíbā dù, hěn rè) tell you?",
+    "options": [
+     "Today is 8 degrees and very hot",
+     "Today is 28 degrees and very cold",
+     "Yesterday was 28 degrees",
+     "Today is 28 degrees and very hot"
+    ],
+    "answer": 3,
+    "explanation": "度 (dù) means degrees. 二十八 is 28 and 很热 is very hot.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is the correct pinyin for 秋天 (autumn)?",
+    "options": [
+     "qiùtiān",
+     "qiūtián",
+     "qiūtiān",
+     "quītiān"
+    ],
+    "answer": 2,
+    "explanation": "秋 is first tone (qiū) and 天 is first tone (tiān).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Forecast: 明天会下雨，请带雨伞。(Míngtiān huì xiàyǔ, qǐng dài yǔsǎn.) [会 = will, 带 = bring, 雨伞 = umbrella]\n\nWhat is the advice?",
+    "options": [
+     "Stay at home",
+     "Bring an umbrella",
+     "Wear a winter coat",
+     "Go swimming"
+    ],
+    "answer": 1,
+    "explanation": "请带雨伞 means 'please bring an umbrella' because it will rain tomorrow.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 零下五度 (língxià wǔ dù) mean?",
+    "options": [
+     "Five degrees below zero",
+     "Five degrees above zero",
+     "Fifteen degrees",
+     "Fifty degrees"
+    ],
+    "answer": 0,
+    "explanation": "零下 means 'below zero'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read: 北京的冬天很冷，常常下雪。(Běijīng de dōngtiān hěn lěng, chángcháng xiàxuě.)\n\nWhat is winter in Beijing like?",
+    "options": [
+     "Warm and rainy",
+     "Hot and sunny",
+     "Cool and windy",
+     "Very cold and often snowy"
+    ],
+    "answer": 3,
+    "explanation": "很冷 means very cold, and 常常下雪 means it often snows.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 今天不冷 (jīntiān bù lěng) mean?",
+    "options": [
+     "Today is very cold",
+     "Yesterday was not cold",
+     "Today is not cold",
+     "Today is cold and windy"
+    ],
+    "answer": 2,
+    "explanation": "不 makes the adjective negative. 今天 is today.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 太热了 (tài rè le) mean?",
+    "options": [
+     "Not hot",
+     "Too hot!",
+     "A little hot",
+     "Not very hot"
+    ],
+    "answer": 1,
+    "explanation": "太…了 means 'too…'. 太热了 says it is too hot.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read: 星期一晴天，二十度。星期二阴天，十八度。星期三下雨，十五度。(Xīngqīyī qíngtiān, èrshí dù. Xīngqī'èr yīntiān, shíbā dù. Xīngqīsān xiàyǔ, shíwǔ dù.)\n\nWhich day is the coldest and wettest?",
+    "options": [
+     "Wednesday",
+     "Monday",
+     "Tuesday",
+     "Thursday"
+    ],
+    "answer": 0,
+    "explanation": "星期三 is Wednesday: it rains and it is the lowest temperature at 15 degrees.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Listening transcript: 小明: 你喜欢哪个季节？(Xiǎomíng: Nǐ xǐhuan nǎ ge jìjié?) 玲玲: 我喜欢秋天，因为不冷也不热。(Línglíng: Wǒ xǐhuan qiūtiān, yīnwèi bù lěng yě bú rè.) [季节 = season]\n\nWhy does Lingling like autumn?",
+    "options": [
+     "It is always snowing",
+     "It is the hottest season",
+     "It is her birthday season",
+     "It is neither cold nor hot"
+    ],
+    "answer": 3,
+    "explanation": "不冷也不热 means 'not cold and also not hot'.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Read: 昨天二十五度，今天二十度。今天比昨天冷。(Zuótiān èrshíwǔ dù, jīntiān èrshí dù. Jīntiān bǐ zuótiān lěng.) [比 = than, 昨天 = yesterday]\n\nHow many degrees colder is today than yesterday?",
+    "options": [
+     "45 degrees",
+     "20 degrees",
+     "5 degrees",
+     "25 degrees"
+    ],
+    "answer": 2,
+    "explanation": "25 − 20 = 5 degrees.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student writes 今天天气是很热 (jīntiān tiānqì shì hěn rè). What is the mistake?",
+    "options": [
+     "热 should be 冷",
+     "是 should not be used before an adjective",
+     "很 should come after 热",
+     "There is no mistake"
+    ],
+    "answer": 1,
+    "explanation": "Adjectives are not linked with 是: 今天天气很热.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence is TRUE?",
+    "options": [
+     "澳大利亚的十二月是夏天 (Àodàlìyà de shí'èr yuè shì xiàtiān)",
+     "北京的一月很热 (Běijīng de yī yuè hěn rè)",
+     "北京的七月是冬天 (Běijīng de qī yuè shì dōngtiān)",
+     "澳大利亚的七月是夏天 (Àodàlìyà de qī yuè shì xiàtiān)"
+    ],
+    "answer": 0,
+    "explanation": "Australia is in the southern hemisphere, so December is summer and July is winter. In Beijing, January is cold and July is summer.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Describing the weather\nWeather is a classic beginner topic because it uses short, simple sentences. In Mandarin you can say a lot with only a few key words. You will meet weather in forecasts, messages to friends and holiday postcards.\n\n## Weather words\n- 天气 (tiānqì): weather\n- 晴天 (qíngtiān): sunny day\n- 阴天 (yīntiān): cloudy day\n- 下雨 (xià yǔ): rain, it is raining\n- 下雪 (xià xuě): snow, it is snowing\n- 刮风 (guā fēng): windy\n- 热 (rè): hot\n- 冷 (lěng): cold\n- 暖和 (nuǎnhuo): warm\n- 凉快 (liángkuai): pleasantly cool\n- 雨伞 (yǔsǎn): umbrella\n\n## Seasons\n- 春天 (chūntiān): spring\n- 夏天 (xiàtiān): summer\n- 秋天 (qiūtiān): autumn\n- 冬天 (dōngtiān): winter\n- 季节 (jìjié): season\n\n## Asking and answering\nAsk 今天天气怎么样？(jīntiān tiānqì zěnmeyàng?), \"What is the weather like today?\". Possible answers:\n- 今天很热 (jīntiān hěn rè): It's very hot today.\n- 今天下雨 (jīntiān xiàyǔ): It's raining today.\n- 今天不冷 (jīntiān bù lěng): It's not cold today.\n- 太热了！(tài rè le!): It's too hot!\nRemember that adjectives do not need 是. Say 今天很热, not 今天是很热. Put 很 before the adjective; with 不 there is no 很: 今天不冷.\n\n## Temperature\n度 (dù) means degrees: 二十五度 (èrshíwǔ dù) is 25 degrees. 零下 (língxià) means below zero: 零下五度 (língxià wǔ dù) is minus five degrees.\n\n## Comparing\n比 (bǐ) means \"than\": 今天比昨天冷 (jīntiān bǐ zuótiān lěng), \"Today is colder than yesterday\". 昨天 (zuótiān) is yesterday. The adjective stays at the end.\n\n## Future weather\n会 (huì) can mean \"will\": 明天会下雨 (míngtiān huì xiàyǔ), \"It will rain tomorrow\". A forecast often adds advice: 请带雨伞 (qǐng dài yǔsǎn), \"Please bring an umbrella\".\n\n## Seasons around the world\nIn China the seasons are like those of the northern hemisphere. In Beijing the winter is cold and sometimes snowy, and July is in summer. In Australia the seasons are reversed, so December is summer and July is winter. A text may also say which season people like with 喜欢 and 因为.\n\n## Common mistakes\n- Using 是 before an adjective.\n- Mixing up 春天 (spring) and 冬天 (winter), or 夏天 and 秋天.\n- Forgetting 度 after the number of degrees.\n- Missing 零下 and reading a minus temperature as a positive one.\n\n## How this is examined\nForecasts appear as a short list of days with weather and temperature, and questions ask which day is hottest, coldest or wettest. In listening tasks speakers describe a holiday or a favourite season. In writing tasks you describe the weather in your town in each season.\n\nExam tip: With a forecast, write the days and temperatures in a quick table before answering. Look out for 零下 (below zero) and 不 (not), because one small word reverses the meaning.",
+  "flashcards": [
+   {
+    "front": "春天 / 夏天",
+    "back": "春天 (chūntiān) = spring; 夏天 (xiàtiān) = summer."
+   },
+   {
+    "front": "秋天 / 冬天",
+    "back": "秋天 (qiūtiān) = autumn; 冬天 (dōngtiān) = winter."
+   },
+   {
+    "front": "晴天 / 阴天",
+    "back": "晴天 (qíngtiān) = sunny; 阴天 (yīntiān) = cloudy."
+   },
+   {
+    "front": "下雨 / 下雪 / 刮风",
+    "back": "下雨 (xià yǔ) = rain; 下雪 (xià xuě) = snow; 刮风 (guā fēng) = windy."
+   },
+   {
+    "front": "热 / 冷",
+    "back": "热 (rè) = hot; 冷 (lěng) = cold. Use 很 before them: 很热, and do not add 是."
+   },
+   {
+    "front": "今天天气怎么样？",
+    "back": "Jīntiān tiānqì zěnmeyàng? = What is the weather like today? Reply: 今天很热 (jīntiān hěn rè)."
+   },
+   {
+    "front": "度 / 零下",
+    "back": "度 (dù) = degrees: 二十五度 = 25 degrees. 零下 (língxià) = below zero: 零下五度 = minus 5 degrees."
+   },
+   {
+    "front": "比 (bǐ)",
+    "back": "Than: 今天比昨天冷 (jīntiān bǐ zuótiān lěng) = Today is colder than yesterday."
+   },
+   {
+    "front": "明天会下雨",
+    "back": "Míngtiān huì xiàyǔ = It will rain tomorrow. 会 (huì) can mean 'will'."
+   }
+  ]
+ },
+ {
+  "subject": "mandarin-ab-initio",
+  "grade": 5,
+  "topic": "Free Time and Health",
+  "subTopic": "Health and the Body",
+  "questions": [
+   {
+    "content": "What does 头 (tóu) mean?",
+    "options": [
+     "Hand",
+     "Head",
+     "Foot",
+     "Leg"
+    ],
+    "answer": 1,
+    "explanation": "头 is the head. The hand is 手 (shǒu).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 眼睛 (yǎnjing) mean?",
+    "options": [
+     "Eyes",
+     "Ears",
+     "Nose",
+     "Mouth"
+    ],
+    "answer": 0,
+    "explanation": "眼睛 means eyes. Ears are 耳朵 (ěrduo).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 手 (shǒu) mean?",
+    "options": [
+     "Foot",
+     "Mouth",
+     "Leg",
+     "Hand"
+    ],
+    "answer": 3,
+    "explanation": "手 is hand. Foot is 脚 (jiǎo).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 药 (yào) mean?",
+    "options": [
+     "Water",
+     "Doctor",
+     "Medicine",
+     "Hospital"
+    ],
+    "answer": 2,
+    "explanation": "药 is medicine. 吃药 (chī yào) means take medicine.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 肚子 (dùzi) mean?",
+    "options": [
+     "Back",
+     "Stomach, belly",
+     "Tooth",
+     "Throat"
+    ],
+    "answer": 1,
+    "explanation": "肚子 is the stomach or belly. 肚子疼 (dùzi téng) means a stomach ache.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 你怎么了？(nǐ zěnme le?) ask?",
+    "options": [
+     "What is wrong with you?",
+     "How old are you?",
+     "Where are you?",
+     "Who are you?"
+    ],
+    "answer": 0,
+    "explanation": "怎么了 means 'what happened?' and is used to ask what is wrong.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 我头疼 (wǒ tóu téng) mean?",
+    "options": [
+     "I have a stomach ache",
+     "I have a cold",
+     "I am tired",
+     "I have a headache"
+    ],
+    "answer": 3,
+    "explanation": "头 is head and 疼 means painful, so 头疼 is a headache.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence means 'I have a toothache'?",
+    "options": [
+     "我眼睛疼 (wǒ yǎnjing téng)",
+     "我腿疼 (wǒ tuǐ téng)",
+     "我牙疼 (wǒ yá téng)",
+     "我肚子疼 (wǒ dùzi téng)"
+    ],
+    "answer": 2,
+    "explanation": "牙 is tooth, so 牙疼 is a toothache. The distractors are painful eyes, legs and stomach.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read: 我感冒了，发烧，还咳嗽。(Wǒ gǎnmào le, fāshāo, hái késou.) [还 = also]\n\nWhat symptoms does the writer have?",
+    "options": [
+     "A toothache and a cough",
+     "A cold, a fever and a cough",
+     "A stomach ache and a fever",
+     "A cold and a sore leg"
+    ],
+    "answer": 1,
+    "explanation": "感冒 is a cold, 发烧 is a fever and 咳嗽 is a cough.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The doctor says: 多喝水，多休息。(duō hē shuǐ, duō xiūxi.) What is the advice?",
+    "options": [
+     "Drink plenty of water and rest",
+     "Eat more and rest less",
+     "Do more sport and drink less",
+     "Go to school and drink milk"
+    ],
+    "answer": 0,
+    "explanation": "多 means 'more / a lot of', 喝水 is drink water and 休息 is rest.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Choose the word that completes the sentence: 我不舒服，我想去___。(wǒ bù shūfu, wǒ xiǎng qù ___.) 'I feel unwell, I want to go to the ...'",
+    "options": [
+     "商店 (shāngdiàn)",
+     "饭馆 (fànguǎn)",
+     "公园 (gōngyuán)",
+     "医院 (yīyuàn)"
+    ],
+    "answer": 3,
+    "explanation": "When you are unwell you go to a hospital, 医院. 不舒服 means 'not comfortable / unwell'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is the correct pinyin for 眼睛?",
+    "options": [
+     "yǎnjīng",
+     "yánjing",
+     "yǎnjing",
+     "yànjing"
+    ],
+    "answer": 2,
+    "explanation": "眼 is third tone and 睛 is a neutral tone.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How do you say 'I do not have a fever'?",
+    "options": [
+     "我不有发烧 (wǒ bù yǒu fāshāo)",
+     "我没发烧 (wǒ méi fāshāo)",
+     "我没是发烧 (wǒ méi shì fāshāo)",
+     "我不是发烧 (wǒ bú shì fāshāo)"
+    ],
+    "answer": 1,
+    "explanation": "没 negates things that have happened or exist. 有 is omitted: 我没发烧.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript: 医生: 你怎么了？(Yīshēng: Nǐ zěnme le?) 学生: 我头疼，还有点儿咳嗽。(Xuésheng: Wǒ tóu téng, hái yǒudiǎnr késou.) 医生: 你发烧吗？(Yīshēng: Nǐ fāshāo ma?) 学生: 不，我没发烧。(Xuésheng: Bù, wǒ méi fāshāo.) [有点儿 = a little]\n\nWhat is true about the student?",
+    "options": [
+     "He has a headache and a slight cough but no fever",
+     "He has a fever and a cough",
+     "He has a stomach ache",
+     "He has a toothache and no cough"
+    ],
+    "answer": 0,
+    "explanation": "头疼 is a headache, 有点儿咳嗽 a slight cough, and 没发烧 means no fever.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Note: 小红今天不能上学。她发烧了，在家休息。(Xiǎohóng jīntiān bù néng shàngxué. Tā fāshāo le, zài jiā xiūxi.) [不能 = cannot]\n\nWhy is Xiaohong not at school?",
+    "options": [
+     "She is at the hospital for a visit",
+     "She is on holiday",
+     "She has a toothache",
+     "She has a fever and is resting at home"
+    ],
+    "answer": 3,
+    "explanation": "发烧了 means she has a fever and 在家休息 means she is resting at home.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A health poster says: 多运动，早睡觉，多喝水，少吃糖。(Duō yùndòng, zǎo shuìjiào, duō hē shuǐ, shǎo chī táng.) [糖 = sugar, 少 = less]\n\nWhich advice is NOT on the poster?",
+    "options": [
+     "Do more exercise",
+     "Go to bed early",
+     "Eat more sugar",
+     "Drink more water"
+    ],
+    "answer": 2,
+    "explanation": "少吃糖 means eat less sugar. The poster does not advise eating more sugar.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student writes 我疼头 (wǒ téng tóu) for 'I have a headache'. What is the mistake?",
+    "options": [
+     "头 should be 手",
+     "The body part comes first: 我头疼",
+     "疼 should be 很",
+     "There is no mistake"
+    ],
+    "answer": 1,
+    "explanation": "The pattern is subject + body part + 疼: 我头疼, 我牙疼, 我肚子疼.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Read: 大卫头疼，玲玲牙疼，小明肚子疼。(Dàwèi tóu téng, Línglíng yá téng, Xiǎomíng dùzi téng.)\n\nWho does NOT have a pain in the head or stomach?",
+    "options": [
+     "Lingling",
+     "David",
+     "Xiaoming",
+     "Both David and Xiaoming"
+    ],
+    "answer": 0,
+    "explanation": "David has a headache and Xiaoming has a stomach ache. Lingling has toothache.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## The body and feeling unwell\nHealth vocabulary is useful in real life and is tested in short dialogues at the doctor's, notes to teachers and posters. In this topic you learn the main parts of the body, how to say where it hurts and basic healthy-living advice. This is general school-level language, not medical advice.\n\n## Parts of the body\n- 头 (tóu): head\n- 眼睛 (yǎnjing): eyes\n- 耳朵 (ěrduo): ears\n- 鼻子 (bízi): nose\n- 嘴 (zuǐ): mouth\n- 牙 (yá): tooth\n- 手 (shǒu): hand\n- 脚 (jiǎo): foot\n- 腿 (tuǐ): leg\n- 肚子 (dùzi): stomach, belly\n- 背 (bèi): back\n- 喉咙 (hóulóng): throat\n\n## Illnesses\n- 感冒 (gǎnmào): a cold\n- 发烧 (fāshāo): to have a fever\n- 咳嗽 (késou): to cough\n- 生病 (shēngbìng): to be ill\n- 不舒服 (bù shūfu): unwell\n\n## Saying where it hurts\nThe pattern is subject + body part + 疼 (téng, hurts): 我头疼 (wǒ tóu téng) is \"I have a headache\", 我牙疼 (wǒ yá téng) is \"I have a toothache\" and 我肚子疼 (wǒ dùzi téng) is \"I have a stomach ache\". The body part always comes before 疼, so 我疼头 is wrong. To ask what is wrong, say 你怎么了？(nǐ zěnme le?).\n\n## Symptoms and negatives\nYou can say 我感冒了 (wǒ gǎnmào le), \"I have a cold\", and 我发烧了 (wǒ fāshāo le), \"I have a fever\". 了 (le) shows a new situation. Negatives use 没: 我没发烧 (wǒ méi fāshāo), \"I don't have a fever\". 有点儿 (yǒudiǎnr) means \"a bit\": 我有点儿咳嗽, \"I have a bit of a cough\". 还 (hái) means \"also\" or \"still\".\n\n## Advice\n- 多喝水 (duō hē shuǐ): drink plenty of water\n- 多休息 (duō xiūxi): rest a lot\n- 吃药 (chī yào): take medicine\n- 去医院 (qù yīyuàn): go to the hospital\n- 多运动 (duō yùndòng): do more exercise\n- 早睡觉 (zǎo shuìjiào): go to bed early\n- 少吃糖 (shǎo chī táng): eat less sugar\nNotice that 多 (duō) means \"more\" and 少 (shǎo) means \"less\". They go before the verb.\n\n## Worked example\nDoctor: 你怎么了？ Student: 我头疼，还有点儿咳嗽。 Doctor: 你发烧吗？ Student: 不，我没发烧。 To describe the student, list what is present (headache, slight cough) and what is absent (no fever). Many exam options reverse these, so read the negative words carefully.\n\n## Common mistakes\n- Putting the body part after 疼.\n- Using 不有 instead of 没有.\n- Mixing up 手 (hand), 脚 (foot) and 腿 (leg), which are all limbs.\n- Forgetting 医生 is a doctor and 医院 is a hospital.\n- Writing 眼睛 with the wrong tones. The pinyin is yǎnjing.\n\n## How this is examined\nHealth appears in dialogues with a doctor, absence notes from school, posters about healthy habits and lists of symptoms. You may be asked what is wrong, what the doctor advises or which statements are true. In writing, you can write a short note saying you are ill and cannot come to school, including one symptom and one piece of advice.\n\nExam tip: Make a two-column list for any health dialogue, with \"has\" and \"does not have\", then match the options to your list. Check whether the text uses 多 (more) or 少 (less) before choosing advice.",
+  "flashcards": [
+   {
+    "front": "头 / 眼睛 / 鼻子 / 嘴",
+    "back": "头 (tóu) head; 眼睛 (yǎnjing) eyes; 鼻子 (bízi) nose; 嘴 (zuǐ) mouth."
+   },
+   {
+    "front": "耳朵 / 手 / 脚 / 腿",
+    "back": "耳朵 (ěrduo) ears; 手 (shǒu) hand; 脚 (jiǎo) foot; 腿 (tuǐ) leg."
+   },
+   {
+    "front": "肚子 / 牙 / 背",
+    "back": "肚子 (dùzi) stomach; 牙 (yá) tooth; 背 (bèi) back."
+   },
+   {
+    "front": "你怎么了？",
+    "back": "Nǐ zěnme le? = What's wrong? Reply with the body part first: 我头疼 (wǒ tóu téng), I have a headache."
+   },
+   {
+    "front": "我牙疼",
+    "back": "Wǒ yá téng = I have a toothache. Pattern: subject + body part + 疼 (téng)."
+   },
+   {
+    "front": "感冒 / 发烧 / 咳嗽",
+    "back": "感冒 (gǎnmào) = a cold; 发烧 (fāshāo) = fever; 咳嗽 (késou) = to cough."
+   },
+   {
+    "front": "我没发烧",
+    "back": "Wǒ méi fāshāo = I don't have a fever. Use 没 to negate things that have happened or exist."
+   },
+   {
+    "front": "多喝水，多休息",
+    "back": "Duō hē shuǐ, duō xiūxi = Drink plenty of water and rest a lot. 多 (duō) = more; 少 (shǎo) = less."
+   },
+   {
+    "front": "我不舒服",
+    "back": "Wǒ bù shūfu = I feel unwell. You might then say 我想去医院 (wǒ xiǎng qù yīyuàn), I want to go to the hospital."
+   }
+  ]
+ }
+]

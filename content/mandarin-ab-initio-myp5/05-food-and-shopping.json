@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "mandarin-ab-initio",
+  "grade": 5,
+  "topic": "Food and Shopping",
+  "subTopic": "Food and Drink",
+  "questions": [
+   {
+    "content": "What does 米饭 (mǐfàn) mean?",
+    "options": [
+     "Noodles",
+     "Rice",
+     "Bread",
+     "Dumplings"
+    ],
+    "answer": 1,
+    "explanation": "米饭 (mǐfàn) is cooked rice. Noodles are 面条 (miàntiáo) and dumplings are 饺子 (jiǎozi).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a drink?",
+    "options": [
+     "牛奶 (niúnǎi)",
+     "面包 (miànbāo)",
+     "鸡蛋 (jīdàn)",
+     "苹果 (píngguǒ)"
+    ],
+    "answer": 0,
+    "explanation": "牛奶 (niúnǎi) is milk. Bread, eggs and apples are things you eat (吃, chī).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 我喜欢吃苹果 (wǒ xǐhuan chī píngguǒ) mean?",
+    "options": [
+     "I like drinking apple juice",
+     "I do not like apples",
+     "I want to buy apples",
+     "I like eating apples"
+    ],
+    "answer": 3,
+    "explanation": "喜欢 (xǐhuan) is like, 吃 (chī) is eat and 苹果 (píngguǒ) is apple. Nothing in the sentence says juice, buying or dislike.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which verb do you use with 水 (shuǐ, water)?",
+    "options": [
+     "吃 (chī)",
+     "买 (mǎi)",
+     "喝 (hē)",
+     "看 (kàn)"
+    ],
+    "answer": 2,
+    "explanation": "You 喝 (hē, drink) water, tea and milk. You 吃 (chī, eat) solid food.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "早饭 (zǎofàn) is which meal?",
+    "options": [
+     "Lunch",
+     "Breakfast",
+     "Dinner",
+     "A snack"
+    ],
+    "answer": 1,
+    "explanation": "早 (zǎo) means early or morning, so 早饭 is breakfast. Lunch is 午饭 (wǔfàn) and dinner is 晚饭 (wǎnfàn).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which sentence means 'I want to drink tea'?",
+    "options": [
+     "我想喝茶 (wǒ xiǎng hē chá)",
+     "我想吃茶 (wǒ xiǎng chī chá)",
+     "我想茶喝 (wǒ xiǎng chá hē)",
+     "我喝想茶 (wǒ hē xiǎng chá)"
+    ],
+    "answer": 0,
+    "explanation": "The order is subject + 想 (xiǎng, want to) + verb + object. Tea is drunk, so the verb is 喝, not 吃.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read: 小明的早饭：一个鸡蛋，一杯牛奶，两个包子。 (Xiǎo Míng de zǎofàn: yí ge jīdàn, yì bēi niúnǎi, liǎng ge bāozi.) Which food is NOT in Xiao Ming's breakfast?",
+    "options": [
+     "Egg",
+     "Milk",
+     "Steamed buns",
+     "Rice"
+    ],
+    "answer": 3,
+    "explanation": "His breakfast is one egg, one glass of milk and two steamed buns (包子, bāozi). Rice (米饭) is not mentioned.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Lin says: 我不吃肉 (wǒ bù chī ròu). Which dish is most suitable for Lin?",
+    "options": [
+     "牛肉面条 (niúròu miàntiáo)",
+     "鸡肉饭 (jīròu fàn)",
+     "蔬菜面条 (shūcài miàntiáo)",
+     "猪肉包子 (zhūròu bāozi)"
+    ],
+    "answer": 2,
+    "explanation": "肉 (ròu) is meat. 蔬菜 (shūcài) means vegetables, so vegetable noodles are the only dish without meat (beef 牛肉, chicken 鸡肉, pork 猪肉).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which word describes the taste of sugar?",
+    "options": [
+     "辣 (là)",
+     "甜 (tián)",
+     "咸 (xián)",
+     "酸 (suān)"
+    ],
+    "answer": 1,
+    "explanation": "甜 (tián) is sweet. 辣 is spicy, 咸 is salty and 酸 is sour.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Someone asks 你喜欢吃什么？ (Nǐ xǐhuan chī shénme?) Which reply fits best?",
+    "options": [
+     "我喜欢吃饺子 (wǒ xǐhuan chī jiǎozi)",
+     "我十五岁 (wǒ shíwǔ suì)",
+     "我在学校 (wǒ zài xuéxiào)",
+     "我叫大卫 (wǒ jiào Dàwèi)"
+    ],
+    "answer": 0,
+    "explanation": "The question means 'What do you like to eat?' so the answer must name a food. The others give age, place and name.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which word would you use to say a DRINK tastes good?",
+    "options": [
+     "好吃 (hǎochī)",
+     "好看 (hǎokàn)",
+     "好玩 (hǎowán)",
+     "好喝 (hǎohē)"
+    ],
+    "answer": 3,
+    "explanation": "好喝 (hǎohē) is 'good to drink'. 好吃 is for food, 好看 means nice to look at and 好玩 means fun.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read: 今天的午饭有鱼、米饭和蔬菜。 (Jīntiān de wǔfàn yǒu yú, mǐfàn hé shūcài.) What is for lunch today?",
+    "options": [
+     "Chicken, noodles and fruit",
+     "Beef, bread and eggs",
+     "Fish, rice and vegetables",
+     "Fish, buns and milk"
+    ],
+    "answer": 2,
+    "explanation": "午饭 is lunch; 鱼 is fish, 米饭 is rice, 蔬菜 is vegetables and 和 (hé) means 'and'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence means 'I do not eat meat'?",
+    "options": [
+     "我没吃肉 (wǒ méi chī ròu)",
+     "我不吃肉 (wǒ bù chī ròu)",
+     "我不是肉 (wǒ bú shì ròu)",
+     "我不有肉 (wǒ bù yǒu ròu)"
+    ],
+    "answer": 1,
+    "explanation": "不 + verb negates a habit or choice. 没 (méi) would mean 'did not eat (it)'. 我不是肉 means 'I am not meat' and 不有 is never used; it is 没有.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript: A: 你想喝什么？(Nǐ xiǎng hē shénme?) B: 我不喝咖啡，我想喝果汁。(Wǒ bù hē kāfēi, wǒ xiǎng hē guǒzhī.) What does B want?",
+    "options": [
+     "Juice",
+     "Coffee",
+     "Tea",
+     "Milk"
+    ],
+    "answer": 0,
+    "explanation": "B rejects coffee (不喝咖啡) and then says they want 果汁 (guǒzhī), which is juice.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Read: 妈妈喜欢吃鱼，不喜欢吃鸡肉。爸爸喜欢吃鸡肉，不喜欢吃鱼。我喜欢吃鱼和鸡肉。 (Māma xǐhuan chī yú, bù xǐhuan chī jīròu. Bàba xǐhuan chī jīròu, bù xǐhuan chī yú. Wǒ xǐhuan chī yú hé jīròu.) Who likes BOTH fish and chicken?",
+    "options": [
+     "Mum",
+     "Dad",
+     "Mum and Dad together",
+     "The writer"
+    ],
+    "answer": 3,
+    "explanation": "Mum likes only fish, Dad likes only chicken, and 我 (wǒ, I) likes both 鱼 and 鸡肉.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Dan writes: 我想喝米饭。 (Wǒ xiǎng hē mǐfàn.) What is wrong with this sentence?",
+    "options": [
+     "想 should come after the noun",
+     "米饭 should be 米面",
+     "Rice is eaten, so the verb should be 吃",
+     "喝 must come before 我"
+    ],
+    "answer": 2,
+    "explanation": "Rice is a solid food so it takes 吃 (chī): 我想吃米饭 (wǒ xiǎng chī mǐfàn). The word order is fine.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Read: 我每天喝两杯牛奶，吃一个苹果，但是我不喝咖啡。 (Wǒ měi tiān hē liǎng bēi niúnǎi, chī yí ge píngguǒ, dànshì wǒ bù hē kāfēi.) Which statement is true?",
+    "options": [
+     "The writer has one glass of milk and two apples a day",
+     "The writer has two glasses of milk and an apple a day, but no coffee",
+     "The writer drinks two coffees and one milk a day",
+     "The writer eats two apples and never drinks milk"
+    ],
+    "answer": 1,
+    "explanation": "每天 (měi tiān) is every day, 两杯 is two glasses, 一个苹果 is one apple, and 但是 (dànshì) introduces the contrast: no coffee.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Mei writes to a friend: 我喜欢吃面条，不喜欢吃米饭，因为米饭不好吃。 (…yīnwèi mǐfàn bù hǎochī.) What reason does she give?",
+    "options": [
+     "She thinks rice does not taste good",
+     "She cannot afford rice",
+     "She is allergic to noodles",
+     "She eats rice every day"
+    ],
+    "answer": 0,
+    "explanation": "因为 (yīnwèi) means 'because'. 不好吃 (bù hǎochī) means 'not tasty', so the reason is that she finds rice unpleasant.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why food vocabulary matters\nFood and drink is one of the most common topics in beginner Mandarin. You will meet it in menus, short messages, invitations and survey-style texts. The words are short, concrete and easy to picture, so this is a good place to collect marks. Remember that every Chinese word in this course should be learned with its characters, its pinyin and its tone marks.\n\n## Core vocabulary\nStaple foods:\n- 米饭 (mǐfàn, cooked rice)\n- 面条 (miàntiáo, noodles)\n- 面包 (miànbāo, bread)\n- 包子 (bāozi, steamed bun)\n- 饺子 (jiǎozi, dumplings)\n- 鸡蛋 (jīdàn, egg)\n\nMeat, fish and vegetables:\n- 肉 (ròu, meat)\n- 牛肉 (niúròu, beef)\n- 猪肉 (zhūròu, pork)\n- 鸡肉 (jīròu, chicken meat)\n- 鱼 (yú, fish)\n- 蔬菜 (shūcài, vegetables)\n\nFruit: 苹果 (píngguǒ, apple), 香蕉 (xiāngjiāo, banana), 西瓜 (xīguā, watermelon).\n\nDrinks: 水 (shuǐ, water), 茶 (chá, tea), 牛奶 (niúnǎi, milk), 果汁 (guǒzhī, juice), 咖啡 (kāfēi, coffee).\n\nMeals: 早饭 (zǎofàn, breakfast), 午饭 (wǔfàn, lunch), 晚饭 (wǎnfàn, dinner).\n\nTastes: 甜 (tián, sweet), 辣 (là, spicy), 咸 (xián, salty), 酸 (suān, sour).\n\n## Key verbs: eat and drink\nChinese uses two different verbs. 吃 (chī) means eat and goes with solid food: 我吃米饭 (wǒ chī mǐfàn, I eat rice). 喝 (hē) means drink and goes with liquids: 我喝茶 (wǒ hē chá, I drink tea). Mixing them up, such as 我喝面包, is a very common mistake.\n\n## Saying what you like and want\nThe pattern is simple: subject + verb + object.\n- 我喜欢吃面条。(Wǒ xǐhuan chī miàntiáo. I like eating noodles.)\n- 我想喝果汁。(Wǒ xiǎng hē guǒzhī. I want to drink juice.)\n- 我不吃肉。(Wǒ bù chī ròu. I do not eat meat.)\n- 我不喜欢喝咖啡。(Wǒ bù xǐhuan hē kāfēi. I do not like drinking coffee.)\nPut 不 (bù) directly before the verb you are negating. Add 很 (hěn, very) before an adjective: 这个很辣 (zhège hěn là, this is very spicy).\n\n## Describing taste\nFor food say 好吃 (hǎochī, tasty). For drinks say 好喝 (hǎohē, nice to drink). The opposite is 不好吃 or 不好喝. To give a reason use 因为 (yīnwèi, because): 我不喜欢这个，因为太辣。(I do not like this because it is too spicy.)\n\n## Asking questions\n- 你喜欢吃什么？(Nǐ xǐhuan chī shénme? What do you like to eat?)\n- 你想喝什么？(Nǐ xiǎng hē shénme? What do you want to drink?)\nNotice that 什么 (shénme, what) stays in the place where the answer will go. You do not move it to the front as in English.\n\n## How this is examined\nReading texts are often short messages or menus: someone lists what they eat for breakfast, says what they like and dislike, or invites a friend to lunch. Questions ask you to find the food, the drink, or the opinion (like or dislike). Listening transcripts have two speakers, one often changing their mind (\"I do not want coffee, I want juice\"). In writing tasks you may be asked to describe your favourite meal in two to four sentences.\n\n## Common mistakes\n- Using 吃 with drinks or 喝 with food.\n- Putting 不 after the verb instead of before it.\n- Ignoring negatives in a text, so you pick the food the person does NOT like.\n- Forgetting tone marks in pinyin, such as writing mian bao for 面包 (miànbāo).\n\nExam tip: Underline every 不 (bù) and 没 (méi) in a reading text before answering. A single negative flips the meaning, and examiners love to use it to build a tempting wrong answer.",
+  "flashcards": [
+   {
+    "front": "米饭",
+    "back": "mǐfàn: cooked rice. Eaten with 吃 (chī), as in 我吃米饭 (I eat rice)."
+   },
+   {
+    "front": "喝 vs 吃",
+    "back": "喝 (hē) = drink, for liquids such as 茶 and 牛奶. 吃 (chī) = eat, for solid food such as 面包 and 饺子."
+   },
+   {
+    "front": "我不吃肉。",
+    "back": "Wǒ bù chī ròu. I do not eat meat. 不 (bù) goes directly before the verb."
+   },
+   {
+    "front": "早饭 / 午饭 / 晚饭",
+    "back": "zǎofàn breakfast / wǔfàn lunch / wǎnfàn dinner. 早 = early, 午 = noon, 晚 = evening."
+   },
+   {
+    "front": "好吃 vs 好喝",
+    "back": "hǎochī = tasty (food); hǎohē = tasty (drinks). Both are used after 很 or with 不 to negate."
+   },
+   {
+    "front": "甜 / 辣 / 咸 / 酸",
+    "back": "tián sweet / là spicy / xián salty / suān sour."
+   },
+   {
+    "front": "牛肉, 猪肉, 鸡肉",
+    "back": "niúròu beef, zhūròu pork, jīròu chicken. 肉 (ròu) = meat."
+   },
+   {
+    "front": "你想喝什么？",
+    "back": "Nǐ xiǎng hē shénme? What do you want to drink? 什么 stays in the answer's position."
+   },
+   {
+    "front": "因为",
+    "back": "yīnwèi: because. 我不喜欢，因为太辣。I do not like it because it is too spicy."
+   }
+  ]
+ },
+ {
+  "subject": "mandarin-ab-initio",
+  "grade": 5,
+  "topic": "Food and Shopping",
+  "subTopic": "Ordering in a Café",
+  "questions": [
+   {
+    "content": "What does 服务员 (fúwùyuán) mean?",
+    "options": [
+     "Customer",
+     "Waiter or waitress",
+     "Chef",
+     "Teacher"
+    ],
+    "answer": 1,
+    "explanation": "服务员 (fúwùyuán) is a service worker such as a waiter. A chef is 厨师 (chúshī) and a teacher is 老师 (lǎoshī).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is 菜单 (càidān)?",
+    "options": [
+     "A menu",
+     "A bill",
+     "A table",
+     "A cup"
+    ],
+    "answer": 0,
+    "explanation": "菜单 (càidān) is the list of dishes, the menu. The bill is 账单 (zhàngdān), which you ask for with 买单 (mǎidān).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 我要一杯茶 (wǒ yào yì bēi chá) mean?",
+    "options": [
+     "I am a cup of tea",
+     "I like tea very much",
+     "I cannot drink tea",
+     "I would like a cup of tea"
+    ],
+    "answer": 3,
+    "explanation": "我要 (wǒ yào) is 'I would like'. 一杯 (yì bēi) is 'a cup or glass of'.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Someone says 谢谢 (xièxie). Which reply means 'You are welcome'?",
+    "options": [
+     "对不起 (duìbuqǐ)",
+     "再见 (zàijiàn)",
+     "不客气 (bú kèqi)",
+     "请问 (qǐngwèn)"
+    ],
+    "answer": 2,
+    "explanation": "不客气 (bú kèqi) is the usual reply to thanks. 对不起 is sorry and 再见 is goodbye.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 多少钱？(Duōshao qián?) ask?",
+    "options": [
+     "Where is it?",
+     "How much is it?",
+     "Who is it for?",
+     "What time is it?"
+    ],
+    "answer": 1,
+    "explanation": "多少 (duōshao) means how many or how much, and 钱 (qián) means money.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The waiter asks 还要别的吗？(Hái yào biéde ma?) You are finished. Which reply is best?",
+    "options": [
+     "不要了，谢谢。(Bú yào le, xièxie.)",
+     "我叫小红。(Wǒ jiào Xiǎo Hóng.)",
+     "我十岁。(Wǒ shí suì.)",
+     "在学校。(Zài xuéxiào.)"
+    ],
+    "answer": 0,
+    "explanation": "The waiter asks 'Anything else?' so you answer 'No more, thanks.' The other replies give a name, an age and a place.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript: 服务员：你要什么？(Nǐ yào shénme?) 客人：我要一杯热茶和一块蛋糕。(Wǒ yào yì bēi rè chá hé yí kuài dàngāo.) What does the customer order?",
+    "options": [
+     "An iced tea and a piece of cake",
+     "A hot coffee and a piece of cake",
+     "A hot tea and a sandwich",
+     "A hot tea and a piece of cake"
+    ],
+    "answer": 3,
+    "explanation": "热 (rè) is hot, 茶 is tea and 蛋糕 (dàngāo) is cake. The measure word 块 (kuài) goes with a piece of cake.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The waiter asks 这里吃还是带走？(Zhèlǐ chī háishi dàizǒu?) What is he asking?",
+    "options": [
+     "Whether you want the bill",
+     "Whether you want hot or cold",
+     "Whether you will eat here or take away",
+     "Whether you have a booking"
+    ],
+    "answer": 2,
+    "explanation": "这里吃 is 'eat here', 还是 (háishi) is 'or' in a question, and 带走 (dàizǒu) is 'take away'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence means 'Please give me the menu'?",
+    "options": [
+     "请给我买单。(Qǐng gěi wǒ mǎidān.)",
+     "请给我菜单。(Qǐng gěi wǒ càidān.)",
+     "请给我一杯水。(Qǐng gěi wǒ yì bēi shuǐ.)",
+     "请问菜单在哪里？(Qǐngwèn càidān zài nǎlǐ?)"
+    ],
+    "answer": 1,
+    "explanation": "请给我 (qǐng gěi wǒ) is 'please give me'; 菜单 is the menu. The others ask for the bill, a glass of water, or where the menu is.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The menu says: 咖啡 18元，茶 12元，可乐 8元。 You order one coffee and one cola. What is the total?",
+    "options": [
+     "26元",
+     "20元",
+     "30元",
+     "38元"
+    ],
+    "answer": 0,
+    "explanation": "咖啡 (kāfēi) 18 + 可乐 (kělè) 8 = 26. 20 is tea plus cola, 30 is coffee plus tea, and 38 is all three drinks.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "When do you say 买单 (mǎidān)?",
+    "options": [
+     "When you want to order food",
+     "When you want to say hello",
+     "When you want to ask for a table",
+     "When you want to pay the bill"
+    ],
+    "answer": 3,
+    "explanation": "买单 (mǎidān) means 'pay the bill'. A waiter will bring the check when you say it.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which phrase means 'an iced coffee'?",
+    "options": [
+     "热咖啡 (rè kāfēi)",
+     "牛奶咖啡 (niúnǎi kāfēi)",
+     "冰咖啡 (bīng kāfēi)",
+     "咖啡茶 (kāfēi chá)"
+    ],
+    "answer": 2,
+    "explanation": "冰 (bīng) is ice or iced. 热 is hot, and 牛奶咖啡 is coffee with milk.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The waiter asks 你要冰的还是热的？(Nǐ yào bīng de háishi rè de?) The customer says 冰的，谢谢。(Bīng de, xièxie.) What does the customer want?",
+    "options": [
+     "A hot drink",
+     "An iced drink",
+     "A bigger cup",
+     "Nothing"
+    ],
+    "answer": 1,
+    "explanation": "冰的 (bīng de) is 'the iced one'. The customer chose the first option.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Listening transcript: A: 我要两杯茶，一杯热的，一杯冰的。(Wǒ yào liǎng bēi chá, yì bēi rè de, yì bēi bīng de.) B: 还要别的吗？(Hái yào biéde ma?) A: 再要一块蛋糕。(Zài yào yí kuài dàngāo.) What is the full order?",
+    "options": [
+     "Two teas (one hot, one iced) and one cake",
+     "One tea and two cakes",
+     "Two hot teas and no cake",
+     "Two iced teas and one cake"
+    ],
+    "answer": 0,
+    "explanation": "两杯茶 is two cups of tea, split into one hot and one iced. 再要 (zài yào) adds one more item: a cake.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A customer says 我要三杯蛋糕。 What is the mistake?",
+    "options": [
+     "三 should be 山",
+     "要 should be 吃",
+     "The sentence needs 不",
+     "Cake needs the measure word 块, not 杯"
+    ],
+    "answer": 3,
+    "explanation": "杯 (bēi) is for cups and glasses. A piece of cake uses 块 (kuài): 三块蛋糕 (sān kuài dàngāo).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Cake is 15元 a piece and tea is 10元 a cup. Lei buys two pieces of cake and one tea, and pays with 50元. How much change does she get?",
+    "options": [
+     "20元",
+     "15元",
+     "10元",
+     "5元"
+    ],
+    "answer": 2,
+    "explanation": "Two cakes cost 2 × 15 = 30, plus 10 for the tea gives 40. 50 − 40 = 10.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Read: 我不要咖啡，我要一杯茶，不要糖。(Wǒ bú yào kāfēi, wǒ yào yì bēi chá, bú yào táng.) What does the customer NOT want?",
+    "options": [
+     "Tea and sugar",
+     "Coffee and sugar",
+     "Coffee and milk",
+     "Only tea"
+    ],
+    "answer": 1,
+    "explanation": "不要 (bú yào) means 'do not want'. 糖 (táng) is sugar. The customer wants tea.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "You have 25元. The menu: 咖啡 18元, 茶 12元, 蛋糕 15元, 可乐 8元. Which order can you afford?",
+    "options": [
+     "茶和可乐 (tea and cola)",
+     "咖啡和可乐 (coffee and cola)",
+     "茶和蛋糕 (tea and cake)",
+     "咖啡和蛋糕 (coffee and cake)"
+    ],
+    "answer": 0,
+    "explanation": "Tea plus cola is 12 + 8 = 20, within 25. Coffee and cola is 26, tea and cake is 27, and coffee and cake is 33, all over budget.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Setting the scene\nA café or small restaurant is one of the most useful settings for beginner Mandarin. A typical conversation is short: greet, order, answer one or two questions, ask for the price and pay. In an exam you will see this as a written dialogue, a menu with prices, or a listening transcript.\n\n## Key vocabulary\nPeople and things:\n- 服务员 (fúwùyuán, waiter or waitress)\n- 菜单 (càidān, menu)\n- 咖啡 (kāfēi, coffee)\n- 茶 (chá, tea)\n- 可乐 (kělè, cola)\n- 蛋糕 (dàngāo, cake)\n- 三明治 (sānmíngzhì, sandwich)\n- 冰淇淋 (bīngqílín, ice cream)\n\nDescribing drinks: 热 (rè, hot), 冰 (bīng, iced), 糖 (táng, sugar).\n\nUseful phrases:\n- 请问 (qǐngwèn, excuse me / may I ask)\n- 我要…(wǒ yào…, I would like…)\n- 请给我…(qǐng gěi wǒ…, please give me…)\n- 还要别的吗？(Hái yào biéde ma? Anything else?)\n- 不要了，谢谢。(Bú yào le, xièxie. No more, thank you.)\n- 这里吃还是带走？(Zhèlǐ chī háishi dàizǒu? Eat here or take away?)\n- 多少钱？(Duōshao qián? How much?)\n- 买单 (mǎidān, the bill, please)\n- 不客气 (bú kèqi, you are welcome)\n\n## Measure words for ordering\nIn Chinese you cannot say a number straight before a noun. You need a measure word.\n- 杯 (bēi) for cups and glasses: 一杯茶 (yì bēi chá), 两杯果汁 (liǎng bēi guǒzhī).\n- 碗 (wǎn) for bowls: 一碗米饭 (yì wǎn mǐfàn).\n- 块 (kuài) for pieces or slices: 一块蛋糕 (yí kuài dàngāo).\n- 个 (gè) is a general measure word: 一个三明治 (yí ge sānmíngzhì).\nNotice tone changes: 一 (yī) becomes yí before a fourth tone and yì before the other tones. This is why 一个 is yí ge and 一杯 is yì bēi. Your teacher may not examine this, but written pinyin in the exam will follow it.\n\n## Making an order\nA good basic sentence is 我要一杯热茶和一块蛋糕。(Wǒ yào yì bēi rè chá hé yí kuài dàngāo. I would like a cup of hot tea and a piece of cake.) 和 (hé) means 'and' and joins nouns, not whole sentences. To choose between two things, the waiter asks with 还是 (háishi, or): 你要冰的还是热的？You answer with the one you want: 冰的 (bīng de, the iced one).\n\n## Prices\nSpoken prices use 块 (kuài); written ones often use 元 (yuán). Both mean yuan. 18元 is shí bā kuài. Practise adding two or three prices in your head, because exam texts often ask you to find a total or the change from a banknote.\n\n## How this is examined\nTypical items give you a short menu with prices and a dialogue, then ask: What does the customer order? How much do they pay? What does the customer NOT want? A listening transcript may include a change of mind such as 不要咖啡，要茶 so read the whole dialogue before you decide. In writing, you could be asked to write a short role-play or message: order two items, ask the price, say thank you.\n\n## Common mistakes\n- Using the wrong measure word, such as 杯 with cake.\n- Mixing up 不要 (do not want) and 要 (want).\n- Reading only the first price and forgetting to add the second.\n- Confusing 买单 (pay the bill) with 菜单 (menu).\n\nExam tip: In a price question write the sum in the margin (for example 18 + 8 = 26) before you choose an option. The wrong options are usually the totals of other combinations.",
+  "flashcards": [
+   {
+    "front": "服务员",
+    "back": "fúwùyuán: waiter or waitress."
+   },
+   {
+    "front": "我要一杯茶。",
+    "back": "Wǒ yào yì bēi chá. I would like a cup of tea. 杯 (bēi) is the measure word for cups and glasses."
+   },
+   {
+    "front": "一块蛋糕",
+    "back": "yí kuài dàngāo: a piece of cake. 块 (kuài) is the measure word for pieces."
+   },
+   {
+    "front": "还要别的吗？",
+    "back": "Hái yào biéde ma? Anything else? Reply 不要了，谢谢 (bú yào le, xièxie) for no more."
+   },
+   {
+    "front": "这里吃还是带走？",
+    "back": "Zhèlǐ chī háishi dàizǒu? Eat here or take away? 还是 (háishi) means 'or' in questions."
+   },
+   {
+    "front": "多少钱？",
+    "back": "Duōshao qián? How much is it? Answer with a number plus 块 (kuài) or 元 (yuán)."
+   },
+   {
+    "front": "买单",
+    "back": "mǎidān: ask for the bill / pay. Not to be confused with 菜单 (càidān, menu)."
+   },
+   {
+    "front": "热 / 冰",
+    "back": "rè hot / bīng iced. 冰咖啡 = iced coffee, 热茶 = hot tea."
+   },
+   {
+    "front": "不客气",
+    "back": "bú kèqi: you are welcome. The reply to 谢谢 (xièxie, thank you)."
+   }
+  ]
+ },
+ {
+  "subject": "mandarin-ab-initio",
+  "grade": 5,
+  "topic": "Food and Shopping",
+  "subTopic": "Shopping, Prices and Clothes",
+  "questions": [
+   {
+    "content": "What does 贵 (guì) mean?",
+    "options": [
+     "Cheap",
+     "Expensive",
+     "Large",
+     "Fashionable"
+    ],
+    "answer": 1,
+    "explanation": "贵 (guì) means expensive. Cheap is 便宜 (piányi).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 裤子 (kùzi) mean?",
+    "options": [
+     "Trousers",
+     "Skirt",
+     "Shoes",
+     "Hat"
+    ],
+    "answer": 0,
+    "explanation": "裤子 (kùzi) is trousers. A skirt is 裙子 (qúnzi) and shoes are 鞋 (xié).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What colour is 红色 (hóngsè)?",
+    "options": [
+     "Blue",
+     "Green",
+     "Yellow",
+     "Red"
+    ],
+    "answer": 3,
+    "explanation": "红 (hóng) is red. Blue is 蓝 (lán), green is 绿 (lǜ) and yellow is 黄 (huáng).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which verb means 'to buy'?",
+    "options": [
+     "卖 (mài)",
+     "看 (kàn)",
+     "买 (mǎi)",
+     "给 (gěi)"
+    ],
+    "answer": 2,
+    "explanation": "买 (mǎi, third tone) is buy and 卖 (mài, fourth tone) is sell. The tone is the only difference in sound, so check the character.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 便宜 (piányi) mean?",
+    "options": [
+     "Expensive",
+     "Cheap",
+     "Heavy",
+     "Small"
+    ],
+    "answer": 1,
+    "explanation": "便宜 (piányi) means cheap or good value. Its opposite is 贵 (guì).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A customer asks 这件衣服多少钱？(Zhè jiàn yīfu duōshao qián?) What does she want to know?",
+    "options": [
+     "The price of this piece of clothing",
+     "The colour of the clothes",
+     "Whether she can try it on",
+     "Where the shop is"
+    ],
+    "answer": 0,
+    "explanation": "这件衣服 is 'this piece of clothing' and 多少钱 asks the price.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which measure word goes with 裤子 (trousers)?",
+    "options": [
+     "件 (jiàn)",
+     "个 (gè)",
+     "双 (shuāng)",
+     "条 (tiáo)"
+    ],
+    "answer": 3,
+    "explanation": "条 (tiáo) is used for long items such as trousers, skirts and scarves. 件 is for tops, and 双 is for pairs of shoes.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read: 这双鞋是白色的，一百二十块。(Zhè shuāng xié shì báisè de, yì bǎi èrshí kuài.) What colour and price?",
+    "options": [
+     "White, 102 yuan",
+     "Black, 120 yuan",
+     "White, 120 yuan",
+     "White, 12 yuan"
+    ],
+    "answer": 2,
+    "explanation": "白色 (báisè) is white. 一百二十 is 120; 102 would be 一百零二 (yì bǎi líng èr).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A customer says 太贵了，能便宜一点吗？(Tài guì le, néng piányi yìdiǎn ma?) What is she doing?",
+    "options": [
+     "Asking for a bigger size",
+     "Asking for a lower price",
+     "Asking where the till is",
+     "Saying the shop is closed"
+    ],
+    "answer": 1,
+    "explanation": "太贵了 means 'too expensive' and 能便宜一点吗 means 'can it be a little cheaper?'",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence means 'I would like to try this coat'?",
+    "options": [
+     "我想试一试这件外套。(Wǒ xiǎng shì yi shì zhè jiàn wàitào.)",
+     "我想买一条裤子。(Wǒ xiǎng mǎi yì tiáo kùzi.)",
+     "我想卖这件外套。(Wǒ xiǎng mài zhè jiàn wàitào.)",
+     "我不喜欢外套。(Wǒ bù xǐhuan wàitào.)"
+    ],
+    "answer": 0,
+    "explanation": "试一试 (shì yi shì) is 'try it'. The others talk about buying trousers, selling the coat and disliking coats.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence means 'I want to buy a blue T-shirt'?",
+    "options": [
+     "我想卖一件蓝色的T恤。(Wǒ xiǎng mài yí jiàn lánsè de T xù.)",
+     "我想买一条蓝色的T恤。(Wǒ xiǎng mǎi yì tiáo lánsè de T xù.)",
+     "我想买一件红色的T恤。(Wǒ xiǎng mǎi yí jiàn hóngsè de T xù.)",
+     "我想买一件蓝色的T恤。(Wǒ xiǎng mǎi yí jiàn lánsè de T xù.)"
+    ],
+    "answer": 3,
+    "explanation": "买 is buy (not 卖, sell), 件 is the measure word for tops (not 条), and 蓝色 is blue (not 红色, red).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Customer: 这条裙子有蓝色的吗？(Zhè tiáo qúnzi yǒu lánsè de ma?) Assistant: 有红色的和黑色的，没有蓝色的。(Yǒu hóngsè de hé hēisè de, méiyǒu lánsè de.) Which colours are available?",
+    "options": [
+     "Blue and black",
+     "Blue and red",
+     "Red and black",
+     "Only black"
+    ],
+    "answer": 2,
+    "explanation": "The assistant lists red (红色) and black (黑色) and says there is no blue one (没有蓝色的).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "T-shirts cost 45元 each. You buy two T-shirts and one hat that costs 30元. What is the total?",
+    "options": [
+     "75元",
+     "120元",
+     "90元",
+     "165元"
+    ],
+    "answer": 1,
+    "explanation": "2 × 45 = 90, then 90 + 30 = 120. 75 is one shirt plus the hat, 90 forgets the hat, 165 is three shirts plus the hat.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "You pay 200元. You buy shoes for 120元 and a hat for 35元. How much change do you get?",
+    "options": [
+     "45元",
+     "55元",
+     "80元",
+     "35元"
+    ],
+    "answer": 0,
+    "explanation": "120 + 35 = 155 and 200 − 155 = 45.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Listening transcript: A: 这件T恤多少钱？B: 八十块。A: 太贵了，我只有六十块。B: 那件五十五块，可以吗？A: 可以，我买那件。(…Nà jiàn wǔshíwǔ kuài, kěyǐ ma? Kěyǐ, wǒ mǎi nà jiàn.) What does A buy?",
+    "options": [
+     "This T-shirt for 80 yuan",
+     "This T-shirt for 60 yuan",
+     "Nothing",
+     "The other T-shirt for 55 yuan"
+    ],
+    "answer": 3,
+    "explanation": "A has only 60元. The first T-shirt is 80, too much, so A buys 那件 (nà jiàn, that one) at 55.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A shopper writes 我要两件裤子。 What is the mistake?",
+    "options": [
+     "两 should be 二",
+     "要 should be 买要",
+     "Trousers need 条: 两条裤子",
+     "裤子 should be 裙子"
+    ],
+    "answer": 2,
+    "explanation": "件 (jiàn) goes with tops and coats. Trousers take 条 (tiáo): 两条裤子 (liǎng tiáo kùzi).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Coats: 红色 150元, 蓝色 130元, 黑色 180元. Xiao Ma says: 我喜欢蓝色和黑色，不喜欢红色，但是我只有140元。(Wǒ xǐhuan lánsè hé hēisè, bù xǐhuan hóngsè, dànshì wǒ zhǐ yǒu yì bǎi sìshí kuài.) Which coat does he buy?",
+    "options": [
+     "The red coat",
+     "The blue coat",
+     "The black coat",
+     "He cannot buy any coat"
+    ],
+    "answer": 1,
+    "explanation": "He likes blue and black. Black costs 180, more than his 140, but blue costs 130 which he can afford. Red is also too expensive and he dislikes it.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Read: 我的裤子是黑色的，我的外套不是黑色的，是白色的。(Wǒ de kùzi shì hēisè de, wǒ de wàitào bú shì hēisè de, shì báisè de.) What is the writer wearing?",
+    "options": [
+     "Black trousers and a white coat",
+     "Black trousers and a black coat",
+     "White trousers and a black coat",
+     "White trousers and a white coat"
+    ],
+    "answer": 0,
+    "explanation": "不是…，是… means 'is not…, but is…'. The coat is not black; it is white.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Shopping scenes in Mandarin\nShopping texts are very common in beginner exams: a price tag, a short dialogue in a clothes shop, a message to a friend about what you bought, or a shop notice. You need three groups of language: things and colours, measure words and prices, and polite shopping phrases.\n\n## Clothes and colours\nClothes:\n- 衣服 (yīfu, clothes)\n- T恤 (T xù, T-shirt)\n- 外套 (wàitào, coat or jacket)\n- 裤子 (kùzi, trousers)\n- 裙子 (qúnzi, skirt)\n- 鞋 (xié, shoes)\n- 帽子 (màozi, hat)\n\nColours (all end in 色, sè, colour):\n- 红色 (hóngsè, red)\n- 蓝色 (lánsè, blue)\n- 白色 (báisè, white)\n- 黑色 (hēisè, black)\n- 绿色 (lǜsè, green)\n- 黄色 (huángsè, yellow)\n\nTo describe a colour, add 的 (de): 我的外套是白色的 (wǒ de wàitào shì báisè de, my coat is white). Size words are 大 (dà, big) and 小 (xiǎo, small).\n\n## Measure words for clothes\n- 件 (jiàn) for tops and coats: 一件T恤 (yí jiàn T xù), 两件外套 (liǎng jiàn wàitào).\n- 条 (tiáo) for trousers and skirts: 一条裤子 (yì tiáo kùzi), 一条裙子 (yì tiáo qúnzi).\n- 双 (shuāng) for pairs: 一双鞋 (yì shuāng xié).\nThe measure word must match the item. This is one of the most tested details.\n\n## Prices and numbers\nRemember the pattern: 一百 (yì bǎi, 100), 一百二十 (yì bǎi èrshí, 120), 一百零二 (yì bǎi líng èr, 102). The 零 (líng, zero) marks the gap in 102. Prices end in 块 (kuài) or 元 (yuán). To ask the price use 多少钱？(Duōshao qián?) or 这件多少钱？(Zhè jiàn duōshao qián?).\n\nOpinions about price: 贵 (guì, expensive), 便宜 (piányi, cheap), 太贵了 (tài guì le, too expensive). To ask for a discount say 能便宜一点吗？(Néng piányi yìdiǎn ma? Can it be a little cheaper?)\n\n## Useful shop phrases\n- 我想买…(wǒ xiǎng mǎi…, I want to buy…)\n- 我可以试一试吗？(Wǒ kěyǐ shì yi shì ma? May I try it on?)\n- 有大的吗？(Yǒu dà de ma? Do you have a bigger one?)\n- 有…吗？ / 没有…(Yǒu… ma? / Méiyǒu…, Do you have…? / There is no…)\n- 我买这个。(Wǒ mǎi zhège. I will take this one.)\nTake care with 买 (mǎi, buy) and 卖 (mài, sell). The characters and tones differ.\n\n## How this is examined\nYou may see a price list with three or four items and a customer with a budget. Questions ask what the customer can afford, what the total is, or how much change they get. In dialogues, the speaker often rejects the first item (\"too expensive\") and takes another, so the answer is the second item. Writing tasks usually ask you to describe what you bought, its colour and its price in two or three sentences.\n\n## Common mistakes\n- Using 件 for trousers or 条 for tops.\n- Reading 一百零二 (102) as 120.\n- Confusing 买 and 卖.\n- Answering with the first item mentioned rather than the final choice.\n\nExam tip: In a budget question, cross out every option that costs more than the money the customer has, then check that the remaining option matches the colour or the item the customer likes.",
+  "flashcards": [
+   {
+    "front": "贵 / 便宜",
+    "back": "guì expensive / piányi cheap. 太贵了 (tài guì le) = too expensive."
+   },
+   {
+    "front": "件 vs 条",
+    "back": "件 (jiàn) for tops and coats: 一件T恤. 条 (tiáo) for trousers and skirts: 一条裤子."
+   },
+   {
+    "front": "双",
+    "back": "shuāng: measure word for pairs, e.g. 一双鞋 (yì shuāng xié, a pair of shoes)."
+   },
+   {
+    "front": "红, 蓝, 白, 黑色",
+    "back": "hóngsè red, lánsè blue, báisè white, hēisè black. 色 (sè) = colour."
+   },
+   {
+    "front": "买 vs 卖",
+    "back": "mǎi (3rd tone) = buy; mài (4th tone) = sell. 我想买一件外套 = I want to buy a coat."
+   },
+   {
+    "front": "我可以试一试吗？",
+    "back": "Wǒ kěyǐ shì yi shì ma? May I try it on?"
+   },
+   {
+    "front": "能便宜一点吗？",
+    "back": "Néng piányi yìdiǎn ma? Can it be a little cheaper? Used when asking for a discount."
+   },
+   {
+    "front": "102 vs 120",
+    "back": "一百零二 (yì bǎi líng èr) = 102; 一百二十 (yì bǎi èrshí) = 120. 零 (líng) fills the gap."
+   },
+   {
+    "front": "不是…，是…",
+    "back": "bú shì…, shì…: is not…, but is… 我的外套不是黑色的，是白色的。"
+   }
+  ]
+ }
+]

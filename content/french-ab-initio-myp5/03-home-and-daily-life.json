@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "french-ab-initio",
+  "grade": 5,
+  "topic": "Home and Daily Life",
+  "subTopic": "Rooms and Furniture",
+  "questions": [
+   {
+    "content": "What does 'la cuisine' mean?",
+    "options": [
+     "the bedroom",
+     "the kitchen",
+     "the bathroom",
+     "the garden"
+    ],
+    "answer": 1,
+    "explanation": "'La cuisine' is the kitchen, the room where meals are cooked. The bedroom is 'la chambre'.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which French word means 'bedroom'?",
+    "options": [
+     "la salle de bains",
+     "le salon",
+     "la cuisine",
+     "la chambre"
+    ],
+    "answer": 3,
+    "explanation": "'La chambre' is the bedroom. 'La salle de bains' is the bathroom and 'le salon' is the living room.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'un lit' mean?",
+    "options": [
+     "a bed",
+     "a table",
+     "a wardrobe",
+     "a window"
+    ],
+    "answer": 0,
+    "explanation": "'Un lit' is a bed. A table is 'une table' and a wardrobe is 'une armoire'.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'le salon' mean?",
+    "options": [
+     "the garage",
+     "the kitchen",
+     "the living room",
+     "the bathroom"
+    ],
+    "answer": 2,
+    "explanation": "'Le salon' is the living room, where the family relaxes. It is not a 'salon' for hairdressing in this context.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which word means 'a chair'?",
+    "options": [
+     "une chambre",
+     "un chat",
+     "une chaise",
+     "une chaussure"
+    ],
+    "answer": 2,
+    "explanation": "'Une chaise' is a chair. The other words look similar at the start but mean bedroom, cat and shoe.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Where do you usually eat the family meal in a large house?",
+    "options": [
+     "dans la salle à manger",
+     "dans la salle de bains",
+     "dans le garage",
+     "dans la chambre"
+    ],
+    "answer": 0,
+    "explanation": "'La salle à manger' is the dining room, from 'manger' (to eat). 'La salle de bains' is for washing.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 'Il y a un canapé dans le salon' mean?",
+    "options": [
+     "There is a table in the kitchen.",
+     "He has a sofa in the bedroom.",
+     "The sofa is in the garden.",
+     "There is a sofa in the living room."
+    ],
+    "answer": 3,
+    "explanation": "'Il y a' means 'there is/there are'. 'Un canapé' is a sofa and 'le salon' is the living room.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which phrase correctly says 'a house'?",
+    "options": [
+     "un maison",
+     "une maison",
+     "le maison",
+     "un maisons"
+    ],
+    "answer": 1,
+    "explanation": "'Maison' is feminine, so it takes 'une'. Learn each noun together with its article.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "'J'habite dans un appartement au deuxième étage.' What does this mean?",
+    "options": [
+     "I work in a flat on the second floor.",
+     "I live in a flat on the second floor.",
+     "I live in a house with two floors.",
+     "I am looking for a flat with two rooms."
+    ],
+    "answer": 1,
+    "explanation": "'J'habite' is 'I live', 'un appartement' is a flat and 'au deuxième étage' is on the second floor.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "'Le chat est sous la table.' Where is the cat?",
+    "options": [
+     "on the table",
+     "behind the table",
+     "next to the table",
+     "under the table"
+    ],
+    "answer": 3,
+    "explanation": "'Sous' means under. 'Sur' is on, 'derrière' is behind and 'à côté de' is next to.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "'Le livre est sur le bureau.' Where is the book?",
+    "options": [
+     "on the desk",
+     "under the desk",
+     "in the desk",
+     "in front of the desk"
+    ],
+    "answer": 0,
+    "explanation": "'Sur' means on, and 'le bureau' is the desk (it can also mean office).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In which room do you take a shower?",
+    "options": [
+     "dans la cuisine",
+     "dans le salon",
+     "dans la salle de bains",
+     "dans le jardin"
+    ],
+    "answer": 2,
+    "explanation": "'La salle de bains' is the bathroom, where you wash. The shower is 'la douche'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "'Ma chambre est petite mais confortable.' What does this mean?",
+    "options": [
+     "My room is big and comfortable.",
+     "My bedroom is small and untidy.",
+     "My bedroom is small but comfortable.",
+     "My kitchen is small but modern."
+    ],
+    "answer": 2,
+    "explanation": "'Petite' is small, 'mais' is but and 'confortable' is the same as in English.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Read the description. 'Voici ma maison. Au rez-de-chaussée, il y a la cuisine et le salon. À l'étage, il y a trois chambres et une salle de bains. Derrière la maison, il y a un jardin.' Which statement is true?",
+    "options": [
+     "There are three bedrooms upstairs.",
+     "The kitchen is upstairs.",
+     "The garden is in front of the house.",
+     "There is no living room."
+    ],
+    "answer": 0,
+    "explanation": "'À l'étage' means upstairs, where there are three bedrooms. The kitchen is on the ground floor and the garden is 'derrière' (behind).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Listening transcript: 'Dans ma chambre, j'ai un lit, une armoire et un bureau. Il n'y a pas de télévision.' Which item is NOT in the bedroom?",
+    "options": [
+     "a wardrobe",
+     "a desk",
+     "a bed",
+     "a television"
+    ],
+    "answer": 3,
+    "explanation": "'Il n'y a pas de télévision' means there is no television. A bed, wardrobe and desk are all mentioned.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence correctly says 'There is no garden'?",
+    "options": [
+     "Il n'y a pas un jardin.",
+     "Il n'y a pas de jardin.",
+     "Il y a pas de jardin.",
+     "Il n'y a pas du jardin."
+    ],
+    "answer": 1,
+    "explanation": "After a negative, 'un/une/du' becomes 'de', and the 'ne' must be kept: 'Il n'y a pas de jardin'.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "'Le lit est à côté de la fenêtre. Le bureau est en face du lit.' Where is the desk?",
+    "options": [
+     "next to the window",
+     "opposite the bed",
+     "under the bed",
+     "behind the window"
+    ],
+    "answer": 1,
+    "explanation": "'En face de' means opposite. The bed is next to the window, but the desk is across from the bed.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Flat advert: 'À louer : appartement, trois pièces, cuisine équipée, balcon, pas d'ascenseur.' Which statement is true?",
+    "options": [
+     "It has a lift.",
+     "It has a garden.",
+     "It has no kitchen.",
+     "It has a balcony."
+    ],
+    "answer": 3,
+    "explanation": "'Un balcon' is a balcony. 'Pas d'ascenseur' means no lift, and 'cuisine équipée' means a fitted kitchen.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Talking about your home is one of the most common topics in a beginner French exam. This note gives you the vocabulary for the rooms and furniture, and the simple structures you need to describe where things are.\n\n## The rooms\n- la maison (the house) and un appartement (a flat)\n- la cuisine (the kitchen)\n- le salon (the living room) and la salle à manger (the dining room)\n- la chambre (the bedroom)\n- la salle de bains (the bathroom) and les toilettes (the toilet)\n- le jardin (the garden), le garage (the garage), le balcon (the balcony)\n- l'étage (the upper floor) and le rez-de-chaussée (the ground floor)\n\nAlways learn the article with the noun. In French every noun is masculine or feminine, so it is \"un jardin\" but \"une cuisine\". Do not guess from the English word.\n\n## The furniture\n- un lit (a bed), une armoire (a wardrobe), un bureau (a desk)\n- une table (a table), une chaise (a chair), un canapé (a sofa)\n- une lampe (a lamp), une fenêtre (a window), une porte (a door)\n- un fauteuil (an armchair), une étagère (a shelf), un tapis (a rug)\n\n## Saying what there is\nUse \"il y a\" for both \"there is\" and \"there are\". Example: \"Dans ma chambre, il y a un lit et une armoire\" (In my bedroom there is a bed and a wardrobe). To say there is not, use \"il n'y a pas de\": \"Il n'y a pas de télévision\" (There is no television). After a negative, un, une and des all change to \"de\" (or \"d'\" before a vowel).\n\n## Saying where things are\nThese small words are very examinable:\n- sur (on), sous (under), dans (in)\n- devant (in front of), derrière (behind)\n- à côté de (next to), en face de (opposite), entre (between)\n\nRemember that \"de\" joins with le and les: \"à côté du lit\" (next to the bed), \"en face des fenêtres\" (opposite the windows). With la you keep the two words: \"à côté de la table\".\n\n## Describing your home\nUse \"j'habite\" (I live) with \"dans une maison\" or \"dans un appartement\". Add adjectives, and make them agree: \"Ma chambre est petite\" (feminine), \"Mon salon est grand\" (masculine). Useful words include grand (big), petit (small), moderne (modern), confortable and clair (bright). Note that \"au deuxième étage\" means on the second floor.\n\n## Common mistakes\n- Writing \"un maison\" instead of \"une maison\".\n- Writing \"il n'y a pas un jardin\" instead of \"il n'y a pas de jardin\".\n- Mixing up \"la salle de bains\" (bathroom) with \"la chambre\" (bedroom), or \"le bureau\" (desk) with the English word \"bureau\".\n- Forgetting that \"au rez-de-chaussée\" is the ground floor, so \"au premier étage\" is what English calls the first floor up.\n\n## How this is examined\nIn reading tasks you may see a short estate agent advert, a message from a pen friend describing their house, or a plan with labels. In listening tasks (given to you as a transcript) someone describes their bedroom and you must note which items are present or absent. In writing tasks you describe your own home in three to five sentences, using \"il y a\", a preposition and an adjective.\n\nExam tip: Look out for \"pas de\" in a text. Students often pick an item that is mentioned even though the speaker says it is not there.",
+  "flashcards": [
+   {
+    "front": "la salle de bains",
+    "back": "the bathroom"
+   },
+   {
+    "front": "le salon",
+    "back": "the living room"
+   },
+   {
+    "front": "une armoire",
+    "back": "a wardrobe"
+   },
+   {
+    "front": "Il y a...",
+    "back": "There is / there are..."
+   },
+   {
+    "front": "Il n'y a pas de...",
+    "back": "There is no... / there are no... (de after a negative)"
+   },
+   {
+    "front": "à côté de / en face de",
+    "back": "next to / opposite"
+   },
+   {
+    "front": "sous / sur / derrière",
+    "back": "under / on / behind"
+   },
+   {
+    "front": "au rez-de-chaussée",
+    "back": "on the ground floor"
+   },
+   {
+    "front": "J'habite dans un appartement.",
+    "back": "I live in a flat."
+   }
+  ]
+ },
+ {
+  "subject": "french-ab-initio",
+  "grade": 5,
+  "topic": "Home and Daily Life",
+  "subTopic": "Daily Routines",
+  "questions": [
+   {
+    "content": "What does 'Je me réveille' mean?",
+    "options": [
+     "I wake up",
+     "I get dressed",
+     "I go to bed",
+     "I have lunch"
+    ],
+    "answer": 0,
+    "explanation": "'Se réveiller' means to wake up. 'Je me couche' is I go to bed.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'Je prends le petit déjeuner' mean?",
+    "options": [
+     "I have lunch",
+     "I have dinner",
+     "I have breakfast",
+     "I make a snack"
+    ],
+    "answer": 2,
+    "explanation": "'Le petit déjeuner' is breakfast, 'le déjeuner' is lunch and 'le dîner' is dinner.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'Je me couche' mean?",
+    "options": [
+     "I get up",
+     "I have a shower",
+     "I go to bed",
+     "I do my homework"
+    ],
+    "answer": 2,
+    "explanation": "'Se coucher' means to go to bed. 'Se lever' means to get up.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'Je vais à l'école' mean?",
+    "options": [
+     "I go to school",
+     "I leave school",
+     "I like school",
+     "I come from school"
+    ],
+    "answer": 0,
+    "explanation": "'Aller à' means to go to. 'Je vais' is 'I go'.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'le matin' mean?",
+    "options": [
+     "in the evening",
+     "at night",
+     "in the afternoon",
+     "in the morning"
+    ],
+    "answer": 3,
+    "explanation": "'Le matin' is the morning, 'l'après-midi' is the afternoon and 'le soir' is the evening.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Complete the sentence: 'Elle ___ à sept heures.'",
+    "options": [
+     "me lève",
+     "se lève",
+     "te lève",
+     "nous levons"
+    ],
+    "answer": 1,
+    "explanation": "With 'elle' the reflexive pronoun is 'se'. 'Se lever' means to get up.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 'Je me brosse les dents' mean?",
+    "options": [
+     "I wash my hair",
+     "I brush my teeth",
+     "I tidy my room",
+     "I take a shower"
+    ],
+    "answer": 1,
+    "explanation": "'Les dents' are teeth and 'se brosser' means to brush. French uses 'les' instead of 'my' for body parts.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Complete the sentence: 'Nous ___ au collège à pied.'",
+    "options": [
+     "allez",
+     "vont",
+     "vais",
+     "allons"
+    ],
+    "answer": 3,
+    "explanation": "'Aller' with 'nous' is 'allons'. 'Allez' goes with vous and 'vont' with ils/elles.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "'Je fais mes devoirs le soir.' When does the speaker do homework?",
+    "options": [
+     "in the evening",
+     "in the morning",
+     "at lunchtime",
+     "at the weekend"
+    ],
+    "answer": 0,
+    "explanation": "'Le soir' means in the evening. 'Mes devoirs' is my homework.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which word means 'then / afterwards' when you describe your day?",
+    "options": [
+     "toujours",
+     "jamais",
+     "ensuite",
+     "souvent"
+    ],
+    "answer": 2,
+    "explanation": "'Ensuite' means then or next. 'Toujours' is always, 'jamais' never and 'souvent' often.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "'D'habitude, je déjeune à la cantine.' What does 'd'habitude' mean?",
+    "options": [
+     "never",
+     "sometimes",
+     "usually",
+     "yesterday"
+    ],
+    "answer": 2,
+    "explanation": "'D'habitude' means usually. The sentence says I usually have lunch at the canteen.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which verb means 'to get dressed'?",
+    "options": [
+     "s'habiller",
+     "se laver",
+     "se coucher",
+     "se réveiller"
+    ],
+    "answer": 0,
+    "explanation": "'S'habiller' is to get dressed. 'Se laver' is to wash.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 'Tu te couches à quelle heure ?' ask?",
+    "options": [
+     "What time do you wake up?",
+     "Where do you go to bed?",
+     "Why do you go to bed?",
+     "What time do you go to bed?"
+    ],
+    "answer": 3,
+    "explanation": "'À quelle heure' is 'at what time' and 'te couches' is 'you go to bed'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Chloé writes: 'Je me lève à six heures et demie. Je prends le bus à sept heures et quart. Les cours commencent à huit heures. Après l'école, je fais mes devoirs et je dîne avec ma famille.' What does Chloé do after school?",
+    "options": [
+     "takes the bus to the market",
+     "homework and dinner with her family",
+     "gets up and has breakfast",
+     "watches television with friends"
+    ],
+    "answer": 1,
+    "explanation": "'Après l'école' introduces her evening: 'je fais mes devoirs et je dîne avec ma famille'. The bus and getting up are in the morning.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence is the correct negative?",
+    "options": [
+     "Je ne réveille me pas tôt.",
+     "Je ne me réveille pas tôt.",
+     "Je me ne réveille pas tôt.",
+     "Je pas me réveille tôt."
+    ],
+    "answer": 1,
+    "explanation": "With a reflexive verb, 'ne' goes before the pronoun and 'pas' after the verb: 'ne me réveille pas'.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Listening transcript: 'Le week-end, je ne me lève pas tôt. Je me lève à dix heures et je regarde la télé.' What is different at the weekend?",
+    "options": [
+     "She goes to school.",
+     "She gets up earlier.",
+     "She never watches television.",
+     "She gets up later."
+    ],
+    "answer": 3,
+    "explanation": "She does not get up early ('pas tôt'); she gets up at ten o'clock, so later than on school days.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Complete the sentence: 'Nous ___ couchons à vingt-deux heures.'",
+    "options": [
+     "nous",
+     "me",
+     "se",
+     "vous"
+    ],
+    "answer": 0,
+    "explanation": "The reflexive pronoun must match the subject: 'nous nous couchons'.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "'Mon frère ne se douche jamais le matin ; il se douche le soir.' Which statement is true?",
+    "options": [
+     "He showers every morning.",
+     "He never showers.",
+     "He showers in the evening.",
+     "He showers in the afternoon."
+    ],
+    "answer": 2,
+    "explanation": "'Ne... jamais' means never, so he never showers in the morning. He showers in the evening instead.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Describing your daily routine is a favourite exam topic because it lets you show verbs, times and linking words at the same time. At beginner level you only need the present tense and a good stock of everyday actions.\n\n## Key actions\n- Je me réveille (I wake up)\n- Je me lève (I get up)\n- Je me lave / Je prends une douche (I wash / I have a shower)\n- Je m'habille (I get dressed)\n- Je me brosse les dents (I brush my teeth)\n- Je prends le petit déjeuner (I have breakfast)\n- Je vais à l'école (I go to school) and je rentre à la maison (I go home)\n- Je fais mes devoirs (I do my homework)\n- Je dîne (I have dinner)\n- Je me couche (I go to bed)\n\n## Reflexive verbs\nMany routine verbs are reflexive. They have an extra small word between the subject and the verb: me, te, se, nous, vous, se. For example, se lever:\n- je me lève, tu te lèves, il/elle se lève\n- nous nous levons, vous vous levez, ils/elles se lèvent\n\nBefore a vowel, me becomes m' and se becomes s': \"je m'habille\", \"il s'habille\". Note the accent change in \"je me lève\" (è) but not in \"nous nous levons\".\n\n## Negatives with reflexive verbs\nPut \"ne\" before the reflexive pronoun and \"pas\" after the verb: \"Je ne me lève pas tôt\" (I do not get up early). Other useful negatives follow the same pattern: \"ne... jamais\" (never), as in \"Il ne se couche jamais avant minuit\".\n\n## Linking your day together\n- d'abord (first), puis / ensuite (then), après (afterwards), enfin (finally)\n- le matin (in the morning), l'après-midi (in the afternoon), le soir (in the evening)\n- toujours (always), souvent (often), parfois (sometimes), d'habitude (usually), jamais (never)\n\nA model answer: \"D'habitude, je me réveille à sept heures. Ensuite, je prends une douche et je m'habille. Je prends le petit déjeuner avec ma famille, puis je vais à l'école en bus. Le soir, je fais mes devoirs et je me couche à dix heures.\"\n\n## Useful irregular verbs\n- aller: je vais, tu vas, il va, nous allons, vous allez, ils vont\n- faire: je fais, tu fais, il fait, nous faisons, vous faites, ils font\n- prendre: je prends, tu prends, il prend, nous prenons, vous prenez, ils prennent\n\n## Common mistakes\n- Forgetting the reflexive pronoun: writing \"Je lève\" instead of \"Je me lève\".\n- Using the wrong pronoun for the subject, such as \"nous me couchons\".\n- Putting \"pas\" in the wrong place in a negative sentence.\n- Confusing \"le petit déjeuner\" (breakfast), \"le déjeuner\" (lunch) and \"le dîner\" (dinner).\n\n## How this is examined\nYou may read a short blog or message where someone describes a typical day and answer questions on what they do and when. In the listening transcript you might hear two friends compare a weekday with a weekend. In writing you describe your routine in four to six sentences, using times, frequency words and at least one reflexive verb.\n\nExam tip: Watch frequency words. \"Toujours\", \"souvent\" and \"jamais\" change the meaning completely, so underline them in the text before you choose an answer.",
+  "flashcards": [
+   {
+    "front": "se lever",
+    "back": "to get up: je me lève, tu te lèves, il se lève, nous nous levons"
+   },
+   {
+    "front": "Je me couche à dix heures.",
+    "back": "I go to bed at ten o'clock."
+   },
+   {
+    "front": "le petit déjeuner / le déjeuner / le dîner",
+    "back": "breakfast / lunch / dinner"
+   },
+   {
+    "front": "d'abord, puis, ensuite, enfin",
+    "back": "first, then, next, finally"
+   },
+   {
+    "front": "toujours / souvent / parfois / jamais",
+    "back": "always / often / sometimes / never"
+   },
+   {
+    "front": "Je ne me lève pas tôt.",
+    "back": "I do not get up early. (ne before the reflexive pronoun, pas after the verb)"
+   },
+   {
+    "front": "faire mes devoirs",
+    "back": "to do my homework: je fais mes devoirs"
+   },
+   {
+    "front": "aller (present)",
+    "back": "je vais, tu vas, il va, nous allons, vous allez, ils vont"
+   },
+   {
+    "front": "s'habiller",
+    "back": "to get dressed: je m'habille (me becomes m' before a vowel)"
+   }
+  ]
+ },
+ {
+  "subject": "french-ab-initio",
+  "grade": 5,
+  "topic": "Home and Daily Life",
+  "subTopic": "Telling the Time",
+  "questions": [
+   {
+    "content": "What does 'Il est huit heures' mean?",
+    "options": [
+     "It is eighteen minutes.",
+     "He is eight years old.",
+     "It is eight o'clock.",
+     "It is half past eight."
+    ],
+    "answer": 2,
+    "explanation": "'Il est... heures' tells the time. 'Huit heures' is eight o'clock.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'midi' mean?",
+    "options": [
+     "noon (12 p.m.)",
+     "midnight",
+     "half past twelve",
+     "midday meal"
+    ],
+    "answer": 0,
+    "explanation": "'Midi' is noon. Midnight is 'minuit'.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'minuit' mean?",
+    "options": [
+     "noon",
+     "a minute",
+     "one o'clock",
+     "midnight"
+    ],
+    "answer": 3,
+    "explanation": "'Minuit' is midnight. Do not confuse it with 'minute' (a minute) in English.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which time is 'Il est trois heures et demie'?",
+    "options": [
+     "2:30",
+     "3:30",
+     "3:15",
+     "3:45"
+    ],
+    "answer": 1,
+    "explanation": "'Et demie' means half past, so three o'clock and a half is 3:30.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which time is 'Il est dix heures et quart'?",
+    "options": [
+     "9:45",
+     "10:15",
+     "10:30",
+     "10:45"
+    ],
+    "answer": 1,
+    "explanation": "'Et quart' means quarter past, so 10:15.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "How do you say 7:45 in French?",
+    "options": [
+     "Il est sept heures et quart.",
+     "Il est sept heures et demie.",
+     "Il est huit heures et quart.",
+     "Il est huit heures moins le quart."
+    ],
+    "answer": 3,
+    "explanation": "7:45 is a quarter to eight, so 'huit heures moins le quart'. 'Moins' means minus (to).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which time is 'Il est trois heures moins dix'?",
+    "options": [
+     "2:50",
+     "3:10",
+     "2:10",
+     "3:50"
+    ],
+    "answer": 0,
+    "explanation": "'Moins dix' means ten minutes to, so ten to three is 2:50.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How do you say 9:20?",
+    "options": [
+     "Il est neuf heures moins vingt.",
+     "Il est vingt heures neuf.",
+     "Il est neuf heures vingt.",
+     "Il est neuf heures et quart."
+    ],
+    "answer": 2,
+    "explanation": "For minutes past the hour, say the hour then the number: 'neuf heures vingt'. 'Moins vingt' would be 8:40.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does 'À quelle heure commence le film ?' ask?",
+    "options": [
+     "How long is the film?",
+     "Where is the film shown?",
+     "At what time does the film start?",
+     "Which film is on?"
+    ],
+    "answer": 2,
+    "explanation": "'À quelle heure' means at what time and 'commence' means starts.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A French train timetable says 'Le train part à 14h30.' What time is this?",
+    "options": [
+     "2:30 p.m.",
+     "4:30 a.m.",
+     "12:30 p.m.",
+     "2:30 a.m."
+    ],
+    "answer": 0,
+    "explanation": "The French often use the 24-hour clock. 14h is 2 p.m., so 14h30 is 2:30 p.m.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How do you write 18:05 in words?",
+    "options": [
+     "huit heures cinq",
+     "dix-huit heures et demie",
+     "huit heures moins cinq",
+     "dix-huit heures cinq"
+    ],
+    "answer": 3,
+    "explanation": "On the 24-hour clock 18h is 'dix-huit heures'; then add 'cinq' for five minutes past.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What time is 'Il est midi et demi'?",
+    "options": [
+     "12:15",
+     "12:30",
+     "11:30",
+     "1:30"
+    ],
+    "answer": 1,
+    "explanation": "'Midi' is 12 noon and 'et demi' adds half an hour, so 12:30. With 'midi' and 'minuit' the word is 'demi' (no e).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "'Le cours finit à seize heures quinze.' When does the lesson finish?",
+    "options": [
+     "6:15 a.m.",
+     "4:15 p.m.",
+     "1:15 p.m.",
+     "4:50 p.m."
+    ],
+    "answer": 1,
+    "explanation": "Sixteen hours is 4 p.m. (16 − 12 = 4) and 'quinze' means 15 minutes past.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Timetable: 'Train Paris–Lyon : départ 09h12, arrivée 11h27.' How long is the journey?",
+    "options": [
+     "2 hours 25 minutes",
+     "1 hour 15 minutes",
+     "2 hours 45 minutes",
+     "2 hours 15 minutes"
+    ],
+    "answer": 3,
+    "explanation": "From 09:12 to 11:12 is 2 hours; then 15 more minutes reach 11:27. Total 2 hours 15 minutes.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "School notice: 'Les cours commencent à huit heures moins le quart et la récréation est à dix heures dix.' Which times are given?",
+    "options": [
+     "7:45 and 10:10",
+     "8:15 and 10:10",
+     "7:45 and 9:50",
+     "8:45 and 10:10"
+    ],
+    "answer": 0,
+    "explanation": "'Huit heures moins le quart' is 7:45 and 'dix heures dix' is 10:10.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Cinema: 'Séance de 20h45. Le film dure une heure et demie.' At what time does the film end?",
+    "options": [
+     "21h45",
+     "22h45",
+     "22h15",
+     "21h15"
+    ],
+    "answer": 2,
+    "explanation": "20h45 plus 1 hour 30 minutes is 22h15 (20:45 + 1:30). In words: 'vingt-deux heures quinze'.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which time is 'Il est minuit moins cinq'?",
+    "options": [
+     "12:05 a.m.",
+     "11:05 p.m.",
+     "11:55 p.m.",
+     "12:55 a.m."
+    ],
+    "answer": 2,
+    "explanation": "'Moins cinq' means five minutes before, so five to midnight is 11:55 p.m.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence contains a mistake?",
+    "options": [
+     "Il est quatre heure et demie.",
+     "Il est une heure.",
+     "Il est trois heures.",
+     "Il est midi et quart."
+    ],
+    "answer": 0,
+    "explanation": "'Heure' needs an 's' for plural: 'quatre heures et demie'. The other sentences are correct.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Being able to read and say times is an essential skill, because timetables, tickets, posters and school notices all use them. The good news is that French follows a clear pattern.\n\n## The basic question and answer\n- Quelle heure est-il ? (What time is it?)\n- Il est... (It is...)\n- À quelle heure ? (At what time?)\n- À... (At...)\n\nExamples: \"Il est huit heures\" (It is eight o'clock), \"Le cours commence à neuf heures\" (The lesson starts at nine).\n\n## On the hour\nSay \"il est\" + number + \"heure(s)\". Only one o'clock is singular: \"Il est une heure\". All others take an s: \"deux heures\", \"trois heures\". Two special words exist:\n- midi (noon) and minuit (midnight)\nThey are never followed by \"heures\".\n\n## Minutes past, half past, quarter past\n- Il est cinq heures cinq (5:05), cinq heures dix (5:10), cinq heures vingt (5:20)\n- Il est cinq heures et quart (5:15)\n- Il est cinq heures et demie (5:30)\nWith midi and minuit the word is \"demi\" with no e: \"midi et demi\" (12:30).\n\n## Minutes to the hour\nUse \"moins\" (minus) and the next hour:\n- Il est six heures moins vingt-cinq (5:35)\n- Il est six heures moins vingt (5:40)\n- Il est six heures moins le quart (5:45)\n- Il est six heures moins dix (5:50)\n- Il est six heures moins cinq (5:55)\nDo not say \"cinq heures quarante-cinq\" in a normal conversation, although this is correct on a timetable.\n\n## The 24-hour clock\nFrench timetables, tickets and TV guides use the 24-hour clock. You say the hour and then the minutes, with no \"et quart\" or \"moins\":\n- 14h30 = quatorze heures trente (2:30 p.m.)\n- 18h05 = dix-huit heures cinq (6:05 p.m.)\n- 21h45 = vingt et une heures quarante-cinq (9:45 p.m.)\nTo convert from the 24-hour clock, subtract twelve from any hour above 12: 16h becomes 4 p.m.\n\n## Useful time words\n- le matin (morning), l'après-midi (afternoon), le soir (evening), la nuit (night)\n- ce matin (this morning), demain (tomorrow), hier (yesterday)\n- commencer (to start), finir (to finish), partir (to leave), arriver (to arrive)\n- un horaire (a timetable), la durée (the length of time)\n\n## Worked example\nA train leaves at 16h20 and arrives at 18h05. From 16:20 to 18:20 would be two hours, but 18:05 is 15 minutes earlier, so the journey lasts 1 hour 45 minutes (\"une heure quarante-cinq\").\n\n## Common mistakes\n- Forgetting the s in \"heures\" (except for une heure).\n- Reading \"moins le quart\" as quarter past instead of quarter to.\n- Not converting 24-hour times, so thinking \"17h\" is 7 o'clock.\n- Mixing \"minuit\" (midnight) with \"minute\".\n\n## How this is examined\nExpect timetables, cinema listings, transport announcements and school schedules. In the listening transcript you may have to hear two times and pick the right one. The question often asks you to work out an ending time or a duration, so practise adding and subtracting.\n\nExam tip: Write the digits next to the French text as soon as you read it, for example \"moins le quart = :45 of the hour before\", so that you do not misread a time under pressure.",
+  "flashcards": [
+   {
+    "front": "Quelle heure est-il ?",
+    "back": "What time is it?"
+   },
+   {
+    "front": "Il est une heure.",
+    "back": "It is one o'clock. (une heure is singular; others take heures)"
+   },
+   {
+    "front": "et quart / et demie",
+    "back": "quarter past / half past (midi et demi, minuit et demi)"
+   },
+   {
+    "front": "moins le quart",
+    "back": "quarter to: Il est huit heures moins le quart = 7:45"
+   },
+   {
+    "front": "moins dix",
+    "back": "ten to: trois heures moins dix = 2:50"
+   },
+   {
+    "front": "midi / minuit",
+    "back": "noon / midnight"
+   },
+   {
+    "front": "14h30",
+    "back": "quatorze heures trente = 2:30 p.m. (24-hour clock)"
+   },
+   {
+    "front": "À quelle heure commence le film ?",
+    "back": "At what time does the film start?"
+   },
+   {
+    "front": "Le train part à 18h05.",
+    "back": "The train leaves at 6:05 p.m."
+   }
+  ]
+ }
+]

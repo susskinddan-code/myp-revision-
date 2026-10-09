@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "french-language-and-literature",
+  "grade": 5,
+  "topic": "Writing",
+  "subTopic": "Planning Your Writing",
+  "questions": [
+   {
+    "content": "Quelle est la première étape d'une bonne rédaction ?",
+    "options": [
+     "Écrire immédiatement la conclusion",
+     "Lire attentivement le sujet et repérer les mots-clés",
+     "Recopier un texte déjà lu",
+     "Choisir un titre original"
+    ],
+    "answer": 1,
+    "explanation": "Sans analyse du sujet, on risque le hors-sujet. On repère le type de texte, le destinataire, le but et les mots-clés.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Que fait-on pendant un remue-méninges ?",
+    "options": [
+     "On note librement un maximum d'idées avant de les trier",
+     "On corrige l'orthographe",
+     "On recopie au propre",
+     "On choisit la conclusion"
+    ],
+    "answer": 0,
+    "explanation": "Le remue-méninges génère des idées sans les juger. Le tri se fait ensuite.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "À quoi sert un plan ?",
+    "options": [
+     "À organiser les idées dans un ordre logique avant de rédiger",
+     "À remplacer le brouillon et la copie",
+     "À augmenter le nombre de mots",
+     "À éviter la relecture"
+    ],
+    "answer": 0,
+    "explanation": "Un plan structure le texte et évite répétitions et contradictions.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Quelle est la structure de base d'un texte argumentatif ?",
+    "options": [
+     "Titre, image, légende",
+     "Introduction, développement, conclusion",
+     "Question, réponse, question",
+     "Début, fin, début"
+    ],
+    "answer": 1,
+    "explanation": "Introduction (présentation), développement (arguments), conclusion (bilan) : c'est la base de la plupart des textes.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Que font les connecteurs comme « d'abord », « ensuite », « enfin » ?",
+    "options": [
+     "Ils relient les idées et marquent l'ordre du texte",
+     "Ils remplacent les verbes",
+     "Ils servent seulement à allonger",
+     "Ils créent des rimes"
+    ],
+    "answer": 0,
+    "explanation": "Les connecteurs guident le lecteur et rendent la progression claire.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Consigne inventée : « Rédigez une lettre au maire pour demander plus d'espaces verts. » Quelle analyse du sujet est complète ?",
+    "options": [
+     "Type : lettre formelle ; destinataire : le maire ; but : le convaincre d'agir",
+     "Type : poème ; destinataire : un ami ; but : s'amuser",
+     "Type : récit ; destinataire : la classe ; but : raconter",
+     "Type : dialogue ; destinataire : le public ; but : informer"
+    ],
+    "answer": 0,
+    "explanation": "Il faut identifier le type de texte, le destinataire et le but. Cela détermine le registre et la structure.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Quelle structure de paragraphe est la plus efficace pour argumenter ?",
+    "options": [
+     "Une idée, un exemple, une explication de l'effet",
+     "Trois exemples sans idée",
+     "Une citation seule",
+     "Une question sans réponse"
+    ],
+    "answer": 0,
+    "explanation": "Idée, exemple, explication relie l'argument à la thèse et évite l'affirmation gratuite.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Quel connecteur exprime une opposition ?",
+    "options": [
+     "Donc",
+     "Cependant",
+     "D'abord",
+     "Ainsi"
+    ],
+    "answer": 1,
+    "explanation": "« Cependant » introduit une idée qui s'oppose à la précédente. « Donc » et « ainsi » marquent la conséquence.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Quel connecteur introduit une cause ?",
+    "options": [
+     "Parce que",
+     "Par conséquent",
+     "Pourtant",
+     "Enfin"
+    ],
+    "answer": 0,
+    "explanation": "« Parce que » donne la raison. « Par conséquent » exprime la conséquence.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Tu as dix idées en brouillon. Que faire ?",
+    "options": [
+     "Toutes les utiliser pour ne rien perdre",
+     "Garder les trois ou quatre plus solides et les développer",
+     "Choisir au hasard",
+     "Ne retenir que la plus courte"
+    ],
+    "answer": 1,
+    "explanation": "Mieux vaut peu d'arguments bien développés qu'une liste superficielle. La sélection fait partie du plan.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Pour une tâche d'écriture de 40 minutes, quelle répartition du temps est la plus raisonnable ?",
+    "options": [
+     "1 minute de plan, 39 minutes d'écriture",
+     "6 minutes de plan, 28 minutes d'écriture, 6 minutes de relecture",
+     "30 minutes de plan, 10 minutes d'écriture",
+     "Aucune relecture"
+    ],
+    "answer": 1,
+    "explanation": "Planifier et relire améliore nettement la clarté et la correction. Trop peu de plan mène à un texte désordonné.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Que doit contenir une bonne introduction ?",
+    "options": [
+     "Une accroche, la présentation du sujet et l'annonce de la direction du texte",
+     "Seulement la conclusion",
+     "Tous les arguments en détail",
+     "Un résumé du dernier paragraphe seulement"
+    ],
+    "answer": 0,
+    "explanation": "L'introduction accroche, situe le sujet et prépare le lecteur à la suite.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Quelle erreur faut-il éviter dans la conclusion ?",
+    "options": [
+     "Résumer l'idée principale",
+     "Introduire un argument majeur tout nouveau",
+     "Ouvrir sur une perspective",
+     "Rappeler la thèse"
+    ],
+    "answer": 1,
+    "explanation": "La conclusion fait le bilan. Un argument nouveau et non développé déséquilibre le texte.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Plan d'un élève : 1. Les transports sont chers. 2. Les bus sont en retard. 3. Les bus coûtent cher. Quel est le problème principal ?",
+    "options": [
+     "Il y a trop de parties",
+     "Les parties 1 et 3 se recoupent : le plan manque de variété",
+     "Il n'y a pas de verbes",
+     "Il est trop court"
+    ],
+    "answer": 1,
+    "explanation": "Un bon plan a des parties distinctes. Ici les parties 1 et 3 disent presque la même chose.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Sujet : « Pensez-vous que les réseaux sociaux aident les adolescents ? Discutez. » Quel plan convient le mieux ?",
+    "options": [
+     "Seulement les avantages, sans nuance",
+     "Avantages, limites, puis conclusion nuancée",
+     "Un récit personnel",
+     "Une liste de réseaux célèbres"
+    ],
+    "answer": 1,
+    "explanation": "Le verbe « discutez » demande d'examiner plusieurs points de vue puis de prendre position de manière nuancée.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Pour une nouvelle, quel ordre du schéma narratif est correct ?",
+    "options": [
+     "Situation initiale, élément perturbateur, péripéties, dénouement, situation finale",
+     "Dénouement, situation initiale, péripéties, élément perturbateur",
+     "Péripéties, situation finale, situation initiale, dénouement",
+     "Situation finale, dénouement, élément perturbateur"
+    ],
+    "answer": 0,
+    "explanation": "Le schéma narratif suit l'ordre : équilibre, rupture, aventures, résolution, nouvel équilibre.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Pour réviser sa copie, quelle méthode est la plus efficace ?",
+    "options": [
+     "Une seule lecture rapide du début à la fin",
+     "Plusieurs relectures ciblées : sens et structure, puis grammaire, puis orthographe",
+     "Ne relire que la conclusion",
+     "Changer tous les mots"
+    ],
+    "answer": 1,
+    "explanation": "Chercher tout en même temps est moins efficace. Des relectures ciblées permettent de repérer davantage d'erreurs.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Sujet : « Décrivez les effets de la pollution de la rivière du village. » Un élève écrit surtout sur la pollution de l'air dans le monde. Que risque-t-il ?",
+    "options": [
+     "Le hors-sujet, car son texte ne répond pas au sujet précis",
+     "Rien : tous les textes sur la pollution sont acceptés",
+     "Un texte trop poétique",
+     "Une conclusion trop courte"
+    ],
+    "answer": 0,
+    "explanation": "Il faut rester dans les limites du sujet. Relier chaque paragraphe aux mots-clés (« rivière », « village », « effets ») évite le hors-sujet.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## L'essentiel\nUn bon texte ne commence jamais par la première phrase : il commence par un plan. Les élèves qui prennent quelques minutes pour analyser le sujet, rassembler des idées et les organiser écrivent des textes plus clairs, plus précis et mieux notés. Planifier n'est pas une perte de temps, c'est ce qui rend l'écriture rapide ensuite.\n\n## Étape 1 : analyser le sujet\nLis la consigne deux fois. Repère :\n- **le type de texte** (lettre, article, récit, discours, description) ;\n- **le destinataire** (le maire, un ami, la direction, le lecteur d'un journal) ;\n- **le but** (informer, convaincre, raconter, décrire) ;\n- **les mots-clés** et les limites du sujet.\nExemple inventé : « Rédigez une lettre au maire pour demander plus d'espaces verts. » Type : lettre formelle. Destinataire : le maire. But : le convaincre. Mots-clés : « espaces verts », « demander ». Si tu écris sur la pollution en général, tu es hors-sujet.\nLe verbe de la consigne décide de la démarche : « décrivez » demande du détail, « discutez » demande plusieurs points de vue, « convainquez » demande une thèse claire.\n\n## Étape 2 : trouver des idées\nFais un remue-méninges : note tout ce qui te vient, sans juger. Tu peux utiliser une carte mentale, une liste ou des questions (Qui ? Quoi ? Où ? Pourquoi ? Comment ?). Ensuite, trie : garde les trois ou quatre idées les plus solides et les plus différentes. Mieux vaut moins d'arguments bien développés qu'une longue liste superficielle.\n\n## Étape 3 : construire le plan\n- **Introduction** : accroche, présentation du sujet, annonce de la direction.\n- **Développement** : un paragraphe par idée principale. Chaque paragraphe suit la structure idée, exemple, explication.\n- **Conclusion** : bilan, rappel de la thèse, ouverture. Elle ne contient pas de nouvel argument majeur.\nPour un récit, le plan suit le schéma narratif : situation initiale, élément perturbateur, péripéties, dénouement, situation finale.\nVérifie que tes parties sont distinctes : un plan qui répète deux fois la même idée est faible.\n\n## Étape 4 : les connecteurs\nIls relient les idées et guident le lecteur :\n- ordre : d'abord, ensuite, enfin ;\n- addition : de plus, en outre ;\n- opposition : cependant, pourtant, mais ;\n- cause : parce que, car, en effet ;\n- conséquence : donc, par conséquent, ainsi.\n\n## Gérer le temps\nPour une tâche de quarante minutes, vise environ six minutes de plan, vingt-huit minutes de rédaction et six minutes de relecture. Relis plusieurs fois, avec un but différent à chaque fois : sens et structure, puis grammaire, puis orthographe.\n\n## Comment c'est évalué\nLes critères d'écriture valorisent l'organisation, la clarté, la pertinence et la maîtrise de la langue. Un plan apparent n'est pas toujours demandé, mais ses effets se voient : introduction claire, paragraphes équilibrés, transitions efficaces.\n\n## Erreurs fréquentes\n- Commencer sans analyser la consigne.\n- Écrire tout ce qu'on sait sur le thème.\n- Oublier le destinataire.\n- Ne pas garder de temps pour relire.\n\nExam tip: écris ton plan en cinq lignes maximum au brouillon, avec un mot-clé par paragraphe, puis coche chaque mot-clé quand tu l'as traité.",
+  "flashcards": [
+   {
+    "front": "Analyser le sujet",
+    "back": "Repérer le type de texte, le destinataire, le but et les mots-clés avant d'écrire, pour éviter le hors-sujet."
+   },
+   {
+    "front": "Remue-méninges",
+    "back": "Noter librement beaucoup d'idées sans les juger, puis trier pour garder les plus solides."
+   },
+   {
+    "front": "Structure d'un paragraphe argumentatif",
+    "back": "Idée principale, exemple précis, explication de l'effet sur la thèse."
+   },
+   {
+    "front": "Plan de base",
+    "back": "Introduction (accroche, sujet, annonce), développement (un argument par paragraphe), conclusion (bilan, ouverture)."
+   },
+   {
+    "front": "Schéma narratif",
+    "back": "Situation initiale, élément perturbateur, péripéties, dénouement, situation finale."
+   },
+   {
+    "front": "Connecteur d'opposition",
+    "back": "Cependant, pourtant, mais, en revanche : ils introduisent une idée contraire à la précédente."
+   },
+   {
+    "front": "Connecteur de conséquence",
+    "back": "Donc, par conséquent, ainsi, c'est pourquoi : ils introduisent le résultat d'une cause."
+   },
+   {
+    "front": "Hors-sujet",
+    "back": "Écrire sur un thème proche mais pas sur la question posée : à éviter en reliant chaque paragraphe aux mots-clés."
+   },
+   {
+    "front": "Gestion du temps (40 min)",
+    "back": "Environ 6 min de plan, 28 min de rédaction et 6 min de relecture ciblée (sens, grammaire, orthographe)."
+   }
+  ]
+ },
+ {
+  "subject": "french-language-and-literature",
+  "grade": 5,
+  "topic": "Writing",
+  "subTopic": "Narrative and Descriptive Writing",
+  "questions": [
+   {
+    "content": "Que désigne le schéma narratif ?",
+    "options": [
+     "Les étapes d'un récit, de la situation initiale à la situation finale",
+     "La liste des personnages",
+     "Le titre et le sous-titre",
+     "Le nombre de pages"
+    ],
+    "answer": 0,
+    "explanation": "Le schéma narratif organise l'histoire : situation initiale, élément perturbateur, péripéties, dénouement, situation finale.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Dans un récit à la première personne, quel pronom désigne le narrateur ?",
+    "options": [
+     "Il",
+     "Elle",
+     "Je",
+     "Ils"
+    ],
+    "answer": 2,
+    "explanation": "Le narrateur-personnage dit « je » et raconte sa propre expérience.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Quel temps du passé sert surtout à décrire le décor et l'arrière-plan d'un récit ?",
+    "options": [
+     "Le passé simple",
+     "L'imparfait",
+     "Le futur simple",
+     "Le subjonctif présent"
+    ],
+    "answer": 1,
+    "explanation": "L'imparfait décrit les situations qui durent et le cadre. Le passé simple raconte les actions ponctuelles.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Que fait une description sensorielle ?",
+    "options": [
+     "Elle utilise la vue, l'ouïe, l'odorat, le goût et le toucher",
+     "Elle utilise seulement la vue",
+     "Elle évite les adjectifs",
+     "Elle ne contient que des verbes"
+    ],
+    "answer": 0,
+    "explanation": "Mobiliser plusieurs sens rend la scène plus vivante et plus crédible.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Qu'est-ce que l'élément perturbateur ?",
+    "options": [
+     "L'événement qui rompt l'équilibre de la situation initiale",
+     "La dernière phrase de l'histoire",
+     "Le portrait du narrateur",
+     "Le titre du récit"
+    ],
+    "answer": 0,
+    "explanation": "C'est lui qui lance l'histoire : une arrivée, une disparition, une découverte.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "« Il ouvrit la porte alors que le vent soufflait fort. » Pourquoi « soufflait » est-il à l'imparfait ?",
+    "options": [
+     "Il décrit une circonstance qui dure en arrière-plan",
+     "Il exprime un futur proche",
+     "Il indique un ordre",
+     "Il est une faute"
+    ],
+    "answer": 0,
+    "explanation": "« Ouvrit » est une action ponctuelle (passé simple), « soufflait » décrit le contexte qui continue (imparfait).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Quelle phrase montre la nervosité au lieu de la dire ?",
+    "options": [
+     "Elle avait très peur.",
+     "Ses mains tremblaient sur la poignée de sa valise.",
+     "Elle était nerveuse.",
+     "Elle se sentait mal."
+    ],
+    "answer": 1,
+    "explanation": "« Montrer plutôt que dire » consiste à décrire des gestes ou des détails qui font comprendre l'émotion.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Quelle ponctuation de dialogue est correcte ?",
+    "options": [
+     "« Viens vite ! » cria Zoé.",
+     "« Viens vite ! » cria, Zoé.",
+     "« Viens vite ! cria Zoé. »",
+     "Viens vite ! cria Zoé"
+    ],
+    "answer": 0,
+    "explanation": "Après les guillemets fermants, la proposition incise commence par une minuscule : « Viens vite ! » cria Zoé.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "« Le ciel était un tableau gris. » Quel procédé est employé ?",
+    "options": [
+     "Une comparaison",
+     "Une métaphore",
+     "Une litote",
+     "Une anaphore"
+    ],
+    "answer": 1,
+    "explanation": "Il n'y a pas d'outil de comparaison (comme, tel, semblable à) : le ciel est directement assimilé à un tableau. C'est une métaphore.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Que signifie commencer un récit « in medias res » ?",
+    "options": [
+     "Commencer au milieu de l'action",
+     "Commencer par la fin",
+     "Commencer par le titre",
+     "Commencer par une citation"
+    ],
+    "answer": 0,
+    "explanation": "Cette ouverture accroche immédiatement le lecteur, puis le récit peut revenir en arrière pour expliquer.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Quelle technique crée du suspense ?",
+    "options": [
+     "Révéler tout dès le début",
+     "Retarder la révélation et semer des indices",
+     "Supprimer les descriptions",
+     "Écrire uniquement des dialogues longs"
+    ],
+    "answer": 1,
+    "explanation": "Le suspense naît de l'attente : informations retenues, phrases courtes, indices ambigus.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Un narrateur omniscient est un narrateur qui…",
+    "options": [
+     "connaît les pensées de tous les personnages",
+     "est un personnage de l'histoire",
+     "ne raconte que ce qu'il voit",
+     "parle toujours au présent"
+    ],
+    "answer": 0,
+    "explanation": "Le narrateur omniscient sait tout : pensées, passé et avenir des personnages.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Pour décrire une pièce de façon claire, quel ordre est le plus efficace ?",
+    "options": [
+     "Un ordre spatial : du plus proche au plus lointain, ou de gauche à droite",
+     "Un ordre aléatoire",
+     "Seulement les couleurs",
+     "Les détails sans vue d'ensemble"
+    ],
+    "answer": 0,
+    "explanation": "Une description progressive guide l'imagination du lecteur. L'ordre doit être annoncé ou facile à suivre.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Quelle version de la phrase « La forêt était belle et grande, il y avait beaucoup d'arbres » est la plus efficace ?",
+    "options": [
+     "La forêt était très très belle.",
+     "Les sapins se dressaient comme des colonnes et l'air sentait la résine humide.",
+     "La forêt avait des arbres.",
+     "Il y avait une forêt magnifique."
+    ],
+    "answer": 1,
+    "explanation": "La version riche utilise une comparaison, des verbes précis et des sensations (odorat). Les autres restent vagues.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Dans un récit au passé simple, un élève écrit : « Elle entra dans la salle. Elle voit un homme. » Quelle correction rétablit la cohérence ?",
+    "options": [
+     "Elle vit un homme.",
+     "Elle voyait un homme.",
+     "Elle verra un homme.",
+     "Elle a vu un homme."
+    ],
+    "answer": 0,
+    "explanation": "Le récit est au passé simple : l'action ponctuelle « voit » devient « vit ». Les temps doivent rester cohérents.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Nouvelle sur un garçon qui a perdu son chien. Quelle fin est la mieux cohérente avec l'intrigue ?",
+    "options": [
+     "Il retrouve son chien ou apprend à vivre sans lui, ce qui résout le problème central",
+     "Un extraterrestre arrive sans lien avec l'histoire",
+     "Le texte s'arrête au milieu d'une phrase",
+     "Un nouveau personnage inconnu raconte autre chose"
+    ],
+    "answer": 0,
+    "explanation": "Le dénouement doit répondre à la tension créée par l'élément perturbateur.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Un narrateur-personnage de douze ans raconte à la première personne. Quelle limite en découle ?",
+    "options": [
+     "Il ne peut pas connaître directement les pensées des autres personnages",
+     "Il connaît tous les secrets",
+     "Il ne peut pas utiliser l'imparfait",
+     "Il ne peut pas décrire un lieu"
+    ],
+    "answer": 0,
+    "explanation": "Le point de vue est limité : il peut seulement supposer ce que ressentent les autres, ce qui peut créer du mystère.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Qu'est-ce qui distingue une écriture créative très maîtrisée ?",
+    "options": [
+     "Des choix délibérés de voix, de structure et de vocabulaire qui produisent un effet précis",
+     "Un texte très long quel que soit son contenu",
+     "Beaucoup d'adjectifs sans choix",
+     "Un récit sans fin"
+    ],
+    "answer": 0,
+    "explanation": "Les critères récompensent le contrôle : chaque choix a un effet voulu sur le lecteur.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## L'essentiel\nL'écriture narrative raconte une histoire ; l'écriture descriptive fait voir un lieu, un personnage ou une atmosphère. Les deux se mélangent presque toujours. Pour réussir, tu dois contrôler la structure, le point de vue, les temps verbaux et le choix des mots.\n\n## La structure d'un récit\nLe **schéma narratif** comprend cinq étapes :\n- **la situation initiale** : personnages, lieu, équilibre de départ ;\n- **l'élément perturbateur** : événement qui rompt l'équilibre ;\n- **les péripéties** : épreuves et actions qui suivent ;\n- **le dénouement** : résolution du problème ;\n- **la situation finale** : nouvel équilibre.\nTu peux ouvrir **in medias res**, c'est-à-dire en pleine action, pour accrocher le lecteur, puis revenir en arrière. Le suspense naît d'informations retenues, d'indices et de phrases courtes au moment critique. La fin doit répondre au problème posé au début.\n\n## Le point de vue\n- **Première personne (« je »)** : proche des émotions, mais limité à ce que le narrateur sait.\n- **Troisième personne, point de vue interne** : on suit les pensées d'un seul personnage.\n- **Narrateur omniscient** : il connaît tout, y compris les pensées des autres.\nChoisis un point de vue et garde-le tout au long du texte.\n\n## Les temps du récit\nAu passé, l'**imparfait** décrit le cadre et les actions qui durent ; le **passé simple** (ou le passé composé à l'oral) exprime les actions ponctuelles. Exemple : « Il ouvrit la porte alors que le vent soufflait fort. » Reste cohérent : ne passe pas du passé simple au présent par erreur (« Elle entra… Elle vit… », pas « Elle voit »).\n\n## Décrire efficacement\n- **Les cinq sens** : ce qu'on voit, entend, sent, goûte, touche.\n- **Les figures** : comparaison (« se dressaient comme des colonnes »), métaphore (« le ciel était un tableau gris »), personnification.\n- **Montrer plutôt que dire** : au lieu de « Elle avait peur », écris « Ses mains tremblaient sur la poignée de sa valise ».\n- **Un ordre clair** : du proche au lointain, de gauche à droite, du général au détail.\n- **Des verbes précis** plutôt que des adjectifs vagues comme « beau » ou « grand ».\nExemple inventé : au lieu de « La forêt était belle et grande », écris « Les sapins se dressaient comme des colonnes et l'air sentait la résine humide ».\n\n## Les dialogues\nIls rendent les personnages vivants. Utilise des guillemets ou des tirets, une ponctuation précise et des verbes de parole variés. Exemple : « Viens vite ! » cria Zoé. Remarque la minuscule après les guillemets fermants. Chaque réplique doit apprendre quelque chose sur le personnage ou faire avancer l'action.\n\n## Comment c'est évalué\nL'écriture créative est jugée selon la richesse des idées, l'organisation, le contrôle du style et l'exactitude de la langue. Les meilleurs textes ne cumulent pas les figures : chaque choix a un effet voulu.\n\n## Erreurs fréquentes\n- Raconter trop d'événements sans en développer aucun.\n- Changer de temps sans raison.\n- Dire les émotions au lieu de les montrer.\n- Terminer la nouvelle sans résoudre le problème central.\n\nExam tip: pendant la relecture, souligne un verbe vague (« être », « avoir », « faire ») dans chaque paragraphe et remplace-le par un verbe plus précis.",
+  "flashcards": [
+   {
+    "front": "Schéma narratif",
+    "back": "Situation initiale, élément perturbateur, péripéties, dénouement, situation finale."
+   },
+   {
+    "front": "In medias res",
+    "back": "Commencer le récit au milieu de l'action pour accrocher le lecteur, puis revenir en arrière si besoin."
+   },
+   {
+    "front": "Imparfait / passé simple",
+    "back": "Imparfait : décor, durée, habitude. Passé simple : actions ponctuelles qui font avancer le récit."
+   },
+   {
+    "front": "Montrer plutôt que dire",
+    "back": "Décrire gestes et détails qui font comprendre l'émotion : « Ses mains tremblaient » plutôt que « Elle avait peur »."
+   },
+   {
+    "front": "Narrateur omniscient",
+    "back": "Narrateur qui connaît les pensées, le passé et l'avenir de tous les personnages."
+   },
+   {
+    "front": "Narrateur-personnage (« je »)",
+    "back": "Raconte à la première personne : proche des émotions, mais limité à ce qu'il sait et voit."
+   },
+   {
+    "front": "Description sensorielle",
+    "back": "Mobiliser les cinq sens (vue, ouïe, odorat, goût, toucher) pour rendre une scène vivante."
+   },
+   {
+    "front": "Métaphore / comparaison",
+    "back": "Comparaison : avec outil (comme, tel). Métaphore : assimilation directe, sans outil (« un tableau gris »)."
+   },
+   {
+    "front": "Dialogue rapporté",
+    "back": "Guillemets, ponctuation et incise : « Viens vite ! » cria Zoé (minuscule après les guillemets fermants)."
+   }
+  ]
+ },
+ {
+  "subject": "french-language-and-literature",
+  "grade": 5,
+  "topic": "Writing",
+  "subTopic": "Argument and Formal Writing",
+  "questions": [
+   {
+    "content": "Quelle formule d'appel convient pour une lettre formelle à un destinataire inconnu ?",
+    "options": [
+     "Salut !",
+     "Madame, Monsieur,",
+     "Coucou,",
+     "Cher ami,"
+    ],
+    "answer": 1,
+    "explanation": "« Madame, Monsieur, » est la formule d'appel neutre et respectueuse de la lettre formelle.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Quel registre de langue convient à une lettre adressée à la direction ?",
+    "options": [
+     "Familier",
+     "Soutenu ou courant, poli et précis",
+     "Argotique",
+     "Uniquement des abréviations"
+    ],
+    "answer": 1,
+    "explanation": "Une lettre formelle évite l'argot, les abréviations et les expressions familières.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Qu'est-ce que la thèse d'un texte argumentatif ?",
+    "options": [
+     "L'opinion principale que l'auteur défend",
+     "Le titre du paragraphe",
+     "Un exemple de la vie quotidienne",
+     "Une citation du dictionnaire"
+    ],
+    "answer": 0,
+    "explanation": "Tous les arguments servent à soutenir la thèse.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Quel élément doit accompagner un argument pour le rendre convaincant ?",
+    "options": [
+     "Un exemple ou une preuve",
+     "Un point d'exclamation",
+     "Une répétition de la thèse",
+     "Un mot familier"
+    ],
+    "answer": 0,
+    "explanation": "Un argument sans exemple reste une simple affirmation.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Quel pronom utilise-t-on pour s'adresser à un destinataire adulte dans une lettre formelle ?",
+    "options": [
+     "Tu",
+     "Vous",
+     "On",
+     "Ils"
+    ],
+    "answer": 1,
+    "explanation": "Le vouvoiement marque le respect et la distance appropriée.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Quelle phrase est la plus adaptée à une lettre formelle ?",
+    "options": [
+     "Salut, j'voulais te demander un truc.",
+     "Je vous écris afin de solliciter l'autorisation d'organiser une collecte.",
+     "Alors voilà, il faut que ça change.",
+     "Faut m'dire oui !"
+    ],
+    "answer": 1,
+    "explanation": "La phrase utilise un registre soutenu, un vouvoiement et un vocabulaire précis.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "À quoi sert un contre-argument ?",
+    "options": [
+     "À reconnaître un point de vue opposé afin de le réfuter",
+     "À changer de sujet",
+     "À supprimer la thèse",
+     "À allonger l'introduction"
+    ],
+    "answer": 0,
+    "explanation": "Le contre-argument montre que l'auteur a réfléchi à d'autres opinions, puis il y répond.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Quel connecteur exprime la conséquence ?",
+    "options": [
+     "Par conséquent",
+     "Pourtant",
+     "En revanche",
+     "Malgré tout"
+    ],
+    "answer": 0,
+    "explanation": "« Par conséquent » introduit le résultat de ce qui précède.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Quelle formule finale est correcte dans une lettre formelle ?",
+    "options": [
+     "Veuillez agréer, Madame, Monsieur, l'expression de mes salutations distinguées.",
+     "Bisous de ma part.",
+     "Salut et à la prochaine !",
+     "À plus, bonne chance !"
+    ],
+    "answer": 0,
+    "explanation": "C'est la formule de politesse classique d'une lettre officielle.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Que doit indiquer l'objet d'une lettre formelle ?",
+    "options": [
+     "Le sujet précis de la lettre en quelques mots",
+     "Le nom de l'expéditeur",
+     "La date de naissance",
+     "Une citation"
+    ],
+    "answer": 0,
+    "explanation": "Par exemple : « Objet : demande d'autorisation pour une collecte ».",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Quelle suite complète le mieux l'idée « Les écrans fatiguent les yeux » ?",
+    "options": [
+     "« Une étude interne à l'école a montré que beaucoup d'élèves se plaignent de maux de tête après deux heures d'écran. »",
+     "« Voilà. »",
+     "« Tout le monde le sait. »",
+     "« Je n'aime pas ça. »"
+    ],
+    "answer": 0,
+    "explanation": "L'exemple précis (même fictif) soutient l'argument. Les autres suites n'apportent aucune preuve.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Quelle introduction convient à un article d'opinion ?",
+    "options": [
+     "Une accroche, la présentation du sujet et la thèse",
+     "Une liste de sources",
+     "Une conclusion",
+     "Un dialogue sans lien"
+    ],
+    "answer": 0,
+    "explanation": "L'introduction doit situer le débat et annoncer clairement la position.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Pour un effet maximal, comment ordonner ses arguments ?",
+    "options": [
+     "Souvent du moins fort au plus fort",
+     "Toujours le plus faible en dernier",
+     "Dans un ordre aléatoire",
+     "En répétant le premier"
+    ],
+    "answer": 0,
+    "explanation": "Une progression croissante laisse l'impression finale la plus forte sur le lecteur.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Un élève écrit : « Les écrans sont mauvais. Tout le monde le sait. » Quel est le défaut principal ?",
+    "options": [
+     "Une affirmation sans preuve et un appel à la majorité",
+     "Un excès de ponctuation",
+     "Un vocabulaire trop soutenu",
+     "Une trop longue explication"
+    ],
+    "answer": 0,
+    "explanation": "On ne démontre rien : « tout le monde le sait » n'est pas un argument. Il faut une preuve ou un exemple.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "« Je vous prie de bien vouloir m'excuser, mais franchement c'est nul. » Quelle est la principale erreur ?",
+    "options": [
+     "Un mélange de registres : soutenu au début, familier ensuite",
+     "Un manque de verbes",
+     "Une phrase au futur",
+     "Un excès de formules de politesse"
+    ],
+    "answer": 0,
+    "explanation": "« Franchement c'est nul » est familier et contredit le ton formel du début de la phrase.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Quelle version intègre le mieux un contre-argument ?",
+    "options": [
+     "« Certes, ce projet coûte cher ; mais il rendrait le quartier plus sûr pendant des décennies. »",
+     "« Le projet coûte cher. »",
+     "« Ce projet est nul, ceux qui l'aiment ont tort. »",
+     "« Peut-être, je ne sais pas. »"
+    ],
+    "answer": 0,
+    "explanation": "La concession reconnaît l'objection puis la réfute. Elle renforce la crédibilité de l'auteur.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Consigne : « Rédigez un article pour convaincre la direction d'installer des fontaines. » Quelle liste de contrôle est la plus complète ?",
+    "options": [
+     "Destinataire, but, registre, thèse, arguments avec exemples, contre-argument, relecture",
+     "Titre seulement",
+     "Dessin et slogan",
+     "Longueur seulement"
+    ],
+    "answer": 0,
+    "explanation": "Une liste de contrôle couvre la situation d'écriture, la structure argumentative et la correction finale.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Quelle reformulation de « Tous les adolescents passent leur vie sur leur téléphone » est la plus précise et défendable ?",
+    "options": [
+     "« Beaucoup d'adolescents passent plusieurs heures par jour sur leur téléphone. »",
+     "« Les adolescents n'ont jamais de vie. »",
+     "« Personne ne lâche jamais son téléphone. »",
+     "« Les téléphones sont tout. »"
+    ],
+    "answer": 0,
+    "explanation": "Éviter les généralisations absolues (« tous », « jamais ») rend l'argument plus crédible et nuancé.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## L'essentiel\nL'écriture argumentative et formelle sert à défendre une opinion ou à demander quelque chose de façon claire, polie et structurée. On la retrouve dans les lettres officielles, les articles d'opinion, les discours et les rapports. Ton objectif : convaincre un destinataire précis avec un ton adapté et des preuves solides.\n\n## Le registre formel\n- Utilise le **vouvoiement** avec un adulte ou une institution.\n- Évite l'argot, les abréviations, les expressions familières et les mots comme « truc » ou « nul ».\n- Choisis un vocabulaire précis et des phrases bien construites.\nExemple : « Je vous écris afin de solliciter l'autorisation d'organiser une collecte » plutôt que « Salut, j'voulais te demander un truc ». Garde le même registre du début à la fin : « Je vous prie de bien vouloir m'excuser, mais franchement c'est nul » mélange deux registres et affaiblit le texte.\n\n## La lettre formelle\n- **Coordonnées** de l'expéditeur et du destinataire, date et lieu.\n- **Objet** : le sujet en quelques mots (« Objet : demande d'autorisation pour une collecte »).\n- **Formule d'appel** : « Madame, Monsieur, » si tu ne connais pas le nom.\n- **Corps** : introduction de la demande, développement avec arguments, conclusion avec la demande précise.\n- **Formule de politesse** : « Veuillez agréer, Madame, Monsieur, l'expression de mes salutations distinguées. »\n- **Signature**.\n\n## Construire une argumentation\n- **La thèse** : ton opinion principale, énoncée clairement dès l'introduction.\n- **Les arguments** : trois idées distinctes, chacune avec un exemple ou une preuve et une explication.\n- **Le contre-argument** : tu reconnais l'opinion opposée, puis tu la réfutes. « Certes, ce projet coûte cher ; mais il rendrait le quartier plus sûr pendant des années. »\n- **L'ordre** : va souvent du moins fort au plus fort pour finir avec impact.\n- **La conclusion** : rappelle la thèse, résume les arguments, ouvre ou formule la demande.\nLes connecteurs logiques rendent le raisonnement visible : d'abord, de plus, cependant, par conséquent, en effet, pour conclure.\n\n## Éviter les pièges\n- **L'affirmation sans preuve** : « Les écrans sont mauvais. Tout le monde le sait. » N'est pas un argument.\n- **La généralisation absolue** : « Tous les adolescents passent leur vie sur leur téléphone. » Préfère « Beaucoup d'adolescents passent plusieurs heures par jour sur leur téléphone ».\n- **Le ton agressif** : attaquer les personnes plutôt que les idées réduit ta crédibilité.\n\n## Exemple de paragraphe\n« D'abord, une fontaine à eau réduirait les déchets plastiques. Dans notre établissement, plus de deux cents bouteilles sont jetées chaque semaine. En installant des fontaines, la direction diminuerait ce volume et encouragerait des gestes durables. » On trouve l'idée, un exemple chiffré (fictif) et l'explication de l'effet.\n\n## Comment c'est évalué\nÀ l'eAssessment, on te demandera de rédiger un texte argumentatif ou formel adapté à une situation donnée. Les critères valorisent l'adaptation au destinataire, la qualité des arguments, l'organisation, le registre et l'exactitude de la langue.\n\n## Erreurs fréquentes\n- Mélanger tutoiement et vouvoiement.\n- Oublier la formule de politesse.\n- Empiler des opinions sans exemples.\n- Terminer sans formuler la demande.\n\nExam tip: avant de rendre ta copie, vérifie trois choses : le destinataire est-il bien vouvoyé, chaque argument a-t-il un exemple, et la demande finale est-elle claire ?",
+  "flashcards": [
+   {
+    "front": "Formule d'appel (destinataire inconnu)",
+    "back": "« Madame, Monsieur, » : neutre et respectueuse dans une lettre formelle."
+   },
+   {
+    "front": "Formule de politesse",
+    "back": "« Veuillez agréer, Madame, Monsieur, l'expression de mes salutations distinguées. »"
+   },
+   {
+    "front": "Thèse",
+    "back": "L'opinion principale défendue dans le texte, annoncée dès l'introduction."
+   },
+   {
+    "front": "Registre formel",
+    "back": "Vouvoiement, vocabulaire précis, pas d'argot ni d'abréviations, ton courtois et cohérent."
+   },
+   {
+    "front": "Objet de la lettre",
+    "back": "Ligne qui indique le sujet en quelques mots : « Objet : demande d'autorisation pour une collecte »."
+   },
+   {
+    "front": "Contre-argument",
+    "back": "Reconnaître l'opinion adverse puis la réfuter : « Certes… mais… »."
+   },
+   {
+    "front": "Structure d'un argument",
+    "back": "Idée + exemple ou preuve + explication de l'effet qui soutient la thèse."
+   },
+   {
+    "front": "Généralisation absolue",
+    "back": "« Tous », « jamais », « personne » : à éviter. Préférer « beaucoup », « souvent », « plusieurs »."
+   },
+   {
+    "front": "Ordre des arguments",
+    "back": "Souvent du moins fort au plus fort, pour terminer sur une impression forte."
+   }
+  ]
+ }
+]

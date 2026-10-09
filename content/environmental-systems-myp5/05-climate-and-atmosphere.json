@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "environmental-systems",
+  "grade": 5,
+  "topic": "Climate and Atmosphere",
+  "subTopic": "Greenhouse Effect and Climate Change",
+  "questions": [
+   {
+    "content": "Which of these gases is the main greenhouse gas added to the atmosphere by burning fossil fuels?",
+    "options": [
+     "Carbon dioxide",
+     "Oxygen",
+     "Nitrogen",
+     "Argon"
+    ],
+    "answer": 0,
+    "explanation": "Burning fossil fuels releases CO₂. Oxygen, nitrogen and argon are major atmospheric gases but do not trap heat in the way greenhouse gases do.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the natural greenhouse effect?",
+    "options": [
+     "Gases reflect all sunlight back into space",
+     "The ozone layer heats the surface",
+     "Plants release heat during photosynthesis",
+     "Gases in the atmosphere trap some heat radiated from Earth, keeping the planet warm enough for life"
+    ],
+    "answer": 3,
+    "explanation": "Without the natural greenhouse effect Earth's average surface temperature would be far below freezing. The effect itself is helpful; the problem is the enhanced version.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which activity is a major source of methane (CH₄)?",
+    "options": [
+     "Wind turbines",
+     "Solar panels",
+     "Cattle farming and rice paddies",
+     "Planting trees"
+    ],
+    "answer": 2,
+    "explanation": "Digestion in cattle and waterlogged rice fields produce methane. Wind and solar power release almost no greenhouse gases while operating.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the enhanced greenhouse effect?",
+    "options": [
+     "Warming caused by volcanoes alone",
+     "Extra warming caused by human activities adding greenhouse gases",
+     "Cooling caused by cloud cover",
+     "The natural effect that keeps Earth habitable"
+    ],
+    "answer": 1,
+    "explanation": "The enhanced greenhouse effect refers to additional warming from human-added greenhouse gases, over and above the natural effect.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is a likely effect of climate change?",
+    "options": [
+     "Lower sea levels worldwide",
+     "More frequent heatwaves and rising sea levels",
+     "A thicker ozone layer",
+     "Fewer extreme weather events everywhere"
+    ],
+    "answer": 1,
+    "explanation": "Warming raises sea levels and makes heatwaves more frequent and intense. The other options are not predicted effects of climate change.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Sunlight passes through the atmosphere and warms the ground. The ground then gives out infrared radiation. What do greenhouse gases do to this infrared radiation?",
+    "options": [
+     "Absorb some of it and re-emit it in all directions, including back to the surface",
+     "Reflect all of it straight into space",
+     "Convert it into visible light",
+     "Have no effect on it"
+    ],
+    "answer": 0,
+    "explanation": "Greenhouse gases absorb outgoing infrared and re-radiate it, some of it back downwards. This slows heat loss to space.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Atmospheric CO₂ was about 280 ppm before the Industrial Revolution and about 420 ppm today. What is the percentage increase?",
+    "options": [
+     "33%",
+     "140%",
+     "67%",
+     "50%"
+    ],
+    "answer": 3,
+    "explanation": "Increase = 420 − 280 = 140 ppm. 140 ÷ 280 × 100 = 50%. A common slip is dividing by the new value (33%).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A scientist says: 'Global temperature and CO₂ concentration have both risen over the last 150 years, so CO₂ must be the only cause of warming.' What is the best criticism?",
+    "options": [
+     "Temperature cannot be measured accurately",
+     "CO₂ has no effect on temperature",
+     "Correlation alone does not prove cause; other factors must be controlled for and a mechanism shown",
+     "Two things rising together always prove a link"
+    ],
+    "answer": 2,
+    "explanation": "Correlation does not automatically show causation. Scientists support the link with a known mechanism (infrared absorption) and with models and evidence that rule out other causes.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which process makes the biggest contribution to sea level rise caused by warming?",
+    "options": [
+     "Melting of floating sea ice",
+     "Increased evaporation only",
+     "Thermal expansion of seawater and melting of land-based ice",
+     "More rainfall over the oceans"
+    ],
+    "answer": 2,
+    "explanation": "Warm water expands, and ice sheets and glaciers on land add water. Floating sea ice already displaces its own weight of water, so melting it hardly changes sea level.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is methane described as a more powerful greenhouse gas than CO₂ per molecule even though it is less abundant?",
+    "options": [
+     "It is much heavier than CO₂",
+     "It absorbs infrared radiation more strongly but breaks down in the atmosphere faster",
+     "It is produced only by volcanoes",
+     "It reflects sunlight into space"
+    ],
+    "answer": 1,
+    "explanation": "Methane traps much more heat per molecule over a short time but has a shorter lifetime than CO₂, so its effect is strong but less long-lasting.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Data: in a lab model, two identical sealed bottles are lit by a lamp. Bottle A contains air, bottle B contains air with extra CO₂. After 20 minutes B is 2 °C warmer. Which control variable is MOST important to keep the same?",
+    "options": [
+     "Distance from the lamp and the starting temperature",
+     "The colour of the label",
+     "The time of day the report is written",
+     "The brand of thermometer cap"
+    ],
+    "answer": 0,
+    "explanation": "Identical heating conditions are essential for a fair test. The model tests whether CO₂ changes warming, so only the gas should differ.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement correctly separates weather from climate?",
+    "options": [
+     "Climate describes what happens today in one town",
+     "Weather is measured over centuries",
+     "They mean the same thing",
+     "Climate is the average pattern of weather over about 30 years or more"
+    ],
+    "answer": 3,
+    "explanation": "Weather is short-term atmospheric conditions; climate is the long-term average. One cold day does not disprove climate change.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is a feedback loop that speeds up warming?",
+    "options": [
+     "Plants absorbing CO₂ as they grow",
+     "Clouds forming over cool oceans",
+     "Wind carrying heat away from deserts",
+     "Melting ice exposes darker surfaces that absorb more sunlight, causing more melting"
+    ],
+    "answer": 3,
+    "explanation": "Reduced albedo as bright ice is replaced by dark ground or water is a positive feedback: warming causes changes that cause further warming.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A town's average temperature rose from 14.0 °C to 15.2 °C over 50 years. Another town's rose from 5.0 °C to 6.0 °C. A student concludes the first town is warming faster. What is the correct rate comparison per decade?",
+    "options": [
+     "First town 1.2 °C per decade, second 1.0 °C per decade",
+     "First town 0.12 °C per decade, second 0.10 °C per decade",
+     "First town 0.24 °C per decade, second town 0.20 °C per decade",
+     "Both towns 0.5 °C per decade"
+    ],
+    "answer": 2,
+    "explanation": "Change ÷ 5 decades: 1.2 ÷ 5 = 0.24 and 1.0 ÷ 5 = 0.20. Using the total change instead of a rate is the common error.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Why do scientists use ice cores to study past climate?",
+    "options": [
+     "Ice cores are warmer than the surrounding ice",
+     "Trapped air bubbles in ancient ice record past CO₂ levels and temperature indicators",
+     "They show daily weather in each century",
+     "They measure the thickness of the ozone layer"
+    ],
+    "answer": 1,
+    "explanation": "Layers of ice trap tiny bubbles of ancient air. Analysing them gives a long-term record of greenhouse gas concentrations that can be compared with temperature.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A report predicts that without action, a coastal region will lose 20% of its farmland to saltwater by 2050 and that this is 'certain'. Which is the best evaluation of the report's wording?",
+    "options": [
+     "Predictions rely on models and assumptions, so 'likely' with a range would be more accurate than 'certain'",
+     "The word 'certain' is correct because models are perfect",
+     "Predictions can never be used in planning",
+     "20% proves the report is wrong"
+    ],
+    "answer": 0,
+    "explanation": "Projections depend on emission scenarios and model assumptions, so they are expressed as ranges or probabilities. Scientific wording should reflect uncertainty.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which explanation best accounts for why polar regions are warming faster than the global average?",
+    "options": [
+     "Loss of reflective snow and ice lowers albedo, so more sunlight is absorbed",
+     "Polar regions receive more direct sunlight",
+     "Greenhouse gases only collect near the poles",
+     "Polar air contains no water vapour"
+    ],
+    "answer": 0,
+    "explanation": "Albedo feedback amplifies warming where ice and snow are retreating. Greenhouse gases mix through the whole atmosphere, not just the poles.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A country's emissions are 400 million tonnes of CO₂ per year with a population of 20 million. Another country emits 900 million tonnes with a population of 90 million. Which statement is correct?",
+    "options": [
+     "The second country emits more per person because its total is larger",
+     "Both emit 20 t per person",
+     "The first country emits 2 t per person",
+     "The first country emits more per person (20 t) than the second (10 t)"
+    ],
+    "answer": 3,
+    "explanation": "400 ÷ 20 = 20 t per person; 900 ÷ 90 = 10 t per person. Total emissions and per-person emissions can lead to different conclusions, which matters in fairness debates.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Earth is kept warm enough for life by the natural greenhouse effect. Sunlight (short-wave radiation) passes through the atmosphere and warms the surface. The warm surface gives out heat as infrared (long-wave) radiation. Greenhouse gases in the atmosphere absorb some of this infrared and re-emit it in all directions, including back towards the ground. Without this effect the average surface temperature would be around −18 °C instead of about 15 °C.\n\n## The enhanced greenhouse effect\nHuman activities have added extra greenhouse gases, which strengthens the effect and raises average global temperatures. This is called the **enhanced greenhouse effect** and is the main cause of present-day climate change.\n\n- **Carbon dioxide (CO₂)**: burning coal, oil and gas, and clearing forests. It stays in the atmosphere for a very long time.\n- **Methane (CH₄)**: cattle digestion, rice paddies, landfill and leaks from gas supplies. It is a stronger heat-trapper per molecule but breaks down faster.\n- **Nitrous oxide (N₂O)**: nitrogen fertilisers and some industrial processes.\n- **Water vapour**: the most abundant greenhouse gas, but its amount mostly responds to temperature rather than being added directly by humans.\n- **CFCs**: also powerful greenhouse gases, now largely phased out.\n\nCO₂ in the atmosphere has risen from about 280 ppm before the Industrial Revolution to about 420 ppm today. That is an increase of 140 ppm, or 140 ÷ 280 × 100 = 50%.\n\n## Evidence and effects\nEvidence comes from thermometer records, satellites, retreating glaciers, shrinking sea ice and ice cores, where trapped air bubbles show past CO₂ levels. Predicted and observed effects include:\n\n- Rising sea levels (thermal expansion of water plus melting land ice such as glaciers and ice sheets). Melting floating sea ice has almost no effect on sea level.\n- More frequent heatwaves, heavier rainfall in some areas and longer droughts in others.\n- Coral bleaching, shifts in species ranges and loss of habitats.\n- Pressure on food and water supplies, and displacement of people in low-lying coastal areas.\n\n**Positive feedback loops** speed warming up. For example, melting ice replaces bright surfaces with dark ones, so less sunlight is reflected (lower albedo), more is absorbed and more ice melts.\n\n## Weather versus climate\nWeather is short-term (today's rain). Climate is the average of weather over about 30 years or more. One unusually cold winter does not disprove climate change; scientists look at long-term trends.\n\n## Common mistakes\n- Confusing the greenhouse effect with ozone depletion. They are different problems.\n- Saying the greenhouse effect is entirely bad. The natural effect is essential.\n- Claiming correlation alone proves cause. Strong arguments link the data to a known mechanism.\n- Comparing totals when a fair comparison needs a rate, such as emissions per person.\n\n## How this is examined\nQuestions give a context such as a graph description of CO₂ and temperature, an ice-core record or a coastal town. You may be asked to state or identify causes, calculate a percentage or rate of change, justify a link between data sets, and evaluate how reliable a prediction is by naming assumptions and uncertainty.\n\nExam tip: when you describe a trend, quote numbers from the data (start value, end value, and change), and use the words \"enhanced greenhouse effect\" and \"infrared radiation\" accurately.",
+  "flashcards": [
+   {
+    "front": "Natural greenhouse effect",
+    "back": "Gases in the atmosphere absorb and re-emit infrared radiation from Earth, keeping the surface warm enough (about 15 °C on average) for life."
+   },
+   {
+    "front": "Enhanced greenhouse effect",
+    "back": "Extra warming caused by human activities that add greenhouse gases such as CO₂ and CH₄ to the atmosphere."
+   },
+   {
+    "front": "Name four greenhouse gases",
+    "back": "Carbon dioxide, methane, nitrous oxide and water vapour (CFCs are also greenhouse gases)."
+   },
+   {
+    "front": "Main human sources of CO₂",
+    "back": "Burning fossil fuels (energy, transport, industry) and deforestation, which removes trees that store carbon."
+   },
+   {
+    "front": "Two sources of methane",
+    "back": "Livestock digestion (especially cattle) and rice paddies; also landfill and fossil fuel leaks."
+   },
+   {
+    "front": "Why does sea level rise with warming?",
+    "back": "Seawater expands as it warms (thermal expansion) and meltwater from land ice such as glaciers and ice sheets flows into the oceans."
+   },
+   {
+    "front": "Albedo",
+    "back": "The fraction of sunlight a surface reflects. Ice and snow have high albedo; dark ocean and soil have low albedo."
+   },
+   {
+    "front": "Positive feedback in climate",
+    "back": "A change that causes more of the same change, e.g. melting ice lowers albedo, more sunlight is absorbed, more ice melts."
+   },
+   {
+    "front": "Weather vs climate",
+    "back": "Weather is short-term conditions; climate is the average pattern over about 30 years or more."
+   }
+  ]
+ },
+ {
+  "subject": "environmental-systems",
+  "grade": 5,
+  "topic": "Climate and Atmosphere",
+  "subTopic": "Ozone Depletion",
+  "questions": [
+   {
+    "content": "Where is the ozone layer found?",
+    "options": [
+     "In the troposphere only",
+     "In the stratosphere",
+     "At ground level in cities",
+     "In the oceans"
+    ],
+    "answer": 1,
+    "explanation": "The protective ozone layer is in the stratosphere, roughly 15 to 35 km above the surface. Ozone at ground level is a separate pollutant.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the main job of the ozone layer?",
+    "options": [
+     "It absorbs most harmful ultraviolet (UV) radiation from the Sun",
+     "It traps heat to warm the Earth",
+     "It produces oxygen for animals",
+     "It makes rain"
+    ],
+    "answer": 0,
+    "explanation": "Ozone absorbs much of the Sun's harmful UV radiation, protecting living things from damage.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which chemicals were mainly responsible for ozone depletion?",
+    "options": [
+     "Carbon dioxide",
+     "Nitrogen",
+     "Water vapour",
+     "Chlorofluorocarbons (CFCs)"
+    ],
+    "answer": 3,
+    "explanation": "CFCs released from old refrigerators, aerosols and foams carry chlorine into the stratosphere, where it destroys ozone.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which health problem is linked to higher UV exposure?",
+    "options": [
+     "Asthma only",
+     "Broken bones",
+     "Skin cancer and cataracts",
+     "Scurvy"
+    ],
+    "answer": 2,
+    "explanation": "More UV reaching the surface raises the risk of skin cancer and eye cataracts, and can harm crops and plankton.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which international agreement was designed to phase out ozone-depleting substances?",
+    "options": [
+     "The Kyoto Treaty on whaling",
+     "The Paris Marathon Accord",
+     "The Montreal Protocol",
+     "The Geneva Water Pact"
+    ],
+    "answer": 2,
+    "explanation": "The Montreal Protocol (1987) phased out CFCs and similar chemicals, and is regarded as a successful environmental agreement.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "How does one CFC molecule lead to the destruction of many ozone molecules?",
+    "options": [
+     "The CFC molecule reacts once with one ozone molecule and disappears",
+     "UV breaks off a chlorine atom, which acts repeatedly to break ozone down without being used up",
+     "The CFC reflects UV onto the ozone",
+     "CFCs heat the stratosphere until ozone evaporates"
+    ],
+    "answer": 1,
+    "explanation": "Chlorine atoms act like a catalyst: one atom can destroy thousands of ozone molecules because it is regenerated in the process.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The ozone 'hole' is largest over Antarctica in September and October. Which statement explains why it appears there?",
+    "options": [
+     "Very cold winter conditions form polar stratospheric clouds that help chlorine destroy ozone when sunlight returns in spring",
+     "Antarctica has the most factories",
+     "Antarctica receives no sunlight in spring",
+     "Ozone cannot form at low altitudes"
+    ],
+    "answer": 0,
+    "explanation": "Ice clouds in the polar stratosphere provide surfaces for reactions that release active chlorine. When sunlight returns in spring, ozone loss speeds up.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Ozone in the stratosphere is protective, but ozone at ground level is described as a pollutant. Which statement is correct?",
+    "options": [
+     "Ground-level ozone is released by CFCs",
+     "Ground-level ozone blocks UV",
+     "They are different chemicals",
+     "Ground-level ozone forms from vehicle and industry emissions in sunlight and irritates lungs"
+    ],
+    "answer": 3,
+    "explanation": "Ozone (O₃) is the same molecule in both places. Low down it forms in photochemical smog and harms health; high up it shields life from UV.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A map shows total ozone in Dobson units (DU). Normal ozone is about 300 DU and a value below 220 DU is counted as the ozone hole. A reading of 180 DU is how much below the 220 DU threshold?",
+    "options": [
+     "120 DU",
+     "80 DU",
+     "400 DU",
+     "40 DU"
+    ],
+    "answer": 3,
+    "explanation": "220 − 180 = 40 DU below the threshold. Compared with a normal 300 DU, the reading is 120 DU lower, a loss of 40%, which should not be confused with the threshold difference.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is a good reason that CFC replacements such as HFCs still need attention?",
+    "options": [
+     "They still destroy ozone faster than CFCs",
+     "They are radioactive",
+     "Some replacements do not harm ozone but are strong greenhouse gases",
+     "They cannot be used in refrigerators"
+    ],
+    "answer": 2,
+    "explanation": "HFCs do not contain chlorine so do not deplete ozone, but many are potent greenhouse gases. Solutions can create new problems that must be evaluated.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Ozone-depleting substances have declined in the stratosphere since 1990, yet the ozone layer is only slowly recovering. Which explanation is best?",
+    "options": [
+     "CFCs are absorbed by oceans in days",
+     "CFCs are very stable and persist in the atmosphere for decades",
+     "The Sun produces new CFCs",
+     "Recovery is faster than expected in every region"
+    ],
+    "answer": 1,
+    "explanation": "CFCs last for decades to over a century, so chlorine in the stratosphere declines slowly. Full recovery is expected only later this century.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which action reduces the risk from UV exposure for a person on a sunny day?",
+    "options": [
+     "Wear sunscreen, a hat and sunglasses, and avoid midday sun",
+     "Use sun beds first to build protection",
+     "Stay outside longer so skin adapts",
+     "Only worry when the sky is overcast"
+    ],
+    "answer": 0,
+    "explanation": "Protective clothing and sunscreen cut UV exposure. Cloud does not block all UV, so protection is still needed on overcast days.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement about the ozone layer and global warming is correct?",
+    "options": [
+     "They are separate problems, though some chemicals such as CFCs contribute to both",
+     "Ozone depletion is the main cause of global warming",
+     "The ozone hole traps heat like a greenhouse",
+     "Fixing the ozone layer will fix climate change"
+    ],
+    "answer": 0,
+    "explanation": "Ozone depletion is about UV reaching Earth. Global warming is about heat-trapping gases. They are linked only because some gases affect both.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a simplified data set, a region produced 1.1 million tonnes of ozone-depleting substances in 1987 and production in 2020 was about 0.02 million tonnes. By roughly what percentage did production fall?",
+    "options": [
+     "2%",
+     "49%",
+     "1.8%",
+     "98%"
+    ],
+    "answer": 3,
+    "explanation": "Fall = 1.1 − 0.02 = 1.08. 1.08 ÷ 1.1 × 100 ≈ 98%. A fall of 98% means only about 2% of the 1987 level remains.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student claims: 'The Montreal Protocol worked because all countries ratified it and could still use CFCs freely.' Which is the best evaluation?",
+    "options": [
+     "The claim is true because there were no limits",
+     "The claim is true because CFCs are harmless",
+     "The claim is false: success came from agreed phase-out dates, support for developing countries and available substitutes",
+     "The protocol failed completely"
+    ],
+    "answer": 2,
+    "explanation": "The Protocol set binding phase-out schedules and provided funding and technology help, and replacements were available. Free use of CFCs would not have reduced them.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Satellite data show ozone loss over Antarctica is far larger than over the equator. Which reasoning fits the evidence?",
+    "options": [
+     "The equator has no stratosphere",
+     "The extreme cold of the polar winter allows ozone-destroying chemistry that does not occur to the same extent in warm tropical air",
+     "CFCs were released only in Antarctica",
+     "Ozone molecules are heavier at the poles"
+    ],
+    "answer": 1,
+    "explanation": "Polar stratospheric clouds form only at very low temperatures, so the chemistry causing the hole is concentrated near the poles.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which design of an investigation could test whether sunscreen SPF affects UV transmission using UV-sensitive beads?",
+    "options": [
+     "Put beads in different rooms and compare",
+     "Cover beads with different SPF samples in the same thickness, expose to the same light for equal time and compare colour change",
+     "Use one bead and different sunscreens each day",
+     "Vary the thickness and the light source together"
+    ],
+    "answer": 1,
+    "explanation": "A fair test changes one variable (SPF) while controlling thickness, light source, distance and exposure time. Using many beads helps reliability.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An article says: 'Because ozone depletion has been solved, we can ignore atmospheric policy.' Which response is best supported by evidence?",
+    "options": [
+     "Recovery is on track but depends on continued compliance, and issues like HFCs and illegal CFC releases still need monitoring",
+     "The statement is correct since levels are back to normal",
+     "The ozone layer is getting worse everywhere",
+     "Policy never affects the atmosphere"
+    ],
+    "answer": 0,
+    "explanation": "The ozone layer is recovering slowly because of policy, but ongoing monitoring and enforcement are still needed. This illustrates why international agreements need follow-up.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "The ozone layer is a region of the stratosphere, around 15 to 35 km above Earth, where the concentration of ozone (O₃) is relatively high. Ozone absorbs most of the Sun's harmful ultraviolet (UV) radiation, so less reaches the surface. This protection helped life to move onto land and still protects people, crops and ocean plankton today.\n\n## What damaged the ozone layer?\nFrom the 1930s, **chlorofluorocarbons (CFCs)** were used in fridges, air conditioners, aerosol cans and foam packaging. They are stable and unreactive near the ground, so they drift up into the stratosphere. There, UV radiation breaks them apart and releases chlorine atoms. One chlorine atom acts as a catalyst: it breaks ozone down, is regenerated and goes on to attack more ozone molecules. A single atom can destroy thousands of ozone molecules.\n\nOther ozone-depleting substances include halons (used in some fire extinguishers) and some solvents and pesticides.\n\n## The Antarctic ozone hole\nIn the late 1970s and 1980s scientists measured big seasonal drops in ozone above Antarctica. The \"hole\" is a region where ozone falls below about 220 Dobson units (a unit of total ozone in a column of air, with typical values around 300 DU). It forms in the Antarctic spring (September to October) because:\n\n- During the dark polar winter the air is extremely cold, and **polar stratospheric clouds** form.\n- These cloud particles help convert chlorine compounds into forms that can destroy ozone.\n- When sunlight returns in spring, UV drives the destruction.\n\n## Effects of too much UV\n- More skin cancers and eye cataracts in humans.\n- Damage to crops and reduced yields.\n- Harm to phytoplankton at the base of marine food webs.\n\n## The solution: international cooperation\nThe **Montreal Protocol (1987)** set legally binding targets to phase out CFCs and other ozone-depleting substances, with support for developing countries and the development of alternatives. Global production of these substances has fallen by more than 95% since the peak, and the ozone layer is slowly recovering. CFCs last for decades, so full recovery is expected only later this century. Replacement chemicals such as HFCs do not harm ozone but can be powerful greenhouse gases, so agreements have also moved to limit them.\n\n## Common mistakes\n- Mixing up ozone depletion with global warming. Ozone depletion is about UV, global warming is about trapped heat.\n- Saying the hole is a literal gap. It is a region of thinner ozone.\n- Forgetting that ground-level ozone is a pollutant, not protection.\n- Saying CFCs are used up in the reaction. Chlorine acts as a catalyst.\n\n## How this is examined\nYou may get a short article on the ozone hole or a table of ozone values and be asked to describe a trend, calculate a percentage change, explain how CFCs destroy ozone, and evaluate how effective the Montreal Protocol has been.\n\nExam tip: when you evaluate an agreement, give evidence (numbers on production or ozone levels) and then mention a limitation, such as slow recovery or substitutes that cause new problems.",
+  "flashcards": [
+   {
+    "front": "Where is the protective ozone layer?",
+    "back": "In the stratosphere, about 15 to 35 km above the surface."
+   },
+   {
+    "front": "Function of the ozone layer",
+    "back": "Absorbs most of the Sun's harmful ultraviolet (UV) radiation."
+   },
+   {
+    "front": "CFCs",
+    "back": "Chlorofluorocarbons: stable chemicals formerly used in fridges, aerosols and foams. They release chlorine in the stratosphere that destroys ozone."
+   },
+   {
+    "front": "How does chlorine destroy so much ozone?",
+    "back": "A chlorine atom acts as a catalyst: it is regenerated after breaking down an ozone molecule, so it can destroy thousands of them."
+   },
+   {
+    "front": "Why is the ozone hole over Antarctica in spring?",
+    "back": "Polar stratospheric clouds form in the cold winter; when sunlight returns in spring, chlorine reactions rapidly destroy ozone."
+   },
+   {
+    "front": "Health effects of more UV",
+    "back": "Higher risk of skin cancer and cataracts; also damage to crops and plankton."
+   },
+   {
+    "front": "Montreal Protocol (1987)",
+    "back": "International treaty that phased out CFCs and other ozone-depleting substances. Considered a successful environmental agreement."
+   },
+   {
+    "front": "Ground-level ozone",
+    "back": "A pollutant formed from vehicle and industry emissions in sunlight; part of photochemical smog and harmful to lungs."
+   },
+   {
+    "front": "Ozone depletion vs global warming",
+    "back": "Different problems: ozone loss lets more UV in; global warming comes from heat trapped by greenhouse gases."
+   }
+  ]
+ },
+ {
+  "subject": "environmental-systems",
+  "grade": 5,
+  "topic": "Climate and Atmosphere",
+  "subTopic": "Mitigation and Adaptation",
+  "questions": [
+   {
+    "content": "What does climate change mitigation mean?",
+    "options": [
+     "Actions that help people cope with the effects of climate change",
+     "Ignoring climate change",
+     "Actions that reduce greenhouse gas emissions or remove them from the atmosphere",
+     "Measuring the weather"
+    ],
+    "answer": 2,
+    "explanation": "Mitigation tackles the causes. Adaptation deals with the effects.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is an example of adaptation to climate change?",
+    "options": [
+     "Replacing coal power stations with wind farms",
+     "Building sea walls to protect a coastal town",
+     "Planting forests to absorb CO₂",
+     "Switching to electric cars"
+    ],
+    "answer": 1,
+    "explanation": "A sea wall helps a community cope with higher sea levels. The other options reduce emissions or remove CO₂, so they are mitigation.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which energy source produces the least greenhouse gases during operation?",
+    "options": [
+     "Solar power",
+     "Coal",
+     "Oil",
+     "Natural gas"
+    ],
+    "answer": 0,
+    "explanation": "Solar panels produce no emissions when generating electricity. Coal, oil and gas release CO₂ when burned.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Planting trees helps with climate change because trees:",
+    "options": [
+     "Release CO₂ at night only",
+     "Produce methane",
+     "Reflect infrared radiation",
+     "Absorb CO₂ during photosynthesis and store carbon in their wood"
+    ],
+    "answer": 3,
+    "explanation": "Trees act as carbon sinks. They need to be maintained, because dead or burnt trees release the stored carbon again.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a personal action that reduces a carbon footprint?",
+    "options": [
+     "Leaving lights on all day",
+     "Buying more bottled water",
+     "Using a clothes dryer in summer",
+     "Walking or cycling instead of taking short car trips"
+    ],
+    "answer": 3,
+    "explanation": "Active travel avoids fossil fuel emissions. A carbon footprint is the total greenhouse gas emissions caused by a person or activity.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The Paris Agreement (2015) aims to keep global warming well below a certain limit above pre-industrial levels, and to try for a tighter limit. What are these figures?",
+    "options": [
+     "Well below 5 °C, with efforts towards 4 °C",
+     "Exactly 0 °C",
+     "Well below 2 °C, with efforts towards 1.5 °C",
+     "Well below 10 °C, with efforts towards 8 °C"
+    ],
+    "answer": 2,
+    "explanation": "The Paris Agreement's goal is to limit warming to well below 2 °C and pursue 1.5 °C. Countries set their own national targets.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A school replaces 40 old bulbs of 60 W with LED bulbs of 10 W. All bulbs are on for 1000 hours per year. How much energy does the school save per year?",
+    "options": [
+     "2400 kWh",
+     "2000 kWh",
+     "400 kWh",
+     "50 kWh"
+    ],
+    "answer": 1,
+    "explanation": "Saving per bulb = 50 W = 0.05 kW. 0.05 × 1000 h × 40 = 2000 kWh. Old bulbs used 2400 kWh and the new ones use 400 kWh.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A carbon offset scheme claims a company is 'carbon neutral' because it pays for 1000 trees to be planted. What is a valid limitation?",
+    "options": [
+     "The trees take decades to absorb the carbon and may die or be cut down",
+     "Trees cannot absorb CO₂",
+     "Offsets always increase emissions",
+     "Planting is illegal"
+    ],
+    "answer": 0,
+    "explanation": "Offsetting can help, but benefits are delayed and uncertain. Cutting emissions directly is more reliable.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which pairing of strategy and type is correct?",
+    "options": [
+     "Drought-resistant crops: adaptation",
+     "Wind farms: adaptation",
+     "Insulating homes: adaptation",
+     "Carbon capture: adaptation"
+    ],
+    "answer": 0,
+    "explanation": "Drought-resistant crops help farmers cope with changed rainfall. Wind farms, insulation and carbon capture reduce or remove emissions, so they are mitigation.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is a disadvantage of carbon capture and storage (CCS)?",
+    "options": [
+     "It increases the greenhouse effect",
+     "It cannot capture any CO₂",
+     "It produces ozone",
+     "It is expensive, uses energy and stored CO₂ must stay securely underground"
+    ],
+    "answer": 3,
+    "explanation": "CCS removes CO₂ from power station exhaust and stores it. Costs, energy use and storage safety are real concerns.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A city introduces a congestion charge. Traffic falls by 20% from 150 000 to what number of vehicles per day?",
+    "options": [
+     "130 000",
+     "30 000",
+     "120 000",
+     "170 000"
+    ],
+    "answer": 2,
+    "explanation": "20% of 150 000 = 30 000. 150 000 − 30 000 = 120 000. Fewer vehicles means lower exhaust emissions and less air pollution.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why might developing countries argue that richer countries should take more responsibility for cutting emissions?",
+    "options": [
+     "Developing countries emit the most per person",
+     "Richer countries have historically emitted more and have more resources to change",
+     "Rich countries have no emissions",
+     "Emissions do not cross borders"
+    ],
+    "answer": 1,
+    "explanation": "Historic emissions and greater financial capacity are central arguments in climate justice discussions.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which policy tool makes polluters pay for emissions?",
+    "options": [
+     "A free-travel scheme",
+     "A carbon tax",
+     "A ban on all recycling",
+     "A subsidy for fossil fuel burning"
+    ],
+    "answer": 1,
+    "explanation": "A carbon tax places a price on each tonne of CO₂ emitted, giving an incentive to reduce emissions.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A coastal town considers two options: a £10 million sea wall (protects the town for 50 years) or relocating 500 residents at £30 000 each. Which statement is correct?",
+    "options": [
+     "Relocation costs £15 million, which is £5 million more, but may offer a permanent solution and avoids wall failure risk",
+     "Relocation costs £1.5 million, so is cheaper",
+     "Relocation costs £150 million",
+     "Both options cost the same"
+    ],
+    "answer": 0,
+    "explanation": "500 × 30 000 = £15 million, compared with £10 million for the wall. A fuller evaluation also weighs social ties, maintenance costs and the long-term sea level rise.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which statement best compares mitigation and adaptation as a combined strategy?",
+    "options": [
+     "Adaptation makes mitigation unnecessary",
+     "Mitigation makes adaptation impossible",
+     "They conflict, so a country must choose one",
+     "Mitigation limits how much the climate changes; adaptation prepares for the change that cannot be avoided, so both are needed"
+    ],
+    "answer": 3,
+    "explanation": "Even with strong mitigation some warming is locked in, so adaptation is needed. Without mitigation the impacts may exceed what adaptation can handle.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A country reduces its territorial emissions by 30% but now imports more goods from countries that burn coal to manufacture them. What is the best criticism of its claim to have cut its carbon footprint?",
+    "options": [
+     "Imports never produce emissions",
+     "Territorial emissions do not include the country at all",
+     "Emissions embedded in imports are not counted, so its consumption-based footprint may not have fallen",
+     "A 30% fall is impossible"
+    ],
+    "answer": 2,
+    "explanation": "Carbon can be 'outsourced' to other countries. Consumption-based accounting includes the emissions from goods consumed in the country.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A wind farm project provides electricity for 20 000 homes and replaces coal power. Which factor should be included in a balanced evaluation of its sustainability?",
+    "options": [
+     "Only the number of turbines",
+     "Only the colour of the turbines",
+     "Effects on birds and landscape, manufacturing emissions, and the intermittency of wind, as well as emissions avoided",
+     "Only the emissions avoided"
+    ],
+    "answer": 2,
+    "explanation": "A balanced evaluation weighs environmental, social and economic costs and benefits, including life-cycle emissions and reliability.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A graph shows a country's emissions falling 2% each year. Based on exponential-style decline, which statement is most accurate after 10 years starting from 100 units?",
+    "options": [
+     "Exactly 80 units",
+     "Emissions would be about 82 units, not 80, because each year's 2% is taken from a smaller amount",
+     "Exactly 98 units",
+     "Zero"
+    ],
+    "answer": 1,
+    "explanation": "100 × 0.98¹⁰ ≈ 81.7, about 82 units. Simple subtraction of 2 per year would give 80, but percentage cuts apply to a shrinking total.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Climate change responses fall into two groups. **Mitigation** reduces the causes of climate change by cutting greenhouse gas emissions or removing CO₂ from the air. **Adaptation** reduces harm from the effects of climate change, helping people and ecosystems cope. Because some warming is already locked in, a sensible strategy uses both.\n\n## Mitigation strategies\n- **Renewable energy**: solar, wind, hydroelectric and geothermal power produce little or no CO₂ in operation.\n- **Energy efficiency**: LED lighting, better insulation and efficient appliances use less energy for the same job.\n- **Transport changes**: public transport, cycling and walking, electric vehicles and congestion charges.\n- **Carbon sinks**: protecting forests, planting trees and restoring wetlands absorb CO₂.\n- **Carbon capture and storage (CCS)**: capturing CO₂ from power stations or industry and storing it underground. It is costly and uses energy.\n- **Policy and economic tools**: carbon taxes, emissions trading schemes, subsidies for clean energy and bans on the worst polluting practices.\n- **Personal choices**: reducing waste, eating less carbon-intensive food, saving energy.\n\nA **carbon footprint** is the total greenhouse gases caused directly and indirectly by a person, product, company or country. Carbon offsets, such as paying for tree planting, can help but are uncertain because trees take time to grow and can be lost. Cutting emissions directly is more reliable.\n\n## Worked example\nA school swaps 40 bulbs of 60 W for LED bulbs of 10 W, each used 1000 hours per year. The saving per bulb is 50 W = 0.05 kW, so the yearly saving is 0.05 × 1000 × 40 = 2000 kWh. Show your units and your working in a calculation like this.\n\n## Adaptation strategies\n- Sea walls, flood defences and raised buildings in coastal zones.\n- Drought-resistant crops, efficient irrigation and rainwater harvesting.\n- Early warning systems for storms and heatwaves.\n- Planning that keeps buildings away from floodplains; urban trees and green roofs to cool cities.\n\n## International action\nThe **Paris Agreement (2015)** commits countries to limit warming to well below 2 °C and pursue 1.5 °C above pre-industrial levels. Each country sets its own targets and reports progress. Fairness is often debated: developed countries have emitted more historically, while developing countries need support to grow cleanly and adapt.\n\n## Evaluating options\nIn MYP sciences you are asked to weigh costs and benefits. Compare cost, how well the option works, how long it lasts, who benefits, and side effects. A sea wall may protect for decades but be expensive and not help neighbouring areas; relocation may cost more yet solve the problem permanently.\n\n## Common mistakes\n- Mixing up mitigation and adaptation. Ask: does it reduce emissions (mitigation) or help us cope (adaptation)?\n- Using only one side in an evaluation. Always give benefits and limitations.\n- Forgetting that percentage cuts apply to a shrinking base.\n\n## How this is examined\nTypical tasks give a town, a farm or a country facing climate impacts, ask you to classify strategies, calculate savings or costs, and then justify which option is most sustainable.\n\nExam tip: for \"evaluate\" or \"justify\" questions, use a structure of benefit, limitation and a clear conclusion that refers to the data.",
+  "flashcards": [
+   {
+    "front": "Mitigation",
+    "back": "Actions that reduce greenhouse gas emissions or remove CO₂ from the atmosphere (tackles the cause)."
+   },
+   {
+    "front": "Adaptation",
+    "back": "Actions that help people and ecosystems cope with the effects of climate change (tackles the impact)."
+   },
+   {
+    "front": "Examples of mitigation",
+    "back": "Renewable energy, energy efficiency, public transport, protecting forests, carbon capture and storage, carbon taxes."
+   },
+   {
+    "front": "Examples of adaptation",
+    "back": "Sea walls, flood defences, drought-resistant crops, early warning systems, rainwater harvesting."
+   },
+   {
+    "front": "Carbon footprint",
+    "back": "The total greenhouse gas emissions caused directly and indirectly by a person, group, product or country."
+   },
+   {
+    "front": "Paris Agreement (2015)",
+    "back": "Countries aim to limit warming to well below 2 °C and pursue 1.5 °C above pre-industrial levels, with nationally set targets."
+   },
+   {
+    "front": "Carbon sink",
+    "back": "A natural or artificial store that absorbs more carbon than it releases, e.g. forests, oceans, peatlands."
+   },
+   {
+    "front": "Carbon tax",
+    "back": "A charge on each tonne of CO₂ emitted, giving polluters an incentive to cut emissions."
+   },
+   {
+    "front": "Limitation of carbon offsets",
+    "back": "Benefits can be delayed and uncertain (trees grow slowly, may die or be cut) and they may excuse not cutting emissions directly."
+   }
+  ]
+ }
+]

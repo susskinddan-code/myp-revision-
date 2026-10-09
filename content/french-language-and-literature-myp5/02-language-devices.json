@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "french-language-and-literature",
+  "grade": 5,
+  "topic": "Language Devices",
+  "subTopic": "Figurative Language",
+  "questions": [
+   {
+    "content": "Quelle figure compare deux éléments à l'aide d'un outil de comparaison (comme, tel, semblable à) ?",
+    "options": [
+     "La métaphore",
+     "La comparaison",
+     "L'hyperbole",
+     "L'antithèse"
+    ],
+    "answer": 1,
+    "explanation": "La comparaison relie un comparé et un comparant par un mot outil : « Il est fort comme un lion ».",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Quelle figure identifie directement deux éléments sans outil de comparaison ?",
+    "options": [
+     "La comparaison",
+     "La métaphore",
+     "La litote",
+     "L'accumulation"
+    ],
+    "answer": 1,
+    "explanation": "La métaphore est une comparaison sans outil : « Cet homme est un lion ».",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Quelle figure consiste à exagérer pour impressionner ?",
+    "options": [
+     "L'euphémisme",
+     "La litote",
+     "L'hyperbole",
+     "La répétition"
+    ],
+    "answer": 2,
+    "explanation": "L'hyperbole amplifie : « Je meurs de faim » signifie simplement « j'ai très faim ».",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Quelle figure donne des qualités humaines à un animal, un objet ou une idée ?",
+    "options": [
+     "La personnification",
+     "L'antithèse",
+     "La gradation",
+     "L'oxymore"
+    ],
+    "answer": 0,
+    "explanation": "La personnification rend humain ce qui ne l'est pas : « La mer murmure ».",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Qu'est-ce qu'une antithèse ?",
+    "options": [
+     "Un rapprochement de deux idées opposées",
+     "Une répétition de mots",
+     "Une phrase sans verbe",
+     "Une question sans réponse"
+    ],
+    "answer": 0,
+    "explanation": "L'antithèse oppose deux termes ou idées : « Le jour et la nuit », « petit et immense ».",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Extrait inventé : « Le vent mordait les joues des passants. » Quelle figure repère-t-on ?",
+    "options": [
+     "Comparaison",
+     "Personnification",
+     "Oxymore",
+     "Litote"
+    ],
+    "answer": 1,
+    "explanation": "Mordre est une action d'être vivant, attribuée au vent : c'est une personnification qui souligne le froid.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extrait inventé : « Ses yeux étaient deux lacs d'automne. » Quelle figure est employée ?",
+    "options": [
+     "Une comparaison",
+     "Une métaphore",
+     "Une hyperbole",
+     "Une gradation"
+    ],
+    "answer": 1,
+    "explanation": "Il n'y a pas d'outil de comparaison : les yeux sont directement identifiés à deux lacs, d'où la métaphore.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extrait inventé : « Cette obscure clarté tombait des étoiles du jardin. » Quelle figure marque « obscure clarté » ?",
+    "options": [
+     "Un oxymore",
+     "Une anaphore",
+     "Une comparaison",
+     "Une énumération"
+    ],
+    "answer": 0,
+    "explanation": "L'oxymore associe deux termes contradictoires dans une même expression : « obscure » et « clarté ».",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extrait inventé : « Ce n'est pas une mauvaise idée » pour dire « c'est une très bonne idée ». Quelle figure est utilisée ?",
+    "options": [
+     "Une hyperbole",
+     "Une litote",
+     "Une métonymie",
+     "Une personnification"
+    ],
+    "answer": 1,
+    "explanation": "La litote dit moins pour faire comprendre plus : on atténue l'expression pour renforcer l'idée.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extrait inventé : « Il a avalé un verre » pour « il a bu un verre ». Quelle figure est en jeu ?",
+    "options": [
+     "Une métonymie (le contenant pour le contenu)",
+     "Une litote",
+     "Une anaphore",
+     "Un oxymore"
+    ],
+    "answer": 0,
+    "explanation": "La métonymie désigne une chose par une autre qui lui est liée : le verre pour la boisson qu'il contient.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extrait inventé : « Il entra, regarda, s'avança, s'assit, se tut. » Quelle figure domine ?",
+    "options": [
+     "Une gradation",
+     "Une accumulation de verbes d'action qui donne du rythme",
+     "Une antithèse",
+     "Une comparaison"
+    ],
+    "answer": 1,
+    "explanation": "La suite de verbes d'action courts forme une accumulation qui accélère le récit.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extrait inventé : « Un murmure, une rumeur, un vacarme. » Quelle figure organise cette phrase ?",
+    "options": [
+     "La gradation (progression croissante)",
+     "La litote",
+     "L'euphémisme",
+     "La métaphore filée"
+    ],
+    "answer": 0,
+    "explanation": "Les trois noms augmentent en intensité : c'est une gradation ascendante.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extrait inventé : « Il est parti pour un long voyage » pour dire qu'un homme est mort. Quelle figure est employée ?",
+    "options": [
+     "Un euphémisme",
+     "Une hyperbole",
+     "Une anaphore",
+     "Une antithèse"
+    ],
+    "answer": 0,
+    "explanation": "L'euphémisme adoucit une réalité pénible en la nommant par une formule plus douce.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extrait inventé : « La ville était une ruche : les rues bourdonnaient, les passants butinaient les vitrines, les voitures cherchaient leur alvéole. » Quelle figure organise le passage ?",
+    "options": [
+     "Une métaphore filée",
+     "Une simple litote",
+     "Une comparaison unique",
+     "Une question rhétorique"
+    ],
+    "answer": 0,
+    "explanation": "La métaphore initiale (la ville est une ruche) est développée par plusieurs images du même champ lexical : c'est une métaphore filée.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Extrait inventé : « Je t'ai attendu cent ans. » Pourquoi ne peut-on pas interpréter cela à la lettre ?",
+    "options": [
+     "Parce que c'est une hyperbole qui exprime la longueur d'une attente ressentie",
+     "Parce que c'est une litote",
+     "Parce que c'est un oxymore",
+     "Parce que le verbe est au futur"
+    ],
+    "answer": 0,
+    "explanation": "« Cent ans » est impossible : l'exagération traduit l'impatience ou l'ennui, et non une durée réelle.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Extrait inventé : « Le silence criait dans la pièce. » Quelle analyse est la plus précise ?",
+    "options": [
+     "Une personnification associée à un oxymore, qui rend le silence presque insupportable",
+     "Une simple comparaison",
+     "Une énumération",
+     "Une litote qui atténue le silence"
+    ],
+    "answer": 0,
+    "explanation": "« Crier » attribue une action humaine au silence (personnification) et s'oppose à son sens (oxymore) : le malaise est à son comble.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Une élève écrit : « La métaphore « son cœur est de glace » montre que le personnage est froid. » Quel est le manque principal ?",
+    "options": [
+     "Elle n'explique pas l'effet : insensibilité, dureté, absence d'émotion, et ce que cela révèle du personnage",
+     "Elle cite le texte",
+     "Elle utilise le présent",
+     "Elle emploie un guillemet"
+    ],
+    "answer": 0,
+    "explanation": "Nommer la figure ne suffit pas : il faut expliquer ce qu'elle évoque (insensibilité, dureté) et son effet sur la lecture.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Quelle phrase contient à la fois une comparaison et une hyperbole ?",
+    "options": [
+     "Elle courait comme l'éclair, et chaque foulée faisait trembler la terre entière.",
+     "Elle courait vite.",
+     "Elle était fatiguée.",
+     "Elle courait, il pleuvait."
+    ],
+    "answer": 0,
+    "explanation": "« Comme l'éclair » est une comparaison ; « faisait trembler la terre entière » est une exagération (hyperbole).",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Que sont les figures de style ?\nLes figures de style sont des procédés d'écriture qui s'écartent du langage ordinaire pour produire un effet : rendre une image plus vive, souligner une idée, créer une émotion. Elles sont au cœur de l'analyse littéraire. Analyser ne consiste jamais à les nommer seulement : il faut les relever, les citer, puis expliquer leur effet sur le lecteur et leur rapport avec le sens du texte.\n\n## Les figures d'analogie\n- **La comparaison** rapproche deux éléments avec un outil (comme, tel, pareil à, semblable à). Exemple : « Il courait comme un lièvre ». Elle comporte un comparé (il), un comparant (un lièvre) et un point commun (la vitesse).\n- **La métaphore** identifie deux éléments sans outil. Exemple : « Ses yeux étaient deux lacs d'automne ». Quand l'image se développe sur plusieurs phrases, on parle de **métaphore filée**.\n- **La personnification** attribue des traits humains à un animal, un objet ou une idée : « Le vent mordait les joues des passants ».\n- **La métonymie** désigne une chose par un élément qui lui est lié : « boire un verre ».\n\n## Les figures d'insistance et d'atténuation\n- **L'hyperbole** exagère : « Je t'ai attendu cent ans ». Elle exprime une émotion forte.\n- **La litote** dit peu pour suggérer beaucoup : « Ce n'est pas mal du tout » pour « c'est très bien ».\n- **L'euphémisme** adoucit une réalité pénible : « Il nous a quittés ».\n- **La gradation** présente des termes en progression croissante ou décroissante : « Un murmure, une rumeur, un vacarme ».\n- **L'accumulation** (ou énumération) enchaîne des éléments pour créer une impression de foisonnement ou de rapidité.\n\n## Les figures d'opposition\n- **L'antithèse** oppose deux idées dans un même contexte : « Le jour et la nuit ».\n- **L'oxymore** unit deux termes contradictoires dans une même expression : « une obscure clarté », « un silence assourdissant ».\n\n## Comment analyser une figure\nUtilisez la démarche suivante :\n- **Repérer** : identifier le passage et nommer la figure.\n- **Citer** : donner les mots exacts entre guillemets.\n- **Interpréter** : dire ce que l'image évoque (froid, force, solitude, douleur...).\n- **Relier** : montrer l'effet sur le ton, l'atmosphère, la vision d'un personnage ou le thème.\nExemple : « La métaphore « son cœur est de glace » suggère l'insensibilité du personnage : la glace est dure et froide, ce qui laisse penser que ses sentiments sont fermés aux autres. »\n\n## Pourquoi un auteur choisit une figure\nUne image frappe l'imagination : elle condense une idée en peu de mots et fait ressentir plutôt qu'expliquer. L'hyperbole traduit l'émotion, la litote la pudeur, l'euphémisme la délicatesse, l'oxymore le trouble, la personnification la présence vivante d'un décor.\n\n## Erreurs fréquentes\n- Nommer la figure sans expliquer l'effet.\n- Confondre comparaison (outil présent) et métaphore (outil absent).\n- Citer une expression littérale comme si elle était une image : « il a mangé une pomme » n'est pas figuré.\n- Chercher une figure dans chaque phrase : choisissez les passages les plus parlants.\n- Oublier de relier l'image au thème ou au ton de l'ensemble.\n\n## Comment cela est évalué\nÀ l'examen, on propose un court extrait et la consigne : « Analysez deux procédés d'écriture et leur effet. » Les critères A et B récompensent la précision du vocabulaire, la qualité des citations et la clarté de l'explication.\n\nExam tip: ne vous contentez jamais d'écrire « c'est une métaphore » ; ajoutez toujours « qui suggère... » ou « ce qui crée... » pour montrer l'effet de l'image.",
+  "flashcards": [
+   {
+    "front": "Comparaison",
+    "back": "Rapprochement de deux éléments avec un outil (comme, tel, pareil à). Exemple : « fort comme un lion »."
+   },
+   {
+    "front": "Métaphore",
+    "back": "Identification de deux éléments sans outil de comparaison. Exemple : « Cet homme est un lion ». Développée, elle devient métaphore filée."
+   },
+   {
+    "front": "Personnification",
+    "back": "Attribuer des traits ou actions humains à un animal, un objet ou une idée : « Le vent mordait les joues »."
+   },
+   {
+    "front": "Hyperbole",
+    "back": "Exagération pour marquer une émotion ou impressionner : « Je meurs de faim »."
+   },
+   {
+    "front": "Litote",
+    "back": "Dire moins pour suggérer plus, par exemple « Ce n'est pas mauvais » pour « c'est très bon »."
+   },
+   {
+    "front": "Euphémisme",
+    "back": "Adoucir une réalité pénible : « Il nous a quittés » pour dire qu'il est mort."
+   },
+   {
+    "front": "Antithèse",
+    "back": "Opposition de deux termes ou idées dans une même phrase : « le jour et la nuit »."
+   },
+   {
+    "front": "Oxymore",
+    "back": "Association de deux mots contradictoires dans une même expression : « une obscure clarté »."
+   },
+   {
+    "front": "Analyser une figure : 4 étapes",
+    "back": "Repérer, citer, interpréter (ce que l'image évoque), relier à l'effet sur le ton ou le thème."
+   }
+  ]
+ },
+ {
+  "subject": "french-language-and-literature",
+  "grade": 5,
+  "topic": "Language Devices",
+  "subTopic": "Sound and Rhythm",
+  "questions": [
+   {
+    "content": "Qu'est-ce qu'une allitération ?",
+    "options": [
+     "La répétition d'un son consonne",
+     "La répétition d'un son voyelle",
+     "Une comparaison",
+     "Une inversion de mots"
+    ],
+    "answer": 0,
+    "explanation": "L'allitération répète un son consonne proche : « Pour qui sont ces serpents qui sifflent sur vos têtes ? » (le son [s]).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Qu'est-ce qu'une assonance ?",
+    "options": [
+     "La répétition d'un son voyelle",
+     "La répétition d'une consonne",
+     "La répétition d'un mot entier",
+     "Un mot inventé"
+    ],
+    "answer": 0,
+    "explanation": "L'assonance répète un son voyelle, par exemple le son [ou] dans « Le loup dans la cour roule vers nous ».",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Qu'est-ce que l'onomatopée ?",
+    "options": [
+     "Un mot qui imite un bruit",
+     "Un mot très long",
+     "Un mot de la même famille",
+     "Un mot étranger"
+    ],
+    "answer": 0,
+    "explanation": "Les onomatopées reproduisent un son : « boum », « miaou », « glou-glou ».",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Que désigne le rythme d'une phrase ?",
+    "options": [
+     "La succession et la longueur des groupes de mots",
+     "Le sens de chaque mot",
+     "L'orthographe",
+     "La couleur de l'encre"
+    ],
+    "answer": 0,
+    "explanation": "Le rythme vient de la longueur des phrases, des pauses et des accents : il peut être rapide, lent, saccadé ou régulier.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Quel effet produisent généralement des phrases très courtes ?",
+    "options": [
+     "Un rythme rapide ou tendu",
+     "Un rythme lent et rêveur uniquement",
+     "Un effet comique obligatoire",
+     "Aucun effet"
+    ],
+    "answer": 0,
+    "explanation": "Les phrases brèves accélèrent le texte et peuvent exprimer l'urgence, la peur ou la tension.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Extrait inventé : « Le serpent siffle, glisse, s'efface. » Quel son est répété ?",
+    "options": [
+     "Le son [s] (allitération)",
+     "Le son [p]",
+     "Le son [m]",
+     "Le son [r]"
+    ],
+    "answer": 0,
+    "explanation": "Les sons [s] de « serpent », « siffle », « glisse » et « s'efface » créent un effet de sifflement qui imite le reptile.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extrait inventé : « Le gong grave grondait. » Quel effet cherche la répétition du son [g] ?",
+    "options": [
+     "Évoquer un bruit grave, sourd et menaçant",
+     "Créer une douceur de berceuse",
+     "Imiter un chant d'oiseau",
+     "Exprimer la légèreté"
+    ],
+    "answer": 0,
+    "explanation": "Les consonnes occlusives [g] sont dures et sourdes : elles suggèrent un grondement.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extrait inventé : « Mon cœur pleure, lourd et peureux, sous la pluie de l'heure. » Quel son voyelle revient dans « cœur », « pleure », « peureux », « heure » ?",
+    "options": [
+     "Le son [œ] / [ø], proche et doux",
+     "Le son [a]",
+     "Le son [i]",
+     "Le son [on]"
+    ],
+    "answer": 0,
+    "explanation": "Les sons voisins [œ] et [ø] sont répétés : c'est une assonance qui crée un effet de plainte monotone, comme la pluie.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extrait inventé : « Courir. Tomber. Se relever. Courir encore. » Quel rythme et quel effet ?",
+    "options": [
+     "Un rythme saccadé qui traduit l'effort et l'urgence",
+     "Un rythme calme de berceuse",
+     "Un rythme interminable de longues phrases",
+     "Aucun rythme particulier"
+    ],
+    "answer": 0,
+    "explanation": "Les phrases nominales ou infinitives très courtes suggèrent l'effort répété et le souffle coupé.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Quel procédé produit un rythme lent et rêveur ?",
+    "options": [
+     "Des phrases longues, des subordonnées et des sons doux",
+     "Des impératifs et des exclamations",
+     "Des phrases de deux mots",
+     "Des onomatopées bruyantes"
+    ],
+    "answer": 0,
+    "explanation": "Les phrases amples et les sons fluides ([l], [m], voyelles ouvertes) ralentissent la lecture et créent une atmosphère apaisée.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Dans un poème, qu'est-ce qu'une rime ?",
+    "options": [
+     "Le retour d'un même son à la fin de deux vers",
+     "Une comparaison entre deux vers",
+     "Une répétition de mot au début d'un vers",
+     "Une phrase sans verbe"
+    ],
+    "answer": 0,
+    "explanation": "Les rimes répètent les derniers sons de vers différents : « soleil / sommeil ».",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Quelle phrase contient une anaphore ?",
+    "options": [
+     "« Je marche, je pense, je reste sans voix. »",
+     "« Il court vite. »",
+     "« Elle chante et danse. »",
+     "« Plus tard, nous partirons. »"
+    ],
+    "answer": 0,
+    "explanation": "L'anaphore répète le même mot (« je ») au début de plusieurs segments successifs, ce qui crée un effet d'insistance et de rythme.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Un vers de douze syllabes s'appelle :",
+    "options": [
+     "Un alexandrin",
+     "Un octosyllabe",
+     "Un décasyllabe",
+     "Un hexasyllabe"
+    ],
+    "answer": 0,
+    "explanation": "L'alexandrin compte douze syllabes, avec souvent une coupe (pause) au milieu, la césure.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extrait inventé : « Tic-tac, tic-tac, l'horloge égrène l'heure, et chaque heure se traîne. » Quelle analyse est la plus complète ?",
+    "options": [
+     "L'onomatopée et la répétition imitent le tic-tac, tandis que le verbe « se traîne » ralentit le rythme et exprime l'ennui",
+     "Il n'y a aucun effet sonore",
+     "Le texte est une liste d'ingrédients",
+     "Il s'agit d'une métaphore filée seulement"
+    ],
+    "answer": 0,
+    "explanation": "Les sons imitent la régularité de l'horloge et le choix du verbe traduit la lenteur ressentie : le son et le sens se renforcent.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Extrait inventé : « La nuit tombe, lente, lourde, silencieuse. » Quel rapport existe entre l'allitération en [l] et le sens ?",
+    "options": [
+     "Les sons liquides [l] créent une douceur fluide qui accompagne la lenteur de la nuit",
+     "Les sons [l] évoquent un choc violent",
+     "Les sons [l] n'ont jamais de valeur expressive",
+     "Les sons [l] imitent un cri"
+    ],
+    "answer": 0,
+    "explanation": "La consonne liquide [l] glisse : sa fluidité sonore soutient l'idée de lenteur et d'apaisement.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Pourquoi faut-il être prudent quand on interprète la valeur d'un son ?",
+    "options": [
+     "Parce que l'effet dépend du contexte : un même son peut évoquer la douceur ou la violence selon le sens des mots",
+     "Parce que les sons n'ont jamais d'effet",
+     "Parce que seul le sens compte",
+     "Parce que les allitérations sont interdites en prose"
+    ],
+    "answer": 0,
+    "explanation": "Un son ne signifie rien seul : l'effet sonore se justifie par son accord avec le sens du passage et ne doit jamais être affirmé sans lien avec lui.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Extrait inventé : « Je n'ai pas peur. Je n'ai pas peur. Je n'ai pas… peur. » Quel est l'effet de la dernière phrase brisée ?",
+    "options": [
+     "Elle trahit une peur qui s'avoue malgré les mots répétés",
+     "Elle prouve un courage total",
+     "Elle ralentit à cause d'une description",
+     "Elle est une erreur de ponctuation"
+    ],
+    "answer": 0,
+    "explanation": "La répétition tente de rassurer, mais les points de suspension coupent le rythme : la voix flanche, révélant l'angoisse.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Quelle réponse analyse correctement le rythme du passage : « Elle ouvrit la porte. Rien. Elle avança. Un craquement. Elle se figea. » ?",
+    "options": [
+     "Les phrases très brèves et les mots isolés (« Rien », « Un craquement ») créent un suspense par un rythme haché qui imite le souffle retenu",
+     "Les phrases longues décrivent un paysage",
+     "Le rythme est régulier et sans effet",
+     "Le passage est un dialogue joyeux"
+    ],
+    "answer": 0,
+    "explanation": "La brièveté et les fragments donnent une impression de tension : on avance pas à pas, avec le personnage, en retenant son souffle.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Écouter un texte\nUn texte est fait pour être lu à voix haute, même en silence. Les sons et le rythme participent au sens : ils créent une atmosphère, imitent un bruit, accélèrent ou ralentissent l'action. En poésie comme en prose, analyser l'effet sonore est un signe de lecture fine. Mais attention : un son n'a pas de valeur en soi, il doit s'accorder avec le sens du passage.\n\n## Les effets de sons\n- **L'allitération** est la répétition d'un son consonne. Exemple inventé : « Le serpent siffle, glisse, s'efface » (le son [s] imite le sifflement).\n- **L'assonance** est la répétition d'un son voyelle. Exemple : « Je sens, mon cœur, la douleur » avec la reprise du son [œ].\n- **L'onomatopée** est un mot qui imite un bruit : « boum », « tic-tac », « crac ».\n- **La rime** est le retour du même son à la fin de deux vers. Elle structure le poème et crée une musique.\n- **Les sons doux** (consonnes liquides [l], [m], [n], voyelles ouvertes) suggèrent la douceur, la lenteur, le rêve. **Les sons durs** (consonnes [k], [t], [g], [r] marqué) suggèrent la rudesse, le choc ou la menace.\n\n## Le rythme\nLe rythme dépend de la longueur des phrases, de la ponctuation, des pauses et de la répétition.\n- **Phrases courtes** : rythme rapide, saccadé, tension. Exemple : « Courir. Tomber. Se relever. »\n- **Phrases longues** : rythme ample, lent, rêveur ou descriptif.\n- **Anaphore** : répétition d'un mot au début de segments successifs, qui crée un effet d'insistance.\n- **Gradation** et **accumulation** : accélération ou foisonnement.\n- **Ponctuation expressive** : points de suspension (hésitation), points d'exclamation (émotion), virgules en série (enchaînement rapide).\nEn poésie, on compte aussi les **syllabes** : l'alexandrin compte douze syllabes avec une césure au milieu, l'octosyllabe huit, le décasyllabe dix. La régularité donne de la solennité ; un vers brisé marque une émotion forte.\n\n## Comment analyser un effet sonore ou rythmique\n- **Repérer** le procédé (répétition de [s], phrases brèves).\n- **Citer** les mots où il apparaît.\n- **Associer** le son ou le rythme au sens (le sifflement du serpent, le souffle retenu).\n- **Conclure** sur l'effet : tension, calme, menace, mélancolie.\nExemple : « Dans « Elle ouvrit la porte. Rien. Elle avança. Un craquement. », les phrases très brèves et les fragments créent un suspense : le rythme haché imite le souffle retenu du personnage. »\n\n## Erreurs fréquentes\n- Nommer l'allitération sans citer les mots concernés.\n- Affirmer qu'un son est « toujours doux » ou « toujours violent » sans regarder le sens.\n- Confondre allitération (consonne) et assonance (voyelle).\n- Confondre sons et lettres : on parle de sons, pas d'orthographe.\n- Oublier de lier le rythme au sens ou à l'émotion.\n\n## Comment cela est évalué\nDans les tâches d'analyse, les critères A et B récompensent la capacité à relier une forme (son, rythme, ponctuation) à un sens. Cherchez des phrases courtes, des répétitions et des sons répétés, puis expliquez ce qu'ils font ressentir.\n\nExam tip: lisez le passage à voix basse avant de répondre ; vous entendrez les répétitions de sons et les ruptures de rythme, puis vous pourrez dire précisément ce qu'elles suggèrent.",
+  "flashcards": [
+   {
+    "front": "Allitération",
+    "back": "Répétition d'un son consonne dans une suite de mots. Exemple : « Le serpent siffle, glisse, s'efface » ([s])."
+   },
+   {
+    "front": "Assonance",
+    "back": "Répétition d'un son voyelle dans une suite de mots, qui crée une musicalité."
+   },
+   {
+    "front": "Onomatopée",
+    "back": "Mot qui imite un bruit : boum, tic-tac, miaou, crac."
+   },
+   {
+    "front": "Rime",
+    "back": "Retour du même son à la fin de deux vers ou plus, comme « soleil / sommeil »."
+   },
+   {
+    "front": "Anaphore",
+    "back": "Répétition d'un même mot ou groupe de mots au début de plusieurs phrases ou vers, pour insister."
+   },
+   {
+    "front": "Alexandrin",
+    "back": "Vers de douze syllabes, avec souvent une coupe au milieu appelée césure."
+   },
+   {
+    "front": "Effet des phrases courtes",
+    "back": "Rythme rapide, saccadé, qui crée de la tension, de l'urgence ou du suspense."
+   },
+   {
+    "front": "Sons doux et sons durs",
+    "back": "Les sons [l], [m], [n] suggèrent douceur ou lenteur ; les sons [k], [t], [g] suggèrent dureté ou choc, selon le contexte."
+   },
+   {
+    "front": "Analyser un effet sonore",
+    "back": "Repérer le procédé, citer les mots, relier le son au sens, conclure sur l'effet produit chez le lecteur."
+   }
+  ]
+ },
+ {
+  "subject": "french-language-and-literature",
+  "grade": 5,
+  "topic": "Language Devices",
+  "subTopic": "Register and Word Choice",
+  "questions": [
+   {
+    "content": "Que désigne le « registre de langue » ?",
+    "options": [
+     "Le niveau de langue : familier, courant ou soutenu",
+     "Le nombre de mots dans un texte",
+     "Le genre littéraire d'un roman",
+     "La langue maternelle de l'auteur"
+    ],
+    "answer": 0,
+    "explanation": "Le registre de langue (ou niveau de langue) est la manière de parler selon la situation : familier, courant, soutenu.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Lequel de ces mots appartient au registre familier ?",
+    "options": [
+     "Bagnole",
+     "Voiture",
+     "Automobile",
+     "Véhicule"
+    ],
+    "answer": 0,
+    "explanation": "« Bagnole » est familier ; « voiture » est courant ; « automobile » et « véhicule » sont plus soutenus ou neutres.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Qu'est-ce qu'un synonyme ?",
+    "options": [
+     "Un mot de sens proche",
+     "Un mot de sens opposé",
+     "Un mot qui rime",
+     "Un mot inventé"
+    ],
+    "answer": 0,
+    "explanation": "Un synonyme a un sens voisin, mais rarement identique : « gai » et « joyeux ».",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Qu'est-ce qu'un champ lexical ?",
+    "options": [
+     "L'ensemble des mots d'un texte qui se rapportent à un même thème",
+     "Un champ cultivé",
+     "Une liste de verbes irréguliers",
+     "La ponctuation d'une phrase"
+    ],
+    "answer": 0,
+    "explanation": "Un champ lexical regroupe des mots liés à la même idée : mer, vague, sable, plage...",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Quel mot est péjoratif (dépréciatif) pour désigner un employé de bureau ?",
+    "options": [
+     "Un gratte-papier",
+     "Un employé",
+     "Un secrétaire",
+     "Un fonctionnaire"
+    ],
+    "answer": 0,
+    "explanation": "« Gratte-papier » exprime un jugement défavorable sur le métier ; les autres mots sont neutres.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Extrait inventé : « Le gosse a paumé son sac. » Quel est le registre de langue ?",
+    "options": [
+     "Familier",
+     "Soutenu",
+     "Littéraire",
+     "Scientifique"
+    ],
+    "answer": 0,
+    "explanation": "« Gosse » et « paumer » sont des mots familiers, typiques de l'oral détendu.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extrait inventé : « Il convient de procéder à l'examen minutieux des faits. » Quel registre domine ?",
+    "options": [
+     "Soutenu",
+     "Familier",
+     "Argotique",
+     "Enfantin"
+    ],
+    "answer": 0,
+    "explanation": "Le vocabulaire recherché (« convient », « procéder », « minutieux ») et la tournure formelle relèvent du registre soutenu.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extrait inventé : « La demeure était vaste ; elle semblait dormir sous la neige. » Quel est l'effet du mot « demeure » plutôt que « maison » ?",
+    "options": [
+     "Un ton plus noble, littéraire",
+     "Un ton familier",
+     "Un ton technique",
+     "Un ton enfantin"
+    ],
+    "answer": 0,
+    "explanation": "« Demeure » est plus recherché que « maison » : il donne de la solennité et un caractère poétique à la description.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extrait inventé : « Il marchait d'un pas lourd » / « Il traînait des pieds ». Quelle différence de connotation ?",
+    "options": [
+     "« Traînait des pieds » suggère la fatigue ou la mauvaise volonté, « pas lourd » suggère le poids ou l'effort",
+     "Aucune différence",
+     "« Pas lourd » est plus joyeux",
+     "Les deux sont sans sens"
+    ],
+    "answer": 0,
+    "explanation": "Chaque verbe ajoute une nuance : le choix précis du mot construit l'image du personnage.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Qu'est-ce que la connotation d'un mot ?",
+    "options": [
+     "Les idées ou émotions associées au mot, en plus de son sens littéral",
+     "Sa définition exacte du dictionnaire",
+     "Son origine latine",
+     "Sa place dans le vers"
+    ],
+    "answer": 0,
+    "explanation": "La dénotation est le sens de base ; la connotation est ce que le mot suggère : « foyer » évoque la chaleur, la famille.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extrait inventé : « La vieille bâtisse dominait le quartier, sombre et silencieuse. » Quel champ lexical est présent ?",
+    "options": [
+     "Celui de l'inquiétude ou de la solitude : vieille, sombre, silencieuse",
+     "Celui de la fête",
+     "Celui du sport",
+     "Celui de la cuisine"
+    ],
+    "answer": 0,
+    "explanation": "Les adjectifs « vieille », « sombre » et « silencieuse » forment un champ lexical qui crée une atmosphère austère.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Pourquoi l'auteur d'un roman fait-il parler un personnage au registre familier ?",
+    "options": [
+     "Pour le rendre vivant et crédible, et caractériser son milieu ou sa personnalité",
+     "Pour allonger le texte",
+     "Pour éviter les verbes",
+     "Pour cacher le sens"
+    ],
+    "answer": 0,
+    "explanation": "Le registre familier dans un dialogue rend le personnage réaliste et révèle son milieu, son âge ou son humeur.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extrait inventé : « Notre terre, notre mère nourricière, souffre. » Quel est l'effet du mot « mère » ?",
+    "options": [
+     "Il personnifie la terre et crée un lien affectif",
+     "Il désigne la mère de l'auteur",
+     "Il introduit un calcul",
+     "Il n'a aucun effet"
+    ],
+    "answer": 0,
+    "explanation": "« Mère nourricière » associe la terre à une figure protectrice : le lecteur ressent une responsabilité affective.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extrait inventé : « Le directeur a quitté ses fonctions. » / « Le directeur s'est fait virer. » Quelle phrase conviendrait le mieux à un communiqué officiel ?",
+    "options": [
+     "La première, car elle est neutre et formelle",
+     "La seconde, car elle est plus vivante",
+     "Les deux sans différence",
+     "Aucune des deux"
+    ],
+    "answer": 0,
+    "explanation": "Un communiqué officiel exige un registre courant ou soutenu. « Virer » est familier et peu adapté.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Extrait inventé : « Il ne mentit pas, il arrangea la vérité. » Que révèle le choix du verbe « arranger » ?",
+    "options": [
+     "Un euphémisme qui adoucit le mensonge, peut-être avec ironie",
+     "Une description neutre sans nuance",
+     "Un registre scientifique",
+     "Une hyperbole"
+    ],
+    "answer": 0,
+    "explanation": "« Arranger la vérité » atténue le mot « mentir ». Selon le contexte, l'auteur peut excuser le personnage ou, au contraire, souligner son hypocrisie.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Extrait inventé : « Le bureau était un mausolée de dossiers. » Quelle analyse du mot « mausolée » est la plus fine ?",
+    "options": [
+     "Il évoque la mort et le silence, suggérant un lieu figé et sans vie, ce qui critique le travail administratif",
+     "Il désigne un type de chaise",
+     "Il est un synonyme de « gai »",
+     "Il indique la date"
+    ],
+    "answer": 0,
+    "explanation": "Le terme funéraire transforme le bureau en tombeau de papiers : la métaphore dépréciative renforce la critique.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Dans un dialogue, un personnage passe soudain du registre familier au registre soutenu devant un inconnu. Que peut montrer l'auteur ?",
+    "options": [
+     "Que le personnage adapte son langage à la situation, ou joue un rôle",
+     "Que l'auteur a fait une erreur",
+     "Que le texte change de langue",
+     "Que le personnage ne parle plus"
+    ],
+    "answer": 0,
+    "explanation": "Le changement de registre peut révéler le respect, l'intimidation ou la volonté de paraître différent.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Quelle phrase combine un vocabulaire mélioratif et un registre soutenu ?",
+    "options": [
+     "Cette cathédrale majestueuse s'élevait vers le ciel avec une noblesse incomparable.",
+     "Cette baraque était pas mal.",
+     "Ça cassait la baraque.",
+     "Le truc était super."
+    ],
+    "answer": 0,
+    "explanation": "« Majestueuse », « noblesse » et « incomparable » sont valorisants et recherchés : ils créent un ton admiratif et solennel.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Choisir ses mots avec précision\nLe choix des mots est un outil essentiel de l'auteur. Un même événement peut se raconter de dix façons : « Il est parti », « Il s'est enfui », « Il a quitté les lieux ». Chaque formulation transmet une nuance différente. En analyse littéraire, on cherche à expliquer pourquoi l'auteur a choisi tel mot et quel effet ce choix produit sur le lecteur.\n\n## Les registres de langue\nLe **registre de langue** (ou niveau de langue) dépend de la situation et du public.\n- **Familier** : langage oral détendu, mots comme *bagnole*, *gosse*, *bouquin*, *paumer*. On l'emploie entre amis ou dans les dialogues réalistes.\n- **Courant** : langage neutre, correct, compris de tous. C'est le niveau par défaut : *voiture*, *enfant*, *livre*.\n- **Soutenu** : langage recherché, formel ou littéraire : *automobile*, *demeure*, *s'enquérir*. On le trouve dans les discours officiels et la littérature classique.\nL'auteur peut changer de registre pour caractériser un personnage, créer un effet comique ou marquer une rupture. Un personnage qui passe soudain du familier au soutenu peut jouer un rôle ou adapter son langage à son interlocuteur.\n\n## Dénotation et connotation\n- La **dénotation** est le sens précis, objectif d'un mot (celui du dictionnaire).\n- La **connotation** est l'ensemble des idées, images ou émotions associées au mot. Le mot *foyer* signifie « lieu d'habitation » (dénotation) mais évoque la chaleur, la famille, la sécurité (connotation).\nDeux synonymes ont rarement la même connotation : *maison*, *demeure*, *baraque* ou *logis* ne produisent pas le même effet. Un lexique **mélioratif** valorise (*majestueux*, *noble*), un lexique **péjoratif** déprécie (*misérable*, *minable*).\n\n## Les champs lexicaux\nUn **champ lexical** est un ensemble de mots d'un texte qui se rapportent à un même thème : la peur (*trembler*, *sombre*, *frisson*), la mer (*vague*, *sable*, *écume*). Repérer un champ lexical permet de dégager l'atmosphère, le thème ou le point de vue. Dans « La vieille bâtisse dominait le quartier, sombre et silencieuse », les adjectifs forment un champ lexical de l'austérité et de la solitude.\n\n## Comment analyser le choix d'un mot\n- **Relever** un mot ou une expression précise.\n- **Définir** son sens littéral.\n- **Expliquer** sa connotation, en le comparant si possible à un autre mot possible.\n- **Relier** cette nuance au ton, au personnage ou au thème.\nExemple : « Le bureau était un mausolée de dossiers. » Le mot *mausolée* évoque la mort, le silence et l'immobilité : le bureau paraît figé et sans vie, ce qui critique le travail administratif.\n\n## Erreurs fréquentes\n- Dire que le mot est « bien choisi » sans expliquer pourquoi.\n- Confondre registre (niveau de langue) et ton (attitude).\n- Ignorer la connotation et ne donner que la définition.\n- Relever un champ lexical sans préciser quel thème il construit.\n- Utiliser dans ses propres textes des mots familiers dans un contexte formel.\n\n## Comment cela est évalué\nÀ l'examen, une question typique est : « Comment le vocabulaire choisi par l'auteur crée-t-il une atmosphère ? » Le critère A récompense l'analyse des mots précis, le critère D récompense votre propre choix de registre adapté à la tâche. Votre vocabulaire d'analyse doit rester varié et précis.\n\nExam tip: choisissez un mot clé dans l'extrait, comparez-le à un synonyme plus neutre et expliquez ce que le mot choisi ajoute : cette méthode de comparaison montre la nuance et donne de la profondeur à votre analyse.",
+  "flashcards": [
+   {
+    "front": "Registre de langue",
+    "back": "Niveau de langue adapté à la situation : familier, courant ou soutenu."
+   },
+   {
+    "front": "Registre familier : exemples",
+    "back": "Bagnole, gosse, bouquin, paumer. Il appartient à l'oral détendu ou aux dialogues réalistes."
+   },
+   {
+    "front": "Registre soutenu : exemples",
+    "back": "Demeure, s'enquérir, automobile. Il est recherché et formel, courant dans les discours officiels et la littérature."
+   },
+   {
+    "front": "Dénotation",
+    "back": "Sens précis et objectif d'un mot, tel qu'il figure dans le dictionnaire."
+   },
+   {
+    "front": "Connotation",
+    "back": "Idées ou émotions que le mot suggère en plus de son sens littéral. Exemple : « foyer » évoque la chaleur et la famille."
+   },
+   {
+    "front": "Lexique mélioratif / péjoratif",
+    "back": "Mélioratif : mots valorisants (majestueux). Péjoratif : mots dépréciatifs (minable)."
+   },
+   {
+    "front": "Champ lexical",
+    "back": "Ensemble des mots d'un texte liés au même thème. Il révèle l'atmosphère ou le thème."
+   },
+   {
+    "front": "Pourquoi changer de registre ?",
+    "back": "Pour caractériser un personnage, créer un effet comique, marquer une rupture ou adapter le discours à l'interlocuteur."
+   },
+   {
+    "front": "Analyser un mot : méthode",
+    "back": "Relever le mot, donner son sens, expliquer sa connotation (en le comparant à un synonyme), relier à l'effet."
+   }
+  ]
+ }
+]

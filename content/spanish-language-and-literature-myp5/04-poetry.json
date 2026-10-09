@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "spanish-language-and-literature",
+  "grade": 5,
+  "topic": "Poetry",
+  "subTopic": "Reading Poems Closely",
+  "questions": [
+   {
+    "content": "¿Qué es un verso?",
+    "options": [
+     "Un grupo de varios poemas",
+     "Cada línea de un poema",
+     "El título del poema",
+     "Una palabra final"
+    ],
+    "answer": 1,
+    "explanation": "El verso es la unidad básica del poema; varios versos forman una estrofa.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "¿Qué es una estrofa?",
+    "options": [
+     "Una sola palabra",
+     "La rima final",
+     "Un tipo de narrador",
+     "Un conjunto de versos que forma una unidad"
+    ],
+    "answer": 3,
+    "explanation": "Las estrofas separan el poema en bloques con sentido.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "¿Qué es el yo poético (o voz poética)?",
+    "options": [
+     "La voz que habla en el poema",
+     "El poeta real siempre",
+     "El editor",
+     "El lector"
+    ],
+    "answer": 0,
+    "explanation": "El yo lírico es una voz creada por el poeta; no siempre coincide con él.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "¿Qué es el tema de un poema?",
+    "options": [
+     "El número de versos",
+     "La rima",
+     "La idea o sentimiento central que expresa",
+     "El título del libro"
+    ],
+    "answer": 2,
+    "explanation": "El tema es la idea general: el paso del tiempo, el amor, la soledad, etc.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "¿Qué es una imagen poética?",
+    "options": [
+     "Una fotografía",
+     "Una expresión que evoca una sensación mediante palabras",
+     "Una rima perfecta",
+     "Un signo de puntuación"
+    ],
+    "answer": 1,
+    "explanation": "Las imágenes recrean sensaciones visuales, sonoras, táctiles, olfativas o gustativas.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Poema inventado: «Cae la tarde sobre el puerto, / se encienden las luces, una a una, / y mi nombre queda dormido / en el agua que no pregunta.» ¿Qué tema y atmósfera sugiere?",
+    "options": [
+     "Fiesta y bullicio",
+     "Rabia y violencia",
+     "Deporte y competición",
+     "Soledad y quietud al anochecer"
+    ],
+    "answer": 3,
+    "explanation": "La tarde que cae, el nombre «dormido» y el agua que «no pregunta» transmiten calma y soledad.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "En el mismo poema, «el agua que no pregunta» es una…",
+    "options": [
+     "Personificación negativa que sugiere silencio y falta de respuestas",
+     "Onomatopeya",
+     "Hipérbole",
+     "Símil"
+    ],
+    "answer": 0,
+    "explanation": "Se atribuye al agua la acción humana de preguntar, negada: refuerza la soledad.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Poema inventado: «No me dijiste adiós. / Solo dejaste / la taza tibia sobre la mesa.» ¿Qué efecto produce la forma de los versos cortos?",
+    "options": [
+     "Aceleran la acción",
+     "Impiden comprender",
+     "Crea pausas que subrayan la ausencia y la emoción contenida",
+     "Indican una rima"
+    ],
+    "answer": 2,
+    "explanation": "Los versos breves dejan silencios y enfatizan lo no dicho.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "¿Qué significa interpretar el título de un poema?",
+    "options": [
+     "Copiar el título",
+     "Pensar qué anticipa o cómo se relaciona con el tema",
+     "Ignorar el título",
+     "Contar las letras"
+    ],
+    "answer": 1,
+    "explanation": "El título orienta la lectura y puede ofrecer una clave simbólica.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Poema inventado: «Las campanas de abril / me llaman por mi nombre antiguo.» ¿Qué sentido tiene «mi nombre antiguo»?",
+    "options": [
+     "Que ha cambiado de ciudad",
+     "Que no tiene nombre",
+     "Que odia abril",
+     "Sugiere una identidad pasada o recuerdos de la infancia"
+    ],
+    "answer": 3,
+    "explanation": "Lo antiguo del nombre evoca el pasado y la nostalgia.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "¿Qué ocurre con la puntuación en un poema sin puntos ni comas?",
+    "options": [
+     "Puede crear fluidez y ambigüedad que obliga al lector a decidir el sentido",
+     "Es siempre un error",
+     "Impide todo significado",
+     "Indica rima consonante"
+    ],
+    "answer": 0,
+    "explanation": "La ausencia de puntuación puede unir ideas y abrir varias lecturas.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Poema inventado: «Tu voz, oscura miel, / se me derrama en el oído.» ¿Qué recurso destaca?",
+    "options": [
+     "Onomatopeya",
+     "Símil con «como»",
+     "Metáfora con sinestesia (oído y gusto)",
+     "Hipérbole matemática"
+    ],
+    "answer": 2,
+    "explanation": "«Oscura miel» identifica la voz con miel y mezcla sensaciones de distintos sentidos.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Poema inventado: «Hoy el mar no tiene prisa; / yo tampoco.» ¿Qué efecto produce la última frase?",
+    "options": [
+     "Introduce una crítica social",
+     "Identifica al yo poético con el mar y transmite serenidad",
+     "Genera un tono furioso",
+     "Describe un ruido"
+    ],
+    "answer": 1,
+    "explanation": "El paralelismo entre el mar y el yo crea una sensación de calma compartida.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Poema inventado: «Barro fui, barro seré, / pero entre un barro y otro / me tocó sentir la lluvia.» ¿Qué lectura es más profunda?",
+    "options": [
+     "Describe un trabajo de alfarería",
+     "Es una queja sobre el clima",
+     "Es un chiste",
+     "Reflexión sobre la fugacidad de la vida: lo valioso es lo vivido entre origen y final"
+    ],
+    "answer": 3,
+    "explanation": "El barro simboliza la condición mortal; la lluvia representa la experiencia vital.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Poema inventado: «Se fue el verano sin avisar. / Quedó la silla en el jardín, / mirando hacia ninguna parte.» ¿Qué análisis de la silla es más sólido?",
+    "options": [
+     "Personificación y símbolo de ausencia, que da a la escena una melancolía discreta",
+     "Onomatopeya del verano",
+     "Hipérbole que ridiculiza el verano",
+     "Metáfora del trabajo"
+    ],
+    "answer": 0,
+    "explanation": "La silla «mira», y esa mirada vacía sugiere abandono y nostalgia.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Una alumna escribe: «El poema habla de la lluvia porque menciona lluvia en el verso 2.» ¿Qué falta para un análisis competente?",
+    "options": [
+     "Cambiar el verso",
+     "Contar sílabas únicamente",
+     "Interpretar qué simboliza la lluvia y cómo se relaciona con el tono y el tema",
+     "Añadir más citas sin explicar"
+    ],
+    "answer": 2,
+    "explanation": "No basta con mencionar el elemento: hay que interpretar su función.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Poema inventado: «Cuento los pasos hasta tu puerta: / cuarenta, cuarenta y uno, / y me falta valor para el cuarenta y dos.» ¿Qué recurso formal refuerza la tensión?",
+    "options": [
+     "La rima consonante de todo el poema",
+     "La enumeración numérica gradual, que interrumpe el avance justo antes del final",
+     "La onomatopeya",
+     "La ausencia de verbos"
+    ],
+    "answer": 1,
+    "explanation": "El conteo crea ritmo y expectación; la interrupción muestra duda.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "En un examen, la pregunta «¿Cómo transmite el poeta la sensación de pérdida?» exige…",
+    "options": [
+     "Resumir la vida del poeta",
+     "Parafrasear sin citar",
+     "Contar versos",
+     "Identificar recursos concretos, citar versos y explicar el efecto emocional"
+    ],
+    "answer": 3,
+    "explanation": "Se pide analizar el «cómo»: recursos, citas y efecto.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Lo esencial\nLeer un poema de cerca significa desmontar cómo está hecho para comprender lo que expresa. Un poema condensa mucho sentido en pocas palabras, así que cada elección importa: el título, la voz, las imágenes, la forma de los versos, los sonidos y los silencios. En Lengua y Literatura debes pasar del «qué dice» al «cómo lo dice» y al «por qué importa».\n\n## Conceptos básicos\n- **Verso:** cada línea del poema.\n- **Estrofa:** conjunto de versos que forma un bloque.\n- **Yo poético o voz lírica:** la voz que habla; no siempre coincide con el poeta.\n- **Tema:** idea o sentimiento central, como la ausencia, el tiempo o la nostalgia.\n- **Tono:** actitud de la voz (melancólica, esperanzada, irónica).\n- **Imagen:** expresión que evoca una sensación visual, auditiva, táctil, olfativa o gustativa.\n\n## Un método en cuatro pasos\n1. **Antes de leer:** observa el título y la forma (versos largos o cortos, estrofas, espacios).\n2. **Primera lectura:** parafrasea. ¿Quién habla? ¿A quién? ¿Qué sucede? ¿Qué sentimiento domina?\n3. **Segunda lectura:** subraya imágenes, palabras repetidas, contrastes, sonidos y cambios de ritmo.\n4. **Tercera lectura:** interpreta. ¿Por qué elige esas imágenes? ¿Qué relación hay entre forma y significado?\n\n## La forma también significa\n- **Versos cortos:** crean pausas y silencios, y pueden transmitir emoción contenida. Ejemplo inventado: «No me dijiste adiós. / Solo dejaste / la taza tibia sobre la mesa.»\n- **Versos largos:** dan sensación de flujo o de agobio.\n- **Encabalgamiento:** una frase continúa en el verso siguiente, creando tensión o fluidez.\n- **Puntuación:** su ausencia puede crear ambigüedad y abrir varias lecturas.\n- **Espacios en blanco:** representan silencios.\n- **Final del poema:** suele concentrar el giro emocional.\n\n## Lenguaje figurado y simbolismo en poesía\nLas imágenes poéticas aparecen en metáforas, personificaciones, símiles y sinestesias. Por ejemplo, «Tu voz, oscura miel, / se me derrama en el oído» mezcla el oído y el gusto. Cuando una imagen se repite, puede convertirse en símbolo: el agua como paso del tiempo, la silla vacía como ausencia, el barro como condición mortal. Analiza siempre qué sentimiento transmite la imagen y por qué es adecuada.\n\n## Cómo escribir un análisis\nUsa la cadena **cita, recurso, efecto, tema**. Ejemplo: «En “el agua que no pregunta”, la personificación negativa subraya la soledad de la voz, que no recibe respuestas.» Evita contar el contenido verso a verso; selecciona los momentos más significativos y explica su relación con el sentido global.\n\n## Errores frecuentes\n- **Parafrasear sin analizar.** Contar lo que dice no basta.\n- **Identificar recursos sin explicar su efecto.**\n- **Confundir poeta y yo poético.** Habla de «la voz poética» o «el yo lírico».\n- **Buscar un único sentido correcto.** Un poema admite varias interpretaciones, siempre que se justifiquen.\n- **Ignorar la forma.** Longitud de los versos, ritmo y espacios también tienen significado.\n\n## Cómo se evalúa\nEn la evaluación en pantalla aparece un poema breve, original, con preguntas sobre el sentido de una imagen, el efecto del ritmo, el cambio de tono al final o la relación entre título y contenido. Las preguntas de respuesta extensa piden analizar cómo el poeta crea un sentimiento o desarrolla un tema.\n\nExam tip: nunca cites un verso sin añadir el recurso y su efecto; la combinación de cita, nombre del recurso y efecto emocional es lo que más puntúa.",
+  "flashcards": [
+   {
+    "front": "Verso y estrofa",
+    "back": "Verso: cada línea del poema. Estrofa: conjunto de versos que forma un bloque con unidad de sentido."
+   },
+   {
+    "front": "Yo poético o voz lírica",
+    "back": "La voz que habla en el poema. No siempre coincide con el poeta real."
+   },
+   {
+    "front": "Imagen poética",
+    "back": "Expresión que evoca sensaciones (vista, oído, tacto, olfato o gusto) mediante recursos como metáforas o comparaciones."
+   },
+   {
+    "front": "Tema y tono de un poema",
+    "back": "Tema: idea o sentimiento central. Tono: actitud de la voz poética hacia ese tema, como melancólico o esperanzado."
+   },
+   {
+    "front": "Efecto de los versos cortos",
+    "back": "Crean pausas, silencios y emoción contenida; pueden subrayar ausencias o dudas."
+   },
+   {
+    "front": "Encabalgamiento",
+    "back": "La frase continúa en el verso siguiente sin pausa. Crea fluidez, tensión o sensación de urgencia."
+   },
+   {
+    "front": "Método de lectura de un poema",
+    "back": "Observar título y forma; parafrasear; subrayar imágenes y sonidos; interpretar la relación entre forma y significado."
+   },
+   {
+    "front": "Cadena de análisis poético",
+    "back": "Cita + recurso + efecto + relación con el tema. Ejemplo: personificación del agua que subraya la soledad."
+   },
+   {
+    "front": "Parafrasear",
+    "back": "Explicar con palabras sencillas lo que dice el poema. Es el primer paso antes de analizar los recursos."
+   }
+  ]
+ },
+ {
+  "subject": "spanish-language-and-literature",
+  "grade": 5,
+  "topic": "Poetry",
+  "subTopic": "Poetic Forms",
+  "questions": [
+   {
+    "content": "¿Cuántas sílabas métricas tiene un verso endecasílabo?",
+    "options": [
+     "Ocho",
+     "Catorce",
+     "Seis",
+     "Once"
+    ],
+    "answer": 3,
+    "explanation": "Endecasílabo significa «de once sílabas».",
+    "difficulty": "easy"
+   },
+   {
+    "content": "¿Cuántos versos tiene un soneto?",
+    "options": [
+     "Catorce",
+     "Diez",
+     "Ocho",
+     "Dieciséis"
+    ],
+    "answer": 0,
+    "explanation": "Dos cuartetos y dos tercetos forman 14 versos.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "¿Qué es el verso libre?",
+    "options": [
+     "Un verso de ocho sílabas con rima",
+     "Un verso sin significado",
+     "Un verso sin rima fija ni métrica regular",
+     "Un verso con rima consonante obligatoria"
+    ],
+    "answer": 2,
+    "explanation": "El verso libre no sigue patrón fijo de rima o de medida.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "¿Qué es un haiku?",
+    "options": [
+     "Un poema de catorce versos",
+     "Un poema breve de tres versos, tradicionalmente de 5, 7 y 5 sílabas",
+     "Un poema narrativo",
+     "Un poema sin imágenes"
+    ],
+    "answer": 1,
+    "explanation": "Procede de Japón; en español suele adaptarse a la medida 5-7-5.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "¿Qué es un caligrama?",
+    "options": [
+     "Un poema sin versos",
+     "Un poema con rima asonante",
+     "Un poema de dos versos",
+     "Un poema cuya disposición gráfica dibuja un objeto"
+    ],
+    "answer": 3,
+    "explanation": "La forma visual forma parte del significado.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "¿Qué esquema de rima tiene un cuarteto ABBA?",
+    "options": [
+     "El primer verso rima con el cuarto y el segundo con el tercero",
+     "El primero con el segundo",
+     "El primero con el tercero",
+     "Todos los versos riman igual"
+    ],
+    "answer": 0,
+    "explanation": "A-B-B-A: los versos externos riman entre sí y los internos entre sí.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Estrofa inventada: «Cuando el invierno llega con su frío (A) / y el viento pule el mármol de la plaza (B) / yo pienso en una luz que nos abraza (B) / y sueño con zarpar en un navío (A)». ¿Qué estrofa es?",
+    "options": [
+     "Serventesio ABAB",
+     "Terceto",
+     "Cuarteto con rima ABBA",
+     "Haiku"
+    ],
+    "answer": 2,
+    "explanation": "El primero y el cuarto riman, y el segundo y el tercero también: ABBA.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "¿Qué es el romance tradicional?",
+    "options": [
+     "Un poema de catorce versos con rima consonante",
+     "Una serie de versos octosílabos con rima asonante en los pares",
+     "Un poema de tres versos",
+     "Una sola estrofa sin rima"
+    ],
+    "answer": 1,
+    "explanation": "El romance rima en asonante los versos pares y deja libres los impares.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Verso inventado: «Ya se oculta el sol detrás del monte». ¿Cuántas sílabas métricas tiene?",
+    "options": [
+     "8",
+     "9",
+     "12",
+     "10"
+    ],
+    "answer": 3,
+    "explanation": "Tiene 12 sílabas gramaticales; las sinalefas de «se o-culta» y «oculta el» restan dos, y como «monte» es llana no se añade nada: 10.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "¿Qué diferencia hay entre rima y ritmo?",
+    "options": [
+     "La rima es coincidencia de sonidos finales; el ritmo es la cadencia producida por acentos y pausas",
+     "Son lo mismo",
+     "La rima aparece solo en prosa",
+     "El ritmo es la repetición de palabras"
+    ],
+    "answer": 0,
+    "explanation": "Un poema puede tener ritmo sin rima, como en el verso libre.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "¿Qué suele expresar un soneto en sus tercetos finales?",
+    "options": [
+     "Una descripción del paisaje solo",
+     "Un diálogo teatral",
+     "Una conclusión o giro respecto a lo planteado en los cuartetos",
+     "Una lista de objetos"
+    ],
+    "answer": 2,
+    "explanation": "En el soneto clásico los tercetos suelen resolver o dar un giro.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Haiku inventado: «Lluvia en la hoja, / un caracol se detiene: / respira el campo.» ¿Qué rasgo es propio de un haiku?",
+    "options": [
+     "Una reflexión filosófica extensa",
+     "Una imagen breve de la naturaleza que sugiere una emoción",
+     "Una rima consonante",
+     "Un diálogo entre dos personas"
+    ],
+    "answer": 1,
+    "explanation": "El haiku capta un instante natural con pocas palabras.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "¿Qué ventaja ofrece el verso libre a un poeta?",
+    "options": [
+     "Obliga a rimar",
+     "Evita el uso de imágenes",
+     "Elimina el ritmo",
+     "Libertad para adaptar el ritmo y la forma al sentimiento"
+    ],
+    "answer": 3,
+    "explanation": "No sigue un patrón fijo, de modo que se ajusta a lo que se quiere expresar.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Estrofa inventada: «Dejé la luz en la ventana / por si regresabas de noche / y la tarde se fue sin fiesta…». ¿Qué sería necesario para llamarlo romance?",
+    "options": [
+     "Versos octosílabos y rima asonante en los pares",
+     "Catorce versos consonantes",
+     "Solo tres versos",
+     "Rima ABBA exclusiva"
+    ],
+    "answer": 0,
+    "explanation": "El romance exige octosílabos con asonancia en los pares.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "¿Qué efecto tiene que un poeta use un soneto para expresar un sentimiento personal?",
+    "options": [
+     "Anula la emoción",
+     "Obliga a narrar",
+     "La disciplina de la forma contrasta con la emoción y la hace más concentrada",
+     "Aumenta el humor siempre"
+    ],
+    "answer": 2,
+    "explanation": "Las restricciones formales concentran el sentido y generan tensión expresiva.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Un poema inventado de 5 versos tiene rima abaab con versos de ocho sílabas. ¿Qué estrofa es?",
+    "options": [
+     "Soneto",
+     "Quintilla",
+     "Haiku",
+     "Romance"
+    ],
+    "answer": 1,
+    "explanation": "La quintilla es de cinco versos octosílabos con dos rimas combinadas.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "¿Por qué puede un caligrama combinar forma y significado?",
+    "options": [
+     "Porque elimina las palabras",
+     "Porque obliga a rimar",
+     "Porque solo se usa en prosa",
+     "Porque la disposición visual refleja el tema, como un poema en forma de lluvia que cae"
+    ],
+    "answer": 3,
+    "explanation": "Al dibujar una imagen con las líneas, la forma refuerza el contenido.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Una alumna afirma: «Este poema no tiene forma porque es verso libre». ¿Qué corrección es adecuada?",
+    "options": [
+     "El verso libre también tiene forma: usa ritmo, cortes de versos, estrofas y pausas con intención",
+     "No hay corrección",
+     "Debe rimar",
+     "Debe ser un soneto"
+    ],
+    "answer": 0,
+    "explanation": "Aunque no sigue un esquema fijo, la organización también significa.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Lo esencial\nLa **forma** de un poema (cuántos versos tiene, cómo riman, cómo se agrupan) no es decoración: sirve para dar sentido. Reconocer las formas poéticas te permite explicar por qué el poeta eligió una estructura y qué efecto produce. En Lengua y Literatura se espera que combines la identificación con el análisis.\n\n## Medida del verso\nLa **métrica** es el número de sílabas métricas de un verso. Algunos tipos habituales son:\n- **Octosílabo:** ocho sílabas; típico del romance y de la copla.\n- **Endecasílabo:** once sílabas; es el verso del soneto.\n- **Alejandrino:** catorce sílabas.\n- **Versos de arte menor:** hasta ocho sílabas. **De arte mayor:** nueve o más.\nRecuerda: se cuenta con sinalefa y se aplican las reglas del final del verso (aguda suma una, esdrújula resta una).\n\n## Rima\n- **Rima consonante:** coinciden todos los sonidos desde la última vocal acentuada.\n- **Rima asonante:** coinciden solo las vocales.\n- **Versos sueltos:** no riman con ningún otro.\n- Los esquemas se señalan con letras: con mayúsculas en versos de arte mayor y con minúsculas en versos de arte menor.\n\n## Estrofas y poemas de forma fija\n- **Cuarteto:** cuatro versos endecasílabos con rima consonante ABBA.\n- **Serventesio:** cuatro versos endecasílabos con rima ABAB.\n- **Terceto:** tres versos endecasílabos.\n- **Quintilla:** cinco versos octosílabos con dos rimas combinadas.\n- **Soneto:** catorce versos endecasílabos, divididos en dos cuartetos y dos tercetos. Los cuartetos suelen plantear una idea y los tercetos la resuelven o dan un giro.\n- **Romance:** serie ilimitada de octosílabos con rima asonante en los versos pares; los impares quedan sueltos. Tiene origen en la tradición oral y suele narrar historias.\n- **Haiku:** poema breve de tres versos, tradicionalmente de cinco, siete y cinco sílabas, que capta un instante de la naturaleza. Ejemplo inventado: «Lluvia en la hoja, / un caracol se detiene: / respira el campo.»\n\n## Verso libre y caligrama\n- **Verso libre:** sin rima fija ni métrica regular. Aun así, tiene ritmo, cortes de verso, pausas y estrofas que el poeta elige con intención.\n- **Caligrama:** poema cuya disposición visual dibuja un objeto relacionado con el tema.\n\n## Cómo analizar una forma\n1. **Identifica** el tipo de poema o estrofa con pruebas: cuenta versos, sílabas y rimas.\n2. **Explica** por qué esa forma conviene al contenido. Un soneto concentra la emoción; un romance cuenta historias con fluidez; un haiku concentra una imagen.\n3. **Valora** el efecto: orden, tensión, musicalidad, silencio.\n4. **Observa** si el poeta rompe la forma: una ruptura suele marcar un momento importante.\n\n## Errores frecuentes\n- **Contar sílabas gramaticales.** Debes usar sinalefa y reglas del final de verso.\n- **Confundir cuarteto y serventesio.** Ambos tienen cuatro versos, pero ABBA y ABAB no son iguales.\n- **Decir que el verso libre carece de forma.**\n- **Nombrar la forma sin interpretarla.**\n\n## Cómo se evalúa\nEn la evaluación en pantalla se muestra un poema original, breve, y se pide identificar su estructura, calcular el número de sílabas o explicar por qué el poeta eligió esa forma. En las tareas más abiertas se compara cómo dos formas distintas expresan sentimientos parecidos.\n\nExam tip: cuando identifiques una forma, aporta una prueba concreta (número de versos, esquema de rima o tipo de verso) y conecta enseguida con el significado.",
+  "flashcards": [
+   {
+    "front": "Soneto",
+    "back": "Poema de catorce versos endecasílabos: dos cuartetos y dos tercetos. Los tercetos suelen dar un giro o conclusión."
+   },
+   {
+    "front": "Endecasílabo",
+    "back": "Verso de once sílabas métricas. Es el verso característico del soneto."
+   },
+   {
+    "front": "Octosílabo",
+    "back": "Verso de ocho sílabas métricas. Es típico del romance y de la copla."
+   },
+   {
+    "front": "Romance",
+    "back": "Serie de octosílabos con rima asonante en los versos pares; los impares quedan sueltos. Suele narrar historias."
+   },
+   {
+    "front": "Haiku",
+    "back": "Poema breve de tres versos, tradicionalmente de 5, 7 y 5 sílabas, que capta un instante de la naturaleza."
+   },
+   {
+    "front": "Cuarteto y serventesio",
+    "back": "Ambos tienen cuatro versos endecasílabos. El cuarteto rima ABBA; el serventesio rima ABAB."
+   },
+   {
+    "front": "Verso libre",
+    "back": "Verso sin rima fija ni métrica regular. Aun así tiene ritmo y forma con intención expresiva."
+   },
+   {
+    "front": "Caligrama",
+    "back": "Poema cuya disposición gráfica dibuja un objeto relacionado con el tema, de modo que forma y contenido se refuerzan."
+   },
+   {
+    "front": "Reglas del conteo de sílabas métricas",
+    "back": "Se aplica la sinalefa y, al final, aguda suma una sílaba, llana no cambia y esdrújula resta una."
+   }
+  ]
+ },
+ {
+  "subject": "spanish-language-and-literature",
+  "grade": 5,
+  "topic": "Poetry",
+  "subTopic": "Comparing Poems",
+  "questions": [
+   {
+    "content": "¿Qué significa comparar dos poemas?",
+    "options": [
+     "Analizar semejanzas y diferencias de tema, forma, recursos y tono",
+     "Elegir el poema más corto",
+     "Copiar uno de ellos",
+     "Contar versos"
+    ],
+    "answer": 0,
+    "explanation": "Comparar no es describir uno y luego otro: se relacionan sus puntos.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "¿Qué palabra señala una semejanza?",
+    "options": [
+     "Sin embargo",
+     "En cambio",
+     "Igualmente",
+     "Por el contrario"
+    ],
+    "answer": 2,
+    "explanation": "«Igualmente» introduce un punto en común.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "¿Qué palabra señala una diferencia?",
+    "options": [
+     "Asimismo",
+     "En cambio",
+     "También",
+     "Del mismo modo"
+    ],
+    "answer": 1,
+    "explanation": "«En cambio» marca contraste.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "¿Qué debe contener una buena comparación?",
+    "options": [
+     "Solo opiniones",
+     "Solo un poema",
+     "Solo la biografía",
+     "Pruebas textuales de ambos poemas"
+    ],
+    "answer": 3,
+    "explanation": "Cada afirmación debe apoyarse en citas.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "¿Qué es el tema común de dos poemas?",
+    "options": [
+     "La idea que ambos tratan",
+     "La rima que comparten obligatoriamente",
+     "El mismo número de versos",
+     "El título"
+    ],
+    "answer": 0,
+    "explanation": "Dos poemas pueden compartir un tema, como el paso del tiempo, aunque lo traten de manera distinta.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Poema A (inventado): «El tiempo es un río manso que me lleva». Poema B (inventado): «El tiempo me persigue con dientes de hierro». ¿Qué diferencia hay?",
+    "options": [
+     "Ambos presentan el tiempo igual",
+     "A es literal; B es un soneto",
+     "A presenta el tiempo de forma serena; B, de forma amenazante",
+     "A usa onomatopeya; B, hipérbole"
+    ],
+    "answer": 2,
+    "explanation": "La metáfora del río manso transmite calma; la persecución con dientes de hierro, amenaza.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "En una comparación, ¿qué estructura evita simplemente describir uno y luego otro?",
+    "options": [
+     "Escribir todo sobre A y todo sobre B",
+     "Organizar por puntos (tema, recursos, tono) y relacionar ambos poemas en cada punto",
+     "Copiar los poemas",
+     "Dar solo opiniones"
+    ],
+    "answer": 1,
+    "explanation": "La estructura por puntos fuerza al análisis comparado.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Poema A: versos cortos y silencios. Poema B: versos largos con enumeraciones. ¿Qué efecto contrastado se puede explicar?",
+    "options": [
+     "Ambos son iguales",
+     "A es más alegre por sus pausas",
+     "B no tiene ritmo",
+     "A transmite contención y vacío; B, desborde o agobio"
+    ],
+    "answer": 3,
+    "explanation": "La longitud y la enumeración modifican el ritmo y el efecto emocional.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Ambos poemas hablan del mar. A lo presenta como libertad; B, como peligro. ¿Qué conclusión comparativa es correcta?",
+    "options": [
+     "Comparten motivo, pero lo usan con valores simbólicos opuestos",
+     "No se pueden comparar",
+     "Ambos tienen el mismo tono",
+     "El mar no es un símbolo"
+    ],
+    "answer": 0,
+    "explanation": "Un mismo elemento puede simbolizar significados distintos según el poeta.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "¿Qué conector es adecuado en «A usa la ironía; ___, B opta por un tono solemne»?",
+    "options": [
+     "asimismo",
+     "igualmente",
+     "en cambio",
+     "por ejemplo"
+    ],
+    "answer": 2,
+    "explanation": "Se contrastan dos tonos, así que se necesita un conector de contraste.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Poema A: «Yo, solo, miro la lluvia». Poema B: «Nosotros miramos la lluvia». ¿Qué diferencia de voz poética existe?",
+    "options": [
+     "A es colectiva; B individual",
+     "A usa una voz individual y aislada; B, una voz colectiva",
+     "Ambas son impersonales",
+     "A y B son idénticas"
+    ],
+    "answer": 1,
+    "explanation": "El cambio de persona gramatical altera la perspectiva y el sentido.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Dos poemas tratan la despedida. A es un soneto; B, verso libre. ¿Qué análisis formal es útil?",
+    "options": [
+     "Decir que A es mejor",
+     "Ignorar la forma",
+     "Contar solo versos",
+     "Explicar cómo la forma fija ordena la emoción en A y cómo el verso libre la deja fluir en B"
+    ],
+    "answer": 3,
+    "explanation": "Comparar forma implica explicar el efecto de cada estructura.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "¿Qué pasa si una comparación solo dice «ambos poemas tratan del amor»?",
+    "options": [
+     "Es insuficiente: falta concretar cómo lo tratan y con qué recursos",
+     "Es perfecta",
+     "Es suficiente si hay una cita",
+     "Es una comparación completa"
+    ],
+    "answer": 0,
+    "explanation": "El tema general no basta; se debe especificar el enfoque y las pruebas.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Poema A (inventado): «Mi abuela guardaba el verano en frascos de cristal». Poema B (inventado): «Mi abuela era un archivo de naftalina». ¿Qué comparación es la más sólida?",
+    "options": [
+     "Ambos hablan de cocina y nada más",
+     "A es sarcástico; B, humorístico",
+     "A transmite ternura y abundancia; B sugiere rigidez y olvido, con metáforas de signo emocional opuesto",
+     "No hay metáforas"
+    ],
+    "answer": 2,
+    "explanation": "Ambos evocan a la abuela mediante metáforas, pero con connotaciones opuestas (conservación cálida frente a rigidez).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Dos poemas sobre la ciudad: A la describe con luces y música; B, con sombras y ruido de sirenas. Un alumno concluye: «Ambos tienen el mismo tono». ¿Qué falla?",
+    "options": [
+     "Nada falla",
+     "Ignora que el léxico y las imágenes crean tonos distintos (festivo y angustiado)",
+     "Falta contar sílabas",
+     "Falta una rima"
+    ],
+    "answer": 1,
+    "explanation": "La selección de imágenes y sonidos revela actitudes diferentes.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "¿Qué es más convincente al comparar dos poemas?",
+    "options": [
+     "Dedicar un párrafo a cada poema por separado",
+     "Copiar las estrofas",
+     "Enumerar solo los recursos",
+     "Relacionar un recurso de cada poema con su efecto y con el tema en una misma frase comparativa"
+    ],
+    "answer": 3,
+    "explanation": "La comparación integrada demuestra pensamiento crítico.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Poema A termina con una pregunta; poema B con una afirmación rotunda. ¿Qué diferencia de efecto puede explicarse?",
+    "options": [
+     "A deja abierta la duda; B transmite certeza o cierre",
+     "Ambos cierran del mismo modo",
+     "A es siempre más largo",
+     "B no tiene final"
+    ],
+    "answer": 0,
+    "explanation": "La pregunta final abre; la afirmación cierra.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Una pregunta de examen dice: «Compara cómo los poetas transmiten la nostalgia». ¿Qué plan es más sólido?",
+    "options": [
+     "Resumir los dos poemas",
+     "Hablar de los poetas",
+     "Definir la nostalgia en ambos, comparar imágenes, tono y forma con citas, y concluir cuál transmite el sentimiento más intensamente y por qué",
+     "Elegir el poema más largo"
+    ],
+    "answer": 2,
+    "explanation": "La respuesta debe comparar el «cómo» con pruebas y valorarlo.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Lo esencial\nComparar poemas es una de las tareas más exigentes del curso, porque obliga a mirar dos textos a la vez y encontrar conexiones. No se trata de describir un poema y luego otro, sino de **relacionarlos** punto por punto: tema, tono, voz, imágenes, forma y efecto. La mejor comparación tiene una idea central clara y se sostiene con citas.\n\n## Qué se compara\n- **Tema:** ¿tratan el mismo asunto? ¿Con qué enfoque? Dos poemas sobre el mar pueden presentarlo como libertad o como peligro.\n- **Tono:** ¿serenos, irónicos, melancólicos, furiosos?\n- **Voz poética:** persona gramatical (yo, nosotros), destinatario, actitud.\n- **Imágenes y símbolos:** ¿qué recursos usan? ¿Con qué connotaciones?\n- **Forma y estructura:** soneto, verso libre, versos cortos o largos, estrofas, cierre.\n- **Sonido y ritmo:** rima, aliteración, pausas.\n- **Efecto en el lector:** emociones y ideas que cada poema provoca.\n\n## Cómo organizar la respuesta\nHay dos estructuras posibles:\n- **Por poemas (bloques):** primero A, luego B. Es más sencilla, pero suele quedarse en la descripción.\n- **Por puntos (integrada):** cada párrafo trata un aspecto (por ejemplo, el tono) y relaciona A con B. Es la que mejor puntúa.\nEmpieza con una tesis comparativa: «Ambos poemas retratan la pérdida, pero A la presenta como una calma resignada, mientras que B la vive como una herida abierta.»\n\n## Conectores de comparación\n- **Semejanza:** igualmente, del mismo modo, asimismo, también, al igual que.\n- **Diferencia:** en cambio, por el contrario, sin embargo, mientras que, a diferencia de.\n- **Matiz:** aunque, si bien, no obstante.\nÚsalos para mostrar que estás relacionando los textos y no solo enumerándolos.\nEjemplo inventado: «A presenta el tiempo como un río manso; en cambio, B lo muestra como un perseguidor, con “dientes de hierro”.»\n\n## Una frase comparativa modelo\nCita en A + efecto + conector + cita en B + efecto + tema común. Ejemplo: «En A, “un río manso” sugiere serenidad ante el paso del tiempo; en cambio, en B, “me persigue con dientes de hierro” transmite miedo, de modo que ambos tratan la fugacidad, pero con actitudes opuestas.»\n\n## Errores frecuentes\n- **Describir dos poemas sin relacionarlos.**\n- **Hablar solo de similitudes o solo de diferencias.** Los mejores análisis combinan ambas.\n- **Quedarse en el tema general.** «Ambos hablan del amor» es insuficiente.\n- **Olvidar las citas.**\n- **Valorar sin criterio.** «A es mejor» necesita razones basadas en el efecto.\n- **Ignorar la forma.** Pasa por alto contrastes importantes.\n\n## Cómo se evalúa\nEn la evaluación en pantalla se ofrecen dos poemas breves, originales, de tema relacionado. Las preguntas piden comparar el tono, las imágenes o el modo de cerrar el poema, y luego redactar una conclusión. Las respuestas con mejor nivel presentan una tesis, usan conectores y cierran con una valoración razonada.\n\nExam tip: antes de escribir, anota tres puntos de contacto y una diferencia clave; así tu respuesta tendrá una tesis comparativa y no será una descripción en paralelo.",
+  "flashcards": [
+   {
+    "front": "Comparar poemas",
+    "back": "Relacionar dos poemas punto por punto (tema, tono, voz, imágenes, forma y efecto), no describirlos por separado."
+   },
+   {
+    "front": "Estructura integrada",
+    "back": "Cada párrafo trata un aspecto y relaciona los dos poemas. Puntúa más que describir primero A y luego B."
+   },
+   {
+    "front": "Tesis comparativa",
+    "back": "Idea central que resume semejanza y diferencia: «Ambos tratan la pérdida, pero A con calma y B con dolor»."
+   },
+   {
+    "front": "Conectores de semejanza",
+    "back": "Igualmente, del mismo modo, asimismo, también, al igual que."
+   },
+   {
+    "front": "Conectores de diferencia",
+    "back": "En cambio, por el contrario, sin embargo, mientras que, a diferencia de."
+   },
+   {
+    "front": "Qué comparar en dos poemas",
+    "back": "Tema, tono, voz poética, imágenes y símbolos, forma, sonido y ritmo, y efecto en el lector."
+   },
+   {
+    "front": "Frase comparativa modelo",
+    "back": "Cita en A + efecto + conector + cita en B + efecto + tema común."
+   },
+   {
+    "front": "Error frecuente en comparaciones",
+    "back": "Quedarse en un tema general como «ambos hablan del amor» sin concretar enfoque, recursos ni citas."
+   },
+   {
+    "front": "Un mismo motivo con distinto símbolo",
+    "back": "Dos poemas pueden usar el mar, pero uno como libertad y otro como peligro. Hay que explicar la diferencia de sentido."
+   }
+  ]
+ }
+]

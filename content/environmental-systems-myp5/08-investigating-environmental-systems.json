@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "environmental-systems",
+  "grade": 5,
+  "topic": "Investigating Environmental Systems",
+  "subTopic": "Fieldwork and Sampling",
+  "questions": [
+   {
+    "content": "What is a quadrat?",
+    "options": [
+     "A square frame placed on the ground to sample the organisms inside it",
+     "A tool for measuring wind speed",
+     "A net for catching fish",
+     "A type of thermometer"
+    ],
+    "answer": 0,
+    "explanation": "Quadrats are used to estimate abundance or percentage cover of plants and slow-moving animals in a defined area.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why do ecologists sample instead of counting every organism in an area?",
+    "options": [
+     "Sampling is always more accurate than a full count",
+     "Organisms are too small to count",
+     "Counting is illegal",
+     "It is usually impossible or too time-consuming to count everything"
+    ],
+    "answer": 3,
+    "explanation": "A well-designed sample lets us estimate the whole population using a smaller area.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is an abiotic factor you could measure in a woodland?",
+    "options": [
+     "Number of oak trees",
+     "Number of birds",
+     "Light intensity",
+     "Presence of fungi"
+    ],
+    "answer": 2,
+    "explanation": "Abiotic factors are non-living, such as light, temperature, pH and soil moisture. Organisms are biotic.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a transect?",
+    "options": [
+     "A kind of fish net",
+     "A line along which samples are taken to show change across an area",
+     "A random number",
+     "A type of graph"
+    ],
+    "answer": 1,
+    "explanation": "Transects are used to study change along a gradient, such as from the sea inland or from a path into woodland.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which action is part of safe and ethical fieldwork?",
+    "options": [
+     "Taking all rare plants home",
+     "Doing a risk assessment and leaving the site as you found it",
+     "Working alone in remote places without telling anyone",
+     "Ignoring weather forecasts"
+    ],
+    "answer": 1,
+    "explanation": "Plan for hazards, follow permissions and minimise damage to habitats.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In five 1 m² quadrats the numbers of daisies were 12, 8, 15, 10, 5. The field is 20 m by 20 m. What is the best estimate of the total number of daisies?",
+    "options": [
+     "4000",
+     "50",
+     "400",
+     "200"
+    ],
+    "answer": 0,
+    "explanation": "Mean = 50 ÷ 5 = 10 per m². Area = 400 m². 10 × 400 = 4000. Using the total (50) as if it were the field count is a common error.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why should quadrats be placed using random coordinates?",
+    "options": [
+     "To make fieldwork easier",
+     "To guarantee more organisms",
+     "To avoid counting any organisms",
+     "To avoid bias, such as choosing areas that look interesting"
+    ],
+    "answer": 3,
+    "explanation": "Random placement gives each part of the area an equal chance of being sampled, making the results more representative.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student studies how plant cover changes from the edge of a path into a woodland. Which sampling method is most suitable?",
+    "options": [
+     "One quadrat at the path",
+     "Random quadrats in the sky",
+     "A belt or line transect with quadrats at regular intervals",
+     "Counting only the tallest tree"
+    ],
+    "answer": 2,
+    "explanation": "A transect samples along the gradient so patterns of change can be seen.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student catches 40 beetles, marks them and releases them. Later she catches 35 beetles of which 8 are marked. What is the estimated population size using N = (M × C) ÷ R?",
+    "options": [
+     "320",
+     "5",
+     "175",
+     "280"
+    ],
+    "answer": 2,
+    "explanation": "N = 40 × 35 ÷ 8 = 175. M is the number first marked, C the second catch and R the number recaptured marked.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which change would make a sample more representative?",
+    "options": [
+     "Using one quadrat in a dense patch",
+     "Increasing the number of quadrats and spreading them across the area",
+     "Sampling only on one sunny day in the best spot",
+     "Choosing the places with most plants"
+    ],
+    "answer": 1,
+    "explanation": "A larger, random or systematic sample reduces the effect of chance and bias.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A heath is 70% grass and 30% shrub. A student takes 20 quadrats and uses stratified sampling. How many should be placed in the shrub area?",
+    "options": [
+     "6",
+     "14",
+     "10",
+     "30"
+    ],
+    "answer": 0,
+    "explanation": "30% of 20 = 6 quadrats in shrub and 14 in grass. Stratified sampling reflects the proportion of each habitat.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of these is an example of systematic sampling?",
+    "options": [
+     "Throwing a quadrat over your shoulder",
+     "Picking the greenest place",
+     "Counting only what you see easily",
+     "Placing a quadrat every 5 m along a tape measure"
+    ],
+    "answer": 3,
+    "explanation": "Systematic sampling uses a regular pattern, which is good for gradients. Random sampling uses chance.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which tool would best measure the pH of a soil sample in the field?",
+    "options": [
+     "A light meter",
+     "An anemometer",
+     "A quadrat",
+     "A soil pH probe or indicator test kit"
+    ],
+    "answer": 3,
+    "explanation": "Match the instrument to the variable: anemometers measure wind speed and light meters measure light.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student counted 24 snails in six quadrats, each 0.5 m × 0.5 m. What is the density per m²?",
+    "options": [
+     "4 snails per m²",
+     "24 snails per m²",
+     "16 snails per m²",
+     "96 snails per m²"
+    ],
+    "answer": 2,
+    "explanation": "Each quadrat is 0.25 m²; six quadrats cover 1.5 m². 24 ÷ 1.5 = 16 per m². Dividing by 6 only gives the mean per quadrat (4).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Mark-recapture estimates assume that marked animals mix back in randomly, no animals move in or out, and marks are not lost. Which situation would cause the estimate to be too high?",
+    "options": [
+     "Marked animals are easier to catch",
+     "Marked animals are trap-shy and avoid being recaptured",
+     "Marks last the whole study",
+     "Animals mix completely"
+    ],
+    "answer": 1,
+    "explanation": "If fewer marked animals are recaptured (R smaller), N = M × C ÷ R becomes larger than the true population.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A group measures species richness along a rocky shore transect from the sea to the land. They find fewer species high on the shore. Which hypothesis best explains this?",
+    "options": [
+     "Longer exposure to air means more extreme temperature and drying, so fewer species can tolerate it",
+     "More water high on the shore",
+     "Less light high on the shore",
+     "Lower predation by the sea"
+    ],
+    "answer": 0,
+    "explanation": "Environmental gradients can be explained by changing abiotic factors. A good hypothesis suggests a factor that can be tested.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which design improves the validity of an investigation comparing daisy density in trampled and untrampled grass?",
+    "options": [
+     "Choose sites with similar soil, slope and light, and sample both areas with the same number of random quadrats",
+     "Choose very different sites",
+     "Use 1 quadrat in each",
+     "Count only in trampled areas"
+    ],
+    "answer": 0,
+    "explanation": "Controlling other variables and using equal sampling effort ensures that differences are due to trampling.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student says: 'Our results from one month prove that this meadow's plant population is stable over time.' What is the best criticism?",
+    "options": [
+     "One month is always enough",
+     "Plants never change",
+     "The data cannot be used at all",
+     "A single short-term sample cannot show long-term stability; seasonal and yearly repeats are needed"
+    ],
+    "answer": 3,
+    "explanation": "Populations change with seasons and years. Long-term claims require long-term data.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Environmental scientists investigate real ecosystems by collecting data in the field. Because you cannot count every plant and animal, you **sample** a small part of the area and use it to estimate the whole. A good method gives results that are **representative** (a fair picture), **reliable** (repeatable) and **valid** (they really test the question).\n\n## Choosing what to measure\n- **Biotic factors** (living): species counts, density, percentage cover, species richness.\n- **Abiotic factors** (non-living): light intensity, temperature, soil moisture, soil pH, wind speed, water flow rate and dissolved oxygen.\n\nMatch each variable to a suitable instrument: a light meter for light, an anemometer for wind speed, a probe or kit for pH, a thermometer for temperature.\n\n## Sampling methods\n- **Random sampling**: use random numbers for coordinates so every point has an equal chance of being chosen. This reduces bias.\n- **Systematic sampling**: samples at regular intervals, such as every 5 m along a tape. Good for studying change along a gradient.\n- **Stratified sampling**: sample each habitat in proportion to its area. If a heath is 70% grass and 30% shrub and you take 20 quadrats, use 14 in grass and 6 in shrub.\n- **Transects**: a line or belt across an area, used to study change along a gradient such as a shoreline or from a path into woodland.\n- **Capture-mark-recapture**: used for mobile animals. Capture M animals, mark and release them. Later capture C animals, of which R are marked. Estimate: N = (M × C) ÷ R. For example, 40 × 35 ÷ 8 = 175.\n\nAssumptions of mark-recapture: marks last and are harmless, marked animals mix randomly, and no animals move in or out.\n\n## Using quadrats\nCount organisms, or estimate percentage cover, in each quadrat. Convert to a mean per quadrat and then scale up.\n\nWorked example: five 1 m² quadrats with counts 12, 8, 15, 10 and 5 give a total of 50 and a mean of 10 per m². If the field is 400 m², the estimate is 10 × 400 = 4000 plants. If six quadrats of 0.5 m × 0.5 m (0.25 m² each) contain 24 snails, the area sampled is 1.5 m² and the density is 24 ÷ 1.5 = 16 per m².\n\n## Improving a sample\n- Use more quadrats.\n- Spread them over the whole area.\n- Use random placement to avoid choosing \"interesting\" spots.\n- Repeat at different times of day or season if the question is about change over time.\n- Control other variables when comparing two sites (similar slope, soil and light).\n\n## Safe and ethical fieldwork\nCarry out a risk assessment (weather, water, terrain, allergies), work in groups, get permission, avoid damaging habitats, do not remove rare species and return organisms to where you found them.\n\n## Common mistakes\n- Putting quadrats where plants look dense. This is bias.\n- Using a very small sample and claiming a firm conclusion.\n- Forgetting to scale up using the area of the whole site.\n- Mixing up the total count with the mean per quadrat.\n\n## How this is examined\nYou might receive a short description of a field study, such as a woodland, shore or pond, with quadrat counts and abiotic data. You calculate mean density or population estimates, justify the sampling method, and suggest improvements to make the data more reliable.\n\nExam tip: when asked to \"justify\" a method, name the method, say what it avoids (such as bias) and link it to the research question.",
+  "flashcards": [
+   {
+    "front": "Quadrat",
+    "back": "A square frame used to sample organisms in a defined area, to estimate density or percentage cover."
+   },
+   {
+    "front": "Transect",
+    "back": "A line or belt along which samples are taken to study how organisms or conditions change across a gradient."
+   },
+   {
+    "front": "Random sampling",
+    "back": "Choosing sample points by chance (e.g. random coordinates) so every point has an equal chance, reducing bias."
+   },
+   {
+    "front": "Systematic sampling",
+    "back": "Sampling at regular intervals (e.g. every 5 m), useful for studying change along a gradient."
+   },
+   {
+    "front": "Stratified sampling",
+    "back": "Sampling each habitat in proportion to its area. In 70% grass and 30% shrub, 20 quadrats means 14 and 6."
+   },
+   {
+    "front": "Estimating a population with quadrats",
+    "back": "Find mean number per quadrat, divide by quadrat area for density, then multiply by the total area."
+   },
+   {
+    "front": "Capture-mark-recapture formula",
+    "back": "N = (M × C) ÷ R, where M is the number first marked, C the second catch and R the number of marked animals in it."
+   },
+   {
+    "front": "Biotic vs abiotic factors",
+    "back": "Biotic: living (species, predators). Abiotic: non-living (light, temperature, pH, moisture, wind)."
+   },
+   {
+    "front": "Why increase sample size?",
+    "back": "A larger, spread-out sample reduces the effect of chance and gives a more representative and reliable estimate."
+   }
+  ]
+ },
+ {
+  "subject": "environmental-systems",
+  "grade": 5,
+  "topic": "Investigating Environmental Systems",
+  "subTopic": "Data Handling and Graphs",
+  "questions": [
+   {
+    "content": "What is the mean of 4, 6, 8 and 10?",
+    "options": [
+     "28",
+     "7",
+     "8",
+     "6"
+    ],
+    "answer": 1,
+    "explanation": "Mean = (4 + 6 + 8 + 10) ÷ 4 = 28 ÷ 4 = 7.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which graph is best for showing the relationship between two continuous variables, such as temperature and plant height?",
+    "options": [
+     "A scatter graph",
+     "A pie chart",
+     "A pictogram",
+     "A table of names"
+    ],
+    "answer": 0,
+    "explanation": "Scatter graphs show correlation. A line of best fit can show the trend.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "On a graph, which variable normally goes on the x-axis?",
+    "options": [
+     "The dependent variable",
+     "The control variable",
+     "The mean",
+     "The independent variable"
+    ],
+    "answer": 3,
+    "explanation": "The independent variable (the one you change or measure along) is on the x-axis; the dependent variable is on the y-axis.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is an anomalous result?",
+    "options": [
+     "The average result",
+     "The first result",
+     "A result that does not fit the pattern of the other results",
+     "The largest unit"
+    ],
+    "answer": 2,
+    "explanation": "Anomalies may come from errors and should be identified and discussed, not silently deleted.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the range of the data 3, 7, 9, 12?",
+    "options": [
+     "12",
+     "3",
+     "9",
+     "31"
+    ],
+    "answer": 2,
+    "explanation": "Range = largest − smallest = 12 − 3 = 9.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Temperatures (°C) in a pond on six days: 14, 16, 15, 22, 15, 13. What is the median?",
+    "options": [
+     "15.8 °C",
+     "15 °C",
+     "22 °C",
+     "9 °C"
+    ],
+    "answer": 1,
+    "explanation": "In order: 13, 14, 15, 15, 16, 22. The middle two values are 15 and 15, so the median is 15 °C. The mean is about 15.8 °C and the range is 9 °C.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Using the same pond data (14, 16, 15, 22, 15, 13), the 22 °C reading was taken beside a warm outflow pipe. What is the mean after removing it?",
+    "options": [
+     "14.6 °C",
+     "15.8 °C",
+     "15 °C",
+     "16 °C"
+    ],
+    "answer": 0,
+    "explanation": "(14 + 16 + 15 + 15 + 13) ÷ 5 = 73 ÷ 5 = 14.6 °C. Always explain why a value is excluded.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Dissolved oxygen in a stream rose from 6.0 mg/L to 7.2 mg/L. What is the percentage increase?",
+    "options": [
+     "17%",
+     "1.2%",
+     "120%",
+     "20%"
+    ],
+    "answer": 3,
+    "explanation": "Increase = 1.2. 1.2 ÷ 6.0 × 100 = 20%. Dividing by the new value would give about 17%.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A scatter graph of nitrate concentration against algae count shows points rising from bottom left to top right. What type of correlation is this?",
+    "options": [
+     "Negative correlation",
+     "No correlation",
+     "Perfect circle",
+     "Positive correlation"
+    ],
+    "answer": 3,
+    "explanation": "As one variable increases the other tends to increase. This shows association but not necessarily cause.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement is a correct interpretation of a strong positive correlation between ice cream sales and drowning accidents?",
+    "options": [
+     "Ice cream causes drowning",
+     "Drowning causes ice cream sales",
+     "Both may increase in hot weather; correlation does not prove one causes the other",
+     "Temperature has no effect"
+    ],
+    "answer": 2,
+    "explanation": "A third variable (temperature) can explain both. Always consider confounding variables.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is the best choice of scale for a graph with data between 0 and 83?",
+    "options": [
+     "Axis from 0 to 83 with uneven steps",
+     "Axis from 0 to 90 with equal intervals of 10",
+     "Axis from 80 to 83",
+     "No scale"
+    ],
+    "answer": 1,
+    "explanation": "Use an even, easy-to-read scale that spreads the points across the graph.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A kite diagram is most suitable for displaying:",
+    "options": [
+     "The abundance of species along a transect",
+     "The pH of rain",
+     "The mean of three numbers",
+     "A chemical equation"
+    ],
+    "answer": 0,
+    "explanation": "Kite diagrams show how species abundance changes along a transect.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A table gives the mean number of seedlings per quadrat: shaded 3.5, open 8.0. A student writes 'Seedlings are 4.5 more in open areas.' What is the correct comparison as a percentage?",
+    "options": [
+     "The open area has about 129% more seedlings than the shaded area",
+     "The open area has 4.5% more",
+     "The shaded area has 129% more",
+     "The areas are equal"
+    ],
+    "answer": 0,
+    "explanation": "Difference 4.5 ÷ 3.5 × 100 ≈ 129%. Quote the difference together with the reference value.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Data: distance from a path (m) and mean plant height (cm): 0 m: 5; 2 m: 8; 4 m: 12; 6 m: 15; 8 m: 18. Which statement best describes the pattern and a prediction at 10 m?",
+    "options": [
+     "Height falls as distance increases",
+     "Height stays at 5 cm",
+     "Height is exactly 100 cm at 10 m",
+     "Height rises about 1.6 cm per metre, so roughly 21 cm at 10 m, though extrapolating is uncertain"
+    ],
+    "answer": 3,
+    "explanation": "From 5 to 18 cm over 8 m is 13 ÷ 8 ≈ 1.6 cm/m, so about 21 cm at 10 m. A prediction outside the data range is less reliable.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two sites have mean oxygen levels of 8.0 mg/L (range 7.9 to 8.1) and 8.0 mg/L (range 4.0 to 12.0). What is the best interpretation?",
+    "options": [
+     "The sites are identical",
+     "The first site varies more",
+     "The means are equal but the second site varies far more, so the mean alone hides important differences",
+     "Range is irrelevant"
+    ],
+    "answer": 2,
+    "explanation": "Always consider spread as well as average. A large range may suggest unstable conditions.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student plots a line of best fit through scatter data that shows a clear upward trend but points widely spread. Which statement is the most accurate?",
+    "options": [
+     "There is a perfect correlation",
+     "There is a weak positive correlation; the line shows a general trend but predictions are uncertain",
+     "The data show no link",
+     "The line proves causation"
+    ],
+    "answer": 1,
+    "explanation": "Wide scatter indicates weak correlation. The line of best fit is a model, not exact truth.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A bar chart shows the number of invertebrates in two streams: Stream A 120 individuals from 4 samples, Stream B 150 individuals from 6 samples. Which statement is correct?",
+    "options": [
+     "B has a higher mean per sample",
+     "A has the higher mean per sample (30 versus 25), so comparing totals is misleading",
+     "They have equal means",
+     "Totals are always the best comparison"
+    ],
+    "answer": 1,
+    "explanation": "A: 120 ÷ 4 = 30. B: 150 ÷ 6 = 25. Unequal sampling effort means raw totals cannot be fairly compared.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A report shows a graph with the y-axis starting at 95 rather than 0, making a change from 96 to 98 look huge. What is the problem and how should it be fixed?",
+    "options": [
+     "The truncated axis exaggerates the change; start the axis at zero or clearly state the scale and give the actual percentage change (about 2%)",
+     "The data are wrong",
+     "There is no problem",
+     "Graphs must never use numbers"
+    ],
+    "answer": 0,
+    "explanation": "(98 − 96) ÷ 96 × 100 ≈ 2.1%. Misleading scales are a form of poor data communication.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Collecting data is only half of an investigation. You must process and present it so patterns are clear, then interpret it honestly. In MYP sciences this includes choosing suitable calculations and graphs, spotting anomalies and explaining what the data do and do not show.\n\n## Summarising data\n- **Mean**: add all values and divide by how many there are.\n- **Median**: the middle value when data are in order. If there are two middle values, find their mean.\n- **Mode**: the most common value.\n- **Range**: largest minus smallest value.\n\nExample: pond temperatures 14, 16, 15, 22, 15, 13 °C. Mean = 95 ÷ 6 ≈ 15.8 °C. In order: 13, 14, 15, 15, 16, 22, so the median is 15 °C, the mode is 15 °C and the range is 22 − 13 = 9 °C. If 22 °C was taken beside a warm pipe, removing that anomaly gives a mean of 73 ÷ 5 = 14.6 °C. Always explain why you exclude a value.\n\nDo not just look at the mean. Two sites can have the same mean oxygen level but very different ranges. The range shows how variable the conditions are.\n\n## Percentage change\nPercentage change = (new − old) ÷ old × 100. Dissolved oxygen rising from 6.0 to 7.2 mg/L is an increase of 1.2 ÷ 6.0 × 100 = 20%. If a value is quoted as a percentage of a percentage, check you divide by the original value. Remember the difference between percentage points and percentage change.\n\n## Fair comparisons\nCompare means per sample, not raw totals, if the number of samples differs. For example 120 animals from 4 samples is a mean of 30, while 150 animals from 6 samples is a mean of 25.\n\n## Choosing graphs\n- **Bar chart**: categories (such as sites).\n- **Line graph**: change over time or along a continuous scale, where connecting points makes sense.\n- **Scatter graph**: relationship between two continuous variables. Add a line of best fit.\n- **Kite diagram**: species abundance along a transect.\n- **Pie chart**: parts of a whole, such as the percentage cover of different types.\n\nGood graphs have a title, labelled axes with units, an even scale, the independent variable on the x-axis and plotted points that are accurate. Starting an axis at a value above zero can exaggerate small changes, so state this clearly.\n\n## Describing patterns\nDescribe the overall trend, quote some data (start, end and change), mention anomalies and, if appropriate, estimate a rate. If height rises from 5 cm at 0 m to 18 cm at 8 m, the average rate is 13 ÷ 8 ≈ 1.6 cm per metre. Predicting beyond the data (extrapolation) is less reliable.\n\n## Correlation and causation\nA **positive correlation** means that as one variable increases, the other tends to increase. A **negative correlation** means one rises as the other falls. Correlation shows an association but does not prove that one thing causes the other: a third variable may cause both.\n\n## Common mistakes\n- Forgetting units or labels on axes.\n- Joining points when a line graph is not appropriate.\n- Using totals instead of means when sample sizes differ.\n- Saying correlation proves causation.\n- Deleting anomalies without explanation.\n\n## How this is examined\nExpect a table of field data to process, a graph to describe, and questions about correlation, anomalies and the reliability of conclusions.\n\nExam tip: describe, then explain. Quote numbers from the data, and use words like \"positive correlation\", \"anomaly\" and \"trend\" precisely.",
+  "flashcards": [
+   {
+    "front": "Mean, median, mode, range",
+    "back": "Mean: total ÷ number of values. Median: middle value. Mode: most common value. Range: largest − smallest."
+   },
+   {
+    "front": "Percentage change formula",
+    "back": "(new − old) ÷ old × 100. Divide by the original value."
+   },
+   {
+    "front": "Percentage points vs percentage change",
+    "back": "A rise from 50% to 75% is 25 percentage points but a 50% increase."
+   },
+   {
+    "front": "Anomalous result",
+    "back": "A value that does not fit the pattern. Identify it, suggest a cause, and explain whether you exclude it."
+   },
+   {
+    "front": "When to use a scatter graph",
+    "back": "To show the relationship between two continuous variables; add a line of best fit to show the trend."
+   },
+   {
+    "front": "Axes rules",
+    "back": "Independent variable on the x-axis, dependent on the y-axis; label with units, use an even scale and a title."
+   },
+   {
+    "front": "Positive correlation",
+    "back": "As one variable increases, the other tends to increase as well."
+   },
+   {
+    "front": "Correlation vs causation",
+    "back": "Correlation shows association, not proof of cause; a third variable may explain both."
+   },
+   {
+    "front": "Kite diagram",
+    "back": "A graph that shows species abundance along a transect."
+   }
+  ]
+ },
+ {
+  "subject": "environmental-systems",
+  "grade": 5,
+  "topic": "Investigating Environmental Systems",
+  "subTopic": "Evaluating Investigations",
+  "questions": [
+   {
+    "content": "What does it mean if an investigation is reliable?",
+    "options": [
+     "It was done outdoors",
+     "It used expensive equipment",
+     "Repeating it gives similar results",
+     "It has a long title"
+    ],
+    "answer": 2,
+    "explanation": "Reliability is about consistency. Repeated trials that agree closely increase confidence.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a control variable?",
+    "options": [
+     "The variable you measure",
+     "A factor kept the same so that the test is fair",
+     "The variable you change",
+     "An unexpected result"
+    ],
+    "answer": 1,
+    "explanation": "Controlling variables ensures that changes in the dependent variable are due to the independent variable.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a hypothesis?",
+    "options": [
+     "A testable prediction that explains what you expect to happen and why",
+     "A final conclusion",
+     "A list of materials",
+     "A graph"
+    ],
+    "answer": 0,
+    "explanation": "A hypothesis links variables and gives a reason, such as 'Higher nitrate will increase algae because it is a nutrient'.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a limitation of an investigation?",
+    "options": [
+     "Using a ruler",
+     "Writing a title",
+     "Wearing safety goggles",
+     "A small sample size that may not represent the whole area"
+    ],
+    "answer": 3,
+    "explanation": "Limitations are weaknesses in the method or data that affect confidence in the conclusion.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'accuracy' mean in measurement?",
+    "options": [
+     "How many times you repeated it",
+     "How fast you measured",
+     "How expensive the tool was",
+     "How close a measurement is to the true value"
+    ],
+    "answer": 3,
+    "explanation": "Accuracy refers to closeness to the true value; precision is about how closely repeated measurements agree.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A pH meter reads 6.8 for a buffer solution that is actually pH 7.0. What is the percentage error?",
+    "options": [
+     "0.2%",
+     "29%",
+     "Approximately 2.9%",
+     "2.0%"
+    ],
+    "answer": 2,
+    "explanation": "Error = 0.2. 0.2 ÷ 7.0 × 100 ≈ 2.9%. The percentage error is divided by the true value.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student measures stream width with a tape accurate to ±0.5 cm. The stream is 20 cm wide. What is the percentage uncertainty?",
+    "options": [
+     "0.5%",
+     "2.5%",
+     "25%",
+     "10%"
+    ],
+    "answer": 1,
+    "explanation": "0.5 ÷ 20 × 100 = 2.5%. A smaller measurement has larger relative uncertainty for the same instrument.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Three trials of dissolved oxygen gave 5.1, 5.3 and 5.2 mg/L. Which statement is best?",
+    "options": [
+     "The results are close, so they are precise and reliable; the mean is 5.2 mg/L",
+     "The results are very scattered",
+     "The mean is 5.3 mg/L",
+     "The experiment is invalid"
+    ],
+    "answer": 0,
+    "explanation": "Mean = 15.6 ÷ 3 = 5.2. Close agreement suggests high precision. Accuracy would require comparison with a true value.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which improvement would best increase the reliability of a quadrat survey?",
+    "options": [
+     "Taking more quadrats and repeating the survey on different days",
+     "Using one very large quadrat once",
+     "Counting only the easy ones",
+     "Using different quadrat sizes each time"
+    ],
+    "answer": 0,
+    "explanation": "Increasing the sample size and repeating measurements reduces the effect of chance.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student investigates whether light affects plant growth, but one pot is warmer than the other. What is the main problem?",
+    "options": [
+     "The graph has a title",
+     "The pots are round",
+     "There are too few ideas",
+     "An uncontrolled variable (temperature) affects validity"
+    ],
+    "answer": 3,
+    "explanation": "If temperature differs, you cannot be sure that light caused the difference. This lowers validity.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence best explains a random error?",
+    "options": [
+     "The same mistake in every reading because of a faulty scale",
+     "A hypothesis",
+     "Unpredictable variation in measurements, such as slightly different readings of a thermometer each time",
+     "A complete data set"
+    ],
+    "answer": 2,
+    "explanation": "Random errors vary in size and direction and can be reduced by repeating and averaging. Systematic errors shift all values the same way.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A balance reads 2 g too high every time because it was not zeroed. What type of error is this?",
+    "options": [
+     "Random error",
+     "Systematic error",
+     "No error",
+     "Anomaly only"
+    ],
+    "answer": 1,
+    "explanation": "A consistent offset is a systematic error. Repeating the measurement will not remove it; calibrate or zero the equipment.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A conclusion states: 'Nitrate causes all the algae growth in the lake.' The investigation measured nitrate and algae in one pond for one week. What is the best criticism?",
+    "options": [
+     "The claim is perfectly justified",
+     "The claim is too strong for such limited data; other factors and longer sampling are needed",
+     "Algae cannot be measured",
+     "Nitrate is not a nutrient"
+    ],
+    "answer": 1,
+    "explanation": "Conclusions should match the evidence. Use cautious language and mention other variables like phosphate, light and temperature.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a survey, mean beetle density was 4.0 per m² at a path and 3.8 per m² away from the path, with ranges overlapping widely. A student concludes: 'Paths increase beetle density.' What is the best evaluation?",
+    "options": [
+     "The 5% difference is small relative to the spread, so the data do not strongly support the conclusion; more samples or a statistical test would help",
+     "The data prove the conclusion",
+     "The difference is huge",
+     "Overlap in ranges strengthens the claim"
+    ],
+    "answer": 0,
+    "explanation": "(4.0 − 3.8) ÷ 3.8 ≈ 5%. With overlapping ranges the difference could be due to chance, so the claim is weak.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A stream survey finds fewer species below a factory. The factory owner says other things (for example less shade) could explain this. Which investigation design best tests the claim?",
+    "options": [
+     "Only count species downstream",
+     "Compare unrelated streams",
+     "Use a single reading",
+     "Compare upstream and downstream sites matched for shade, flow and substrate, and measure pollutants, repeating over time"
+    ],
+    "answer": 3,
+    "explanation": "Matching sites controls confounding variables, and measuring pollutants links the cause to the effect.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which extension would best strengthen a conclusion that a fertiliser causes algal growth?",
+    "options": [
+     "Reading a newspaper article",
+     "Counting fish only",
+     "A controlled experiment in tanks with different fertiliser levels and replicates, measuring algal growth",
+     "Waiting for rain"
+    ],
+    "answer": 2,
+    "explanation": "A controlled experiment with replicates tests cause and effect more directly than a one-off field observation.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A group estimates a fish population by mark-recapture and gets 400. A later full drain-down count shows 250 fish. Which is the most likely explanation for the overestimate?",
+    "options": [
+     "The net was too clean",
+     "Fish grew bigger",
+     "Marked fish were less likely to be recaptured, for example because they learned to avoid nets",
+     "The pond was very large"
+    ],
+    "answer": 2,
+    "explanation": "Fewer marked recaptures (small R) inflate the estimate. Violated assumptions are a key limitation.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A report on a forest study includes a hypothesis, a clear method, repeated data, a graph, a conclusion that refers to the data, and a section on limitations and improvements. Which feature makes the evaluation strongest?",
+    "options": [
+     "Listing limitations without links to results",
+     "Explaining how each limitation affects confidence in the conclusion and suggesting specific improvements",
+     "Saying nothing could be improved",
+     "Changing the data to fit"
+    ],
+    "answer": 1,
+    "explanation": "A strong evaluation links weaknesses to their effect on the conclusion and suggests realistic improvements.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "An investigation is only as trustworthy as its method. Evaluating means judging how good your method and data were, how much you can trust the conclusion and how the investigation could be improved. In MYP sciences this is a key skill in criterion C (Processing and evaluating) and in the evaluation of methods in criterion B (Inquiring and designing).\n\n## Key terms\n- **Hypothesis**: a testable prediction with a reason.\n- **Independent variable**: what you change or compare. **Dependent variable**: what you measure. **Control variables**: what you keep the same.\n- **Reliability**: results are consistent when repeated.\n- **Validity**: the method really tests the question, with variables controlled.\n- **Accuracy**: closeness to the true value. **Precision**: closeness of repeated measurements to each other.\n\nThree readings of 5.1, 5.3 and 5.2 mg/L are precise (close together) with a mean of 5.2 mg/L. They are only accurate if the true value is also near 5.2.\n\n## Errors\n- **Random errors** vary unpredictably (reading a thermometer slightly differently). Repeating and averaging reduces their effect.\n- **Systematic errors** shift every reading the same way (a balance that reads 2 g too high). Repeating does not fix them; you must calibrate or zero the equipment.\n\n## Percentage error and uncertainty\n- Percentage error = |measured − true| ÷ true × 100. A pH meter reading 6.8 for a pH 7.0 buffer has an error of 0.2 ÷ 7.0 × 100 ≈ 2.9%.\n- Percentage uncertainty = uncertainty ÷ measurement × 100. A tape accurate to ±0.5 cm measuring 20 cm gives 2.5%. Smaller measurements have larger percentage uncertainty.\n\n## Making a conclusion\nA good conclusion:\n- answers the research question,\n- refers to specific data (numbers and trends),\n- says whether the hypothesis is supported,\n- uses cautious wording such as \"suggests\" if evidence is limited,\n- explains the science behind the result.\n\nFor example, beetle density of 4.0 per m² beside a path and 3.8 per m² away is a difference of about 5%. If the ranges overlap widely, the evidence for a real difference is weak.\n\n## Evaluating the method\nIdentify specific strengths and limitations, explain the effect of each on your results, then suggest realistic improvements.\n- Small sample size: increase the number of quadrats or repeats.\n- Uncontrolled variables (shade, temperature, time of day): match sites or control conditions.\n- Short time period: repeat across seasons.\n- Equipment limits: use a more precise instrument.\n- Bias in placement: use random sampling.\n- Assumptions of mark-recapture violated: use alternative methods or check assumptions.\n\n## Extending the investigation\nSuggest a new question or a controlled experiment, for instance testing fertiliser levels in tanks to move from correlation to cause.\n\n## Common mistakes\n- Writing vague limitations such as \"human error\" without saying what happened and how it affected results.\n- Making conclusions that go beyond the data.\n- Mixing up accuracy and precision.\n- Dividing percentage error by the measured value instead of the true value.\n\n## How this is examined\nYou evaluate a described investigation with data, such as a stream survey or growth experiment. Tasks include calculating percentage error, identifying systematic or random errors, judging validity, and recommending improvements.\n\nExam tip: use a pattern of limitation, effect on results, improvement, and make each improvement specific.",
+  "flashcards": [
+   {
+    "front": "Hypothesis",
+    "back": "A testable prediction that includes a scientific reason, linking independent and dependent variables."
+   },
+   {
+    "front": "Reliability vs validity",
+    "back": "Reliable: repeatable and consistent. Valid: the method really tests the question, with variables controlled."
+   },
+   {
+    "front": "Accuracy vs precision",
+    "back": "Accuracy: closeness to the true value. Precision: how closely repeated measurements agree."
+   },
+   {
+    "front": "Random error",
+    "back": "Unpredictable variation in readings; reduced by repeating and averaging."
+   },
+   {
+    "front": "Systematic error",
+    "back": "A consistent shift in all readings (e.g. an unzeroed balance); repeating does not fix it, so calibrate equipment."
+   },
+   {
+    "front": "Percentage error",
+    "back": "|measured − true| ÷ true × 100. Example: 6.8 for pH 7.0 gives about 2.9%."
+   },
+   {
+    "front": "Percentage uncertainty",
+    "back": "Uncertainty ÷ measurement × 100. ±0.5 cm on 20 cm is 2.5%."
+   },
+   {
+    "front": "Structure of a limitation point",
+    "back": "State the limitation, explain how it affects the results or conclusion, then suggest a specific improvement."
+   },
+   {
+    "front": "Why use cautious wording in conclusions?",
+    "back": "Data from a limited sample may only suggest a relationship; wording should match the strength of evidence."
+   }
+  ]
+ }
+]

@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "environmental-systems",
+  "grade": 5,
+  "topic": "Soils and Land Use",
+  "subTopic": "Soil Formation and Degradation",
+  "questions": [
+   {
+    "content": "Which of these is NOT a main component of soil?",
+    "options": [
+     "Plastic",
+     "Mineral particles",
+     "Humus (organic matter)",
+     "Water and air"
+    ],
+    "answer": 0,
+    "explanation": "Soil is made of mineral particles, organic matter, water, air and living organisms. Plastic is a pollutant, not a natural component.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which soil horizon is the topsoil, rich in humus and roots?",
+    "options": [
+     "The C horizon",
+     "The bedrock",
+     "The B horizon",
+     "The A horizon"
+    ],
+    "answer": 3,
+    "explanation": "The A horizon (topsoil) contains the most organic matter and nutrients. The B horizon is subsoil and the C horizon is weathered parent rock.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which particle type is the smallest in a soil?",
+    "options": [
+     "Sand",
+     "Silt",
+     "Clay",
+     "Gravel"
+    ],
+    "answer": 2,
+    "explanation": "Clay particles are the smallest, silt is in the middle and sand is the largest of the three main soil particle sizes.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is soil erosion?",
+    "options": [
+     "The addition of fertiliser to soil",
+     "The removal and transport of soil by wind or water",
+     "The growth of crops",
+     "The formation of rock"
+    ],
+    "answer": 1,
+    "explanation": "Erosion moves topsoil away from where it formed, often to rivers or other places, reducing fertility.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which action helps to reduce soil erosion on a sloping field?",
+    "options": [
+     "Ploughing straight up and down the slope",
+     "Planting along the contours",
+     "Removing all plants",
+     "Leaving soil bare in winter"
+    ],
+    "answer": 1,
+    "explanation": "Contour ploughing slows runoff, so less soil is washed downhill. Bare soil and up-and-down ploughing increase erosion.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Soil forms very slowly from the weathering of parent rock mixed with organic matter. Which statement about soil formation is correct?",
+    "options": [
+     "It can take hundreds to thousands of years to form a few centimetres, so it is effectively non-renewable on human timescales",
+     "It forms in a few weeks after rain",
+     "It forms only from plastic waste",
+     "It forms without any living organisms"
+    ],
+    "answer": 0,
+    "explanation": "Weathering, decomposition and mixing by organisms are slow processes. Soil lost by erosion cannot be replaced quickly.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A gardener finds that water drains through her soil very quickly and nutrients wash away. Which soil texture is most likely?",
+    "options": [
+     "Clay soil",
+     "Peat soil",
+     "Loam soil",
+     "Sandy soil"
+    ],
+    "answer": 3,
+    "explanation": "Sand particles are large with big gaps between them, so water drains fast and nutrients leach out. Clay holds water and drains slowly.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which soil is usually best for growing most crops?",
+    "options": [
+     "Pure sand",
+     "Pure clay",
+     "Loam, a balance of sand, silt, clay and organic matter",
+     "Bare rock"
+    ],
+    "answer": 2,
+    "explanation": "Loam drains well but holds water and nutrients. Its mixture gives good structure and fertility.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Irrigation in a hot, dry region repeatedly brings water to the surface, which evaporates. What soil problem is likely?",
+    "options": [
+     "Acidification caused by rain",
+     "Increased humus",
+     "Salinisation, as salts are left behind in the soil",
+     "Faster soil formation"
+    ],
+    "answer": 2,
+    "explanation": "Evaporation leaves dissolved salts behind. Over time salt builds up and harms plants, a common cause of degradation in irrigated land.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is a cause of soil compaction?",
+    "options": [
+     "Adding compost",
+     "Heavy machinery or livestock repeatedly pressing on wet soil",
+     "Planting deep-rooted plants",
+     "Earthworm activity"
+    ],
+    "answer": 1,
+    "explanation": "Compaction squeezes out air spaces so roots cannot grow and water cannot infiltrate. It increases runoff and erosion.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Overgrazing removes the plant cover from grassland. What is the most likely sequence of events?",
+    "options": [
+     "Bare soil, more erosion, reduced fertility, possible desertification",
+     "More roots, less erosion, increased fertility",
+     "Thicker topsoil, more water absorbed",
+     "No change because grass grows back instantly"
+    ],
+    "answer": 0,
+    "explanation": "Without plant cover, soil is exposed to wind and rain, so topsoil is lost. In dry regions this can lead to desertification.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A farmer adds compost to a field every year. How does this improve the soil?",
+    "options": [
+     "It removes all the nutrients",
+     "It makes the soil heavier by adding sand",
+     "It stops decomposers working",
+     "It adds organic matter and nutrients and improves structure and water retention"
+    ],
+    "answer": 3,
+    "explanation": "Organic matter (humus) binds particles into crumbs, holds water and releases nutrients as it decomposes.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A field test: 50 g of soil is dried at 105 °C and then weighs 40 g. What percentage of the original mass was water?",
+    "options": [
+     "25%",
+     "80%",
+     "10%",
+     "20%"
+    ],
+    "answer": 3,
+    "explanation": "Water lost = 50 − 40 = 10 g. 10 ÷ 50 × 100 = 20%. Dividing by the dry mass (40) would incorrectly give 25%.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A sloping field loses 12 tonnes of soil per hectare per year. If soil forms at 1 tonne per hectare per year, what is the net annual loss and what does this suggest?",
+    "options": [
+     "13 tonnes per hectare; soil is increasing",
+     "1 tonne per hectare; the field is balanced",
+     "11 tonnes per hectare; soil is being lost far faster than it forms, so use is unsustainable",
+     "12 tonnes per hectare; soil formation is irrelevant"
+    ],
+    "answer": 2,
+    "explanation": "Net loss = 12 − 1 = 11 t/ha/yr. Erosion rates far above formation rates mean the soil resource is being depleted.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two fields are compared. Field A: 6 cm topsoil, 5% organic matter, ploughed down the slope. Field B: 6 cm topsoil, 5% organic matter, terraced with hedges. After 10 years, A has 3 cm and B has 5.5 cm of topsoil. What is the best conclusion?",
+    "options": [
+     "Both lost equal amounts",
+     "Terracing and hedges reduced erosion; A lost 50% of its topsoil while B lost about 8%",
+     "B lost 50% and A lost 8%",
+     "Slope management has no effect"
+    ],
+    "answer": 1,
+    "explanation": "A lost 3 of 6 cm (50%). B lost 0.5 of 6 cm, about 8%. Conservation measures slow soil loss.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student suggests that a wind-eroded field is mainly eroded because of heavy rainfall. Which evidence would best test this idea?",
+    "options": [
+     "Compare soil loss on bare and covered plots during dry windy periods and during rain",
+     "Measure the colour of the sky",
+     "Count the number of crops sold",
+     "Measure only the pH once"
+    ],
+    "answer": 0,
+    "explanation": "Comparing treatments (cover, wind, rain) under controlled conditions separates the causes. Soil loss measured in traps would give evidence.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which statement best explains why replacing forest by crops on a steep slope can increase flooding downstream?",
+    "options": [
+     "Roots and canopy intercept less rain and hold less soil, so runoff is faster and rivers silt up",
+     "Crops release more water",
+     "Forests create rain only in the valley",
+     "Bare slopes absorb more water than forest"
+    ],
+    "answer": 0,
+    "explanation": "Vegetation slows rainfall and binds soil. Without it, water runs off quickly carrying sediment that raises riverbeds and worsens flooding.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A farm's yield of wheat falls from 6 t/ha to 4.8 t/ha over 20 years while fertiliser use stays the same. The farmer blames the weather, but nearby fields with trees and mulch have constant yields. Which is the best interpretation?",
+    "options": [
+     "The 20% fall proves weather is the cause",
+     "Soil has no effect on yield",
+     "The nearby fields prove fertiliser is harmful",
+     "A 20% fall suggests soil degradation on the farm; the tree and mulch fields hint that soil management matters, though more data are needed"
+    ],
+    "answer": 3,
+    "explanation": "6 → 4.8 is a fall of 1.2 ÷ 6 = 20%. A fair interpretation links the evidence but notes that other variables must be checked.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Soil is a thin layer at Earth's surface that supports plants, stores water, recycles nutrients and is home to billions of organisms. It is a vital but slowly formed resource: a few centimetres can take hundreds to thousands of years to develop.\n\n## How soil forms\nSoil forms from **parent rock** that is broken down by weathering (physical, chemical and biological) and mixed with organic matter from dead plants and animals. Decomposers turn dead material into **humus**. Climate, slope, living organisms and time all affect the type of soil formed.\n\nSoil is made of:\n- mineral particles (sand, silt, clay)\n- organic matter (humus)\n- water\n- air\n- living organisms such as earthworms, fungi and bacteria\n\n## Soil profile\nA soil profile shows horizons (layers):\n- **O horizon**: surface litter and decomposing material.\n- **A horizon (topsoil)**: dark, rich in humus, roots and nutrients.\n- **B horizon (subsoil)**: lighter, with less organic matter and some minerals washed down from above.\n- **C horizon**: partly weathered parent rock.\n- **Bedrock**: solid rock underneath.\n\n## Soil texture\nSand particles are largest, silt is medium and clay is smallest. Sandy soils drain quickly and hold few nutrients. Clay soils hold water and nutrients but can become waterlogged. **Loam**, a balanced mix with organic matter, is usually best for crops.\n\n## Soil degradation\nDegradation means soil loses quality or quantity. Main causes and effects:\n- **Erosion** by wind or water, especially when vegetation is removed, on slopes or after overgrazing.\n- **Compaction** by heavy machinery or livestock, which reduces air spaces and infiltration.\n- **Salinisation** where irrigation in dry climates evaporates water and leaves salts behind.\n- **Nutrient depletion** when crops are taken and nutrients are not replaced.\n- **Desertification**, when fertile land in dry regions becomes desert-like.\n\nEffects include lower crop yields, more runoff and flooding, silt in rivers and reservoirs, and loss of habitats.\n\n## Soil conservation\n- Contour ploughing and terracing slow runoff.\n- Cover crops, mulching and windbreaks protect the surface.\n- Crop rotation and adding compost or manure restore nutrients and structure.\n- Controlled grazing and avoiding bare soil in wet or windy seasons.\n\n## Worked example\nA soil sample of 50 g is dried and weighs 40 g. Water content = (50 − 40) ÷ 50 × 100 = 20%. Divide by the original mass, not the dried mass.\n\n## Common mistakes\n- Treating soil as renewable on human timescales. It forms far more slowly than it can be lost.\n- Mixing up erosion (movement of soil) with weathering (breakdown of rock).\n- Forgetting to link a cause to an effect: for example, bare soil leads to erosion, which leads to lower fertility.\n\n## How this is examined\nExpect a scenario about a farm, hillside or irrigation scheme, with data such as topsoil depth, yield or mass loss. You may need to calculate a percentage or rate, identify the degradation process, and evaluate management methods.\n\nExam tip: always link a human action to a process and then to a consequence, e.g. \"overgrazing removes plant cover, so rain and wind remove topsoil, which lowers yields\".",
+  "flashcards": [
+   {
+    "front": "Soil",
+    "back": "A mixture of mineral particles, organic matter (humus), water, air and living organisms that supports plant growth."
+   },
+   {
+    "front": "Humus",
+    "back": "Dark, decomposed organic matter in soil that holds water and nutrients and improves structure."
+   },
+   {
+    "front": "Soil horizons",
+    "back": "O (litter), A (topsoil), B (subsoil), C (weathered parent rock), then bedrock."
+   },
+   {
+    "front": "Soil texture",
+    "back": "Based on proportions of sand (largest), silt and clay (smallest). Loam, a balanced mix, is best for most crops."
+   },
+   {
+    "front": "Soil erosion",
+    "back": "Removal and transport of soil by wind or water, made worse by bare ground, slopes and overgrazing."
+   },
+   {
+    "front": "Salinisation",
+    "back": "Build-up of salts in soil, often when irrigation water evaporates in hot dry regions, harming crops."
+   },
+   {
+    "front": "Soil compaction",
+    "back": "Soil is pressed together by machinery or livestock, reducing air spaces, root growth and water infiltration."
+   },
+   {
+    "front": "Desertification",
+    "back": "Fertile land in dry regions becoming desert-like because of degradation such as overgrazing and deforestation."
+   },
+   {
+    "front": "Soil conservation methods",
+    "back": "Contour ploughing, terracing, cover crops, mulching, windbreaks, crop rotation, adding compost, controlled grazing."
+   }
+  ]
+ },
+ {
+  "subject": "environmental-systems",
+  "grade": 5,
+  "topic": "Soils and Land Use",
+  "subTopic": "Agriculture and Sustainability",
+  "questions": [
+   {
+    "content": "What is a monoculture?",
+    "options": [
+     "Growing many different crops together",
+     "Growing a single crop over a large area",
+     "Farming without soil",
+     "Farming only animals"
+    ],
+    "answer": 1,
+    "explanation": "Monocultures are efficient to manage but are vulnerable to pests and disease and can deplete specific nutrients.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the purpose of fertiliser?",
+    "options": [
+     "To supply nutrients such as nitrogen and phosphorus for plant growth",
+     "To kill pests",
+     "To add water to the soil",
+     "To remove weeds"
+    ],
+    "answer": 0,
+    "explanation": "Fertilisers replace nutrients removed when crops are harvested. Pesticides kill pests; herbicides kill weeds.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which farming method avoids synthetic pesticides and fertilisers?",
+    "options": [
+     "Intensive monoculture",
+     "Factory farming",
+     "Slash and burn",
+     "Organic farming"
+    ],
+    "answer": 3,
+    "explanation": "Organic farming uses natural methods such as compost, crop rotation and biological pest control.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'yield' mean in agriculture?",
+    "options": [
+     "The price of land",
+     "The number of farmers",
+     "The amount of crop produced from a given area",
+     "The size of a tractor"
+    ],
+    "answer": 2,
+    "explanation": "Yield is often measured in tonnes per hectare.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which practice helps maintain soil fertility by growing different crops in a planned order?",
+    "options": [
+     "Monoculture",
+     "Overgrazing",
+     "Crop rotation",
+     "Burning stubble"
+    ],
+    "answer": 2,
+    "explanation": "Rotating crops (including nitrogen-fixing legumes) reduces pests and prevents the same nutrients being used each year.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A farm produces 120 tonnes of wheat from 30 hectares. What is the yield?",
+    "options": [
+     "3600 t/ha",
+     "4 t/ha",
+     "0.25 t/ha",
+     "90 t/ha"
+    ],
+    "answer": 1,
+    "explanation": "Yield = 120 ÷ 30 = 4 t/ha. Dividing the other way gives 0.25, which is hectares per tonne.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Excess nitrate fertiliser runs off fields into a lake. What is the likely effect?",
+    "options": [
+     "Algal blooms and eutrophication, leading to oxygen depletion",
+     "Clearer water",
+     "More oxygen at all depths",
+     "Fewer algae"
+    ],
+    "answer": 0,
+    "explanation": "Nutrients stimulate algal growth. When algae die, bacteria use up dissolved oxygen, harming fish.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is a disadvantage of using broad-spectrum pesticides?",
+    "options": [
+     "They always increase biodiversity",
+     "They are never expensive",
+     "They improve soil structure",
+     "They can kill beneficial insects such as pollinators and may build up in food chains"
+    ],
+    "answer": 3,
+    "explanation": "Non-selective pesticides harm non-target species. Some can bioaccumulate, becoming more concentrated at higher trophic levels.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Planting leguminous crops such as beans in rotation helps because:",
+    "options": [
+     "Beans release phosphorus from rock",
+     "Beans fix carbon in the soil only",
+     "Beans kill all weeds",
+     "Bacteria in root nodules fix nitrogen, adding it to the soil"
+    ],
+    "answer": 3,
+    "explanation": "Nitrogen-fixing bacteria in legume nodules convert atmospheric nitrogen into forms plants can use.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which method is part of integrated pest management?",
+    "options": [
+     "Spraying every day regardless of pests",
+     "Removing all predators",
+     "Using natural predators such as ladybirds along with targeted spraying only when needed",
+     "Burning the crops"
+    ],
+    "answer": 2,
+    "explanation": "Integrated pest management combines biological control, crop choice and limited pesticide use to reduce environmental harm.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why does producing 1 kg of beef usually require more land than 1 kg of wheat?",
+    "options": [
+     "Cattle photosynthesise more slowly",
+     "Energy is lost at each trophic level, so far more plant food is needed to produce animal products",
+     "Wheat needs more land per kilogram",
+     "Cattle are produced without feed"
+    ],
+    "answer": 1,
+    "explanation": "Only about 10% of energy passes to the next trophic level, so eating lower on the food chain generally needs less land.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A farmer switches from flood irrigation to drip irrigation, reducing water use from 8000 m³ to 5200 m³ per hectare per season. What is the percentage saving?",
+    "options": [
+     "35%",
+     "65%",
+     "54%",
+     "2800%"
+    ],
+    "answer": 0,
+    "explanation": "Saving = 8000 − 5200 = 2800 m³. 2800 ÷ 8000 × 100 = 35%.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is a social benefit of local food production compared with imported food?",
+    "options": [
+     "Reduced food miles and support for local jobs",
+     "Always cheaper in every season",
+     "Always larger yields",
+     "No need for any storage"
+    ],
+    "answer": 0,
+    "explanation": "Shorter supply chains cut transport emissions and support local economies, though growing season and efficiency still matter.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A farmer cuts nitrogen fertiliser from 200 kg/ha to 150 kg/ha. Yield falls from 8.0 to 7.6 t/ha. Which is the best evaluation?",
+    "options": [
+     "Yield fell by 25%, so the change is a failure",
+     "Fertiliser fell by 5% and yield by 25%",
+     "The data show no change at all",
+     "Fertiliser fell 25% while yield fell only 5%, so the reduction may be more efficient and less polluting"
+    ],
+    "answer": 3,
+    "explanation": "Fertiliser: 50 ÷ 200 = 25%. Yield: 0.4 ÷ 8.0 = 5%. Lower inputs with a small yield loss can be better economically and environmentally.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two farms are compared. Farm X: monoculture of maize, 9 t/ha, uses 180 kg/ha nitrogen, high pesticide. Farm Y: mixed crops with rotation, 7 t/ha, uses 60 kg/ha nitrogen, low pesticide. Which judgment is best supported?",
+    "options": [
+     "X is always best because yield is highest",
+     "Y is always best because it uses less fertiliser",
+     "Y yields less but is likely more sustainable for soil, water quality and biodiversity; the best choice depends on food demand and costs",
+     "Neither can be compared"
+    ],
+    "answer": 2,
+    "explanation": "Evaluation should balance productivity against impacts on soil, pollution and biodiversity, and refer to the data.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which scenario best explains how the spread of intensive monoculture can increase the risk of crop failure?",
+    "options": [
+     "Monocultures have more pollinators",
+     "Uniform plants share the same weaknesses, so one pest or disease can spread quickly across a whole region",
+     "Uniform plants are always resistant",
+     "Pests prefer varied crops"
+    ],
+    "answer": 1,
+    "explanation": "Genetic and species uniformity removes natural barriers to the spread of disease. Diversity spreads risk.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An organic farm and a conventional farm each grow 10 ha of tomatoes. Organic produces 400 tonnes using 4 workers; conventional produces 520 tonnes using 3 workers. A student concludes the conventional farm is better. What is the main flaw?",
+    "options": [
+     "Yield cannot be compared",
+     "The student only compares yield and labour, ignoring environmental impacts, costs, product prices and long-term soil health",
+     "Tonnes are not a valid unit",
+     "Workers do not matter"
+    ],
+    "answer": 1,
+    "explanation": "Yields are 40 and 52 t/ha. A balanced judgement uses several criteria: economic, social and environmental.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which statement describes the strongest argument that shifting to plant-rich diets could improve food security?",
+    "options": [
+     "Plants feed people directly, so less land and water are needed per unit of food energy than for animal products",
+     "Plants contain no nutrients",
+     "Animals use no land",
+     "Energy flow upwards increases at each level"
+    ],
+    "answer": 0,
+    "explanation": "Energy is lost at each trophic level, so producing animal products typically requires more resources per calorie.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Agriculture feeds the world but is also one of the biggest users of land and water and a major source of pollution and greenhouse gases. **Sustainable agriculture** aims to meet today's food needs without damaging soil, water, biodiversity and the climate for future generations.\n\n## Types of farming\n- **Intensive farming**: high inputs (fertiliser, pesticides, machinery, irrigation) on a small area to get a high yield per hectare.\n- **Extensive farming**: low inputs over a large area, with lower yields per hectare.\n- **Monoculture**: one crop grown repeatedly. It is easy to manage but vulnerable to pests and disease and can deplete particular nutrients.\n- **Mixed farming and crop rotation**: several crops or animals together or in turn.\n- **Organic farming**: no synthetic fertilisers or pesticides; uses compost, manure and natural pest control.\n\n## Yield and efficiency\n**Yield** is crop produced per area, such as tonnes per hectare (t/ha). Example: 120 tonnes from 30 ha gives 120 ÷ 30 = 4 t/ha. Always check units and divide the total by the area.\n\n## Environmental impacts\n- **Eutrophication**: nitrates and phosphates from fertiliser run into water, causing algal blooms. When algae die, decomposers use up oxygen and fish die.\n- **Pesticides**: can kill beneficial insects, pollinators and predators, and can build up in food chains (bioaccumulation).\n- **Soil degradation**: erosion, compaction and salinisation from poor management.\n- **Water use**: irrigation can deplete rivers and groundwater.\n- **Greenhouse gases**: methane from cattle and rice, nitrous oxide from fertilisers, CO₂ from machinery and land clearing.\n- **Biodiversity loss**: removing hedgerows, wetlands and forests for fields.\n\n## Sustainable approaches\n- Crop rotation, including nitrogen-fixing legumes, and cover crops.\n- Integrated pest management using natural predators and targeted spraying.\n- Drip irrigation and rainwater harvesting (for example, cutting water from 8000 to 5200 m³ per hectare is a 35% saving).\n- Precision farming: using sensors or GPS to apply inputs only where needed.\n- Agroforestry: growing trees with crops or livestock.\n- Reducing food waste and sourcing food locally to cut food miles.\n\n## Energy and diet\nEnergy is lost at each step of a food chain, so animal products usually need more land and resources than plant foods. A more plant-rich diet can reduce land use.\n\n## Evaluating\nThere is rarely a single best option. Compare yield, cost, workers needed, soil health, pollution and biodiversity. Quote numbers from the data and state the trade-off.\n\n## Common mistakes\n- Saying organic farming has no environmental impact.\n- Judging only on yield. Sustainability also includes soil, water, biodiversity, economics and society.\n- Mixing up percentage change in inputs with percentage change in output.\n\n## How this is examined\nYou might be given a table of two farms with yields, fertiliser use and costs, then asked to calculate yields or percentage changes, explain a pollution pathway like eutrophication, and justify which system is more sustainable.\n\nExam tip: for \"evaluate\", give at least one advantage and one limitation for each option, and finish with a justified conclusion that uses the data.",
+  "flashcards": [
+   {
+    "front": "Sustainable agriculture",
+    "back": "Producing food in ways that meet present needs without harming soil, water, biodiversity and climate for the future."
+   },
+   {
+    "front": "Yield",
+    "back": "Amount of crop produced per area, e.g. t/ha. Calculate by total produced ÷ area."
+   },
+   {
+    "front": "Monoculture",
+    "back": "Growing one crop over a large area: efficient but vulnerable to pests, disease and nutrient depletion."
+   },
+   {
+    "front": "Crop rotation",
+    "back": "Growing different crops in sequence, including nitrogen-fixing legumes, to keep soil fertile and reduce pests."
+   },
+   {
+    "front": "Eutrophication from farming",
+    "back": "Fertiliser runoff adds nitrates and phosphates, causing algal blooms; decomposers then use up oxygen and aquatic life dies."
+   },
+   {
+    "front": "Integrated pest management",
+    "back": "Combining natural predators, resistant crops, rotation and limited targeted pesticide use."
+   },
+   {
+    "front": "Organic farming",
+    "back": "Farming without synthetic fertilisers and pesticides, using compost, manure, rotation and biological control."
+   },
+   {
+    "front": "Drip irrigation",
+    "back": "Delivers small amounts of water directly to roots, reducing evaporation and saving water."
+   },
+   {
+    "front": "Why eating plants uses less land",
+    "back": "Energy is lost at each trophic level (only about 10% passes on), so animal products need more land per unit of food energy."
+   }
+  ]
+ },
+ {
+  "subject": "environmental-systems",
+  "grade": 5,
+  "topic": "Soils and Land Use",
+  "subTopic": "Deforestation and Land Use Change",
+  "questions": [
+   {
+    "content": "What is deforestation?",
+    "options": [
+     "Planting new forests",
+     "Thinning trees for safety only",
+     "The permanent clearing of forests for other uses",
+     "Protecting forests from fire"
+    ],
+    "answer": 2,
+    "explanation": "Deforestation converts forest to other land uses, such as farmland, mining or buildings.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is a common cause of tropical deforestation?",
+    "options": [
+     "Building more national parks",
+     "Clearing land for cattle ranching and plantations",
+     "Planting trees in cities",
+     "Creating nature reserves"
+    ],
+    "answer": 1,
+    "explanation": "Agriculture, including cattle, soy and palm oil, is a leading driver, along with logging, mining and road building.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Planting trees on land that has not recently been forest is called:",
+    "options": [
+     "Afforestation",
+     "Deforestation",
+     "Desertification",
+     "Erosion"
+    ],
+    "answer": 0,
+    "explanation": "Afforestation creates forest where there was none; reforestation replants where forest was cut.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why do forests help reduce flooding?",
+    "options": [
+     "Forests produce more rain in rivers",
+     "Roots make soil waterproof",
+     "Trees heat the ground",
+     "Leaves and roots intercept rain and help water soak into the ground"
+    ],
+    "answer": 3,
+    "explanation": "Vegetation slows rainfall and increases infiltration, so water reaches rivers more slowly.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which gas is stored in trees and released when forests are burned?",
+    "options": [
+     "Helium",
+     "Neon",
+     "Hydrogen",
+     "Carbon dioxide"
+    ],
+    "answer": 3,
+    "explanation": "Trees store carbon taken in by photosynthesis. Burning or decay releases it as CO₂.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is the best explanation of why deforestation contributes to climate change?",
+    "options": [
+     "Trees produce greenhouse gases only",
+     "Deforestation increases ozone",
+     "Fewer trees absorb less CO₂ and burning or decay releases stored carbon",
+     "Clearing forests adds more rain"
+    ],
+    "answer": 2,
+    "explanation": "Removing forests both releases carbon and reduces future absorption.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A forest area of 50 000 hectares loses 2000 hectares per year. What percentage is lost in the first year?",
+    "options": [
+     "25%",
+     "4%",
+     "2%",
+     "40%"
+    ],
+    "answer": 1,
+    "explanation": "2000 ÷ 50 000 × 100 = 4%. At the same constant loss it would be gone in 25 years.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why does heavy rain cause greater soil loss after deforestation on a slope?",
+    "options": [
+     "Without roots and canopy, rain hits bare soil and runoff carries topsoil away",
+     "Roots create runoff",
+     "Trees block infiltration",
+     "Deforested soil is always rock"
+    ],
+    "answer": 0,
+    "explanation": "Removing vegetation exposes soil to raindrop impact and runoff.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sustainable forestry practice helps maintain a forest while still providing timber?",
+    "options": [
+     "Selective logging and replanting, with certification such as FSC",
+     "Clear-felling the whole area",
+     "Burning the stumps",
+     "Logging in protected parks"
+    ],
+    "answer": 0,
+    "explanation": "Selective harvesting and replanting keep forest cover and biodiversity. Certification schemes help buyers choose responsibly sourced wood.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Slash-and-burn farming can be sustainable at low population density but harmful at high density. Why?",
+    "options": [
+     "Burning adds new soil forever",
+     "Trees regrow instantly",
+     "There is no ash",
+     "The land needs many years to recover, but high demand leads to shorter fallow periods and soil exhaustion"
+    ],
+    "answer": 3,
+    "explanation": "Ash gives a short-term nutrient boost. Repeated clearing without recovery time degrades soil.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is an effect of deforestation on local rainfall?",
+    "options": [
+     "It always increases rainfall",
+     "It has no relation to water",
+     "Reduced transpiration can lead to less local rainfall",
+     "It makes oceans freshwater"
+    ],
+    "answer": 2,
+    "explanation": "Trees release water vapour by transpiration, which contributes to rainfall, especially in large forests such as the Amazon.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which land use change usually has the biggest direct effect on flooding in a river catchment?",
+    "options": [
+     "Planting more trees",
+     "Replacing grass and soil with roads and roofs (urbanisation)",
+     "Restoring wetlands",
+     "Adding hedgerows"
+    ],
+    "answer": 1,
+    "explanation": "Impermeable surfaces prevent infiltration and speed up runoff, leading to quicker, higher flood peaks.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which group is directly affected when a forest is cleared in many regions?",
+    "options": [
+     "Only distant cities",
+     "Indigenous communities who rely on the forest for food, shelter and culture",
+     "Nobody",
+     "Only planes"
+    ],
+    "answer": 1,
+    "explanation": "Deforestation can displace people and remove traditional resources.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A palm oil company clears 1500 ha of forest. Each hectare stored about 200 tonnes of carbon. How much carbon was stored in the cleared area, and what happens to it?",
+    "options": [
+     "300 000 tonnes, mostly released to the atmosphere as CO₂ when burned or decayed",
+     "3000 tonnes, absorbed by the soil",
+     "30 000 tonnes, stored in oil",
+     "300 tonnes, converted to oxygen"
+    ],
+    "answer": 0,
+    "explanation": "1500 × 200 = 300 000 tonnes of carbon. Clearing and burning release it, adding to the enhanced greenhouse effect.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Satellite data show forest cover in a region fell from 80% to 62% of the land area over 20 years. By how many percentage points did it fall and what percentage of the original forest was lost?",
+    "options": [
+     "18%; 18% of the original",
+     "22.5 percentage points; 18% of original",
+     "18 percentage points; 77.5% of original",
+     "18 percentage points; 22.5% of the original forest"
+    ],
+    "answer": 3,
+    "explanation": "80 − 62 = 18 percentage points. 18 ÷ 80 × 100 = 22.5% of the original forest. Distinguish points from percentages.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A country argues that clearing forest for farming will reduce poverty. A conservation group argues for protection. Which approach is best supported by sustainable development?",
+    "options": [
+     "Choose the plan with the highest profit this year only",
+     "Ignore the views of local people",
+     "Compare long-term economic, social and environmental costs and benefits, including alternatives like agroforestry and eco-tourism",
+     "Choose the plan that preserves nothing"
+    ],
+    "answer": 2,
+    "explanation": "A sustainable approach balances present needs against future ones and involves local people in decisions.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A study finds that rivers downstream of cleared hillsides carry 5 times more sediment than rivers below forested hillsides. Which conclusion is most reasonable and what is a limitation?",
+    "options": [
+     "Forests increase sediment; the data are perfect",
+     "There is no link; rivers are unaffected",
+     "Clearing increases erosion; however, other factors like slope, rainfall and soil type must be controlled",
+     "Sediment is caused by fish"
+    ],
+    "answer": 2,
+    "explanation": "The evidence is consistent with vegetation protecting soil, but a valid conclusion must consider confounding variables.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which combination of strategies would best reduce deforestation while supporting local people?",
+    "options": [
+     "Unlimited logging licences",
+     "Protected areas with community involvement, sustainable forest products, payments for forest protection and enforcement against illegal logging",
+     "Removing all residents with no alternatives",
+     "Banning agriculture worldwide"
+    ],
+    "answer": 1,
+    "explanation": "Successful conservation combines legal protection with benefits for communities and enforcement.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Forests cover about a third of Earth's land and provide timber, food, medicines, homes for people and wildlife, and vital services such as storing carbon, regulating water and protecting soil. **Deforestation** is the permanent removal of forest so the land can be used for something else. **Land use change** is any conversion from one use to another, such as forest to farmland, farmland to housing or wetland to drained pasture.\n\n## Causes of deforestation\n- Commercial agriculture: cattle ranching, soy and palm oil plantations.\n- Subsistence farming, including slash-and-burn where each plot is cleared, burned for ash nutrients, farmed for a few years, then left to recover.\n- Logging for timber and paper, often through illegal logging.\n- Mining, road building and dams.\n- Urban growth and fuelwood collection.\n\nUnderlying drivers include rising population, demand for cheap food and wood, poverty, weak law enforcement and global trade.\n\n## Environmental effects\n- **Climate**: trees store carbon. Clearing and burning release CO₂, and fewer trees absorb less.\n- **Biodiversity**: habitat loss and fragmentation threaten species.\n- **Soil**: roots and canopy protect soil. After clearing, rain causes erosion and nutrient loss.\n- **Water**: less interception and infiltration means faster runoff, more flooding and silted rivers. Reduced transpiration can lower local rainfall.\n- **Urbanisation** replaces soil with impermeable surfaces, increasing flood risk.\n\n## Social and economic effects\nShort-term income from timber and farming can be important, but long-term losses include fertility loss, floods and displacement of communities who rely on forests for food, shelter and culture.\n\n## Worked example\nA forest of 50 000 ha loses 2000 ha per year. Loss in year 1 = 2000 ÷ 50 000 × 100 = 4%. If the loss continues at the same rate, it takes 50 000 ÷ 2000 = 25 years to clear it. Note the difference between **percentage points** and **percentages**: a fall from 80% cover to 62% cover is 18 percentage points, but 18 ÷ 80 = 22.5% of the original forest.\n\n## Management and solutions\n- Protected areas and national parks, with real enforcement.\n- Sustainable forestry: selective logging, replanting and certification (such as FSC).\n- Reforestation (replanting cut forest) and afforestation (planting new forest).\n- Agroforestry and sustainable products, such as ecotourism.\n- Reducing demand: less waste, recycled paper, certified products, and diet changes.\n- Involving local and indigenous people, who often protect forests best.\n\n## Common mistakes\n- Saying all deforestation is illegal or all caused by poor people. Causes are varied, including global demand.\n- Confusing percentage points with percentage change.\n- Forgetting trade-offs: solutions should consider the needs of communities.\n\n## How this is examined\nExpect maps, tables of forest cover over time or a short case study. You may calculate loss, explain impacts on carbon, soil and water, and evaluate solutions from different perspectives.\n\nExam tip: structure your evaluation by environmental, social and economic impacts, and always quote data from the stimulus.",
+  "flashcards": [
+   {
+    "front": "Deforestation",
+    "back": "Permanent clearing of forest so land can be used for farming, mining, building or other uses."
+   },
+   {
+    "front": "Main causes of tropical deforestation",
+    "back": "Cattle ranching, soy and palm oil plantations, logging, subsistence farming, mining, roads and urban growth."
+   },
+   {
+    "front": "Deforestation and climate",
+    "back": "Clearing releases stored carbon as CO₂ and removes trees that would absorb it, strengthening the enhanced greenhouse effect."
+   },
+   {
+    "front": "Effects on soil and water",
+    "back": "Less interception and root binding: more runoff, erosion, flooding and silted rivers; less transpiration may lower rainfall."
+   },
+   {
+    "front": "Afforestation vs reforestation",
+    "back": "Afforestation: planting trees where there was no forest. Reforestation: replanting where forest was cut."
+   },
+   {
+    "front": "Slash-and-burn",
+    "back": "Clearing and burning plots for ash nutrients, farming a few years, then leaving to recover. Harmful if recovery time is too short."
+   },
+   {
+    "front": "Sustainable forestry",
+    "back": "Selective logging, replanting, protecting biodiversity, and certification (e.g. FSC) so timber is responsibly sourced."
+   },
+   {
+    "front": "Land use change",
+    "back": "Converting land from one use to another, e.g. forest to farmland or farmland to housing."
+   },
+   {
+    "front": "Percentage points vs percentage",
+    "back": "Cover falling from 80% to 62% is 18 percentage points, but 18 ÷ 80 = 22.5% of the original forest."
+   }
+  ]
+ }
+]

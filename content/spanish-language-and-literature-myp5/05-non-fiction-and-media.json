@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "spanish-language-and-literature",
+  "grade": 5,
+  "topic": "Non-Fiction and Media",
+  "subTopic": "Persuasive Techniques",
+  "questions": [
+   {
+    "content": "¿Qué es un texto persuasivo?",
+    "options": [
+     "Un texto que intenta convencer al lector de una idea o de una acción",
+     "Un texto que solo cuenta una historia inventada",
+     "Un texto que describe un paisaje sin opinar",
+     "Un texto que enseña la gramática del verbo"
+    ],
+    "answer": 0,
+    "explanation": "La finalidad de un texto persuasivo es influir en el lector: que piense algo o que haga algo.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Un anuncio dice: «¡Compra hoy! ¡Solo quedan tres unidades!». ¿Qué técnica usa?",
+    "options": [
+     "Una metáfora poética",
+     "Una descripción objetiva",
+     "Una cita de autoridad",
+     "Apelación a la urgencia"
+    ],
+    "answer": 3,
+    "explanation": "Las expresiones «hoy» y «solo quedan tres» presionan al lector para actuar rápido.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "«¿Quién no quiere vivir en un barrio limpio?» ¿Qué recurso es?",
+    "options": [
+     "Una pregunta de examen",
+     "Una definición",
+     "Una pregunta retórica",
+     "Una cita textual"
+    ],
+    "answer": 2,
+    "explanation": "Una pregunta retórica no espera respuesta: la respuesta obvia refuerza la opinión del emisor.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Una oradora comienza: «Como médica con veinte años de experiencia…». ¿Qué tipo de apelación usa?",
+    "options": [
+     "Pathos (emoción)",
+     "Ethos (credibilidad del emisor)",
+     "Logos (datos numéricos)",
+     "Ironía"
+    ],
+    "answer": 1,
+    "explanation": "El ethos busca que el público confíe en quien habla gracias a su experiencia o prestigio.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "¿Qué busca el pathos en un texto persuasivo?",
+    "options": [
+     "Presentar estadísticas",
+     "Despertar emociones en el lector",
+     "Demostrar la fama del autor",
+     "Corregir errores de ortografía"
+    ],
+    "answer": 1,
+    "explanation": "El pathos apela a sentimientos como la compasión, el miedo, el orgullo o la esperanza.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "«Rápido, limpio y barato.» ¿Qué efecto tiene esta enumeración de tres elementos?",
+    "options": [
+     "Da ritmo y sensación de que el producto lo tiene todo",
+     "Crea una atmósfera de misterio",
+     "Introduce un narrador en primera persona",
+     "Expresa duda sobre el producto"
+    ],
+    "answer": 0,
+    "explanation": "La regla de tres es muy frecuente en publicidad: es fácil de recordar y suena completa.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "«Los pobres cachorros abandonados tiemblan de frío y de miedo.» ¿Qué efecto busca principalmente?",
+    "options": [
+     "Informar con datos exactos",
+     "Divertir al público",
+     "Describir el clima con precisión",
+     "Provocar compasión en el lector"
+    ],
+    "answer": 3,
+    "explanation": "Los adjetivos y verbos emotivos («pobres», «tiemblan», «miedo») apelan al pathos.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "«Según una encuesta ficticia a 2000 estudiantes, el 78 % duerme menos de ocho horas.» ¿Qué apelación predomina?",
+    "options": [
+     "Pathos (emoción)",
+     "Ethos (fama personal)",
+     "Logos (datos y razonamiento)",
+     "Humor"
+    ],
+    "answer": 2,
+    "explanation": "Las cifras y las encuestas buscan convencer con pruebas, es decir, con logos.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "«Todos juntos debemos cuidar nuestro barrio.» ¿Qué efecto tiene el «nosotros» inclusivo?",
+    "options": [
+     "Excluye al lector del problema",
+     "Muestra distancia y frialdad",
+     "Crea sensación de comunidad y responsabilidad compartida",
+     "Convierte el texto en una narración"
+    ],
+    "answer": 2,
+    "explanation": "El plural inclusivo hace que el lector se sienta parte del grupo y comparta la meta.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "«Es el mejor móvil del universo.» ¿Qué recurso se usa?",
+    "options": [
+     "Dato verificable",
+     "Hipérbole: una exageración sin prueba",
+     "Ironía amarga",
+     "Cita de un experto"
+    ],
+    "answer": 1,
+    "explanation": "El anuncio exagera para destacar el producto; una afirmación tan absoluta no se puede comprobar.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "«Únete, participa, actúa.» ¿Qué función tienen los imperativos?",
+    "options": [
+     "Dirigirse al lector directamente e invitarlo a la acción",
+     "Describir hechos del pasado",
+     "Expresar duda",
+     "Presentar una hipótesis"
+    ],
+    "answer": 0,
+    "explanation": "Los verbos en imperativo funcionan como órdenes o invitaciones y buscan una reacción inmediata.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Anuncio: «Tu primera mochila para el instituto, ¡con descuento de estudiante!». ¿A qué público se dirige?",
+    "options": [
+     "A jubilados",
+     "A bebés",
+     "A profesores universitarios",
+     "A adolescentes y estudiantes"
+    ],
+    "answer": 3,
+    "explanation": "La audiencia se deduce del vocabulario («instituto», «estudiante») y de la oferta.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "«Hoy gastas un poco; mañana ahorrarás mucho.» ¿Qué recurso se emplea?",
+    "options": [
+     "Rima consonante",
+     "Onomatopeya",
+     "Personificación",
+     "Contraste (antítesis) para mostrar un beneficio futuro"
+    ],
+    "answer": 3,
+    "explanation": "Se oponen «hoy/un poco» y «mañana/mucho» para que el sacrificio parezca pequeño.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Anuncio ficticio: «Nueve de cada diez dentistas de la clínica Sonrisa recomiendan nuestra pasta.» ¿Qué debilidad tiene esta técnica?",
+    "options": [
+     "No contiene ninguna cifra",
+     "Solo apela al humor",
+     "Usa una muestra poco clara e interesada, aunque suene a autoridad",
+     "Cita un poema famoso"
+    ],
+    "answer": 2,
+    "explanation": "Parece ethos y logos, pero no se dice cuántos dentistas hay ni quién hizo el estudio: un lector crítico duda.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "«Si no apoyas esta ley, no quieres a tu país.» ¿Qué problema tiene el argumento?",
+    "options": [
+     "Es demasiado objetivo",
+     "Presenta un falso dilema y chantajea emocionalmente",
+     "Usa demasiadas estadísticas",
+     "Está escrito en pasado"
+    ],
+    "answer": 1,
+    "explanation": "Solo ofrece dos opciones extremas e ignora que alguien puede querer a su país y discrepar de la ley.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "¿Cuál es la mejor frase analítica sobre las preguntas retóricas de un discurso?",
+    "options": [
+     "Las preguntas retóricas («¿Hasta cuándo esperaremos?») implican al público y contagian la indignación del orador",
+     "El autor usa preguntas retóricas",
+     "Las preguntas retóricas son muy bonitas",
+     "Hay cuatro preguntas en el segundo párrafo"
+    ],
+    "answer": 0,
+    "explanation": "Un buen análisis nombra el recurso, cita un ejemplo y explica su efecto sobre el lector.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Cartel: una anciana sola en una casa vacía y el texto «Su casa está vacía. Tú puedes llenarla de compañía.» ¿Qué técnicas se combinan?",
+    "options": [
+     "Pathos y apelación directa al lector («tú»)",
+     "Logos y lenguaje técnico",
+     "Ethos y cita de experto",
+     "Ironía y humor negro"
+    ],
+    "answer": 0,
+    "explanation": "La imagen y las frases cortas despiertan compasión, y el «tú» invita a actuar.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Para convencer a un público escéptico, ¿qué estrategia es más eficaz?",
+    "options": [
+     "Repetir la opinión con mayúsculas",
+     "Insultar a quienes piensan distinto",
+     "Usar solo exageraciones",
+     "Reconocer una objeción y responderla con datos verificables"
+    ],
+    "answer": 3,
+    "explanation": "Conceder el punto contrario y rebatirlo con pruebas aumenta la credibilidad (ethos) y la fuerza del argumento.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Un texto persuasivo no se limita a informar: quiere que el lector cambie de opinión o actúe. Aparece en anuncios, carteles de campañas, editoriales, cartas al director, discursos y reseñas. En el examen de Lengua y Literatura, tu tarea no es solo reconocer que un texto convence, sino explicar cómo lo consigue y con qué efecto.\n\n## Las tres apelaciones clásicas\n- **Ethos**: apela a la credibilidad de quien habla. Ejemplos: «Como médica con veinte años de experiencia…», una cita de un experto, un logotipo de una institución.\n- **Pathos**: apela a las emociones (compasión, miedo, orgullo, esperanza). Se logra con adjetivos emotivos, historias personales e imágenes conmovedoras.\n- **Logos**: apela a la razón mediante datos, porcentajes, ejemplos y razonamientos lógicos.\nMuchos textos combinan las tres. Pregúntate cuál predomina y por qué la eligió el autor para su público.\n\n## Recursos lingüísticos frecuentes\n- **Pregunta retórica**: no espera respuesta («¿Quién no quiere un barrio limpio?»). Sugiere que la respuesta es evidente.\n- **Regla de tres** (enumeración de tres elementos): «rápido, limpio y barato». Da ritmo y suena completa.\n- **Imperativo**: «Únete, participa, actúa». Se dirige al lector y lo empuja a la acción.\n- **Hipérbole**: exageración («el mejor del universo»). Llama la atención, pero no se puede comprobar.\n- **Plural inclusivo** («nosotros debemos»): crea comunidad y responsabilidad compartida.\n- **Antítesis o contraste**: «hoy gastas poco; mañana ahorrarás mucho».\n- **Repetición**: insiste en una idea para que se grabe.\n- **Urgencia**: «solo hoy», «últimas unidades». Evita que el lector lo piense demasiado.\n\n## Audiencia y propósito\nAntes de analizar, identifica el propósito (vender, concienciar, pedir apoyo) y la audiencia (adolescentes, familias, votantes). El vocabulario, el tono y las imágenes se adaptan a ese público. Un anuncio para jóvenes usará frases cortas, humor y registro cercano; una campaña de salud para adultos puede usar datos y un tono serio.\n\n## Argumentos débiles\nUn lector crítico también detecta trucos. Una **falacia** es un razonamiento engañoso, por ejemplo el falso dilema («si no apoyas esto, no quieres a tu país») o la generalización con una muestra poco clara («nueve de cada diez expertos» sin decir cuántos ni quiénes). Señalar estas debilidades demuestra pensamiento crítico.\n\n## Cómo se evalúa\nEn la evaluación en pantalla suele aparecer un anuncio, un cartel o un fragmento de discurso inventado, y preguntas del tipo «¿qué efecto tiene…?», «identifica la técnica» o «justifica por qué el texto es eficaz para su público». Se premia la respuesta que combina tres pasos: nombrar el recurso, citar una prueba breve y explicar el efecto.\n\n## Ejemplo de análisis\nTexto: «¿Hasta cuándo vamos a mirar hacia otro lado?». Recurso: pregunta retórica con plural inclusivo. Efecto: el orador no pregunta de verdad; hace sentir al público culpable y parte del problema, lo que prepara una llamada a actuar.\n\n## Errores frecuentes\n- Nombrar técnicas sin explicar su efecto («el autor usa una hipérbole»).\n- Decir que algo «queda bonito» en lugar de explicar su función.\n- Olvidar la audiencia.\n- Citar párrafos enteros en vez de palabras clave.\n\nExam tip: usa siempre la fórmula recurso + cita breve + efecto en el lector, y menciona la audiencia y el propósito al menos una vez en tu respuesta.",
+  "flashcards": [
+   {
+    "front": "Texto persuasivo",
+    "back": "Texto cuyo propósito es convencer al lector de una idea o llevarlo a actuar: anuncios, discursos, editoriales, campañas."
+   },
+   {
+    "front": "Ethos",
+    "back": "Apelación a la credibilidad del emisor: experiencia, prestigio, expertos citados."
+   },
+   {
+    "front": "Pathos",
+    "back": "Apelación a las emociones del lector: compasión, miedo, orgullo, esperanza."
+   },
+   {
+    "front": "Logos",
+    "back": "Apelación a la razón mediante datos, estadísticas, ejemplos y argumentos lógicos."
+   },
+   {
+    "front": "Pregunta retórica",
+    "back": "Pregunta que no espera respuesta porque la respuesta es obvia; implica al lector y refuerza una opinión."
+   },
+   {
+    "front": "Regla de tres",
+    "back": "Enumeración de tres elementos («rápido, limpio y barato») que da ritmo y sensación de totalidad."
+   },
+   {
+    "front": "Hipérbole en publicidad",
+    "back": "Exageración que destaca un producto («el mejor del universo») sin posibilidad de comprobación."
+   },
+   {
+    "front": "Falacia: falso dilema",
+    "back": "Argumento que solo ofrece dos opciones extremas: «O estás conmigo o estás contra mí»."
+   },
+   {
+    "front": "Fórmula de análisis",
+    "back": "Recurso + cita breve + efecto en el lector (y relación con propósito y audiencia)."
+   }
+  ]
+ },
+ {
+  "subject": "spanish-language-and-literature",
+  "grade": 5,
+  "topic": "Non-Fiction and Media",
+  "subTopic": "Articles and Speeches",
+  "questions": [
+   {
+    "content": "¿Qué función tiene el titular de una noticia?",
+    "options": [
+     "Resumir el hecho o atraer la atención del lector con pocas palabras",
+     "Contar toda la noticia con detalle",
+     "Citar al periodista",
+     "Firmar el texto"
+    ],
+    "answer": 0,
+    "explanation": "El titular es breve: informa del tema y despierta interés para que el lector siga leyendo.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "¿Qué preguntas suele responder la entradilla de una noticia?",
+    "options": [
+     "Solo cuántos años tiene el periodista",
+     "Qué opina el director del periódico",
+     "Cómo termina la historia inventada",
+     "Qué, quién, cuándo, dónde y por qué"
+    ],
+    "answer": 3,
+    "explanation": "La entradilla resume lo esencial: las famosas «cinco W» del periodismo.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "¿Cuál es la diferencia principal entre una noticia y un artículo de opinión?",
+    "options": [
+     "La noticia siempre es más larga",
+     "El artículo de opinión no tiene título",
+     "La noticia informa de forma objetiva; el artículo defiende un punto de vista",
+     "La noticia nunca usa citas"
+    ],
+    "answer": 2,
+    "explanation": "Ambos son no ficción, pero la noticia busca informar y el artículo de opinión argumentar.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "¿Para qué se escribe un discurso?",
+    "options": [
+     "Para ser leído solo en silencio",
+     "Para ser pronunciado ante un público",
+     "Para anotar datos en una tabla",
+     "Para traducir un poema"
+    ],
+    "answer": 1,
+    "explanation": "Un discurso piensa en la voz y el oído: usa repeticiones, ritmo y una relación directa con el público.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "En una noticia, ¿qué es una cita textual?",
+    "options": [
+     "Un resumen hecho por el periodista",
+     "Las palabras exactas de una persona, entre comillas",
+     "Una opinión sin autor",
+     "El titular de otra noticia"
+    ],
+    "answer": 1,
+    "explanation": "Las comillas indican que se reproduce literalmente lo que dijo alguien, lo que da credibilidad.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "¿Qué significa que una noticia sigue la «pirámide invertida»?",
+    "options": [
+     "Los datos más importantes aparecen al principio y los detalles después",
+     "Empieza con una anécdota y termina con la fecha",
+     "Solo contiene un párrafo",
+     "Los detalles van antes que los hechos"
+    ],
+    "answer": 0,
+    "explanation": "Así el lector se informa con rapidez aunque deje de leer, y el editor puede recortar el final.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "¿Cuál de estos titulares es más subjetivo?",
+    "options": [
+     "«Cuatrocientos alumnos limpian la playa de Marlinda»",
+     "«La playa de Marlinda acoge una jornada de limpieza»",
+     "«Un instituto organiza una limpieza en la costa»",
+     "«Los increíbles alumnos que salvaron por fin nuestra playa»"
+    ],
+    "answer": 3,
+    "explanation": "«Increíbles», «salvaron» y «por fin» son valoraciones. Los otros titulares solo informan.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "«El alcalde admitió que el presupuesto fue insuficiente.» ¿Qué sugiere el verbo «admitió»?",
+    "options": [
+     "Que celebra un éxito",
+     "Que no ha dicho nada",
+     "Que reconoce algo negativo, quizá a regañadientes",
+     "Que repite una pregunta"
+    ],
+    "answer": 2,
+    "explanation": "Los verbos de habla («admitió», «alegó», «denunció») revelan la actitud del periodista; «declaró» sería más neutro.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Un orador repite: «Quiero una escuela abierta. Quiero una escuela justa. Quiero una escuela de todos». ¿Qué recurso es?",
+    "options": [
+     "Onomatopeya",
+     "Hipérbaton",
+     "Anáfora (repetición al inicio de frases)",
+     "Símil"
+    ],
+    "answer": 2,
+    "explanation": "La anáfora da ritmo y énfasis, y es muy frecuente en discursos porque se recuerda al escucharla.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "¿Para qué sirve un saludo como «Queridos compañeros» al comienzo de un discurso?",
+    "options": [
+     "Presentar las conclusiones",
+     "Captar la atención y crear conexión con el público",
+     "Citar una fuente",
+     "Dar datos estadísticos"
+    ],
+    "answer": 1,
+    "explanation": "El saludo establece la relación entre orador y audiencia y fija el registro.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Una noticia dice: «Según fuentes del ayuntamiento…». ¿Qué debe plantearse un lector crítico?",
+    "options": [
+     "Si la fuente está identificada y es fiable",
+     "Si el periodista usa letra cursiva",
+     "Si la noticia tiene más de dos párrafos",
+     "Si hay mayúsculas en el titular"
+    ],
+    "answer": 0,
+    "explanation": "Las fuentes anónimas o vagas restan solidez. Citar quién, cómo y cuándo aumenta la credibilidad.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "«La biblioteca recibió 12 000 visitas el año pasado y es el mejor lugar del barrio.» ¿Qué parte es una opinión?",
+    "options": [
+     "«recibió 12 000 visitas»",
+     "«el año pasado»",
+     "«la biblioteca»",
+     "«es el mejor lugar del barrio»"
+    ],
+    "answer": 3,
+    "explanation": "El dato numérico y la fecha se pueden comprobar; «el mejor» es una valoración personal.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "¿Cuál es una estructura habitual de un discurso persuasivo?",
+    "options": [
+     "Resumen, anécdota y despedida sin conclusión",
+     "Solo una lista de datos",
+     "Diálogo entre dos personajes",
+     "Introducción que capta la atención, argumentos y llamada final a la acción"
+    ],
+    "answer": 3,
+    "explanation": "Un discurso eficaz abre con gancho, desarrolla razones y cierra con una petición clara.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Texto: «El ayuntamiento, que gastó dos millones en una plaza, recorta ahora la biblioteca.» ¿Qué revela la construcción de la frase?",
+    "options": [
+     "Es una noticia completamente neutral",
+     "Es un poema lírico",
+     "Aunque parece informar, el contraste sugiere una crítica al ayuntamiento",
+     "Es un diálogo teatral"
+    ],
+    "answer": 2,
+    "explanation": "La subordinada coloca el gasto junto al recorte y orienta al lector a juzgar: hay un sesgo implícito.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Titular: «El ayuntamiento “ahorra” cerrando la biblioteca». ¿Qué indican las comillas en «ahorra»?",
+    "options": [
+     "Que es una cita exacta del alcalde",
+     "Ironía o distancia crítica del periodista",
+     "Que la palabra está mal escrita",
+     "Que es un título de libro"
+    ],
+    "answer": 1,
+    "explanation": "Las comillas pueden marcar un uso irónico: el autor duda de que cerrar sea realmente ahorrar.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "«No les pido que cambien el mundo; les pido que cambien hoy un hábito.» ¿Qué efecto principal logra?",
+    "options": [
+     "Hace la petición más alcanzable al pasar de lo enorme a lo pequeño",
+     "Genera confusión sobre el tema",
+     "Presenta datos científicos",
+     "Aleja al público de la acción"
+    ],
+    "answer": 0,
+    "explanation": "El contraste entre «el mundo» y «un hábito» reduce el esfuerzo percibido y facilita que el público acepte actuar.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Un orador empieza con «yo» («Yo crecí en este barrio») y termina con «nosotros» («Juntos lo cambiaremos»). ¿Qué efecto tiene este cambio?",
+    "options": [
+     "Pasa de la experiencia personal a un compromiso colectivo",
+     "Muestra que el orador cambia de tema",
+     "Indica que el discurso es una carta",
+     "Revela que el orador se ha equivocado"
+    ],
+    "answer": 0,
+    "explanation": "La experiencia personal da credibilidad (ethos) y el «nosotros» final implica al público en la acción.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "«Es cierto que la medida cuesta dinero; sin embargo, el ahorro en salud será mayor.» ¿Qué función cumple la primera parte?",
+    "options": [
+     "Abandona la tesis del autor",
+     "Introduce una anécdota personal",
+     "Cambia de género textual",
+     "Concede un argumento contrario para refutarlo después y ganar credibilidad"
+    ],
+    "answer": 3,
+    "explanation": "La concesión seguida de refutación muestra equilibrio y fortalece la posición del autor.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Los artículos y los discursos son géneros de no ficción con propósitos distintos. Un artículo de prensa puede informar (noticia, reportaje) o argumentar (editorial, columna de opinión, carta al director). Un discurso está pensado para la voz: se escribe para ser escuchado por un público presente. En el examen verás extractos inventados de ambos géneros y tendrás que analizar su estructura, su lenguaje y su efecto.\n\n## La noticia\nUna noticia informa de un hecho reciente. Sus partes son:\n- **Titular**: breve, resume el tema y capta la atención.\n- **Entradilla**: primer párrafo que responde a qué, quién, cuándo, dónde y por qué.\n- **Cuerpo**: detalles, citas y contexto, ordenados de más a menos importante (**pirámide invertida**).\n- **Fuentes y citas textuales**: dan credibilidad. Un lector crítico se pregunta si las fuentes están identificadas.\nEl registro es formal y el lenguaje debería ser objetivo, aunque la selección de datos y los verbos de habla («declaró», «admitió», «denunció») pueden revelar una actitud.\n\n## El artículo de opinión y el editorial\nAquí el autor defiende una tesis. Suele presentar el tema, ofrecer argumentos con ejemplos y datos, **conceder** una objeción («es cierto que cuesta dinero…») y refutarla, y cerrar con una conclusión o propuesta. El lenguaje puede ser valorativo: adjetivos, ironía, preguntas retóricas. Distingue siempre **hecho** (se puede comprobar) y **opinión** (valoración personal).\n\n## El discurso\nUn discurso se organiza en:\n- **Introducción**: saludo («Queridos compañeros»), gancho (anécdota, pregunta, dato) y tesis.\n- **Desarrollo**: argumentos claros, ordenados y con ejemplos.\n- **Conclusión**: resumen y llamada a la acción.\nComo se escucha una sola vez, usa recursos de oralidad: **anáfora** (repetir el inicio de frases), tríadas, preguntas retóricas, frases cortas, segunda persona y plural inclusivo («nosotros»). El cambio de «yo» a «nosotros» suele marcar el paso de la experiencia personal al compromiso colectivo.\n\n## Sesgo y perspectiva\nNingún texto es completamente neutral. Fíjate en el orden de la información, en lo que se omite, en los adjetivos valorativos, en las comillas irónicas («el ayuntamiento “ahorra”») y en los verbos de habla. Compara cómo dos titulares sobre el mismo hecho orientan al lector de manera distinta.\n\n## Cómo se evalúa\nEn la prueba en pantalla es habitual encontrar un artículo o un fragmento de discurso inventado con preguntas como «identifica el propósito», «explica el efecto del titular» o «analiza cómo el autor construye su credibilidad». Se valora que cites palabras concretas y expliques su efecto, y que relaciones el género con la audiencia.\n\n## Ejemplo de análisis\nTexto: «No les pido que cambien el mundo; les pido que cambien hoy un hábito». Contraste entre «el mundo» y «un hábito». Efecto: la petición parece pequeña y realizable, y por eso el público se siente capaz de aceptarla.\n\n## Errores frecuentes\n- Confundir tema y propósito.\n- Hablar del género sin citar el texto.\n- Tratar toda opinión como si fuera un hecho.\n\nExam tip: antes de responder, identifica género, propósito y audiencia en una línea; después comenta recursos con la fórmula cita breve + efecto, y recuerda distinguir hecho y opinión.",
+  "flashcards": [
+   {
+    "front": "Titular",
+    "back": "Título breve de una noticia que resume el hecho o atrae la atención del lector."
+   },
+   {
+    "front": "Entradilla",
+    "back": "Primer párrafo de una noticia: responde a qué, quién, cuándo, dónde y por qué."
+   },
+   {
+    "front": "Pirámide invertida",
+    "back": "Estructura de la noticia: lo más importante al principio y los detalles después."
+   },
+   {
+    "front": "Hecho frente a opinión",
+    "back": "Un hecho se puede comprobar; una opinión es una valoración personal («el mejor»)."
+   },
+   {
+    "front": "Verbos de habla",
+    "back": "«Declaró», «admitió», «denunció»: según el verbo, el periodista revela su actitud hacia lo dicho."
+   },
+   {
+    "front": "Partes de un discurso",
+    "back": "Introducción (saludo, gancho, tesis), desarrollo (argumentos) y conclusión (llamada a la acción)."
+   },
+   {
+    "front": "Anáfora",
+    "back": "Repetición de palabras al inicio de frases sucesivas; da ritmo y énfasis, muy común en discursos."
+   },
+   {
+    "front": "Concesión y refutación",
+    "back": "Reconocer una objeción («es cierto que…») y responderla («sin embargo…») para ganar credibilidad."
+   },
+   {
+    "front": "Sesgo",
+    "back": "Orientación parcial de un texto mediante selección de datos, adjetivos valorativos, comillas irónicas u omisiones."
+   }
+  ]
+ },
+ {
+  "subject": "spanish-language-and-literature",
+  "grade": 5,
+  "topic": "Non-Fiction and Media",
+  "subTopic": "Visual and Multimodal Texts",
+  "questions": [
+   {
+    "content": "¿Qué es un texto multimodal?",
+    "options": [
+     "Un texto que combina varios modos, como palabras, imágenes, colores o sonido",
+     "Un texto escrito solo con palabras",
+     "Un texto escrito en varios idiomas",
+     "Un texto con muchas faltas de ortografía"
+    ],
+    "answer": 0,
+    "explanation": "Un cartel o un anuncio de vídeo son multimodales porque el significado nace de la combinación de varios modos.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "En un cartel, ¿qué es el «primer plano»?",
+    "options": [
+     "El fondo lejano",
+     "El pie de foto",
+     "El lema final",
+     "Lo que aparece más cerca del observador y destaca primero"
+    ],
+    "answer": 3,
+    "explanation": "El primer plano atrae la mirada; el fondo aporta contexto.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "¿Qué indica normalmente el color rojo en un cartel de advertencia?",
+    "options": [
+     "Calma y relajación",
+     "Naturaleza y ecología",
+     "Peligro o alerta",
+     "Lujo discreto"
+    ],
+    "answer": 2,
+    "explanation": "Los colores tienen asociaciones culturales; el rojo suele indicar peligro, urgencia o pasión.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "¿Qué es un lema (eslogan)?",
+    "options": [
+     "Un párrafo largo de datos",
+     "Una frase breve y fácil de recordar que resume el mensaje",
+     "La firma del fotógrafo",
+     "Una nota a pie de página"
+    ],
+    "answer": 1,
+    "explanation": "El lema condensa la idea principal de una campaña y suele usar rima, repetición o juego de palabras.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "¿Qué es el pie de foto?",
+    "options": [
+     "La fecha de impresión",
+     "El texto breve que acompaña y explica una imagen",
+     "El título de un libro",
+     "Un tipo de letra"
+    ],
+    "answer": 1,
+    "explanation": "El pie orienta la interpretación de la imagen y puede cambiar su sentido.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Una fotografía muestra a una niña pequeña desde arriba, mirando hacia lo alto. ¿Qué sensación crea ese ángulo?",
+    "options": [
+     "Vulnerabilidad o pequeñez",
+     "Poder y dominio",
+     "Alegría ruidosa",
+     "Velocidad"
+    ],
+    "answer": 0,
+    "explanation": "Un plano desde arriba (picado) hace que el sujeto parezca pequeño y frágil.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Un anuncio usa un plano contrapicado (desde abajo) de un deportista. ¿Qué efecto suele buscar?",
+    "options": [
+     "Hacerlo parecer débil",
+     "Ocultar su rostro",
+     "Indicar que es un dibujo",
+     "Hacerlo parecer fuerte, admirable o poderoso"
+    ],
+    "answer": 3,
+    "explanation": "Mirar hacia arriba al sujeto lo engrandece y aumenta su prestigio.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "En un cartel, el texto está en letras grandes y mayúsculas, con tipografía gruesa. ¿Qué transmite?",
+    "options": [
+     "Delicadeza y misterio",
+     "Duda",
+     "Fuerza, urgencia o importancia",
+     "Ironía suave"
+    ],
+    "answer": 2,
+    "explanation": "La tipografía forma parte del mensaje: el tamaño y el grosor señalan prioridad y tono.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Una campaña sobre el reciclaje usa fondo verde, hojas y letras redondeadas. ¿Qué mensaje transmite el conjunto?",
+    "options": [
+     "Una advertencia de peligro",
+     "Un tono violento",
+     "Un mensaje amable y ecológico",
+     "Un ambiente nocturno de misterio"
+    ],
+    "answer": 2,
+    "explanation": "El verde y las hojas se asocian con la naturaleza; las formas redondeadas suavizan el tono.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "En un cartel, la mirada de una persona apunta directamente a la cámara. ¿Qué efecto tiene?",
+    "options": [
+     "Muestra que el personaje está distraído",
+     "Interpela al espectador y crea conexión",
+     "Crea sensación de intimidad con el fondo",
+     "Hace que la imagen parezca antigua"
+    ],
+    "answer": 1,
+    "explanation": "El contacto visual directo («mirada de demanda») invita al espectador a implicarse.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "En un anuncio, el producto aparece en el centro y el resto de elementos lo rodean. ¿Qué función tiene la composición?",
+    "options": [
+     "Dirigir la atención hacia el producto",
+     "Ocultar el producto",
+     "Indicar un error de diseño",
+     "Reducir el impacto del mensaje"
+    ],
+    "answer": 0,
+    "explanation": "El centro y la simetría concentran la mirada en el elemento clave.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Un cartel contra el ruido muestra una ciudad en blanco y negro con un único globo rojo. ¿Qué efecto produce el color?",
+    "options": [
+     "Hace que todo parezca igual",
+     "Indica que el cartel es de otro país",
+     "Elimina el mensaje",
+     "Destaca el globo y le da valor simbólico"
+    ],
+    "answer": 3,
+    "explanation": "El contraste cromático dirige la mirada y sugiere que lo coloreado es lo importante.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Un cartel muestra un reloj de arena con arena casi agotada y el texto «Queda poco tiempo». ¿Cómo se relacionan imagen y texto?",
+    "options": [
+     "Se contradicen",
+     "No tienen relación",
+     "La imagen solo es decorativa",
+     "Se refuerzan: ambos transmiten urgencia"
+    ],
+    "answer": 3,
+    "explanation": "La imagen simboliza el paso del tiempo y el texto lo dice con palabras; juntos intensifican el mensaje.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Cartel de una campaña sobre alimentación saludable: foto de una manzana con la leyenda «Tu cuerpo te lo agradecerá». ¿A qué apelación recurre sobre todo?",
+    "options": [
+     "Logos con estadísticas",
+     "Ethos de un científico famoso",
+     "Pathos y beneficio personal, con apelación directa («tu»)",
+     "Humor negro"
+    ],
+    "answer": 2,
+    "explanation": "La imagen agradable y el «tu» personalizan el beneficio; no hay datos ni expertos.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Un anuncio tiene un pie de foto que dice: «Marta, 14 años, ahorró 200 euros en un año». La foto muestra a Marta sonriendo. ¿Qué logra el pie de foto?",
+    "options": [
+     "Contradice la imagen",
+     "Da credibilidad y cercanía con un caso concreto",
+     "Introduce un narrador omnisciente",
+     "Oculta la identidad de la protagonista"
+    ],
+    "answer": 1,
+    "explanation": "Un testimonio con datos concretos y una persona real o creíble ayuda a convencer.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Un cartel muestra a un grupo de jóvenes de espaldas, en fila, mirando un horizonte con sol naciente. ¿Qué lectura simbólica es más razonable?",
+    "options": [
+     "Esperanza y futuro compartido",
+     "Fracaso colectivo",
+     "Aburrimiento",
+     "Miedo al presente"
+    ],
+    "answer": 0,
+    "explanation": "Los personajes de espaldas, el horizonte y el amanecer se asocian con futuro y esperanza; el grupo sugiere unión.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Un estudiante escribe: «El cartel usa mucho color». ¿Cómo mejorar esta frase para el examen?",
+    "options": [
+     "Citar el color concreto y explicar su efecto en el mensaje y el público",
+     "Añadir otra frase igual",
+     "Escribir en mayúsculas",
+     "Copiar el lema del cartel completo"
+    ],
+    "answer": 0,
+    "explanation": "El análisis exige un detalle visual específico, su significado y su efecto sobre la audiencia.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Un anuncio pide ayuda para un refugio de animales. Muestra un perro gris, solo, en un plano picado, y un texto blanco sobre fondo negro: «No pide mucho. Solo a alguien». ¿Qué combinación de recursos construye el mensaje?",
+    "options": [
+     "Un tono humorístico y colores vivos",
+     "Datos estadísticos y un experto citado",
+     "Una narración en pasado con diálogos",
+     "Plano picado, colores apagados y frases cortas crean pathos y piden acción"
+    ],
+    "answer": 3,
+    "explanation": "El plano picado vuelve vulnerable al perro, los colores apagados refuerzan la tristeza y las frases breves son directas; todo apela a la compasión.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Hoy leemos mucho más que palabras: carteles, anuncios, portadas, infografías, memes o vídeos. Un texto multimodal combina varios modos de comunicar, como el lenguaje escrito, la imagen, el color, la tipografía, la composición y, en el caso del vídeo, el sonido. En el examen debes demostrar que sabes leer imágenes con la misma atención con la que lees un párrafo.\n\n## Elementos que se analizan\n- **Imagen**: qué se muestra, quién aparece, qué gestos y qué mirada tienen los personajes. Si el personaje mira a la cámara, interpela al espectador.\n- **Plano y ángulo**: un plano **picado** (desde arriba) hace que el sujeto parezca pequeño o vulnerable; un plano **contrapicado** (desde abajo) lo engrandece; un primer plano crea intimidad.\n- **Composición**: lo que está en el centro, en primer plano o en la parte superior llama primero la atención. El espacio vacío puede sugerir soledad.\n- **Color**: tiene asociaciones culturales. El rojo suele indicar peligro, urgencia o pasión; el verde, naturaleza o salud; el azul, calma o confianza; el negro, seriedad o misterio. Un color que destaca sobre un fondo gris suele tener valor simbólico.\n- **Tipografía**: las letras grandes, gruesas y en mayúsculas transmiten fuerza o urgencia; las finas y redondeadas, delicadeza o amabilidad.\n- **Texto verbal**: titular, lema, pie de foto, cuerpo de texto y logotipo. El **lema** o eslogan es breve y fácil de recordar. El **pie de foto** orienta la interpretación de la imagen.\n\n## Relación entre imagen y texto\nPregúntate cómo se relacionan. Pueden **reforzarse** (el reloj de arena y el texto «Queda poco tiempo»), **completarse** (la imagen muestra y el texto explica) o **contradecirse** (para crear ironía o humor). Nunca analices solo uno de los dos.\n\n## Propósito y audiencia\nIgual que en los textos escritos, identifica para qué se creó el mensaje (vender, informar, concienciar) y a quién se dirige. El nivel de lenguaje, los personajes y los colores se eligen para esa audiencia. Un cartel para adolescentes puede usar colores vivos, memes y registro coloquial; uno institucional, un tono más sobrio.\n\n## Cómo se evalúa\nLa evaluación en pantalla suele presentar una descripción de un cartel o anuncio inventado, a veces con texto y una breve descripción de la imagen, y preguntas como «explica cómo el diseño transmite urgencia» o «analiza la relación entre imagen y lema». Se valora que identifiques el recurso, aportes un detalle concreto y expliques su efecto.\n\n## Ejemplo de análisis\nDescripción: un perro gris, solo, visto desde arriba; texto blanco sobre fondo negro: «No pide mucho. Solo a alguien». Análisis: el plano picado hace vulnerable al perro, los colores apagados refuerzan la tristeza, y las frases cortas son directas. El conjunto apela a la compasión (pathos) y prepara la petición de adopción.\n\n## Errores frecuentes\n- Describir la imagen sin interpretarla.\n- Decir «es llamativo» sin explicar por qué.\n- Ignorar el texto o la tipografía.\n- Olvidar que el significado de un color depende del contexto cultural.\n\nExam tip: usa la secuencia detalle visual + significado + efecto en la audiencia, y comenta siempre cómo se relacionan imagen y texto.",
+  "flashcards": [
+   {
+    "front": "Texto multimodal",
+    "back": "Texto que combina varios modos de significado: palabras, imagen, color, tipografía, composición, sonido."
+   },
+   {
+    "front": "Plano picado",
+    "back": "Imagen tomada desde arriba; hace que el sujeto parezca pequeño, débil o vulnerable."
+   },
+   {
+    "front": "Plano contrapicado",
+    "back": "Imagen tomada desde abajo; engrandece al sujeto y lo muestra fuerte o admirable."
+   },
+   {
+    "front": "Mirada directa",
+    "back": "Cuando el personaje mira a la cámara, interpela al espectador y crea conexión."
+   },
+   {
+    "front": "Lema o eslogan",
+    "back": "Frase breve y memorable que resume el mensaje de una campaña."
+   },
+   {
+    "front": "Pie de foto",
+    "back": "Texto breve junto a una imagen que la explica y orienta su interpretación."
+   },
+   {
+    "front": "Simbolismo del color",
+    "back": "Rojo: peligro o urgencia; verde: naturaleza o salud; azul: calma; negro: seriedad. Depende de la cultura."
+   },
+   {
+    "front": "Imagen y texto",
+    "back": "Pueden reforzarse, completarse o contradecirse (ironía). Analiza siempre su relación."
+   },
+   {
+    "front": "Fórmula de análisis visual",
+    "back": "Detalle visual concreto + significado + efecto en la audiencia."
+   }
+  ]
+ }
+]

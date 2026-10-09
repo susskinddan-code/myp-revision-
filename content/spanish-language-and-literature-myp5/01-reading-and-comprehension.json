@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "spanish-language-and-literature",
+  "grade": 5,
+  "topic": "Reading and Comprehension",
+  "subTopic": "Literal and Inferential Understanding",
+  "questions": [
+   {
+    "content": "¿Qué es la comprensión literal de un texto?",
+    "options": [
+     "Adivinar los secretos del autor",
+     "Entender lo que el texto dice de forma explícita",
+     "Decidir si el texto es bonito",
+     "Resumir el texto en una sola palabra"
+    ],
+    "answer": 1,
+    "explanation": "La comprensión literal se centra en la información escrita claramente: quién, qué, dónde y cuándo.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "¿Qué es una inferencia?",
+    "options": [
+     "Una cita copiada palabra por palabra",
+     "Una falta de ortografía",
+     "El título de un capítulo",
+     "Una conclusión basada en pistas del texto y en lo que sabemos"
+    ],
+    "answer": 3,
+    "explanation": "Inferir es «leer entre líneas»: unimos las pistas del texto con nuestros conocimientos.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Extracto inventado: «Marta cerró el paraguas y sacudió las botas en el felpudo.» ¿Qué dato es literal?",
+    "options": [
+     "Marta cerró el paraguas",
+     "Llovió todo el día",
+     "Marta acababa de llegar a una casa ajena",
+     "Marta estaba cansada"
+    ],
+    "answer": 0,
+    "explanation": "El texto dice explícitamente que cerró el paraguas. Las demás opciones son suposiciones.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "¿Qué pregunta exige una respuesta literal?",
+    "options": [
+     "¿Por qué parece inquieto el narrador?",
+     "¿Qué siente probablemente el personaje?",
+     "¿Dónde ocurre la escena inicial?",
+     "¿Qué mensaje quiere transmitir la autora?"
+    ],
+    "answer": 2,
+    "explanation": "Para saber dónde ocurre la escena basta localizar un dato escrito. Las otras preguntas piden interpretar.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Cuando justificamos una inferencia, ¿qué debemos hacer?",
+    "options": [
+     "Dar solo nuestra opinión",
+     "Apoyarla en una palabra o frase del texto",
+     "Copiar el párrafo completo",
+     "Cambiar el sentido del texto"
+    ],
+    "answer": 1,
+    "explanation": "Una inferencia válida siempre se apoya en una prueba concreta, citada de forma breve.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Extracto inventado: «Samuel miraba el reloj cada medio minuto. Sus dedos tamborileaban sobre la mesa.» ¿Qué inferencia está mejor justificada?",
+    "options": [
+     "Samuel está enfadado con su vecino",
+     "Samuel se aburre en la biblioteca",
+     "Samuel acaba de ganar un premio",
+     "Samuel está impaciente o nervioso"
+    ],
+    "answer": 3,
+    "explanation": "Mirar el reloj sin parar y tamborilear son pistas de impaciencia o nervios. Nada indica enfado ni alegría.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extracto inventado: «El pueblo aún dormía cuando Inés cerró la puerta sin hacer ruido. Su maleta la esperaba en el camino.» ¿Qué se puede inferir?",
+    "options": [
+     "Inés se marcha con discreción, quizá a escondidas",
+     "Inés vuelve a casa tras un largo viaje",
+     "Inés se muda con toda su familia",
+     "Inés prepara un picnic"
+    ],
+    "answer": 0,
+    "explanation": "«Aún dormía», «sin hacer ruido» y la maleta lista sugieren una salida discreta. El texto no dice que regrese ni que vaya acompañada.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Una alumna escribe: «El personaje está triste porque llora.» ¿Cuál es el fallo principal de esta respuesta?",
+    "options": [
+     "Es demasiado larga",
+     "Usa el tiempo presente",
+     "Da por probada la causa del llanto sin citar el texto",
+     "Menciona al personaje"
+    ],
+    "answer": 2,
+    "explanation": "Se puede llorar de alegría, de dolor o de tristeza. Hay que buscar en el texto la causa real y citarla.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extracto inventado: «El autobús arrancó a las 8:05, con cinco minutos de retraso.» ¿Qué respuesta es literal?",
+    "options": [
+     "El conductor es irresponsable",
+     "El autobús salió a las 8:05",
+     "Los pasajeros están furiosos",
+     "El autobús perderá el transbordo"
+    ],
+    "answer": 1,
+    "explanation": "La hora de salida está escrita en el texto. Las demás respuestas son suposiciones no confirmadas.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "¿Por qué ayuda el contexto a entender una palabra desconocida?",
+    "options": [
+     "Porque el diccionario está prohibido",
+     "Porque toda palabra significa lo mismo en cualquier texto",
+     "Porque el título siempre la define",
+     "Porque las palabras cercanas ofrecen pistas sobre su significado"
+    ],
+    "answer": 3,
+    "explanation": "Las frases vecinas, el tema y el tono permiten deducir el sentido probable de una palabra.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extracto inventado: «Lucía guardó la carta sin abrirla y apagó la luz de golpe.» ¿Qué pregunta de comprensión es inferencial?",
+    "options": [
+     "¿Qué actitud tiene Lucía ante la carta?",
+     "¿Qué guardó Lucía?",
+     "¿Qué hizo Lucía con la luz?",
+     "¿Abrió Lucía la carta?"
+    ],
+    "answer": 0,
+    "explanation": "La actitud no se dice: se deduce de gestos como no abrir la carta y apagar la luz de golpe. Las otras preguntas se responden con datos explícitos.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Un texto dice: «Cuando por fin llegó la ambulancia, el parque ya estaba en silencio.» ¿Qué opción es una inferencia razonable?",
+    "options": [
+     "La ambulancia llegó antes que nadie",
+     "El parque estaba lleno de gente cantando",
+     "Hubo algún accidente o emergencia antes de llegar la ambulancia",
+     "La ambulancia llegó sin sirena"
+    ],
+    "answer": 2,
+    "explanation": "La presencia de una ambulancia y el silencio sugieren una emergencia. El resto contradice el texto o no aparece en él.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extracto inventado: «—No pasa nada —dijo Tomás, mientras apretaba tanto la taza que le temblaron los nudillos.» ¿Qué revela el gesto?",
+    "options": [
+     "Que Tomás tiene frío",
+     "Que sus palabras ocultan tensión o enfado",
+     "Que la taza está rota",
+     "Que Tomás está completamente relajado"
+    ],
+    "answer": 1,
+    "explanation": "El gesto contradice lo que dice: la tensión física muestra emociones que no verbaliza.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extracto inventado: «Desde que llegó la nueva vecina, el señor Ortega dejó de regar sus geranios y bajaba el volumen de la radio.» ¿Qué conclusión está más sólidamente apoyada?",
+    "options": [
+     "Ortega odia las plantas desde siempre",
+     "La vecina le ha prohibido tener radio",
+     "Ortega se ha mudado de casa",
+     "Su comportamiento ha cambiado desde la llegada de la vecina, quizá por respeto o incomodidad"
+    ],
+    "answer": 3,
+    "explanation": "El texto establece un cambio posterior a un hecho (la llegada). La causa exacta no se dice, por eso hay que formularla con prudencia.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Un alumno responde: «El narrador es cruel» a partir de la frase «Sonrió al ver caer a su rival». ¿Qué le falta para que la inferencia sea convincente?",
+    "options": [
+     "Explicar la conexión entre la frase citada y la crueldad, considerando otras lecturas",
+     "Añadir más adjetivos",
+     "Eliminar la cita",
+     "Escribir en pasado"
+    ],
+    "answer": 0,
+    "explanation": "Una inferencia sólida cita la prueba, explica el razonamiento y descarta alternativas (¿quizá sonrió por nervios?).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Extracto inventado: «En el mapa del pueblo, la escuela aparecía tachada con un rotulador rojo.» Una alumna dice: «La escuela cerró.» Otra: «Alguien tachó la escuela del mapa.» ¿Cuál es la lectura más segura y por qué?",
+    "options": [
+     "La primera, porque es más breve",
+     "La primera, porque todos los mapas tachados indican cierres",
+     "La segunda, porque describe lo que el texto afirma sin añadir causas",
+     "Ninguna, porque no se puede leer el texto"
+    ],
+    "answer": 2,
+    "explanation": "La segunda es literal. La primera es una inferencia posible, pero el texto no confirma el cierre.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Extracto inventado: «Leo guardó el trofeo en el fondo del armario, detrás de los abrigos, y cerró con llave.» Se pregunta por la actitud de Leo hacia su éxito. ¿Qué respuesta combina mejor pista y razonamiento?",
+    "options": [
+     "Está orgulloso, porque los trofeos se guardan siempre",
+     "Esconde el trofeo; quizá siente vergüenza o no quiere recordar cómo lo logró",
+     "Ha olvidado el trofeo, porque está en el armario",
+     "Quiere regalarlo, porque lo cierra con llave"
+    ],
+    "answer": 1,
+    "explanation": "Esconder y cerrar con llave sugiere que no desea exhibirlo, lo cual contradice el orgullo. La respuesta correcta formula una hipótesis apoyada en pistas.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "En un examen aparece: «Explica qué sugiere el autor sobre la relación entre los hermanos.» ¿Qué tipo de respuesta se espera?",
+    "options": [
+     "Literal, copiando el primer párrafo",
+     "Una opinión personal sin referencia al texto",
+     "Un resumen de la biografía del autor",
+     "Inferencial, con citas que respalden lo sugerido"
+    ],
+    "answer": 3,
+    "explanation": "El verbo «sugiere» indica que la información no es explícita: se debe inferir y probar con citas.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Lo esencial\nLeer no consiste solo en reconocer palabras: consiste en entender lo que el texto dice y también lo que deja entrever. En Lengua y Literatura se evalúan dos niveles de comprensión: la **comprensión literal** y la **comprensión inferencial**. Los exámenes suelen combinarlos en una misma pregunta, por eso conviene dominar ambos.\n\n## Comprensión literal\nSe refiere a la información que está escrita de forma explícita: personajes, lugares, momentos, acciones y datos. La respuesta se encuentra directamente en el texto, a veces en una sola frase. Para responder basta con localizar, copiar con precisión o reformular con tus palabras.\n- **¿Quién?** Los personajes y el narrador.\n- **¿Dónde y cuándo?** Las referencias de lugar y tiempo.\n- **¿Qué?** Los hechos, en su orden.\n- **¿Cómo?** La manera de actuar y las descripciones.\nEjemplo inventado: en «Marta cerró el paraguas», el dato literal es que Marta cerró el paraguas. El texto no dice que llueva, aunque podamos sospecharlo.\n\n## Comprensión inferencial\nInferir es sacar una conclusión a partir de pistas. El autor no lo dice todo: deja huecos que el lector completa. Para inferir combinamos tres elementos: una **pista** del texto, un **conocimiento** del mundo o del contexto y un **razonamiento** que los une.\nEjemplo: «Samuel miraba el reloj cada medio minuto.» Pista: mira el reloj sin parar. Conocimiento: la gente mira la hora cuando espera o está nerviosa. Conclusión: Samuel está impaciente. Fíjate en que se escribe «probablemente», «parece» o «sugiere», porque una inferencia es una interpretación razonable, no un hecho seguro.\n\n## Cómo justificar una inferencia\nUna buena respuesta sigue la secuencia **afirmación, prueba y explicación**:\n- Afirmación: «Samuel está impaciente.»\n- Prueba: «mirar el reloj cada medio minuto» y «tamborilear sobre la mesa».\n- Explicación: estas acciones repetidas muestran que desea que el tiempo pase más rápido.\nLas citas deben ser breves, exactas y entrecomilladas. Copiar un párrafo entero no demuestra comprensión.\n\n## Errores frecuentes\n- **Confundir lo explícito con lo inferido.** Decir «llueve» porque alguien tiene un paraguas es suponer, no leer literalmente.\n- **Inventar causas.** «Llora, por tanto está triste» ignora que se puede llorar de alegría. Busca la causa en el texto.\n- **Responder sin citar.** Una opinión sin prueba no obtiene buenos niveles en los criterios.\n- **Dejarse llevar por la intuición.** Si una pista contradice tu idea, revisa la idea, no el texto.\n- **Olvidar el contexto.** Una misma palabra cambia de sentido según la época, el narrador y la situación.\n\n## Palabras desconocidas\nNo te detengas ante un vocabulario difícil. Fíjate en las palabras cercanas, en el tono y en la estructura de la palabra (prefijos, sufijos, familia de palabras). Por ejemplo, en «el sendero era angosto, apenas cabía una persona», el contexto muestra que «angosto» significa estrecho.\n\n## Cómo se evalúa\nEn la evaluación en pantalla suele aparecer un extracto breve, original, seguido de preguntas de distinto nivel. Primero se pide localizar un dato; después, explicar qué sugiere un gesto o una palabra; por último, justificar una interpretación con varias pruebas. Los verbos de mandato importan: «indica» y «localiza» piden respuestas literales; «explica qué sugiere», «deduce» o «justifica» exigen inferencia con pruebas.\n\nExam tip: antes de responder, subraya el verbo de mandato y decide si la información está dicha o sugerida; si está sugerida, cita la pista y explica tu razonamiento con «porque» o «lo que indica que».",
+  "flashcards": [
+   {
+    "front": "Comprensión literal",
+    "back": "Entender la información escrita de forma explícita: quién, qué, dónde y cuándo. La respuesta se localiza directamente en el texto."
+   },
+   {
+    "front": "Inferencia",
+    "back": "Conclusión que sacamos de pistas del texto y de nuestros conocimientos sobre lo que no se dice directamente. Es «leer entre líneas»."
+   },
+   {
+    "front": "Fórmula para justificar una inferencia",
+    "back": "Afirmación + prueba (cita breve y exacta) + explicación del razonamiento. Sin cita no hay justificación sólida."
+   },
+   {
+    "front": "¿Qué verbos de mandato piden respuesta literal?",
+    "back": "«Indica», «localiza», «identifica» o «menciona». Piden un dato escrito en el texto, sin interpretación."
+   },
+   {
+    "front": "¿Qué verbos de mandato piden inferencia?",
+    "back": "«Deduce», «explica qué sugiere», «justifica» o «qué revela». Exigen interpretar y apoyarse en citas."
+   },
+   {
+    "front": "Error típico al inferir",
+    "back": "Dar una causa como cierta sin prueba, por ejemplo: «llora, luego está triste». Hay que buscar evidencias y usar «probablemente»."
+   },
+   {
+    "front": "Cómo entender una palabra desconocida",
+    "back": "Usar el contexto: palabras cercanas, tono y estructura de la palabra (prefijos, sufijos, familia léxica)."
+   },
+   {
+    "front": "Pista textual",
+    "back": "Palabra, gesto o detalle del texto que sirve de base a una inferencia, como «tamborileaban los dedos» para mostrar nervios."
+   },
+   {
+    "front": "Lenguaje de probabilidad",
+    "back": "Expresiones como «parece», «sugiere», «probablemente» o «da a entender» muestran que la inferencia es una interpretación razonable."
+   }
+  ]
+ },
+ {
+  "subject": "spanish-language-and-literature",
+  "grade": 5,
+  "topic": "Reading and Comprehension",
+  "subTopic": "Purpose and Audience",
+  "questions": [
+   {
+    "content": "¿Qué es el propósito de un texto?",
+    "options": [
+     "El número de párrafos que tiene",
+     "El lugar donde se publicó",
+     "El color de la portada",
+     "La razón por la que el autor lo escribe"
+    ],
+    "answer": 3,
+    "explanation": "El propósito es lo que el autor quiere lograr: informar, persuadir, entretener, instruir o expresar sentimientos.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "¿Qué es el público o destinatario de un texto?",
+    "options": [
+     "Las personas a quienes se dirige el texto",
+     "El autor del texto",
+     "El título",
+     "La editorial"
+    ],
+    "answer": 0,
+    "explanation": "El destinatario es el lector previsto, y condiciona el vocabulario, el tono y los ejemplos.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Un folleto dice: «¡Ven a la feria del libro! Entrada gratuita, sábado a las 10:00». ¿Cuál es su propósito principal?",
+    "options": [
+     "Narrar una historia de miedo",
+     "Expresar tristeza",
+     "Informar e invitar a un evento",
+     "Criticar una novela"
+    ],
+    "answer": 2,
+    "explanation": "El folleto da datos prácticos y anima a asistir: su finalidad es informar y convencer de manera sencilla.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "¿Cuál de estos textos tiene como propósito principal entretener?",
+    "options": [
+     "Un manual de instrucciones",
+     "Un cuento de aventuras",
+     "Una receta de cocina",
+     "Un aviso de seguridad"
+    ],
+    "answer": 1,
+    "explanation": "Los cuentos buscan entretener al lector mediante una historia. Los otros textos buscan instruir o avisar.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "¿Qué pista indica que un texto se dirige a niños pequeños?",
+    "options": [
+     "Términos técnicos y tecnicismos",
+     "Cifras estadísticas complejas",
+     "Citas legales extensas",
+     "Frases cortas, palabras sencillas y un tono cercano"
+    ],
+    "answer": 3,
+    "explanation": "El registro y el vocabulario se adaptan al público: con niños se usa un lenguaje simple y cercano.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Extracto inventado: «Si no cuidamos nuestros ríos, mañana no habrá agua para nuestros hijos. ¡Actúa hoy!». ¿Cuál es el propósito dominante?",
+    "options": [
+     "Persuadir al lector para que actúe",
+     "Describir un paisaje",
+     "Narrar una anécdota",
+     "Explicar un proceso técnico"
+    ],
+    "answer": 0,
+    "explanation": "La amenaza futura y el imperativo «actúa» buscan convencer y mover a la acción.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extracto inventado: «Primero, vierte la mezcla en el molde; después, hornea durante veinte minutos.» ¿Qué propósito y destinatario son más probables?",
+    "options": [
+     "Entretener a lectores de poesía",
+     "Criticar a un cocinero famoso",
+     "Instruir a cualquier persona que quiera cocinar",
+     "Persuadir a votar en unas elecciones"
+    ],
+    "answer": 2,
+    "explanation": "Los pasos ordenados y los verbos en imperativo señalan un texto instructivo dirigido a un público general.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Un mismo hecho —la apertura de una biblioteca— se cuenta en una noticia y en una publicación de una red social escolar. ¿Qué diferencia se espera?",
+    "options": [
+     "Ambas usan exactamente el mismo registro",
+     "La noticia usa registro más formal y neutral; la publicación, más informal y emocional",
+     "La noticia lleva emojis; la publicación, datos oficiales",
+     "La noticia no puede informar"
+    ],
+    "answer": 1,
+    "explanation": "El canal y el público determinan el registro: la prensa tiende a la formalidad, y las redes escolares a un tono cercano.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extracto inventado: «Estimado vecino: Le comunicamos que el corte de agua se realizará el martes, de 9:00 a 13:00.» ¿Qué rasgos muestran el destinatario?",
+    "options": [
+     "El tuteo cercano indica amistad",
+     "Los emoticonos indican público infantil",
+     "El lenguaje poético indica lectores de novela",
+     "El tratamiento de «usted» y el registro formal indican un público adulto y desconocido"
+    ],
+    "answer": 3,
+    "explanation": "«Estimado» y «le comunicamos» son fórmulas formales de comunicación con ciudadanos.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Un anuncio dice: «Más rápido, más barato, más tuyo». ¿Qué recurso sirve a su propósito?",
+    "options": [
+     "La repetición de «más» para persuadir y crear ritmo",
+     "Una explicación científica extensa",
+     "Una descripción detallada del paisaje",
+     "Una cita literaria antigua"
+    ],
+    "answer": 0,
+    "explanation": "El paralelismo y la repetición hacen el eslogan memorable, lo que ayuda a vender.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Una autora escribe para adolescentes sobre el sueño. ¿Qué elección sería más adecuada?",
+    "options": [
+     "Una terminología médica sin explicaciones",
+     "Un tono autoritario y distante",
+     "Ejemplos de la vida escolar y un tono cercano pero respetuoso",
+     "Una referencia exclusiva a la jubilación"
+    ],
+    "answer": 2,
+    "explanation": "Adaptar los ejemplos y el tono al público facilita la comprensión y la atención.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extracto inventado: «No fue un día cualquiera: aquel jueves, el viejo faro volvió a encenderse.» ¿Qué propósito sugiere el texto?",
+    "options": [
+     "Dar instrucciones de seguridad",
+     "Entretener y crear interés mediante la narración",
+     "Vender un producto",
+     "Pedir una donación"
+    ],
+    "answer": 1,
+    "explanation": "El tono narrativo y la expresión «no fue un día cualquiera» despiertan curiosidad, típica de la ficción.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Un artículo de opinión dice: «Es evidente que las pantallas perjudican el aprendizaje». ¿Qué debe notar el lector atento?",
+    "options": [
+     "Que el texto es neutral",
+     "Que no tiene destinatario",
+     "Que solo describe",
+     "Que se presenta como hecho una afirmación que necesita pruebas"
+    ],
+    "answer": 3,
+    "explanation": "«Es evidente» afirma con seguridad sin ofrecer datos: es una técnica persuasiva.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extracto inventado de un comunicado escolar: «Les rogamos que revisen con sus hijos el reglamento de uso del móvil; entre todos haremos un centro más tranquilo.» ¿Qué dos destinatarios identifica el texto?",
+    "options": [
+     "Las familias, como receptoras directas, y el alumnado, de forma indirecta",
+     "Solo los profesores",
+     "Solo los vecinos del barrio",
+     "El director y el inspector"
+    ],
+    "answer": 0,
+    "explanation": "«Les rogamos» se dirige a las familias, pero «con sus hijos» implica que el mensaje llega también al alumnado.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Dos textos sobre una excursión: el primero dice «El grupo salió a las 8:00 y regresó a las 17:00»; el segundo, «¡Qué maravilla de día! Nos reímos hasta que nos dolió la tripa». ¿Qué comparación es acertada?",
+    "options": [
+     "Ambos informan con el mismo tono",
+     "El primero busca emocionar; el segundo, dar un horario",
+     "El primero informa con datos; el segundo expresa emociones y busca complicidad",
+     "Ninguno tiene propósito"
+    ],
+    "answer": 2,
+    "explanation": "El primero es objetivo y concreto; el segundo emplea exclamaciones y lenguaje subjetivo.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Un texto publicitario para jóvenes usa vocabulario coloquial y un humor irónico. Un lector adulto lo considera «poco serio». ¿Qué conclusión sobre la relación entre propósito y público es correcta?",
+    "options": [
+     "Está mal escrito porque debería ser formal",
+     "Está bien adaptado: el estilo sirve para conectar con su público previsto",
+     "No tiene propósito",
+     "Su público es el juez de un tribunal"
+    ],
+    "answer": 1,
+    "explanation": "La eficacia se juzga según el destinatario previsto, no según el gusto de cualquier lector.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Extracto inventado: «Nuestros científicos han demostrado que este champú es el más eficaz.» ¿Qué análisis crítico es más completo?",
+    "options": [
+     "Es un hecho comprobado y no requiere análisis",
+     "Es una descripción literaria",
+     "Es una pregunta retórica",
+     "Se apoya en autoridad sin detallar datos, para persuadir; conviene preguntar cómo y con qué pruebas se demostró"
+    ],
+    "answer": 3,
+    "explanation": "El texto invoca la autoridad científica sin ofrecer datos: es una técnica persuasiva que el lector debe cuestionar.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Una alumna debe explicar «el propósito y el público de un cartel contra el acoso escolar». ¿Qué respuesta tiene mejor estructura?",
+    "options": [
+     "Propósito: concienciar y movilizar; público: alumnado y profesorado; prueba: uso de imperativos y la frase «No mires hacia otro lado»",
+     "El cartel es azul y tiene letras grandes",
+     "El propósito es entretener; el público, el director; sin pruebas",
+     "Simplemente: me gusta mucho"
+    ],
+    "answer": 0,
+    "explanation": "Una respuesta sólida identifica propósito y destinatario y los apoya con evidencias del texto.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Lo esencial\nNingún texto aparece porque sí. Cada uno se escribe con un **propósito** (lo que el autor quiere lograr) y para un **público** (las personas a las que se dirige). Entender ambas ideas es la base de la lectura crítica y aparece en casi todas las pruebas de Lengua y Literatura.\n\n## Los propósitos más frecuentes\n- **Informar:** dar datos de forma clara y objetiva, como en una noticia, un folleto o un informe.\n- **Persuadir:** convencer al lector de pensar o hacer algo, como en un anuncio, un discurso o un artículo de opinión.\n- **Entretener:** divertir o emocionar, como en un cuento, una novela, un cómic o un poema.\n- **Instruir:** enseñar a hacer algo, como en una receta o un manual.\n- **Expresar:** comunicar sentimientos o reflexiones, como en un diario personal o una carta íntima.\nUn texto puede tener varios propósitos. Un anuncio, por ejemplo, informa sobre un producto, pero su fin principal es persuadir. Siempre debes decidir cuál domina.\n\n## El público o destinatario\nEl público determina las decisiones del autor: el **registro** (formal o informal), el **vocabulario**, la **longitud** de las frases, los **ejemplos** y el **tono**. Para identificar al destinatario, busca pistas:\n- Tratamiento: el «tú» cercano, el «usted» formal o el «vosotros» y «ustedes» de grupo.\n- Vocabulario: sencillo, técnico, juvenil o especializado.\n- Referencias: temas que interesan a cierta edad o profesión.\n- Canal: periódico, red social, cartel, carta oficial.\nEjemplo inventado: «Estimado vecino: le comunicamos que el martes habrá un corte de agua» se dirige a adultos que no conocen al emisor; el «usted» y el verbo «comunicar» lo muestran.\n\n## Cómo se relacionan propósito y público\nCuando cambia el público, el mismo mensaje cambia de forma. Una campaña para reciclar dirigida a niños de seis años usa frases cortas, personajes simpáticos y el tuteo. La misma campaña para el ayuntamiento incluiría cifras, plazos y un registro formal. El propósito (concienciar) no cambia, pero las decisiones lingüísticas sí.\n\n## Cómo analizarlo en un examen\n1. Lee el texto entero y fíjate en el título, el formato y el canal.\n2. Pregúntate: «¿Qué quiere lograr el autor en el lector?»\n3. Busca pruebas de lenguaje: imperativos y exclamaciones para persuadir; datos y fechas para informar; verbos en pasado e imágenes para narrar.\n4. Escribe una respuesta con la estructura **afirmación, prueba, efecto**: «El propósito es persuadir; el imperativo “actúa hoy” urge al lector a participar.»\n\n## Errores frecuentes\n- **Describir en vez de analizar.** Contar de qué trata el texto no equivale a decir para qué se escribió.\n- **Elegir un propósito sin pruebas.** Toda afirmación necesita una cita.\n- **Ignorar el público.** Decir solo «es para todos» es débil; sé concreto: adolescentes, familias, vecinos, etc.\n- **Confundir tema y propósito.** El tema es «el agua»; el propósito puede ser «convencer de ahorrarla».\n\n## Cómo se evalúa\nEn la evaluación en pantalla se presentan dos o tres textos breves de géneros diferentes (un cartel, una carta, un artículo) y se pregunta qué propósito domina, a quién va dirigido y qué elecciones lo demuestran. Las preguntas finales piden comparar cómo un mismo tema se adapta a públicos distintos.\n\nExam tip: cuando te pidan el propósito, nómbralo con un verbo (informar, persuadir, entretener), cita una pista del texto y explica el efecto que produce en el destinatario.",
+  "flashcards": [
+   {
+    "front": "Propósito del texto",
+    "back": "La razón por la que se escribe: informar, persuadir, entretener, instruir o expresar. Se descubre preguntando qué quiere lograr el autor."
+   },
+   {
+    "front": "Público o destinatario",
+    "back": "El lector previsto. Condiciona el registro, el vocabulario, los ejemplos y el tono del texto."
+   },
+   {
+    "front": "Texto persuasivo: rasgos",
+    "back": "Imperativos, preguntas retóricas, exclamaciones, repeticiones y afirmaciones seguras que buscan convencer al lector."
+   },
+   {
+    "front": "Texto informativo: rasgos",
+    "back": "Datos, fechas, cifras, lenguaje objetivo y registro neutral; busca que el lector comprenda hechos."
+   },
+   {
+    "front": "Texto instructivo: rasgos",
+    "back": "Pasos ordenados, verbos en imperativo o infinitivo, conectores de secuencia y vocabulario preciso."
+   },
+   {
+    "front": "Pistas del destinatario",
+    "back": "Tratamiento (tú/usted), nivel de vocabulario, temas de interés y canal de publicación."
+   },
+   {
+    "front": "Tema frente a propósito",
+    "back": "El tema es de qué trata el texto; el propósito es para qué se escribe. Ejemplo: tema, el agua; propósito, concienciar."
+   },
+   {
+    "front": "Estructura de respuesta de análisis",
+    "back": "Afirmación + prueba textual + efecto sobre el lector. Ejemplo: «Persuade; el imperativo “actúa” urge a participar»."
+   },
+   {
+    "front": "Un texto con varios propósitos",
+    "back": "Puede informar y persuadir a la vez, como un anuncio. Hay que decidir cuál es el propósito dominante y justificarlo."
+   }
+  ]
+ },
+ {
+  "subject": "spanish-language-and-literature",
+  "grade": 5,
+  "topic": "Reading and Comprehension",
+  "subTopic": "Tone and Attitude",
+  "questions": [
+   {
+    "content": "¿Qué es el tono de un texto?",
+    "options": [
+     "La actitud o el sentimiento que transmite el autor",
+     "La rima de los versos",
+     "El número de páginas",
+     "El tipo de letra"
+    ],
+    "answer": 0,
+    "explanation": "El tono refleja cómo se siente el autor o cómo quiere que se sienta el lector: irónico, serio, esperanzado, etc.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "¿Qué tono transmite la frase «¡Qué alegría volver a verte después de tanto tiempo!»?",
+    "options": [
+     "Amenazante",
+     "Indiferente",
+     "Alegre y afectuoso",
+     "Resignado"
+    ],
+    "answer": 2,
+    "explanation": "La exclamación y la palabra «alegría» muestran entusiasmo.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "¿Qué tono tiene «Nada podía hacerse; el invierno había vencido otra vez»?",
+    "options": [
+     "Burlón",
+     "Resignado y sombrío",
+     "Entusiasta",
+     "Orgulloso"
+    ],
+    "answer": 1,
+    "explanation": "«Nada podía hacerse» expresa aceptación del fracaso, y «vencido» refuerza el ambiente triste.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "¿Qué es la ironía?",
+    "options": [
+     "Repetir una palabra tres veces",
+     "Describir un color",
+     "Resumir un texto",
+     "Decir lo contrario de lo que se piensa para criticar o burlarse"
+    ],
+    "answer": 3,
+    "explanation": "La ironía dice una cosa para dar a entender la contraria, a menudo con intención crítica.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "¿Cuál de estas palabras es de connotación positiva?",
+    "options": [
+     "Valiente",
+     "Temerario",
+     "Obstinado",
+     "Soberbio"
+    ],
+    "answer": 0,
+    "explanation": "Valiente suele connotar admiración; las otras tres suelen implicar defectos.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Extracto inventado: «Qué estupendo plan: tres horas de cola para ver una pared pintada.» ¿Qué tono domina?",
+    "options": [
+     "Entusiasta",
+     "Neutral y objetivo",
+     "Irónico",
+     "Nostálgico"
+    ],
+    "answer": 2,
+    "explanation": "«Qué estupendo plan» se dice con intención contraria, pues la situación descrita es molesta.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extracto inventado: «Recordaba el patio de su abuela, el olor a jazmín, las tardes interminables… y sentía un nudo en la garganta.» ¿Qué tono predomina?",
+    "options": [
+     "Furioso",
+     "Nostálgico",
+     "Humorístico",
+     "Científico"
+    ],
+    "answer": 1,
+    "explanation": "Los recuerdos agradables del pasado y el nudo en la garganta muestran añoranza.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "¿Qué efecto tiene el cambio de «dijo» a «espetó» en «—Cállate —espetó Luis»?",
+    "options": [
+     "Indica alegría",
+     "Transmite neutralidad total",
+     "Muestra timidez",
+     "Transmite brusquedad y enfado"
+    ],
+    "answer": 3,
+    "explanation": "El verbo «espetar» implica decir algo de manera brusca, por lo que cambia la actitud del hablante.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extracto inventado: «El alcalde, con su habitual modestia, inauguró la fuente que lleva su propio nombre.» ¿Qué actitud del narrador se percibe?",
+    "options": [
+     "Crítica irónica hacia el alcalde",
+     "Admiración sincera",
+     "Indiferencia",
+     "Compasión"
+    ],
+    "answer": 0,
+    "explanation": "«Habitual modestia» contrasta con poner su nombre a la fuente: el contraste revela ironía.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "¿Qué diferencia hay entre tono y estado de ánimo (ambiente)?",
+    "options": [
+     "Son exactamente lo mismo",
+     "El tono lo elige el lector",
+     "El tono es la actitud del autor; el ambiente es el sentimiento que el texto provoca en el lector",
+     "El ambiente solo existe en poesía"
+    ],
+    "answer": 2,
+    "explanation": "El tono viene del autor o narrador; el ambiente es la atmósfera emocional que se crea.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extracto inventado: «Los resultados fueron los esperados: setenta y dos inscripciones, doce bajas, un informe.» ¿Qué tono tiene?",
+    "options": [
+     "Apasionado",
+     "Neutral y objetivo",
+     "Burlón",
+     "Misterioso"
+    ],
+    "answer": 1,
+    "explanation": "Presenta datos sin adjetivos ni exclamaciones: es un tono neutro e informativo.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "¿Qué recurso aumenta más claramente el tono urgente de «Ahora. Ya. No mañana.»?",
+    "options": [
+     "Una descripción larga",
+     "Un vocabulario técnico",
+     "Una cita literaria",
+     "Frases muy breves y repetición del mismo sentido"
+    ],
+    "answer": 3,
+    "explanation": "Las frases cortas marcan un ritmo apremiante que refuerza la urgencia.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extracto inventado: «Aunque la lluvia arreciaba, Elena sonrió: tarde o temprano, el sol volvería.» ¿Qué actitud transmite?",
+    "options": [
+     "Optimismo",
+     "Desesperación",
+     "Burla",
+     "Indiferencia"
+    ],
+    "answer": 0,
+    "explanation": "La sonrisa y la confianza en el sol que volverá muestran esperanza.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extracto inventado: «Se marchó sin despedirse, como quien cierra una puerta que ya no volverá a abrir.» ¿Qué tono combina la comparación y el verbo «marchó»?",
+    "options": [
+     "Humorístico y ligero",
+     "Entusiasta y expectante",
+     "Melancólico y definitivo",
+     "Técnico y neutro"
+    ],
+    "answer": 2,
+    "explanation": "La comparación de la puerta cerrada para siempre añade finalidad y tristeza.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Extracto inventado: «Gracias, queridísima Marta, por recordarme tan amablemente que hoy no me tocaba fregar.» Si el contexto es una discusión, ¿qué tono y qué pista lo confirman?",
+    "options": [
+     "Sincero; el superlativo muestra cariño",
+     "Sarcástico; los superlativos y «tan amablemente» exageran la cortesía",
+     "Neutral; es una simple frase",
+     "Triste; hay una despedida"
+    ],
+    "answer": 1,
+    "explanation": "El exceso de cortesía en una discusión revela que el hablante dice lo contrario de lo que siente.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Dos reseñas del mismo restaurante: A «Un local honesto, sin pretensiones» y B «Un local mediocre y sin ambición». ¿Qué explica la diferencia?",
+    "options": [
+     "Describen locales distintos",
+     "La primera es objetiva y la segunda es poética",
+     "No hay diferencia de actitud",
+     "Las connotaciones: «honesto, sin pretensiones» es positivo; «mediocre, sin ambición» es negativo"
+    ],
+    "answer": 3,
+    "explanation": "Describen casi lo mismo, pero las palabras elegidas orientan la valoración.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Un narrador describe a un ladrón con la frase «aquel caballero de dedos ágiles». ¿Qué efecto produce el contraste?",
+    "options": [
+     "Un tono humorístico o irónico que suaviza y critica a la vez",
+     "Un tono solemne y reverente",
+     "Un tono puramente informativo",
+     "Un tono de terror"
+    ],
+    "answer": 0,
+    "explanation": "Llamar «caballero» a un ladrón crea ironía; la expresión «dedos ágiles» alude al robo.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Para analizar el tono en un examen, ¿qué respuesta es la más sólida?",
+    "options": [
+     "El tono es bueno",
+     "El tono es feliz porque sí",
+     "El tono es esperanzado: «el sol volvería» y la sonrisa de Elena contrastan con la lluvia y muestran confianza",
+     "El tono es como el de ayer"
+    ],
+    "answer": 2,
+    "explanation": "Una respuesta fuerte nombra el tono con precisión, cita el texto y explica el efecto.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Lo esencial\nEl **tono** es la actitud que el autor o el narrador muestra hacia el tema, hacia los personajes o hacia el lector. Puede ser alegre, irónico, grave, esperanzado, nostálgico, sarcástico o neutro. Se distingue del **ambiente** (también llamado atmósfera), que es el sentimiento que el texto provoca en quien lee. Muchas preguntas de examen piden identificar el tono y explicar con qué palabras se consigue.\n\n## Cómo se crea el tono\nEl tono no se declara: se construye con las decisiones del autor. Estas son las principales herramientas:\n- **Elección de palabras (léxico):** no es lo mismo «delgado» que «flaco», ni «decidido» que «terco». Cada término lleva una **connotación** positiva, negativa o neutra, además de su **denotación**, que es su significado literal.\n- **Verbos de habla:** «dijo», «susurró», «espetó» o «suplicó» cambian por completo la lectura de un diálogo.\n- **Estructura de las frases:** frases cortas dan urgencia o tensión; frases largas con enumeraciones dan calma, nostalgia o agobio.\n- **Puntuación:** exclamaciones, puntos suspensivos y preguntas retóricas añaden emoción.\n- **Recursos literarios:** comparaciones, metáforas e ironía matizan la actitud.\n\n## Algunos tonos y cómo reconocerlos\n- **Irónico o sarcástico:** se dice lo contrario de lo que se piensa. Pista: un elogio que choca con la realidad. Ejemplo: «Qué estupendo plan: tres horas de cola para ver una pared pintada.»\n- **Nostálgico:** añoranza del pasado, con recuerdos sensoriales y verbos en imperfecto.\n- **Optimista:** confianza en el futuro. Palabras como «esperanza», «pronto», «seguro».\n- **Sombrío o melancólico:** vocabulario de pérdida, oscuridad o final.\n- **Neutro u objetivo:** datos sin adjetivos valorativos, común en informes o noticias.\n- **Humorístico:** exageraciones, contrastes y juegos de palabras.\n\n## Un método en tres pasos\n1. **Subraya** las palabras con carga emocional (adjetivos, verbos, adverbios).\n2. **Nombra** el tono con un adjetivo preciso, no con «bueno» o «malo». «Esperanzado» es mejor que «positivo».\n3. **Explica** el efecto: «El adverbio “tan amablemente” exagera la cortesía y revela sarcasmo, porque el contexto es una discusión.»\nEjemplo inventado: «Se marchó sin despedirse, como quien cierra una puerta que ya no volverá a abrir.» El tono es melancólico y definitivo: la comparación sugiere un final sin vuelta atrás.\n\n## Cambios de tono\nUn texto puede empezar con humor y terminar con gravedad. Cuando notes un cambio, indícalo y explica qué lo provoca. Estos cambios suelen marcar un momento clave del relato o del argumento.\n\n## Errores frecuentes\n- **Confundir tono con tema.** El tema es de qué trata; el tono es cómo se trata.\n- **Usar etiquetas vagas.** «Triste» sirve, pero «resignado» o «desolado» son más precisos.\n- **Olvidar la prueba.** Sin cita no hay análisis.\n- **No distinguir autor y personaje.** Un personaje puede ser cruel mientras el narrador lo juzga con ironía.\n- **Pasar por alto la ironía.** Si el elogio no encaja con los hechos, sospecha.\n\n## Cómo se evalúa\nEn la evaluación en pantalla se muestra un extracto breve y se pregunta qué tono domina, qué palabras lo crean o cómo cambia entre el inicio y el final. Las respuestas con mejor nivel combinan un adjetivo exacto, una cita breve y una explicación del efecto en el lector.\n\nExam tip: nombra el tono con un adjetivo preciso, cita dos o tres palabras concretas que lo crean y explica qué sentimiento provocan en el lector.",
+  "flashcards": [
+   {
+    "front": "Tono",
+    "back": "La actitud del autor o narrador hacia el tema o el lector: alegre, irónico, nostálgico, neutro, etc. Se crea con el lenguaje."
+   },
+   {
+    "front": "Ambiente o atmósfera",
+    "back": "El sentimiento que el texto provoca en el lector. No es lo mismo que el tono, que es la actitud del autor."
+   },
+   {
+    "front": "Denotación y connotación",
+    "back": "Denotación: significado literal de una palabra. Connotación: valor emocional asociado (positivo, negativo o neutro)."
+   },
+   {
+    "front": "Ironía",
+    "back": "Decir lo contrario de lo que se piensa para criticar o burlarse. Pista: un elogio que choca con la situación descrita."
+   },
+   {
+    "front": "Sarcasmo",
+    "back": "Ironía cruel o mordaz, a menudo con exageración de cortesía, dicha para herir o ridiculizar."
+   },
+   {
+    "front": "Verbos de habla y tono",
+    "back": "«Susurró», «espetó» o «suplicó» revelan la actitud del hablante mucho más que «dijo»."
+   },
+   {
+    "front": "Tono nostálgico: pistas",
+    "back": "Recuerdos sensoriales, pasado en imperfecto y palabras de añoranza, como «aquellos años» o «ya no»."
+   },
+   {
+    "front": "Método para analizar el tono",
+    "back": "Subrayar palabras con carga emocional, nombrar un tono preciso y explicar su efecto con una cita breve."
+   },
+   {
+    "front": "Cambio de tono",
+    "back": "Cuando el texto pasa, por ejemplo, del humor a la gravedad. Hay que indicarlo y explicar qué lo provoca."
+   }
+  ]
+ }
+]

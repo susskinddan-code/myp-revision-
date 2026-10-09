@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "french-language-and-literature",
+  "grade": 5,
+  "topic": "Grammar and Accuracy",
+  "subTopic": "Verb Tenses and Moods",
+  "questions": [
+   {
+    "content": "Complète : « Hier, nous ____ au cinéma. » (aller, passé composé)",
+    "options": [
+     "avons allé",
+     "sommes allés",
+     "allons",
+     "irons"
+    ],
+    "answer": 1,
+    "explanation": "Le verbe « aller » se conjugue avec l'auxiliaire être au passé composé, et le participe s'accorde avec le sujet : nous sommes allés.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Quelle est la forme correcte de « finir » à l'imparfait, avec « je » ?",
+    "options": [
+     "je finis",
+     "je finissais",
+     "je finirai",
+     "je finisse"
+    ],
+    "answer": 1,
+    "explanation": "L'imparfait de « finir » se forme sur le radical « finiss- » : je finissais.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Quel mode sert à exprimer un ordre ou un conseil direct ?",
+    "options": [
+     "Le subjonctif",
+     "Le conditionnel",
+     "L'impératif",
+     "L'infinitif passé"
+    ],
+    "answer": 2,
+    "explanation": "L'impératif s'emploie pour ordonner, conseiller, inviter : « Écoute ! »",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Quel est le futur simple de « faire » avec « tu » ?",
+    "options": [
+     "tu fais",
+     "tu feras",
+     "tu faisais",
+     "tu ferais"
+    ],
+    "answer": 1,
+    "explanation": "Le futur simple de « faire » est irrégulier : je ferai, tu feras. « Tu ferais » est le conditionnel.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Quel auxiliaire utilise-t-on avec « aller » au passé composé ?",
+    "options": [
+     "Avoir",
+     "Être",
+     "Aucun",
+     "Pouvoir"
+    ],
+    "answer": 1,
+    "explanation": "« Aller » fait partie des verbes de mouvement conjugués avec être : elle est allée.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Complète : « Il faut que tu ____ à l'heure. » (venir)",
+    "options": [
+     "viens",
+     "viennes",
+     "viendras",
+     "venais"
+    ],
+    "answer": 1,
+    "explanation": "« Il faut que » exige le subjonctif présent : que tu viennes.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Complète : « Si j'avais le temps, je ____ plus. » (lire)",
+    "options": [
+     "lirai",
+     "lirais",
+     "lis",
+     "lisais"
+    ],
+    "answer": 1,
+    "explanation": "Après « si » + imparfait, on emploie le conditionnel présent : je lirais.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Complète : « Les lettres que j'ai ____ sont parties hier. » (écrire)",
+    "options": [
+     "écrit",
+     "écrites",
+     "écrire",
+     "écrits"
+    ],
+    "answer": 1,
+    "explanation": "Avec avoir, le participe s'accorde avec le COD placé avant le verbe : « les lettres » (féminin pluriel), donc écrites.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Quel est le passé simple de « prendre » à la 3e personne du singulier ?",
+    "options": [
+     "il prend",
+     "il prenait",
+     "il prit",
+     "il prendra"
+    ],
+    "answer": 2,
+    "explanation": "« Il prit la clé » : le passé simple exprime une action ponctuelle dans un récit.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Complète : « Il ____ quand je suis sorti. » (pleuvoir)",
+    "options": [
+     "pleuvait",
+     "pleuvra",
+     "pleut",
+     "plut"
+    ],
+    "answer": 0,
+    "explanation": "L'imparfait décrit une situation en cours quand une autre action ponctuelle (passé composé) se produit.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Quelle valeur a le plus-que-parfait dans « Elle avait fini avant mon arrivée » ?",
+    "options": [
+     "Une action antérieure à une autre action passée",
+     "Une action future",
+     "Un ordre",
+     "Une hypothèse"
+    ],
+    "answer": 0,
+    "explanation": "Le plus-que-parfait exprime l'antériorité par rapport à un moment du passé.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Complète : « Bien que tu ____ fatigué, viens avec nous. » (être)",
+    "options": [
+     "es",
+     "sois",
+     "seras",
+     "étais"
+    ],
+    "answer": 1,
+    "explanation": "La conjonction « bien que » est suivie du subjonctif : que tu sois.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Quel est l'impératif présent de « aller » à la 2e personne du singulier ?",
+    "options": [
+     "Allez",
+     "Vas",
+     "Va",
+     "Aille"
+    ],
+    "answer": 2,
+    "explanation": "L'impératif de « aller » est « va » (sans s), sauf devant « y » : vas-y.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Complète : « Si elle ____ , elle serait venue. » (savoir)",
+    "options": [
+     "savait",
+     "avait su",
+     "saura",
+     "sait"
+    ],
+    "answer": 1,
+    "explanation": "Hypothèse irréalisable dans le passé : si + plus-que-parfait, puis conditionnel passé. Elle avait su → elle serait venue.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Choisis la forme correcte : « Elles se sont ____ les mains. » (laver)",
+    "options": [
+     "lavées",
+     "lavés",
+     "lavé",
+     "laver"
+    ],
+    "answer": 2,
+    "explanation": "Avec un verbe pronominal, le participe s'accorde avec le COD placé avant. Ici le COD « les mains » est placé après : lavé reste invariable.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Quelle phrase est correcte ?",
+    "options": [
+     "Je veux que tu viens demain.",
+     "Je veux que tu viennes demain.",
+     "Je veux que tu viendras demain.",
+     "Je veux que tu venais demain."
+    ],
+    "answer": 1,
+    "explanation": "« Vouloir que » est suivi du subjonctif : que tu viennes.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Complète : « Pendant qu'elle ____ , le téléphone ____ . » (lire, sonner)",
+    "options": [
+     "lisait ... sonna",
+     "lut ... sonnait",
+     "lisait ... sonnait",
+     "lit ... sonna"
+    ],
+    "answer": 0,
+    "explanation": "L'imparfait décrit l'action en cours (elle lisait), le passé simple l'événement soudain qui l'interrompt (le téléphone sonna).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Quelle phrase emploie correctement le mode après une expression de certitude ?",
+    "options": [
+     "Je suis sûr qu'il viendra.",
+     "Je suis sûr qu'il vienne.",
+     "Je suis sûr qu'il venait venir.",
+     "Je suis sûr qu'il viennent."
+    ],
+    "answer": 0,
+    "explanation": "Après une expression de certitude, on utilise l'indicatif. Avec le doute (« Je doute qu'il vienne »), on utilise le subjonctif.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## L'essentiel\nLes verbes sont la colonne vertébrale de la phrase. Choisir le bon temps (quand ?) et le bon mode (avec quelle attitude ?) est indispensable pour que ton texte soit compris et jugé précis. À l'examen, une grande partie des erreurs de langue viennent des conjugaisons et des accords.\n\n## Les principaux temps de l'indicatif\n- **Présent** : action actuelle, vérité générale, parfois récit vivant.\n- **Passé composé** : action terminée, très courante (avoir ou être + participe passé).\n- **Imparfait** : décor, habitude, action qui dure (« Il pleuvait »).\n- **Passé simple** : actions ponctuelles du récit écrit (« Il prit la clé »).\n- **Plus-que-parfait** : antériorité dans le passé (« Elle avait fini avant mon arrivée »).\n- **Futur simple** : action à venir (« tu feras »).\nDans un récit, associe l'imparfait pour l'arrière-plan et le passé simple ou le passé composé pour les actions : « Pendant qu'elle lisait, le téléphone sonna. »\n\n## Les modes\n- **Indicatif** : faits réels.\n- **Subjonctif** : souhait, doute, obligation, sentiment. On le trouve après « il faut que », « vouloir que », « bien que », « pour que », « avant que ». Exemple : « Il faut que tu viennes. »\n- **Conditionnel** : hypothèse, politesse, souhait. « Si j'avais le temps, je lirais plus. »\n- **Impératif** : ordre ou conseil (« Va ! »). Attention : « va » ne prend pas de s, sauf devant « y » (« vas-y »).\nAprès une expression de certitude (« je suis sûr que »), on emploie l'indicatif ; après un doute (« je doute que »), le subjonctif.\n\n## Les accords du participe passé\n- Avec **être**, le participe s'accorde avec le sujet : « Elles sont parties. »\n- Avec **avoir**, il s'accorde avec le COD placé avant : « Les lettres que j'ai écrites. » Si le COD est après, pas d'accord : « J'ai écrit des lettres. »\n- Verbes pronominaux : accord avec le COD placé avant. « Elles se sont lavé les mains » (COD après : invariable), mais « Elles se sont lavées » (le pronom « se » est COD).\n\n## La concordance des temps dans l'hypothèse\n- Si + présent, futur : « S'il pleut, nous resterons. »\n- Si + imparfait, conditionnel présent : « Si j'avais le temps, je lirais. »\n- Si + plus-que-parfait, conditionnel passé : « Si elle avait su, elle serait venue. »\nNe mets jamais un conditionnel après « si » de condition.\n\n## Erreurs fréquentes\n- Écrire « je veux que tu viens » au lieu de « tu viennes ».\n- Oublier l'accord du participe passé avec avoir.\n- Confondre imparfait et passé simple dans un récit.\n- Mélanger les temps sans raison dans un même paragraphe.\n\n## Comment c'est évalué\nÀ l'eAssessment, la précision de la langue est évaluée dans les productions écrites et parfois par des questions de grammaire en contexte (compléter une phrase, repérer l'erreur, choisir le bon temps). Les questions se situent dans des textes courts réalistes.\n\n## Méthode de contrôle\nQuand tu relis, repère tous les verbes, puis pose-toi trois questions : à quel temps suis-je ? Y a-t-il un mode imposé par une conjonction ? Le sujet est-il accordé avec le verbe et le participe ?\n\nExam tip: lors de la relecture, surligne mentalement chaque verbe conjugué et vérifie son sujet, son temps et son accord avant de passer à l'orthographe des autres mots.",
+  "flashcards": [
+   {
+    "front": "Passé composé",
+    "back": "Auxiliaire avoir ou être au présent + participe passé : action terminée (« nous sommes allés »)."
+   },
+   {
+    "front": "Imparfait / passé simple",
+    "back": "Imparfait : décor, habitude, durée. Passé simple : action ponctuelle du récit écrit."
+   },
+   {
+    "front": "Plus-que-parfait",
+    "back": "Auxiliaire à l'imparfait + participe passé : action antérieure à une autre action passée (« elle avait fini »)."
+   },
+   {
+    "front": "Subjonctif présent",
+    "back": "Après « il faut que », « vouloir que », « bien que », « pour que » : « Il faut que tu viennes »."
+   },
+   {
+    "front": "Hypothèse irréelle du passé",
+    "back": "Si + plus-que-parfait, conditionnel passé : « Si elle avait su, elle serait venue »."
+   },
+   {
+    "front": "Si + imparfait",
+    "back": "Conditionnel présent dans la principale : « Si j'avais le temps, je lirais ». Jamais de conditionnel après « si »."
+   },
+   {
+    "front": "Participe passé avec être",
+    "back": "S'accorde avec le sujet : « Elles sont parties »."
+   },
+   {
+    "front": "Participe passé avec avoir",
+    "back": "S'accorde avec le COD placé avant le verbe : « les lettres que j'ai écrites »."
+   },
+   {
+    "front": "Impératif de aller",
+    "back": "« Va » sans s à la 2e personne du singulier, mais « vas-y » devant le pronom y."
+   }
+  ]
+ },
+ {
+  "subject": "french-language-and-literature",
+  "grade": 5,
+  "topic": "Grammar and Accuracy",
+  "subTopic": "Sentence Structure and Punctuation",
+  "questions": [
+   {
+    "content": "Quelle conjonction est une conjonction de coordination ?",
+    "options": [
+     "Parce que",
+     "Donc",
+     "Lorsque",
+     "Bien que"
+    ],
+    "answer": 1,
+    "explanation": "Les conjonctions de coordination sont : mais, ou, et, donc, or, ni, car. Les autres introduisent des subordonnées.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Quels éléments forment une phrase minimale ?",
+    "options": [
+     "Un sujet et un verbe conjugué",
+     "Un adjectif seul",
+     "Un adverbe et un nom",
+     "Un titre"
+    ],
+    "answer": 0,
+    "explanation": "« Il dort. » est une phrase complète : sujet et verbe.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Quelle ponctuation termine une phrase interrogative ?",
+    "options": [
+     "Le point",
+     "Le point d'interrogation",
+     "Les deux-points",
+     "Le point-virgule"
+    ],
+    "answer": 1,
+    "explanation": "Une phrase interrogative se termine par un point d'interrogation.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Dans quels cas met-on une majuscule ?",
+    "options": [
+     "Au début d'une phrase et aux noms propres",
+     "À chaque nom commun",
+     "À chaque verbe",
+     "À chaque adjectif"
+    ],
+    "answer": 0,
+    "explanation": "On met une majuscule en début de phrase et aux noms propres : Paris, Marie, la Seine.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "À quoi sert la virgule dans une énumération ?",
+    "options": [
+     "À séparer les éléments de même nature",
+     "À terminer la phrase",
+     "À remplacer le point d'interrogation",
+     "À introduire une citation"
+    ],
+    "answer": 0,
+    "explanation": "« Elle achète des pommes, des poires et des raisins. » La virgule sépare les éléments sauf avant « et ».",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Complète : « Le livre ____ j'ai lu hier est passionnant. »",
+    "options": [
+     "que",
+     "qui",
+     "où",
+     "dont"
+    ],
+    "answer": 0,
+    "explanation": "« Que » est COD du verbe « ai lu » : j'ai lu le livre.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Complète : « C'est la ville ____ j'habite. »",
+    "options": [
+     "que",
+     "où",
+     "dont",
+     "quoi"
+    ],
+    "answer": 1,
+    "explanation": "« Où » est un pronom relatif de lieu.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Complète : « Le film ____ je te parle est sorti cette semaine. »",
+    "options": [
+     "que",
+     "qui",
+     "dont",
+     "où"
+    ],
+    "answer": 2,
+    "explanation": "On dit « parler de quelque chose » : le pronom relatif est « dont ».",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Dans « Quand il pleut, nous restons à l'intérieur », quelle est la proposition subordonnée ?",
+    "options": [
+     "Nous restons à l'intérieur",
+     "Quand il pleut",
+     "Il pleut nous",
+     "Restons"
+    ],
+    "answer": 1,
+    "explanation": "« Quand il pleut » dépend de la principale « nous restons à l'intérieur ».",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Quelle phrase est correctement ponctuée ?",
+    "options": [
+     "Demain matin, nous partirons.",
+     "Demain matin nous, partirons.",
+     "Demain, matin nous partirons.",
+     "Demain matin nous partirons,."
+    ],
+    "answer": 0,
+    "explanation": "Un complément circonstanciel placé en tête de phrase est souvent suivi d'une virgule.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Quel est l'usage principal des deux-points ?",
+    "options": [
+     "Introduire une énumération, une explication ou une citation",
+     "Terminer toutes les phrases",
+     "Remplacer la virgule dans une énumération",
+     "Marquer une question"
+    ],
+    "answer": 0,
+    "explanation": "« Il faut trois ingrédients : farine, œufs, lait. »",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Pourquoi « Parce que j'étais fatigué. » est-il une erreur lorsque la phrase est isolée ?",
+    "options": [
+     "C'est une subordonnée sans proposition principale : un fragment",
+     "Il manque une majuscule",
+     "Il y a trop de mots",
+     "Le verbe est au futur"
+    ],
+    "answer": 0,
+    "explanation": "Une subordonnée seule ne forme pas une phrase complète. Il faut la rattacher à une principale.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Quel est le rôle du point-virgule ?",
+    "options": [
+     "Séparer deux propositions indépendantes proches par le sens",
+     "Terminer un texte",
+     "Introduire une citation",
+     "Marquer l'exclamation"
+    ],
+    "answer": 0,
+    "explanation": "« Il fait nuit ; la ville s'endort. » Le point-virgule marque un lien plus fort qu'un point.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Quelle phrase est correctement construite ?",
+    "options": [
+     "Bien qu'il soit tard, nous continuons à travailler.",
+     "Bien qu'il est tard, nous continuons à travailler.",
+     "Bien qu'il soit tard nous continuons, travailler à.",
+     "Bien tard qu'il soit, nous travailler."
+    ],
+    "answer": 0,
+    "explanation": "« Bien que » entraîne le subjonctif : qu'il soit. L'ordre des mots reste logique.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Quelle phrase évite l'ambiguïté du sujet ?",
+    "options": [
+     "En arrivant, la porte était fermée.",
+     "Quand nous sommes arrivés, la porte était fermée.",
+     "En arrivant, fermée la porte.",
+     "Arrivant, porte fermée."
+    ],
+    "answer": 1,
+    "explanation": "Dans la première phrase, « en arrivant » semble se rapporter à « la porte ». La subordonnée avec « nous » est claire.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Quelle phrase utilise correctement les virgules pour une apposition ?",
+    "options": [
+     "Mon frère, un passionné de théâtre, joue ce soir.",
+     "Mon frère un passionné, de théâtre joue ce soir.",
+     "Mon frère, un passionné de théâtre joue, ce soir.",
+     "Mon, frère un passionné de théâtre joue ce soir."
+    ],
+    "answer": 0,
+    "explanation": "L'apposition « un passionné de théâtre » est encadrée par deux virgules.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Comment fusionner « Il fait froid. Nous restons à la maison. » avec la bonne relation logique ?",
+    "options": [
+     "Comme il fait froid, nous restons à la maison.",
+     "Il fait froid parce que nous restons à la maison.",
+     "Nous restons à la maison bien qu'il fait froid.",
+     "Il fait froid ; mais restons nous."
+    ],
+    "answer": 0,
+    "explanation": "« Comme » exprime la cause dans le bon sens. La deuxième version inverse la cause et la conséquence.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Quel effet produit une succession de phrases très courtes dans un récit ?",
+    "options": [
+     "Un rythme rapide qui crée de la tension",
+     "Un ton lent et contemplatif",
+     "Un registre soutenu",
+     "Une description détaillée"
+    ],
+    "answer": 0,
+    "explanation": "« Il courut. Une porte. Fermée. » Les phrases courtes accélèrent le rythme et accentuent l'urgence.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## L'essentiel\nUne phrase bien construite et bien ponctuée se lit sans effort et dit exactement ce que tu veux dire. À l'examen, la précision de la langue dépend beaucoup de la structure des phrases : sujet et verbe clairs, liens logiques explicites, ponctuation maîtrisée.\n\n## Les types de phrase\n- **Déclarative** : elle affirme (point).\n- **Interrogative** : elle questionne (point d'interrogation).\n- **Impérative** : elle ordonne ou conseille (point ou point d'exclamation).\n- **Exclamative** : elle exprime une émotion (point d'exclamation).\nUne phrase minimale contient un sujet et un verbe conjugué : « Il dort. »\n\n## Phrase simple et phrase complexe\n- **Phrase simple** : un seul verbe conjugué.\n- **Phrase complexe** : plusieurs propositions, reliées par coordination, juxtaposition ou subordination.\nLes conjonctions de coordination sont : mais, ou, et, donc, or, ni, car. Les conjonctions de subordination (parce que, quand, bien que, comme, si) introduisent une proposition subordonnée qui dépend d'une principale. « Quand il pleut, nous restons à l'intérieur » : « Quand il pleut » est la subordonnée.\nUne subordonnée seule est un **fragment** : « Parce que j'étais fatigué. » Il faut une principale : « Je suis rentré tôt parce que j'étais fatigué. »\n\n## Les pronoms relatifs\n- **qui** : sujet (« L'élève qui parle »).\n- **que** : COD (« Le livre que j'ai lu »).\n- **où** : lieu ou temps (« La ville où j'habite »).\n- **dont** : complément introduit par « de » (« Le film dont je te parle »).\nChoisis-le d'après la fonction dans la proposition relative.\n\n## La ponctuation\n- **La virgule** sépare les éléments d'une énumération, isole un complément en tête de phrase (« Demain matin, nous partirons. »), encadre une apposition (« Mon frère, un passionné de théâtre, joue ce soir. »).\n- **Le point-virgule** relie deux propositions proches par le sens.\n- **Les deux-points** introduisent une énumération, une explication ou une citation.\n- **Les guillemets** encadrent une citation ou un dialogue.\n- **L'apostrophe** marque l'élision : l'homme, qu'il.\nEn français, on met une espace avant « ; : ! ? » et à l'intérieur des guillemets « comme ceci ».\n\n## Clarté et style\n- **Évite l'ambiguïté** : « En arrivant, la porte était fermée » semble dire que la porte arrive. Écris « Quand nous sommes arrivés, la porte était fermée ».\n- **Varie la longueur** : une succession de phrases courtes crée de la tension (« Il courut. Une porte. Fermée. »), alors que de longues phrases peuvent exprimer la réflexion.\n- **Utilise la bonne relation logique** : « Comme il fait froid, nous restons à la maison » exprime la cause dans le bon sens.\n\n## Comment c'est évalué\nDans les productions écrites, les critères évaluent la précision de la langue : phrases complètes, ponctuation, variété des structures. Dans les questions, on te demande de repérer une phrase mal construite ou de choisir la meilleure reformulation.\n\n## Erreurs fréquentes\n- Écrire des fragments.\n- Mettre une virgule entre le sujet et le verbe.\n- Confondre « qui », « que », « dont ».\n- Utiliser « bien que » avec l'indicatif.\n\nExam tip: pendant la relecture, lis ta phrase à voix basse : si tu as besoin de reprendre ton souffle au mauvais endroit, il manque probablement une virgule ou la phrase est trop longue.",
+  "flashcards": [
+   {
+    "front": "Conjonctions de coordination",
+    "back": "Mais, ou, et, donc, or, ni, car : elles relient des mots ou des propositions de même nature."
+   },
+   {
+    "front": "Proposition subordonnée",
+    "back": "Proposition qui dépend d'une principale et commence souvent par une conjonction (quand, parce que, bien que)."
+   },
+   {
+    "front": "Fragment de phrase",
+    "back": "Subordonnée isolée sans principale : « Parce que j'étais fatigué. » Il faut la rattacher à une principale."
+   },
+   {
+    "front": "Pronom relatif « qui »",
+    "back": "Sujet du verbe de la relative : « L'élève qui parle »."
+   },
+   {
+    "front": "Pronom relatif « que »",
+    "back": "COD du verbe de la relative : « Le livre que j'ai lu »."
+   },
+   {
+    "front": "Pronom relatif « dont »",
+    "back": "Remplace un complément introduit par « de » : « Le film dont je te parle »."
+   },
+   {
+    "front": "Point-virgule",
+    "back": "Relie deux propositions indépendantes proches par le sens : lien plus fort qu'un point."
+   },
+   {
+    "front": "Deux-points",
+    "back": "Introduisent une énumération, une explication ou une citation."
+   },
+   {
+    "front": "Phrases courtes en série",
+    "back": "Créent un rythme rapide et de la tension : « Il courut. Une porte. Fermée. »"
+   }
+  ]
+ },
+ {
+  "subject": "french-language-and-literature",
+  "grade": 5,
+  "topic": "Grammar and Accuracy",
+  "subTopic": "Spelling and Vocabulary",
+  "questions": [
+   {
+    "content": "Complète : « Il ____ un livre dans son sac. » (a / à)",
+    "options": [
+     "a",
+     "à",
+     "as",
+     "ah"
+    ],
+    "answer": 0,
+    "explanation": "« a » est le verbe avoir (on peut dire « avait »). « à » est une préposition.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Complète : « Elle va ____ Paris. » (a / à)",
+    "options": [
+     "a",
+     "à",
+     "as",
+     "ha"
+    ],
+    "answer": 1,
+    "explanation": "« à » est une préposition de lieu : on ne peut pas le remplacer par « avait ».",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Complète : « ____ chat est noir. »",
+    "options": [
+     "Ce",
+     "Se",
+     "Ceux",
+     "Sa"
+    ],
+    "answer": 0,
+    "explanation": "« Ce » est un déterminant démonstratif devant un nom masculin singulier.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Quel est le pluriel de « cheval » ?",
+    "options": [
+     "chevals",
+     "chevaux",
+     "chevales",
+     "chevaus"
+    ],
+    "answer": 1,
+    "explanation": "Beaucoup de noms en -al font leur pluriel en -aux : cheval, chevaux ; journal, journaux.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Le préfixe « in- » dans « inutile » exprime…",
+    "options": [
+     "la négation ou le contraire",
+     "la répétition",
+     "la taille",
+     "le lieu"
+    ],
+    "answer": 0,
+    "explanation": "« Inutile » signifie « pas utile ». Devant b, m, p, on écrit im- : impossible.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Complète : « Ils ____ partis tôt ce matin. » (sont / son)",
+    "options": [
+     "sont",
+     "son",
+     "ont",
+     "sons"
+    ],
+    "answer": 0,
+    "explanation": "« sont » est le verbe être (on peut dire « étaient »). « son » est un déterminant possessif.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Complète : « Elle ____ réveillée à six heures. » (s'est / c'est)",
+    "options": [
+     "c'est",
+     "s'est",
+     "ces",
+     "ses"
+    ],
+    "answer": 1,
+    "explanation": "« s'est » est le pronom « se » + être, devant un verbe pronominal : elle s'est réveillée.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Complète : « ____ habites-tu ? » (ou / où)",
+    "options": [
+     "Ou",
+     "Où",
+     "Ouh",
+     "Oû"
+    ],
+    "answer": 1,
+    "explanation": "« où » avec accent indique le lieu. « ou » sans accent signifie « ou bien ».",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Que signifie le faux ami « actuellement » ?",
+    "options": [
+     "À présent, en ce moment",
+     "En réalité",
+     "Autrefois",
+     "Parfois"
+    ],
+    "answer": 0,
+    "explanation": "« Actuellement » veut dire « à présent ». L'anglais « actually » se traduit plutôt par « en fait ».",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Que désigne le mot « librairie » ?",
+    "options": [
+     "Une bibliothèque",
+     "Un magasin où l'on achète des livres",
+     "Un lieu pour prêter des livres gratuitement",
+     "Un éditeur"
+    ],
+    "answer": 1,
+    "explanation": "« Librairie » est un commerce. L'anglais « library » se dit « bibliothèque ».",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Quel mot n'appartient PAS à la famille du mot « terre » ?",
+    "options": [
+     "terrain",
+     "atterrir",
+     "enterrer",
+     "terrible"
+    ],
+    "answer": 3,
+    "explanation": "« Terrible » vient du latin « terrere » (effrayer). Les autres mots dérivent de « terre ».",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Quel est l'adverbe formé à partir de « suffisant » ?",
+    "options": [
+     "suffisamment",
+     "suffisament",
+     "suffisantement",
+     "suffisemment"
+    ],
+    "answer": 0,
+    "explanation": "Les adjectifs en -ant font leur adverbe en -amment : suffisamment, constamment, brillamment.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Lequel de ces mots est familier pour désigner un livre ?",
+    "options": [
+     "ouvrage",
+     "volume",
+     "bouquin",
+     "recueil"
+    ],
+    "answer": 2,
+    "explanation": "« Bouquin » est du registre familier. « Ouvrage » appartient au registre soutenu.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Complète : « Je crois ____ est déjà partie. »",
+    "options": [
+     "qu'elle",
+     "quelle",
+     "qu'elles",
+     "quel"
+    ],
+    "answer": 0,
+    "explanation": "« qu'elle » = que + elle. « Quelle » est un déterminant interrogatif ou exclamatif.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Quel nom est dérivé du verbe « détruire » ?",
+    "options": [
+     "destruction",
+     "détruction",
+     "destrucsion",
+     "détrusion"
+    ],
+    "answer": 0,
+    "explanation": "Le nom est « destruction », issu du radical latin. Le suffixe -tion forme des noms d'action.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Quelle formulation est la plus précise et correcte ? « Il a fait un discours. »",
+    "options": [
+     "Il a prononcé un discours.",
+     "Il a mis un discours.",
+     "Il a dit un discours.",
+     "Il a pris un discours."
+    ],
+    "answer": 0,
+    "explanation": "« Prononcer un discours » est la collocation courante. Remplacer « faire » par un verbe précis améliore le style.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Quelle phrase ne contient aucune erreur d'orthographe ?",
+    "options": [
+     "Elles sont arrivées tôt, et leurs amies les ont accueillies.",
+     "Elles sont arrivé tôt, et leurs amies les ont accueillies.",
+     "Elles sont arrivées tôt, et leur amies les ont accueillis.",
+     "Elles sont arrivées tôt, et leurs amis les ont accueilli."
+    ],
+    "answer": 0,
+    "explanation": "Le participe « arrivées » s'accorde avec « elles ». « Accueillies » s'accorde avec le COD « les » (féminin pluriel) placé avant.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "« Nous pourrons éventuellement venir. » Que signifie « éventuellement » ?",
+    "options": [
+     "Finalement, à la fin",
+     "Peut-être, selon les circonstances",
+     "Immédiatement",
+     "Toujours"
+    ],
+    "answer": 1,
+    "explanation": "« Éventuellement » veut dire « si le cas se présente ». L'anglais « eventually » correspond plutôt à « finalement ».",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## L'essentiel\nUne orthographe soignée et un vocabulaire riche rendent un texte plus crédible et plus clair. À l'examen, les erreurs répétées de spelling ou de lexique abaissent la note de précision de la langue. La bonne nouvelle : la plupart des erreurs viennent de quelques familles de mots que l'on peut apprendre à contrôler.\n\n## Les homophones les plus fréquents\nTechnique de contrôle : remplace le mot par un autre pour tester.\n- **a / à** : « a » = verbe avoir (essaie « avait »). « Il a un livre » ; « Elle va à Paris ».\n- **et / est** : « est » = verbe être (essaie « était »).\n- **on / ont** : « ont » = avoir au pluriel (essaie « avaient »).\n- **son / sont** : « sont » = être (essaie « étaient »). « Ils sont partis. »\n- **ce / se** : « ce » est un déterminant ou pronom démonstratif (« ce chat ») ; « se » accompagne un verbe pronominal.\n- **c'est / s'est** : « s'est » = se + être (« elle s'est réveillée »).\n- **ou / où** : « où » indique le lieu ; « ou » = « ou bien ».\n- **qu'elle / quelle** : « qu'elle » = que + elle ; « quelle » est un déterminant (« quelle idée ! »).\n- **leur / leurs** : « leurs » prend un s si le nom qui suit est pluriel (« leurs amies »).\n\n## Les accords et les pluriels\nLe pluriel des noms n'est pas toujours en -s : cheval, chevaux ; journal, journaux ; travail, travaux. Les adjectifs et les participes s'accordent : « Elles sont arrivées. » N'oublie pas les terminaisons muettes, qui sont une source majeure d'erreurs.\n\n## Former des mots\n- **Préfixes** : in-/im-/il-/ir- (contraire : inutile, impossible), dé- (action inverse : défaire), re- (répétition : refaire).\n- **Suffixes** : -tion (nom d'action : destruction), -ment (adverbe : évidemment, suffisamment), -able (possibilité : lisible).\n- **Familles de mots** : terre, terrain, atterrir, enterrer. Le mot « terrible » n'en fait pas partie.\nLes adjectifs en -ant font l'adverbe en -amment (constamment, brillamment), ceux en -ent en -emment (évidemment).\n\n## Enrichir son vocabulaire\n- Remplace les verbes vagues (faire, mettre, dire, avoir) : « prononcer un discours », « formuler une hypothèse ».\n- Utilise des synonymes et des champs lexicaux pour éviter les répétitions.\n- Contrôle le **registre** : « bouquin » est familier, « livre » est courant, « ouvrage » est soutenu.\n\n## Les faux amis\n- **actuellement** = en ce moment (anglais « currently »), pas « actually ».\n- **librairie** = magasin de livres (anglais « bookshop »), pas « library ».\n- **éventuellement** = peut-être, selon les cas, pas « eventually ».\n\n## Comment c'est évalué\nLa précision de la langue est examinée dans tes écrits (richesse du vocabulaire, exactitude de l'orthographe) et parfois par de courtes questions en contexte : compléter une phrase, repérer l'erreur, choisir le mot adapté.\n\n## Erreurs fréquentes\n- Confondre les homophones (a/à, ou/où, ces/ses).\n- Oublier l'accord du participe ou du pluriel.\n- Utiliser un faux ami.\n- Répéter le même mot dans toute la copie.\n\nExam tip: garde une liste personnelle de tes cinq erreurs d'orthographe les plus fréquentes et vérifie-les systématiquement pendant la relecture.",
+  "flashcards": [
+   {
+    "front": "a / à",
+    "back": "« a » est le verbe avoir (remplaçable par « avait »). « à » est une préposition."
+   },
+   {
+    "front": "sont / son",
+    "back": "« sont » est le verbe être (remplaçable par « étaient »). « son » est un déterminant possessif."
+   },
+   {
+    "front": "s'est / c'est",
+    "back": "« s'est » = se + être devant un participe : elle s'est réveillée. « c'est » = cela est."
+   },
+   {
+    "front": "ou / où",
+    "back": "« où » (accent) indique le lieu ou le temps ; « ou » (sans accent) signifie « ou bien »."
+   },
+   {
+    "front": "qu'elle / quelle",
+    "back": "« qu'elle » = que + elle. « quelle » est un déterminant interrogatif ou exclamatif (« quelle idée ! »)."
+   },
+   {
+    "front": "Pluriel des noms en -al",
+    "back": "Souvent -aux : cheval, chevaux ; journal, journaux ; animal, animaux."
+   },
+   {
+    "front": "Adverbes en -amment / -emment",
+    "back": "Adjectifs en -ant donnent -amment (constamment) ; adjectifs en -ent donnent -emment (évidemment)."
+   },
+   {
+    "front": "Faux amis",
+    "back": "actuellement = à présent ; librairie = magasin de livres ; éventuellement = peut-être selon les cas."
+   },
+   {
+    "front": "Préfixes in- / dé- / re-",
+    "back": "in- : contraire (inutile) ; dé- : action inverse (défaire) ; re- : répétition (refaire)."
+   }
+  ]
+ }
+]

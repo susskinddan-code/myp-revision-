@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "french-language-and-literature",
+  "grade": 5,
+  "topic": "Reading and Comprehension",
+  "subTopic": "Literal and Inferential Understanding",
+  "questions": [
+   {
+    "content": "Qu'est-ce que la compréhension littérale d'un texte ?",
+    "options": [
+     "Comprendre ce qui est dit explicitement dans le texte",
+     "Deviner ce que l'auteur pense en secret",
+     "Juger si le texte est beau",
+     "Résumer le texte en un seul mot"
+    ],
+    "answer": 0,
+    "explanation": "La compréhension littérale porte sur les informations écrites noir sur blanc : qui, quoi, où, quand.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Qu'est-ce qu'une inférence ?",
+    "options": [
+     "Une citation exacte du texte",
+     "Une conclusion tirée d'indices du texte et de ses connaissances",
+     "Une faute d'orthographe",
+     "Le titre d'un chapitre"
+    ],
+    "answer": 1,
+    "explanation": "Inférer, c'est « lire entre les lignes » : on combine des indices du texte et ce que l'on sait pour comprendre ce qui n'est pas dit directement.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Extrait inventé : « Léa referma son parapluie et secoua ses bottes sur le paillasson. » Quelle information est littérale ?",
+    "options": [
+     "Léa vient d'arriver chez quelqu'un",
+     "Léa referme son parapluie",
+     "Il a plu toute la journée",
+     "Léa est fatiguée"
+    ],
+    "answer": 1,
+    "explanation": "Le texte dit explicitement que Léa referme son parapluie. Les autres propositions sont des déductions ou des suppositions.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Quelle question demande une réponse littérale ?",
+    "options": [
+     "Pourquoi le narrateur semble-t-il inquiet ?",
+     "Que ressent probablement le personnage ?",
+     "Où se passe la scène d'ouverture ?",
+     "Quel message l'auteur veut-il transmettre ?"
+    ],
+    "answer": 2,
+    "explanation": "« Où se passe la scène ? » se répond en repérant une information donnée dans le texte. Les autres exigent une interprétation.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Quand on justifie une inférence, que faut-il faire ?",
+    "options": [
+     "Donner son opinion sans preuve",
+     "Appuyer sa réponse sur un mot ou une phrase du texte",
+     "Recopier tout le paragraphe",
+     "Changer le sens du texte"
+    ],
+    "answer": 1,
+    "explanation": "Une inférence valable s'appuie toujours sur une preuve précise du texte, citée brièvement.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Extrait inventé : « Samir regardait l'horloge toutes les trente secondes. Ses doigts tambourinaient sur la table. » Quelle inférence est la mieux justifiée ?",
+    "options": [
+     "Samir est en colère contre son voisin",
+     "Samir s'ennuie profondément à la cantine",
+     "Samir est impatient ou nerveux",
+     "Samir vient de gagner un prix"
+    ],
+    "answer": 2,
+    "explanation": "Regarder l'horloge sans cesse et tambouriner sont des indices d'impatience ou de nervosité. Rien n'indique la colère ou la joie.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extrait inventé : « Le village dormait encore quand Inès referma la porte sans bruit. Sa valise l'attendait sur le chemin. » Que peut-on inférer ?",
+    "options": [
+     "Inès part discrètement, peut-être en cachette",
+     "Inès rentre chez elle après un long voyage",
+     "Inès déménage avec toute sa famille",
+     "Inès prépare un pique-nique"
+    ],
+    "answer": 0,
+    "explanation": "« Dormait encore », « sans bruit » et la valise prête suggèrent un départ discret. Le texte ne dit pas qu'elle rentre ni qu'elle est accompagnée.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Une élève écrit : « Le personnage est triste parce qu'il pleure. » Quel est le principal défaut de cette réponse ?",
+    "options": [
+     "Elle est trop longue",
+     "Elle ne cite aucun mot du texte",
+     "Elle confond l'émotion et la cause : la cause n'est pas prouvée",
+     "Elle utilise le présent"
+    ],
+    "answer": 2,
+    "explanation": "Pleurer peut venir de la joie, de la douleur ou de la tristesse. Il faut chercher dans le texte la cause réelle, avec une citation.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extrait inventé : « Il était 8 h 05 quand le car démarra, avec cinq minutes de retard. » Quelle réponse est littérale ?",
+    "options": [
+     "Le chauffeur est irresponsable",
+     "Les passagers sont furieux",
+     "Le car part à 8 h 05",
+     "Le car ratera sa correspondance"
+    ],
+    "answer": 2,
+    "explanation": "L'heure du départ est écrite dans le texte. Les autres réponses sont des suppositions non confirmées.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Pourquoi le contexte aide-t-il à comprendre un mot inconnu ?",
+    "options": [
+     "Parce que le dictionnaire est interdit",
+     "Parce que les mots voisins donnent des indices sur son sens",
+     "Parce que tous les mots ont le même sens",
+     "Parce que l'on peut ignorer le mot"
+    ],
+    "answer": 1,
+    "explanation": "Les mots et phrases autour d'un terme inconnu (synonymes, exemples, opposition) orientent vers son sens.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extrait inventé : « La cour était silencieuse. Même les pigeons avaient déserté le toit. » Que suggère cette phrase ?",
+    "options": [
+     "Une ambiance joyeuse",
+     "Une atmosphère pesante, vide ou inquiétante",
+     "Une fête de quartier",
+     "Un concours d'oiseaux"
+    ],
+    "answer": 1,
+    "explanation": "Le silence total et l'absence même des pigeons créent une impression de vide et de tension. C'est une inférence sur l'atmosphère.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Quelle structure de réponse correspond à une bonne réponse inférentielle ?",
+    "options": [
+     "Affirmation + citation + explication du lien",
+     "Citation seule, sans commentaire",
+     "Résumé de toute l'histoire",
+     "Opinion personnelle sans référence au texte"
+    ],
+    "answer": 0,
+    "explanation": "On avance une idée, on la prouve par une citation courte, puis on explique en quoi la citation la soutient (modèle de type PEE).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extrait inventé : « Madame Roux sourit en lisant la lettre, puis la glissa dans son tiroir, sous les factures. » Quelle question est inférentielle ?",
+    "options": [
+     "Où Madame Roux range-t-elle la lettre ?",
+     "Que fait Madame Roux en lisant ?",
+     "Pourquoi Madame Roux cache-t-elle peut-être la lettre ?",
+     "Quel objet lit-elle ?"
+    ],
+    "answer": 2,
+    "explanation": "Les trois autres questions ont une réponse écrite dans le texte. « Pourquoi la cache-t-elle ? » demande une hypothèse appuyée sur « sous les factures ».",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extrait inventé : « Quand le directeur annonça le nom du gagnant, Tom applaudit le premier, mais ses yeux restèrent fixés sur ses chaussures. » Quelle lecture est la plus nuancée ?",
+    "options": [
+     "Tom est sincèrement ravi pour le gagnant",
+     "Tom est indifférent à tout",
+     "Tom feint peut-être la joie : il applaudit mais évite les regards, ce qui trahit de la déception",
+     "Tom est sourd"
+    ],
+    "answer": 2,
+    "explanation": "Le contraste entre le geste (applaudir) et l'attitude (regard baissé) permet d'inférer une émotion cachée. Une bonne réponse relie les deux indices.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Extrait inventé : « — Tout va très bien, dit Hugo en rangeant pour la quatrième fois son sac. » Quel effet produit la répétition « pour la quatrième fois » ?",
+    "options": [
+     "Elle prouve que Hugo est ordonné et serein",
+     "Elle contredit ses paroles et révèle son anxiété",
+     "Elle sert uniquement à donner l'heure",
+     "Elle montre que le sac est trop petit"
+    ],
+    "answer": 1,
+    "explanation": "Le geste répété contredit l'affirmation « tout va très bien » : l'écart entre dire et faire révèle l'inquiétude du personnage.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Un élève répond : « Le narrateur déteste la ville. » Citation à l'appui : « Elle l'entourait de toutes parts, immense, indifférente. » Pourquoi cette inférence est-elle fragile ?",
+    "options": [
+     "Le mot « ville » n'est pas dans la citation",
+     "La citation montre l'impression d'écrasement et d'indifférence, pas forcément la haine",
+     "La citation est trop courte",
+     "Il ne faut jamais citer"
+    ],
+    "answer": 1,
+    "explanation": "« Immense, indifférente » exprime un sentiment d'écrasement ou de solitude. « Déteste » va plus loin que les indices : il faut des preuves proportionnées à la conclusion.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Extrait inventé : « Il y avait trois tasses sur la table, mais Claire n'en sortit que deux du placard. » Quelle inférence est la plus plausible ?",
+    "options": [
+     "Claire a oublié la troisième tasse",
+     "Quelqu'un manque ou n'est plus attendu, ce que Claire sait peut-être déjà",
+     "Claire déteste le thé",
+     "Les tasses sont cassées"
+    ],
+    "answer": 1,
+    "explanation": "Le décalage entre trois tasses déjà présentes et deux sorties suggère une absence significative. Un lecteur attentif formule l'hypothèse et la nuance (« peut-être »).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Extrait inventé : « Le facteur déposa l'enveloppe. Elle resta trois jours sur le buffet, intacte, tandis que Mathis passait devant sans la regarder. » Quelle formulation montre l'inférence la plus convaincante ?",
+    "options": [
+     "Mathis est paresseux car il ne lit pas",
+     "Mathis évite peut-être cette lettre : « sans la regarder » suggère qu'il craint son contenu",
+     "Mathis ne sait pas lire",
+     "Le facteur s'est trompé d'adresse"
+    ],
+    "answer": 1,
+    "explanation": "La durée (trois jours), l'enveloppe « intacte » et l'évitement du regard convergent vers la crainte. La bonne réponse cite un indice et reste prudente.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## L'essentiel\nLire un texte, c'est d'abord comprendre ce qu'il dit, puis ce qu'il suggère. En classe de Langue et Littérature, on distingue donc deux niveaux de compréhension : la compréhension **littérale** et la compréhension **inférentielle**. Les épreuves d'examen testent presque toujours les deux, souvent dans la même question.\n\n## La compréhension littérale\nElle porte sur les informations explicites : les personnages, le lieu, le moment, les actions, les faits. La réponse se trouve directement dans le texte, parfois dans une seule phrase. Pour répondre, il suffit de repérer, de relever ou de reformuler avec précision.\n- **Qui ?** Les personnages et le narrateur.\n- **Où et quand ?** Les indications de lieu et de temps.\n- **Quoi ?** Les événements dans leur ordre.\n- **Comment ?** Les manières d'agir, les descriptions.\nExemple : dans la phrase « Léa referma son parapluie », l'information littérale est que Léa referme son parapluie. On ne dit pas qu'il pleut, même si l'on peut le deviner.\n\n## La compréhension inférentielle\nInférer signifie tirer une conclusion à partir d'indices. L'auteur ne dit pas tout : il laisse le lecteur combler les silences. Pour inférer, on associe trois éléments : un **indice** du texte, une **connaissance** du monde ou du contexte, et un **raisonnement**.\nExemple : « Samir regardait l'horloge toutes les trente secondes. » Indice : le regard répété sur l'horloge. Connaissance : on regarde l'heure quand on attend ou quand on s'ennuie. Conclusion : Samir est impatient.\n\n## Comment justifier une inférence\nUne bonne réponse suit une structure simple : **affirmation, preuve, explication**.\n- J'affirme une idée (le personnage cache sa déception).\n- Je cite un court passage entre guillemets, comme « ses yeux restèrent fixés sur ses chaussures ».\n- J'explique le lien : ce regard baissé contredit les applaudissements et trahit un sentiment contraire.\nUtilisez des verbes de nuance : *suggérer*, *laisser penser*, *révéler*, *sembler*. Évitez les certitudes quand le texte n'en donne pas.\n\n## Types d'indices à repérer\n- Les actions et gestes (tambouriner, détourner le regard).\n- Les choix de mots, avec leurs connotations.\n- Les contrastes entre ce que dit un personnage et ce qu'il fait.\n- Les répétitions, les silences, la ponctuation.\n- Le cadre et l'atmosphère (une cour vide, un ciel lourd).\n\n## Erreurs fréquentes\n- Confondre un fait et une supposition : « il pleure donc il est triste » est trop rapide, car on peut pleurer de joie.\n- Répondre sans citer le texte.\n- Recopier une longue phrase au lieu de choisir les mots clés.\n- Aller plus loin que les indices : une conclusion forte exige des preuves fortes.\n- Résumer au lieu d'interpréter quand la consigne demande « expliquez ce que cela suggère ».\n\n## Comment cela est évalué\nÀ l'examen, un texte court est suivi de questions qui commencent par un repérage (« relevez », « indiquez »), puis passent à l'interprétation (« expliquez », « que suggère... »). Le critère A récompense la compréhension du contenu et du contexte, l'analyse des choix de l'auteur et l'appui sur des exemples précis.\n\nExam tip: pour chaque question inférentielle, écrivez une idée, une citation courte et une phrase qui explique le lien entre les deux ; si vous ne pouvez pas citer d'indice, votre inférence est trop fragile.",
+  "flashcards": [
+   {
+    "front": "Compréhension littérale",
+    "back": "Comprendre les informations écrites explicitement dans le texte : qui, quoi, où, quand. La réponse se repère directement dans le texte."
+   },
+   {
+    "front": "Inférence",
+    "back": "Conclusion tirée d'indices du texte et de ses connaissances, sur ce qui n'est pas dit directement. On « lit entre les lignes »."
+   },
+   {
+    "front": "Structure d'une réponse inférentielle",
+    "back": "Affirmation, citation courte du texte, puis explication du lien entre la citation et l'idée."
+   },
+   {
+    "front": "Verbes de nuance utiles",
+    "back": "suggérer, laisser penser, révéler, sembler, évoquer, laisser deviner. Ils évitent les certitudes que le texte ne permet pas."
+   },
+   {
+    "front": "Indice textuel",
+    "back": "Mot, geste, contraste, répétition ou détail du cadre qui permet de justifier une interprétation."
+   },
+   {
+    "front": "Pourquoi citer le texte ?",
+    "back": "La citation prouve que l'interprétation vient du texte et non d'une opinion personnelle. Elle doit être courte et bien choisie."
+   },
+   {
+    "front": "Erreur : confondre fait et supposition",
+    "back": "« Il pleure donc il est triste » n'est pas prouvé : il faut chercher la cause dans le texte avant de conclure."
+   },
+   {
+    "front": "Consigne « relevez »",
+    "back": "Elle demande un repérage littéral : on copie ou reformule avec précision une information ou un mot du texte."
+   },
+   {
+    "front": "Consigne « que suggère... ? »",
+    "back": "Elle demande une inférence : interpréter l'effet ou le sens implicite d'un passage en s'appuyant sur une preuve."
+   }
+  ]
+ },
+ {
+  "subject": "french-language-and-literature",
+  "grade": 5,
+  "topic": "Reading and Comprehension",
+  "subTopic": "Purpose and Audience",
+  "questions": [
+   {
+    "content": "Que désigne le « but » (ou l'intention) d'un texte ?",
+    "options": [
+     "Le nombre de ses pages",
+     "Ce que l'auteur cherche à obtenir : informer, convaincre, divertir, etc.",
+     "Le nom de son éditeur",
+     "La couleur de la couverture"
+    ],
+    "answer": 1,
+    "explanation": "Le but est l'objectif de l'auteur : informer, persuader, divertir, émouvoir, expliquer, avertir.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Que désigne le « public cible » d'un texte ?",
+    "options": [
+     "Les personnes à qui le texte s'adresse en priorité",
+     "L'auteur du texte",
+     "Les lecteurs du siècle dernier",
+     "Les personnages"
+    ],
+    "answer": 0,
+    "explanation": "Le public cible est le groupe de lecteurs visé : enfants, élèves, habitants d'un quartier, spécialistes, etc.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Une brochure invite les habitants à voter « oui » pour la création d'une piste cyclable. Quel est son but principal ?",
+    "options": [
+     "Divertir",
+     "Convaincre",
+     "Raconter une légende",
+     "Décrire un paysage"
+    ],
+    "answer": 1,
+    "explanation": "Inviter à voter d'une certaine façon relève de la persuasion : l'auteur veut influencer le lecteur.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Quel texte a pour but principal d'informer ?",
+    "options": [
+     "Un tract électoral",
+     "Une publicité pour des baskets",
+     "Un article scientifique sur la migration des oies",
+     "Un poème d'amour"
+    ],
+    "answer": 2,
+    "explanation": "Un article scientifique présente des faits de façon objective, dans un but informatif.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Quel type de contenu s'adresse le plus probablement à de jeunes enfants ?",
+    "options": [
+     "Des phrases courtes, un vocabulaire simple et des illustrations",
+     "Des termes techniques et de longues phrases",
+     "Des statistiques détaillées",
+     "Des citations de lois"
+    ],
+    "answer": 0,
+    "explanation": "Le registre, la longueur des phrases et les images s'adaptent à l'âge du public visé.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Extrait inventé : « Vous êtes fatigué de chercher en vain vos clés ? Offrez-vous la sérénité ! » Quelle marque de l'intention de l'auteur est la plus claire ?",
+    "options": [
+     "Le récit au passé simple",
+     "Le ton neutre d'un dictionnaire",
+     "La question adressée directement au lecteur et la promesse",
+     "L'absence de verbes"
+    ],
+    "answer": 2,
+    "explanation": "L'interpellation (« vous ») et la promesse sont typiques d'un texte publicitaire qui cherche à convaincre d'acheter.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extrait inventé d'une affiche : « Cet été, sauvons ensemble nos plages ! Rejoignez la collecte du samedi. » Quel public est le plus probablement visé ?",
+    "options": [
+     "Les touristes étrangers uniquement",
+     "Les habitants prêts à agir localement",
+     "Les professeurs de physique",
+     "Les nourrissons"
+    ],
+    "answer": 1,
+    "explanation": "« Nos plages » et « le samedi » visent une communauté locale invitée à participer à une action.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Un texte utilise « nous » dans « Nous devons agir maintenant ». Quel effet cherche-t-il ?",
+    "options": [
+     "Créer une impression de communauté et d'urgence partagée",
+     "Exclure le lecteur",
+     "Montrer que l'auteur ne s'intéresse à personne",
+     "Écrire à la troisième personne"
+    ],
+    "answer": 0,
+    "explanation": "Le « nous » inclusif rapproche l'auteur du lecteur et invite à agir collectivement.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Deux textes parlent du même sujet : l'un dans un journal pour adolescents, l'autre dans une revue médicale. Qu'est-ce qui changera le plus ?",
+    "options": [
+     "Le sujet",
+     "Le niveau de langue, le vocabulaire et les exemples",
+     "L'alphabet",
+     "Le nombre de lettres par mot"
+    ],
+    "answer": 1,
+    "explanation": "Le public détermine le registre, le lexique technique et le type d'exemples choisis.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extrait inventé d'un règlement : « Il est interdit de courir dans les couloirs. » Quel est son but principal ?",
+    "options": [
+     "Émouvoir",
+     "Instruire et imposer une règle",
+     "Faire rire",
+     "Raconter une anecdote"
+    ],
+    "answer": 1,
+    "explanation": "La forme impersonnelle et l'interdiction montrent un texte normatif : il informe et fixe une obligation.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Un texte peut-il avoir plusieurs buts ?",
+    "options": [
+     "Non, un seul but est possible",
+     "Oui : par exemple informer et convaincre à la fois",
+     "Seulement s'il est un roman",
+     "Seulement s'il est court"
+    ],
+    "answer": 1,
+    "explanation": "Beaucoup de textes combinent des buts : un article d'opinion informe puis cherche à persuader. On identifie le but dominant.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extrait inventé : « Tu as 15 ans ? Alors tu sais déjà ce que valent trois heures d'écran de trop ! » Quel indice montre le public visé ?",
+    "options": [
+     "Le tutoiement et la référence à l'âge",
+     "Le point d'exclamation seulement",
+     "Le mot « heures »",
+     "Le passé simple"
+    ],
+    "answer": 0,
+    "explanation": "Le tutoiement et la mention de l'âge ciblent explicitement des adolescents.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Pourquoi une association écologiste choisit-elle plutôt un ton émotionnel qu'un ton purement statistique pour un tract ?",
+    "options": [
+     "Par erreur",
+     "Parce que l'émotion peut mobiliser un large public et déclencher l'action",
+     "Parce que les chiffres sont interdits",
+     "Parce que le tract est un roman"
+    ],
+    "answer": 1,
+    "explanation": "Lorsque le but est de convaincre un public large, l'émotion, associée à quelques faits, peut être plus efficace que des chiffres seuls.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extrait inventé : « Selon une enquête, 62 % des élèves dorment moins de huit heures. Pourtant, rien ne change dans nos emplois du temps. » Quelle analyse est la plus précise ?",
+    "options": [
+     "Le texte informe uniquement, sans point de vue",
+     "Il utilise un fait pour amorcer une critique : il informe puis cherche à persuader",
+     "Il raconte une aventure",
+     "Il n'a aucun public"
+    ],
+    "answer": 1,
+    "explanation": "Le chiffre sert d'argument, et le « pourtant » introduit un reproche : le but est mixte, avec une visée persuasive dominante.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Un discours inventé commence par : « Chers camarades, je ne vais pas vous mentir : l'année a été difficile. » Que produit ce début ?",
+    "options": [
+     "Un effet de distance formelle",
+     "Un effet de franchise qui crée la confiance avant l'argumentation",
+     "Un effet comique obligatoire",
+     "Un résumé du discours"
+    ],
+    "answer": 1,
+    "explanation": "« Je ne vais pas vous mentir » met en scène l'honnêteté de l'orateur et prépare l'adhésion du public.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Un même éditorial est publié dans un quotidien national, puis adapté pour un site d'élèves de 12 ans. Quelle modification serait la plus pertinente pour le second public ?",
+    "options": [
+     "Ajouter du jargon juridique",
+     "Raccourcir les phrases, expliquer les termes difficiles et choisir des exemples proches de leur vie",
+     "Supprimer le titre",
+     "Doubler la longueur du texte"
+    ],
+    "answer": 1,
+    "explanation": "Adapter un texte à un public plus jeune, c'est simplifier la syntaxe, expliciter les mots complexes et rapprocher les exemples de son vécu.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Extrait inventé : « Le Conseil rappelle que les inscriptions closent le 30. Aucune exception ne sera tolérée. » Quelle conclusion sur l'auteur et le public est la mieux fondée ?",
+    "options": [
+     "Un ami s'adresse affectueusement à un autre",
+     "Une institution s'adresse à des administrés avec un ton autoritaire et impersonnel",
+     "Un enfant écrit à son grand-père",
+     "Un poète évoque la nature"
+    ],
+    "answer": 1,
+    "explanation": "« Le Conseil », la forme impersonnelle et « aucune exception » révèlent une voix institutionnelle qui impose une règle.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Dans une question d'examen, on demande : « Comment l'auteur adapte-t-il son texte à son public ? » Quelle réponse est la plus complète ?",
+    "options": [
+     "Il écrit en français.",
+     "Il emploie le tutoiement, un vocabulaire courant et des exemples de la vie scolaire, ce qui crée une proximité avec des élèves",
+     "Il utilise des lettres.",
+     "Il parle de lui."
+    ],
+    "answer": 1,
+    "explanation": "Une réponse complète nomme des procédés précis, cite ou décrit des exemples et explique leur effet sur le public visé.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Pourquoi se poser ces questions ?\nTout texte est écrit par quelqu'un, pour quelqu'un, dans un but précis. Comprendre le **but** (ou l'intention) et le **public** (ou destinataire) permet d'expliquer pourquoi l'auteur choisit tel ton, tel vocabulaire ou tel procédé. À l'examen, ces notions servent presque toujours de point de départ à l'analyse.\n\n## Les principaux buts d'un texte\n- **Informer** : donner des faits clairs, souvent dans un ton neutre (article scientifique, encyclopédie, compte rendu).\n- **Convaincre ou persuader** : amener le lecteur à penser ou à agir d'une certaine façon (publicité, tract, discours, éditorial).\n- **Divertir** : amuser, faire rêver ou raconter (roman, nouvelle, bande dessinée).\n- **Émouvoir** : toucher les sentiments (poème, témoignage, lettre).\n- **Expliquer ou instruire** : montrer comment faire ou ce qu'il faut respecter (mode d'emploi, règlement).\n- **Avertir** : prévenir d'un danger (affiche de prévention).\nUn texte peut combiner plusieurs buts. Par exemple, un article d'opinion informe d'abord avec un chiffre, puis persuade grâce à une critique. On identifie alors le but **dominant**.\n\n## Le public cible\nLe public est le groupe de lecteurs que l'auteur a en tête. On le repère grâce à plusieurs indices.\n- Le **pronom** : *tu* (proximité, jeunes), *vous* (formel ou collectif), *nous* (communauté), *on* (voix commune).\n- Le **niveau de langue** : familier, courant, soutenu.\n- Le **vocabulaire** : technique ou accessible.\n- Les **références** : exemples tirés de la vie scolaire, du sport, de la politique locale...\n- La **forme** : phrases courtes ou longues, présence d'illustrations, mise en page.\nExemple inventé : « Tu as 15 ans ? Alors tu sais déjà ce que valent trois heures d'écran de trop ! » Le tutoiement et l'âge cité désignent des adolescents. L'auteur veut créer de la complicité.\n\n## Le lien entre but, public et choix d'écriture\nOn ne parle pas de la même manière à un enfant de 8 ans, à un conseil municipal ou à des camarades. L'auteur ajuste :\n- le **ton** (sérieux, ironique, chaleureux, autoritaire) ;\n- le **registre de langue** ;\n- les **arguments** (faits, émotions, exemples) ;\n- la **structure** (titre accrocheur, paragraphes courts, appel à l'action).\nUne association écologiste qui veut mobiliser un large public mélangera souvent faits et émotion. Une institution qui rappelle une règle emploiera plutôt le ton impersonnel : « Aucune exception ne sera tolérée. »\n\n## Comment rédiger une bonne réponse\nPour répondre à « Quel est le but du texte et comment s'adresse-t-il à son public ? », suivez ces étapes.\n- Nommez le but dominant en un mot précis.\n- Nommez le public visé.\n- Citez un ou deux procédés (pronom, question, exemple, ton).\n- Expliquez l'effet de chaque procédé sur le lecteur.\n\n## Erreurs fréquentes\n- Dire seulement « le texte informe » alors qu'un texte persuade aussi par ses choix de mots.\n- Citer un indice sans expliquer son effet.\n- Confondre l'auteur et le narrateur, ou le public visé et le public réel.\n- Oublier le contexte de publication : journal, affiche, site, discours.\n\n## Comment cela est évalué\nLes questions d'examen demandent de relever des indices de but et de public, puis de justifier avec précision l'intention de l'auteur. Le critère A valorise l'analyse des choix de l'auteur en relation avec le public et le contexte.\n\nExam tip: commencez toujours par nommer le but dominant et le public, puis reliez chaque procédé cité à son effet sur ce public, par exemple : « Le tutoiement crée de la proximité avec des adolescents ».",
+  "flashcards": [
+   {
+    "front": "But d'un texte",
+    "back": "Ce que l'auteur veut obtenir : informer, convaincre, divertir, émouvoir, expliquer ou avertir. On identifie le but dominant."
+   },
+   {
+    "front": "Public cible",
+    "back": "Le groupe de lecteurs visé par l'auteur. On le repère grâce au pronom, au niveau de langue, au vocabulaire et aux exemples."
+   },
+   {
+    "front": "Effet du « nous » inclusif",
+    "back": "Il crée une communauté entre l'auteur et le lecteur et suggère une responsabilité ou une action partagée."
+   },
+   {
+    "front": "Effet du tutoiement",
+    "back": "Il crée de la proximité et de la complicité, souvent pour s'adresser à des jeunes ou à des proches."
+   },
+   {
+    "front": "Texte persuasif : exemples",
+    "back": "Publicité, tract, discours, éditorial, affiche de campagne. Ils cherchent à influencer les idées ou les actes du lecteur."
+   },
+   {
+    "front": "Texte informatif : traits",
+    "back": "Ton neutre, faits vérifiables, vocabulaire précis, structure claire (titres, paragraphes). Exemples : article, encyclopédie."
+   },
+   {
+    "front": "Texte à but mixte",
+    "back": "Un texte peut informer puis persuader. On nomme le but dominant et on explique comment les autres buts le soutiennent."
+   },
+   {
+    "front": "Adapter son texte au public",
+    "back": "Choisir le ton, le registre, le vocabulaire et les exemples qui conviennent aux lecteurs visés."
+   },
+   {
+    "front": "Réponse sur le public : structure",
+    "back": "Nommer le but, nommer le public, citer un procédé, expliquer son effet sur ce public."
+   }
+  ]
+ },
+ {
+  "subject": "french-language-and-literature",
+  "grade": 5,
+  "topic": "Reading and Comprehension",
+  "subTopic": "Tone and Attitude",
+  "questions": [
+   {
+    "content": "Que désigne le « ton » d'un texte ?",
+    "options": [
+     "L'attitude de l'auteur ou du narrateur perceptible dans l'écriture",
+     "Le nombre de phrases",
+     "Le volume de la voix du lecteur",
+     "La police de caractères"
+    ],
+    "answer": 0,
+    "explanation": "Le ton est la manière dont l'auteur s'exprime et l'attitude qu'on perçoit : ironique, joyeux, grave, etc.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Quel mot décrit un ton qui se moque en disant le contraire de ce que l'on pense ?",
+    "options": [
+     "Lyrique",
+     "Ironique",
+     "Neutre",
+     "Épique"
+    ],
+    "answer": 1,
+    "explanation": "L'ironie consiste à dire une chose pour en faire comprendre une autre, souvent pour critiquer.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Extrait inventé : « Quel délicieux temps de chien ! » dit-il en patinant dans la boue. Quel ton domine ?",
+    "options": [
+     "Admiratif",
+     "Ironique",
+     "Solennel",
+     "Technique"
+    ],
+    "answer": 1,
+    "explanation": "« Délicieux » contredit « temps de chien » et la boue : le personnage ironise sur une situation désagréable.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Quel ton est le plus proche de l'indifférence calme, sans émotion visible ?",
+    "options": [
+     "Détaché",
+     "Passionné",
+     "Indigné",
+     "Enthousiaste"
+    ],
+    "answer": 0,
+    "explanation": "Un ton détaché évite l'émotion et décrit sans s'impliquer.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Qu'est-ce qu'un ton « mélancolique » ?",
+    "options": [
+     "Une tristesse douce, nostalgique",
+     "Une colère explosive",
+     "Une joie bruyante",
+     "Une moquerie légère"
+    ],
+    "answer": 0,
+    "explanation": "La mélancolie évoque une tristesse rêveuse, souvent liée à un souvenir ou à l'absence.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Extrait inventé : « Les feuilles tombaient une à une, comme les années. Je ne les comptais plus. » Quel ton ressort ?",
+    "options": [
+     "Comique",
+     "Mélancolique",
+     "Agressif",
+     "Publicitaire"
+    ],
+    "answer": 1,
+    "explanation": "La comparaison avec les années qui passent et « je ne les comptais plus » expriment une tristesse nostalgique.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extrait inventé : « Encore une réunion sur la réunion précédente : quel progrès extraordinaire pour l'humanité ! » Quel est l'effet principal ?",
+    "options": [
+     "Admiration sincère",
+     "Satire amusée et critique",
+     "Description scientifique",
+     "Tristesse profonde"
+    ],
+    "answer": 1,
+    "explanation": "L'hyperbole « progrès extraordinaire pour l'humanité » appliquée à une réunion inutile produit une critique ironique.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Quelle attitude de l'auteur montre l'expression « ce misérable petit règlement » ?",
+    "options": [
+     "Du respect",
+     "Du mépris ou de l'agacement",
+     "De l'indifférence",
+     "De la reconnaissance"
+    ],
+    "answer": 1,
+    "explanation": "« Misérable » et « petit » sont des adjectifs dépréciatifs : ils révèlent un jugement négatif.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Quel procédé crée le plus clairement un ton urgent ?",
+    "options": [
+     "Des phrases longues et lentes",
+     "Des phrases courtes, des impératifs et des points d'exclamation",
+     "Des subordonnées enchaînées",
+     "Des descriptions détaillées du ciel"
+    ],
+    "answer": 1,
+    "explanation": "Rythme rapide, impératifs et exclamations donnent une impression d'urgence : « Agissez ! Vite ! »",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extrait inventé : « Le vieux pont tenait encore. Fier, il portait le poids de tous les étés. » Quelle figure marque l'attitude du narrateur ?",
+    "options": [
+     "Une personnification qui exprime de la tendresse et du respect",
+     "Une antithèse violente",
+     "Une énumération technique",
+     "Une négation"
+    ],
+    "answer": 0,
+    "explanation": "Le pont « fier » qui « porte » est personnifié : le narrateur lui prête des qualités humaines avec affection.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Quelle différence y a-t-il entre le ton et le thème ?",
+    "options": [
+     "Aucune",
+     "Le thème est le sujet traité ; le ton est la manière de le traiter",
+     "Le ton est le titre ; le thème est la fin",
+     "Le ton est toujours drôle"
+    ],
+    "answer": 1,
+    "explanation": "Un même thème, comme la perte d'un objet, peut être traité sur un ton comique, grave ou tendre.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extrait inventé : « Je dois admettre que le chat m'a battu : il a mangé mon sandwich avec une élégance remarquable. » Quel ton domine ?",
+    "options": [
+     "Humoristique et autodérision",
+     "Tragique",
+     "Solennel",
+     "Menaçant"
+    ],
+    "answer": 0,
+    "explanation": "Le narrateur rit de sa propre défaite et attribue de l'élégance à un vol : c'est humoristique, avec de l'autodérision.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Pour justifier qu'un ton est « nostalgique », quelle réponse est la plus solide ?",
+    "options": [
+     "Le texte est nostalgique parce qu'il est triste.",
+     "Le champ lexical du souvenir (« jadis », « autrefois ») et l'imparfait évoquent un passé regretté, ce qui crée une douce nostalgie.",
+     "Le texte est long.",
+     "Le texte utilise des mots."
+    ],
+    "answer": 1,
+    "explanation": "Une bonne justification nomme des procédés précis (lexique, temps verbal), les cite et explique l'effet produit.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Extrait inventé : « On nous a dit de rester calmes. Calmes ! Alors que la porte tremblait... » Quel effet produit la reprise de « Calmes ! » ?",
+    "options": [
+     "Elle exprime l'indignation et l'inquiétude du narrateur",
+     "Elle montre que tout va bien",
+     "Elle explique un règlement",
+     "Elle crée un ton neutre"
+    ],
+    "answer": 0,
+    "explanation": "La répétition exclamative contredit la consigne par la situation : le narrateur est révolté et angoissé.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Extrait inventé : « Il lui serra la main avec une chaleur de réfrigérateur. » Quelle lecture est la plus fine ?",
+    "options": [
+     "Le geste est très chaleureux",
+     "La comparaison inattendue révèle la froideur réelle du personnage, avec une pointe d'humour",
+     "Le narrateur parle de cuisine",
+     "Le personnage est malade"
+    ],
+    "answer": 1,
+    "explanation": "« Chaleur de réfrigérateur » est un oxymore comique : il dit la froideur en feignant de parler de chaleur.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Un narrateur décrit une scène terrible avec des phrases brèves, des mots simples et aucun adjectif. Quel effet recherche-t-il probablement ?",
+    "options": [
+     "Atténuer l'horreur par un ton volontairement neutre qui la rend plus frappante",
+     "Faire rire le lecteur",
+     "Allonger le texte",
+     "Cacher le lieu"
+    ],
+    "answer": 0,
+    "explanation": "Le contraste entre un style sobre et une situation dramatique renforce l'impact : c'est un effet de retenue.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Extrait inventé : « Nos ancêtres, disait-on, étaient sages. Pourtant, ils ont construit la ville sur le marais. Quelle sagesse ! » Quelle attitude l'auteur adopte-t-il ?",
+    "options": [
+     "Il admire les ancêtres sans réserve",
+     "Il critique avec ironie la prétendue sagesse des ancêtres",
+     "Il décrit objectivement la géographie",
+     "Il raconte une légende sans commentaire"
+    ],
+    "answer": 1,
+    "explanation": "« Pourtant » oppose la réputation à un fait, et « Quelle sagesse ! » renverse le sens : il s'agit d'une ironie critique.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Extrait inventé : « Elle sourit poliment. Elle sourit encore. Elle sourit jusqu'à ce que ses joues tremblent. » Que révèle la gradation ?",
+    "options": [
+     "Un bonheur croissant",
+     "Un effort pénible pour cacher un malaise",
+     "Une leçon de grammaire",
+     "Un simple compte rendu"
+    ],
+    "answer": 1,
+    "explanation": "La répétition et la précision « jusqu'à ce que ses joues tremblent » montrent que le sourire est forcé : le ton devient tendu et mal à l'aise.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Ton, attitude et atmosphère\nLe **ton** est la couleur émotionnelle d'un texte : c'est ce que l'on perçoit de l'attitude de l'auteur ou du narrateur envers son sujet ou son lecteur. L'**attitude** est le point de vue ou le sentiment sous-jacent : admiration, mépris, tendresse, indifférence. Il ne faut pas confondre le ton avec le **thème** (le sujet) ni avec l'**atmosphère**, qui est l'impression générale produite sur le lecteur, par exemple une ambiance pesante.\n\n## Quelques tons à connaître\n- **Ironique** : on dit le contraire de ce que l'on pense pour critiquer.\n- **Humoristique** : on cherche à amuser, parfois avec de l'autodérision.\n- **Mélancolique** : une tristesse douce, liée au souvenir ou à l'absence.\n- **Lyrique** : l'expression de sentiments personnels intenses.\n- **Solennel** : grave et formel, comme dans un discours officiel.\n- **Indigné** : la colère face à une injustice.\n- **Détaché** ou **neutre** : peu d'émotion visible, on décrit sans s'impliquer.\n- **Urgent** ou **pressant** : phrases courtes, impératifs, exclamations.\n- **Nostalgique** : un regret tendre du passé.\n- **Sarcastique** : une ironie plus dure, blessante.\n\n## Comment identifier le ton\nPour repérer le ton, observez plusieurs éléments.\n- Le **lexique** : mots valorisants (merveilleux, noble) ou dépréciatifs (misérable, médiocre). Les adjectifs et adverbes sont très révélateurs.\n- La **ponctuation** : points d'exclamation, points de suspension, questions.\n- Le **rythme** : phrases courtes (tension, urgence) ou longues (rêverie, lenteur).\n- Les **figures de style** : hyperbole, personnification, comparaison, oxymore.\n- Le **contraste** entre ce qui est dit et la situation : c'est la base de l'ironie.\nExemple inventé : « Encore une réunion sur la réunion précédente : quel progrès extraordinaire pour l'humanité ! » L'hyperbole appliquée à une chose banale signale la critique ironique.\n\n## Le ton peut changer\nDans un même texte, le ton évolue parfois. Un récit peut commencer sur un ton léger puis devenir grave. Relever ce changement et l'expliquer (rupture, contraste, phrase pivot) est un signe d'analyse fine. Le narrateur peut aussi paraître neutre et pourtant orienter le lecteur par ses choix de mots : un style sobre devant un événement dramatique peut renforcer l'émotion.\n\n## Rédiger une analyse du ton\nUtilisez la démarche suivante :\n- **Nommer** le ton avec un mot précis (pas seulement « triste » ou « gentil »).\n- **Citer** deux indices courts : mot, ponctuation, figure ou rythme.\n- **Expliquer** comment chaque indice crée ce ton.\n- **Relier** à l'effet sur le lecteur ou au sens du texte.\nExemple : « Le ton est mélancolique : le narrateur compare les feuilles qui tombent aux années, et l'expression « je ne les comptais plus » exprime une lassitude résignée. »\n\n## Erreurs fréquentes\n- Employer un adjectif vague (« le ton est bien ») sans preuve.\n- Nommer le ton sans citer d'indice.\n- Confondre ton et sujet : « le ton est la guerre » est incorrect.\n- Ne pas voir l'ironie et lire la phrase au premier degré.\n- Ignorer l'évolution du ton au fil du texte.\n\n## Comment cela est évalué\nLes questions d'examen demandent souvent : « Quel ton se dégage de ce passage ? Justifiez avec des exemples. » Le critère A évalue la précision du vocabulaire d'analyse et la qualité des preuves. Un lexique varié pour nommer les tons améliore nettement la réponse.\n\nExam tip: quand vous hésitez entre ironie et sincérité, cherchez un décalage entre les mots employés et la situation décrite ; si les deux se contredisent, c'est très probablement de l'ironie.",
+  "flashcards": [
+   {
+    "front": "Ton",
+    "back": "L'attitude perceptible de l'auteur ou du narrateur dans l'écriture : ironique, mélancolique, solennel, humoristique, etc."
+   },
+   {
+    "front": "Différence ton / thème",
+    "back": "Le thème est le sujet traité ; le ton est la manière de le traiter. Un même thème peut être grave ou comique."
+   },
+   {
+    "front": "Ironie",
+    "back": "Dire le contraire de ce que l'on pense, ou feindre d'approuver, pour critiquer ou se moquer. Elle repose sur un décalage."
+   },
+   {
+    "front": "Ton mélancolique",
+    "back": "Une tristesse douce et rêveuse, souvent liée au souvenir, au temps qui passe ou à l'absence."
+   },
+   {
+    "front": "Ton urgent",
+    "back": "Il se marque par des phrases courtes, des impératifs et des exclamations qui donnent un rythme rapide."
+   },
+   {
+    "front": "Lexique dépréciatif",
+    "back": "Mots négatifs (misérable, médiocre) qui révèlent un jugement défavorable. Le lexique mélioratif exprime une opinion positive."
+   },
+   {
+    "front": "Atmosphère",
+    "back": "L'impression générale que le texte produit sur le lecteur : pesante, légère, inquiétante, apaisante."
+   },
+   {
+    "front": "Analyser un ton en trois étapes",
+    "back": "Nommer le ton avec précision, citer deux indices, expliquer comment ils créent ce ton et quel effet ils ont."
+   },
+   {
+    "front": "Style sobre devant un drame",
+    "back": "Des phrases simples et neutres face à un événement terrible peuvent renforcer l'émotion par contraste : c'est un effet de retenue."
+   }
+  ]
+ }
+]

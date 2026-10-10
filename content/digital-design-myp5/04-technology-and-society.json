@@ -271,24 +271,24 @@
    {
     "content": "What is a digital footprint?",
     "options": [
-     "The trail of data you leave by using the internet",
      "The size of your screen",
+     "The trail of data you leave by using the internet",
      "A type of keyboard",
      "A printed photograph"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "Your digital footprint is all the information about you that exists because of your online activity.",
     "difficulty": "easy"
    },
    {
     "content": "Which is an example of an active digital footprint?",
     "options": [
+     "Posting a photo on a social media profile",
      "A website recording your IP address",
      "A cookie tracking pages you view",
-     "Posting a photo on a social media profile",
      "Your phone's location history made without you noticing"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation": "An active footprint is data you choose to share, such as posts and comments. Passive footprints are collected without you posting.",
     "difficulty": "easy"
    },
@@ -296,11 +296,11 @@
     "content": "What is a cookie in web browsing?",
     "options": [
      "A virus that deletes files",
-     "A small file a website stores to remember information about your visit",
      "A type of password",
+     "A small file a website stores to remember information about your visit",
      "A pop-up advert"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "Cookies remember things like login status or preferences, and some are used to track browsing across sites.",
     "difficulty": "easy"
    },
@@ -308,23 +308,23 @@
     "content": "Which is personal data?",
     "options": [
      "The colour of the sky",
+     "Your full name and home address",
      "The date of a public holiday",
-     "A school's opening hours",
-     "Your full name and home address"
+     "A school's opening hours"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation": "Personal data identifies a specific person, such as a name, address, photo or ID number.",
     "difficulty": "easy"
    },
    {
     "content": "Which setting helps limit who can see your social media posts?",
     "options": [
-     "Screen brightness",
      "Privacy settings",
+     "Screen brightness",
      "Volume",
      "Language"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Privacy settings let you choose whether posts are public, friends only or private.",
     "difficulty": "easy"
    },
@@ -332,23 +332,23 @@
     "content": "Ravi posted a party photo publicly when he was 14. At 17 he applies for a work placement. What is the most likely risk?",
     "options": [
      "The photo will delete itself",
-     "The employer might find it and judge him",
      "His phone battery will drain",
-     "The photo will become smaller"
+     "The photo will become smaller",
+     "The employer might find it and judge him"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation": "Online content can last and be found later, so it can affect reputation and opportunities.",
     "difficulty": "medium"
    },
    {
     "content": "Which is a passive digital footprint?",
     "options": [
+     "A website logging your IP address and the pages you visited",
      "Writing a blog",
      "Sending an email",
-     "Uploading a video",
-     "A website logging your IP address and the pages you visited"
+     "Uploading a video"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation": "Passive footprints are collected without you deliberately sharing, for example logs, cookies and location data.",
     "difficulty": "medium"
    },
@@ -356,11 +356,11 @@
     "content": "A free app earns money by showing adverts matched to your interests. Which describes how this works?",
     "options": [
      "It guesses at random",
-     "It collects data about your behaviour to build a profile for targeting",
      "It reads your thoughts",
+     "It collects data about your behaviour to build a profile for targeting",
      "It copies your friends' passwords"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "Many free services collect usage data to personalise adverts, so the data is part of the price.",
     "difficulty": "medium"
    },
@@ -380,11 +380,11 @@
     "content": "Why is it a risk to post a photo that shows your school uniform, street sign and a time stamp?",
     "options": [
      "The photo will be too dark",
-     "It could reveal where you are and your routine",
      "It will not upload",
-     "It breaks copyright"
+     "It breaks copyright",
+     "It could reveal where you are and your routine"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation": "Small details can be combined to work out where you go and when, which is a safety risk.",
     "difficulty": "medium"
    },
@@ -392,11 +392,11 @@
     "content": "Before installing a new app, Maria reads the privacy policy. Which detail is most important to check?",
     "options": [
      "The colour of the logo",
-     "What data is collected and whether it is shared with third parties",
      "The number of downloads",
+     "What data is collected and whether it is shared with third parties",
      "The font used"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "A privacy policy should say what is collected, why, how long it is kept and who receives it.",
     "difficulty": "medium"
    },
@@ -415,12 +415,12 @@
    {
     "content": "A user wants to browse without a record in their browser history on a shared school computer. Which choice helps most?",
     "options": [
-     "Using a private or incognito window",
      "Changing the desktop picture",
+     "Using a private or incognito window",
      "Turning the sound off",
      "Closing the lid"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "Private windows do not save history or cookies on that device, but they do not hide activity from the school network or websites.",
     "difficulty": "medium"
    },
@@ -428,23 +428,23 @@
     "content": "Tom says, 'Incognito mode makes me completely anonymous online.' Which reply is correct?",
     "options": [
      "True, nobody can see anything",
-     "True, but only on phones",
      "False, websites, his school network and his internet provider can still see activity",
+     "True, but only on phones",
      "False, it deletes his accounts"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Private mode only stops local storage of history and cookies. It does not hide your IP address or network activity.",
     "difficulty": "hard"
    },
    {
     "content": "A company stores users' names, birth dates and home addresses in one unprotected file and it is leaked. Which is the most serious consequence for users?",
     "options": [
-     "The company's logo changes",
      "Identity theft and scams become more likely",
+     "The company's logo changes",
      "Websites load faster",
      "The users' screens turn off"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Combined personal details make it easier for criminals to impersonate people or target them with convincing scams.",
     "difficulty": "hard"
    },
@@ -464,11 +464,11 @@
     "content": "An app says, 'By continuing you agree to our terms', with no way to decline settings. Which is the best evaluation from a privacy view?",
     "options": [
      "It is good because it is quick",
-     "It is acceptable because users always read the terms",
      "It is poor because users have no real choice or clear explanation of their data",
+     "It is acceptable because users always read the terms",
      "It is good because it hides the policy"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Meaningful consent needs clear information and a real choice. Forcing agreement weakens user control.",
     "difficulty": "hard"
    },
@@ -476,11 +476,11 @@
     "content": "A student wants to check how much of their data is public. Which sequence of steps is the most effective?",
     "options": [
      "Delete their phone, then search nothing",
-     "Search their own name, review privacy settings, then remove or hide anything they do not want public",
      "Post more to hide old posts",
+     "Search their own name, review privacy settings, then remove or hide anything they do not want public",
      "Change their profile picture only"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "Searching yourself shows what others can find. Reviewing settings and removing content then reduces your public footprint.",
     "difficulty": "hard"
    }
@@ -534,72 +534,72 @@
    {
     "content": "What is the 'digital divide'?",
     "options": [
-     "The gap between people who have access to technology and those who do not",
      "A crack in a phone screen",
+     "The gap between people who have access to technology and those who do not",
      "A type of computer file",
      "A division in a spreadsheet"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "The digital divide describes unequal access to devices, the internet and digital skills.",
     "difficulty": "easy"
    },
    {
     "content": "Which is a positive impact of technology on communication?",
     "options": [
-     "People can contact others across the world instantly",
      "Phones always run out of battery",
      "All messages are private",
+     "People can contact others across the world instantly",
      "Everyone must use the same app"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Technology allows fast, low-cost communication over long distances.",
     "difficulty": "easy"
    },
    {
     "content": "What is e-waste?",
     "options": [
+     "Discarded electronic devices such as old phones and laptops",
      "Email that is deleted",
      "Unwanted adverts",
-     "Discarded electronic devices such as old phones and laptops",
      "Wasted internet data"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation": "E-waste includes old electronic products. It can contain harmful materials if not recycled properly.",
     "difficulty": "easy"
    },
    {
     "content": "Which is an example of automation?",
     "options": [
-     "A robot arm welding car parts",
      "A person writing a letter by hand",
+     "A robot arm welding car parts",
      "A teacher speaking in class",
      "A student reading a book"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "Automation uses machines or software to do tasks with little human input.",
     "difficulty": "easy"
    },
    {
     "content": "Which is a health concern linked to heavy screen use?",
     "options": [
-     "Eye strain and disrupted sleep",
      "Faster running",
+     "Eye strain and disrupted sleep",
      "Stronger hearing",
      "Lower rent"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "Long periods on screens can cause eye strain, poor posture and tired sleep patterns if breaks are not taken.",
     "difficulty": "easy"
    },
    {
     "content": "A town replaces cashiers with self-service tills. Which is a likely social impact?",
     "options": [
-     "Cheaper bread for everyone, always",
      "Some cashier jobs may disappear while other technical jobs appear",
+     "Cheaper bread for everyone, always",
      "All shops will close",
      "No one will use money"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Automation can remove some roles while creating new ones, so workers may need retraining.",
     "difficulty": "medium"
    },
@@ -618,24 +618,24 @@
    {
     "content": "Online learning platforms let rural students attend lessons from far away. Which condition is needed for this benefit to reach everyone?",
     "options": [
-     "Everyone has reliable internet and a suitable device",
      "Everyone owns a car",
      "Lessons must be shorter",
-     "Teachers must stop using computers"
+     "Teachers must stop using computers",
+     "Everyone has reliable internet and a suitable device"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "Without access to devices and connections, the benefit does not reach people on the wrong side of the digital divide.",
     "difficulty": "medium"
    },
    {
     "content": "Which is an advantage of cloud storage?",
     "options": [
-     "Files can be accessed from different devices with internet access",
      "It never needs electricity",
      "It cannot be hacked",
+     "Files can be accessed from different devices with internet access",
      "It makes files larger"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Cloud storage syncs files across devices, though it needs a connection and good security.",
     "difficulty": "medium"
    },
@@ -654,12 +654,12 @@
    {
     "content": "Which statement best describes a social benefit of assistive technology such as screen readers?",
     "options": [
-     "It helps people with disabilities access information and take part",
      "It only benefits games",
      "It makes devices cost less",
-     "It replaces all teachers"
+     "It replaces all teachers",
+     "It helps people with disabilities access information and take part"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "Assistive technology removes barriers and supports inclusion.",
     "difficulty": "medium"
    },
@@ -691,11 +691,11 @@
     "content": "A company claims its new smartwatch is 'green' because it is small. Which evidence would best test this claim?",
     "options": [
      "Its colour options",
-     "A life-cycle assessment covering materials, energy use, repair and recycling",
      "The number of adverts for it",
+     "A life-cycle assessment covering materials, energy use, repair and recycling",
      "The price of the strap"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "A claim about environmental impact should be tested across the whole life cycle, not just one feature such as size.",
     "difficulty": "hard"
    },
@@ -715,23 +715,23 @@
     "content": "A school gives every student a tablet, but 15% of families have no home internet. Out of 600 students, how many may be unable to complete online homework at home, and what is the best response?",
     "options": [
      "15 students; ignore it",
-     "90 students; provide offline work or loan Wi-Fi so no one is disadvantaged",
      "600 students; cancel tablets",
-     "60 students; do nothing"
+     "60 students; do nothing",
+     "90 students; provide offline work or loan Wi-Fi so no one is disadvantaged"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation": "15% of 600 = 90 students. A fair response addresses the access gap, for example with offline tasks or loaned connections.",
     "difficulty": "hard"
    },
    {
     "content": "A designer wants a low-impact product. Which pair of decisions best supports sustainability?",
     "options": [
-     "Use glued parts and a sealed battery",
      "Make parts replaceable and use recycled materials",
+     "Use glued parts and a sealed battery",
      "Add more packaging for protection",
      "Release a new model every year"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Repairable designs and recycled materials extend product life and reduce resource use. Sealed, glued products are harder to repair or recycle.",
     "difficulty": "hard"
    },
@@ -739,11 +739,11 @@
     "content": "An article says, 'AI will take all jobs, so we should stop developing it.' Which response shows the best critical thinking?",
     "options": [
      "Agree, because change is always bad",
-     "Examine evidence on which tasks are automated, which new jobs appear, and how workers can retrain, before deciding",
      "Disagree, because technology never has costs",
-     "Ignore it, because articles are never useful"
+     "Ignore it, because articles are never useful",
+     "Examine evidence on which tasks are automated, which new jobs appear, and how workers can retrain, before deciding"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation": "A strong answer separates evidence from opinion, considers both costs and benefits, and avoids absolute claims.",
     "difficulty": "hard"
    }

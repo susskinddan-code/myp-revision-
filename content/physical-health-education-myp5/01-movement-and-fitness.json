@@ -8,24 +8,24 @@
    {
     "content": "Which component of fitness is the ability of the heart, lungs and blood vessels to supply oxygen to working muscles over a long period?",
     "options": [
-     "Muscular strength",
      "Cardiovascular endurance",
+     "Muscular strength",
      "Flexibility",
      "Agility"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Cardiovascular endurance is about sustained oxygen delivery, as in distance running or swimming. Strength is the maximum force a muscle can produce.",
     "difficulty": "easy"
    },
    {
     "content": "Which test is most suitable for measuring flexibility of the lower back and hamstrings?",
     "options": [
-     "Sit and reach",
      "Standing broad jump",
      "30 m sprint",
+     "Sit and reach",
      "Grip dynamometer"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "The sit and reach test measures how far a person can reach past their toes, which shows flexibility of the hamstrings and lower back.",
     "difficulty": "easy"
    },
@@ -33,11 +33,11 @@
     "content": "A sprinter needs to get out of the blocks quickly when the starting gun fires. Which skill-related component is most important for this?",
     "options": [
      "Balance",
-     "Body composition",
      "Reaction time",
+     "Body composition",
      "Muscular endurance"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "Reaction time is the time taken to respond to a stimulus such as a starting signal.",
     "difficulty": "easy"
    },
@@ -56,12 +56,12 @@
    {
     "content": "A gymnast holds a handstand without wobbling. Which component of fitness does this mainly show?",
     "options": [
-     "Balance",
      "Speed",
      "Power",
-     "Body composition"
+     "Body composition",
+     "Balance"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "Balance is the ability to keep the centre of mass over the base of support, whether still or moving.",
     "difficulty": "easy"
    },
@@ -69,47 +69,47 @@
     "content": "Amira does 20 press-ups in one minute in September and 26 in November. Which component has she mainly improved, and by what percentage?",
     "options": [
      "Flexibility, by 30%",
-     "Muscular endurance, by 30%",
      "Muscular endurance, by 23%",
-     "Muscular strength, by 6%"
+     "Muscular strength, by 6%",
+     "Muscular endurance, by 30%"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation": "Press-ups in a minute test muscular endurance. The increase is 26 − 20 = 6, and 6 ÷ 20 = 0.30, so 30%. Dividing by 26 gives 23%, which is wrong because the percentage change uses the starting value.",
     "difficulty": "medium"
    },
    {
     "content": "A student runs 30 m in 4.5 seconds. What is their average speed?",
     "options": [
-     "About 6.7 m/s",
      "About 7.5 m/s",
      "About 0.15 m/s",
+     "About 6.7 m/s",
      "About 135 m/s"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Speed = distance ÷ time = 30 ÷ 4.5 ≈ 6.7 m/s. Multiplying the numbers (30 × 4.5 = 135) is a common slip.",
     "difficulty": "medium"
    },
    {
     "content": "Power is best described as a combination of which two components?",
     "options": [
-     "Strength and speed",
      "Balance and flexibility",
+     "Strength and speed",
      "Endurance and agility",
      "Reaction time and coordination"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "Power is the ability to use strength quickly, for example in a vertical jump or a shot put throw.",
     "difficulty": "medium"
    },
    {
     "content": "A coach says: 'Our goalkeeper needs to change direction quickly while keeping control of her body.' Which component is being described?",
     "options": [
-     "Cardiovascular endurance",
      "Agility",
+     "Cardiovascular endurance",
      "Muscular strength",
      "Body composition"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Agility is the ability to change direction quickly and accurately. It differs from speed, which is straight-line movement.",
     "difficulty": "medium"
    },
@@ -117,11 +117,11 @@
     "content": "Jonas's results on a fitness test are: sit and reach 12 cm, then 15 cm after six weeks of stretching. What is the percentage improvement?",
     "options": [
      "20%",
-     "25%",
      "3%",
+     "25%",
      "80%"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "The change is 15 − 12 = 3 cm. 3 ÷ 12 = 0.25, so a 25% improvement. 20% would come from dividing by 15.",
     "difficulty": "medium"
    },
@@ -141,11 +141,11 @@
     "content": "Why might a marathon runner and a weightlifter both be considered fit but have very different fitness profiles?",
     "options": [
      "Fitness is the same in every sport",
-     "Each sport needs different components, so training emphasises different ones",
      "Only the weightlifter has any fitness",
+     "Each sport needs different components, so training emphasises different ones",
      "Marathon runners do not need strength"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "Fitness is specific. A marathon runner needs high cardiovascular and muscular endurance, while a weightlifter needs maximum strength and power.",
     "difficulty": "medium"
    },
@@ -176,36 +176,36 @@
    {
     "content": "Sana tests her classmates and records the results in a table. One test used a stopwatch started by one student and stopped by another. Which is the biggest limitation of this method?",
     "options": [
-     "Human timing error reduces reliability",
      "Stopwatches cannot measure seconds",
+     "Human timing error reduces reliability",
      "The test measures flexibility",
      "The result cannot be compared to anything"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "Hand timing varies by reaction time of the timer, which reduces reliability. Using the same timer, repeating trials or using timing gates improves it.",
     "difficulty": "hard"
    },
    {
     "content": "A netball player jumps high to intercept a pass, then lands and changes direction at once. Which combination of components is she using most?",
     "options": [
-     "Power, agility and balance",
      "Flexibility and body composition only",
      "Muscular endurance and cardiovascular endurance only",
-     "Reaction time only"
+     "Reaction time only",
+     "Power, agility and balance"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "The jump uses power, the quick change of direction uses agility and keeping control on landing uses balance. Sports use several components together.",
     "difficulty": "hard"
    },
    {
     "content": "A student concludes: 'My friend ran further in the Cooper test, so he has better muscular strength.' What is wrong with the conclusion?",
     "options": [
-     "Nothing, further always means stronger",
      "The Cooper test measures cardiovascular endurance, not strength",
+     "Nothing, further always means stronger",
      "The Cooper test measures flexibility",
      "Running distance cannot be measured"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "The conclusion matches the wrong component to the test. A valid conclusion must link the result to the component the test actually measures.",
     "difficulty": "hard"
    },
@@ -271,12 +271,12 @@
    {
     "content": "What does the 'I' in the FITT principle stand for?",
     "options": [
-     "Intensity",
      "Inactivity",
      "Improvement",
-     "Individuality"
+     "Individuality",
+     "Intensity"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "FITT stands for Frequency, Intensity, Time and Type. Intensity is how hard you work.",
     "difficulty": "easy"
    },
@@ -295,12 +295,12 @@
    {
     "content": "Which type of training is best for improving cardiovascular endurance?",
     "options": [
-     "Steady running for 30 minutes",
      "A single heavy lift",
      "Holding a stretch for 10 seconds",
+     "Steady running for 30 minutes",
      "Practising a free throw"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Sustained aerobic activity such as continuous running raises the demand on the heart and lungs. Heavy lifts train strength.",
     "difficulty": "easy"
    },
@@ -343,41 +343,41 @@
    {
     "content": "Sofia runs 20 minutes three times a week and increases her run time by 10% each fortnight. What will her run time be after the first increase?",
     "options": [
-     "22 minutes",
      "21 minutes",
      "30 minutes",
+     "22 minutes",
      "20.1 minutes"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "10% of 20 is 2 minutes, so 20 + 2 = 22 minutes. This gradual increase is progressive overload.",
     "difficulty": "medium"
    },
    {
     "content": "A 16-year-old estimates their maximum heart rate with 220 − age. What is it, and what is 60% of it (rounded)?",
     "options": [
-     "204 and 122",
      "204 and 100",
      "220 and 132",
-     "236 and 142"
+     "236 and 142",
+     "204 and 122"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "220 − 16 = 204. 60% of 204 = 122.4, which rounds to 122. The formula is only an estimate.",
     "difficulty": "medium"
    },
    {
     "content": "Which statement best describes progressive overload?",
     "options": [
-     "Gradually increasing the demands on the body as it adapts",
      "Doing the same session every day",
      "Training only on one body part",
+     "Gradually increasing the demands on the body as it adapts",
      "Taking a complete rest from training"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Overload means working harder than usual, and progressive means it is increased step by step so the body adapts safely.",
     "difficulty": "medium"
    },
    {
-    "content": "A circuit training session has eight stations of 40 seconds each, with 20 seconds of rest between stations, and the circuit is done 3 times. What is the total time including all rest? (Treat rest as 8 per circuit.)",
+    "content": "A circuit training session has eight stations of 40 seconds each, with 20 seconds of rest after every station (including the last), and the circuit is done 3 times. What is the total time including all rest?",
     "options": [
      "24 minutes",
      "16 minutes",
@@ -385,7 +385,7 @@
      "8 minutes"
     ],
     "answer": 0,
-    "explanation": "Each station plus rest is 60 s, so 8 stations take 8 min, and 3 circuits take 24 min.",
+    "explanation": "Each station plus its rest is 60 s, so 8 stations take 8 minutes, and 3 circuits take 24 minutes.",
     "difficulty": "medium"
    },
    {
@@ -403,24 +403,24 @@
    {
     "content": "A swimmer does exactly the same session five times a week for six months and becomes bored and stops improving. Which two ideas explain this best?",
     "options": [
-     "Tedium and a need for variation and progression",
      "Reversibility and flexibility",
      "Body composition and balance",
-     "Reaction time and agility"
+     "Reaction time and agility",
+     "Tedium and a need for variation and progression"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "Doing the same routine causes boredom (tedium) and the body adapts so no further overload occurs. Varying and progressing the training helps.",
     "difficulty": "medium"
    },
    {
     "content": "Which activity is an example of plyometric training?",
     "options": [
-     "Box jumps",
      "Slow static stretching",
      "Walking",
-     "Holding a plank"
+     "Holding a plank",
+     "Box jumps"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "Plyometrics uses explosive jumping or bounding movements to develop power.",
     "difficulty": "medium"
    },
@@ -439,12 +439,12 @@
    {
     "content": "A player's resting heart rate falls from 72 to 64 beats per minute over 10 weeks of aerobic training. What is the most reasonable conclusion?",
     "options": [
-     "Their heart has become more efficient",
      "Their flexibility has improved",
      "They have lost muscle",
+     "Their heart has become more efficient",
      "The test is invalid because heart rate cannot change"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "A lower resting heart rate is a typical adaptation to aerobic training because each beat pumps more blood. One result does not prove cause, but it fits the pattern.",
     "difficulty": "hard"
    },
@@ -463,24 +463,24 @@
    {
     "content": "An athlete trains hard six days a week with no rest and gets slower and more tired. What principle has been ignored, and what is the likely issue?",
     "options": [
-     "Recovery; overtraining",
      "Specificity; boredom",
+     "Recovery; overtraining",
      "Flexibility; stiffness only",
      "Reaction time; clumsiness"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "Adaptation happens during recovery. Without rest days the body cannot repair and strengthen, which can lead to overtraining and injury.",
     "difficulty": "hard"
    },
    {
     "content": "Which evaluation of a six-week training plan is strongest?",
     "options": [
-     "Compare before and after test results, consider reliability and note what could be changed",
      "Say it was good because it was hard",
+     "Compare before and after test results, consider reliability and note what could be changed",
      "Say it failed since it was tiring",
      "Ignore the data and rely on opinion"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "A good evaluation uses data from tests, comments on limitations and suggests specific improvements, which links to Criterion D.",
     "difficulty": "hard"
    }
@@ -534,36 +534,36 @@
    {
     "content": "What is the main purpose of a warm-up?",
     "options": [
-     "To prepare the body and mind for exercise and reduce injury risk",
      "To finish a session",
      "To make the muscles tired",
+     "To prepare the body and mind for exercise and reduce injury risk",
      "To replace training"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "A warm-up raises body temperature, increases blood flow and prepares muscles and joints for activity.",
     "difficulty": "easy"
    },
    {
     "content": "Which activity is the best 'pulse raiser' at the start of a warm-up?",
     "options": [
-     "Light jogging",
      "Holding a long static stretch",
+     "Light jogging",
      "Lifting a maximum weight",
      "Sitting down"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "A pulse raiser gradually increases heart rate and body temperature. Light jogging does this.",
     "difficulty": "easy"
    },
    {
     "content": "Which of these is usually part of a cool-down?",
     "options": [
-     "Slow walking and gentle stretching",
      "A sprint",
+     "Slow walking and gentle stretching",
      "A heavy weight lift",
      "A competitive match"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "A cool-down gradually lowers heart rate and breathing and includes gentle stretching.",
     "difficulty": "easy"
    },
@@ -582,24 +582,24 @@
    {
     "content": "Before a lesson starts, a teacher walks around the gym checking for wet patches and loose equipment. What is this called?",
     "options": [
-     "Risk assessment",
      "Cool-down",
      "Tactics",
+     "Risk assessment",
      "Fartlek"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Checking for hazards and deciding how to control them is a risk assessment.",
     "difficulty": "easy"
    },
    {
     "content": "Which stretch type is most appropriate in the main part of a warm-up?",
     "options": [
-     "Dynamic stretches such as leg swings",
      "Long static stretches only",
      "No movement at all",
-     "Maximum-effort jumps from cold"
+     "Maximum-effort jumps from cold",
+     "Dynamic stretches such as leg swings"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "Dynamic stretches take joints through their range while moving and are suited to warm-ups. Long static holds are more suited to a cool-down.",
     "difficulty": "medium"
    },
@@ -618,72 +618,72 @@
    {
     "content": "Why might a cool-down help recovery after exercise?",
     "options": [
-     "It lets heart rate and breathing return gradually towards resting levels",
      "It makes the body colder at once",
      "It stops the heart",
-     "It builds maximum strength"
+     "It builds maximum strength",
+     "It lets heart rate and breathing return gradually towards resting levels"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "A gradual cool-down keeps blood flowing and helps the body return to resting levels. It is not guaranteed to prevent all soreness.",
     "difficulty": "medium"
    },
    {
     "content": "Which is a hazard rather than a risk?",
     "options": [
-     "A wet floor in the gym",
      "A student might slip and bruise a knee",
      "The chance of injury is medium",
+     "A wet floor in the gym",
      "Wearing slippery shoes may cause a fall"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "A hazard is something that could cause harm, such as a wet floor. A risk is the chance and seriousness of harm resulting from it.",
     "difficulty": "medium"
    },
    {
     "content": "A student wearing a necklace and watch is told to remove them before gymnastics. What is the main reason?",
     "options": [
-     "They can catch on equipment or injure the student or others",
      "They make the student faster",
+     "They can catch on equipment or injure the student or others",
      "They count as a warm-up",
      "They break the rules of scoring"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "Jewellery can snag or press into skin during movement. Removing it is a simple safety control.",
     "difficulty": "medium"
    },
    {
     "content": "On a hot afternoon a coach arranges a water break every 20 minutes, shade and sun cream. Which category of safety measure is this?",
     "options": [
-     "Controlling environmental risks",
      "Choosing tactics",
+     "Controlling environmental risks",
      "Testing flexibility",
      "Scoring a match"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "These measures reduce risks caused by heat and sun, which are environmental factors.",
     "difficulty": "medium"
    },
    {
     "content": "Why is static stretching of cold muscles just before a sprint not the best choice?",
     "options": [
-     "Dynamic, progressive movement better prepares muscles for rapid effort",
      "Stretching is always harmful",
      "Sprinters never warm up",
-     "Stretching raises heart rate too much"
+     "Stretching raises heart rate too much",
+     "Dynamic, progressive movement better prepares muscles for rapid effort"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "Warm-ups should gradually raise temperature and prepare the specific movements. Dynamic movement does this better than long holds of cold muscles.",
     "difficulty": "medium"
    },
    {
     "content": "Mia has 10 minutes before a match. Which is the best use of time?",
     "options": [
-     "Pulse raiser, dynamic stretches, then drills at increasing intensity",
      "30 seconds of stretching then play",
      "Sit and wait",
+     "Pulse raiser, dynamic stretches, then drills at increasing intensity",
      "Hard sprints from the start"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "A staged warm-up builds gradually from general to specific and gives time to prepare.",
     "difficulty": "medium"
    },
@@ -702,12 +702,12 @@
    {
     "content": "A coach says: 'Warm-ups have no effect on performance, only on injury.' Which statement is the best response?",
     "options": [
-     "Warm-ups can also improve readiness, reaction and focus, though evidence on injury prevention varies by activity",
      "The coach is right in every case",
+     "Warm-ups can also improve readiness, reaction and focus, though evidence on injury prevention varies by activity",
      "Warm-ups cause injuries",
      "Warm-ups only matter in winter"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "A warm-up helps physical and mental readiness. Claims should be balanced, since the effect on injury rates differs by sport and routine.",
     "difficulty": "hard"
    },
@@ -726,12 +726,12 @@
    {
     "content": "A student's warm-up consists only of reading the plan for the match. Which evaluation is strongest?",
     "options": [
-     "It misses the physical preparation, so add a pulse raiser, mobility and sport-specific drills",
      "It is perfect",
      "It is too long",
-     "It trains strength"
+     "It trains strength",
+     "It misses the physical preparation, so add a pulse raiser, mobility and sport-specific drills"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "Mental planning is useful but the body also needs to be prepared with gradual movement. A good evaluation says what is missing and how to fix it.",
     "difficulty": "hard"
    },

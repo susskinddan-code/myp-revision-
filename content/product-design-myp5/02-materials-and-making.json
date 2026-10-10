@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "product-design",
+  "grade": 5,
+  "topic": "Materials and Making",
+  "subTopic": "Properties of Materials",
+  "questions": [
+   {
+    "content": "Which property describes how well a material resists being scratched or dented?",
+    "options": [
+     "Elasticity",
+     "Hardness",
+     "Conductivity",
+     "Malleability"
+    ],
+    "answer": 1,
+    "explanation": "Hardness is resistance to scratching, denting and abrasion. Elasticity is the ability to return to shape after being stretched.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a hardwood?",
+    "options": [
+     "Oak",
+     "Pine",
+     "Spruce",
+     "Fir"
+    ],
+    "answer": 0,
+    "explanation": "Oak comes from broad-leaved deciduous trees and is a hardwood. Pine, spruce and fir are softwoods from conifers.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which material is a thermoplastic?",
+    "options": [
+     "Epoxy resin",
+     "Melamine formaldehyde",
+     "Urea formaldehyde",
+     "Polypropylene"
+    ],
+    "answer": 3,
+    "explanation": "Thermoplastics can be softened by heat and reshaped many times. The other three are thermosetting plastics.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which property allows a metal to be hammered or rolled into thin sheets?",
+    "options": [
+     "Brittleness",
+     "Toughness",
+     "Malleability",
+     "Density"
+    ],
+    "answer": 2,
+    "explanation": "Malleability is the ability to be shaped by compression without cracking. Ductility is the ability to be drawn into wire.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a ferrous metal?",
+    "options": [
+     "Aluminium",
+     "Mild steel",
+     "Copper",
+     "Brass"
+    ],
+    "answer": 1,
+    "explanation": "Ferrous metals contain iron. Aluminium and copper are non-ferrous, and brass is a non-ferrous alloy of copper and zinc.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A designer needs a handle for a saucepan that stays cool while the pan is hot. Which property is most important?",
+    "options": [
+     "Low thermal conductivity",
+     "High electrical conductivity",
+     "High density",
+     "High malleability"
+    ],
+    "answer": 0,
+    "explanation": "Low thermal conductivity means heat passes slowly through the handle so it is comfortable to hold.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why are electrical cables made of copper with a plastic covering?",
+    "options": [
+     "Copper insulates and plastic conducts",
+     "Both are good conductors",
+     "Both are brittle",
+     "Copper conducts electricity well and plastic insulates"
+    ],
+    "answer": 3,
+    "explanation": "Copper has low electrical resistance, while the plastic sheath prevents shocks and short circuits.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which material is a composite?",
+    "options": [
+     "Pure copper",
+     "Brass",
+     "Glass reinforced plastic (GRP)",
+     "Polythene"
+    ],
+    "answer": 2,
+    "explanation": "A composite combines two or more materials, here glass fibres in a resin. Brass is an alloy, which is a mixture of metals, not a composite.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Plywood is often used in furniture instead of solid timber. What is a key advantage?",
+    "options": [
+     "It is a metal",
+     "Layers with grain at right angles resist warping and splitting",
+     "It is a thermosetting plastic",
+     "It conducts heat well"
+    ],
+    "answer": 1,
+    "explanation": "Alternating the grain direction of the veneers makes plywood strong in both directions and stable.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A kettle body must withstand heat without softening. Why is a thermosetting plastic more suitable than a thermoplastic for a hot cooking handle?",
+    "options": [
+     "Thermosets do not soften again once set",
+     "Thermosets are always cheaper",
+     "Thermosets melt easily",
+     "Thermosets are metals"
+    ],
+    "answer": 0,
+    "explanation": "Thermosetting plastics have cross-links that do not melt when reheated, so they stay rigid at moderate high temperatures.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A material can be stretched under load and then returns to its original shape when the load is removed. What is this property?",
+    "options": [
+     "Plasticity",
+     "Brittleness",
+     "Corrosion",
+     "Elasticity"
+    ],
+    "answer": 3,
+    "explanation": "Elasticity is the ability to return to the original shape after being deformed. Plastic deformation is permanent.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is aluminium often chosen for aircraft and bicycle frames?",
+    "options": [
+     "High density and heavy",
+     "It rusts quickly",
+     "Low density with good strength and corrosion resistance",
+     "It is a thermoplastic"
+    ],
+    "answer": 2,
+    "explanation": "Aluminium (usually in alloys) has a high strength-to-weight ratio and forms a protective oxide layer.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student must choose a material for an outdoor garden bench. Which option is the best combination of properties?",
+    "options": [
+     "Untreated cardboard: cheap and light",
+     "Treated hardwood: durable and weather resistant",
+     "Thin glass: transparent",
+     "Raw mild steel without any coating: strong"
+    ],
+    "answer": 1,
+    "explanation": "Outdoor materials must resist moisture and decay. Treated hardwood does this. Bare mild steel rusts and cardboard degrades.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The table in a report states: 'Material X density 2.7 g/cm³, Material Y density 7.8 g/cm³. Both parts have the same volume of 100 cm³.' What is the mass of part Y?",
+    "options": [
+     "780 g",
+     "270 g",
+     "78 g",
+     "7800 g"
+    ],
+    "answer": 0,
+    "explanation": "Mass = density × volume = 7.8 × 100 = 780 g. X would be 270 g.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A bridge model must resist being pulled apart. Which test measures this property?",
+    "options": [
+     "Hardness scratch test",
+     "Conductivity test",
+     "Colour test",
+     "Tensile strength test"
+    ],
+    "answer": 3,
+    "explanation": "Tensile strength is the ability to resist pulling forces. Hardness and conductivity are different properties.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which statement about alloys is correct?",
+    "options": [
+     "Alloys are always pure elements",
+     "Alloys are always plastics",
+     "Alloys are mixtures of metals that often have improved properties",
+     "Alloys are made of timber"
+    ],
+    "answer": 2,
+    "explanation": "Alloys combine metals (or a metal and another element) to improve properties such as strength or corrosion resistance. Brass and stainless steel are examples.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A designer compares two materials for a phone case. Material M is tough but scratches easily; material N is hard but brittle. The phone is often dropped on tiles. Which is the best justified choice?",
+    "options": [
+     "N, because hardness always prevents cracking",
+     "M, because toughness absorbs impact without shattering",
+     "N, because brittle materials absorb impact well",
+     "Neither property matters"
+    ],
+    "answer": 1,
+    "explanation": "Toughness is resistance to fracture under impact. A brittle material may crack when dropped, so toughness matters more here, though a coating could add scratch resistance.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Why might a manufacturer choose recycled PET for a drinks bottle rather than virgin PET, even if the cost is similar?",
+    "options": [
+     "It reduces the use of new resources and waste",
+     "It makes the bottle a metal",
+     "It makes the bottle thermosetting",
+     "It removes the need for design"
+    ],
+    "answer": 0,
+    "explanation": "Recycled content reduces demand for virgin raw materials and landfill waste, supporting sustainable design.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why materials matter\nA designer must choose materials that suit the product's function, the user, the manufacturing process, the cost and the environment. To choose well you need to know the **properties** of materials and the families they belong to.\n\n## Key properties\n- **Hardness**: resistance to scratching, denting and wear.\n- **Toughness**: ability to absorb impact without breaking. Opposite: **brittleness**, where a material snaps or shatters suddenly.\n- **Strength**: resistance to forces. Tensile strength resists pulling and compressive strength resists squashing.\n- **Elasticity**: returns to shape after being stretched or bent. **Plasticity**: stays deformed.\n- **Malleability**: can be hammered or pressed into shape. **Ductility**: can be drawn into wire.\n- **Density**: mass per unit volume, calculated as mass ÷ volume. Lower density gives lighter products.\n- **Thermal and electrical conductivity**: how easily heat or electricity passes through. Metals conduct well, plastics and wood mostly insulate.\n- **Corrosion resistance**: ability to resist chemical attack, such as rusting in iron.\n\n## Material families\n### Timber\n**Hardwoods** come from broad-leaved trees such as oak, beech and mahogany. They are usually slower growing, denser and more expensive. **Softwoods** come from conifers such as pine and spruce. They are quick growing and cheaper. **Manufactured boards** include plywood, MDF and chipboard, which are made from layers, fibres or chips bonded with adhesive. They are stable and available in large flat sheets.\n\n### Metals\n**Ferrous** metals contain iron, for example mild steel (strong and cheap but rusts) and cast iron (hard but brittle). **Non-ferrous** metals do not contain iron: aluminium (light and corrosion resistant), copper (excellent conductor) and zinc. An **alloy** is a mixture of metals, such as brass (copper and zinc) or stainless steel (iron with chromium).\n\n### Plastics\n**Thermoplastics** soften when heated and can be reshaped repeatedly. Examples are polythene, polypropylene and acrylic. **Thermosetting plastics** set permanently and do not soften again, for example epoxy resin and melamine formaldehyde, which is used for hard-wearing surfaces.\n\n### Composites and smart materials\n**Composites** combine two materials to gain the benefits of both, such as glass reinforced plastic (GRP) or carbon fibre reinforced plastic. **Smart materials** respond to a change in their environment, such as thermochromic film that changes colour with temperature.\n\n## Worked example: density\nA metal part has a volume of 50 cm³ and a density of 2.7 g/cm³. Its mass is 2.7 × 50 = 135 g. A steel part of the same volume with density 7.8 g/cm³ has a mass of 7.8 × 50 = 390 g, almost three times as much.\n\n## Choosing materials\nMatch properties to the need: a garden chair needs weather resistance, a saucepan handle needs low thermal conductivity, a cable core needs high electrical conductivity. Consider cost, availability, ease of working, appearance and environmental impact, including whether the material can be reused or recycled.\n\n## How this is examined\nIn the eAssessment you might read a short product scenario and be asked to select the most suitable material and justify it, compare two materials from data such as density or cost, or identify a property from its description. Command terms include **identify**, **state**, **explain** and **justify**. Link each property to the function in the question.\n\n## Common mistakes\n- Confusing hardness with strength.\n- Mixing up thermoplastic and thermosetting plastics.\n- Saying all metals are magnetic. Only some ferrous metals are.\n- Naming a property without linking it to the product's use.\n\nExam tip: To justify a material choice, name the property, then say why that property matters for the product.",
+  "flashcards": [
+   {
+    "front": "Hardness",
+    "back": "Resistance to scratching, denting and wear."
+   },
+   {
+    "front": "Toughness vs brittleness",
+    "back": "A tough material absorbs impact without breaking; a brittle material snaps or shatters suddenly."
+   },
+   {
+    "front": "Malleable vs ductile",
+    "back": "Malleable: can be hammered or rolled into shape. Ductile: can be drawn into a wire."
+   },
+   {
+    "front": "Hardwood vs softwood",
+    "back": "Hardwoods come from broad-leaved trees (oak, beech); softwoods come from conifers (pine, spruce)."
+   },
+   {
+    "front": "Ferrous and non-ferrous metals",
+    "back": "Ferrous metals contain iron (mild steel, cast iron). Non-ferrous do not (aluminium, copper)."
+   },
+   {
+    "front": "Alloy",
+    "back": "A mixture of metals, or a metal with another element, with improved properties, such as brass or stainless steel."
+   },
+   {
+    "front": "Thermoplastic vs thermosetting plastic",
+    "back": "Thermoplastics soften repeatedly when heated; thermosetting plastics set permanently and do not soften again."
+   },
+   {
+    "front": "Composite",
+    "back": "A material made from two or more materials combined to get the benefits of both, such as GRP."
+   },
+   {
+    "front": "Density formula",
+    "back": "Density = mass ÷ volume. Mass = density × volume. Lower density gives a lighter product."
+   }
+  ]
+ },
+ {
+  "subject": "product-design",
+  "grade": 5,
+  "topic": "Materials and Making",
+  "subTopic": "Tools and Manufacturing Methods",
+  "questions": [
+   {
+    "content": "Which tool is best for cutting a thin curved shape in plywood?",
+    "options": [
+     "Tenon saw",
+     "Coping saw",
+     "Hacksaw",
+     "Chisel"
+    ],
+    "answer": 1,
+    "explanation": "A coping saw has a thin blade that can turn tight curves. A tenon saw is for straight joint cuts and a hacksaw is for metal.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a 'prototype'?",
+    "options": [
+     "A first model made to test a design",
+     "A final mass-produced item",
+     "A drawing only",
+     "A sales brochure"
+    ],
+    "answer": 0,
+    "explanation": "A prototype is a model or early version used to test ideas before production.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which type of production makes one item at a time, often to a customer's needs?",
+    "options": [
+     "Mass production",
+     "Continuous production",
+     "Batch production",
+     "One-off production"
+    ],
+    "answer": 3,
+    "explanation": "One-off (job) production makes a single, often custom, product, such as a bespoke piece of furniture.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does CNC stand for?",
+    "options": [
+     "Cutting new components",
+     "Central nylon casting",
+     "Computer numerical control",
+     "Careful normal cutting"
+    ],
+    "answer": 2,
+    "explanation": "CNC machines follow coded instructions from a computer to cut or shape material accurately.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which process heats plastic until soft and then forms it over a mould using vacuum?",
+    "options": [
+     "Injection moulding",
+     "Vacuum forming",
+     "Casting",
+     "Laminating"
+    ],
+    "answer": 1,
+    "explanation": "Vacuum forming sucks softened plastic sheet onto a mould to make shapes such as trays and packaging.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A company makes 500 identical water bottles in a run, then switches the machine to produce 500 bottles of a different colour. What type of production is this?",
+    "options": [
+     "Batch production",
+     "One-off production",
+     "Continuous production",
+     "Prototype production"
+    ],
+    "answer": 0,
+    "explanation": "Batch production makes a set quantity of identical products before changing to another.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is injection moulding suitable for making thousands of identical plastic parts?",
+    "options": [
+     "The mould is cheap and simple",
+     "It needs no machine",
+     "It works only for single items",
+     "Once the mould is made, parts are produced quickly and consistently"
+    ],
+    "answer": 3,
+    "explanation": "Moulds are expensive but allow fast, repeatable production, so the cost per part falls with large quantity.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A laser cutter is used to cut shapes from acrylic sheet. Which is an advantage over cutting by hand?",
+    "options": [
+     "Slower for complicated shapes",
+     "Needs no design file",
+     "High accuracy and repeatability",
+     "Works without electricity"
+    ],
+    "answer": 2,
+    "explanation": "Laser cutters follow digital drawings, producing precise, repeatable parts.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is the main reason for using a marking gauge in woodwork?",
+    "options": [
+     "To cut curves",
+     "To mark a line parallel to an edge at a set distance",
+     "To sand surfaces",
+     "To drill holes"
+    ],
+    "answer": 1,
+    "explanation": "A marking gauge scribes a consistent line parallel to an edge, useful for joints.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A designer wants to produce a complex hollow shape in metal, such as an engine part. Which process is suitable?",
+    "options": [
+     "Casting by pouring molten metal into a mould",
+     "Sanding",
+     "Bending thin wire",
+     "Folding paper"
+    ],
+    "answer": 0,
+    "explanation": "Casting allows complex solid or hollow shapes using a mould.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is a safety reason for using a vice or clamp?",
+    "options": [
+     "It makes material stronger",
+     "It heats the material",
+     "It prevents corrosion",
+     "It holds the workpiece securely so both hands are free"
+    ],
+    "answer": 3,
+    "explanation": "Securing work prevents movement and reduces the risk of injury and inaccuracy.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why might a company choose 3D printing for prototypes rather than injection moulding?",
+    "options": [
+     "It always produces cheaper large batches",
+     "It works only with timber",
+     "No expensive mould is needed for small quantities",
+     "It is slower and less flexible than a mould for one item"
+    ],
+    "answer": 2,
+    "explanation": "Additive manufacturing builds directly from a digital file, so changes are quick and there is no tooling cost for one-off prototypes.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the difference between a subtractive and additive process?",
+    "options": [
+     "Subtractive adds; additive removes",
+     "Subtractive removes material; additive builds layer by layer",
+     "They are identical",
+     "Subtractive only works on plastic"
+    ],
+    "answer": 1,
+    "explanation": "Milling and drilling are subtractive. 3D printing is additive.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A factory's injection mould costs 12 000 dollars and each part then costs 0.40 dollars in materials and energy. What is the average cost per part if 20 000 are made?",
+    "options": [
+     "1.00 dollars",
+     "0.60 dollars",
+     "12.40 dollars",
+     "0.40 dollars"
+    ],
+    "answer": 0,
+    "explanation": "Mould cost per part = 12 000 ÷ 20 000 = 0.60. Adding 0.40 gives 1.00 dollar per part.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "For the same mould, how many parts must be made for the average cost per part to fall to 0.80 dollars?",
+    "options": [
+     "15 000",
+     "12 000",
+     "60 000",
+     "30 000"
+    ],
+    "answer": 3,
+    "explanation": "Average = 12 000 ÷ n + 0.40 = 0.80, so 12 000 ÷ n = 0.40 and n = 30 000.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A company currently makes 50 custom wooden signs a month by hand. Orders rise to 5000 identical signs a month. Which change is most appropriate?",
+    "options": [
+     "Continue entirely by hand",
+     "Stop making signs",
+     "Move to CNC routing with jigs for repeatable cutting",
+     "Use only pencils"
+    ],
+    "answer": 2,
+    "explanation": "High-volume, identical output suits automated machining. Hand work would be slow and inconsistent.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student states that CNC machines remove the need for human skill. Which is the best response?",
+    "options": [
+     "Correct, no skill is required",
+     "Skilled people still design, program, set up, monitor and maintain the machines",
+     "Machines never need maintenance",
+     "Designers are not needed"
+    ],
+    "answer": 1,
+    "explanation": "CNC changes the type of skill needed but does not remove it. Operators check settings, safety and quality.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A product must be produced quickly in thousands but must also allow quick colour changes. Which production approach fits best?",
+    "options": [
+     "Batch production with flexible machinery",
+     "One-off production",
+     "Hand carving",
+     "Only prototyping"
+    ],
+    "answer": 0,
+    "explanation": "Batch production makes sets of identical items and allows changes between runs while still being efficient.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Making a design real\nOnce a design is chosen, it has to be made. The tools, processes and scale of production you pick affect cost, quality, speed and impact on the environment. You need to know common hand tools, machine tools and manufacturing methods, and when each is best.\n\n## Hand tools and measuring\n- **Marking out**: pencils, scribers, rules, squares, marking gauges and templates. Accurate marking makes accurate parts.\n- **Cutting**: tenon saw (straight cuts in wood), coping saw (curves), hacksaw (metal and plastic), snips (thin sheet), craft knife (card and foam).\n- **Shaping**: files, rasps, chisels and sandpaper.\n- **Holding**: vices, clamps and workholding jigs keep the workpiece steady.\nAlways use the correct tool for the material and keep it sharp and clean.\n\n## Machine tools\n- **Pillar drill**: drills accurate holes. Clamp small pieces.\n- **Lathe**: spins the workpiece while a cutting tool shapes it, producing round shapes like table legs.\n- **Band saw and scroll saw**: cut curves and shapes.\n- **Milling machine**: removes material with a rotating cutter.\nAll machines require training, guards and eye protection.\n\n## Digital manufacturing\n**CAD (computer-aided design)** produces digital drawings. **CAM (computer-aided manufacture)** uses those files to control machines. A **CNC** machine follows coded instructions to cut or mill accurately and repeatedly. A **laser cutter** cuts or engraves sheet materials. A **3D printer** is an **additive** process, building a part layer by layer, while milling and drilling are **subtractive**, removing material.\n\n## Forming plastics and metals\n- **Vacuum forming**: heated thermoplastic sheet is drawn over a mould by vacuum.\n- **Injection moulding**: molten plastic is injected into a metal mould. Very fast and repeatable but the mould is expensive.\n- **Casting**: molten metal or resin poured into a mould.\n- **Bending**: heating a thermoplastic or folding sheet metal.\n\n## Scales of production\n- **One-off**: a single item, high skill, high cost per item, flexible.\n- **Batch**: a set number made together, then changed to another product.\n- **Mass**: large quantities of identical products on production lines, low cost per item, expensive setup.\n- **Continuous**: runs constantly, for example producing paper or plastic film.\n\n### Worked example\nA mould costs 8000 dollars and each part costs 0.50 dollars to make. For 10 000 parts, the average cost per part is 8000 ÷ 10 000 + 0.50 = 1.30 dollars. If 40 000 parts are made, it falls to 0.20 + 0.50 = 0.70 dollars. This is why mass production is cheaper per item.\n\n## Quality and safety\nQuality control checks sizes, finish and function at stages. Use jigs, templates and gauges to keep parts consistent. Follow workshop safety rules and wear protective equipment.\n\n## How this is examined\nIn the eAssessment you may be shown a product and asked to choose a suitable process, explain why a tool or method is used, compare production types using cost data or calculate average cost per unit. Command terms include **identify**, **explain**, **calculate** and **justify**. Match the process to the material, quantity and shape required.\n\n## Common mistakes\n- Confusing batch with mass production.\n- Choosing injection moulding for a single prototype.\n- Forgetting tooling costs in cost comparisons.\n- Using a tool name without saying what it does.\n\nExam tip: For production questions, always consider the quantity needed. Quantity often decides which method is best.",
+  "flashcards": [
+   {
+    "front": "CAD and CAM",
+    "back": "CAD: computer-aided design (digital drawing). CAM: computer-aided manufacture, where design files control machines."
+   },
+   {
+    "front": "CNC machine",
+    "back": "A computer numerical control machine follows coded instructions to cut or shape material accurately and repeatedly."
+   },
+   {
+    "front": "Additive vs subtractive",
+    "back": "Additive builds a part up layer by layer (3D printing). Subtractive removes material (milling, drilling, sawing)."
+   },
+   {
+    "front": "Vacuum forming",
+    "back": "Heated thermoplastic sheet is pulled over a mould by vacuum. Used for trays, packaging and food containers."
+   },
+   {
+    "front": "Injection moulding",
+    "back": "Molten plastic is forced into a mould. Fast and repeatable, but the mould is expensive, so it suits large quantities."
+   },
+   {
+    "front": "One-off production",
+    "back": "A single item made, often to order. High skill and high cost per item, but very flexible."
+   },
+   {
+    "front": "Batch production",
+    "back": "A set number of identical items made together, then the machinery changes to another product."
+   },
+   {
+    "front": "Mass production",
+    "back": "Large numbers of identical items on production lines. High set-up cost but low cost per item."
+   },
+   {
+    "front": "Average cost per unit",
+    "back": "(Tooling cost ÷ number made) + cost per unit for materials and energy. Larger quantities lower the average."
+   }
+  ]
+ },
+ {
+  "subject": "product-design",
+  "grade": 5,
+  "topic": "Materials and Making",
+  "subTopic": "Joining and Finishing",
+  "questions": [
+   {
+    "content": "Which adhesive is commonly used for gluing wood in furniture?",
+    "options": [
+     "Superglue only",
+     "PVA glue",
+     "Solder",
+     "Weld"
+    ],
+    "answer": 1,
+    "explanation": "PVA (polyvinyl acetate) is a white wood glue that sets strongly when clamped.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the purpose of a finish on wood?",
+    "options": [
+     "To protect it and improve appearance",
+     "To make it heavier",
+     "To weaken it",
+     "To remove all grain"
+    ],
+    "answer": 0,
+    "explanation": "Finishes such as paint, varnish and oil protect against moisture and wear, and can improve appearance.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which fastener has a thread and is turned with a screwdriver?",
+    "options": [
+     "Nail",
+     "Rivet",
+     "Dowel",
+     "Screw"
+    ],
+    "answer": 3,
+    "explanation": "A screw has a helical thread that grips the material. Nails are driven in with a hammer.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which joint is made by cutting interlocking tails and pins?",
+    "options": [
+     "Butt joint",
+     "Dowel joint",
+     "Dovetail joint",
+     "Lap joint"
+    ],
+    "answer": 2,
+    "explanation": "Dovetail joints interlock and resist being pulled apart, used for drawers.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What process uses a low melting-point alloy to join metal parts such as electronic components?",
+    "options": [
+     "Gluing",
+     "Soldering",
+     "Riveting",
+     "Stitching"
+    ],
+    "answer": 1,
+    "explanation": "Soldering joins metals with a molten filler alloy (solder), commonly used in electronics.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A student joins two plywood panels at right angles using glue and a few small dowels. Why are dowels added?",
+    "options": [
+     "To align the parts and increase the glued area",
+     "To make the wood softer",
+     "To stop glue working",
+     "To reduce strength"
+    ],
+    "answer": 0,
+    "explanation": "Dowels help alignment and strengthen a butt joint by adding extra bonding surface.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is a permanent fixing?",
+    "options": [
+     "One that is easily taken apart, such as a bolt",
+     "One for temporary use only",
+     "One that uses no materials",
+     "One that cannot be undone without damage, such as welding or rivets"
+    ],
+    "answer": 3,
+    "explanation": "Permanent fixings include adhesives, rivets and welds. Temporary (knock-down) fixings include bolts and screws.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why would flat-pack furniture use cam locks and bolts rather than permanent glue?",
+    "options": [
+     "They are cheaper only",
+     "They are invisible",
+     "They allow assembly and disassembly by the user",
+     "They make furniture stronger than glue always"
+    ],
+    "answer": 2,
+    "explanation": "Knock-down fittings let customers assemble products at home and make transport compact.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A designer wants to protect a metal garden gate from rust. Which finish is suitable?",
+    "options": [
+     "Clear paper",
+     "Zinc-rich paint or galvanising",
+     "No finish",
+     "A wax crayon"
+    ],
+    "answer": 1,
+    "explanation": "Coatings that block oxygen and moisture prevent iron corroding. Galvanising applies a protective zinc layer.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the main advantage of using a rivet to join two sheets of aluminium?",
+    "options": [
+     "It makes a strong permanent joint without heat",
+     "It can be easily taken apart",
+     "It melts the aluminium",
+     "It needs no tools"
+    ],
+    "answer": 0,
+    "explanation": "Rivets are used where welding is difficult. Heat can distort thin sheets or damage coatings.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why should a surface be sanded before painting wood?",
+    "options": [
+     "To make the wood weaker",
+     "To add moisture",
+     "To remove the need for paint",
+     "To create a smooth surface so paint adheres and looks even"
+    ],
+    "answer": 3,
+    "explanation": "Preparation influences finish quality. Sanding removes roughness and gives the paint a key to bond to.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement about finishing plastics is correct?",
+    "options": [
+     "Plastics can never be finished",
+     "All plastics are finished with varnish",
+     "Acrylic edges can be polished to a shiny finish",
+     "Plastics should be oiled like wood"
+    ],
+    "answer": 2,
+    "explanation": "Acrylic can be polished with abrasives and buffing to give a clear, glossy edge.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A wooden child's toy must be safe if chewed. Which finish is the best choice?",
+    "options": [
+     "Lead paint",
+     "A non-toxic, food-safe oil or water-based paint",
+     "Solvent-based varnish with toxic additives",
+     "No consideration of safety"
+    ],
+    "answer": 1,
+    "explanation": "Products for children must use safe finishes that meet toy safety standards.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A table top glued from several boards cracks after a year indoors near a radiator. What is the most likely reason?",
+    "options": [
+     "Wood shrinks as it dries, and the glued panels were held rigidly",
+     "Wood is a metal",
+     "Glue conducts electricity",
+     "The boards were too smooth"
+    ],
+    "answer": 0,
+    "explanation": "Timber moves with moisture and temperature, so joints and fixings must allow for movement or the wood must be well seasoned.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A designer needs a joint that can resist pulling apart in a box corner, and appearance matters. Which joint and reason are best?",
+    "options": [
+     "Butt joint only, because it has no gluing area",
+     "Nail only, because nails never loosen",
+     "A staple joint, because it is invisible",
+     "Finger joint, because it has large glued surfaces and interlocks"
+    ],
+    "answer": 3,
+    "explanation": "Finger and dovetail joints add a large gluing area and mechanical locking, giving strength and an attractive appearance.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A company compares fixing options for a kitchen cabinet: screws (removable) or permanent glue. The cabinet might need repair or recycling later. Which statement is the best evaluation?",
+    "options": [
+     "Glue is always better",
+     "Screws are never strong",
+     "Screws make repair and recycling easier, but may need a stronger design to resist loosening",
+     "Recycling is unrelated to joining methods"
+    ],
+    "answer": 2,
+    "explanation": "Design for disassembly helps repair and recycling. The designer should also consider how to keep screws secure.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two finishes are tested on pine. Oil takes 2 hours to apply and protects for about 2 years. Polyurethane varnish takes 3 hours to apply and protects for about 6 years. Both need re-coating at the end of life. Per hour of application, which gives more years of protection?",
+    "options": [
+     "Oil: 2 ÷ 2 = 1 year per hour compared with varnish's 0.5",
+     "Varnish: 6 ÷ 3 = 2 years per hour compared with oil's 1 year per hour",
+     "They are equal",
+     "Cannot be compared"
+    ],
+    "answer": 1,
+    "explanation": "Oil gives 2 ÷ 2 = 1 year per hour of application. Varnish gives 6 ÷ 3 = 2 years per hour, so varnish is more efficient on this measure.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A product is soldered, but a customer drops it and a joint fails. Which improvement is most appropriate?",
+    "options": [
+     "Reinforce the joint and reduce strain on the solder, for example with a clip or strain relief",
+     "Use less solder",
+     "Remove all fixings",
+     "Paint over the joint"
+    ],
+    "answer": 0,
+    "explanation": "Solder is weak under strain. Mechanical support reduces the force on the joint.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why joining and finishing matter\nMost products are made of several parts that must be fixed together, and nearly all benefit from a finish that protects them and improves appearance. The choices affect strength, cost, safety, repair and recycling.\n\n## Types of fixing\n**Permanent fixings** cannot be undone without damage. **Temporary** or **knock-down** fixings can be taken apart.\n- **Adhesives**: PVA for wood, epoxy resin for strong joins of many materials, solvent cement for some plastics, hot glue for quick low-strength joins. Surfaces must be clean and clamped while the glue sets.\n- **Mechanical fastenings**: nails, screws, bolts and nuts, rivets and staples. Screws and bolts are temporary. Rivets are permanent.\n- **Heat joining**: welding fuses metals, brazing uses a brass filler, and soldering uses a low-melting alloy to join electronic components and copper pipes.\n\n## Wood joints\n- **Butt joint**: two pieces simply meeting. Weak unless reinforced with dowels, screws or corner blocks.\n- **Dowel joint**: wooden pegs align the parts and increase gluing area.\n- **Lap and halving joints**: overlapping surfaces give more glue area.\n- **Finger (box) joint**: interlocking fingers give large glue area, used in boxes.\n- **Dovetail joint**: tails and pins lock against pulling, ideal for drawers.\n- **Mortise and tenon**: a tongue fits in a slot, strong for frames and legs.\nJoint choice depends on strength required, appearance, tools available and whether the product needs to be taken apart.\n\n## Joining metals and plastics\nSheet metal can be riveted, bolted or welded. Thermoplastics can be joined with solvent cement or heat welded. Acrylic is cut and cemented with a solvent that softens the surfaces.\n\n## Finishes\n- **Wood**: sanding, then paint, varnish, stain, wax or oil. Finishes protect against moisture and wear.\n- **Metal**: paint, powder coating, plating, galvanising (zinc coating) and polishing. Finishes prevent corrosion.\n- **Plastic**: usually self-finished but can be polished or printed. Edges can be sanded and buffed.\nSurface preparation is vital: clean, sand smooth and remove dust before finishing.\n\n## Worked example\nA tray is to be made in pine for outdoor use. A designer compares options. Oil is quick but needs frequent reapplying. Exterior varnish takes longer but lasts longer. The designer considers safety for food contact and chooses a food-safe oil, planning a maintenance schedule.\n\n## Design for disassembly\nUsing screws and clips instead of glue makes it easier to repair or recycle parts. Using fewer different materials also helps recycling.\n\n## How this is examined\nIn the eAssessment you could be given a product scenario and asked to select a suitable joint or finish, explain why a joint fails, or evaluate a fixing for repair and recycling. Command terms include **identify**, **explain** and **evaluate**. Think about forces on the joint, the material, appearance and end of life.\n\n## Common mistakes\n- Using screws in a place where a permanent joint is needed.\n- Forgetting surface preparation before finishing.\n- Using toxic finishes on children's items.\n- Ignoring wood movement.\n\nExam tip: Link every fixing or finish to both a property (for example strength or water resistance) and a use.",
+  "flashcards": [
+   {
+    "front": "Permanent vs temporary fixing",
+    "back": "Permanent cannot be undone without damage (glue, rivets, welds). Temporary can be taken apart (screws, bolts)."
+   },
+   {
+    "front": "PVA",
+    "back": "Polyvinyl acetate: a white wood glue. Parts need clamping while it sets."
+   },
+   {
+    "front": "Dowel joint",
+    "back": "A joint where wooden pegs align two pieces and increase the glued area."
+   },
+   {
+    "front": "Dovetail joint",
+    "back": "Interlocking tails and pins that resist being pulled apart. Strong and attractive, used for drawers."
+   },
+   {
+    "front": "Mortise and tenon",
+    "back": "A tongue (tenon) fits into a slot (mortise). Very strong for frames and furniture legs."
+   },
+   {
+    "front": "Soldering",
+    "back": "Joining metals with a molten low-melting-point alloy. Common for electronics and copper pipe."
+   },
+   {
+    "front": "Galvanising",
+    "back": "Coating iron or steel with zinc to protect it from rusting."
+   },
+   {
+    "front": "Surface preparation",
+    "back": "Cleaning and sanding a surface before finishing so the coating sticks and looks even."
+   },
+   {
+    "front": "Design for disassembly",
+    "back": "Using screws and clips instead of permanent glue so products can be repaired and recycled more easily."
+   }
+  ]
+ }
+]

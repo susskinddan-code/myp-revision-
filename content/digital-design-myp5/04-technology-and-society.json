@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "digital-design",
+  "grade": 5,
+  "topic": "Technology and Society",
+  "subTopic": "Online Safety and Ethics",
+  "questions": [
+   {
+    "content": "What is cyberbullying?",
+    "options": [
+     "Using technology to repeatedly hurt, threaten or embarrass someone",
+     "Playing an online game with friends",
+     "Reporting a rude message to a teacher",
+     "Updating an app's software"
+    ],
+    "answer": 0,
+    "explanation": "Cyberbullying is deliberate, repeated harm carried out through digital tools such as messages, posts or games.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is the strongest password?",
+    "options": [
+     "password123",
+     "maya2010",
+     "Tr@in-Purple-Lamp-47!",
+     "qwerty"
+    ],
+    "answer": 2,
+    "explanation": "Long passwords that mix unrelated words, numbers and symbols are hard to guess. The others are common or based on personal details.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is phishing?",
+    "options": [
+     "A fake message that tricks you into giving away private information",
+     "A way of speeding up Wi-Fi",
+     "A type of video file",
+     "A backup method for photos"
+    ],
+    "answer": 0,
+    "explanation": "Phishing messages pretend to come from a trusted source to steal passwords or personal details.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'plagiarism' mean?",
+    "options": [
+     "Sharing a link with credit",
+     "Presenting someone else's work as your own",
+     "Editing your own work",
+     "Saving a file in two places"
+    ],
+    "answer": 1,
+    "explanation": "Plagiarism is using another person's work or ideas without acknowledging them.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "You receive a message from a stranger asking for your home address. What should you do first?",
+    "options": [
+     "Reply with your street only",
+     "Send it if they say please",
+     "Ignore it and tell a trusted adult",
+     "Post it publicly so they can find it"
+    ],
+    "answer": 2,
+    "explanation": "Never share personal details with strangers. Telling a trusted adult and blocking the sender keeps you safe.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Aiko receives an email saying 'Your account will be closed in 1 hour! Click here to confirm your password.' The sender address is support@school-secure-login.biz. Which is the best response?",
+    "options": [
+     "Click the link quickly before time runs out",
+     "Do not click; go to the real website yourself or ask the school IT team",
+     "Reply with a different password",
+     "Forward it to all her classmates"
+    ],
+    "answer": 1,
+    "explanation": "Urgency, a strange sender address and a request for a password are classic phishing signs. Checking via a trusted route is safest.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student copies three paragraphs from a website into a report and does not name the source. Which action would make this ethical?",
+    "options": [
+     "Change the font",
+     "Put the paragraphs in the middle of the report",
+     "Delete the title page",
+     "Quote or paraphrase them and include a citation and reference"
+    ],
+    "answer": 3,
+    "explanation": "Ethical use of sources means acknowledging the original author. Changing appearance or position does not fix plagiarism.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement about two-factor authentication (2FA) is correct?",
+    "options": [
+     "It asks for a second proof of identity, such as a code sent to a phone",
+     "It means using the same password twice",
+     "It removes the need for any password",
+     "It only works on school computers"
+    ],
+    "answer": 0,
+    "explanation": "2FA combines something you know (a password) with something you have (a code or device), so a stolen password alone is not enough.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Leo sees classmates sharing an embarrassing photo of another student in a group chat. Which response is most responsible?",
+    "options": [
+     "Add a laughing emoji",
+     "Forward it to a different group",
+     "Do not share it, support the student and report it to a teacher or the platform",
+     "Wait to see if more people share it"
+    ],
+    "answer": 2,
+    "explanation": "A bystander who refuses to join in, supports the target and reports the content helps stop the harm.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A website address begins with 'https://' and shows a padlock. What does this tell you?",
+    "options": [
+     "The site is guaranteed to be honest",
+     "The site has no adverts",
+     "The site was made by a government",
+     "The connection is encrypted, but the site could still be misleading"
+    ],
+    "answer": 3,
+    "explanation": "HTTPS protects data in transit. It does not prove the owners are trustworthy, and some scam sites also use it.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which licence situation lets a student legally reuse an image in a school website with credit?",
+    "options": [
+     "The image is marked 'all rights reserved' with no permission",
+     "The image is found in a search result with no information",
+     "The image was posted on social media",
+     "The image has a Creative Commons licence that allows reuse with attribution"
+    ],
+    "answer": 3,
+    "explanation": "Creative Commons licences state how a work can be reused. Without permission or a licence you should not copy an image.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Priya uses an AI tool to write her whole design report and submits it as her own work without saying so. Which ethical issue is most direct?",
+    "options": [
+     "Academic honesty, because she is claiming work she did not create",
+     "Copyright of her own keyboard",
+     "Screen time limits",
+     "Battery use"
+    ],
+    "answer": 0,
+    "explanation": "Submitting generated work as your own misrepresents your learning and breaks academic honesty rules unless the use is permitted and acknowledged.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A free game asks for access to your contacts, microphone and location, none of which the game needs. What is the best decision?",
+    "options": [
+     "Allow everything to be safe",
+     "Allow only if friends did",
+     "Deny the unnecessary permissions or choose a different app",
+     "Allow and then delete the game"
+    ],
+    "answer": 2,
+    "explanation": "Apps should only receive the permissions they need. Over-broad requests are a warning sign.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which pair of actions best reduces the risk of a hacked account?",
+    "options": [
+     "Reuse one password and share it with a friend",
+     "Use a unique password for each account and turn on 2FA",
+     "Write passwords on a public post and change them yearly",
+     "Use short passwords so they are easy to type"
+    ],
+    "answer": 1,
+    "explanation": "Unique passwords stop one breach spreading to other accounts, and 2FA adds a second barrier.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A team's app collects users' ages. A developer suggests, 'Let's also sell this data without telling users because it is not illegal everywhere.' Which evaluation is strongest?",
+    "options": [
+     "It is acceptable because the data is only numbers",
+     "It is acceptable if the app is free",
+     "It is acceptable because other apps do it",
+     "It is unethical, because users have not given informed consent, even if the law is unclear"
+    ],
+    "answer": 3,
+    "explanation": "Ethics goes beyond what is legal. Hidden use of data breaks trust and informed consent.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An online quiz says 'Win a phone! Enter your full name, school, birthday and parents' bank details to claim.' Which two features make this most suspicious?",
+    "options": [
+     "It offers a prize and uses a quiz format",
+     "It asks for sensitive financial data and far more information than a prize needs",
+     "It mentions a phone and a school",
+     "It uses a colourful design"
+    ],
+    "answer": 1,
+    "explanation": "Requests for bank details and unneeded personal data are a strong scam signal. A colourful design proves nothing.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Sam tells his friend Zoe her photo was posted by a fake account. Zoe replies, 'Let's post a fake account of them to get revenge.' Which evaluation is best?",
+    "options": [
+     "Revenge is fair because it is online",
+     "It is fine if no one knows who did it",
+     "It would only be wrong if they got caught",
+     "It would repeat the harm, risk breaking rules and is better handled by reporting and saving evidence"
+    ],
+    "answer": 3,
+    "explanation": "Retaliation continues the cycle. Saving screenshots and reporting to the platform and a trusted adult is the effective, ethical route.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A designer must choose between a login screen that nudges users to share their location 'for the best experience' and one that clearly explains why location is needed and lets users decline. Which design is more ethical and why?",
+    "options": [
+     "The nudging one, because it collects more data",
+     "The explaining one, because it respects user choice and transparency",
+     "The nudging one, because it is faster",
+     "Neither, because location is always unethical"
+    ],
+    "answer": 1,
+    "explanation": "Transparent design lets people make informed choices; manipulative 'dark patterns' undermine consent.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Staying safe and acting ethically online are two sides of the same skill. Safety is about protecting yourself and others from harm. Ethics is about deciding what is the right thing to do, even when nobody is watching and even when something is easy to do.\n\n## Common online risks\n- **Cyberbullying**: using technology to repeatedly hurt, threaten, exclude or embarrass someone. Messages, group chats, edited photos and online games can all be used.\n- **Phishing**: a fake email, text or website that pretends to be a trusted organisation to steal passwords or personal information. Warning signs include urgent wording, odd sender addresses, spelling mistakes and requests for passwords or bank details.\n- **Malware**: harmful software such as viruses and spyware, often hidden in unknown downloads or attachments.\n- **Scams and strangers**: prizes that are too good to be true, or people who ask for personal details, photos or money.\n\n## Protecting yourself\n- Use **strong passwords**: long, unique for every account, and not based on your name or birthday. A password manager can help you remember them.\n- Turn on **two-factor authentication (2FA)**, which asks for a second proof such as a code sent to your phone.\n- Check privacy settings and app permissions. An app should only get the permissions it really needs.\n- Look at the web address. A padlock and https mean the connection is encrypted, but they do not prove the site is honest.\n- Keep software updated, because updates repair security weaknesses.\n- Do not share private information with strangers. If something feels wrong, stop, save evidence with screenshots, block the person and tell a trusted adult.\n\n## Being a responsible digital citizen\nAn **upstander** helps instead of watching. If you see bullying, do not join in or forward the content. Support the person and report it to a teacher or the platform.\n\n**Academic honesty** means that work you submit is truly yours or is properly acknowledged. **Plagiarism** is presenting another person's work or ideas as your own. In design projects you must cite images, code, music and text that you did not create, and follow the licence. A **Creative Commons** licence tells you how a work may be reused, usually with credit. If there is no licence or permission, do not copy. If you use an AI tool where it is allowed, you should say how you used it and still show your own thinking.\n\n## Ethics in design\nDesigners make choices that affect real people. Ask these questions: Who could be harmed? Have users given informed **consent**? Is the product honest about what it does with data? Does it include people with different needs? **Dark patterns** are tricks that push users into choices they would not otherwise make, such as hiding the decline button. Ethical designs are transparent and respect user choice. Something being legal does not automatically make it ethical.\n\n## Worked example\nA team builds a homework app that records students' locations. Ethical questions: Is location needed? Have students and parents agreed? Where is the data stored and who can see it? If the answer to any of these is unclear, the design should be changed, for example by removing location tracking or making it optional and well explained.\n\n## How this is examined\nQuestions usually give a short scenario, such as a suspicious email, an app asking for permissions or a student reusing an image. You are asked to identify the risk, apply a command term such as justify or evaluate, and recommend an action. The strongest answers name the issue, give a reason and consider the people affected.\n\nCommon mistakes: believing a padlock means a website is safe, treating legal and ethical as the same thing, and thinking that changing the wording of copied work removes plagiarism.\n\nExam tip: When asked to evaluate an online situation, name the risk, state who is affected, and recommend a specific action with a reason, not just 'be careful'.",
+  "flashcards": [
+   {
+    "front": "What is phishing?",
+    "back": "A fake message or site that pretends to be trusted in order to steal passwords or personal information."
+   },
+   {
+    "front": "Two-factor authentication (2FA)",
+    "back": "A login method that needs two proofs of identity, such as a password plus a code sent to your phone."
+   },
+   {
+    "front": "What makes a strong password?",
+    "back": "Long, unique for each account, mixing unrelated words, numbers and symbols, and not based on personal details."
+   },
+   {
+    "front": "Plagiarism",
+    "back": "Presenting another person's work or ideas as your own without acknowledging the source."
+   },
+   {
+    "front": "Creative Commons licence",
+    "back": "A licence that states how others may reuse a work, often with credit to the creator."
+   },
+   {
+    "front": "Upstander",
+    "back": "A person who helps when they see bullying, by supporting the target and reporting, instead of joining in or ignoring it."
+   },
+   {
+    "front": "Dark pattern",
+    "back": "A deceptive design trick that pushes users into choices they did not intend, such as hiding the decline button."
+   },
+   {
+    "front": "What does https and a padlock show?",
+    "back": "The connection is encrypted. It does not prove the website is honest or safe."
+   },
+   {
+    "front": "Informed consent",
+    "back": "Users agree to how their data is used after being told clearly and honestly what will happen."
+   }
+  ]
+ },
+ {
+  "subject": "digital-design",
+  "grade": 5,
+  "topic": "Technology and Society",
+  "subTopic": "Digital Footprint and Privacy",
+  "questions": [
+   {
+    "content": "What is a digital footprint?",
+    "options": [
+     "The trail of data you leave by using the internet",
+     "The size of your screen",
+     "A type of keyboard",
+     "A printed photograph"
+    ],
+    "answer": 0,
+    "explanation": "Your digital footprint is all the information about you that exists because of your online activity.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is an example of an active digital footprint?",
+    "options": [
+     "A website recording your IP address",
+     "A cookie tracking pages you view",
+     "Posting a photo on a social media profile",
+     "Your phone's location history made without you noticing"
+    ],
+    "answer": 2,
+    "explanation": "An active footprint is data you choose to share, such as posts and comments. Passive footprints are collected without you posting.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a cookie in web browsing?",
+    "options": [
+     "A virus that deletes files",
+     "A small file a website stores to remember information about your visit",
+     "A type of password",
+     "A pop-up advert"
+    ],
+    "answer": 1,
+    "explanation": "Cookies remember things like login status or preferences, and some are used to track browsing across sites.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is personal data?",
+    "options": [
+     "The colour of the sky",
+     "The date of a public holiday",
+     "A school's opening hours",
+     "Your full name and home address"
+    ],
+    "answer": 3,
+    "explanation": "Personal data identifies a specific person, such as a name, address, photo or ID number.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which setting helps limit who can see your social media posts?",
+    "options": [
+     "Screen brightness",
+     "Privacy settings",
+     "Volume",
+     "Language"
+    ],
+    "answer": 1,
+    "explanation": "Privacy settings let you choose whether posts are public, friends only or private.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Ravi posted a party photo publicly when he was 14. At 17 he applies for a work placement. What is the most likely risk?",
+    "options": [
+     "The photo will delete itself",
+     "The employer might find it and judge him",
+     "His phone battery will drain",
+     "The photo will become smaller"
+    ],
+    "answer": 1,
+    "explanation": "Online content can last and be found later, so it can affect reputation and opportunities.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is a passive digital footprint?",
+    "options": [
+     "Writing a blog",
+     "Sending an email",
+     "Uploading a video",
+     "A website logging your IP address and the pages you visited"
+    ],
+    "answer": 3,
+    "explanation": "Passive footprints are collected without you deliberately sharing, for example logs, cookies and location data.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A free app earns money by showing adverts matched to your interests. Which describes how this works?",
+    "options": [
+     "It guesses at random",
+     "It collects data about your behaviour to build a profile for targeting",
+     "It reads your thoughts",
+     "It copies your friends' passwords"
+    ],
+    "answer": 1,
+    "explanation": "Many free services collect usage data to personalise adverts, so the data is part of the price.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which action best reduces your digital footprint?",
+    "options": [
+     "Using the same username everywhere",
+     "Posting your location in real time",
+     "Accepting every cookie banner",
+     "Deleting old accounts you no longer use"
+    ],
+    "answer": 3,
+    "explanation": "Fewer old accounts means less data stored about you and fewer places for it to be leaked.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is it a risk to post a photo that shows your school uniform, street sign and a time stamp?",
+    "options": [
+     "The photo will be too dark",
+     "It could reveal where you are and your routine",
+     "It will not upload",
+     "It breaks copyright"
+    ],
+    "answer": 1,
+    "explanation": "Small details can be combined to work out where you go and when, which is a safety risk.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Before installing a new app, Maria reads the privacy policy. Which detail is most important to check?",
+    "options": [
+     "The colour of the logo",
+     "What data is collected and whether it is shared with third parties",
+     "The number of downloads",
+     "The font used"
+    ],
+    "answer": 1,
+    "explanation": "A privacy policy should say what is collected, why, how long it is kept and who receives it.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which situation is an example of an 'opt-in' consent?",
+    "options": [
+     "A box is already ticked to receive marketing emails",
+     "An app collects data after you simply open it",
+     "Data is collected whenever you visit any site",
+     "You tick an unticked box to agree to receive marketing emails"
+    ],
+    "answer": 3,
+    "explanation": "Opt-in means the user takes a deliberate action to agree. Pre-ticked boxes are opt-out and weaker for privacy.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A user wants to browse without a record in their browser history on a shared school computer. Which choice helps most?",
+    "options": [
+     "Using a private or incognito window",
+     "Changing the desktop picture",
+     "Turning the sound off",
+     "Closing the lid"
+    ],
+    "answer": 0,
+    "explanation": "Private windows do not save history or cookies on that device, but they do not hide activity from the school network or websites.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Tom says, 'Incognito mode makes me completely anonymous online.' Which reply is correct?",
+    "options": [
+     "True, nobody can see anything",
+     "True, but only on phones",
+     "False, websites, his school network and his internet provider can still see activity",
+     "False, it deletes his accounts"
+    ],
+    "answer": 2,
+    "explanation": "Private mode only stops local storage of history and cookies. It does not hide your IP address or network activity.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A company stores users' names, birth dates and home addresses in one unprotected file and it is leaked. Which is the most serious consequence for users?",
+    "options": [
+     "The company's logo changes",
+     "Identity theft and scams become more likely",
+     "Websites load faster",
+     "The users' screens turn off"
+    ],
+    "answer": 1,
+    "explanation": "Combined personal details make it easier for criminals to impersonate people or target them with convincing scams.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two designers propose a sign-up form. Form A asks only for an email. Form B asks for email, birth date, address and phone number 'in case we need it later'. Which principle supports choosing Form A?",
+    "options": [
+     "Data minimisation: only collect what is needed",
+     "Data growth: collect as much as possible",
+     "Data decoration: make the form long",
+     "Data speed: ask for more to be quicker"
+    ],
+    "answer": 0,
+    "explanation": "Data minimisation reduces risk, because information that is never collected cannot be leaked or misused.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An app says, 'By continuing you agree to our terms', with no way to decline settings. Which is the best evaluation from a privacy view?",
+    "options": [
+     "It is good because it is quick",
+     "It is acceptable because users always read the terms",
+     "It is poor because users have no real choice or clear explanation of their data",
+     "It is good because it hides the policy"
+    ],
+    "answer": 2,
+    "explanation": "Meaningful consent needs clear information and a real choice. Forcing agreement weakens user control.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student wants to check how much of their data is public. Which sequence of steps is the most effective?",
+    "options": [
+     "Delete their phone, then search nothing",
+     "Search their own name, review privacy settings, then remove or hide anything they do not want public",
+     "Post more to hide old posts",
+     "Change their profile picture only"
+    ],
+    "answer": 1,
+    "explanation": "Searching yourself shows what others can find. Reviewing settings and removing content then reduces your public footprint.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Every time you go online, you leave information behind. This trail is your **digital footprint**. It can follow you for years, and it shapes how apps, companies, schools and future employers see you. Understanding your footprint helps you control it.\n\n## Active and passive footprints\n- An **active digital footprint** is data you deliberately share: posts, comments, photos, videos, emails, forms you fill in and accounts you create.\n- A **passive digital footprint** is data collected about you without you posting it: your IP address, the pages you visit, cookies, device details and location history.\n\nBoth kinds matter. Even if you never post, you still leave a passive footprint.\n\n## What is personal data?\n**Personal data** is information that identifies you or could be linked to you: your name, address, phone number, photos, school, birth date, account names and location. Small pieces can be combined. A school uniform, a street sign and a time stamp in one photo might reveal where you will be and when.\n\n## How data is collected and used\n- **Cookies** are small files that websites store in your browser. Some remember your login or language. Others track your behaviour across sites.\n- Many free apps earn money from **targeted advertising**: they collect data about what you view and like, build a profile and show you matching adverts. The service may be free, but your data is the payment.\n- Companies may share or sell data to third parties. A **privacy policy** should explain what is collected, why, how long it is kept and who receives it.\n- If data is stored badly, it can be **leaked** in a breach. Criminals can use combined details for identity theft and convincing scams.\n\n## Managing your privacy\n- Review the **privacy settings** on every account and choose friends only or private where possible.\n- Think before you post: once something is shared, others can copy it, and it may stay online permanently.\n- Do not share real-time location publicly.\n- Delete accounts you no longer use.\n- Search for your own name to see what others can find.\n- Use strong, unique passwords and 2FA.\n- Be careful with permissions, and read key parts of privacy policies.\n\nA **private or incognito window** stops your browser saving history and cookies on that device. It does not make you anonymous: websites, your school network and your internet provider can still see activity.\n\n## Consent and design\nGood privacy design follows **data minimisation**: collect only what is needed. **Opt-in** consent means a user takes a clear action to agree, such as ticking an empty box. **Opt-out** means the choice is already made and the user must act to stop it. Opt-in is better for privacy. Designers should also explain clearly, in plain language, why data is collected and give a real choice.\n\n## Worked example\nA homework app asks for name, email, home address, phone number and birth date. The app only needs an email and a year group to work. A privacy-aware redesign removes the extra fields, explains why the email is needed, and allows deletion of the account and data.\n\n## How this is examined\nQuestions often show a scenario, such as a sign-up form, a social media profile or a privacy policy extract. You may be asked to identify the type of footprint, explain a risk, or justify improvements using ideas such as consent and minimisation. Strong answers link the data collected to a specific harm and to a specific fix.\n\nCommon mistakes: thinking deleting a post removes every copy, believing incognito means anonymous, and confusing active with passive footprints.\n\nExam tip: When you justify a privacy improvement, name the data, the risk it creates, and the change that reduces that risk.",
+  "flashcards": [
+   {
+    "front": "Digital footprint",
+    "back": "The trail of data you leave online, created by what you post and by what is collected about you."
+   },
+   {
+    "front": "Active digital footprint",
+    "back": "Data you deliberately share, such as posts, photos, comments and forms you fill in."
+   },
+   {
+    "front": "Passive digital footprint",
+    "back": "Data collected about you without you posting it, such as IP address, cookies, browsing history and location."
+   },
+   {
+    "front": "Personal data",
+    "back": "Information that identifies a person, such as name, address, photo, phone number, school or birth date."
+   },
+   {
+    "front": "Cookie",
+    "back": "A small file a website stores in your browser to remember information; some cookies track you across sites."
+   },
+   {
+    "front": "Data minimisation",
+    "back": "Collect only the data that is truly needed, so there is less to leak or misuse."
+   },
+   {
+    "front": "Opt-in vs opt-out",
+    "back": "Opt-in: the user takes action to agree. Opt-out: agreement is assumed and the user must act to refuse. Opt-in is better for privacy."
+   },
+   {
+    "front": "What does incognito mode do?",
+    "back": "It stops your browser saving history and cookies on that device. It does not hide your activity from websites or networks."
+   },
+   {
+    "front": "Targeted advertising",
+    "back": "Adverts chosen using a profile built from your online behaviour and data."
+   }
+  ]
+ },
+ {
+  "subject": "digital-design",
+  "grade": 5,
+  "topic": "Technology and Society",
+  "subTopic": "Impacts of Technology",
+  "questions": [
+   {
+    "content": "What is the 'digital divide'?",
+    "options": [
+     "The gap between people who have access to technology and those who do not",
+     "A crack in a phone screen",
+     "A type of computer file",
+     "A division in a spreadsheet"
+    ],
+    "answer": 0,
+    "explanation": "The digital divide describes unequal access to devices, the internet and digital skills.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is a positive impact of technology on communication?",
+    "options": [
+     "People can contact others across the world instantly",
+     "Phones always run out of battery",
+     "All messages are private",
+     "Everyone must use the same app"
+    ],
+    "answer": 0,
+    "explanation": "Technology allows fast, low-cost communication over long distances.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is e-waste?",
+    "options": [
+     "Email that is deleted",
+     "Unwanted adverts",
+     "Discarded electronic devices such as old phones and laptops",
+     "Wasted internet data"
+    ],
+    "answer": 2,
+    "explanation": "E-waste includes old electronic products. It can contain harmful materials if not recycled properly.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is an example of automation?",
+    "options": [
+     "A robot arm welding car parts",
+     "A person writing a letter by hand",
+     "A teacher speaking in class",
+     "A student reading a book"
+    ],
+    "answer": 0,
+    "explanation": "Automation uses machines or software to do tasks with little human input.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is a health concern linked to heavy screen use?",
+    "options": [
+     "Eye strain and disrupted sleep",
+     "Faster running",
+     "Stronger hearing",
+     "Lower rent"
+    ],
+    "answer": 0,
+    "explanation": "Long periods on screens can cause eye strain, poor posture and tired sleep patterns if breaks are not taken.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A town replaces cashiers with self-service tills. Which is a likely social impact?",
+    "options": [
+     "Cheaper bread for everyone, always",
+     "Some cashier jobs may disappear while other technical jobs appear",
+     "All shops will close",
+     "No one will use money"
+    ],
+    "answer": 1,
+    "explanation": "Automation can remove some roles while creating new ones, so workers may need retraining.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which action reduces the environmental impact of a phone?",
+    "options": [
+     "Replacing it every month",
+     "Repairing it and recycling it at the end of its life",
+     "Throwing it in a bin",
+     "Leaving it charging all day"
+    ],
+    "answer": 1,
+    "explanation": "Repair and proper recycling reduce resource use and pollution from manufacturing and waste.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Online learning platforms let rural students attend lessons from far away. Which condition is needed for this benefit to reach everyone?",
+    "options": [
+     "Everyone has reliable internet and a suitable device",
+     "Everyone owns a car",
+     "Lessons must be shorter",
+     "Teachers must stop using computers"
+    ],
+    "answer": 0,
+    "explanation": "Without access to devices and connections, the benefit does not reach people on the wrong side of the digital divide.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is an advantage of cloud storage?",
+    "options": [
+     "Files can be accessed from different devices with internet access",
+     "It never needs electricity",
+     "It cannot be hacked",
+     "It makes files larger"
+    ],
+    "answer": 0,
+    "explanation": "Cloud storage syncs files across devices, though it needs a connection and good security.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A social media app uses an algorithm that shows users more of what they already like. Which problem can this cause?",
+    "options": [
+     "Users may only see similar views, creating a 'filter bubble'",
+     "The app uses less data",
+     "Users forget how to type",
+     "The screen becomes brighter"
+    ],
+    "answer": 0,
+    "explanation": "Recommendation systems can narrow what we see, which may reinforce existing views.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement best describes a social benefit of assistive technology such as screen readers?",
+    "options": [
+     "It helps people with disabilities access information and take part",
+     "It only benefits games",
+     "It makes devices cost less",
+     "It replaces all teachers"
+    ],
+    "answer": 0,
+    "explanation": "Assistive technology removes barriers and supports inclusion.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A factory buys robots that produce 480 units a day. Before, 12 workers produced 20 units each a day. How many extra units per day does the robot add?",
+    "options": [
+     "120",
+     "240",
+     "480",
+     "720"
+    ],
+    "answer": 1,
+    "explanation": "Before: 12 × 20 = 240. Robots: 480. Increase is 480 − 240 = 240 units.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is an environmental cost of the growth in data centres?",
+    "options": [
+     "They use large amounts of electricity and cooling water",
+     "They reduce all pollution",
+     "They cost nothing to run",
+     "They make Wi-Fi invisible"
+    ],
+    "answer": 0,
+    "explanation": "Data centres require energy and cooling, which has an environmental impact unless powered by renewable sources.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A company claims its new smartwatch is 'green' because it is small. Which evidence would best test this claim?",
+    "options": [
+     "Its colour options",
+     "A life-cycle assessment covering materials, energy use, repair and recycling",
+     "The number of adverts for it",
+     "The price of the strap"
+    ],
+    "answer": 1,
+    "explanation": "A claim about environmental impact should be tested across the whole life cycle, not just one feature such as size.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A city uses facial recognition cameras to cut crime. Which evaluation is most balanced?",
+    "options": [
+     "It is good because crime always falls",
+     "It is bad because cameras are ugly",
+     "It may improve safety but raises privacy, accuracy and fairness concerns that need rules and oversight",
+     "It is irrelevant to society"
+    ],
+    "answer": 2,
+    "explanation": "Evaluating technology means weighing benefits against risks and considering who is affected and what safeguards exist.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A school gives every student a tablet, but 15% of families have no home internet. Out of 600 students, how many may be unable to complete online homework at home, and what is the best response?",
+    "options": [
+     "15 students; ignore it",
+     "90 students; provide offline work or loan Wi-Fi so no one is disadvantaged",
+     "600 students; cancel tablets",
+     "60 students; do nothing"
+    ],
+    "answer": 1,
+    "explanation": "15% of 600 = 90 students. A fair response addresses the access gap, for example with offline tasks or loaned connections.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A designer wants a low-impact product. Which pair of decisions best supports sustainability?",
+    "options": [
+     "Use glued parts and a sealed battery",
+     "Make parts replaceable and use recycled materials",
+     "Add more packaging for protection",
+     "Release a new model every year"
+    ],
+    "answer": 1,
+    "explanation": "Repairable designs and recycled materials extend product life and reduce resource use. Sealed, glued products are harder to repair or recycle.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An article says, 'AI will take all jobs, so we should stop developing it.' Which response shows the best critical thinking?",
+    "options": [
+     "Agree, because change is always bad",
+     "Examine evidence on which tasks are automated, which new jobs appear, and how workers can retrain, before deciding",
+     "Disagree, because technology never has costs",
+     "Ignore it, because articles are never useful"
+    ],
+    "answer": 1,
+    "explanation": "A strong answer separates evidence from opinion, considers both costs and benefits, and avoids absolute claims.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Technology changes the way we live, learn, work and relate to each other. In design, you need to do more than describe these changes. You must **evaluate** them: weigh benefits and risks, think about who is affected, and suggest improvements. It helps to organise impacts into **social**, **economic** and **environmental** categories, and to ask whether the effect is positive, negative or both.\n\n## Social impacts\n- **Communication**: messaging and video calls connect families and communities across the world instantly. However, they can also spread misinformation and encourage unhealthy comparison.\n- **Education**: online platforms, simulations and digital libraries give access to learning. This only helps people who have devices and internet.\n- **Inclusion**: **assistive technology**, such as screen readers, speech recognition and captions, removes barriers for people with disabilities.\n- **Health and wellbeing**: apps can support exercise and mental health, but heavy screen use can lead to eye strain, poor posture and disrupted sleep. Breaks and boundaries matter.\n- **Algorithms**: recommendation systems choose what we see. They can be useful, but may create **filter bubbles** where we only meet similar views.\n- **The digital divide**: the gap between people who have access to technology and skills and those who do not. It can be caused by cost, location, age or disability, and it can increase inequality.\n\n## Economic impacts\n- **Automation** uses machines or software to carry out tasks. It can increase productivity and lower costs, but may replace some jobs while creating new ones, such as maintenance and programming. Workers may need retraining.\n- Technology creates new industries, such as app development and online shopping, and changes how businesses reach customers.\n- New products can be expensive, which leaves some groups behind.\n\n## Environmental impacts\n- Manufacturing devices uses metals, energy and water.\n- **Data centres** need large amounts of electricity and cooling.\n- **E-waste** from discarded phones and laptops can contain harmful materials. Recycling and repair reduce harm.\n- Technology can also help the environment, for example smart energy meters, remote meetings that cut travel, and sensors that monitor pollution.\n- A **life-cycle assessment** looks at a product from materials and manufacture, through use, to disposal, so claims such as 'green' can be tested.\n\n## Evaluating technology\nGood evaluations are balanced. For any technology ask: Who benefits? Who might be harmed? What are the short-term and long-term effects? What rules or design changes could reduce harm? Use evidence, such as numbers, rather than opinions.\n\n## Worked example\nA school gives each of 600 students a tablet, but 15% of families have no home internet. Number affected: 0.15 × 600 = 90 students. Evaluation: the tablets improve access to resources for most students, but 90 students could fall behind. Improvement: offer offline homework, library time or loaned Wi-Fi devices.\n\n## How this is examined\nQuestions often give a short article, statistic or scenario, such as a new automated system, and ask you to discuss or evaluate its effects. Marks are earned for naming impacts across several categories, supporting them with evidence, and reaching a justified conclusion.\n\nCommon mistakes: describing only benefits or only harms, using vague statements like 'it is bad for the environment' without saying how, and treating a claim in an advert as proof.\n\nExam tip: Structure an evaluation as benefit, risk, who is affected, and your justified recommendation. Always reach a conclusion.",
+  "flashcards": [
+   {
+    "front": "Digital divide",
+    "back": "The gap between people who have access to technology, internet and digital skills and those who do not."
+   },
+   {
+    "front": "Automation",
+    "back": "Using machines or software to carry out tasks with little human input; it can raise productivity but change or remove some jobs."
+   },
+   {
+    "front": "E-waste",
+    "back": "Discarded electronic products such as phones and laptops, which can release harmful materials if not recycled well."
+   },
+   {
+    "front": "Assistive technology",
+    "back": "Tools such as screen readers, captions and speech recognition that help people with disabilities access and use technology."
+   },
+   {
+    "front": "Filter bubble",
+    "back": "A situation where algorithms show you mostly content similar to what you already like, narrowing the views you see."
+   },
+   {
+    "front": "Life-cycle assessment",
+    "back": "A review of a product's environmental impact from materials and manufacture through use to disposal and recycling."
+   },
+   {
+    "front": "Three categories of impact",
+    "back": "Social, economic and environmental. Strong evaluations consider benefits and risks in each."
+   },
+   {
+    "front": "Why do data centres matter environmentally?",
+    "back": "They use large amounts of electricity and cooling water, so their energy source and efficiency affect pollution."
+   },
+   {
+    "front": "How to structure an evaluation",
+    "back": "Benefit, risk, who is affected, evidence, and a justified conclusion or recommendation."
+   }
+  ]
+ }
+]

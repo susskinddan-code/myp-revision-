@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "product-design",
+  "grade": 5,
+  "topic": "Designing for People",
+  "subTopic": "Ergonomics and Anthropometrics",
+  "questions": [
+   {
+    "content": "What does anthropometrics study?",
+    "options": [
+     "The strength of materials",
+     "The measurements of the human body",
+     "The cost of manufacturing",
+     "The history of design"
+    ],
+    "answer": 1,
+    "explanation": "Anthropometrics is the collection and use of human body measurements, such as height, hand width and reach.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Ergonomics is mainly about which of the following?",
+    "options": [
+     "How well products and spaces fit the people who use them",
+     "How cheaply a product can be made",
+     "How a product looks in a photograph",
+     "How a product is advertised"
+    ],
+    "answer": 0,
+    "explanation": "Ergonomics is the study of the fit between people and the things they use, covering comfort, safety and efficiency.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A chair has a seat that is too high for a short user, so their feet dangle. Which area of design has been ignored?",
+    "options": [
+     "Recycling",
+     "Branding",
+     "Batch production",
+     "Ergonomics"
+    ],
+    "answer": 3,
+    "explanation": "The seat height does not match the user's body, which is an ergonomic failure.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The 50th percentile of a measurement, such as height, is best described as which of these?",
+    "options": [
+     "The smallest value in the group",
+     "The largest value in the group",
+     "The middle value, with half the group smaller",
+     "The value everybody has"
+    ],
+    "answer": 2,
+    "explanation": "At the 50th percentile half the group is smaller and half is larger, so it is close to the average.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is an anthropometric measurement?",
+    "options": [
+     "Melting point of a plastic",
+     "Elbow-to-fingertip length",
+     "Price of a tool",
+     "Thickness of a drawing line"
+    ],
+    "answer": 1,
+    "explanation": "Elbow-to-fingertip length is a measurement of the human body, so it is anthropometric data.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A doorway is designed so that 95% of adults can walk through without ducking. Which data was the designer most likely to use?",
+    "options": [
+     "The 95th percentile standing height",
+     "The 5th percentile standing height",
+     "The 5th percentile arm length",
+     "The average shoe size"
+    ],
+    "answer": 0,
+    "explanation": "Clearances such as doorways are designed for the largest users, so the 95th percentile (or higher) is used. Taller people then fit too.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A shelf in a school library should be reachable by almost every student. Which percentile of reach should the designer use for the highest shelf?",
+    "options": [
+     "The 95th percentile, because tall students can reach it",
+     "The 50th percentile only",
+     "The 100th percentile of height",
+     "The 5th percentile, because a short reach is the limiting case"
+    ],
+    "answer": 3,
+    "explanation": "Reach is designed for the smallest users (5th percentile). If the shortest students can reach it, everyone else can too.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A designer wants one product to fit a wide range of users, such as an office chair with a seat height lever. What approach is this?",
+    "options": [
+     "Designing for the average only",
+     "Designing for extremes only",
+     "Designing for adjustability",
+     "Designing for disposal"
+    ],
+    "answer": 2,
+    "explanation": "Adjustable features let each user set the product to fit, covering a wider range than a fixed size can.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A class of 200 students is measured. How many students are expected to be shorter than the 5th percentile height?",
+    "options": [
+     "About 5 students",
+     "About 10 students",
+     "About 95 students",
+     "About 190 students"
+    ],
+    "answer": 1,
+    "explanation": "5% of 200 is 10, so roughly 10 students fall below the 5th percentile.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student measures the hand span of 10 classmates in mm: 170, 180, 175, 165, 190, 185, 172, 178, 168, 187. The mean is 177 mm. A designer picks 177 mm for the span of a game controller. What is the main limitation?",
+    "options": [
+     "Many users will be larger or smaller than the mean and may find it uncomfortable",
+     "The mean can never be used in design",
+     "Hand span is not a body measurement",
+     "Ten measurements are always enough"
+    ],
+    "answer": 0,
+    "explanation": "Designing only for the mean leaves out those at the extremes. Using a range or percentiles, and a larger sample, gives a better fit.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is the best example of dynamic (functional) anthropometric data?",
+    "options": [
+     "Their standing height",
+     "Their shoulder width",
+     "Their foot length",
+     "How far a person can reach while seated and twisting"
+    ],
+    "answer": 3,
+    "explanation": "Dynamic data measures the body in movement or doing a task. Standing height, width and length are static (structural) data.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A designer collects data from 30 adult men to design a backpack for a whole school aged 11 to 18. What is the most serious problem?",
+    "options": [
+     "The sample is too tall",
+     "The backpack must be heavy",
+     "The sample does not represent the target user group",
+     "Data should never come from people"
+    ],
+    "answer": 2,
+    "explanation": "Data must match the target users in age and gender. Adult men do not represent students aged 11 to 18, so the fit would be poor.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is the best way to test the ergonomics of a prototype kitchen knife handle?",
+    "options": [
+     "Ask the designer to look at it carefully",
+     "Ask users from the target group to use it and give feedback on comfort and grip",
+     "Weigh the prototype",
+     "Compare the price with other knives"
+    ],
+    "answer": 1,
+    "explanation": "Ergonomics is about people, so testing with real users from the target group gives the most useful evidence.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A kettle handle is designed for the 5th percentile hand size only. Who is most likely to be affected badly?",
+    "options": [
+     "Users with large hands, who may not fit their fingers through",
+     "Users with small hands",
+     "Nobody, since small is safe",
+     "Only left-handed users"
+    ],
+    "answer": 0,
+    "explanation": "A design for the smallest hand can be too tight for larger hands. Handles usually need a clearance suited to larger users.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An adjustable desk can be set from 65 cm to 85 cm. The 5th percentile elbow height is 62 cm when seated on a 40 cm chair, and the 95th percentile is 78 cm. The designer concludes the range suits the target group. Which statement best evaluates this?",
+    "options": [
+     "The range is perfect because 85 cm is the biggest number",
+     "The range fails because 78 cm is below 85 cm",
+     "The range is correct because adjustable desks suit everyone",
+     "The top of the range covers the 95th percentile but the bottom (65 cm) is above the 5th percentile, so the smallest users are not catered for"
+    ],
+    "answer": 3,
+    "explanation": "The lowest setting should reach at or below the 5th percentile value (62 cm). Here the desk's minimum of 65 cm is too high for the smallest users.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A designer says the best seat depth is the 95th percentile buttock-to-knee length, so that everyone's thighs are fully supported. Why is this a poor decision?",
+    "options": [
+     "Tall users will sit on the floor",
+     "It makes the chair cheaper",
+     "Short users cannot reach the backrest and the seat edge presses behind their knees",
+     "Seat depth does not matter"
+    ],
+    "answer": 2,
+    "explanation": "Seat depth should suit the small user (5th percentile), since a deep seat leaves short users without back support. Taller users can still sit comfortably.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A company wants a hand-held device for both children aged 8 and adults. Which design response best balances ergonomic needs?",
+    "options": [
+     "Use adult data and hope children manage",
+     "Use data for each group, then offer sizes or adjustable parts to suit both",
+     "Use the average of all measurements and ignore range",
+     "Choose the shape that looks best only"
+    ],
+    "answer": 1,
+    "explanation": "Different user groups need different data. Providing sizes or adjustability serves both, whereas a single average rarely fits either group well.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An evaluation says: 'Testing with 8 users showed grip discomfort for 6, so the handle diameter should be reduced from 38 mm to about 32 mm.' Which feature makes this a strong evaluation statement?",
+    "options": [
+     "It uses user evidence and gives a specific, measurable improvement",
+     "It uses a long sentence",
+     "It mentions the price",
+     "It only describes what the product looks like"
+    ],
+    "answer": 0,
+    "explanation": "Strong evaluation links test results to a specific improvement. This is the kind of reasoning rewarded in Criterion D.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Ergonomics is the study of how well products, tools and spaces fit the people who use them. A well-designed product feels comfortable, is safe, and lets the user work efficiently without strain. Anthropometrics is the part of that study which deals with measurements of the human body, such as height, arm length, hand width and grip size. Together they help a designer answer a vital question: will this product suit the people it is made for?\n\n## Why it matters\nPoor ergonomics causes real problems: sore backs from badly designed chairs, wrist strain from awkward tools, or accidents from controls that are out of reach. Good ergonomics improves comfort, safety, performance and customer satisfaction. In MYP Design it supports Criterion A (research into user needs), Criterion B (specifications) and Criterion D (testing).\n\n## Types of data\n- **Static (structural) data** is measured with the body still, for example standing height or hand length.\n- **Dynamic (functional) data** is measured while the body moves or works, for example reach while twisting.\n- **Physiological factors** include comfort, fatigue and strength. **Psychological factors** include how easy a product is to understand and how it makes the user feel.\n\n## Percentiles\nA **percentile** shows where a measurement sits within a group. If a person is on the 95th percentile for height, then 95% of the group is the same height or shorter. The 5th percentile is a small value (only 5% are smaller) and the 50th percentile is the middle of the group. Designers often cover the range from the 5th to the 95th percentile, which includes about 90% of users.\n\n## Which percentile should I use?\n- **Design for the largest (95th percentile)** when the product must provide clearance: doorways, seat width, handle openings, the gap under a table.\n- **Design for the smallest (5th percentile)** when the user must reach something: shelf height, distance to a control, height of a step.\n- **Design for the average (50th percentile)** when a fixed middle value is acceptable and extremes are not safety-critical.\n- **Design for adjustability** when a range is needed: office chairs, bicycle saddles, car seats.\n\n## Worked example\nA designer is making a classroom stool for 12 to 14 year olds. Seat height is based on the popliteal height (floor to the back of the knee while seated). If the 5th percentile is 36 cm and the 95th is 46 cm, a fixed stool of 41 cm would fit the average student but be too high for some and too low for others. An adjustable stool from 36 to 46 cm would cover about 90% of the group.\n\n## Collecting good data\nData must come from the right people: age, gender and background should match the target user. A larger sample gives more reliable results. Always state units (mm or cm) and say where the information came from. Testing a model or prototype with real users is the best check of ergonomics.\n\n## Common mistakes\n- Designing only for the average and forgetting the extremes.\n- Using adult data for children.\n- Using the 95th percentile for reach, when the smallest user should limit the distance.\n- Saying a product is 'ergonomic' without evidence.\n\n## How this is examined\nQuestions usually give a short scenario, such as a school bag or a hand tool, with a few measurements. You may be asked to choose which percentile to use, explain how the data affects a dimension, or judge test results and suggest a specific improvement. Command terms like justify and evaluate expect you to link data to a decision.\n\nExam tip: Always say which user (largest or smallest) limits the dimension, and back your choice with a number from the data.",
+  "flashcards": [
+   {
+    "front": "Ergonomics",
+    "back": "The study of how well products and spaces fit people, covering comfort, safety and efficiency."
+   },
+   {
+    "front": "Anthropometrics",
+    "back": "The measurement of the human body (height, reach, hand size) used to size products."
+   },
+   {
+    "front": "Percentile",
+    "back": "A value showing the share of a group at or below a measurement; the 95th percentile has 95% of people equal or smaller."
+   },
+   {
+    "front": "5th to 95th percentile range",
+    "back": "The range commonly designed for; it covers about 90% of users."
+   },
+   {
+    "front": "When to use the 95th percentile",
+    "back": "For clearances: doorways, seat width, handle openings, gaps under tables."
+   },
+   {
+    "front": "When to use the 5th percentile",
+    "back": "For reach: shelf height, distance to controls, so the smallest user can still manage."
+   },
+   {
+    "front": "Static vs dynamic data",
+    "back": "Static data is measured with the body still (height). Dynamic data is measured during movement (reach while twisting)."
+   },
+   {
+    "front": "Designing for adjustability",
+    "back": "Giving a product adjustable parts, such as a chair lever, so it can fit a wide range of users."
+   },
+   {
+    "front": "Why not design only for the average?",
+    "back": "Many users are larger or smaller than the mean and would find the product uncomfortable or unsafe."
+   }
+  ]
+ },
+ {
+  "subject": "product-design",
+  "grade": 5,
+  "topic": "Designing for People",
+  "subTopic": "Sustainable Design",
+  "questions": [
+   {
+    "content": "What does sustainable design aim to do?",
+    "options": [
+     "Make products as cheaply as possible",
+     "Meet people's needs without harming the environment or future generations",
+     "Make products that wear out quickly",
+     "Use only new raw materials"
+    ],
+    "answer": 1,
+    "explanation": "Sustainability means meeting present needs while protecting resources and the environment for the future.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a renewable resource?",
+    "options": [
+     "Timber from a managed forest",
+     "Crude oil",
+     "Coal",
+     "Natural gas"
+    ],
+    "answer": 0,
+    "explanation": "Managed forests can be replanted so timber can be replaced. Oil, coal and gas are finite fossil fuels.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of the 6Rs means using a product again for the same or a new purpose?",
+    "options": [
+     "Refuse",
+     "Rethink",
+     "Reduce",
+     "Reuse"
+    ],
+    "answer": 3,
+    "explanation": "Reuse keeps a product in use without reprocessing it, for example refilling a bottle.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which word describes a material that can break down naturally by bacteria or fungi?",
+    "options": [
+     "Thermosetting",
+     "Finite",
+     "Biodegradable",
+     "Ductile"
+    ],
+    "answer": 2,
+    "explanation": "Biodegradable materials are broken down by living organisms and return to the environment.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Recycling a product means what?",
+    "options": [
+     "Throwing it into landfill",
+     "Processing its material so it can be made into new products",
+     "Repairing it for the same owner",
+     "Refusing to buy it"
+    ],
+    "answer": 1,
+    "explanation": "Recycling breaks down used materials to make new items, which saves raw materials and energy.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A life cycle assessment (LCA) of a mobile phone looks at which stages?",
+    "options": [
+     "Raw material extraction, manufacture, distribution, use and disposal",
+     "Only the design drawings",
+     "Only the advertising campaign",
+     "Only the cost of the screen"
+    ],
+    "answer": 0,
+    "explanation": "An LCA follows the whole life of a product, so impacts at every stage can be compared.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A company makes a kettle that is designed to stop working after two years so customers buy again. What is this practice called?",
+    "options": [
+     "Design for disassembly",
+     "Closed-loop recycling",
+     "Fair trade",
+     "Planned obsolescence"
+    ],
+    "answer": 3,
+    "explanation": "Planned obsolescence deliberately limits product life, which creates extra waste and uses more resources.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which design decision best supports repair and recycling?",
+    "options": [
+     "Gluing all parts permanently together",
+     "Mixing many plastics in one component",
+     "Using screws and clips so parts can be separated",
+     "Hiding fixings under permanent labels"
+    ],
+    "answer": 2,
+    "explanation": "Design for disassembly lets parts be replaced and materials be sorted for recycling.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The linear economy is often described as 'take, make, dispose'. How does a circular economy differ?",
+    "options": [
+     "Products are made faster",
+     "Materials are kept in use through reuse, repair and recycling",
+     "Products are sold at a higher price",
+     "Waste is moved to other countries"
+    ],
+    "answer": 1,
+    "explanation": "A circular economy aims to keep products and materials in use for as long as possible and reduce waste.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A designer chooses a local timber instead of one shipped 12 000 km. Which environmental benefit is most directly gained?",
+    "options": [
+     "Lower transport emissions",
+     "Lower density",
+     "Higher melting point",
+     "Improved colour"
+    ],
+    "answer": 0,
+    "explanation": "Shorter transport distances use less fuel and release less carbon dioxide.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which choice best reduces the environmental impact of packaging for a small gift?",
+    "options": [
+     "Use a large plastic box with foam inside",
+     "Use several layers of different plastic films",
+     "Use a sealed metal tin only used once",
+     "Use a thin card box made from recycled card that can be recycled again"
+    ],
+    "answer": 3,
+    "explanation": "Using less material, recycled content and a recyclable material reduces impact across the life cycle.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Embodied energy refers to which of the following?",
+    "options": [
+     "The energy the user feels when using it",
+     "The energy stored in a battery",
+     "The total energy used to produce and transport a product",
+     "The energy needed to recycle only"
+    ],
+    "answer": 2,
+    "explanation": "Embodied energy counts all the energy used to extract, process, make and deliver a product.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The 'triple bottom line' of sustainability includes which three areas?",
+    "options": [
+     "Cost, colour and size",
+     "Environment, society and economy",
+     "Plastic, metal and wood",
+     "Design, make and sell"
+    ],
+    "answer": 1,
+    "explanation": "A sustainable design should be environmentally friendly, socially fair and economically viable.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A bamboo toothbrush has a biodegradable handle but is sent in plastic wrap and shipped by air from overseas. Which statement is the best evaluation?",
+    "options": [
+     "The handle is sustainable but packaging and transport reduce the overall benefit",
+     "It is completely sustainable because the handle is bamboo",
+     "It is unsustainable because bamboo is a grass",
+     "It cannot be assessed without a price"
+    ],
+    "answer": 0,
+    "explanation": "Evaluating sustainability means looking at the whole life cycle, not a single feature.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A plastic water bottle weighs 24 g and is used once. A steel bottle weighs 300 g, needs far more energy to make, but can be used for years. What is the best way to compare them?",
+    "options": [
+     "Compare only the weights",
+     "Compare only the colours",
+     "Choose whichever is lighter",
+     "Compare the impact per use over the expected life of each bottle"
+    ],
+    "answer": 3,
+    "explanation": "The steel bottle has a higher upfront impact, but spread across hundreds of uses it can be lower per use. A life cycle approach captures this.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A designer claims a product is 'eco-friendly' because it is 100% recyclable. Which point best challenges this claim?",
+    "options": [
+     "Recyclable products are always bad",
+     "Recycling only works for glass",
+     "It may be recycled rarely in practice and may use a lot of energy to make",
+     "Eco-friendly products are always cheaper"
+    ],
+    "answer": 2,
+    "explanation": "Recyclable does not mean recycled. A claim must be supported by evidence across production, use and disposal.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A school wants a sustainable bench. Option X: recycled plastic lumber, lasts 30 years, no painting needed. Option Y: untreated softwood, lasts 8 years, repainted every 2 years. Which justification is strongest for X?",
+    "options": [
+     "It is plastic, and plastic is natural",
+     "It lasts longer and avoids repeated paint and replacements, lowering impact over its life",
+     "It is cheaper in every case",
+     "It needs no material at all"
+    ],
+    "answer": 1,
+    "explanation": "The justification links durability and maintenance to total life cycle impact, rather than just the material type.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which statement shows the rethink strategy of the 6Rs?",
+    "options": [
+     "Questioning whether a product is needed or can serve several functions",
+     "Throwing a product into the correct bin",
+     "Refilling a pen",
+     "Declining a free plastic bag"
+    ],
+    "answer": 0,
+    "explanation": "Rethink means challenging the design itself, for example a tool that combines functions so fewer products are needed.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Sustainable design means creating products that meet people's needs today without damaging the environment or reducing the ability of future generations to meet theirs. Every product uses materials and energy, and eventually becomes waste, so a designer who thinks about sustainability tries to reduce harm at every stage. This is important in MYP Design because Criterion A asks you to research the impact of existing products, and Criterion D asks you to explain the impact of your own solution on the target user and on the environment.\n\n## Finite and renewable resources\n**Finite** resources, such as crude oil, coal, natural gas and metal ores, cannot be replaced within a human lifetime. **Renewable** resources, such as timber from managed forests, cotton and bamboo, can be regrown. Even renewable resources must be managed carefully. Cutting down a forest faster than it regrows is not sustainable.\n\n## Life cycle assessment\nA **life cycle assessment (LCA)** looks at the impact of a product at each stage of its life:\n- **Extraction** of raw materials (mining, drilling, harvesting)\n- **Manufacture** (energy use, waste, pollution)\n- **Distribution** (packaging and transport emissions)\n- **Use** (energy, water, maintenance)\n- **Disposal** (landfill, incineration, reuse or recycling)\n\nThe stage with the biggest impact is different for different products. A washing machine uses most of its energy during use, whereas a plastic spoon causes most of its impact at manufacture and disposal.\n\n## The 6Rs\n- **Reduce**: use less material or energy\n- **Reuse**: use the product again\n- **Recycle**: turn old material into new products\n- **Repair**: fix a product instead of replacing it\n- **Refuse**: decline products that are wasteful or harmful\n- **Rethink**: question whether the product is needed or can be designed differently\n\n## Linear and circular thinking\nA **linear economy** takes raw materials, makes products and throws them away. A **circular economy** keeps materials in use through repair, reuse and recycling. Design for disassembly, using screws and clips rather than permanent glue, makes this possible. Using a single material or clearly labelled materials helps recyclers to sort them.\n\n## Planned obsolescence\nSome products are designed to fail or to go out of fashion quickly, which makes consumers buy replacements. This is called **planned obsolescence** and it increases waste. Sustainable designers aim for durability, repairability and timeless style.\n\n## Three parts of sustainability\nThe **triple bottom line** considers the environment, society (fair pay, safe working conditions, fair trade) and the economy (the product must still be affordable and viable).\n\n## Worked example\nCompare a paper bag with a cotton tote bag. The paper bag uses less energy to make but is used once or twice. The cotton bag uses more water and energy to grow and weave, but can be used hundreds of times. A good judgement compares impact per use: the tote bag only wins if it is used many times.\n\n## Common mistakes\n- Saying 'biodegradable' means harmless. Some materials only break down in industrial composters.\n- Assuming 'recyclable' means 'recycled'.\n- Judging a product by one feature (such as the handle material) and ignoring transport, packaging and lifespan.\n\n## How this is examined\nQuestions often present two products with a few facts about materials, weight and lifespan and ask you to compare or justify which is more sustainable. Strong answers refer to stages of the life cycle and give a reason, not just an opinion.\n\nExam tip: When asked to evaluate sustainability, name at least two life cycle stages and compare them, rather than only describing the material.",
+  "flashcards": [
+   {
+    "front": "Sustainable design",
+    "back": "Designing to meet present needs without harming the environment or the ability of future generations to meet theirs."
+   },
+   {
+    "front": "Finite resource",
+    "back": "A resource that cannot be replaced in a human lifetime, such as oil, coal and metal ores."
+   },
+   {
+    "front": "Renewable resource",
+    "back": "A resource that can be regrown or replaced if managed well, such as timber from managed forests."
+   },
+   {
+    "front": "Life cycle assessment (LCA)",
+    "back": "Evaluating a product's impact at each stage: extraction, manufacture, distribution, use and disposal."
+   },
+   {
+    "front": "The 6Rs",
+    "back": "Reduce, reuse, recycle, repair, refuse and rethink."
+   },
+   {
+    "front": "Planned obsolescence",
+    "back": "Designing a product to fail or become outdated early so people buy replacements, creating extra waste."
+   },
+   {
+    "front": "Circular economy",
+    "back": "A system that keeps materials in use through reuse, repair and recycling, instead of take, make, dispose."
+   },
+   {
+    "front": "Design for disassembly",
+    "back": "Making products easy to take apart with screws or clips so parts can be repaired and materials recycled."
+   },
+   {
+    "front": "Triple bottom line",
+    "back": "Considering the environment, society and the economy together when judging sustainability."
+   }
+  ]
+ },
+ {
+  "subject": "product-design",
+  "grade": 5,
+  "topic": "Designing for People",
+  "subTopic": "Design Briefs and Specifications",
+  "questions": [
+   {
+    "content": "What is a design brief?",
+    "options": [
+     "A detailed list of every material and tool",
+     "A short statement describing the problem or need and what will be designed",
+     "A drawing of the final prototype",
+     "A report about the testing results"
+    ],
+    "answer": 1,
+    "explanation": "The brief summarises the need, user and context in a few sentences. The detailed requirements come in the specification.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the purpose of a design specification?",
+    "options": [
+     "To list the requirements the final solution must meet",
+     "To advertise the product",
+     "To record a sales total",
+     "To show the colour of a logo"
+    ],
+    "answer": 0,
+    "explanation": "A specification sets out the success criteria that the product will be judged against.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which MYP Design criterion asks students to develop a design specification?",
+    "options": [
+     "Criterion A: Inquiring and analysing",
+     "Criterion C: Creating the solution",
+     "Criterion D: Evaluating",
+     "Criterion B: Developing ideas"
+    ],
+    "answer": 3,
+    "explanation": "Criterion B includes developing a design specification that states the success criteria. The brief is developed in Criterion A.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is a measurable specification point?",
+    "options": [
+     "The bag should be nice",
+     "The bag should be modern",
+     "The bag must hold at least 8 kg without tearing",
+     "The bag should be popular"
+    ],
+    "answer": 2,
+    "explanation": "Measurable points include numbers and units so they can be tested. Words like nice or modern are subjective.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The word 'client' in a design project means what?",
+    "options": [
+     "The person who sells the tools",
+     "The person or group who needs the solution",
+     "The teacher's assistant",
+     "The factory manager only"
+    ],
+    "answer": 1,
+    "explanation": "The client is the person or group whose problem the designer is solving.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A student writes: 'Design a storage unit for a small bedroom that helps a teenager keep sports kit organised.' This is best described as which?",
+    "options": [
+     "A design brief",
+     "A specification",
+     "A test plan",
+     "An evaluation"
+    ],
+    "answer": 0,
+    "explanation": "It gives the need, user and context in a sentence, with no measurable detail yet.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which specification point is best written?",
+    "options": [
+     "The stand should be small",
+     "The stand must look good",
+     "The stand will be made quickly",
+     "The stand must be no taller than 300 mm so it fits under a standard shelf"
+    ],
+    "answer": 3,
+    "explanation": "A strong point includes a measurable limit and a reason that links to the user's context.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The factors often used to organise a specification (such as function, size, safety, cost, aesthetics, materials, environment and the user) help the student to do what?",
+    "options": [
+     "Choose the cheapest material",
+     "Avoid researching",
+     "Make sure all important areas are covered",
+     "Skip testing"
+    ],
+    "answer": 2,
+    "explanation": "A checklist of factors stops the designer forgetting an important requirement.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which pair of terms best describes ways to rank requirements?",
+    "options": [
+     "Round and square",
+     "Must-have and should-have",
+     "Early and late",
+     "Light and dark"
+    ],
+    "answer": 1,
+    "explanation": "Prioritising requirements into must-haves and should-haves helps choose between ideas and test the solution fairly.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why should each specification point be linked to research?",
+    "options": [
+     "It justifies the requirement with evidence",
+     "It makes the document longer",
+     "It allows the student to copy a product",
+     "It removes the need for a brief"
+    ],
+    "answer": 0,
+    "explanation": "Linking to research (such as a survey result) shows the requirement is based on real needs.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A survey shows 14 of 20 users want the lunchbox to fit in a bag pocket 180 mm wide. Which specification point best uses this?",
+    "options": [
+     "The lunchbox should be wide",
+     "The lunchbox must fit 20 bags",
+     "The lunchbox will be 14 mm wide",
+     "The lunchbox must be less than 180 mm wide, so it fits in the bag pocket (14 of 20 users asked for this)"
+    ],
+    "answer": 3,
+    "explanation": "The best point is measurable, testable and states the research reason. 14 of 20 is 70% of users.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "During testing, how is the specification used?",
+    "options": [
+     "As a way to market the product",
+     "As a drawing of the finished design",
+     "As the list of success criteria to judge the product against",
+     "As a record of the time spent"
+    ],
+    "answer": 2,
+    "explanation": "In Criterion D the student tests the product against the specification to decide how successful it is.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of these is a weakness in a brief?",
+    "options": [
+     "It names the user",
+     "It describes the final product's exact shape before research",
+     "It describes the context",
+     "It states the need"
+    ],
+    "answer": 1,
+    "explanation": "A brief should state the problem, not decide the answer in advance. That keeps room for creative ideas.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of these specification points is NOT testable?",
+    "options": [
+     "The product will be exciting",
+     "The product will weigh less than 450 g",
+     "The handle will be at least 25 mm in diameter",
+     "The product must withstand 30 drops from 1 m"
+    ],
+    "answer": 0,
+    "explanation": "Exciting is a personal opinion with no test. The other points have numbers and can be checked.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student's brief says: 'Make a phone stand from acrylic.' A teacher says it is too narrow. What is the main problem?",
+    "options": [
+     "It mentions a phone",
+     "It is too short to be a brief",
+     "It lacks a price",
+     "It names a material before research, which limits possible solutions"
+    ],
+    "answer": 3,
+    "explanation": "A brief should present the need and context. Choosing the material too early takes away options for Criterion B.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A specification states: 'Must be safe for children aged 6 to 8.' Which revision makes this stronger for testing?",
+    "options": [
+     "Make it very safe",
+     "Children should like it",
+     "No sharp edges: all corners rounded to a radius of at least 3 mm, and no parts smaller than 30 mm",
+     "Avoid anything dangerous"
+    ],
+    "answer": 2,
+    "explanation": "The revision gives measurable limits for safety that can be checked with a ruler or gauge.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student tests a torch against a specification. It meets 7 of 10 points but the 3 failed points are all 'must-have' safety features. Which judgement is most justified?",
+    "options": [
+     "The product is successful because 70% were passed",
+     "The product is not successful because the failed points are essential",
+     "The test is invalid because torches cannot be tested",
+     "The product is perfect since most points were met"
+    ],
+    "answer": 1,
+    "explanation": "Not all points have equal weight. Failing must-have safety points is more serious than missing a nice-to-have feature.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two students write specifications for the same bike light. Student 1 lists 'bright, small, cheap'. Student 2 lists 'visible from 100 m at night, under 60 g, material cost under 4 dollars', each linked to a survey result. Which statement is the best comparison?",
+    "options": [
+     "Student 2 is stronger because the points are measurable and justified by research",
+     "Student 1 is stronger because the points are shorter",
+     "They are equal because both mention brightness",
+     "Student 1 is stronger because there is less to test"
+    ],
+    "answer": 0,
+    "explanation": "A top-level specification is detailed, measurable and justified, which supports higher achievement levels in Criterion B.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Every successful design project starts by being clear about the problem and what a good solution must do. Two documents help with this: the **design brief** and the **design specification**. Students often mix them up, so it is worth knowing the difference clearly.\n\n## The design brief\nA **design brief** is a short statement, usually a few sentences, that explains the need, who the product is for, and the context in which it will be used. It does not describe the solution in detail. For example: 'Design a compact storage solution that helps a teenager keep football kit organised in a small shared bedroom.' This brief names the user (a teenager), the need (organised kit storage) and the context (a small shared bedroom), but it does not say what the product looks like or what it is made from. A good brief leaves room for creative ideas. In MYP Design, the brief is developed at the end of Criterion A, using the results of your research and product analysis.\n\n## The design specification\nA **design specification** is a list of requirements that the final solution must meet. It states the success criteria, which is why it appears in Criterion B and then returns in Criterion D when you test and evaluate your product. Each point should be:\n- **Measurable**: include numbers and units where possible\n- **Testable**: someone should be able to check whether it has been met\n- **Justified**: linked to research such as a survey, an interview, anthropometric data or a product analysis\n\nCompare a weak point and a strong point.\n- Weak: 'The box should be small.'\n- Strong: 'The box must be no longer than 300 mm so that it fits under the bed, as 12 of 15 survey respondents said under-bed space was their main complaint.'\n\n## Organising your specification\nMany students use headings or factors to make sure nothing is forgotten, for example:\n- **Function**: what the product must do, e.g. hold 6 kg of kit\n- **User and ergonomics**: grip size, height, reach\n- **Size and weight**: maximum dimensions and mass\n- **Safety**: no sharp edges, non-toxic finishes\n- **Materials and manufacture**: available tools and skills\n- **Environment and sustainability**: recyclable materials, durability\n- **Aesthetics**: colour, style and finish\n- **Cost**: a maximum budget\n\nYou can also rank points as **must-have** (essential) or **should-have** (desirable). This helps when choosing between ideas and when judging the final product.\n\n## Using the specification later\nWhen you generate ideas, you compare each design against the specification. When you test your prototype, the specification becomes your checklist. If your product fails a must-have point, you should explain why and suggest an improvement. Design is **iterative**, so it is fine to update the brief or specification when new evidence appears, as long as you explain the change.\n\n## Common mistakes\n- Naming the material or the finished product in the brief before researching.\n- Using vague words such as 'nice', 'good', 'modern' or 'strong' with no measurement.\n- Writing a specification that is not linked to research.\n- Treating every point equally when some are essential.\n\n## How this is examined\nQuestions might give a short design scenario and ask you to choose the strongest brief or specification point, spot why a point cannot be tested, or judge a product against a set of success criteria. You may also be asked to justify a requirement using data from a survey.\n\nExam tip: Check every specification point for a number, a unit and a reason. If it has none of these, rewrite it before you use it.",
+  "flashcards": [
+   {
+    "front": "Design brief",
+    "back": "A short statement of the need, user and context. It describes the problem, not the finished solution."
+   },
+   {
+    "front": "Design specification",
+    "back": "A list of requirements and success criteria that the final solution must meet; used again when testing."
+   },
+   {
+    "front": "Which criterion covers the specification?",
+    "back": "Criterion B (Developing ideas); the brief belongs to Criterion A, and the specification is used for testing in Criterion D."
+   },
+   {
+    "front": "Measurable specification point",
+    "back": "A requirement with a number and unit, such as 'weigh less than 450 g', so it can be tested."
+   },
+   {
+    "front": "Why justify a specification point?",
+    "back": "Linking it to research (survey, interview, data) shows the requirement is based on real needs."
+   },
+   {
+    "front": "Must-have vs should-have",
+    "back": "Must-have points are essential to the design; should-have points are desirable but not vital."
+   },
+   {
+    "front": "Common specification factors",
+    "back": "Function, user, size, safety, materials, environment, aesthetics and cost."
+   },
+   {
+    "front": "Weakness in a brief",
+    "back": "Naming the final material or shape before research, which limits creative options."
+   },
+   {
+    "front": "Using the specification in testing",
+    "back": "It is the checklist for judging how successful the product is; failed must-haves are the most serious."
+   }
+  ]
+ }
+]

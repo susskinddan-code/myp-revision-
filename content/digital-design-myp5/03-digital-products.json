@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "digital-design",
+  "grade": 5,
+  "topic": "Digital Products",
+  "subTopic": "User Interfaces and Experience",
+  "questions": [
+   {
+    "content": "What does UI stand for?",
+    "options": [
+     "Universal internet",
+     "User interface",
+     "Unique installation",
+     "Updated information"
+    ],
+    "answer": 1,
+    "explanation": "The user interface is what the user sees and interacts with: buttons, menus, text and images.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does UX stand for?",
+    "options": [
+     "User experience",
+     "User exchange",
+     "Universal extension",
+     "Unit examination"
+    ],
+    "answer": 0,
+    "explanation": "UX is how a person feels and performs when using a product, including how easy it is to use.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which feature makes text easier to read?",
+    "options": [
+     "Light grey text on white",
+     "Tiny fonts",
+     "Busy patterned backgrounds",
+     "Strong contrast between text and background"
+    ],
+    "answer": 3,
+    "explanation": "High contrast helps readability, particularly for users with low vision.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is 'navigation' in an app?",
+    "options": [
+     "The speed of the battery",
+     "The price of the product",
+     "The way users move between screens and find content",
+     "The size of the phone"
+    ],
+    "answer": 2,
+    "explanation": "Clear navigation, such as menus and back buttons, helps users find things.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why do designers use consistent buttons and icons across an app?",
+    "options": [
+     "It makes the app load slower",
+     "Users learn the pattern once and can predict what things do",
+     "It hides bugs",
+     "It saves battery only"
+    ],
+    "answer": 1,
+    "explanation": "Consistency reduces the effort of learning and avoids confusion.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A user taps 'Submit' and nothing visible happens, so they tap it five times. Which design principle is missing?",
+    "options": [
+     "Feedback showing the action was received",
+     "Colour variety",
+     "Longer text",
+     "More menus"
+    ],
+    "answer": 0,
+    "explanation": "Systems should give clear feedback such as a message or loading indicator.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A form deletes an account with one tap and no warning. Which improvement is best?",
+    "options": [
+     "Make the delete button smaller",
+     "Remove all text from the page",
+     "Make the delete button red only",
+     "Add a confirmation message before deleting"
+    ],
+    "answer": 3,
+    "explanation": "Error prevention is an important usability principle: confirm destructive actions.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which choice best supports accessibility for users who cannot see images?",
+    "options": [
+     "Using larger images",
+     "Using only photographs",
+     "Adding descriptive alternative text (alt text) to images",
+     "Turning off sound"
+    ],
+    "answer": 2,
+    "explanation": "Screen readers read alt text aloud, so the meaning of the image is not lost.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In an A/B test, version A gets 12 sign-ups from 200 visitors and version B gets 18 sign-ups from 200 visitors. What are the conversion rates?",
+    "options": [
+     "A is 9% and B is 6%",
+     "A is 6% and B is 9%",
+     "A is 12% and B is 18%",
+     "Both are 10%"
+    ],
+    "answer": 1,
+    "explanation": "12 ÷ 200 = 6%. 18 ÷ 200 = 9%. Version B performed better.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which layout is best for a thumb-operated phone app?",
+    "options": [
+     "Important buttons large and within easy reach at the lower part of the screen",
+     "Tiny links at the top corners",
+     "Buttons spaced only 1 pixel apart",
+     "Icons without any labels"
+    ],
+    "answer": 0,
+    "explanation": "Large, well-spaced touch targets reduce mistakes.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is it poor design to use red and green alone to show 'error' and 'success'?",
+    "options": [
+     "Red and green are not allowed",
+     "Colours slow the device",
+     "Only text can show success",
+     "Users with colour-vision deficiency may not see the difference"
+    ],
+    "answer": 3,
+    "explanation": "Add icons or words so meaning does not rely only on colour.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement describes 'white space' in a layout?",
+    "options": [
+     "A wasted area that must be filled",
+     "The white colour only",
+     "Empty space that separates items and makes the screen easier to scan",
+     "A bug in the design"
+    ],
+    "answer": 2,
+    "explanation": "White space (negative space) improves readability and focus.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A usability test finds 6 of 10 participants cannot find the settings page. What is the best conclusion?",
+    "options": [
+     "Users need more training",
+     "The navigation to settings needs redesign",
+     "Ten users is too many",
+     "Settings are not important"
+    ],
+    "answer": 1,
+    "explanation": "If most users fail at a task, the design is likely the problem, not the users.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A designer reduces the number of taps to book a ticket from 6 to 4. Assuming each tap takes 2 seconds, what is the time saved per booking?",
+    "options": [
+     "4 seconds",
+     "2 seconds",
+     "6 seconds",
+     "12 seconds"
+    ],
+    "answer": 0,
+    "explanation": "Taps saved = 2. 2 × 2 seconds = 4 seconds.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two checkout designs were tested with 50 users each. Design 1: 40 completed. Design 2: 45 completed. What is the difference in completion rate?",
+    "options": [
+     "5 percentage points",
+     "10%",
+     "45 percentage points",
+     "10 percentage points"
+    ],
+    "answer": 3,
+    "explanation": "Design 1 is 80% and Design 2 is 90%. The difference is 10 percentage points.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A designer adds 15 menu options to the home screen of an app 'so users have choice'. What is the most likely UX problem?",
+    "options": [
+     "The app will not install",
+     "The app will use less data",
+     "Too many options make it harder and slower to choose",
+     "Users will read more slowly in dark mode"
+    ],
+    "answer": 2,
+    "explanation": "Too many choices cause overload. Grouping and prioritising options improves usability.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which approach best balances a visually rich design with accessibility?",
+    "options": [
+     "Remove all images",
+     "Use attractive images but provide alt text, sufficient contrast and keyboard-friendly controls",
+     "Make every element animated",
+     "Hide the menu to look cleaner"
+    ],
+    "answer": 1,
+    "explanation": "Good design meets both aesthetic and accessibility needs.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A user-centred designer finds that older users cannot read 12 pixel text. What should they do?",
+    "options": [
+     "Increase text size and test again with older users",
+     "Ask users to buy glasses",
+     "Reduce contrast",
+     "Remove the text"
+    ],
+    "answer": 0,
+    "explanation": "User-centred design adapts to users and tests the change.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## UI and UX\nThe **user interface (UI)** is everything the user sees and touches: layouts, buttons, menus, icons, text, colours and images. The **user experience (UX)** is the overall feeling and effectiveness of using the product. A beautiful interface can still have poor UX if people cannot complete tasks. Good designers think about both, always starting with the needs of the target audience from Criterion A.\n\n## Core design principles\n- **Consistency**: use the same patterns for buttons, icons, colours and positions, so users can predict what happens.\n- **Feedback**: show the user that an action worked, for example a loading spinner, a tick or a message.\n- **Clear navigation**: users should always know where they are and how to get back. Menus should be simple and logically grouped.\n- **Hierarchy**: size, colour and position show what is most important. Headings are bigger than body text.\n- **White space**: empty areas separate content and make screens easy to scan.\n- **Error prevention**: warn before destructive actions, such as deleting an account, and validate input.\n- **Simplicity**: too many options slow people down. Group, prioritise and hide advanced features.\n\n## Accessibility\nGood products work for as many people as possible. Examples:\n- **Contrast** between text and background. Light grey text on white is hard to read.\n- **Alt text** on images so screen readers can describe them.\n- **Not relying on colour alone**, since some people have colour-vision deficiency. Add words or icons.\n- **Text that can be resized** and large touch targets for people with limited dexterity.\n- **Captions** for video and **keyboard** access for people who cannot use a mouse.\n\n## Colour, fonts and layout\nChoose a colour palette that fits the audience and purpose and keep it consistent. Limit the number of fonts, usually to two. Align items on a grid. Group related items together (proximity). On mobile, place important controls within thumb reach and use large touch targets.\n\n## Testing a UX\n**Usability testing** watches real users complete set tasks. Measure the time taken, number of errors and number who succeed. An **A/B test** compares two versions. Example: version A gets 12 sign-ups from 200 visitors (6%) and version B gets 18 from 200 (9%), so B is better. When comparing percentages, say percentage points for the difference: 9% − 6% = 3 percentage points.\n\n## Worked example\nDesign 1: 40 of 50 users complete checkout, which is 80%. Design 2: 45 of 50, which is 90%. The difference is 10 percentage points. Design 2 meets a 90% criterion and design 1 does not.\n\n## How this is examined\nScenarios present a screen or short description and ask you to identify the principle broken, suggest the best improvement, interpret simple test data, or evaluate whether a design is accessible. Command terms: identify, suggest, justify, evaluate.\n\n## Common mistakes\n- Using decoration that distracts from the task.\n- Hiding key functions in unclear icons.\n- Testing only with the designer's friends.\n- Saying a design is \"user-friendly\" without evidence.\n\nExam tip: Name the principle and then give a specific change. Example: \"Add a confirmation message before deleting, to prevent accidental loss of data.\"",
+  "flashcards": [
+   {
+    "front": "UI",
+    "back": "User interface: the visible parts a user interacts with, such as buttons, menus and layout."
+   },
+   {
+    "front": "UX",
+    "back": "User experience: how easy, efficient and pleasant a product is to use."
+   },
+   {
+    "front": "Consistency",
+    "back": "Using the same patterns throughout a product so users can predict what things do."
+   },
+   {
+    "front": "Feedback",
+    "back": "A visible response to an action, such as a message, tick or loading icon."
+   },
+   {
+    "front": "Accessibility",
+    "back": "Designing so people with different abilities can use the product, e.g. alt text and good contrast."
+   },
+   {
+    "front": "Alt text",
+    "back": "A written description of an image for screen readers."
+   },
+   {
+    "front": "White space",
+    "back": "Empty space that separates content and improves readability."
+   },
+   {
+    "front": "Usability testing",
+    "back": "Watching users complete tasks to find problems in a design."
+   },
+   {
+    "front": "A/B test",
+    "back": "Comparing two versions of a design to see which performs better."
+   }
+  ]
+ },
+ {
+  "subject": "digital-design",
+  "grade": 5,
+  "topic": "Digital Products",
+  "subTopic": "Websites and Apps",
+  "questions": [
+   {
+    "content": "Which language gives a web page its structure and content?",
+    "options": [
+     "HTML",
+     "CSS",
+     "Python",
+     "SQL"
+    ],
+    "answer": 0,
+    "explanation": "HTML marks up headings, paragraphs, images and links. CSS styles them.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which language is mainly used to style a web page (colours, fonts, layout)?",
+    "options": [
+     "HTML",
+     "SQL",
+     "Java",
+     "CSS"
+    ],
+    "answer": 3,
+    "explanation": "CSS controls the presentation of HTML elements.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does the 's' in https mean?",
+    "options": [
+     "The site is slow",
+     "The site is stored on a school server",
+     "The connection is secure and encrypted",
+     "The site is for students only"
+    ],
+    "answer": 2,
+    "explanation": "HTTPS encrypts data between browser and server, protecting information such as passwords.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a URL?",
+    "options": [
+     "A type of virus",
+     "The web address of a page",
+     "A programming error",
+     "A file compressor"
+    ],
+    "answer": 1,
+    "explanation": "A URL such as https://example.com/page identifies the location of a resource.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does a responsive website do?",
+    "options": [
+     "Adjusts its layout to fit different screen sizes",
+     "Responds to emails",
+     "Plays music by default",
+     "Works only offline"
+    ],
+    "answer": 0,
+    "explanation": "Responsive design lets the same site work on phones, tablets and computers.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which HTML tag creates a hyperlink?",
+    "options": [
+     "<link rel>",
+     "<h1>",
+     "<img>",
+     "<a href='page.html'>"
+    ],
+    "answer": 3,
+    "explanation": "The anchor tag <a> with an href attribute links to another page. <img> displays an image.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which code adds an image with alternative text?",
+    "options": [
+     "<img alt='logo.png'>",
+     "<image 'School logo'>",
+     "<img src='logo.png' alt='School logo'>",
+     "<pic src alt>"
+    ],
+    "answer": 2,
+    "explanation": "<img> needs src for the file and alt for the description.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the main difference between a web app and a native app?",
+    "options": [
+     "Web apps cannot use the internet",
+     "A web app runs in a browser, but a native app is installed for a specific operating system",
+     "Native apps are never fast",
+     "Native apps are written in HTML only"
+    ],
+    "answer": 1,
+    "explanation": "Native apps are installed from a store. Web apps are accessed through a browser.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A page includes a 2 MB image and loads on a connection of 8 megabits per second. About how long does that image take to download (1 byte = 8 bits)?",
+    "options": [
+     "2 seconds",
+     "16 seconds",
+     "0.25 seconds",
+     "8 seconds"
+    ],
+    "answer": 0,
+    "explanation": "2 MB = 16 megabits. 16 ÷ 8 = 2 seconds.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why do designers compress images for websites?",
+    "options": [
+     "To make them more colourful",
+     "To make them private",
+     "To stop them being copied",
+     "To reduce load time and data use"
+    ],
+    "answer": 3,
+    "explanation": "Smaller files load faster, which helps users on slow connections or limited data.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is the best use of a site map in planning?",
+    "options": [
+     "Showing the colour palette",
+     "Recording survey answers",
+     "Showing how pages connect so navigation is logical",
+     "Testing passwords"
+    ],
+    "answer": 2,
+    "explanation": "A site map is a plan of pages and links, and helps design navigation.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does the client–server model mean?",
+    "options": [
+     "Two clients share one keyboard",
+     "A client such as a browser asks a server for pages or data, and the server responds",
+     "A server is the same as a screen",
+     "Clients never send information"
+    ],
+    "answer": 1,
+    "explanation": "The browser requests resources and the server sends them back.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A mobile website's menu is hidden behind a three-line icon on small screens. What is the design technique?",
+    "options": [
+     "Responsive design with a collapsible menu",
+     "Encryption",
+     "A firewall",
+     "Data validation"
+    ],
+    "answer": 0,
+    "explanation": "Responsive layouts change on small screens. The 'hamburger' icon saves space.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A shop website works on a desktop but text overflows on a phone. Which CSS idea best fixes it?",
+    "options": [
+     "Use fixed widths of 1200 pixels",
+     "Remove all CSS",
+     "Use only images of text",
+     "Use flexible layouts and media queries for small screens"
+    ],
+    "answer": 3,
+    "explanation": "Media queries and flexible units let the layout adapt. Fixed widths cause overflow.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A designer wants search engines to understand a page. Which action best supports this?",
+    "options": [
+     "Hiding text in the background colour",
+     "Using only images for all text",
+     "Using clear headings, descriptive page titles and alt text",
+     "Using one long paragraph"
+    ],
+    "answer": 2,
+    "explanation": "Search engines read structure and text. Meaningful headings and titles help both people and search tools.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An app stores user scores in a database on a server. A user is offline. Which design best supports this?",
+    "options": [
+     "Refuse to start the app",
+     "Save scores locally and sync them when the connection returns",
+     "Delete the scores",
+     "Ask the user to move to another country"
+    ],
+    "answer": 1,
+    "explanation": "Offline support stores data on the device and syncs later, improving usability.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A website asks users to enter their email on a page that starts with http:// not https://. What is the main risk?",
+    "options": [
+     "Data could be intercepted because it is not encrypted",
+     "The page will be blank",
+     "The email will be deleted",
+     "The page will look different"
+    ],
+    "answer": 0,
+    "explanation": "Without HTTPS, data travels unencrypted and could be read by others on the network.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A designer must choose between a web app and a native app for a school club with students using many different devices. Which is the best reason to choose a web app?",
+    "options": [
+     "Web apps always run faster",
+     "Web apps use no internet",
+     "Native apps cannot be updated",
+     "It works in browsers on all devices without separate versions for each system"
+    ],
+    "answer": 3,
+    "explanation": "A single web app reaches many devices. Native apps may offer better performance but require separate versions.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## How the web works\nA **website** is a collection of linked pages stored on a **server**. Your **browser** (the client) sends a request using a **URL**, and the server sends back files. **HTTPS** encrypts the connection, which protects data such as passwords. This is the **client–server model**.\n\n## The three core languages\n- **HTML** (HyperText Markup Language) gives structure and content: headings (<h1>), paragraphs (<p>), links (<a href>), images (<img src alt>) and lists.\n- **CSS** (Cascading Style Sheets) controls appearance: colours, fonts, spacing and layout.\n- **JavaScript** adds behaviour: menus that open, form checks, animations and updating content without reloading.\n\nExample: <img src=\"logo.png\" alt=\"School logo\"> shows an image and gives screen readers a description.\n\n## Planning a site or app\nUse a **site map** to show pages and how they connect. Use **wireframes** for each page. Plan the navigation so key pages are only a few clicks away. Keep a consistent header, menu and footer. These support Criterion B.\n\n## Responsive design\nPeople use phones, tablets and computers. **Responsive design** makes the layout adjust. Techniques include flexible grids, images that scale and **media queries** that change the layout at certain widths. On small screens menus often collapse into a three-line \"hamburger\" icon. A mobile-first approach designs for the smallest screen first.\n\n## Web apps and native apps\nA **web app** runs in a browser and works on many devices. A **native app** is installed for a specific system (such as iOS or Android) and can use device features like the camera more directly, but needs separate versions. Choose based on the audience, devices and features needed.\n\n## Performance\nPages should load quickly. Large images are the most common problem. Compress images and use the right size. Download time = file size in bits ÷ speed in bits per second. A 2 MB image is 16 megabits, so on an 8 megabit-per-second connection it takes 16 ÷ 8 = 2 seconds. Remember that 1 byte = 8 bits.\n\n## Databases and data\nMany sites and apps store data in a **database** on a server: user accounts, scores and products. For offline use, an app can store data locally and sync later.\n\n## Security basics\nUse HTTPS, validate user input, use strong passwords and ask only for the data you really need.\n\n## Search visibility\nClear headings, meaningful page titles and alt text help people and search engines understand a page.\n\n## How this is examined\nScenarios involve a school or business website or app. Questions ask you to identify the role of HTML, CSS or JavaScript, choose responsive features, calculate a download time, or compare web and native apps for a given audience.\n\n## Common mistakes\n- Mixing up the jobs of HTML and CSS.\n- Forgetting alt text.\n- Using fixed widths that break on phones.\n- Confusing bits and bytes.\n\nExam tip: For web-versus-native questions, link your choice to the audience and devices given in the scenario.",
+  "flashcards": [
+   {
+    "front": "HTML",
+    "back": "Markup language that gives a web page its structure and content."
+   },
+   {
+    "front": "CSS",
+    "back": "Language that styles a web page: colours, fonts, spacing and layout."
+   },
+   {
+    "front": "JavaScript",
+    "back": "Programming language that adds behaviour and interactivity to web pages."
+   },
+   {
+    "front": "HTTPS",
+    "back": "Secure version of HTTP that encrypts data between browser and server."
+   },
+   {
+    "front": "Client–server model",
+    "back": "A client (browser) requests resources and a server responds."
+   },
+   {
+    "front": "Responsive design",
+    "back": "Layout that adapts to different screen sizes using flexible grids and media queries."
+   },
+   {
+    "front": "Web app vs native app",
+    "back": "Web apps run in a browser on many devices. Native apps are installed for a specific operating system."
+   },
+   {
+    "front": "Site map",
+    "back": "A diagram of pages and links used to plan website navigation."
+   },
+   {
+    "front": "Download time",
+    "back": "File size in bits ÷ speed in bits per second. 1 byte = 8 bits."
+   }
+  ]
+ },
+ {
+  "subject": "digital-design",
+  "grade": 5,
+  "topic": "Digital Products",
+  "subTopic": "Digital Media and Graphics",
+  "questions": [
+   {
+    "content": "Which type of graphic is made of tiny coloured squares called pixels?",
+    "options": [
+     "Vector",
+     "Raster (bitmap)",
+     "3D model",
+     "Audio"
+    ],
+    "answer": 1,
+    "explanation": "Raster images are grids of pixels. Vector graphics use mathematical shapes.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which type of graphic stays sharp when enlarged to any size?",
+    "options": [
+     "Vector",
+     "Raster",
+     "Screenshot",
+     "Low-resolution photo"
+    ],
+    "answer": 0,
+    "explanation": "Vector graphics are defined by shapes and paths, so they scale without losing quality.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does RGB stand for?",
+    "options": [
+     "Red, grey, black",
+     "Rapid graphics base",
+     "Resolution, grid, brightness",
+     "Red, green, blue"
+    ],
+    "answer": 3,
+    "explanation": "Screens create colours by mixing red, green and blue light.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which file format is commonly used for photographs with small file sizes?",
+    "options": [
+     "SVG",
+     "TXT",
+     "JPEG",
+     "HTML"
+    ],
+    "answer": 2,
+    "explanation": "JPEG uses lossy compression, which is good for photos.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'frame rate' mean in video?",
+    "options": [
+     "The width of the screen",
+     "The number of images shown per second",
+     "The size of the sound file",
+     "The number of colours"
+    ],
+    "answer": 1,
+    "explanation": "Frame rate is measured in frames per second (fps).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A video is 10 seconds long and runs at 24 frames per second. How many frames does it have?",
+    "options": [
+     "240",
+     "34",
+     "2.4",
+     "24"
+    ],
+    "answer": 0,
+    "explanation": "24 × 10 = 240 frames.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A logo must be used on a business card and a billboard. Which format is best?",
+    "options": [
+     "Low-resolution JPEG",
+     "Small GIF",
+     "Screenshot",
+     "Vector (such as SVG)"
+    ],
+    "answer": 3,
+    "explanation": "Vector scales to any size without becoming pixelated.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement about lossy compression is correct?",
+    "options": [
+     "It restores all removed data",
+     "It makes files larger",
+     "It reduces file size by permanently removing some data",
+     "It only works on text"
+    ],
+    "answer": 2,
+    "explanation": "Lossy formats (JPEG, MP3) discard some detail. Lossless formats (PNG) keep all data.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An image is 1920 × 1080 pixels. How many pixels does it contain?",
+    "options": [
+     "3000",
+     "2 073 600",
+     "207 360",
+     "20 736 000"
+    ],
+    "answer": 1,
+    "explanation": "1920 × 1080 = 2 073 600 pixels.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which format supports a transparent background for a logo on a web page?",
+    "options": [
+     "PNG",
+     "JPEG",
+     "MP3",
+     "DOC"
+    ],
+    "answer": 0,
+    "explanation": "PNG supports transparency and lossless compression. JPEG does not support transparency.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A designer resizes a 400 × 300 pixel image to 1200 × 900 pixels. What is likely to happen?",
+    "options": [
+     "The image becomes a vector",
+     "The file size shrinks",
+     "The image becomes sharper",
+     "The image looks blurry or pixelated"
+    ],
+    "answer": 3,
+    "explanation": "Enlarging a raster image stretches the existing pixels and loses sharpness.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which action is cropping?",
+    "options": [
+     "Changing the colours",
+     "Making the file a different type",
+     "Removing unwanted outer parts of an image",
+     "Adding a border"
+    ],
+    "answer": 2,
+    "explanation": "Cropping cuts away edges to improve composition.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A design must keep a 16:9 ratio. The width is 1280 pixels. What height is needed?",
+    "options": [
+     "640 pixels",
+     "720 pixels",
+     "900 pixels",
+     "1080 pixels"
+    ],
+    "answer": 1,
+    "explanation": "1280 ÷ 16 = 80, and 80 × 9 = 720.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An image file is 6 MB and, after compression, is 1.5 MB. What is the percentage reduction?",
+    "options": [
+     "75%",
+     "25%",
+     "4%",
+     "400%"
+    ],
+    "answer": 0,
+    "explanation": "The reduction is 6 − 1.5 = 4.5 MB. 4.5 ÷ 6 × 100 = 75%.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An uncompressed image is 800 × 600 pixels at 3 bytes per pixel. What is its size in bytes?",
+    "options": [
+     "480 000 bytes",
+     "14 400 bytes",
+     "4 800 000 bytes",
+     "1 440 000 bytes"
+    ],
+    "answer": 3,
+    "explanation": "800 × 600 = 480 000 pixels. 480 000 × 3 = 1 440 000 bytes.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A website needs a quick-loading banner showing a photo. Which choice is most suitable?",
+    "options": [
+     "A large uncompressed bitmap",
+     "A vector file of 100 MB",
+     "A JPEG compressed to suit screen size",
+     "A video file"
+    ],
+    "answer": 2,
+    "explanation": "A compressed JPEG gives acceptable quality with small size. Large files slow loading.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A poster designer uses an image copied from a website with no permission or credit. Which is the main issue?",
+    "options": [
+     "The image has too many pixels",
+     "Copyright infringement and a failure to acknowledge the creator",
+     "The image is a vector",
+     "The image has the wrong colour model"
+    ],
+    "answer": 1,
+    "explanation": "Respecting copyright and giving credit are essential. Use licensed, free-to-use or self-created media.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A stereo audio clip of 10 seconds uses 44 100 samples per second, 16 bits per sample and 2 channels. What is its uncompressed size in bytes?",
+    "options": [
+     "1 764 000 bytes",
+     "882 000 bytes",
+     "14 112 000 bytes",
+     "176 400 bytes"
+    ],
+    "answer": 0,
+    "explanation": "44 100 × 16 × 2 × 10 = 14 112 000 bits. Divide by 8 to get 1 764 000 bytes.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Raster and vector graphics\n**Raster (bitmap) images** are grids of tiny squares called **pixels**, each with its own colour. Photographs are raster. When you enlarge a raster image, the pixels stretch and the image becomes blurry. **Vector graphics** use mathematical shapes, lines and curves, so they can be scaled to any size without losing quality. They are ideal for logos, icons and illustrations. Common formats: JPEG, PNG and GIF are raster. SVG is vector.\n\n## Image file formats\n- **JPEG**: good for photographs, small files, uses lossy compression, no transparency.\n- **PNG**: lossless, supports transparency, good for logos and screenshots.\n- **GIF**: up to 256 colours, supports simple animation.\n- **SVG**: vector format for scalable graphics on the web.\n\n**Lossy compression** removes some data permanently to make files smaller. **Lossless compression** keeps all data, so the original can be restored.\n\n## Colour\nScreens use the **RGB** model, mixing red, green and blue light. Printers use **CMYK** inks (cyan, magenta, yellow, key/black). Web colours are often written as hex codes such as #FF0000 for red. Colour choices should suit the audience and keep text readable.\n\n## Resolution and size\n**Resolution** is the number of pixels. An image 1920 × 1080 has 1920 × 1080 = 2 073 600 pixels. File size (uncompressed) = pixels × bytes per pixel. For 800 × 600 at 3 bytes per pixel: 480 000 × 3 = 1 440 000 bytes. **Aspect ratio** is the ratio of width to height. For 16:9 with width 1280, height = 1280 ÷ 16 × 9 = 720.\n\n## Editing techniques\nCropping removes unwanted edges. Resizing changes dimensions (keep the aspect ratio to avoid stretching). Layers let you edit parts separately. Adjusting brightness and contrast improves the image. Always keep an original copy.\n\n## Video and audio\nVideo is a series of still images called **frames** shown at a **frame rate** in frames per second. 24 fps for 10 seconds is 240 frames. Audio is **sampled**: the sample rate (samples per second), bit depth (bits per sample) and number of channels all affect quality and size. Size in bytes = rate × bits × channels × seconds ÷ 8. Formats such as MP3 use lossy compression.\n\n## Percentage reduction\nA 6 MB file compressed to 1.5 MB has been reduced by 4.5 MB. 4.5 ÷ 6 × 100 = 75%.\n\n## Legal and ethical use\nRespect **copyright** and licences, such as free-to-use or licences requiring credit. Create your own media or give clear credit. Do not edit images to mislead people.\n\n## How this is examined\nTypical items give a media context, such as an advert or a school video, and ask you to choose the right format, calculate pixel counts or file sizes, find a percentage reduction or identify the legal issue.\n\n## Common mistakes\n- Enlarging a small raster image and expecting it to stay sharp.\n- Using JPEG where transparency is needed.\n- Forgetting to divide by 8 to convert bits to bytes.\n- Using other people's images without permission.\n\nExam tip: In calculation questions, write the formula first, substitute the numbers, then state the unit.",
+  "flashcards": [
+   {
+    "front": "Raster image",
+    "back": "Made of pixels. Loses quality when enlarged. Photographs are raster."
+   },
+   {
+    "front": "Vector graphic",
+    "back": "Made of mathematical shapes. Scales to any size without losing quality."
+   },
+   {
+    "front": "Lossy vs lossless",
+    "back": "Lossy compression permanently removes data. Lossless keeps all data so the original can be restored."
+   },
+   {
+    "front": "JPEG, PNG, GIF, SVG",
+    "back": "JPEG: photos. PNG: lossless with transparency. GIF: 256 colours and simple animation. SVG: vector."
+   },
+   {
+    "front": "RGB vs CMYK",
+    "back": "RGB (light) is for screens. CMYK (ink) is for printing."
+   },
+   {
+    "front": "Resolution",
+    "back": "The number of pixels in an image, such as 1920 × 1080."
+   },
+   {
+    "front": "Uncompressed image size",
+    "back": "Pixels × bytes per pixel. 24-bit colour is 3 bytes per pixel."
+   },
+   {
+    "front": "Frame rate",
+    "back": "The number of video frames shown per second (fps)."
+   },
+   {
+    "front": "Aspect ratio",
+    "back": "The ratio of width to height, for example 16:9."
+   }
+  ]
+ }
+]

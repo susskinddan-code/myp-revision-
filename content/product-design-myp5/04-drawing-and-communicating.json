@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "product-design",
+  "grade": 5,
+  "topic": "Drawing and Communicating",
+  "subTopic": "Sketching and Orthographic Drawing",
+  "questions": [
+   {
+    "content": "What is the main purpose of a quick thumbnail sketch in the early design stage?",
+    "options": [
+     "To show the final dimensions",
+     "To explore many ideas rapidly",
+     "To plan the manufacturing steps",
+     "To test the strength of a material"
+    ],
+    "answer": 1,
+    "explanation": "Thumbnail sketches are small, fast drawings used to generate and compare many ideas.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "How many views are usually shown in a basic orthographic drawing of an object?",
+    "options": [
+     "Three: front, side and plan",
+     "One only",
+     "Two: top and bottom only",
+     "Six: always"
+    ],
+    "answer": 0,
+    "explanation": "The standard set is front elevation, side elevation and plan (top) view, drawn at right angles to each other.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which line type is used to show hidden edges in a technical drawing?",
+    "options": [
+     "A thick continuous line",
+     "A wavy line",
+     "A dotted double line",
+     "Short dashes"
+    ],
+    "answer": 3,
+    "explanation": "Hidden detail is drawn as thin dashed lines so the viewer knows an edge exists behind a surface.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In an isometric drawing, at what angle are the sloping axes drawn from the horizontal?",
+    "options": [
+     "45 degrees",
+     "60 degrees from the vertical only",
+     "30 degrees",
+     "90 degrees"
+    ],
+    "answer": 2,
+    "explanation": "Isometric drawings use vertical lines and two axes at 30° to the horizontal, which keeps all lengths at full scale.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does a scale of 1:2 mean on a drawing?",
+    "options": [
+     "The drawing is twice the size of the object",
+     "The drawing is half the size of the real object",
+     "The drawing is the same size as the object",
+     "The object has two parts"
+    ],
+    "answer": 1,
+    "explanation": "1:2 means each unit on the drawing represents 2 units on the object, so the drawing is half size.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "On a drawing at scale 1:5, a line is 24 mm long. What is the real length of this edge?",
+    "options": [
+     "120 mm",
+     "4.8 mm",
+     "29 mm",
+     "240 mm"
+    ],
+    "answer": 0,
+    "explanation": "Real length is 24 × 5 = 120 mm. Dividing by 5 gives 4.8, which is the common wrong step.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A designer wants to show how a hinge and its screws fit together, with parts pulled apart along a line. Which drawing is most suitable?",
+    "options": [
+     "A plan view only",
+     "A thumbnail sketch only",
+     "A flat pattern of the hinge",
+     "An exploded view"
+    ],
+    "answer": 3,
+    "explanation": "An exploded view separates parts in their assembly order so the viewer can see how they fit.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In third angle orthographic projection, where is the plan view placed relative to the front view?",
+    "options": [
+     "Directly below it",
+     "To its left",
+     "Directly above it",
+     "Behind it on another sheet"
+    ],
+    "answer": 2,
+    "explanation": "In third angle projection the plan sits above the front view and the right-hand end view is placed to the right of the front view.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which drawing method gives the most realistic image by making objects appear smaller as they get further away?",
+    "options": [
+     "Isometric drawing",
+     "Perspective drawing",
+     "Orthographic drawing",
+     "Exploded drawing"
+    ],
+    "answer": 1,
+    "explanation": "Perspective uses vanishing points, so parallel lines converge. Isometric and orthographic keep sizes constant.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why are construction lines drawn lightly when sketching a box?",
+    "options": [
+     "They guide proportion and can be erased or covered by darker outlines",
+     "They are the final outline of the object",
+     "They show hidden edges",
+     "They are required for dimensions"
+    ],
+    "answer": 0,
+    "explanation": "Light construction lines help set proportions and perspective. The final outline is drawn darker over them.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of these correctly describes dimensioning on a working drawing?",
+    "options": [
+     "Every size is estimated by eye",
+     "Dimensions are placed inside the object outlines",
+     "Sizes are given in different units on the same view",
+     "Sizes are given in millimetres with the unit stated once, and lines do not cross unnecessarily"
+    ],
+    "answer": 3,
+    "explanation": "Dimensions must be clear and consistent so that someone else can make the object without asking questions.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student draws a cube in oblique projection with the front face true shape and the depth lines at 45°. The depth lines are drawn at half length (cabinet oblique). If the real depth is 60 mm, how long are the depth lines on the drawing?",
+    "options": [
+     "60 mm",
+     "45 mm",
+     "30 mm",
+     "120 mm"
+    ],
+    "answer": 2,
+    "explanation": "In cabinet oblique the receding lines are drawn at half scale, so 60 ÷ 2 = 30 mm.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which view in an orthographic drawing shows the object as seen from above?",
+    "options": [
+     "Front elevation",
+     "Plan",
+     "End elevation",
+     "Isometric"
+    ],
+    "answer": 1,
+    "explanation": "The plan view looks straight down onto the object.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A chair leg has a hole drilled through it that cannot be seen from the front. How should the hole appear in the front elevation?",
+    "options": [
+     "As dashed lines showing its hidden edges",
+     "It is not shown anywhere",
+     "As a thick continuous line",
+     "As a wavy line"
+    ],
+    "answer": 0,
+    "explanation": "Hidden features that are not visible from a given direction are shown with dashed lines.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The front elevation of a rectangular block is 80 mm wide and 40 mm high. Its plan view is 80 mm wide and 25 mm deep. The side elevation (end view) is drawn next to the front view. What size is the side elevation?",
+    "options": [
+     "80 mm wide and 25 mm high",
+     "40 mm wide and 25 mm high",
+     "80 mm wide and 40 mm high",
+     "25 mm wide and 40 mm high"
+    ],
+    "answer": 3,
+    "explanation": "The side view shows depth and height, so it is 25 mm across and 40 mm tall. Views must agree with each other.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A designer's orthographic drawing has a front view 100 mm wide, while the matching plan view is 90 mm wide. What is the most likely problem?",
+    "options": [
+     "The drawing is a perspective view",
+     "The object is rotating",
+     "The views are inconsistent, so the drawing is wrong or unclear",
+     "This is normal, as plan views are always smaller"
+    ],
+    "answer": 2,
+    "explanation": "Width shown in the front and plan views must match. A mismatch means a drawing error.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student needs to present an idea to a client who cannot read technical drawings and also needs a drawing for a workshop technician to make the part. Which combination is best?",
+    "options": [
+     "A dimensioned orthographic drawing for both",
+     "A rendered 3D sketch for the client and a dimensioned orthographic drawing for the technician",
+     "A quick thumbnail for both",
+     "A rendered sketch for both"
+    ],
+    "answer": 1,
+    "explanation": "Different audiences need different drawings. A sketch communicates appearance, whereas orthographic drawings give precise manufacturing information.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A part is drawn at scale 2:1 and a line measures 36 mm. The student writes the real size as 72 mm. What is the correct size and what error was made?",
+    "options": [
+     "18 mm; the student multiplied instead of dividing",
+     "72 mm; the answer is correct",
+     "36 mm; scale has no effect",
+     "9 mm; the student divided twice"
+    ],
+    "answer": 0,
+    "explanation": "2:1 means the drawing is twice the real size, so the real length is 36 ÷ 2 = 18 mm.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Drawing is one of the main ways designers think and communicate. Some drawings help you explore ideas quickly, while others give exact information so a product can be made. Knowing which type to use, and for which audience, is an important MYP Design skill, particularly for Criterion B (developing ideas) and Criterion C (creating the solution).\n\n## Freehand sketching\nEarly in a project, designers produce **thumbnail sketches**, which are small, quick drawings that explore many ideas. Use light **construction lines** (box shapes and guidelines) to get the proportions right, then draw darker outlines over the top. Add shading, simple colour and **annotations** to explain materials, features and how the product works. Sketches do not need to be perfect, but they must be clear.\n\n## Pictorial (3D) drawings\n- **Isometric** drawings use a vertical axis and two axes at 30° to the horizontal. All lengths along the axes are drawn at full scale, which makes measuring easy, but there is no sense of distance.\n- **Oblique** drawings show the front face in true shape, with depth lines at 45°. In **cabinet oblique** the depth is drawn at half length to reduce distortion.\n- **Perspective** drawings use one or two vanishing points on a horizon line, so objects appear smaller with distance. They look the most realistic and are often used for presentation.\n\n## Orthographic projection\n**Orthographic projection** shows an object as separate flat views, each looking straight at one face. The standard set includes:\n- **Front elevation**: looking at the front\n- **Side (end) elevation**: looking from the side\n- **Plan**: looking down from above\n\nIn **third angle projection**, the plan view is drawn directly above the front elevation, and the right-hand end elevation is drawn to the right of the front. Views must line up so that matching edges have the same size. A drawing is wrong if the width in the front view differs from the width in the plan.\n\n## Line types and dimensions\n- **Thick continuous lines** for visible outlines\n- **Thin continuous lines** for dimensions and projection lines\n- **Short dashes** for hidden detail\n- **Chain lines** (long dash, short dash) for centre lines, such as the centre of a hole\n\nDimensions are normally given in millimetres, with the unit stated once on the drawing. Place dimensions outside the object when possible, keep them clear, and avoid repeating the same size. State the **scale** too: 1:2 means the drawing is half the size of the real object, 2:1 means it is twice the size, and 1:1 is full size.\n\n## Worked example\nA drawing of a pencil case is at scale 1:2. The length on paper is 95 mm. The real length is 95 × 2 = 190 mm. A common mistake is to divide by 2 instead of multiplying: with a reduction scale you multiply the drawing size to find the real size.\n\n## Choosing the right drawing\n- To explore ideas: thumbnails and sketches\n- To show a client: rendered 3D sketches or perspective drawings\n- To make the product: dimensioned orthographic drawings\n- To explain assembly: exploded views\n\n## Common mistakes\n- Inconsistent views that do not line up\n- Forgetting hidden detail or centre lines\n- Mixing up the scale direction\n- Writing sizes in different units on one drawing\n- Sketches with no annotations to show reasoning\n\n## How this is examined\nYou may be given a short description of an object and asked to identify the correct view, calculate a real size from a scale, or decide which drawing type suits a particular audience. Drawings themselves are described in words, so you need to picture what each view would show.\n\nExam tip: When a question gives a scale, write down whether the drawing is reduced or enlarged before calculating.",
+  "flashcards": [
+   {
+    "front": "Thumbnail sketch",
+    "back": "A small, quick sketch used early on to explore many ideas."
+   },
+   {
+    "front": "Isometric drawing",
+    "back": "A 3D drawing with a vertical axis and two axes at 30° to the horizontal; lengths are drawn at full scale."
+   },
+   {
+    "front": "Cabinet oblique",
+    "back": "Front face in true shape, with depth lines at 45° drawn at half length."
+   },
+   {
+    "front": "Perspective drawing",
+    "back": "A realistic 3D drawing using vanishing points, so objects get smaller as they get further away."
+   },
+   {
+    "front": "Orthographic projection",
+    "back": "Showing an object as separate flat views (front, side and plan) viewed straight on."
+   },
+   {
+    "front": "Third angle projection",
+    "back": "The plan view sits above the front view, and the right end view is placed to the right of the front view."
+   },
+   {
+    "front": "Hidden detail and centre lines",
+    "back": "Hidden edges use short dashes. Centre lines use long-dash, short-dash chain lines."
+   },
+   {
+    "front": "Scale 1:2 and 2:1",
+    "back": "1:2: drawing is half real size. 2:1: drawing is double real size. 1:1: full size."
+   },
+   {
+    "front": "Exploded view",
+    "back": "A drawing with parts separated along assembly lines, showing how they fit together."
+   }
+  ]
+ },
+ {
+  "subject": "product-design",
+  "grade": 5,
+  "topic": "Drawing and Communicating",
+  "subTopic": "Modelling and Prototyping",
+  "questions": [
+   {
+    "content": "What is a prototype?",
+    "options": [
+     "A final advert for the product",
+     "A first working or testable version of a design",
+     "A list of customers",
+     "A sketch of the logo"
+    ],
+    "answer": 1,
+    "explanation": "A prototype is made to test and improve a design before the final product is made.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which material is cheap and quick for making a first model of a box-shaped product?",
+    "options": [
+     "Card",
+     "Stainless steel",
+     "Hardwood",
+     "Titanium"
+    ],
+    "answer": 0,
+    "explanation": "Card and foam board are cheap and easy to cut and fix, so they suit early models.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why do designers make models before the final product?",
+    "options": [
+     "To make the final product more expensive",
+     "To avoid doing research",
+     "To remove the need for drawing",
+     "To test and improve ideas before spending time and money on the final version"
+    ],
+    "answer": 3,
+    "explanation": "Models allow problems to be found early, when changes are cheap.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does CAD stand for?",
+    "options": [
+     "Cutting and drawing",
+     "Copy and display",
+     "Computer-aided design",
+     "Colour and detail"
+    ],
+    "answer": 2,
+    "explanation": "CAD is software used to create precise 2D and 3D models on a computer.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A 3D printer builds an object by adding material layer by layer. This type of process is called what?",
+    "options": [
+     "Subtractive manufacturing",
+     "Additive manufacturing",
+     "Casting",
+     "Forging"
+    ],
+    "answer": 1,
+    "explanation": "3D printing adds material, whereas machining and cutting remove it.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A student makes a chair model at scale 1:10. The real seat height is 450 mm. What is the seat height of the model?",
+    "options": [
+     "45 mm",
+     "4.5 mm",
+     "450 mm",
+     "4500 mm"
+    ],
+    "answer": 0,
+    "explanation": "450 ÷ 10 = 45 mm. A 1:10 model is one tenth of the real size.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which type of model is best for testing how a handle feels in the hand?",
+    "options": [
+     "A tiny scale model made of paper",
+     "A flat sketch",
+     "A CAD image on a screen",
+     "A full-size model in foam or clay"
+    ],
+    "answer": 3,
+    "explanation": "Ergonomic testing needs a full-size model so grip and comfort can be judged by touch.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student wants to check how a flat-pack storage box fits together, using a quick low-cost method. What is the best first step?",
+    "options": [
+     "Order a injection mould",
+     "Machine a metal prototype",
+     "Make a card mock-up",
+     "Print an advert"
+    ],
+    "answer": 2,
+    "explanation": "A card mock-up checks sizes and assembly quickly. Expensive tooling should only be used after the design is proven.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is an advantage of a virtual (CAD) model over a physical model?",
+    "options": [
+     "It can be held in the hand",
+     "It can be changed quickly and tested on screen",
+     "It always uses less electricity",
+     "It needs no skill to use"
+    ],
+    "answer": 1,
+    "explanation": "CAD lets designers change dimensions and simulate use before making anything physical.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is a limitation of a card model of a load-bearing shelf?",
+    "options": [
+     "It cannot test whether the real material is strong enough",
+     "It cannot show the size",
+     "It cannot show the shape",
+     "It cannot be drawn"
+    ],
+    "answer": 0,
+    "explanation": "A model made from a different material shows form and fit, but not the strength of the final material.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A designer creates a rough, low-fidelity model first and a polished, high-fidelity prototype later. Why is this a good approach?",
+    "options": [
+     "It wastes time but is required",
+     "It avoids testing completely",
+     "It guarantees a perfect first design",
+     "Simple models test basic ideas cheaply, and detailed prototypes check final details"
+    ],
+    "answer": 3,
+    "explanation": "Starting simple and adding detail saves resources and allows early feedback.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement best describes the difference between a model and a prototype?",
+    "options": [
+     "They are always the same",
+     "A model is the final product",
+     "A model represents some aspects of a design, while a prototype is a working version for testing",
+     "A prototype can only be a drawing"
+    ],
+    "answer": 2,
+    "explanation": "A model may show shape or size only, while a prototype is closer to the final product and can be tested for function.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which process removes material to make a part from a block?",
+    "options": [
+     "3D printing",
+     "Laser cutting or milling",
+     "Layering clay on a frame",
+     "Folding a net"
+    ],
+    "answer": 1,
+    "explanation": "Cutting, milling and drilling are subtractive. 3D printing is additive.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student 3D prints a prototype phone case at 100% size. It is 2 mm too tight on the phone. What is the best next step?",
+    "options": [
+     "Increase the internal dimensions in the CAD file and print again",
+     "Ignore the error as printing is always approximate",
+     "Make the case from steel instead",
+     "Remove the phone from the specification"
+    ],
+    "answer": 0,
+    "explanation": "Testing found a fit problem. Iteration means adjusting the model and checking again.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which of the following best justifies using a clay model before a final plastic product?",
+    "options": [
+     "Clay is stronger than plastic",
+     "Clay is recyclable in every case",
+     "Clay is the final material",
+     "Clay allows quick changes to a curved form and can be handled to check comfort"
+    ],
+    "answer": 3,
+    "explanation": "Clay is easy to reshape, so organic forms can be developed. It is not meant to test the final material.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A prototype bicycle bell works well in the lab but breaks when tested outdoors on a bumpy path. What does this show about the testing process?",
+    "options": [
+     "Lab tests are always enough",
+     "The bell should be removed from the bike",
+     "Testing in realistic conditions can reveal faults missed in controlled tests",
+     "Outdoor tests are not valid evidence"
+    ],
+    "answer": 2,
+    "explanation": "Realistic conditions expose problems with durability, which allows improvements before manufacture.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student produces three prototypes. Test results for a drinks holder: V1 spilled 6 of 10 times, V2 spilled 3 of 10 times, V3 spilled 1 of 10 times. Which conclusion is best supported?",
+    "options": [
+     "V3 is perfect",
+     "Changes between versions improved performance, but V3 still does not eliminate spills",
+     "V1 was the best design",
+     "The results prove nothing"
+    ],
+    "answer": 1,
+    "explanation": "Spills fell from 60% to 30% to 10%, showing an improvement. A remaining 10% means more work is needed.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which statement shows strong evaluation of a prototype?",
+    "options": [
+     "It compares test results to the specification and proposes a specific change",
+     "It says the model looks fine",
+     "It lists the tools used",
+     "It repeats the design brief"
+    ],
+    "answer": 0,
+    "explanation": "High-level evaluation uses evidence and suggests improvements, as expected in Criterion D.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Before a product is made in its final form, designers build **models** and **prototypes** to test their ideas. Making mistakes on a cheap model is far better than discovering them after an expensive manufacturing run. Modelling links Criterion B (developing and checking ideas), Criterion C (creating the solution) and Criterion D (testing and evaluating).\n\n## Models and prototypes\nA **model** represents part of a design, such as its shape, size or appearance. It may be made from simple materials and may not work. A **prototype** is a testable version of the product that is closer to the final design. It should be able to show how the product will function, fit and feel. Prototypes are tested, improved and tested again, so design is **iterative**.\n\n## Types of models\n- **Mock-ups**: quick, rough models from card, paper or foam to check size, proportion and layout.\n- **Scale models**: smaller (or larger) copies of an object, such as a 1:10 model of a bench. They show how a large design will look without using much material.\n- **Full-size models**: used for ergonomics, such as checking the grip of a handle or the width of a seat.\n- **Working prototypes**: made with materials and processes close to the final ones, to test function and strength.\n- **Virtual models**: CAD models and renders on a computer, which can be changed quickly and shared easily.\n\n## Materials for modelling\nCard, corrugated board and foam board are cheap and easy to cut. Modelling clay and plasticine are good for curved, organic forms. Wood offcuts and acrylic give a neater finish. Remember that the material used for a model is often different from the final material, so a model may show shape and fit but not real strength.\n\n## Making models\nModels can be made by hand or with machines. **Subtractive** methods, such as cutting, drilling and laser cutting, remove material. **Additive** methods, such as 3D printing, add material in layers. CAD lets you create accurate parts, check dimensions and share files with a laser cutter or 3D printer.\n\n## Scale calculations\nA scale of 1:10 means the model is one tenth of the real size, so you divide real sizes by 10 to find model sizes. Worked example: a real table is 1200 mm long. At 1:10 the model is 1200 ÷ 10 = 120 mm long. To go back to real size, multiply the model size by 10.\n\n## Why test with models?\nYou can check:\n- **Function**: does it work as intended?\n- **Fit and size**: do parts fit together and does the user fit the product?\n- **Ergonomics**: is it comfortable and safe to use?\n- **Appearance**: does the form and colour work?\n- **Cost and manufacture**: can it be made with the available tools and skills?\n\nRecord your tests carefully with photos, results and user comments, and use the specification as your checklist.\n\n## Common mistakes\n- Using only one model and never improving it\n- Testing strength with a model made from a weaker material\n- Not recording the changes made after testing\n- Choosing an expensive prototype when a cheap mock-up would do\n\n## How this is examined\nQuestions usually describe a design problem and ask which type of model suits a purpose, what a test result shows, or how to improve a prototype. Scale calculations also appear. Strong answers link the type of model to what is being tested.\n\nExam tip: Match the model to the question you are asking. Use a full-size model for comfort, a card mock-up for layout, and a working prototype for strength and function.",
+  "flashcards": [
+   {
+    "front": "Model vs prototype",
+    "back": "A model represents some aspects of a design (shape, size). A prototype is a testable version, closer to the final product."
+   },
+   {
+    "front": "Mock-up",
+    "back": "A quick, low-cost model from card or foam used to check size, layout and proportion."
+   },
+   {
+    "front": "Scale model",
+    "back": "A smaller or larger copy of an object. At 1:10 each model length is one tenth of the real length."
+   },
+   {
+    "front": "Why use a full-size model?",
+    "back": "To test ergonomics such as grip, comfort and body fit."
+   },
+   {
+    "front": "CAD",
+    "back": "Computer-aided design: software for making accurate 2D and 3D models that are easy to edit and share."
+   },
+   {
+    "front": "Additive vs subtractive",
+    "back": "Additive processes (3D printing) add material layer by layer. Subtractive processes (cutting, milling) remove material."
+   },
+   {
+    "front": "Iterative design",
+    "back": "Repeatedly making, testing and improving a design based on feedback."
+   },
+   {
+    "front": "Limitation of a card model",
+    "back": "It shows shape and fit but cannot prove the strength of the real material."
+   },
+   {
+    "front": "Good prototype evaluation",
+    "back": "Compare results with the specification, record evidence, and propose a specific improvement."
+   }
+  ]
+ },
+ {
+  "subject": "product-design",
+  "grade": 5,
+  "topic": "Drawing and Communicating",
+  "subTopic": "Presenting Design Solutions",
+  "questions": [
+   {
+    "content": "Who should a designer consider when deciding how to present a design?",
+    "options": [
+     "Only the designer",
+     "The audience, such as a client or a manufacturer",
+     "Only competitors",
+     "Nobody, as presentation does not matter"
+    ],
+    "answer": 1,
+    "explanation": "A good presentation is matched to its audience: clients need clear appearance, manufacturers need exact details.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is an annotation on a drawing?",
+    "options": [
+     "A short written note that explains a feature",
+     "A line that shows hidden edges",
+     "A type of 3D print",
+     "A colour code for paint"
+    ],
+    "answer": 0,
+    "explanation": "Annotations explain materials, sizes, features and reasons, so the drawing communicates more clearly.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a mood board mostly used to show?",
+    "options": [
+     "The cost of the product",
+     "The strength of a joint",
+     "The steps of manufacture",
+     "The style, colours and feel of a design"
+    ],
+    "answer": 3,
+    "explanation": "A mood board collects images and colours that communicate a theme or style.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In MYP Design, which criterion asks students to present the chosen design and give reasons for its selection?",
+    "options": [
+     "Criterion A",
+     "Criterion C",
+     "Criterion B",
+     "Criterion D"
+    ],
+    "answer": 2,
+    "explanation": "Criterion B includes presenting the chosen design and outlining the reasons for choosing it.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a cutting list?",
+    "options": [
+     "A list of customers",
+     "A list of the parts and sizes to be cut from materials",
+     "A list of safety signs",
+     "A list of colours"
+    ],
+    "answer": 1,
+    "explanation": "A cutting list gives each part, material and dimensions so the maker can plan.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A client wants to see how a lamp would look in a living room. Which presentation tool is most suitable?",
+    "options": [
+     "A rendered image or sketch in colour showing the lamp in context",
+     "A plan view with dimensions only",
+     "A table of materials only",
+     "A list of tools"
+    ],
+    "answer": 0,
+    "explanation": "Clients respond best to realistic images, which show appearance and context.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A planning document lists steps, tools, materials, and the time for each stage of making a stool. What is it?",
+    "options": [
+     "A mood board",
+     "A product analysis",
+     "A survey",
+     "A production plan"
+    ],
+    "answer": 3,
+    "explanation": "A production plan shows how the product will be made. It supports Criterion C and the planning drawings in Criterion B.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of these makes a presentation board clearer?",
+    "options": [
+     "Crowding as many images as possible",
+     "Using many fonts and colours",
+     "A consistent layout with clear headings and limited text",
+     "Small text so more fits"
+    ],
+    "answer": 2,
+    "explanation": "Clear structure and consistent style help the viewer find key information quickly.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why might a designer include a sectional view in their final presentation?",
+    "options": [
+     "To show the price",
+     "To show the inside of a product, such as how parts fit within a case",
+     "To show the logo",
+     "To show the customer's name"
+    ],
+    "answer": 1,
+    "explanation": "A section cuts through an object in the drawing to reveal internal detail.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement best justifies choosing one final design from three ideas?",
+    "options": [
+     "Idea 2 meets 9 of the 10 specification points and is easier to make than the others",
+     "Idea 2 was drawn last",
+     "I like Idea 2",
+     "Idea 2 is the biggest"
+    ],
+    "answer": 0,
+    "explanation": "Reasons for selection should link to the specification and to evidence such as ease of manufacture.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student presents a final design with a 3D rendered image, a dimensioned orthographic drawing and a materials list. Why is this combination effective?",
+    "options": [
+     "It makes the product cheaper",
+     "It avoids the need for planning",
+     "It replaces testing",
+     "It communicates appearance, exact sizes and the resources needed"
+    ],
+    "answer": 3,
+    "explanation": "Each item has a different job: appearance, precise measurements and resources. Together they give a complete picture.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is a sign of poor presentation?",
+    "options": [
+     "Annotated sketches",
+     "Clear headings",
+     "Unlabelled diagrams with no scale or dimensions",
+     "Consistent colours"
+    ],
+    "answer": 2,
+    "explanation": "Without labels, scale or dimensions the viewer cannot judge the design or make it.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A flowchart for manufacturing shows start, process and decision symbols. What is its main use?",
+    "options": [
+     "To show the final appearance",
+     "To show the order of steps and decisions in making",
+     "To show body measurements",
+     "To record test data"
+    ],
+    "answer": 1,
+    "explanation": "Flowcharts present sequences clearly, such as 'cut, sand, check size, assemble'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student's final presentation says 'My design is good.' What would most improve it?",
+    "options": [
+     "Give evidence, such as test results and links to the specification",
+     "Add more adjectives",
+     "Make the font larger",
+     "Repeat the sentence on each page"
+    ],
+    "answer": 0,
+    "explanation": "Judgements need evidence. Linking to results and the specification raises the level of the reasoning.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A planning chart gives these durations: cut 40 min, sand 30 min, assemble 50 min, finish 60 min (finish begins after assembly, and 25 min of drying then follows). What is the total time to completion if steps run one after another?",
+    "options": [
+     "180 minutes",
+     "155 minutes",
+     "230 minutes",
+     "205 minutes"
+    ],
+    "answer": 3,
+    "explanation": "40 + 30 + 50 + 60 + 25 = 205 minutes. Leaving out the drying time gives 180, a common slip.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A manufacturer receives a presentation with a beautiful render but no dimensions, materials or tolerances. What is the most likely consequence?",
+    "options": [
+     "The product will be cheaper",
+     "The product will be sustainable",
+     "The product cannot be made accurately without asking for more information",
+     "The product will be tested faster"
+    ],
+    "answer": 2,
+    "explanation": "Renders show appearance only. Manufacturing information must be supplied in technical drawings and lists.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two plans for making a lamp are compared. Plan A includes safety checks, tools, time estimates and quality checks at each stage. Plan B lists only 'cut, join, finish'. Which evaluation is best?",
+    "options": [
+     "Plan B is stronger because it is shorter",
+     "Plan A is stronger because it is detailed, logical and anticipates problems",
+     "They are the same because both finish the lamp",
+     "Plan B is stronger because it has fewer risks"
+    ],
+    "answer": 1,
+    "explanation": "A top-level plan is logical, detailed enough for another person to follow, and includes safety and quality control.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "While making, a student changes the joint type because the planned glue joint was too weak. Which action best shows good communication of this change?",
+    "options": [
+     "Record the change in the plan, explain why, and show the new joint with a sketch",
+     "Change it silently",
+     "Delete the original plan",
+     "Say the plan was never needed"
+    ],
+    "answer": 0,
+    "explanation": "Criterion C expects students to justify changes made to the plan. Evidence helps the reader see the reasoning.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Having a great design is not enough: you must also communicate it clearly. **Presenting design solutions** means showing your chosen design, your reasons for choosing it, and how it will be made, in a way that suits your audience. In MYP Design this appears in Criterion B (presenting the chosen design and planning drawings), Criterion C (the plan and justifying changes) and, in the final stage, Criterion D (communicating your evaluation).\n\n## Know your audience\nThe same design can be presented in different ways:\n- A **client** or user wants to see how the product looks, feels and solves the problem, so use rendered images, coloured sketches and simple explanations.\n- A **manufacturer or technician** needs exact information, so use dimensioned drawings, materials lists and tolerances.\n- An **exam or portfolio reader** wants to see your thinking, so link choices to research and the specification.\n\n## Tools for presentation\n- **Rendered sketches and CAD images** show appearance and context. Colour, shading and a realistic background make them easy to understand.\n- **Orthographic drawings** give exact sizes, using a stated scale and dimensions in millimetres.\n- **Exploded views** show how parts fit together. **Sectional views** reveal inside detail.\n- **Annotations** explain materials, finishes, features and reasons.\n- **Mood boards** express colour and style.\n- **Materials lists and cutting lists** give the parts, materials and sizes needed.\n- **Flowcharts and time plans** show the order of making steps, with times and quality checks.\n\n## Justifying your chosen design\nWhen you present your final idea, explain **why** it was chosen. Compare ideas against the design specification and give evidence: 'Idea 2 meets 9 of the 10 specification points, uses a joint our workshop can make, and was preferred by 8 of 12 users in the survey.' Statements such as 'I like this one' are weak because they give no evidence.\n\n## Planning the making\nA good **production plan** is logical and detailed. Another person should be able to follow it and make the product. It includes:\n- The steps in order\n- The tools, equipment and materials for each step\n- The time for each stage, including waiting time such as glue drying\n- Safety precautions\n- Quality checks, such as measuring parts against the drawing\n\nWorked example: if cutting takes 40 minutes, sanding 30, assembly 50 and finishing 60, followed by 25 minutes of drying, the total is 40 + 30 + 50 + 60 + 25 = 205 minutes. Remember to include every stage, including waiting.\n\n## Recording changes\nReal projects rarely go exactly to plan. If you change a material, joint or method, record what you changed and explain why, supporting this with a sketch or photo. This is what Criterion C means by justifying changes.\n\n## Good layout\nUse headings, consistent fonts and colours, clear labels, and a balance of images and text. Avoid clutter. Make sure each image is labelled with what it shows.\n\n## Common mistakes\n- A pretty render with no sizes or materials\n- Not stating the scale on drawings\n- Giving no reasons for the chosen design\n- Ignoring the audience\n- Changing the plan without recording it\n\n## How this is examined\nQuestions usually give a short scenario, then ask you to choose the best presentation method for a particular audience, spot what is missing from a plan or drawing, or judge the quality of a justification. Time calculations from a production plan may also appear.\n\nExam tip: Say who the audience is, then choose the presentation method that gives them exactly what they need and give a reason.",
+  "flashcards": [
+   {
+    "front": "Audience",
+    "back": "The people a presentation is for. Clients need appearance; manufacturers need exact sizes, materials and steps."
+   },
+   {
+    "front": "Annotation",
+    "back": "A short written note on a drawing that explains a feature, material or reason."
+   },
+   {
+    "front": "Rendered image",
+    "back": "A realistic, shaded or coloured picture (often from CAD) that shows appearance and context."
+   },
+   {
+    "front": "Exploded view and sectional view",
+    "back": "An exploded view separates parts to show assembly. A sectional view cuts through an object to show inside detail."
+   },
+   {
+    "front": "Mood board",
+    "back": "A collage of images, colours and textures that communicates the style or feel of a design."
+   },
+   {
+    "front": "Cutting list",
+    "back": "A list of parts, materials and sizes to be cut, used for planning making."
+   },
+   {
+    "front": "Production plan",
+    "back": "A logical, detailed plan of making steps, tools, materials, times, safety and quality checks."
+   },
+   {
+    "front": "Justifying the chosen design",
+    "back": "Compare ideas with the specification and give evidence such as test results or survey data."
+   },
+   {
+    "front": "Justifying changes (Criterion C)",
+    "back": "Record any change to the plan, explain why it was needed, and show it with a sketch or photo."
+   }
+  ]
+ }
+]

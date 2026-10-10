@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "drama",
+  "grade": 5,
+  "topic": "Production Skills",
+  "subTopic": "Lighting, Sound and Staging",
+  "questions": [
+   {
+    "content": "What is a spotlight?",
+    "options": [
+     "A lamp that makes a narrow, bright beam to light one actor or area",
+     "A recorded sound effect",
+     "A type of curtain",
+     "The area behind the stage"
+    ],
+    "answer": 0,
+    "explanation": "Spotlights focus the audience's attention.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a blackout?",
+    "options": [
+     "A slow sunrise effect",
+     "A costume change",
+     "A type of prop",
+     "All stage lights switched off at once"
+    ],
+    "answer": 3,
+    "explanation": "A blackout is often used to end a scene or show.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a sound effect?",
+    "options": [
+     "A type of lantern",
+     "A script direction",
+     "A recorded or live noise, such as thunder or a door slam, that adds to the scene",
+     "A seating plan"
+    ],
+    "answer": 2,
+    "explanation": "Sound effects help create place, time and mood.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In a proscenium arch theatre, where is the audience?",
+    "options": [
+     "On all four sides",
+     "In front of the stage, looking through a frame",
+     "On three sides",
+     "On the stage"
+    ],
+    "answer": 1,
+    "explanation": "A proscenium stage has the audience on one side, viewing through the arch.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What are the wings?",
+    "options": [
+     "The areas at the sides of the stage hidden from the audience",
+     "The seats at the back",
+     "The lighting desk",
+     "The ticket office"
+    ],
+    "answer": 0,
+    "explanation": "Actors wait and enter from the wings.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A cold blue wash covers the stage during a lonely scene. What effect is most likely intended?",
+    "options": [
+     "A hot summer day",
+     "A party",
+     "A sunrise celebration",
+     "A cold, sad or night-time mood"
+    ],
+    "answer": 3,
+    "explanation": "Cool colours often suggest cold, calm, night or sadness, though meaning depends on context.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is a thrust stage?",
+    "options": [
+     "A stage with no audience",
+     "A stage with the audience in a full circle",
+     "A stage that projects into the audience, who sit on three sides",
+     "A stage only used outdoors"
+    ],
+    "answer": 2,
+    "explanation": "A thrust stage brings actors closer to the audience.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A play is staged in the round. What must actors remember?",
+    "options": [
+     "Stay against one wall",
+     "Everyone can see them from all sides, so they should avoid blocking one section with their backs for long",
+     "Only face the front",
+     "Speak only to the technician"
+    ],
+    "answer": 1,
+    "explanation": "In the round, no side is 'the front', so movement and facing must be shared.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is a cue sheet?",
+    "options": [
+     "A list of lighting and sound cues, with numbers, positions and timings",
+     "A list of audience names",
+     "A costume plan",
+     "A set of bricks"
+    ],
+    "answer": 0,
+    "explanation": "Cue sheets help technicians operate the show accurately.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A recorded rainstorm plays under a conversation. What should be true of the volume?",
+    "options": [
+     "It should be louder than the actors",
+     "It should switch off at random",
+     "It should be the same as a fire alarm",
+     "It should stay quieter than the voices so the lines can be heard"
+    ],
+    "answer": 3,
+    "explanation": "Underscore sound supports speech; it must not drown it.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An actor is told to move 'downstage centre'. Where does she go?",
+    "options": [
+     "Away from the audience, at the side",
+     "Off the stage",
+     "Towards the audience, in the middle",
+     "Into the wings"
+    ],
+    "answer": 2,
+    "explanation": "Downstage is the area nearest the audience; centre is the middle.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An actor stands in front of a bright light behind them so only their outline can be seen. What is this effect called and what might it suggest?",
+    "options": [
+     "A spotlight; celebration",
+     "A silhouette; mystery or hidden identity",
+     "A blackout; the end of the play",
+     "A gobo; comedy"
+    ],
+    "answer": 1,
+    "explanation": "Silhouettes hide detail and can suggest mystery, threat or anonymity.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Before rehearsal, a technician tapes cables to the floor and checks the ladder. What is this an example of?",
+    "options": [
+     "Risk management for safety",
+     "Costume design",
+     "Improvisation",
+     "Applause"
+    ],
+    "answer": 0,
+    "explanation": "Safety checks reduce the chance of accidents.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A scene shows dawn after a frightening night. Which lighting plan best shows hope returning?",
+    "options": [
+     "Cut instantly to full white",
+     "Stay in blackout",
+     "Flash red repeatedly",
+     "Fade slowly from dark blue to warm amber over about 20 seconds"
+    ],
+    "answer": 3,
+    "explanation": "A slow shift from cold to warm shows time passing and an emotional change.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A scene lasts 200 seconds. A storm track must start 45 seconds in and finish 15 seconds before the final line. How long must the track be?",
+    "options": [
+     "155 seconds",
+     "185 seconds",
+     "140 seconds",
+     "200 seconds"
+    ],
+    "answer": 2,
+    "explanation": "200 − 45 − 15 = 140 seconds.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "In a small studio with a low ceiling and a tiny budget, which staging choice is most sensible?",
+    "options": [
+     "Hang a huge heavy set from the ceiling",
+     "Use simple lighting states, a few flexible items and careful actor placement",
+     "Use fireworks",
+     "Buy complex moving lights"
+    ],
+    "answer": 1,
+    "explanation": "Good design fits space and budget and still supports the intention.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Footsteps are heard approaching the door well before the character enters. What is the most likely effect?",
+    "options": [
+     "It builds anticipation and tension",
+     "It makes the scene shorter",
+     "It tells the audience the scene is over",
+     "It hides the dialogue"
+    ],
+    "answer": 0,
+    "explanation": "Sound before action creates suspense and uses off-stage space.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "In end-on staging, a key action on the floor at the front is hidden from the back rows. What is the best solution?",
+    "options": [
+     "Ask the back rows to stand",
+     "Ignore it",
+     "Shout the line louder",
+     "Raise the action onto a platform or move it where all can see"
+    ],
+    "answer": 3,
+    "explanation": "Sightlines must be checked so important action can be seen by everyone.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Lighting, sound and staging are the technical and spatial tools that shape what an audience sees and hears. They support the director's intention and often show a world, mood or time. In MYP Drama, understanding these tools supports Criterion A: Knowing and understanding, and choosing them wisely supports Criterion C. Each criterion is reported in Levels 1-8.\n\n## Lighting\nLighting does four main jobs: it **illuminates** so the audience can see, it **focuses** attention, it **creates mood and time**, and it can **suggest place**.\n- **Colour**: cool blues often suggest night, cold or sadness; warm ambers suggest comfort, sunlight or danger, depending on context.\n- **Intensity**: bright light feels open or harsh; dim light feels secretive or sad.\n- **Direction**: light from above, below or behind changes how a face looks. Backlighting can create a **silhouette**, hiding detail and suggesting mystery.\n- **Spotlight**: a narrow beam on one person or area. **Wash**: an even area of colour. **Blackout**: all lights off at once.\n- **Fade**: slowly increasing or decreasing light. A slow fade from dark blue to warm amber over about 20 seconds can show dawn and hope after a frightening night.\n\n## Sound\n- **Live sound** is made in the space, such as a drum or voices.\n- **Recorded sound** includes sound effects, music and **underscore** (quiet sound under dialogue).\n- Sound can set place (traffic, birds), time (a clock) and mood (a low hum). Sound heard before an entrance, such as footsteps approaching a door, builds anticipation.\n- Keep volume under speech so lines can be heard.\n- **Timing sums** help technicians: if a scene lasts 200 seconds and a storm must start 45 seconds in and end 15 seconds before the last line, the track needs to be 200 − 45 − 15 = 140 seconds.\n\n## Stage types and areas\n- **Proscenium arch**: audience on one side, looking through a frame.\n- **End-on**: audience at one end of a room.\n- **Thrust**: audience on three sides.\n- **In the round**: audience on all sides, so actors must share their facing.\n- **Traverse**: audience on two sides facing each other.\nStage areas are named from the actor's point of view facing the audience: **upstage** is away from the audience, **downstage** is towards them, with **stage left** and **stage right** being the actor's left and right. The **wings** are the sides hidden from view.\n\n## Planning and safety\nA **cue sheet** lists each lighting and sound cue with a number, the line or action that triggers it and its timing. Always do **risk assessment**: tape down cables, avoid trailing wires, check ladders and keep exits clear. Check **sightlines**: if key action happens on the floor at the front, back rows may not see it, so raise it or move it.\n\n## Matching tools to intention\nAsk: what does the audience need to feel at this moment? Then choose the simplest tool that does it. A small studio with a tiny budget can still create atmosphere with a few lighting states, careful actor placement and carefully chosen sounds.\n\n## Common mistakes\n- Using sound so loud that lines are lost.\n- Choosing a colour without a reason.\n- Forgetting sightlines and safety.\n- Describing equipment without explaining its effect.\n\n## How this is examined\nTasks may give a short description of a scene and ask which lighting, sound or staging choice would best achieve a stated mood, or ask you to explain the effect of a cue or evaluate a plan against a budget or space. Command terms such as suggest, explain and justify decide the depth.\n\nExam tip: for every technical choice, name the tool, the effect and the audience response, such as \"A slow amber fade shows hope returning\".",
+  "flashcards": [
+   {
+    "front": "Spotlight",
+    "back": "A lamp giving a narrow, bright beam to focus the audience on one actor or area."
+   },
+   {
+    "front": "Wash",
+    "back": "An even area of coloured or white light over the stage."
+   },
+   {
+    "front": "Blackout",
+    "back": "All lights off at once, often used to end a scene."
+   },
+   {
+    "front": "Silhouette",
+    "back": "An outline made by lighting an actor from behind; hides detail and can suggest mystery."
+   },
+   {
+    "front": "Underscore",
+    "back": "Quiet music or sound under dialogue to support the mood without covering the lines."
+   },
+   {
+    "front": "Cue sheet",
+    "back": "A list of lighting and sound cues with numbers, triggers and timings, used by technicians."
+   },
+   {
+    "front": "Proscenium, thrust, in the round",
+    "back": "Audience on one side through a frame; on three sides; on all sides."
+   },
+   {
+    "front": "Upstage and downstage",
+    "back": "Upstage is away from the audience; downstage is towards the audience (actor's view facing the audience)."
+   },
+   {
+    "front": "Sightline",
+    "back": "The line of sight from an audience seat to the action. It must be checked so key action is visible."
+   }
+  ]
+ },
+ {
+  "subject": "drama",
+  "grade": 5,
+  "topic": "Production Skills",
+  "subTopic": "Costume, Set and Props",
+  "questions": [
+   {
+    "content": "What is costume in drama?",
+    "options": [
+     "Clothing and accessories worn by actors to help show character",
+     "The sound plan",
+     "The seating",
+     "The script's title"
+    ],
+    "answer": 0,
+    "explanation": "Costume helps show age, status, period, personality and place.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a prop?",
+    "options": [
+     "A type of light",
+     "A theatre seat",
+     "A rehearsal schedule",
+     "A portable object used or carried by actors"
+    ],
+    "answer": 3,
+    "explanation": "Props are items such as a letter, umbrella or phone that actors handle.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a set?",
+    "options": [
+     "The performers' names",
+     "The ticket price",
+     "The scenery and furniture that create the setting",
+     "The warm-up"
+    ],
+    "answer": 2,
+    "explanation": "The set shows or suggests where the action happens.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a hand prop?",
+    "options": [
+     "A painted backdrop",
+     "A key that a character hides in a pocket",
+     "A lighting stand",
+     "A stage curtain"
+    ],
+    "answer": 1,
+    "explanation": "A hand prop is carried or used by an actor.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why might an actor wear make-up in a performance?",
+    "options": [
+     "To show age, injury or character, or to be seen under stage lights",
+     "To change the lighting",
+     "To write the script",
+     "To sell tickets"
+    ],
+    "answer": 0,
+    "explanation": "Make-up supports character and helps expressions read under lights.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In a play, every character wears grey except one in red. What is the most likely meaning?",
+    "options": [
+     "The designer ran out of grey",
+     "The red character is invisible",
+     "All characters are the same",
+     "The character in red stands out as different or an outsider"
+    ],
+    "answer": 3,
+    "explanation": "Colour contrast can be a symbolic way to separate a character from the group.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is a minimalist set?",
+    "options": [
+     "A set with hundreds of objects",
+     "A set made only of lights",
+     "A few carefully chosen items that suggest the place, using the audience's imagination",
+     "A set that moves around the stage"
+    ],
+    "answer": 2,
+    "explanation": "Minimalist design uses little to suggest much.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which item is set dressing rather than a hand prop?",
+    "options": [
+     "A suitcase the actor carries",
+     "A framed picture hanging on the wall",
+     "A pen the character writes with",
+     "A phone answered on stage"
+    ],
+    "answer": 1,
+    "explanation": "Set dressing decorates the space but is not handled by actors.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A designer limits the colours in the set and costume to blue, grey and white. What is the main aim?",
+    "options": [
+     "To unify the look and create a particular mood",
+     "To hide the actors",
+     "To increase the volume",
+     "To shorten the play"
+    ],
+    "answer": 0,
+    "explanation": "A restricted palette makes a consistent visual world.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A group uses wooden crates as a bench, a table and a door in different scenes. What is the main advantage?",
+    "options": [
+     "They make the actors taller",
+     "They remove the need for lighting",
+     "They stop the audience clapping",
+     "They are flexible, cheap and make quick scene changes possible"
+    ],
+    "answer": 3,
+    "explanation": "Multi-purpose items save money and time.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An actor must run and kneel in a scene. What should the costume designer consider?",
+    "options": [
+     "That it is as tight as possible",
+     "That it must be heavy",
+     "That the costume allows free, safe movement",
+     "That it should trail on the floor"
+    ],
+    "answer": 2,
+    "explanation": "Costumes must support the action and be safe.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A glass is half full of water at the start of the scene and must look the same after a scene change. Which skill is needed?",
+    "options": [
+     "Projection",
+     "Continuity",
+     "Improvisation",
+     "Blocking"
+    ],
+    "answer": 1,
+    "explanation": "Continuity means keeping props and costumes consistent throughout.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is a design concept?",
+    "options": [
+     "An overall idea that links costume, set, props and other design choices to the intention",
+     "A seating plan",
+     "A rehearsal timetable",
+     "A reminder to applaud"
+    ],
+    "answer": 0,
+    "explanation": "A design concept gives a unified vision.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A group stages a play in a refugee waiting room on a small budget. Which design best suggests a temporary, uncertain place?",
+    "options": [
+     "A luxury sofa and gold curtains",
+     "A brand-new kitchen set",
+     "A sunny garden",
+     "Mismatched chairs, worn bags and a muted palette"
+    ],
+    "answer": 3,
+    "explanation": "Mismatched, worn items and muted colours suggest a place people pass through.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An actor needs to change costume in 15 seconds between scenes. Which solution is best?",
+    "options": [
+     "Use many small buttons",
+     "Sew the costume on her",
+     "Use layers and quick fastenings, and plan the change in advance",
+     "Add a heavy coat"
+    ],
+    "answer": 2,
+    "explanation": "Quick-change costumes are designed with simple fastenings and rehearsed changes.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A budget is £120. Fabric is 14 metres at £4.50 per metre; props cost £28.75; paint costs £19.40. How much money is left?",
+    "options": [
+     "£11.15",
+     "£8.85",
+     "£63.00",
+     "£111.15"
+    ],
+    "answer": 1,
+    "explanation": "Fabric: 14 × 4.50 = £63.00. Total = 63.00 + 28.75 + 19.40 = £111.15. Left: 120 − 111.15 = £8.85.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A cracked mirror prop appears in several scenes and is finally repaired. What is the most likely function of this symbol?",
+    "options": [
+     "To represent a character's damaged sense of self and recovery",
+     "To tell the audience when to clap",
+     "To show the time of day",
+     "To make the stage safer"
+    ],
+    "answer": 0,
+    "explanation": "A recurring object with a changing state can symbolise change in a character.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A scene needs lit candles. What is the safest choice for a school stage?",
+    "options": [
+     "Real candles near curtains",
+     "Matches held by actors",
+     "A small fire on the floor",
+     "Battery-powered LED candles"
+    ],
+    "answer": 3,
+    "explanation": "LED candles give the effect without the fire risk; safety comes first.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Costume, set and props form the visual world of a performance. They tell the audience who people are, where and when the action takes place, and what the piece is about. In MYP Drama, understanding design supports Criterion A: Knowing and understanding, and making considered design choices supports Criterion C: Thinking creatively. Each criterion is reported in Levels 1-8.\n\n## Costume\nCostume includes clothes, shoes, hats, accessories and sometimes make-up and hair. It can show:\n- **age, job and status** (a crisp uniform or ragged coat)\n- **time and place** (period clothing or modern streetwear)\n- **personality** (bright and bold or neat and plain)\n- **relationships** (matching colours for a group, one different colour for an outsider)\nAlways consider **practicality**: can the actor move, run and kneel safely? For fast changes, use layers, simple fastenings and a planned changing area. In an ensemble where everyone wears grey except one person in red, the red costume uses colour symbolism to mark that person as different.\n\n## Set\nThe **set** includes scenery, furniture and structures that create the setting. It may be:\n- **realistic**: detailed and lifelike.\n- **minimalist or suggestive**: a few items such as a chair and a window frame, relying on the audience's imagination.\n- **symbolic**: shapes or colours that represent ideas, such as a barrier made of tangled string.\n- **multi-purpose**: crates used as a bench, table or door, which is flexible and cheap and makes scene changes quick.\nDesign must respect **sightlines** (everyone can see) and **safety** (stable, secure and clear exits).\n\n## Props\n**Props** are portable objects. A **hand prop** is carried by an actor, such as a key or a letter. **Set dressing** is decoration actors do not handle, such as pictures on a wall. Props can be symbolic: a cracked mirror that appears in many scenes and is eventually repaired can represent a character's damaged confidence and recovery. Props need **continuity**: if a glass is half full at the start of a scene, it must be the same after any scene change.\n\n## Design concept and colour\nA **design concept** is the single idea that unites everything. A limited palette, for example blue, grey and white, builds a consistent mood. For a play set in a waiting room for people who have just arrived in a new country, mismatched chairs, worn bags and muted colours suggest a temporary, uncertain place.\n\n## Budget and planning\nReal productions are limited by money, time and space. Plan costs: for example, with £120, 14 metres of fabric at £4.50 per metre costs £63.00; adding £28.75 of props and £19.40 of paint gives £111.15, leaving £8.85. Recycle, borrow and reuse where possible. Always do a risk assessment: LED candles instead of real flames, flame-retardant fabrics where required, and secure scenery.\n\n## Common mistakes\n- Choosing items because they look good, with no link to the intention.\n- Forgetting actors must move comfortably.\n- Using too many objects, which can clutter the stage.\n- Not noting continuity.\n\n## How this is examined\nTypical tasks present a short description of a play and ask you to recommend design choices, explain what a costume or prop suggests, or evaluate a plan for budget and safety. Command terms such as describe, explain and justify decide the level of detail.\n\nExam tip: name the design choice, say what it communicates, and tie it to the intention, such as \"Mismatched chairs suggest a temporary place\".",
+  "flashcards": [
+   {
+    "front": "Costume",
+    "back": "Clothing and accessories worn by actors to show age, status, time, place and personality."
+   },
+   {
+    "front": "Prop",
+    "back": "A portable object used by actors, such as a key or letter."
+   },
+   {
+    "front": "Hand prop vs set dressing",
+    "back": "A hand prop is carried or used by actors; set dressing decorates the space and is not handled."
+   },
+   {
+    "front": "Minimalist set",
+    "back": "A few carefully chosen items that suggest a place and rely on the audience's imagination."
+   },
+   {
+    "front": "Multi-purpose set item",
+    "back": "An item used in several ways, such as a crate acting as bench, table or door; flexible and cheap."
+   },
+   {
+    "front": "Design concept",
+    "back": "One overall idea that unites costume, set, props and other choices around the intention."
+   },
+   {
+    "front": "Colour symbolism",
+    "back": "Using colour to carry meaning, such as one red costume among grey ones to show an outsider."
+   },
+   {
+    "front": "Continuity",
+    "back": "Keeping props, costumes and set consistent from scene to scene."
+   },
+   {
+    "front": "Safe design choices",
+    "back": "Free movement in costume, stable sets, clear exits and LED candles instead of real flames."
+   }
+  ]
+ },
+ {
+  "subject": "drama",
+  "grade": 5,
+  "topic": "Production Skills",
+  "subTopic": "Performing and Evaluating",
+  "questions": [
+   {
+    "content": "What is projection?",
+    "options": [
+     "Speaking so the audience can hear clearly without shouting",
+     "Whispering as quietly as possible",
+     "Looking at the floor",
+     "Moving offstage"
+    ],
+    "answer": 0,
+    "explanation": "Projection uses breath support and clarity to reach the back of the room.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'evaluate' mean in a response about a performance?",
+    "options": [
+     "Copy the script",
+     "List the cast only",
+     "Draw the set",
+     "Judge how well something worked, using evidence"
+    ],
+    "answer": 3,
+    "explanation": "Evaluating means making a reasoned judgement supported by examples.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is articulation?",
+    "options": [
+     "Moving fast",
+     "Changing costume",
+     "Pronouncing words clearly",
+     "Changing the set"
+    ],
+    "answer": 2,
+    "explanation": "Clear articulation helps the audience follow the words.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does it mean to stay in role?",
+    "options": [
+     "To read the script aloud",
+     "To keep playing the character, even when something unexpected happens",
+     "To leave the stage",
+     "To speak to the audience as yourself"
+    ],
+    "answer": 1,
+    "explanation": "Staying in role protects the illusion and the group's work.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is audience feedback?",
+    "options": [
+     "Comments from the audience about the performance",
+     "The lights",
+     "The costume plan",
+     "The seating"
+    ],
+    "answer": 0,
+    "explanation": "Audience feedback is one source of evidence for evaluating.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is the strongest evaluation?",
+    "options": [
+     "Only a plot summary",
+     "Only a list of lines",
+     "'It was good.'",
+     "Strengths, weaknesses, specific evidence and a suggested improvement"
+    ],
+    "answer": 3,
+    "explanation": "Good evaluations are balanced and evidence-based, and look forward.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sentence is the most evidence-based?",
+    "options": [
+     "'I liked my voice.'",
+     "'We did the scene.'",
+     "'The slow, quiet delivery of \"Stay\" made the room go still; next time I would pair it with a step towards her.'",
+     "'It was funny and nice.'"
+    ],
+    "answer": 2,
+    "explanation": "It names a choice, the audience effect and an improvement.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An actor drops a prop mid-scene. What is the best thing to do?",
+    "options": [
+     "Stop and apologise to the audience",
+     "Stay in role and adapt, using the moment if possible",
+     "Walk off",
+     "Stare at the technicians"
+    ],
+    "answer": 1,
+    "explanation": "Professional performers keep going and adjust.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which MYP Arts criterion is mainly about reflecting on and evaluating your own and others' drama?",
+    "options": [
+     "Criterion D: Responding",
+     "Criterion A: Knowing and understanding",
+     "Criterion B: Developing skills",
+     "Criterion C: Thinking creatively"
+    ],
+    "answer": 0,
+    "explanation": "Criterion D covers responding to and evaluating art. Each criterion is reported in Levels 1-8.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An actor rushes lines when nervous. What is the best fix?",
+    "options": [
+     "Speak faster",
+     "Look away",
+     "Stop breathing deeply",
+     "Slow breathing, deliberate pauses and rehearsing the lines with a steady pace"
+    ],
+    "answer": 3,
+    "explanation": "Controlled breath and planned pauses steady the pace.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is watching a video of your performance useful?",
+    "options": [
+     "It replaces rehearsal",
+     "It removes nerves",
+     "It lets you notice habits such as fidgeting or unclear speech",
+     "It changes the script"
+    ],
+    "answer": 2,
+    "explanation": "A recording gives objective evidence of your work.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In 'two stars and a wish' feedback, what is the 'wish'?",
+    "options": [
+     "A prop",
+     "A suggestion for improvement",
+     "A costume",
+     "A compliment"
+    ],
+    "answer": 1,
+    "explanation": "Two stars are strengths; the wish is what to improve.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In an ensemble scene, what does 'upstaging' a speaker mean and why is it a problem?",
+    "options": [
+     "Drawing attention away from the speaker, which damages the focus of the scene",
+     "Standing downstage, which is always helpful",
+     "Speaking louder, which is always helpful",
+     "Walking offstage for a prop"
+    ],
+    "answer": 0,
+    "explanation": "Good ensemble members support the focus instead of pulling attention away.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An audience survey of 25 people shows 18 understood the ending. What percentage did not understand, and what is a sensible response?",
+    "options": [
+     "72%; do nothing",
+     "18%; remove the ending",
+     "50%; change the title",
+     "28%; review how the ending is clarified and test again"
+    ],
+    "answer": 3,
+    "explanation": "25 − 18 = 7; 7 ÷ 25 = 28%. A sizeable minority were unsure, so adjust and retest.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which statement is evaluation rather than description?",
+    "options": [
+     "'She sat down and the lights faded.'",
+     "'There were two characters.'",
+     "'The silence before her answer built tension because the audience expected an outburst.'",
+     "'The scene was in a kitchen.'"
+    ],
+    "answer": 2,
+    "explanation": "Evaluation judges effect and gives reasons; description only says what happened.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The target length is 10 minutes. The performance lasted 11 minutes 40 seconds. By how many seconds did it run over?",
+    "options": [
+     "40 seconds",
+     "100 seconds",
+     "80 seconds",
+     "160 seconds"
+    ],
+    "answer": 1,
+    "explanation": "11 min 40 s = 700 s; 700 − 600 = 100 s.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An actor lost lines in a performance because they only learned them silently. Which improvement plan is best?",
+    "options": [
+     "Run lines aloud with a partner each day, using cue lines, and record progress",
+     "Hope it improves",
+     "Learn fewer lines",
+     "Stop rehearsing"
+    ],
+    "answer": 0,
+    "explanation": "A specific, repeatable plan with measurement targets the real problem.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A performer evaluates how a slow lighting fade and a whispered final line worked together. What makes this a strong analysis?",
+    "options": [
+     "It lists the lights separately",
+     "It only describes the lines",
+     "It ignores the audience",
+     "It explains how two choices combine to create one audience effect"
+    ],
+    "answer": 3,
+    "explanation": "Analysis links different elements and shows their combined impact on the audience.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Performing is where all the work of devising, scripting and rehearsal meets an audience. Evaluating is how you learn from it. In MYP Drama, performance connects to Criterion B: Developing skills, and evaluation sits in Criterion D: Responding. Each criterion is reported in Levels 1-8.\n\n## Performance skills\n- **Voice**: projection (being heard without shouting), articulation (clear words), pace, pitch, tone and pause. Breathing from the diaphragm supports all of these.\n- **Body**: posture, gesture, facial expression, eye contact and use of space. Small, truthful choices often work better than exaggerated ones.\n- **Focus and concentration**: staying in role even when something unexpected happens, such as a dropped prop.\n- **Ensemble skills**: listening, reacting, supporting the speaker and not upstaging. Upstaging means pulling attention away from the focus of the scene.\n- **Controlling nerves**: warm up, breathe slowly, plan pauses and trust your rehearsal.\n\nIf you rush lines when nervous, slow your breathing and mark deliberate pauses in your script.\n\n## Performance conditions\nPerforming well also means respecting time and space. If the target length is 10 minutes and a run takes 11 minutes 40 seconds, that is 100 seconds over, because 700 − 600 = 100. Edit or tighten pace rather than rushing.\n\n## Evaluating\nTo **describe** is to say what happened. To **evaluate** is to judge how well it worked, using evidence. A strong evaluation:\n1. states the intention.\n2. identifies strengths with examples and links them to audience effect.\n3. identifies weaknesses honestly.\n4. suggests specific improvements.\nFor example: \"The slow, quiet delivery of 'Stay' made the room go still. Next time I would pair it with a step towards her to show the character's choice.\"\n\n## Sources of evidence\n- **Video recordings**: help you notice habits such as fidgeting or unclear speech.\n- **Audience feedback**: comments or surveys. If 18 of 25 people understood the ending, then 7 did not, which is 28%, so you may adjust the ending and test again.\n- **Peer feedback**, such as \"two stars and a wish\" (two strengths and one suggestion).\n- **Your own journal** from rehearsals.\nBe careful: a small survey may not represent everyone, so compare it with other evidence.\n\n## Responding to others' work\nYou can also evaluate professional or peer performances. Identify the intention, describe key choices, explain their effect and judge their success. Link elements: how lighting, voice and movement worked together to build one effect.\n\n## Improvement plans\nA useful plan is specific, measurable and time-bound: \"Run lines aloud with a partner each day for a week, using cue lines, and record how many I miss.\" Vague plans such as \"try harder\" are weak.\n\n## Common mistakes\n- Retelling the plot rather than judging the performance.\n- Writing only positives, or only negatives.\n- Giving opinions without evidence.\n- Forgetting to suggest improvements.\n\n## How this is examined\nTasks may give a short performance description, comments or survey data and ask you to identify the strongest evaluation, calculate a percentage, suggest improvements or justify a judgement. Command terms such as describe, evaluate and justify decide the depth.\n\nExam tip: use the pattern Point, Evidence, Effect, Improvement: what you did, what it looked or sounded like, how the audience reacted and what you would change.",
+  "flashcards": [
+   {
+    "front": "Projection",
+    "back": "Speaking so the audience can hear you clearly without shouting; supported by breath."
+   },
+   {
+    "front": "Articulation",
+    "back": "Pronouncing words clearly so the audience can follow every line."
+   },
+   {
+    "front": "Staying in role",
+    "back": "Keeping the character going even when something unexpected happens, such as a dropped prop."
+   },
+   {
+    "front": "Upstaging",
+    "back": "Drawing attention away from the speaker, which weakens the focus of the scene."
+   },
+   {
+    "front": "Describe vs evaluate",
+    "back": "Describe says what happened; evaluate judges how well it worked, using evidence."
+   },
+   {
+    "front": "Four parts of a strong evaluation",
+    "back": "Intention, strengths with evidence, honest weaknesses, and specific improvements."
+   },
+   {
+    "front": "Two stars and a wish",
+    "back": "Peer feedback: two strengths and one suggestion for improvement."
+   },
+   {
+    "front": "Sources of evidence for evaluation",
+    "back": "Video recordings, audience feedback or surveys, peer comments and your own rehearsal journal."
+   },
+   {
+    "front": "Which MYP Arts criterion covers evaluating?",
+    "back": "Criterion D: Responding, reported in Levels 1-8. Use Point, Evidence, Effect, Improvement."
+   }
+  ]
+ }
+]

@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "digital-design",
+  "grade": 5,
+  "topic": "Computational Thinking",
+  "subTopic": "Algorithms and Flowcharts",
+  "questions": [
+   {
+    "content": "What is an algorithm?",
+    "options": [
+     "A type of computer virus",
+     "A speed measure for a processor",
+     "A drawing of a screen layout",
+     "A step-by-step set of instructions to solve a problem"
+    ],
+    "answer": 3,
+    "explanation": "An algorithm is a clear, ordered set of steps. It can be written as pseudocode or drawn as a flowchart.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In a flowchart, which shape is normally used for a decision such as 'Is age ≥ 13?'",
+    "options": [
+     "Rectangle",
+     "Oval",
+     "Diamond",
+     "Parallelogram"
+    ],
+    "answer": 2,
+    "explanation": "A diamond shows a decision with two or more exits, such as Yes and No. Rectangles are processes and ovals are start or end.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which shape in a flowchart marks the start or end of an algorithm?",
+    "options": [
+     "Diamond",
+     "Rounded oval (terminator)",
+     "Rectangle",
+     "Circle with a cross"
+    ],
+    "answer": 1,
+    "explanation": "The terminator shape shows start and stop.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is pseudocode?",
+    "options": [
+     "A plain-language, code-like way of writing an algorithm",
+     "Code that has been encrypted",
+     "A program that only runs on phones",
+     "A tool for editing photos"
+    ],
+    "answer": 0,
+    "explanation": "Pseudocode describes the logic in structured English without worrying about exact syntax of a language.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'decomposition' mean in computational thinking?",
+    "options": [
+     "Deleting a program",
+     "Making a file smaller",
+     "Writing code in a new language",
+     "Breaking a big problem into smaller parts"
+    ],
+    "answer": 3,
+    "explanation": "Decomposition splits a complex problem into smaller, easier tasks.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Trace this algorithm: total = 0. FOR i from 1 to 4: total = total + i × 2. OUTPUT total. What is output?",
+    "options": [
+     "10",
+     "12",
+     "20",
+     "8"
+    ],
+    "answer": 2,
+    "explanation": "Add 2, 4, 6, 8: total = 20.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A flowchart reads: INPUT n. If n MOD 2 = 0 then OUTPUT 'even', else OUTPUT 'odd'. What is output when n = 7?",
+    "options": [
+     "even",
+     "odd",
+     "7",
+     "0"
+    ],
+    "answer": 1,
+    "explanation": "7 MOD 2 = 1, which is not 0, so the else branch runs and outputs 'odd'.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which algorithm correctly finds the average of three numbers a, b and c?",
+    "options": [
+     "OUTPUT (a + b + c) ÷ 3",
+     "OUTPUT a + b + c ÷ 3",
+     "OUTPUT (a + b + c) × 3",
+     "OUTPUT a × b × c ÷ 3"
+    ],
+    "answer": 0,
+    "explanation": "The sum must be in brackets before dividing by 3. Without brackets, only c would be divided.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A list holds 4, 9, 2, 7. A linear search looks for 2 starting at the first item. How many items are checked, including the match?",
+    "options": [
+     "1",
+     "2",
+     "4",
+     "3"
+    ],
+    "answer": 3,
+    "explanation": "The search checks 4, then 9, then 2 and stops at the match: three comparisons.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "count = 10. WHILE count > 3: count = count − 4. How many times does the loop run, and what is count at the end?",
+    "options": [
+     "3 times, count is −2",
+     "2 times, count is 6",
+     "2 times, count is 2",
+     "1 time, count is 6"
+    ],
+    "answer": 2,
+    "explanation": "10 → 6 (still > 3) → 2 (not > 3), so 2 runs and the final value is 2.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is a good reason to draw a flowchart before coding?",
+    "options": [
+     "It makes the program run faster",
+     "It shows the logic and makes errors easier to spot",
+     "It removes the need for testing",
+     "It converts the program to binary"
+    ],
+    "answer": 1,
+    "explanation": "Flowcharts help plan and communicate the logic, but the program must still be tested.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "x = 5. y = x × 2. x = y − 3. OUTPUT x + y. What is the output?",
+    "options": [
+     "17",
+     "12",
+     "15",
+     "10"
+    ],
+    "answer": 0,
+    "explanation": "y = 10. Then x = 10 − 3 = 7. Output 7 + 10 = 17.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which action is an example of 'abstraction'?",
+    "options": [
+     "Copying a map exactly",
+     "Printing a map in colour",
+     "Deleting a map",
+     "Showing only the stations and lines on a metro map and ignoring street details"
+    ],
+    "answer": 3,
+    "explanation": "Abstraction removes unnecessary detail to focus on what matters.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A list is 5, 2, 4, 1. One pass of bubble sort compares each pair from the left and swaps if the first is larger. What is the list after one pass?",
+    "options": [
+     "1, 2, 4, 5",
+     "2, 5, 4, 1",
+     "2, 4, 1, 5",
+     "5, 4, 2, 1"
+    ],
+    "answer": 2,
+    "explanation": "5 swaps right past 2, 4 and 1, giving 2, 4, 1, 5. The list needs more passes to be sorted.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A sorted list has 64 items. A binary search halves the remaining items each step. About how many halvings reduce 64 items to 1?",
+    "options": [
+     "8",
+     "6",
+     "32",
+     "64"
+    ],
+    "answer": 1,
+    "explanation": "64 → 32 → 16 → 8 → 4 → 2 → 1 takes 6 halvings. This is why binary search is efficient on sorted data.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A flowchart for a school lunch machine: INPUT balance, price. If balance ≥ price then balance = balance − price and OUTPUT 'Paid', else OUTPUT 'Top up'. balance = 3.50 and price = 3.50. What happens?",
+    "options": [
+     "Output 'Paid' and balance becomes 0",
+     "Output 'Top up'",
+     "Output 'Paid' and balance stays 3.50",
+     "The algorithm never ends"
+    ],
+    "answer": 0,
+    "explanation": "3.50 ≥ 3.50 is true, so the machine takes payment and the balance is 0.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two algorithms both find the largest value in a list of 1000 numbers. A checks every number once. B compares every number with every other number. Which is more efficient and why?",
+    "options": [
+     "B, because it checks more",
+     "They are equal because they give the same answer",
+     "B, because it uses more loops",
+     "A, because it needs far fewer comparisons"
+    ],
+    "answer": 3,
+    "explanation": "Same answer, but A uses about 1000 steps while B uses about 1000 × 1000. Efficiency compares the number of steps.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An algorithm should output the largest of three numbers a, b, c. Which design is correct?",
+    "options": [
+     "If a > b then output a, else output c",
+     "Output a + b + c",
+     "If a ≥ b and a ≥ c then output a, else if b ≥ c then output b, else output c",
+     "If a > b then output a, else if b > c then output c"
+    ],
+    "answer": 2,
+    "explanation": "The correct version tests every possibility. The others miss cases, for example when b is the largest.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What is an algorithm?\nAn **algorithm** is a precise, step-by-step set of instructions that solves a problem. Computers cannot guess, so every step must be clear and in a sensible order. In Digital Design, algorithms are the plan behind a program, game or app. They support Criterion B (planning the solution) and Criterion C (creating it).\n\n## The four parts of computational thinking\n- **Decomposition**: break a big problem into smaller parts. A quiz app can be split into questions, scoring and results.\n- **Pattern recognition**: spot things that repeat, so you can reuse a solution.\n- **Abstraction**: ignore detail that does not matter. A metro map shows stations and lines, not street names.\n- **Algorithm design**: write the steps in order.\n\n## Three building blocks\nEvery algorithm is made from only three structures.\n- **Sequence**: steps happen one after another, in order.\n- **Selection**: a decision picks a path, using IF, THEN and ELSE.\n- **Iteration**: a loop repeats steps, using FOR (a set number of times) or WHILE (until a condition changes).\n\n## Pseudocode\nPseudocode is structured, plain language. Example:\nINPUT score\nIF score ≥ 50 THEN OUTPUT \"Pass\" ELSE OUTPUT \"Try again\"\nIt does not have to follow the rules of any single programming language, but it must be clear, ordered and consistent.\n\n## Flowcharts\nA flowchart draws the algorithm. The standard shapes are: a rounded oval for start and end, a parallelogram for input and output, a rectangle for a process (such as total = total + 1), and a diamond for a decision with labelled exits (Yes and No). Arrows show the flow. Check that every decision has two exits and every path eventually reaches the end.\n\n## Tracing an algorithm\nA **trace** means following the algorithm by hand and writing the value of each variable at every step. Example: total = 0. FOR i from 1 to 4, total = total + i × 2. The values are 2, 6, 12, 20, so total is 20 at the end. Tracing finds logic errors before you write any code.\n\n## Searching and sorting\nA **linear search** checks items one by one from the start. A **binary search** works on a sorted list and halves the search area each time: 64 items become 32, 16, 8, 4, 2, 1 in 6 halvings. A **bubble sort** compares neighbours and swaps them if they are in the wrong order. Starting with 5, 2, 4, 1, one pass gives 2, 4, 1, 5, and the largest value has moved to the end.\n\n## Efficiency\nTwo algorithms can give the same answer but one may need far fewer steps. Efficient algorithms save time and energy, which matters when there is a lot of data.\n\n## How this is examined\nTypical items give a short algorithm or flowchart in a context (for example a ticket price calculator) and ask for the output for a given input, which shape is missing, how to fix a logic error, or which of two approaches is more efficient. Command terms: state, trace, complete, explain.\n\n## Common mistakes\n- Missing brackets in calculations, such as a + b + c ÷ 3.\n- Loops that never end because the condition never changes.\n- Forgetting the final ELSE case.\n- Using the wrong flowchart shape.\n\nExam tip: Trace with a small table of variable values. Write each new value on its own line so you never lose track.",
+  "flashcards": [
+   {
+    "front": "Algorithm",
+    "back": "A clear, ordered set of steps that solves a problem."
+   },
+   {
+    "front": "Decomposition",
+    "back": "Breaking a complex problem into smaller, manageable parts."
+   },
+   {
+    "front": "Abstraction",
+    "back": "Removing unnecessary detail to focus on what matters."
+   },
+   {
+    "front": "Pattern recognition",
+    "back": "Spotting similarities or repeats so a solution can be reused."
+   },
+   {
+    "front": "Sequence, selection, iteration",
+    "back": "The three building blocks: steps in order, decisions (IF) and loops (FOR/WHILE)."
+   },
+   {
+    "front": "Flowchart shapes",
+    "back": "Oval: start/end. Parallelogram: input/output. Rectangle: process. Diamond: decision."
+   },
+   {
+    "front": "Pseudocode",
+    "back": "Structured, plain-language description of an algorithm that is not tied to one language."
+   },
+   {
+    "front": "Trace table",
+    "back": "A table of variable values written step by step while following an algorithm by hand."
+   },
+   {
+    "front": "Linear vs binary search",
+    "back": "Linear checks items one by one. Binary halves a sorted list each step, so it is faster."
+   }
+  ]
+ },
+ {
+  "subject": "digital-design",
+  "grade": 5,
+  "topic": "Computational Thinking",
+  "subTopic": "Programming Basics",
+  "questions": [
+   {
+    "content": "What is a program?",
+    "options": [
+     "A set of instructions a computer can follow",
+     "A type of screen",
+     "A kind of cable",
+     "A list of passwords"
+    ],
+    "answer": 0,
+    "explanation": "A program is code written in a programming language to make a computer do tasks.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a loop?",
+    "options": [
+     "IF x > 3",
+     "INPUT name",
+     "OUTPUT 5",
+     "FOR i FROM 1 TO 10"
+    ],
+    "answer": 3,
+    "explanation": "A FOR statement repeats a block of code. IF is selection.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does a function do?",
+    "options": [
+     "Stores one number only",
+     "Deletes variables",
+     "Groups code into a named block that can be reused",
+     "Connects to the internet"
+    ],
+    "answer": 2,
+    "explanation": "Functions help organise programs and avoid repeating code.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a syntax error?",
+    "options": [
+     "A program that is too fast",
+     "A mistake in the rules of the language, such as a missing bracket",
+     "A correct program with a wrong idea",
+     "A computer that overheats"
+    ],
+    "answer": 1,
+    "explanation": "The language cannot understand code with a syntax error, so it will not run.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which symbol in most languages checks if two values are equal?",
+    "options": [
+     "==",
+     "=",
+     "→",
+     "&&"
+    ],
+    "answer": 0,
+    "explanation": "A single = usually assigns a value. == compares two values.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the output? name = 'Mia'. age = 15. print(name + ' is ' + str(age))",
+    "options": [
+     "Mia + is + 15",
+     "name is age",
+     "Mia is age",
+     "Mia is 15"
+    ],
+    "answer": 3,
+    "explanation": "The strings are joined (concatenated) and age is converted to text with str().",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the final value of n? n = 3. FOR i FROM 1 TO 3: n = n × 2",
+    "options": [
+     "9",
+     "12",
+     "24",
+     "18"
+    ],
+    "answer": 2,
+    "explanation": "3 → 6 → 12 → 24 after three doublings.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A game gives 10 points per coin. A player collects 7 coins and loses 15 points for hitting a trap. What is the score after: score = coins × 10 − 15?",
+    "options": [
+     "70",
+     "55",
+     "85",
+     "−15"
+    ],
+    "answer": 1,
+    "explanation": "7 × 10 = 70, then 70 − 15 = 55.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which line makes the program ask the user for a number and store it as an integer?",
+    "options": [
+     "age = int(input('Age? '))",
+     "age = input() + 'int'",
+     "int = age(input)",
+     "print(age)"
+    ],
+    "answer": 0,
+    "explanation": "input() reads text. int() converts it to a whole number.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The code IF mark >= 70 THEN grade = 'A' ELSE IF mark >= 50 THEN grade = 'B' ELSE grade = 'C' is used. What grade is given for mark = 50?",
+    "options": [
+     "A",
+     "C",
+     "No grade",
+     "B"
+    ],
+    "answer": 3,
+    "explanation": "50 is not ≥ 70, but 50 ≥ 50 is true, so the grade is B.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student's program should repeat until the user types 'quit'. Which structure fits best?",
+    "options": [
+     "FOR 1 TO 3",
+     "IF input is 'quit'",
+     "WHILE input is not 'quit'",
+     "OUTPUT 'quit'"
+    ],
+    "answer": 2,
+    "explanation": "A WHILE loop repeats until a condition changes. The number of repeats is not known in advance.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why do programmers add comments to code?",
+    "options": [
+     "To make the program faster",
+     "To explain what the code does for themselves and others",
+     "To change the colour of the output",
+     "To stop errors happening"
+    ],
+    "answer": 1,
+    "explanation": "Comments are ignored when the program runs. They make code easier to read and maintain.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A function area(w, h) returns w × h. What does area(4, 6) return?",
+    "options": [
+     "24",
+     "10",
+     "20",
+     "46"
+    ],
+    "answer": 0,
+    "explanation": "4 × 6 = 24. w and h are parameters that receive the values 4 and 6.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A program has total = 0. FOR i FROM 1 TO 5: IF i MOD 2 = 1 THEN total = total + i. What is total at the end?",
+    "options": [
+     "15",
+     "6",
+     "5",
+     "9"
+    ],
+    "answer": 3,
+    "explanation": "Odd values are 1, 3, 5. 1 + 3 + 5 = 9.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A programmer expects 'Hello' to print 3 times but it prints 4 times: FOR i FROM 0 TO 3: print('Hello'). What is the most likely cause?",
+    "options": [
+     "The word Hello is too long",
+     "The computer is slow",
+     "The loop counts from 0 to 3 inclusive, which is 4 values",
+     "The loop should be a function"
+    ],
+    "answer": 2,
+    "explanation": "0, 1, 2 and 3 are four values. This is an off-by-one error. Use 0 to 2 or 1 to 3 for three repeats.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The program runs but gives the wrong total because it adds tax twice. What type of error is this?",
+    "options": [
+     "A syntax error",
+     "A logic error",
+     "A hardware error",
+     "A network error"
+    ],
+    "answer": 1,
+    "explanation": "The code runs without crashing but the logic gives the wrong result. Tracing and testing find it.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A shop program: price = 20. IF member THEN price = price × 0.9. IF price > 15 THEN price = price − 2. For a member, what is the final price?",
+    "options": [
+     "16",
+     "18",
+     "15.5",
+     "20"
+    ],
+    "answer": 0,
+    "explanation": "20 × 0.9 = 18. Then 18 > 15, so 18 − 2 = 16.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which change makes a program better structured when the same 10 lines of code appear in five places?",
+    "options": [
+     "Copy the lines again",
+     "Delete four copies without checking",
+     "Rename the variables",
+     "Put the lines in one function and call it five times"
+    ],
+    "answer": 3,
+    "explanation": "Reusing a function reduces duplicates, makes fixes easier and keeps the code readable.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## From algorithm to program\nOnce you have an algorithm, you can turn it into a **program** by writing it in a programming language such as Python, JavaScript or Scratch. The language has strict rules called **syntax**. The computer follows your instructions exactly, so small mistakes matter. In the design cycle, writing a program belongs to Criterion C (Creating the solution).\n\n## Core ideas\n- **Variable**: a named place in memory that stores a value, such as score = 0.\n- **Assignment**: giving a variable a value. Most languages use a single equals sign, so score = score + 1 means \"take the old value, add 1 and store it back\".\n- **Input and output**: input() collects data from the user and print() shows a result.\n- **Operators**: + - × (written *) ÷ (written /), MOD (remainder after division) and comparison operators such as ==, !=, <, > and >=.\n- **Selection**: IF, ELSE IF and ELSE choose between paths.\n- **Iteration**: FOR loops repeat a fixed number of times and WHILE loops repeat while a condition is true.\n- **Function**: a named, reusable block of code. Parameters receive values and a return value gives a result back.\n\n## Worked example\nPseudocode for a grading program:\nINPUT mark\nIF mark >= 70 THEN grade = \"A\"\nELSE IF mark >= 50 THEN grade = \"B\"\nELSE grade = \"C\"\nOUTPUT grade\nFor mark = 50, the first test fails and the second succeeds, so the grade is \"B\". Always test boundaries such as 49, 50 and 70.\n\n## Types of error\n- **Syntax error**: you broke the rules of the language, such as a missing bracket. The program will not run.\n- **Runtime error**: the program crashes while running, for example dividing by zero.\n- **Logic error**: the program runs but gives the wrong result, such as adding tax twice.\n\n**Debugging** is finding and fixing errors. Strategies include reading error messages, tracing by hand, printing values and testing small parts at a time.\n\n## Good programming practice\nUse meaningful names such as totalScore, not x. Add comments. Indent loops and decisions. Reuse code in functions instead of copying. Test with normal, boundary and invalid data. Save versions as you work.\n\n## Off-by-one errors\nFOR i FROM 0 TO 3 runs four times because 0, 1, 2 and 3 are all included. Many languages count from 0, so be careful about whether a loop includes its end value.\n\n## How this is examined\nQuestions show short code or pseudocode within a context (a game score, a shop discount) and ask for the output, the final variable value, the type of error, or the best way to improve the structure. You may be asked to complete missing lines or to identify why a loop runs the wrong number of times.\n\n## Common mistakes\n- Using = when you mean ==.\n- Forgetting to convert input to a number before calculating.\n- Not testing boundary values.\n- Writing one long block of code instead of functions.\n\nExam tip: When you trace code, work line by line and write the value of each variable. Do not try to do it in your head.",
+  "flashcards": [
+   {
+    "front": "Variable",
+    "back": "A named storage location that holds a value which can change."
+   },
+   {
+    "front": "Assignment",
+    "back": "Giving a variable a value, for example score = 0."
+   },
+   {
+    "front": "== vs =",
+    "back": "== compares two values. = assigns a value to a variable."
+   },
+   {
+    "front": "Function",
+    "back": "A named, reusable block of code, often with parameters and a returned value."
+   },
+   {
+    "front": "Syntax error",
+    "back": "A mistake in the rules of the language, so the program will not run."
+   },
+   {
+    "front": "Logic error",
+    "back": "The program runs but gives wrong results because the instructions are wrong."
+   },
+   {
+    "front": "Runtime error",
+    "back": "An error that makes a program crash while it is running, such as dividing by zero."
+   },
+   {
+    "front": "FOR vs WHILE",
+    "back": "FOR repeats a set number of times. WHILE repeats until its condition is false."
+   },
+   {
+    "front": "MOD",
+    "back": "The remainder after division. For example 7 MOD 2 = 1."
+   }
+  ]
+ },
+ {
+  "subject": "digital-design",
+  "grade": 5,
+  "topic": "Computational Thinking",
+  "subTopic": "Data, Variables and Logic",
+  "questions": [
+   {
+    "content": "Which data type best stores the value 3.75?",
+    "options": [
+     "Integer",
+     "Boolean",
+     "String only",
+     "Float (decimal number)"
+    ],
+    "answer": 3,
+    "explanation": "Decimal numbers are floats (real numbers). Integers are whole numbers.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A Boolean variable can hold which values?",
+    "options": [
+     "Any whole number",
+     "Any word",
+     "True or False",
+     "Any date"
+    ],
+    "answer": 2,
+    "explanation": "Booleans have only two values, true or false, and are used in decisions.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is a string?",
+    "options": [
+     "42",
+     "'Hello'",
+     "3.14",
+     "True"
+    ],
+    "answer": 1,
+    "explanation": "A string is text, usually inside quotes.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In binary, what is the value of 101?",
+    "options": [
+     "5",
+     "3",
+     "7",
+     "10"
+    ],
+    "answer": 0,
+    "explanation": "Binary place values are 4, 2, 1. 4 + 0 + 1 = 5.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is stored in the array list = [4, 8, 15] at index 0?",
+    "options": [
+     "8",
+     "15",
+     "0",
+     "4"
+    ],
+    "answer": 3,
+    "explanation": "Most languages start indexing at 0, so the first item is at index 0.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the result of (5 > 3) AND (2 > 4)?",
+    "options": [
+     "True",
+     "5",
+     "False",
+     "Error"
+    ],
+    "answer": 2,
+    "explanation": "The first part is true, the second is false. AND needs both parts to be true.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the result of (5 > 3) OR (2 > 4)?",
+    "options": [
+     "False",
+     "True",
+     "2",
+     "Error"
+    ],
+    "answer": 1,
+    "explanation": "OR is true when at least one part is true. 5 > 3 is true.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A door opens if (cardValid AND NOT locked). cardValid = True, locked = False. What happens?",
+    "options": [
+     "The door opens",
+     "The door stays shut",
+     "An error occurs",
+     "The card is deleted"
+    ],
+    "answer": 0,
+    "explanation": "NOT False is True. True AND True is True, so the door opens.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the decimal value of binary 1101?",
+    "options": [
+     "11",
+     "15",
+     "9",
+     "13"
+    ],
+    "answer": 3,
+    "explanation": "8 + 4 + 0 + 1 = 13.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "scores = [12, 7, 19, 3]. What does scores[2] give?",
+    "options": [
+     "7",
+     "3",
+     "19",
+     "12"
+    ],
+    "answer": 2,
+    "explanation": "Index 0 is 12, index 1 is 7, index 2 is 19.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "There are 17 students and groups of 5 are made. What is 17 MOD 5, and what is 17 DIV 5 (whole number division)?",
+    "options": [
+     "3 and 2",
+     "2 and 3",
+     "12 and 5",
+     "0 and 17"
+    ],
+    "answer": 1,
+    "explanation": "17 = 3 × 5 + 2, so the quotient is 3 and the remainder (MOD) is 2.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why should a registration form store a birth date as a date type rather than as a string?",
+    "options": [
+     "Dates can be sorted and used in calculations such as age",
+     "Strings are not allowed",
+     "Dates use less electricity",
+     "Strings can only hold numbers"
+    ],
+    "answer": 0,
+    "explanation": "The correct data type allows correct validation, sorting and calculation.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "One kilobyte is 1000 bytes. A text file is 4500 bytes. How many kilobytes is it?",
+    "options": [
+     "45 kB",
+     "0.45 kB",
+     "450 kB",
+     "4.5 kB"
+    ],
+    "answer": 3,
+    "explanation": "4500 ÷ 1000 = 4.5 kB.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A pixel uses 24 bits for colour. An image is 100 × 100 pixels. What is the uncompressed size in bytes?",
+    "options": [
+     "240 000 bytes",
+     "10 000 bytes",
+     "30 000 bytes",
+     "2400 bytes"
+    ],
+    "answer": 2,
+    "explanation": "100 × 100 = 10 000 pixels. 24 bits = 3 bytes, so 10 000 × 3 = 30 000 bytes.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The rule is: a user can post if (age ≥ 13 AND parentConsent) OR age ≥ 16. Which user can post?",
+    "options": [
+     "Age 14 without consent",
+     "Age 14 with parent consent",
+     "Age 12 with consent",
+     "Age 13 without consent"
+    ],
+    "answer": 1,
+    "explanation": "Age 14 with consent satisfies the first part. Age 14 alone fails both, and age 12 fails the age conditions.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A programmer writes IF score > 50 AND score < 20. What is wrong?",
+    "options": [
+     "The condition can never be true",
+     "It always returns true",
+     "It uses too many variables",
+     "It cannot be a Boolean"
+    ],
+    "answer": 0,
+    "explanation": "No number is both above 50 and below 20. The programmer probably needed OR.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A 3-bit binary number can represent how many different values, and what is the largest decimal value?",
+    "options": [
+     "3 values, largest is 3",
+     "6 values, largest is 6",
+     "8 values, largest is 8",
+     "8 values, largest is 7"
+    ],
+    "answer": 3,
+    "explanation": "3 bits give 2 × 2 × 2 = 8 values from 0 to 7. The largest is 111 = 7.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A school database field 'ClassSize' must be a whole number between 1 and 35. Which input should be rejected?",
+    "options": [
+     "35",
+     "1",
+     "35.5",
+     "20"
+    ],
+    "answer": 2,
+    "explanation": "A class size must be a whole number. 35.5 breaks the data type rule even though it is near the upper limit.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why data types matter\nA program works with **data**, and the computer needs to know what kind of data each variable holds. This decides how it is stored, which operations are allowed and how it is checked. Choosing the right type is part of good design and helps avoid bugs.\n\n## Common data types\n- **Integer**: whole numbers, such as 15 or −3.\n- **Float (real)**: numbers with decimals, such as 3.75.\n- **String**: text, such as \"Hello\" or \"Mia\".\n- **Boolean**: only True or False.\n- **Date/time**: stored so that it can be sorted and used in calculations.\n\n## Variables and arrays\nA **variable** stores one value. An **array** (list) stores several values under one name, for example scores = [12, 7, 19, 3]. Each item has an **index**, and counting usually starts from 0. So scores[0] is 12 and scores[2] is 19. A **constant** is a value that does not change while the program runs, such as TAX_RATE.\n\n## Operators and logic\nArithmetic: + − × ÷, **MOD** (remainder) and **DIV** (whole number division). For 17 and 5, 17 DIV 5 = 3 and 17 MOD 5 = 2.\nComparison: ==, !=, <, >, <= and >=. These give True or False.\n**Logical operators** combine conditions:\n- **AND** is true only if both parts are true.\n- **OR** is true if at least one part is true.\n- **NOT** reverses a Boolean value.\n\nExample: a door opens if cardValid AND NOT locked. If cardValid is True and locked is False, NOT locked is True, so the door opens. A truth table lists every case. For AND: True AND True is True, and all other combinations are False. For OR: only False OR False is False.\n\n## Binary and data size\nComputers use **binary** (base 2). Place values are 128, 64, 32, 16, 8, 4, 2, 1. Binary 1101 = 8 + 4 + 0 + 1 = 13. A **bit** is one binary digit and 8 bits make a **byte**. n bits can represent 2 to the power n values, so 3 bits give 8 values (0 to 7). Typical units: 1 kB = 1000 bytes. Image size in bytes = number of pixels × bytes per pixel. For a 100 × 100 image with 24 bits (3 bytes) per pixel: 10 000 × 3 = 30 000 bytes. Compression reduces file size.\n\n## Validation and data quality\nA good program checks data. A **range check** makes sure a value is between limits. A **type check** makes sure it is the correct type. A **presence check** makes sure it is not empty. A **length check** limits the number of characters. For example, a class size must be a whole number from 1 to 35, so 35.5 is rejected because of its type even though it is near the limit.\n\n## How this is examined\nQuestions give a context such as an app sign-up rule or an image file, and ask you to evaluate Boolean expressions, convert binary, calculate data size or decide which data type or validation check is appropriate.\n\n## Common mistakes\n- Forgetting that indexes start at 0.\n- Mixing up AND and OR.\n- Confusing a bit with a byte.\n- Storing phone numbers as numbers when leading zeros matter, so a string is better.\n\nExam tip: For logic questions, evaluate each bracket separately, write True or False beside it, then combine them.",
+  "flashcards": [
+   {
+    "front": "Integer, float, string, Boolean",
+    "back": "Whole number, decimal number, text, and True/False."
+   },
+   {
+    "front": "Array / list",
+    "back": "A variable holding several items, each reached by an index that usually starts at 0."
+   },
+   {
+    "front": "AND",
+    "back": "True only if both conditions are true."
+   },
+   {
+    "front": "OR",
+    "back": "True if at least one condition is true."
+   },
+   {
+    "front": "NOT",
+    "back": "Reverses a Boolean: NOT True is False."
+   },
+   {
+    "front": "MOD and DIV",
+    "back": "MOD gives the remainder, DIV gives the whole-number quotient. 17 MOD 5 = 2, 17 DIV 5 = 3."
+   },
+   {
+    "front": "Binary place values",
+    "back": "128, 64, 32, 16, 8, 4, 2, 1. Binary 1101 = 13."
+   },
+   {
+    "front": "Bit and byte",
+    "back": "A bit is one binary digit. A byte is 8 bits."
+   },
+   {
+    "front": "Validation checks",
+    "back": "Range, type, presence and length checks stop invalid data entering a program."
+   }
+  ]
+ }
+]

@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "physical-health-education",
+  "grade": 5,
+  "topic": "Health and Wellbeing",
+  "subTopic": "Nutrition and Hydration",
+  "questions": [
+   {
+    "content": "Which nutrient is the body's main and fastest source of energy during exercise?",
+    "options": [
+     "Carbohydrate",
+     "Vitamins",
+     "Fibre",
+     "Calcium"
+    ],
+    "answer": 0,
+    "explanation": "Carbohydrate is broken down to glucose, which muscles use quickly. Vitamins and minerals help body processes but do not supply energy.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which macronutrient is mainly used for growth and repair of muscle tissue?",
+    "options": [
+     "Carbohydrate",
+     "Water",
+     "Iron",
+     "Protein"
+    ],
+    "answer": 3,
+    "explanation": "Protein is made of amino acids, the building blocks used to build and repair tissue.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which mineral is needed for strong bones and teeth?",
+    "options": [
+     "Iron",
+     "Sodium",
+     "Calcium",
+     "Vitamin C"
+    ],
+    "answer": 2,
+    "explanation": "Calcium is the main mineral in bone. Iron is used to carry oxygen in the blood.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a macronutrient?",
+    "options": [
+     "Vitamin D",
+     "Fat",
+     "Iron",
+     "Zinc"
+    ],
+    "answer": 1,
+    "explanation": "Carbohydrate, protein and fat are macronutrients, needed in large amounts. Vitamins and minerals are micronutrients.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A player's urine is dark yellow after training. What is the most likely cause?",
+    "options": [
+     "Too much protein",
+     "Dehydration",
+     "Overhydration",
+     "A lack of fibre"
+    ],
+    "answer": 1,
+    "explanation": "Dark urine is a common sign of dehydration, because the urine is more concentrated when the body is short of water.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A snack contains 30 g of carbohydrate, 10 g of protein and 5 g of fat. Using 4 kcal per gram for carbohydrate and protein and 9 kcal per gram for fat, what is its energy content?",
+    "options": [
+     "205 kcal",
+     "165 kcal",
+     "450 kcal",
+     "45 kcal"
+    ],
+    "answer": 0,
+    "explanation": "Carbohydrate 30 × 4 = 120, protein 10 × 4 = 40, fat 5 × 9 = 45. The total is 205 kcal. Adding the grams (45) ignores the different energy values.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement about fat in the diet is most accurate?",
+    "options": [
+     "It should be removed from the diet completely",
+     "It is the main fuel for short, explosive actions",
+     "It repairs muscle after training",
+     "It provides a concentrated energy source and helps absorb some vitamins"
+    ],
+    "answer": 3,
+    "explanation": "Fat gives more energy per gram than carbohydrate or protein and carries fat-soluble vitamins. A small amount is essential.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is fibre included in a balanced diet?",
+    "options": [
+     "It is the main source of energy for muscles",
+     "It builds new muscle fibres",
+     "It helps digestion and keeps food moving through the gut",
+     "It replaces water lost in sweat"
+    ],
+    "answer": 2,
+    "explanation": "Fibre is not digested for energy but supports healthy digestion. Protein, not fibre, builds muscle.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A food label shows that a cereal is high in sugar and low in fibre. What is the best conclusion for a student choosing breakfast?",
+    "options": [
+     "It is the best choice before every match",
+     "It contains no carbohydrate",
+     "It may give quick energy but is less filling and less balanced than a wholegrain option",
+     "It is automatically unhealthy to eat in any amount"
+    ],
+    "answer": 2,
+    "explanation": "Sugary, low-fibre foods give quick energy but little lasting fullness. A balanced judgement looks at the overall diet, not one food.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is the best reason for eating a meal rich in carbohydrate a few hours before a long match?",
+    "options": [
+     "To build new bone",
+     "To top up glycogen stores that fuel the muscles",
+     "To avoid needing to drink",
+     "To increase flexibility"
+    ],
+    "answer": 1,
+    "explanation": "Carbohydrate is stored as glycogen in muscles and liver and is used during sustained activity.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "During a hot 90-minute training session, which drinking plan is most sensible for most students?",
+    "options": [
+     "Sip water regularly before, during and after",
+     "Drink nothing until the session ends",
+     "Drink a large amount just once at the start",
+     "Only drink when severely thirsty"
+    ],
+    "answer": 0,
+    "explanation": "Regular small drinks help replace sweat. Waiting until you are very thirsty means fluid loss has already begun.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why does sweating during exercise matter for hydration?",
+    "options": [
+     "Sweating stores water for later",
+     "Sweat adds minerals to the blood",
+     "Sweating means the body is overhydrated",
+     "Sweat removes water from the body to cool it, so the water must be replaced"
+    ],
+    "answer": 3,
+    "explanation": "Sweat evaporates to cool the body. The lost fluid reduces blood volume and performance unless replaced.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which meal is best described as balanced?",
+    "options": [
+     "Chips and a fizzy drink",
+     "A large bowl of sweets",
+     "White bread only",
+     "Grilled chicken, rice and mixed vegetables with water"
+    ],
+    "answer": 3,
+    "explanation": "A balanced meal combines carbohydrate, protein, vegetables (vitamins, minerals, fibre) and a sensible drink.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Two students each drink the same amount of water per day. Maya trains for 2 hours in the heat and Leo is inactive. Which statement is the best evaluation?",
+    "options": [
+     "Both are certainly hydrated because the amount is equal",
+     "Leo needs more because he is inactive",
+     "Maya probably needs more fluid because she loses more through sweat",
+     "Neither needs more because water needs are fixed"
+    ],
+    "answer": 2,
+    "explanation": "Fluid needs depend on activity, temperature and body size. Equal intake does not mean equal need.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student says: 'Protein shakes are necessary for every teenager to build muscle.' Which response is the most accurate?",
+    "options": [
+     "Correct, food alone can never supply protein",
+     "Most teenagers get enough protein from a varied diet, and training also drives muscle change",
+     "Protein is only needed by adults",
+     "Protein shakes replace the need for training"
+    ],
+    "answer": 1,
+    "explanation": "Meat, fish, eggs, dairy, beans and nuts supply protein. Muscle growth needs training, rest and overall nutrition, not just supplements.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An investigation compares two drinks on 10 students' performance in a repeated sprint test. Which change would make the results more valid?",
+    "options": [
+     "Keep the test, time of day and warm-up the same for both drinks",
+     "Let students choose which drink to have",
+     "Use a different test for each drink",
+     "Test one drink in the morning and the other at night"
+    ],
+    "answer": 0,
+    "explanation": "A fair test changes one variable (the drink) and controls the others, such as the test, timing and warm-up.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A food label lists per 100 g: carbohydrate 60 g, protein 8 g, fat 10 g. Using 4, 4 and 9 kcal per gram, which statement is correct?",
+    "options": [
+     "Fat provides 90 kcal and carbohydrate 240 kcal per 100 g",
+     "Fat provides the largest share of energy",
+     "Protein provides 80 kcal",
+     "The food provides 78 kcal in total"
+    ],
+    "answer": 0,
+    "explanation": "Carbohydrate 60 × 4 = 240, protein 8 × 4 = 32, fat 10 × 9 = 90. Carbohydrate gives the largest share, and the total is 362 kcal.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student wants to evaluate whether their own diet is balanced. Which approach gives the most useful evidence?",
+    "options": [
+     "Remember what they ate yesterday only",
+     "Count only the snacks",
+     "Ask a friend what they think",
+     "Record all food and drink for several days and compare it with food-group guidelines"
+    ],
+    "answer": 3,
+    "explanation": "A multi-day record gives a fuller and more reliable picture than one day's memory. It can then be compared with guidelines.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Nutrition is about giving your body the fuel and materials it needs to grow, move, think and recover. Good nutrition and hydration support performance, health and mood.\n\n## Nutrients\n- **Carbohydrates** are the main energy source, especially for activity. They are stored as glycogen in muscles and the liver. Sources include rice, pasta, bread, fruit and potatoes.\n- **Proteins** are used for growth and repair. They are made of amino acids. Sources include fish, eggs, meat, dairy, beans and nuts.\n- **Fats** provide a concentrated energy store, protect organs and carry some vitamins. Small amounts are essential.\n- **Vitamins and minerals** are micronutrients needed in small amounts. Calcium builds bones, iron helps blood carry oxygen and vitamin C supports healing.\n- **Fibre** is not used for energy, but keeps the digestive system working well.\n- **Water** is involved in almost every process in the body.\n\n## Energy values\nCarbohydrate and protein give about 4 kcal per gram, and fat gives about 9 kcal per gram. Worked example: a meal has 50 g carbohydrate, 20 g protein and 10 g fat. Energy = (50 × 4) + (20 × 4) + (10 × 9) = 200 + 80 + 90 = 370 kcal. Always multiply each nutrient by its own value before adding.\n\n## A balanced diet\nA balanced diet contains the right mix of nutrients from a variety of foods, in amounts that match your age, activity and size. No single food is \"good\" or \"bad\" on its own; it is the overall pattern over days and weeks that matters. Reading food labels helps you compare foods, noticing sugar, fat, salt and fibre content.\n\n## Hydration\nYour body loses water through sweat, breathing and urine. During exercise sweat cools the body, but losing too much fluid is called **dehydration**. Signs include thirst, headache, tiredness, dark yellow urine and poorer concentration. Performance can fall even with mild dehydration.\n- Drink regularly through the day, and before, during and after activity.\n- Drink more in hot weather or long sessions.\n- Pale yellow urine is a simple sign of good hydration.\n- Drinking an extreme amount is also unsafe, so sip steadily rather than gulp.\n\n## Timing of food\nEating a meal with carbohydrate a few hours before exercise helps fill energy stores. Afterwards, food containing protein and carbohydrate supports recovery.\n\n## Common mistakes\n- Adding grams of nutrients instead of multiplying by their energy values.\n- Believing supplements are needed by everyone; most young people can meet needs with varied food.\n- Waiting until you feel very thirsty to drink.\n- Thinking fat or carbohydrate should be removed completely.\n\n## How this is examined\nYou may be given a short scenario, such as an athlete's meal or a food label, and asked to identify nutrients, calculate energy, explain the role of hydration or evaluate whether a plan is balanced. Command words such as describe, explain and evaluate decide the depth: describe states what happens, explain gives reasons, and evaluate weighs strengths and limits using evidence from the scenario.\n\nExam tip: When asked to evaluate a diet or drinking plan, name the nutrient or fluid, state its function, then link it to the person in the scenario, for example their sport, climate or training time.",
+  "flashcards": [
+   {
+    "front": "Name the three macronutrients",
+    "back": "Carbohydrate, protein and fat. They are needed in large amounts and supply energy (water is also needed in large amounts but gives no energy)."
+   },
+   {
+    "front": "Main role of carbohydrate",
+    "back": "The body's main and fastest energy source. It is stored as glycogen in the muscles and liver."
+   },
+   {
+    "front": "Main role of protein",
+    "back": "Growth and repair of body tissue, including muscle. It is made of amino acids."
+   },
+   {
+    "front": "Energy per gram of each macronutrient",
+    "back": "Carbohydrate about 4 kcal/g, protein about 4 kcal/g, fat about 9 kcal/g."
+   },
+   {
+    "front": "Why do athletes need iron?",
+    "back": "Iron is used to make haemoglobin in red blood cells, which carries oxygen to the muscles."
+   },
+   {
+    "front": "Why is calcium important?",
+    "back": "It builds and maintains strong bones and teeth and helps muscles work."
+   },
+   {
+    "front": "What is dehydration?",
+    "back": "Losing more water than you take in. Signs include thirst, headache, dark urine, tiredness and poorer concentration."
+   },
+   {
+    "front": "Simple check of good hydration",
+    "back": "Pale yellow urine suggests good hydration. Dark yellow suggests you need to drink more."
+   },
+   {
+    "front": "What is a balanced diet?",
+    "back": "A variety of foods giving the right amounts of all nutrients, water and fibre for your age, size and activity level."
+   }
+  ]
+ },
+ {
+  "subject": "physical-health-education",
+  "grade": 5,
+  "topic": "Health and Wellbeing",
+  "subTopic": "Physical, Social and Mental Wellbeing",
+  "questions": [
+   {
+    "content": "Which of these is an example of physical wellbeing?",
+    "options": [
+     "Having the energy to complete everyday activities",
+     "Feeling included in a group",
+     "Coping calmly with worry",
+     "Having supportive friendships"
+    ],
+    "answer": 0,
+    "explanation": "Physical wellbeing is about the body: energy, fitness, health and the ability to do daily tasks.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is an example of social wellbeing?",
+    "options": [
+     "Having strong muscles",
+     "Eating regularly",
+     "Having low body fat",
+     "Having friendships and feeling that you belong"
+    ],
+    "answer": 3,
+    "explanation": "Social wellbeing is about relationships, belonging and communication with others.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is an example of mental wellbeing?",
+    "options": [
+     "Being able to run 5 km",
+     "Having good flexibility",
+     "Managing emotions and feeling able to cope with challenges",
+     "Having a balanced diet"
+    ],
+    "answer": 2,
+    "explanation": "Mental (and emotional) wellbeing is about thoughts, feelings and coping.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The World Health Organization describes health as",
+    "options": [
+     "having no illness",
+     "a state of physical, mental and social wellbeing, not only the absence of disease",
+     "being able to play a sport",
+     "having a high level of fitness"
+    ],
+    "answer": 1,
+    "explanation": "Health is wider than not being ill. It includes physical, mental and social aspects together.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "For young people aged 5 to 17, the World Health Organization recommends an average of how much moderate-to-vigorous physical activity per day?",
+    "options": [
+     "10 minutes",
+     "60 minutes",
+     "20 minutes",
+     "3 hours"
+    ],
+    "answer": 1,
+    "explanation": "The recommendation is an average of at least 60 minutes a day, across the week.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which activity most clearly improves social wellbeing as well as physical wellbeing?",
+    "options": [
+     "Joining a team sport or group class",
+     "Exercising alone at night every day",
+     "Watching a match on television",
+     "Skipping meals before training"
+    ],
+    "answer": 0,
+    "explanation": "Team and group activity combines exercise with teamwork, friendships and belonging.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "After a stressful week, Ana goes for a walk with a friend and feels calmer. Which aspects of wellbeing has she most improved?",
+    "options": [
+     "Physical only",
+     "Social only",
+     "None, because walking is not intense",
+     "Physical, social and mental"
+    ],
+    "answer": 3,
+    "explanation": "The walk is physical activity, the friend adds social contact, and feeling calmer is a mental benefit. Wellbeing areas are linked.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement shows that the three areas of wellbeing are linked?",
+    "options": [
+     "Physical health has no effect on mood",
+     "Friendships only affect the body",
+     "Poor sleep can lower mood and make social contact harder",
+     "Mental wellbeing is separate from everything else"
+    ],
+    "answer": 2,
+    "explanation": "A problem in one area often affects the others. For example, poor sleep affects mood, energy and relationships.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of these is a regular physical activity benefit for mental wellbeing?",
+    "options": [
+     "Permanent removal of all worries",
+     "Immediate fitness gains",
+     "Release of chemicals that can improve mood and reduce feelings of stress",
+     "Guaranteed better grades"
+    ],
+    "answer": 2,
+    "explanation": "Exercise can improve mood and help manage stress, but it does not remove every problem.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student feels left out and stops going to training. What is the most helpful first step?",
+    "options": [
+     "Quit all activities",
+     "Talk to a trusted friend, coach or teacher about how they feel",
+     "Train harder alone to feel better",
+     "Ignore the feeling and hope it goes"
+    ],
+    "answer": 1,
+    "explanation": "Talking to a trusted person is a positive coping strategy. Withdrawing completely often makes feelings worse.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of these is a risk of very low physical activity over many years?",
+    "options": [
+     "Higher chance of conditions such as heart disease and weight gain",
+     "Better sleep always",
+     "Stronger bones",
+     "Guaranteed higher fitness"
+    ],
+    "answer": 0,
+    "explanation": "Regular activity protects health. Inactivity is linked with several long-term health risks.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which behaviour best supports positive social wellbeing?",
+    "options": [
+     "Teasing people to fit in",
+     "Avoiding every group",
+     "Competing against friends in every situation",
+     "Listening to others and including them in activities"
+    ],
+    "answer": 3,
+    "explanation": "Respect, communication and inclusion strengthen relationships.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A school offers lunchtime clubs for walking, chess and dance. Which reason best explains why a variety is useful?",
+    "options": [
+     "Everyone should do the same activity",
+     "Only sports are good for wellbeing",
+     "Clubs have no effect on friendships",
+     "Different students enjoy different activities, so more of them stay active and connected"
+    ],
+    "answer": 3,
+    "explanation": "Choice increases participation and allows different wellbeing needs, physical, social and mental, to be met.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is the best example of a healthy way to cope with a stressful exam period?",
+    "options": [
+     "Avoiding all activity to save time",
+     "Staying up all night to study",
+     "Short breaks, activity, sleep and talking to others",
+     "Keeping worries secret"
+    ],
+    "answer": 2,
+    "explanation": "Healthy coping strategies protect physical and mental wellbeing and keep support available.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student spends most free time on screens, rarely sees friends and feels low. Which plan would best improve their overall wellbeing?",
+    "options": [
+     "Remove all screens permanently",
+     "Set screen limits and schedule active, social time with friends",
+     "Train alone for two hours daily",
+     "Do nothing, since feelings always pass quickly"
+    ],
+    "answer": 1,
+    "explanation": "A balanced plan works on all three areas. Extreme changes are hard to keep, and ignoring the problem may not help.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which evidence would be most reliable for judging whether a school's wellbeing programme works?",
+    "options": [
+     "Surveys and activity records from many students before and after the programme",
+     "The opinion of one student",
+     "The teacher's guess",
+     "The number of posters displayed"
+    ],
+    "answer": 0,
+    "explanation": "Data from many students collected before and after gives a fairer comparison than one opinion.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student says: 'Being healthy only means not being ill.' Which is the best response?",
+    "options": [
+     "Health also includes mental and social wellbeing, so someone can be free of illness and still struggle",
+     "That is correct",
+     "Health only means fitness",
+     "Health is only about diet"
+    ],
+    "answer": 0,
+    "explanation": "Health is multi-dimensional. A person without disease may still have low mood or poor social connection.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which statement is the best evaluation of a 30-minute walk each day for a student who was previously inactive?",
+    "options": [
+     "It guarantees perfect health",
+     "It is useless unless intense",
+     "It only helps social wellbeing",
+     "It supports physical health and mood, though it should be combined with sleep, food and social contact"
+    ],
+    "answer": 3,
+    "explanation": "Moderate regular activity brings real benefits, but wellbeing depends on several lifestyle factors together.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Wellbeing means how well you are in your whole life, not just whether you are ill. In PHE we study three linked parts: physical, social and mental (including emotional) wellbeing. The World Health Organization describes health as a state of physical, mental and social wellbeing, not merely the absence of disease.\n\n## Physical wellbeing\nThis is about the body. It includes energy levels, fitness, healthy growth, sleep and nutrition. Regular activity builds the heart, lungs, muscles and bones and lowers the risk of long-term health problems. For young people aged 5 to 17 the World Health Organization recommends an average of at least 60 minutes of moderate-to-vigorous physical activity a day.\n\n## Social wellbeing\nThis is about relationships and belonging. It includes friendships, family, teamwork, communication, respect and feeling included. Sport and group activity give chances to cooperate, make friends and build a sense of identity. Social wellbeing can be harmed by bullying, exclusion and long periods of isolation.\n\n## Mental and emotional wellbeing\nThis is about thoughts and feelings. It includes managing emotions, coping with pressure, having confidence and feeling that life has purpose. Everyone has ups and downs, and good mental wellbeing does not mean always feeling happy. It means being able to cope, ask for help and recover.\n\n## How the parts connect\nThe three areas affect each other. For example:\n- Exercise (physical) can improve mood (mental) and is often done with others (social).\n- Feeling left out (social) can lower confidence (mental) and make you less likely to be active (physical).\n- Poor sleep (physical) can make you more irritable (mental) and harder to be around (social).\n\n## Ways to support wellbeing\n- Be active in ways you enjoy, such as team games, dance, walking or swimming.\n- Eat a variety of foods and drink enough water.\n- Keep contact with friends and family, and include others.\n- Take breaks from screens and schoolwork.\n- Talk to a trusted adult, friend, coach or school counsellor when things feel difficult. Asking for help is a strength.\n\n## Common mistakes\n- Treating health as only physical.\n- Claiming exercise \"fixes\" every problem; it helps, but it works alongside sleep, food and support.\n- Writing about only one type of wellbeing when the question asks for all three.\n\n## How this is examined\nQuestions often give a short scenario about a student or school and ask you to identify which type of wellbeing is affected, explain links between the types, or evaluate a plan to improve wellbeing. Higher marks come from using evidence from the scenario and showing how one area influences another.\n\nExam tip: When a question mentions a person's feelings, friends and activity, comment on all three types of wellbeing and explain at least one link between them.",
+  "flashcards": [
+   {
+    "front": "Define health (WHO)",
+    "back": "A state of complete physical, mental and social wellbeing, and not merely the absence of disease or illness."
+   },
+   {
+    "front": "Physical wellbeing",
+    "back": "How well the body is functioning: energy, fitness, growth, sleep, nutrition and the ability to carry out daily activities."
+   },
+   {
+    "front": "Social wellbeing",
+    "back": "Having healthy relationships, a sense of belonging, good communication and feeling included and respected."
+   },
+   {
+    "front": "Mental and emotional wellbeing",
+    "back": "Being able to manage thoughts and emotions, cope with pressure, feel confident and ask for help when needed."
+   },
+   {
+    "front": "Recommended daily activity for ages 5 to 17 (WHO)",
+    "back": "An average of at least 60 minutes of moderate-to-vigorous physical activity per day across the week."
+   },
+   {
+    "front": "Give a link between physical and mental wellbeing",
+    "back": "Regular exercise can improve mood and reduce stress, while poor sleep or inactivity can lower mood and energy."
+   },
+   {
+    "front": "Give a way sport supports social wellbeing",
+    "back": "Teamwork, shared goals and friendships build belonging, communication and respect for others."
+   },
+   {
+    "front": "Healthy coping strategy for stress",
+    "back": "Talk to someone you trust, take a break, be active, sleep well and plan your time. Asking for help is a strength."
+   },
+   {
+    "front": "Why is health described as multi-dimensional?",
+    "back": "Because physical, social and mental parts are linked and all affect overall wellbeing, not just the absence of illness."
+   }
+  ]
+ },
+ {
+  "subject": "physical-health-education",
+  "grade": 5,
+  "topic": "Health and Wellbeing",
+  "subTopic": "Sleep, Stress and Lifestyle",
+  "questions": [
+   {
+    "content": "How many hours of sleep per night are generally recommended for teenagers?",
+    "options": [
+     "8 to 10 hours",
+     "3 to 4 hours",
+     "5 to 6 hours",
+     "12 to 14 hours"
+    ],
+    "answer": 0,
+    "explanation": "Teenagers usually need about 8 to 10 hours for growth, learning and recovery.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "During sleep, which process happens in the body?",
+    "options": [
+     "Muscles stop being able to repair",
+     "Energy stores are used up completely",
+     "Hydration is no longer needed",
+     "Growth and repair of tissues"
+    ],
+    "answer": 3,
+    "explanation": "Much tissue repair and growth occurs during sleep, and the brain processes information.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a stressor?",
+    "options": [
+     "A good night's sleep",
+     "A walk in the park",
+     "An upcoming exam",
+     "A healthy meal"
+    ],
+    "answer": 2,
+    "explanation": "A stressor is anything that triggers the stress response, such as a deadline or pressure.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which hormone is released in the 'fight or flight' response and raises heart rate?",
+    "options": [
+     "Insulin",
+     "Adrenaline",
+     "Calcium",
+     "Haemoglobin"
+    ],
+    "answer": 1,
+    "explanation": "Adrenaline prepares the body for action by increasing heart rate and breathing rate.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a sedentary behaviour?",
+    "options": [
+     "Cycling to school",
+     "Sitting watching television for long periods",
+     "Playing football",
+     "Dancing"
+    ],
+    "answer": 1,
+    "explanation": "Sedentary means sitting or lying with very low energy use.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which habit most helps a student fall asleep more easily?",
+    "options": [
+     "Keeping a regular bedtime and avoiding screens just before bed",
+     "Drinking energy drinks late in the evening",
+     "Napping for hours late in the afternoon",
+     "Studying in bed with the lights on"
+    ],
+    "answer": 0,
+    "explanation": "A routine and a calm, screen-free wind-down support sleep. Caffeine late in the day can delay it.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why might lack of sleep reduce sporting performance?",
+    "options": [
+     "It increases muscle strength",
+     "It improves coordination",
+     "It gives more energy",
+     "Reaction time, concentration and recovery are all reduced"
+    ],
+    "answer": 3,
+    "explanation": "Tiredness slows reactions, harms decisions and limits recovery, and also raises injury risk.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of these is a short-term physical sign of stress?",
+    "options": [
+     "Stronger bones",
+     "Improved flexibility",
+     "Faster heartbeat and sweaty palms",
+     "Lower resting heart rate"
+    ],
+    "answer": 2,
+    "explanation": "The stress response raises heart rate and breathing and can cause sweating.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is an example of positive stress (eustress)?",
+    "options": [
+     "Constant worry that lasts for weeks",
+     "Feeling too overwhelmed to start",
+     "Feeling excited and alert before a match",
+     "Losing sleep from fear"
+    ],
+    "answer": 2,
+    "explanation": "Positive stress can motivate and sharpen focus. Long-lasting, overwhelming stress is harmful.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student is on screens until midnight and wakes tired. Which change is most likely to help?",
+    "options": [
+     "Sleep less to adjust",
+     "Switch screens off an hour before bed and keep a fixed bedtime",
+     "Add an evening coffee",
+     "Do more late-night homework"
+    ],
+    "answer": 1,
+    "explanation": "Reducing bright light and stimulation before bed helps the body prepare for sleep.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which lifestyle choice is a risk to long-term health?",
+    "options": [
+     "Smoking or vaping",
+     "Walking to school",
+     "Eating varied foods",
+     "Sleeping regularly"
+    ],
+    "answer": 0,
+    "explanation": "Smoking and vaping harm the lungs and heart and carry addiction risks.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which strategy is most likely to reduce exam stress?",
+    "options": [
+     "Leaving all revision to the night before",
+     "Skipping meals",
+     "Avoiding talking to anyone",
+     "Making a realistic study plan with breaks"
+    ],
+    "answer": 3,
+    "explanation": "Planning spreads work out and gives a sense of control. Good food and breaks help focus.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why can long periods of high stress harm health?",
+    "options": [
+     "Stress always improves immunity",
+     "Stress has only mental effects",
+     "It increases sleep quality",
+     "Stress hormones stay high, which can affect sleep, mood and the immune system"
+    ],
+    "answer": 3,
+    "explanation": "Short bursts are normal, but ongoing stress can disturb sleep, mood and the body's defences.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student sleeps 6 hours each school night but recommends 9 hours for teenagers. How much sleep is lost over 5 school nights compared with the recommendation?",
+    "options": [
+     "3 hours",
+     "9 hours",
+     "15 hours",
+     "30 hours"
+    ],
+    "answer": 2,
+    "explanation": "Each night is 9 − 6 = 3 hours short. Over five nights that is 3 × 5 = 15 hours.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student's weekly log: Mon 9 h of screen time for entertainment, 0 min activity; Tue 8 h, 10 min; Wed 9 h, 0 min. Which conclusion is best supported?",
+    "options": [
+     "They are very active",
+     "Their lifestyle is mainly sedentary and below activity guidance",
+     "Screen time is low",
+     "The data is too small to say anything at all"
+    ],
+    "answer": 1,
+    "explanation": "Almost no activity and long screen time shows a mostly sedentary pattern. Three days still give some evidence, though more days would be better.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which plan is the best evaluation of how to balance schoolwork, sport and rest?",
+    "options": [
+     "A weekly timetable that includes study, activity, meals, social time and enough sleep",
+     "Dropping sport entirely before exams",
+     "Studying until very late each night",
+     "Doing all activity on one day"
+    ],
+    "answer": 0,
+    "explanation": "A balanced timetable protects all parts of wellbeing. Removing activity or sleep can reduce both health and learning.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A coach notices a player is tired, irritable and making more mistakes. Which action is most appropriate?",
+    "options": [
+     "Discuss sleep, workload and stress with the player and adjust training if needed",
+     "Add extra sessions to build resilience",
+     "Ignore it as laziness",
+     "Tell the player to drink a caffeinated drink"
+    ],
+    "answer": 0,
+    "explanation": "These are common signs of poor recovery or stress. A supportive conversation and adjustment are better than pushing harder.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which statement correctly links lifestyle choices and long-term health?",
+    "options": [
+     "One day's choices decide your lifelong health",
+     "Lifestyle only affects health in old age",
+     "Only genetics matter",
+     "Habits such as activity, diet, sleep and avoiding smoking build up over years to affect risk of illness"
+    ],
+    "answer": 3,
+    "explanation": "Genes matter, but repeated everyday habits strongly influence long-term health.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Your lifestyle is the pattern of everyday habits you follow: sleeping, eating, moving, relaxing and how you deal with pressure. These habits add up over time and affect your fitness, mood, learning and long-term health.\n\n## Sleep\nTeenagers generally need about 8 to 10 hours a night. During sleep the body repairs tissue and releases hormones needed for growth, and the brain organises memories and learning. Too little sleep can lead to:\n- slower reaction time and poorer concentration;\n- lower mood and more irritability;\n- slower recovery after exercise and a higher risk of injury;\n- weaker decisions in sport and in school.\n\nHabits that support sleep:\n- a regular bedtime and wake time;\n- a calm routine and a cool, dark room;\n- avoiding screens, caffeine and heavy meals close to bedtime;\n- daytime activity and daylight.\n\n## Stress\nA **stressor** is anything that puts you under pressure, such as exams, a big match or conflict with friends. The body responds with the \"fight or flight\" reaction: adrenaline is released, and heart rate, breathing rate and muscle tension increase. This is useful in short bursts and can even help performance (this is sometimes called **eustress**). When stress is strong or lasts a long time, it can cause tiredness, headaches, poor sleep, low mood and difficulty concentrating (**distress**).\n\nWays to manage stress:\n- plan your time and break big tasks into small ones;\n- be physically active;\n- use breathing or relaxation techniques;\n- talk to a trusted person;\n- keep time for hobbies and friends.\n\n## Lifestyle choices\n**Sedentary behaviour** means sitting or lying for long periods. Too much of it, especially long screen time, is linked to lower fitness and poorer health. Taking regular movement breaks helps. Other lifestyle risks include smoking and vaping, which harm lungs and circulation. Healthy habits, such as being active, eating a variety of foods, sleeping well and staying connected with others, protect health over the long term.\n\n## Worked example\nA student sleeps 6 hours on school nights, but needs about 9. The shortfall each night is 9 − 6 = 3 hours, so over five nights it is 3 × 5 = 15 hours. This is why weekend lie-ins cannot fully repair the effect.\n\n## Common mistakes\n- Saying all stress is bad; short-term stress can help.\n- Suggesting extreme changes that are unrealistic to keep.\n- Forgetting that sleep, stress and activity affect one another.\n\n## How this is examined\nExpect a case study of a student or athlete with a lifestyle problem, followed by questions asking you to identify causes, explain effects and recommend realistic changes. Evaluate command terms ask for strengths and limits of the plan.\n\nExam tip: Give recommendations that are specific and realistic, such as \"switch off screens one hour before bed\", and explain which benefit each one brings.",
+  "flashcards": [
+   {
+    "front": "Recommended sleep for teenagers",
+    "back": "About 8 to 10 hours per night, for growth, repair, learning and mood."
+   },
+   {
+    "front": "Two effects of too little sleep on performance",
+    "back": "Slower reactions and poorer concentration. Recovery is also reduced and injury risk can rise."
+   },
+   {
+    "front": "What is a stressor?",
+    "back": "Anything that causes the body to feel pressure or stress, for example exams, competition, conflict or deadlines."
+   },
+   {
+    "front": "What happens in the fight or flight response?",
+    "back": "Adrenaline is released and heart rate, breathing rate and muscle tension increase to prepare for action."
+   },
+   {
+    "front": "Eustress versus distress",
+    "back": "Eustress is positive, motivating stress. Distress is overwhelming or long-lasting stress that harms health and performance."
+   },
+   {
+    "front": "Name three ways to manage stress",
+    "back": "Plan your time, be active, use breathing or relaxation, talk to someone you trust, and keep time for hobbies and friends."
+   },
+   {
+    "front": "What is sedentary behaviour?",
+    "back": "Sitting or lying down for long periods with very low energy use, such as long screen time."
+   },
+   {
+    "front": "Good sleep habits",
+    "back": "Regular bedtime, a calm screen-free wind-down, no late caffeine, a cool dark room and daytime activity."
+   },
+   {
+    "front": "Why do daily habits matter for long-term health?",
+    "back": "Repeated habits like activity, diet, sleep and avoiding smoking build up over years and affect risk of illness."
+   }
+  ]
+ }
+]

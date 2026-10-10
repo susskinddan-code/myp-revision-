@@ -1,0 +1,1054 @@
+[
+ {
+  "subject": "digital-design",
+  "grade": 5,
+  "topic": "The Digital Design Cycle",
+  "subTopic": "Inquiring and Analysing a Need",
+  "questions": [
+   {
+    "content": "In the MYP design cycle, which criterion is about Inquiring and analysing?",
+    "options": [
+     "Criterion B",
+     "Criterion C",
+     "Criterion D",
+     "Criterion A"
+    ],
+    "answer": 3,
+    "explanation": "Criterion A is Inquiring and analysing. B is Developing ideas, C is Creating the solution and D is Evaluating.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a design brief?",
+    "options": [
+     "A finished prototype of the product",
+     "A list of the materials the designer owns",
+     "A short statement of the problem to be solved and what the solution should achieve",
+     "A report on how well the product sold"
+    ],
+    "answer": 2,
+    "explanation": "A brief summarises the need or problem and the aim of the solution. It comes at the start of the project.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a primary source of research?",
+    "options": [
+     "A magazine article about apps",
+     "A survey you give to your classmates",
+     "A website about phone history",
+     "A textbook chapter on usability"
+    ],
+    "answer": 1,
+    "explanation": "Primary research is collected first-hand by you, for example with surveys, interviews and observations.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Who is the 'target audience' of a digital product?",
+    "options": [
+     "The group of people the product is designed for",
+     "The person who programs the product",
+     "The company that pays for the hosting",
+     "The teacher who marks the project"
+    ],
+    "answer": 0,
+    "explanation": "The target audience (or end user) is the group the solution is meant to help. Their needs shape the design.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A student writes: 'Many Year 7 students forget homework deadlines.' What part of the cycle does this belong to?",
+    "options": [
+     "Testing the prototype",
+     "Writing the evaluation",
+     "Choosing the file format",
+     "Identifying and explaining the problem"
+    ],
+    "answer": 3,
+    "explanation": "Explaining the need or problem is the first strand of Criterion A.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A designer wants to build a timetable app for her school. She surveys 40 students and finds 30 say they check the timetable on a phone. What percentage is this?",
+    "options": [
+     "30%",
+     "40%",
+     "75%",
+     "133%"
+    ],
+    "answer": 2,
+    "explanation": "30 ÷ 40 × 100 = 75%. This is useful evidence that a phone-friendly design is needed.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which question in a survey would give the most useful data for a revision app?",
+    "options": [
+     "Do you like apps?",
+     "How many minutes do you usually spend revising on a school night?",
+     "Is revising good?",
+     "Would a great app be something you want?"
+    ],
+    "answer": 1,
+    "explanation": "It is specific, neutral and measurable. The others are vague or leading questions.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which survey question is a leading question?",
+    "options": [
+     "Don't you agree that our school website is confusing?",
+     "How often do you visit the school website?",
+     "Which page do you visit most often?",
+     "What would you change about the school website?"
+    ],
+    "answer": 0,
+    "explanation": "A leading question pushes the answer. Good surveys use neutral wording so results are not biased.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A designer lists: 'must work offline', 'must be readable by users with poor eyesight', 'must load in under 3 seconds'. What is this list?",
+    "options": [
+     "A bibliography",
+     "A test plan for the final product",
+     "A flowchart of the algorithm",
+     "A design specification of success criteria"
+    ],
+    "answer": 3,
+    "explanation": "A specification lists measurable requirements the final solution must meet. It is also used later for evaluation.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is it important to research existing products (similar solutions)?",
+    "options": [
+     "To copy their code exactly and submit it",
+     "To prove that nobody else has had the idea",
+     "To find strengths and weaknesses that can inform your own design",
+     "To avoid doing a survey"
+    ],
+    "answer": 2,
+    "explanation": "Analysing existing products shows what works and what to improve. Copying without credit is plagiarism.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A designer interviews a user with a visual impairment about a news app. Which finding should most influence the specification?",
+    "options": [
+     "The user likes the colour blue",
+     "The user relies on a screen reader and needs clear text labels",
+     "The user has used the app for two years",
+     "The user reads news in the evening"
+    ],
+    "answer": 1,
+    "explanation": "A requirement about accessibility directly affects design decisions, so it belongs in the specification.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which source would be most reliable for research on safe password practice?",
+    "options": [
+     "A national cyber-security agency website",
+     "An anonymous forum post",
+     "An advert for a password manager",
+     "A video with no author named"
+    ],
+    "answer": 0,
+    "explanation": "Reliable sources have an expert author, a clear purpose and up-to-date information. Adverts and anonymous posts are biased or unverifiable.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student gathers research but never links it to the design. What is the main weakness?",
+    "options": [
+     "The research is too accurate",
+     "The research was done too early",
+     "The research uses too many sources",
+     "The research does not justify any design decisions"
+    ],
+    "answer": 3,
+    "explanation": "In Criterion A, research must be analysed so it leads to a clear specification, not just collected.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A club needs a booking website. Survey results: 18 of 24 members use phones, 4 use tablets, 2 use laptops. A designer concludes 'the site must work only on phones'. What is the best critique?",
+    "options": [
+     "The conclusion is correct because most users prefer phones",
+     "The sample is too accurate to be used",
+     "18 of 24 is 75%, so mobile-first is sensible, but tablets and laptops (25%) still need a usable layout",
+     "The data shows nobody uses laptops"
+    ],
+    "answer": 2,
+    "explanation": "A majority justifies mobile-first design, not mobile-only. The other 25% of users should still be supported (responsive design).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A designer wants to know how people really use a ticket kiosk. Which method gives the most valid evidence of actual behaviour, not just opinions?",
+    "options": [
+     "Asking users if they like kiosks",
+     "Observing users while they try to buy a ticket",
+     "Reading the kiosk's advertising",
+     "Counting how many kiosks exist"
+    ],
+    "answer": 1,
+    "explanation": "Observation shows what people do, which can differ from what they say they do.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A survey of 200 people was sent only to members of a gaming club about a new homework planner for all students. What is the main limitation?",
+    "options": [
+     "The sample is biased and may not represent the whole target audience",
+     "The sample is too large",
+     "Surveys cannot be used for planners",
+     "Gaming clubs do not use computers"
+    ],
+    "answer": 0,
+    "explanation": "A sample should represent the target audience. Using only one group can give unrepresentative results.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which specification statement is best written as a measurable success criterion?",
+    "options": [
+     "The app will be fast and nice to use",
+     "The app will look modern",
+     "The app will be popular with students",
+     "The app will display search results within 2 seconds on a school Wi-Fi connection"
+    ],
+    "answer": 3,
+    "explanation": "Measurable criteria can be tested in Criterion D. Words like fast, nice and modern are vague.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A designer's analysis concludes: 'Users are older, so use larger text and high contrast, and avoid small icons without labels.' Which Criterion A strand does this best show?",
+    "options": [
+     "Evaluating the final product",
+     "Writing pseudocode",
+     "Using research findings to develop a specification that responds to user needs",
+     "Creating a file naming system"
+    ],
+    "answer": 2,
+    "explanation": "The designer has analysed user data and turned it into design requirements. This links research to the specification.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What Criterion A asks for\nEvery MYP design project begins with Criterion A: Inquiring and analysing. Your goal is to show you understand a problem well enough to design something that genuinely helps real people. In Digital Design the solution is a digital product, such as an app, a website, a game, a database or a piece of media. Criterion A is marked in Levels 1-8, and the top levels need detailed, justified work rather than just a list of facts.\n\n## The four strands\n- **Explain and justify the need** for a solution to a problem. Say who has the problem, where it happens and why it matters. Use a real context, such as a school, a club or a local business.\n- **Identify and prioritise research** needed to design a solution. Decide what you need to find out before you start, for example who the users are, what devices they own and what rules apply.\n- **Analyse a range of existing products** that inspire the solution. Look at at least two or three similar apps or sites. Describe what each does well, what it does badly and what you can learn.\n- **Develop a detailed design brief**, which states the problem, the target audience and the key features of the solution, and a **design specification** of success criteria.\n\n## Primary and secondary research\n**Primary research** is collected by you. Examples are surveys, interviews and observations. **Secondary research** comes from existing sources such as websites, articles, reports and books. Strong projects use both. Always record where information came from, and judge reliability by asking: Who wrote it? Why? When? Is it biased?\n\n## Good survey and interview questions\nKeep questions neutral and specific. A leading question such as \"Don't you think the site is slow?\" pushes the answer. A better question is \"How would you describe the loading speed of the site?\" Closed questions give numbers you can count. Open questions give richer ideas. Aim for a sample that represents your target audience. If you ask only your friends, your data could be biased.\n\n## Worked example\nA student surveys 50 classmates about a homework app. 35 say they forget deadlines weekly. 35 ÷ 50 × 100 = 70%. The student writes: \"70% of the sample forget deadlines weekly, so a reminder feature is a high priority.\" Notice that the number leads to a design decision. That link is what the highest levels reward.\n\n## The specification\nA specification is a list of success criteria. Good criteria are measurable, so you can test them later in Criterion D. Compare \"The app must be easy\" (vague) with \"A new user must be able to add a deadline in under 30 seconds with no help\" (measurable). Include functional needs (what it does), usability and accessibility needs, and constraints such as time, device, budget or law.\n\n## How this is examined\nIn the eAssessment-style questions you are given a short scenario, such as a school needing a booking system, with small data sets like survey results. You may be asked to calculate a percentage, choose the best research method, spot a leading question or biased sample, or decide which finding should shape the specification. Command terms such as state, outline, justify and analyse tell you how much depth is needed.\n\n## Common mistakes\n- Listing research without explaining what it means for the design.\n- Writing vague criteria that cannot be tested.\n- Surveying a sample that does not match the target audience.\n- Copying text from websites without a source.\n\nExam tip: When asked to justify, always link the evidence (a number or a user comment) to a specific design decision.",
+  "flashcards": [
+   {
+    "front": "Criterion A",
+    "back": "Inquiring and analysing: explain the need, plan research, analyse existing products, and write a design brief and specification."
+   },
+   {
+    "front": "Design brief",
+    "back": "A short statement of the problem, the target audience and what the solution should achieve."
+   },
+   {
+    "front": "Primary research",
+    "back": "Information you collect yourself, for example with surveys, interviews and observations."
+   },
+   {
+    "front": "Secondary research",
+    "back": "Information from existing sources such as websites, books and reports. Check reliability."
+   },
+   {
+    "front": "Leading question",
+    "back": "A survey question worded to push the answer, for example 'Don't you agree...?'. It causes bias."
+   },
+   {
+    "front": "Biased sample",
+    "back": "A group of respondents that does not represent the target audience, so results may mislead."
+   },
+   {
+    "front": "Design specification",
+    "back": "A list of measurable success criteria the final solution must meet."
+   },
+   {
+    "front": "Measurable criterion",
+    "back": "A requirement that can be tested, such as 'loads in under 3 seconds'."
+   },
+   {
+    "front": "Analysis of existing products",
+    "back": "Comparing similar products to find strengths, weaknesses and ideas for your design."
+   }
+  ]
+ },
+ {
+  "subject": "digital-design",
+  "grade": 5,
+  "topic": "The Digital Design Cycle",
+  "subTopic": "Developing Digital Ideas",
+  "questions": [
+   {
+    "content": "Which criterion covers Developing ideas in the MYP design cycle?",
+    "options": [
+     "Criterion A",
+     "Criterion B",
+     "Criterion C",
+     "Criterion D"
+    ],
+    "answer": 1,
+    "explanation": "Criterion B is Developing ideas. It includes design ideas, a chosen design and a plan.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a wireframe?",
+    "options": [
+     "A simple outline sketch of a screen layout without final graphics",
+     "A finished website with all images",
+     "A list of survey results",
+     "A piece of code that fixes bugs"
+    ],
+    "answer": 0,
+    "explanation": "Wireframes show where elements go on a screen. They are quick and cheap to change.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a storyboard used for in digital design?",
+    "options": [
+     "Storing passwords",
+     "Compressing a video file",
+     "Counting website visitors",
+     "Showing a sequence of screens or scenes in order"
+    ],
+    "answer": 3,
+    "explanation": "A storyboard lays out the order of screens, animation frames or user steps.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why should a designer produce more than one design idea?",
+    "options": [
+     "Because one idea is always wrong",
+     "To make the project longer",
+     "To compare options before choosing the best one",
+     "So the teacher can pick one"
+    ],
+    "answer": 2,
+    "explanation": "Generating several ideas lets you compare them against the specification and justify your choice.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which tool is best for planning the order of tasks and deadlines for a project?",
+    "options": [
+     "A spell checker",
+     "A Gantt chart or timeline",
+     "A colour wheel",
+     "A firewall"
+    ],
+    "answer": 1,
+    "explanation": "A Gantt chart or plan shows tasks, durations and order, which is part of the Criterion B plan.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A designer produces three layouts for a school news app. Which next step best shows evaluation of ideas?",
+    "options": [
+     "Compare each layout against the specification and explain which meets most criteria",
+     "Choose the layout with the brightest colours",
+     "Pick the layout drawn first",
+     "Combine all three without explanation"
+    ],
+    "answer": 0,
+    "explanation": "Choosing a design must be justified using the success criteria, not personal taste.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A specification says 'every button must be at least 44 pixels tall for touch screens'. Which design detail shows this has been considered?",
+    "options": [
+     "A colour palette",
+     "A list of fonts",
+     "A copyright notice",
+     "An annotated wireframe with button sizes labelled"
+    ],
+    "answer": 3,
+    "explanation": "Annotations on a design link features to the specification.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why might a designer create a mood board?",
+    "options": [
+     "To calculate the file size",
+     "To debug an algorithm",
+     "To explore colours, fonts and style that suit the audience",
+     "To collect user passwords"
+    ],
+    "answer": 2,
+    "explanation": "Mood boards collect visual inspiration so design choices fit the theme and audience.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A designer lists tasks: A design logo (2 days), B build home page (3 days, after A), C test (1 day, after B). What is the minimum total time if the tasks are done one after another?",
+    "options": [
+     "3 days",
+     "6 days",
+     "5 days",
+     "7 days"
+    ],
+    "answer": 1,
+    "explanation": "Since each task depends on the previous one: 2 + 3 + 1 = 6 days.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A project plan lists 'Create the solution' as one task of 10 hours with no detail. How could it be improved?",
+    "options": [
+     "Break it into smaller steps with time estimates and the order they will be done",
+     "Delete the plan",
+     "Use a longer title",
+     "Add more colours"
+    ],
+    "answer": 0,
+    "explanation": "A detailed plan has logical steps, time estimates, resources and a sequence that someone else could follow.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is a valid reason to choose a sans-serif font for an app interface?",
+    "options": [
+     "It is always the cheapest font",
+     "It cannot be read by screen readers",
+     "It is required by law",
+     "It is often clear and readable on screens at small sizes"
+    ],
+    "answer": 3,
+    "explanation": "Sans-serif fonts are commonly used for on-screen text because they stay clear at small sizes.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A designer's final chosen design has no explanation of why it was chosen. Which strand is missing?",
+    "options": [
+     "Creating a bibliography",
+     "Writing the algorithm",
+     "Justifying the chosen design with reference to the specification",
+     "Testing for bugs"
+    ],
+    "answer": 2,
+    "explanation": "Criterion B requires you to present the chosen design and justify it.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A designer sketches a home screen with the main menu at the bottom for thumb reach. Which specification need does this most directly support?",
+    "options": [
+     "Faster server speed",
+     "Ease of use on a phone held in one hand",
+     "Stronger password rules",
+     "Lower file size for videos"
+    ],
+    "answer": 1,
+    "explanation": "Placing controls where a thumb can reach supports usability on mobile devices.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A designer compares two navigation layouts. Layout 1 needs 2 taps to reach any page. Layout 2 needs 3 taps for 4 of 10 pages and 1 tap for the rest. Which has the lower average taps per page?",
+    "options": [
+     "Layout 2 with an average of 1.8 taps",
+     "Layout 1 with an average of 2 taps",
+     "Layout 2 with an average of 2.4 taps",
+     "They are equal at 2 taps"
+    ],
+    "answer": 0,
+    "explanation": "Layout 2: (4 × 3 + 6 × 1) ÷ 10 = 18 ÷ 10 = 1.8 taps, lower than Layout 1 at 2.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A designer's success criteria include 'works for colour-blind users'. Which design feature best meets this?",
+    "options": [
+     "Using red and green only",
+     "Making the screen brighter",
+     "Using only animations",
+     "Using labels and patterns as well as colour to show status"
+    ],
+    "answer": 3,
+    "explanation": "Information should not depend on colour alone. Text labels and patterns help users with colour-vision deficiency.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A planning chart shows task X taking 4 hours and task Y taking 5 hours, but Y cannot start until X finishes. A third task Z (3 hours) can run at the same time as X and Y. What is the shortest time to finish all three if two people work in parallel?",
+    "options": [
+     "12 hours",
+     "4 hours",
+     "9 hours",
+     "5 hours"
+    ],
+    "answer": 2,
+    "explanation": "The chain X then Y takes 4 + 5 = 9 hours. Z (3 hours) runs alongside, so the total is 9 hours.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A designer rejects idea 2 because it 'does not look cool'. Which improvement would make this a stronger justification?",
+    "options": [
+     "Say the idea is not fashionable",
+     "Refer to a specific success criterion that idea 2 fails, such as readability or load time",
+     "Delete idea 2 from the portfolio",
+     "Ask a friend to choose"
+    ],
+    "answer": 1,
+    "explanation": "A justification needs evidence linked to the specification, not opinion alone.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which set of planning items shows the most complete Criterion B plan?",
+    "options": [
+     "Ordered steps, time estimates, resources needed and checkpoints for testing",
+     "A title and a date",
+     "A list of apps installed on the computer",
+     "A single colour scheme"
+    ],
+    "answer": 0,
+    "explanation": "A complete plan allows another person to follow it and includes sequencing, timings and resources.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What Criterion B asks for\nCriterion B is Developing ideas. Once you have a clear brief and specification from Criterion A, you now generate design ideas, choose the best one and plan how to make it. Criterion B is marked in Levels 1-8. Higher levels need ideas that are detailed, linked to the specification and clearly justified.\n\n## The strands\n- **Develop a list of success criteria** for the design of a solution (your specification refined into things you can test).\n- **Present relevant design ideas**, which can be evaluated, to be created. Show more than one idea.\n- **Present the chosen design** and outline reasons for its selection.\n- **Develop accurate planning drawings and diagrams**, and outline the requirements for the creation of the chosen solution.\n\n## Generating ideas\nStart with quick ideas. Thumbnail sketches, wireframes, storyboards and mood boards are all useful. A **wireframe** is a simple outline of a screen that shows where things go: the header, menu, buttons and content. A **storyboard** shows a sequence, such as the screens a user passes through to buy a ticket. A **mood board** collects colours, fonts and images that give the right feel for the audience. A **site map** or **flowchart** shows how pages or steps connect.\n\n## Design thinking for digital products\nThink about the user. Check each idea against the specification. Questions to ask include: Is it readable? Is it accessible? Does it work on small screens? Will it be quick to use? Use clear annotations on each design, for example \"Button 44 pixels tall for easy tapping\" or \"High-contrast text for readability\".\n\n## Choosing and justifying\nDo not choose a design because you simply like it. Compare ideas against the success criteria, for instance with a table in words: idea 1 meets four of six criteria, idea 2 meets six of six. Then explain the choice using that evidence. You may combine the best parts of several ideas, but explain why.\n\n## Planning\nA plan lists the steps to create the solution in order, with time estimates, the resources you need (software, assets, devices) and when you will test. A **Gantt chart** is a bar chart of tasks against time. If task B cannot start until task A finishes, B is dependent on A. Tasks that do not depend on each other can run at the same time, which shortens the total time. Example: A takes 2 days, B takes 3 days after A, C takes 1 day after B. The total is 2 + 3 + 1 = 6 days.\n\n## How this is examined\nExpect a scenario such as designing a booking app, then questions asking which design best meets given criteria, how to read a simple plan or timeline, how to calculate a duration, or which justification is strongest. You may be asked to evaluate two layouts using simple numbers, such as the average number of taps to reach a page.\n\n## Common mistakes\n- Only one idea, or ideas that are nearly identical.\n- Choosing a design with no reference to the specification.\n- Plans with vague steps such as \"make the app\".\n- Designs with no annotations or sizes.\n\nExam tip: A strong justification names a criterion, gives evidence from the design and states the result in a clear sentence.",
+  "flashcards": [
+   {
+    "front": "Criterion B",
+    "back": "Developing ideas: success criteria, design ideas, chosen design with justification, and a plan."
+   },
+   {
+    "front": "Wireframe",
+    "back": "A simple outline of a screen layout showing where elements go, before graphics are added."
+   },
+   {
+    "front": "Storyboard",
+    "back": "A sequence of drawings showing the order of screens, scenes or user steps."
+   },
+   {
+    "front": "Mood board",
+    "back": "A collage of colours, fonts and images that sets the style for a design."
+   },
+   {
+    "front": "Site map",
+    "back": "A diagram showing how the pages of a website are organised and linked."
+   },
+   {
+    "front": "Gantt chart",
+    "back": "A bar chart showing tasks, their durations and their order over time."
+   },
+   {
+    "front": "Dependent task",
+    "back": "A task that cannot start until another task has finished."
+   },
+   {
+    "front": "Justifying a design",
+    "back": "Explaining why the chosen design is best, using evidence from the specification."
+   },
+   {
+    "front": "Annotation",
+    "back": "A label on a design that explains a feature, size or reason for a decision."
+   }
+  ]
+ },
+ {
+  "subject": "digital-design",
+  "grade": 5,
+  "topic": "The Digital Design Cycle",
+  "subTopic": "Creating and Testing",
+  "questions": [
+   {
+    "content": "Which criterion covers Creating the solution?",
+    "options": [
+     "Criterion A",
+     "Criterion C",
+     "Criterion B",
+     "Criterion D"
+    ],
+    "answer": 1,
+    "explanation": "Criterion C is Creating the solution. Criterion D is Evaluating.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a prototype?",
+    "options": [
+     "An early working model used to test ideas before the final product",
+     "The final advert for the product",
+     "A list of bugs",
+     "A type of password"
+    ],
+    "answer": 0,
+    "explanation": "Prototypes let designers test and improve a design before investing in the final version.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a bug?",
+    "options": [
+     "A virus that you install on purpose",
+     "A type of keyboard",
+     "A colour setting",
+     "An error in a program or product that causes unexpected behaviour"
+    ],
+    "answer": 3,
+    "explanation": "A bug is a fault. Testing and debugging help find and fix them.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which action is part of good version control for a project?",
+    "options": [
+     "Overwriting the only copy every day",
+     "Deleting the old files",
+     "Saving files with clear names and dates, and keeping earlier versions",
+     "Using the name 'final final 2'"
+    ],
+    "answer": 2,
+    "explanation": "Keeping dated, clearly named versions lets you go back if something breaks and shows your process.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'testing' a digital product mean?",
+    "options": [
+     "Printing it out",
+     "Checking that it works as intended and meets the success criteria",
+     "Changing its colour",
+     "Uploading it to social media"
+    ],
+    "answer": 1,
+    "explanation": "Testing compares real results with expected results and with the specification.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A designer logs: 'Button should save the form. Result: nothing happens on mobile.' What type of record is this?",
+    "options": [
+     "A test log comparing expected and actual results",
+     "A bibliography",
+     "A mood board",
+     "A site map"
+    ],
+    "answer": 0,
+    "explanation": "Test logs record the test, expected result, actual result and any fix made.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A login form must reject empty passwords. Which test data is most useful to check this?",
+    "options": [
+     "A very long username",
+     "A correct password",
+     "A password with emojis",
+     "An empty password field"
+    ],
+    "answer": 3,
+    "explanation": "Testing the boundary or invalid case, an empty input, checks the validation rule directly.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A game asks for an age between 10 and 18. Which set contains normal, boundary and invalid test data in that order?",
+    "options": [
+     "10, 18, 14",
+     "5, 100, abc",
+     "14, 10, 5",
+     "14, 14, 14"
+    ],
+    "answer": 2,
+    "explanation": "Normal data is typical (14). Boundary data sits at the limit (10 or 18). Invalid data is outside the allowed range or type (5).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why should a designer test with real users as well as testing it personally?",
+    "options": [
+     "Designers never make errors",
+     "Users may find problems the designer cannot see",
+     "Users can only test colours",
+     "It makes the code shorter"
+    ],
+    "answer": 1,
+    "explanation": "The designer knows the product too well. Fresh users reveal usability problems.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A designer must change the plan because an image license does not allow commercial use. What does this show?",
+    "options": [
+     "A justified change to the plan, which should be recorded",
+     "The project has failed",
+     "The plan should be ignored",
+     "Licences never matter"
+    ],
+    "answer": 0,
+    "explanation": "Criterion C rewards recording changes and the reasons for them, including legal issues.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which item best shows 'technical skills' in Criterion C?",
+    "options": [
+     "A long essay about colours",
+     "A screenshot of the home screen only",
+     "A list of websites visited",
+     "A working feature built with appropriate tools such as layers, functions or styles"
+    ],
+    "answer": 3,
+    "explanation": "Criterion C looks for effective use of tools and techniques, shown with evidence such as annotated screenshots.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student's app crashes when the user types a letter in the age field. Which fix is most appropriate?",
+    "options": [
+     "Remove the age field",
+     "Change the font",
+     "Add input validation that accepts only numbers",
+     "Make the button bigger"
+    ],
+    "answer": 2,
+    "explanation": "Validation checks input before using it and prevents errors from unexpected data.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A designer renames files as 'logo_v1', 'logo_v2' and 'logo_v3' with dates in a notes file. What good practice is this?",
+    "options": [
+     "Data encryption",
+     "Version control with clear naming",
+     "Image compression",
+     "Phishing prevention"
+    ],
+    "answer": 1,
+    "explanation": "Numbered, dated versions let the designer track changes and return to an earlier version.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A tester runs 25 test cases. 22 pass and 3 fail. After fixes, 2 of the 3 now pass. What percentage of all 25 cases pass now?",
+    "options": [
+     "96%",
+     "88%",
+     "92%",
+     "100%"
+    ],
+    "answer": 0,
+    "explanation": "22 + 2 = 24 pass. 24 ÷ 25 × 100 = 96%.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A designer builds a quiz app and finds that scores display as 'NaN' when a question is skipped. Which is the most likely cause?",
+    "options": [
+     "The screen resolution is too high",
+     "The font is missing",
+     "The Wi-Fi is too slow",
+     "A calculation uses an empty value that is not a number"
+    ],
+    "answer": 3,
+    "explanation": "NaN means 'not a number'. Calculations on empty or missing data produce this error.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two testers report different results for the same feature. Tester A uses a phone, tester B uses a laptop. What should the designer conclude first?",
+    "options": [
+     "Tester A is wrong",
+     "The feature is fine",
+     "The bug may depend on the device, so test on both and record the details",
+     "The testers should swap names"
+    ],
+    "answer": 2,
+    "explanation": "Different environments can behave differently. Recording the device and browser helps reproduce bugs.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which approach best shows iterative development?",
+    "options": [
+     "Build everything then test once at the end",
+     "Build a small version, test it, fix problems, then add features and repeat",
+     "Test before writing a brief",
+     "Copy another project"
+    ],
+    "answer": 1,
+    "explanation": "Iterative development repeats build-test-improve cycles, finding errors early.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student uses free music in an app without checking the licence. Which risk is most relevant?",
+    "options": [
+     "A copyright breach, because the licence may not allow that use",
+     "The music will use too much colour",
+     "The app will become slower on every phone",
+     "The app will become more accessible"
+    ],
+    "answer": 0,
+    "explanation": "Using media requires respecting copyright and licence terms. Credit and permission are part of ethical practice.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What Criterion C asks for\nCriterion C is Creating the solution. You turn your chosen design and plan into a working digital product, record how you did it, and show that it is good enough to be tested. Criterion C is marked in Levels 1-8. Higher levels show strong technical skills, clear evidence and the ability to follow and adapt your plan.\n\n## The strands\n- **Construct a logical plan**, which describes the efficient use of time and resources, sufficient for peers to be able to follow to produce the solution.\n- **Demonstrate excellent technical skills** when making the solution.\n- **Follow the plan** to create the solution, which functions as intended.\n- **Fully justify changes** made to the chosen design and plan when making the solution.\n- **Present the solution** as a whole, with evidence of its creation (for example annotated screenshots).\n\n## Building a digital solution\nWork in stages. Create a **prototype** first, a small working version with the main features, then add features. Keep evidence of each stage: screenshots of the work in progress, short notes on tools used and problems solved. Use good **file management**: meaningful names, folders and dates, and keep earlier versions. If something breaks you can go back.\n\n## Testing\n**Testing** means checking that the product works and meets the success criteria. Plan tests before you run them. A **test log** records: what is tested, the test data, the expected result, the actual result and any fix. Types of test data:\n- **Normal data**: typical values that should work.\n- **Boundary data**: values at the edge of the allowed range.\n- **Invalid data**: values that should be rejected, such as text in a number field.\n\nExample: a field accepts ages 10 to 18. Normal 14. Boundary 10 and 18. Invalid 5 or the word \"abc\".\n\n## Debugging and validation\nA **bug** is an error. **Debugging** means finding and fixing it. Common causes include typing mistakes, wrong logic, missing input checks and untested devices. **Validation** checks that data is sensible before it is used, for example that a number is in range. It is different from verification, which checks that data was entered correctly, such as typing an email twice.\n\n## User testing and iteration\nAsk real users to try the product while you watch. They find problems you cannot see. Then improve and test again. This build-test-improve loop is called **iterative development**. Record the change and the reason, because Criterion C rewards justified changes to the plan.\n\n## Legal and ethical creation\nUse media you have permission to use. Check **licences** and credit creators. Never use another person's work as if it were yours.\n\n## Worked example\nA tester runs 25 test cases and 22 pass. After fixing two bugs, 24 pass. 24 ÷ 25 × 100 = 96% passing. The remaining failure must be recorded and either fixed or explained.\n\n## How this is examined\nQuestions give a short test log or scenario and ask which test data is correct, what a result shows, which bug fix is best, or how many tests pass as a percentage. Command terms: state, describe, explain, justify.\n\nExam tip: For any test question, name the type of data (normal, boundary or invalid) and say what you expect to happen.",
+  "flashcards": [
+   {
+    "front": "Criterion C",
+    "back": "Creating the solution: follow your plan, show technical skill, justify changes and present the working product."
+   },
+   {
+    "front": "Prototype",
+    "back": "An early working model used to test and improve a design."
+   },
+   {
+    "front": "Test log",
+    "back": "A record of each test: test data, expected result, actual result and any fix."
+   },
+   {
+    "front": "Normal data",
+    "back": "Typical valid values the product should accept."
+   },
+   {
+    "front": "Boundary data",
+    "back": "Values at the very edge of the allowed range, such as the minimum and maximum."
+   },
+   {
+    "front": "Invalid data",
+    "back": "Values that should be rejected, such as letters in a number field."
+   },
+   {
+    "front": "Validation",
+    "back": "Checking that input is sensible and allowed before the program uses it."
+   },
+   {
+    "front": "Iterative development",
+    "back": "Repeating build, test and improve steps to refine a product."
+   },
+   {
+    "front": "Version control",
+    "back": "Saving clearly named, dated versions so you can return to earlier work."
+   }
+  ]
+ },
+ {
+  "subject": "digital-design",
+  "grade": 5,
+  "topic": "The Digital Design Cycle",
+  "subTopic": "Evaluating Digital Solutions",
+  "questions": [
+   {
+    "content": "Which criterion covers Evaluating in the MYP design cycle?",
+    "options": [
+     "Criterion A",
+     "Criterion D",
+     "Criterion B",
+     "Criterion C"
+    ],
+    "answer": 1,
+    "explanation": "Criterion D is Evaluating. It looks at testing, success and the impact of the solution.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What do you compare your finished product with when evaluating?",
+    "options": [
+     "The design specification (success criteria)",
+     "Your favourite film",
+     "The cost of your computer",
+     "Your friend's opinion only"
+    ],
+    "answer": 0,
+    "explanation": "Evaluation measures how well the solution meets the success criteria.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is a suggested improvement?",
+    "options": [
+     "The product is perfect",
+     "I enjoyed the project",
+     "The deadline was Friday",
+     "Adding a dark mode to help users with light sensitivity"
+    ],
+    "answer": 3,
+    "explanation": "Improvements are specific changes that would make the product better for users.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Who should give feedback for an evaluation?",
+    "options": [
+     "Only the designer",
+     "Nobody",
+     "The target audience and other users",
+     "Only the hardware company"
+    ],
+    "answer": 2,
+    "explanation": "Feedback from the intended users gives the most useful evidence.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'impact' mean in Criterion D?",
+    "options": [
+     "The weight of the device",
+     "The effects the solution could have on people, society or the environment",
+     "The speed of the processor",
+     "The price of the software"
+    ],
+    "answer": 1,
+    "explanation": "Impact includes social, ethical and environmental effects as well as personal ones.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A success criterion was 'loads in under 3 seconds'. Five tests give 2.1, 2.8, 3.4, 2.5 and 2.2 seconds. How many tests met the criterion?",
+    "options": [
+     "4 out of 5",
+     "5 out of 5",
+     "3 out of 5",
+     "1 out of 5"
+    ],
+    "answer": 0,
+    "explanation": "Only 3.4 seconds is over 3. The other four are under 3 seconds.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Using the same five tests (2.1, 2.8, 3.4, 2.5, 2.2 seconds), what is the mean load time?",
+    "options": [
+     "2.5 seconds",
+     "2.8 seconds",
+     "3.4 seconds",
+     "2.6 seconds"
+    ],
+    "answer": 3,
+    "explanation": "Sum = 13.0. 13.0 ÷ 5 = 2.6 seconds.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A user says: 'The menu was hard to find.' What is the best way to use this in an evaluation?",
+    "options": [
+     "Ignore it because it is one comment",
+     "Delete the menu",
+     "Link it to a usability criterion and suggest a clearer menu icon or label",
+     "Write that users are confused by everything"
+    ],
+    "answer": 2,
+    "explanation": "Good evaluation analyses feedback, links it to the criteria and proposes a specific improvement.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement is evaluative rather than just descriptive?",
+    "options": [
+     "The search feature is on the top right",
+     "The search feature meets criterion 4 because 9 of 10 users found a result in under 10 seconds",
+     "I made the search feature on Tuesday",
+     "The search feature uses a blue icon"
+    ],
+    "answer": 1,
+    "explanation": "Evaluation uses evidence to judge success against criteria.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A product works well but uses a lot of battery. Which is a fair way to report this?",
+    "options": [
+     "It meets the function criteria but fails the efficiency criterion, so optimisation is needed",
+     "It is perfect",
+     "It is useless",
+     "Battery does not matter for apps"
+    ],
+    "answer": 0,
+    "explanation": "A balanced evaluation reports strengths and limitations.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is it useful to evaluate your own testing methods?",
+    "options": [
+     "Testing is never needed",
+     "Methods are always perfect",
+     "It makes the report longer",
+     "A small or biased test group may make results unreliable"
+    ],
+    "answer": 3,
+    "explanation": "Reflecting on method limitations shows critical thinking, for example a sample of only 3 users.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the purpose of a user feedback questionnaire after testing?",
+    "options": [
+     "To change user passwords",
+     "To advertise the product",
+     "To collect evidence about how well the product meets user needs",
+     "To store cookies"
+    ],
+    "answer": 2,
+    "explanation": "A questionnaire gathers evidence for evaluation against the success criteria.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which type of evidence would best support a claim that a website is accessible?",
+    "options": [
+     "Saying the site looks nice",
+     "Testing with a screen reader and checking text contrast ratios",
+     "Counting the number of pages",
+     "Checking the site name is short"
+    ],
+    "answer": 1,
+    "explanation": "Accessibility claims need evidence from tools or users who rely on accessibility features.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Eight users tried the app. Seven completed the task. One gave up. Another criterion says 'at least 90% of users can complete the task'. Does the app meet it?",
+    "options": [
+     "No, because 7 ÷ 8 = 87.5%, which is below 90%",
+     "Yes, because 7 is nearly all",
+     "Yes, because 87.5% is above 90%",
+     "No, because 7 is an odd number"
+    ],
+    "answer": 0,
+    "explanation": "87.5% is below the 90% target, so the criterion is not met. Be exact when judging against a measurable criterion.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A designer writes: 'The app is great.' Which addition would best raise this to a high-level evaluation?",
+    "options": [
+     "A longer title",
+     "More emojis",
+     "A thank-you list",
+     "Specific evidence from tests, a judgement against each criterion, and improvements"
+    ],
+    "answer": 3,
+    "explanation": "High-level evaluation is detailed, evidence-based and linked to criteria.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A new fitness-tracking app collects location data. What is a relevant impact to evaluate?",
+    "options": [
+     "Whether the logo is square",
+     "How many files are in the folder",
+     "The effect on user privacy and whether data collection is necessary and consented to",
+     "The number of colours used"
+    ],
+    "answer": 2,
+    "explanation": "Evaluating impact should consider privacy, safety and ethical implications of data collection.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "After testing, a designer plans to fix all problems at once without prioritising. What is the better approach?",
+    "options": [
+     "Fix only the easiest colours",
+     "Prioritise fixes by effect on users and effort required",
+     "Ignore all feedback",
+     "Fix in alphabetical order"
+    ],
+    "answer": 1,
+    "explanation": "Prioritising focuses limited time on the improvements that matter most.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A designer claims 'users love the app' based on two friends' comments. What is the best critique?",
+    "options": [
+     "The sample is too small and biased to support the claim",
+     "Friends are always the best source",
+     "Two is a statistically perfect number",
+     "The claim is true because it is positive"
+    ],
+    "answer": 0,
+    "explanation": "Evidence must come from a larger, more representative group to support strong claims.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What Criterion D asks for\nCriterion D is Evaluating. After creating your solution you judge how well it works and what it means for the people who use it. It is marked in Levels 1-8. Higher levels use detailed evidence, careful judgement and thoughtful consideration of impact.\n\n## The strands\n- **Design detailed and relevant testing methods**, which generate data to measure the success of the solution.\n- **Critically evaluate the success of the solution** against the design specification.\n- **Explain how the solution could be improved.**\n- **Explain the impact of the solution** on the client or target audience.\n\n## Planning testing\nTesting methods should produce useful data. Examples: timing how long a task takes, counting errors, asking users to complete a task while you watch, and giving a short questionnaire afterwards. Decide beforehand what a pass looks like. A test of \"loads in under 3 seconds\" is clear because it has a number.\n\n## Evaluating against the specification\nGo through your success criteria one by one. For each, state the evidence and judge: met, partly met or not met. Use numbers where possible.\n\nWorked example: five load times are 2.1, 2.8, 3.4, 2.5 and 2.2 seconds. The criterion is under 3 seconds. Four of five tests pass. The mean is (2.1 + 2.8 + 3.4 + 2.5 + 2.2) ÷ 5 = 13.0 ÷ 5 = 2.6 seconds. You could write: \"The mean load time of 2.6 seconds meets the criterion, but one test of 3.4 seconds failed, so performance is not fully reliable on slower connections.\"\n\n## Percentages and thresholds\nBe exact. If 7 of 8 users completed a task, that is 7 ÷ 8 × 100 = 87.5%. A target of 90% is not met. Do not round up to make results look better.\n\n## Improvements\nSuggest specific, realistic improvements linked to evidence. \"Make it better\" is weak. \"Add text labels to the icons, because 4 of 8 users could not find the menu\" is strong.\n\n## Impact\nThink about who is affected and how: the client, the users, other people and the environment. Consider accessibility, privacy, safety, wellbeing and cost. For example, an app that collects location data raises privacy questions, and a very data-heavy app may be difficult for users with limited internet.\n\n## Limits of your testing\nBe honest. A small group, a biased group or testing on only one device limits how far you can trust the results. Saying so shows critical thinking.\n\n## How this is examined\nQuestions provide small data sets, such as times or pass counts, and ask you to calculate a mean or percentage, decide whether a criterion is met, choose the best improvement or identify a limitation in the testing.\n\n## Common mistakes\n- Describing the product rather than judging it.\n- Using only opinions rather than evidence.\n- Forgetting to discuss impact.\n- Claiming success on a tiny sample.\n\nExam tip: Use the pattern claim, evidence, link to criterion, improvement.",
+  "flashcards": [
+   {
+    "front": "Criterion D",
+    "back": "Evaluating: design testing methods, evaluate against the specification, suggest improvements and explain impact."
+   },
+   {
+    "front": "Evaluation",
+    "back": "A judgement of how well a solution meets its success criteria, supported by evidence."
+   },
+   {
+    "front": "Mean",
+    "back": "The sum of the values divided by how many values there are."
+   },
+   {
+    "front": "Percentage success",
+    "back": "Number of successes ÷ total tests × 100."
+   },
+   {
+    "front": "Met / partly met / not met",
+    "back": "Ways to judge each success criterion with evidence."
+   },
+   {
+    "front": "Improvement",
+    "back": "A specific, realistic change linked to feedback or test results."
+   },
+   {
+    "front": "Impact",
+    "back": "The effect of a solution on users, society, privacy, safety and the environment."
+   },
+   {
+    "front": "Test limitation",
+    "back": "A weakness in how tests were done, such as a small or biased sample or one device only."
+   },
+   {
+    "front": "User feedback",
+    "back": "Opinions and observations from target users, used as evidence in evaluation."
+   }
+  ]
+ }
+]

@@ -1,0 +1,67 @@
+[
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "format": "structured-mock",
+  "title": "Extended Mathematics MYP 5 eAssessment Structure Mock (8 tasks, 62 marks)",
+  "criterion": null,
+  "questions": [
+   {
+    "position": 1,
+    "marks": 5,
+    "criterion": "A",
+    "content": "[[Q 1 | A 4 | C 1]]\nThree data sets are shown as frequency graphs. Set X has the values 1, 2, 3, 4 and 5, each with frequency 2. Set Y has the values 11, 12, 13, 14 and 15, each with frequency 2. Set Z has the value 1 with frequency 5 and the value 9 with frequency 5. Set Q has the value 6 with frequency 10.\n(a) State whether the standard deviation of Set Q is zero or large. (1 mark)\n(b) For Set X and Set Y, state whether the mean is the same or different, and whether the standard deviation is the same or different. (2 marks)\n(c) State which of Set X and Set Z has the larger standard deviation, and give a reason. (2 marks)\n\nTotal for Question 1: 5 marks",
+    "mark_scheme": "(a) Zero, because every value is the same [1]. (b) Mean different (3 and 13) [1]; standard deviation the same, because Y is X shifted 10 to the right with an identical spread [1]. (c) Set Z [1], because its values are further from the mean of 5 (each is 4 away) while Set X values are at most 2 away from its mean of 3 [1]."
+   },
+   {
+    "position": 2,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 2 | A 6 | C 2]]\nTwo events, A and B, are such that P(A) = 7/20, P(A | B) = 1/2 and P(A ∩ B) = 3/20.\n(a) Find P(B). (3 marks)\n(b) Show that events A and B are not independent. (3 marks)\n(c) Find P(A ∪ B). (2 marks)\n\nTotal for Question 2: 8 marks",
+    "mark_scheme": "(a) P(A | B) = P(A ∩ B) / P(B) [1]; 1/2 = (3/20) / P(B) [1]; P(B) = 3/10 [1]. (b) If independent, P(A) x P(B) = P(A ∩ B) [1]; P(A) x P(B) = 7/20 x 3/10 = 21/200 [1]; this is not equal to 3/20 = 30/200, so A and B are not independent [1]. (c) 7/20 + 6/20 - 3/20 [1] = 10/20 = 1/2 [1]."
+   },
+   {
+    "position": 3,
+    "marks": 7,
+    "criterion": "A",
+    "content": "[[Q 3 | A 5 | C 2]]\nIn triangle ABC, angle ACB = 90°, AC = 12 cm, BC = 9 cm and AB = 15 cm. The point D lies on AC with AD = 8 cm. The point E lies on AB so that DE is perpendicular to AC. Diagram not to scale.\n(a) Show that triangle ADE is similar to triangle ACB. (2 marks)\n(b) Find the length DE. (2 marks)\n(c) Find the lengths AE and EB. (3 marks)\n\nTotal for Question 3: 7 marks",
+    "mark_scheme": "(a) Angle A is common [1]; angles ADE and ACB are both 90° (so the triangles are similar by equal angles) [1]. (b) Scale factor AD / AC = 8/12 = 2/3 [1]; DE = 2/3 x 9 = 6 cm [1]. (c) AE = 2/3 x 15 [1] = 10 cm [1]; EB = 15 - 10 = 5 cm [1]."
+   },
+   {
+    "position": 4,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 4 | A 6 | C 2]]\nThe function f(x) = a × b^x + c has a graph with a horizontal asymptote y = 2, passes through (0, 6) and passes through (1, 4).\n(a) Write down the value of c. (1 mark)\n(b) Find the value of a. (2 marks)\n(c) Find the value of b. (2 marks)\n(d) Describe what happens to f(x) as x becomes very large. (1 mark)\n(e) Solve f(x) = 3. (2 marks)\n\nTotal for Question 4: 8 marks",
+    "mark_scheme": "(a) c = 2 [1]. (b) At x = 0: a + 2 = 6 [1]; a = 4 [1]. (c) 4b + 2 = 4 [1]; b = 0.5 [1]. (d) f(x) gets closer and closer to 2 (but never reaches it) [1]. (e) 4 x 0.5^x = 1 so 0.5^x = 0.25 [1]; x = 2 [1]."
+   },
+   {
+    "position": 5,
+    "marks": 9,
+    "criterion": "A",
+    "content": "[[Q 5 | A 6 | D 3]]\nA yacht race starts at buoy H. The first leg goes 120 m on a bearing of 070° to buoy A. The second leg goes 200 m on a bearing of 150° to buoy B. The yachts then return directly to H. Diagram not to scale.\n(a) Show that angle HAB is 100°. (2 marks)\n(b) Calculate the distance from B to H, to 1 decimal place. (3 marks)\n(c) Calculate the bearing of B from H, to the nearest degree. (3 marks)\n(d) Find the total length of the course. (1 mark)\n\nTotal for Question 5: 9 marks",
+    "mark_scheme": "(a) The bearing of H from A is 250° (070 + 180) [1]; angle HAB = 250 - 150 = 100° [1]. (b) BH² = 120² + 200² - 2 x 120 x 200 x cos 100° [1] = 62 735 [1]; BH = 250.5 m [1]. (c) sin(AHB) / 200 = sin 100° / 250.5 [1]; angle AHB = 51.9° [1]; bearing = 070 + 51.9 = 122° (to the nearest degree) [1]. (d) 120 + 200 + 250.5 = 570.5 m [1]."
+   },
+   {
+    "position": 6,
+    "marks": 7,
+    "criterion": "D",
+    "content": "[[Q 6 | D 5 | C 2]]\nA race starts at buoy H and the yachts must pass buoys A, B and C exactly once each and return to H. Distances in metres: H to A 100, H to B 180, H to C 150, A to B 120, A to C 160, B to C 90.\n(a) Write down how many different routes are possible. (1 mark)\n(b) Find the total distance of the routes H-A-B-C-H, H-A-C-B-H and H-B-A-C-H. (3 marks)\n(c) The route H-C-B-A-H is the reverse of H-A-B-C-H. State the minimum total distance and the route that gives it. (2 marks)\n(d) Explain why a route and its reverse always have the same length. (1 mark)\n\nTotal for Question 6: 7 marks",
+    "mark_scheme": "(a) 3 x 2 x 1 = 6 routes [1]. (b) H-A-B-C-H: 100 + 120 + 90 + 150 = 460 [1]; H-A-C-B-H: 100 + 160 + 90 + 180 = 530 [1]; H-B-A-C-H: 180 + 120 + 160 + 150 = 610 [1]. (c) Minimum distance 460 m [1]; route H-A-B-C-H (or its reverse H-C-B-A-H) [1]. (d) The same legs are used in the opposite order so the same distances are added [1]."
+   },
+   {
+    "position": 7,
+    "marks": 13,
+    "criterion": "B",
+    "content": "[[Q 7 | B 10 | C 3]]\nInvestigating patterns. A square floor of side n metres is covered in 1 m by 1 m tiles. A border of tiles, one tile wide, is placed around the outside of the floor. Let n be the stage and T the number of tiles in the border. The border for n = 1 has 8 tiles and the border for n = 2 has 12 tiles.\n(a) Write down the values of T for n = 3, 4 and 5. (2 marks)\n(b) Describe in words two patterns in T. (2 marks)\n(c) Write down a general rule for T in terms of n. (2 marks)\n(d) Verify your rule for n = 10. (2 marks)\n(e) Justify your rule by considering the areas of two squares. (3 marks)\n(f) The border for one stage uses exactly 100 tiles. Find n. (2 marks)\n\nTotal for Question 7: 13 marks",
+    "mark_scheme": "(a) 16, 20, 24 [2] (award 1 for two correct). (b) T increases by 4 each stage [1]; T is always a multiple of 4 / T is even [1]. (c) T = 4n + 4 [2] (award 1 for 4n). (d) Extending the pattern gives T = 44 at n = 10 [1]; the rule gives 4(10) + 4 = 44 [1]. (e) The outer square has side n + 2 so area (n + 2)² [1]; the floor has area n² [1]; (n + 2)² - n² = 4n + 4 [1]. (f) 4n + 4 = 100 [1]; n = 24 [1]."
+   },
+   {
+    "position": 8,
+    "marks": 5,
+    "criterion": "A",
+    "content": "[[Q 8 | A 4 | C 1]]\nConsider the function y = x² - 5x - 14.\n(a) Factorise x² - 5x - 14 and solve x² - 5x - 14 = 0. (3 marks)\n(b) Find the coordinates of the lowest point of the graph. (2 marks)\n\nTotal for Question 8: 5 marks",
+    "mark_scheme": "(a) (x - 7)(x + 2) [1]; x = 7 [1]; x = -2 [1]. (b) x = (7 + (-2)) / 2 = 2.5 [1]; y = 6.25 - 12.5 - 14 = -20.25, so (2.5, -20.25) [1]."
+   }
+  ]
+ }
+]

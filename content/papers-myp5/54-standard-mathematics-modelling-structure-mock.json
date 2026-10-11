@@ -1,0 +1,60 @@
+[
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "format": "structured-mock",
+  "title": "Standard Mathematics MYP 5 Modelling and Design Structure Mock (7 tasks, 62 marks)",
+  "criterion": null,
+  "questions": [
+   {
+    "position": 1,
+    "marks": 21,
+    "criterion": "D",
+    "content": "[[Q 1 | D 16 | C 5]]\nApplying mathematics in real-life contexts. A school is building a terraced vegetable garden. Terrace walls rise in steps, and the heights of the walls form an arithmetic sequence. The first terrace wall is 0.4 m high and the seventh is 2.2 m high. Each raised bed is 2.5 m wide, a 1 m gap is needed between beds in a row and a 1.5 m path is needed at each end of a row. The garden is 20 m wide. Diagram not to scale.\n(a) Determine the common difference between the heights of the walls. (2 marks)\n(b) Write down the general term for the height H of the nth terrace wall. (1 mark)\n(c) Determine the height of the twelfth terrace wall. (2 marks)\n(d) Let x be the greatest number of beds that fit in one row. Show that x = 5. (3 marks)\nLet y be the number of terraces. The constraints are: Constraint 1: the row width is 20 m, so x ≤ 5. Constraint 2: the top wall may be at most 3.1 m high. Constraint 3: each bed holds 12 plants and the garden may hold at most 480 plants.\n(e) Write down the equation of each boundary line for the three constraints, and describe the region that satisfies all constraints. (3 marks)\n(f) Design the terraced garden to hold the greatest number of plants. In your answer you should: clearly identify three relevant factors; make calculations for the number of beds in the whole garden and the number of plants; describe a sketch of your design; and justify whether your design makes the best use of the space. (10 marks)\n\nTotal for Question 1: 21 marks",
+    "mark_scheme": "(a) 2.2 - 0.4 = 1.8 [1]; 1.8 / 6 = 0.3 m [1]. (b) H = 0.4 + 0.3(n - 1) = 0.3n + 0.1 [1]. (c) 0.3(12) + 0.1 [1] = 3.7 m [1]. (d) 2.5x + 1(x - 1) + 2(1.5) <= 20 [1]; 3.5x <= 18 so x <= 5.14... [1]; whole beds only, so x = 5 [1]. (e) Lines x = 5 [1]; y = 10, from 0.3y + 0.1 <= 3.1 [1]; xy = 40, from 12xy <= 480 [1] (the region identification is credited with the last mark: whole-number points with x <= 5, y <= 10 and xy <= 40). (f) Three factors, for example width of the garden, maximum wall height, plant limit, bed size [3]; calculation of beds per row, x = 5 [1]; calculation of terraces from the constraints with y = 8 and 5 x 8 = 40 beds, or 4 x 10 = 40 [2]; total plants 12 x 40 = 480 [1]; the design is described clearly (rows, terraces, gaps, paths) [1]; justification that 40 beds is the maximum because xy must not exceed 40, that the height 0.3(8) + 0.1 = 2.5 m is within 3.1 m and that every constraint is met, noting 5 x 10 = 50 would break the plant limit [2]."
+   },
+   {
+    "position": 2,
+    "marks": 8,
+    "criterion": "D",
+    "content": "[[Q 2 | D 3 | A 5]]\nA designer makes banners in the shape of similar trapezia. The large banner has a top width of 40 cm and an area of 1200 cm². A small banner has a top width of 10 cm. Yellow paint covers a total of at most 90 cm². The designer adds stars of two sizes: a small star of area 3 cm² and a large star of area 6 cm². The number of small stars must be 3 times the number of large stars. Let x be the number of small stars and y the number of large stars.\n(a) Show that the area of the small banner is 75 cm². (3 marks)\n(b) Write down the equation linking x and y, and an inequality for the paint. (2 marks)\n(c) Find the greatest possible number of small and large stars. (3 marks)\n\nTotal for Question 2: 8 marks",
+    "mark_scheme": "(a) Length scale factor 10/40 = 1/4 [1]; area scale factor (1/4)² = 1/16 [1]; 1200 / 16 = 75 cm² [1]. (b) x = 3y [1]; 3x + 6y <= 90 [1]. (c) 9y + 6y <= 90 so 15y <= 90 [1]; y <= 6 [1]; so 6 large and 18 small stars [1]."
+   },
+   {
+    "position": 3,
+    "marks": 7,
+    "criterion": "A",
+    "content": "[[Q 3 | A 5 | C 2]]\nA bag holds 5 red, 3 blue and 2 green counters. Two counters are taken without replacement.\n(a) Find the probability that both counters are red. (2 marks)\n(b) Find the probability that the two counters are different colours. Show your working clearly. (3 marks)\n(c) Find the probability that at least one counter is blue. (2 marks)\n\nTotal for Question 3: 7 marks",
+    "mark_scheme": "(a) 5/10 x 4/9 [1] = 2/9 [1]. (b) P(same) = 20/90 + 6/90 + 2/90 = 28/90 [2]; P(different) = 1 - 28/90 = 62/90 = 31/45 [1]. (c) P(no blue) = 7/10 x 6/9 = 42/90 [1]; P(at least one blue) = 48/90 = 8/15 [1]."
+   },
+   {
+    "position": 4,
+    "marks": 7,
+    "criterion": "D",
+    "content": "[[Q 4 | D 5 | C 2]]\nA population of bacteria is modelled by P = 200 x 1.5^t, where t is the time in hours after the start.\n(a) Calculate the population after 3 hours. (2 marks)\n(b) State the starting population and explain what the number 1.5 means. (1 mark)\n(c) Find the smallest whole number of hours after which the population first exceeds 1000. Show your working. (3 marks)\n(d) State one limitation of this model. (1 mark)\n\nTotal for Question 4: 7 marks",
+    "mark_scheme": "(a) 200 x 1.5^3 [1] = 675 [1]. (b) 200, and the population is multiplied by 1.5 (increases by 50%) every hour [1]. (c) At t = 3, P = 675 which is below 1000 [1]; at t = 4, P = 1012.5 [1]; so 4 hours [1]. (d) The model cannot continue forever as food and space run out, or the growth rate would change [1]."
+   },
+   {
+    "position": 5,
+    "marks": 6,
+    "criterion": "A",
+    "content": "[[Q 5 | A 5 | C 1]]\nA cinema sells adult tickets for £a and child tickets for £c. Three adult tickets and two child tickets cost £31. Two adult tickets and four child tickets cost £34.\n(a) Write down two equations from this information. (2 marks)\n(b) Solve the equations to find a and c. (3 marks)\n(c) Find the cost of a family ticket for 2 adults and 3 children. (1 mark)\n\nTotal for Question 5: 6 marks",
+    "mark_scheme": "(a) 3a + 2c = 31 [1]; 2a + 4c = 34 [1]. (b) Divide the second by 2: a + 2c = 17, and subtract from the first: 2a = 14 [1]; a = 7 [1]; c = 5 [1]. (c) 14 + 15 = £29 [1]."
+   },
+   {
+    "position": 6,
+    "marks": 6,
+    "criterion": "A",
+    "content": "[[Q 6 | A 5 | C 1]]\nTwo similar cones have heights 6 cm and 9 cm. The smaller cone has a volume of 80 cm³ and a curved surface area of 100 cm².\n(a) Write down the length scale factor from the smaller cone to the larger cone. (1 mark)\n(b) Find the volume of the larger cone. (3 marks)\n(c) Find the curved surface area of the larger cone. (2 marks)\n\nTotal for Question 6: 6 marks",
+    "mark_scheme": "(a) 9/6 = 3/2 [1]. (b) Volume scale factor (3/2)³ = 27/8 [1]; 80 x 27/8 [1] = 270 cm³ [1]. (c) Area scale factor (3/2)² = 9/4 [1]; 100 x 9/4 = 225 cm² [1]."
+   },
+   {
+    "position": 7,
+    "marks": 7,
+    "criterion": "A",
+    "content": "[[Q 7 | A 5 | C 2]]\nThe number of minutes 12 students took to complete a puzzle were: 4, 6, 7, 7, 8, 9, 10, 12, 13, 15, 18, 21.\n(a) Find the median. (1 mark)\n(b) Find the lower quartile and the upper quartile. (2 marks)\n(c) Find the interquartile range. (1 mark)\n(d) A value is an outlier if it is more than 1.5 x IQR above the upper quartile or below the lower quartile. Show that there are no outliers. (2 marks)\n(e) Describe one thing the box-and-whisker plot would show about the spread of the data. (1 mark)\n\nTotal for Question 7: 7 marks",
+    "mark_scheme": "(a) (9 + 10) / 2 = 9.5 [1]. (b) Q1 = 7 [1]; Q3 = 14 [1]. (c) 14 - 7 = 7 [1]. (d) 1.5 x 7 = 10.5 so upper limit 24.5 and lower limit -3.5 [1]; the smallest value 4 and the largest 21 are inside these limits, so no outliers [1]. (e) For example, the middle half of the students took between 7 and 14 minutes, or the upper whisker is longer so the data is positively skewed [1]."
+   }
+  ]
+ }
+]

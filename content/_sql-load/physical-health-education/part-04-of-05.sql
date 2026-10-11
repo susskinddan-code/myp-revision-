@@ -302,6 +302,6 @@ commit;
 
 select s.name as subject, p.name as topic, count(distinct t.id) as sub_topics,
   count(distinct n.topic_id) as with_notes
-from public.topics p join public.subjects s on s.id = p.subject_id and s.slug in ('physical-health-education')
+from public.topics p join public.subjects s on s.id = p.subject_id and s.slug in ('physical-and-health-education')
 join public.topics t on t.parent_topic_id = p.id left join public.notes n on n.topic_id = t.id
 where p.grade = 5 and p.parent_topic_id is null group by s.name, p.name, p.position order by s.name, p.position;

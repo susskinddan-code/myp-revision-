@@ -1,0 +1,67 @@
+[
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "format": "structured-mock",
+  "title": "Standard Mathematics MYP 5 eAssessment Structure Mock (8 tasks, 70 marks)",
+  "criterion": null,
+  "questions": [
+   {
+    "position": 1,
+    "marks": 7,
+    "criterion": "A",
+    "content": "[[Q 1 | A 5 | C 2]]\nA grain silo is a cylinder of radius 4 m and height 10 m with a hemisphere of radius 4 m fixed on top. Diagram not to scale. (The volume of a sphere is 4/3 × π × r³.)\n(a) Determine the volume of the cylinder, in terms of π. (2 marks)\n(b) Determine the volume of the hemisphere, in terms of π. (2 marks)\n(c) Find the total volume of the silo, giving your answer correct to 3 significant figures and showing your working clearly. (3 marks)\n\nTotal for Question 1: 7 marks",
+    "mark_scheme": "(a) V = π × 4² × 10 [1] = 160π [1]. (b) V = 1/2 × 4/3 × π × 4³ [1] = 128π/3 [1]. (c) Total = 160π + 128π/3 = 608π/3 [1]; = 636.7... [1]; = 637 m³ (3 s.f.) with units and clear working (communication) [1]."
+   },
+   {
+    "position": 2,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 2 | A 6 | C 2]]\nIn each part, O is the centre of the circle. Diagrams are not to scale.\n(a) A, B and C lie on the circumference. Angle ACB = 48°. Find angle AOB, where O is the centre. (2 marks)\n(b) PA is a tangent to the circle at A. Angle AOP = 65°. Determine angle APO. (2 marks)\n(c) TA and TB are tangents from T to the circle. Angle ATB = 64°. Find the reflex angle AOB. (3 marks)\n(d) ABCD is a cyclic quadrilateral. Angle ABC = 112°. Find angle ADC and state the circle theorem you used. (1 mark)\n\nTotal for Question 2: 8 marks",
+    "mark_scheme": "(a) Angle at the centre is twice the angle at the circumference: 96° [2]. (b) Radius meets tangent at 90°; angle APO = 180 - 90 - 65 [1] = 25° [1]. (c) Angles OAT and OBT are 90° [1]; angle AOB = 360 - 90 - 90 - 64 = 116° [1]; reflex = 244° [1]. (d) 68°, because opposite angles of a cyclic quadrilateral add to 180° [1]."
+   },
+   {
+    "position": 3,
+    "marks": 11,
+    "criterion": "B",
+    "content": "[[Q 3 | B 8 | C 3]]\nMatchsticks are used to build a row of squares. Stage 1 is one square (4 matchsticks). Stage 2 is two squares joined side by side (7 matchsticks). Stage 3 is three squares in a row (10 matchsticks). Let n be the stage number and S the number of matchsticks.\n(a) Write down the missing values for stages 4 and 5 in a table with columns n and S (n = 1, 2, 3 given as 4, 7, 10). (2 marks)\n(b) Describe in words the pattern for S as n increases. (1 mark)\n(c) Write down a general rule for S in terms of n. (2 marks)\n(d) Verify your rule for n = 6 by working out S from the pattern. (2 marks)\n(e) Justify why your rule works for every stage. (2 marks)\n(f) Which stage uses exactly 100 matchsticks? (2 marks)\n\nTotal for Question 3: 11 marks",
+    "mark_scheme": "(a) n=4: 13 [1]; n=5: 16 [1]. (b) The number of matchsticks increases by 3 each stage [1]. (c) S = 3n + 1 [2] (award 1 for 3n only). (d) Pattern: 4, 7, 10, 13, 16, 19 so S = 19 [1]; rule gives 3(6) + 1 = 19, so it agrees [1]. (e) The first square needs 4 matchsticks and every extra square needs 3 more (it shares one side) [1], so S = 4 + 3(n - 1) = 3n + 1 [1]. (f) 3n + 1 = 100 [1]; n = 33 [1]."
+   },
+   {
+    "position": 4,
+    "marks": 10,
+    "criterion": "D",
+    "content": "[[Q 4 | D 7 | C 3]]\nA phone company offers two monthly plans. Plan A costs £8 plus £1.50 for each gigabyte (GB) of data used. Plan B costs a fixed £20 for unlimited data. Let g be the number of GB used in a month.\n(a) Write down an expression for the monthly cost of Plan A. (1 mark)\n(b) Determine the cost of Plan A when g = 6. (1 mark)\n(c) Find the value of g for which both plans cost the same. (2 marks)\n(d) Solve an inequality to find when Plan A is cheaper than Plan B. (2 marks)\n(e) Sam uses 10 GB each month. Calculate how much cheaper Plan B is than Plan A for Sam. (2 marks)\n(f) Explain which plan you would recommend to someone who uses about 5 GB, with a reason. (2 marks)\n\nTotal for Question 4: 10 marks",
+    "mark_scheme": "(a) 8 + 1.5g [1]. (b) 8 + 9 = £17 [1]. (c) 8 + 1.5g = 20 [1]; g = 8 [1]. (d) 8 + 1.5g < 20 [1]; g < 8 [1]. (e) Plan A: 8 + 15 = £23 [1]; Plan B is £3 cheaper [1]. (f) Plan A [1], because at 5 GB it costs £15.50, which is less than £20 [1]."
+   },
+   {
+    "position": 5,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 5 | A 6 | C 2]]\nThe table shows the times, t minutes, taken by 40 runners to finish a 5 km race.\nTime: 20 ≤ t < 25 has 4 runners; 25 ≤ t < 30 has 9; 30 ≤ t < 35 has k; 35 ≤ t < 40 has 11; 40 ≤ t < 45 has 6.\n(a) Find the value of k. (2 marks)\n(b) Calculate an estimate of the mean time, showing your working. (3 marks)\n(c) Write down the class that contains the median. (1 mark)\n(d) A runner is chosen at random. Find the probability that the runner took less than 30 minutes. (2 marks)\n\nTotal for Question 5: 8 marks",
+    "mark_scheme": "(a) 4 + 9 + k + 11 + 6 = 40 [1]; k = 10 [1]. (b) Midpoints 22.5, 27.5, 32.5, 37.5, 42.5 [1]; sum of frequency x midpoint = 1330 [1]; mean = 1330 / 40 = 33.25 minutes [1]. (c) 30 ≤ t < 35 [1]. (d) 13 / 40 [2] (award 1 for 13 runners identified)."
+   },
+   {
+    "position": 6,
+    "marks": 10,
+    "criterion": "D",
+    "content": "[[Q 6 | D 8 | C 2]]\nMia invests £2000. Account X pays 4% simple interest per year. Account Y pays 3.5% compound interest per year. Interest is added once a year.\n(a) Calculate the value of Account X after 8 years. (2 marks)\n(b) Write down the formula for the value of Account Y after t years and find its value after 10 years, to the nearest penny. (3 marks)\n(c) After 5 years, find how much more Account X is worth than Account Y. (3 marks)\n(d) Explain which account is better for a long-term investment and why. (2 marks)\n\nTotal for Question 6: 10 marks",
+    "mark_scheme": "(a) 4% of 2000 = £80 per year [1]; 2000 + 8 x 80 = £2640 [1]. (b) V = 2000 x 1.035^t [1]; 2000 x 1.035^10 [1] = £2821.20 [1]. (c) X: £2400 [1]; Y: 2000 x 1.035^5 = £2375.37 [1]; difference £24.63 [1]. (d) Account Y [1], because compound interest is earned on previous interest so it grows faster and overtakes simple interest after 9 years (at 10 years Y is £2821.20 against £2800) [1]."
+   },
+   {
+    "position": 7,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 7 | A 5 | D 3]]\nA ship leaves port P and sails 12 km on a bearing of 040° to point Q. It then sails 9 km on a bearing of 130° to point R. Angle PQR is 90°. Diagram not to scale.\n(a) Calculate the distance PR. (2 marks)\n(b) Calculate angle QPR, to 1 decimal place. (2 marks)\n(c) Find the bearing of R from P, to the nearest degree. (2 marks)\n(d) Find the bearing of P from R. (2 marks)\n\nTotal for Question 7: 8 marks",
+    "mark_scheme": "(a) PR² = 12² + 9² = 225 [1]; PR = 15 km [1]. (b) tan(QPR) = 9/12 [1]; QPR = 36.9° [1]. (c) 40 + 36.9 = 76.9 [1]; bearing 077° [1]. (d) Back bearing = 76.9 + 180 [1] = 257° [1]."
+   },
+   {
+    "position": 8,
+    "marks": 8,
+    "criterion": "D",
+    "content": "[[Q 8 | D 4 | A 2 | C 2]]\nA garden sprinkler waters a sector of a circle of radius 8 m with an angle of 150° at the centre. Diagram not to scale.\n(a) Find the area watered, in terms of π and then to 1 decimal place. (3 marks)\n(b) Find the length of the curved edge of the watered region, to 1 decimal place. (3 marks)\n(c) A low fence is placed along the curved edge and costs £6.50 per metre. Calculate the cost, to the nearest penny. (2 marks)\n\nTotal for Question 8: 8 marks",
+    "mark_scheme": "(a) 150/360 x π x 8² [1] = 80π/3 [1] = 83.8 m² [1]. (b) 150/360 x 2 x π x 8 [1] = 20π/3 [1] = 20.9 m [1]. (c) 20.944 x 6.50 [1] = £136.14 [1]."
+   }
+  ]
+ }
+]

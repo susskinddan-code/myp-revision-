@@ -1,6 +1,6 @@
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Clock, Lightbulb } from "lucide-react";
 import {
   fetchAllTopics,
@@ -318,6 +318,29 @@ function TimedPapers({
   );
 }
 
+function MixedClock({ seconds, stopped }: { seconds: number; stopped: boolean }) {
+  const [left, setLeft] = useState(seconds);
+  useEffect(() => {
+    if (stopped) return;
+    const id = setInterval(() => setLeft((l) => Math.max(0, l - 1)), 1000);
+    return () => clearInterval(id);
+  }, [stopped]);
+  const m = Math.floor(left / 60);
+  const sec = String(left % 60).padStart(2, "0");
+  return (
+    <div
+      className={`mb-3 flex items-center justify-between rounded-lg border px-4 py-2 text-sm ${
+        left === 0 ? "border-destructive text-destructive" : "border-border bg-card"
+      }`}
+    >
+      <span>{left === 0 ? "Time is up. Finish the question you are on." : "Time remaining"}</span>
+      <span className="font-mono text-base tabular-nums">
+        {m}:{sec}
+      </span>
+    </div>
+  );
+}
+
 function MixedTest({ subjectId, subjectName }: { subjectId: string; subjectName: string }) {
   const [count, setCount] = useState<number | null>(null);
   const [run, setRun] = useState(0);
@@ -353,6 +376,7 @@ function MixedTest({ subjectId, subjectName }: { subjectId: string; subjectName:
   const both = result ? describeResult(result.score / result.total) : null;
   return (
     <div>
+      <MixedClock key={`${count}-${run}`} seconds={questions.length * 75} stopped={!!result} />
       <QuestionRunner
         key={`${count}-${run}`}
         questions={questions}

@@ -3,17 +3,17 @@ begin;
 
 -- Health and Wellbeing > Nutrition and Hydration
 insert into public.topics (subject_id, name, grade, position)
-select s.id, $mq$Health and Wellbeing$mq$, 5, 3 from public.subjects s where s.slug = $mq$physical-health-education$mq$
+select s.id, $mq$Health and Wellbeing$mq$, 5, 3 from public.subjects s where s.slug = $mq$physical-and-health-education$mq$
 on conflict (subject_id, name, grade) do nothing;
 insert into public.topics (subject_id, name, grade, parent_topic_id, position)
 select p.subject_id, $mq$Nutrition and Hydration$mq$, 5, p.id, 1
 from public.topics p join public.subjects s on s.id = p.subject_id
-where s.slug = $mq$physical-health-education$mq$ and p.grade = 5 and p.name = $mq$Health and Wellbeing$mq$ and p.parent_topic_id is null
+where s.slug = $mq$physical-and-health-education$mq$ and p.grade = 5 and p.name = $mq$Health and Wellbeing$mq$ and p.parent_topic_id is null
 on conflict (subject_id, name, grade) do nothing;
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Nutrition and Hydration$mq$ and p.name = $mq$Health and Wellbeing$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Nutrition and Hydration$mq$ and p.name = $mq$Health and Wellbeing$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.questions (subject_id, topic_id, grade, type, content, options, answer, explanation, difficulty)
 select st.subject_id, st.topic_id, 5, 'MCQ', v.content, v.options::jsonb, v.answer, v.explanation, v.difficulty
@@ -40,7 +40,7 @@ from st, (values
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Nutrition and Hydration$mq$ and p.name = $mq$Health and Wellbeing$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Nutrition and Hydration$mq$ and p.name = $mq$Health and Wellbeing$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.flashcards (subject_id, topic_id, grade, front, back)
 select st.subject_id, st.topic_id, 5, v.front, v.back
@@ -58,7 +58,7 @@ from st, (values
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Nutrition and Hydration$mq$ and p.name = $mq$Health and Wellbeing$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Nutrition and Hydration$mq$ and p.name = $mq$Health and Wellbeing$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.notes (topic_id, content) select st.topic_id, $mq$Nutrition is about giving your body the fuel and materials it needs to grow, move, think and recover. Good nutrition and hydration support performance, health and mood.
 
@@ -99,17 +99,17 @@ Exam tip: When asked to evaluate a diet or drinking plan, name the nutrient or f
 
 -- Health and Wellbeing > Physical, Social and Mental Wellbeing
 insert into public.topics (subject_id, name, grade, position)
-select s.id, $mq$Health and Wellbeing$mq$, 5, 3 from public.subjects s where s.slug = $mq$physical-health-education$mq$
+select s.id, $mq$Health and Wellbeing$mq$, 5, 3 from public.subjects s where s.slug = $mq$physical-and-health-education$mq$
 on conflict (subject_id, name, grade) do nothing;
 insert into public.topics (subject_id, name, grade, parent_topic_id, position)
 select p.subject_id, $mq$Physical, Social and Mental Wellbeing$mq$, 5, p.id, 2
 from public.topics p join public.subjects s on s.id = p.subject_id
-where s.slug = $mq$physical-health-education$mq$ and p.grade = 5 and p.name = $mq$Health and Wellbeing$mq$ and p.parent_topic_id is null
+where s.slug = $mq$physical-and-health-education$mq$ and p.grade = 5 and p.name = $mq$Health and Wellbeing$mq$ and p.parent_topic_id is null
 on conflict (subject_id, name, grade) do nothing;
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Physical, Social and Mental Wellbeing$mq$ and p.name = $mq$Health and Wellbeing$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Physical, Social and Mental Wellbeing$mq$ and p.name = $mq$Health and Wellbeing$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.questions (subject_id, topic_id, grade, type, content, options, answer, explanation, difficulty)
 select st.subject_id, st.topic_id, 5, 'MCQ', v.content, v.options::jsonb, v.answer, v.explanation, v.difficulty
@@ -136,7 +136,7 @@ from st, (values
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Physical, Social and Mental Wellbeing$mq$ and p.name = $mq$Health and Wellbeing$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Physical, Social and Mental Wellbeing$mq$ and p.name = $mq$Health and Wellbeing$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.flashcards (subject_id, topic_id, grade, front, back)
 select st.subject_id, st.topic_id, 5, v.front, v.back
@@ -154,7 +154,7 @@ from st, (values
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Physical, Social and Mental Wellbeing$mq$ and p.name = $mq$Health and Wellbeing$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Physical, Social and Mental Wellbeing$mq$ and p.name = $mq$Health and Wellbeing$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.notes (topic_id, content) select st.topic_id, $mq$Wellbeing means how well you are in your whole life, not just whether you are ill. In PHE we study three linked parts: physical, social and mental (including emotional) wellbeing. The World Health Organization describes health as a state of physical, mental and social wellbeing, not merely the absence of disease.
 
@@ -192,17 +192,17 @@ Exam tip: When a question mentions a person's feelings, friends and activity, co
 
 -- Health and Wellbeing > Sleep, Stress and Lifestyle
 insert into public.topics (subject_id, name, grade, position)
-select s.id, $mq$Health and Wellbeing$mq$, 5, 3 from public.subjects s where s.slug = $mq$physical-health-education$mq$
+select s.id, $mq$Health and Wellbeing$mq$, 5, 3 from public.subjects s where s.slug = $mq$physical-and-health-education$mq$
 on conflict (subject_id, name, grade) do nothing;
 insert into public.topics (subject_id, name, grade, parent_topic_id, position)
 select p.subject_id, $mq$Sleep, Stress and Lifestyle$mq$, 5, p.id, 3
 from public.topics p join public.subjects s on s.id = p.subject_id
-where s.slug = $mq$physical-health-education$mq$ and p.grade = 5 and p.name = $mq$Health and Wellbeing$mq$ and p.parent_topic_id is null
+where s.slug = $mq$physical-and-health-education$mq$ and p.grade = 5 and p.name = $mq$Health and Wellbeing$mq$ and p.parent_topic_id is null
 on conflict (subject_id, name, grade) do nothing;
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Sleep, Stress and Lifestyle$mq$ and p.name = $mq$Health and Wellbeing$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Sleep, Stress and Lifestyle$mq$ and p.name = $mq$Health and Wellbeing$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.questions (subject_id, topic_id, grade, type, content, options, answer, explanation, difficulty)
 select st.subject_id, st.topic_id, 5, 'MCQ', v.content, v.options::jsonb, v.answer, v.explanation, v.difficulty
@@ -229,7 +229,7 @@ from st, (values
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Sleep, Stress and Lifestyle$mq$ and p.name = $mq$Health and Wellbeing$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Sleep, Stress and Lifestyle$mq$ and p.name = $mq$Health and Wellbeing$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.flashcards (subject_id, topic_id, grade, front, back)
 select st.subject_id, st.topic_id, 5, v.front, v.back
@@ -247,7 +247,7 @@ from st, (values
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Sleep, Stress and Lifestyle$mq$ and p.name = $mq$Health and Wellbeing$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Sleep, Stress and Lifestyle$mq$ and p.name = $mq$Health and Wellbeing$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.notes (topic_id, content) select st.topic_id, $mq$Your lifestyle is the pattern of everyday habits you follow: sleeping, eating, moving, relaxing and how you deal with pressure. These habits add up over time and affect your fitness, mood, learning and long-term health.
 

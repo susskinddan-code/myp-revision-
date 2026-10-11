@@ -3,17 +3,17 @@ begin;
 
 -- Skills and Strategy > Movement Skills and Technique
 insert into public.topics (subject_id, name, grade, position)
-select s.id, $mq$Skills and Strategy$mq$, 5, 4 from public.subjects s where s.slug = $mq$physical-health-education$mq$
+select s.id, $mq$Skills and Strategy$mq$, 5, 4 from public.subjects s where s.slug = $mq$physical-and-health-education$mq$
 on conflict (subject_id, name, grade) do nothing;
 insert into public.topics (subject_id, name, grade, parent_topic_id, position)
 select p.subject_id, $mq$Movement Skills and Technique$mq$, 5, p.id, 1
 from public.topics p join public.subjects s on s.id = p.subject_id
-where s.slug = $mq$physical-health-education$mq$ and p.grade = 5 and p.name = $mq$Skills and Strategy$mq$ and p.parent_topic_id is null
+where s.slug = $mq$physical-and-health-education$mq$ and p.grade = 5 and p.name = $mq$Skills and Strategy$mq$ and p.parent_topic_id is null
 on conflict (subject_id, name, grade) do nothing;
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Movement Skills and Technique$mq$ and p.name = $mq$Skills and Strategy$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Movement Skills and Technique$mq$ and p.name = $mq$Skills and Strategy$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.questions (subject_id, topic_id, grade, type, content, options, answer, explanation, difficulty)
 select st.subject_id, st.topic_id, 5, 'MCQ', v.content, v.options::jsonb, v.answer, v.explanation, v.difficulty
@@ -40,7 +40,7 @@ from st, (values
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Movement Skills and Technique$mq$ and p.name = $mq$Skills and Strategy$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Movement Skills and Technique$mq$ and p.name = $mq$Skills and Strategy$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.flashcards (subject_id, topic_id, grade, front, back)
 select st.subject_id, st.topic_id, 5, v.front, v.back
@@ -58,7 +58,7 @@ from st, (values
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Movement Skills and Technique$mq$ and p.name = $mq$Skills and Strategy$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Movement Skills and Technique$mq$ and p.name = $mq$Skills and Strategy$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.notes (topic_id, content) select st.topic_id, $mq$A movement skill is a learned action performed with control and purpose, such as throwing, dribbling, swimming a stroke or landing from a jump. Technique is the way you carry out the skill. Good technique makes movement efficient, accurate and safer.
 
@@ -105,17 +105,17 @@ Exam tip: When analysing technique, name the phase (preparation, execution or fo
 
 -- Skills and Strategy > Tactics and Game Strategy
 insert into public.topics (subject_id, name, grade, position)
-select s.id, $mq$Skills and Strategy$mq$, 5, 4 from public.subjects s where s.slug = $mq$physical-health-education$mq$
+select s.id, $mq$Skills and Strategy$mq$, 5, 4 from public.subjects s where s.slug = $mq$physical-and-health-education$mq$
 on conflict (subject_id, name, grade) do nothing;
 insert into public.topics (subject_id, name, grade, parent_topic_id, position)
 select p.subject_id, $mq$Tactics and Game Strategy$mq$, 5, p.id, 2
 from public.topics p join public.subjects s on s.id = p.subject_id
-where s.slug = $mq$physical-health-education$mq$ and p.grade = 5 and p.name = $mq$Skills and Strategy$mq$ and p.parent_topic_id is null
+where s.slug = $mq$physical-and-health-education$mq$ and p.grade = 5 and p.name = $mq$Skills and Strategy$mq$ and p.parent_topic_id is null
 on conflict (subject_id, name, grade) do nothing;
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Tactics and Game Strategy$mq$ and p.name = $mq$Skills and Strategy$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Tactics and Game Strategy$mq$ and p.name = $mq$Skills and Strategy$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.questions (subject_id, topic_id, grade, type, content, options, answer, explanation, difficulty)
 select st.subject_id, st.topic_id, 5, 'MCQ', v.content, v.options::jsonb, v.answer, v.explanation, v.difficulty
@@ -142,7 +142,7 @@ from st, (values
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Tactics and Game Strategy$mq$ and p.name = $mq$Skills and Strategy$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Tactics and Game Strategy$mq$ and p.name = $mq$Skills and Strategy$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.flashcards (subject_id, topic_id, grade, front, back)
 select st.subject_id, st.topic_id, 5, v.front, v.back
@@ -160,7 +160,7 @@ from st, (values
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Tactics and Game Strategy$mq$ and p.name = $mq$Skills and Strategy$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Tactics and Game Strategy$mq$ and p.name = $mq$Skills and Strategy$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.notes (topic_id, content) select st.topic_id, $mq$Tactics are the plans and decisions a team or player uses to gain an advantage. Strategy is the larger plan for a whole game or season. Skills tell you what you can do; tactics decide when and where you do it.
 
@@ -202,17 +202,17 @@ Exam tip: Name the principle (width, support, marking, tempo), link it to the si
 
 -- Skills and Strategy > Leadership and Fair Play
 insert into public.topics (subject_id, name, grade, position)
-select s.id, $mq$Skills and Strategy$mq$, 5, 4 from public.subjects s where s.slug = $mq$physical-health-education$mq$
+select s.id, $mq$Skills and Strategy$mq$, 5, 4 from public.subjects s where s.slug = $mq$physical-and-health-education$mq$
 on conflict (subject_id, name, grade) do nothing;
 insert into public.topics (subject_id, name, grade, parent_topic_id, position)
 select p.subject_id, $mq$Leadership and Fair Play$mq$, 5, p.id, 3
 from public.topics p join public.subjects s on s.id = p.subject_id
-where s.slug = $mq$physical-health-education$mq$ and p.grade = 5 and p.name = $mq$Skills and Strategy$mq$ and p.parent_topic_id is null
+where s.slug = $mq$physical-and-health-education$mq$ and p.grade = 5 and p.name = $mq$Skills and Strategy$mq$ and p.parent_topic_id is null
 on conflict (subject_id, name, grade) do nothing;
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Leadership and Fair Play$mq$ and p.name = $mq$Skills and Strategy$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Leadership and Fair Play$mq$ and p.name = $mq$Skills and Strategy$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.questions (subject_id, topic_id, grade, type, content, options, answer, explanation, difficulty)
 select st.subject_id, st.topic_id, 5, 'MCQ', v.content, v.options::jsonb, v.answer, v.explanation, v.difficulty
@@ -239,7 +239,7 @@ from st, (values
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Leadership and Fair Play$mq$ and p.name = $mq$Skills and Strategy$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Leadership and Fair Play$mq$ and p.name = $mq$Skills and Strategy$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.flashcards (subject_id, topic_id, grade, front, back)
 select st.subject_id, st.topic_id, 5, v.front, v.back
@@ -257,7 +257,7 @@ from st, (values
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Leadership and Fair Play$mq$ and p.name = $mq$Skills and Strategy$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Leadership and Fair Play$mq$ and p.name = $mq$Skills and Strategy$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.notes (topic_id, content) select st.topic_id, $mq$Sport is more than winning. Leadership and fair play are about how we behave, treat others and help groups succeed. They are central to PHE because they show the values behind taking part.
 

@@ -3,17 +3,17 @@ begin;
 
 -- Planning and Reflecting > Setting and Reviewing Goals
 insert into public.topics (subject_id, name, grade, position)
-select s.id, $mq$Planning and Reflecting$mq$, 5, 5 from public.subjects s where s.slug = $mq$physical-health-education$mq$
+select s.id, $mq$Planning and Reflecting$mq$, 5, 5 from public.subjects s where s.slug = $mq$physical-and-health-education$mq$
 on conflict (subject_id, name, grade) do nothing;
 insert into public.topics (subject_id, name, grade, parent_topic_id, position)
 select p.subject_id, $mq$Setting and Reviewing Goals$mq$, 5, p.id, 1
 from public.topics p join public.subjects s on s.id = p.subject_id
-where s.slug = $mq$physical-health-education$mq$ and p.grade = 5 and p.name = $mq$Planning and Reflecting$mq$ and p.parent_topic_id is null
+where s.slug = $mq$physical-and-health-education$mq$ and p.grade = 5 and p.name = $mq$Planning and Reflecting$mq$ and p.parent_topic_id is null
 on conflict (subject_id, name, grade) do nothing;
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Setting and Reviewing Goals$mq$ and p.name = $mq$Planning and Reflecting$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Setting and Reviewing Goals$mq$ and p.name = $mq$Planning and Reflecting$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.questions (subject_id, topic_id, grade, type, content, options, answer, explanation, difficulty)
 select st.subject_id, st.topic_id, 5, 'MCQ', v.content, v.options::jsonb, v.answer, v.explanation, v.difficulty
@@ -40,7 +40,7 @@ from st, (values
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Setting and Reviewing Goals$mq$ and p.name = $mq$Planning and Reflecting$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Setting and Reviewing Goals$mq$ and p.name = $mq$Planning and Reflecting$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.flashcards (subject_id, topic_id, grade, front, back)
 select st.subject_id, st.topic_id, 5, v.front, v.back
@@ -58,7 +58,7 @@ from st, (values
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Setting and Reviewing Goals$mq$ and p.name = $mq$Planning and Reflecting$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Setting and Reviewing Goals$mq$ and p.name = $mq$Planning and Reflecting$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.notes (topic_id, content) select st.topic_id, $mq$A goal is something you want to achieve. Setting goals gives your training direction and motivation, and reviewing them shows whether your plan is working. Good PHE planning always links goals, actions and evidence.
 
@@ -109,17 +109,17 @@ Exam tip: Quote the numbers from the data in your review and always end with a s
 
 -- Planning and Reflecting > Analysing Performance
 insert into public.topics (subject_id, name, grade, position)
-select s.id, $mq$Planning and Reflecting$mq$, 5, 5 from public.subjects s where s.slug = $mq$physical-health-education$mq$
+select s.id, $mq$Planning and Reflecting$mq$, 5, 5 from public.subjects s where s.slug = $mq$physical-and-health-education$mq$
 on conflict (subject_id, name, grade) do nothing;
 insert into public.topics (subject_id, name, grade, parent_topic_id, position)
 select p.subject_id, $mq$Analysing Performance$mq$, 5, p.id, 2
 from public.topics p join public.subjects s on s.id = p.subject_id
-where s.slug = $mq$physical-health-education$mq$ and p.grade = 5 and p.name = $mq$Planning and Reflecting$mq$ and p.parent_topic_id is null
+where s.slug = $mq$physical-and-health-education$mq$ and p.grade = 5 and p.name = $mq$Planning and Reflecting$mq$ and p.parent_topic_id is null
 on conflict (subject_id, name, grade) do nothing;
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Analysing Performance$mq$ and p.name = $mq$Planning and Reflecting$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Analysing Performance$mq$ and p.name = $mq$Planning and Reflecting$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.questions (subject_id, topic_id, grade, type, content, options, answer, explanation, difficulty)
 select st.subject_id, st.topic_id, 5, 'MCQ', v.content, v.options::jsonb, v.answer, v.explanation, v.difficulty
@@ -146,7 +146,7 @@ from st, (values
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Analysing Performance$mq$ and p.name = $mq$Planning and Reflecting$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Analysing Performance$mq$ and p.name = $mq$Planning and Reflecting$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.flashcards (subject_id, topic_id, grade, front, back)
 select st.subject_id, st.topic_id, 5, v.front, v.back
@@ -164,7 +164,7 @@ from st, (values
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Analysing Performance$mq$ and p.name = $mq$Planning and Reflecting$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Analysing Performance$mq$ and p.name = $mq$Planning and Reflecting$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.notes (topic_id, content) select st.topic_id, $mq$Analysing performance means collecting information about how you or others performed, working out what went well and what needs improving, and using the results to plan the next steps. In the PHE criteria this links strongly to reflecting and improving performance.
 
@@ -209,17 +209,17 @@ Exam tip: Quote at least one number from the data, state what it shows, give a l
 
 -- Planning and Reflecting > Using the PHE Criteria
 insert into public.topics (subject_id, name, grade, position)
-select s.id, $mq$Planning and Reflecting$mq$, 5, 5 from public.subjects s where s.slug = $mq$physical-health-education$mq$
+select s.id, $mq$Planning and Reflecting$mq$, 5, 5 from public.subjects s where s.slug = $mq$physical-and-health-education$mq$
 on conflict (subject_id, name, grade) do nothing;
 insert into public.topics (subject_id, name, grade, parent_topic_id, position)
 select p.subject_id, $mq$Using the PHE Criteria$mq$, 5, p.id, 3
 from public.topics p join public.subjects s on s.id = p.subject_id
-where s.slug = $mq$physical-health-education$mq$ and p.grade = 5 and p.name = $mq$Planning and Reflecting$mq$ and p.parent_topic_id is null
+where s.slug = $mq$physical-and-health-education$mq$ and p.grade = 5 and p.name = $mq$Planning and Reflecting$mq$ and p.parent_topic_id is null
 on conflict (subject_id, name, grade) do nothing;
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Using the PHE Criteria$mq$ and p.name = $mq$Planning and Reflecting$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Using the PHE Criteria$mq$ and p.name = $mq$Planning and Reflecting$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.questions (subject_id, topic_id, grade, type, content, options, answer, explanation, difficulty)
 select st.subject_id, st.topic_id, 5, 'MCQ', v.content, v.options::jsonb, v.answer, v.explanation, v.difficulty
@@ -246,7 +246,7 @@ from st, (values
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Using the PHE Criteria$mq$ and p.name = $mq$Planning and Reflecting$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Using the PHE Criteria$mq$ and p.name = $mq$Planning and Reflecting$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.flashcards (subject_id, topic_id, grade, front, back)
 select st.subject_id, st.topic_id, 5, v.front, v.back
@@ -264,7 +264,7 @@ from st, (values
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Using the PHE Criteria$mq$ and p.name = $mq$Planning and Reflecting$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Using the PHE Criteria$mq$ and p.name = $mq$Planning and Reflecting$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.notes (topic_id, content) select st.topic_id, $mq$In MYP Physical and Health Education (PHE) your work is assessed against four criteria. Knowing how they work helps you plan your answers and understand what examiners look for. Each criterion is marked on achievement Levels 1-8.
 

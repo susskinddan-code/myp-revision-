@@ -3,17 +3,17 @@ begin;
 
 -- Body Systems > Muscular and Skeletal Systems
 insert into public.topics (subject_id, name, grade, position)
-select s.id, $mq$Body Systems$mq$, 5, 2 from public.subjects s where s.slug = $mq$physical-health-education$mq$
+select s.id, $mq$Body Systems$mq$, 5, 2 from public.subjects s where s.slug = $mq$physical-and-health-education$mq$
 on conflict (subject_id, name, grade) do nothing;
 insert into public.topics (subject_id, name, grade, parent_topic_id, position)
 select p.subject_id, $mq$Muscular and Skeletal Systems$mq$, 5, p.id, 1
 from public.topics p join public.subjects s on s.id = p.subject_id
-where s.slug = $mq$physical-health-education$mq$ and p.grade = 5 and p.name = $mq$Body Systems$mq$ and p.parent_topic_id is null
+where s.slug = $mq$physical-and-health-education$mq$ and p.grade = 5 and p.name = $mq$Body Systems$mq$ and p.parent_topic_id is null
 on conflict (subject_id, name, grade) do nothing;
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Muscular and Skeletal Systems$mq$ and p.name = $mq$Body Systems$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Muscular and Skeletal Systems$mq$ and p.name = $mq$Body Systems$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.questions (subject_id, topic_id, grade, type, content, options, answer, explanation, difficulty)
 select st.subject_id, st.topic_id, 5, 'MCQ', v.content, v.options::jsonb, v.answer, v.explanation, v.difficulty
@@ -40,7 +40,7 @@ from st, (values
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Muscular and Skeletal Systems$mq$ and p.name = $mq$Body Systems$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Muscular and Skeletal Systems$mq$ and p.name = $mq$Body Systems$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.flashcards (subject_id, topic_id, grade, front, back)
 select st.subject_id, st.topic_id, 5, v.front, v.back
@@ -58,7 +58,7 @@ from st, (values
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Muscular and Skeletal Systems$mq$ and p.name = $mq$Body Systems$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Muscular and Skeletal Systems$mq$ and p.name = $mq$Body Systems$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.notes (topic_id, content) select st.topic_id, $mq$## The skeletal system
 The skeleton has about 206 bones in an adult. It gives the body shape and has five main jobs:
@@ -117,17 +117,17 @@ Exam tip: for any movement, write three things: the joint, the movement (flexion
 
 -- Body Systems > Heart, Lungs and Circulation
 insert into public.topics (subject_id, name, grade, position)
-select s.id, $mq$Body Systems$mq$, 5, 2 from public.subjects s where s.slug = $mq$physical-health-education$mq$
+select s.id, $mq$Body Systems$mq$, 5, 2 from public.subjects s where s.slug = $mq$physical-and-health-education$mq$
 on conflict (subject_id, name, grade) do nothing;
 insert into public.topics (subject_id, name, grade, parent_topic_id, position)
 select p.subject_id, $mq$Heart, Lungs and Circulation$mq$, 5, p.id, 2
 from public.topics p join public.subjects s on s.id = p.subject_id
-where s.slug = $mq$physical-health-education$mq$ and p.grade = 5 and p.name = $mq$Body Systems$mq$ and p.parent_topic_id is null
+where s.slug = $mq$physical-and-health-education$mq$ and p.grade = 5 and p.name = $mq$Body Systems$mq$ and p.parent_topic_id is null
 on conflict (subject_id, name, grade) do nothing;
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Heart, Lungs and Circulation$mq$ and p.name = $mq$Body Systems$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Heart, Lungs and Circulation$mq$ and p.name = $mq$Body Systems$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.questions (subject_id, topic_id, grade, type, content, options, answer, explanation, difficulty)
 select st.subject_id, st.topic_id, 5, 'MCQ', v.content, v.options::jsonb, v.answer, v.explanation, v.difficulty
@@ -154,7 +154,7 @@ from st, (values
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Heart, Lungs and Circulation$mq$ and p.name = $mq$Body Systems$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Heart, Lungs and Circulation$mq$ and p.name = $mq$Body Systems$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.flashcards (subject_id, topic_id, grade, front, back)
 select st.subject_id, st.topic_id, 5, v.front, v.back
@@ -172,7 +172,7 @@ from st, (values
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Heart, Lungs and Circulation$mq$ and p.name = $mq$Body Systems$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Heart, Lungs and Circulation$mq$ and p.name = $mq$Body Systems$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.notes (topic_id, content) select st.topic_id, $mq$## The circulatory system
 The circulatory system transports oxygen, nutrients, hormones and waste around the body. It has three parts: the heart (the pump), the blood vessels (the pipes) and the blood (the transport fluid).
@@ -211,17 +211,17 @@ Exam tip: if asked to explain a change, give cause then effect then benefit: "He
 
 -- Body Systems > Injury Prevention and First Aid
 insert into public.topics (subject_id, name, grade, position)
-select s.id, $mq$Body Systems$mq$, 5, 2 from public.subjects s where s.slug = $mq$physical-health-education$mq$
+select s.id, $mq$Body Systems$mq$, 5, 2 from public.subjects s where s.slug = $mq$physical-and-health-education$mq$
 on conflict (subject_id, name, grade) do nothing;
 insert into public.topics (subject_id, name, grade, parent_topic_id, position)
 select p.subject_id, $mq$Injury Prevention and First Aid$mq$, 5, p.id, 3
 from public.topics p join public.subjects s on s.id = p.subject_id
-where s.slug = $mq$physical-health-education$mq$ and p.grade = 5 and p.name = $mq$Body Systems$mq$ and p.parent_topic_id is null
+where s.slug = $mq$physical-and-health-education$mq$ and p.grade = 5 and p.name = $mq$Body Systems$mq$ and p.parent_topic_id is null
 on conflict (subject_id, name, grade) do nothing;
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Injury Prevention and First Aid$mq$ and p.name = $mq$Body Systems$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Injury Prevention and First Aid$mq$ and p.name = $mq$Body Systems$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.questions (subject_id, topic_id, grade, type, content, options, answer, explanation, difficulty)
 select st.subject_id, st.topic_id, 5, 'MCQ', v.content, v.options::jsonb, v.answer, v.explanation, v.difficulty
@@ -248,7 +248,7 @@ from st, (values
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Injury Prevention and First Aid$mq$ and p.name = $mq$Body Systems$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Injury Prevention and First Aid$mq$ and p.name = $mq$Body Systems$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.flashcards (subject_id, topic_id, grade, front, back)
 select st.subject_id, st.topic_id, 5, v.front, v.back
@@ -266,7 +266,7 @@ from st, (values
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Injury Prevention and First Aid$mq$ and p.name = $mq$Body Systems$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Injury Prevention and First Aid$mq$ and p.name = $mq$Body Systems$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.notes (topic_id, content) select st.topic_id, $mq$## Why injuries happen
 Sport and exercise are good for you, but injuries can happen. Most are minor, yet some are serious. Understanding how injuries occur helps you prevent them and respond sensibly. Note that this lesson is education about safe practice, not medical advice. If someone is injured, always tell a teacher or responsible adult and follow their directions.

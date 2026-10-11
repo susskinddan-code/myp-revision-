@@ -3,17 +3,17 @@ begin;
 
 -- Movement and Fitness > Components of Fitness
 insert into public.topics (subject_id, name, grade, position)
-select s.id, $mq$Movement and Fitness$mq$, 5, 1 from public.subjects s where s.slug = $mq$physical-health-education$mq$
+select s.id, $mq$Movement and Fitness$mq$, 5, 1 from public.subjects s where s.slug = $mq$physical-and-health-education$mq$
 on conflict (subject_id, name, grade) do nothing;
 insert into public.topics (subject_id, name, grade, parent_topic_id, position)
 select p.subject_id, $mq$Components of Fitness$mq$, 5, p.id, 1
 from public.topics p join public.subjects s on s.id = p.subject_id
-where s.slug = $mq$physical-health-education$mq$ and p.grade = 5 and p.name = $mq$Movement and Fitness$mq$ and p.parent_topic_id is null
+where s.slug = $mq$physical-and-health-education$mq$ and p.grade = 5 and p.name = $mq$Movement and Fitness$mq$ and p.parent_topic_id is null
 on conflict (subject_id, name, grade) do nothing;
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Components of Fitness$mq$ and p.name = $mq$Movement and Fitness$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Components of Fitness$mq$ and p.name = $mq$Movement and Fitness$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.questions (subject_id, topic_id, grade, type, content, options, answer, explanation, difficulty)
 select st.subject_id, st.topic_id, 5, 'MCQ', v.content, v.options::jsonb, v.answer, v.explanation, v.difficulty
@@ -40,7 +40,7 @@ from st, (values
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Components of Fitness$mq$ and p.name = $mq$Movement and Fitness$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Components of Fitness$mq$ and p.name = $mq$Movement and Fitness$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.flashcards (subject_id, topic_id, grade, front, back)
 select st.subject_id, st.topic_id, 5, v.front, v.back
@@ -58,7 +58,7 @@ from st, (values
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Components of Fitness$mq$ and p.name = $mq$Movement and Fitness$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Components of Fitness$mq$ and p.name = $mq$Movement and Fitness$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.notes (topic_id, content) select st.topic_id, $mq$## What is fitness?
 Physical fitness is the ability to carry out daily tasks and take part in physical activity with energy and without becoming exhausted too quickly. In PHE we break fitness into components so that we can measure it, train it and talk about it clearly. There are two groups: health-related and skill-related components.
@@ -108,17 +108,17 @@ Exam tip: name the component exactly, link it to the activity or test in the que
 
 -- Movement and Fitness > Training Principles and Methods
 insert into public.topics (subject_id, name, grade, position)
-select s.id, $mq$Movement and Fitness$mq$, 5, 1 from public.subjects s where s.slug = $mq$physical-health-education$mq$
+select s.id, $mq$Movement and Fitness$mq$, 5, 1 from public.subjects s where s.slug = $mq$physical-and-health-education$mq$
 on conflict (subject_id, name, grade) do nothing;
 insert into public.topics (subject_id, name, grade, parent_topic_id, position)
 select p.subject_id, $mq$Training Principles and Methods$mq$, 5, p.id, 2
 from public.topics p join public.subjects s on s.id = p.subject_id
-where s.slug = $mq$physical-health-education$mq$ and p.grade = 5 and p.name = $mq$Movement and Fitness$mq$ and p.parent_topic_id is null
+where s.slug = $mq$physical-and-health-education$mq$ and p.grade = 5 and p.name = $mq$Movement and Fitness$mq$ and p.parent_topic_id is null
 on conflict (subject_id, name, grade) do nothing;
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Training Principles and Methods$mq$ and p.name = $mq$Movement and Fitness$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Training Principles and Methods$mq$ and p.name = $mq$Movement and Fitness$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.questions (subject_id, topic_id, grade, type, content, options, answer, explanation, difficulty)
 select st.subject_id, st.topic_id, 5, 'MCQ', v.content, v.options::jsonb, v.answer, v.explanation, v.difficulty
@@ -145,7 +145,7 @@ from st, (values
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Training Principles and Methods$mq$ and p.name = $mq$Movement and Fitness$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Training Principles and Methods$mq$ and p.name = $mq$Movement and Fitness$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.flashcards (subject_id, topic_id, grade, front, back)
 select st.subject_id, st.topic_id, 5, v.front, v.back
@@ -163,7 +163,7 @@ from st, (values
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Training Principles and Methods$mq$ and p.name = $mq$Movement and Fitness$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Training Principles and Methods$mq$ and p.name = $mq$Movement and Fitness$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.notes (topic_id, content) select st.topic_id, $mq$## Why training needs a plan
 Training is planned exercise that improves fitness or performance. Random exercise might help a little, but a clear plan lets you improve a specific component safely and measure the result. In PHE we use principles of training to design and evaluate programmes.
@@ -208,17 +208,17 @@ Exam tip: always justify. Write the method, the principle it follows and the rea
 
 -- Movement and Fitness > Warm-up, Cool-down and Safety
 insert into public.topics (subject_id, name, grade, position)
-select s.id, $mq$Movement and Fitness$mq$, 5, 1 from public.subjects s where s.slug = $mq$physical-health-education$mq$
+select s.id, $mq$Movement and Fitness$mq$, 5, 1 from public.subjects s where s.slug = $mq$physical-and-health-education$mq$
 on conflict (subject_id, name, grade) do nothing;
 insert into public.topics (subject_id, name, grade, parent_topic_id, position)
 select p.subject_id, $mq$Warm-up, Cool-down and Safety$mq$, 5, p.id, 3
 from public.topics p join public.subjects s on s.id = p.subject_id
-where s.slug = $mq$physical-health-education$mq$ and p.grade = 5 and p.name = $mq$Movement and Fitness$mq$ and p.parent_topic_id is null
+where s.slug = $mq$physical-and-health-education$mq$ and p.grade = 5 and p.name = $mq$Movement and Fitness$mq$ and p.parent_topic_id is null
 on conflict (subject_id, name, grade) do nothing;
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Warm-up, Cool-down and Safety$mq$ and p.name = $mq$Movement and Fitness$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Warm-up, Cool-down and Safety$mq$ and p.name = $mq$Movement and Fitness$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.questions (subject_id, topic_id, grade, type, content, options, answer, explanation, difficulty)
 select st.subject_id, st.topic_id, 5, 'MCQ', v.content, v.options::jsonb, v.answer, v.explanation, v.difficulty
@@ -245,7 +245,7 @@ from st, (values
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Warm-up, Cool-down and Safety$mq$ and p.name = $mq$Movement and Fitness$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Warm-up, Cool-down and Safety$mq$ and p.name = $mq$Movement and Fitness$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.flashcards (subject_id, topic_id, grade, front, back)
 select st.subject_id, st.topic_id, 5, v.front, v.back
@@ -263,7 +263,7 @@ from st, (values
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$physical-health-education$mq$ and t.grade = 5 and t.name = $mq$Warm-up, Cool-down and Safety$mq$ and p.name = $mq$Movement and Fitness$mq$
+    where s.slug = $mq$physical-and-health-education$mq$ and t.grade = 5 and t.name = $mq$Warm-up, Cool-down and Safety$mq$ and p.name = $mq$Movement and Fitness$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.notes (topic_id, content) select st.topic_id, $mq$## Why prepare and recover?
 Every PE lesson or training session should have three parts: a warm-up, the main activity and a cool-down. Planning the first and last parts protects you from injury, helps you perform better and helps you recover. Safety is also about the environment, equipment and rules, not only your body.

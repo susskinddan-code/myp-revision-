@@ -1,0 +1,67 @@
+[
+ {
+  "subject": "biology",
+  "grade": 5,
+  "format": "structured-mock",
+  "title": "Biology MYP 5 eAssessment Paper A (8 tasks, 70 marks)",
+  "criterion": null,
+  "questions": [
+   {
+    "position": 1,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 1 | A 8]]\nThe human digestive system is made of organs, which are made of tissues, which are made of cells.\n(a) Put these levels of organisation in order from smallest to largest: organ system, cell, organ, tissue. (2 marks)\n(b) The wall of the stomach contains muscle tissue, epithelial tissue and glandular tissue. State the function of the glandular tissue. (2 marks)\n(c) Most absorption of digested food happens in the small intestine. Name the part of the small intestine wall that increases the surface area for absorption and explain how the small intestine is adapted for efficient absorption. (4 marks)\n\nTotal for Question 1: 8 marks",
+    "mark_scheme": "(a) cell, tissue, organ, organ system [2]. Award 1 mark if only one neighbouring pair is swapped.\n(b) Glandular tissue makes (secretes) digestive juices [1], such as acid and enzymes (pepsin) / mucus [1].\n(c) Villi (accept microvilli) [1]. Villi/folds give a large surface area [1]; the wall is very thin (one cell thick) so the diffusion distance is short [1]; a dense network of capillaries carries absorbed food away, keeping a steep concentration gradient [1]. (Any three explained points after the name.)"
+   },
+   {
+    "position": 2,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 2 | A 8]]\nPlants and animals both use gases to transfer energy, but in opposite directions.\n(a) Write the word equation for photosynthesis. (2 marks)\n(b) Write the balanced symbol equation for aerobic respiration. (2 marks)\nA student measured the net exchange of carbon dioxide (CO2) by a leaf at different light intensities. A positive value means CO2 is released by the leaf and a negative value means CO2 is taken in.\nLight intensity (arbitrary units): 0, 20, 40, 60, 80\nNet CO2 exchange (units per minute): +3, +1, -1, -3, -5\n(c) The rate of respiration stays the same at every light intensity. Determine the light intensity at which the rate of photosynthesis equals the rate of respiration. (2 marks)\n(d) Calculate the total (gross) rate of CO2 uptake by photosynthesis at a light intensity of 80 units. (2 marks)\n\nTotal for Question 2: 8 marks",
+    "mark_scheme": "(a) carbon dioxide + water [1] -> glucose + oxygen [1] (light energy and chlorophyll may be shown above the arrow; accept reversed order of reactants).\n(b) C6H12O6 + 6O2 [1] -> 6CO2 + 6H2O [1] (formulae correct but unbalanced scores 1 only).\n(c) The net exchange is zero when photosynthesis and respiration cancel out [1]; the values change from +1 at 20 units to -1 at 40 units, so zero is at 30 units [1].\n(d) Respiration releases 3 units per minute (reading at 0 light) so photosynthesis must take in 5 + 3 [1] = 8 units per minute [1]."
+   },
+   {
+    "position": 3,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 3 | A 8]]\nPepsin is a protease found in the stomach. Trypsin is a protease released into the small intestine. The table shows the relative activity of each enzyme at different pH values (100 is the highest activity).\npH: 1, 2, 3, 5, 7, 8, 10\nPepsin: 60, 100, 55, 5, 0, 0, 0\nTrypsin: 0, 0, 0, 20, 70, 100, 30\n(a) State the optimum pH for pepsin. (1 mark)\n(b) Explain why pepsin has no activity at pH 7. (2 marks)\n(c) The pancreas and liver release alkaline juices into the small intestine. Explain why this is needed for trypsin to work. (2 marks)\n(d) State the products of protein digestion. (1 mark)\n(e) Use the lock and key model to explain why trypsin does not digest starch. (2 marks)\n\nTotal for Question 3: 8 marks",
+    "mark_scheme": "(a) pH 2 [1].\n(b) The enzyme is denatured at this pH (its shape changes) [1]; the active site no longer fits the substrate so no reaction occurs [1].\n(c) The acid from the stomach makes the contents of the small intestine acidic (trypsin has no activity at low pH) [1]; alkaline juices neutralise the acid and raise the pH to about 8, the optimum for trypsin [1].\n(d) Amino acids [1].\n(e) The active site of trypsin has a shape complementary only to protein (the substrate) [1]; starch does not fit the active site, so the enzyme is specific and cannot bind it [1]."
+   },
+   {
+    "position": 4,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 4 | A 8]]\nOrganisms detect changes in their surroundings and respond.\n(a) Define the term phototropism. (1 mark)\nA shoot grows towards a window. Auxin is a plant hormone made in the tip of the shoot.\n(b) Explain how auxin causes the shoot to bend towards the light. (3 marks)\n(c) State how a root responds to gravity. (1 mark)\n(d) Compare the nervous system and the hormonal (endocrine) system in animals. (3 marks)\n\nTotal for Question 4: 8 marks",
+    "mark_scheme": "(a) The growth of a plant part in response to light (direction of the light) [1].\n(b) Auxin moves to (collects on) the shaded side of the shoot [1]; it makes cells on that side elongate more [1]; the shaded side grows faster than the lit side, so the shoot bends towards the light [1].\n(c) Roots grow downwards (positive gravitropism) [1].\n(d) Any three comparisons from: nervous system uses electrical impulses, endocrine system uses chemical hormones; nerves respond quickly, hormones act more slowly; nervous effects are short-lived, hormone effects last longer; nerve signals travel along neurones to a specific target, hormones travel in the blood to target organs [3]."
+   },
+   {
+    "position": 5,
+    "marks": 10,
+    "criterion": "B",
+    "content": "[[Q 5 | B 10]]\nA class wants to find out how the intensity of exercise affects pulse rate. Each volunteer steps on and off a 20 cm step for 2 minutes at a rate set by a metronome. The rates are 0 (resting), 20, 40, 60 and 80 steps per minute. Pulse rate is then measured.\n(a) Identify the independent variable and the dependent variable. (2 marks)\n(b) Formulate a hypothesis, using scientific reasoning. (2 marks)\n(c) Outline two variables that should be controlled and say how each would be controlled. (2 marks)\n(d) Describe how the pulse rate should be measured so that results are accurate and comparable. (3 marks)\n(e) Outline one safety or ethical consideration when using human volunteers. (1 mark)\n\nTotal for Question 5: 10 marks",
+    "mark_scheme": "(a) Independent: stepping rate (steps per minute) [1]; dependent: pulse rate (beats per minute) [1].\n(b) Prediction linking the variables, e.g. as the stepping rate increases, pulse rate will increase [1]; reason, e.g. muscles respire faster and need more oxygen and glucose, so the heart beats faster to deliver them / remove carbon dioxide [1].\n(c) Any two controlled variables each with how it is controlled, from: same volunteer or volunteers of similar age and fitness; same step height (20 cm) using the same step; same duration (2 minutes) timed with a stopwatch; same rest time before each test; same room temperature [2].\n(d) Measure at the same place (wrist or neck) with fingers, not the thumb [1]; start counting at the same time after stopping (e.g. immediately) and count for a fixed time (e.g. 30 s) then multiply, or use a pulse sensor [1]; repeat the reading and calculate a mean / use the same method each time [1].\n(e) Any one from: volunteers may stop if they feel dizzy or unwell; a volunteer with a health condition should not take part; informed consent; rest between trials; use a stable step [1]."
+   },
+   {
+    "position": 6,
+    "marks": 10,
+    "criterion": "C",
+    "content": "[[Q 6 | C 10]]\nScientists counted rabbits and foxes on an island each year. Rabbit numbers are in hundreds.\nYear: 0, 1, 2, 3, 4, 5, 6, 7, 8\nRabbits (hundreds): 40, 70, 110, 90, 50, 30, 60, 100, 85\nFoxes: 10, 14, 24, 32, 20, 12, 10, 16, 26\nFoxes eat rabbits. Rabbits eat grass.\n(a) Calculate the percentage increase in the rabbit population between year 0 and year 2. (2 marks)\n(b) Calculate the mean number of foxes for years 0 to 4. (2 marks)\n(c) Describe the pattern shown by both populations. (2 marks)\n(d) Explain why the fox population fell between year 3 and year 5. (3 marks)\n(e) Suggest why there are fewer foxes than rabbits on the island. (1 mark)\n\nTotal for Question 6: 10 marks",
+    "mark_scheme": "(a) (110 - 40) / 40 x 100 [1] = 175% [1].\n(b) (10 + 14 + 24 + 32 + 20) / 5 [1] = 20 foxes [1] (100 / 5).\n(c) Both populations rise and fall in repeating cycles [1]; the fox peak (year 3) comes about a year after the rabbit peak (year 2) / the predator follows the prey [1].\n(d) Rabbit numbers fell from 110 (year 2) to 50 (year 4) [1]; so there was less food for the foxes [1]; foxes starved or competed for food and fewer survived or reproduced [1].\n(e) Energy is lost at each trophic level so the food supports fewer predators than prey / predators are at a higher trophic level [1]."
+   },
+   {
+    "position": 7,
+    "marks": 10,
+    "criterion": "D",
+    "content": "[[Q 7 | D 10]]\nRead the passage.\nA health service plans to sequence the genome of every newborn baby. A genome map shows the order of the bases in all of a person's DNA. The test can identify around 200 inherited conditions that can be treated if found early, such as some metabolic disorders. A pilot study found a treatable condition in 1 baby in every 100 tested. However, some people worry that the data could be stored insecurely or used by insurance companies. Others say that the results for some genes only show a raised risk, so parents may worry about a disease the child never develops.\n(a) Identify two benefits of sequencing newborn genomes. (2 marks)\n(b) Describe one risk linked to the storage of genome data. (2 marks)\n(c) Explain why a result showing a raised risk does not mean the child will definitely develop the disease. (2 marks)\n(d) Evaluate whether the health service should sequence every newborn baby. Support your answer with evidence from the passage and your own knowledge. (4 marks)\n\nTotal for Question 7: 10 marks",
+    "mark_scheme": "(a) Any two from: early detection of treatable conditions; treatment can begin before damage occurs; helps plan healthcare or understand inherited conditions [2].\n(b) Data could be stolen or accessed by hackers [1]; or used by insurers or employers to discriminate against the person (loss of privacy) [1].\n(c) Many diseases depend on several genes and on environment or lifestyle as well [1]; an allele may only increase the chance of disease or may be recessive / may never be expressed [1].\n(d) Benefit with evidence, e.g. 1 in 100 babies has a treatable condition so early treatment saves health and money [1]; a drawback with evidence, e.g. privacy risks or unnecessary worry from raised-risk results [1]; a balanced judgement or condition, e.g. do it only with parental consent and strong data protection [1]; a justified conclusion that weighs the benefits against the risks [1]."
+   },
+   {
+    "position": 8,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 8 | A 8]]\nA human body cell has 46 chromosomes. Albinism is caused by a recessive allele, a. The normal allele is A. Two parents who both have the genotype Aa want to have a child.\n(a) State the number of chromosomes in a human sperm cell. (1 mark)\n(b) State two differences between the products of mitosis and the products of meiosis. (2 marks)\n(c) One strand of a DNA molecule has the base sequence T A C G G T. State the sequence of the complementary strand. (2 marks)\n(d) Determine the probability that the child will have albinism. Show your working. (2 marks)\n(e) Define the term mutation. (1 mark)\n\nTotal for Question 8: 8 marks",
+    "mark_scheme": "(a) 23 [1].\n(b) Any two from: mitosis makes 2 cells, meiosis makes 4 cells; mitosis cells are genetically identical, meiosis cells are genetically different; mitosis cells are diploid (46), meiosis cells are haploid (23) [2].\n(c) A T G C C A [2]. Award 1 mark if at least four bases are correct.\n(d) Gametes A, a from each parent: offspring AA, Aa, Aa, aa (Punnett square or equivalent) [1]; probability of aa = 1 in 4 (25%, 0.25) [1].\n(e) A random change in the DNA sequence (base order) of a gene [1]."
+   }
+  ]
+ }
+]

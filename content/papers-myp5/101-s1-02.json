@@ -1,0 +1,67 @@
+[
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "format": "structured-mock",
+  "title": "Standard Mathematics MYP 5 Full eAssessment Paper B (8 tasks, 103 marks)",
+  "criterion": null,
+  "questions": [
+   {
+    "position": 1,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 1 | A 5 | C 3]]\nAlgebra and indices.\n(a) Solve 3x − 7 > 11. (2 marks)\n(b) Solve −4 ≤ 2x + 1 < 9. Show each step of your working. (2 marks)\n(c) Write down all the integer values of x that satisfy the inequality in part (b). (1 mark)\n(d) Simplify (2a³b)² ÷ (4ab²), showing your working. (2 marks)\n(e) Evaluate 27^(2/3) without a calculator. (1 mark)\n\nTotal for Question 1: 8 marks",
+    "mark_scheme": "(a) 3x > 18 [1]; x > 6 [1]. (b) −5 ≤ 2x < 8 [1]; −2.5 ≤ x < 4 [1]. (c) −2, −1, 0, 1, 2, 3 [1] (all six needed). (d) (2a³b)² = 4a⁶b² [1]; 4a⁶b² ÷ 4ab² = a⁵ [1]. (e) 27^(1/3) = 3 and 3² = 9 [1]."
+   },
+   {
+    "position": 2,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 2 | A 3 | D 3 | C 2]]\nAt a weekend market, a stall sells jars of honey and loaves of bread. Three jars of honey and two loaves cost £23. Two jars of honey and five loaves cost £24.50. Let h be the price of a jar of honey and l the price of a loaf, both in pounds.\n(a) Write down two equations in h and l. (2 marks)\n(b) Solve the equations to find the price of a jar of honey and the price of a loaf. (3 marks)\n(c) Find the cost of 5 jars of honey and 4 loaves. (1 mark)\n(d) Mina has £50. She buys 4 jars of honey. Write and solve an inequality to find the greatest number of loaves she can also buy. (2 marks)\n\nTotal for Question 2: 8 marks",
+    "mark_scheme": "(a) 3h + 2l = 23 [1]; 2h + 5l = 24.5 [1]. (b) Multiply to match a coefficient, for example 15h + 10l = 115 and 4h + 10l = 49 [1]; subtract: 11h = 66 so h = £6 [1]; l = £2.50 [1]. (c) 30 + 10 = £40 [1]. (d) 24 + 2.5l ≤ 50 [1]; l ≤ 10.4 so 10 loaves [1]."
+   },
+   {
+    "position": 3,
+    "marks": 9,
+    "criterion": "A",
+    "content": "[[Q 3 | A 5 | D 2 | C 2]]\nThe entrance hall of a museum is a glass pyramid with a square base of side 6 m and a perpendicular height of 4 m. The apex is directly above the centre of the base. Diagram not to scale. (The volume of a pyramid is one third × base area × height.)\n(a) Calculate the volume of the pyramid. (2 marks)\n(b) Show that the slant height of each triangular face is 5 m. (2 marks)\n(c) The four triangular faces are made of glass. Calculate the total area of glass. (2 marks)\n(d) A model of the museum entrance has a height of 20 cm. It is mathematically similar to the real pyramid. Find the length scale factor, the volume scale factor and the volume of the model in cm³. (3 marks)\n\nTotal for Question 3: 9 marks",
+    "mark_scheme": "(a) ⅓ × 6² × 4 [1] = 48 m³ [1]. (b) The slant height is the hypotenuse of a right-angled triangle with sides 3 m (half the base) and 4 m (the height) [1]; √(3² + 4²) = 5 m [1]. (c) One face ½ × 6 × 5 = 15 m² [1]; four faces 60 m² [1]. (d) Length scale factor 20 : 400 = 1 : 20 [1]; volume scale factor 1 : 8000 [1]; model volume 48 000 000 ÷ 8000 = 6000 cm³ [1]."
+   },
+   {
+    "position": 4,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 4 | A 4 | D 2 | C 2]]\nA survey of 40 pupils asks which of two activities they do. 22 pupils do football (F), 15 do basketball (B), and 6 do both. 9 pupils do neither.\n(a) Draw a Venn diagram or describe it by stating the number of pupils in each of the four regions. (2 marks)\n(b) A pupil who does basketball is chosen at random. Find the probability that this pupil also does football. (2 marks)\n(c) Show that doing football and doing basketball are not independent events. (2 marks)\n(d) Two different pupils are chosen at random from the 40. Find the probability that both do neither activity. (2 marks)\n\nTotal for Question 4: 8 marks",
+    "mark_scheme": "(a) Football only 16, both 6, basketball only 9 [1]; neither 9 [1]. (b) P(F | B) = 6/15 [1] = 2/5 [1]. (c) P(F) × P(B) = 22/40 × 15/40 = 330/1600 ≈ 0.206 [1]; P(F and B) = 6/40 = 0.15, which is not equal, so the events are not independent [1]. (d) 9/40 × 8/39 [1] = 72/1560 = 3/65 [1]."
+   },
+   {
+    "position": 5,
+    "marks": 20,
+    "criterion": "D",
+    "content": "[[Q 5 | D 14 | A 2 | C 4]]\nTwo rescue bases, A and B, are on a straight coast. B is 18 km from A on a bearing of 090° from A. A boat in difficulty at C is on a bearing of 040° from A and a bearing of 325° from B. Diagram not to scale. A helicopter at A can fly at 180 km/h and a lifeboat at B can travel at 30 km/h.\n(a) Show that angle BAC = 50°, angle ABC = 55° and angle ACB = 75°. (3 marks)\n(b) Use the sine rule to calculate the distance AC, correct to 1 decimal place. (3 marks)\n(c) Calculate the distance BC, correct to 1 decimal place. (2 marks)\n(d) Find the bearing of A from C. (1 mark)\n(e) Calculate the travel time, in minutes, of the helicopter from A to C and of the lifeboat from B to C. Give each answer to 1 decimal place. (3 marks)\n(f) The helicopter needs 10 minutes to prepare and the lifeboat needs 5 minutes to launch, both counted from the alert. A person in cold water can only survive 30 minutes after the alert. Evaluate the rescue plan. In your answer you should: calculate the time from the alert to arrival for each unit; compare each time with the 30-minute limit; recommend which unit should lead the rescue; and calculate the minimum speed the lifeboat would need to arrive within the limit. (8 marks)\n\nTotal for Question 5: 20 marks",
+    "mark_scheme": "(a) Angle BAC = 90° − 40° = 50° [1]; at B the direction of A is 270° and of C is 325°, so angle ABC = 325° − 270° = 55° [1]; angle ACB = 180° − 50° − 55° = 75° [1]. (b) AC / sin 55° = 18 / sin 75° [1]; AC = 18 sin 55° ÷ sin 75° [1]; AC = 15.3 km [1]. (c) BC = 18 sin 50° ÷ sin 75° [1] = 14.3 km [1]. (d) 040° + 180° = 220° [1]. (e) Helicopter: 15.3 ÷ 180 × 60 [1] = 5.1 minutes [1]; lifeboat: 14.3 ÷ 30 × 60 = 28.6 minutes [1]. (f) Helicopter total 15.1 minutes [1]; lifeboat total 33.6 minutes [1]; the helicopter arrives inside 30 minutes and the lifeboat is outside the limit [1]; recommend the helicopter leads the rescue [1] and the lifeboat should still go as support, because it can recover the person afterwards or treat the person on shore [1]; the lifeboat has 30 − 5 = 25 minutes of travel [1]; speed ≥ 14.3 ÷ (25/60) [1] = 34.3 km/h, which is more than 30 km/h so the lifeboat cannot reach in time at its current speed [1]."
+   },
+   {
+    "position": 6,
+    "marks": 10,
+    "criterion": "D",
+    "content": "[[Q 6 | D 6 | A 2 | C 2]]\nA nursery records the heights, h cm, of 60 sunflower seedlings after three weeks.\nHeight: 10 ≤ h < 15 has 6 seedlings; 15 ≤ h < 20 has 14; 20 ≤ h < 25 has 20; 25 ≤ h < 30 has 12; 30 ≤ h < 35 has 8.\n(a) Write down the cumulative frequency at the upper end of each class. (1 mark)\n(b) Calculate an estimate of the mean height. Show your working. (3 marks)\n(c) Use the cumulative frequency to estimate the median height by interpolation within the median class. (2 marks)\n(d) Estimate the lower quartile and the upper quartile. (2 marks)\n(e) A calculator gives a standard deviation of 5.8 cm for this data. A second nursery has seedlings with mean height 23.4 cm and standard deviation 3.1 cm. Compare the two nurseries, referring to both the mean and the standard deviation. (2 marks)\n\nTotal for Question 6: 10 marks",
+    "mark_scheme": "(a) 6, 20, 40, 52, 60 [1]. (b) Midpoints 12.5, 17.5, 22.5, 27.5, 32.5 [1]; Σfx = 75 + 245 + 450 + 330 + 260 = 1360 [1]; mean = 1360 ÷ 60 = 22.7 cm [1]. (c) The 30th value lies in 20 ≤ h < 25 [1]; estimate 20 + (30 − 20)/20 × 5 = 22.5 cm [1]. (d) Lower quartile (15th value) 15 + 9/14 × 5 = 18.2 cm [1]; upper quartile (45th value) 25 + 5/12 × 5 = 27.1 cm [1]. (e) The second nursery has taller seedlings on average (23.4 cm against 22.7 cm) [1]; the second nursery has the smaller standard deviation (3.1 cm against 5.8 cm) so its heights are more consistent [1]."
+   },
+   {
+    "position": 7,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 7 | A 6 | C 2]]\nTriangle ABC has vertices A(1, 1), B(4, 1) and C(4, 3). Diagram not to scale.\n(a) Triangle ABC is reflected in the y-axis. Write down the coordinates of the three vertices of the image. (2 marks)\n(b) Triangle PQR has vertices P(−1, 1), Q(−1, 4) and R(−3, 4). Describe fully the single transformation that maps ABC onto PQR. (2 marks)\n(c) Triangle ABC is enlarged with scale factor 2 and centre the origin. Write down the coordinates of the image of each vertex. (2 marks)\n(d) Calculate the area of triangle ABC and the area of its enlargement. Explain how the areas are related. (2 marks)\n\nTotal for Question 7: 8 marks",
+    "mark_scheme": "(a) (−1, 1), (−4, 1), (−4, 3) [2] (award 1 for two correct vertices). (b) A rotation [1] of 90° anticlockwise about the origin [1]. (c) (2, 2), (8, 2), (8, 6) [2] (award 1 for two correct vertices). (d) ABC: ½ × 3 × 2 = 3; enlargement: ½ × 6 × 4 = 12 [1]; the area is multiplied by 2² = 4 [1]."
+   },
+   {
+    "position": 8,
+    "marks": 32,
+    "criterion": "B",
+    "content": "[[Q 8 | B 25 | C 7]]\nInvestigating patterns. In a table tennis league, every team plays every other team exactly once (a round robin). Let n be the number of teams and M the number of matches. With 2 teams there is 1 match, with 3 teams there are 3 matches, and with 4 teams there are 6 matches.\n(a) Find M for n = 5, n = 6 and n = 7 by drawing or listing the matches. (3 marks)\n(b) Work out the first and second differences of the sequence 1, 3, 6, 10, 15, 21. (2 marks)\n(c) Find a rule for M in terms of n. (4 marks)\n(d) Verify your rule for n = 8 by continuing the pattern of differences. (3 marks)\n(e) Justify why your rule is correct for every n. (4 marks)\n(f) In a double round robin every pair of teams plays twice (home and away). Write a rule for the number of matches D and find D for 16 teams. (3 marks)\n(g) A league of n teams (n even) splits into two equal groups, and each group plays a single round robin. Show that the total number of matches is n(n − 2) ÷ 4. (4 marks)\n(h) For 16 teams, how many fewer matches are played in the two-group league than in one single round robin? Explain why there are fewer. (3 marks)\n(i) The organiser has time for at most 100 matches. Find the largest number of teams in a single round robin. (3 marks)\n(j) Justify that no single round robin has exactly 100 matches. (3 marks)\n\nTotal for Question 8: 32 marks",
+    "mark_scheme": "(a) n = 5: 10 [1]; n = 6: 15 [1]; n = 7: 21 [1]. (b) First differences 2, 3, 4, 5, 6 [1]; second differences all 1 [1]. (c) M = an² + bn + c with 2a = 1 so a = ½ [1]; using n = 2 and n = 3: 2 + 2b + c = 1 and 4.5 + 3b + c = 3 [1]; b = −½ and c = 0 [1]; M = ½n² − ½n = n(n − 1)/2 [1]. (d) Next first difference is 7 so M = 21 + 7 = 28 [1]; rule gives 8 × 7 ÷ 2 = 28 [1]; the values agree [1]. (e) Each team plays n − 1 opponents [1]; there are n teams so n(n − 1) team appearances [1]; each match involves two teams so it has been counted twice [1]; so M = n(n − 1) ÷ 2 [1]. (f) D = 2M [1] = n(n − 1) [1]; for 16 teams D = 240 [1]. (g) Each group has n/2 teams [1]; matches in one group (n/2)(n/2 − 1) ÷ 2 [1]; two groups give (n/2)(n/2 − 1) [1] = n(n − 2) ÷ 4 [1]. (h) Single: 120 matches and two groups: 16 × 14 ÷ 4 = 56 matches [1]; 120 − 56 = 64 fewer [1]; teams in different groups never play each other [1]. (i) n(n − 1)/2 ≤ 100 [1]; n = 14 gives 91 and n = 15 gives 105 [1]; the largest is 14 teams [1]. (j) n = 14 gives 91 matches [1]; n = 15 gives 105 matches [1]; the number of matches increases with n and 100 lies between 91 and 105 so no n gives 100 [1]."
+   }
+  ]
+ }
+]

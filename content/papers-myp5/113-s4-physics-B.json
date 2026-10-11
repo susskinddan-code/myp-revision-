@@ -1,0 +1,67 @@
+[
+ {
+  "subject": "physics",
+  "grade": 5,
+  "format": "structured-mock",
+  "title": "Physics MYP 5 eAssessment Paper B (8 tasks, 68 marks)",
+  "criterion": null,
+  "questions": [
+   {
+    "position": 1,
+    "marks": 6,
+    "criterion": "A",
+    "content": "[[Q 1 | A 6]]\nA crane lifts a crate of mass 250 kg through a height of 12 m in 20 s. The electric motor of the crane takes in energy at a rate of 2500 W. Use g = 10 N/kg.\n(a) Calculate the work done in lifting the crate. (2 marks)\n(b) Calculate the useful power output of the crane. (1 mark)\n(c) Calculate the efficiency of the crane. (2 marks)\n(d) State what happens to the energy that is not usefully transferred. (1 mark)\n\nTotal for Question 1: 6 marks",
+    "mark_scheme": "(a) Force = weight = 250 x 10 = 2500 N [1]; work = 2500 x 12 = 30 000 J [1]. (b) P = W/t = 30 000/20 = 1500 W [1]. (c) efficiency = useful power/input power = 1500/2500 [1] = 0.60 (60%) [1]. (d) It is transferred to the surroundings as thermal energy (and sound), so it is wasted [1]."
+   },
+   {
+    "position": 2,
+    "marks": 6,
+    "criterion": "A",
+    "content": "[[Q 2 | A 6]]\nA rigid copper wire carries a current while it lies at right angles to the magnetic field between two magnets.\n(a) State what happens to the wire. (1 mark)\n(b) State two ways of increasing the size of the force on the wire. (2 marks)\n(c) State what happens to the direction of the force when the current is reversed. (1 mark)\n(d) A bar magnet is pushed into a coil of wire connected to a sensitive voltmeter. Explain why the voltmeter shows a reading while the magnet is moving. (2 marks)\n\nTotal for Question 2: 6 marks",
+    "mark_scheme": "(a) The wire experiences a force (it moves) [1]. (b) Any two from: increase the current, use a stronger magnet, increase the length of wire in the field (more turns) [1][1]. (c) The force reverses direction [1]. (d) The magnetic field through the coil is changing (the coil cuts field lines) [1], which induces a voltage across the coil (electromagnetic induction) [1]."
+   },
+   {
+    "position": 3,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 3 | A 8]]\nWaves in the electromagnetic spectrum are used in communication. The electromagnetic spectrum, in order of increasing frequency, is: radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, gamma rays.\n(a) State the part of the spectrum that has the shortest wavelength. (1 mark)\n(b) State the part of the spectrum used by a television remote control. (1 mark)\n(c) An FM radio station transmits at a frequency of 100 MHz (1.0 x 10⁸ Hz). Radio waves travel at 3.0 x 10⁸ m/s. Calculate the wavelength of the waves. (2 marks)\n(d) State one use and one hazard of ultraviolet radiation. (2 marks)\n(e) Sound is a longitudinal wave. (select: Sound / Light) cannot travel through a vacuum. Select the correct word and explain your choice. (2 marks)\n\nTotal for Question 3: 8 marks",
+    "mark_scheme": "(a) Gamma rays [1]. (b) Infrared [1]. (c) v = f x wavelength, so wavelength = 3.0 x 10⁸/1.0 x 10⁸ [1] = 3.0 m [1]. (d) Use, e.g. sterilising water, detecting forged banknotes, sun tanning lamps [1]; hazard, e.g. skin cancer, sunburn, eye damage [1]. (e) Sound [1]; sound needs particles (a medium) to pass vibrations on, and a vacuum has no particles, while light is an electromagnetic wave that needs no medium [1]."
+   },
+   {
+    "position": 4,
+    "marks": 10,
+    "criterion": "B",
+    "content": "[[Q 4 | B 10]]\nA student wants to find out which material is the best thermal conductor. She has four rods of equal length and diameter made of copper, aluminium, steel and glass. She coats each rod with a thin layer of wax, sticks a drawing pin to the wax 10 cm from one end, and heats the other end of each rod in turn in a Bunsen burner flame. She records the time taken for the pin to fall off.\n(a) State a research question that this investigation can answer. (2 marks)\n(b) Formulate a testable hypothesis using scientific reasoning. (2 marks)\n(c) Identify the independent variable and the dependent variable. (2 marks)\n(d) Outline two variables that must be controlled. (2 marks)\n(e) Outline one safety precaution. (1 mark)\n(f) Suggest one way of improving the reliability of the results. (1 mark)\n\nTotal for Question 4: 10 marks",
+    "mark_scheme": "(a) A question that links both variables, e.g. How does the type of material affect the time taken for thermal energy to travel 10 cm along a rod? [2] (1 mark if the variables are named but not linked). (b) Prediction, e.g. the metals will cause the pin to fall sooner than glass [1]; reasoning, e.g. metals contain free electrons that carry thermal energy quickly, glass does not [1]. (c) Independent: the material of the rod [1]; dependent: time for the pin to fall [1]. (d) Any two from: rod length and diameter, distance of the pin from the heated end, amount of wax, flame position and heating time/ same flame, starting temperature [1][1]. (e) Any one from: wear eye protection, tie back hair, use tongs/heat-proof mat, let rods cool before handling [1]. (f) Repeat each rod several times and calculate a mean [1]."
+   },
+   {
+    "position": 5,
+    "marks": 12,
+    "criterion": "C",
+    "content": "[[Q 5 | C 12]]\nA student investigates how fast a magnet must move to induce a voltage in a coil of 200 turns. A small magnet on a trolley moves through the coil at different speeds. A light gate measures the speed and a voltage sensor records the peak voltage induced.\n\nSpeed of magnet (m/s): 0.2 | 0.4 | 0.6 | 0.8 | 1.0\nPeak voltage (mV): 12 | 25 | 36 | 49 | 61\n\n(a) Identify the independent variable and the dependent variable. (2 marks)\n(b) Describe the pattern shown by the data. (2 marks)\n(c) Calculate the value of voltage divided by speed (in mV per m/s) for three of the readings. Use the answers to show that the voltage is directly proportional to the speed. (3 marks)\n(d) Use the data to predict the peak voltage when the speed is 0.7 m/s. (1 mark)\n(e) State the effect on the induced voltage of moving the magnet out of the coil instead of in. (1 mark)\n(f) Evaluate the method used to collect these data. (3 marks)\n\nTotal for Question 5: 12 marks",
+    "mark_scheme": "(a) Independent: speed of the magnet [1]; dependent: peak induced voltage [1]. (b) As the speed increases the voltage increases [1]; the voltage increases by about the same amount (about 12 mV) for each 0.2 m/s increase (steady/linear increase) [1]. (c) Correct calculations for three readings, e.g. 12/0.2 = 60; 25/0.4 = 62.5; 36/0.6 = 60; 49/0.8 = 61.25; 61/1.0 = 61 [1]; the values are approximately constant (all between 60 and 62.5 mV per m/s) [1]; so voltage is directly proportional to speed (doubling the speed doubles the voltage) [1]. (d) About 43 mV (accept 42 to 44) [1]. (e) The voltage is induced in the opposite direction (reversed polarity) [1]. (f) Strength: a light gate measures the speed accurately/ reduces human timing error, and the same coil and magnet are used [1]; weaknesses: only one reading at each speed so no mean or check for anomalies [1]; improvement, e.g. repeat each speed at least three times and calculate a mean, or the peak value is read from a sensor whose resolution (1 mV) is large compared with the smallest reading of 12 mV, so use a more sensitive sensor [1]."
+   },
+   {
+    "position": 6,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 6 | A 8]]\nA student studies thermal energy and the particle model.\n(a) Describe the arrangement and motion of the particles in a gas compared with those in a liquid. (2 marks)\n(b) A sealed rigid container of gas is heated. Explain, using the particle model, why the pressure of the gas increases. (2 marks)\n(c) A radiator is fixed near the floor of a room. Explain how it heats the whole room by convection. (2 marks)\n(d) The inner wall of a vacuum flask is coated with a shiny silver layer. Explain how this helps to keep the drink hot. (2 marks)\n\nTotal for Question 6: 8 marks",
+    "mark_scheme": "(a) Gas: particles far apart and moving randomly and quickly in all directions [1]; liquid: particles close together (touching), moving past each other, in no regular arrangement [1]. (b) The particles move faster (gain kinetic energy) [1]; they hit the walls more often and with greater force, so the pressure increases [1]. (c) Air next to the radiator is heated, expands and becomes less dense, so it rises [1]; cooler, denser air moves in to take its place and sinks, setting up a convection current that circulates the warm air [1]. (d) The shiny surface reflects infrared (thermal) radiation back into the drink [1], reducing the heat transferred by radiation across the vacuum [1]."
+   },
+   {
+    "position": 7,
+    "marks": 10,
+    "criterion": "D",
+    "content": "[[Q 7 | A 2 | C 2 | D 6]]\nRead the passage.\nResidents of the town of Wexbridge object to a new mobile phone mast that transmits microwaves. Some fear that the radiation will harm their health. The council points out that microwaves are non-ionising, unlike some other parts of the electromagnetic spectrum, and that the radiation heats body tissue only very slightly. An international guideline sets a limit on exposure of 10 W/m². A survey measured the exposure at the nearest house to the mast as 0.002 W/m². The council admits that studies of possible effects of exposure over many decades are limited, and that residents are also exposed to radiation from their own phones and wireless routers.\n(a) State two parts of the electromagnetic spectrum that are ionising. (2 marks)\n(b) Calculate how many times smaller the measured exposure is than the guideline limit. (2 marks)\n(c) Evaluate the claim that \"the mast is safe\". Use evidence from the passage and reach a justified conclusion. (6 marks)\n\nTotal for Question 7: 10 marks",
+    "mark_scheme": "(a) Any two from: ultraviolet (the higher-frequency end), X-rays, gamma rays [1][1]. (b) 10/0.002 [1] = 5000 times smaller [1]. (c) Up to 6 marks: evidence that supports safety, e.g. microwaves are non-ionising so cannot damage DNA directly, and heating is very small [1]; the measured exposure is 5000 times below the international guideline [1]; limitations, e.g. long-term studies over decades are limited [1]; the survey measured one house, and total exposure includes phones and routers [1]; a balanced judgement that weighs the evidence (e.g. good evidence for low short-term risk but uncertainty about long-term effects) [1]; a justified conclusion or recommendation, e.g. accept that the mast is very likely safe on current evidence and recommend continued independent monitoring of exposure and publishing the results [1]."
+   },
+   {
+    "position": 8,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 8 | A 8]]\nA kettle is rated at 2300 W when connected to the 230 V mains supply. The kettle plug can be fitted with a 3 A, 5 A or 13 A fuse.\n(a) Calculate the current in the kettle when it is working normally. (2 marks)\n(b) State which fuse should be fitted and give a reason. (2 marks)\n(c) The kettle is switched on for 3.0 minutes. Calculate the energy transferred in kilowatt-hours (kWh). (2 marks)\n(d) Electricity costs 30 pence per kWh. Calculate the cost of using the kettle for 3.0 minutes. (1 mark)\n(e) State the purpose of the earth wire in the kettle's cable. (1 mark)\n\nTotal for Question 8: 8 marks",
+    "mark_scheme": "(a) I = P/V [1] = 2300/230 = 10 A [1]. (b) 13 A [1]; the 3 A and 5 A fuses would melt at the normal current of 10 A, and 13 A is the nearest value above 10 A so it still protects the cable from overheating [1]. (c) 3.0 min = 0.050 h; E = 2.3 kW x 0.050 h [1] = 0.115 kWh [1]. (d) 0.115 x 30 = 3.45 pence (about 3.5 p) [1]. (e) It provides a path for current to flow to the ground if the metal case becomes live, so the fuse blows and the user is protected from electric shock [1]."
+   }
+  ]
+ }
+]

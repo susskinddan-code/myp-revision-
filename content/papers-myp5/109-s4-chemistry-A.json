@@ -1,0 +1,67 @@
+[
+ {
+  "subject": "chemistry",
+  "grade": 5,
+  "format": "structured-mock",
+  "title": "Chemistry MYP 5 eAssessment Paper A (8 tasks, 69 marks)",
+  "criterion": null,
+  "questions": [
+   {
+    "position": 1,
+    "marks": 6,
+    "criterion": "A",
+    "content": "[[Q 1 | A 6]]\nA cotton wool pad soaked in concentrated ammonia solution (releases ammonia gas, NH₃) is placed at one end of a long, dry glass tube. A pad soaked in concentrated hydrochloric acid (releases hydrogen chloride gas, HCl) is placed at the other end. Both ends are sealed with stoppers. After a few minutes a white ring forms inside the tube. Relative molecular masses: NH₃ = 17, HCl = 36.5.\n(a) Name the process by which the gases move along the tube. (1 mark)\n(b) Explain, using the particle model, why gases mix faster than liquids. (2 marks)\n(c) State where the white ring forms (select: nearer the ammonia end / nearer the hydrochloric acid end) and explain your choice. (2 marks)\n(d) Name the white solid that forms. (1 mark)\n\nTotal for Question 1: 6 marks",
+    "mark_scheme": "(a) Diffusion [1]. (b) The particles of a gas are far apart and move quickly in random directions, with few forces between them [1]; liquid particles are close together and move more slowly, so they spread more slowly [1]. (c) Nearer the hydrochloric acid end [1]; ammonia molecules have a smaller mass than hydrogen chloride molecules, so at the same temperature they move faster and travel further before meeting [1]. (d) Ammonium chloride [1]."
+   },
+   {
+    "position": 2,
+    "marks": 7,
+    "criterion": "A",
+    "content": "[[Q 2 | A 7]]\nThe periodic table arranges elements by atomic number.\n(a) An aluminium atom has atomic number 13. State its electron arrangement. (1 mark)\n(b) An element has the electron arrangement 2,8,6. State the group and the period of this element. (2 marks)\n(c) The halogens are in Group 7. State the trend in reactivity going down the group and explain it. (3 marks)\n(d) Chlorine water is added to a colourless solution of potassium iodide. State what you would see. (1 mark)\n\nTotal for Question 2: 7 marks",
+    "mark_scheme": "(a) 2,8,3 [1]. (b) Group 6 (also called group 16) [1]; period 3 (three occupied shells) [1]. (c) Reactivity decreases down the group [1]; atoms get larger, so the outer shell is further from the nucleus and more shielded [1]; so an incoming electron is attracted less strongly, making it harder to gain an electron [1]. (d) The solution turns brown (iodine is formed) [1]."
+   },
+   {
+    "position": 3,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 3 | A 8]]\nIron is extracted from iron(III) oxide, Fe₂O₃, in a blast furnace. Relative atomic masses: Fe = 56, O = 16.\n(a) Write the chemical formulae of aluminium oxide and of calcium nitrate (calcium ion Ca²⁺, nitrate ion NO₃⁻). (2 marks)\n(b) Balance the equation: Fe₂O₃ + CO → Fe + CO₂ (1 mark)\n(c) Calculate the mass of iron produced from 80 g of iron(III) oxide. Show each step of the working. (3 marks)\n(d) Calculate the percentage by mass of iron in iron(III) oxide. (2 marks)\n\nTotal for Question 3: 8 marks",
+    "mark_scheme": "(a) Al₂O₃ [1]; Ca(NO₃)₂ [1]. (b) Fe₂O₃ + 3CO -> 2Fe + 3CO₂ [1]. (c) Mr of Fe₂O₃ = 2 x 56 + 3 x 16 = 160; moles = 80/160 = 0.50 mol [1]; mole ratio Fe₂O₃ : Fe = 1 : 2, so 1.0 mol Fe [1]; mass = 1.0 x 56 = 56 g [1]. (d) 112/160 [1] x 100 = 70% [1]."
+   },
+   {
+    "position": 4,
+    "marks": 10,
+    "criterion": "B",
+    "content": "[[Q 4 | B 10]]\nHydrogen peroxide solution decomposes slowly to form water and oxygen: 2H₂O₂ -> 2H₂O + O₂. Manganese(IV) oxide, MnO₂, is a black powder that acts as a catalyst for this reaction. A student wants to find out how the mass of manganese(IV) oxide affects the rate of the reaction. She adds 0.1 g, 0.2 g, 0.3 g and 0.4 g of manganese(IV) oxide to separate flasks that contain 25 cm³ of hydrogen peroxide solution, and collects the oxygen in a gas syringe.\n(a) Formulate a testable hypothesis using scientific reasoning. (2 marks)\n(b) Identify the independent variable and the dependent variable. Describe how the dependent variable could be measured. (3 marks)\n(c) Outline two variables that must be controlled. (2 marks)\n(d) State the control experiment she should include and explain why. (2 marks)\n(e) Outline one safety precaution. (1 mark)\n\nTotal for Question 4: 10 marks",
+    "mark_scheme": "(a) A prediction linking the variables, e.g. more catalyst gives a faster rate of oxygen production [1]; reasoning, e.g. more catalyst gives more surface for the reaction, providing an alternative pathway of lower activation energy, so more collisions are successful per second [1]. (b) Independent: mass of manganese(IV) oxide [1]; dependent: rate of reaction/volume of oxygen collected in a fixed time (or time to collect a fixed volume) [1]; measured with a gas syringe and stopwatch, recording the volume at regular intervals [1]. (c) Any two from: volume and concentration of hydrogen peroxide, temperature, particle size/form of the manganese(IV) oxide, same apparatus [1][1]. (d) A flask with no manganese(IV) oxide (0.0 g) [1]; to show how much oxygen is produced without the catalyst, so any difference is due to the catalyst [1]. (e) Any one from: wear eye protection (hydrogen peroxide can irritate/bleach), clamp the gas syringe so it does not fall, wash hands/ clean spills [1]."
+   },
+   {
+    "position": 5,
+    "marks": 12,
+    "criterion": "C",
+    "content": "[[Q 5 | C 12]]\nA class makes simple electrochemical cells. In each cell one metal strip and a copper strip are placed in the same beaker of dilute sulfuric acid, with a voltmeter connected across the strips. Each cell was tested twice. The more reactive metal is connected to the negative terminal of the voltmeter.\n\nMetal paired with copper: magnesium | zinc | iron | tin\nVoltage, trial 1 (V): 2.6 | 1.08 | 0.77 | 0.52\nVoltage, trial 2 (V): 2.8 | 1.12 | 0.83 | 0.48\nMean voltage (V): 2.7 | 1.10 | ? | 0.50\n\n(a) Calculate the missing mean voltage for iron. (1 mark)\n(b) State which metal is the most reactive of the four metals, using the data. (1 mark)\n(c) Describe the relationship between the voltage and the position of the metal in the reactivity series. (2 marks)\n(d) Explain why the voltage is larger when the two metals are further apart in the reactivity series. (2 marks)\n(e) The voltage of a cell is the difference between the voltages of its two metals when each is compared with copper. Predict the voltage of a magnesium-zinc cell. (2 marks)\n(f) Write the half-equation for the change at the zinc strip in the zinc-copper cell. (1 mark)\n(g) Evaluate the reliability of the results and suggest one improvement. (3 marks)\n\nTotal for Question 5: 12 marks",
+    "mark_scheme": "(a) (0.77 + 0.83)/2 = 0.80 V [1]. (b) Magnesium, because it gives the highest voltage with copper [1]. (c) The more reactive the metal compared with copper, the larger the voltage [1]; order of voltage Mg (2.7) > Zn (1.10) > Fe (0.80) > Sn (0.50) matches the reactivity series order [1]. (d) A more reactive metal loses electrons (is oxidised) more readily [1]; a larger difference in tendency to lose electrons gives a larger push on the electrons in the external circuit, so a larger voltage [1]. (e) 2.7 - 1.10 [1] = 1.6 V [1]. (f) Zn -> Zn²⁺ + 2e⁻ [1]. (g) The repeats agree closely for zinc, iron and tin (differences of 0.04 to 0.06 V), so these results are reasonably reliable [1]; the magnesium repeats differ by 0.2 V, which is less reliable, possibly because of an oxide layer on the magnesium [1]; improvement, e.g. clean the strips with sandpaper, use the same area of metal in the acid, and take at least three repeats [1]."
+   },
+   {
+    "position": 6,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 6 | A 8]]\nEsters are organic compounds that are used in perfumes and food flavourings. Ethyl ethanoate, CH₃COOCH₂CH₃, is made by heating ethanol with ethanoic acid and a few drops of concentrated sulfuric acid. Relative atomic masses: C = 12, H = 1, O = 16.\n(a) Name the ester made from methanol and propanoic acid. (1 mark)\n(b) State the role of the concentrated sulfuric acid. (1 mark)\n(c) Name the compound CH₃CH₂CH₂COOH. (1 mark)\n(d) Name the compound CH₃CH(OH)CH₃. (1 mark)\n(e) Name the compound CH₃CH=CHCH₃. (1 mark)\n(f) State one property of esters that makes them useful in perfumes. (1 mark)\n(g) State the molecular formula of ethyl ethanoate. (1 mark)\n(h) Calculate the relative formula mass of ethyl ethanoate. (1 mark)\n\nTotal for Question 6: 8 marks",
+    "mark_scheme": "(a) Methyl propanoate [1]. (b) Catalyst [1]. (c) Butanoic acid [1]. (d) Propan-2-ol [1]. (e) But-2-ene [1]. (f) They have a pleasant fruity smell / are volatile [1]. (g) C₄H₈O₂ [1]. (h) 4 x 12 + 8 x 1 + 2 x 16 = 88 [1]."
+   },
+   {
+    "position": 7,
+    "marks": 10,
+    "criterion": "D",
+    "content": "[[Q 7 | A 2 | C 2 | D 6]]\nRead the passage.\nSeawater absorbs some of the carbon dioxide in the atmosphere. Carbon dioxide dissolves and reacts with water to form a weak acid, which releases hydrogen ions. Before industrialisation the carbon dioxide level in the atmosphere was about 280 parts per million (ppm); it is now about 420 ppm. Over the same time the average pH of surface seawater has fallen from about 8.2 to about 8.1. Animals such as corals, oysters and some plankton build shells and skeletons of calcium carbonate, which reacts with acid: CaCO₃ + 2H⁺ -> Ca²⁺ + H₂O + CO₂. Coastal communities rely on shellfish farming and on reefs, which attract tourists and protect coasts from storms. Some scientists propose adding powdered limestone to the sea near reefs, but this would be expensive and could only be done over small areas.\n(a) State the approximate percentage of nitrogen in the Earth's atmosphere. (1 mark)\n(b) State whether seawater of pH 8.1 is acidic or alkaline. (1 mark)\n(c) Calculate the percentage increase in atmospheric carbon dioxide from 280 ppm to 420 ppm. (2 marks)\n(d) Discuss the impacts of rising carbon dioxide levels on marine organisms and on people, and evaluate the proposal to add limestone to the sea. (6 marks)\n\nTotal for Question 7: 10 marks",
+    "mark_scheme": "(a) About 78% (accept 78 to 80%) [1]. (b) Slightly alkaline (pH above 7) [1]. (c) (420 - 280)/280 [1] x 100 = 50% [1]. (d) Up to 6 marks: impact on organisms linked to chemistry, e.g. more dissolved CO₂ releases more H⁺, lowering pH; the acid reacts with calcium carbonate shells so organisms struggle to build or keep shells and reefs [1][1]; impact on people, e.g. loss of income from shellfish farming and tourism, loss of coastal protection from reefs [1][1]; evaluation of the limestone proposal, e.g. limestone is a base that neutralises the acid, but it is expensive and only works over small areas [1]; justified conclusion, e.g. it can only protect valuable reefs temporarily, so reducing carbon dioxide emissions is the long-term solution [1]."
+   },
+   {
+    "position": 8,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 8 | A 8]]\nDinitrogen tetroxide, N₂O₄ (colourless gas), and nitrogen dioxide, NO₂ (brown gas), are in equilibrium in a sealed syringe: N₂O₄(g) ⇌ 2NO₂(g). The forward reaction is endothermic.\n(a) State what the symbol ⇌ shows. (1 mark)\n(b) State two features of a system at dynamic equilibrium. (2 marks)\n(c) The syringe is placed in hot water and the gas becomes a darker brown. Explain what this shows about the position of equilibrium and why it changes. (2 marks)\n(d) The plunger is pushed in to increase the pressure at constant temperature. State and explain the colour change that is eventually seen, ignoring the first moment when the gas is compressed. (2 marks)\n(e) State the effect of adding a catalyst on the position of equilibrium. (1 mark)\n\nTotal for Question 8: 8 marks",
+    "mark_scheme": "(a) The reaction is reversible (can go in both directions) [1]. (b) Any two from: forward and reverse reactions occur at the same rate; the concentrations of reactants and products stay constant; it occurs in a closed system [1][1]. (c) The equilibrium moves to the right, producing more NO₂ [1]; because the forward reaction is endothermic, so raising the temperature favours the reaction that absorbs heat [1]. (d) The mixture becomes paler (less brown) [1]; the equilibrium moves to the side with fewer gas molecules, N₂O₄ (1 mole of gas compared with 2 moles of NO₂) [1]. (e) No effect on the position (it only speeds up how fast equilibrium is reached) [1]."
+   }
+  ]
+ }
+]

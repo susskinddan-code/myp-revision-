@@ -1,0 +1,67 @@
+[
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "format": "structured-mock",
+  "title": "Standard Mathematics MYP 5 Full eAssessment Paper C (8 tasks, 102 marks)",
+  "criterion": null,
+  "questions": [
+   {
+    "position": 1,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 1 | A 4 | D 2 | C 2]]\nA tablet has a storage capacity of 2.5 × 10¹² bytes. One photo uses 4 × 10⁶ bytes.\n(a) Calculate how many photos the tablet can store when it is empty. Give your answer in standard form. (2 marks)\n(b) Videos already on the tablet use 8 × 10¹¹ bytes. Calculate the storage left, in standard form. (2 marks)\n(c) Rationalise the denominator of 6/√3 and write it in the form a√3. (2 marks)\n(d) Evaluate 8^(−2/3) without a calculator. (2 marks)\n\nTotal for Question 1: 8 marks",
+    "mark_scheme": "(a) 2.5 × 10¹² ÷ 4 × 10⁶ [1] = 6.25 × 10⁵ photos [1]. (b) 2.5 × 10¹² − 0.8 × 10¹² [1] = 1.7 × 10¹² bytes [1]. (c) 6/√3 × √3/√3 = 6√3/3 [1] = 2√3 [1]. (d) 8^(1/3) = 2 [1]; 2^(−2) = 1/4 [1]."
+   },
+   {
+    "position": 2,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 2 | A 5 | C 3]]\nIn each part O is the centre of the circle. Diagrams are not to scale. In every part write down the circle theorem you use as part of your answer.\n(a) AB is a diameter and C lies on the circumference. Angle CAB = 38°. Find angle ABC. (2 marks)\n(b) A and B lie on the circle and angle AOB = 124°. Find angle OAB. (2 marks)\n(c) A tangent touches the circle at T. TA is a chord. The angle between the tangent and TA is 57°. B is a point on the circumference in the alternate segment. Find angle TBA. (2 marks)\n(d) The radius of the circle is 5 cm. P is a point outside the circle with OP = 13 cm. PT is a tangent to the circle at T. Calculate the length PT. (2 marks)\n\nTotal for Question 2: 8 marks",
+    "mark_scheme": "(a) Angle ACB = 90° (angle in a semicircle) [1]; angle ABC = 180° − 90° − 38° = 52° [1]. (b) OA = OB (radii) so triangle OAB is isosceles [1]; angle OAB = (180° − 124°) ÷ 2 = 28° [1]. (c) Angle TBA = 57° [1] by the alternate segment theorem [1]. (d) Angle OTP = 90° (radius meets tangent at a right angle) so PT² = 13² − 5² = 144 [1]; PT = 12 cm [1]."
+   },
+   {
+    "position": 3,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 3 | A 4 | D 2 | C 2]]\nOn a map of a town, one unit on each axis represents 1 km. Three junctions are at A(−2, 1), B(4, 5) and C(6, 1). A straight road joins A to B.\n(a) Find the gradient of the road AB. (1 mark)\n(b) A café is at the midpoint of AB. Find its coordinates. (1 mark)\n(c) Calculate the length of the road AB, correct to 2 decimal places. (2 marks)\n(d) A new straight road passes through C and is parallel to AB. Find its equation in the form y = mx + c. (2 marks)\n(e) Find the equation of the line through B that is perpendicular to AB. (2 marks)\n\nTotal for Question 3: 8 marks",
+    "mark_scheme": "(a) (5 − 1) ÷ (4 − (−2)) = 4/6 = 2/3 [1]. (b) (1, 3) [1]. (c) √(6² + 4²) = √52 [1] = 7.21 km [1]. (d) Gradient 2/3 so y − 1 = (2/3)(x − 6) [1]; y = (2/3)x − 3 [1]. (e) Perpendicular gradient −3/2 [1]; y − 5 = −(3/2)(x − 4) giving y = −1.5x + 11 [1]."
+   },
+   {
+    "position": 4,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 4 | A 4 | C 2 | D 2]]\nThe probability that it rains on Saturday is 0.3. If it rains on Saturday, the probability that it rains on Sunday is 0.6. If it does not rain on Saturday, the probability that it rains on Sunday is 0.2.\n(a) Draw a tree diagram, or state the probabilities on each branch, for the two days. (2 marks)\n(b) Find the probability that it rains on both days. (1 mark)\n(c) Find the probability that it rains on exactly one of the two days. (2 marks)\n(d) Find the probability that it rains on Sunday. (1 mark)\n(e) It rains on Sunday. Find the probability that it also rained on Saturday. (2 marks)\n\nTotal for Question 4: 8 marks",
+    "mark_scheme": "(a) Saturday: rain 0.3, no rain 0.7 [1]; Sunday after rain: rain 0.6, no rain 0.4, and after no rain: rain 0.2, no rain 0.8 [1]. (b) 0.3 × 0.6 = 0.18 [1]. (c) 0.3 × 0.4 + 0.7 × 0.2 [1] = 0.12 + 0.14 = 0.26 [1]. (d) 0.18 + 0.14 = 0.32 [1]. (e) 0.18 ÷ 0.32 [1] = 9/16 = 0.5625 [1]."
+   },
+   {
+    "position": 5,
+    "marks": 20,
+    "criterion": "D",
+    "content": "[[Q 5 | D 13 | A 3 | C 4]]\nA community stadium is to have a seating block with rows of seats. Row 1 has 24 seats and each row has 3 more seats than the row before it, so the numbers of seats form an arithmetic sequence. Each seat is 0.5 m wide. The widest row allowed by the building plan is 45 m. Each seat costs £85 to supply and fit, and the budget for the block is £110 000.\n(a) Find the number of seats in row 10. (2 marks)\n(b) Show that the number of seats in row n is 3n + 21. (2 marks)\n(c) Show that the total number of seats in the first n rows is n(3n + 45)/2. (2 marks)\n(d) Calculate the number of seats in a block of 20 rows. (2 marks)\n(e) The stadium wants at least 1500 seats in the block. Form and solve a quadratic inequality to find the least number of rows needed. (3 marks)\n(f) Design the seating block. In your answer you should: identify two constraints from the information at the start; calculate the greatest number of rows allowed by the width of the widest row; calculate the greatest number of seats allowed by the budget; choose the number of rows and justify your choice; and state the total cost and how many seats short of 1500 your design is. (9 marks)\n\nTotal for Question 5: 20 marks",
+    "mark_scheme": "(a) 24 + 9 × 3 [1] = 51 [1]. (b) u = 24 + 3(n − 1) [1] = 3n + 21 [1]. (c) Sum of an arithmetic sequence: n/2 × (first + last) = n/2 × (24 + 3n + 21) [1] = n(3n + 45)/2 [1]. (d) 20 × (60 + 45) ÷ 2 [1] = 1050 [1]. (e) n(3n + 45)/2 ≥ 1500 gives n² + 15n − 1000 ≥ 0 [1]; (n − 25)(n + 40) ≥ 0 [1]; n ≥ 25 so 25 rows [1]. (f) Two constraints, for example widest row at most 45 m (90 seats) and budget £110 000 [2]; 3n + 21 ≤ 90 so n ≤ 23 [1]; 110 000 ÷ 85 = 1294.1 so at most 1294 seats [1]; 23 rows would give 1311 seats, costing £111 435, over budget [1]; 22 rows gives 1221 seats [1] and its widest row has 87 seats (43.5 m), which is allowed [1]; cost 1221 × 85 = £103 785, within the budget [1]; the design is 1500 − 1221 = 279 seats short of the 1500 target, so the target cannot be met within the constraints [1]."
+   },
+   {
+    "position": 6,
+    "marks": 10,
+    "criterion": "D",
+    "content": "[[Q 6 | D 6 | A 2 | C 2]]\nA camping tent is a triangular prism. The cross-section is an isosceles triangle with base 2.4 m and perpendicular height 1.5 m. The tent is 3.0 m long. Diagram not to scale. The tent fabric, including the floor and both triangular ends, costs £14 per m². The campsite budget for one tent is £320.\n(a) Calculate the volume of the tent. (2 marks)\n(b) Calculate the length of each sloping side of the cross-section, correct to 3 significant figures. (2 marks)\n(c) Calculate the total area of fabric needed for the tent, correct to 2 decimal places. (3 marks)\n(d) A designer suggests making the tent 3.5 m long. Decide whether each tent length can be made within the £320 budget. Support your answer with calculations. (3 marks)\n\nTotal for Question 6: 10 marks",
+    "mark_scheme": "(a) ½ × 2.4 × 1.5 × 3.0 [1] = 5.4 m³ [1]. (b) √(1.2² + 1.5²) [1] = √3.69 = 1.921 = 1.92 m (3 s.f.) [1]. (c) Two sloping rectangles 2 × 1.921 × 3 = 11.53 m² [1]; floor 2.4 × 3 = 7.2 m² and two triangular ends 3.6 m² [1]; total 22.33 m² [1]. (d) Cost for 3.0 m: 22.33 × 14 = £312.56, within budget [1]; cost for 3.5 m: fabric 25.45 m², cost £356.25 [1]; the 3.5 m tent is over budget by about £36.25 so only the 3.0 m tent is affordable [1]."
+   },
+   {
+    "position": 7,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 7 | A 4 | D 2 | C 2]]\nA goalkeeper makes the following numbers of saves in five matches: 14, 16, 18, 20, 22.\n(a) Calculate the mean number of saves. (1 mark)\n(b) Write down the median and the range. (2 marks)\n(c) Show that the variance is 8. (2 marks)\n(d) Write down the standard deviation, correct to 3 significant figures. (1 mark)\n(e) A second goalkeeper has a mean of 18 saves and a standard deviation of 4.1 saves. Compare the two goalkeepers. (2 marks)\n\nTotal for Question 7: 8 marks",
+    "mark_scheme": "(a) 90 ÷ 5 = 18 [1]. (b) Median 18 [1]; range 22 − 14 = 8 [1]. (c) Squared differences from the mean 16, 4, 0, 4, 16 [1]; sum 40 and 40 ÷ 5 = 8 [1]. (d) √8 = 2.83 [1]. (e) Both make the same number of saves on average [1]; the first goalkeeper is more consistent because the standard deviation is smaller (2.83 against 4.1) [1]."
+   },
+   {
+    "position": 8,
+    "marks": 32,
+    "criterion": "B",
+    "content": "[[Q 8 | B 25 | C 7]]\nInvestigating patterns. A circular cake is cut by n straight cuts, each running all the way across the cake. The cuts are made so that every pair of cuts crosses inside the cake and no three cuts pass through the same point. Let R be the greatest number of pieces. With 0 cuts there is 1 piece, with 1 cut there are 2 pieces, with 2 cuts there are 4 pieces and with 3 cuts there are 7 pieces.\n(a) Find R for 4 cuts and for 5 cuts. (2 marks)\n(b) Work out the first and second differences of the sequence 1, 2, 4, 7, 11, 16. (2 marks)\n(c) Find a rule for R in terms of n. (4 marks)\n(d) Verify your rule for 6 cuts by continuing the pattern of differences. (3 marks)\n(e) Justify why the nth cut adds exactly n new pieces. (4 marks)\n(f) Find the least number of cuts needed to make at least 100 pieces. (3 marks)\n(g) Another cutting method uses n parallel cuts (which never cross) and then one more cut across all of them. Show that this makes 2(n + 1) pieces. (4 marks)\n(h) Both methods use 11 cuts in total. For the parallel method use n = 10. Calculate the number of pieces for each method and find the difference. (3 marks)\n(i) A student predicts that the number of pieces doubles with each cut (1, 2, 4, 8, ...). Show that this prediction is wrong and explain why the pattern does not continue to double. (3 marks)\n(j) Find the greatest number of cuts that makes no more than 50 pieces. (4 marks)\n\nTotal for Question 8: 32 marks",
+    "mark_scheme": "(a) 4 cuts: 11 pieces [1]; 5 cuts: 16 pieces [1]. (b) First differences 1, 2, 3, 4, 5 [1]; second differences all 1 [1]. (c) R = an² + bn + c with 2a = 1 so a = ½ [1]; n = 0 gives c = 1 [1]; n = 1 gives ½ + b + 1 = 2 so b = ½ [1]; R = ½n² + ½n + 1 [1]. (d) Next first difference is 6 so R = 16 + 6 = 22 [1]; rule gives (36 + 6 + 2) ÷ 2 = 22 [1]; they agree [1]. (e) The nth cut crosses each of the previous n − 1 cuts once [1]; these n − 1 crossing points split the new cut into n sections [1]; each section divides one existing piece into two [1]; so n new pieces are made and R(n) = R(n − 1) + n [1]. (f) n² + n + 2 ≥ 200, so n² + n ≥ 198 [1]; 13 cuts give 92 pieces and 14 cuts give 106 pieces [1]; 14 cuts [1]. (g) n parallel cuts make n + 1 strips [1]; the extra cut crosses all n parallel cuts, so it passes through every strip [1]; each of the n + 1 strips is split in two [1]; total 2(n + 1) [1]. (h) All crossing: (121 + 11 + 2) ÷ 2 = 67 [1]; parallel: 2 × 11 = 22 [1]; difference 45 [1]. (i) Prediction for 3 cuts is 8 but the actual value is 7 [1]; the differences between terms are 1, 2, 3 and so on, increasing by 1 each time [1]; a doubling pattern would need the differences to double, but each new cut can only add n pieces [1]. (j) n² + n + 2 ≤ 100, so n² + n ≤ 98 [1]; 9 cuts give 46 pieces [1]; 10 cuts give 56 pieces, which is more than 50 [1]; the greatest number of cuts is 9 [1]."
+   }
+  ]
+ }
+]

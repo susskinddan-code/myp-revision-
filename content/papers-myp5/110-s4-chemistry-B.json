@@ -1,0 +1,67 @@
+[
+ {
+  "subject": "chemistry",
+  "grade": 5,
+  "format": "structured-mock",
+  "title": "Chemistry MYP 5 eAssessment Paper B (8 tasks, 67 marks)",
+  "criterion": null,
+  "questions": [
+   {
+    "position": 1,
+    "marks": 6,
+    "criterion": "A",
+    "content": "[[Q 1 | A 6]]\nThe table shows the numbers of subatomic particles in four particles A, B, C and D. Particles A and D are formed from the same element.\n\nParticle: A | B | C | D\nProtons: 11 | 17 | 8 | 11\nNeutrons: 12 | 18 | 8 | 13\nElectrons: 10 | 18 | 10 | 11\n\n(a) State the charge on particle A. (1 mark)\n(b) State the mass number (nucleon number) of particle A. (1 mark)\n(c) State which two particles are isotopes of each other and explain your answer. (2 marks)\n(d) Explain why an atom has no overall electrical charge. (1 mark)\n(e) State the electron arrangement of particle C. (1 mark)\n\nTotal for Question 1: 6 marks",
+    "mark_scheme": "(a) 1+ (11 protons and 10 electrons) [1]. (b) 11 + 12 = 23 [1]. (c) A and D [1]; same number of protons (same atomic number) but different numbers of neutrons [1]. (d) It has equal numbers of protons (positive) and electrons (negative) [1]. (e) 2,8 [1]."
+   },
+   {
+    "position": 2,
+    "marks": 7,
+    "criterion": "A",
+    "content": "[[Q 2 | A 7]]\nMagnesium oxide, MgO, is used to line furnaces. Carbon dioxide, CO₂, is a gas at room temperature.\n(a) Describe the formation of magnesium oxide from magnesium atoms and oxygen atoms in terms of electrons. (3 marks)\n(b) Explain why magnesium oxide has a very high melting point. (2 marks)\n(c) State the total number of electron pairs shared in one molecule of carbon dioxide. (1 mark)\n(d) Explain why carbon dioxide does not conduct electricity. (1 mark)\n\nTotal for Question 2: 7 marks",
+    "mark_scheme": "(a) Each magnesium atom loses two electrons to form Mg²⁺ [1]; each oxygen atom gains two electrons to form O²⁻ [1]; the oppositely charged ions attract each other strongly (ionic bond) [1]. (b) Magnesium oxide has a giant lattice of ions with strong electrostatic forces between the oppositely charged ions [1]; a lot of energy is needed to overcome these forces [1]. (c) Four shared pairs (two double bonds) [1]. (d) It is made of simple molecules with no free ions or free electrons to carry charge [1]."
+   },
+   {
+    "position": 3,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 3 | A 8]]\nA student makes crystals of copper(II) sulfate by adding copper(II) oxide powder to warm dilute sulfuric acid until no more dissolves.\n(a) State the type of reaction that takes place. (1 mark)\n(b) Write the word equation for the reaction. (1 mark)\n(c) Explain why an excess of copper(II) oxide is added. (2 marks)\n(d) Name the technique used to remove the excess copper(II) oxide. (1 mark)\n(e) Describe how the student obtains crystals from the copper(II) sulfate solution. (2 marks)\n(f) State the colour of the copper(II) sulfate solution. (1 mark)\n\nTotal for Question 3: 8 marks",
+    "mark_scheme": "(a) Neutralisation (a base reacting with an acid) [1]. (b) copper(II) oxide + sulfuric acid -> copper(II) sulfate + water [1]. (c) To make sure all the acid reacts [1]; copper(II) oxide is insoluble, so the excess can be removed, leaving a solution that contains only copper(II) sulfate [1]. (d) Filtration [1]. (e) Heat the solution gently to evaporate some of the water until it is saturated (a drop on a glass rod forms crystals) [1]; leave the solution to cool and crystallise, then filter and dry the crystals between filter paper [1]. (f) Blue [1]."
+   },
+   {
+    "position": 4,
+    "marks": 10,
+    "criterion": "B",
+    "content": "[[Q 4 | B 10]]\nIron rusts when it reacts with oxygen and water. A student wants to find out how the concentration of salt in water affects the rusting of iron nails. She places one clean iron nail in each of five beakers that contain 100 cm³ of salt solution with concentrations of 0, 1, 2, 3 and 4 g per 100 cm³. She leaves them for 7 days. She dries each nail and measures its mass before and after.\n(a) State a research question that this investigation can answer. (2 marks)\n(b) Formulate a testable hypothesis using scientific reasoning. (2 marks)\n(c) Identify the independent variable and the dependent variable. (2 marks)\n(d) Outline two variables that must be controlled. (2 marks)\n(e) Explain why the mass of a rusted nail changes. (1 mark)\n(f) Outline one safety precaution. (1 mark)\n\nTotal for Question 4: 10 marks",
+    "mark_scheme": "(a) A question that links both variables, e.g. How does the concentration of salt solution affect the change in mass of an iron nail caused by rusting? [2] (1 mark if the variables are named but not linked). (b) Prediction, e.g. the higher the salt concentration the faster the nail rusts [1]; reasoning, e.g. dissolved salt makes the water a better conductor (electrolyte), which speeds up the oxidation of iron [1]. (c) Independent: concentration of salt solution [1]; dependent: change in mass of the nail (accept amount of rust) [1]. (d) Any two from: volume of solution, mass/size of nail, temperature, time, how much of the nail is covered by solution, starting condition (cleaned nails) [1][1]. (e) The mass increases because iron combines with oxygen to form hydrated iron(III) oxide (rust), which is heavier than the iron [1]. (f) Any one from: wear eye protection, handle sharp nails with care, wash hands after handling salt solution [1]."
+   },
+   {
+    "position": 5,
+    "marks": 12,
+    "criterion": "C",
+    "content": "[[Q 5 | C 12]]\nA student adds 0.100 mol/dm³ sodium sulfate solution to 25.0 cm³ of 0.100 mol/dm³ barium chloride solution. A white precipitate of barium sulfate forms: BaCl₂ + Na₂SO₄ -> BaSO₄ + 2NaCl. After each addition the precipitate is filtered, washed, dried and weighed. Relative atomic masses: Ba = 137, S = 32, O = 16. The mass of precipitate is recorded.\n\nVolume of sodium sulfate solution added (cm³): 5 | 10 | 15 | 20 | 25 | 30 | 35\nMass of barium sulfate (g): 0.12 | 0.23 | 0.35 | 0.46 | 0.58 | 0.59 | 0.58\n\nA graph of mass (vertical axis) against volume (horizontal axis) rises in a straight line from the origin at first and then becomes a horizontal line. Diagram not to scale.\n(a) Describe the shape of the graph. (2 marks)\n(b) Explain why the mass of precipitate stops increasing after 25 cm³ of sodium sulfate is added. (2 marks)\n(c) Calculate the number of moles of barium chloride in 25.0 cm³ of 0.100 mol/dm³ solution. (1 mark)\n(d) Calculate the maximum mass of barium sulfate that can form. (2 marks)\n(e) Calculate the mean mass for the three readings at 25, 30 and 35 cm³ and comment on its agreement with your answer to (d). (2 marks)\n(f) Calculate the percentage yield when 20 cm³ of sodium sulfate solution is added. (2 marks)\n(g) State why the precipitate is washed before it is dried. (1 mark)\n\nTotal for Question 5: 12 marks",
+    "mark_scheme": "(a) The mass increases (in direct proportion to the volume) up to 25 cm³ [1]; then it stays constant (about 0.58 g) as more solution is added [1]. (b) All the barium ions have reacted by 25 cm³ (barium chloride is the limiting reagent for larger volumes) [1]; extra sodium sulfate has no barium ions left to react with, so no more precipitate forms [1]. (c) 0.0250 x 0.100 = 0.00250 mol [1]. (d) Mole ratio 1 : 1, so 0.00250 mol BaSO₄ [1]; Mr = 137 + 32 + 64 = 233; mass = 0.00250 x 233 = 0.583 g (0.58 g) [1]. (e) (0.58 + 0.59 + 0.58)/3 = 0.583 g [1]; this agrees closely with the theoretical maximum of 0.583 g [1]. (f) Sodium sulfate is the limiting reagent: 0.0200 x 0.100 = 0.00200 mol, so theoretical mass = 0.00200 x 233 = 0.466 g [1]; percentage yield = 0.46/0.466 x 100 = 98.7% (about 99%) [1]. (g) To remove soluble impurities such as sodium chloride solution so that only barium sulfate is weighed [1]."
+   },
+   {
+    "position": 6,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 6 | A 8]]\nMetals are extracted from their ores by methods that depend on the position of the metal in the reactivity series. Zinc can be extracted by heating zinc oxide with carbon: ZnO + C -> Zn + CO.\n(a) State the general method used to extract metals that are less reactive than carbon. (1 mark)\n(b) Name the substance that is oxidised in the reaction of zinc oxide with carbon and give a reason. (2 marks)\n(c) State what is meant by reduction in terms of electrons. (1 mark)\n(d) Write the half-equation for the change of a zinc ion Zn²⁺ into a zinc atom. (1 mark)\n(e) Explain why aluminium cannot be extracted from aluminium oxide by heating with carbon. (1 mark)\n(f) Magnesium reacts with copper(II) sulfate solution: Mg + Cu²⁺ -> Mg²⁺ + Cu. State which species is reduced. (1 mark)\n(g) Explain why gold is found in the ground as the uncombined element. (1 mark)\n\nTotal for Question 6: 8 marks",
+    "mark_scheme": "(a) Heating the ore (oxide) with carbon (reduction by carbon) [1]. (b) Carbon [1]; because it gains oxygen (to form carbon monoxide) [1]. (c) Reduction is gain of electrons [1]. (d) Zn²⁺ + 2e⁻ -> Zn [1]. (e) Aluminium is more reactive than carbon, so carbon cannot displace it from its oxide [1]. (f) Cu²⁺ (copper ions) [1]. (g) Gold is very unreactive, so it does not react with oxygen or water in the environment [1]."
+   },
+   {
+    "position": 7,
+    "marks": 8,
+    "criterion": "D",
+    "content": "[[Q 7 | A 1 | C 3 | D 4]]\nRead the passage.\nA dry coastal country is planning to supply drinking water from seawater. Seawater contains about 3.5% dissolved salts by mass. Option 1 is a distillation plant, in which seawater is boiled and the steam is condensed. About 2.26 MJ of energy is needed to evaporate each kilogram of water. Option 2 is reverse osmosis, in which high pressure pushes water through a membrane that holds back the salts. This uses much less energy, but the membranes need regular replacement. Both options produce a very salty waste liquid, called brine, which is usually returned to the sea, where it can harm marine life near the outlet.\n(a) State the separation technique that obtains pure water from salt solution by boiling and condensing. (1 mark)\n(b) Calculate the mass of dissolved salts in 2000 kg of seawater. (1 mark)\n(c) Calculate the maximum mass of pure water that can be obtained from 2000 kg of seawater. (1 mark)\n(d) Calculate the energy needed to evaporate this mass of water by distillation. (1 mark)\n(e) Evaluate the two options for the country and suggest which should be chosen. (4 marks)\n\nTotal for Question 7: 8 marks",
+    "mark_scheme": "(a) Distillation [1]. (b) 3.5% of 2000 = 70 kg [1]. (c) 2000 - 70 = 1930 kg [1]. (d) 1930 x 2.26 = 4361.8 MJ (about 4.4 x 10³ MJ) [1]. (e) Up to 4 marks: a point for distillation linked to the passage (e.g. simple, but needs 4.4 x 10³ MJ for every 2000 kg of seawater, so large energy use and cost) [1]; a point for reverse osmosis (e.g. uses much less energy but membranes must be replaced regularly) [1]; a shared impact (e.g. brine harms marine life near the outlet, which could be reduced by diluting it) [1]; a justified choice, e.g. reverse osmosis because it needs less energy, with a plan for managing the brine [1]."
+   },
+   {
+    "position": 8,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 8 | A 8]]\nCollision theory explains how factors change the rate of a reaction between marble (calcium carbonate) and hydrochloric acid.\n(a) Explain, using collision theory, why powdered marble reacts faster than marble chips of the same mass. (2 marks)\n(b) Explain why increasing the temperature increases the rate of reaction. (2 marks)\n(c) State what is meant by activation energy. (1 mark)\n(d) Explain why using more concentrated acid increases the rate of reaction. (2 marks)\n(e) The reaction of two gases is carried out at a higher pressure. State and explain the effect on the rate of reaction. (1 mark)\n\nTotal for Question 8: 8 marks",
+    "mark_scheme": "(a) Powder has a larger surface area exposed to the acid [1]; so more collisions per second between acid particles and calcium carbonate particles [1]. (b) The particles move faster, so they collide more often [1]; a greater proportion of the collisions have at least the activation energy, so more collisions are successful [1]. (c) The minimum energy that colliding particles must have for the collision to result in a reaction [1]. (d) There are more acid particles in the same volume [1]; so collisions occur more frequently [1]. (e) The rate increases, because the gas particles are closer together, so collisions are more frequent [1]."
+   }
+  ]
+ }
+]

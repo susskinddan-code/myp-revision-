@@ -1,0 +1,67 @@
+[
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "format": "structured-mock",
+  "title": "Standard Mathematics MYP 5 Full eAssessment Paper A (8 tasks, 102 marks)",
+  "criterion": null,
+  "questions": [
+   {
+    "position": 1,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 1 | A 6 | C 2]]\nNeptune is on average 4.5 × 10⁹ km from the Sun. Light travels at 3 × 10⁵ km per second.\n(a) Write 4.5 × 10⁹ as an ordinary number. (1 mark)\n(b) Calculate the time, in seconds, that light takes to travel from the Sun to Neptune. Give your answer in standard form. (2 marks)\n(c) Change your answer to part (b) into hours, correct to 3 significant figures. (2 marks)\n(d) Write √75 + √12 in the form a√3, where a is an integer. Show your working. (2 marks)\n(e) Solve 3^(x − 1) = 81. (1 mark)\n\nTotal for Question 1: 8 marks",
+    "mark_scheme": "(a) 4 500 000 000 [1]. (b) 4.5 × 10⁹ ÷ 3 × 10⁵ [1] = 1.5 × 10⁴ seconds [1] (the answer must be in standard form). (c) 15 000 ÷ 3600 [1] = 4.17 hours [1]. (d) √75 = 5√3 and √12 = 2√3 [1]; sum = 7√3 [1]. (e) 81 = 3⁴ so x − 1 = 4 and x = 5 [1]."
+   },
+   {
+    "position": 2,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 2 | A 3 | D 3 | C 2]]\nA reservoir is filled by identical pumps working together. The time T hours needed to fill the reservoir is inversely proportional to the number of pumps n. Four pumps take 9 hours. Each pump costs £15 per hour to run.\n(a) Find the constant of proportionality and write a formula for T in terms of n. (2 marks)\n(b) Find the time taken when 6 pumps are used. (1 mark)\n(c) Find the smallest number of pumps needed to fill the reservoir in at most 3 hours. (2 marks)\n(d) Calculate the running cost using 4 pumps and the running cost using 6 pumps. Explain the result. (3 marks)\n\nTotal for Question 2: 8 marks",
+    "mark_scheme": "(a) T = k/n so 9 = k/4 and k = 36 [1]; T = 36/n [1]. (b) 36 ÷ 6 = 6 hours [1]. (c) 36/n ≤ 3 [1]; n ≥ 12 so 12 pumps [1]. (d) 4 pumps: 4 × 9 × 15 = £540 [1]; 6 pumps: 6 × 6 × 15 = £540 [1]; the cost is the same because n × T = 36 pump-hours is always needed, so the cost is always 36 × 15 = £540 [1]."
+   },
+   {
+    "position": 3,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 3 | A 6 | C 2]]\nA function is defined by f(x) = x² − 6x + 5.\n(a) Factorise f(x). (2 marks)\n(b) Hence solve f(x) = 0. (1 mark)\n(c) Find f(−2). (1 mark)\n(d) Write f(x) in the form (x − p)² + q and write down the coordinates of the lowest point of the graph of y = f(x). (2 marks)\n(e) Solve f(x) = 12. Show each step of your working. (2 marks)\n\nTotal for Question 3: 8 marks",
+    "mark_scheme": "(a) (x − 1)(x − 5) [2] (award 1 for a factorisation with one correct bracket or sign slip). (b) x = 1 or x = 5 [1]. (c) 4 + 12 + 5 = 21 [1]. (d) f(x) = (x − 3)² − 4 [1]; lowest point (3, −4) [1]. (e) x² − 6x − 7 = 0, so (x − 7)(x + 1) = 0 [1]; x = 7 or x = −1 [1]."
+   },
+   {
+    "position": 4,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 4 | A 3 | D 3 | C 2]]\nA courier delivers parcels between six depots P, Q, R, S, T and U. The roads between depots and the journey time in minutes along each road are: P–Q 7, P–R 4, Q–R 3, Q–S 6, R–S 8, R–T 11, S–T 2, S–U 6, T–U 3. Diagram not to scale.\n(a) Calculate the sum of the journey times of all the roads. (1 mark)\n(b) State the degree of vertex S. (1 mark)\n(c) Find the shortest journey time from P to U. Write down the route and show your working. (3 marks)\n(d) The courier wants a journey that uses every road exactly once, starting at P. Use the degrees of the vertices to explain whether this is possible. (2 marks)\n(e) The courier leaves P at 09:10 and takes the shortest route. Find the arrival time at U. (1 mark)\n\nTotal for Question 4: 8 marks",
+    "mark_scheme": "(a) 7 + 4 + 3 + 6 + 8 + 11 + 2 + 6 + 3 = 50 minutes [1]. (b) 4 (roads to Q, R, T and U) [1]. (c) Route P–R–S–T–U [1]; 4 + 8 + 2 + 3 [1]; 17 minutes [1] (other routes: P–R–T–U = 18, P–R–S–U = 18, P–Q–S–T–U = 18). (d) Degrees: P 2, Q 3, R 4, S 4, T 3, U 2, so Q and T are the only odd vertices [1]; a journey using every road once must start at one odd vertex and end at the other, so it cannot start at P [1]. (e) 09:27 [1]."
+   },
+   {
+    "position": 5,
+    "marks": 20,
+    "criterion": "D",
+    "content": "[[Q 5 | D 12 | A 4 | C 4]]\nA school bakery bakes x wholemeal loaves and y seeded loaves each morning. The bakery has these constraints.\nConstraint 1: the oven holds at most 120 loaves in total.\nConstraint 2: a wholemeal loaf uses 500 g of flour and a seeded loaf uses 400 g of flour. There is 54 kg of flour available.\nConstraint 3: at least 20 seeded loaves are needed.\nConstraint 4: no more than 80 wholemeal loaves can be sold.\n(a) Write down an inequality for each of Constraints 1, 3 and 4. (3 marks)\n(b) Show that Constraint 2 can be written as 5x + 4y ≤ 540. (2 marks)\n(c) Find the coordinates of the point where the lines x + y = 120 and 5x + 4y = 540 meet. (3 marks)\n(d) The feasible region is a polygon with vertices (0, 20), (0, 120), (60, 60), A and (80, 20). Find the coordinates of A, where the lines 5x + 4y = 540 and x = 80 meet. (3 marks)\n(e) The bakery makes a profit of £1.20 on each wholemeal loaf and £0.80 on each seeded loaf. Write an expression for the profit £P, then calculate P at each of the five vertices. (4 marks)\n(f) The manager asks you to recommend a baking plan. In your answer you should: state how many of each loaf to bake and the profit; show how much flour and oven space the plan uses; compare it with baking 60 of each loaf; and give one practical risk of your plan. (5 marks)\n\nTotal for Question 5: 20 marks",
+    "mark_scheme": "(a) x + y ≤ 120 [1]; y ≥ 20 [1]; x ≤ 80 [1]. (b) 0.5x + 0.4y ≤ 54 (working in kg) [1]; multiply both sides by 10 to get 5x + 4y ≤ 540 [1]. (c) y = 120 − x, so 5x + 4(120 − x) = 540 [1]; x = 60 [1]; y = 60, point (60, 60) [1]. (d) 5(80) + 4y = 540 [1]; 4y = 140 so y = 35 [1]; A = (80, 35) [1]. (e) P = 1.2x + 0.8y [1]; values at (0, 20) £16, (0, 120) £96, (60, 60) £120, (80, 35) £124, (80, 20) £112 [2] (award 1 mark for at least three correct values); the greatest value is £124 at (80, 35) [1]. (f) Bake 80 wholemeal and 35 seeded, profit £124 [1]; flour used 5(80) + 4(35) = 540 so all 54 kg is used [1]; oven space 115 of 120 loaves [1]; the plan makes £124 compared with £120 for 60 of each, which is £4 more per morning [1]; a valid risk, for example no spare flour so any spoilage or error means loaves are lost, or demand for seeded loaves may be higher than 35 [1]."
+   },
+   {
+    "position": 6,
+    "marks": 10,
+    "criterion": "D",
+    "content": "[[Q 6 | D 6 | C 3 | A 1]]\nAn orienteering course starts and finishes at A. Runners go from A to control B, then to control C, then back to A. AB = 850 m, BC = 620 m and angle ABC = 74°. Diagram not to scale.\n(a) Use the cosine rule to calculate the distance AC, correct to the nearest metre. (3 marks)\n(b) Use the sine rule to calculate angle BAC, correct to 1 decimal place. (3 marks)\n(c) Calculate the area of triangle ABC, correct to the nearest 1000 m². (2 marks)\n(d) The organisers want the whole course to be between 2.2 km and 2.4 km long. Decide whether the course meets this requirement. Support your decision with a calculation. (2 marks)\n\nTotal for Question 6: 10 marks",
+    "mark_scheme": "(a) AC² = 850² + 620² − 2 × 850 × 620 × cos 74° [1]; AC² = 816378 [1]; AC = 904 m [1]. (b) sin A / 620 = sin 74° / 903.5 [1]; sin A = 0.6596 [1]; angle BAC = 41.3° [1]. (c) Area = ½ × 850 × 620 × sin 74° [1] = 253292 m², which is 253000 m² to the nearest 1000 m² [1]. (d) Course length = 850 + 620 + 904 = 2374 m = 2.37 km [1]; 2.2 < 2.37 < 2.4 so the course meets the requirement [1]."
+   },
+   {
+    "position": 7,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 7 | A 4 | D 2 | C 2]]\nTwo athletics clubs, Club P and Club Q, record the 100 m times, in seconds, of their runners. The five-number summaries are:\nClub P: minimum 10.9, lower quartile 11.4, median 11.8, upper quartile 12.5, maximum 13.6.\nClub Q: minimum 11.2, lower quartile 11.6, median 12.1, upper quartile 12.4, maximum 12.9.\n(a) Calculate the interquartile range of each club. (2 marks)\n(b) Calculate the range of each club. (1 mark)\n(c) A value is an outlier if it is more than 1.5 × IQR above the upper quartile. Show that the slowest runner in Club P is not an outlier. (2 marks)\n(d) Which club has the more consistent times? Give a reason using your answers to part (a). (1 mark)\n(e) A coach says that Club P is the faster club. Use the medians to explain whether the data supports this. (2 marks)\n\nTotal for Question 7: 8 marks",
+    "mark_scheme": "(a) Club P: 12.5 − 11.4 = 1.1 s [1]; Club Q: 12.4 − 11.6 = 0.8 s [1]. (b) P: 2.7 s and Q: 1.7 s [1] (both needed). (c) 1.5 × 1.1 = 1.65 and 12.5 + 1.65 = 14.15 [1]; 13.6 < 14.15 so it is not an outlier [1]. (d) Club Q, because its IQR (0.8 s) is smaller than the IQR of Club P (1.1 s) [1]. (e) The median of Club P (11.8 s) is lower than that of Club Q (12.1 s) [1]; so the typical runner in Club P is 0.3 s faster, which supports the claim for typical runners, although Club P is less consistent [1]."
+   },
+   {
+    "position": 8,
+    "marks": 32,
+    "criterion": "B",
+    "content": "[[Q 8 | B 25 | C 7]]\nInvestigating patterns. A designer builds square frames from metal rods that are all the same length. Stage n is a square grid with n rows and n columns of cells, and every side of every cell is one rod. Stage 1 is a single square cell and needs 4 rods. Stage 2 is a 2 by 2 grid of four cells and needs 12 rods. Let R be the number of rods needed for stage n.\n(a) Copy and complete the table for n = 1 to 5. Stages 1 and 2 are given: n = 1, R = 4; n = 2, R = 12. Find R for n = 3, n = 4 and n = 5. (3 marks)\n(b) Work out the first differences and second differences of the sequence 4, 12, 24, 40, 60. State what the second differences tell you about the rule. (3 marks)\n(c) Find a rule for R in terms of n. (4 marks)\n(d) Verify your rule for stage 6 by continuing the pattern of differences. (3 marks)\n(e) Justify why your rule is correct for every stage n by counting the rods in a grid. (4 marks)\n(f) A second design uses grids with n rows and n + 2 columns (for example n = 1 is 1 row and 3 columns). Find a rule for the number of rods T in terms of n. Show how you count the horizontal and vertical rods. (4 marks)\n(g) Verify your rule in part (f) for n = 3 by counting the rods in a grid of 3 rows and 5 columns. (2 marks)\n(h) Show that the second design needs 4n + 2 more rods than the square design with the same n, and explain this in terms of the two extra columns. (3 marks)\n(i) The designer has 500 rods. Find the largest square grid (stage n) that can be built. (3 marks)\n(j) Justify that no square grid uses exactly 300 rods. (3 marks)\n\nTotal for Question 8: 32 marks",
+    "mark_scheme": "(a) n = 3: 24 [1]; n = 4: 40 [1]; n = 5: 60 [1]. (b) First differences 8, 12, 16, 20 [1]; second differences 4, 4, 4 [1]; constant second difference means the rule is quadratic [1]. (c) R = an² + bn + c with 2a = 4 so a = 2 [1]; 2 + b + c = 4 and 8 + 2b + c = 12 [1]; b = 2 and c = 0 [1]; R = 2n² + 2n [1]. (d) Next first difference is 24 so R = 60 + 24 = 84 [1]; rule gives 2(36) + 2(6) = 84 [1]; the two values agree so the rule is verified [1]. (e) A grid has n + 1 horizontal lines of rods [1]; each horizontal line has n rods so n(n + 1) horizontal rods [1]; by symmetry there are n(n + 1) vertical rods [1]; total 2n(n + 1) = 2n² + 2n, which matches the rule [1]. (f) Horizontal lines: n + 1 lines each of n + 2 rods, giving (n + 1)(n + 2) [1]; vertical lines: n + 3 lines each of n rods, giving n(n + 3) [1]; T = n² + 3n + 2 + n² + 3n [1]; T = 2n² + 6n + 2 [1]. (g) Count: 4 × 5 + 6 × 3 = 20 + 18 = 38 [1]; rule: 2(9) + 6(3) + 2 = 38 [1]. (h) (2n² + 6n + 2) − (2n² + 2n) [1] = 4n + 2 [1]; two extra columns add 2(n + 1) horizontal rods and 2n vertical rods, which total 4n + 2 [1]. (i) 2n² + 2n ≤ 500, so n² + n ≤ 250 [1]; n = 15 needs 480 rods and n = 16 needs 544 rods [1]; largest stage is n = 15 [1]. (j) n = 11 needs 2(121) + 22 = 264 rods [1]; n = 12 needs 2(144) + 24 = 312 rods [1]; the rule increases with n and 300 lies between 264 and 312 so no whole stage uses 300 rods [1]."
+   }
+  ]
+ }
+]

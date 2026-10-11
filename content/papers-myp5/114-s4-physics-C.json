@@ -1,0 +1,60 @@
+[
+ {
+  "subject": "physics",
+  "grade": 5,
+  "format": "structured-mock",
+  "title": "Physics MYP 5 eAssessment Paper C (7 tasks, 62 marks)",
+  "criterion": null,
+  "questions": [
+   {
+    "position": 1,
+    "marks": 6,
+    "criterion": "A",
+    "content": "[[Q 1 | A 6]]\nA stone is dropped from rest from a bridge into a river. It takes 2.0 s to reach the water. Ignore air resistance. Use g = 10 m/s².\n(a) Calculate the speed of the stone when it hits the water. (2 marks)\n(b) Calculate the height of the bridge above the water. (2 marks)\n(c) On the Moon, a hammer and a feather released together from the same height land at the same time. Explain why. (2 marks)\n\nTotal for Question 1: 6 marks",
+    "mark_scheme": "(a) v = u + at (or v = gt) [1] = 10 x 2.0 = 20 m/s [1]. (b) average speed = (0 + 20)/2 = 10 m/s, distance = 10 x 2.0 [1] = 20 m [1] (accept s = 0.5 x 10 x 2.0² = 20 m). (c) There is no air on the Moon, so no air resistance acts on either object [1]; the only force is gravity, which gives all objects the same acceleration (the same free-fall acceleration) regardless of mass [1]."
+   },
+   {
+    "position": 2,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 2 | A 8]]\nRadioactive nuclei emit alpha particles, beta particles or gamma rays.\n(a) Three types of radiation are stopped by different materials. Select the radiation for each statement (select: alpha / beta / gamma).\n  (i) Stopped by a sheet of paper. (1 mark)\n  (ii) Stopped by about 3 mm of aluminium but not by paper. (1 mark)\n  (iii) Reduced but not stopped by several centimetres of lead. (1 mark)\n(b) Uranium-238 (atomic number 92) decays by emitting an alpha particle to form thorium. Give the nucleon number and the atomic number of the thorium nucleus formed. (2 marks)\n(c) Carbon-14 (atomic number 6) decays by beta emission to form nitrogen-14. Describe what happens in the nucleus and how the atomic number changes. (2 marks)\n(d) State why alpha radiation is the most ionising of the three types. (1 mark)\n\nTotal for Question 2: 8 marks",
+    "mark_scheme": "(a)(i) alpha [1]. (ii) beta [1]. (iii) gamma [1]. (b) Alpha particle has nucleon number 4 and atomic number 2, so thorium has nucleon number 238 - 4 = 234 [1] and atomic number 92 - 2 = 90 [1]. (c) A neutron changes into a proton (and an electron, the beta particle, is emitted) [1]; the atomic number increases by one (from 6 to 7) while the nucleon number stays 14 [1]. (d) Alpha particles are relatively large and carry a 2+ charge, so they interact strongly and ionise many atoms over a short distance [1]."
+   },
+   {
+    "position": 3,
+    "marks": 10,
+    "criterion": "B",
+    "content": "[[Q 3 | B 10]]\nA light-dependent resistor (LDR) is a component whose resistance changes with light intensity. A student wants to find how the distance of a lamp from an LDR affects the resistance of the LDR. She connects the LDR in series with a 6.0 V battery and an ammeter, with a voltmeter connected across the LDR. She places a lamp at distances of 10 cm to 50 cm from the LDR in a darkened room.\n(a) State a research question that this investigation can answer. (2 marks)\n(b) Formulate a testable hypothesis using scientific reasoning. (2 marks)\n(c) Identify the independent variable and the dependent variable. (2 marks)\n(d) Outline how the student will find the resistance of the LDR from her readings. (1 mark)\n(e) Outline two variables that must be controlled. (2 marks)\n(f) Outline one safety precaution. (1 mark)\n\nTotal for Question 3: 10 marks",
+    "mark_scheme": "(a) A question that links both variables, e.g. How does the distance of the lamp from the LDR affect the resistance of the LDR? [2] (1 mark if the variables are named but not linked). (b) Prediction, e.g. as distance increases the resistance of the LDR increases [1]; reasoning, e.g. the light intensity falls with distance, so fewer charge carriers are released in the LDR and it conducts less [1]. (c) Independent: distance of the lamp from the LDR [1]; dependent: resistance of the LDR [1]. (d) Resistance = voltage across LDR divided by current (R = V/I) [1]. (e) Any two from: same lamp and brightness, same battery voltage, darkened room (other light), lamp pointing directly at the LDR, same time lamp on [1][1]. (f) Any one from: do not touch the lamp as it gets hot, keep water away from the circuit, switch off between readings [1]."
+   },
+   {
+    "position": 4,
+    "marks": 12,
+    "criterion": "C",
+    "content": "[[Q 4 | C 12]]\nA student measures the count rate from a radioactive source using a Geiger counter. The background count rate, measured with the source removed, is 20 counts per minute. The corrected count rate is the measured count rate minus the background.\n\nTime (min): 0 | 2 | 4 | 6 | 8 | 10\nMeasured count rate (counts per minute): 420 | 300 | 220 | 160 | 120 | 90\nCorrected count rate (counts per minute): 400 | 280 | 200 | ? | 100 | 70\n\nA graph of corrected count rate (vertical axis) against time (horizontal axis) is a smooth curve that falls steeply at first and then more and more slowly. Diagram not to scale.\n(a) Explain why the background count rate is subtracted. (1 mark)\n(b) Calculate the missing corrected count rate at 6 min. (1 mark)\n(c) Describe the pattern of the decay. (2 marks)\n(d) Use the data to determine the half-life of the source. Show your working. (2 marks)\n(e) Predict the measured count rate at 16 min. (2 marks)\n(f) Explain why the measured count rates would not fit a perfectly smooth curve if the experiment were repeated, and suggest an improvement. (2 marks)\n(g) Describe two safety precautions that should be taken when handling the source. (2 marks)\n\nTotal for Question 4: 12 marks",
+    "mark_scheme": "(a) The Geiger counter also detects radiation from the surroundings (rocks, cosmic rays), which is not from the source [1]. (b) 160 - 20 = 140 counts per minute [1]. (c) The count rate falls [1], quickly at first and then more slowly (the rate of decrease is proportional to what remains; each time interval halves the count rate, not a constant amount) [1]. (d) The corrected count rate falls from 400 to 200 [1] in 4 min, so half-life = 4 min (accept 3.8 to 4.2; 280 to 140 between 2 and 6 min gives the same) [1]. (e) 16 min is four half-lives: 400 -> 200 -> 100 -> 50 -> 25 [1]; add the background: 25 + 20 = 45 counts per minute [1]. (f) Radioactive decay is random, so the number of counts in a given time varies [1]; improvement: count for longer or repeat each measurement and average [1]. (g) Any two from: use tongs and never handle directly, keep the source at a distance, store it in a lead-lined box, limit the time of exposure, do not point at people [1][1]."
+   },
+   {
+    "position": 5,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 5 | A 8]]\nTwo identical lamps, each of resistance 12 Ω, are connected in parallel to a 6.0 V battery of negligible internal resistance.\n(a) State the unit of electric charge. (1 mark)\n(b) A current of 3.0 A flows in a wire for 2.0 minutes. Calculate the charge that flows. (2 marks)\n(c) Calculate the current in each lamp. (2 marks)\n(d) Calculate the total current drawn from the battery. (1 mark)\n(e) One lamp fails and stops conducting. State what happens to the other lamp and explain why. (1 mark)\n(f) Calculate the power of one lamp. (1 mark)\n\nTotal for Question 5: 8 marks",
+    "mark_scheme": "(a) Coulomb (C) [1]. (b) t = 120 s [1]; Q = It = 3.0 x 120 = 360 C [1]. (c) I = V/R [1] = 6.0/12 = 0.50 A [1]. (d) 0.50 + 0.50 = 1.0 A [1]. (e) It stays lit as normal, because it is still connected directly across the 6.0 V battery by its own branch [1]. (f) P = VI = 6.0 x 0.50 = 3.0 W [1]."
+   },
+   {
+    "position": 6,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 6 | A 8]]\nThe table shows the average distance from the Sun and the time for one orbit of four planets. One astronomical unit (AU) is the average distance from the Earth to the Sun.\n\nPlanet: Mercury | Earth | Mars | Jupiter\nDistance from the Sun (AU): 0.39 | 1.00 | 1.52 | 5.20\nTime for one orbit (Earth years): 0.24 | 1.00 | 1.88 | 11.9\n\n(a) Describe the relationship between distance from the Sun and the time for one orbit. (1 mark)\n(b) Explain why planets that are further from the Sun take longer to complete an orbit. (2 marks)\n(c) The gravitational field strength at the surface of Jupiter is 25 N/kg. Calculate the weight of a person of mass 60 kg on Jupiter. (2 marks)\n(d) State what is meant by a moon. (1 mark)\n(e) A comet moves in an elliptical orbit around the Sun. Explain why it moves fastest when it is closest to the Sun. (2 marks)\n\nTotal for Question 6: 8 marks",
+    "mark_scheme": "(a) The further the planet is from the Sun, the longer the time for one orbit [1]. (b) The orbit is longer (larger circumference) [1]; the Sun's gravitational pull is weaker at greater distance, so the planet moves more slowly [1]. (c) W = mg [1] = 60 x 25 = 1500 N [1]. (d) A natural satellite that orbits a planet [1]. (e) The Sun's gravitational pull on the comet is strongest when it is closest [1]; the comet falls towards the Sun, so gravitational potential energy is transferred to kinetic energy and its speed increases [1]."
+   },
+   {
+    "position": 7,
+    "marks": 10,
+    "criterion": "D",
+    "content": "[[Q 7 | A 2 | C 2 | D 6]]\nRead the passage.\nA country plans to replace a coal-fired power station of output 1000 MW with a nuclear power station of the same output. Coal burning produces about 5 million tonnes of carbon dioxide each year at this size. The nuclear station would produce almost none while operating, but would take about ten years to build and would cost several billion pounds. The used fuel contains caesium-137, with a half-life of 30 years, and plutonium-239, with a half-life of 24 000 years. The used fuel must be stored safely for thousands of years. Supporters point out that the nuclear station would work all day and night in all weather. Opponents say the money should be spent on renewable energy that is quicker to build.\n(a) State what happens to a nucleus in nuclear fission. (1 mark)\n(b) State why used nuclear fuel is hazardous. (1 mark)\n(c) Calculate the fraction of caesium-137 that remains after 90 years. (2 marks)\n(d) Evaluate the proposal to build the nuclear power station. Reach a justified conclusion. (6 marks)\n\nTotal for Question 7: 10 marks",
+    "mark_scheme": "(a) A large, unstable nucleus (such as uranium-235) splits into two smaller nuclei, releasing energy (and neutrons) [1]. (b) It emits ionising radiation (alpha, beta, gamma) that can damage living cells / stay radioactive for a very long time [1]. (c) 90 years is 90/30 = 3 half-lives [1]; (1/2)³ = 1/8 (12.5%) remains [1]. (d) Up to 6 marks: advantages from the passage, e.g. almost no carbon dioxide while operating (compared with 5 million tonnes a year), works in all weather day and night [1][1]; disadvantages, e.g. long build time (ten years) and high cost, long-lived waste needing storage for thousands of years [1][1]; weighing the factors, e.g. compares the urgency of reducing emissions with the cost and long-term waste risk, or notes that caesium-137 falls to 1/8 in 90 years while plutonium-239 remains for a very long time [1]; justified conclusion, e.g. build with a funded waste plan or combine with renewable energy [1]. Do not credit a conclusion with no reasoning."
+   }
+  ]
+ }
+]

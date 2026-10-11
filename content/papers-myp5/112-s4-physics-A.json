@@ -1,0 +1,67 @@
+[
+ {
+  "subject": "physics",
+  "grade": 5,
+  "format": "structured-mock",
+  "title": "Physics MYP 5 eAssessment Paper A (8 tasks, 70 marks)",
+  "criterion": null,
+  "questions": [
+   {
+    "position": 1,
+    "marks": 6,
+    "criterion": "A",
+    "content": "[[Q 1 | A 6]]\nA lift of mass 800 kg is raised and lowered by a cable. Use g = 10 N/kg.\n(a) Calculate the weight of the lift. (1 mark)\n(b) The lift moves upwards at a constant speed of 2.0 m/s. State the tension in the cable and give a reason for your answer. (2 marks)\n(c) The lift then accelerates upwards at 1.5 m/s². Calculate the resultant force on the lift. (2 marks)\n(d) Calculate the tension in the cable while the lift accelerates upwards at 1.5 m/s². (1 mark)\n\nTotal for Question 1: 6 marks",
+    "mark_scheme": "(a) W = mg = 800 x 10 = 8000 N [1]. (b) 8000 N [1]; the forces are balanced (no resultant force) because the speed is constant (Newton's first law) [1]. (c) F = ma [1] = 800 x 1.5 = 1200 N [1]. (d) Tension = weight + resultant force = 8000 + 1200 = 9200 N [1]."
+   },
+   {
+    "position": 2,
+    "marks": 6,
+    "criterion": "A",
+    "content": "[[Q 2 | A 6]]\nA student of mass 70 kg stands on frozen snow. Use g = 10 N/kg. The total area of the soles of her two boots in contact with the snow is 0.040 m².\n(a) Calculate the weight of the student. (1 mark)\n(b) Calculate the pressure that she exerts on the snow. (2 marks)\n(c) She puts on snowshoes. The total area of the snowshoes in contact with the snow is 0.20 m². Calculate the new pressure on the snow. (1 mark)\n(d) Explain why the snowshoes make it less likely that she will sink into the snow. (2 marks)\n\nTotal for Question 2: 6 marks",
+    "mark_scheme": "(a) W = 70 x 10 = 700 N [1]. (b) p = F/A [1] = 700/0.040 = 17 500 Pa (17.5 kPa) [1]. (c) 700/0.20 = 3500 Pa [1]. (d) The force (her weight) is the same [1], but it is spread over a larger area, so the pressure on the snow is smaller [1]."
+   },
+   {
+    "position": 3,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 3 | A 8]]\nA solid metal block is a cuboid with edges 4.0 cm, 5.0 cm and 2.5 cm. Its mass is 135 g.\n(a) Calculate the volume of the block. (2 marks)\n(b) Calculate the density of the block in g/cm³. (2 marks)\n(c) The density of ice is 920 kg/m³ and the density of water is 1000 kg/m³. State why ice floats on water. (2 marks)\n(d) State the difference between the mass and the weight of an object. (1 mark)\n(e) The gravitational field strength on the Moon is 1.6 N/kg. Calculate the weight on the Moon of an astronaut of mass 60 kg. (1 mark)\n\nTotal for Question 3: 8 marks",
+    "mark_scheme": "(a) V = 4.0 x 5.0 x 2.5 [1] = 50 cm³ [1]. (b) density = mass/volume [1] = 135/50 = 2.7 g/cm³ [1]. (c) Ice has a lower density than water [1], so it is less dense than the water it displaces and floats (the upthrust is enough to support its weight) [1]. (d) Mass is the amount of matter (measured in kg) and does not change with place; weight is the force of gravity on the object (measured in N) and depends on the gravitational field strength [1]. (e) W = mg = 60 x 1.6 = 96 N [1]."
+   },
+   {
+    "position": 4,
+    "marks": 10,
+    "criterion": "B",
+    "content": "[[Q 4 | B 10]]\nA student investigates how the area of a parachute affects the time it takes to fall. She makes square parachutes from thin plastic sheet with sides of 10 cm, 15 cm, 20 cm, 25 cm and 30 cm. She attaches a 20 g mass to each by four strings of equal length. She drops each parachute from a height of 2.0 m and times the fall with a stopwatch.\n(a) Formulate a testable hypothesis for this investigation, using scientific reasoning. (2 marks)\n(b) Identify the independent variable and the dependent variable. (2 marks)\n(c) Outline two variables that the student must keep constant. (2 marks)\n(d) Outline how the student should collect her data so that the results are reliable. (2 marks)\n(e) Explain one source of error in the use of a stopwatch for this investigation and suggest how to reduce it. (2 marks)\n\nTotal for Question 4: 10 marks",
+    "mark_scheme": "(a) A prediction linking the variables, e.g. the larger the parachute area, the longer the fall time [1]; reasoning, e.g. a larger area gives more air resistance, so the resultant downward force is smaller and the parachute accelerates less and falls more slowly [1]. (b) Independent: area (side length) of the parachute [1]; dependent: time to fall 2.0 m [1]. (c) Any two from: mass attached, drop height, string length, plastic material/thickness, the way it is released [1][1]. (d) Repeat each size at least three times [1] and calculate a mean (discarding any anomalous result) [1]. (e) Reaction time of the student when starting/stopping the watch [1]; reduce by using video of the drop with a timer, light gates, or a longer drop height so reaction time is a smaller fraction of the total [1]."
+   },
+   {
+    "position": 5,
+    "marks": 12,
+    "criterion": "C",
+    "content": "[[Q 5 | C 12]]\nA group of students investigates how the resultant force on a trolley affects its acceleration. A light gate system measures the acceleration. Weights are moved from the trolley to a hanger so that the total mass of the system stays constant. Each force is tested twice.\n\nResultant force F (N): 0.2 | 0.4 | 0.6 | 0.8 | 1.0\nAcceleration, trial 1 (m/s²): 0.24 | 0.50 | 0.76 | 1.00 | 1.24\nAcceleration, trial 2 (m/s²): 0.28 | 0.48 | 0.78 | 0.98 | 1.28\nMean acceleration (m/s²): 0.26 | 0.49 | 0.77 | ? | 1.26\n\nA graph of mean acceleration (vertical axis) against force (horizontal axis) is drawn. The points lie close to a straight line that passes through the origin (0, 0) and the point (1.0 N, 1.26 m/s²). Diagram not to scale.\n(a) Calculate the missing mean acceleration for 0.8 N. (1 mark)\n(b) Describe the relationship shown by the data. (2 marks)\n(c) Calculate the gradient of the line. Give the unit as (m/s²) per N. (2 marks)\n(d) The gradient equals 1 divided by the total mass. Use it to find the total mass of the system. The students measured the mass as 0.80 kg. Comment on the agreement. (2 marks)\n(e) Write a conclusion for the investigation, supported by data. (2 marks)\n(f) Evaluate the reliability of the results. (3 marks)\n\nTotal for Question 5: 12 marks",
+    "mark_scheme": "(a) (1.00 + 0.98)/2 = 0.99 m/s² [1]. (b) As the force increases the acceleration increases [1]; directly proportional: doubling the force (0.2 to 0.4 N) roughly doubles the acceleration (0.26 to 0.49) / the graph is a straight line through the origin [1]. (c) gradient = change in acceleration/change in force = (1.26 - 0)/(1.0 - 0) [1] = 1.26 (m/s²) per N [1] (accept 1.2 to 1.3). (d) mass = 1/1.26 = 0.79 kg [1]; this agrees closely with 0.80 kg (difference about 1%), so the data support the relationship [1]. (e) At constant mass the acceleration is directly proportional to the resultant force [1], supported by a quoted pair of values, e.g. 0.2 N gives 0.26 m/s² and 1.0 N gives 1.26 m/s² (five times the force gives about five times the acceleration) [1]. (f) Good agreement between the repeats: the largest difference between the two trials is only 0.04 m/s² (at 0.2 N and 1.0 N) [1]; however only two repeats were taken, so an anomaly could not be identified; more repeats (at least three) and a mean would improve reliability [1]; a further improvement such as a data logger/light gates at both ends or checking friction by tilting the track [1]."
+   },
+   {
+    "position": 6,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 6 | A 8]]\nRead the passage.\nIn the 1920s, astronomers found that the light from almost all distant galaxies is shifted towards the red end of the spectrum. The more distant the galaxy, the larger the shift. In 1965 two scientists detected faint microwave radiation arriving from every direction in space. Most scientists now accept the Big Bang theory of how the Universe began.\n(a) State what is meant by redshift. (1 mark)\n(b) Explain how redshift shows that galaxies are moving away from us. (2 marks)\n(c) Describe how the microwave radiation provides evidence for the Big Bang. (2 marks)\n(d) State the approximate age of the Universe in years. (1 mark)\n(e) Compare terrestrial planets and gas giants. (2 marks)\n\nTotal for Question 6: 8 marks",
+    "mark_scheme": "(a) The wavelength of the light received from a source is longer than the wavelength emitted (shifted towards red) [1]. (b) Light from a galaxy that is moving away is stretched to a longer wavelength [1]; the larger the redshift the faster the galaxy is moving away, and since distant galaxies show larger redshifts, the Universe is expanding [1]. (c) The microwaves are the cosmic microwave background, radiation left over from the hot, dense early Universe [1]; as the Universe expanded it cooled and the radiation was stretched to longer wavelength (microwaves), as predicted by the theory [1]. (d) About 13.8 billion years (accept 13 to 14 billion) [1]. (e) Any two comparisons from: terrestrial planets are small, gas giants are large; terrestrial are rocky/solid, gas giants are mostly hydrogen and helium; terrestrial have higher density; terrestrial are closer to the Sun [1][1]."
+   },
+   {
+    "position": 7,
+    "marks": 10,
+    "criterion": "D",
+    "content": "[[Q 7 | A 1 | C 3 | D 6]]\nRead the passage.\nA desert region plans a solar farm. The panels will cover 40 000 m². Averaged over day and night through the year, the Sun delivers 250 W of power to each square metre of panel. The panels are 20% efficient. An average household in the region uses electricity at an average rate of 0.50 kW. The farm will cover 0.30 km² of desert, which is home to rare lizards, and it will need large batteries to supply electricity at night. Supporters say the farm will produce no carbon dioxide while operating. Critics say the panels contain materials that must be mined and will need replacing after about 25 years.\n(a) State the name of the nuclear process that releases the energy in the Sun. (1 mark)\n(b) Calculate the average power of the Sun's radiation falling on the panels. (1 mark)\n(c) Calculate the average electrical power output of the solar farm. (1 mark)\n(d) Calculate the number of households this average output can supply. (1 mark)\n(e) Evaluate the proposal to build the solar farm, using information from the passage. Reach a justified conclusion. (6 marks)\n\nTotal for Question 7: 10 marks",
+    "mark_scheme": "(a) Nuclear fusion [1]. (b) 250 x 40 000 = 10 000 000 W (10 MW) [1]. (c) 10 MW x 0.20 = 2.0 MW (2 000 000 W) [1]. (d) 2 000 000/500 = 4000 households [1]. (e) Up to 6 marks: advantages from the passage, e.g. renewable source, no carbon dioxide in operation, supplies about 4000 households [1][1]; disadvantages from the passage, e.g. loss of lizard habitat, output only when the Sun shines so batteries are needed, mining of materials and panels replaced after 25 years [1][1]; a weighing of the factors (e.g. the habitat loss is local and 0.30 km² is small, or batteries add cost and environmental impact) [1]; a justified conclusion, e.g. approve with conditions such as moving the lizards or choosing a less sensitive site [1]. Do not credit a conclusion with no reasoning."
+   },
+   {
+    "position": 8,
+    "marks": 10,
+    "criterion": "D",
+    "content": "[[Q 8 | A 2 | C 2 | D 6]]\nRead the passage.\nThousands of pieces of space debris orbit the Earth. At an altitude of 400 km the debris travels at about 7.7 km/s (7700 m/s). A small fleck of paint of mass 0.010 kg can crack the window of a spacecraft. Space agencies are discussing two measures: a rule that all new satellites must be moved out of orbit within five years of the end of their working life, and spacecraft that capture old debris. Each removal mission costs tens of millions of pounds.\n(a) State the force that keeps a satellite in orbit around the Earth. (1 mark)\n(b) State how the gravitational field strength changes as the altitude of a satellite increases. (1 mark)\n(c) Calculate the kinetic energy of the paint fleck. Use kinetic energy = ½mv². (2 marks)\n(d) A car of mass 1000 kg moving at 20 m/s has a kinetic energy of 200 000 J. Use this and your answer to (c) to explain why very small pieces of debris are dangerous. (2 marks)\n(e) Discuss whether the two measures are worth the cost. Reach a justified conclusion. (4 marks)\n\nTotal for Question 8: 10 marks",
+    "mark_scheme": "(a) Gravity (gravitational attraction between the satellite and the Earth) [1]. (b) It decreases [1]. (c) KE = 0.5 x 0.010 x 7700² [1] = 296 450 J (about 3.0 x 10^5 J) [1]. (d) The fleck has more kinetic energy than the car although its mass is 100 000 times smaller [1], because kinetic energy depends on the square of the speed, so the very high speed gives it a large energy that can cause damage on impact [1]. (e) Up to 4 marks: a benefit linked to the passage (e.g. protects working satellites and astronauts, which are expensive and important to communications and weather forecasts) [1]; a cost or limitation (e.g. tens of millions of pounds per mission; the rule does not remove existing debris) [1]; a comparison of the two measures (e.g. the five-year rule is cheap and prevents new debris, removal is costly but deals with existing debris) [1]; a justified conclusion [1]."
+   }
+  ]
+ }
+]

@@ -1,0 +1,67 @@
+[
+ {
+  "subject": "biology",
+  "grade": 5,
+  "format": "structured-mock",
+  "title": "Biology MYP 5 eAssessment Paper B (8 tasks, 72 marks)",
+  "criterion": null,
+  "questions": [
+   {
+    "position": 1,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 1 | A 8]]\nCholera is caused by a bacterium and spreads in water contaminated with sewage. Influenza is caused by a virus and spreads in droplets from coughs and sneezes.\n(a) Describe one way to reduce the spread of influenza and one way to reduce the spread of cholera. (2 marks)\n(b) Explain why antibiotics can be used to treat cholera but not influenza. (2 marks)\n(c) Explain how a vaccine protects a person against a future infection. (3 marks)\n(d) Explain why unvaccinated people are less likely to catch a disease when most of the population has been vaccinated. (1 mark)\n\nTotal for Question 1: 8 marks",
+    "mark_scheme": "(a) Influenza: cover coughs and sneezes / wash hands / stay at home when ill [1]. Cholera: treat sewage / provide clean drinking water / boil water [1].\n(b) Antibiotics kill bacteria (for example by damaging bacterial cell walls) [1]; viruses live and reproduce inside host cells and are not affected by antibiotics [1].\n(c) The vaccine contains a weakened or dead pathogen (or its antigens) [1]; the body makes antibodies and memory cells (lymphocytes) without causing the disease [1]; if the real pathogen enters later, memory cells quickly make large amounts of antibodies so the person is protected [1].\n(d) Herd immunity: the pathogen cannot easily pass from person to person because most people are immune [1]."
+   },
+   {
+    "position": 2,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 2 | A 8]]\nScientists classify organisms using a system of groups. The lion is named Panthera leo, the tiger is named Panthera tigris and the domestic cat is named Felis catus.\n(a) Explain the information given by each of the two words in the binomial name Panthera leo. (2 marks)\n(b) State which two of the three animals are most closely related and give a reason. (2 marks)\nA dichotomous key is shown.\n1a Has feathers: bird. 1b No feathers: go to 2.\n2a Has hair or fur: mammal. 2b No hair or fur: go to 3.\n3a Dry skin covered in scales: reptile. 3b Moist skin with no scales: amphibian.\n(c) Use the key to identify the group of (i) a crocodile, which has dry scaly skin, and (ii) a frog, which has smooth moist skin and lays eggs in water. (2 marks)\n(d) State two features of mammals that are not in the key. (2 marks)\n\nTotal for Question 2: 8 marks",
+    "mark_scheme": "(a) The first word is the genus (the group of closely related species) [1]; the second word is the species [1].\n(b) Lion and tiger [1]; they are in the same genus (Panthera) [1].\n(c) (i) reptile [1]; (ii) amphibian [1].\n(d) Any two from: mammary glands that produce milk; give birth to live young (most mammals); body temperature kept constant (warm-blooded); four-chambered heart; diaphragm [2]."
+   },
+   {
+    "position": 3,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 3 | A 8]]\nHumans have a double circulatory system. Gas exchange takes place in the alveoli of the lungs.\n(a) Name the blood vessel that carries oxygenated blood from the lungs to the heart. (1 mark)\n(b) Describe the path taken by blood from the right ventricle to the left atrium. (3 marks)\n(c) Explain how the alveoli are adapted for efficient gas exchange. (3 marks)\n(d) State one advantage of a double circulatory system compared with a single circulation. (1 mark)\n\nTotal for Question 3: 8 marks",
+    "mark_scheme": "(a) Pulmonary vein [1].\n(b) Blood leaves the right ventricle in the pulmonary artery [1]; it passes through capillaries in the lungs [1]; it returns in the pulmonary vein to the left atrium [1].\n(c) Walls are one cell thick, giving a short diffusion distance [1]; there are very many alveoli, giving a large surface area [1]; a dense capillary network and breathing keep a steep concentration gradient (moist lining lets gases dissolve) [1].\n(d) Blood returns to the heart to be pumped again after the lungs, so it reaches the body at higher pressure [1]."
+   },
+   {
+    "position": 4,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 4 | A 8]]\nStudy the information about a woodland ecosystem. Oak leaves are eaten by caterpillars and by squirrels. Caterpillars are eaten by blue tits. Blue tits are eaten by sparrowhawks. Squirrels are eaten by foxes.\n(a) Name the process by which carbon dioxide is removed from the air by oak trees. (1 mark)\n(b) State two processes that return carbon dioxide to the air. (2 marks)\n(c) Nitrogen-fixing bacteria live in the root nodules of some plants. Explain why they are useful to the plants. (2 marks)\n(d) Write a food chain from the information that has four organisms. (1 mark)\n(e) Name one secondary consumer in the woodland. (1 mark)\n(f) A farmer sprays insecticide that kills most of the caterpillars. Explain one effect on the sparrowhawk population. (1 mark)\n\nTotal for Question 4: 8 marks",
+    "mark_scheme": "(a) Photosynthesis [1].\n(b) Any two from: respiration, combustion (burning), decomposition (decay) [2].\n(c) They convert nitrogen gas from the air into nitrogen compounds (nitrates or ammonium) [1]; the plant uses these to make proteins (amino acids) [1].\n(d) Oak leaves -> caterpillar -> blue tit -> sparrowhawk (or oak leaves -> squirrel -> fox) with arrows pointing from food to feeder [1].\n(e) Blue tit or fox [1].\n(f) Fewer caterpillars means less food for blue tits, so blue tit numbers fall, and the sparrowhawks have less food so their population decreases [1]."
+   },
+   {
+    "position": 5,
+    "marks": 10,
+    "criterion": "B",
+    "content": "[[Q 5 | B 10]]\nCells in organisms must exchange materials by diffusion. A student makes cubes of agar jelly that contain sodium hydroxide and an indicator that is pink in alkali and colourless in acid. The cubes are placed in dilute hydrochloric acid. As the acid diffuses in, the pink colour disappears. The student wants to investigate how the size of a cube affects the time taken for the pink colour to disappear. The side lengths of the cubes will be 0.5, 1.0, 1.5, 2.0 and 2.5 cm.\n(a) Formulate a hypothesis, using scientific reasoning. (2 marks)\n(b) Identify the independent variable and the dependent variable. (2 marks)\n(c) Outline a method that the student could follow to collect the results. (3 marks)\n(d) Outline two variables that must be controlled. (2 marks)\n(e) State one safety precaution for this investigation. (1 mark)\n\nTotal for Question 5: 10 marks",
+    "mark_scheme": "(a) A prediction that links the variables, e.g. larger cubes will take longer to turn colourless [1]; reasoning, e.g. larger cubes have a smaller surface area to volume ratio so the acid has further to diffuse / more volume to reach [1].\n(b) Independent: side length (size) of the cube [1]; dependent: time for the pink colour to disappear [1].\n(c) Cut the cubes accurately with a ruler and scalpel and place each in the same volume of acid at the same time as starting a stopwatch [1]; stop the timer when the pink colour has completely gone (observe against a white tile) [1]; repeat each size at least three times and calculate a mean [1].\n(d) Any two from: concentration of acid, volume of acid, temperature, same batch of agar, same indicator and concentration of sodium hydroxide, method of judging the end point [2].\n(e) Any one from: wear eye protection / gloves because the acid and sodium hydroxide are irritants; cut away from the body on a cutting board; wash hands afterwards [1]."
+   },
+   {
+    "position": 6,
+    "marks": 10,
+    "criterion": "C",
+    "content": "[[Q 6 | C 10]]\nA volcano covers an island with dark ash. Biologists count a sample of 200 beetles on the island at three times. The beetles are either green or brown. Birds eat the beetles that they can see easily. Colour is controlled by one gene.\nYear: 0, 10, 20\nGreen beetles: 150, 90, 40\nBrown beetles: 50, 110, 160\n(a) Calculate the percentage of green beetles in the sample in year 0. (1 mark)\n(b) Calculate the change in the percentage of brown beetles between year 0 and year 20. (2 marks)\n(c) Describe the trend shown by the data. (2 marks)\n(d) Use the theory of natural selection to explain the change in the beetle population. (4 marks)\n(e) Predict what would happen to the proportions over time if rain washed the ash away. (1 mark)\n\nTotal for Question 6: 10 marks",
+    "mark_scheme": "(a) 150 / 200 x 100 = 75% [1].\n(b) Year 0: 50 / 200 = 25% brown; year 20: 160 / 200 = 80% brown [1]; change = 55 percentage points (an increase) [1].\n(c) The number (proportion) of brown beetles increases over time [1]; the number of green beetles decreases at the same time (brown becomes the majority by year 10) [1].\n(d) There is variation in colour in the beetle population (caused by different alleles) [1]; brown beetles are better camouflaged against the dark ash so birds eat fewer of them [1]; brown beetles survive longer, breed and pass on the allele for brown to their offspring [1]; over generations the proportion of the brown allele in the population increases [1].\n(e) The green beetles would be better camouflaged again, so the proportion of green beetles would rise [1]."
+   },
+   {
+    "position": 7,
+    "marks": 10,
+    "criterion": "D",
+    "content": "[[Q 7 | D 10]]\nRead the passage.\nPeat is the thick layer of partly decayed plant material that forms in waterlogged bogs. Peat bogs store large amounts of carbon. In an upland region, 4 000 hectares of bog were drained so that sheep could graze. Scientists estimate that a drained bog releases 12 tonnes of carbon dioxide per hectare each year. A restoration project now plans to block the drainage ditches so that the bog fills with water again. Restored bogs hold rainwater like a sponge, which lowers flood risk downstream, and they provide habitat for rare birds. Farmers say that they will lose grazing land and income.\n(a) Calculate the mass of carbon dioxide released each year by the drained bog. (2 marks)\n(b) Explain why draining a peat bog increases the rate of climate change. (2 marks)\n(c) Identify two benefits of restoring the bog. (2 marks)\n(d) Evaluate the restoration project, considering the views of the farmers and the environment. (4 marks)\n\nTotal for Question 7: 10 marks",
+    "mark_scheme": "(a) 4 000 x 12 [1] = 48 000 tonnes of CO2 per year [1].\n(b) Draining lets air into the peat so microorganisms decompose it by aerobic respiration (decay speeds up) [1]; the carbon is released as carbon dioxide, a greenhouse gas that increases the greenhouse effect [1].\n(c) Any two from: stores carbon (less CO2 released); reduces flood risk downstream; provides habitat for rare birds and increases biodiversity [2].\n(d) An environmental benefit with evidence, e.g. avoids up to 48 000 tonnes of CO2 a year and reduces floods [1]; a social or economic cost, e.g. farmers lose grazing land and income [1]; a suggestion that balances both, e.g. compensate farmers or restore only part of the bog [1]; a justified conclusion [1]."
+   },
+   {
+    "position": 8,
+    "marks": 10,
+    "criterion": "A",
+    "content": "[[Q 8 | A 6 | C 4]]\nThe body keeps its water content steady. The table shows where a person's water comes from and goes on a cool day and on a hot day. Volumes are in cm3 per day. The person gains the same water on both days.\nWater gained: drink 1 500, food 700, respiration 300.\nWater lost on a cool day: urine 1 500, sweat 400, breathing 400, faeces 200.\nWater lost on a hot day: urine 600, sweat 1 300, breathing 400, faeces 200.\n(a) Name the organ that adjusts the concentration of the urine. (1 mark)\n(b) Antidiuretic hormone (ADH) is released into the blood by the pituitary gland. State the effect of ADH on the kidney. (2 marks)\n(c) Explain why less urine is produced on the hot day. (2 marks)\n(d) State the term for the mechanism that restores a factor to its normal value after a change. (1 mark)\n(e) Calculate the percentage of the total water lost as urine on the cool day. (2 marks)\n(f) Use the data to show that the person keeps a balanced water content on the hot day. (2 marks)\n\nTotal for Question 8: 10 marks",
+    "mark_scheme": "(a) Kidney [1].\n(b) ADH makes the kidney reabsorb more water into the blood [1]; so the urine is more concentrated and smaller in volume [1].\n(c) More water is lost in sweat on the hot day, so the blood becomes more concentrated [1]; more ADH is released, so more water is kept in the body and less urine is made [1].\n(d) Negative feedback [1].\n(e) Total lost = 1 500 + 400 + 400 + 200 = 2 500 cm3 [1]; 1 500 / 2 500 x 100 = 60% [1].\n(f) Hot day gains = 1 500 + 700 + 300 = 2 500 cm3 [1]; hot day losses = 600 + 1 300 + 400 + 200 = 2 500 cm3, so gains equal losses [1]."
+   }
+  ]
+ }
+]

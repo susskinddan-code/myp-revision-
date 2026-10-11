@@ -1,0 +1,67 @@
+[
+ {
+  "subject": "chemistry",
+  "grade": 5,
+  "format": "structured-mock",
+  "title": "Chemistry MYP 5 eAssessment Paper C (8 tasks, 70 marks)",
+  "criterion": null,
+  "questions": [
+   {
+    "position": 1,
+    "marks": 6,
+    "criterion": "A",
+    "content": "[[Q 1 | A 6]]\nThe table gives the melting points and boiling points of three substances A, B and C.\n\nSubstance: A | B | C\nMelting point (°C): -39 | -210 | 115\nBoiling point (°C): 357 | -196 | 445\n\n(a) State the physical state (solid, liquid or gas) of each substance at 25 °C. (3 marks)\n(b) Explain, using the particle model, what happens when substance C melts. (2 marks)\n(c) State which substance has the weakest forces between its particles. (1 mark)\n\nTotal for Question 1: 6 marks",
+    "mark_scheme": "(a) A: liquid [1]; B: gas [1]; C: solid [1]. (b) The particles gain energy (from heating) and vibrate more [1]; this overcomes the forces holding the particles in fixed positions so they can move past each other (no bonds within the particles are broken) [1]. (c) B (it has the lowest boiling point) [1]."
+   },
+   {
+    "position": 2,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 2 | A 8]]\nMethane, CH₄, is the main compound in natural gas. It burns in a plentiful supply of air to form carbon dioxide and water, but in a limited supply of air it burns incompletely.\n(a) State one condition that leads to incomplete combustion of methane. (1 mark)\n(b) Explain why carbon monoxide is toxic. (1 mark)\n(c) Balance the equation for incomplete combustion: __CH₄ + __O₂ -> __CO + __H₂O (2 marks)\n(d) Nitrogen oxides are formed in car engines even though the fuel contains no nitrogen. Explain why. (1 mark)\n(e) State one environmental problem caused by nitrogen oxides. (1 mark)\n(f) State the approximate percentage of nitrogen in dry air. (1 mark)\n(g) A catalytic converter converts carbon monoxide and nitrogen monoxide into carbon dioxide and nitrogen. Write the balanced symbol equation. (1 mark)\n\nTotal for Question 2: 8 marks",
+    "mark_scheme": "(a) A limited supply of air (oxygen) [1]. (b) It binds to haemoglobin in red blood cells and prevents them carrying oxygen [1]. (c) 2CH₄ + 3O₂ -> 2CO + 4H₂O: [1] for 2 and 2 (CH₄ and CO) and [1] for 3 and 4 (O₂ and H₂O). (d) The high temperature in the engine makes nitrogen and oxygen from the air react together [1]. (e) Acid rain (or smog / respiratory problems) [1]. (f) About 78% [1]. (g) 2CO + 2NO -> 2CO₂ + N₂ [1]."
+   },
+   {
+    "position": 3,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 3 | A 8]]\nThe table shows the pH of two acids of the same concentration, 0.10 mol/dm³.\n\nSolution: hydrochloric acid | ethanoic acid\npH: 1 | 3\n\n(a) State which solution contains the strong acid and give a reason. (2 marks)\n(b) Explain, in terms of ionisation, why the two pH values are different. (2 marks)\n(c) Calculate how many times greater the hydrogen ion concentration is in the solution of pH 1 than in the solution of pH 3. (1 mark)\n(d) Equal volumes of the two acids are reacted with excess magnesium ribbon. Compare the initial rate and the final volume of hydrogen gas produced. (2 marks)\n(e) Write the ionic equation for neutralisation. (1 mark)\n\nTotal for Question 3: 8 marks",
+    "mark_scheme": "(a) Hydrochloric acid [1]; it has the lower pH at the same concentration, so it has the higher concentration of hydrogen ions [1]. (b) Hydrochloric acid ionises completely in water [1]; ethanoic acid is only partly ionised (an equilibrium), so fewer H⁺ ions [1]. (c) Each pH unit is a factor of ten, so 2 units = 100 times greater [1]. (d) The initial rate is faster for hydrochloric acid [1]; the final volume of hydrogen is the same because both contain the same number of moles of acid [1]. (e) H⁺ + OH⁻ -> H₂O [1]."
+   },
+   {
+    "position": 4,
+    "marks": 10,
+    "criterion": "B",
+    "content": "[[Q 4 | B 10]]\nElectrolysis of copper(II) sulfate solution using copper electrodes transfers copper from the positive electrode (anode) to the negative electrode (cathode). A student wants to find out how the size of the current affects the mass of copper deposited. She sets up the circuit with an ammeter and a variable resistor and passes currents of 0.2 A, 0.4 A, 0.6 A, 0.8 A and 1.0 A, each for 10 minutes, using a new cathode each time.\n(a) Formulate a testable hypothesis using scientific reasoning. (2 marks)\n(b) Identify the independent variable and the dependent variable. (2 marks)\n(c) Outline two variables that must be controlled. (2 marks)\n(d) Describe how the student should find the mass of copper deposited on each cathode. (2 marks)\n(e) Write the half-equation for the change at the cathode. (1 mark)\n(f) Outline one safety precaution. (1 mark)\n\nTotal for Question 4: 10 marks",
+    "mark_scheme": "(a) A prediction linking the variables, e.g. the greater the current the greater the mass of copper deposited [1]; reasoning, e.g. a larger current means more charge flows each second, so more Cu²⁺ ions gain electrons at the cathode [1]. (b) Independent: the size of the current; dependent: the mass of copper deposited on the cathode (change in mass of cathode) [1][1]. (c) Any two from: time of electrolysis, concentration and volume of the solution, distance between and area of the electrodes immersed, temperature [1][1]. (d) Weigh each cathode before the experiment; after electrolysis rinse and dry it carefully (e.g. with propanone) and weigh it again [1]; mass deposited = final mass - initial mass [1]. (e) Cu²⁺ + 2e⁻ -> Cu [1]. (f) Any one from: wear eye protection, copper(II) sulfate is harmful so wash hands, take care with propanone near sparks/flames, do not touch electrodes while the current is on [1]."
+   },
+   {
+    "position": 5,
+    "marks": 12,
+    "criterion": "C",
+    "content": "[[Q 5 | C 12]]\nA student compares the energy released when four alcohols burn. For each alcohol, 1.00 g is burned in a spirit burner under a metal can that contains 100 g of water. The temperature rise of the water is measured. The specific heat capacity of water is 4.2 J/g °C. Relative atomic masses: C = 12, H = 1, O = 16.\n\nAlcohol: methanol | ethanol | propan-1-ol | butan-1-ol\nRelative formula mass: 32 | 46 | 60 | 74\nTemperature rise of water (°C): 11.0 | 14.0 | 16.0 | 17.0\nEnergy per mole (kJ/mol): 148 | ? | 403 | 528\n\n(a) Calculate the energy transferred to the water when the ethanol burns. (2 marks)\n(b) Show how the energy per mole for propan-1-ol is obtained from its temperature rise. (2 marks)\n(c) Describe the trend in energy per mole as the number of carbon atoms increases. Use the data. (2 marks)\n(d) Predict the energy per mole for pentan-1-ol. (1 mark)\n(e) A data book gives the energy released by burning one mole of ethanol as 1367 kJ/mol. Explain why the student's result is lower. (2 marks)\n(f) Suggest two improvements to the method. (2 marks)\n(g) State one safety precaution when using spirit burners. (1 mark)\n\nTotal for Question 5: 12 marks",
+    "mark_scheme": "(a) Q = mcΔT = 100 x 4.2 x 14.0 [1] = 5880 J (5.88 kJ) [1]. (b) Energy for 1.00 g = 100 x 4.2 x 16.0 = 6720 J = 6.72 kJ [1]; moles in 1.00 g = 1/60, so energy per mole = 6.72 x 60 = 403 kJ/mol [1]. (c) The energy per mole increases as the number of carbon atoms increases [1]; by roughly 120 to 135 kJ/mol for each additional CH₂ (148 -> 270 -> 403 -> 528) [1]. (d) About 650 kJ/mol (accept 640 to 670) [1]. (e) Much of the energy is lost to the surroundings and the metal can instead of heating the water [1]; the alcohol may burn incompletely (soot) so less energy is released, and some may evaporate unburned [1]. (f) Any two from: use a draught shield or lid to reduce heat loss, insulate the can, stir the water, move the can closer to the flame, use a digital thermometer, weigh the burner before and after [1][1]. (g) Any one from: keep flammable liquids away from other flames, extinguish the burner with the cap, wear eye protection, tie back hair [1]."
+   },
+   {
+    "position": 6,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 6 | A 8]]\nGroup 2 metals react with water. Magnesium reacts very slowly with cold water. Calcium reacts steadily with cold water, forming a cloudy solution and bubbles of gas. Strontium reacts more vigorously than calcium.\n(a) Calcium has atomic number 20. State its electron arrangement. (1 mark)\n(b) State the trend in reactivity down Group 2 and explain it. (3 marks)\n(c) Write the balanced symbol equation for the reaction of calcium with water to form calcium hydroxide and hydrogen. (2 marks)\n(d) Describe the test for hydrogen gas. (1 mark)\n(e) Predict whether the pH of the final mixture is above or below 7 and name the ion responsible. (1 mark)\n\nTotal for Question 6: 8 marks",
+    "mark_scheme": "(a) 2,8,8,2 [1]. (b) Reactivity increases down the group [1]; the outer electrons are further from the nucleus and more shielded [1]; so they are held less strongly and are lost more easily [1]. (c) Ca + 2H₂O -> Ca(OH)₂ + H₂: correct formulae [1]; balanced [1]. (d) A lit splint makes a squeaky pop [1]. (e) Above 7 (alkaline), because of hydroxide ions, OH⁻ [1]."
+   },
+   {
+    "position": 7,
+    "marks": 10,
+    "criterion": "D",
+    "content": "[[Q 7 | A 2 | C 2 | D 6]]\nRead the passage.\nChlorofluorocarbons (CFCs) were widely used in refrigerators and aerosol sprays. In the stratosphere, ultraviolet radiation breaks CFC molecules and releases chlorine atoms, and one chlorine atom can destroy many thousands of ozone molecules. An international agreement, the Montreal Protocol (1987), banned most CFCs. The ozone layer over Antarctica is expected to recover to its 1980 level around the year 2066. Some replacement chemicals, hydrofluorocarbons (HFCs), do not harm ozone but are strong greenhouse gases, and countries have agreed to reduce their use. Illustrative values for the amount of ozone-depleting chlorine in the stratosphere are given below.\n\nYear: 1980 | 1990 | 2000 | 2010 | 2020\nChlorine in stratosphere (parts per billion): 2.0 | 3.4 | 3.7 | 3.3 | 2.9\n\n(a) State the function of the ozone layer. (1 mark)\n(b) Name the element in CFCs that destroys ozone. (1 mark)\n(c) Calculate the percentage decrease in stratospheric chlorine from 2000 to 2020. (2 marks)\n(d) Evaluate how successful the international response to CFCs has been. Refer to the passage and the data and reach a justified conclusion. (6 marks)\n\nTotal for Question 7: 10 marks",
+    "mark_scheme": "(a) It absorbs harmful ultraviolet radiation from the Sun [1]. (b) Chlorine [1]. (c) (3.7 - 2.9)/3.7 [1] x 100 = 21.6% (about 22%) [1]. (d) Up to 6 marks: evidence of success, e.g. chlorine peaked in 2000 at 3.7 ppb and fell to 2.9 ppb by 2020, about 22% lower [1]; the ban on most CFCs worked because countries acted together, and recovery to the 1980 level of the ozone layer over Antarctica is expected by about 2066 [1]; limitations, e.g. the chlorine in 2020 is still above the 1980 level of 2.0 ppb, and recovery will take decades because the chlorine persists in the atmosphere [1]; a new problem, e.g. HFCs replace CFCs but are strong greenhouse gases and also need controlling [1]; a balanced judgement [1]; a justified conclusion, e.g. largely successful and an example of effective global cooperation but not complete [1]."
+   },
+   {
+    "position": 8,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 8 | A 8]]\nRelative atomic masses: H = 1, C = 12, N = 14, O = 16, Ca = 40. One mole of any gas occupies 24 dm³ at room temperature and pressure.\n(a) A student dissolves 4.0 g of sodium hydroxide, NaOH (relative formula mass 40), in water to make 500 cm³ of solution. Calculate the number of moles of sodium hydroxide and the concentration of the solution in mol/dm³. (2 marks)\n(b) Calcium carbonate reacts with excess hydrochloric acid: CaCO₃ + 2HCl -> CaCl₂ + H₂O + CO₂. Calculate the volume of carbon dioxide produced at room temperature and pressure from 5.0 g of calcium carbonate. (3 marks)\n(c) Calculate the relative formula mass of calcium hydroxide, Ca(OH)₂. (1 mark)\n(d) Calculate the percentage by mass of nitrogen in ammonium nitrate, NH₄NO₃. (2 marks)\n\nTotal for Question 8: 8 marks",
+    "mark_scheme": "(a) moles = 4.0/40 = 0.10 mol [1]; concentration = 0.10/0.500 = 0.20 mol/dm³ [1]. (b) Mr of CaCO₃ = 100, moles = 5.0/100 = 0.050 mol [1]; ratio 1 : 1 so 0.050 mol CO₂ [1]; volume = 0.050 x 24 = 1.2 dm³ [1]. (c) 40 + 2 x (16 + 1) = 74 [1]. (d) Mr = 14 + 4 + 14 + 48 = 80 [1]; % N = 28/80 x 100 = 35% [1]."
+   }
+  ]
+ }
+]

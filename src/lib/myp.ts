@@ -380,6 +380,78 @@ export async function fetchMixedQuestions(subjectId: string, grade: number, coun
   return pool.slice(0, count);
 }
 
+export type PaperTask = Awaited<ReturnType<typeof fetchPaperQuestions>>[number];
+
+/** Every written exam task for a subject at a grade, across all its practice papers. */
+export async function fetchSubjectPaperTasks(subjectId: string, grade: number) {
+  const { data, error } = await supabase
+    .from("paper_questions")
+    .select("*, past_papers!inner(title, subject_id, grade)")
+    .eq("past_papers.subject_id", subjectId)
+    .eq("past_papers.grade", grade)
+    .limit(2000);
+  if (error) throw error;
+  return (data ?? []) as (PaperTask & { past_papers: { title: string } })[];
+}
+
+/** Distinctive words from a topic name, used to match written tasks to topics. */
+export function topicKeywords(name: string): string[] {
+  const stop = new Set([
+    "and",
+    "the",
+    "of",
+    "in",
+    "on",
+    "to",
+    "for",
+    "with",
+    "its",
+    "introduction",
+    "properties",
+    "calculations",
+    "diagrams",
+    "types",
+    "using",
+    "from",
+    "that",
+    "this",
+  ]);
+  return name
+    .toLowerCase()
+    .replace(/[^a-z0-9\s'-]/g, " ")
+    .split(/\s+/)
+    .filter((w) => w.length > 3 && !stop.has(w));
+}
+
+/**
+ * Assemble a written paper from existing tasks: shuffled (or ranked by relevance when a
+ * score is given), taking whole tasks until the mark target is reached. Tasks are
+ * renumbered "Task 1…n" so labels from their original papers do not leak through.
+ */
+export function assembleWrittenExam(
+  tasks: PaperTask[],
+  targetMarks: number,
+  score?: (t: PaperTask) => number,
+): PaperTask[] {
+  const ordered = score
+    ? [...tasks].sort((a, b) => score(b) - score(a) || Math.random() - 0.5)
+    : shuffle(tasks);
+  const picked: PaperTask[] = [];
+  let total = 0;
+  for (const t of ordered) {
+    const m = marksOf(t.mark_scheme);
+    if (!m || total + m > targetMarks + 8) continue;
+    picked.push(t);
+    total += m;
+    if (total >= targetMarks) break;
+  }
+  return picked.map((t, i) => ({
+    ...t,
+    position: i + 1,
+    content: t.content.replace(/^(\s*\[\[)\s*[^|\]]+?\s*(\||\]\])/, `$1Task ${i + 1} $2`),
+  }));
+}
+
 export function shuffle<T>(list: T[]): T[] {
   const pool = [...list];
   for (let i = pool.length - 1; i > 0; i--) {

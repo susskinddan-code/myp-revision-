@@ -5,11 +5,13 @@ import { Clock, Lightbulb } from "lucide-react";
 import {
   fetchAllTopics,
   fetchAttempts,
-  fetchMixedQuestions,
   fetchPapers,
-  fetchQuestionsForTopics,
-  shuffle,
+  fetchSubjectPaperTasks,
   fetchSubjectsBySlugs,
+  assembleWrittenExam,
+  topicKeywords,
+  marksOf,
+  type PaperTask,
 } from "@/lib/myp";
 import {
   COMMAND_TERMS,
@@ -21,7 +23,6 @@ import {
 } from "@/lib/eassessment";
 import { masteryOf, STATUS_LABEL } from "@/lib/progress";
 import { PaperRunner } from "@/components/study/PaperRunner";
-import { QuestionRunner } from "@/components/study/QuestionRunner";
 import { useAuth } from "@/hooks/use-auth";
 import { Button } from "@/components/ui/button";
 
@@ -145,10 +146,20 @@ function AreaPage() {
             />
           ) : null}
           {tab === "Mixed test" && subject ? (
-            <MixedTest key={subject.id} subjectId={subject.id} subjectName={subject.name} />
+            <MixedTest
+              key={subject.id}
+              subjectId={subject.id}
+              subjectName={subject.name}
+              areaKey={area.key}
+            />
           ) : null}
           {tab === "Build my exam" && subject ? (
-            <BuildExam key={subject.id} subjectId={subject.id} subjectName={subject.name} />
+            <BuildExam
+              key={subject.id}
+              subjectId={subject.id}
+              subjectName={subject.name}
+              areaKey={area.key}
+            />
           ) : null}
           {tab === "Exam skills" ? <ExamSkills /> : null}
           {area.slugs.length && !subjects?.length && tab !== "Exam skills" ? (
@@ -256,10 +267,12 @@ function TimedPapers({
   });
   const paper = papers?.find((p) => p.id === paperId);
   const isMock = (title: string) =>
-    title.includes("Full eAssessment Mock") || title.includes("Structure Mock");
+    title.includes("Full eAssessment Mock") ||
+    title.includes("Structure Mock") ||
+    /\d+ marks\)/.test(title);
   const marksInTitle = (title: string) => Number(title.match(/(\d+) marks\)/)?.[1] ?? 0);
   const suggested = (count: number, title = "") => {
-    if (title.includes("Structure Mock")) {
+    if (title.includes("Structure Mock") || /\d+ marks\)/.test(title)) {
       const m = marksInTitle(title);
       return m ? Math.min(areaMinutes, Math.round(m * 1.2)) : areaMinutes;
     }
@@ -318,125 +331,107 @@ function TimedPapers({
   );
 }
 
-function MixedClock({ seconds, stopped }: { seconds: number; stopped: boolean }) {
-  const [left, setLeft] = useState(seconds);
-  useEffect(() => {
-    if (stopped) return;
-    const id = setInterval(() => setLeft((l) => Math.max(0, l - 1)), 1000);
-    return () => clearInterval(id);
-  }, [stopped]);
-  const m = Math.floor(left / 60);
-  const sec = String(left % 60).padStart(2, "0");
-  return (
-    <div
-      className={`mb-3 flex items-center justify-between rounded-lg border px-4 py-2 text-sm ${
-        left === 0 ? "border-destructive text-destructive" : "border-border bg-card"
-      }`}
-    >
-      <span>{left === 0 ? "Time is up. Finish the question you are on." : "Time remaining"}</span>
-      <span className="font-mono text-base tabular-nums">
-        {m}:{sec}
-      </span>
-    </div>
-  );
+type CustomExam = { tasks: PaperTask[]; minutes: number; title: string };
+
+function totalMarks(tasks: PaperTask[]) {
+  return tasks.reduce((t, q) => t + marksOf(q.mark_scheme), 0);
 }
 
-function MixedTest({ subjectId, subjectName }: { subjectId: string; subjectName: string }) {
-  const [count, setCount] = useState<number | null>(null);
+function MixedTest({
+  subjectId,
+  subjectName,
+  areaKey,
+}: {
+  subjectId: string;
+  subjectName: string;
+  areaKey: string;
+}) {
+  const [exam, setExam] = useState<CustomExam | null>(null);
   const [run, setRun] = useState(0);
-  const [result, setResult] = useState<{ score: number; total: number } | null>(null);
+  const [busy, setBusy] = useState(false);
+  const [message, setMessage] = useState<string | null>(null);
 
-  const { data: questions, isLoading } = useQuery({
-    queryKey: ["mixed", subjectId, count, run],
-    queryFn: () => fetchMixedQuestions(subjectId, GRADE, count!),
-    enabled: count !== null,
-    staleTime: Infinity,
-  });
+  async function start(minutes: number) {
+    setBusy(true);
+    setMessage(null);
+    try {
+      const all = await fetchSubjectPaperTasks(subjectId, GRADE);
+      const tasks = assembleWrittenExam(all, Math.round(minutes / 1.2));
+      if (!tasks.length) {
+        setMessage("No written tasks for this subject at MYP 5 yet.");
+        return;
+      }
+      setRun((r) => r + 1);
+      setExam({ tasks, minutes, title: `${subjectName} mixed test` });
+    } catch {
+      setMessage("Could not build the test right now. Try again.");
+    } finally {
+      setBusy(false);
+    }
+  }
 
-  if (count === null) {
+  if (exam) {
     return (
-      <div>
-        <p className="text-sm text-muted-foreground">
-          Questions are mixed from every topic in {subjectName}, so you practise recall without the
-          hints that come from knowing the topic.
-        </p>
-        <div className="mt-4 flex flex-wrap gap-3">
-          {[10, 20, 40].map((n) => (
-            <Button key={n} variant="outline" className="rounded-full" onClick={() => setCount(n)}>
-              {n} questions
-            </Button>
-          ))}
-        </div>
-      </div>
+      <PaperRunner
+        key={run}
+        paper={{ id: `mixed-${run}`, title: exam.title, grade: GRADE, criterion: null }}
+        tasks={exam.tasks}
+        subjectId={subjectId}
+        subjectName={subjectName}
+        exam={{ minutes: exam.minutes, formulas: formulaSheetFor(areaKey) }}
+        exitLabel="Back to mixed test"
+        onExit={() => setExam(null)}
+      />
     );
   }
-  if (isLoading) return <p className="text-sm text-muted-foreground">Building your test…</p>;
-  if (!questions?.length) return <Empty text="No questions for this subject at MYP 5 yet." />;
-
-  const both = result ? describeResult(result.score / result.total) : null;
   return (
     <div>
-      <MixedClock key={`${count}-${run}`} seconds={questions.length * 75} stopped={!!result} />
-      <QuestionRunner
-        key={`${count}-${run}`}
-        questions={questions}
-        subjectName={subjectName}
-        subjectId={subjectId}
-        topicName="mixed topics"
-        grade={GRADE}
-        onFinish={(score, total) => setResult({ score, total })}
-      />
-      {both ? (
-        <div className="mt-4 grid gap-3 sm:grid-cols-2">
-          <div className="rounded-lg border border-border bg-card p-4">
-            <p className="text-xs uppercase tracking-wide text-muted-foreground">
-              Criterion achievement (Levels 1-8)
-            </p>
-            <p className="mt-1 font-display text-2xl">Level {both.criterionLevel} of 8</p>
-          </div>
-          <div className="rounded-lg border border-border bg-card p-4">
-            <p className="text-xs uppercase tracking-wide text-muted-foreground">
-              Estimated overall subject grade (1-7)
-            </p>
-            <p className="mt-1 font-display text-2xl">Grade {both.overallGrade} of 7</p>
-          </div>
-          <p className="text-xs text-muted-foreground sm:col-span-2">
-            Multiple-choice only, so the real exam will feel different. The IB sets its own grade
-            boundaries each session, so use this as a guide.
-          </p>
-          <div className="sm:col-span-2">
-            <Button
-              className="rounded-full"
-              onClick={() => {
-                setResult(null);
-                setRun((r) => r + 1);
-              }}
-            >
-              New mixed test
-            </Button>
-          </div>
-        </div>
-      ) : null}
+      <p className="text-sm text-muted-foreground">
+        Written tasks drawn from every topic in {subjectName}, in exam conditions: a countdown, no
+        hints about which topic is coming, and AI marking against a mark scheme. Each new test is a
+        different mix.
+      </p>
+      <div className="mt-4 flex flex-wrap gap-3">
+        {[
+          { m: 30, l: "Short · 30 min" },
+          { m: 60, l: "Half paper · 60 min" },
+          { m: 105, l: "Full length · 105 min" },
+        ].map((o) => (
+          <Button
+            key={o.m}
+            variant="outline"
+            className="rounded-full"
+            disabled={busy}
+            onClick={() => start(o.m)}
+          >
+            {o.l}
+          </Button>
+        ))}
+      </div>
+      {message ? <p className="mt-4 text-sm text-destructive">{message}</p> : null}
     </div>
   );
 }
 
-const DIFFICULTIES = ["easy", "medium", "hard"] as const;
-
-function BuildExam({ subjectId, subjectName }: { subjectId: string; subjectName: string }) {
+function BuildExam({
+  subjectId,
+  subjectName,
+  areaKey,
+}: {
+  subjectId: string;
+  subjectName: string;
+  areaKey: string;
+}) {
   const { data: topics, isLoading } = useQuery({
     queryKey: ["ea-topics", subjectId],
     queryFn: () => fetchAllTopics(subjectId, GRADE),
   });
   const [picked, setPicked] = useState<string[]>([]);
-  const [levels, setLevels] = useState<string[]>([...DIFFICULTIES]);
-  const [count, setCount] = useState(20);
-  const [exam, setExam] = useState<Awaited<ReturnType<typeof fetchQuestionsForTopics>> | null>(
-    null,
-  );
+  const [minutes, setMinutes] = useState(60);
+  const [exam, setExam] = useState<CustomExam | null>(null);
+  const [run, setRun] = useState(0);
   const [building, setBuilding] = useState(false);
   const [message, setMessage] = useState<string | null>(null);
-  const [result, setResult] = useState<{ score: number; total: number } | null>(null);
 
   if (isLoading) return <p className="text-sm text-muted-foreground">Loading topics…</p>;
   const parents = (topics ?? []).filter((t) => !t.parent_topic_id);
@@ -448,22 +443,30 @@ function BuildExam({ subjectId, subjectName }: { subjectId: string; subjectName:
 
   async function build() {
     const chosen = picked.length ? picked : parents.map((p) => p.id);
-    const ids = new Set<string>();
+    const words = new Set<string>();
     for (const id of chosen) {
-      ids.add(id);
-      for (const t of topics ?? []) if (t.parent_topic_id === id) ids.add(t.id);
+      for (const t of topics ?? [])
+        if (t.id === id || t.parent_topic_id === id)
+          for (const w of topicKeywords(t.name)) words.add(w);
     }
     setBuilding(true);
     setMessage(null);
     try {
-      const all = await fetchQuestionsForTopics([...ids]);
-      const pool = all.filter((q) => levels.includes(q.difficulty));
-      if (!pool.length) {
-        setMessage("No questions match those choices yet. Try more topics or difficulties.");
+      const all = await fetchSubjectPaperTasks(subjectId, GRADE);
+      const hits = (q: PaperTask) => {
+        const text = q.content.toLowerCase();
+        let n = 0;
+        for (const w of words) if (text.includes(w)) n++;
+        return n;
+      };
+      const pool = picked.length ? all.filter((q) => hits(q) >= 2) : all;
+      const tasks = assembleWrittenExam(pool, Math.round(minutes / 1.2), hits);
+      if (!tasks.length) {
+        setMessage("No written tasks match those topics yet. Pick more topics.");
         return;
       }
-      setResult(null);
-      setExam(shuffle(pool).slice(0, count));
+      setRun((r) => r + 1);
+      setExam({ tasks, minutes, title: `${subjectName} custom exam` });
     } catch {
       setMessage("Could not build the exam right now. Try again.");
     } finally {
@@ -472,51 +475,26 @@ function BuildExam({ subjectId, subjectName }: { subjectId: string; subjectName:
   }
 
   if (exam) {
-    const both = result ? describeResult(result.score / result.total) : null;
     return (
-      <div>
-        <Button
-          variant="ghost"
-          size="sm"
-          className="mb-4 rounded-full"
-          onClick={() => setExam(null)}
-        >
-          Change my choices
-        </Button>
-        <QuestionRunner
-          key={exam.map((q) => q.id).join("")}
-          questions={exam}
-          subjectName={subjectName}
-          subjectId={subjectId}
-          topicName="your custom exam"
-          grade={GRADE}
-          onFinish={(score, total) => setResult({ score, total })}
-        />
-        {both ? (
-          <div className="mt-4 grid gap-3 sm:grid-cols-2">
-            <div className="rounded-lg border border-border bg-card p-4">
-              <p className="text-xs uppercase tracking-wide text-muted-foreground">
-                Criterion achievement (Levels 1-8)
-              </p>
-              <p className="mt-1 font-display text-2xl">Level {both.criterionLevel} of 8</p>
-            </div>
-            <div className="rounded-lg border border-border bg-card p-4">
-              <p className="text-xs uppercase tracking-wide text-muted-foreground">
-                Estimated overall subject grade (1-7)
-              </p>
-              <p className="mt-1 font-display text-2xl">Grade {both.overallGrade} of 7</p>
-            </div>
-          </div>
-        ) : null}
-      </div>
+      <PaperRunner
+        key={run}
+        paper={{ id: `custom-${run}`, title: exam.title, grade: GRADE, criterion: null }}
+        tasks={exam.tasks}
+        subjectId={subjectId}
+        subjectName={subjectName}
+        exam={{ minutes: exam.minutes, formulas: formulaSheetFor(areaKey) }}
+        exitLabel="Change my choices"
+        onExit={() => setExam(null)}
+      />
     );
   }
 
   return (
     <div className="max-w-2xl">
       <p className="text-sm text-muted-foreground">
-        Pick what you want to practise and we will build a test from the {subjectName} question
-        bank. Leave topics empty to include everything.
+        Pick the topics and how long you want to sit. We assemble a written exam from the{" "}
+        {subjectName} exam tasks that cover them, timed and AI marked. Leave topics empty to include
+        everything.
       </p>
       <h3 className="mt-5 font-display text-lg">Topics</h3>
       <div className="mt-2 flex flex-wrap gap-2">
@@ -535,37 +513,20 @@ function BuildExam({ subjectId, subjectName }: { subjectId: string; subjectName:
           </button>
         ))}
       </div>
-      <h3 className="mt-5 font-display text-lg">Difficulty</h3>
+      <h3 className="mt-5 font-display text-lg">Length</h3>
       <div className="mt-2 flex flex-wrap gap-2">
-        {DIFFICULTIES.map((d) => (
-          <button
-            key={d}
-            type="button"
-            onClick={() => setLevels((l) => (l.length === 1 && l.includes(d) ? l : toggle(l, d)))}
-            className={`rounded-full border px-3 py-1.5 text-sm capitalize transition-colors ${
-              levels.includes(d)
-                ? "border-primary bg-primary text-primary-foreground"
-                : "border-border bg-card hover:bg-secondary"
-            }`}
-          >
-            {d}
-          </button>
-        ))}
-      </div>
-      <h3 className="mt-5 font-display text-lg">Number of questions</h3>
-      <div className="mt-2 flex flex-wrap gap-2">
-        {[10, 20, 30, 40].map((n) => (
+        {[30, 60, 90, 105].map((n) => (
           <button
             key={n}
             type="button"
-            onClick={() => setCount(n)}
+            onClick={() => setMinutes(n)}
             className={`rounded-full border px-3 py-1.5 text-sm transition-colors ${
-              count === n
+              minutes === n
                 ? "border-primary bg-primary text-primary-foreground"
                 : "border-border bg-card hover:bg-secondary"
             }`}
           >
-            {n}
+            {n} min
           </button>
         ))}
       </div>

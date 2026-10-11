@@ -6,6 +6,7 @@ import { Button } from "@/components/ui/button";
 import { gradePaper, type PaperMark } from "@/lib/ai.functions";
 import {
   fetchPaperQuestions,
+  type PaperTask,
   recordAttempt,
   accuracyToMypLevel,
   marksOf,
@@ -20,11 +21,22 @@ type Props = {
   subjectId: string;
   subjectName: string;
   onExit: () => void;
+  /** Pre-assembled tasks (Mixed / Build my exam) instead of a stored paper. */
+  tasks?: PaperTask[];
+  exitLabel?: string;
   /** eAssessment-style sitting: countdown timer and both grade scales on the result. */
   exam?: { minutes: number; formulas?: FormulaGroup[] | null };
 };
 
-export function PaperRunner({ paper, subjectId, subjectName, onExit, exam }: Props) {
+export function PaperRunner({
+  paper,
+  subjectId,
+  subjectName,
+  onExit,
+  exam,
+  tasks,
+  exitLabel,
+}: Props) {
   const { user } = useAuth();
   const mark = useServerFn(gradePaper);
   const [responses, setResponses] = useState<Record<number, string>>({});
@@ -47,10 +59,13 @@ export function PaperRunner({ paper, subjectId, subjectName, onExit, exam }: Pro
     return () => clearTimeout(t);
   }, [secondsLeft, marks, marking]);
 
-  const { data: questions, isLoading } = useQuery({
+  const { data: fetched, isLoading: loadingFetched } = useQuery({
     queryKey: ["paper-questions", paper.id],
     queryFn: () => fetchPaperQuestions(paper.id),
+    enabled: !tasks,
   });
+  const questions = tasks ?? fetched;
+  const isLoading = !tasks && loadingFetched;
 
   async function handleSubmit() {
     if (!questions?.length) return;
@@ -117,7 +132,7 @@ export function PaperRunner({ paper, subjectId, subjectName, onExit, exam }: Pro
   return (
     <div>
       <Button variant="ghost" size="sm" className="mb-4 rounded-full" onClick={onExit}>
-        All practice papers
+        {exitLabel ?? "All practice papers"}
       </Button>
       <h2 className="font-display text-2xl">{paper.title}</h2>
       <p className="mt-1 text-sm text-muted-foreground">
@@ -353,7 +368,7 @@ export function PaperRunner({ paper, subjectId, subjectName, onExit, exam }: Pro
               Try again
             </Button>
             <Button className="rounded-full" onClick={onExit}>
-              Back to papers
+              {exitLabel ? "Done" : "Back to papers"}
             </Button>
           </>
         ) : (

@@ -122,19 +122,19 @@ Hobby questions appear in messages inviting a friend, surveys, short profiles an
 
 Exam tip: In dialogues with two speakers, write A and B at the top of your notes and record each person's hobbies separately. The wrong options in the exam are usually correct facts about the other speaker.$mq$ from st;
 
--- Free Time and Health > Weather and Seasons
+-- Free Time and Health > Weather and Seasons in Chinese
 insert into public.topics (subject_id, name, grade, position)
 select s.id, $mq$Free Time and Health$mq$, 5, 7 from public.subjects s where s.slug = $mq$mandarin-ab-initio$mq$
 on conflict (subject_id, name, grade) do nothing;
 insert into public.topics (subject_id, name, grade, parent_topic_id, position)
-select p.subject_id, $mq$Weather and Seasons$mq$, 5, p.id, 2
+select p.subject_id, $mq$Weather and Seasons in Chinese$mq$, 5, p.id, 2
 from public.topics p join public.subjects s on s.id = p.subject_id
 where s.slug = $mq$mandarin-ab-initio$mq$ and p.grade = 5 and p.name = $mq$Free Time and Health$mq$ and p.parent_topic_id is null
 on conflict (subject_id, name, grade) do nothing;
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$mandarin-ab-initio$mq$ and t.grade = 5 and t.name = $mq$Weather and Seasons$mq$ and p.name = $mq$Free Time and Health$mq$
+    where s.slug = $mq$mandarin-ab-initio$mq$ and t.grade = 5 and t.name = $mq$Weather and Seasons in Chinese$mq$ and p.name = $mq$Free Time and Health$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.questions (subject_id, topic_id, grade, type, content, options, answer, explanation, difficulty)
 select st.subject_id, st.topic_id, 5, 'MCQ', v.content, v.options::jsonb, v.answer, v.explanation, v.difficulty
@@ -171,7 +171,7 @@ How many degrees colder is today than yesterday?$mq$, $mq$["45 degrees","5 degre
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$mandarin-ab-initio$mq$ and t.grade = 5 and t.name = $mq$Weather and Seasons$mq$ and p.name = $mq$Free Time and Health$mq$
+    where s.slug = $mq$mandarin-ab-initio$mq$ and t.grade = 5 and t.name = $mq$Weather and Seasons in Chinese$mq$ and p.name = $mq$Free Time and Health$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.flashcards (subject_id, topic_id, grade, front, back)
 select st.subject_id, st.topic_id, 5, v.front, v.back
@@ -189,7 +189,7 @@ from st, (values
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$mandarin-ab-initio$mq$ and t.grade = 5 and t.name = $mq$Weather and Seasons$mq$ and p.name = $mq$Free Time and Health$mq$
+    where s.slug = $mq$mandarin-ab-initio$mq$ and t.grade = 5 and t.name = $mq$Weather and Seasons in Chinese$mq$ and p.name = $mq$Free Time and Health$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.notes (topic_id, content) select st.topic_id, $mq$## Describing the weather
 Weather is a classic beginner topic because it uses short, simple sentences. In Mandarin you can say a lot with only a few key words. You will meet weather in forecasts, messages to friends and holiday postcards.

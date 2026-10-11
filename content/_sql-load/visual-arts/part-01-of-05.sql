@@ -1,19 +1,19 @@
 -- Part 1 of 5: 3 sub-topics. Safe to re-run: sub-topics that already have a note are skipped.
 begin;
 
--- Visual Analysis > Elements of Art
+-- Visual Analysis > The Elements of Art
 insert into public.topics (subject_id, name, grade, position)
 select s.id, $mq$Visual Analysis$mq$, 5, 1 from public.subjects s where s.slug = $mq$visual-arts$mq$
 on conflict (subject_id, name, grade) do nothing;
 insert into public.topics (subject_id, name, grade, parent_topic_id, position)
-select p.subject_id, $mq$Elements of Art$mq$, 5, p.id, 1
+select p.subject_id, $mq$The Elements of Art$mq$, 5, p.id, 1
 from public.topics p join public.subjects s on s.id = p.subject_id
 where s.slug = $mq$visual-arts$mq$ and p.grade = 5 and p.name = $mq$Visual Analysis$mq$ and p.parent_topic_id is null
 on conflict (subject_id, name, grade) do nothing;
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$visual-arts$mq$ and t.grade = 5 and t.name = $mq$Elements of Art$mq$ and p.name = $mq$Visual Analysis$mq$
+    where s.slug = $mq$visual-arts$mq$ and t.grade = 5 and t.name = $mq$The Elements of Art$mq$ and p.name = $mq$Visual Analysis$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.questions (subject_id, topic_id, grade, type, content, options, answer, explanation, difficulty)
 select st.subject_id, st.topic_id, 5, 'MCQ', v.content, v.options::jsonb, v.answer, v.explanation, v.difficulty
@@ -40,7 +40,7 @@ from st, (values
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$visual-arts$mq$ and t.grade = 5 and t.name = $mq$Elements of Art$mq$ and p.name = $mq$Visual Analysis$mq$
+    where s.slug = $mq$visual-arts$mq$ and t.grade = 5 and t.name = $mq$The Elements of Art$mq$ and p.name = $mq$Visual Analysis$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.flashcards (subject_id, topic_id, grade, front, back)
 select st.subject_id, st.topic_id, 5, v.front, v.back
@@ -58,7 +58,7 @@ from st, (values
 with st as (select t.id as topic_id, t.subject_id from public.topics t
     join public.subjects s on s.id = t.subject_id
     join public.topics p on p.id = t.parent_topic_id
-    where s.slug = $mq$visual-arts$mq$ and t.grade = 5 and t.name = $mq$Elements of Art$mq$ and p.name = $mq$Visual Analysis$mq$
+    where s.slug = $mq$visual-arts$mq$ and t.grade = 5 and t.name = $mq$The Elements of Art$mq$ and p.name = $mq$Visual Analysis$mq$
       and not exists (select 1 from public.notes n where n.topic_id = t.id))
 insert into public.notes (topic_id, content) select st.topic_id, $mq$The elements of art are the basic building blocks that artists use to make any artwork. Think of them as the vocabulary of visual language: you can combine them in endless ways, but you first need to recognise each one and describe it accurately. The seven elements most often used in MYP Arts are line, shape, form, colour (hue, value, saturation), value, texture and space.
 

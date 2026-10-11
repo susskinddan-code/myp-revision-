@@ -1,0 +1,53 @@
+[
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "format": "structured-mock",
+  "title": "Standard Mathematics MYP 5 Investigating Patterns Structure Mock (6 tasks, 63 marks)",
+  "criterion": null,
+  "questions": [
+   {
+    "position": 1,
+    "marks": 11,
+    "criterion": "B",
+    "content": "[[Q 1 | B 9 | C 2]]\nInvestigating patterns. In this task you will use logic to investigate staircases built from unit squares. Stage 1 is 1 square, stage 2 is a staircase with rows of 1 and 2 squares (3 squares), stage 3 has rows of 1, 2 and 3 squares (6 squares) and so on. Let n be the stage and T the number of squares.\n(a) Write down the missing values of T for n = 4 and n = 5. (2 marks)\n(b) Describe in words two patterns in the values of T. (2 marks)\n(c) Write down a general rule for T in terms of n. (2 marks)\n(d) Verify your rule for n = 8, clearly showing your working. (2 marks)\n(e) Justify your rule by considering two identical staircases placed together. (3 marks)\n\nTotal for Question 1: 11 marks",
+    "mark_scheme": "(a) n=4: 10 [1]; n=5: 15 [1]. (b) T increases every stage [1]; the amount added grows by 1 each time (2, 3, 4, 5), which is the stage number [1]. (c) T = n(n + 1)/2 [2] (award 1 for a correct unsimplified sum idea such as 1 + 2 + ... + n). (d) Continuing the pattern gives 1, 3, 6, 10, 15, 21, 28, 36 so T = 36 [1]; the rule gives 8 x 9 / 2 = 36 so it agrees [1]. (e) Two identical staircases fit together to make a rectangle n by (n + 1) [1] with n(n + 1) squares [1], so one staircase is half of that, n(n + 1)/2 [1]."
+   },
+   {
+    "position": 2,
+    "marks": 13,
+    "criterion": "B",
+    "content": "[[Q 2 | B 10 | C 3]]\nInvestigating patterns. A student designs a family of straight lines. The equation for stage n is y = (n + 1)x + 2n, so stage 1 is y = 2x + 2, stage 2 is y = 3x + 4 and stage 3 is y = 4x + 6.\n(a) Write down the y-intercept of each line for n = 1, 2, 3 and 4. (2 marks)\n(b) Write down the gradient of each line for n = 1, 2, 3 and 4. (2 marks)\n(c) Write down a rule for the y-intercept and a rule for the gradient, each in terms of n. (2 marks)\n(d) Verify your rules by writing down the equation of the line for n = 10. (2 marks)\n(e) Find the x-intercept of the line for n = 3. (2 marks)\n(f) Show that the point (-2, -2) lies on the line for every value of n. (3 marks)\n\nTotal for Question 2: 13 marks",
+    "mark_scheme": "(a) 2, 4, 6, 8 [2] (award 1 for two or three correct). (b) 2, 3, 4, 5 [2] (award 1 for two or three correct). (c) y-intercept = 2n [1]; gradient = n + 1 [1]. (d) y = 11x + 20 [2] (award 1 for one correct value). (e) Set y = 0: 4x + 6 = 0 [1]; x = -1.5 [1]. (f) Substitute x = -2: y = (n + 1)(-2) + 2n [1] = -2n - 2 + 2n [1] = -2 for every n, so the point is on every line [1]."
+   },
+   {
+    "position": 3,
+    "marks": 9,
+    "criterion": "A",
+    "content": "[[Q 3 | A 7 | C 2]]\nA fitness app awards a Bronze badge if 50 < 2P + 10 ≤ 250, where P is the weekly active points. It awards a Silver badge if P/3 + 5 ≥ 25 and P < 90. A user needs both badges in the same week to earn the Dual badge.\n(a) Solve the Bronze inequality to find the range of P. (3 marks)\n(b) Solve the Silver inequalities to find the range of P. (3 marks)\n(c) Find the range of P that earns the Dual badge, and state how many whole-number values of P qualify. (3 marks)\n\nTotal for Question 3: 9 marks",
+    "mark_scheme": "(a) 40 < 2P ≤ 240 [1]; 20 < P ≤ 120 [2] (one mark each end). (b) P/3 ≥ 20 [1]; P ≥ 60 [1]; with P < 90 gives 60 ≤ P < 90 [1]. (c) Overlap of 20 < P ≤ 120 and 60 ≤ P < 90 is 60 ≤ P < 90 [1]; whole numbers 60 to 89 [1]; 30 values [1]."
+   },
+   {
+    "position": 4,
+    "marks": 7,
+    "criterion": "A",
+    "content": "[[Q 4 | A 5 | C 2]]\nA circular plaza has radius 12 m. A sector of the plaza with angle 75° at the centre is paved. Diagram not to scale.\n(a) Determine the area of the paved sector, in terms of π. (3 marks)\n(b) Determine the length of the curved edge of the sector, in terms of π. (2 marks)\n(c) Find the perimeter of the paved sector, correct to 1 decimal place. (2 marks)\n\nTotal for Question 4: 7 marks",
+    "mark_scheme": "(a) 75/360 x π x 12² [1] = 75/360 x 144π [1] = 30π m² [1]. (b) 75/360 x 2 x π x 12 [1] = 5π m [1]. (c) 12 + 12 + 5π [1] = 39.7 m [1]."
+   },
+   {
+    "position": 5,
+    "marks": 16,
+    "criterion": "B",
+    "content": "[[Q 5 | B 12 | C 4]]\nInvestigating patterns. Stage 1 is a square of side 8 cm. At each new stage, a new square is drawn inside the previous one by joining the midpoints of its sides. Let n be the stage and A the area of the newest square.\n(a) Write down A for stage 1, 2, 3 and 4. (2 marks)\n(b) Write down the values of A for stages 5 and 6. (2 marks)\n(c) Describe in words the pattern in A. (2 marks)\n(d) Write down a general rule for A in terms of n. (2 marks)\n(e) Verify your rule for n = 6. (2 marks)\n(f) Use Pythagoras' theorem to show that the area of the square at stage 2 is 32 cm². (3 marks)\n(g) Find the first stage at which the area is less than 0.1 cm². (3 marks)\n\nTotal for Question 5: 16 marks",
+    "mark_scheme": "(a) 64, 32, 16, 8 [2] (award 1 for two correct). (b) 4 and 2 [2]. (c) Each area is half the previous area [1], so the area is halved at every stage / A is multiplied by 1/2 [1]. (d) A = 64 x (1/2)^(n - 1) [2] (equivalent forms such as 128 / 2^n accepted). (e) Rule: 64 x (1/2)^5 = 2 [1]; pattern value for stage 6 is 2, so it agrees [1]. (f) The side of the new square is the hypotenuse of a right-angled triangle with sides 4 and 4 [1]; side² = 16 + 16 = 32 [1]; area = side² = 32 cm² [1]. (g) 128 / 2^n < 0.1 so 2^n > 1280 [1]; 2^10 = 1024 is too small and 2^11 = 2048 works [1]; stage 11 [1]."
+   },
+   {
+    "position": 6,
+    "marks": 7,
+    "criterion": "D",
+    "content": "[[Q 6 | D 5 | C 2]]\nA 5 m ladder leans against a vertical wall. Its base is on level ground and it makes an angle of 70° with the ground. A ladder is considered safe if the angle with the ground is between 70° and 80°. Diagram not to scale.\n(a) Calculate how high up the wall the ladder reaches, to 2 decimal places. (2 marks)\n(b) Calculate how far the base of the ladder is from the wall, to 2 decimal places. (2 marks)\n(c) The base is moved to 1.5 m from the wall. Calculate the new angle with the ground, to 1 decimal place, and state whether the ladder is still safe, with a reason. (3 marks)\n\nTotal for Question 6: 7 marks",
+    "mark_scheme": "(a) 5 x sin 70° [1] = 4.70 m [1]. (b) 5 x cos 70° [1] = 1.71 m [1]. (c) cos θ = 1.5 / 5 [1]; θ = 72.5° [1]; still safe because 72.5° is between 70° and 80° [1]."
+   }
+  ]
+ }
+]

@@ -255,9 +255,16 @@ function TimedPapers({
     queryFn: () => fetchPapers(subjectId, GRADE),
   });
   const paper = papers?.find((p) => p.id === paperId);
-  const isMock = (title: string) => title.includes("Full eAssessment Mock");
-  const suggested = (count: number, title = "") =>
-    isMock(title) ? areaMinutes : Math.min(areaMinutes, Math.max(20, count * 8));
+  const isMock = (title: string) =>
+    title.includes("Full eAssessment Mock") || title.includes("Structure Mock");
+  const marksInTitle = (title: string) => Number(title.match(/(\d+) marks\)/)?.[1] ?? 0);
+  const suggested = (count: number, title = "") => {
+    if (title.includes("Structure Mock")) {
+      const m = marksInTitle(title);
+      return m ? Math.min(areaMinutes, Math.round(m * 1.2)) : areaMinutes;
+    }
+    return isMock(title) ? areaMinutes : Math.min(areaMinutes, Math.max(20, count * 8));
+  };
   const sortedPapers = [...(papers ?? [])].sort(
     (a, b) => Number(isMock(b.title)) - Number(isMock(a.title)) || a.title.localeCompare(b.title),
   );

@@ -38,7 +38,7 @@ Owner: Dan, who is himself sitting the MYP eAssessment in May (MYP 5 / Grade 10)
 
 Subject -> Topic -> Sub-topic (via `parent_topic_id`). Each sub-topic page shows its Note, Flashcards, MCQs and matching practice-paper questions together; "Whole topic" and "All practice papers" are the broader options. Flagship depth per sub-topic: ~18 MCQs + 1 study note + 9 flashcards.
 
-Done to flagship depth: Physics MYP 4 and Physics MYP 5 (55 sub-topics each). Practice-paper sitting + AI marking is a reusable app-wide feature.
+Done to flagship depth: Physics MYP 4 and Physics MYP 5 (55 sub-topics each). MYP 5 flagship content also written, checked and loaded into the live DB (2026-10-11) for: Biology, Chemistry, Standard/Extended Maths, English L&L, French/Spanish L&L, History, Geography, Economics, Interdisciplinary Learning, Environmental Systems, French/Spanish/Mandarin ab initio, Visual Arts, Music, Drama, Product Design, Digital Design, PHE (DB slug physical-and-health-education). Legacy empty placeholder topics still exist (name clashes: sub-topic names must differ from legacy top-level topic names). Practice-paper sitting + AI marking is a reusable app-wide feature.
 
 ## Current plan (target: December 2026)
 

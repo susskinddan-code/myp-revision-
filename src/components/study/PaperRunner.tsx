@@ -9,6 +9,7 @@ import {
   recordAttempt,
   accuracyToMypLevel,
   marksOf,
+  parseQuestionHeader,
   MYP_LEVEL_LABELS,
 } from "@/lib/myp";
 import { useAuth } from "@/hooks/use-auth";
@@ -240,6 +241,7 @@ export function PaperRunner({ paper, subjectId, subjectName, onExit, exam }: Pro
         {questions.map((q) => {
           const result = marks?.find((m) => m.position === q.position);
           const qMarks = marksOf(q.mark_scheme);
+          const head = parseQuestionHeader(q.content);
           return (
             <li
               key={q.id}
@@ -248,9 +250,17 @@ export function PaperRunner({ paper, subjectId, subjectName, onExit, exam }: Pro
             >
               <div className="flex items-start justify-between gap-4">
                 <p className="text-xs uppercase tracking-wide text-muted-foreground">
-                  Question {q.position}
+                  {head.label ?? `Question ${q.position}`}
                   {qMarks ? ` · ${qMarks} marks` : ""}
-                  {q.criterion ? ` · Criterion ${q.criterion}` : ""}
+                  {head.tags.length === 0 && q.criterion ? ` · Criterion ${q.criterion}` : ""}
+                  {head.tags.map((t) => (
+                    <span
+                      key={t}
+                      className="ml-2 inline-block rounded border border-border px-1.5 py-0.5 normal-case tracking-normal text-foreground"
+                    >
+                      {t}
+                    </span>
+                  ))}
                 </p>
                 <div className="flex shrink-0 items-center gap-2">
                   {exam && !marks ? (
@@ -275,7 +285,7 @@ export function PaperRunner({ paper, subjectId, subjectName, onExit, exam }: Pro
                   ) : null}
                 </div>
               </div>
-              <p className="mt-2 whitespace-pre-line font-medium leading-relaxed">{q.content}</p>
+              <p className="mt-2 whitespace-pre-line font-medium leading-relaxed">{head.text}</p>
 
               <textarea
                 value={responses[q.position] ?? ""}

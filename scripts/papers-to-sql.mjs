@@ -20,7 +20,8 @@ function validate(p) {
   const errs = [];
   const qs = p.questions ?? [];
   if (!p.title?.trim()) errs.push("missing title");
-  const full = p.format === "full-mock";
+  const full = p.format === "full-mock" || p.format === "structured-mock";
+  const lowTotal = p.format === "structured-mock" ? 60 : 90;
   if (qs.length < 5 || qs.length > 10) errs.push(`expected 5-10 questions, got ${qs.length}`);
   let total = 0;
   qs.forEach((q, i) => {
@@ -36,8 +37,8 @@ function validate(p) {
     if (!/^[A-D]$/.test(q.criterion ?? "")) errs.push(`${tag}: criterion must be A-D`);
     total += q.marks ?? 0;
   });
-  if (full ? total < 90 || total > 130 : total < 30 || total > 60)
-    errs.push(`total marks ${total} (want ${full ? "90-130" : "30-60"})`);
+  if (full ? total < lowTotal || total > 130 : total < 30 || total > 60)
+    errs.push(`total marks ${total} (want ${full ? `${lowTotal}-130` : "30-60"})`);
   const all = JSON.stringify(p);
   if (BAD_SCOPE.test(all)) errs.push("mentions Diploma/A-level scope");
   if (BAD_SCALE.test(all)) errs.push("mentions a 1-7 scale inside the paper");

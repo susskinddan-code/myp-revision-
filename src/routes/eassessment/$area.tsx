@@ -1,5 +1,7 @@
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
+import { useServerFn } from "@tanstack/react-start";
+import { generateExamTasks, type GeneratedTask } from "@/lib/ai.functions";
 import { useEffect, useState } from "react";
 import { Clock, Lightbulb } from "lucide-react";
 import {
@@ -10,6 +12,7 @@ import {
   fetchSubjectsBySlugs,
   assembleWrittenExam,
   topicKeywords,
+  shuffle,
   marksOf,
   type PaperTask,
 } from "@/lib/myp";
@@ -261,6 +264,40 @@ function TimedPapers({
   initialPaperId: string | null;
 }) {
   const [paperId, setPaperId] = useState<string | null>(initialPaperId);
+  const [fresh, setFresh] = useState<CustomExam | null>(null);
+  const [freshRun, setFreshRun] = useState(0);
+  const [writing, setWriting] = useState(false);
+  const [freshMsg, setFreshMsg] = useState<string | null>(null);
+  const generate = useServerFn(generateExamTasks);
+
+  async function writeNew() {
+    setWriting(true);
+    setFreshMsg(null);
+    try {
+      const topics = await fetchAllTopics(subjectId, GRADE);
+      const names = shuffle(topics.filter((t) => !t.parent_topic_id).map((t) => t.name));
+      const { tasks, fresh: ok } = await buildAiTasks({
+        generate,
+        subjectId,
+        subjectName,
+        topicNames: names,
+        minutes: areaMinutes,
+        bankFallback: async () =>
+          assembleWrittenExam(
+            await fetchSubjectPaperTasks(subjectId, GRADE),
+            Math.round(areaMinutes / 1.2),
+          ),
+      });
+      if (!tasks.length) return setFreshMsg("No tasks available yet for this subject.");
+      if (!ok) setFreshMsg("New-paper writing is unavailable, so this paper uses saved tasks.");
+      setFreshRun((r) => r + 1);
+      setFresh({ tasks, minutes: areaMinutes, title: `${subjectName} new practice paper` });
+    } catch {
+      setFreshMsg("Could not write a paper right now. Try again.");
+    } finally {
+      setWriting(false);
+    }
+  }
   const { data: papers, isLoading } = useQuery({
     queryKey: ["papers", subjectId, GRADE],
     queryFn: () => fetchPapers(subjectId, GRADE),
@@ -282,6 +319,20 @@ function TimedPapers({
     (a, b) => Number(isMock(b.title)) - Number(isMock(a.title)) || a.title.localeCompare(b.title),
   );
 
+  if (fresh) {
+    return (
+      <PaperRunner
+        key={freshRun}
+        paper={{ id: `fresh-${freshRun}`, title: fresh.title, grade: GRADE, criterion: null }}
+        tasks={fresh.tasks}
+        subjectId={subjectId}
+        subjectName={subjectName}
+        exam={{ minutes: fresh.minutes, formulas: formulaSheetFor(areaKey) }}
+        exitLabel="All practice papers"
+        onExit={() => setFresh(null)}
+      />
+    );
+  }
   if (paper) {
     const count = paper.paper_questions?.[0]?.count ?? 0;
     return (
@@ -307,6 +358,17 @@ function TimedPapers({
         Sit it like the real thing: a countdown runs, you answer every question, and the AI marks it
         against the mark scheme. Results show your Level 1-8 and an estimated overall 1-7.
       </p>
+      <div className="mb-4 rounded-lg border border-primary/40 bg-primary/5 p-5">
+        <h3 className="font-display text-lg">A brand-new paper, written for you</h3>
+        <p className="mt-1 text-sm text-muted-foreground">
+          Full length, {areaMinutes} minutes, never seen before. AI writes every task fresh across
+          the {subjectName} course.
+        </p>
+        <Button className="mt-3 rounded-full" disabled={writing} onClick={writeNew}>
+          {writing ? "Writing your paper… up to a minute" : "Write me a new paper"}
+        </Button>
+        {freshMsg ? <p className="mt-2 text-sm text-destructive">{freshMsg}</p> : null}
+      </div>
       <ul className="flex flex-col gap-3">
         {sortedPapers.map((p) => {
           const count = p.paper_questions?.[0]?.count ?? 0;
@@ -333,6 +395,82 @@ function TimedPapers({
 
 type CustomExam = { tasks: PaperTask[]; minutes: number; title: string };
 
+const SEEN_KEY = "myp-seen-stems";
+function readSeen(subjectId: string): string[] {
+  try {
+    const all = JSON.parse(localStorage.getItem(SEEN_KEY) ?? "{}") as Record<string, string[]>;
+    return all[subjectId] ?? [];
+  } catch {
+    return [];
+  }
+}
+function writeSeen(subjectId: string, stems: string[]) {
+  try {
+    const all = JSON.parse(localStorage.getItem(SEEN_KEY) ?? "{}") as Record<string, string[]>;
+    all[subjectId] = [...stems, ...(all[subjectId] ?? [])].slice(0, 15);
+    localStorage.setItem(SEEN_KEY, JSON.stringify(all));
+  } catch {
+    /* storage unavailable: repeats are still unlikely */
+  }
+}
+
+/**
+ * Writes brand-new tasks with the AI so students do not meet repeats. Falls back to the stored
+ * bank of written tasks if the AI is unavailable.
+ */
+async function buildAiTasks(opts: {
+  generate: (a: {
+    data: {
+      subject: string;
+      grade: number;
+      topics: string[];
+      targetMarks: number;
+      seen?: string[];
+    };
+  }) => Promise<{ tasks: GeneratedTask[] | null; error: string | null }>;
+  subjectId: string;
+  subjectName: string;
+  topicNames: string[];
+  minutes: number;
+  bankFallback: () => Promise<PaperTask[]>;
+}): Promise<{ tasks: PaperTask[]; fresh: boolean }> {
+  const targetMarks = Math.min(110, Math.round(opts.minutes / 1.2));
+  try {
+    const res = await opts.generate({
+      data: {
+        subject: opts.subjectName,
+        grade: GRADE,
+        topics: opts.topicNames,
+        targetMarks,
+        seen: readSeen(opts.subjectId),
+      },
+    });
+    if (res.tasks?.length) {
+      const stamp = Date.now().toString(36);
+      writeSeen(
+        opts.subjectId,
+        res.tasks.map((t) => t.content.replace(/^\s*\[\[[^\]]*\]\]\s*/, "").slice(0, 90)),
+      );
+      return {
+        fresh: true,
+        tasks: res.tasks.map((t, i) => ({
+          id: `gen-${stamp}-${i}`,
+          paper_id: "generated",
+          position: i + 1,
+          criterion: t.criterion,
+          content: t.content.replace(/^(\s*\[\[)\s*[^|\]]+?\s*(\||\]\])/, `$1Task ${i + 1} $2`),
+          mark_scheme: t.mark_scheme,
+          options: [],
+          answer: 0,
+        })),
+      };
+    }
+  } catch {
+    /* fall through to the stored bank */
+  }
+  return { fresh: false, tasks: await opts.bankFallback() };
+}
+
 function totalMarks(tasks: PaperTask[]) {
   return tasks.reduce((t, q) => t + marksOf(q.mark_scheme), 0);
 }
@@ -350,17 +488,31 @@ function MixedTest({
   const [run, setRun] = useState(0);
   const [busy, setBusy] = useState(false);
   const [message, setMessage] = useState<string | null>(null);
+  const generate = useServerFn(generateExamTasks);
 
   async function start(minutes: number) {
     setBusy(true);
     setMessage(null);
     try {
-      const all = await fetchSubjectPaperTasks(subjectId, GRADE);
-      const tasks = assembleWrittenExam(all, Math.round(minutes / 1.2));
+      const topics = await fetchAllTopics(subjectId, GRADE);
+      const names = shuffle(topics.filter((t) => !t.parent_topic_id).map((t) => t.name));
+      const { tasks, fresh } = await buildAiTasks({
+        generate,
+        subjectId,
+        subjectName,
+        topicNames: names,
+        minutes,
+        bankFallback: async () =>
+          assembleWrittenExam(
+            await fetchSubjectPaperTasks(subjectId, GRADE),
+            Math.round(minutes / 1.2),
+          ),
+      });
       if (!tasks.length) {
         setMessage("No written tasks for this subject at MYP 5 yet.");
         return;
       }
+      if (!fresh) setMessage("New-question writing is unavailable, so this mix uses saved tasks.");
       setRun((r) => r + 1);
       setExam({ tasks, minutes, title: `${subjectName} mixed test` });
     } catch {
@@ -388,8 +540,8 @@ function MixedTest({
     <div>
       <p className="text-sm text-muted-foreground">
         Written tasks drawn from every topic in {subjectName}, in exam conditions: a countdown, no
-        hints about which topic is coming, and AI marking against a mark scheme. Each new test is a
-        different mix.
+        hints about which topic is coming, and AI marking against a mark scheme. Every test is
+        freshly written by AI, so you will not keep meeting the same questions.
       </p>
       <div className="mt-4 flex flex-wrap gap-3">
         {[
@@ -408,6 +560,11 @@ function MixedTest({
           </Button>
         ))}
       </div>
+      {busy ? (
+        <p className="mt-4 text-sm text-muted-foreground">
+          Writing brand-new questions for you. This can take up to a minute.
+        </p>
+      ) : null}
       {message ? <p className="mt-4 text-sm text-destructive">{message}</p> : null}
     </div>
   );
@@ -432,6 +589,7 @@ function BuildExam({
   const [run, setRun] = useState(0);
   const [building, setBuilding] = useState(false);
   const [message, setMessage] = useState<string | null>(null);
+  const generate = useServerFn(generateExamTasks);
 
   if (isLoading) return <p className="text-sm text-muted-foreground">Loading topics…</p>;
   const parents = (topics ?? []).filter((t) => !t.parent_topic_id);
@@ -452,19 +610,30 @@ function BuildExam({
     setBuilding(true);
     setMessage(null);
     try {
-      const all = await fetchSubjectPaperTasks(subjectId, GRADE);
-      const hits = (q: PaperTask) => {
-        const text = q.content.toLowerCase();
-        let n = 0;
-        for (const w of words) if (text.includes(w)) n++;
-        return n;
-      };
-      const pool = picked.length ? all.filter((q) => hits(q) >= 2) : all;
-      const tasks = assembleWrittenExam(pool, Math.round(minutes / 1.2), hits);
+      const names = parents.filter((p) => chosen.includes(p.id)).map((p) => p.name);
+      const { tasks, fresh } = await buildAiTasks({
+        generate,
+        subjectId,
+        subjectName,
+        topicNames: names,
+        minutes,
+        bankFallback: async () => {
+          const all = await fetchSubjectPaperTasks(subjectId, GRADE);
+          const hits = (q: PaperTask) => {
+            const text = q.content.toLowerCase();
+            let n = 0;
+            for (const w of words) if (text.includes(w)) n++;
+            return n;
+          };
+          const pool = picked.length ? all.filter((q) => hits(q) >= 2) : all;
+          return assembleWrittenExam(pool, Math.round(minutes / 1.2), hits);
+        },
+      });
       if (!tasks.length) {
         setMessage("No written tasks match those topics yet. Pick more topics.");
         return;
       }
+      if (!fresh) setMessage("New-question writing is unavailable, so this exam uses saved tasks.");
       setRun((r) => r + 1);
       setExam({ tasks, minutes, title: `${subjectName} custom exam` });
     } catch {
@@ -492,9 +661,9 @@ function BuildExam({
   return (
     <div className="max-w-2xl">
       <p className="text-sm text-muted-foreground">
-        Pick the topics and how long you want to sit. We assemble a written exam from the{" "}
-        {subjectName} exam tasks that cover them, timed and AI marked. Leave topics empty to include
-        everything.
+        Pick the topics and how long you want to sit. We write a brand-new {subjectName} exam on
+        them with AI, timed and AI marked, so it is never the same twice. Leave topics empty to
+        include everything.
       </p>
       <h3 className="mt-5 font-display text-lg">Topics</h3>
       <div className="mt-2 flex flex-wrap gap-2">
@@ -532,8 +701,13 @@ function BuildExam({
       </div>
       {message ? <p className="mt-4 text-sm text-destructive">{message}</p> : null}
       <Button className="mt-6 rounded-full" disabled={building} onClick={build}>
-        {building ? "Building…" : "Build my exam"}
+        {building ? "Writing your exam…" : "Build my exam"}
       </Button>
+      {building ? (
+        <p className="mt-3 text-sm text-muted-foreground">
+          Writing brand-new questions on your topics. This can take up to a minute.
+        </p>
+      ) : null}
     </div>
   );
 }

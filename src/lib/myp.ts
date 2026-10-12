@@ -260,11 +260,11 @@ export function marksOf(markScheme: string | null) {
 export function parseQuestionHeader(content: string) {
   const m = content.match(/^\s*\[\[\s*([^|\]]+?)\s*((?:\|[^|\]]+)*)\]\]\s*/);
   if (!m) return { label: null as string | null, tags: [] as string[], text: content };
-  const tags = m[2]
+  const tags = (m[2] ?? "")
     .split("|")
     .map((t) => t.trim())
     .filter(Boolean);
-  return { label: m[1].trim(), tags, text: content.slice(m[0].length) };
+  return { label: (m[1] ?? "").trim(), tags, text: content.slice(m[0].length) };
 }
 
 export async function fetchPaperQuestions(paperId: string) {

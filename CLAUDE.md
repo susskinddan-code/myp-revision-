@@ -56,3 +56,8 @@ Done to flagship depth: Physics MYP 4 and Physics MYP 5 (55 sub-topics each). MY
 - Content without an API key: write JSON in `content/<name>/` and run `node scripts/json-to-sql.mjs content/<name> > out.sql`, then Dan reviews and runs it in the Supabase SQL editor
 - Content generation: `node scripts/generate-content.mjs --subject biology --grade 5 [--limit N] [--dry-run]` (needs ANTHROPIC_API_KEY, SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY in the shell, never committed). Always dry-run a few sub-topics and read the output before loading
 - Plans and review documents live in `.lovable/plan/`; `roadmap.md` tracks the checklist
+
+## Typed answers and AI-written exams (2026-10-12)
+
+- MCQ rows are kept as-is (question + `options[answer]` = stored correct answer) but students now TYPE the answer. `checkTypedAnswer` (ai.functions.ts) returns correct / partial ("half right") / wrong with escalating hints; after 5 tries or "Show answer" the answer is revealed. Without `ANTHROPIC_API_KEY` it falls back to `src/lib/typed-answer.ts` (plain match + generic hints)
+- Mixed test, Build my exam and "Write me a new paper" call `generateExamTasks` to write brand-new tasks (validated: mark scheme `[n]` sum = marks, no banned terms). They fall back to the stored paper tasks if the AI is unavailable. Recent stems are remembered in localStorage to avoid repeats. Untested against the live API (no key yet)

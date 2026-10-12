@@ -13,6 +13,7 @@ import { Route as IndexRouteImport } from './routes/index'
 import { Route as AuthenticatedRouteRouteImport } from './routes/_authenticated/route'
 import { Route as AuthRouteImport } from './routes/auth'
 import { Route as DailyRouteImport } from './routes/daily'
+import { Route as MyFilesRouteImport } from './routes/my-files'
 import { Route as PastPapersRouteImport } from './routes/past-papers'
 import { Route as AuthenticatedDashboardRouteImport } from './routes/_authenticated/dashboard'
 import { Route as EassessmentIndexRouteImport } from './routes/eassessment/index'
@@ -37,6 +38,11 @@ const AuthRoute = AuthRouteImport.update({
 const DailyRoute = DailyRouteImport.update({
   id: '/daily',
   path: '/daily',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const MyFilesRoute = MyFilesRouteImport.update({
+  id: '/my-files',
+  path: '/my-files',
   getParentRoute: () => rootRouteImport,
 } as any)
 const PastPapersRoute = PastPapersRouteImport.update({
@@ -74,6 +80,7 @@ export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/auth': typeof AuthRoute
   '/daily': typeof DailyRoute
+  '/my-files': typeof MyFilesRoute
   '/past-papers': typeof PastPapersRoute
   '/dashboard': typeof AuthenticatedDashboardRoute
   '/eassessment/$area': typeof EassessmentAreaRoute
@@ -85,6 +92,7 @@ export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/auth': typeof AuthRoute
   '/daily': typeof DailyRoute
+  '/my-files': typeof MyFilesRoute
   '/past-papers': typeof PastPapersRoute
   '/dashboard': typeof AuthenticatedDashboardRoute
   '/eassessment/$area': typeof EassessmentAreaRoute
@@ -98,6 +106,7 @@ export interface FileRoutesById {
   '/_authenticated': typeof AuthenticatedRouteRouteWithChildren
   '/auth': typeof AuthRoute
   '/daily': typeof DailyRoute
+  '/my-files': typeof MyFilesRoute
   '/past-papers': typeof PastPapersRoute
   '/_authenticated/dashboard': typeof AuthenticatedDashboardRoute
   '/eassessment/$area': typeof EassessmentAreaRoute
@@ -111,6 +120,7 @@ export interface FileRouteTypes {
     | '/'
     | '/auth'
     | '/daily'
+    | '/my-files'
     | '/past-papers'
     | '/dashboard'
     | '/eassessment/$area'
@@ -122,6 +132,7 @@ export interface FileRouteTypes {
     | '/'
     | '/auth'
     | '/daily'
+    | '/my-files'
     | '/past-papers'
     | '/dashboard'
     | '/eassessment/$area'
@@ -134,6 +145,7 @@ export interface FileRouteTypes {
     | '/_authenticated'
     | '/auth'
     | '/daily'
+    | '/my-files'
     | '/past-papers'
     | '/_authenticated/dashboard'
     | '/eassessment/$area'
@@ -147,6 +159,7 @@ export interface RootRouteChildren {
   AuthenticatedRouteRoute: typeof AuthenticatedRouteRouteWithChildren
   AuthRoute: typeof AuthRoute
   DailyRoute: typeof DailyRoute
+  MyFilesRoute: typeof MyFilesRoute
   PastPapersRoute: typeof PastPapersRoute
   EassessmentAreaRoute: typeof EassessmentAreaRoute
   SubjectsSlugRoute: typeof SubjectsSlugRoute
@@ -182,6 +195,13 @@ declare module '@tanstack/react-router' {
       path: '/daily'
       fullPath: '/daily'
       preLoaderRoute: typeof DailyRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/my-files': {
+      id: '/my-files'
+      path: '/my-files'
+      fullPath: '/my-files'
+      preLoaderRoute: typeof MyFilesRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/past-papers': {
@@ -245,6 +265,7 @@ const rootRouteChildren: RootRouteChildren = {
   AuthenticatedRouteRoute: AuthenticatedRouteRouteWithChildren,
   AuthRoute: AuthRoute,
   DailyRoute: DailyRoute,
+  MyFilesRoute: MyFilesRoute,
   PastPapersRoute: PastPapersRoute,
   EassessmentAreaRoute: EassessmentAreaRoute,
   SubjectsSlugRoute: SubjectsSlugRoute,

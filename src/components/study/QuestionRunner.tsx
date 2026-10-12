@@ -4,7 +4,7 @@ import { useServerFn } from "@tanstack/react-start";
 import { useQueryClient } from "@tanstack/react-query";
 import { Button } from "@/components/ui/button";
 import { QuestionVisual } from "@/components/diagrams/QuestionVisual";
-import { checkTypedAnswer } from "@/lib/ai.functions";
+import { checkTypedAnswer, reportCachedCheck } from "@/lib/ai.functions";
 import { localCheck, localHint } from "@/lib/typed-answer";
 import { Input } from "@/components/ui/input";
 import { recordAttempt, type Question } from "@/lib/myp";
@@ -37,12 +37,13 @@ export function QuestionRunner({
   const { user } = useAuth();
   const queryClient = useQueryClient();
   const askCheck = useServerFn(checkTypedAnswer);
+  const reportCheck = useServerFn(reportCachedCheck);
   const [questions, setQuestions] = useState(initial);
   const [index, setIndex] = useState(0);
   const [input, setInput] = useState("");
-  const [history, setHistory] = useState<{ answer: string; verdict: Verdict; feedback: string }[]>(
-    [],
-  );
+  const [history, setHistory] = useState<
+    { answer: string; verdict: Verdict; feedback: string; reported?: boolean }[]
+  >([]);
   const [status, setStatus] = useState<"answering" | "solved" | "revealed">("answering");
   const [checking, setChecking] = useState(false);
   const checked = status !== "answering";
@@ -157,6 +158,7 @@ export function QuestionRunner({
     try {
       const res = await askCheck({
         data: {
+          questionId: question.id,
           subject: subjectName,
           topic: topicName,
           grade,
@@ -263,6 +265,23 @@ export function QuestionRunner({
                 </span>
               </p>
               <p className="mt-1 text-muted-foreground">{h.feedback}</p>
+              {i === 0 && h.verdict !== "correct" ? (
+                <button
+                  type="button"
+                  disabled={h.reported}
+                  className="mt-1 text-xs text-muted-foreground underline underline-offset-2 hover:text-foreground disabled:no-underline"
+                  onClick={() => {
+                    setHistory((all) =>
+                      all.map((x, k) => (k === i ? { ...x, reported: true } : x)),
+                    );
+                    void reportCheck({
+                      data: { questionId: question.id, answer: h.answer },
+                    }).catch(() => {});
+                  }}
+                >
+                  {h.reported ? "Thanks, we'll recheck it" : "This feedback is wrong"}
+                </button>
+              ) : null}
             </li>
           ))}
         </ul>

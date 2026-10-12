@@ -411,38 +411,44 @@ function TimedPapers({
 type CustomExam = { tasks: PaperTask[]; minutes: number; title: string };
 
 const SEEN_KEY = "myp-seen-stems";
-function readSeen(subjectId: string): string[] {
+const SEEN_IDS_KEY = "myp-seen-task-ids";
+function readList(key: string, subjectId: string): string[] {
   try {
-    const all = JSON.parse(localStorage.getItem(SEEN_KEY) ?? "{}") as Record<string, string[]>;
+    const all = JSON.parse(localStorage.getItem(key) ?? "{}") as Record<string, string[]>;
     return all[subjectId] ?? [];
   } catch {
     return [];
   }
 }
-function writeSeen(subjectId: string, stems: string[]) {
+function writeList(key: string, subjectId: string, items: string[], keep: number) {
   try {
-    const all = JSON.parse(localStorage.getItem(SEEN_KEY) ?? "{}") as Record<string, string[]>;
-    all[subjectId] = [...stems, ...(all[subjectId] ?? [])].slice(0, 15);
-    localStorage.setItem(SEEN_KEY, JSON.stringify(all));
+    const all = JSON.parse(localStorage.getItem(key) ?? "{}") as Record<string, string[]>;
+    all[subjectId] = [...items, ...(all[subjectId] ?? [])].slice(0, keep);
+    localStorage.setItem(key, JSON.stringify(all));
   } catch {
     /* storage unavailable: repeats are still unlikely */
   }
 }
 
 /**
- * Writes brand-new tasks with the AI so students do not meet repeats. Falls back to the stored
- * bank of written tasks if the AI is unavailable.
+ * Builds a written exam: tasks the student has not seen come from the shared bank, the AI writes the
+ * rest (and saves them to the bank). Falls back to the stored paper tasks if the AI is unavailable.
  */
 async function buildAiTasks(opts: {
   generate: (a: {
     data: {
       subject: string;
+      subjectId?: string | null;
       grade: number;
       topics: string[];
       targetMarks: number;
       seen?: string[];
+      seenIds?: string[];
     };
-  }) => Promise<{ tasks: GeneratedTask[] | null; error: string | null }>;
+  }) => Promise<{
+    tasks: (GeneratedTask & { id: string; fresh: boolean })[] | null;
+    error: string | null;
+  }>;
   subjectId: string;
   subjectName: string;
   topicNames: string[];
@@ -454,22 +460,31 @@ async function buildAiTasks(opts: {
     const res = await opts.generate({
       data: {
         subject: opts.subjectName,
+        subjectId: opts.subjectId,
         grade: GRADE,
         topics: opts.topicNames,
         targetMarks,
-        seen: readSeen(opts.subjectId),
+        seen: readList(SEEN_KEY, opts.subjectId),
+        seenIds: readList(SEEN_IDS_KEY, opts.subjectId),
       },
     });
     if (res.tasks?.length) {
-      const stamp = Date.now().toString(36);
-      writeSeen(
+      writeList(
+        SEEN_KEY,
         opts.subjectId,
         res.tasks.map((t) => t.content.replace(/^\s*\[\[[^\]]*\]\]\s*/, "").slice(0, 90)),
+        15,
+      );
+      writeList(
+        SEEN_IDS_KEY,
+        opts.subjectId,
+        res.tasks.map((t) => t.id),
+        150,
       );
       return {
         fresh: true,
         tasks: res.tasks.map((t, i) => ({
-          id: `gen-${stamp}-${i}`,
+          id: t.id,
           paper_id: "generated",
           position: i + 1,
           criterion: t.criterion,

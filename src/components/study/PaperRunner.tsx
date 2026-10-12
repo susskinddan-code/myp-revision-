@@ -3,7 +3,7 @@ import { useQuery } from "@tanstack/react-query";
 import { useServerFn } from "@tanstack/react-start";
 import { Flag, Sigma, Sparkles } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { gradePaper, type PaperMark } from "@/lib/ai.functions";
+import { gradePaper, reportGeneratedTask, type PaperMark } from "@/lib/ai.functions";
 import {
   fetchPaperQuestions,
   type PaperTask,
@@ -13,6 +13,7 @@ import {
   parseQuestionHeader,
   MYP_LEVEL_LABELS,
 } from "@/lib/myp";
+import { TaskBody } from "@/components/study/TaskBody";
 import { useAuth } from "@/hooks/use-auth";
 import { describeResult, type FormulaGroup } from "@/lib/eassessment";
 
@@ -39,6 +40,9 @@ export function PaperRunner({
 }: Props) {
   const { user } = useAuth();
   const mark = useServerFn(gradePaper);
+  const report = useServerFn(reportGeneratedTask);
+  const [widgetVals, setWidgetVals] = useState<Record<number, Record<string, string>>>({});
+  const [reported, setReported] = useState<Record<number, boolean>>({});
   const [responses, setResponses] = useState<Record<number, string>>({});
   const [marks, setMarks] = useState<PaperMark[] | null>(null);
   const [error, setError] = useState<string | null>(null);
@@ -67,6 +71,17 @@ export function PaperRunner({
   const questions = tasks ?? fetched;
   const isLoading = !tasks && loadingFetched;
 
+  /** The typed answer plus whatever the student chose, placed or plotted in the interactive parts. */
+  function fullResponse(position: number) {
+    const typed = (responses[position] ?? "").trim();
+    const picked = Object.entries(widgetVals[position] ?? {})
+      .filter(([, v]) => v)
+      .map(([id, v]) => `[${id}] ${v}`);
+    return picked.length
+      ? `${typed}${typed ? "\n" : ""}Interactive answers:\n${picked.join("\n")}`
+      : typed;
+  }
+
   async function handleSubmit() {
     if (!questions?.length) return;
     setMarking(true);
@@ -82,7 +97,7 @@ export function PaperRunner({
             position: q.position,
             question: q.content,
             markScheme: q.mark_scheme,
-            response: responses[q.position] ?? "",
+            response: fullResponse(q.position),
           })),
         },
       });
@@ -120,9 +135,7 @@ export function PaperRunner({
   const total = marks?.reduce((t, m) => t + m.maxMarks, 0) ?? 0;
   const level = total ? accuracyToMypLevel(awarded / total) : 0;
   const both = total ? describeResult(awarded / total) : null;
-  const answeredCount = questions.filter(
-    (q) => (responses[q.position] ?? "").trim().length > 0,
-  ).length;
+  const answeredCount = questions.filter((q) => fullResponse(q.position).length > 0).length;
   const flaggedCount = questions.filter((q) => flagged[q.position]).length;
   const clock =
     secondsLeft === null
@@ -159,7 +172,7 @@ export function PaperRunner({
               Questions
             </span>
             {questions.map((q) => {
-              const answered = (responses[q.position] ?? "").trim().length > 0;
+              const answered = fullResponse(q.position).length > 0;
               return (
                 <button
                   key={q.id}
@@ -293,6 +306,19 @@ export function PaperRunner({
                       {flagged[q.position] ? "Flagged" : "Flag for review"}
                     </button>
                   ) : null}
+                  {String(q.id).startsWith("gen-") ? (
+                    <button
+                      type="button"
+                      disabled={!!reported[q.position]}
+                      onClick={() => {
+                        setReported((r) => ({ ...r, [q.position]: true }));
+                        void report({ data: { id: String(q.id) } }).catch(() => {});
+                      }}
+                      className="rounded-full border border-border px-3 py-1 text-xs text-muted-foreground hover:text-foreground disabled:opacity-60"
+                    >
+                      {reported[q.position] ? "Reported, thanks" : "Report this question"}
+                    </button>
+                  ) : null}
                   {result ? (
                     <span className="rounded-full bg-secondary px-3 py-1 text-sm">
                       {result.marksAwarded} / {result.maxMarks}
@@ -300,7 +326,17 @@ export function PaperRunner({
                   ) : null}
                 </div>
               </div>
-              <p className="mt-2 whitespace-pre-line font-medium leading-relaxed">{head.text}</p>
+              <TaskBody
+                text={head.text}
+                values={widgetVals[q.position] ?? {}}
+                onChange={(id, v) =>
+                  setWidgetVals((w) => ({
+                    ...w,
+                    [q.position]: { ...(w[q.position] ?? {}), [id]: v },
+                  }))
+                }
+                disabled={!!marks || marking}
+              />
 
               <textarea
                 value={responses[q.position] ?? ""}
@@ -308,7 +344,12 @@ export function PaperRunner({
                 disabled={!!marks || marking}
                 rows={Math.min(14, Math.max(4, Math.round(qMarks / 1.5)))}
                 placeholder="Write your answer here. Label each part, for example (a), (b)…"
-                className="mt-3 w-full rounded-md border border-border bg-background p-3 text-sm outline-none focus:border-primary disabled:opacity-80"
+                style={{
+                  backgroundImage:
+                    "repeating-linear-gradient(transparent, transparent 27px, var(--border) 27px, var(--border) 28px)",
+                  lineHeight: "28px",
+                }}
+                className="mt-3 w-full rounded-md border border-border bg-background px-3 py-0 text-sm outline-none focus:border-primary disabled:opacity-80"
               />
               <p className="mt-1 text-right text-xs text-muted-foreground">
                 {(responses[q.position] ?? "").trim().split(/\s+/).filter(Boolean).length} words
@@ -362,6 +403,7 @@ export function PaperRunner({
               onClick={() => {
                 setMarks(null);
                 setResponses({});
+                setWidgetVals({});
                 setError(null);
               }}
             >

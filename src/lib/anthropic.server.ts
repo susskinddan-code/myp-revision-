@@ -1,7 +1,7 @@
 // Server-only helper for the Anthropic Messages API. Never import from client code.
 // Requires the ANTHROPIC_API_KEY environment variable (server-side secret).
 
-const API_URL = "https://api.anthropic.com/v1/messages";
+const API_URL = process.env["ANTHROPIC_API_URL"] ?? "https://api.anthropic.com/v1/messages";
 export const MODEL = "claude-sonnet-4-5";
 
 export type ClaudeResult<T> = { ok: true; value: T } | { ok: false; error: string };

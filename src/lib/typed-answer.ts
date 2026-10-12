@@ -17,6 +17,27 @@ function asNumber(s: string): number | null {
   return Number.isFinite(n) && /\d/.test(t) ? n : null;
 }
 
+/** Strict match (same text or same number) used to skip the AI for plainly correct answers. */
+export function exactMatch(student: string, correct: string): boolean {
+  const a = norm(student);
+  const b = norm(correct);
+  if (!a) return false;
+  if (a === b) return true;
+  const na = asNumber(student);
+  const nb = asNumber(correct);
+  return na !== null && nb !== null && Math.abs(na - nb) <= Math.abs(nb) * 0.005 + 1e-9;
+}
+
+/** Cache key for an answer: lower case, no spaces or trailing punctuation. */
+export function answerKey(answer: string): string {
+  return answer
+    .toLowerCase()
+    .replace(/\s+/g, " ")
+    .replace(/[.!?\s]+$/, "")
+    .trim()
+    .slice(0, 200);
+}
+
 export function localCheck(student: string, correct: string): boolean {
   const a = norm(student);
   const b = norm(correct);

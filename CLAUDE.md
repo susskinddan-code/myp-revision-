@@ -61,3 +61,12 @@ Done to flagship depth: Physics MYP 4 and Physics MYP 5 (55 sub-topics each). MY
 
 - MCQ rows are kept as-is (question + `options[answer]` = stored correct answer) but students now TYPE the answer. `checkTypedAnswer` (ai.functions.ts) returns correct / partial ("half right") / wrong with escalating hints; after 5 tries or "Show answer" the answer is revealed. Without `ANTHROPIC_API_KEY` it falls back to `src/lib/typed-answer.ts` (plain match + generic hints)
 - Mixed test, Build my exam and "Write me a new paper" call `generateExamTasks` to write brand-new tasks (validated: mark scheme `[n]` sum = marks, no banned terms). They fall back to the stored paper tasks if the AI is unavailable. Recent stems are remembered in localStorage to avoid repeats. Untested against the live API (no key yet)
+
+## Gap content, caches, widgets, My files (2026-10-12)
+
+- 114 gap sub-topics (incl. Integrated Science) from `content/gap/` are loaded in the live DB and verified
+- `answer_cache` and `generated_tasks` (migration 0006, applied, RLS on, no policies) are server-only: they need `SUPABASE_SERVICE_ROLE_KEY` in `.env.local` or host secrets; without it caching/bank saving is silently skipped. Dan must also set `ANTHROPIC_API_KEY`
+- Exam task markup (`src/lib/task-markup.ts`, rendered by `TaskBody.tsx`): `{{select|id|opt|opt}}`, `{{drag|id|Slot,Slot|item,item}}`, `{{plot|id|xmin,xmax,ymin,ymax|xl|yl}}`, `{{fill|id|Col,Col|rows}}`, `{{chart|bar|line|pie|Title|xl|yl|A:3,B:5}}`. Stored papers do not use widgets yet; only the generator does
+- `/my-files`: opens a local PDF (never uploaded) and keeps a localStorage links list
+- Tested end to end with Playwright against a fake PostgREST and fake Anthropic server (`ANTHROPIC_API_URL` override): typed answers (wrong, half right, correct), Mixed test widgets, marking, clickable stat blocks. NOT tested: the real Anthropic API, cache/bank writes with a real service-role key
+- Not built on purpose: free allowance and payments

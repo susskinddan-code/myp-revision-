@@ -1,0 +1,528 @@
+[
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Networks and Algorithms",
+  "subTopic": "Networks, Nodes and Weighted Pathways",
+  "questions": [
+   {
+    "content": "In a network diagram, what does a node (also called a vertex) represent?",
+    "options": [
+     "A connection between two points with a number on it",
+     "A point such as a town, junction or computer",
+     "The total length of a route",
+     "A route that visits every point once"
+    ],
+    "answer": 1,
+    "explanation": "A node is a point in the network. The lines joining nodes are edges (or arcs), and the numbers on them are weights.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A road network is drawn with each edge labelled with the distance in kilometres. What is the weight of an edge?",
+    "options": [
+     "The number of nodes it joins",
+     "The thickness used to draw it",
+     "The number of routes that use it",
+     "The number on it, here the distance in km"
+    ],
+    "answer": 3,
+    "explanation": "A weighted edge carries a number that measures something about the link, such as distance, time or cost. Here the weight is the distance.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A network has edges A–B, A–C, A–D, B–C and D–E. What is the degree of node A?",
+    "options": [
+     "3",
+     "2",
+     "4",
+     "5"
+    ],
+    "answer": 0,
+    "explanation": "The degree of a node is the number of edges meeting at it. Node A is on A–B, A–C and A–D, so its degree is 3.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In a network, the edge weights are A–B = 4 and B–D = 5. What is the total weight of the path A–B–D?",
+    "options": [
+     "20",
+     "5",
+     "9",
+     "1"
+    ],
+    "answer": 2,
+    "explanation": "The weight of a path is the sum of the weights of its edges: 4 + 5 = 9. Multiplying (4 × 5 = 20) is a common slip.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A network has 5 nodes with degrees 3, 2, 2, 2 and 3. How many edges does it have?",
+    "options": [
+     "12",
+     "5",
+     "10",
+     "6"
+    ],
+    "answer": 3,
+    "explanation": "Each edge adds 1 to the degree of two nodes, so the sum of the degrees is twice the number of edges. The degrees add to 12, so there are 6 edges.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Use this road network (weights in km): A–B 4, A–C 2, B–C 1, B–D 5, C–D 8, C–E 10, D–E 2, D–F 6, E–F 3. What is the length of the shortest route from A to E?",
+    "options": [
+     "11 km",
+     "10 km",
+     "12 km",
+     "15 km"
+    ],
+    "answer": 1,
+    "explanation": "The shortest route is A–C–B–D–E: 2 + 1 + 5 + 2 = 10. A–B–D–E (11) and A–C–E or A–C–D–E (12) are longer.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In the network A–B 4, A–C 2, B–C 1, B–D 5, C–D 8, C–E 10, D–E 2, D–F 6, E–F 3 (weights in km), Sam says: \"A–C–E–F is the best route from A to F because it uses the fewest edges.\" Which statement is correct?",
+    "options": [
+     "A–C–E–F has weight 13, so Sam is right",
+     "The fewest edges always gives the shortest weighted path",
+     "A–C–E–F has weight 15, but a route with more edges has weight 13, so Sam is wrong",
+     "A–C–E–F has weight 10, so it is shortest"
+    ],
+    "answer": 2,
+    "explanation": "A–C–E–F = 2 + 10 + 3 = 15. The route A–C–B–D–E–F = 2 + 1 + 5 + 2 + 3 = 13 uses more edges but is shorter. The shortest weighted path depends on the weights, not on the number of edges.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The road between B and D in the network A–B 4, A–C 2, B–C 1, B–D 5, C–D 8, C–E 10, D–E 2, D–F 6, E–F 3 (weights in km) is closed for repairs. What is the length of the shortest route from A to F now?",
+    "options": [
+     "15 km",
+     "13 km",
+     "14 km",
+     "17 km"
+    ],
+    "answer": 0,
+    "explanation": "Without B–D, the best route is A–C–E–F = 2 + 10 + 3 = 15 (A–C–D–E–F = 2 + 8 + 2 + 3 is also 15). The old value 13 used the closed road.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A council connects six villages (A to F) with the least total length of new cable. The possible links and lengths in km are A–B 4, A–C 2, B–C 1, B–D 5, C–D 8, C–E 10, D–E 2, D–F 6, E–F 3. What is the least total length that connects all six villages?",
+    "options": [
+     "15 km",
+     "13 km",
+     "12 km",
+     "17 km"
+    ],
+    "answer": 1,
+    "explanation": "A connected network on 6 nodes with no loop needs 5 links. Choosing the shortest links that do not form a loop gives B–C 1, A–C 2, D–E 2, E–F 3 and B–D 5, a total of 13 km.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A network has nodes P, Q and R. The edges are P–Q with weight 3 and Q–R with weight 5. In the adjacency matrix, rows and columns are in the order P, Q, R, and 0 means no direct edge. What is the row for Q?",
+    "options": [
+     "3, 5, 0",
+     "0, 3, 5",
+     "3, 5, 5",
+     "3, 0, 5"
+    ],
+    "answer": 3,
+    "explanation": "The Q row lists the weight of the edge from Q to P, Q to Q and Q to R. That is 3, 0 (no loop at Q) and 5.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A courier's route network has distances in km, and the shortest route from A to F is 13 km (A–C–B–D–E–F). The vehicle costs £0.45 per km to run. What is the running cost for the shortest route?",
+    "options": [
+     "£5.85",
+     "£6.75",
+     "£28.89",
+     "£13.45"
+    ],
+    "answer": 0,
+    "explanation": "Cost = distance × cost per km = 13 × 0.45 = £5.85. £6.75 comes from using the 15 km route, and dividing (13 ÷ 0.45) gives a meaningless £28.89.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The weights in the network A–B 4, A–C 2, B–C 1, B–D 5, C–D 8, C–E 10, D–E 2, D–F 6, E–F 3 are travel times in minutes. A bus also waits 2 minutes at every node it passes through between A and F (not at A or F). Which statement is correct?",
+    "options": [
+     "A–C–B–D–E–F is still the quickest, taking 13 minutes",
+     "A–C–B–D–F takes 14 minutes in total",
+     "A–C–B–D–E–F is no longer the quickest: it takes 21 minutes, but A–C–E–F takes 19",
+     "A–C–E–F takes 15 minutes in total"
+    ],
+    "answer": 2,
+    "explanation": "Add 2 minutes per intermediate node. A–C–B–D–E–F has 4 intermediate nodes: 13 + 8 = 21. A–C–E–F has 2: 15 + 4 = 19. A–C–B–D–F is 14 + 6 = 20. The shortest pure travel time is not the quickest overall.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A planner uses a network with distance weights to choose the quickest delivery route. What is the main limitation of this model?",
+    "options": [
+     "Networks cannot be used with real roads",
+     "Weights must always be whole numbers",
+     "A network can only have one possible route",
+     "Distance does not show speed limits or traffic, so the shortest route may not be the quickest"
+    ],
+    "answer": 3,
+    "explanation": "Time depends on speed, traffic and junctions, not distance alone. A good evaluation states this assumption and suggests using travel-time weights instead.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The network A–B 4, A–C 2, B–C 1, B–D 5, C–D 8, C–E 10, D–E 2, D–F 6, E–F 3 has distances in km. Road B–D is closed and a new bypass reduces the weight of C–E from 10 to 4. What is the new shortest distance from A to F?",
+    "options": [
+     "13 km",
+     "9 km",
+     "15 km",
+     "12 km"
+    ],
+    "answer": 1,
+    "explanation": "With B–D closed and C–E = 4, the route A–C–E–F = 2 + 4 + 3 = 9. Routes using D cost more, for example A–C–E–D–F = 2 + 4 + 2 + 6 = 14.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A company wants a direct cable between every pair of its 6 offices. A cheaper plan only needs the offices to be connected with no loops. How many fewer cables does the cheaper plan use?",
+    "options": [
+     "9",
+     "15",
+     "10",
+     "5"
+    ],
+    "answer": 2,
+    "explanation": "Direct links between every pair need 6 × 5 ÷ 2 = 15 cables. A connected layout without loops on 6 nodes needs 5 cables. 15 − 5 = 10 fewer.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "In the network A–B 4, A–C 2, B–C 1, B–D 5, C–D 8, C–E 10, D–E 2, D–F 6, E–F 3, Jo starts at D and always moves along the shortest edge to a node she has not yet visited, aiming to visit every node. What happens?",
+    "options": [
+     "She visits D, E, F and then cannot continue, so A, B and C are never reached",
+     "She visits all six nodes with a total of 13 km",
+     "She visits all six nodes with a total of 15 km",
+     "She goes D–F first because F is a final node"
+    ],
+    "answer": 0,
+    "explanation": "From D the nearest unvisited node is E (2). From E the nearest unvisited is F (3). F's only neighbours are D and E, which are already visited, so she is stuck. A greedy rule does not always give a complete route.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Dijkstra's algorithm starts at A in the network A–B 4, A–C 2, B–C 1, B–D 5, C–D 8, C–E 10, D–E 2, D–F 6, E–F 3. When node C (label 2) is processed, what temporary label does D receive, and does it change later?",
+    "options": [
+     "8, and it never changes",
+     "10, and it later improves to 8 through B",
+     "10, and it never changes",
+     "9, and it later improves to 8"
+    ],
+    "answer": 1,
+    "explanation": "Processing C gives D a label of 2 + 8 = 10. Processing C also improves B to 3 (2 + 1). Then processing B gives D a label of 3 + 5 = 8, which is smaller, so D is updated.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The weights in the network A–B 4, A–C 2, B–C 1, B–D 5, C–D 8, C–E 10, D–E 2, D–F 6, E–F 3 are times in minutes. Roadworks increase the time on D–E by 150%. Which route from A to F is now the quickest and how long does it take?",
+    "options": [
+     "A–C–B–D–E–F in 16 minutes",
+     "A–C–B–D–E–F in 13 minutes",
+     "A–C–E–F in 13 minutes",
+     "A–C–B–D–F in 14 minutes"
+    ],
+    "answer": 3,
+    "explanation": "A 150% increase on 2 minutes gives 2 + 3 = 5 minutes. The old best route becomes 2 + 1 + 5 + 5 + 3 = 16. The route via D–F is 2 + 1 + 5 + 6 = 14, which is now the quickest.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What is a network?\nA network (or graph) is a diagram made of nodes (also called vertices) joined by edges (also called arcs). Nodes can be towns, airports, computers or classrooms. Edges are the links between them: roads, flights, cables or footpaths. When each edge has a number on it, the network is weighted. The number is the weight, and it might be a distance in km, a time in minutes or a cost in pounds.\n\n## Key vocabulary\n- **Degree** of a node: the number of edges that meet at it.\n- **Path**: a sequence of edges that joins nodes without going back through a node you have already used.\n- **Weight of a path**: the sum of the weights of its edges.\n- **Connected network**: you can travel between any two nodes.\n- **Cycle**: a path that starts and finishes at the same node.\n- **Tree**: a connected network with no cycles. A tree with n nodes always has n − 1 edges.\n\nA useful check: the sum of all the degrees is twice the number of edges, because each edge touches two nodes.\n\n## Finding the shortest path\nTo find the shortest route between two nodes, you cannot just count edges. A route with many short edges can beat a route with one long edge. A reliable method is to build up the shortest distances from the start node (Dijkstra's idea):\n- Give the start node the label 0 and all others a temporary label.\n- Take the unfinished node with the smallest label and fix it.\n- Update the labels of its neighbours: new label = fixed label + edge weight, keeping the smaller value.\n- Repeat until the target node is fixed.\n\nWorked example: edges A–B 4, A–C 2, B–C 1, B–D 5. From A, B gets 4 and C gets 2. Fix C (2). Then B can be reached by 2 + 1 = 3, which is better than 4, so B becomes 3. Fix B (3). Then D = 3 + 5 = 8.\n\n## Minimum connecting network\nSometimes the aim is to connect every node using the least total weight, such as laying cable to villages. Choose the shortest edge available, then the next shortest, and so on, skipping any edge that would make a cycle. Stop when you have n − 1 edges. This gives the lowest total weight for a connected network.\n\n## Adjacency matrices\nA network can be stored as a table. Rows and columns are the nodes, and each entry is the weight of the direct edge (or 0 if there is none). The matrix is symmetric for a two-way network.\n\n## Common mistakes\n- Choosing the route with the fewest edges instead of the smallest total weight.\n- Forgetting extra costs, such as waiting time at a node.\n- Using a greedy rule (always take the nearest next node) and assuming it gives the best overall answer.\n- Mixing units, such as km and minutes.\n\n## How this is examined\nQuestions set a real context, such as a delivery firm, an airport shuttle or a cable layout, with the network described in text or a diagram. You may be asked to state the degree of a node, calculate a path weight, find the shortest route, justify why one route is better, and then evaluate the model: what does the weight really measure, and what changes if there is a road closure or a traffic delay? Extended tasks ask you to state assumptions and say how realistic the model is.\n\nExam tip: Write every route you test as a list of nodes with the weights added up (for example A–C–B–D = 2 + 1 + 5 = 8). Method marks are given for showing the comparison, and always include the units in your final answer.",
+  "flashcards": [
+   {
+    "front": "Node (vertex)",
+    "back": "A point in a network, such as a town, junction or computer."
+   },
+   {
+    "front": "Edge (arc)",
+    "back": "A link joining two nodes. In a weighted network each edge has a number on it."
+   },
+   {
+    "front": "Weight",
+    "back": "The number on an edge, such as a distance, time or cost."
+   },
+   {
+    "front": "Degree of a node",
+    "back": "The number of edges that meet at that node."
+   },
+   {
+    "front": "Sum of degrees",
+    "back": "The sum of all the degrees equals twice the number of edges."
+   },
+   {
+    "front": "Weight of a path",
+    "back": "The sum of the weights of the edges used."
+   },
+   {
+    "front": "Tree with n nodes",
+    "back": "A connected network with no cycles; it always has n − 1 edges."
+   },
+   {
+    "front": "Minimum connecting network",
+    "back": "Pick the shortest edges first, skip any that make a cycle, and stop at n − 1 edges."
+   },
+   {
+    "front": "Why fewest edges is not shortest",
+    "back": "A path with more edges can have a smaller total weight, so always add the weights."
+   }
+  ]
+ },
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Networks and Algorithms",
+  "subTopic": "Algorithms and Flowcharts",
+  "questions": [
+   {
+    "content": "In a flowchart, which shape is used for a decision such as \"Is x > 10?\"",
+    "options": [
+     "A rectangle",
+     "A diamond",
+     "An oval",
+     "A parallelogram"
+    ],
+    "answer": 1,
+    "explanation": "A diamond holds a yes/no question and has two exits. Rectangles are processes, ovals are start/stop, and parallelograms are input/output.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "An algorithm reads x. If x > 10 it outputs 2x − 5, otherwise it outputs x + 3. What is the output when x = 7?",
+    "options": [
+     "9",
+     "19",
+     "4",
+     "10"
+    ],
+    "answer": 3,
+    "explanation": "7 is not greater than 10, so the algorithm outputs x + 3 = 10. Using the other branch would give 2 × 7 − 5 = 9.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these best describes an algorithm?",
+    "options": [
+     "A finite list of clear steps that solves a problem",
+     "A diagram with only diamonds in it",
+     "A single calculation that has one answer",
+     "A list of numbers in order"
+    ],
+    "answer": 0,
+    "explanation": "An algorithm is a precise set of steps that always ends and solves a problem. A flowchart or pseudocode is one way to show it.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "An algorithm sets total = 0 and n = 1. It repeats: total = total + n², then n = n + 1, until n is greater than 4. What is the final total?",
+    "options": [
+     "10",
+     "100",
+     "30",
+     "14"
+    ],
+    "answer": 2,
+    "explanation": "The loop adds 1² + 2² + 3² + 4² = 1 + 4 + 9 + 16 = 30. Adding n instead of n² would give 10.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which shape is used in a flowchart for input or output, such as \"Enter a number\"?",
+    "options": [
+     "A diamond",
+     "A rectangle",
+     "An oval",
+     "A parallelogram"
+    ],
+    "answer": 3,
+    "explanation": "Input and output steps use a parallelogram. Diamonds are for decisions, rectangles for calculations and ovals for start and stop.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "An algorithm starts with a = 48 and b = 18. It repeats: if a > b replace a by a − b, otherwise replace b by b − a, until a = b. It then outputs a. What is the output?",
+    "options": [
+     "12",
+     "6",
+     "18",
+     "30"
+    ],
+    "answer": 1,
+    "explanation": "The pairs are (48, 18) → (30, 18) → (12, 18) → (12, 6) → (6, 6). The output is 6, the highest common factor of 48 and 18.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A bacteria model starts at 5 cells and doubles every hour. An algorithm repeats \"double the number\" until the number is more than 1000, and outputs the number. What does it output?",
+    "options": [
+     "1000",
+     "640",
+     "1280",
+     "2560"
+    ],
+    "answer": 2,
+    "explanation": "The values are 5, 10, 20, 40, 80, 160, 320, 640, 1280. The first value above 1000 is 1280, after 8 doublings. Stopping at 640 is too early because 640 is not more than 1000.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An account has £2000 and earns 3% interest each year. An algorithm repeats \"multiply the balance by 1.03 and add 1 to the year count\" until the balance is more than £2500. What year count does it output?",
+    "options": [
+     "8",
+     "7",
+     "9",
+     "25"
+    ],
+    "answer": 0,
+    "explanation": "2000 × 1.03⁷ ≈ 2459.7, which is below 2500, but 2000 × 1.03⁸ ≈ 2533.5, which is above 2500. So the loop ends after 8 years.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A bubble sort pass compares neighbouring numbers from left to right and swaps them if the left is larger. The list is 5, 2, 9, 1, 6. What is the list after one pass?",
+    "options": [
+     "1, 2, 5, 6, 9",
+     "2, 5, 1, 6, 9",
+     "2, 5, 9, 1, 6",
+     "2, 5, 1, 9, 6"
+    ],
+    "answer": 1,
+    "explanation": "Compare 5 and 2: swap → 2, 5, 9, 1, 6. 5 and 9: no swap. 9 and 1: swap → 2, 5, 1, 9, 6. 9 and 6: swap → 2, 5, 1, 6, 9. One pass does not fully sort the list.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A sorted list has 100 values. Binary search checks the middle value and discards half the list each time. What is the greatest number of checks needed to find a value?",
+    "options": [
+     "10",
+     "50",
+     "100",
+     "7"
+    ],
+    "answer": 3,
+    "explanation": "Each check at most halves the list: 100 → 50 → 25 → 12 → 6 → 3 → 1 shows the list is reduced to one item after at most 7 checks, since 2⁶ = 64 < 100 ≤ 2⁷ = 128.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An algorithm starts with n = 6 and a counter at 0. While n ≠ 1: if n is even, replace n by n ÷ 2; if n is odd, replace n by 3n + 1. Each time, add 1 to the counter. What is the counter at the end?",
+    "options": [
+     "8",
+     "6",
+     "5",
+     "9"
+    ],
+    "answer": 0,
+    "explanation": "The values of n are 6, 3, 10, 5, 16, 8, 4, 2, 1. That is 8 steps, so the counter is 8.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A taxi company charges £3.50 plus £1.20 per km for the first 5 km, then £0.90 per km after that. An algorithm calculates the fare for a trip. What is the fare for a 12 km trip?",
+    "options": [
+     "£17.90",
+     "£14.30",
+     "£15.80",
+     "£18.20"
+    ],
+    "answer": 2,
+    "explanation": "The first 5 km cost 5 × 1.20 = £6.00. The remaining 7 km cost 7 × 0.90 = £6.30. Fare = 3.50 + 6.00 + 6.30 = £15.80. Using one rate for all 12 km is a common error.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An algorithm sets n = 1 and repeats: \"while n > 0, replace n by n + 1\". What happens when it runs?",
+    "options": [
+     "It stops when n reaches 0",
+     "It stops after one repeat",
+     "It outputs the value 1 and ends",
+     "It never stops, because n is always greater than 0"
+    ],
+    "answer": 3,
+    "explanation": "n starts at 1 and gets bigger, so the condition n > 0 is always true. This is an infinite loop, a typical error in algorithm design.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An algorithm sets a = 1 and b = 1. It repeats 6 times: set c = a + b, set a = b, set b = c. It then outputs b. What does it output?",
+    "options": [
+     "13",
+     "21",
+     "34",
+     "8"
+    ],
+    "answer": 1,
+    "explanation": "The values of b after each pass are 2, 3, 5, 8, 13, 21. After 6 repeats b = 21. This is the Fibonacci pattern.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An algorithm uses two loops: for i from 1 to 4, for j from i to 6, output the pair (i, j). How many pairs are output in total?",
+    "options": [
+     "24",
+     "16",
+     "18",
+     "10"
+    ],
+    "answer": 2,
+    "explanation": "For i = 1, j takes 6 values; i = 2 gives 5; i = 3 gives 4; i = 4 gives 3. Total = 6 + 5 + 4 + 3 = 18. Assuming j always has 6 values would give 24.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An algorithm starts with x = 2. It repeats: replace x by 2x − 1 and output x. The outputs are 3, 5, 9, 17, ... Which rule gives the value after n repeats?",
+    "options": [
+     "2ⁿ + 1",
+     "2n + 1",
+     "3n",
+     "2ⁿ − 1"
+    ],
+    "answer": 0,
+    "explanation": "Test n = 1: 2¹ + 1 = 3, n = 2: 2² + 1 = 5, n = 3: 2³ + 1 = 9, n = 4: 17. The rule 2n + 1 gives 3, 5, 7, so it fails at n = 3.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An algorithm should output the largest of a, b and c: Step 1 if a > b then max = a, otherwise max = b. Step 2 if c > b then max = c. Which test input shows that the algorithm is wrong?",
+    "options": [
+     "a = 1, b = 2, c = 3",
+     "a = 9, b = 2, c = 5",
+     "a = 3, b = 2, c = 1",
+     "a = 2, b = 9, c = 5"
+    ],
+    "answer": 1,
+    "explanation": "For 9, 2, 5: step 1 sets max = 9, but step 2 checks 5 > 2 and replaces max with 5, which is wrong. Step 2 should compare c with max, not with b. The other inputs happen to give the right answer.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A linear search checks a sorted list of 1000 values one by one. A binary search halves the list each time. In the worst case, how many fewer checks does binary search need?",
+    "options": [
+     "500",
+     "999",
+     "900",
+     "990"
+    ],
+    "answer": 3,
+    "explanation": "Linear search needs up to 1000 checks. Binary search needs at most 10, because 2⁹ = 512 < 1000 ≤ 2¹⁰ = 1024. The difference is 1000 − 10 = 990.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What is an algorithm?\nAn algorithm is a finite list of clear, ordered steps that solves a problem. It must be precise (each step is unambiguous), it must end, and it should give the right output for every valid input. Everyday examples include a recipe, a route to school, or the steps your calculator uses to work out a square root.\n\n## Ways to show an algorithm\nA flowchart uses standard shapes joined by arrows:\n- **Oval**: start or stop.\n- **Rectangle**: a process or calculation, such as total = total + n.\n- **Diamond**: a decision with a yes/no question and two exits.\n- **Parallelogram**: input or output.\n\nPseudocode is a written version that looks like simple code, using words such as IF, THEN, ELSE, WHILE and FOR. It does not need to follow the rules of any particular programming language.\n\n## Variables, loops and decisions\nA variable is a named box that stores a value, such as total or n. Assignment means putting a new value in: n = n + 1 means \"take the value of n, add 1 and store it back in n\". A loop repeats steps until a condition is met. A decision (selection) chooses between two paths.\n\n## Tracing an algorithm\nTracing means following the steps with real numbers and recording the value of each variable in a table, one row per pass. This is the most important skill. For example, start with total = 0 and n = 1, and repeat total = total + n², n = n + 1 until n > 4.\n- n = 1: total = 1\n- n = 2: total = 5\n- n = 3: total = 14\n- n = 4: total = 30, then n becomes 5 and the loop stops.\n\nThe output is 30. Always check the stopping condition carefully: \"until n > 4\" means the loop stops once n is 5, but n = 4 was still processed.\n\n## Common algorithms\n- **Repeated subtraction (Euclid-style)**: to find the highest common factor, subtract the smaller number from the larger until they are equal.\n- **Bubble sort**: compare neighbours and swap if out of order. Repeat passes until no swaps are needed.\n- **Binary search**: in a sorted list, check the middle value and discard half. For a list of n values you need at most k checks where 2ᵏ ≥ n.\n- **Counting loops** and **running totals**, used in interest and growth models.\n\n## Finding errors\nA test input is useful if it reveals a mistake. Choose cases where different branches matter, for example a case where the first number is the largest, not just a case that works by chance. Typical errors include infinite loops (the condition never becomes false), off-by-one errors (stopping one pass too early or too late), and comparing the wrong variables.\n\n## General rules\nAfter tracing several outputs you can often describe a rule in terms of n. If x starts at 2 and each repeat doubles x then subtracts 1, the outputs are 3, 5, 9, 17, so the rule is 2ⁿ + 1. Always test your rule on at least two more cases.\n\n## How this is examined\nIn the eAssessment you are given a real-life process (a taxi fare, a savings plan, a sorting job) written as a flowchart or pseudocode. You trace it, state the output, find a mistake, and then decide whether the algorithm is efficient or suitable. Extended tasks ask you to design your own algorithm, test it on new cases and evaluate its limits.\n\nExam tip: Draw a trace table and fill in every row. Do not skip passes in your head. State the final output clearly and include units if the context has them.",
+  "flashcards": [
+   {
+    "front": "Algorithm",
+    "back": "A finite, ordered list of precise steps that solves a problem and always ends."
+   },
+   {
+    "front": "Flowchart shapes",
+    "back": "Oval: start/stop. Rectangle: process. Diamond: decision. Parallelogram: input/output."
+   },
+   {
+    "front": "Trace table",
+    "back": "A table that records the value of each variable after every step or pass."
+   },
+   {
+    "front": "Loop",
+    "back": "A set of steps repeated until a condition is met, for example repeat until n > 4."
+   },
+   {
+    "front": "Infinite loop",
+    "back": "A loop whose stopping condition never becomes true, so the algorithm never ends."
+   },
+   {
+    "front": "Bubble sort",
+    "back": "Compare neighbours and swap if out of order; repeat passes until no swaps are needed."
+   },
+   {
+    "front": "Binary search",
+    "back": "In a sorted list, check the middle and discard half. At most k checks where 2ᵏ ≥ n."
+   },
+   {
+    "front": "Euclid-style subtraction",
+    "back": "Replace the larger of two numbers with the difference until they are equal; the result is the highest common factor."
+   },
+   {
+    "front": "Good test input",
+    "back": "One that makes different branches matter and can expose an error, not one that works by luck."
+   }
+  ]
+ }
+]

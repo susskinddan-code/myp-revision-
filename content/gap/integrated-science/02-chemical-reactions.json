@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "integrated-science",
+  "grade": 5,
+  "topic": "Chemical Reactions",
+  "subTopic": "Chemical Change and Equations",
+  "questions": [
+   {
+    "content": "Which observation is the best sign that a chemical change has happened?",
+    "options": [
+     "A solid changes shape when cut",
+     "A new substance is formed, such as a gas or a colour change",
+     "Water is poured into a different container",
+     "A liquid changes volume when it is heated slightly"
+    ],
+    "answer": 1,
+    "explanation": "A chemical change makes new substances. Changes of shape or container are physical.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does the law of conservation of mass state?",
+    "options": [
+     "Mass always increases in a reaction",
+     "Mass is lost when a gas forms",
+     "Products always weigh less than reactants",
+     "Atoms are not created or destroyed, so total mass stays the same in a closed system"
+    ],
+    "answer": 3,
+    "explanation": "Atoms are rearranged in reactions, so the total number of each atom and the total mass are unchanged.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In the reaction magnesium + oxygen → magnesium oxide, which are the reactants?",
+    "options": [
+     "Magnesium and oxygen",
+     "Magnesium oxide only",
+     "Oxygen and magnesium oxide",
+     "Magnesium oxide and energy"
+    ],
+    "answer": 0,
+    "explanation": "Reactants are on the left of the arrow; the product is on the right.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the chemical formula for carbon dioxide?",
+    "options": [
+     "CO",
+     "C₂O",
+     "CO₂",
+     "O₂C₂"
+    ],
+    "answer": 2,
+    "explanation": "One carbon atom joined to two oxygen atoms. CO is carbon monoxide.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What must be true of a balanced chemical equation?",
+    "options": [
+     "The same number of molecules on both sides",
+     "The same number of elements on each side",
+     "The same number of each type of atom on both sides",
+     "Only one product"
+    ],
+    "answer": 2,
+    "explanation": "Atoms are conserved so each element has equal numbers either side.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which set of coefficients balances H₂ + O₂ → H₂O?",
+    "options": [
+     "2, 1, 2",
+     "1, 1, 1",
+     "2, 2, 1",
+     "1, 2, 2"
+    ],
+    "answer": 0,
+    "explanation": "2H₂ + O₂ → 2H₂O gives four H atoms and two O atoms on each side.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which word equation describes the complete combustion of methane?",
+    "options": [
+     "Methane + water → carbon dioxide + oxygen",
+     "Methane + carbon dioxide → oxygen + water",
+     "Methane → carbon + hydrogen",
+     "Methane + oxygen → carbon dioxide + water"
+    ],
+    "answer": 3,
+    "explanation": "Complete combustion of a hydrocarbon produces carbon dioxide and water.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student burns 0.24 g of magnesium ribbon in an open crucible and the white product weighs 0.40 g. Why is the product heavier?",
+    "options": [
+     "Magnesium atoms became heavier",
+     "The magnesium combined with oxygen from the air",
+     "Energy has mass in the flame",
+     "The crucible lost mass"
+    ],
+    "answer": 1,
+    "explanation": "Mg + O → MgO. The extra 0.16 g is the mass of oxygen that joined the magnesium.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Calcium carbonate is added to hydrochloric acid in an open flask on a balance. The reading falls. Why?",
+    "options": [
+     "Mass is destroyed in the reaction",
+     "The acid evaporates completely",
+     "The calcium carbonate dissolves and vanishes",
+     "Carbon dioxide gas escapes into the air"
+    ],
+    "answer": 3,
+    "explanation": "The gas is a product that leaves the flask. In a sealed container the mass would stay the same.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which set of coefficients balances Na + Cl₂ → NaCl?",
+    "options": [
+     "1, 1, 1",
+     "2, 1, 2",
+     "1, 2, 2",
+     "2, 2, 1"
+    ],
+    "answer": 1,
+    "explanation": "2Na + Cl₂ → 2NaCl: two Na and two Cl on each side.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of these is a physical change?",
+    "options": [
+     "Ice melting",
+     "Wood burning",
+     "Iron rusting",
+     "Milk going sour"
+    ],
+    "answer": 0,
+    "explanation": "Melting changes state but forms no new substance. The others make new substances.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Calcium carbonate is heated: CaCO₃ → CaO + CO₂. What type of reaction is this?",
+    "options": [
+     "Neutralisation",
+     "Combustion",
+     "Thermal decomposition",
+     "Displacement"
+    ],
+    "answer": 2,
+    "explanation": "One compound breaks down into simpler substances when heated.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How many oxygen atoms are shown by 2Ca(OH)₂?",
+    "options": [
+     "4",
+     "2",
+     "1",
+     "6"
+    ],
+    "answer": 0,
+    "explanation": "Each Ca(OH)₂ has two O atoms, so 2 × 2 = 4.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which set of coefficients balances Fe + O₂ → Fe₂O₃?",
+    "options": [
+     "2, 3, 1",
+     "1, 1, 1",
+     "4, 3, 2",
+     "3, 4, 2"
+    ],
+    "answer": 2,
+    "explanation": "4Fe + 3O₂ → 2Fe₂O₃: four Fe and six O on each side.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "When 10.0 g of calcium carbonate is fully decomposed by heating, 5.6 g of calcium oxide forms. What mass of carbon dioxide is released?",
+    "options": [
+     "5.6 g",
+     "4.4 g",
+     "10.0 g",
+     "15.6 g"
+    ],
+    "answer": 1,
+    "explanation": "Total mass is conserved: 10.0 − 5.6 = 4.4 g.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student seals a flask containing acid and carbonate and the balance reading does not change. A second student leaves the flask open and the reading falls. What is the best conclusion?",
+    "options": [
+     "The law of conservation of mass is wrong",
+     "Sealing the flask stops the reaction",
+     "Gas has no mass",
+     "Mass is conserved only when no gas can escape; the open flask lost gas"
+    ],
+    "answer": 3,
+    "explanation": "The open system lost carbon dioxide. Comparing closed and open systems is a good control.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "In the equation C₃H₈ + ?O₂ → 3CO₂ + 4H₂O, what number goes in place of '?'",
+    "options": [
+     "3",
+     "5",
+     "4",
+     "10"
+    ],
+    "answer": 1,
+    "explanation": "There are 6 + 4 = 10 oxygen atoms on the right, so 5 O₂ molecules are needed.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A catalytic converter changes harmful gases: 2CO + 2NO → 2CO₂ + N₂. Which statement is correct?",
+    "options": [
+     "The equation is not balanced because there is one N₂",
+     "The equation is balanced and has 6 atoms on each side",
+     "The equation is balanced and has 8 atoms on each side",
+     "The equation is not balanced because CO₂ has more oxygen"
+    ],
+    "answer": 2,
+    "explanation": "Left: 2 × 2 + 2 × 2 = 8 atoms. Right: 2 × 3 + 2 = 8 atoms. The C, N and O counts all match.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Chemical and physical change\nIn a **physical change** such as melting, dissolving or boiling, no new substance forms and the change can usually be reversed easily. In a **chemical change** new substances are made. Clues include a gas being released, a colour change, a precipitate forming, a temperature change, or light and heat being given out. However, you must be careful: a temperature change or gas can also occur in physical changes, so confirm that a new substance really forms.\n\n## Reactants and products\nIn a reaction, **reactants** are turned into **products**. We write the change as a word equation, for example magnesium + oxygen → magnesium oxide. Symbol equations use chemical formulae such as Mg, O₂ and MgO. The formula shows which atoms are in a particle and how many.\n\n## Conservation of mass\nIn a chemical reaction atoms are rearranged, not created or destroyed. So the total mass of reactants equals the total mass of products, as long as no substance enters or leaves the system. If a gas escapes, the mass seems to fall. If a gas from the air joins in, the mass seems to rise. For example, when 0.24 g of magnesium is burned in air, the white solid weighs 0.40 g because 0.16 g of oxygen has joined with the magnesium. Scientists use sealed containers to check mass conservation.\n\n## Balancing equations\nTo balance an equation, put numbers (coefficients) in front of formulae so each element has the same number of atoms on both sides. Never change the small subscript numbers, because that changes the substance.\n\nWorked example: balance propane burning, C₃H₈ + O₂ → CO₂ + H₂O.\n- Balance carbon: 3 CO₂.\n- Balance hydrogen: 8 H means 4 H₂O.\n- Count oxygen on the right: 6 + 4 = 10, so 5 O₂.\n- Final equation: C₃H₈ + 5O₂ → 3CO₂ + 4H₂O.\nCheck each element by counting atoms on both sides.\n\n## Types of reaction\n- **Combustion**: a substance reacts with oxygen, releasing energy.\n- **Thermal decomposition**: a compound breaks down when heated, for example CaCO₃ → CaO + CO₂.\n- **Neutralisation**: an acid reacts with a base (covered later).\n- **Displacement**: a more reactive element takes the place of a less reactive one in a compound.\n\n## Common mistakes\n- Changing subscripts instead of coefficients when balancing.\n- Forgetting that a gas can have mass.\n- Saying mass is \"lost\" in an open reaction when it has actually escaped as a gas.\n- Counting molecules instead of atoms to check a balance.\n\n## How this is examined\nScience criteria B and C often give an experiment, such as heating a metal in a crucible or reacting an acid with a carbonate on a balance, with a table of masses. You explain mass changes, balance an equation, and evaluate whether the method was fair and reliable. In criterion D you may link a reaction, such as the catalytic converter, to its impact on society and the environment.\n\nExam tip: If mass seems to change in a reaction, ask yourself whether a gas has entered or left the system. Refer to the particles and say that atoms are rearranged, not lost.",
+  "flashcards": [
+   {
+    "front": "Chemical change",
+    "back": "A change where one or more new substances form, e.g. burning, rusting, or cooking an egg."
+   },
+   {
+    "front": "Law of conservation of mass",
+    "back": "Atoms are not created or destroyed in a reaction, so total mass of reactants = total mass of products in a closed system."
+   },
+   {
+    "front": "Reactant and product",
+    "back": "Reactants are the starting substances (left of the arrow); products are the substances made (right of the arrow)."
+   },
+   {
+    "front": "Balancing rule",
+    "back": "Change the coefficients (big numbers in front), never the subscripts (small numbers in formulae)."
+   },
+   {
+    "front": "Balanced equation for hydrogen burning",
+    "back": "2H₂ + O₂ → 2H₂O"
+   },
+   {
+    "front": "Complete combustion of a hydrocarbon",
+    "back": "Hydrocarbon + oxygen → carbon dioxide + water, and energy is released."
+   },
+   {
+    "front": "Thermal decomposition",
+    "back": "A compound breaks down into simpler substances when heated, e.g. CaCO₃ → CaO + CO₂."
+   },
+   {
+    "front": "Why does a metal gain mass when it burns in air?",
+    "back": "It combines with oxygen from the air, forming a heavier oxide."
+   },
+   {
+    "front": "Why does an open flask lose mass in a reaction that makes gas?",
+    "back": "The gas escapes into the air. In a sealed container the mass would not change."
+   }
+  ]
+ },
+ {
+  "subject": "integrated-science",
+  "grade": 5,
+  "topic": "Chemical Reactions",
+  "subTopic": "Acids, Bases and Salts in Context",
+  "questions": [
+   {
+    "content": "What is the pH of a neutral solution at room temperature?",
+    "options": [
+     "0",
+     "7",
+     "1",
+     "14"
+    ],
+    "answer": 1,
+    "explanation": "Below 7 is acidic and above 7 is alkaline. Pure water is neutral.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What colour does universal indicator turn in a strong acid?",
+    "options": [
+     "Purple",
+     "Green",
+     "Blue",
+     "Red"
+    ],
+    "answer": 3,
+    "explanation": "Universal indicator is red for strong acids, green for neutral and purple for strong alkalis.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is an alkali?",
+    "options": [
+     "A base that dissolves in water",
+     "Any acid that dissolves in water",
+     "A salt that has no pH",
+     "An acid with a pH above 7"
+    ],
+    "answer": 0,
+    "explanation": "Alkalis such as sodium hydroxide form hydroxide ions in water and have pH above 7.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which general word equation describes neutralisation?",
+    "options": [
+     "Acid + alkali → hydrogen + water",
+     "Acid + metal → salt + water",
+     "Acid + alkali → salt + water",
+     "Alkali + water → salt + hydrogen"
+    ],
+    "answer": 2,
+    "explanation": "Neutralisation gives a salt and water.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which salt forms when hydrochloric acid reacts with sodium hydroxide?",
+    "options": [
+     "Sodium sulfate",
+     "Sodium nitrate",
+     "Sodium chloride",
+     "Sodium carbonate"
+    ],
+    "answer": 2,
+    "explanation": "Hydrochloric acid makes chlorides, sulfuric acid makes sulfates and nitric acid makes nitrates.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "An acid is added to a solid and bubbles form. The gas turns limewater milky. What gas is it?",
+    "options": [
+     "Carbon dioxide",
+     "Hydrogen",
+     "Oxygen",
+     "Chlorine"
+    ],
+    "answer": 0,
+    "explanation": "Carbon dioxide turns limewater cloudy. The solid was a carbonate.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What are the products when sulfuric acid reacts with sodium hydroxide?",
+    "options": [
+     "Sodium chloride and water",
+     "Sodium sulfate and hydrogen",
+     "Sodium hydroxide and carbon dioxide",
+     "Sodium sulfate and water"
+    ],
+    "answer": 3,
+    "explanation": "Sulfuric acid makes sulfate salts, and neutralisation also makes water.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Magnesium is added to dilute hydrochloric acid. A lit splint is held at the mouth of the test tube and gives a squeaky pop. What does this show?",
+    "options": [
+     "Oxygen gas is produced",
+     "Hydrogen gas is produced",
+     "Carbon dioxide gas is produced",
+     "Chlorine gas is produced"
+    ],
+    "answer": 1,
+    "explanation": "Acid + metal → salt + hydrogen. Hydrogen burns with a squeaky pop.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A farmer finds soil with a pH of 5.0. Why might lime (calcium hydroxide) be added?",
+    "options": [
+     "It is an acid that lowers pH",
+     "It increases the temperature",
+     "It adds water to the soil",
+     "It is a base that neutralises the acidity"
+    ],
+    "answer": 3,
+    "explanation": "A base reacts with acid and raises the pH towards 7, which suits most crops.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why do indigestion tablets contain bases such as magnesium hydroxide?",
+    "options": [
+     "To make the stomach more acidic",
+     "To neutralise excess hydrochloric acid in the stomach",
+     "To kill bacteria in food",
+     "To add vitamins"
+    ],
+    "answer": 1,
+    "explanation": "Antacids neutralise acid. They should not make the stomach strongly alkaline.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a neutralisation experiment 25.0 cm³ of alkali needed 20.2 cm³, 19.8 cm³ and 20.0 cm³ of acid in three trials. What is the mean volume of acid?",
+    "options": [
+     "20.0 cm³",
+     "19.8 cm³",
+     "20.2 cm³",
+     "60.0 cm³"
+    ],
+    "answer": 0,
+    "explanation": "(20.2 + 19.8 + 20.0) ÷ 3 = 60.0 ÷ 3 = 20.0 cm³.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A dilute acid is diluted further with water. What happens to the pH?",
+    "options": [
+     "It decreases to 0",
+     "It stays exactly the same",
+     "It increases towards 7",
+     "It becomes alkaline"
+    ],
+    "answer": 2,
+    "explanation": "Diluting an acid lowers the concentration of hydrogen ions, so the pH rises but does not pass 7.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Acid rain damages a statue made from limestone (calcium carbonate). Why?",
+    "options": [
+     "Acid reacts with calcium carbonate, releasing carbon dioxide and dissolving it",
+     "Acid rain is an alkali that dissolves the stone",
+     "The stone expands when it is wet",
+     "Acid evaporates the statue"
+    ],
+    "answer": 0,
+    "explanation": "Carbonates react with acids, so the stone slowly erodes.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The pH of a stream is 4.2 upstream and 6.9 after it passes through a bed of limestone chippings. What explains the change?",
+    "options": [
+     "The limestone adds more acid",
+     "The water is diluted by evaporation",
+     "The carbonate neutralises acid in the water",
+     "The thermometer was faulty"
+    ],
+    "answer": 2,
+    "explanation": "The limestone reacts with the acid and raises the pH. This is also how lime is used to treat acidified lakes.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Solution A has a pH of 2 and solution B has a pH of 5. Compared with B, A has about how many times the hydrogen ion concentration?",
+    "options": [
+     "3 times",
+     "1000 times",
+     "30 times",
+     "100 000 times"
+    ],
+    "answer": 1,
+    "explanation": "Each pH unit is a tenfold change. Three units gives 10 × 10 × 10 = 1000.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Copper(II) sulfate crystals are made by adding copper(II) oxide to warm dilute sulfuric acid. Why is the oxide added in excess?",
+    "options": [
+     "To make the solution acidic",
+     "To speed the reaction by cooling",
+     "To turn the product into a gas",
+     "To make sure all the acid reacts; the leftover solid is then filtered off"
+    ],
+    "answer": 3,
+    "explanation": "Excess insoluble base ensures no acid remains. The unreacted solid is removed by filtration and the filtrate is crystallised.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student finds the end-point of a neutralisation by adding acid to alkali with indicator, but the volume varies between trials by 3 cm³. Which improvement is best?",
+    "options": [
+     "Use a larger beaker",
+     "Add acid one drop at a time near the end-point and repeat until results agree",
+     "Add all the acid quickly",
+     "Use less indicator and one trial"
+    ],
+    "answer": 1,
+    "explanation": "Slow dropwise addition near the change reduces overshoot, and repeats improve reliability.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A school technician spills dilute sulfuric acid. Which treatment is best and why?",
+    "options": [
+     "A strong alkali, because it acts quickly",
+     "Water only, because it removes all acid",
+     "Sodium hydrogencarbonate powder, because it neutralises the acid and fizzing shows when it is finished",
+     "A strong acid, because it dries the spill"
+    ],
+    "answer": 2,
+    "explanation": "A weak base is safe and shows completion by fizzing stopping. A strong alkali would be hazardous and could overshoot.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Acids and alkalis\nAcids, such as hydrochloric, sulfuric and nitric acid, have a pH below 7 and form hydrogen ions (H⁺) in water. **Bases** are substances that react with acids. **Alkalis** are bases that dissolve in water and have a pH above 7. Examples are sodium hydroxide and calcium hydroxide. Pure water is neutral with a pH of 7.\n\nThe pH scale runs from 0 to 14. Universal indicator changes colour with pH, from red (strongly acidic) through green (neutral) to purple (strongly alkaline). Each step of 1 on the pH scale is a tenfold change in hydrogen ion concentration, so pH 2 has 1000 times more hydrogen ions than pH 5. Diluting an acid raises its pH towards 7 but never beyond.\n\n## Reactions of acids\n- **Acid + metal → salt + hydrogen.** Test: a lit splint makes a squeaky pop.\n- **Acid + metal carbonate → salt + water + carbon dioxide.** Test: carbon dioxide turns limewater milky.\n- **Acid + base or alkali → salt + water.** This is **neutralisation**.\n\nThe name of the salt comes from the acid and the metal: hydrochloric acid makes chlorides, sulfuric acid makes sulfates and nitric acid makes nitrates. Sulfuric acid and sodium hydroxide give sodium sulfate and water.\n\n## Making a pure, dry salt\nTo make a soluble salt from an insoluble base, add the base (for example copper(II) oxide) to warm acid until no more reacts. The excess solid shows that all the acid has been used. Filter off the excess, then heat the filtrate to concentrate it and leave it to crystallise. Dry the crystals.\n\n## Titration and accuracy\nIn neutralisation, a measured volume of alkali is placed in a flask with indicator. Acid is added from a burette until the indicator changes. Near the end-point add acid drop by drop. Repeat until you have concordant results (within about 0.2 cm³), then calculate the mean. For titres 20.2, 19.8 and 20.0 cm³, the mean is 20.0 cm³.\n\n## Science in society\n- Farmers add lime to raise the pH of acidic soil.\n- Antacids contain bases that neutralise excess stomach acid.\n- Acid rain, formed when sulfur dioxide dissolves in rain, dissolves limestone and harms aquatic life. Limestone is used to treat acidified lakes.\n- Spills of acid in a laboratory are treated with a weak base such as sodium hydrogencarbonate, never a strong alkali.\n\n## Common mistakes\n- Saying that all bases are alkalis. Only soluble bases are alkalis.\n- Forgetting that a salt is not always table salt.\n- Saying that diluting an acid makes it alkaline.\n\n## How this is examined\nContext questions might involve soil treatment, a stream with changing pH, or a titration table. You calculate mean titres, name salts, identify gases from tests and evaluate whether a method is accurate. Criterion D questions ask about benefits and risks of neutralisation in society.\n\nExam tip: To name a salt, take the metal from the base and the ending from the acid, for example sulfuric acid gives a sulfate. Always quote the gas test result with the gas name.",
+  "flashcards": [
+   {
+    "front": "pH scale",
+    "back": "0 to 14: below 7 acidic, 7 neutral, above 7 alkaline."
+   },
+   {
+    "front": "Alkali",
+    "back": "A base that dissolves in water; forms a solution with pH above 7."
+   },
+   {
+    "front": "Neutralisation",
+    "back": "Acid + base or alkali → salt + water."
+   },
+   {
+    "front": "Acid + metal carbonate",
+    "back": "Salt + water + carbon dioxide. Test the gas with limewater, which turns milky."
+   },
+   {
+    "front": "Acid + metal",
+    "back": "Salt + hydrogen. Test: lit splint gives a squeaky pop."
+   },
+   {
+    "front": "Salt names",
+    "back": "Hydrochloric acid → chlorides; sulfuric acid → sulfates; nitric acid → nitrates."
+   },
+   {
+    "front": "pH change of one unit",
+    "back": "A tenfold change in hydrogen ion concentration; pH 2 has 1000 times more H⁺ than pH 5."
+   },
+   {
+    "front": "Why use excess insoluble base to make a salt?",
+    "back": "It ensures all the acid reacts. The excess solid is removed by filtration."
+   },
+   {
+    "front": "Uses of neutralisation",
+    "back": "Lime on acidic soil, antacids for indigestion, treating acidified lakes, cleaning acid spills with weak bases."
+   }
+  ]
+ },
+ {
+  "subject": "integrated-science",
+  "grade": 5,
+  "topic": "Chemical Reactions",
+  "subTopic": "Rates of Reaction and Energy Changes",
+  "questions": [
+   {
+    "content": "What happens to the rate of most reactions when temperature increases?",
+    "options": [
+     "The rate decreases",
+     "The rate increases",
+     "The rate stays the same",
+     "The reaction stops"
+    ],
+    "answer": 1,
+    "explanation": "Particles move faster, collide more often and with more energy.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a catalyst?",
+    "options": [
+     "A substance that slows a reaction",
+     "A reactant that is used up",
+     "A product of a reaction",
+     "A substance that speeds up a reaction and is not used up"
+    ],
+    "answer": 3,
+    "explanation": "Catalysts provide an alternative pathway with lower activation energy and are unchanged at the end.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does an exothermic reaction do?",
+    "options": [
+     "Releases energy to the surroundings, so the temperature rises",
+     "Absorbs energy so the temperature falls",
+     "Produces no energy change",
+     "Uses up energy permanently"
+    ],
+    "answer": 0,
+    "explanation": "Combustion is exothermic.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What happens to the temperature of the surroundings in an endothermic reaction?",
+    "options": [
+     "It rises",
+     "It stays the same",
+     "It falls",
+     "It rises then explodes"
+    ],
+    "answer": 2,
+    "explanation": "Endothermic reactions absorb energy from the surroundings, as in a cold pack.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why does powdered marble react faster with acid than a marble chip of the same mass?",
+    "options": [
+     "Powder has more mass",
+     "Powder is hotter",
+     "Powder has a larger surface area",
+     "Powder is a different chemical"
+    ],
+    "answer": 2,
+    "explanation": "More surface is exposed, so there are more collisions per second.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "According to collision theory, why does a higher temperature increase the rate of reaction?",
+    "options": [
+     "Particles collide more often and more of the collisions have enough energy to react",
+     "Particles become larger",
+     "The number of particles increases",
+     "Particles collide with less energy"
+    ],
+    "answer": 0,
+    "explanation": "Both the frequency and the energy of collisions increase.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why does a higher concentration increase the rate of a reaction?",
+    "options": [
+     "Each particle moves faster",
+     "The activation energy is lower",
+     "The particles are heavier",
+     "There are more particles in the same volume, so collisions are more frequent"
+    ],
+    "answer": 3,
+    "explanation": "Concentration changes the number of particles per volume, not their speed.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A reaction makes 48 cm³ of gas in 60 seconds. What is the mean rate of reaction?",
+    "options": [
+     "1.25 cm³/s",
+     "0.80 cm³/s",
+     "2880 cm³/s",
+     "12 cm³/s"
+    ],
+    "answer": 1,
+    "explanation": "Rate = volume ÷ time = 48 ÷ 60 = 0.80 cm³ per second.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "On a graph of gas volume against time, the line levels off. What does this show?",
+    "options": [
+     "The reaction has just started",
+     "The catalyst was used up",
+     "The temperature is falling to zero",
+     "One reactant has been used up and the reaction has stopped"
+    ],
+    "answer": 3,
+    "explanation": "When the limiting reactant is gone, no more gas forms.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The time for a reaction at 20, 30, 40 and 50 °C is 80, 40, 20 and 10 s. Following the pattern, what time is predicted at 60 °C?",
+    "options": [
+     "0 s",
+     "5 s",
+     "15 s",
+     "40 s"
+    ],
+    "answer": 1,
+    "explanation": "The time halves for each 10 °C rise, so 10 ÷ 2 = 5 s. Extrapolating assumes the pattern continues.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student investigates how concentration affects rate. Which variable must be kept the same?",
+    "options": [
+     "The temperature and the mass of metal",
+     "The concentration of acid",
+     "The time for the reaction to finish",
+     "The rate of reaction"
+    ],
+    "answer": 0,
+    "explanation": "Only the independent variable (concentration) changes.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which pair is correctly matched?",
+    "options": [
+     "Hand warmer: endothermic; cold pack: exothermic",
+     "Both are exothermic",
+     "Hand warmer: exothermic; instant cold pack: endothermic",
+     "Both are endothermic"
+    ],
+    "answer": 2,
+    "explanation": "A hand warmer releases heat, and a cold pack absorbs it.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement about enzymes is correct?",
+    "options": [
+     "They are biological catalysts that speed up reactions in living things",
+     "They are used up in the reaction",
+     "They only work at very high temperatures",
+     "They slow down digestion"
+    ],
+    "answer": 0,
+    "explanation": "Enzymes are protein catalysts and work best at their optimum temperature.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is burning a fuel exothermic in terms of bonds?",
+    "options": [
+     "More energy is needed to make bonds than to break them",
+     "No bonds are broken",
+     "More energy is released making new bonds than is needed to break old bonds",
+     "Atoms are destroyed and release energy"
+    ],
+    "answer": 2,
+    "explanation": "The net difference is released as heat.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Magnesium reacts with acid. With 1 mol/dm³ acid 20 cm³ of gas is collected in the first 30 s; with 2 mol/dm³ acid 40 cm³ is collected. Which conclusion is best supported?",
+    "options": [
+     "The rate is unaffected by concentration",
+     "Doubling the concentration doubled the initial rate under these conditions",
+     "Concentration halves the rate",
+     "More acid always gives more gas in total"
+    ],
+    "answer": 1,
+    "explanation": "The rate of gas production in the first 30 s doubled. Only two concentrations are tested so a general rule is not proven.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student compares marble chips and powdered marble but uses 5 g of chips and 2 g of powder. What is the main flaw?",
+    "options": [
+     "The powder is too fine to react",
+     "The chips will not react",
+     "The acid must be removed",
+     "Two variables changed, so the result is not a fair test"
+    ],
+    "answer": 3,
+    "explanation": "Both surface area and mass differ, so the effect cannot be attributed to surface area alone.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "50 g of solution (specific heat capacity 4.2 J/g°C) rises from 20.0 °C to 26.5 °C in a reaction. How much energy was transferred to the solution and is the reaction exothermic or endothermic?",
+    "options": [
+     "1365 J; endothermic",
+     "1365 J; exothermic",
+     "210 J; exothermic",
+     "325 J; endothermic"
+    ],
+    "answer": 1,
+    "explanation": "Q = m × c × ΔT = 50 × 4.2 × 6.5 = 1365 J. The temperature rose, so energy was released: exothermic.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Flour in a bag does not explode but flour dust in air can. What best explains this?",
+    "options": [
+     "Dust is made of a different chemical",
+     "Dust has a lower mass",
+     "The dust has a huge surface area, so it can react extremely fast, releasing energy and gas rapidly",
+     "Dust particles are cooler"
+    ],
+    "answer": 2,
+    "explanation": "Rate depends on surface area. A very fast, exothermic reaction in a confined space causes an explosion.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## How fast do reactions go?\nThe **rate of reaction** is how quickly reactants are used up or products formed. We can measure it by the volume of gas produced per second, the loss of mass per second, or the time for a change such as a cloudy mark to disappear. Rate = amount of product ÷ time. For example, 48 cm³ of gas in 60 s is 48 ÷ 60 = 0.80 cm³/s.\n\n## Collision theory\nParticles must collide with enough energy to react. Anything that makes collisions more frequent, or more energetic, raises the rate.\n- **Temperature**: particles move faster, so they collide more often and a greater proportion of collisions have enough energy.\n- **Concentration** (or pressure for gases): more particles in the same volume mean more frequent collisions.\n- **Surface area**: breaking a solid into a powder exposes more particles, so more collisions can happen at once.\n- **Catalyst**: gives an alternative pathway with a lower activation energy, so more collisions are successful. A catalyst is not used up. Enzymes are biological catalysts.\n\n## Reading rate graphs\nOn a graph of volume of gas against time, the steepest section is the fastest rate. When the line levels off, one reactant has run out. A steeper line at the start means a faster reaction. Total volume depends on the amount of the limiting reactant, not on the rate.\n\n## Fair testing\nChange only one variable, keep all the others constant, and take repeat readings. In a concentration experiment, control the temperature, the mass and surface area of solid, and the volume of acid. A common flaw is changing two things at once.\n\n## Energy changes\nIn an **exothermic** reaction energy is transferred to the surroundings, so the temperature rises. Examples are burning, neutralisation and hand warmers. In an **endothermic** reaction energy is taken in, so the temperature falls. Examples are thermal decomposition and instant cold packs. Energy is needed to break bonds and released when new bonds form. If more energy is released than taken in, the reaction is exothermic.\n\nThe energy transferred to a solution can be estimated using Q = m × c × ΔT. For 50 g of solution (c = 4.2 J/g°C) rising by 6.5 °C, Q = 50 × 4.2 × 6.5 = 1365 J.\n\n## Science in society\nIndustry uses catalysts to save energy and cost. Catalytic converters in cars change toxic gases into safer ones. Flour mills must control dust because the huge surface area makes it explosive. Hand warmers and cold packs rely on energy changes.\n\n## Common mistakes\n- Saying that higher temperature gives particles more energy and so they \"want\" to react. Say collisions are more frequent and more energetic.\n- Saying that a catalyst takes part permanently.\n- Mixing up the rate and the total amount of product.\n\n## How this is examined\nTypical eAssessment tasks give a table of times or volumes, ask you to plot or describe the trend, predict a value, explain using collision theory, identify the flaw in a method, and evaluate the safety and societal impact.\n\nExam tip: Link every explanation of rate to collisions: they must be more frequent or more energetic. Do not just say that particles \"move faster\".",
+  "flashcards": [
+   {
+    "front": "Rate of reaction",
+    "back": "How fast reactants are used up or products formed; rate = amount of product ÷ time."
+   },
+   {
+    "front": "Collision theory",
+    "back": "Reactions happen when particles collide with enough energy. More frequent or more energetic collisions give a faster rate."
+   },
+   {
+    "front": "Effect of temperature on rate",
+    "back": "Higher temperature: particles move faster, collide more often and more collisions have enough energy."
+   },
+   {
+    "front": "Effect of surface area",
+    "back": "Larger surface area (powder) exposes more particles, so more collisions per second and a faster rate."
+   },
+   {
+    "front": "Effect of concentration",
+    "back": "Higher concentration means more particles per volume, so more frequent collisions and a faster rate."
+   },
+   {
+    "front": "Catalyst",
+    "back": "Speeds up a reaction by giving an alternative pathway with lower activation energy; not used up."
+   },
+   {
+    "front": "Exothermic reaction",
+    "back": "Releases energy to the surroundings; temperature rises (e.g. combustion, hand warmers)."
+   },
+   {
+    "front": "Endothermic reaction",
+    "back": "Absorbs energy from the surroundings; temperature falls (e.g. thermal decomposition, cold packs)."
+   },
+   {
+    "front": "Energy transferred formula",
+    "back": "Q = m × c × ΔT (mass × specific heat capacity × temperature change)."
+   }
+  ]
+ }
+]

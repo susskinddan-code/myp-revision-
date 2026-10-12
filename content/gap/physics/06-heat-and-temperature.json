@@ -1,0 +1,265 @@
+[
+ {
+  "subject": "physics",
+  "grade": 5,
+  "topic": "Heat and Temperature",
+  "subTopic": "Evaporation, Condensation and Boiling",
+  "questions": [
+   {
+    "content": "What is evaporation?",
+    "options": [
+     "A liquid boiling throughout",
+     "Particles escaping from the surface of a liquid to become a gas",
+     "A gas turning into a liquid",
+     "A solid turning into a gas"
+    ],
+    "answer": 1,
+    "explanation": "Evaporation happens only at the liquid surface, at temperatures below the boiling point.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "At what temperature does pure water boil at normal atmospheric pressure at sea level?",
+    "options": [
+     "100 °C",
+     "0 °C",
+     "50 °C",
+     "212 °C"
+    ],
+    "answer": 0,
+    "explanation": "Water boils at 100 °C at standard pressure. 212 is the value in °F.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is condensation?",
+    "options": [
+     "A liquid changing into a gas",
+     "A liquid changing into a solid",
+     "A solid changing into a liquid",
+     "A gas changing into a liquid"
+    ],
+    "answer": 3,
+    "explanation": "When a gas cools, its particles slow down and clump together, forming a liquid.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why does a bathroom mirror become misty after a hot shower?",
+    "options": [
+     "The mirror absorbs water",
+     "Steam freezes on the mirror",
+     "Water vapour condenses on the cold mirror",
+     "The mirror gets hotter than the air"
+    ],
+    "answer": 2,
+    "explanation": "Warm, moist air cools on the cold mirror and the vapour condenses into tiny water droplets.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which change of state needs energy to be supplied?",
+    "options": [
+     "Gas to liquid",
+     "Liquid to gas",
+     "Liquid to solid",
+     "Gas to solid"
+    ],
+    "answer": 1,
+    "explanation": "Particles must gain energy to overcome forces between them, so boiling and evaporation need energy.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which statement correctly describes how evaporation differs from boiling?",
+    "options": [
+     "Evaporation occurs only at the surface at any temperature, boiling occurs throughout the liquid at the boiling point",
+     "Evaporation occurs throughout the liquid, boiling only at the surface",
+     "Evaporation needs a heater, boiling does not",
+     "Boiling occurs at any temperature"
+    ],
+    "answer": 0,
+    "explanation": "Boiling forms bubbles of vapour inside the liquid at a fixed temperature. Evaporation is a slower surface process.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why does evaporation cool the liquid left behind?",
+    "options": [
+     "The particles that escape are the slowest",
+     "Evaporation adds energy to the liquid",
+     "The liquid gains more particles",
+     "The fastest, most energetic particles escape, lowering the average kinetic energy"
+    ],
+    "answer": 3,
+    "explanation": "Only particles with enough energy break away from the surface, so the average energy of the remaining particles falls.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which change would increase the rate of evaporation from a puddle?",
+    "options": [
+     "Cooler air",
+     "Higher humidity",
+     "A windy day",
+     "Smaller surface area"
+    ],
+    "answer": 2,
+    "explanation": "Wind removes vapour from above the surface so more particles escape. Higher temperature, larger surface area and drier air also speed it up.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Wet clothes dry faster when hung on a washing line on a warm, dry, windy day. Which factors explain this?",
+    "options": [
+     "Cold temperature, high humidity and still air",
+     "Higher temperature, low humidity and moving air",
+     "Only higher temperature",
+     "Only lower humidity"
+    ],
+    "answer": 1,
+    "explanation": "Warm particles move faster, dry air can take up more vapour and wind carries it away.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "On a high mountain, water boils at a lower temperature than 100 °C. Why?",
+    "options": [
+     "The atmospheric pressure is lower",
+     "The air is warmer",
+     "The water has more dissolved salt",
+     "Gravity is stronger"
+    ],
+    "answer": 0,
+    "explanation": "Boiling occurs when the vapour pressure equals the pressure of the surroundings. At altitude the air pressure is lower, so water boils at a lower temperature.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A heater supplies energy to water at its boiling point. What happens to the temperature while it boils?",
+    "options": [
+     "It keeps rising",
+     "It falls",
+     "It rises then falls",
+     "It stays constant"
+    ],
+    "answer": 3,
+    "explanation": "The energy supplied goes into separating the particles (changing state), not into raising the temperature.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Where does the energy come from when steam condenses on a cold surface?",
+    "options": [
+     "The cold surface creates it",
+     "From the surface evaporating",
+     "The steam releases it as its particles move closer together",
+     "No energy is released"
+    ],
+    "answer": 2,
+    "explanation": "Condensation releases the latent heat of vaporisation, which is why steam burns are severe.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Water has a specific latent heat of vaporisation of 2.26 × 10⁶ J/kg. How much energy is needed to boil 0.50 kg of water already at 100 °C? (Q = m × L)",
+    "options": [
+     "4.52 × 10⁶ J",
+     "1.13 × 10⁶ J",
+     "2.26 × 10⁶ J",
+     "1.13 × 10³ J"
+    ],
+    "answer": 1,
+    "explanation": "Q = 0.50 × 2.26 × 10⁶ = 1.13 × 10⁶ J.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A 2000 W heater is used to boil 0.50 kg of water at 100 °C. All its energy goes into the water. How long does it take? (L = 2.26 × 10⁶ J/kg)",
+    "options": [
+     "565 s",
+     "1130 s",
+     "0.57 s",
+     "4520 s"
+    ],
+    "answer": 0,
+    "explanation": "Energy = 1.13 × 10⁶ J. Time = energy ÷ power = 1.13 × 10⁶ ÷ 2000 = 565 s.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "How much energy is released when 0.050 kg of steam at 100 °C condenses to water at 100 °C? (L = 2.26 × 10⁶ J/kg)",
+    "options": [
+     "4.52 × 10⁷ J",
+     "1.13 × 10⁶ J",
+     "2.26 × 10⁵ J",
+     "1.13 × 10⁵ J"
+    ],
+    "answer": 3,
+    "explanation": "Q = 0.050 × 2.26 × 10⁶ = 1.13 × 10⁵ J, released to the surroundings.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A kettle with a 2000 W element is left on for 300 s after boiling begins. Assuming all the energy boils water already at 100 °C, which mass turns to steam? (L = 2.26 × 10⁶ J/kg)",
+    "options": [
+     "3.8 kg",
+     "0.0027 kg",
+     "0.27 kg",
+     "2.7 kg"
+    ],
+    "answer": 2,
+    "explanation": "Energy = 2000 × 300 = 6.0 × 10⁵ J. Mass = 6.0 × 10⁵ ÷ 2.26 × 10⁶ ≈ 0.27 kg.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "How does the energy needed to heat 1.0 kg of water from 20 °C to 100 °C (specific heat capacity 4200 J/kg°C) compare with the energy to then boil it all away (L = 2.26 × 10⁶ J/kg)?",
+    "options": [
+     "Boiling needs about the same",
+     "Boiling needs about 6.7 times more",
+     "Boiling needs about 6.7 times less",
+     "Boiling needs about 100 times more"
+    ],
+    "answer": 1,
+    "explanation": "Heating: 1.0 × 4200 × 80 = 3.36 × 10⁵ J. Boiling: 2.26 × 10⁶ J. The ratio is 2.26 × 10⁶ ÷ 3.36 × 10⁵ ≈ 6.7.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "In a cooling-curve experiment, steam is cooled and the temperature is recorded every 30 s. The graph is level at 100 °C for several minutes. Which statement is the best explanation?",
+    "options": [
+     "The steam is condensing, releasing energy while its temperature stays constant",
+     "The steam has stopped losing energy",
+     "The thermometer is faulty",
+     "The liquid is evaporating"
+    ],
+    "answer": 0,
+    "explanation": "During a change of state the energy released comes from the potential energy of the particles, so the temperature remains constant until all the steam has condensed.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Particles and change of state\nIn a liquid, particles are close together but can move around each other. In a gas, they are far apart and move quickly. In **evaporation**, **boiling** and **condensation**, particles move between these states. Energy is needed to go from liquid to gas, and released going from gas to liquid.\n\n## Evaporation\n**Evaporation** happens at the **surface** of a liquid, at any temperature below the boiling point. Particles in a liquid have a range of energies. The ones near the surface with the highest energy can overcome the attraction of neighbouring particles and escape. Because the fastest particles leave, the average energy of the remaining particles falls, so **evaporation cools the liquid**. This is why sweating cools the body.\nThe rate of evaporation increases with:\n- a **higher temperature** (more particles have enough energy);\n- a **larger surface area** (more particles at the surface);\n- **moving air** (vapour is carried away so fewer particles return);\n- **lower humidity** (dry air can take more water vapour).\n\n## Boiling\n**Boiling** happens throughout the liquid when it reaches the **boiling point**. Bubbles of vapour form inside the liquid and rise to the surface. Water boils at 100 °C at normal sea-level pressure. The boiling point depends on pressure: it is lower at high altitude, where the air pressure is lower, and higher in a pressure cooker.\nDuring boiling, the temperature stays constant, even though energy is still being supplied. The energy goes into overcoming the forces between particles, not into raising their average speed. This energy is the **latent heat**.\n\n## Condensation\n**Condensation** is the change from gas to liquid. When vapour touches a cold surface or cools, its particles lose energy, slow down and come together. Examples include a misty mirror, dew on grass, water droplets on a cold glass, and cloud formation. Energy is released as the vapour condenses, which is why steam causes serious burns, and the surface warms up.\n\n## Specific latent heat\nThe energy to change state without changing temperature is Q = m × L, where m is the mass and L is the specific latent heat. For water boiling, L = 2.26 × 10⁶ J/kg.\nWorked example: to boil 0.50 kg of water at 100 °C, Q = 0.50 × 2.26 × 10⁶ = 1.13 × 10⁶ J. A 2000 W heater takes 1.13 × 10⁶ ÷ 2000 = 565 s.\nComparison: heating 1.0 kg of water from 20 °C to 100 °C needs 1.0 × 4200 × 80 = 3.36 × 10⁵ J, but boiling it away needs 2.26 × 10⁶ J, about 6.7 times more.\n\n## Common mistakes\n- Saying that boiling and evaporation are the same. Boiling happens at one temperature throughout the liquid.\n- Saying that temperature rises during boiling.\n- Saying that the particles in steam are hotter than in water at 100 °C. They have the same average kinetic energy; the extra energy is stored as potential energy.\n- Saying evaporation cools because particles lose energy by themselves. It is because the fastest ones leave.\n\n## How this is examined\nTypical questions describe a heating or cooling experiment, give data, and ask you to plot the graph, identify the plateau, explain it using particle ideas and calculate energy with Q = m × L. Investigation tasks ask for variables to control when testing the rate of evaporation, such as surface area, volume and air flow.\n\nExam tip: To explain a flat section on a heating or cooling graph, write that energy is transferred but the temperature does not change because the energy is used to change the state of the substance.",
+  "flashcards": [
+   {
+    "front": "Evaporation",
+    "back": "Particles escape from the surface of a liquid at any temperature below the boiling point. It cools the remaining liquid."
+   },
+   {
+    "front": "Why does evaporation cause cooling?",
+    "back": "The most energetic particles escape, so the average kinetic energy of those left behind decreases."
+   },
+   {
+    "front": "Factors that increase evaporation rate",
+    "back": "Higher temperature, larger surface area, moving air and lower humidity."
+   },
+   {
+    "front": "Boiling",
+    "back": "Vapour bubbles form throughout the liquid at the boiling point. Water boils at 100 °C at normal sea-level pressure."
+   },
+   {
+    "front": "Boiling point and pressure",
+    "back": "Lower pressure (high altitude) gives a lower boiling point. Higher pressure (pressure cooker) gives a higher boiling point."
+   },
+   {
+    "front": "Condensation",
+    "back": "A gas changing into a liquid as it cools. It releases energy to the surroundings."
+   },
+   {
+    "front": "Temperature during a change of state",
+    "back": "Stays constant. The energy goes into (or comes from) the potential energy of particles, not their speed."
+   },
+   {
+    "front": "Latent heat equation",
+    "back": "Q = m × L. For water vaporising, L = 2.26 × 10⁶ J/kg."
+   },
+   {
+    "front": "Evaporation versus boiling",
+    "back": "Evaporation: surface only, any temperature, slow. Boiling: throughout the liquid, at the boiling point, fast, with bubbles."
+   }
+  ]
+ }
+]

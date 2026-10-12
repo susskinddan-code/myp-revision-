@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Further Geometry and Trigonometry",
+  "subTopic": "Circle Geometry and Theorems",
+  "questions": [
+   {
+    "content": "AB is a diameter of a circle and C is another point on the circle. What is the size of angle ACB?",
+    "options": [
+     "90°",
+     "45°",
+     "180°",
+     "60°"
+    ],
+    "answer": 0,
+    "explanation": "The angle in a semicircle is always 90°, whatever position C takes on the circumference.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A tangent touches a circle at point T. O is the centre. What is the size of angle OTP, where P is a point on the tangent?",
+    "options": [
+     "45°",
+     "180°",
+     "It depends on the radius",
+     "90°"
+    ],
+    "answer": 3,
+    "explanation": "A tangent is perpendicular to the radius at the point of contact, so the angle is 90°.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The angle at the centre of a circle standing on an arc is 80°. What is the angle at the circumference standing on the same arc?",
+    "options": [
+     "160°",
+     "80°",
+     "40°",
+     "100°"
+    ],
+    "answer": 2,
+    "explanation": "The angle at the centre is twice the angle at the circumference, so the circumference angle is 80° ÷ 2 = 40°.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "ABCD is a cyclic quadrilateral. Angle ABC = 105°. What is angle ADC?",
+    "options": [
+     "105°",
+     "75°",
+     "255°",
+     "85°"
+    ],
+    "answer": 1,
+    "explanation": "Opposite angles of a cyclic quadrilateral add up to 180°, so 180° − 105° = 75°.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Two tangents are drawn from an external point P to touch a circle at A and B. Which statement is true?",
+    "options": [
+     "PA = PB",
+     "PA = AB",
+     "PA is parallel to PB",
+     "Angle PAB = 90°"
+    ],
+    "answer": 0,
+    "explanation": "Tangents drawn from the same external point are equal in length. Angle PAB is not 90°; it is the angle OAP that is 90°.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "PT is a tangent to a circle with centre O and radius 5 cm. OP = 13 cm. Find the length PT.",
+    "options": [
+     "8 cm",
+     "18 cm",
+     "√194 cm",
+     "12 cm"
+    ],
+    "answer": 3,
+    "explanation": "Triangle OTP has a right angle at T (tangent ⟂ radius). PT² = 13² − 5² = 144, so PT = 12 cm.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A chord 16 cm long is in a circle of radius 10 cm. How far is the chord from the centre?",
+    "options": [
+     "2 cm",
+     "8 cm",
+     "6 cm",
+     "√164 cm"
+    ],
+    "answer": 2,
+    "explanation": "The perpendicular from the centre bisects the chord, forming a right-angled triangle with sides 8 and 10 (hypotenuse). Distance = √(100 − 64) = 6 cm.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "AB is a diameter of a circle. C is on the circumference and angle BAC = 35°. Find angle ABC.",
+    "options": [
+     "35°",
+     "55°",
+     "90°",
+     "145°"
+    ],
+    "answer": 1,
+    "explanation": "Angle ACB = 90° (angle in a semicircle). The angles in triangle ABC add to 180°: 180 − 90 − 35 = 55°.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In cyclic quadrilateral ABCD, angle DAB = 95°. Find angle BCD.",
+    "options": [
+     "85°",
+     "95°",
+     "180°",
+     "265°"
+    ],
+    "answer": 0,
+    "explanation": "Opposite angles in a cyclic quadrilateral are supplementary: 180° − 95° = 85°.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Points A, B, C and D are on a circle, with C and D on the same side of chord AB. Angle ACB = 42°. What is angle ADB?",
+    "options": [
+     "84°",
+     "138°",
+     "21°",
+     "42°"
+    ],
+    "answer": 3,
+    "explanation": "Angles subtended by the same chord (arc) at the circumference in the same segment are equal, so ADB = 42°.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "O is the centre of a circle and A, B are on the circumference. Angle AOB = 110°. Find angle OAB.",
+    "options": [
+     "110°",
+     "70°",
+     "35°",
+     "55°"
+    ],
+    "answer": 2,
+    "explanation": "OA = OB (radii), so triangle OAB is isosceles. The base angles are (180° − 110°) ÷ 2 = 35°.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A, B and C are on a circle with centre O, with C on the major arc. Angle ACB = 50°. What is the reflex angle AOB?",
+    "options": [
+     "100°",
+     "260°",
+     "50°",
+     "310°"
+    ],
+    "answer": 1,
+    "explanation": "The angle AOB (minor) = 2 × 50° = 100°. The reflex angle is 360° − 100° = 260°.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "ABCD is a cyclic quadrilateral. The side AB is extended to E, and angle CBE = 78°. Find angle ADC.",
+    "options": [
+     "78°",
+     "102°",
+     "180°",
+     "39°"
+    ],
+    "answer": 0,
+    "explanation": "The exterior angle of a cyclic quadrilateral equals the interior opposite angle. Check: ABC = 102°, so ADC = 180 − 102 = 78°.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "PA and PB are tangents to a circle at A and B, and angle APB = 50°. Find angle PAB.",
+    "options": [
+     "50°",
+     "130°",
+     "40°",
+     "65°"
+    ],
+    "answer": 3,
+    "explanation": "PA = PB, so triangle PAB is isosceles. Angle PAB = (180° − 50°) ÷ 2 = 65°.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "PA and PB are tangents to a circle with centre O, touching at A and B. Angle AOB = 130°. Find angle APB.",
+    "options": [
+     "130°",
+     "65°",
+     "50°",
+     "90°"
+    ],
+    "answer": 2,
+    "explanation": "Quadrilateral OAPB has angles 90° at A and B (tangent ⟂ radius). So APB = 360° − 90° − 90° − 130° = 50°.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "In a cyclic quadrilateral, two opposite angles are (2x + 10)° and (3x − 20)°. Find x.",
+    "options": [
+     "34",
+     "38",
+     "36",
+     "40"
+    ],
+    "answer": 1,
+    "explanation": "Opposite angles sum to 180°: 5x − 10 = 180, so x = 38. The angles are 86° and 94°.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "AB is a diameter and C lies on the circle. AC = 8 cm and BC = 15 cm. Find the radius.",
+    "options": [
+     "8.5 cm",
+     "17 cm",
+     "11.5 cm",
+     "7.5 cm"
+    ],
+    "answer": 0,
+    "explanation": "Angle ACB = 90°, so AB² = 8² + 15² = 289 and AB = 17 cm. The radius is half the diameter: 8.5 cm.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A, B, C are on a circle with centre O. Angle ABC = 125° with B on the minor arc AC. Find the minor angle AOC.",
+    "options": [
+     "125°",
+     "250°",
+     "55°",
+     "110°"
+    ],
+    "answer": 3,
+    "explanation": "ABCD cyclic (D on the major arc): ADC = 180° − 125° = 55°. Angle at the centre is double: AOC = 110°.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## The circle language you need\nA circle has a **radius**, **diameter** (twice the radius), **chord** (line joining two points on the circle), **tangent** (line touching the circle at one point), **arc** (part of the circumference) and **segment** (region between a chord and an arc). In circle theorem questions you write a reason for every angle. Reasons are marks.\n\n## The key theorems\n1. **Angle in a semicircle is 90°.** If AB is a diameter and C is on the circle, angle ACB = 90°.\n2. **Angle at the centre is twice the angle at the circumference** when both stand on the same arc.\n3. **Angles in the same segment are equal.** Angles at the circumference standing on the same chord, and on the same side of it, are equal.\n4. **Opposite angles of a cyclic quadrilateral add up to 180°.** The exterior angle of a cyclic quadrilateral equals the interior opposite angle.\n5. **A tangent is perpendicular to the radius** at the point of contact.\n6. **Tangents from an external point are equal in length**, so the kite OAPB formed by two tangents has two right angles.\n7. **The perpendicular from the centre to a chord bisects the chord.**\n8. Radii are equal, so any triangle with two radii as sides is isosceles.\n\n## Worked example\nTwo tangents PA and PB touch a circle with centre O at A and B. Angle AOB = 130°.\nStep 1: angle OAP = angle OBP = 90° (tangent perpendicular to radius).\nStep 2: angles in quadrilateral OAPB add to 360°, so angle APB = 360° − 90° − 90° − 130° = 50°.\nStep 3: PA = PB (tangents from a point), so angle PAB = (180° − 50°) ÷ 2 = 65°.\n\nAnother example: a chord is 16 cm long in a circle with radius 10 cm. The perpendicular from the centre bisects the chord, forming a right-angled triangle with hypotenuse 10 and one side 8. The distance from the centre is √(10² − 8²) = 6 cm.\n\n## Strategy\n- Mark all known angles on a diagram. Look for diameters, tangents, centre points and isosceles triangles made by two radii.\n- When you see a right angle in a circle, check for a tangent or a semicircle.\n- When the centre is given, think \"double\". When two angles stand on the same chord, think \"equal\".\n- Use Pythagoras and trigonometry when lengths are asked.\n\n## Common mistakes\n- Using the centre angle theorem when the angle is not at the centre.\n- Forgetting that the angle in a semicircle needs a diameter.\n- Saying the opposite angles of ANY quadrilateral sum to 180°. Only cyclic ones do.\n- Writing \"angle at the centre = 2 × circumference\" with the wrong arc, e.g. for a reflex angle.\n- Giving the answer without a reason.\n\n## How this is examined\nCircle theorems appear in diagrams from design settings such as a circular window, a roundabout, a stadium or a clock face. You are asked to find angles and give reasons, or to show that two lengths are equal, and sometimes to justify why a quadrilateral cannot be cyclic. Write each step as \"angle = value (reason)\".\n\nExam tip: Write the name of the theorem next to each angle you find, for example \"angle ACB = 90° (angle in a semicircle)\", because method marks go to the reason as well as the number.",
+  "flashcards": [
+   {
+    "front": "Angle in a semicircle",
+    "back": "90°. The diameter must be the base of the triangle."
+   },
+   {
+    "front": "Angle at centre vs circumference",
+    "back": "Angle at the centre = 2 × the angle at the circumference, on the same arc."
+   },
+   {
+    "front": "Angles in the same segment",
+    "back": "Angles standing on the same chord from the same side of it are equal."
+   },
+   {
+    "front": "Cyclic quadrilateral",
+    "back": "All four vertices on a circle. Opposite angles add up to 180°."
+   },
+   {
+    "front": "Tangent and radius",
+    "back": "A tangent meets the radius at 90° at the point of contact."
+   },
+   {
+    "front": "Tangents from an external point",
+    "back": "The two tangent lengths are equal, so triangle PAB is isosceles."
+   },
+   {
+    "front": "Perpendicular from centre to a chord",
+    "back": "It bisects the chord. Use Pythagoras: half-chord² + distance² = radius²."
+   },
+   {
+    "front": "Exterior angle of a cyclic quadrilateral",
+    "back": "Equals the interior opposite angle."
+   },
+   {
+    "front": "Isosceles triangle from radii",
+    "back": "Two radii form two equal sides, so base angles are equal: (180° − centre angle) ÷ 2."
+   }
+  ]
+ },
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Further Geometry and Trigonometry",
+  "subTopic": "Sine Rule, Cosine Rule and Area of a Triangle",
+  "questions": [
+   {
+    "content": "A triangle has sides 8 cm and 5 cm with an included angle of 30°. Find its area using ½ab sin C.",
+    "options": [
+     "10 cm²",
+     "20 cm²",
+     "40 cm²",
+     "17.3 cm²"
+    ],
+    "answer": 0,
+    "explanation": "Area = ½ × 8 × 5 × sin 30° = 20 × 0.5 = 10 cm².",
+    "difficulty": "easy"
+   },
+   {
+    "content": "You know two sides of a triangle and the angle between them. Which rule finds the third side?",
+    "options": [
+     "Sine rule",
+     "Pythagoras only",
+     "Area rule",
+     "Cosine rule"
+    ],
+    "answer": 3,
+    "explanation": "With two sides and the included angle (SAS) use c² = a² + b² − 2ab cos C. The sine rule needs a matching side and angle pair.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which expression is the sine rule?",
+    "options": [
+     "a sin A = b sin B",
+     "a² = b² + c² − 2bc sin A",
+     "a / sin A = b / sin B",
+     "a / cos A = b / cos B"
+    ],
+    "answer": 2,
+    "explanation": "The sine rule says each side divided by the sine of its opposite angle is the same for the whole triangle.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "You know two angles and one side of a triangle. Which rule do you use to find another side?",
+    "options": [
+     "Cosine rule",
+     "Sine rule",
+     "Area formula only",
+     "Pythagoras"
+    ],
+    "answer": 1,
+    "explanation": "Two angles give the third angle, and then you have a side with its opposite angle: use the sine rule.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is sin 150°?",
+    "options": [
+     "0.5",
+     "−0.5",
+     "0.866",
+     "−0.866"
+    ],
+    "answer": 0,
+    "explanation": "sin(180° − θ) = sin θ, so sin 150° = sin 30° = 0.5.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In triangle ABC, a = 7 cm, angle A = 40° and angle B = 65°. Find b to 2 decimal places.",
+    "options": [
+     "4.84 cm",
+     "10.76 cm",
+     "6.35 cm",
+     "9.87 cm"
+    ],
+    "answer": 3,
+    "explanation": "By the sine rule b/sin 65° = 7/sin 40°. So b = 7 × sin 65° ÷ sin 40° = 9.87 cm.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In triangle ABC, a = 6 cm, b = 9 cm and angle C = 50°. Find side c to 1 decimal place.",
+    "options": [
+     "10.8 cm",
+     "13.9 cm",
+     "6.9 cm",
+     "11.7 cm"
+    ],
+    "answer": 2,
+    "explanation": "c² = 6² + 9² − 2 × 6 × 9 × cos 50° = 117 − 69.4 = 47.6, so c = 6.9 cm.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A triangle has sides 5 cm, 7 cm and 10 cm. Find the largest angle to the nearest degree.",
+    "options": [
+     "68°",
+     "112°",
+     "44°",
+     "34°"
+    ],
+    "answer": 1,
+    "explanation": "The largest angle is opposite the longest side. cos C = (5² + 7² − 10²) ÷ (2 × 5 × 7) = −26/70, so C = 111.8° ≈ 112°. A negative cosine gives an obtuse angle.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Find the area of a triangle with sides 9 cm and 12 cm and an included angle of 70°, to 1 decimal place.",
+    "options": [
+     "50.7 cm²",
+     "54.0 cm²",
+     "108.0 cm²",
+     "18.5 cm²"
+    ],
+    "answer": 0,
+    "explanation": "Area = ½ × 9 × 12 × sin 70° = 54 × 0.9397 = 50.7 cm². Do not forget the ½.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A ship sails 12 km on a bearing of 040°, then turns and sails 15 km on a bearing of 100°. The angle inside the path at the turning point is 120°. How far is the ship from its start, to 1 decimal place?",
+    "options": [
+     "19.2 km",
+     "27.0 km",
+     "16.0 km",
+     "23.4 km"
+    ],
+    "answer": 3,
+    "explanation": "d² = 12² + 15² − 2 × 12 × 15 × cos 120° = 369 + 180 = 549, so d = 23.4 km. cos 120° = −0.5, which adds to the total.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A triangular plot has two boundaries of 120 m and 150 m meeting at 50°. Find its area to the nearest square metre.",
+    "options": [
+     "9000 m²",
+     "5309 m²",
+     "6894 m²",
+     "6000 m²"
+    ],
+    "answer": 2,
+    "explanation": "Area = ½ × 120 × 150 × sin 50° = 9000 × 0.7660 = 6894 m².",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In an acute-angled triangle ABC, a = 8 cm, b = 11 cm and angle A = 35°. Find angle B to 1 decimal place.",
+    "options": [
+     "127.9°",
+     "52.1°",
+     "35.0°",
+     "46.3°"
+    ],
+    "answer": 1,
+    "explanation": "sin B / 11 = sin 35° / 8, so sin B = 11 × 0.5736 ÷ 8 = 0.7887 and B = 52.1°. The other solution, 127.9°, is obtuse, so it is not allowed in an acute triangle.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A triangle has area 30 cm² and two sides of 10 cm and 8 cm. The included angle is acute. Find it to 1 decimal place.",
+    "options": [
+     "48.6°",
+     "41.4°",
+     "22.5°",
+     "75.0°"
+    ],
+    "answer": 0,
+    "explanation": "30 = ½ × 10 × 8 × sin C = 40 sin C, so sin C = 0.75 and C = 48.6° (acute).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Points A and B lie on level ground in line with the foot of a tower, with AB = 20 m and B nearer the tower. The angle of elevation of the top T is 62° from A and 71° from B. Find the height of the tower to the nearest metre.",
+    "options": [
+     "19 m",
+     "57 m",
+     "121 m",
+     "107 m"
+    ],
+    "answer": 3,
+    "explanation": "Angle ABT = 180° − 71° = 109° and angle ATB = 71° − 62° = 9°. By the sine rule AT = 20 × sin 109° ÷ sin 9° = 120.9 m. Height = AT × sin 62° = 106.7 m, so 107 m. The 121 m answer is the slant length AT.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A triangle has sides 8 cm, 11 cm and 13 cm. Find its area to 1 decimal place.",
+    "options": [
+     "44.0 cm²",
+     "52.0 cm²",
+     "43.8 cm²",
+     "88.0 cm²"
+    ],
+    "answer": 2,
+    "explanation": "The largest angle is opposite 13 cm: cos θ = (8² + 11² − 13²) ÷ (2 × 8 × 11) = 16/176, so θ = 84.8°. Area = ½ × 8 × 11 × sin 84.8° = 43.8 cm².",
+    "difficulty": "hard"
+   },
+   {
+    "content": "In triangle ABC, A = 30°, a = 5 cm and b = 8 cm. Which values of angle B are possible?",
+    "options": [
+     "53.1° only",
+     "53.1° or 126.9°",
+     "126.9° only",
+     "30° or 150°"
+    ],
+    "answer": 1,
+    "explanation": "sin B = 8 sin 30° ÷ 5 = 0.8, giving B = 53.1° or 180° − 53.1° = 126.9°. Both fit because the side opposite the known angle (5) is shorter than b (8) but longer than b sin A = 4: this is the ambiguous case.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "In quadrilateral ABCD, AB = 6 cm, BC = 8 cm and angle ABC = 90°. Diagonal AC splits it into triangle ABC and triangle ACD, where CD = 9 cm and angle ACD = 40°. Find the area of ABCD to 1 decimal place.",
+    "options": [
+     "52.9 cm²",
+     "24.0 cm²",
+     "28.9 cm²",
+     "76.6 cm²"
+    ],
+    "answer": 0,
+    "explanation": "Triangle ABC has area ½ × 6 × 8 = 24, and AC = 10 cm. Triangle ACD has area ½ × 10 × 9 × sin 40° = 28.9. Total = 52.9 cm².",
+    "difficulty": "hard"
+   },
+   {
+    "content": "B is 8 km from A on a bearing of 070°. C is 11 km from B on a bearing of 150°. The angle ABC is 100°. Find the distance AC to 1 decimal place.",
+    "options": [
+     "13.6 km",
+     "12.2 km",
+     "18.0 km",
+     "14.7 km"
+    ],
+    "answer": 3,
+    "explanation": "AC² = 8² + 11² − 2 × 8 × 11 × cos 100° = 185 + 30.6 = 215.6, so AC = 14.7 km. Note cos 100° is negative, so the term adds.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Beyond right-angled triangles\nSOH CAH TOA only works when there is a right angle. For any triangle, label the angles A, B, C and the sides opposite them a, b, c. Then you can use the sine rule, the cosine rule and the area formula.\n\n## The sine rule\na / sin A = b / sin B = c / sin C\nUse it when you know a matching pair (a side and its opposite angle) plus one more piece of information: two angles and a side (AAS), or two sides and a non-included angle (SSA). To find an angle, flip the rule: sin A / a = sin B / b.\nExample: a = 7, A = 40°, B = 65°. Then b = 7 × sin 65° ÷ sin 40° = 9.87.\n\n**The ambiguous case.** With SSA, sin B can give two angles: B and 180° − B. Example: A = 30°, a = 5, b = 8 gives sin B = 0.8, so B = 53.1° or 126.9°. Check which fit by seeing whether the angles add to less than 180°, or use any extra information such as \"acute\".\n\n## The cosine rule\nSide: c² = a² + b² − 2ab cos C. Use with two sides and the included angle (SAS).\nAngle: cos C = (a² + b² − c²) ÷ (2ab). Use with three sides (SSS).\nA negative cosine means an obtuse angle. The largest angle is opposite the longest side, so find it first if you want a quick check.\n\n## Area of a triangle\nArea = ½ab sin C, where C is the angle between sides a and b. Example: sides 9 and 12 with 70° between them give ½ × 9 × 12 × sin 70° = 50.7. Use this when no perpendicular height is given.\n\n## Choosing the right tool\n- Right angle: Pythagoras or SOH CAH TOA.\n- Side + opposite angle known, plus one more: sine rule.\n- Two sides + included angle: cosine rule (side).\n- Three sides: cosine rule (angle).\n- Area with two sides and the angle between: ½ab sin C.\n\n## Bearings and bigger problems\nBearings are measured clockwise from north in three digits. For a path with two legs, work out the angle inside the turn using parallel lines and back bearings. Split quadrilaterals into two triangles by a diagonal. Draw a clear diagram, label what you know, and only round at the end. Keep your calculator in degree mode.\n\n## Common mistakes\n- Using the sine rule with a side and an angle that are not opposite each other.\n- Forgetting the order of operations: 2ab cos C means (2 × a × b) × cos C, and the subtraction happens after that.\n- Subtracting before multiplying inside the cosine rule.\n- Missing the second solution in the ambiguous case.\n- Giving a rounded value from an earlier step instead of storing the full calculator value.\n\n## How this is examined\nTypical tasks involve a surveyor measuring a field, a boat or plane travelling on bearings, or a roof frame. You choose the correct rule, calculate, and then comment on accuracy, for example by comparing a calculated length with a measured one and finding the percentage error.\n\nExam tip: Before pressing any buttons, write which rule you are using and the substituted formula. If you press a wrong key, you still gain method marks.",
+  "flashcards": [
+   {
+    "front": "Sine rule",
+    "back": "a / sin A = b / sin B = c / sin C. Needs a side and its opposite angle."
+   },
+   {
+    "front": "Cosine rule for a side",
+    "back": "c² = a² + b² − 2ab cos C. Use for SAS (two sides and the included angle)."
+   },
+   {
+    "front": "Cosine rule for an angle",
+    "back": "cos C = (a² + b² − c²) ÷ (2ab). Use for SSS (three sides)."
+   },
+   {
+    "front": "Area of a triangle",
+    "back": "Area = ½ab sin C, where C is the angle between sides a and b."
+   },
+   {
+    "front": "Ambiguous case",
+    "back": "With SSA, sin B can give B and 180° − B. Check which angles fit in the triangle."
+   },
+   {
+    "front": "Which angle is largest?",
+    "back": "The one opposite the longest side. If cos is negative, the angle is obtuse."
+   },
+   {
+    "front": "Bearings",
+    "back": "Measured clockwise from north, written with 3 digits. Back bearing = bearing ± 180°."
+   },
+   {
+    "front": "sin 150° and cos 120°",
+    "back": "sin 150° = sin 30° = 0.5. cos 120° = −cos 60° = −0.5."
+   },
+   {
+    "front": "Order of operations in cosine rule",
+    "back": "Work out 2ab cos C first, then subtract from a² + b². Take the square root last."
+   }
+  ]
+ },
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Further Geometry and Trigonometry",
+  "subTopic": "Enlargement and Tessellations",
+  "questions": [
+   {
+    "content": "A line of length 4 cm is enlarged by scale factor 3. What is the new length?",
+    "options": [
+     "12 cm",
+     "7 cm",
+     "4/3 cm",
+     "1.33 cm"
+    ],
+    "answer": 0,
+    "explanation": "Multiply lengths by the scale factor: 4 × 3 = 12 cm.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "An enlargement has scale factor 0.5. What happens to the shape?",
+    "options": [
+     "It gets bigger",
+     "It stays the same size",
+     "It is reflected",
+     "It gets smaller"
+    ],
+    "answer": 3,
+    "explanation": "A scale factor between 0 and 1 reduces the shape. It is still called an enlargement.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which regular polygon tessellates on its own?",
+    "options": [
+     "Pentagon",
+     "Octagon",
+     "Hexagon",
+     "Decagon"
+    ],
+    "answer": 2,
+    "explanation": "Regular hexagons have interior angles 120°, and 3 × 120° = 360° fit around a point. Regular pentagons, octagons and decagons leave gaps.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A shape is enlarged by scale factor 2 about the origin. Point (3, 4) is on the shape. Where is its image?",
+    "options": [
+     "(5, 6)",
+     "(6, 8)",
+     "(1.5, 2)",
+     "(6, 4)"
+    ],
+    "answer": 1,
+    "explanation": "Multiply both coordinates by 2 when the centre is the origin: (6, 8).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The angles around a point add up to what?",
+    "options": [
+     "360°",
+     "180°",
+     "90°",
+     "270°"
+    ],
+    "answer": 0,
+    "explanation": "A full turn is 360°. Shapes in a tessellation must have angles totalling 360° at every vertex.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A shape has area 5 cm². It is enlarged by scale factor 3. What is the area of the image?",
+    "options": [
+     "15 cm²",
+     "135 cm²",
+     "8 cm²",
+     "45 cm²"
+    ],
+    "answer": 3,
+    "explanation": "Area scales by k² = 9, so 5 × 9 = 45 cm². Multiplying by 3 is the mistake for lengths only.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An enlargement has centre (1, 1) and scale factor 3. Find the image of (2, 3).",
+    "options": [
+     "(6, 9)",
+     "(3, 5)",
+     "(4, 7)",
+     "(7, 4)"
+    ],
+    "answer": 2,
+    "explanation": "Vector from centre to point is (1, 2). Multiply by 3: (3, 6). Add to the centre: (1 + 3, 1 + 6) = (4, 7).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A(2, 4) is mapped to A'(6, 12) by an enlargement with centre the origin. What is the scale factor?",
+    "options": [
+     "2",
+     "3",
+     "4",
+     "1/3"
+    ],
+    "answer": 1,
+    "explanation": "6 ÷ 2 = 3 and 12 ÷ 4 = 3. The scale factor is image divided by object.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A cuboid of volume 20 cm³ is enlarged by scale factor 2. What is the new volume?",
+    "options": [
+     "160 cm³",
+     "40 cm³",
+     "80 cm³",
+     "400 cm³"
+    ],
+    "answer": 0,
+    "explanation": "Volume scales by k³ = 8, so 20 × 8 = 160 cm³.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Enlarge the point (1, 3) with scale factor −2 and centre the origin. What is the image?",
+    "options": [
+     "(2, 6)",
+     "(−1, −3)",
+     "(−2, 6)",
+     "(−2, −6)"
+    ],
+    "answer": 3,
+    "explanation": "A negative scale factor sends the image to the opposite side of the centre. Multiply each coordinate by −2: (−2, −6).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why can't regular pentagons tessellate?",
+    "options": [
+     "They have too many sides",
+     "Their sides are unequal",
+     "Their interior angle of 108° does not divide 360°",
+     "Their interior angle is 120°"
+    ],
+    "answer": 2,
+    "explanation": "Interior angle = 108°. 360 ÷ 108 = 3.33, not a whole number, so copies would leave a gap or overlap.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Triangle ABC has area 12 cm² and is enlarged to give a similar triangle of area 75 cm². What is the scale factor?",
+    "options": [
+     "6.25",
+     "2.5",
+     "5.2",
+     "63"
+    ],
+    "answer": 1,
+    "explanation": "Area factor = 75 ÷ 12 = 6.25. The linear scale factor is the square root: √6.25 = 2.5.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A regular octagon has interior angle 135°. Which shape combines with octagons to tessellate?",
+    "options": [
+     "Square",
+     "Triangle",
+     "Pentagon",
+     "Hexagon"
+    ],
+    "answer": 0,
+    "explanation": "At each vertex 135° + 135° + 90° = 360°, so two octagons and one square fit exactly.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A model of a building at scale 1:50 has volume 40 cm³. What is the real volume in m³?",
+    "options": [
+     "2000 m³",
+     "0.8 m³",
+     "500 m³",
+     "5 m³"
+    ],
+    "answer": 3,
+    "explanation": "Volume scale factor = 50³ = 125 000. Real volume = 40 × 125 000 = 5 000 000 cm³ = 5 m³ (1 m³ = 1 000 000 cm³).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An enlargement with scale factor 3 maps A(1, 3) to A'(5, 5). Find the centre of enlargement.",
+    "options": [
+     "(3, 4)",
+     "(1, 1)",
+     "(−1, 2)",
+     "(2, 1)"
+    ],
+    "answer": 2,
+    "explanation": "If the centre is C then A' = C + 3(A − C), so C = (3A − A') ÷ 2 = ((3 − 5) ÷ 2, (9 − 5) ÷ 2) = (−1, 2).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Each interior angle of a regular polygon is 144°. How many sides does it have?",
+    "options": [
+     "8",
+     "10",
+     "9",
+     "12"
+    ],
+    "answer": 1,
+    "explanation": "Interior angle = 180°(n − 2) ÷ n. 144n = 180n − 360, so 36n = 360 and n = 10. It does not tessellate alone because 360 ÷ 144 = 2.5.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A floor plan is drawn to a scale of 1:200. A room has an area of 30 cm² on the plan. What is the real area in m²?",
+    "options": [
+     "120 m²",
+     "6000 m²",
+     "600 m²",
+     "1.5 m²"
+    ],
+    "answer": 0,
+    "explanation": "Area scale factor = 200² = 40 000. Real area = 30 × 40 000 = 1 200 000 cm². Divide by 10 000 to convert to m²: 120 m².",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which combination of regular polygons fits exactly around a point with no gaps?",
+    "options": [
+     "2 pentagons and 1 square",
+     "3 squares and 1 hexagon",
+     "1 triangle, 1 square and 1 hexagon",
+     "4 triangles and 1 hexagon"
+    ],
+    "answer": 3,
+    "explanation": "4 × 60° + 120° = 360°. The others give 306°, 390° and 270°.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Enlargement\nAn **enlargement** changes the size of a shape but keeps its angles the same, so the image is similar to the original. You need two things: a **scale factor** k and a **centre of enlargement**. Every length is multiplied by k.\n- k > 1: the image is bigger.\n- 0 < k < 1: the image is smaller (a reduction).\n- k < 0: the image is on the opposite side of the centre and is upside down.\n\n## Enlargement with coordinates\nIf the centre is the origin, multiply both coordinates by k: (3, 4) with k = 2 becomes (6, 8). For another centre C, find the vector from C to the point, multiply it by k, and add it to C. Example: centre (1, 1), k = 3, point (2, 3). Vector = (1, 2), times 3 = (3, 6), so the image is (4, 7).\nTo find the centre: draw lines from corresponding points through each other. They meet at the centre. With algebra, C = (kA − A') ÷ (k − 1).\n\n## Scale factors for length, area and volume\n- Length scales by k.\n- Area scales by k².\n- Volume scales by k³.\nExamples: scale factor 3 turns 5 cm² into 45 cm². Scale factor 2 turns 20 cm³ into 160 cm³. For a model at scale 1:50, the real volume is 50³ = 125 000 times bigger. If you are given area factors, take the square root to get k: areas 12 and 75 give k = √6.25 = 2.5.\nConvert units at the end. 1 m² = 10 000 cm² and 1 m³ = 1 000 000 cm³.\n\n## Tessellations\nA **tessellation** is a pattern of shapes that fit together with no gaps and no overlaps. The angles at every vertex must add to 360°.\nFor a regular polygon with n sides, the interior angle is 180°(n − 2) ÷ n.\n- Triangle 60°, square 90°, hexagon 120°: these divide 360° exactly, so they tessellate alone.\n- Pentagon 108° and octagon 135°: they do not.\nCombinations can work: two octagons and a square (135 + 135 + 90 = 360), or four triangles and a hexagon (4 × 60 + 120 = 360). Any triangle or quadrilateral, even irregular ones, will tessellate because their angles total 180° or 360°.\nTo describe a tessellation, state the shapes, how they are arranged at a vertex and the transformations used (translation, rotation or reflection).\n\n## Common mistakes\n- Applying the length scale factor to areas or volumes.\n- Measuring the scale factor from the image to the object, which gives its reciprocal.\n- Forgetting that a fractional scale factor still counts as an enlargement.\n- Saying any shape of the same type tessellates.\n\n## How this is examined\nTasks use models, maps, floor plans, tiling and design contexts. You work out the scale factor, apply it to lengths, areas or volumes, convert units, then judge whether a pattern of tiles or paving stones would work and justify your reasoning with angle sums.\n\nExam tip: Write k, k² or k³ before multiplying so you do not mix up which quantity you are scaling. Scale factors for area and volume appear often in context questions.",
+  "flashcards": [
+   {
+    "front": "Enlargement needs...",
+    "back": "A centre of enlargement and a scale factor k. Lengths multiply by k; angles stay the same."
+   },
+   {
+    "front": "Scale factor from object and image",
+    "back": "k = image length ÷ object length."
+   },
+   {
+    "front": "Area and volume scale factors",
+    "back": "Area × k², volume × k³. For scale 1:50 the volume factor is 50³ = 125 000."
+   },
+   {
+    "front": "Negative scale factor",
+    "back": "The image lies on the opposite side of the centre and is inverted. Size is multiplied by |k|."
+   },
+   {
+    "front": "Enlarging from the origin",
+    "back": "Multiply each coordinate by k: (3, 4) with k = 2 becomes (6, 8)."
+   },
+   {
+    "front": "Enlargement about another centre C",
+    "back": "Image = C + k × (point − C)."
+   },
+   {
+    "front": "Interior angle of a regular n-gon",
+    "back": "180°(n − 2) ÷ n. Hexagon 120°, octagon 135°, decagon 144°."
+   },
+   {
+    "front": "Condition for a tessellation",
+    "back": "No gaps or overlaps, so the angles at each vertex sum to 360°."
+   },
+   {
+    "front": "Regular polygons that tessellate alone",
+    "back": "Equilateral triangle, square and regular hexagon."
+   }
+  ]
+ }
+]

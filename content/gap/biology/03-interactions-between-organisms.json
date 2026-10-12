@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "biology",
+  "grade": 5,
+  "topic": "Interactions Between Organisms",
+  "subTopic": "Predator-Prey Relationships and Competition",
+  "questions": [
+   {
+    "content": "What is a predator?",
+    "options": [
+     "An animal that hunts and kills other animals for food",
+     "A plant that makes its own food",
+     "An organism that lives on a host without killing it",
+     "An organism that breaks down dead material"
+    ],
+    "answer": 0,
+    "explanation": "A predator hunts and eats other animals (its prey). Plants are producers and decomposers break down dead matter.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a resource that plants compete for?",
+    "options": [
+     "Light",
+     "Mates",
+     "Prey",
+     "Territory"
+    ],
+    "answer": 0,
+    "explanation": "Plants compete for light, water, space and mineral ions. Animals compete for food, mates and territory.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which term describes organisms of the SAME species competing with each other?",
+    "options": [
+     "Intraspecific competition",
+     "Interspecific competition",
+     "Mutualism",
+     "Parasitism"
+    ],
+    "answer": 0,
+    "explanation": "Intra- means within, so intraspecific competition is within one species. Inter- means between species.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In a food chain grass → rabbit → fox, which organism is the prey of the fox?",
+    "options": [
+     "Rabbit",
+     "Grass",
+     "Fox",
+     "None of them"
+    ],
+    "answer": 0,
+    "explanation": "The rabbit is eaten by the fox, so it is the fox's prey. The rabbit is also a predator of grass, but grass is a plant, not prey in this sense.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which adaptation helps a predator catch prey?",
+    "options": [
+     "Sharp claws and forward-facing eyes",
+     "Thick spines only",
+     "Warning colours to show it tastes bad",
+     "Waxy leaves"
+    ],
+    "answer": 0,
+    "explanation": "Sharp claws, strong jaws, speed and forward-facing eyes (good depth perception) help predators catch prey.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A graph shows the number of lynx rising a little after the number of snowshoe hares rises. What is the best explanation?",
+    "options": [
+     "More hares means more food for lynx, so the lynx population increases afterwards",
+     "Lynx eat the hares' food",
+     "Lynx and hares compete for the same food",
+     "Hares eat lynx"
+    ],
+    "answer": 0,
+    "explanation": "Predator numbers follow prey numbers with a time delay because more food allows more lynx to survive and reproduce.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement describes a typical predator-prey population cycle?",
+    "options": [
+     "Prey numbers rise, predator numbers rise, prey numbers fall, predator numbers fall",
+     "Predator numbers always stay constant",
+     "Prey and predator numbers rise and fall at exactly the same time",
+     "Prey numbers always continue to rise"
+    ],
+    "answer": 0,
+    "explanation": "The predator numbers follow the prey numbers, with a lag. When predators become too numerous, prey decline, so predator numbers then fall.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Two species of squirrel live in the same wood and eat the same seeds. When seeds become scarce, what is the most likely outcome?",
+    "options": [
+     "Interspecific competition increases",
+     "Intraspecific competition only",
+     "Both species become mutualists",
+     "Both species become parasites"
+    ],
+    "answer": 0,
+    "explanation": "Different species competing for the same limited resource is interspecific competition.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which pair is correctly matched as an anti-predator adaptation?",
+    "options": [
+     "Camouflage: the prey blends into the background",
+     "Sharp teeth: the prey hides",
+     "Bright warning colour: the prey is invisible",
+     "Binocular vision: the prey is hidden"
+    ],
+    "answer": 0,
+    "explanation": "Camouflage helps the prey avoid being seen. Bright warning colours (aposematism) advertise that an animal is poisonous or unpleasant, which also deters predators.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why do predators usually not wipe out all of their prey?",
+    "options": [
+     "If prey became rare, predator numbers would fall due to starvation, letting prey recover",
+     "Predators only eat dead animals",
+     "Predators stop needing food",
+     "Prey cannot be caught"
+    ],
+    "answer": 0,
+    "explanation": "Predator and prey populations regulate one another through negative feedback.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A farmer introduces a ladybird that eats aphids. Why might this be better than spraying insecticide?",
+    "options": [
+     "Biological control targets the pest and avoids chemical residues",
+     "Ladybirds never eat anything",
+     "Insecticides are always cheaper and have no effects on other species",
+     "Ladybirds also eat the crop"
+    ],
+    "answer": 0,
+    "explanation": "Biological control uses a natural predator and avoids harmful chemical build-up. However it must be checked that the introduced species does not become a pest.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student studies a woodland and finds oak seedlings growing poorly beneath a dense canopy. What is the main factor limiting their growth?",
+    "options": [
+     "Competition for light",
+     "Competition for mates",
+     "Predation by lions",
+     "Lack of oxygen in the air"
+    ],
+    "answer": 0,
+    "explanation": "Dense canopy blocks light. Seedlings compete with larger trees for light as well as water and minerals.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a lake, the number of small fish falls sharply after a large pike population increases. Later the pike numbers also fall. Which description is correct?",
+    "options": [
+     "Predation reduced prey numbers, then food shortage reduced predator numbers",
+     "Pike became mutualists with small fish",
+     "Small fish ate the pike",
+     "The pike migrated for no reason"
+    ],
+    "answer": 0,
+    "explanation": "More pike ate more small fish. When prey became scarce, pike lacked food and numbers fell.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Hare numbers in a park: year 1: 400, year 2: 640, year 3: 900, year 4: 520. Lynx numbers: year 1: 30, year 2: 40, year 3: 70, year 4: 100. What is the best interpretation?",
+    "options": [
+     "Lynx numbers kept rising after hare numbers peaked, so lynx are likely to reduce hare numbers further",
+     "Lynx numbers fell as hare numbers fell",
+     "Hares and lynx are not related",
+     "Hares are eating lynx"
+    ],
+    "answer": 0,
+    "explanation": "Hares peaked in year 3 and dropped in year 4, while lynx continued to rise because of the time lag. The pattern suggests predation is reducing hare numbers.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Why might a graph of predator and prey numbers not show a perfect cycle in real ecosystems?",
+    "options": [
+     "Other factors such as disease, weather, other food sources and migration also affect numbers",
+     "Predators and prey do not interact",
+     "Predators never die",
+     "Real populations are always stable"
+    ],
+    "answer": 0,
+    "explanation": "Real communities have many interacting species and abiotic factors, so cycles are rarely smooth.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two species of barnacle grow on a rocky shore. Species X lives on the upper rock, species Y lower down. When Y is removed experimentally, X spreads lower. What does this suggest?",
+    "options": [
+     "Y was out-competing X on the lower shore, restricting its range",
+     "X is a predator of Y",
+     "Y is a parasite of X",
+     "The two are mutualists"
+    ],
+    "answer": 0,
+    "explanation": "When the competitor is removed X expands into a place it can survive. This indicates interspecific competition was limiting its range.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Wolves are reintroduced to a park. Elk numbers decrease, and willow trees along rivers begin to recover. Which explanation links these changes?",
+    "options": [
+     "Fewer elk are browsing willows, so the willows can grow",
+     "Wolves eat willows",
+     "Wolves plant willow seeds",
+     "Willows are eaten by wolves instead of elk"
+    ],
+    "answer": 0,
+    "explanation": "A top predator can change the behaviour and numbers of herbivores, which affects vegetation. This is a knock-on effect through the food web.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student argues 'Competition is always harmful to all organisms involved'. Which response evaluates this best?",
+    "options": [
+     "Partly true because competition reduces resources, but it can drive adaptation and keep populations in balance",
+     "Completely true because competing organisms always die",
+     "False because competition never happens in nature",
+     "True only for plants"
+    ],
+    "answer": 0,
+    "explanation": "Competition limits individuals' success but can cause natural selection of better-adapted individuals and helps regulate population sizes.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Organisms in an ecosystem interact in many ways. Two of the most important are predation and competition. These interactions help control population sizes and shape the traits of organisms over time.\n\n## Predators and prey\nA **predator** hunts, kills and eats other animals. The animal that is eaten is the **prey**. For example, in the food chain grass → rabbit → fox, the rabbit is the prey of the fox.\n\n### Adaptations of predators\n- sharp teeth and claws\n- speed, stealth and strength\n- forward-facing eyes for depth perception\n- good senses of smell or hearing.\n\n### Adaptations of prey\n- camouflage to avoid being seen\n- speed or the ability to hide\n- eyes on the sides of the head for a wide field of view\n- spines, poison or warning colours.\n\n## Predator-prey cycles\nPredator and prey numbers often rise and fall in linked cycles.\n- Prey numbers rise when there is plenty of food.\n- More prey means more food for predators, so predator numbers rise a little later.\n- More predators eat more prey, so prey numbers fall.\n- Less prey means predators starve, so predator numbers fall.\n- The cycle starts again.\nOn a graph, the predator curve is usually **delayed** compared with the prey curve and has a smaller peak. In real ecosystems cycles are not perfect because disease, weather and alternative food also affect numbers.\n\n## Competition\n**Competition** happens when organisms need the same limited resource.\n- Plants compete for light, water, space and mineral ions.\n- Animals compete for food, water, shelter, mates and territory.\n- **Intraspecific** competition is between members of the same species.\n- **Interspecific** competition is between members of different species.\nCompetition limits population size. The better-adapted organisms are more likely to survive and reproduce, which is a key idea in natural selection.\n\n## Human uses and effects\nFarmers sometimes use predators as **biological control**, for example ladybirds to eat aphids. This avoids chemical pesticides but introduced species must be checked carefully, because they may harm other native species. Changes in predator numbers can affect the whole food web, for example when top predators are removed or reintroduced.\n\n## Worked example\nData: hares peak at 900 in year 3, while lynx peak at 100 in year 4. The lynx peak comes later because it takes time for food to become plentiful and for lynx to reproduce.\n\n## Common mistakes\n- Writing 'predators control prey' without explaining the feedback loop.\n- Mixing up intraspecific and interspecific competition.\n- Saying the predator curve is the same as the prey curve. It is delayed.\n- Forgetting that interactions are limited by other factors too.\n\n## How this is examined\nQuestions usually include a graph or data described in words showing two populations, and ask you to explain the pattern, predict what happens if one population is removed, or evaluate biological control as a solution. Extended answers need cause and effect in order.\n\nExam tip: In cycle questions, name which population changes first, state the cause, then describe the effect on the other population, using words like 'because' and 'therefore'.",
+  "flashcards": [
+   {
+    "front": "Predator and prey",
+    "back": "A predator hunts and eats other animals. The animal that is eaten is the prey."
+   },
+   {
+    "front": "Intraspecific competition",
+    "back": "Competition between members of the same species for the same resources."
+   },
+   {
+    "front": "Interspecific competition",
+    "back": "Competition between members of different species for the same resources."
+   },
+   {
+    "front": "Resources plants compete for",
+    "back": "Light, water, space and mineral ions."
+   },
+   {
+    "front": "Resources animals compete for",
+    "back": "Food, water, shelter, mates and territory."
+   },
+   {
+    "front": "Why does the predator curve lag behind the prey curve?",
+    "back": "It takes time for extra food to let predators reproduce, so predator numbers rise and fall after prey numbers."
+   },
+   {
+    "front": "Camouflage",
+    "back": "Colouring or pattern that helps an organism blend into its surroundings to avoid predators (or ambush prey)."
+   },
+   {
+    "front": "Biological control",
+    "back": "Using a natural predator or parasite to control a pest instead of chemicals. Must be checked for effects on other species."
+   },
+   {
+    "front": "Predator adaptations",
+    "back": "Sharp teeth and claws, speed, forward-facing eyes (depth perception), strong senses."
+   }
+  ]
+ },
+ {
+  "subject": "biology",
+  "grade": 5,
+  "topic": "Interactions Between Organisms",
+  "subTopic": "Parasitism, Mutualism and Symbiosis",
+  "questions": [
+   {
+    "content": "In a parasitic relationship, what is true?",
+    "options": [
+     "The parasite benefits and the host is harmed",
+     "Both organisms benefit",
+     "Neither organism is affected",
+     "The host benefits and the parasite is harmed"
+    ],
+    "answer": 0,
+    "explanation": "A parasite lives on or in a host and gains nutrients at the host's expense.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of the following is an example of a parasite?",
+    "options": [
+     "Tapeworm",
+     "Oak tree",
+     "Rabbit",
+     "Earthworm"
+    ],
+    "answer": 0,
+    "explanation": "A tapeworm lives in the gut of a host and absorbs digested food. Oak trees, rabbits and earthworms are not parasites.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What term describes a relationship in which both organisms benefit?",
+    "options": [
+     "Mutualism",
+     "Parasitism",
+     "Predation",
+     "Competition"
+    ],
+    "answer": 0,
+    "explanation": "In mutualism, both partners gain from the relationship.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Fleas feed on the blood of dogs. What is the dog called in this relationship?",
+    "options": [
+     "Host",
+     "Predator",
+     "Producer",
+     "Decomposer"
+    ],
+    "answer": 0,
+    "explanation": "The organism that the parasite lives on or in is called the host.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is the correct meaning of symbiosis?",
+    "options": [
+     "Two different species living in close association",
+     "Two members of the same species competing",
+     "An animal eating a plant",
+     "Death of an organism"
+    ],
+    "answer": 0,
+    "explanation": "Symbiosis means a close, long-term relationship between two different species. It includes mutualism and parasitism.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Clownfish live among the stinging tentacles of sea anemones. The anemone's tentacles protect the clownfish, and the clownfish chase away fish that eat anemones. What type of relationship is this?",
+    "options": [
+     "Mutualism",
+     "Parasitism",
+     "Predation",
+     "Interspecific competition"
+    ],
+    "answer": 0,
+    "explanation": "Both species benefit: the clownfish get protection, and the anemone gets protection from enemies.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Bacteria in the root nodules of legumes (peas, beans) convert nitrogen from the air into compounds the plant can use. In return the plant provides sugars. Why is this mutualism?",
+    "options": [
+     "Both the bacteria and the plant benefit",
+     "Only the plant benefits",
+     "Only the bacteria benefit",
+     "The plant is harmed"
+    ],
+    "answer": 0,
+    "explanation": "The plant gains usable nitrogen compounds and the bacteria gain a home and food, so both benefit.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Head lice live on human hair and feed on blood. They are best described as:",
+    "options": [
+     "Ectoparasites",
+     "Endoparasites",
+     "Mutualists",
+     "Predators"
+    ],
+    "answer": 0,
+    "explanation": "Ectoparasites live on the outside of the host. Endoparasites live inside, like tapeworms.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is it usually not in a parasite's interest to kill its host quickly?",
+    "options": [
+     "The parasite depends on the host for food and a home",
+     "The parasite does not need nutrients",
+     "The host is a predator",
+     "Parasites cannot harm hosts"
+    ],
+    "answer": 0,
+    "explanation": "If the host dies quickly, the parasite loses its supply of nutrients and its habitat.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Lichens are made of a fungus and an alga living together. The alga photosynthesises, and the fungus provides protection and absorbs water and minerals. This is an example of:",
+    "options": [
+     "Mutualism",
+     "Parasitism",
+     "Predation",
+     "Competition"
+    ],
+    "answer": 0,
+    "explanation": "Both organisms gain: the alga gets protection and water, and the fungus gets sugars from photosynthesis.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement correctly distinguishes a predator from a parasite?",
+    "options": [
+     "A predator usually kills its prey quickly; a parasite usually lives on or in its host for a long time",
+     "A parasite always kills its host quickly",
+     "A predator always lives inside its prey",
+     "There is no difference"
+    ],
+    "answer": 0,
+    "explanation": "Predators capture and kill prey; parasites typically stay with a living host for an extended period.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Humans have bacteria living in their large intestine that help digest fibre and make some vitamins. We provide a warm home and food. This is best described as:",
+    "options": [
+     "Mutualism",
+     "Parasitism",
+     "Predation",
+     "Competition"
+    ],
+    "answer": 0,
+    "explanation": "Both humans and gut bacteria benefit. Not all gut microbes are helpful, but these are.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The mosquito that carries the malaria parasite feeds on human blood. Which statement is correct?",
+    "options": [
+     "The mosquito is a vector that transfers the parasite between hosts",
+     "The mosquito is a mutualist of humans",
+     "Humans are the predator",
+     "The mosquito is a producer"
+    ],
+    "answer": 0,
+    "explanation": "A vector carries a pathogen or parasite from one host to another. The malaria parasite is Plasmodium; the mosquito (Anopheles) is the vector.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A researcher removes the mycorrhizal fungi (fungi living on tree roots) from soil. The tree seedlings grow more slowly and absorb less phosphate. What does this suggest?",
+    "options": [
+     "The fungi help the trees absorb minerals, suggesting a mutualistic relationship",
+     "The fungi are predators of the trees",
+     "The trees do not need minerals",
+     "The fungi are parasites that help growth"
+    ],
+    "answer": 0,
+    "explanation": "The fungi increase the surface area for absorbing minerals, and the trees supply sugars. When the fungi are removed, growth suffers.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Cuckoos lay eggs in other birds' nests. The host birds raise the cuckoo chick, which often pushes out the host's own eggs. The cuckoo is best described as a:",
+    "options": [
+     "Brood parasite",
+     "Mutualist",
+     "Decomposer",
+     "Producer"
+    ],
+    "answer": 0,
+    "explanation": "The cuckoo gains free parental care while the host loses its own offspring, which matches parasitism.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A scientist compares the growth of coral with and without algae living in its tissue. Coral with algae grows 4.0 mm per month and coral without algae grows 1.5 mm per month. What is the best interpretation?",
+    "options": [
+     "Algae help coral grow faster, supporting a mutualistic relationship",
+     "Algae harm the coral",
+     "There is no relationship",
+     "Coral eats algae in a predator-prey relationship"
+    ],
+    "answer": 0,
+    "explanation": "The coral with algae grew faster. The algae photosynthesise and provide sugars; the coral gives shelter and nutrients, so both benefit. More repeats would raise reliability.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A rising sea temperature causes coral to expel the algae living inside it. Which is the most likely consequence?",
+    "options": [
+     "The coral loses a major food source and turns white (bleaching)",
+     "The coral grows faster",
+     "The algae become predators",
+     "The coral becomes a parasite"
+    ],
+    "answer": 0,
+    "explanation": "Without algae the coral loses sugars and its colour, which can cause the coral to die if conditions persist.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student says 'symbiosis always means both organisms benefit'. Which response is best?",
+    "options": [
+     "Incorrect; symbiosis is any close relationship between two species, including parasitism where one is harmed",
+     "Correct; symbiosis only includes mutualism",
+     "Incorrect; symbiosis describes competition within a species",
+     "Correct; parasites are not symbiotic"
+    ],
+    "answer": 0,
+    "explanation": "Symbiosis covers a close, long-term association between different species. Mutualism and parasitism are both types, and some definitions also include commensalism.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Not every relationship between organisms is about eating or fighting. Many species live in close, long-term association. This is called **symbiosis**. It includes parasitism, mutualism and (in some definitions) commensalism, where one organism benefits and the other is unaffected.\n\n## Parasitism\nA **parasite** lives on or in another organism, called the **host**, and gains food or shelter at the host's expense.\n- The parasite benefits, and the host is harmed.\n- **Ectoparasites** live on the outside (fleas, head lice, ticks).\n- **Endoparasites** live inside the host (tapeworms, the malaria parasite).\n- Parasites are usually smaller than their host and rarely kill it quickly, because they depend on it.\nSome parasites need a **vector** to move between hosts. The female Anopheles mosquito carries the malaria parasite (Plasmodium) from person to person. The cuckoo is a brood parasite because it lays eggs in other birds' nests and the host raises its chick.\n\n## Mutualism\nIn **mutualism**, both species benefit. Examples:\n- **Legumes and nitrogen-fixing bacteria:** bacteria in root nodules turn nitrogen from the air into compounds the plant can use; the plant gives sugars and a home.\n- **Mycorrhizal fungi and tree roots:** fungi increase the surface area for absorbing water and minerals; the tree provides sugars.\n- **Coral and algae:** algae photosynthesise and give sugars; coral provides shelter and nutrients. If the water gets too warm, coral expels the algae and becomes white (bleached).\n- **Lichens:** an alga and a fungus living together.\n- **Gut bacteria in humans:** help digest fibre and make some vitamins.\n- **Clownfish and anemones:** protection for both.\n\n## Comparing relationships\n- **Predation:** one organism kills and eats another.\n- **Competition:** both organisms are harmed because resources are limited.\n- **Parasitism:** parasite benefits and host is harmed.\n- **Mutualism:** both benefit.\n\n## Worked example\nCoral with algae grows at 4.0 mm per month and coral without algae grows at 1.5 mm per month. The algae help growth by 2.5 mm per month, so the relationship benefits the coral. To say it is mutualism, you also need evidence that the algae benefit, such as shelter and nutrients.\n\n## Common mistakes\n- Treating symbiosis as meaning only 'both benefit'.\n- Saying a parasite 'eats' its host. It feeds on or from it while the host is usually still alive.\n- Missing the idea that the parasite depends on the host.\n- Concluding from one data set that a relationship is mutualistic without checking both partners.\n\n## How this is examined\nQuestions give a short scenario about two species and ask you to classify the relationship and justify it. Data questions compare organisms with and without a partner. Extended items ask about the effects of environmental change (for example coral bleaching) or the control of a parasitic disease.\n\nExam tip: To classify a relationship, say who benefits and who is harmed for each organism, in two short statements, before naming the type.",
+  "flashcards": [
+   {
+    "front": "Symbiosis",
+    "back": "A close, long-term relationship between two different species. Includes mutualism and parasitism."
+   },
+   {
+    "front": "Parasitism",
+    "back": "Relationship where the parasite benefits and the host is harmed."
+   },
+   {
+    "front": "Mutualism",
+    "back": "Relationship where both species benefit."
+   },
+   {
+    "front": "Ectoparasite vs endoparasite",
+    "back": "Ectoparasites live on the outside of a host (fleas, lice). Endoparasites live inside (tapeworm, malaria parasite)."
+   },
+   {
+    "front": "Vector",
+    "back": "An organism that carries a parasite or pathogen from one host to another, e.g. the Anopheles mosquito and malaria."
+   },
+   {
+    "front": "Legume root nodule mutualism",
+    "back": "Bacteria fix nitrogen into usable compounds for the plant; the plant gives sugars and a home to the bacteria."
+   },
+   {
+    "front": "Coral bleaching",
+    "back": "Warm water makes coral expel its algae, so it loses colour and food supply and may die."
+   },
+   {
+    "front": "Brood parasite example",
+    "back": "The cuckoo lays eggs in other birds' nests; the host raises the cuckoo chick, often at the cost of its own."
+   },
+   {
+    "front": "Why do parasites rarely kill their hosts quickly?",
+    "back": "They depend on the host for food and shelter, so killing it would remove their supply."
+   }
+  ]
+ },
+ {
+  "subject": "biology",
+  "grade": 5,
+  "topic": "Interactions Between Organisms",
+  "subTopic": "Habitats and Interdependence",
+  "questions": [
+   {
+    "content": "What is a habitat?",
+    "options": [
+     "The place where an organism lives",
+     "The number of organisms in an area",
+     "The food an animal eats",
+     "A group of different species"
+    ],
+    "answer": 0,
+    "explanation": "A habitat is the place where an organism lives, such as a pond, woodland or rock pool.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A group of organisms of the same species living in one area at the same time is called a:",
+    "options": [
+     "Population",
+     "Community",
+     "Ecosystem",
+     "Biome"
+    ],
+    "answer": 0,
+    "explanation": "A population is one species in an area. A community is all populations, and an ecosystem includes the community plus the non-living environment.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a biotic factor?",
+    "options": [
+     "Number of predators",
+     "Temperature",
+     "Soil pH",
+     "Rainfall"
+    ],
+    "answer": 0,
+    "explanation": "Biotic factors are living (predators, food, disease, competition). Abiotic factors are non-living (temperature, pH, light).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In a food chain, what is the role of a producer?",
+    "options": [
+     "It makes its own food by photosynthesis",
+     "It eats other animals",
+     "It breaks down dead matter",
+     "It eats only plants"
+    ],
+    "answer": 0,
+    "explanation": "Producers, such as plants and algae, make food using light energy. All other organisms depend on them.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which organisms break down dead plants and animals and return nutrients to the soil?",
+    "options": [
+     "Decomposers",
+     "Producers",
+     "Predators",
+     "Primary consumers"
+    ],
+    "answer": 0,
+    "explanation": "Decomposers such as bacteria and fungi break down dead organic matter, releasing nutrients that producers can absorb.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A pond community includes algae, water fleas, small fish and herons. Which food chain is correctly written?",
+    "options": [
+     "Algae → water fleas → small fish → herons",
+     "Herons → small fish → water fleas → algae",
+     "Water fleas → algae → herons → small fish",
+     "Small fish → algae → herons → water fleas"
+    ],
+    "answer": 0,
+    "explanation": "Arrows show the direction of energy transfer, from food to the organism that eats it.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a food web, the arrows point from:",
+    "options": [
+     "The organism that is eaten to the organism that eats it",
+     "The predator to the prey",
+     "The consumer to the producer",
+     "The sun to the decomposers only"
+    ],
+    "answer": 0,
+    "explanation": "Arrows represent the flow of energy and matter, from food to feeder.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement describes an abiotic factor that affects the distribution of plants in a woodland?",
+    "options": [
+     "Light intensity on the woodland floor",
+     "The number of rabbits",
+     "Presence of a parasite",
+     "Competition from other plants"
+    ],
+    "answer": 0,
+    "explanation": "Light is non-living, so it is abiotic. The other options are biotic factors.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is only about 10% of the energy at one trophic level passed on to the next?",
+    "options": [
+     "Much is lost through respiration, movement, heat and uneaten parts",
+     "Organisms refuse to eat more",
+     "Energy cannot be transferred",
+     "All the energy is used to make glucose"
+    ],
+    "answer": 0,
+    "explanation": "Energy is lost as heat from respiration, in waste, and in parts that are not eaten or digested, so only a small portion is passed on.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why are food chains rarely longer than four or five links?",
+    "options": [
+     "Too little energy is left for further consumers",
+     "Predators dislike eating other predators",
+     "Plants cannot grow tall enough",
+     "Food chains must be short"
+    ],
+    "answer": 0,
+    "explanation": "At each step most energy is lost, so very little remains at the top.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a grassland food web, hawks eat both snakes and mice, and snakes also eat mice. If all the snakes are removed, what is the most likely immediate effect?",
+    "options": [
+     "Hawks eat more mice, and the mouse population may decrease",
+     "Mouse numbers rise with no effect on hawks",
+     "Hawks become producers",
+     "Grass disappears immediately"
+    ],
+    "answer": 0,
+    "explanation": "Hawks lose one food source and may switch to more mice. Interdependence means removing one species affects others.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student uses a quadrat to count daisies in a 1 m² square at 10 random places and finds an average of 6 daisies per quadrat. The field is 2000 m². What is the estimated population?",
+    "options": [
+     "12 000",
+     "6000",
+     "2000",
+     "3000"
+    ],
+    "answer": 0,
+    "explanation": "6 daisies per m² × 2000 m² = 12 000 daisies. Random sampling helps make the estimate representative.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of the following best explains why decomposers are essential to an ecosystem?",
+    "options": [
+     "They recycle nutrients from dead matter so producers can use them again",
+     "They make food by photosynthesis",
+     "They are the top predators",
+     "They remove all energy from the ecosystem"
+    ],
+    "answer": 0,
+    "explanation": "Decomposers release mineral nutrients from dead organisms and waste into the soil, where plants absorb them. Without them nutrients would stay locked in dead matter.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A pyramid of numbers for an oak tree has one tree at the base, then 5000 caterpillars, then 40 birds. Why is the shape unusual?",
+    "options": [
+     "One large producer supports many consumers, so the base is narrow",
+     "Caterpillars are producers",
+     "Birds produce food by photosynthesis",
+     "The tree is a consumer"
+    ],
+    "answer": 0,
+    "explanation": "One large tree supports many caterpillars, so the base of the pyramid of numbers is narrow. A pyramid of biomass would be a more normal shape.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A food chain: grass (10 000 kJ) → rabbits → foxes. If 10% of energy is passed on at each step, how much energy reaches the foxes?",
+    "options": [
+     "100 kJ",
+     "1000 kJ",
+     "10 kJ",
+     "1 kJ"
+    ],
+    "answer": 0,
+    "explanation": "10% of 10 000 = 1000 kJ for rabbits. 10% of 1000 = 100 kJ for foxes.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A pesticide that kills insects is sprayed on a pond margin. Several months later, the frogs, which eat insects, decline. Which explanation is best?",
+    "options": [
+     "Loss of their insect food reduced the frog population, showing interdependence",
+     "Frogs prefer pesticides",
+     "Frogs are producers",
+     "Frogs only eat plants"
+    ],
+    "answer": 0,
+    "explanation": "Frogs depend on insects as food. When the insects are removed, the frogs lose their food supply.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two nearby ponds have similar light and temperature. Pond A has many fish; Pond B has none. Pond A has many more water plants. A student concludes fish cause the plants to grow. Which is the best evaluation?",
+    "options": [
+     "The data show a link, but other factors such as nutrients, depth or the plants providing shelter for fish could explain it",
+     "The conclusion is definitely correct",
+     "Fish cannot affect plants",
+     "Plants never affect fish"
+    ],
+    "answer": 0,
+    "explanation": "Correlation does not prove cause. Plants may provide food and shelter, attracting fish, so the cause may run the other way.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Why does the loss of a single keystone species, such as a sea otter that eats sea urchins, cause large changes in a kelp forest?",
+    "options": [
+     "Without otters, urchin numbers rise and overgraze the kelp, affecting all species that depend on it",
+     "Otters eat the kelp directly",
+     "Kelp is a predator of otters",
+     "Urchins are producers"
+    ],
+    "answer": 0,
+    "explanation": "Keystone species have a big effect on community structure. Removing otters leads to urchin booms and the loss of kelp habitat.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "No organism lives alone. Each lives in a habitat and depends on other organisms and on the non-living environment. This idea is called **interdependence**.\n\n## Key terms\n- **Habitat:** the place where an organism lives.\n- **Population:** all the organisms of one species in an area.\n- **Community:** all the populations living in an area.\n- **Ecosystem:** the community together with the non-living environment.\n- **Biotic factors:** living factors such as predators, food, disease and competition.\n- **Abiotic factors:** non-living factors such as light, temperature, water, pH and oxygen.\n\n## Trophic levels\n- **Producers** make their own food by photosynthesis (plants, algae).\n- **Primary consumers** eat producers (herbivores).\n- **Secondary and tertiary consumers** eat other animals (carnivores).\n- **Decomposers** (bacteria and fungi) break down dead material and return nutrients to the soil.\n\n## Food chains and webs\nA **food chain** shows who eats whom in a straight line. A **food web** joins many chains together and is more realistic. The arrows point from the food to the feeder, showing the direction of energy flow. For example: algae → water flea → small fish → heron.\n\n## Energy transfer\nThe Sun is the source of energy for almost all ecosystems. Only about **10%** of the energy at one level is passed on to the next. The rest is lost as heat through respiration, in waste and in parts not eaten. That is why food chains are short and why there are fewer top predators than herbivores.\n\n### Worked example\nGrass contains 10 000 kJ. Rabbits receive 10% = 1000 kJ. Foxes receive 10% of that = 100 kJ.\n\n## Sampling\nTo estimate the size of a population, use **random quadrats**. Average number per quadrat × total area ÷ quadrat area gives an estimate. For 6 daisies per m² in a 2000 m² field the estimate is 12 000. Larger samples and random placement improve reliability.\n\n## Interdependence in action\nRemoving or adding one species affects others. If a pesticide kills insects, insect-eating frogs may lose food. A **keystone species**, like the sea otter in a kelp forest, has a large effect on the community. By eating sea urchins, otters stop the urchins from overgrazing the kelp.\n\n## Common mistakes\n- Drawing arrows from predator to prey.\n- Confusing population, community and ecosystem.\n- Saying energy is 'used up'. It is transferred to the environment as heat.\n- Treating correlation as proof of cause.\n\n## How this is examined\nQuestions use a food web or short scenario and ask you to predict the effects of removing a species, calculate energy transfer or population estimates, and evaluate sampling methods. Extended items ask you to link a human action (pesticide, introduced species) to knock-on effects through the web.\n\nExam tip: For 'predict' questions, trace the effect one link at a time (who eats it, who it eats) and use the words 'increase', 'decrease' and 'because'.",
+  "flashcards": [
+   {
+    "front": "Habitat",
+    "back": "The place where an organism lives."
+   },
+   {
+    "front": "Population, community, ecosystem",
+    "back": "Population: one species in an area. Community: all species in an area. Ecosystem: community plus the non-living environment."
+   },
+   {
+    "front": "Biotic vs abiotic factors",
+    "back": "Biotic: living (predators, food, disease). Abiotic: non-living (light, temperature, pH, water)."
+   },
+   {
+    "front": "Producer",
+    "back": "An organism that makes its own food by photosynthesis, e.g. plants and algae."
+   },
+   {
+    "front": "Decomposers",
+    "back": "Bacteria and fungi that break down dead material and return nutrients to the soil."
+   },
+   {
+    "front": "Direction of arrows in a food web",
+    "back": "From the organism that is eaten to the organism that eats it (direction of energy flow)."
+   },
+   {
+    "front": "Energy transfer between trophic levels",
+    "back": "About 10% passes on. The rest is lost as heat, in waste and uneaten parts."
+   },
+   {
+    "front": "Estimating population size with quadrats",
+    "back": "Average count per quadrat × total area ÷ quadrat area. Place quadrats randomly."
+   },
+   {
+    "front": "Keystone species",
+    "back": "A species with a large effect on its community, e.g. sea otters controlling urchins in kelp forests."
+   }
+  ]
+ }
+]

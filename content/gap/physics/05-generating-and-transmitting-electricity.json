@@ -1,0 +1,528 @@
+[
+ {
+  "subject": "physics",
+  "grade": 5,
+  "topic": "Generating and Transmitting Electricity",
+  "subTopic": "AC, DC and Power Generation",
+  "questions": [
+   {
+    "content": "What is direct current (DC)?",
+    "options": [
+     "Current that changes direction regularly",
+     "Current that flows in one direction only",
+     "Current that has no voltage",
+     "Current that only flows in wires"
+    ],
+    "answer": 1,
+    "explanation": "DC flows in one direction. Batteries and solar cells supply DC.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the frequency of the UK mains supply?",
+    "options": [
+     "50 Hz",
+     "230 Hz",
+     "100 Hz",
+     "12 Hz"
+    ],
+    "answer": 0,
+    "explanation": "UK mains is about 230 V at 50 Hz, meaning 50 complete cycles each second.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does a generator do?",
+    "options": [
+     "Transfers electrical energy into kinetic energy",
+     "Stores electrical energy",
+     "Changes AC to DC only",
+     "Transfers kinetic energy into electrical energy"
+    ],
+    "answer": 3,
+    "explanation": "A generator is turned by a turbine or other source, and the movement induces a voltage.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a renewable energy resource?",
+    "options": [
+     "Coal",
+     "Natural gas",
+     "Wind",
+     "Uranium"
+    ],
+    "answer": 2,
+    "explanation": "Wind, solar, hydroelectric, tidal, geothermal and biomass can be replaced naturally. Coal, gas and uranium are limited.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is electromagnetic induction?",
+    "options": [
+     "A magnet moving through a vacuum",
+     "A voltage produced when a conductor moves in a magnetic field",
+     "A current making a wire hot",
+     "A battery being charged"
+    ],
+    "answer": 1,
+    "explanation": "A changing magnetic field through a coil induces an electromotive force (voltage).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "On an oscilloscope screen, one complete cycle of a mains-style signal covers 4.0 divisions and the time base is 5.0 ms per division. What is the frequency?",
+    "options": [
+     "50 Hz",
+     "20 Hz",
+     "5.0 Hz",
+     "0.020 Hz"
+    ],
+    "answer": 0,
+    "explanation": "Period = 4.0 × 5.0 = 20 ms = 0.020 s. Frequency = 1 ÷ 0.020 = 50 Hz.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An oscilloscope is set to 2.0 V per division. The peak of an AC trace is 3.0 divisions above the centre line. What is the peak voltage?",
+    "options": [
+     "1.5 V",
+     "3.0 V",
+     "12 V",
+     "6.0 V"
+    ],
+    "answer": 3,
+    "explanation": "Peak voltage = 3.0 divisions × 2.0 V per division = 6.0 V.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which change would increase the voltage from a simple generator?",
+    "options": [
+     "Rotate the coil more slowly",
+     "Use a weaker magnet",
+     "Rotate the coil faster",
+     "Use fewer turns on the coil"
+    ],
+    "answer": 2,
+    "explanation": "A faster rotation, a stronger magnet, more turns or a larger coil area all increase the induced voltage.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What happens to the frequency of the output of a simple AC generator if the coil is rotated twice as fast?",
+    "options": [
+     "It halves",
+     "It doubles",
+     "It stays the same",
+     "It becomes DC"
+    ],
+    "answer": 1,
+    "explanation": "One cycle is produced per rotation, so turning twice as fast gives twice as many cycles each second.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A wind turbine produces 2000 kW. How much energy does it supply in 3.0 hours?",
+    "options": [
+     "6000 kWh",
+     "667 kWh",
+     "600 kWh",
+     "2003 kWh"
+    ],
+    "answer": 0,
+    "explanation": "Energy = power × time = 2000 kW × 3.0 h = 6000 kWh.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A power station burns coal. Chemical energy in the coal is transferred to the generator in several stages. Which sequence is correct?",
+    "options": [
+     "Chemical, kinetic, thermal, electrical",
+     "Thermal, chemical, electrical, kinetic",
+     "Chemical, electrical, thermal, kinetic",
+     "Chemical, thermal, kinetic, electrical"
+    ],
+    "answer": 3,
+    "explanation": "Fuel burning heats water to steam, the steam turns the turbine, and the turbine turns the generator.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is an advantage of solar cells over a coal power station?",
+    "options": [
+     "They work equally well at night",
+     "They have a constant output",
+     "No greenhouse gases are produced during operation",
+     "They produce AC directly"
+    ],
+    "answer": 2,
+    "explanation": "Solar cells emit no carbon dioxide while operating, but output depends on sunlight and they produce DC.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement describes alternating current?",
+    "options": [
+     "The current is constant",
+     "The direction of the current changes repeatedly",
+     "The voltage is always zero",
+     "The current flows through a battery only"
+    ],
+    "answer": 1,
+    "explanation": "In AC the current reverses direction many times per second, 50 times each second in the UK mains.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A power station receives 400 MJ of energy from burning fuel in a given time and delivers 120 MJ of electrical energy. What is its efficiency?",
+    "options": [
+     "30%",
+     "70%",
+     "3.3%",
+     "33%"
+    ],
+    "answer": 0,
+    "explanation": "Efficiency = useful output ÷ input = 120 ÷ 400 = 0.30 = 30%.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A UK household appliance is rated 13 A at 230 V. What is its power?",
+    "options": [
+     "17.7 W",
+     "243 W",
+     "2.99 W",
+     "2990 W"
+    ],
+    "answer": 3,
+    "explanation": "P = V × I = 230 × 13 = 2990 W, about 3.0 kW.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student claims that the mains supply of 230 V means the voltage is always 230 V. Which evaluation is best?",
+    "options": [
+     "Correct: mains voltage is a constant 230 V",
+     "Incorrect: mains is a DC supply",
+     "Incorrect: the voltage alternates, and 230 V is an effective value, with a peak around 325 V",
+     "Correct: voltage is zero for the whole cycle"
+    ],
+    "answer": 2,
+    "explanation": "The voltage of AC varies between positive and negative peaks. The quoted value is the equivalent steady DC value for heating, about the peak ÷ √2.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A community considers replacing a coal power station with a wind farm. Which evaluation is best?",
+    "options": [
+     "Wind is always better because it gives constant output",
+     "Wind lowers emissions but depends on weather, so storage or backup is needed",
+     "Coal is better because it produces no waste",
+     "Wind is not renewable"
+    ],
+    "answer": 1,
+    "explanation": "A good evaluation considers benefits (low operating emissions), limits (variable output, land use, visual impact) and a judgement.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two generators are identical except Generator Q has a coil with twice as many turns. Both are turned at the same speed. What is true?",
+    "options": [
+     "Q produces twice the peak voltage at the same frequency",
+     "Q produces the same voltage at twice the frequency",
+     "Q produces half the voltage",
+     "Q produces DC"
+    ],
+    "answer": 0,
+    "explanation": "More turns increase the induced voltage in proportion. Frequency depends on the rotation speed, which is unchanged.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Direct and alternating current\n- **Direct current (DC)** flows in one direction only. Cells, batteries and solar cells provide DC.\n- **Alternating current (AC)** changes direction repeatedly. Mains electricity is AC. In the UK it is 230 V and 50 Hz, meaning the current reverses 50 complete cycles every second.\nOn an oscilloscope, DC appears as a flat horizontal line, and AC as a wave (sine curve). To read a trace:\n- **Peak voltage** = number of divisions above the centre line × volts per division.\n- **Period** = number of divisions for one complete wave × time per division. Frequency = 1 ÷ period.\nWorked example: one cycle covers 4.0 divisions at 5.0 ms per division. Period = 20 ms = 0.020 s, so frequency = 50 Hz. A peak 3.0 divisions high at 2.0 V per division gives 6.0 V.\nThe quoted mains voltage (230 V) is an effective value, which has the same heating effect as a steady 230 V DC. The actual peak is about 325 V.\n\n## Electromagnetic induction\nWhen a conductor cuts through magnetic field lines, or the magnetic field through a coil changes, a voltage is **induced**. If the circuit is complete, a current flows. This is the principle of the generator.\n\n## The AC generator\nA simple generator has a coil of wire that rotates in a magnetic field. As the coil turns, the field through it keeps changing, so an alternating voltage is induced. You can increase the output voltage by:\n- rotating the coil faster (this also raises the frequency);\n- using a stronger magnet;\n- adding more turns to the coil;\n- using a coil with a larger area.\nRotating the coil twice as fast doubles the frequency and raises the peak voltage. Doubling the turns doubles the peak voltage but leaves the frequency unchanged.\n\n## Power stations\nIn most power stations an energy source turns a **turbine**, and the turbine turns a **generator**.\n- Fossil fuel and biomass: burning heats water into steam which spins the turbine. Chemical energy → thermal → kinetic → electrical. Fossil fuels release carbon dioxide.\n- Nuclear: fission in the reactor produces heat to make steam. No carbon dioxide during operation, but radioactive waste must be stored safely.\n- Hydroelectric, wind and tidal: moving water or air turns the turbine directly. Renewable, with no fuel needed, but depend on location and weather.\n- Solar cells: transfer light directly to electrical energy as DC. They need sunlight.\nEfficiency = useful output ÷ total input × 100%. If a power station uses 400 MJ and delivers 120 MJ, efficiency = 30%.\n\n## Power and energy\nP = V × I, and E = P × t. A 13 A appliance at 230 V uses 2990 W. A 2000 kW wind turbine running for 3.0 h supplies 6000 kWh.\n\n## Common mistakes\n- Saying the mains voltage is constant at 230 V.\n- Confusing the oscilloscope vertical scale (voltage) with its horizontal scale (time).\n- Stating that a faster coil changes the voltage only. Frequency also rises.\n\n## How this is examined\nTypical items include an oscilloscope trace to interpret, an explanation of how to increase generator output, a comparison of power station types, and an evaluation task asking whether a region should invest in renewable energy, considering cost, reliability and environment (criterion D).\n\nExam tip: When comparing energy resources, give at least one advantage and one limitation for each, then finish with a judgement linked to the situation described.",
+  "flashcards": [
+   {
+    "front": "Direct current (DC)",
+    "back": "Current in one direction only, such as from a battery or solar cell."
+   },
+   {
+    "front": "Alternating current (AC)",
+    "back": "Current that reverses direction repeatedly. UK mains is 230 V and 50 Hz."
+   },
+   {
+    "front": "Electromagnetic induction",
+    "back": "A voltage is induced in a conductor when it moves in a magnetic field or when the magnetic field through a coil changes."
+   },
+   {
+    "front": "Ways to increase generator voltage",
+    "back": "Spin the coil faster, use a stronger magnet, more turns on the coil, or a larger coil."
+   },
+   {
+    "front": "Frequency from an oscilloscope",
+    "back": "Period = divisions per cycle × time base. Frequency = 1 ÷ period."
+   },
+   {
+    "front": "Energy chain in a coal power station",
+    "back": "Chemical → thermal → kinetic → electrical."
+   },
+   {
+    "front": "Renewable resource examples",
+    "back": "Wind, solar, hydroelectric, tidal, geothermal and biomass."
+   },
+   {
+    "front": "Efficiency",
+    "back": "Useful output energy ÷ total input energy × 100%."
+   },
+   {
+    "front": "Power and energy equations",
+    "back": "P = V × I and E = P × t."
+   }
+  ]
+ },
+ {
+  "subject": "physics",
+  "grade": 5,
+  "topic": "Generating and Transmitting Electricity",
+  "subTopic": "Transmission and the National Grid",
+  "questions": [
+   {
+    "content": "What is the National Grid?",
+    "options": [
+     "A battery bank",
+     "The network of cables and transformers that distributes electricity",
+     "A type of power station",
+     "A wind farm"
+    ],
+    "answer": 1,
+    "explanation": "The National Grid links power stations to homes and industry.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which device changes the size of an AC voltage?",
+    "options": [
+     "Transformer",
+     "Generator",
+     "Resistor",
+     "Switch"
+    ],
+    "answer": 0,
+    "explanation": "A transformer steps an AC voltage up or down. It needs a changing current to work.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why are high voltages used to transmit electricity over long distances?",
+    "options": [
+     "To make the current larger",
+     "To make the wires cold",
+     "To increase the frequency",
+     "To reduce energy lost as heat in the cables"
+    ],
+    "answer": 3,
+    "explanation": "A higher voltage means a lower current for the same power, so less heat is lost.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does a step-down transformer do?",
+    "options": [
+     "Increases the voltage",
+     "Changes AC into DC",
+     "Decreases the voltage",
+     "Increases the frequency"
+    ],
+    "answer": 2,
+    "explanation": "A step-down transformer has fewer turns on the secondary coil than the primary coil, so output voltage is lower.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A transformer works only with which type of supply?",
+    "options": [
+     "DC",
+     "AC",
+     "Either AC or DC",
+     "Neither"
+    ],
+    "answer": 1,
+    "explanation": "The changing magnetic field needed for induction is produced only by alternating current.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A power station delivers 50 MW. If the power is sent at 400 kV, what is the current? (I = P ÷ V)",
+    "options": [
+     "125 A",
+     "8000 A",
+     "2000 A",
+     "0.008 A"
+    ],
+    "answer": 0,
+    "explanation": "I = 50 × 10⁶ ÷ 400 × 10³ = 125 A.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The same 50 MW is sent at 25 kV instead. What is the current?",
+    "options": [
+     "125 A",
+     "1250 A",
+     "0.5 A",
+     "2000 A"
+    ],
+    "answer": 3,
+    "explanation": "I = 50 × 10⁶ ÷ 25 × 10³ = 2000 A. A lower voltage requires a much larger current.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A transformer has 200 turns on the primary coil and 1000 turns on the secondary. The primary voltage is 230 V. What is the secondary voltage? (Vp ÷ Vs = Np ÷ Ns)",
+    "options": [
+     "46 V",
+     "230 V",
+     "1150 V",
+     "5750 V"
+    ],
+    "answer": 2,
+    "explanation": "Vs = Vp × Ns ÷ Np = 230 × 1000 ÷ 200 = 1150 V. It is a step-up transformer.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A step-down transformer converts 12 000 V to 240 V. The primary coil has 2400 turns. How many turns does the secondary have?",
+    "options": [
+     "120",
+     "48",
+     "12 000",
+     "2400"
+    ],
+    "answer": 1,
+    "explanation": "Ns = Np × Vs ÷ Vp = 2400 × 240 ÷ 12 000 = 48 turns.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why are step-down transformers used near homes?",
+    "options": [
+     "To reduce the voltage to a safe level for use",
+     "To increase the current in the cables",
+     "To produce DC",
+     "To raise the voltage"
+    ],
+    "answer": 0,
+    "explanation": "The grid carries hundreds of thousands of volts, which must be reduced to 230 V for safe use.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The power lost as heat in a cable is given by P = I² × R. What happens to the power loss if the current is halved, with the resistance unchanged?",
+    "options": [
+     "It halves",
+     "It doubles",
+     "It stays the same",
+     "It falls to one quarter"
+    ],
+    "answer": 3,
+    "explanation": "Power loss depends on I². Halving the current gives (1/2)² = 1/4 of the loss.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is a disadvantage of overhead power lines compared with underground cables?",
+    "options": [
+     "They are much more expensive to build",
+     "They cannot carry AC",
+     "They affect the landscape and can be damaged by weather",
+     "They lose more energy because they are cold"
+    ],
+    "answer": 2,
+    "explanation": "Overhead lines are cheaper and easier to repair, but they change the appearance of the landscape and can be damaged by storms.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In an ideal transformer, the secondary supplies 12 V at 2.0 A. What current flows in the primary connected to 230 V?",
+    "options": [
+     "2.0 A",
+     "0.10 A",
+     "38 A",
+     "0.50 A"
+    ],
+    "answer": 1,
+    "explanation": "Power out = 12 × 2.0 = 24 W. For an ideal transformer, power in = power out, so I = 24 ÷ 230 ≈ 0.10 A.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Each cable in the grid has a resistance of 10 Ω. 50 MW is transmitted at 400 kV (current 125 A). What is the power lost as heat? (P = I² × R)",
+    "options": [
+     "1.6 × 10⁵ W",
+     "1.25 × 10³ W",
+     "4.0 × 10⁷ W",
+     "1.6 × 10⁶ W"
+    ],
+    "answer": 0,
+    "explanation": "P = 125² × 10 = 15 625 × 10 = 156 250 W, which is about 1.6 × 10⁵ W (0.16 MW).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "For the same line and power, the current is 2000 A when 50 MW is sent at 25 kV. What is the power lost in a 10 Ω cable, and what does it show?",
+    "options": [
+     "4.0 × 10⁴ W, a small loss",
+     "2.0 × 10⁴ W, a small loss",
+     "4.0 × 10⁷ W, no loss",
+     "4.0 × 10⁷ W, almost all of the power would be lost"
+    ],
+    "answer": 3,
+    "explanation": "P = 2000² × 10 = 4.0 × 10⁷ W = 40 MW, which is 80% of the 50 MW. High voltage is vital.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student says: 'A step-up transformer increases the energy, because it increases the voltage.' Which evaluation is best?",
+    "options": [
+     "Correct: energy is created by the extra coil turns",
+     "Correct: the output current also rises",
+     "Incorrect: the voltage rises but the current falls, so power stays about the same",
+     "Incorrect: transformers decrease voltage only"
+    ],
+    "answer": 2,
+    "explanation": "Power = V × I. In an ideal transformer, power in equals power out, so raising the voltage lowers the current. A real transformer loses a little as heat.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A transformer has input power 100 W and output power 90 W. What is its efficiency and what is the most likely reason for the loss?",
+    "options": [
+     "90%, energy lost as sound only",
+     "90%, energy lost as heat in the coils and core",
+     "10%, energy lost as gamma rays",
+     "110%, extra energy added by the core"
+    ],
+    "answer": 1,
+    "explanation": "Efficiency = 90 ÷ 100 = 90%. Heating of the coils (resistance) and the core (changing magnetic field) explains most of the loss.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A region needs 500 MW delivered at the lowest cost for energy lost. Which choice of transmission is best, ignoring construction costs?",
+    "options": [
+     "Step up to 400 kV with thick, low-resistance cables",
+     "Transmit at 230 V with thin cables",
+     "Transmit as DC from the generator at 12 V",
+     "Transmit at low voltage with the largest current"
+    ],
+    "answer": 0,
+    "explanation": "Higher voltage means lower current, and low-resistance cables give low I²R losses. The cost of thicker cables and pylons should also be weighed.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why electricity needs a grid\nPower stations are often far from the towns that use the electricity. The **National Grid** is the network of cables, pylons, substations and transformers that transmits electrical energy from power stations to homes, offices and factories. The challenge is to deliver the energy while wasting as little as possible as heat in the cables.\n\n## Power and losses in cables\nPower = voltage × current (P = V × I). To send a fixed power, a higher voltage means a lower current. For example, sending 50 MW:\n- at 25 kV needs I = 50 × 10⁶ ÷ 25 × 10³ = 2000 A;\n- at 400 kV needs I = 50 × 10⁶ ÷ 400 × 10³ = 125 A.\nCables heat up as the current passes through their resistance. The power lost is **P = I² × R**. If the cable resistance is 10 Ω:\n- at 2000 A, the loss is 2000² × 10 = 4.0 × 10⁷ W (40 MW), which is 80% of the power sent;\n- at 125 A, the loss is 125² × 10 = 156 250 W (about 0.16 MW), only 0.3% of the power.\nHalving the current cuts the loss to a quarter. So electricity is transmitted at very high voltages, up to 400 kV in the UK.\n\n## Transformers\nA **transformer** changes the voltage of an alternating supply. It has a primary coil and a secondary coil wound on an iron core. An alternating current in the primary creates a changing magnetic field in the core, which induces an alternating voltage in the secondary. It does not work with DC, because the field would not change.\n**Vp ÷ Vs = Np ÷ Ns**\n- **Step-up** transformer: more turns on the secondary, higher voltage. Used at the power station.\n- **Step-down** transformer: fewer turns on the secondary, lower voltage. Used near towns, then again in local substations to reach 230 V.\nWorked example: a primary has 200 turns at 230 V and the secondary has 1000 turns. Vs = 230 × 1000 ÷ 200 = 1150 V.\nFor an ideal transformer, power in = power out, so Vp × Ip = Vs × Is. A 12 V, 2.0 A secondary delivers 24 W, so a 230 V primary carries 24 ÷ 230 ≈ 0.10 A. A step-up transformer raises voltage but lowers current. It does not create energy. Real transformers are about 90% to 99% efficient because of heating in the coils and core.\n\n## The journey of electricity\nGenerator (about 25 kV) → step-up transformer (to 400 kV) → pylons or cables → step-down transformers at substations (to 33 kV, then 11 kV) → local transformer (to 230 V) → homes.\n\n## Overhead or underground?\nOverhead lines are cheaper and easier to repair, but affect the landscape, can be damaged in storms and may affect wildlife. Underground cables are less visible and protected from weather, but cost much more and are harder to repair.\n\n## Common mistakes\n- Saying that a step-up transformer increases power. It increases voltage, and current falls.\n- Using the wrong way round in Vp ÷ Vs = Np ÷ Ns.\n- Forgetting that P = I² × R needs the current squared.\n\n## How this is examined\nYou might be given grid data, such as power, voltage and cable resistance, and be asked to calculate the current and power loss at two voltages, then explain which is better. Criterion D questions may ask you to evaluate overhead cables against underground cables for a new wind farm.\n\nExam tip: To explain high-voltage transmission, use the chain: high voltage → low current → smaller I²R heating → less energy wasted.",
+  "flashcards": [
+   {
+    "front": "National Grid",
+    "back": "The network of power lines, pylons, substations and transformers that carries electricity from power stations to consumers."
+   },
+   {
+    "front": "Why transmit at high voltage?",
+    "back": "High voltage means low current for the same power, so there is much less heat loss in the cables."
+   },
+   {
+    "front": "Power loss in a cable",
+    "back": "P = I² × R. Halving the current cuts the loss to one quarter."
+   },
+   {
+    "front": "Power equation",
+    "back": "P = V × I, so I = P ÷ V."
+   },
+   {
+    "front": "Transformer",
+    "back": "Device with a primary coil, secondary coil and iron core that changes an AC voltage. It does not work with DC."
+   },
+   {
+    "front": "Transformer equation",
+    "back": "Vp ÷ Vs = Np ÷ Ns (voltages and turns on primary and secondary coils)."
+   },
+   {
+    "front": "Step-up vs step-down",
+    "back": "Step-up: secondary has more turns, voltage increases. Step-down: secondary has fewer turns, voltage decreases."
+   },
+   {
+    "front": "Ideal transformer power",
+    "back": "Power in = power out, so Vp × Ip = Vs × Is. A step-up transformer raises voltage and lowers current."
+   },
+   {
+    "front": "Overhead vs underground cables",
+    "back": "Overhead: cheaper and easier to repair but affects landscape and weather exposed. Underground: hidden and protected but much more expensive."
+   }
+  ]
+ }
+]

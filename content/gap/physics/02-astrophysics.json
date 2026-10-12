@@ -1,0 +1,528 @@
+[
+ {
+  "subject": "physics",
+  "grade": 5,
+  "topic": "Astrophysics",
+  "subTopic": "The Solar System, Planets and Satellites",
+  "questions": [
+   {
+    "content": "Which planet is closest to the Sun?",
+    "options": [
+     "Venus",
+     "Mercury",
+     "Mars",
+     "Earth"
+    ],
+    "answer": 1,
+    "explanation": "Mercury is the innermost planet, followed by Venus, Earth and Mars.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Between which two planets is the main asteroid belt?",
+    "options": [
+     "Mars and Jupiter",
+     "Earth and Mars",
+     "Jupiter and Saturn",
+     "Neptune and Uranus"
+    ],
+    "answer": 0,
+    "explanation": "The main belt of rocky asteroids lies between the orbits of Mars and Jupiter.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What force keeps planets in orbit around the Sun?",
+    "options": [
+     "Friction",
+     "Magnetism",
+     "Air resistance",
+     "Gravity"
+    ],
+    "answer": 3,
+    "explanation": "The Sun's gravitational attraction provides the centripetal force that keeps planets in orbit.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a moon?",
+    "options": [
+     "A star that orbits a planet",
+     "An artificial satellite",
+     "A natural satellite that orbits a planet",
+     "A dwarf planet orbiting the Sun"
+    ],
+    "answer": 2,
+    "explanation": "Moons are natural satellites. Artificial satellites are built by people.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a gas giant?",
+    "options": [
+     "Mercury",
+     "Jupiter",
+     "Mars",
+     "Earth"
+    ],
+    "answer": 1,
+    "explanation": "Jupiter and Saturn are the gas giants. Mercury, Earth and Mars are rocky.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The Earth orbits the Sun at a mean distance of 1.5 × 10¹¹ m. Light travels at 3.0 × 10⁸ m/s. How long does light from the Sun take to reach Earth?",
+    "options": [
+     "500 s",
+     "50 s",
+     "5000 s",
+     "2.0 × 10⁻³ s"
+    ],
+    "answer": 0,
+    "explanation": "Time = distance ÷ speed = 1.5 × 10¹¹ ÷ 3.0 × 10⁸ = 500 s, which is a little over 8 minutes.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How does the time taken to orbit the Sun (the orbital period) change for planets further from the Sun?",
+    "options": [
+     "It decreases",
+     "It stays the same",
+     "It depends only on the planet's mass",
+     "It increases"
+    ],
+    "answer": 3,
+    "explanation": "Further planets have longer paths and move more slowly, so their orbital periods are longer.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A satellite orbits Earth in a circle of radius 7.0 × 10⁶ m in 5800 s. What is its orbital speed? (speed = 2πr ÷ T)",
+    "options": [
+     "1.2 × 10³ m/s",
+     "4.1 × 10¹⁰ m/s",
+     "7.6 × 10³ m/s",
+     "7.6 × 10⁶ m/s"
+    ],
+    "answer": 2,
+    "explanation": "Speed = 2π × 7.0 × 10⁶ ÷ 5800 ≈ 7.6 × 10³ m/s.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement about a geostationary satellite is correct?",
+    "options": [
+     "It orbits over the poles with a period of 90 minutes",
+     "It orbits above the equator with a period of 24 hours",
+     "It stays still in space and the Earth moves under it",
+     "It orbits at only 200 km above the surface"
+    ],
+    "answer": 1,
+    "explanation": "A geostationary satellite orbits in the same direction as Earth's spin with a 24 hour period, so it stays above the same point on the equator.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which type of satellite is most suitable for a TV broadcasting dish that stays pointed at a fixed point in the sky?",
+    "options": [
+     "Geostationary",
+     "Low polar orbit",
+     "An asteroid",
+     "A comet"
+    ],
+    "answer": 0,
+    "explanation": "Only a geostationary satellite appears fixed in the sky, so the dish needs no tracking.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Compared with a planet in an almost circular orbit, a comet's orbit is …",
+    "options": [
+     "a perfect circle around the Sun",
+     "a straight line",
+     "a circle around Jupiter",
+     "a long ellipse, with the Sun near one end"
+    ],
+    "answer": 3,
+    "explanation": "Comets follow very elongated elliptical orbits, moving fastest when closest to the Sun.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A comet's tail always points …",
+    "options": [
+     "towards the Sun",
+     "in the direction it is travelling",
+     "away from the Sun",
+     "towards the Earth"
+    ],
+    "answer": 2,
+    "explanation": "The tail is blown away from the Sun by the solar wind and radiation, no matter which way the comet moves.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A satellite in a low orbit and another in a higher orbit both circle the Earth. Which statement is correct?",
+    "options": [
+     "The satellite in the lower orbit moves slower and has a shorter period",
+     "The satellite in the lower orbit moves faster and has a shorter period",
+     "Both have the same speed and period",
+     "The higher satellite moves faster"
+    ],
+    "answer": 1,
+    "explanation": "Gravity is stronger closer to Earth, so a satellite in a lower orbit must move faster and takes less time per orbit.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A satellite in geostationary orbit has an orbital radius of 4.2 × 10⁷ m and a period of 24 h (86 400 s). What is its orbital speed?",
+    "options": [
+     "3.1 × 10³ m/s",
+     "7.6 × 10³ m/s",
+     "3.1 × 10⁴ m/s",
+     "1.1 × 10¹¹ m/s"
+    ],
+    "answer": 0,
+    "explanation": "Speed = 2π × 4.2 × 10⁷ ÷ 86 400 ≈ 3.1 × 10³ m/s. Note it is slower than a low-orbit satellite.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Earth takes 365.25 days to complete one orbit of radius 1.5 × 10¹¹ m. Which is the best estimate of its orbital speed?",
+    "options": [
+     "3.0 × 10⁸ m/s",
+     "3.0 × 10² m/s",
+     "9.4 × 10¹¹ m/s",
+     "3.0 × 10⁴ m/s"
+    ],
+    "answer": 3,
+    "explanation": "Distance = 2π × 1.5 × 10¹¹ ≈ 9.4 × 10¹¹ m. Time = 365.25 × 86 400 ≈ 3.16 × 10⁷ s. Speed ≈ 3.0 × 10⁴ m/s (about 30 km/s).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student says: 'The astronauts on the International Space Station float because there is no gravity there.' Which evaluation is best?",
+    "options": [
+     "Correct: gravity stops acting above the atmosphere",
+     "Incorrect: they float because the ISS is much heavier than they are",
+     "Incorrect: gravity is still strong, and they float because they are in continuous free fall around Earth",
+     "Correct: the Moon's gravity cancels Earth's"
+    ],
+    "answer": 2,
+    "explanation": "At about 400 km height gravity is still around 90% of its value at the surface. The station and astronauts fall together as they orbit.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A probe sends a signal from Mars to Earth. The signal takes 12 minutes to arrive. Using c = 3.0 × 10⁸ m/s, what is the distance at that moment?",
+    "options": [
+     "3.6 × 10⁹ m",
+     "2.2 × 10¹¹ m",
+     "2.2 × 10¹⁰ m",
+     "3.6 × 10¹¹ m"
+    ],
+    "answer": 1,
+    "explanation": "Distance = speed × time = 3.0 × 10⁸ × (12 × 60) = 3.0 × 10⁸ × 720 = 2.16 × 10¹¹ m ≈ 2.2 × 10¹¹ m.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two satellites, P and Q, orbit Earth. P is at a greater height than Q. Which pair of statements is correct?",
+    "options": [
+     "P has a lower speed and a longer period than Q",
+     "P has a higher speed and a longer period than Q",
+     "P has a lower speed and a shorter period than Q",
+     "P has a higher speed and a shorter period than Q"
+    ],
+    "answer": 0,
+    "explanation": "Higher orbits need less speed to stay in orbit, and the longer path at lower speed gives a longer period.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## The Solar System\nOur Solar System is a star, the Sun, with objects that orbit it because of its gravity. It contains eight planets. The four inner planets, Mercury, Venus, Earth and Mars, are small and rocky. Between Mars and Jupiter lies the **asteroid belt**, a region of rocky fragments. The outer planets are Jupiter and Saturn, the **gas giants**, and Uranus and Neptune, the **ice giants**. There are also **dwarf planets** such as Pluto, and **comets**, which are balls of ice and dust.\n\n## Orbits\nA planet moves in an almost circular orbit because of the Sun's gravity. The force acts towards the centre, changing the direction of the planet's velocity all the time, so it keeps going around instead of travelling in a straight line. Planets further from the Sun have weaker gravity acting on them, move more slowly, and have longer paths, so their years are longer.\n\nA comet follows a long, stretched ellipse. It moves fastest near the Sun and slowest when far away. Its tail is created near the Sun when the ice evaporates, and always points away from the Sun.\n\nA **moon** is a natural satellite of a planet. The Moon orbits Earth about every 27 days.\n\n## Satellites\nA **satellite** is any object that orbits a larger object. Artificial satellites are used for communications, weather monitoring, navigation and observing Earth.\n- **Low Earth orbit** (a few hundred kilometres up): a period of about 90 minutes. The satellite moves fast, about 7.6 km/s. Used for observation and the International Space Station.\n- **Geostationary orbit**: a height of about 36 000 km above the equator with a period of exactly 24 hours, moving in the same direction as Earth rotates. It appears fixed in the sky, so it is ideal for TV and communications.\n- **Polar orbit**: passes over the poles and scans the whole Earth over time, used for mapping and monitoring.\nA satellite in a higher orbit moves more slowly and takes longer for each orbit.\n\n## Orbital speed\nFor a circular orbit, speed = distance ÷ time = 2πr ÷ T.\nWorked example: a satellite has an orbital radius of 7.0 × 10⁶ m and a period of 5800 s. Speed = 2π × 7.0 × 10⁶ ÷ 5800 ≈ 7.6 × 10³ m/s.\nFor the Earth, r = 1.5 × 10¹¹ m and T = 365.25 days ≈ 3.16 × 10⁷ s, giving a speed of about 3.0 × 10⁴ m/s.\n\n## Light travel times\nLight travels at 3.0 × 10⁸ m/s. Sunlight takes 1.5 × 10¹¹ ÷ 3.0 × 10⁸ = 500 s, over 8 minutes, to reach Earth.\n\n## Common mistakes\n- Saying astronauts float because there is no gravity. They are in free fall around Earth.\n- Forgetting to convert hours or days into seconds before calculating speed.\n- Thinking a comet's tail trails behind it. It points away from the Sun.\n- Thinking a higher satellite moves faster. It moves more slowly.\n\n## How this is examined\nTypical tasks give orbit data for a planet or satellite and ask you to find speed, period or distance, compare satellite types for a purpose, and justify a choice. Criterion D questions may ask about the benefits and risks of space technology.\n\nExam tip: Convert every time to seconds and every distance to metres before using speed = distance ÷ time, and show the full circumference calculation 2πr.",
+  "flashcards": [
+   {
+    "front": "Name the eight planets in order from the Sun",
+    "back": "Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune."
+   },
+   {
+    "front": "Asteroid belt",
+    "back": "A region of rocky fragments orbiting the Sun between the orbits of Mars and Jupiter."
+   },
+   {
+    "front": "What keeps planets in orbit?",
+    "back": "The Sun's gravity, which acts as a force towards the centre and continually changes the direction of motion."
+   },
+   {
+    "front": "Orbital speed formula",
+    "back": "Speed = 2πr ÷ T, where r is the orbital radius and T the orbital period."
+   },
+   {
+    "front": "Geostationary satellite",
+    "back": "Orbits above the equator at about 36 000 km with a 24 hour period, so it stays above one point on Earth."
+   },
+   {
+    "front": "Low Earth orbit satellite",
+    "back": "Orbits a few hundred km up, in about 90 minutes at about 7.6 km/s. Used for observation and the ISS."
+   },
+   {
+    "front": "How do orbital speed and period change with height?",
+    "back": "The higher the orbit, the lower the speed and the longer the period."
+   },
+   {
+    "front": "Comet orbit and tail",
+    "back": "Long elliptical orbit, fastest near the Sun. The tail always points away from the Sun."
+   },
+   {
+    "front": "Light travel time from the Sun",
+    "back": "About 500 s (over 8 minutes), since distance 1.5 × 10¹¹ m ÷ speed 3.0 × 10⁸ m/s."
+   }
+  ]
+ },
+ {
+  "subject": "physics",
+  "grade": 5,
+  "topic": "Astrophysics",
+  "subTopic": "Stars, Galaxies and the Big Bang",
+  "questions": [
+   {
+    "content": "What is the Milky Way?",
+    "options": [
+     "The nearest star to the Sun",
+     "The galaxy containing our Solar System",
+     "A planet in our Solar System",
+     "A comet"
+    ],
+    "answer": 1,
+    "explanation": "The Milky Way is our home galaxy, a huge collection of stars, gas and dust.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a light-year?",
+    "options": [
+     "The distance light travels in one year",
+     "The time light takes to travel one metre",
+     "A unit of brightness",
+     "One year on a distant planet"
+    ],
+    "answer": 0,
+    "explanation": "A light-year is a unit of distance, about 9.5 × 10¹⁵ m.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What process releases energy in the core of a star like the Sun?",
+    "options": [
+     "Nuclear fission",
+     "Combustion of gas",
+     "Radioactive decay",
+     "Nuclear fusion"
+    ],
+    "answer": 3,
+    "explanation": "Hydrogen nuclei fuse to form helium, releasing large amounts of energy.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The Sun will end its life as which type of object?",
+    "options": [
+     "A black hole",
+     "A neutron star",
+     "A white dwarf",
+     "A supernova"
+    ],
+    "answer": 2,
+    "explanation": "A star of about the Sun's mass swells to a red giant, loses its outer layers, and leaves a white dwarf.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "About how long ago do scientists estimate the Universe began with the Big Bang?",
+    "options": [
+     "4.6 billion years",
+     "13.8 billion years",
+     "100 million years",
+     "500 years"
+    ],
+    "answer": 1,
+    "explanation": "The Big Bang was about 13.8 billion years ago. 4.6 billion years is about the age of the Solar System.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which sequence correctly shows the life cycle of a star like the Sun?",
+    "options": [
+     "Nebula, protostar, main sequence, red giant, white dwarf",
+     "Nebula, main sequence, supernova, black hole",
+     "Protostar, white dwarf, red giant, main sequence",
+     "Main sequence, nebula, red giant, neutron star"
+    ],
+    "answer": 0,
+    "explanation": "Stars form from clouds of gas and dust, spend most of their lives fusing hydrogen, then expand and cool before ending as a dense white dwarf.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What stops a main-sequence star from collapsing under its own gravity?",
+    "options": [
+     "The star's magnetic field",
+     "The nearby planets",
+     "The rotation of the galaxy",
+     "The outward pressure from fusion balances gravity"
+    ],
+    "answer": 3,
+    "explanation": "The star is stable because the outward pressure from the hot core balances the inward pull of gravity.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The star Proxima Centauri is 4.2 light-years away. What does this mean?",
+    "options": [
+     "It is 4.2 years old",
+     "It is 4.2 million km away",
+     "Light from it takes 4.2 years to reach us",
+     "It orbits the Sun in 4.2 years"
+    ],
+    "answer": 2,
+    "explanation": "One light-year is the distance light covers in a year, so the light we see left the star 4.2 years ago.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The light from a distant galaxy is redshifted. What does this tell us?",
+    "options": [
+     "The galaxy is moving towards us",
+     "The galaxy is moving away from us",
+     "The galaxy is stationary",
+     "The galaxy is made of red stars"
+    ],
+    "answer": 1,
+    "explanation": "Redshift means the wavelengths are stretched towards the red end because the source is moving away.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Observations show that more distant galaxies have bigger redshifts. What is the best interpretation?",
+    "options": [
+     "The Universe is expanding",
+     "The Universe is shrinking",
+     "The galaxies are all the same distance",
+     "Light speeds up in space"
+    ],
+    "answer": 0,
+    "explanation": "If farther galaxies move away faster, space is expanding, which supports the Big Bang theory.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which observation is evidence for the Big Bang, besides redshift?",
+    "options": [
+     "Sunspots",
+     "The Moon's phases",
+     "Meteor showers",
+     "Cosmic microwave background radiation"
+    ],
+    "answer": 3,
+    "explanation": "Faint microwave radiation coming from all directions is the cooled remains of the energy from the early Universe.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Where were most of the elements heavier than helium made?",
+    "options": [
+     "In the Big Bang itself",
+     "In planets",
+     "In stars and supernovae",
+     "In the Earth's core"
+    ],
+    "answer": 2,
+    "explanation": "Hydrogen and helium formed early on. Heavier elements were made by fusion in stars, and the heaviest during supernova explosions.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A large star at the end of its life explodes. What is this called?",
+    "options": [
+     "A nova",
+     "A supernova",
+     "A comet",
+     "A nebula"
+    ],
+    "answer": 1,
+    "explanation": "Massive stars end their lives in a supernova, leaving a neutron star or a black hole.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "One light-year is about 9.5 × 10¹⁵ m. A star is 4.0 light-years away. What is its distance in metres?",
+    "options": [
+     "3.8 × 10¹⁶ m",
+     "3.8 × 10¹⁵ m",
+     "2.4 × 10¹⁵ m",
+     "3.8 × 10¹⁹ m"
+    ],
+    "answer": 0,
+    "explanation": "4.0 × 9.5 × 10¹⁵ = 38 × 10¹⁵ = 3.8 × 10¹⁶ m.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "In a lab, hydrogen emits light at 656 nm. In light from a distant galaxy the same line is at 670 nm. Which conclusion is best?",
+    "options": [
+     "The galaxy is approaching, because the wavelength has increased",
+     "The galaxy is receding, because the wavelength has decreased",
+     "The galaxy is stationary, because the line is still present",
+     "The galaxy is receding, because the wavelength has increased"
+    ],
+    "answer": 3,
+    "explanation": "A longer observed wavelength (redshift) shows the galaxy is moving away from us.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which statement best explains why a star much more massive than the Sun has a shorter life?",
+    "options": [
+     "It has less hydrogen to start with",
+     "It does not have fusion in its core",
+     "It fuses its hydrogen much faster because its core is hotter and denser",
+     "It is further from the galaxy centre"
+    ],
+    "answer": 2,
+    "explanation": "Larger stars have more fuel, but they burn it at a much greater rate, so they use it up in a shorter time.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student says: 'The Big Bang was an explosion at one point in space, and galaxies are flying out into empty space.' Which evaluation is best?",
+    "options": [
+     "Correct: it was a normal explosion in space",
+     "Not quite: space itself expanded from an extremely hot, dense state everywhere",
+     "Incorrect: the Universe is not expanding",
+     "Correct: the galaxies are the pieces of a star"
+    ],
+    "answer": 1,
+    "explanation": "The Big Bang model says space itself is expanding, which carries galaxies apart. It was not an explosion into an existing space.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A telescope detects a very distant galaxy. The light left it 10 billion years ago. Which statement is correct?",
+    "options": [
+     "We see the galaxy as it was 10 billion years ago",
+     "We see the galaxy as it is today",
+     "The galaxy is exactly 10 light-years away",
+     "The galaxy no longer exists"
+    ],
+    "answer": 0,
+    "explanation": "Light takes time to travel, so looking far away means looking back in time.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Stars\nA star forms when gravity pulls together a cloud of gas and dust called a **nebula**. As it collapses it heats up, forming a **protostar**. When the core is hot and dense enough, hydrogen nuclei undergo **nuclear fusion** to form helium, releasing huge amounts of energy as light and heat. The star is now in the **main sequence**, the longest stage of its life. It is stable because the outward pressure from fusion balances the inward pull of gravity.\n\n## The end of a star\nWhen the hydrogen in the core runs low, the balance changes.\n- A star like the Sun swells into a **red giant**, then loses its outer layers and shrinks into a hot, dense **white dwarf**.\n- A much more massive star becomes a **red supergiant** and explodes in a **supernova**. The core left behind becomes a **neutron star** or, for the most massive stars, a **black hole**.\nMassive stars burn faster and live for a much shorter time than small stars. Elements heavier than hydrogen and helium were made inside stars and supernovae, and so were the atoms in our bodies.\n\n## Galaxies and distance\nA **galaxy** is a huge collection of stars, gas and dust held together by gravity. Our galaxy, the Milky Way, is a spiral galaxy that contains hundreds of billions of stars. The Universe contains billions of galaxies.\nSpace distances are measured in **light-years**, the distance light travels in one year, about 9.5 × 10¹⁵ m. Worked example: a star 4.0 light-years away is 4.0 × 9.5 × 10¹⁵ = 3.8 × 10¹⁶ m away. Because light takes time to travel, looking at distant objects shows them as they were in the past.\n\n## Redshift and expansion\nWhen a light source moves away, its wavelengths are stretched towards the red end of the spectrum. This is **redshift**. Light from almost all galaxies is redshifted, and the more distant the galaxy, the greater the redshift and the faster it is moving away. This shows that space itself is expanding.\n\n## The Big Bang\nWorking back in time, everything must have been together in an extremely hot, dense state about 13.8 billion years ago. This is the **Big Bang** theory. Space expanded and cooled. The evidence comprises:\n- Redshift of galaxies, showing expansion.\n- **Cosmic microwave background radiation**, faint microwaves from all directions, the cooled energy of the early Universe.\nScientists accept a theory when predictions agree with observations from many sources, and it is open to change with new evidence.\n\n## Common mistakes\n- Treating a light-year as a unit of time.\n- Describing the Big Bang as an explosion into empty space.\n- Thinking the Sun will become a black hole or supernova. It does not have enough mass.\n- Saying redshift means a galaxy is red. It means the observed wavelength is longer.\n\n## How this is examined\nQuestions give redshift data or star distances and ask you to interpret what they show, order stages in a star's life, convert light-years to metres, and justify why a theory is supported by evidence. Criterion D may ask you to evaluate evidence for competing models.\n\nExam tip: When asked for evidence, name the observation (for example redshift that increases with distance) and then state what it shows (the Universe is expanding).",
+  "flashcards": [
+   {
+    "front": "Nuclear fusion in stars",
+    "back": "Hydrogen nuclei join to form helium in the core, releasing energy. It powers main-sequence stars."
+   },
+   {
+    "front": "Main sequence star",
+    "back": "The stable stage of a star's life, where outward pressure from fusion balances the inward pull of gravity."
+   },
+   {
+    "front": "Life cycle of a star like the Sun",
+    "back": "Nebula, protostar, main sequence, red giant, white dwarf."
+   },
+   {
+    "front": "Life cycle of a massive star",
+    "back": "Nebula, protostar, main sequence, red supergiant, supernova, then a neutron star or black hole."
+   },
+   {
+    "front": "Light-year",
+    "back": "The distance light travels in one year, about 9.5 × 10¹⁵ m. It is a unit of distance."
+   },
+   {
+    "front": "Galaxy",
+    "back": "A huge collection of stars, gas and dust held together by gravity. Ours is the Milky Way."
+   },
+   {
+    "front": "Redshift",
+    "back": "Wavelengths of light from a receding source are stretched. More distant galaxies show more redshift, so the Universe is expanding."
+   },
+   {
+    "front": "Big Bang theory",
+    "back": "The Universe began about 13.8 billion years ago from an extremely hot, dense state and has been expanding ever since."
+   },
+   {
+    "front": "Cosmic microwave background radiation",
+    "back": "Faint microwaves from all directions, the cooled radiation left over from the early hot Universe. Evidence for the Big Bang."
+   }
+  ]
+ }
+]

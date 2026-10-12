@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "integrated-science",
+  "grade": 5,
+  "topic": "Cells and Living Systems",
+  "subTopic": "Cell Structure and Transport",
+  "questions": [
+   {
+    "content": "Which part of an animal cell contains the genetic material (DNA)?",
+    "options": [
+     "Ribosome",
+     "Nucleus",
+     "Mitochondrion",
+     "Cell membrane"
+    ],
+    "answer": 1,
+    "explanation": "The nucleus holds the DNA and controls the activities of the cell.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Where does aerobic respiration mainly take place in a cell?",
+    "options": [
+     "Mitochondria",
+     "Ribosomes",
+     "Nucleus",
+     "Cell wall"
+    ],
+    "answer": 0,
+    "explanation": "Mitochondria release energy from glucose using oxygen.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which structure is found in plant cells but NOT in animal cells?",
+    "options": [
+     "Cell membrane",
+     "Cytoplasm",
+     "Nucleus",
+     "Cell wall"
+    ],
+    "answer": 3,
+    "explanation": "Plant cells also have chloroplasts and a permanent vacuole. All cells have a membrane, cytoplasm and genetic material.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is diffusion?",
+    "options": [
+     "Movement of particles from low to high concentration using energy",
+     "Movement of water only through a membrane",
+     "The net movement of particles from a higher concentration to a lower concentration",
+     "The movement of cells towards light"
+    ],
+    "answer": 2,
+    "explanation": "Diffusion is passive: no energy is needed and particles move down the concentration gradient.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is osmosis?",
+    "options": [
+     "The movement of solute from dilute to concentrated solutions",
+     "The movement of water across a partially permeable membrane from a dilute solution to a more concentrated solution",
+     "Active movement of water against a gradient",
+     "Movement of gases only"
+    ],
+    "answer": 1,
+    "explanation": "Osmosis is the diffusion of water through a partially permeable membrane. Water moves from high to low water concentration.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the function of ribosomes?",
+    "options": [
+     "To make proteins",
+     "To release energy",
+     "To store genetic information",
+     "To control what enters the cell"
+    ],
+    "answer": 0,
+    "explanation": "Ribosomes are the site of protein synthesis. Mitochondria release energy and the nucleus holds DNA.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Potato cylinders are placed in sucrose solutions and the mass change recorded. In 0.0 M: +8 %. In 0.2 M: +4 %. In 0.4 M: 0 %. In 0.6 M: −5 %. What is the best estimate of the concentration inside the potato cells?",
+    "options": [
+     "About 0.0 M",
+     "About 0.6 M",
+     "About 0.2 M",
+     "About 0.4 M"
+    ],
+    "answer": 3,
+    "explanation": "There is no net osmosis when the mass is unchanged, so the solution outside has about the same concentration as the cell contents.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Root hair cells absorb mineral ions from soil that is more dilute than the cell contents. Which process is this?",
+    "options": [
+     "Diffusion",
+     "Osmosis",
+     "Active transport",
+     "Evaporation"
+    ],
+    "answer": 2,
+    "explanation": "Moving ions against their concentration gradient requires energy from respiration, so it is active transport.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student draws a cell 45 mm long under a microscope. The actual cell is 0.015 mm long. What is the magnification?",
+    "options": [
+     "×300",
+     "×3000",
+     "×675",
+     "×0.00033"
+    ],
+    "answer": 1,
+    "explanation": "Magnification = image size ÷ actual size = 45 ÷ 0.015 = 3000.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What happens to a red blood cell placed in distilled water?",
+    "options": [
+     "It swells and bursts",
+     "It shrinks",
+     "It stays the same",
+     "It becomes firm and turgid"
+    ],
+    "answer": 0,
+    "explanation": "Water enters by osmosis. An animal cell has no cell wall to resist swelling, so it bursts.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is plasmolysis?",
+    "options": [
+     "A plant cell swelling with water",
+     "The cell wall dissolving",
+     "The cell dividing",
+     "The membrane pulling away from the cell wall when a plant cell loses water"
+    ],
+    "answer": 3,
+    "explanation": "In a concentrated solution a plant cell loses water by osmosis, the vacuole shrinks and the membrane pulls away from the wall.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Cube A has sides 2 cm and cube B has sides of 1 cm. What is the surface area to volume ratio of cube A compared with B?",
+    "options": [
+     "A is 6 : 1 and B is 3 : 1",
+     "Both are 6 : 1",
+     "A is 3 : 1 and B is 6 : 1, so B has the larger ratio",
+     "A is 24 : 1 and B is 6 : 1"
+    ],
+    "answer": 2,
+    "explanation": "Cube A: 24 cm² ÷ 8 cm³ = 3. Cube B: 6 cm² ÷ 1 cm³ = 6. Smaller objects have a larger ratio, which helps diffusion.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why does a root hair cell have a long thin extension?",
+    "options": [
+     "It stores starch",
+     "It increases surface area for absorbing water and ions",
+     "It carries out photosynthesis",
+     "It makes it easier to divide"
+    ],
+    "answer": 1,
+    "explanation": "A large surface area increases the rate of absorption by osmosis and active transport.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which change would NOT increase the rate of diffusion of a gas into a cell?",
+    "options": [
+     "A smaller concentration difference across the membrane",
+     "A greater concentration difference",
+     "A higher temperature",
+     "A larger surface area"
+    ],
+    "answer": 0,
+    "explanation": "A steeper concentration gradient, higher temperature and bigger surface area all increase diffusion. A smaller difference decreases it.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A scale bar on a drawing shows a drawn cell 60 mm wide at magnification ×400. What is its actual width in micrometres?",
+    "options": [
+     "24 000 µm",
+     "0.15 µm",
+     "1.5 µm",
+     "150 µm"
+    ],
+    "answer": 3,
+    "explanation": "Actual = 60 ÷ 400 = 0.15 mm = 150 µm (1 mm = 1000 µm).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A potato cylinder has an initial mass of 5.0 g and a final mass of 5.6 g after 30 minutes in a solution. What is the percentage change in mass?",
+    "options": [
+     "+10.7 %",
+     "+0.6 %",
+     "+12 %",
+     "+11.2 %"
+    ],
+    "answer": 2,
+    "explanation": "Percentage change = (final − initial) ÷ initial × 100 = 0.6 ÷ 5.0 × 100 = 12 %. Dividing by the final mass is a common mistake.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two groups repeat a potato osmosis experiment. One group's cylinders gain far more mass than expected in the 0.4 M solution. What is the most likely cause?",
+    "options": [
+     "Osmosis does not occur in sucrose",
+     "The cylinders were not blotted dry, so extra water on the surface added to the mass",
+     "The temperature of the room was constant",
+     "The cylinders were cut with the same cork borer"
+    ],
+    "answer": 1,
+    "explanation": "Surface water adds mass, so cylinders must be blotted before weighing. Same borer and constant temperature are good practice.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "When cyanide is added to root hair cells, uptake of nitrate ions stops, but the uptake of water continues. Cyanide stops respiration. What explains this?",
+    "options": [
+     "Nitrate uptake is active transport requiring ATP, whereas water moves by osmosis",
+     "Water needs ATP but nitrate does not",
+     "Cyanide blocks the cell wall",
+     "Nitrate moves by osmosis"
+    ],
+    "answer": 0,
+    "explanation": "Active transport needs energy from respiration, so stopping respiration stops it. Osmosis is passive.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Cells are the units of life\nAll living things are made of cells. Animal and plant cells share some structures, and plant cells have a few extra ones.\n- **Nucleus**: contains DNA and controls the cell.\n- **Cytoplasm**: jelly-like fluid where reactions take place.\n- **Cell membrane**: controls what enters and leaves.\n- **Mitochondria**: release energy by aerobic respiration.\n- **Ribosomes**: make proteins.\nPlant cells also have a **cell wall** (cellulose, for support), **chloroplasts** (photosynthesis) and a **permanent vacuole** (cell sap, keeps the cell firm).\nBacteria are different: they have no true nucleus, and their DNA lies free in the cytoplasm.\n\n## Specialised cells\nCells are adapted to their jobs. A root hair cell has a long extension for absorbing water; a sperm cell has a tail and many mitochondria; a red blood cell has no nucleus and is packed with haemoglobin; a palisade cell has many chloroplasts. Cells form tissues, which form organs, which form organ systems.\n\n## Microscopy and magnification\nMagnification = image size ÷ actual size. Worked example: a drawing is 45 mm long and the cell is 0.015 mm, so magnification = 45 ÷ 0.015 = ×3000. To find actual size, rearrange: actual = image ÷ magnification. Convert units carefully: 1 mm = 1000 µm.\n\n## Movement into and out of cells\n- **Diffusion**: net movement of particles from high to low concentration, down the gradient. No energy needed. Oxygen and carbon dioxide move this way. Rate increases with a steeper gradient, higher temperature and larger surface area.\n- **Osmosis**: diffusion of water across a partially permeable membrane. Water moves from a dilute solution to a more concentrated one.\n- **Active transport**: movement of particles against the concentration gradient, requiring energy from respiration, for example mineral ions into root hair cells or glucose into the blood from the gut.\n\n## Osmosis in plants and animals\nA plant cell in dilute solution takes in water and becomes firm (turgid); the wall stops it bursting. In concentrated solution it loses water and the membrane pulls away from the wall (plasmolysis). Animal cells have no wall, so a red blood cell bursts in distilled water and shrivels in very concentrated solution.\n\n## Surface area to volume ratio\nSmall objects have a larger surface area to volume ratio. A 1 cm cube has ratio 6 : 1; a 2 cm cube has 3 : 1. Large organisms need transport and exchange systems because diffusion alone is too slow.\n\n## Practical: potato cylinders\nCut same-size cylinders, weigh them, place in different sucrose concentrations, leave for a set time, blot dry and reweigh. Percentage change = (final − initial) ÷ initial × 100. The concentration where there is no change is about equal to the concentration of the potato cells. To improve reliability, repeat and calculate a mean, and blot every cylinder in the same way.\n\n## Common mistakes\n- Saying that osmosis moves water to where there is \"more water\".\n- Forgetting that active transport needs energy and works against the gradient.\n- Dividing by the final mass when calculating percentage change.\n- Forgetting to convert mm to µm.\n\n## How this is examined\nYou may see a practical with data in text, such as potato cylinders in sucrose solutions. Typical tasks are plotting percentage change, finding where the line crosses zero, naming control variables, spotting why a result is anomalous, and linking cell adaptations to function.\n\nExam tip: Use the words \"partially permeable membrane\" and \"concentration gradient\" in explanations, and always say whether energy is needed.",
+  "flashcards": [
+   {
+    "front": "Plant cell structures not in animal cells",
+    "back": "Cell wall, chloroplasts and a permanent vacuole."
+   },
+   {
+    "front": "Function of mitochondria",
+    "back": "Release energy from glucose by aerobic respiration. Cells with high energy needs have many."
+   },
+   {
+    "front": "Magnification formula",
+    "back": "Magnification = image size ÷ actual size. Convert units: 1 mm = 1000 µm."
+   },
+   {
+    "front": "Define diffusion",
+    "back": "Net movement of particles from a region of higher concentration to lower concentration, down a gradient. No energy needed."
+   },
+   {
+    "front": "Define osmosis",
+    "back": "Net movement of water across a partially permeable membrane from a dilute solution to a more concentrated solution."
+   },
+   {
+    "front": "Define active transport",
+    "back": "Movement of particles against a concentration gradient using energy from respiration, e.g. mineral ions into root hair cells."
+   },
+   {
+    "front": "Turgid vs plasmolysed",
+    "back": "Turgid: plant cell full of water and firm. Plasmolysed: cell has lost water and membrane has pulled away from the wall."
+   },
+   {
+    "front": "Why do small organisms not need a transport system?",
+    "back": "They have a large surface area to volume ratio, so diffusion is fast enough over a short distance."
+   },
+   {
+    "front": "Percentage change in mass",
+    "back": "(final mass − initial mass) ÷ initial mass × 100."
+   }
+  ]
+ },
+ {
+  "subject": "integrated-science",
+  "grade": 5,
+  "topic": "Cells and Living Systems",
+  "subTopic": "Photosynthesis and Respiration",
+  "questions": [
+   {
+    "content": "What is the word equation for photosynthesis?",
+    "options": [
+     "Glucose + oxygen → carbon dioxide + water",
+     "Carbon dioxide + water → glucose + oxygen",
+     "Oxygen + water → glucose + carbon dioxide",
+     "Glucose + carbon dioxide → oxygen + water"
+    ],
+    "answer": 1,
+    "explanation": "Photosynthesis uses light energy to make glucose from carbon dioxide and water, releasing oxygen.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which pigment in chloroplasts absorbs light for photosynthesis?",
+    "options": [
+     "Chlorophyll",
+     "Haemoglobin",
+     "Melanin",
+     "Keratin"
+    ],
+    "answer": 0,
+    "explanation": "Chlorophyll absorbs mostly red and blue light and reflects green.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the word equation for aerobic respiration?",
+    "options": [
+     "Carbon dioxide + water → glucose + oxygen",
+     "Glucose → ethanol + carbon dioxide",
+     "Glucose → lactic acid",
+     "Glucose + oxygen → carbon dioxide + water (+ energy)"
+    ],
+    "answer": 3,
+    "explanation": "Aerobic respiration releases energy from glucose using oxygen.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In which living things does respiration occur?",
+    "options": [
+     "Only animals",
+     "Only plants at night",
+     "All living things, all the time",
+     "Only in the dark"
+    ],
+    "answer": 2,
+    "explanation": "Every living cell respires continuously to release energy.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What colour does iodine solution turn when starch is present?",
+    "options": [
+     "Brick red",
+     "Blue-black",
+     "Purple",
+     "Clear"
+    ],
+    "answer": 1,
+    "explanation": "Iodine turns blue-black with starch. Benedict's solution goes brick red with reducing sugars.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is a limiting factor of photosynthesis?",
+    "options": [
+     "Light intensity",
+     "Mitochondria number",
+     "Wind direction",
+     "Bile concentration"
+    ],
+    "answer": 0,
+    "explanation": "The limiting factors are light intensity, carbon dioxide concentration and temperature.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student moves a lamp away from pondweed. Bubbles per minute: 10 cm: 40, 20 cm: 22, 30 cm: 10. What is the conclusion?",
+    "options": [
+     "Rate increases with distance",
+     "Distance has no effect",
+     "Rate is highest at 30 cm",
+     "Rate of photosynthesis decreases as light intensity decreases"
+    ],
+    "answer": 3,
+    "explanation": "Greater distance means lower light intensity and fewer bubbles of oxygen per minute.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is produced during anaerobic respiration in human muscles?",
+    "options": [
+     "Ethanol and carbon dioxide",
+     "Glucose",
+     "Lactic acid",
+     "Oxygen"
+    ],
+    "answer": 2,
+    "explanation": "In muscles, glucose is incompletely broken down to lactic acid when oxygen is short.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Yeast respire anaerobically in a sugar solution. Which products are formed?",
+    "options": [
+     "Lactic acid and oxygen",
+     "Ethanol and carbon dioxide",
+     "Water and glucose",
+     "Starch and carbon dioxide"
+    ],
+    "answer": 1,
+    "explanation": "Anaerobic respiration in yeast is fermentation, used in brewing and bread making.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How is a leaf adapted for photosynthesis?",
+    "options": [
+     "It is broad and thin with many chloroplasts in palisade cells near the top",
+     "It has thick waxy walls with no air spaces",
+     "It has no stomata",
+     "It has chloroplasts only in roots"
+    ],
+    "answer": 0,
+    "explanation": "A large surface area, thin structure and chloroplast-rich palisade layer maximise light capture and gas diffusion.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the function of guard cells?",
+    "options": [
+     "To make glucose",
+     "To absorb water from soil",
+     "To carry sugar around the plant",
+     "To open and close stomata to control gas exchange and water loss"
+    ],
+    "answer": 3,
+    "explanation": "Guard cells change shape to open or close the stomata.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is the correct balanced symbol equation for photosynthesis?",
+    "options": [
+     "CO₂ + H₂O → C₆H₁₂O₆ + O₂",
+     "C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O",
+     "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂",
+     "6CO₂ + 12H₂O → C₆H₁₂O₆ + 6O₂"
+    ],
+    "answer": 2,
+    "explanation": "Left: 6 C, 12 H, 18 O. Right: 6 C, 12 H, 6 + 12 = 18 O. It is balanced. Option three is the reverse reaction.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is NOT a use of the glucose made by photosynthesis?",
+    "options": [
+     "Respiration",
+     "Making haemoglobin in the leaf",
+     "Storage as starch",
+     "Making cellulose for cell walls"
+    ],
+    "answer": 1,
+    "explanation": "Plants use glucose for respiration, storage as starch and cellulose. With nitrates it can make amino acids for proteins; haemoglobin is not made by plants.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A graph of photosynthesis rate against light intensity rises and then levels off. The temperature is 20 °C. What is the most likely limiting factor at the flat part?",
+    "options": [
+     "Carbon dioxide concentration or temperature",
+     "Light intensity",
+     "Chlorophyll colour",
+     "Oxygen concentration"
+    ],
+    "answer": 0,
+    "explanation": "On the plateau, extra light no longer increases the rate, so another factor such as CO₂ concentration or temperature is limiting.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A variegated leaf (green and white areas) is tested for starch after several hours in light. What is the result and conclusion?",
+    "options": [
+     "Only the white areas turn blue-black, showing chlorophyll is not needed",
+     "All areas turn blue-black, showing light is needed",
+     "No area turns blue-black, showing starch is not made",
+     "Only the green areas turn blue-black, showing that chlorophyll is needed"
+    ],
+    "answer": 3,
+    "explanation": "White areas lack chlorophyll so cannot photosynthesise; they do not store starch.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A plant is in bright light. At the same time it respires and photosynthesises. What is the net gas exchange?",
+    "options": [
+     "It releases carbon dioxide because respiration only happens in the dark",
+     "It takes in oxygen only",
+     "It takes in carbon dioxide because photosynthesis is faster than respiration",
+     "There is no gas exchange"
+    ],
+    "answer": 2,
+    "explanation": "In bright light the rate of photosynthesis exceeds respiration, so there is net uptake of carbon dioxide and net release of oxygen.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Hydrogencarbonate indicator is red in air, yellow at high CO₂ and purple at low CO₂. A tube with a leaf is wrapped in foil and left in light for 2 hours. What colour is expected and why?",
+    "options": [
+     "Purple, because the leaf photosynthesises",
+     "Yellow, because the leaf only respires in the dark and produces CO₂",
+     "Red, because the leaf does not respire",
+     "Purple, because the leaf releases oxygen"
+    ],
+    "answer": 1,
+    "explanation": "In the dark there is no photosynthesis, so CO₂ from respiration builds up and turns the indicator yellow.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student counts bubbles from pondweed to find photosynthesis rate. Which improvement most increases the validity of the investigation?",
+    "options": [
+     "Collect and measure the volume of oxygen in a gas syringe and use an LED to avoid heating the water",
+     "Count bubbles for 5 seconds only",
+     "Use a brighter bulb without changing the distance",
+     "Count bubbles by eye without repeating"
+    ],
+    "answer": 0,
+    "explanation": "Bubbles vary in size, so measuring gas volume is more accurate. A cool light source prevents temperature acting as a second variable.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Photosynthesis\nPhotosynthesis is the process by which plants, algae and some bacteria make glucose using light energy. It happens in the chloroplasts, which contain chlorophyll.\nWord equation: carbon dioxide + water → glucose + oxygen (light energy, chlorophyll).\nBalanced symbol equation: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂. Check: 6 C, 12 H and 18 O on each side.\nPlants use glucose for respiration, to make starch for storage, cellulose for cell walls, and with nitrates to make amino acids for proteins. Starch is tested with iodine, which turns blue-black.\n\n## Leaf structure\nA leaf is broad and thin to catch light and let gases diffuse in. Palisade cells near the top contain many chloroplasts. Spongy mesophyll has air spaces for gas diffusion. **Stomata** are tiny pores, mostly on the underside, opened and closed by **guard cells**. Xylem brings water, and phloem carries sugars away.\n\n## Limiting factors\nThe rate of photosynthesis can be limited by light intensity, carbon dioxide concentration or temperature. On a graph the rate rises then levels off when another factor becomes limiting. At very high temperatures enzymes are denatured and the rate falls.\n\n## Respiration\nRespiration releases energy from glucose in every living cell. It is not breathing.\n- **Aerobic respiration**: glucose + oxygen → carbon dioxide + water (+ energy). Takes place in mitochondria. C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O.\n- **Anaerobic respiration in muscles**: glucose → lactic acid (+ less energy). Causes an oxygen debt and muscle fatigue.\n- **Anaerobic respiration in yeast**: glucose → ethanol + carbon dioxide. Used in brewing and baking.\nThe energy is used for movement, growth, keeping warm, active transport and building molecules.\n\n## Day and night in plants\nIn the light a plant photosynthesises and respires, but if photosynthesis is faster it takes in carbon dioxide and gives out oxygen overall. In the dark it only respires, taking in oxygen and releasing carbon dioxide. Hydrogencarbonate indicator shows carbon dioxide levels: purple (low), red (atmospheric), yellow (high).\n\n## Practical: pondweed and light\nPlace a lamp at different distances from pondweed and count bubbles per minute. Control temperature (use a water bath or LED lamp), carbon dioxide concentration and the same pondweed. To improve accuracy, repeat and find a mean, and collect gas in a syringe instead of counting bubbles of different sizes.\n\n## Common mistakes\n- Saying plants photosynthesise only in the day and respire only at night. They respire all the time.\n- Mixing up the reactants and products of photosynthesis and respiration.\n- Saying plants \"breathe in\" carbon dioxide and use it for respiration.\n- Describing anaerobic respiration in muscles as producing ethanol.\n\n## How this is examined\nExpect an investigation context such as pondweed, a greenhouse or a variegated leaf. You may interpret a graph with a plateau, identify the limiting factor, evaluate the method and link photosynthesis to global issues such as food security, greenhouse design and carbon dioxide levels.\n\nExam tip: When asked for a limiting factor on a plateau, say what is in short supply and explain why increasing the first factor no longer helps.",
+  "flashcards": [
+   {
+    "front": "Word equation for photosynthesis",
+    "back": "Carbon dioxide + water → glucose + oxygen, using light energy absorbed by chlorophyll."
+   },
+   {
+    "front": "Balanced equation for photosynthesis",
+    "back": "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂."
+   },
+   {
+    "front": "Word equation for aerobic respiration",
+    "back": "Glucose + oxygen → carbon dioxide + water, releasing energy. Happens in mitochondria."
+   },
+   {
+    "front": "Anaerobic respiration in muscles and yeast",
+    "back": "Muscles: glucose → lactic acid. Yeast: glucose → ethanol + carbon dioxide."
+   },
+   {
+    "front": "Limiting factors of photosynthesis",
+    "back": "Light intensity, carbon dioxide concentration and temperature. The one in shortest supply limits the rate."
+   },
+   {
+    "front": "Function of stomata and guard cells",
+    "back": "Stomata let gases in and out; guard cells open and close them and control water loss."
+   },
+   {
+    "front": "Test for starch",
+    "back": "Add iodine solution: blue-black means starch is present."
+   },
+   {
+    "front": "Uses of glucose in a plant",
+    "back": "Respiration, storage as starch, cellulose for cell walls, and amino acids (with nitrates) for proteins."
+   },
+   {
+    "front": "Hydrogencarbonate indicator colours",
+    "back": "Purple: low CO₂. Red: atmospheric CO₂. Yellow: high CO₂."
+   }
+  ]
+ },
+ {
+  "subject": "integrated-science",
+  "grade": 5,
+  "topic": "Cells and Living Systems",
+  "subTopic": "Enzymes, Nutrition and Digestion",
+  "questions": [
+   {
+    "content": "What are enzymes?",
+    "options": [
+     "Hormones that speed up growth",
+     "Biological catalysts made of protein",
+     "Carbohydrates that store energy",
+     "Vitamins that fight disease"
+    ],
+    "answer": 1,
+    "explanation": "Enzymes speed up reactions without being used up, and they are proteins.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which enzyme digests starch?",
+    "options": [
+     "Amylase",
+     "Protease",
+     "Lipase",
+     "Pepsin"
+    ],
+    "answer": 0,
+    "explanation": "Amylase breaks starch into sugars such as maltose. Protease digests protein and lipase digests fats.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does protease break proteins down into?",
+    "options": [
+     "Glucose",
+     "Fatty acids",
+     "Glycerol",
+     "Amino acids"
+    ],
+    "answer": 3,
+    "explanation": "Proteins are made of amino acids, which protease releases.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What are the products of lipid (fat) digestion?",
+    "options": [
+     "Amino acids",
+     "Glucose",
+     "Fatty acids and glycerol",
+     "Maltose"
+    ],
+    "answer": 2,
+    "explanation": "Lipase breaks down lipids into fatty acids and glycerol.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Where does most absorption of digested food take place?",
+    "options": [
+     "Stomach",
+     "Small intestine",
+     "Large intestine",
+     "Mouth"
+    ],
+    "answer": 1,
+    "explanation": "The small intestine is long and lined with villi, so it has a huge surface area for absorbing food molecules.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does the lock and key model say about enzymes?",
+    "options": [
+     "The substrate fits the shape of the enzyme's active site",
+     "The enzyme changes shape to fit any substrate",
+     "The enzyme is used up in the reaction",
+     "The substrate is a catalyst"
+    ],
+    "answer": 0,
+    "explanation": "Each enzyme has an active site with a specific shape that matches its substrate.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why does an enzyme stop working at high temperature?",
+    "options": [
+     "The enzyme runs out of substrate",
+     "The enzyme is killed because it is alive",
+     "The temperature changes the pH only",
+     "The active site changes shape (it is denatured)"
+    ],
+    "answer": 3,
+    "explanation": "Heat breaks bonds holding the protein shape, so the substrate no longer fits. Enzymes are not alive.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Pepsin works best at about pH 2 and amylase at about pH 7. Which statement explains this?",
+    "options": [
+     "All enzymes work best at pH 7",
+     "Pepsin is not an enzyme",
+     "Each enzyme is adapted to the pH of where it works",
+     "Amylase works only in the stomach"
+    ],
+    "answer": 2,
+    "explanation": "Pepsin works in the acidic stomach; salivary amylase works in the near neutral mouth.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How are villi adapted for absorption?",
+    "options": [
+     "Thick walls and few capillaries",
+     "Large surface area, thin walls and a rich blood supply",
+     "Smooth surface and no blood vessels",
+     "Many chloroplasts for light"
+    ],
+    "answer": 1,
+    "explanation": "Thin walls give a short diffusion distance and capillaries maintain a steep concentration gradient.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the role of bile?",
+    "options": [
+     "To emulsify fats and neutralise stomach acid",
+     "To digest proteins",
+     "To digest starch",
+     "To absorb water"
+    ],
+    "answer": 0,
+    "explanation": "Bile, made in the liver and stored in the gall bladder, breaks fats into droplets, giving a larger surface area for lipase. It is not an enzyme.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A food sample turns purple when biuret reagent is added. What does it contain?",
+    "options": [
+     "Reducing sugar",
+     "Starch",
+     "Lipid",
+     "Protein"
+    ],
+    "answer": 3,
+    "explanation": "Biuret turns purple with protein. Benedict's gives a brick-red precipitate with reducing sugars, and iodine turns blue-black with starch.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Amylase activity at different temperatures: 10 °C: 2, 20 °C: 5, 30 °C: 9, 40 °C: 14, 50 °C: 3 (arbitrary units). What can you conclude?",
+    "options": [
+     "The enzyme works best at 50 °C",
+     "The enzyme is denatured at 10 °C",
+     "The optimum temperature is near 40 °C, and the enzyme is denatured at 50 °C",
+     "Temperature has no effect"
+    ],
+    "answer": 2,
+    "explanation": "Rates rise to a peak around 40 °C and fall sharply at 50 °C as the enzyme denatures.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is dietary fibre important?",
+    "options": [
+     "It provides most of the body's energy",
+     "It helps food move through the gut and prevents constipation",
+     "It builds muscle",
+     "It is digested to glucose"
+    ],
+    "answer": 1,
+    "explanation": "Fibre is not digested, but adds bulk so food moves along the intestine.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Starch disappears in 120 s at 20 °C and in 30 s at 40 °C. Using rate = 1 ÷ time, how many times faster is the reaction at 40 °C?",
+    "options": [
+     "4 times",
+     "2 times",
+     "90 times",
+     "0.25 times"
+    ],
+    "answer": 0,
+    "explanation": "Rate at 20 °C = 1/120; at 40 °C = 1/30. The ratio is 120 ÷ 30 = 4.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Doubling the enzyme concentration at first doubles the rate, but then the rate stops increasing. What explains this?",
+    "options": [
+     "The enzyme has been denatured",
+     "The temperature becomes too low",
+     "The enzyme turns into a substrate",
+     "All the substrate is being used so substrate becomes the limiting factor"
+    ],
+    "answer": 3,
+    "explanation": "At first more active sites means faster reaction. Eventually substrate is the limiting factor.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student burns 1.0 g of a nut under a boiling tube containing 50 g of water. The water temperature rises by 20 °C. Water needs 4.2 J per g per °C. What is the energy released per gram?",
+    "options": [
+     "840 J",
+     "210 J",
+     "4200 J (4.2 kJ)",
+     "4.2 J"
+    ],
+    "answer": 2,
+    "explanation": "Energy = 50 × 4.2 × 20 = 4200 J. The true energy in the nut is higher because some heat is lost to the surroundings.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student says, \"High temperatures kill enzymes.\" What is the best correction?",
+    "options": [
+     "Enzymes are alive but small",
+     "Enzymes are not alive; high temperatures denature them by changing the shape of the active site",
+     "High temperatures dissolve the substrate",
+     "Enzymes work faster as temperature increases forever"
+    ],
+    "answer": 1,
+    "explanation": "Only living things can be killed. Enzymes are proteins that lose their shape.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "In an investigation into the effect of pH on amylase, which control is most important?",
+    "options": [
+     "Same temperature, enzyme volume and starch concentration in every tube",
+     "Different temperature in every tube",
+     "Different volume of amylase in each tube",
+     "Different substrates in each tube"
+    ],
+    "answer": 0,
+    "explanation": "pH is the independent variable. All other variables must be kept constant so any difference is due to pH.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Enzymes\nEnzymes are biological catalysts. They are proteins that speed up chemical reactions without being used up. Each enzyme has an **active site** with a specific shape that fits only one **substrate**: the lock and key model. When the substrate fits, the reaction happens and products are released, and the enzyme can be used again.\nEnzymes work best at an **optimum** temperature and pH. At low temperature particles move slowly, so reactions are slow. At high temperature, the enzyme's shape changes and the active site no longer fits. We say the enzyme is **denatured**. This is not the same as being killed, because enzymes are not alive. Different enzymes have different optimum pH values: pepsin about pH 2 in the stomach, amylase about pH 7.\n\n## Factors affecting enzyme rate\n- Temperature: rate rises up to the optimum, then drops sharply.\n- pH: extreme pH changes shape, reducing activity.\n- Enzyme concentration: more enzyme gives a faster rate until the substrate runs out.\n- Substrate concentration: more substrate increases the rate until all active sites are busy.\nRate can be calculated as 1 ÷ time taken. If starch disappears in 120 s at 20 °C and 30 s at 40 °C, the rate is 4 times greater at 40 °C.\n\n## Nutrition\nA balanced diet includes carbohydrates (energy), proteins (growth and repair), lipids (energy store, insulation), vitamins and minerals, fibre (moves food through the gut) and water.\nFood tests: iodine for starch (blue-black), Benedict's for reducing sugars (brick red when heated), biuret for protein (purple), and the ethanol emulsion test for lipids (cloudy white).\n\n## Digestion\nDigestion breaks large insoluble molecules into small soluble ones that can be absorbed.\n- Carbohydrase (amylase): starch → sugars (made in salivary glands, pancreas).\n- Protease (pepsin in the stomach): proteins → amino acids.\n- Lipase: lipids → fatty acids and glycerol.\n**Bile** is made in the liver and stored in the gall bladder. It is not an enzyme. It neutralises stomach acid and emulsifies fats, giving a larger surface area for lipase. The small intestine absorbs digested food, and the large intestine absorbs water. **Villi** are folds with thin walls and a rich blood supply for fast absorption.\n\n## Energy in food\nIn a calorimetry experiment burning food heats water: energy = mass of water × 4.2 × temperature rise. For 50 g of water rising 20 °C, energy = 4200 J. The result is lower than the real value because some heat escapes to the surroundings. Improve by insulating and using a lid.\n\n## Common mistakes\n- Saying enzymes are \"killed\" or \"used up\".\n- Saying bile digests fat chemically. It emulsifies.\n- Using digestion and absorption as the same thing.\n- Forgetting to control temperature when testing the effect of pH.\n\n## How this is examined\nQuestions might present an experiment on amylase or catalase with results in text, ask for conclusions, require rate calculations, and ask for improvements such as repeats, a water bath and a control. Criterion D items link enzymes to industry, such as biological washing powders or lactose-free milk.\n\nExam tip: Link every enzyme explanation to the shape of the active site and the substrate, and say \"denatured\", not \"killed\".",
+  "flashcards": [
+   {
+    "front": "What is an enzyme?",
+    "back": "A biological catalyst, made of protein, that speeds up a reaction without being used up."
+   },
+   {
+    "front": "Lock and key model",
+    "back": "The substrate fits the specific shape of the enzyme's active site, like a key in a lock."
+   },
+   {
+    "front": "Denaturation",
+    "back": "A change in shape of the enzyme (and active site) caused by high temperature or extreme pH. The enzyme no longer works."
+   },
+   {
+    "front": "Amylase, protease, lipase",
+    "back": "Amylase: starch → sugars. Protease: protein → amino acids. Lipase: lipids → fatty acids and glycerol."
+   },
+   {
+    "front": "Function of bile",
+    "back": "Made in the liver, stored in the gall bladder. Neutralises acid and emulsifies fats. It is not an enzyme."
+   },
+   {
+    "front": "Food test results",
+    "back": "Starch: iodine blue-black. Reducing sugar: Benedict's brick red. Protein: biuret purple. Lipid: ethanol emulsion cloudy."
+   },
+   {
+    "front": "Adaptations of villi",
+    "back": "Large surface area, thin walls (one cell thick) and a rich blood supply for fast absorption."
+   },
+   {
+    "front": "Calculating rate from time",
+    "back": "Rate = 1 ÷ time taken. A shorter time means a faster reaction."
+   },
+   {
+    "front": "Energy from food",
+    "back": "Energy (J) = mass of water (g) × 4.2 × temperature rise (°C)."
+   }
+  ]
+ }
+]

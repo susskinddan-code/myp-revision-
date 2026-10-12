@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Networks, Algorithms and Optimisation",
+  "subTopic": "Networks and Weighted Pathways",
+  "questions": [
+   {
+    "content": "In a network, what is the degree of a vertex?",
+    "options": [
+     "The number of edges meeting at it",
+     "The number of vertices in the network",
+     "The total weight of its edges",
+     "The length of the longest path from it"
+    ],
+    "answer": 0,
+    "explanation": "The degree counts how many edge ends meet at the vertex. A loop would count twice.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A network has 7 edges. What is the sum of all the vertex degrees?",
+    "options": [
+     "7",
+     "49",
+     "3.5",
+     "14"
+    ],
+    "answer": 3,
+    "explanation": "Each edge has two ends, so the sum of degrees is twice the number of edges: 2 × 7 = 14.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "On a weighted network of towns, what could the weight of an edge represent?",
+    "options": [
+     "The number of vertices",
+     "The degree of the town",
+     "Distance, time or cost of the route",
+     "The number of edges in the network"
+    ],
+    "answer": 2,
+    "explanation": "Weights attach a number to each edge, usually a distance, a time or a cost.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "How many edges does a tree with 6 vertices have?",
+    "options": [
+     "6",
+     "5",
+     "7",
+     "4"
+    ],
+    "answer": 1,
+    "explanation": "A tree is connected with no cycles, so it always has one fewer edge than vertices: 6 − 1 = 5.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A route that starts and ends at the same vertex and does not repeat any other vertex is called a...",
+    "options": [
+     "Cycle",
+     "Tree",
+     "Degree",
+     "Spanning edge"
+    ],
+    "answer": 0,
+    "explanation": "A cycle returns to its start without repeating vertices. A tree has no cycles at all.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Network N has vertices A to F. Edges and weights (km): A–B 4, A–C 2, B–C 1, B–D 5, C–D 8, C–E 10, D–E 2, D–F 6, E–F 3. What is the shortest distance from A to F?",
+    "options": [
+     "14 km",
+     "15 km",
+     "11 km",
+     "13 km"
+    ],
+    "answer": 3,
+    "explanation": "The shortest route is A–C–B–D–E–F: 2 + 1 + 5 + 2 + 3 = 13 km. A–C–B–D–F is 14 km and A–C–E–F is 15 km.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Network N has vertices A to F. Edges and weights (km): A–B 4, A–C 2, B–C 1, B–D 5, C–D 8, C–E 10, D–E 2, D–F 6, E–F 3. Using Kruskal's algorithm, what is the total weight of a minimum spanning tree?",
+    "options": [
+     "41 km",
+     "11 km",
+     "13 km",
+     "16 km"
+    ],
+    "answer": 2,
+    "explanation": "Add edges in order of weight, skipping any that form a cycle: B–C 1, A–C 2, D–E 2, E–F 3, A–B (4, cycle, skip), B–D 5. Five edges for six vertices: 1 + 2 + 2 + 3 + 5 = 13.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Network N has vertices A to F. Edges and weights (km): A–B 4, A–C 2, B–C 1, B–D 5, C–D 8, C–E 10, D–E 2, D–F 6, E–F 3. How many vertices have an odd degree?",
+    "options": [
+     "0",
+     "2",
+     "4",
+     "6"
+    ],
+    "answer": 1,
+    "explanation": "Degrees: A 2, B 3, C 4, D 4, E 3, F 2. Only B and E are odd. So an Euler trail exists between B and E.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In an adjacency matrix, what does the sum of the entries in the row for vertex C equal (no loops)?",
+    "options": [
+     "The degree of C",
+     "The weight of the network",
+     "The number of vertices",
+     "The number of edges in the network"
+    ],
+    "answer": 0,
+    "explanation": "Each 1 in the row shows an edge from C to another vertex, so the sum is the degree of C.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Five towns need to be joined by cables. Costs ($ thousand): P–Q 7, P–R 5, Q–R 4, Q–S 6, R–S 9, S–T 3, R–T 8. What is the cheapest total cost of connecting all five towns?",
+    "options": [
+     "$42 thousand",
+     "$16 thousand",
+     "$13 thousand",
+     "$18 thousand"
+    ],
+    "answer": 3,
+    "explanation": "Minimum spanning tree: S–T 3, Q–R 4, P–R 5, Q–S 6. Four edges for five towns: 18.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Using the cable network (P–Q 7, P–R 5, Q–R 4, Q–S 6, R–S 9, S–T 3, R–T 8), what is the shortest route length from P to T?",
+    "options": [
+     "16",
+     "17",
+     "13",
+     "15"
+    ],
+    "answer": 2,
+    "explanation": "P–R–T is 5 + 8 = 13. P–Q–S–T is 16 and P–R–S–T is 17.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A connected network has every vertex of even degree. What does this tell you?",
+    "options": [
+     "No route uses every edge once",
+     "A closed route using every edge exactly once exists",
+     "Exactly two vertices are odd",
+     "It is a tree"
+    ],
+    "answer": 1,
+    "explanation": "If all vertices are even, there is an Euler circuit that starts and ends at the same vertex and uses each edge once.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How many edges does a complete graph on 5 vertices (every vertex joined to every other) have?",
+    "options": [
+     "10",
+     "5",
+     "20",
+     "25"
+    ],
+    "answer": 0,
+    "explanation": "Each of 5 vertices joins to 4 others, giving 20 edge ends, so 20 ÷ 2 = 10 edges.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A map of four land areas has vertices with degrees 3, 3, 3 and 5 (a bridge-crossing puzzle). Can someone cross every bridge exactly once?",
+    "options": [
+     "Yes, starting anywhere",
+     "Yes, but only from a vertex of degree 3",
+     "No, because there are four vertices",
+     "No, four vertices are odd"
+    ],
+    "answer": 3,
+    "explanation": "An Euler trail needs 0 or 2 odd vertices. All four vertices here are odd, so it is impossible.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Network N has vertices A to F. Edges and weights (km): A–B 4, A–C 2, B–C 1, B–D 5, C–D 8, C–E 10, D–E 2, D–F 6, E–F 3. An inspector wants to travel along every road at least once, starting at B and ending at E. What is the minimum distance?",
+    "options": [
+     "13 km",
+     "46 km",
+     "41 km",
+     "36 km"
+    ],
+    "answer": 2,
+    "explanation": "B and E are the only odd vertices, so an Euler trail from B to E exists and uses each road exactly once. The total is 4 + 2 + 1 + 5 + 8 + 10 + 2 + 6 + 3 = 41 km.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Network N has vertices A to F. Edges and weights (km): A–B 4, A–C 2, B–C 1, B–D 5, C–D 8, C–E 10, D–E 2, D–F 6, E–F 3. The road B–D (5 km) is closed. What is the new shortest distance from A to F?",
+    "options": [
+     "13 km",
+     "15 km",
+     "14 km",
+     "16 km"
+    ],
+    "answer": 1,
+    "explanation": "Without B–D the best routes are A–C–E–F = 2 + 10 + 3 = 15 and A–C–D–E–F = 2 + 8 + 2 + 3 = 15. The old route needed B–D.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A connected network has 8 vertices and 9 edges. How many edges must be removed to leave a spanning tree?",
+    "options": [
+     "2",
+     "1",
+     "7",
+     "9"
+    ],
+    "answer": 0,
+    "explanation": "A spanning tree on 8 vertices has 7 edges. 9 − 7 = 2 edges must go, chosen to break the cycles while keeping the network connected.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Network N has vertices A to F. Edges and weights (km): A–B 4, A–C 2, B–C 1, B–D 5, C–D 8, C–E 10, D–E 2, D–F 6, E–F 3. Prim's algorithm starts at A and always adds the cheapest edge joining the tree to a new vertex. Which is the THIRD edge chosen?",
+    "options": [
+     "A–B",
+     "D–E",
+     "C–D",
+     "B–D"
+    ],
+    "answer": 3,
+    "explanation": "Start at A: the cheapest edge is A–C (2). Then C–B (1). From {A, B, C} the cheapest new connection is B–D (5), beating C–D (8) and C–E (10).",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Graphs and networks\nA **network** (graph) is made from **vertices** (points or nodes) joined by **edges** (lines). In a **weighted network** each edge carries a number such as a distance in km, a time in minutes or a cost in dollars. Networks model road maps, cable layouts, delivery routes and the internet.\n\nKey vocabulary:\n- **Degree** of a vertex: the number of edges meeting there.\n- **Path**: a route that does not repeat vertices. **Cycle**: a path that returns to its start.\n- **Connected**: there is a route between every pair of vertices.\n- **Tree**: a connected network with no cycles. A tree on n vertices has n − 1 edges.\n- **Complete graph**: every vertex joins every other. With n vertices there are n(n − 1)/2 edges.\nThe sum of all degrees is twice the number of edges, so the number of odd vertices is always even.\n\n## Shortest path\nTo find the shortest route between two vertices, work outward from the start, recording the shortest known distance to each vertex (Dijkstra's method). In the network with edges A–B 4, A–C 2, B–C 1, B–D 5, C–D 8, C–E 10, D–E 2, D–F 6, E–F 3, the shortest route from A to F is A–C–B–D–E–F with total 2 + 1 + 5 + 2 + 3 = 13. Notice that the route with the fewest edges is not the shortest. If B–D is closed, the answer rises to 15.\n\n## Minimum spanning tree\nA **spanning tree** connects all vertices using no cycles. The **minimum spanning tree** (MST) has the smallest total weight. Use it to find the cheapest way to connect towns with cable or pipes.\nKruskal's algorithm: sort the edges, add the cheapest edge that does not create a cycle, stop when you have n − 1 edges.\nPrim's algorithm: start at any vertex and repeatedly add the cheapest edge that joins the tree to a new vertex.\nBoth give the same total weight, here 13 for the network above.\nRemember: the MST connects everything cheaply but does not give the shortest route between two particular vertices.\n\n## Euler trails\nA route using every edge exactly once is an **Euler trail**. It exists when the number of odd vertices is 0 (it can be a closed circuit) or 2 (it must start at one odd vertex and end at the other). In the example network only B and E are odd, so the whole network can be traversed from B to E in a distance equal to the sum of all weights, 41. A network with four odd vertices, like the famous bridges of Königsberg, has no such route without repeating edges.\n\n## Common mistakes\n- Choosing the route with the fewest edges instead of the smallest total weight.\n- Adding an edge that makes a cycle when building a minimum spanning tree.\n- Counting a spanning tree with the wrong number of edges.\n- Confusing MST total weight with the shortest path.\n\n## How this is examined\nTasks give a map with distances or costs, often a school trip, delivery round, cable laying or emergency access plan. You find shortest paths, build a minimum spanning tree, check whether a closed route exists, and evaluate how a closure would change the answer.\n\nExam tip: Record each step of your algorithm in a small table or list, such as edges chosen in order, so that an examiner can follow your reasoning and a slip can still earn method marks.",
+  "flashcards": [
+   {
+    "front": "Vertex, edge, weight",
+    "back": "Vertex: point. Edge: line joining vertices. Weight: number on an edge such as distance, time or cost."
+   },
+   {
+    "front": "Degree of a vertex",
+    "back": "The number of edges meeting at that vertex."
+   },
+   {
+    "front": "Handshake rule",
+    "back": "Sum of all degrees = 2 × number of edges. The number of odd vertices is always even."
+   },
+   {
+    "front": "Tree",
+    "back": "Connected network with no cycles. n vertices have n − 1 edges."
+   },
+   {
+    "front": "Minimum spanning tree",
+    "back": "Connects all vertices with the smallest total weight and no cycles. Found by Kruskal's or Prim's algorithm."
+   },
+   {
+    "front": "Kruskal's algorithm",
+    "back": "Sort edges by weight, add the cheapest that does not form a cycle, stop at n − 1 edges."
+   },
+   {
+    "front": "Prim's algorithm",
+    "back": "Start at a vertex and keep adding the cheapest edge joining the tree to a new vertex."
+   },
+   {
+    "front": "Euler trail rule",
+    "back": "Uses every edge once. Possible if there are 0 odd vertices (circuit) or exactly 2 (start and end at them)."
+   },
+   {
+    "front": "Shortest path",
+    "back": "The route with the smallest total weight, not the fewest edges."
+   }
+  ]
+ },
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Networks, Algorithms and Optimisation",
+  "subTopic": "Flowcharts and Algorithms",
+  "questions": [
+   {
+    "content": "In a flowchart, which shape is used for a decision (yes/no question)?",
+    "options": [
+     "Diamond",
+     "Rectangle",
+     "Oval",
+     "Parallelogram"
+    ],
+    "answer": 0,
+    "explanation": "A diamond holds a condition with two exits, usually Yes and No. Rectangles are processes, ovals are start/stop, parallelograms are input/output.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which flowchart shape marks the start or end of an algorithm?",
+    "options": [
+     "Diamond",
+     "Rectangle",
+     "Triangle",
+     "Oval"
+    ],
+    "answer": 3,
+    "explanation": "The start and end terminators are drawn as ovals (rounded rectangles).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is an algorithm?",
+    "options": [
+     "A type of computer",
+     "A single mathematical formula",
+     "A step-by-step set of instructions to solve a problem",
+     "A drawing of a network"
+    ],
+    "answer": 2,
+    "explanation": "An algorithm is a finite, ordered list of clear instructions that solves a problem.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "An algorithm sets x = 5, then x = x × 2 + 1. What is the final value of x?",
+    "options": [
+     "10",
+     "11",
+     "12",
+     "16"
+    ],
+    "answer": 1,
+    "explanation": "x × 2 = 10, plus 1 gives 11. The new x replaces the old one.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which flowchart shape is normally used for input and output?",
+    "options": [
+     "Parallelogram",
+     "Diamond",
+     "Circle",
+     "Oval"
+    ],
+    "answer": 0,
+    "explanation": "Parallelograms show reading in a value or displaying a result.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Start n = 1. While n < 20, replace n with n × 2. What is the final value of n?",
+    "options": [
+     "16",
+     "20",
+     "40",
+     "32"
+    ],
+    "answer": 3,
+    "explanation": "n takes the values 1, 2, 4, 8, 16 and then 32. At 16 the condition 16 < 20 is true, so it doubles once more. At 32 the loop stops.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Set total = 0. For i from 1 to 5, add i² to total. What is total at the end?",
+    "options": [
+     "15",
+     "225",
+     "55",
+     "30"
+    ],
+    "answer": 2,
+    "explanation": "1 + 4 + 9 + 16 + 25 = 55. The sum of the squares is different from the square of the sum, which is 225.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The algorithm: if x is even output x ÷ 2, otherwise output 3x + 1. What is the output when x = 7?",
+    "options": [
+     "3.5",
+     "22",
+     "21",
+     "8"
+    ],
+    "answer": 1,
+    "explanation": "7 is odd, so the output is 3 × 7 + 1 = 22.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Algorithm: a = 48, b = 18. Repeat while b ≠ 0: r = a mod b, a = b, b = r. Output a. What is the output?",
+    "options": [
+     "6",
+     "12",
+     "18",
+     "0"
+    ],
+    "answer": 0,
+    "explanation": "(48, 18) → (18, 12) → (12, 6) → (6, 0). The loop stops and a = 6, the HCF of 48 and 18.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A loop runs for i = 3, 7, 11, 15 (starting at 3, adding 4, stopping at 15). How many times does the loop body run?",
+    "options": [
+     "3",
+     "5",
+     "12",
+     "4"
+    ],
+    "answer": 3,
+    "explanation": "The values are 3, 7, 11 and 15, which is four values.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Start n = 10 and count = 0. While n > 0: subtract 3 from n and add 1 to count. What is count at the end?",
+    "options": [
+     "3",
+     "10",
+     "4",
+     "2"
+    ],
+    "answer": 2,
+    "explanation": "n goes 10 → 7 → 4 → 1 → −2. The loop ran four times, so count = 4.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "One pass of bubble sort (swapping neighbours if out of order, left to right) is applied to 5, 2, 9, 1. What is the list afterwards?",
+    "options": [
+     "1, 2, 5, 9",
+     "2, 5, 1, 9",
+     "2, 5, 9, 1",
+     "5, 2, 1, 9"
+    ],
+    "answer": 1,
+    "explanation": "Compare 5 and 2: swap → 2, 5, 9, 1. Compare 5 and 9: no swap. Compare 9 and 1: swap → 2, 5, 1, 9. One pass puts the largest at the end but does not fully sort.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A linear search looks for 9 in the list 7, 3, 9, 4, 1, checking from the left. How many values are compared?",
+    "options": [
+     "3",
+     "2",
+     "5",
+     "4"
+    ],
+    "answer": 0,
+    "explanation": "Compare 7, then 3, then 9. The search stops on the third comparison when it finds 9.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Start x = 2 and y = 1. Repeat 3 times: y = y × x, then x = x + 1. What is y at the end?",
+    "options": [
+     "8",
+     "6",
+     "120",
+     "24"
+    ],
+    "answer": 3,
+    "explanation": "Pass 1: y = 2, x = 3. Pass 2: y = 6, x = 4. Pass 3: y = 24, x = 5. The loop computes 4! = 24.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Start a = 0, b = 1. Repeat 6 times: c = a + b, a = b, b = c. What is b afterwards?",
+    "options": [
+     "8",
+     "21",
+     "13",
+     "6"
+    ],
+    "answer": 2,
+    "explanation": "b takes the values 1, 2, 3, 5, 8, 13 on the six passes. This is the Fibonacci sequence.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A binary search is used on a sorted list of 15 items. Each comparison halves the list. What is the maximum number of comparisons needed?",
+    "options": [
+     "15",
+     "4",
+     "8",
+     "3"
+    ],
+    "answer": 1,
+    "explanation": "15 items → 7 → 3 → 1 after halving each time, so 4 comparisons in the worst case (2⁴ − 1 = 15). A linear search could need up to 15.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An algorithm to find the largest number sets max = 0, then compares each input. It outputs 0 for the inputs −5, −2, −9. How should it be fixed?",
+    "options": [
+     "Set max to the first input value at the start",
+     "Set max to 1 at the start",
+     "Compare using < instead of >",
+     "Add 5 to every input"
+    ],
+    "answer": 0,
+    "explanation": "Starting at 0 is wrong when all numbers are negative because 0 is not in the data. Starting with the first value always works.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "To test whether 29 is prime, an algorithm tries divisors only up to √29 ≈ 5.4. Why is that enough?",
+    "options": [
+     "Because 29 is odd",
+     "Because primes are below 6",
+     "Because divisors above 5 are always even",
+     "Any factor pair has one factor not bigger than the square root"
+    ],
+    "answer": 3,
+    "explanation": "If n = a × b, at least one of a and b is at most √n. So if no divisor up to √n works, n has no other factors.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What is an algorithm?\nAn **algorithm** is a finite, ordered list of clear instructions that solves a problem or completes a task. Recipes, sorting a list and finding the shortest route are all algorithms. A good algorithm has a clear start and end, each step is unambiguous, and it works for every valid input.\n\n## Flowchart symbols\n- **Oval**: start or end.\n- **Rectangle**: a process, such as x = x + 1.\n- **Parallelogram**: input or output.\n- **Diamond**: a decision with two exits, Yes and No.\n- **Arrows**: show the direction of flow.\nA loop is formed when an arrow returns to an earlier step. Keep the decision question precise, such as \"Is n < 20?\".\n\n## Pseudocode\nPseudocode describes an algorithm in plain structured language: INPUT, OUTPUT, IF ... THEN ... ELSE, WHILE ... DO, FOR i FROM 1 TO 5. It is not a real programming language, but it should be clear enough for anyone to follow.\n\n## Trace tables\nTracing means working through an algorithm by hand, recording the values of the variables in a table after each step. This is the main way to predict outputs and find errors.\nExample: Start x = 2, y = 1. Repeat 3 times: y = y × x, then x = x + 1.\nPass 1: y = 2, x = 3. Pass 2: y = 6, x = 4. Pass 3: y = 24, x = 5. Final y = 24.\nAnother: n = 1, while n < 20 double n. The values are 1, 2, 4, 8, 16, 32, and the loop stops when n = 32, because 32 < 20 is false.\n\n## Classic algorithms\n- **Euclid's algorithm** for HCF: repeat a mod b until the remainder is 0. For 48 and 18 the pairs are (48, 18), (18, 12), (12, 6), (6, 0), so the HCF is 6.\n- **Linear search**: check items one by one. Worst case, every item.\n- **Binary search**: for a sorted list, repeatedly halve the search area. For 15 items it needs at most 4 checks.\n- **Bubble sort**: repeatedly compare neighbours and swap if they are in the wrong order. One pass moves the largest value to the end: 5, 2, 9, 1 becomes 2, 5, 1, 9.\n- **Primality test**: only test divisors up to √n.\n\n## Testing and improving an algorithm\nTest with typical data, extreme values and unusual cases. For example, a \"find the largest\" algorithm that starts with max = 0 fails if all the inputs are negative. Starting max at the first input fixes it. Efficiency also matters: binary search is much faster than linear search for large sorted lists.\n\n## Common mistakes\n- Updating variables in the wrong order inside a loop.\n- Running a loop one time too many or too few.\n- Reading the decision exits the wrong way round.\n- Forgetting the initial values of variables.\n\n## How this is examined\nTasks present a flowchart or pseudocode for a real situation, such as a ticket price calculator, a thermostat rule or a sorting routine. You trace it with sample inputs, state the purpose, find and correct an error, and sometimes design your own algorithm to meet a specification.\n\nExam tip: Always make a trace table with a column for every variable and one row for each pass of the loop. Test the loop condition at the start of every pass, and stop exactly when it becomes false.",
+  "flashcards": [
+   {
+    "front": "Flowchart shapes",
+    "back": "Oval: start/end. Rectangle: process. Parallelogram: input/output. Diamond: decision."
+   },
+   {
+    "front": "Algorithm",
+    "back": "A finite, ordered list of clear instructions that solves a problem."
+   },
+   {
+    "front": "Trace table",
+    "back": "A table recording each variable's value after every step, used to predict output or find errors."
+   },
+   {
+    "front": "WHILE loop",
+    "back": "Checks the condition before every pass and repeats while it is true."
+   },
+   {
+    "front": "FOR loop",
+    "back": "Repeats a set number of times, with a counter moving from a start value to an end value."
+   },
+   {
+    "front": "Euclid's algorithm",
+    "back": "Repeat: replace (a, b) with (b, a mod b) until b = 0. The answer is a, the HCF."
+   },
+   {
+    "front": "Linear vs binary search",
+    "back": "Linear: check each item in turn. Binary: halve a sorted list each time. Binary is much faster."
+   },
+   {
+    "front": "Bubble sort",
+    "back": "Compare neighbours and swap if out of order; repeat passes until no swaps are needed."
+   },
+   {
+    "front": "Testing an algorithm",
+    "back": "Use normal, extreme and unusual inputs, for example negatives or zero, to find hidden errors."
+   }
+  ]
+ },
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Networks, Algorithms and Optimisation",
+  "subTopic": "Linear Programming",
+  "questions": [
+   {
+    "content": "Why do linear programming problems include x ≥ 0 and y ≥ 0?",
+    "options": [
+     "The quantities cannot be negative",
+     "The lines must pass through the origin",
+     "The objective must be maximised",
+     "The region must be triangular"
+    ],
+    "answer": 0,
+    "explanation": "x and y usually count real items, such as tables or loaves, so they cannot be below zero.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What are the intercepts of the line x + y = 10?",
+    "options": [
+     "(5, 5) and (10, 10)",
+     "(0, 0) and (10, 10)",
+     "(1, 0) and (0, 1)",
+     "(10, 0) and (0, 10)"
+    ],
+    "answer": 3,
+    "explanation": "Set y = 0 to get x = 10 and set x = 0 to get y = 10.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the feasible region?",
+    "options": [
+     "The line with the highest profit",
+     "The set of points that satisfy at least one constraint",
+     "The set of points that satisfy all the constraints",
+     "The point with the largest x"
+    ],
+    "answer": 2,
+    "explanation": "The feasible region is where all the inequalities hold at once. Only points inside it are allowed.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The profit is P = 3x + 2y. Find P at the point (4, 5).",
+    "options": [
+     "14",
+     "22",
+     "20",
+     "9"
+    ],
+    "answer": 1,
+    "explanation": "P = 3 × 4 + 2 × 5 = 12 + 10 = 22.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Where does the maximum or minimum of the objective function occur in a feasible region?",
+    "options": [
+     "At a vertex (corner point)",
+     "At the centre of the region",
+     "At the origin",
+     "Anywhere inside"
+    ],
+    "answer": 0,
+    "explanation": "The objective function is linear, so its largest and smallest values are found at corner points of the region.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A bakery makes x loaves and y cakes in one day. The oven can bake at most 40 items in total. Which inequality shows this?",
+    "options": [
+     "x + y ≥ 40",
+     "xy ≤ 40",
+     "x − y ≤ 40",
+     "x + y ≤ 40"
+    ],
+    "answer": 3,
+    "explanation": "The total x + y must not exceed 40, so it is less than or equal to 40.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "'There must be at least twice as many loaves (x) as cakes (y).' Which inequality represents this?",
+    "options": [
+     "y ≥ 2x",
+     "x ≤ 2y",
+     "x ≥ 2y",
+     "x + y ≥ 2"
+    ],
+    "answer": 2,
+    "explanation": "Loaves are at least 2 times the number of cakes, so x ≥ 2y. Mixing the variables gives the opposite condition.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The feasible region for x + y ≤ 8, x ≤ 5, x ≥ 0, y ≥ 0 has vertices (0, 0), (5, 0), (5, 3) and (0, 8). Maximise P = 2x + y.",
+    "options": [
+     "10",
+     "13",
+     "8",
+     "15"
+    ],
+    "answer": 1,
+    "explanation": "Test each vertex: (0, 0) gives 0, (5, 0) gives 10, (5, 3) gives 13, (0, 8) gives 8. The maximum is 13.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Find the point where x + y = 10 and 2x + y = 16 intersect.",
+    "options": [
+     "(6, 4)",
+     "(4, 6)",
+     "(8, 2)",
+     "(3, 7)"
+    ],
+    "answer": 0,
+    "explanation": "Subtract the first from the second: x = 6. Then y = 10 − 6 = 4. Check: 2 × 6 + 4 = 16.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which point satisfies 2x + 3y ≤ 12?",
+    "options": [
+     "(4, 3)",
+     "(5, 2)",
+     "(2, 4)",
+     "(3, 2)"
+    ],
+    "answer": 3,
+    "explanation": "(3, 2): 6 + 6 = 12 ≤ 12, true (on the boundary). (4, 3) gives 17, (5, 2) gives 16, (2, 4) gives 16, all too big.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A region is defined by x + y ≥ 10, x ≥ 2, y ≥ 1, with corner points (9, 1) and (2, 8). The cost is C = 4x + 6y. Which gives the minimum cost over the corners?",
+    "options": [
+     "(2, 8) with cost 56",
+     "(9, 1) with cost 54",
+     "(9, 1) with cost 42",
+     "(2, 8) with cost 42"
+    ],
+    "answer": 2,
+    "explanation": "At (9, 1) cost = 36 + 6 = 42. At (2, 8) cost = 8 + 48 = 56. The smaller value, 42, occurs at (9, 1).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The optimal corner is (4.6, 3.2) but the items must be whole numbers. What should you do?",
+    "options": [
+     "Round both numbers up",
+     "Test whole-number points inside the region near that corner",
+     "Use the nearest corner",
+     "Ignore the integer condition"
+    ],
+    "answer": 1,
+    "explanation": "Rounding up may leave the feasible region. Check nearby integer points that satisfy every constraint and compare their objective values.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An objective line P = 3x + 2y is drawn on a graph. What is its gradient?",
+    "options": [
+     "−3/2",
+     "3/2",
+     "−2/3",
+     "3"
+    ],
+    "answer": 0,
+    "explanation": "Rearrange: y = (P − 3x) ÷ 2 = −1.5x + P/2. The gradient is −3/2. Sliding this line outward finds the optimal vertex.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A factory makes x tables and y chairs. Constraints: 2x + y ≤ 20 (work hours), x + y ≤ 12 (wood), x ≥ 0, y ≥ 0. The corner points are (0, 0), (10, 0), (8, 4) and (0, 12). Profit is $50 per table and $30 per chair. What is the maximum profit?",
+    "options": [
+     "$500",
+     "$360",
+     "$400",
+     "$520"
+    ],
+    "answer": 3,
+    "explanation": "P = 50x + 30y. (10, 0) gives 500, (8, 4) gives 400 + 120 = 520, (0, 12) gives 360. The maximum is $520.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A factory makes x tables and y chairs. Constraints: 2x + y ≤ 20 (work hours), x + y ≤ 12 (wood), x ≥ 0, y ≥ 0. The corner points are (0, 0), (10, 0), (8, 4) and (0, 12). Profit is $50 per table and $30 per chair. How many tables should be made to achieve the maximum profit?",
+    "options": [
+     "10",
+     "4",
+     "8",
+     "12"
+    ],
+    "answer": 2,
+    "explanation": "The best corner is (8, 4), meaning 8 tables and 4 chairs.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A factory makes x tables and y chairs. Constraints: 2x + y ≤ 20 (work hours), x + y ≤ 12 (wood), x ≥ 0, y ≥ 0. The corner points are (0, 0), (10, 0), (8, 4) and (0, 12). Profit is $50 per table and $30 per chair. Now the profit per chair rises to $60 (table profit stays $50). What is the new optimal plan and profit?",
+    "options": [
+     "8 tables, 4 chairs, $640",
+     "0 tables, 12 chairs, $720",
+     "10 tables, 0 chairs, $500",
+     "4 tables, 8 chairs, $440"
+    ],
+    "answer": 1,
+    "explanation": "P = 50x + 60y. (10, 0) gives 500, (8, 4) gives 640, (0, 12) gives 720. The best is 12 chairs and no tables.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A diet needs 2x + y ≥ 10 and x + 2y ≥ 8 (x, y ≥ 0), with cost C = 3x + 2y. The corner points are (0, 10), (4, 2) and (8, 0). What is the minimum cost?",
+    "options": [
+     "16",
+     "20",
+     "24",
+     "14"
+    ],
+    "answer": 0,
+    "explanation": "C at (0, 10) = 20, at (4, 2) = 12 + 4 = 16, at (8, 0) = 24. The minimum is 16 at (4, 2).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Region: x + y ≤ 6, x ≤ 4, y ≤ 4, x ≥ 0, y ≥ 0, with corners (0, 0), (4, 0), (4, 2), (2, 4), (0, 4). To maximise P = x + y, which is true?",
+    "options": [
+     "The maximum is 8 at (4, 4)",
+     "The maximum is 6 only at (4, 2)",
+     "There is no maximum",
+     "The maximum is 6, reached at every point on the edge from (4, 2) to (2, 4)"
+    ],
+    "answer": 3,
+    "explanation": "P = x + y equals 6 at both (4, 2) and (2, 4), and the objective line is parallel to the boundary x + y = 6, so every point on that edge is optimal. (4, 4) is not feasible because 8 > 6.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## The idea\n**Linear programming** helps find the best outcome, such as the largest profit or smallest cost, when resources are limited. You describe the limits with linear inequalities called **constraints**, draw the region where all of them hold, and then find the best point in that region.\n\n## Steps\n1. **Define variables**: let x be the number of tables and y the number of chairs.\n2. **Write constraints** as inequalities. \"At most 40 items\" gives x + y ≤ 40. \"At least twice as many loaves as cakes\" gives x ≥ 2y. Include x ≥ 0 and y ≥ 0 because you cannot make a negative number of items.\n3. **Draw the lines** for each boundary. Find the intercepts: for x + y = 12 use (12, 0) and (0, 12). Use a solid line for ≤ or ≥.\n4. **Shade the unwanted side** and leave the **feasible region** unshaded, or shade the feasible side, but state which you did. Test the origin to check which side is valid.\n5. **Find the vertices** (corner points). Read from the graph or solve simultaneous equations. For 2x + y = 20 and x + y = 12, subtracting gives x = 8, then y = 4.\n6. **Write the objective function**, such as P = 50x + 30y.\n7. **Evaluate at each vertex** and pick the largest (maximise) or smallest (minimise).\n\n## Worked example\nA factory makes x tables and y chairs. Work: 2x + y ≤ 20. Wood: x + y ≤ 12. The vertices of the feasible region are (0, 0), (10, 0), (8, 4) and (0, 12). With profit P = 50x + 30y the values are 0, 500, 520 and 360. The maximum profit is $520 with 8 tables and 4 chairs. If the profit per chair rises to $60, the values become 0, 500, 640 and 720, so the best plan switches to 12 chairs and no tables. This shows how the optimum depends on the objective function.\n\n## Why vertices?\nThe objective function is a straight line P = ax + by. Sliding it across the region, the last point it touches is a corner (or a whole edge if it is parallel to a boundary). So you only need to test the corners. If the objective is parallel to an edge, every point on that edge is optimal.\n\n## Integer solutions\nIf items must be whole numbers and the best vertex has fractional coordinates, check the nearby integer points inside the region. Do not simply round, because the rounded point may break a constraint.\n\n## Common mistakes\n- Using the wrong inequality direction when translating words.\n- Forgetting non-negativity constraints.\n- Reading vertex coordinates by eye instead of solving the equations.\n- Testing only one vertex.\n- Not answering in the context, for example giving a value of P without saying how many tables to make.\n\n## How this is examined\nTasks set a production, diet or transport scenario with a table of resources. You write inequalities, graph them, find the feasible region, optimise, and then evaluate the solution: is it realistic, what if costs change, are whole numbers needed?\n\nExam tip: Write the constraints in a numbered list, label each line on your graph with the same number, and keep a small table of vertices and objective values. It makes your method clear and checkable.",
+  "flashcards": [
+   {
+    "front": "Constraint",
+    "back": "An inequality that limits the variables, such as x + y ≤ 40."
+   },
+   {
+    "front": "Feasible region",
+    "back": "The set of points that satisfy ALL the constraints at once."
+   },
+   {
+    "front": "Objective function",
+    "back": "The quantity to maximise or minimise, such as profit P = 50x + 30y."
+   },
+   {
+    "front": "Why check vertices only?",
+    "back": "The best value of a linear objective function occurs at a corner of the feasible region."
+   },
+   {
+    "front": "Non-negativity constraints",
+    "back": "x ≥ 0 and y ≥ 0 because you cannot make a negative quantity."
+   },
+   {
+    "front": "Finding a vertex",
+    "back": "Solve the two boundary equations simultaneously, such as 2x + y = 20 and x + y = 12 giving (8, 4)."
+   },
+   {
+    "front": "Translating words",
+    "back": "'At most' is ≤. 'At least' is ≥. 'No more than' is ≤."
+   },
+   {
+    "front": "Multiple optimal solutions",
+    "back": "If the objective line is parallel to an edge of the region, every point on that edge gives the same best value."
+   },
+   {
+    "front": "Integer constraint",
+    "back": "If items must be whole, check integer points near the best vertex that lie inside the region."
+   }
+  ]
+ }
+]

@@ -1,0 +1,1054 @@
+[
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Number Properties and Time",
+  "subTopic": "Factors, Primes, HCF and LCM",
+  "questions": [
+   {
+    "content": "Which of these numbers is prime?",
+    "options": [
+     "59",
+     "51",
+     "57",
+     "91"
+    ],
+    "answer": 0,
+    "explanation": "51 = 3 × 17, 57 = 3 × 19 and 91 = 7 × 13, so each has a factor other than 1 and itself. 59 has no factors apart from 1 and 59.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Write 60 as a product of prime factors.",
+    "options": [
+     "2 × 3 × 10",
+     "2² × 15",
+     "4 × 3 × 5",
+     "2² × 3 × 5"
+    ],
+    "answer": 3,
+    "explanation": "Divide by primes: 60 = 2 × 30 = 2 × 2 × 15 = 2 × 2 × 3 × 5. The other options contain 10, 15 or 4, which are not prime.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the highest common factor (HCF) of 12 and 18?",
+    "options": [
+     "3",
+     "36",
+     "6",
+     "2"
+    ],
+    "answer": 2,
+    "explanation": "Factors of 12: 1, 2, 3, 4, 6, 12. Factors of 18: 1, 2, 3, 6, 9, 18. The largest shared factor is 6. 36 is the LCM.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the lowest common multiple (LCM) of 4 and 6?",
+    "options": [
+     "24",
+     "12",
+     "2",
+     "10"
+    ],
+    "answer": 1,
+    "explanation": "Multiples of 4: 4, 8, 12 ... Multiples of 6: 6, 12 ... The first shared multiple is 12. 24 is a common multiple but not the lowest.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "How many factors does 36 have?",
+    "options": [
+     "9",
+     "8",
+     "6",
+     "12"
+    ],
+    "answer": 0,
+    "explanation": "The factors are 1, 2, 3, 4, 6, 9, 12, 18, 36. Nine in total. Because 36 = 6², the factor 6 pairs with itself and is counted once.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "84 = 2² × 3 × 7 and 126 = 2 × 3² × 7. Use these to find the HCF of 84 and 126.",
+    "options": [
+     "252",
+     "21",
+     "84",
+     "42"
+    ],
+    "answer": 3,
+    "explanation": "For the HCF take the lowest power of each shared prime: 2 × 3 × 7 = 42. The LCM would use the highest powers (2² × 3² × 7 = 252).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Two buses leave a station together at 08:00. One returns every 12 minutes and the other every 18 minutes. When will they next leave together?",
+    "options": [
+     "08:06",
+     "08:30",
+     "08:36",
+     "09:00"
+    ],
+    "answer": 2,
+    "explanation": "We need the LCM of 12 and 18, which is 36. So they leave together again 36 minutes after 08:00, at 08:36.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A floor measures 240 cm by 180 cm. It is covered with identical square tiles with no cutting. What is the least number of tiles needed?",
+    "options": [
+     "20",
+     "12",
+     "60",
+     "24"
+    ],
+    "answer": 1,
+    "explanation": "The largest square tile has side HCF(240, 180) = 60 cm. Tiles needed: (240 ÷ 60) × (180 ÷ 60) = 4 × 3 = 12.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Three lights flash every 6 s, 8 s and 10 s. They all flash together at the start. After how many seconds do they next flash together?",
+    "options": [
+     "120",
+     "24",
+     "60",
+     "240"
+    ],
+    "answer": 0,
+    "explanation": "Find LCM(6, 8, 10). 6 = 2 × 3, 8 = 2³, 10 = 2 × 5, so LCM = 2³ × 3 × 5 = 120 seconds.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "72 = 2³ × 3². What is the smallest whole number that 72 must be multiplied by to give a perfect square?",
+    "options": [
+     "3",
+     "6",
+     "4",
+     "2"
+    ],
+    "answer": 3,
+    "explanation": "A square has every prime to an even power. 3² is already even but 2³ is odd. One more factor of 2 gives 2⁴ × 3² = 144 = 12².",
+    "difficulty": "medium"
+   },
+   {
+    "content": "For 8 and 20 the HCF is 4 and the LCM is 40. What is HCF × LCM, and how does it compare with 8 × 20?",
+    "options": [
+     "160, bigger than 8 × 20",
+     "32, equal to 8 + 20 + 4",
+     "160, equal to 8 × 20",
+     "80, half of 8 × 20"
+    ],
+    "answer": 2,
+    "explanation": "For any two numbers, HCF × LCM = the product of the numbers. Here 4 × 40 = 160 = 8 × 20.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "N = 2³ × 3² × 5. How many factors does N have?",
+    "options": [
+     "6",
+     "24",
+     "14",
+     "12"
+    ],
+    "answer": 1,
+    "explanation": "Add 1 to each power and multiply: (3 + 1)(2 + 1)(1 + 1) = 4 × 3 × 2 = 24.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which pair of numbers is coprime (has an HCF of 1)?",
+    "options": [
+     "15 and 28",
+     "14 and 21",
+     "12 and 18",
+     "20 and 35"
+    ],
+    "answer": 0,
+    "explanation": "15 = 3 × 5 and 28 = 2² × 7 share no prime. 14 and 21 share 7, 12 and 18 share 6, 20 and 35 share 5.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Two numbers a and b have HCF 6 and LCM 180. Given a = 36, find b.",
+    "options": [
+     "5",
+     "60",
+     "90",
+     "30"
+    ],
+    "answer": 3,
+    "explanation": "HCF × LCM = a × b, so 6 × 180 = 1080 = 36 × b, giving b = 30. Check: HCF(36, 30) = 6 and LCM = 180.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A number leaves remainder 3 when divided by 8, by 12 and by 18. What is the smallest such number bigger than 3?",
+    "options": [
+     "72",
+     "147",
+     "75",
+     "24"
+    ],
+    "answer": 2,
+    "explanation": "The number minus 3 must be a multiple of 8, 12 and 18. LCM(8, 12, 18) = 72, so the number is 72 + 3 = 75.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "What is the largest number that divides 130 leaving remainder 4 and divides 175 leaving remainder 7?",
+    "options": [
+     "21",
+     "42",
+     "6",
+     "126"
+    ],
+    "answer": 1,
+    "explanation": "Remove the remainders: 130 − 4 = 126 and 175 − 7 = 168. The divisor is HCF(126, 168) = 42, which is larger than both remainders. Check: 130 = 3 × 42 + 4 and 175 = 4 × 42 + 7.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A jeweller has 168 red beads and 120 blue beads. She makes as many identical bracelets as possible using every bead. How many blue beads are on each bracelet?",
+    "options": [
+     "5",
+     "7",
+     "24",
+     "12"
+    ],
+    "answer": 0,
+    "explanation": "The number of bracelets is HCF(168, 120) = 24. Each has 168 ÷ 24 = 7 red and 120 ÷ 24 = 5 blue beads.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "What is the smallest positive integer that has exactly 6 factors?",
+    "options": [
+     "16",
+     "24",
+     "30",
+     "12"
+    ],
+    "answer": 3,
+    "explanation": "12 has factors 1, 2, 3, 4, 6, 12, which is six. Every smaller number has a different count. 16 has 5, while 24 and 30 each have 8.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Factors and multiples are the building blocks of number work. A **factor** of a number divides into it exactly, so the factors of 18 are 1, 2, 3, 6, 9 and 18. A **multiple** is what you get when you multiply by whole numbers, so multiples of 6 are 6, 12, 18, 24 and so on. A **prime number** has exactly two factors, 1 and itself (2, 3, 5, 7, 11, 13 ...). Remember that 1 is not prime and 2 is the only even prime.\n\n## Prime factorisation\nEvery whole number greater than 1 can be written as a product of primes in exactly one way. Use a factor tree or repeated division. For 252: 252 = 2 × 126 = 2 × 2 × 63 = 2 × 2 × 3 × 21 = 2² × 3² × 7. Write answers with index (power) notation.\n\n## HCF and LCM from prime factors\n- **HCF** (highest common factor): the largest number that divides both. Take the lowest power of each prime that appears in BOTH numbers.\n- **LCM** (lowest common multiple): the smallest number both divide into. Take the highest power of each prime that appears in EITHER number.\n\nWorked example: 84 = 2² × 3 × 7 and 126 = 2 × 3² × 7.\nHCF = 2 × 3 × 7 = 42. LCM = 2² × 3² × 7 = 252.\nCheck: HCF × LCM = 42 × 252 = 10 584 = 84 × 126. This useful rule, HCF × LCM = a × b, works for two numbers only.\n\n## Counting factors\nWrite the number as primes, add 1 to each power, then multiply. For 2³ × 3² × 5 the number of factors is 4 × 3 × 2 = 24. A number is a perfect square exactly when every prime power is even.\n\n## Which one do I use?\n- Splitting into equal groups, cutting the biggest equal pieces, or fitting square tiles: think HCF.\n- Events that repeat and meet again (buses, flashing lights, planets lining up): think LCM.\nExample: buses every 12 and 18 minutes leave together every LCM = 36 minutes. A 240 cm by 180 cm floor needs square tiles of side HCF = 60 cm, so 4 × 3 = 12 tiles.\n\n## Remainder problems\nIf a number leaves remainder r when divided by several numbers, subtract r first, find the LCM, then add r back. If a divisor leaves different remainders, subtract each remainder from its own number and find the HCF of the results.\n\n## Common mistakes\n- Calling 1 a prime, or listing 9 or 15 as primes.\n- Mixing up HCF and LCM, or giving the LCM as something smaller than one of the numbers. The LCM is never smaller than the larger number and the HCF is never larger than the smaller number.\n- Stopping a factor tree before every branch is prime.\n- Using the lowest powers for the LCM instead of the highest.\n\n## How this is examined\nReal eAssessment tasks wrap this topic in a context such as a timetable, a tiling job, packing items into boxes or planning a repeating event. You pull the numbers out of the situation, decide whether HCF or LCM is needed, and calculate. Later parts may ask you to show that a number is prime or justify why a pattern repeats. Always show the prime factorisation, state which method you used and finish with a sentence that answers the context.\n\nExam tip: Write both numbers as products of primes in a neat table first, then choose lowest powers (HCF) or highest powers (LCM); finish by checking that your answer divides, or is divisible by, both numbers.",
+  "flashcards": [
+   {
+    "front": "Prime number",
+    "back": "A whole number greater than 1 with exactly two factors: 1 and itself. 2 is the only even prime; 1 is not prime."
+   },
+   {
+    "front": "Prime factorisation of 60",
+    "back": "60 = 2² × 3 × 5. Use a factor tree and write repeated primes with powers."
+   },
+   {
+    "front": "HCF from prime factors",
+    "back": "Multiply the lowest power of each prime common to both numbers."
+   },
+   {
+    "front": "LCM from prime factors",
+    "back": "Multiply the highest power of each prime appearing in either number."
+   },
+   {
+    "front": "HCF × LCM rule",
+    "back": "For two numbers a and b: HCF × LCM = a × b. It does not work for three numbers."
+   },
+   {
+    "front": "Number of factors rule",
+    "back": "Write as primes, add 1 to each power, multiply. 2³ × 3² has 4 × 3 = 12 factors."
+   },
+   {
+    "front": "When is a number a perfect square?",
+    "back": "When every prime in its factorisation has an even power. Example: 144 = 2⁴ × 3²."
+   },
+   {
+    "front": "Coprime numbers",
+    "back": "Two numbers whose HCF is 1, such as 15 and 28. They need not be prime themselves."
+   },
+   {
+    "front": "Which situations need LCM?",
+    "back": "Repeating events meeting again (buses, lights, gears). HCF is for splitting into equal groups or the largest equal pieces."
+   }
+  ]
+ },
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Number Properties and Time",
+  "subTopic": "Surds, Exponents and Recurring Decimals",
+  "questions": [
+   {
+    "content": "Simplify √50.",
+    "options": [
+     "5√2",
+     "25√2",
+     "2√5",
+     "10√5"
+    ],
+    "answer": 0,
+    "explanation": "50 = 25 × 2, so √50 = √25 × √2 = 5√2.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Simplify 2³ × 2⁴.",
+    "options": [
+     "2¹²",
+     "4⁷",
+     "2¹",
+     "2⁷"
+    ],
+    "answer": 3,
+    "explanation": "When multiplying powers of the same base, add the indices: 3 + 4 = 7. The base stays 2.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the value of 5⁰?",
+    "options": [
+     "0",
+     "5",
+     "1",
+     "undefined"
+    ],
+    "answer": 2,
+    "explanation": "Any non-zero number to the power 0 equals 1, because a⁰ = aⁿ ÷ aⁿ = 1.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is 3⁻² as a fraction?",
+    "options": [
+     "−9",
+     "1/9",
+     "−1/9",
+     "1/6"
+    ],
+    "answer": 1,
+    "explanation": "A negative index means reciprocal: 3⁻² = 1/3² = 1/9. It does not make the answer negative.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these numbers is rational?",
+    "options": [
+     "0.333... (3 recurring)",
+     "√2",
+     "π",
+     "√3"
+    ],
+    "answer": 0,
+    "explanation": "0.333... equals 1/3, a fraction of integers. √2, √3 and π are irrational: their decimals never end or repeat.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Simplify √12 × √3.",
+    "options": [
+     "√15",
+     "3√2",
+     "36",
+     "6"
+    ],
+    "answer": 3,
+    "explanation": "√12 × √3 = √36 = 6.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Evaluate (2³)⁴ ÷ 2⁵.",
+    "options": [
+     "2",
+     "16",
+     "128",
+     "4096"
+    ],
+    "answer": 2,
+    "explanation": "(2³)⁴ = 2¹². Dividing by 2⁵ subtracts the indices: 2⁷ = 128.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Write 0.454545... (45 recurring) as a fraction in its simplest form.",
+    "options": [
+     "45/100",
+     "5/11",
+     "9/20",
+     "4/9"
+    ],
+    "answer": 1,
+    "explanation": "Let x = 0.4545... Then 100x = 45.4545..., so 99x = 45 and x = 45/99 = 5/11.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Rationalise the denominator of 6/√3.",
+    "options": [
+     "2√3",
+     "6√3",
+     "√3",
+     "2/√3"
+    ],
+    "answer": 0,
+    "explanation": "Multiply top and bottom by √3: 6√3/3 = 2√3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "x = 0.1666... (6 recurring). Which fraction is equal to x?",
+    "options": [
+     "16/100",
+     "1/7",
+     "2/15",
+     "1/6"
+    ],
+    "answer": 3,
+    "explanation": "10x = 1.666... and 100x = 16.666... Subtract: 90x = 15, so x = 15/90 = 1/6.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Expand and simplify (3 + √2)(3 − √2).",
+    "options": [
+     "11",
+     "9 − √2",
+     "7",
+     "7 − 6√2"
+    ],
+    "answer": 2,
+    "explanation": "Difference of two squares: 3² − (√2)² = 9 − 2 = 7. The middle terms cancel.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Calculate (4 × 10⁵) × (3 × 10⁻²) and give the answer in standard form.",
+    "options": [
+     "12 × 10³",
+     "1.2 × 10⁴",
+     "1.2 × 10⁷",
+     "7 × 10³"
+    ],
+    "answer": 1,
+    "explanation": "4 × 3 = 12 and 10⁵ × 10⁻² = 10³, so 12 × 10³. This is not standard form, so rewrite as 1.2 × 10⁴.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve 2ˣ = 1/8.",
+    "options": [
+     "x = −3",
+     "x = 3",
+     "x = −4",
+     "x = 1/4"
+    ],
+    "answer": 0,
+    "explanation": "1/8 = 1/2³ = 2⁻³, so x = −3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Simplify √75 + √27.",
+    "options": [
+     "√102",
+     "15√3",
+     "5√3 + 9",
+     "8√3"
+    ],
+    "answer": 3,
+    "explanation": "√75 = 5√3 and √27 = 3√3. Add the like surds: 5√3 + 3√3 = 8√3. You cannot add numbers inside roots.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Expand and simplify (2 + √3)².",
+    "options": [
+     "7",
+     "4 + 3 = 7 + 3√3",
+     "7 + 4√3",
+     "4 + √3"
+    ],
+    "answer": 2,
+    "explanation": "(2 + √3)(2 + √3) = 4 + 2√3 + 2√3 + 3 = 7 + 4√3. The middle term does not vanish for a perfect square.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Write 4/(3 − √5) in the form a + √b.",
+    "options": [
+     "12 + 4√5",
+     "3 + √5",
+     "3 − √5",
+     "(3 + √5)/4"
+    ],
+    "answer": 1,
+    "explanation": "Multiply by (3 + √5)/(3 + √5). Denominator: 9 − 5 = 4. Numerator: 4(3 + √5). So the result is 3 + √5.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Solve 9ˣ = 27.",
+    "options": [
+     "x = 1.5",
+     "x = 3",
+     "x = 3/9",
+     "x = 2"
+    ],
+    "answer": 0,
+    "explanation": "Write both with base 3: 9ˣ = 3²ˣ and 27 = 3³. So 2x = 3 and x = 1.5.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "x = 0.27777... (only the 7 repeats). Which fraction equals x?",
+    "options": [
+     "27/99",
+     "7/25",
+     "1/4",
+     "5/18"
+    ],
+    "answer": 3,
+    "explanation": "10x = 2.7777... and 100x = 27.7777... Subtract: 90x = 25, so x = 25/90 = 5/18. Check: 5 ÷ 18 = 0.2777...",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Surds\nA **surd** is a root that cannot be written as an exact fraction, such as √2, √3 or √7. Surds are irrational: their decimals never end and never repeat. √9 = 3 is NOT a surd. Surds keep answers exact, which is why exam questions say \"leave your answer in surd form\".\n\nKey rules, for positive a and b:\n- √a × √b = √(ab)\n- √a ÷ √b = √(a/b)\n- √(a²) = a\n\nTo simplify, pull out the largest square factor: √50 = √(25 × 2) = 5√2 and √72 = √(36 × 2) = 6√2. You can only add or subtract \"like\" surds: 5√3 + 3√3 = 8√3, but √2 + √3 cannot be combined.\n\nExpanding brackets works as normal: (2 + √3)² = 4 + 4√3 + 3 = 7 + 4√3. The difference of two squares gives a rational answer: (3 + √2)(3 − √2) = 9 − 2 = 7.\n\n**Rationalising the denominator** means removing a surd from the bottom of a fraction. For 6/√3 multiply top and bottom by √3 to get 6√3/3 = 2√3. For 4/(3 − √5) multiply by (3 + √5) to use the difference of two squares: denominator 9 − 5 = 4, so the result is 3 + √5.\n\n## Exponent (index) laws\n- aᵐ × aⁿ = aᵐ⁺ⁿ\n- aᵐ ÷ aⁿ = aᵐ⁻ⁿ\n- (aᵐ)ⁿ = aᵐⁿ\n- a⁰ = 1\n- a⁻ⁿ = 1/aⁿ\n- a^(1/2) = √a\n\nWorked example: solve 9ˣ = 27. Write both with base 3: 3²ˣ = 3³, so 2x = 3 and x = 1.5. Standard form is a × 10ⁿ with 1 ≤ a < 10, so 12 × 10³ must be rewritten as 1.2 × 10⁴.\n\n## Recurring decimals\nEvery recurring decimal is a fraction. Method:\n1. Let x equal the decimal.\n2. Multiply by 10, 100 and so on until the repeating parts line up.\n3. Subtract to cancel the repeat.\n4. Solve and simplify.\n\nExample: x = 0.4545... gives 100x = 45.4545..., so 99x = 45 and x = 45/99 = 5/11. If only some digits repeat, such as 0.2777..., use 10x and 100x: 100x − 10x = 25, so 90x = 25 and x = 5/18.\n\n## Common mistakes\n- Writing √(a + b) = √a + √b. It is false.\n- Thinking a negative index gives a negative number.\n- Treating 2⁻³ as −8.\n- Forgetting to simplify the fraction at the end.\n- Leaving a surd in the denominator when asked to rationalise.\n\n## How this is examined\nIn eAssessment style tasks, surds and indices appear in measurement contexts such as the diagonal of a screen, the side of a square plot given its area, or population growth by powers of 2. You may be asked to show that a length equals 3√2, to give an exact value, and then to compare it with a rounded decimal to comment on accuracy.\n\nExam tip: When a question says \"exact\" or \"leave in surd form\", never use a calculator decimal as your final answer. Simplify the surd, rationalise the denominator, and only then give a rounded value if asked.",
+  "flashcards": [
+   {
+    "front": "Simplify √72",
+    "back": "√72 = √(36 × 2) = 6√2. Pull out the largest square factor."
+   },
+   {
+    "front": "Rule for multiplying surds",
+    "back": "√a × √b = √(ab). For example √12 × √3 = √36 = 6."
+   },
+   {
+    "front": "Rationalise 1/√2",
+    "back": "Multiply top and bottom by √2: 1/√2 = √2/2."
+   },
+   {
+    "front": "Rationalise 1/(a + √b)",
+    "back": "Multiply top and bottom by (a − √b). The denominator becomes a² − b, which is rational."
+   },
+   {
+    "front": "The three main index laws",
+    "back": "aᵐ × aⁿ = aᵐ⁺ⁿ, aᵐ ÷ aⁿ = aᵐ⁻ⁿ, (aᵐ)ⁿ = aᵐⁿ."
+   },
+   {
+    "front": "a⁰ and a⁻ⁿ",
+    "back": "a⁰ = 1 (a ≠ 0) and a⁻ⁿ = 1/aⁿ. A negative index means reciprocal, not a negative number."
+   },
+   {
+    "front": "Standard form",
+    "back": "a × 10ⁿ where 1 ≤ a < 10 and n is an integer. Example: 0.00045 = 4.5 × 10⁻⁴."
+   },
+   {
+    "front": "Convert 0.333... to a fraction",
+    "back": "x = 0.333..., 10x = 3.333..., subtract: 9x = 3, so x = 1/3."
+   },
+   {
+    "front": "Rational vs irrational",
+    "back": "Rational: can be written as a fraction of integers (terminating or recurring decimals). Irrational: cannot (√2, π)."
+   }
+  ]
+ },
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Number Properties and Time",
+  "subTopic": "Inequalities on Number Lines",
+  "questions": [
+   {
+    "content": "Solve x + 3 > 7.",
+    "options": [
+     "x > 4",
+     "x > 10",
+     "x < 4",
+     "x ≥ 4"
+    ],
+    "answer": 0,
+    "explanation": "Subtract 3 from both sides: x > 4. The sign stays the same because we did not multiply or divide by a negative.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A number line has an open circle at 2 and an arrow pointing to the right. Which inequality does it show?",
+    "options": [
+     "x ≥ 2",
+     "x < 2",
+     "x ≤ 2",
+     "x > 2"
+    ],
+    "answer": 3,
+    "explanation": "An open circle means 2 is not included, and an arrow to the right means larger values. So x > 2.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "How many integers satisfy −2 ≤ x < 2?",
+    "options": [
+     "3",
+     "5",
+     "4",
+     "2"
+    ],
+    "answer": 2,
+    "explanation": "The integers are −2, −1, 0 and 1. The value 2 is not included because of the strict inequality, but −2 is included.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Solve 2x ≤ 10.",
+    "options": [
+     "x ≤ 12",
+     "x ≤ 5",
+     "x ≥ 5",
+     "x ≤ 20"
+    ],
+    "answer": 1,
+    "explanation": "Divide both sides by 2, a positive number, so the sign does not change: x ≤ 5.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "On a number line, what does a closed (filled) circle at a number mean?",
+    "options": [
+     "The number is included in the solution",
+     "The number is excluded",
+     "The solution is negative",
+     "The line stops there for good"
+    ],
+    "answer": 0,
+    "explanation": "A closed circle goes with ≤ or ≥ and shows the boundary value is part of the solution. An open circle excludes it.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Solve −3x < 12.",
+    "options": [
+     "x < −4",
+     "x > 4",
+     "x < 4",
+     "x > −4"
+    ],
+    "answer": 3,
+    "explanation": "Dividing by −3 reverses the inequality: x > −4.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve 3x − 5 ≥ 10.",
+    "options": [
+     "x ≥ 5/3",
+     "x ≤ 5",
+     "x ≥ 5",
+     "x ≥ 15"
+    ],
+    "answer": 2,
+    "explanation": "Add 5: 3x ≥ 15. Divide by 3: x ≥ 5.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve 2(x + 3) < 4x − 2.",
+    "options": [
+     "x < 4",
+     "x > 4",
+     "x > 2",
+     "x > −4"
+    ],
+    "answer": 1,
+    "explanation": "2x + 6 < 4x − 2, so 8 < 2x, which gives x > 4. Collect x terms on the side that stays positive.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How many integers satisfy −3 < 2x + 1 ≤ 7?",
+    "options": [
+     "5",
+     "4",
+     "6",
+     "3"
+    ],
+    "answer": 0,
+    "explanation": "Subtract 1: −4 < 2x ≤ 6. Divide by 2: −2 < x ≤ 3. The integers are −1, 0, 1, 2, 3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A lift can carry at most 600 kg. Sam weighs 80 kg and carries identical boxes of 25 kg. What is the greatest number of boxes he can take in one trip?",
+    "options": [
+     "21",
+     "24",
+     "25",
+     "20"
+    ],
+    "answer": 3,
+    "explanation": "80 + 25n ≤ 600 gives 25n ≤ 520, so n ≤ 20.8. n must be a whole number, so the greatest is 20.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Combine the conditions x > 1 and x ≤ 6. Which inequality describes values satisfying BOTH?",
+    "options": [
+     "x ≤ 1 or x > 6",
+     "x > 6",
+     "1 < x ≤ 6",
+     "1 ≤ x < 6"
+    ],
+    "answer": 2,
+    "explanation": "Both must be true, so x lies between 1 and 6, excluding 1 and including 6.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve x/4 − 1 > 2.",
+    "options": [
+     "x > 4",
+     "x > 12",
+     "x > 3/4",
+     "x > 7"
+    ],
+    "answer": 1,
+    "explanation": "Add 1: x/4 > 3. Multiply by 4: x > 12.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A phone plan costs $15 plus $0.05 per minute. Aisha wants to pay less than $25 in a month. Which inequality gives the minutes m she can use?",
+    "options": [
+     "m < 200",
+     "m ≤ 200",
+     "m > 200",
+     "m < 500"
+    ],
+    "answer": 0,
+    "explanation": "15 + 0.05m < 25 gives 0.05m < 10, so m < 200. Exactly 200 minutes would cost $25, which is not less than $25.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve −5 ≤ 3 − 2x < 9.",
+    "options": [
+     "−4 ≤ x < 3",
+     "3 ≤ x < −4",
+     "−3 ≤ x < 4",
+     "−3 < x ≤ 4"
+    ],
+    "answer": 3,
+    "explanation": "Subtract 3: −8 ≤ −2x < 6. Divide by −2 and reverse both signs: 4 ≥ x > −3, which reads −3 < x ≤ 4.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "What is the largest integer n that satisfies 7n − 3 < 2n + 40?",
+    "options": [
+     "9",
+     "43/5",
+     "8",
+     "7"
+    ],
+    "answer": 2,
+    "explanation": "5n < 43 gives n < 8.6. The largest integer below 8.6 is 8. Rounding to 9 would break the strict inequality.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "What is the smallest integer x that satisfies 5 − x ≤ 2x + 1?",
+    "options": [
+     "1",
+     "2",
+     "4/3",
+     "0"
+    ],
+    "answer": 1,
+    "explanation": "4 ≤ 3x, so x ≥ 4/3 ≈ 1.33. The smallest integer that is at least 1.33 is 2.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A rectangular garden has sides x metres and (x + 4) metres. The fence around it must be less than 40 m. What is the greatest whole-number value of x?",
+    "options": [
+     "7",
+     "8",
+     "9",
+     "10"
+    ],
+    "answer": 0,
+    "explanation": "Perimeter = 2x + 2(x + 4) = 4x + 8. 4x + 8 < 40 gives x < 8. The greatest whole number below 8 is 7.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student solves −2x > 8 and writes x > −4. What is the error and the correct answer?",
+    "options": [
+     "Divided wrongly; x > −16",
+     "No error; x > −4",
+     "Sign should be ≥; x ≥ −4",
+     "Sign not reversed; x < −4"
+    ],
+    "answer": 3,
+    "explanation": "Dividing by a negative number reverses the inequality sign. −2x > 8 gives x < −4.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What an inequality says\nAn **inequality** compares quantities using <, >, ≤ or ≥. Where an equation usually has one solution, an inequality has a whole range of solutions. Read the symbols carefully: < means \"less than\", ≤ means \"less than or equal to\".\n\n## Showing solutions on a number line\n- Open circle for < or > (the end value is NOT included).\n- Closed (filled) circle for ≤ or ≥ (the end value IS included).\n- Draw an arrow in the direction of the solutions.\nFor −2 ≤ x < 2 you draw a closed circle at −2, an open circle at 2 and a line between them. The integers in that range are −2, −1, 0 and 1.\n\n## Solving linear inequalities\nSolve almost exactly as an equation: do the same to both sides. The one special rule is that **multiplying or dividing both sides by a negative number reverses the inequality sign**.\nExample: −3x < 12. Divide by −3: x > −4.\nExample: 2(x + 3) < 4x − 2 gives 2x + 6 < 4x − 2, so 8 < 2x, so x > 4.\nA trick that avoids the reversing rule is to move the x terms to the side where the coefficient stays positive.\n\n## Double inequalities\nDo the same operation to all three parts. For −3 < 2x + 1 ≤ 7, subtract 1 to get −4 < 2x ≤ 6, then divide by 2 to get −2 < x ≤ 3. If you divide by a negative, reverse both signs and rewrite so the smaller number comes first: −5 ≤ 3 − 2x < 9 becomes −8 ≤ −2x < 6, then 4 ≥ x > −3, which is −3 < x ≤ 4.\n\n## Combining conditions\n- \"and\" means both conditions are true: x > 1 and x ≤ 6 gives 1 < x ≤ 6.\n- \"or\" means at least one is true: x < −1 or x ≥ 3 gives two separate pieces on the line.\n\n## Inequalities in context\nTranslate carefully. \"At most\" means ≤, \"at least\" means ≥, \"fewer than\" means <, \"more than\" means >. Example: a lift carries at most 600 kg and a person of 80 kg adds boxes of 25 kg each, so 80 + 25n ≤ 600 and n ≤ 20.8. Because boxes are whole items, the answer is 20, not 21. Always check whether the variable must be an integer.\n\n## Common mistakes\n- Forgetting to reverse the sign when dividing by a negative.\n- Using a closed circle for a strict inequality.\n- Giving 20.8 boxes as the answer.\n- Writing a double inequality in the wrong order, such as 3 ≤ x < −4.\n\n## How this is examined\nProblems appear as budgets, load limits, speed limits, ticket prices or plans with fixed and variable costs. You build the inequality from the text, solve it, then interpret what the answer means for the situation. Later parts often ask you to justify a decision, for example whether a plan stays within a limit.\n\nExam tip: After solving, test one value from your solution set in the original inequality. It takes ten seconds and catches reversed-sign errors.",
+  "flashcards": [
+   {
+    "front": "Open vs closed circle",
+    "back": "Open circle: end value not included (< or >). Closed circle: included (≤ or ≥)."
+   },
+   {
+    "front": "Key rule when solving",
+    "back": "Multiplying or dividing both sides by a NEGATIVE number reverses the inequality sign."
+   },
+   {
+    "front": "Solve −2x > 8",
+    "back": "Divide by −2 and reverse the sign: x < −4."
+   },
+   {
+    "front": "Meaning of 'at most'",
+    "back": "At most n means ≤ n. 'At least n' means ≥ n."
+   },
+   {
+    "front": "Meaning of 'fewer than' / 'more than'",
+    "back": "'Fewer than n' means < n. 'More than n' means > n. These are strict, so n is not allowed."
+   },
+   {
+    "front": "Solve a double inequality",
+    "back": "Apply each step to all three parts. If you divide by a negative number, reverse both signs."
+   },
+   {
+    "front": "'and' vs 'or' with inequalities",
+    "back": "'and': both true, so one overlapping range. 'or': at least one true, so possibly two separate ranges."
+   },
+   {
+    "front": "Integer solutions of −2 ≤ x < 2",
+    "back": "−2, −1, 0, 1. Check whether each end value is included."
+   },
+   {
+    "front": "Check an answer",
+    "back": "Substitute a value from your solution set into the original inequality. It should make the statement true."
+   }
+  ]
+ },
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Number Properties and Time",
+  "subTopic": "Time Zones, Clocks and Timetables",
+  "questions": [
+   {
+    "content": "Write 7:45 pm in 24-hour time.",
+    "options": [
+     "19:45",
+     "07:45",
+     "17:45",
+     "18:45"
+    ],
+    "answer": 0,
+    "explanation": "For pm times add 12 to the hour: 7 + 12 = 19, so 19:45.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A film starts at 14:35 and lasts 3 hours 40 minutes. When does it finish?",
+    "options": [
+     "17:75",
+     "18:05",
+     "17:55",
+     "18:15"
+    ],
+    "answer": 3,
+    "explanation": "14:35 + 3 h = 17:35. Adding 40 min gives 18:15 (35 + 40 = 75 min = 1 h 15 min past 17:00).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "How long is it from 09:20 to 11:05?",
+    "options": [
+     "2 hours 15 minutes",
+     "1 hour 85 minutes",
+     "1 hour 45 minutes",
+     "1 hour 15 minutes"
+    ],
+    "answer": 2,
+    "explanation": "09:20 to 10:00 is 40 min, then 10:00 to 11:05 is 65 min: 40 + 65 = 105 min = 1 h 45 min. Time is not decimal.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "London is on UTC+0 and Tokyo is on UTC+9. When it is 12:00 in London, what time is it in Tokyo?",
+    "options": [
+     "03:00",
+     "21:00",
+     "09:00",
+     "15:00"
+    ],
+    "answer": 1,
+    "explanation": "Tokyo is 9 hours ahead of London, so add 9 hours: 21:00.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "How many minutes are in 2.5 hours?",
+    "options": [
+     "150",
+     "250",
+     "120",
+     "205"
+    ],
+    "answer": 0,
+    "explanation": "2.5 × 60 = 150 minutes. Do not treat the decimal part as minutes.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A flight leaves Dubai (UTC+4) at 02:30 and takes 7 h 30 min. London is on UTC+0. What is the local arrival time in London?",
+    "options": [
+     "10:00",
+     "02:00",
+     "14:00",
+     "06:00"
+    ],
+    "answer": 3,
+    "explanation": "02:30 in Dubai is 22:30 UTC the previous day. Adding 7 h 30 min gives 06:00 UTC, which is 06:00 London time.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A coach travels 135 km between two stops. It leaves at 10:15 and arrives at 11:45. What is its average speed?",
+    "options": [
+     "135 km/h",
+     "67.5 km/h",
+     "90 km/h",
+     "1.5 km/h"
+    ],
+    "answer": 2,
+    "explanation": "The time is 1 h 30 min = 1.5 h. Speed = 135 ÷ 1.5 = 90 km/h.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Write 3.4 hours in hours and minutes.",
+    "options": [
+     "3 h 40 min",
+     "3 h 24 min",
+     "3 h 4 min",
+     "3 h 34 min"
+    ],
+    "answer": 1,
+    "explanation": "0.4 h × 60 = 24 minutes, so 3 h 24 min. Writing 40 min is a common slip.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "New York is on UTC−5 and Sydney is on UTC+11. A meeting starts at 09:00 in New York. What is the local time in Sydney?",
+    "options": [
+     "01:00 the next day",
+     "01:00 the same day",
+     "17:00 the same day",
+     "20:00 the previous day"
+    ],
+    "answer": 0,
+    "explanation": "The difference is 11 − (−5) = 16 hours. 09:00 + 16 h = 25:00, which is 01:00 the next day.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A night train leaves at 22:50 and the journey takes 5 h 25 min. When does it arrive?",
+    "options": [
+     "03:15 the next day",
+     "04:15 the same day",
+     "03:75 the next day",
+     "04:15 the next day"
+    ],
+    "answer": 3,
+    "explanation": "22:50 + 1 h 10 min = 00:00. The remaining 4 h 15 min gives 04:15 the next day.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A train is timetabled to leave one station at 08:12 and reach the next at 08:47. The stations are 28 km apart. What is its average speed?",
+    "options": [
+     "28 km/h",
+     "80 km/h",
+     "48 km/h",
+     "0.8 km/h"
+    ],
+    "answer": 2,
+    "explanation": "Time = 35 min = 35/60 h. Speed = 28 ÷ (35/60) = 48 km/h.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "City A is on UTC+2 and city B is on UTC−3. A 9-hour flight leaves A at 14:00 local time. What is the local arrival time in B?",
+    "options": [
+     "23:00",
+     "18:00",
+     "04:00",
+     "09:00"
+    ],
+    "answer": 1,
+    "explanation": "14:00 at A is 12:00 UTC. Add 9 h: 21:00 UTC. B is on UTC−3, so local time is 18:00.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A stopwatch shows 1 h 15 min 30 s. How many seconds is this?",
+    "options": [
+     "4530",
+     "4530 minutes",
+     "1530",
+     "3930"
+    ],
+    "answer": 0,
+    "explanation": "1 h = 3600 s, 15 min = 900 s, plus 30 s: 3600 + 900 + 30 = 4530 s.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A plane leaves London (UTC+0) at 22:15 on Monday and flies to Singapore (UTC+8) in 13 h 10 min. When does it land by Singapore local time?",
+    "options": [
+     "11:25 on Tuesday",
+     "09:25 on Tuesday",
+     "03:25 on Wednesday",
+     "19:25 on Tuesday"
+    ],
+    "answer": 3,
+    "explanation": "22:15 + 13 h 10 min = 11:25 UTC on Tuesday. Singapore is 8 hours ahead: 19:25 Tuesday.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A plane lands in Delhi (UTC+5:30) at 06:40 local time. What is the time in UTC+0 at that moment?",
+    "options": [
+     "12:10",
+     "06:40",
+     "01:10",
+     "00:10"
+    ],
+    "answer": 2,
+    "explanation": "Delhi is 5 h 30 min ahead of UTC. Subtract: 06:40 − 5:30 = 01:10.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Paris is on UTC+1 and Los Angeles is on UTC−8. A call is arranged for 17:00 in Paris. What time is it in Los Angeles?",
+    "options": [
+     "02:00",
+     "08:00",
+     "16:00",
+     "09:00"
+    ],
+    "answer": 1,
+    "explanation": "The difference is 9 hours. Los Angeles is behind, so 17:00 − 9 h = 08:00.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A jet takes off at 10:00 UTC+0 and lands 5600 km away at 21:24 local time, where the time zone is UTC+5. What is its average speed for the flight?",
+    "options": [
+     "875 km/h",
+     "491 km/h",
+     "560 km/h",
+     "1300 km/h"
+    ],
+    "answer": 0,
+    "explanation": "21:24 local is 16:24 UTC. Flying time is 6 h 24 min = 6.4 h. Speed = 5600 ÷ 6.4 = 875 km/h. Ignoring the time zone gives 11.4 h and a wrong answer.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Buses leave a terminal every 24 minutes starting at 06:10. Abdul arrives at 09:00. When is the first bus he can catch?",
+    "options": [
+     "09:10",
+     "08:58",
+     "09:34",
+     "09:22"
+    ],
+    "answer": 3,
+    "explanation": "From 06:10 to 09:00 is 170 minutes. The 8th bus after the first is at 8 × 24 = 192 min after 06:10, which is 09:22. The 7th leaves at 168 min = 08:58, too early.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## 12-hour and 24-hour time\nThe 24-hour clock avoids am/pm confusion. For times after noon add 12: 7:45 pm is 19:45. Midnight is 00:00. Never forget that time works in base 60, not base 10: 14:35 plus 40 minutes is 15:15 and not 14:75.\n\n## Durations\nTo find how long something lasts, count up to the next whole hour and then onwards. From 09:20 to 11:05: 40 minutes to 10:00, then 65 minutes to 11:05, making 105 minutes or 1 h 45 min. Convert between decimals and minutes by multiplying the decimal part by 60: 3.4 h = 3 h + 0.4 × 60 min = 3 h 24 min.\n\n## Speed, distance and time\nUse speed = distance ÷ time, with time in hours. A coach covers 135 km in 1 h 30 min, so its speed is 135 ÷ 1.5 = 90 km/h. If you are given minutes, divide by 60: 35 minutes is 35/60 h.\n\n## Reading timetables\nA timetable lists departure and arrival times for each stop. Subtract to find the journey time between stops, and look for gaps between services. For buses every 24 minutes starting at 06:10, the times are 06:10, 06:34, 06:58 and so on. To find the first bus after 09:00, count how many whole 24-minute steps fit, then check the next one is not earlier than the arrival time.\n\n## Time zones\nThe world is divided into zones measured from UTC (Coordinated Universal Time, which is the same as Greenwich time). A zone written UTC+9 is 9 hours ahead of UTC, so its clocks show a later time. UTC−5 is 5 hours behind.\nMethod for any time zone question:\n1. Convert the local time to UTC (subtract the offset).\n2. Add any travel time.\n3. Convert to the new local time (add the offset).\nCheck whether you cross midnight, because that changes the date.\nExample: London to Singapore. Depart 22:15 Monday UTC+0. Flight 13 h 10 min. Arrive 11:25 UTC Tuesday. Singapore is UTC+8, so local arrival is 19:25 Tuesday. Notice that the flight time is not 19:25 − 22:15. Time zone differences must be accounted for.\nSome places have half-hour offsets, such as UTC+5:30. Subtract or add 5 h 30 min exactly.\n\n## Common mistakes\n- Treating minutes as decimals (1.45 h is not 1 h 45 min).\n- Adding the time difference in the wrong direction for places west of UTC.\n- Working out the flight duration directly from local departure and arrival times.\n- Forgetting that the date changes after midnight.\n\n## How this is examined\nReal tasks give a travel plan or timetable and ask you to find arrival times, journey durations and average speeds, then evaluate the plan. For example, can a student attend a video call across time zones, and will they have enough time between connecting flights? Show every conversion step and state the date as well as the time.\n\nExam tip: Convert everything to UTC first, do the arithmetic there, then convert back to local time. Write the date change next to your answer if you cross midnight.",
+  "flashcards": [
+   {
+    "front": "12-hour to 24-hour",
+    "back": "Add 12 to pm hours (7:45 pm = 19:45). 12:00 am is 00:00 and 12:00 pm is 12:00."
+   },
+   {
+    "front": "Convert 3.4 h to h and min",
+    "back": "Multiply the decimal part by 60: 0.4 × 60 = 24, so 3 h 24 min."
+   },
+   {
+    "front": "Speed formula",
+    "back": "Speed = distance ÷ time. Use hours for time, so 30 min = 0.5 h."
+   },
+   {
+    "front": "What does UTC+9 mean?",
+    "back": "Local time is 9 hours AHEAD of UTC, so add 9 to UTC to get local time."
+   },
+   {
+    "front": "What does UTC−5 mean?",
+    "back": "Local time is 5 hours BEHIND UTC, so subtract 5 from UTC to get local time."
+   },
+   {
+    "front": "Method for time zone journeys",
+    "back": "Local departure → UTC → add flight time → UTC arrival → local arrival. Watch for date changes."
+   },
+   {
+    "front": "Time difference between two zones",
+    "back": "Subtract offsets: New York (UTC−5) and Sydney (UTC+11) differ by 11 − (−5) = 16 hours."
+   },
+   {
+    "front": "Seconds in 1 hour and 1 day",
+    "back": "1 hour = 3600 s. 1 day = 86 400 s."
+   },
+   {
+    "front": "Duration trick",
+    "back": "Count up to the next whole hour, then add the rest: 09:20 to 11:05 = 40 + 65 = 105 min."
+   }
+  ]
+ }
+]

@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "integrated-science",
+  "grade": 5,
+  "topic": "Human Body and Health",
+  "subTopic": "Circulation, Breathing and Gas Exchange",
+  "questions": [
+   {
+    "content": "Which organ pumps blood around the body?",
+    "options": [
+     "The lungs",
+     "The heart",
+     "The liver",
+     "The kidney"
+    ],
+    "answer": 1,
+    "explanation": "The heart is a muscular pump that keeps blood circulating.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What type of blood vessel carries blood away from the heart?",
+    "options": [
+     "Arteries",
+     "Veins",
+     "Capillaries",
+     "Valves"
+    ],
+    "answer": 0,
+    "explanation": "Arteries carry blood away from the heart at high pressure and have thick, elastic walls.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which part of the blood carries oxygen?",
+    "options": [
+     "White blood cells",
+     "Platelets",
+     "Plasma only",
+     "Red blood cells"
+    ],
+    "answer": 3,
+    "explanation": "Red blood cells contain haemoglobin, which binds oxygen.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Where does gas exchange take place in the lungs?",
+    "options": [
+     "Bronchi",
+     "Trachea",
+     "Alveoli",
+     "Diaphragm"
+    ],
+    "answer": 2,
+    "explanation": "Oxygen diffuses into the blood and carbon dioxide diffuses out across the walls of the alveoli.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What happens to the diaphragm when you breathe in?",
+    "options": [
+     "It relaxes and moves up",
+     "It contracts and flattens",
+     "It contracts and moves up",
+     "It stays still"
+    ],
+    "answer": 1,
+    "explanation": "The diaphragm flattens and the ribs move up and out, increasing chest volume and decreasing pressure so air flows in.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why is the human circulatory system called a double circulation?",
+    "options": [
+     "Blood passes through the heart twice in one complete circuit of the body",
+     "There are two hearts",
+     "Blood travels in two directions in each vessel",
+     "Arteries and veins are the same"
+    ],
+    "answer": 0,
+    "explanation": "One loop goes from the heart to the lungs and back (pulmonary); the other goes round the body (systemic).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is the wall of the left ventricle thicker than that of the right ventricle?",
+    "options": [
+     "It pumps blood to the lungs only",
+     "It is closer to the lungs",
+     "It holds more oxygen",
+     "It pumps blood at high pressure around the whole body"
+    ],
+    "answer": 3,
+    "explanation": "The right ventricle only pumps blood to the nearby lungs, so it needs less muscle.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which feature of the alveoli helps gas exchange?",
+    "options": [
+     "Thick muscular walls",
+     "A dry inner surface",
+     "Thin walls one cell thick with a good blood supply",
+     "A small surface area"
+    ],
+    "answer": 2,
+    "explanation": "A short diffusion distance and a steep concentration gradient maintained by blood flow make exchange rapid.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A person has a heart rate of 72 beats per minute and a stroke volume of 70 cm³. What is the cardiac output?",
+    "options": [
+     "142 cm³ per minute",
+     "5040 cm³ per minute",
+     "1.03 cm³ per minute",
+     "504 cm³ per minute"
+    ],
+    "answer": 1,
+    "explanation": "Cardiac output = heart rate × stroke volume = 72 × 70 = 5040 cm³/min.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why does breathing rate increase during exercise?",
+    "options": [
+     "Muscles respire faster, needing more oxygen and producing more carbon dioxide",
+     "The lungs get smaller",
+     "The body needs less oxygen",
+     "Blood becomes thicker"
+    ],
+    "answer": 0,
+    "explanation": "The brain detects the rise in carbon dioxide and speeds up breathing to supply oxygen and remove CO₂.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which blood component helps the blood to clot at a wound?",
+    "options": [
+     "Red blood cells",
+     "Plasma proteins only",
+     "Lymphocytes",
+     "Platelets"
+    ],
+    "answer": 3,
+    "explanation": "Platelets are cell fragments that help form clots to seal cuts.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the function of valves in veins?",
+    "options": [
+     "To increase blood pressure",
+     "To pump blood",
+     "To prevent backflow of blood",
+     "To add oxygen"
+    ],
+    "answer": 2,
+    "explanation": "Veins carry blood at low pressure back to the heart, so valves stop it flowing the wrong way.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Compare inhaled and exhaled air. Which row is correct?",
+    "options": [
+     "Exhaled air has more oxygen and less carbon dioxide",
+     "Exhaled air has less oxygen (about 16 %) and more carbon dioxide (about 4 %) than inhaled air",
+     "Exhaled air has no oxygen",
+     "Both have exactly the same composition"
+    ],
+    "answer": 1,
+    "explanation": "Some oxygen is absorbed and carbon dioxide is added during gas exchange. Inhaled air has about 21 % oxygen and 0.04 % carbon dioxide.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Heart rate recovery after exercise: Person A returns to resting rate in 2 minutes; Person B takes 6 minutes. What is the best conclusion?",
+    "options": [
+     "Person A is likely to be fitter, as their heart recovers faster",
+     "Person B is fitter",
+     "They have the same fitness",
+     "Heart rate recovery does not relate to fitness"
+    ],
+    "answer": 0,
+    "explanation": "A fitter person has a stronger heart and better circulation, so rate returns to normal sooner. More data would be needed to be certain.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "At rest a person has a heart rate of 70 beats per minute and a stroke volume of 70 cm³. During exercise heart rate is 150 and stroke volume is 100 cm³. What is the cardiac output during exercise?",
+    "options": [
+     "10 500 cm³ per minute",
+     "250 cm³ per minute",
+     "4900 cm³ per minute",
+     "15 000 cm³ per minute"
+    ],
+    "answer": 3,
+    "explanation": "150 × 100 = 15 000 cm³/min. At rest it was 70 × 70 = 4900 cm³/min, so output has gone up about three times.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Smoking damages the lungs and circulation. Which statement describes an effect accurately?",
+    "options": [
+     "Nicotine increases the lung surface area",
+     "Tar increases oxygen transport",
+     "Carbon monoxide binds to haemoglobin, reducing the oxygen carried, and tar damages cilia",
+     "Carbon monoxide helps blood clot to carry more oxygen"
+    ],
+    "answer": 2,
+    "explanation": "Carbon monoxide binds to haemoglobin permanently, so less oxygen is carried. Tar paralyses cilia and causes mucus build-up.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Ventilation and blood flow both help gas exchange. Why?",
+    "options": [
+     "They raise the temperature of the lungs",
+     "They keep the concentration gradients steep by bringing fresh oxygen and removing oxygen-rich blood",
+     "They make the alveoli walls thicker",
+     "They stop diffusion happening"
+    ],
+    "answer": 1,
+    "explanation": "Moving air in and out and moving blood past the alveoli means oxygen concentration stays high on one side and low on the other, so diffusion continues quickly.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student measures breathing rate before and after exercise by counting breaths for 15 seconds with one volunteer. Which improvement best increases reliability?",
+    "options": [
+     "Repeat with several volunteers and calculate the mean breaths per minute",
+     "Count for 5 seconds only",
+     "Use only one trial",
+     "Change the exercise each time"
+    ],
+    "answer": 0,
+    "explanation": "Several volunteers and repeated trials reduce the effect of individual differences and random error.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## The circulatory system\nThe circulatory system transports oxygen, carbon dioxide, nutrients, hormones, waste and heat around the body. It is a **double circulation**: the pulmonary circuit takes blood from the heart to the lungs and back, and the systemic circuit takes blood from the heart around the body and back.\n\n## The heart\nThe heart is a muscular pump with four chambers: two atria (collect blood) and two ventricles (pump blood out). The right side pumps deoxygenated blood to the lungs. The left side pumps oxygenated blood around the body, so the left ventricle wall is thicker. Valves prevent backflow. The heart muscle has its own blood supply through the coronary arteries. If they are blocked by fatty deposits, the muscle is starved of oxygen, causing a heart attack.\nCardiac output = heart rate × stroke volume. With 72 beats per minute and a stroke volume of 70 cm³, output = 5040 cm³ per minute.\n\n## Blood vessels\n- **Arteries**: carry blood away from the heart at high pressure. Thick, elastic walls.\n- **Veins**: carry blood to the heart at low pressure. Thinner walls and valves.\n- **Capillaries**: tiny, one cell thick walls, allow exchange of substances with tissues.\n\n## Blood\n- **Plasma**: liquid carrying dissolved substances such as glucose, urea and carbon dioxide.\n- **Red blood cells**: carry oxygen as oxyhaemoglobin. They have no nucleus and are biconcave for a large surface area.\n- **White blood cells**: defend against pathogens.\n- **Platelets**: fragments that help clotting.\n\n## Breathing and gas exchange\nBreathing is ventilation, moving air in and out of the lungs. Breathing in: intercostal muscles contract, ribs move up and out, diaphragm contracts and flattens, chest volume rises, pressure falls and air flows in. Breathing out is the reverse. Air passes through the trachea, bronchi and bronchioles to the **alveoli**.\nAlveoli are adapted for gas exchange: a large surface area, thin walls (one cell thick), moist lining, and a dense network of capillaries. Oxygen diffuses from the alveolus into the blood, and carbon dioxide diffuses out. Ventilation and blood flow keep the concentration gradients steep. Inhaled air is about 21 % oxygen and 0.04 % carbon dioxide; exhaled air is about 16 % oxygen and 4 % carbon dioxide.\n\n## Exercise and health\nDuring exercise muscles respire faster, so heart rate, stroke volume and breathing rate rise. A fitter person has a stronger heart and recovers sooner. Smoking harms health: tar damages cilia and alveoli, carbon monoxide reduces oxygen carried by haemoglobin, and nicotine is addictive and raises heart rate. A balanced diet and exercise reduce the risk of coronary heart disease.\n\n## Common mistakes\n- Saying that arteries always carry oxygenated blood. The pulmonary artery carries deoxygenated blood.\n- Mixing up breathing with respiration.\n- Saying that the lungs \"suck\" air. Air moves because the pressure in the chest falls.\n- Saying red blood cells have a nucleus.\n\n## How this is examined\nTypical contexts include athletes' training, heart rate data, smoking statistics or an investigation into breathing rate after exercise. You may calculate cardiac output, interpret recovery data, justify improvements to a method (repeat with several people, use a mean) and discuss lifestyle risks and public health.\n\nExam tip: Use the phrases \"short diffusion distance\" and \"steep concentration gradient\" when explaining gas exchange, and state the direction of the gas movement.",
+  "flashcards": [
+   {
+    "front": "Double circulation",
+    "back": "Blood passes through the heart twice per circuit: heart → lungs → heart (pulmonary) and heart → body → heart (systemic)."
+   },
+   {
+    "front": "Arteries, veins and capillaries",
+    "back": "Arteries: away from heart, thick walls. Veins: to heart, valves. Capillaries: thin walls for exchange."
+   },
+   {
+    "front": "Cardiac output",
+    "back": "Heart rate × stroke volume. E.g. 72 × 70 = 5040 cm³ per minute."
+   },
+   {
+    "front": "Components of blood",
+    "back": "Plasma (transport), red cells (oxygen), white cells (defence), platelets (clotting)."
+   },
+   {
+    "front": "How air is inhaled",
+    "back": "Diaphragm contracts and flattens, ribs move up and out, chest volume increases, pressure falls, air flows in."
+   },
+   {
+    "front": "Adaptations of alveoli",
+    "back": "Large surface area, walls one cell thick, moist lining and a dense capillary network."
+   },
+   {
+    "front": "Inhaled vs exhaled air",
+    "back": "Inhaled: about 21 % O₂, 0.04 % CO₂. Exhaled: about 16 % O₂, 4 % CO₂."
+   },
+   {
+    "front": "Why does breathing rate rise in exercise?",
+    "back": "Muscles respire faster so more oxygen is needed and more carbon dioxide must be removed."
+   },
+   {
+    "front": "Effects of smoking",
+    "back": "Tar damages cilia and alveoli; carbon monoxide reduces oxygen carried by haemoglobin; nicotine is addictive."
+   }
+  ]
+ },
+ {
+  "subject": "integrated-science",
+  "grade": 5,
+  "topic": "Human Body and Health",
+  "subTopic": "Nervous System, Hormones and Homeostasis",
+  "questions": [
+   {
+    "content": "What is the correct sequence in a response to a stimulus?",
+    "options": [
+     "Stimulus → effector → coordinator → receptor → response",
+     "Stimulus → receptor → coordinator → effector → response",
+     "Receptor → stimulus → response → effector",
+     "Stimulus → coordinator → response → receptor"
+    ],
+    "answer": 1,
+    "explanation": "Receptors detect the stimulus, the coordinator (such as the brain) processes it, and effectors carry out the response.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What do neurones carry?",
+    "options": [
+     "Electrical impulses",
+     "Hormones",
+     "Oxygen",
+     "Digested food"
+    ],
+    "answer": 0,
+    "explanation": "Neurones transmit electrical signals around the body quickly.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What are hormones?",
+    "options": [
+     "Electrical signals in nerves",
+     "Enzymes in the gut",
+     "Types of white blood cell",
+     "Chemical messengers carried in the blood"
+    ],
+    "answer": 3,
+    "explanation": "Hormones are secreted by glands and travel in the bloodstream to target organs.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which hormone lowers blood glucose?",
+    "options": [
+     "Adrenaline",
+     "Glucagon",
+     "Insulin",
+     "Thyroxine"
+    ],
+    "answer": 2,
+    "explanation": "Insulin, made by the pancreas, causes cells to take up glucose and the liver to store it as glycogen.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a reflex action?",
+    "options": [
+     "A slow conscious response",
+     "A fast automatic response that does not involve conscious thought",
+     "A hormone response",
+     "A learned skill"
+    ],
+    "answer": 1,
+    "explanation": "Reflexes protect the body, for example pulling your hand away from something hot.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the order of neurones in a reflex arc?",
+    "options": [
+     "Sensory → relay → motor",
+     "Motor → relay → sensory",
+     "Relay → sensory → motor",
+     "Sensory → motor → relay"
+    ],
+    "answer": 0,
+    "explanation": "The sensory neurone carries the impulse to the spinal cord, the relay neurone connects, and the motor neurone goes to the effector.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How is an impulse passed across a synapse?",
+    "options": [
+     "An electrical spark jumps across",
+     "Blood carries it",
+     "It does not cross",
+     "Chemicals diffuse across the gap and trigger a new impulse"
+    ],
+    "answer": 3,
+    "explanation": "Neurotransmitters released by one neurone diffuse across the gap and bind to receptors on the next.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is an effect of adrenaline?",
+    "options": [
+     "Decreased heart rate",
+     "Narrower pupils",
+     "Increased heart rate and wider pupils",
+     "Reduced blood flow to muscles"
+    ],
+    "answer": 2,
+    "explanation": "Adrenaline prepares the body for fight or flight.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The body is too hot. Which response helps to cool it?",
+    "options": [
+     "Shivering",
+     "Sweating and vasodilation of skin blood vessels",
+     "Vasoconstriction of skin blood vessels",
+     "Hairs standing up"
+    ],
+    "answer": 1,
+    "explanation": "Sweat evaporates, taking heat away. Wider blood vessels near the skin lose more heat by radiation.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What causes type 1 diabetes?",
+    "options": [
+     "The pancreas does not produce enough insulin",
+     "The body makes too much insulin",
+     "The person eats too much salt",
+     "Liver cells lack oxygen"
+    ],
+    "answer": 0,
+    "explanation": "Type 1 is treated with insulin injections and monitoring of diet.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is negative feedback?",
+    "options": [
+     "A change causes more of the same change",
+     "A hormone that has no effect",
+     "A response that ignores the stimulus",
+     "A change is detected and a response reverses it to return to the normal level"
+    ],
+    "answer": 3,
+    "explanation": "Homeostasis works by negative feedback, keeping conditions such as temperature and glucose stable.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Blood glucose rises after a meal and then falls back. Which explains the fall?",
+    "options": [
+     "The pancreas releases glucagon",
+     "The brain releases adrenaline",
+     "The pancreas releases insulin, which lowers blood glucose",
+     "Insulin is destroyed"
+    ],
+    "answer": 2,
+    "explanation": "Insulin makes cells absorb glucose and the liver convert it to glycogen.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How do nervous and hormonal responses compare?",
+    "options": [
+     "Both are equally fast",
+     "Nervous responses are faster and shorter-lived; hormonal responses are slower and longer-lasting",
+     "Hormones are electrical impulses",
+     "Nervous responses use the blood to travel"
+    ],
+    "answer": 1,
+    "explanation": "Nerve impulses travel in milliseconds along neurones. Hormones travel in blood and have effects that last longer.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a ruler-drop test, a student catches a ruler after it falls 15 cm. Use t = √(2d ÷ g) with g = 9.8 m/s². What is the reaction time (2 significant figures)?",
+    "options": [
+     "0.17 s",
+     "0.31 s",
+     "0.03 s",
+     "1.53 s"
+    ],
+    "answer": 0,
+    "explanation": "d = 0.15 m, so t = √(2 × 0.15 ÷ 9.8) = √0.0306 = 0.175 s, which is 0.17 s to 2 significant figures (0.17496 before rounding).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student compares reaction times using the ruler-drop test with three trials each. Which change improves reliability most?",
+    "options": [
+     "Use a different hand each time",
+     "Use only the first trial",
+     "Drop the ruler without warning only once",
+     "Use the same hand and the same drop height, and calculate the mean"
+    ],
+    "answer": 3,
+    "explanation": "Controlling variables and averaging repeated trials reduces random error.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "In bright light, what happens to the pupil, and why?",
+    "options": [
+     "Radial muscles contract, making the pupil larger",
+     "The pupil does not change",
+     "Circular muscles contract, making the pupil smaller to protect the retina",
+     "The lens becomes thinner to protect the retina"
+    ],
+    "answer": 2,
+    "explanation": "The iris reflex reduces the amount of light entering the eye.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The skin temperature falls on a cold day. Which sequence describes negative feedback?",
+    "options": [
+     "Receptors detect cold → sweating → temperature falls more",
+     "Receptors detect cold → brain triggers shivering and vasoconstriction → temperature returns to normal",
+     "Receptors detect heat → shivering",
+     "The brain does nothing until the body is frozen"
+    ],
+    "answer": 1,
+    "explanation": "The response opposes the change. Shivering generates heat and vasoconstriction reduces heat loss.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A person with type 1 diabetes skips insulin and eats a high-carbohydrate meal. What is the most likely result?",
+    "options": [
+     "Blood glucose stays high and glucose may appear in the urine",
+     "Blood glucose falls rapidly",
+     "The pancreas releases more insulin",
+     "The liver stops making glucose"
+    ],
+    "answer": 0,
+    "explanation": "Without insulin, glucose cannot be taken up by cells or stored, so blood glucose remains high.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Coordination and response\nOrganisms detect changes (stimuli) and respond. The nervous system and the endocrine system both coordinate the body.\nSequence: **stimulus → receptor → coordinator → effector → response**. Receptors are sense cells (such as light receptors in the eye). Coordinators are the brain, spinal cord or pancreas. Effectors are muscles or glands.\n\n## The nervous system\nThe central nervous system (CNS) is the brain and spinal cord. Nerves carry electrical impulses along neurones. Three types:\n- **Sensory neurones**: receptor to CNS.\n- **Relay neurones**: inside the CNS.\n- **Motor neurones**: CNS to effector.\nNeurones are separated by gaps called **synapses**. A chemical neurotransmitter diffuses across and triggers an impulse in the next neurone.\nA **reflex** is fast, automatic and protective, such as pulling away from a hot object. It goes through the spinal cord without conscious thought, so it is quicker than a voluntary response.\n\n## Measuring reaction time\nIn a ruler-drop test a partner releases a ruler and you catch it. The distance fallen gives the time: t = √(2d ÷ g). For d = 0.15 m, t ≈ 0.17 s. Improve reliability with repeated trials, same hand and the mean.\n\n## Hormones\nHormones are chemical messengers made in endocrine glands and carried in the blood to target organs. Effects are slower than nervous responses but last longer.\n- Adrenaline (adrenal glands): increases heart rate and widens pupils.\n- Insulin (pancreas): lowers blood glucose.\n- Glucagon (pancreas): raises blood glucose.\n\n## Homeostasis\nHomeostasis is the maintenance of a constant internal environment, by **negative feedback**: a change is detected and a response reverses it.\n- **Temperature**: controlled by the brain. When hot: sweating and vasodilation. When cold: shivering and vasoconstriction.\n- **Blood glucose**: after a meal glucose rises, insulin is secreted, cells absorb glucose and the liver stores glycogen. If glucose falls, glucagon causes glycogen to be converted back to glucose.\nIn type 1 diabetes the pancreas makes too little insulin, treated with insulin injections, monitoring and diet. Type 2 diabetes is linked to cells not responding well to insulin, and is associated with lifestyle factors.\n\n## Common mistakes\n- Saying hormones are carried by neurones.\n- Mixing up vasodilation (wider vessels, more heat loss) and vasoconstriction.\n- Saying that insulin raises blood glucose.\n- Describing reflexes as conscious.\n\n## How this is examined\nQuestions might present data from a reaction time investigation, a glucose graph for a person with or without diabetes, or a temperature control scenario. You are expected to put the sequence in order, explain negative feedback, compare nervous and hormonal control, and suggest improvements to practicals.\n\nExam tip: For homeostasis questions, name the stimulus, receptor, coordinator, effector and response, and say that the response reverses the change.",
+  "flashcards": [
+   {
+    "front": "Pathway of a response",
+    "back": "Stimulus → receptor → coordinator → effector → response."
+   },
+   {
+    "front": "Three types of neurone",
+    "back": "Sensory (to CNS), relay (within CNS), motor (from CNS to effector)."
+   },
+   {
+    "front": "What is a synapse?",
+    "back": "A gap between two neurones. A neurotransmitter diffuses across it and triggers a new impulse."
+   },
+   {
+    "front": "Reflex action",
+    "back": "Fast, automatic, protective response not involving conscious thought, e.g. pulling away from a hot object."
+   },
+   {
+    "front": "Nervous vs hormonal control",
+    "back": "Nervous: fast, short-lived, electrical. Hormonal: slower, longer-lasting, carried in the blood."
+   },
+   {
+    "front": "Function of insulin and glucagon",
+    "back": "Insulin lowers blood glucose. Glucagon raises it. Both are made by the pancreas."
+   },
+   {
+    "front": "Negative feedback",
+    "back": "A change from the normal level is detected and a response reverses it, keeping conditions stable."
+   },
+   {
+    "front": "Responses when too hot",
+    "back": "Sweating, vasodilation (skin blood vessels widen), hairs lie flat."
+   },
+   {
+    "front": "Responses when too cold",
+    "back": "Shivering, vasoconstriction (skin blood vessels narrow), hairs stand up, less sweating."
+   }
+  ]
+ },
+ {
+  "subject": "integrated-science",
+  "grade": 5,
+  "topic": "Human Body and Health",
+  "subTopic": "Disease, Immunity and Vaccination",
+  "questions": [
+   {
+    "content": "What is a pathogen?",
+    "options": [
+     "A cell that fights disease",
+     "A microorganism that causes disease",
+     "A drug that cures disease",
+     "A hormone"
+    ],
+    "answer": 1,
+    "explanation": "Pathogens include bacteria, viruses, fungi and protists.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why do antibiotics not work on viral infections?",
+    "options": [
+     "Antibiotics kill bacteria, not viruses",
+     "Viruses are too large",
+     "Antibiotics are too weak",
+     "Viruses are not alive so cannot be infected"
+    ],
+    "answer": 0,
+    "explanation": "Viruses live inside host cells and are not affected by antibiotics. Vaccines help prevent viral diseases.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does a vaccine usually contain?",
+    "options": [
+     "Live fully dangerous pathogens",
+     "Antibiotics",
+     "White blood cells",
+     "Weakened, dead or part of a pathogen"
+    ],
+    "answer": 3,
+    "explanation": "These are antigens that trigger the immune response without causing the disease.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which cells produce antibodies?",
+    "options": [
+     "Red blood cells",
+     "Platelets",
+     "Lymphocytes",
+     "Phagocytes"
+    ],
+    "answer": 2,
+    "explanation": "Lymphocytes produce antibodies that lock on to specific antigens. Phagocytes engulf pathogens.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a non-communicable disease?",
+    "options": [
+     "Measles",
+     "Coronary heart disease",
+     "Malaria",
+     "Influenza"
+    ],
+    "answer": 1,
+    "explanation": "Non-communicable diseases cannot be passed from person to person.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is a way that pathogens can be spread?",
+    "options": [
+     "Droplets from coughs and sneezes",
+     "Eating a balanced diet",
+     "Exercise",
+     "Vaccination"
+    ],
+    "answer": 0,
+    "explanation": "Other ways are contaminated food or water, direct contact and vectors such as mosquitoes.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is a physical or chemical barrier that protects the body from pathogens?",
+    "options": [
+     "White blood cells",
+     "Antibodies",
+     "Memory cells",
+     "Stomach acid"
+    ],
+    "answer": 3,
+    "explanation": "Skin, mucus, cilia and stomach acid are first lines of defence. White blood cells and antibodies are part of the immune response.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What do phagocytes do?",
+    "options": [
+     "Make antibodies",
+     "Carry oxygen",
+     "Engulf and digest pathogens",
+     "Cause clotting"
+    ],
+    "answer": 2,
+    "explanation": "Phagocytosis is a non-specific defence. Lymphocytes make specific antibodies.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is the second response to a pathogen faster and larger than the first?",
+    "options": [
+     "Antibodies from the first infection remain forever",
+     "Memory cells quickly produce the right antibodies",
+     "The pathogen is weaker",
+     "Platelets help"
+    ],
+    "answer": 1,
+    "explanation": "After infection or vaccination, memory lymphocytes remain and respond quickly if the same antigen returns.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is herd immunity?",
+    "options": [
+     "When enough people are immune that the spread of a disease is reduced, protecting those who are not immune",
+     "When everyone has the disease",
+     "When animals are vaccinated",
+     "When antibiotics are given"
+    ],
+    "answer": 0,
+    "explanation": "If a high proportion of the population is vaccinated, pathogens find it difficult to spread.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How does antibiotic resistance develop?",
+    "options": [
+     "Bacteria choose to become resistant",
+     "The patient becomes resistant",
+     "Antibiotics change the bacteria's DNA on purpose",
+     "Random mutation gives some bacteria resistance; these survive treatment and reproduce"
+    ],
+    "answer": 3,
+    "explanation": "Natural selection favours resistant bacteria when antibiotics are overused or not finished.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Town A has 95 % vaccination coverage and 3 measles cases. Town B has 60 % coverage and 180 cases. What is the best conclusion?",
+    "options": [
+     "Vaccination causes more cases",
+     "Coverage has no effect",
+     "Higher vaccination coverage is associated with fewer cases",
+     "Town B has better health care"
+    ],
+    "answer": 2,
+    "explanation": "The data show a link, and herd immunity explains it, though other factors such as population size should be considered.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How can the spread of malaria be reduced?",
+    "options": [
+     "Wash hands before eating only",
+     "Control the mosquito vector, for example with bed nets and draining standing water",
+     "Take antibiotics",
+     "Avoid people who are coughing"
+    ],
+    "answer": 1,
+    "explanation": "Malaria is caused by a protist spread by the Anopheles mosquito, so breaking the vector's life cycle helps.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Each person with a disease infects 4 others (R₀ = 4). The fraction that must be immune to stop spread is 1 − 1 ÷ R₀. What percentage is this?",
+    "options": [
+     "75 %",
+     "25 %",
+     "4 %",
+     "40 %"
+    ],
+    "answer": 0,
+    "explanation": "1 − 1 ÷ 4 = 0.75, which is 75 %.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A trial tests a new vaccine. Which design feature best reduces bias?",
+    "options": [
+     "Giving everyone the vaccine",
+     "Only testing volunteers who want the vaccine",
+     "Telling everyone which group they are in",
+     "A double-blind trial with a placebo group"
+    ],
+    "answer": 3,
+    "explanation": "In a double-blind trial neither participants nor researchers know who gets the vaccine, reducing bias. A placebo group gives a comparison.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A graph shows antibody concentration after a first vaccine dose and a booster. What does the booster typically show?",
+    "options": [
+     "A slower and lower rise",
+     "No change",
+     "A faster and higher rise in antibodies",
+     "A fall to zero"
+    ],
+    "answer": 2,
+    "explanation": "Memory cells formed after the first dose respond quicker and produce more antibodies on the second exposure.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A patient with influenza asks for antibiotics. Which is the best evaluation?",
+    "options": [
+     "Antibiotics are the best treatment for viruses",
+     "Antibiotics are ineffective because influenza is caused by a virus, and misuse promotes resistance",
+     "Antibiotics will be effective if taken twice as long",
+     "Antibiotics only work for adults"
+    ],
+    "answer": 1,
+    "explanation": "Influenza is viral. Antibiotics have no effect and overuse increases the spread of resistant bacteria.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A patient stops taking antibiotics after three days, when they feel better, even though the course is 7 days. Why is this a problem?",
+    "options": [
+     "Surviving bacteria may be more resistant and can multiply",
+     "Antibiotics only work for three days",
+     "Resistance develops in the patient",
+     "Stopping makes the antibiotic stronger"
+    ],
+    "answer": 0,
+    "explanation": "The bacteria least affected by the antibiotic survive and can pass resistance on.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Health and disease\nHealth is physical, mental and social well-being, not just the absence of disease. Diseases can be **communicable** (caused by pathogens and passed on) or **non-communicable** (such as coronary heart disease, cancer and type 2 diabetes).\n\n## Pathogens\n- **Bacteria**: cause cholera, tuberculosis and food poisoning. Treated with antibiotics.\n- **Viruses**: cause influenza, measles and COVID-19. Reproduce inside host cells. Antibiotics do not work; vaccination helps prevent them.\n- **Fungi**: cause athlete's foot.\n- **Protists**: cause malaria, spread by the Anopheles mosquito (a vector).\nPathogens spread by droplets, direct contact, contaminated food and water, and vectors. Prevention includes handwashing, clean water, sanitation, vector control and vaccination.\n\n## The body's defences\n- **Barriers**: skin, mucus and cilia in the airways, and stomach acid.\n- **Phagocytes** engulf and digest pathogens.\n- **Lymphocytes** produce **antibodies** that fit specific **antigens** on the pathogen and lead to its destruction.\nAfter an infection, memory lymphocytes stay in the body so a second infection triggers a faster, larger response.\n\n## Vaccination\nA vaccine contains a harmless form of the antigen (dead, weakened or a part of the pathogen). The body makes antibodies and memory cells without suffering the disease. If the real pathogen arrives later the response is fast. A booster dose gives a bigger response.\n**Herd immunity** occurs when a large proportion is immune so the pathogen struggles to spread, protecting babies and people who cannot be vaccinated. For a disease where each case infects R₀ others, the proportion needing to be immune is about 1 − 1 ÷ R₀. If R₀ = 4 that is 75 %.\nBenefits: diseases such as smallpox have been eradicated and others greatly reduced. Risks: rare side effects. Scientists weigh these by large trials.\n\n## Antibiotics and resistance\nAntibiotics kill bacteria but not viruses. Random mutation can make some bacteria resistant. If antibiotics are overused or the course is not finished, resistant bacteria survive and reproduce, giving a resistant population. This is natural selection. To slow resistance, doctors prescribe antibiotics only when needed and patients should finish the course.\n\n## Testing new drugs and vaccines\nTrials go through lab tests, animal tests where required, then human clinical trials. In a double-blind trial with a placebo group, neither participants nor researchers know who gets the real treatment, to reduce bias. A large sample size makes results more reliable.\n\n## Common mistakes\n- Saying antibiotics work on viruses.\n- Saying vaccines give you the disease.\n- Saying that individual bacteria become resistant. The population changes through selection.\n- Mixing up antigens (on pathogens) and antibodies (made by lymphocytes).\n\n## How this is examined\nTypical tasks give vaccination data from towns or countries, antibody graphs, or a trial description. You are asked to describe patterns, explain using memory cells and herd immunity, evaluate a trial design, and discuss the impact of vaccines and antibiotic resistance on global health.\n\nExam tip: Say what the vaccine contains, what the body makes (antibodies and memory cells), and why the second response is faster. For data questions, quote figures from the stimulus.",
+  "flashcards": [
+   {
+    "front": "What is a pathogen?",
+    "back": "A microorganism (bacterium, virus, fungus or protist) that causes disease."
+   },
+   {
+    "front": "Communicable vs non-communicable",
+    "back": "Communicable diseases are passed on by pathogens. Non-communicable ones, such as coronary heart disease, are not."
+   },
+   {
+    "front": "Body's first defences",
+    "back": "Skin, mucus and cilia, and stomach acid."
+   },
+   {
+    "front": "Phagocytes vs lymphocytes",
+    "back": "Phagocytes engulf and digest pathogens. Lymphocytes make antibodies specific to antigens."
+   },
+   {
+    "front": "How vaccination works",
+    "back": "A harmless form of the antigen stimulates lymphocytes to make antibodies and memory cells for fast future protection."
+   },
+   {
+    "front": "Why a booster dose?",
+    "back": "Memory cells respond faster and make more antibodies on second exposure, giving stronger, longer protection."
+   },
+   {
+    "front": "Herd immunity",
+    "back": "When enough of a population is immune, spread is reduced and unvaccinated people are protected."
+   },
+   {
+    "front": "Antibiotic resistance",
+    "back": "Mutations make some bacteria resistant; they survive treatment and reproduce. Overuse and unfinished courses speed it up."
+   },
+   {
+    "front": "Double-blind placebo trial",
+    "back": "Neither participants nor researchers know who receives the real treatment; reduces bias."
+   }
+  ]
+ }
+]

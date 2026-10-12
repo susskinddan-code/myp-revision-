@@ -1,0 +1,528 @@
+[
+ {
+  "subject": "biology",
+  "grade": 5,
+  "topic": "Biological Molecules",
+  "subTopic": "Carbohydrates, Proteins and Lipids",
+  "questions": [
+   {
+    "content": "Which elements are found in ALL carbohydrates?",
+    "options": [
+     "Carbon, hydrogen and oxygen",
+     "Carbon, hydrogen and nitrogen",
+     "Carbon and oxygen only",
+     "Carbon, oxygen and sulfur"
+    ],
+    "answer": 0,
+    "explanation": "Carbohydrates contain carbon, hydrogen and oxygen only. Nitrogen is the extra element that makes proteins different.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is the monomer (building block) of a protein?",
+    "options": [
+     "Glucose",
+     "Amino acid",
+     "Fatty acid",
+     "Glycerol"
+    ],
+    "answer": 1,
+    "explanation": "Proteins are long chains of amino acids. Glucose builds carbohydrates, while fatty acids and glycerol build lipids.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A lipid molecule such as a fat is made from which two types of smaller molecule?",
+    "options": [
+     "Glucose and amino acids",
+     "Glycerol and fatty acids",
+     "Starch and cellulose",
+     "Amino acids and glycerol"
+    ],
+    "answer": 1,
+    "explanation": "One glycerol molecule joins to three fatty acid molecules to make a triglyceride (a fat or oil).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a carbohydrate used by plants as a long-term energy store?",
+    "options": [
+     "Glycogen",
+     "Cellulose",
+     "Starch",
+     "Keratin"
+    ],
+    "answer": 2,
+    "explanation": "Plants store energy as starch. Glycogen is the animal store, cellulose is a structural carbohydrate in cell walls, and keratin is a protein.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these foods is the best source of protein for growth and repair?",
+    "options": [
+     "Rice",
+     "Butter",
+     "Eggs",
+     "Sugar"
+    ],
+    "answer": 2,
+    "explanation": "Eggs are rich in protein. Rice is mainly starch, butter is mainly fat and sugar is a simple carbohydrate.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A student describes starch as 'a polysaccharide'. What does this mean?",
+    "options": [
+     "It is made of many glucose units joined together",
+     "It is made of two sugar units joined together",
+     "It contains many different amino acids",
+     "It is made of one sugar unit only"
+    ],
+    "answer": 0,
+    "explanation": "'Poly' means many. A polysaccharide is a long chain of sugar (glucose) units. A disaccharide has two units and a monosaccharide has one.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Sucrose is formed when glucose joins with fructose. How should sucrose be classified?",
+    "options": [
+     "Monosaccharide",
+     "Disaccharide",
+     "Polysaccharide",
+     "Triglyceride"
+    ],
+    "answer": 1,
+    "explanation": "Two simple sugar units joined together make a disaccharide. Maltose (two glucose units) and lactose are other examples.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Gill is explaining why athletes store glycogen in their muscles and liver. Which statement best describes glycogen?",
+    "options": [
+     "A protein that builds muscle fibres",
+     "A lipid that insulates the body",
+     "A branched carbohydrate that is a store of glucose in animals",
+     "A sugar that is transported in the blood plasma"
+    ],
+    "answer": 2,
+    "explanation": "Glycogen is a polysaccharide made of glucose units, stored mainly in the liver and muscles, and broken down when glucose is needed.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A protein is heated to 80°C and its enzyme activity is lost permanently. What is the best explanation?",
+    "options": [
+     "The peptide bonds between amino acids turn into fats",
+     "The protein's 3D shape has been changed (denatured)",
+     "The amino acids have turned into glucose",
+     "The protein has been digested by the heat"
+    ],
+    "answer": 1,
+    "explanation": "High temperature breaks the bonds that hold the folded protein in shape. The active site changes shape so the substrate no longer fits. This is denaturation.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement correctly compares fats with carbohydrates as energy sources?",
+    "options": [
+     "Fats release less energy per gram than carbohydrates",
+     "Fats release more than twice as much energy per gram as carbohydrates",
+     "Fats and carbohydrates release exactly the same energy per gram",
+     "Fats cannot be used for energy at all"
+    ],
+    "answer": 1,
+    "explanation": "Fats contain more energy per gram (about 37 kJ/g compared with about 17 kJ/g for carbohydrate), which is why they make a compact long-term energy store.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Arctic seals have a thick layer of blubber under the skin. Which two roles of lipids does this show?",
+    "options": [
+     "Insulation and energy storage",
+     "Transport and enzyme action",
+     "Growth and repair of muscle",
+     "Protection against disease only"
+    ],
+    "answer": 0,
+    "explanation": "Fat under the skin reduces heat loss (insulation) and stores energy that can be used when food is scarce.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A scientist analyses a molecule and finds it contains carbon, hydrogen, oxygen and nitrogen. Which type of molecule is it most likely to be?",
+    "options": [
+     "Carbohydrate",
+     "Lipid",
+     "Protein",
+     "Starch"
+    ],
+    "answer": 2,
+    "explanation": "Only proteins (of these choices) contain nitrogen, because amino acids have an amine group. Carbohydrates and lipids contain just C, H and O.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Cellulose and starch are both made of glucose, yet cellulose is not digested by humans. A suitable reason that links structure to function is that cellulose:",
+    "options": [
+     "is a protein, so it is too large to digest",
+     "has glucose units joined in a way human enzymes cannot break, forming strong fibres in plant cell walls",
+     "contains nitrogen, which humans cannot absorb",
+     "is a lipid that dissolves in water"
+    ],
+    "answer": 1,
+    "explanation": "Cellulose's glucose units are linked differently from starch, so human amylase cannot break it down. Its long fibres give plant cell walls strength. It still acts as dietary fibre.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A short chain has 20 amino acids joined by peptide bonds. A second chain contains the same 20 amino acids in a different order. Why might the two chains behave differently?",
+    "options": [
+     "Both chains must have identical shape because they contain the same amino acids",
+     "The order of amino acids determines how the chain folds, so shape and function can differ",
+     "Peptide bonds only form in one order",
+     "Amino acids change into fatty acids if their order changes"
+    ],
+    "answer": 1,
+    "explanation": "The sequence of amino acids controls the folding and final 3D shape, which determines function. Changing the order can create a different protein.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An experiment compares energy released when 1 g of two foods is burned to heat water. Food X raised 50 g of water by 20°C and Food Y raised 50 g of water by 9°C. Which conclusion is best supported?",
+    "options": [
+     "Food X contains more energy per gram, so it could be rich in fat",
+     "Food Y must be a protein",
+     "Both foods contain the same energy",
+     "Food X must be a carbohydrate"
+    ],
+    "answer": 0,
+    "explanation": "A bigger temperature rise means more energy was transferred, so X has more energy per gram. High energy content is consistent with fat, but the data alone cannot prove the type. Food Y cannot be assumed to be a protein.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Why can a protein's function be lost even if all its peptide bonds remain intact after being placed in strong acid?",
+    "options": [
+     "Strong acid turns the protein into a carbohydrate",
+     "Acid disrupts the bonds holding the folded shape, so the active site no longer works",
+     "Acid adds extra amino acids to the chain",
+     "Acid always digests proteins into glucose"
+    ],
+    "answer": 1,
+    "explanation": "Extreme pH disrupts the weaker bonds that maintain the 3D shape. The sequence is unchanged but the shape, and so the function, is lost.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student claims 'glucose, starch and glycogen are the same molecule because all contain only glucose units'. Which response best evaluates this claim?",
+    "options": [
+     "Correct, because the elements present are identical so the molecules behave identically",
+     "Incorrect, because glucose is a single unit while starch and glycogen are large polymers with different structures and roles",
+     "Incorrect, because glycogen is a protein",
+     "Correct, because all carbohydrates are monosaccharides"
+    ],
+    "answer": 1,
+    "explanation": "Glucose is a monosaccharide. Starch (plants) and glycogen (animals) are polysaccharides of glucose with different arrangements and roles. Being made of the same units does not make them the same molecule.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Why is glycogen or starch a better storage molecule than many separate glucose molecules in a cell?",
+    "options": [
+     "It is a large, compact molecule that does not dissolve easily, so it does not affect water movement in the cell",
+     "It contains more nitrogen than glucose",
+     "It dissolves quickly and moves out of the cell",
+     "It is a lipid, so it provides insulation"
+    ],
+    "answer": 0,
+    "explanation": "Large polymers have little effect on the concentration of solutes in the cell, so water does not move in by osmosis. They can also be packed compactly and broken back to glucose when required.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Living things are built from a small set of large molecules. Three of the most important are carbohydrates, proteins and lipids. Knowing what each is made from, and what each does, is core MYP 5 Biology.\n\n## Carbohydrates\nCarbohydrates contain the elements **carbon, hydrogen and oxygen**. They are built from sugar units.\n- **Monosaccharides** are single sugar units, for example glucose and fructose.\n- **Disaccharides** are two sugar units joined, for example sucrose (glucose + fructose) and maltose (glucose + glucose).\n- **Polysaccharides** are long chains of glucose units. Starch is the energy store in plants, glycogen is the energy store in animals (found in the liver and muscles) and cellulose forms strong fibres in plant cell walls.\nGlucose is the main fuel for respiration. Large polysaccharides make good stores because they are compact and do not dissolve easily, so they do not upset the water balance of the cell.\n\n## Proteins\nProteins contain carbon, hydrogen, oxygen and **nitrogen** (sometimes sulfur too). They are long chains of **amino acids** joined by peptide bonds. There are about 20 different amino acids, and the order of the amino acids decides how the chain folds into a specific 3D shape. That shape decides the function.\n- Enzymes speed up reactions.\n- Antibodies fight pathogens.\n- Haemoglobin carries oxygen.\n- Keratin and collagen give structure to hair, skin and tissues.\nIf the shape is damaged by high temperature or extreme pH, the protein is **denatured** and stops working. This is permanent for most enzymes.\n\n## Lipids\nLipids (fats and oils) contain carbon, hydrogen and oxygen, but far less oxygen than carbohydrates. A fat molecule is made of one **glycerol** and three **fatty acids**. Lipids:\n- store energy (more than twice as much per gram as carbohydrate)\n- insulate the body and protect organs\n- form part of every cell membrane.\n\n## Worked example\nQuestion: A food label shows it contains nitrogen. Which molecule type is present? Answer: protein, because only proteins of the three groups contain nitrogen.\n\n## Common mistakes\n- Saying enzymes are 'killed' by heat. They are not alive, so say 'denatured'.\n- Mixing up glycogen (animals) and starch (plants).\n- Forgetting that cellulose is made of glucose but is not digested by humans.\n- Saying fats are 'bad'. They are essential in the right amounts.\n\n## How this is examined\nQuestions usually give a short context, such as an athlete's diet or a lab experiment on denaturing, and ask you to identify the molecule, link its structure to its function, interpret data (for example energy released from burning foods) or evaluate a claim. Command terms such as state, describe, explain and evaluate decide how much detail is needed. Use precise words like 'amino acids', 'glycerol', 'denatured' and 'polysaccharide'.\n\nExam tip: When asked to explain a function, link structure to function in one sentence, for example 'glycogen is a large, compact polymer of glucose, so it stores energy without affecting osmosis'.",
+  "flashcards": [
+   {
+    "front": "Elements in carbohydrates",
+    "back": "Carbon, hydrogen and oxygen only."
+   },
+   {
+    "front": "Element that proteins contain but carbohydrates and lipids do not",
+    "back": "Nitrogen (amino acids have an amine group)."
+   },
+   {
+    "front": "Monomer of a protein",
+    "back": "Amino acid. Joined by peptide bonds into long chains."
+   },
+   {
+    "front": "Building blocks of a fat (triglyceride)",
+    "back": "One glycerol molecule and three fatty acid molecules."
+   },
+   {
+    "front": "Starch vs glycogen",
+    "back": "Both are glucose polysaccharide stores. Starch is the store in plants; glycogen is the store in animals (liver and muscles)."
+   },
+   {
+    "front": "Role of cellulose",
+    "back": "Structural polysaccharide of glucose that forms strong fibres in plant cell walls. Humans cannot digest it (dietary fibre)."
+   },
+   {
+    "front": "Denaturation",
+    "back": "Loss of a protein's 3D shape (caused by high temperature or extreme pH), so it can no longer do its job. Usually permanent."
+   },
+   {
+    "front": "Examples of disaccharides",
+    "back": "Sucrose (glucose + fructose) and maltose (glucose + glucose)."
+   },
+   {
+    "front": "Main functions of lipids",
+    "back": "Energy store (over twice as much energy per gram as carbohydrate), insulation, protection of organs and part of cell membranes."
+   }
+  ]
+ },
+ {
+  "subject": "biology",
+  "grade": 5,
+  "topic": "Biological Molecules",
+  "subTopic": "Food Tests and Balanced Diets",
+  "questions": [
+   {
+    "content": "Which reagent is used to test a food sample for starch?",
+    "options": [
+     "Benedict's solution",
+     "Iodine solution",
+     "Biuret reagent",
+     "Ethanol"
+    ],
+    "answer": 1,
+    "explanation": "Iodine solution turns from orange-brown to blue-black when starch is present.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A food sample is tested with Benedict's solution and heated in a water bath. It turns brick-red. What does this show?",
+    "options": [
+     "Starch is present",
+     "Reducing sugar is present",
+     "Protein is present",
+     "Fat is present"
+    ],
+    "answer": 1,
+    "explanation": "Benedict's solution changes from blue to green, yellow, orange and brick-red when reducing sugars such as glucose are present and heated.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which test result shows protein is present?",
+    "options": [
+     "Biuret reagent turns from blue to purple",
+     "Iodine turns blue-black",
+     "Benedict's solution turns brick-red",
+     "A clear emulsion forms"
+    ],
+    "answer": 0,
+    "explanation": "The Biuret test gives a blue to purple (lilac) colour change when protein is present.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In the ethanol emulsion test for lipids, what is seen if a lipid is present?",
+    "options": [
+     "A white cloudy emulsion",
+     "A blue-black colour",
+     "A purple colour",
+     "A brick-red precipitate"
+    ],
+    "answer": 0,
+    "explanation": "The sample is mixed with ethanol and then water. Lipid is insoluble in water, so it forms a cloudy white emulsion.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which nutrient group is needed mainly for growth and repair?",
+    "options": [
+     "Protein",
+     "Fibre",
+     "Carbohydrate",
+     "Water only"
+    ],
+    "answer": 0,
+    "explanation": "Protein supplies the amino acids for growth and repair of tissues.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Tom heats a food with Benedict's solution and the mixture stays blue. Which conclusion is correct?",
+    "options": [
+     "No reducing sugar is detected",
+     "The food contains starch",
+     "The food contains protein",
+     "The food contains lipid"
+    ],
+    "answer": 0,
+    "explanation": "Blue means no reducing sugar was detected. The test says nothing about starch, protein or lipid.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student tests a food with both iodine and Benedict's solution. Iodine turns blue-black and Benedict's stays blue. What does this show?",
+    "options": [
+     "Starch is present but no reducing sugar",
+     "Reducing sugar is present but no starch",
+     "Both starch and reducing sugar are present",
+     "Neither is present"
+    ],
+    "answer": 0,
+    "explanation": "Blue-black with iodine means starch is present. Benedict's staying blue means no reducing sugar was detected.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why must the sample be heated in a water bath when carrying out the Benedict's test?",
+    "options": [
+     "The reaction needs heat to take place",
+     "Heat turns starch into protein",
+     "Heat makes the solution blue",
+     "Heat removes the lipid"
+    ],
+    "answer": 0,
+    "explanation": "The reaction between Benedict's solution and reducing sugars happens when heated (about 80°C or above). A water bath is safer than heating directly with a flame.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which safety precaution is most appropriate for the Benedict's test?",
+    "options": [
+     "Wear eye protection and use a water bath, not a flame",
+     "Smell the solution directly",
+     "Use a naked flame under a closed test tube",
+     "Taste the solution to check for sugar"
+    ],
+    "answer": 0,
+    "explanation": "Hot liquids and chemicals can harm the eyes. Never taste lab materials, and avoid heating test tubes with a naked flame when a water bath is suitable.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which diet is best described as balanced?",
+    "options": [
+     "One that contains the right proportions of carbohydrates, proteins, lipids, vitamins, minerals, fibre and water",
+     "One that contains only protein",
+     "One that excludes all fat",
+     "One that contains as many calories as possible"
+    ],
+    "answer": 0,
+    "explanation": "A balanced diet contains all the nutrient groups in suitable amounts for the person's age, size and activity level.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which deficiency disease is correctly matched with its cause?",
+    "options": [
+     "Scurvy: lack of vitamin C",
+     "Rickets: lack of vitamin C",
+     "Anaemia: lack of calcium",
+     "Scurvy: lack of iron"
+    ],
+    "answer": 0,
+    "explanation": "Scurvy is caused by a lack of vitamin C. Rickets is linked to lack of vitamin D (or calcium) and anaemia to lack of iron.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is dietary fibre important even though humans cannot digest it?",
+    "options": [
+     "It adds bulk to food so the gut muscles can push it along",
+     "It provides most of the body's energy",
+     "It forms new proteins",
+     "It stores vitamins"
+    ],
+    "answer": 0,
+    "explanation": "Fibre (mainly cellulose) adds bulk and helps peristalsis move food through the gut, which prevents constipation.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A pregnant woman, a teenage athlete and an office worker have different dietary needs. Which factor best explains this?",
+    "options": [
+     "Age, activity level and life stage change the energy and nutrients required",
+     "Everyone needs the same diet",
+     "Only body colour matters",
+     "Only the time of day matters"
+    ],
+    "answer": 0,
+    "explanation": "Energy and nutrient needs depend on age, size, sex, activity and conditions such as pregnancy. Athletes need more energy and teenagers need extra protein and calcium for growth.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student wants to test whether a milk sample contains both protein and lipid. Which pair of tests is correct?",
+    "options": [
+     "Biuret test for protein and ethanol emulsion test for lipid",
+     "Iodine test for protein and Benedict's test for lipid",
+     "Benedict's test for protein and Biuret for lipid",
+     "Ethanol test for protein and iodine for lipid"
+    ],
+    "answer": 0,
+    "explanation": "Biuret detects protein and the ethanol emulsion test detects lipid. Iodine is for starch and Benedict's is for reducing sugar.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student tests four foods with Benedict's solution and reports results as 'a bit orange' and 'a bit more orange'. Which improvement makes the results more reliable and comparable?",
+    "options": [
+     "Use the same volume of food and reagent, heat for the same time, and compare against a colour chart",
+     "Use different volumes each time",
+     "Taste the samples to confirm",
+     "Heat each sample for as long as desired"
+    ],
+    "answer": 0,
+    "explanation": "Controlling variables (volumes, time, temperature) and using a standard colour scale makes the semi-quantitative results fairer and repeatable.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student tests a clear, colourless drink with iodine, Benedict's and Biuret. Only Benedict's gives a brick-red colour. A friend says: 'The drink contains sucrose.' Which evaluation is best?",
+    "options": [
+     "Not supported; the test shows reducing sugar such as glucose. Sucrose is a non-reducing sugar, so it would not give this result unless broken down first",
+     "Fully supported; all sugars give a brick-red colour",
+     "Supported, because sucrose is a protein",
+     "Not supported, because brick-red means starch"
+    ],
+    "answer": 0,
+    "explanation": "Benedict's detects reducing sugars (glucose, maltose). Sucrose does not react until boiled with dilute acid, so the result points to a reducing sugar, not sucrose.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A teenager eats a diet that contains plenty of energy but almost no fruit or vegetables. After months the gums bleed and wounds heal slowly. Which is the best explanation?",
+    "options": [
+     "A deficiency of vitamin C, found in fresh fruit and vegetables",
+     "A deficiency of iron only",
+     "Too much dietary fibre",
+     "Too much water"
+    ],
+    "answer": 0,
+    "explanation": "Bleeding gums and slow healing are signs of scurvy, caused by lack of vitamin C. Energy intake can be high while a nutrient is still missing, so the diet is not balanced.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A population study found that people eating a diet very high in saturated fat and low in fibre had higher rates of heart disease. Which statement is the most reasonable evaluation?",
+    "options": [
+     "The data show a link, but other factors such as exercise and smoking may also contribute, so the diet is not proven to be the only cause",
+     "The study proves that fat is the only cause of heart disease",
+     "The study shows fibre cures heart disease",
+     "The study has no value because it is about people"
+    ],
+    "answer": 0,
+    "explanation": "Correlation does not prove sole causation. A good evaluation notes a link and acknowledges confounding factors such as exercise, smoking and genetics.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Food tests let scientists identify which nutrients are in a sample, and the idea of a balanced diet explains why we need all of them in the right amounts. Both topics appear often in MYP 5 Biology, especially in practical (Criterion B and C) questions.\n\n## The four food tests\n- **Starch (iodine test):** add a few drops of orange-brown iodine solution. A positive result is **blue-black**. Negative stays orange-brown.\n- **Reducing sugar (Benedict's test):** add Benedict's solution (blue) to the sample and heat in a water bath at about 80°C for several minutes. The colour goes blue → green → yellow → orange → **brick-red** as the amount of reducing sugar increases. Blue means none detected.\n- **Protein (Biuret test):** add Biuret reagent (or sodium hydroxide followed by copper sulfate). A positive result is **purple (lilac)**. Negative stays blue.\n- **Lipid (ethanol emulsion test):** shake the sample with ethanol, then pour into water. A positive result is a **cloudy white emulsion**. Negative stays clear.\n\n## Doing the tests well\nGood practice in a food test investigation includes:\n- using the same volume of food and reagent each time\n- using a water bath, not a naked flame, for heating\n- wearing eye protection\n- including a control (for example water instead of food) to show the reagent alone does not change colour\n- never tasting lab materials.\nBenedict's results can be compared with a colour chart to give a rough amount (semi-quantitative). Sucrose does not give a positive Benedict's result unless it is first boiled with dilute acid, because it is not a reducing sugar.\n\n## A balanced diet\nA balanced diet contains the correct proportions of:\n- carbohydrates (energy)\n- proteins (growth and repair)\n- lipids (energy store, insulation)\n- vitamins and minerals (small amounts for health)\n- fibre (keeps food moving through the gut)\n- water (needed for reactions and transport).\nEnergy needs depend on age, size, sex and activity. Teenagers need extra protein, calcium and iron. Athletes need more energy.\n\n## Deficiency diseases\n- **Scurvy:** lack of vitamin C (bleeding gums, slow healing).\n- **Rickets:** lack of vitamin D or calcium (soft, bent bones).\n- **Anaemia:** lack of iron (tiredness, pale skin, because haemoglobin cannot be made).\n- **Kwashiorkor:** severe protein deficiency.\n\n## Common mistakes\n- Saying iodine tests for sugar. It tests for starch.\n- Writing 'clear' instead of 'blue' for a negative Benedict's test.\n- Claiming a food is 'healthy' or 'unhealthy' without referring to nutrients and amounts.\n- Forgetting that tests only show what is present, not how much unless a scale is used.\n\n## How this is examined\nExpect a practical context, for example a table of results in words from several foods. You may be asked to identify nutrients, name a safety precaution, suggest an improvement to make results more reliable, or evaluate a diet plan for a person with specific needs. Extended questions ask you to justify conclusions using the data and to say what limits them.\n\nExam tip: Always give both the reagent and the colour change, for example 'Biuret turns blue to purple', and name one control variable when asked how to make a test fair.",
+  "flashcards": [
+   {
+    "front": "Test for starch",
+    "back": "Add iodine solution. Orange-brown turns blue-black if starch is present."
+   },
+   {
+    "front": "Test for reducing sugar",
+    "back": "Benedict's solution, heated in a water bath. Blue turns green, yellow, orange, then brick-red as sugar increases."
+   },
+   {
+    "front": "Test for protein",
+    "back": "Biuret reagent. Blue turns purple (lilac) if protein is present."
+   },
+   {
+    "front": "Test for lipid",
+    "back": "Ethanol emulsion test: shake with ethanol, pour into water. A cloudy white emulsion shows lipid."
+   },
+   {
+    "front": "Why use a water bath for Benedict's test?",
+    "back": "Gives steady, safe heating at about 80°C without a naked flame."
+   },
+   {
+    "front": "Why does sucrose not react with Benedict's?",
+    "back": "It is a non-reducing sugar. It only gives a positive result after boiling with dilute acid."
+   },
+   {
+    "front": "Scurvy",
+    "back": "Deficiency disease caused by lack of vitamin C. Signs include bleeding gums and slow wound healing."
+   },
+   {
+    "front": "Role of dietary fibre",
+    "back": "Adds bulk so the gut muscles can move food along (peristalsis) and prevents constipation. It is not digested."
+   },
+   {
+    "front": "Anaemia",
+    "back": "Caused by lack of iron, which is needed to make haemoglobin. Leads to tiredness and pale skin."
+   }
+  ]
+ }
+]

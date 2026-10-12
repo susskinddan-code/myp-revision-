@@ -1,0 +1,265 @@
+[
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Optimisation",
+  "subTopic": "Linear Programming with Inequalities",
+  "questions": [
+   {
+    "content": "A van can carry at most 40 boxes. If x is the number of boxes, which inequality shows this?",
+    "options": [
+     "x ≥ 40",
+     "x ≤ 40",
+     "x < 40 only",
+     "x = 40"
+    ],
+    "answer": 1,
+    "explanation": "\"At most\" means the number can be 40 or less, so x ≤ 40. \"At least\" would give x ≥ 40.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A shop must sell at least 5 phones (p) each day. Which inequality describes this?",
+    "options": [
+     "p ≤ 5",
+     "p > 5 only",
+     "p = 5",
+     "p ≥ 5"
+    ],
+    "answer": 3,
+    "explanation": "\"At least 5\" includes 5 and anything bigger, so p ≥ 5.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which point satisfies the inequality 2x + y ≤ 12?",
+    "options": [
+     "(3, 5)",
+     "(5, 4)",
+     "(6, 1)",
+     "(4, 5)"
+    ],
+    "answer": 0,
+    "explanation": "Check each point. (3, 5) gives 6 + 5 = 11, which is ≤ 12. (5, 4) gives 14, (6, 1) gives 13, and (4, 5) gives 13, so these fail.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In a linear programming problem, what is the feasible region?",
+    "options": [
+     "The line with the highest profit",
+     "The point where the axes cross",
+     "The set of points that satisfy all the constraints",
+     "The set of points that break at least one constraint"
+    ],
+    "answer": 2,
+    "explanation": "The feasible region contains every point that satisfies all the inequalities at the same time. The best solution is found in or on the edge of this region.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A bakery's profit is P = 30x + 20y, where x is the number of cakes and y is the number of loaves. What is P called?",
+    "options": [
+     "The constraint",
+     "The feasible region",
+     "The boundary line",
+     "The objective function"
+    ],
+    "answer": 3,
+    "explanation": "The quantity you want to maximise or minimise (here profit) is the objective function. Constraints are the inequalities that limit x and y.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A bakery uses 2 hours of oven time per batch of cakes (x) and 1 hour per batch of loaves (y). There are 40 oven hours available. Where does the boundary line of 2x + y ≤ 40 cross the axes?",
+    "options": [
+     "(40, 0) and (0, 40)",
+     "(20, 0) and (0, 40)",
+     "(20, 0) and (0, 20)",
+     "(2, 0) and (0, 1)"
+    ],
+    "answer": 1,
+    "explanation": "When y = 0, 2x = 40 so x = 20. When x = 0, y = 40. The line crosses at (20, 0) and (0, 40).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A bakery makes x batches of cakes and y batches of loaves. Cakes need 2 hours of oven time, loaves need 1 hour, and at most 40 oven hours are available. Which inequality models the oven time?",
+    "options": [
+     "x + 2y ≤ 40",
+     "2x + y ≥ 40",
+     "2x + y ≤ 40",
+     "3xy ≤ 40"
+    ],
+    "answer": 2,
+    "explanation": "Total oven time is 2 hours per cake batch plus 1 hour per loaf batch: 2x + y. This must be at most 40. Swapping the coefficients, x + 2y, would mean the wrong item uses 2 hours.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The lines x + y = 30 and 2x + y = 40 are two boundaries of a feasible region. At which point do they cross?",
+    "options": [
+     "(10, 20)",
+     "(20, 10)",
+     "(10, 30)",
+     "(15, 15)"
+    ],
+    "answer": 0,
+    "explanation": "Subtract the equations: (2x + y) − (x + y) = 40 − 30, so x = 10. Then y = 30 − 10 = 20. Check: 2(10) + 20 = 40.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The feasible region has corners at (0, 0), (20, 0), (10, 20) and (0, 30). The profit is P = 30x + 20y. What is the maximum profit?",
+    "options": [
+     "600",
+     "700",
+     "900",
+     "1200"
+    ],
+    "answer": 1,
+    "explanation": "Evaluate P at each corner: 0, 600, 30(10) + 20(20) = 700, and 600. The maximum is 700 at (10, 20). The optimum for a linear objective is always at a corner.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How many points (x, y) with whole-number coordinates satisfy x ≥ 0, y ≥ 0 and x + y ≤ 3?",
+    "options": [
+     "6",
+     "9",
+     "16",
+     "10"
+    ],
+    "answer": 3,
+    "explanation": "List them by x: x = 0 gives y = 0, 1, 2, 3 (4 points); x = 1 gives 3 points; x = 2 gives 2 points; x = 3 gives 1 point. Total 4 + 3 + 2 + 1 = 10.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which region should be shaded to show y > 2x on a graph (using a dashed line y = 2x)?",
+    "options": [
+     "The region above the line",
+     "The region below the line",
+     "The region on both sides",
+     "Only the line itself"
+    ],
+    "answer": 0,
+    "explanation": "Test a point such as (0, 5): 5 > 0 is true, and (0, 5) lies above the line. The line is dashed because > does not include equality.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "For the profit P = 30x + 20y, what is the gradient of a line of constant profit when written as y = mx + c?",
+    "options": [
+     "3/2",
+     "−2/3",
+     "−3/2",
+     "−30"
+    ],
+    "answer": 2,
+    "explanation": "Rearrange 30x + 20y = P to y = −(3/2)x + P/20. The gradient is −3/2. Every profit line is parallel, and the best one touches the feasible region at a corner.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A cost C = 3x + 5y is to be minimised subject to x + y ≥ 10, x ≤ 8, y ≥ 1 and x ≥ 0. Which whole-number point gives the minimum cost, and what is it?",
+    "options": [
+     "(9, 1) with cost 32",
+     "(0, 10) with cost 50",
+     "(8, 1) with cost 29",
+     "(8, 2) with cost 34"
+    ],
+    "answer": 3,
+    "explanation": "The corners of the region are (8, 2) and (0, 10). (9, 1) breaks x ≤ 8 and (8, 1) breaks x + y ≥ 10, so they are not allowed. C = 24 + 10 = 34 at (8, 2) compared with 50 at (0, 10).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A tree-selling business models profit with P = 30x + 20y subject to x + y ≤ 30, 2x + y ≤ 40, y ≤ 15, x ≥ 0 and y ≥ 0. The corner (12.5, 15) gives the maximum, but trees cannot be split. Which whole-number plan gives the greatest profit?",
+    "options": [
+     "x = 12, y = 15 with profit 660",
+     "x = 13, y = 14 with profit 670",
+     "x = 13, y = 15 with profit 690",
+     "x = 12.5, y = 15 with profit 675"
+    ],
+    "answer": 1,
+    "explanation": "x = 13, y = 15 breaks 2x + y ≤ 40 (41). (13, 14) gives 2(13) + 14 = 40 and profit 390 + 280 = 670. (12, 15) gives 660. 675 needs a half item, so it is not allowed.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A school buys x laptops and y tablets. It buys at most 30 devices in total, at least twice as many tablets as laptops, and spends at most £9000. Laptops cost £600 and tablets cost £250. Which set of inequalities models this?",
+    "options": [
+     "x + y ≤ 30, x ≥ 2y, 600x + 250y ≤ 9000",
+     "x + y ≥ 30, y ≥ 2x, 600x + 250y ≤ 9000",
+     "x + y ≤ 30, y ≥ 2x, 600x + 250y ≤ 9000",
+     "x + y ≤ 30, y ≥ 2x, 250x + 600y ≤ 9000"
+    ],
+    "answer": 2,
+    "explanation": "\"At least twice as many tablets as laptops\" gives y ≥ 2x. The cost uses 600 per laptop (x) and 250 per tablet (y). The device limit \"at most\" gives ≤.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Using x + y ≤ 30, y ≥ 2x and 600x + 250y ≤ 9000 for laptops (x) and tablets (y), what is the greatest number of laptops the school can buy?",
+    "options": [
+     "8",
+     "9",
+     "10",
+     "15"
+    ],
+    "answer": 0,
+    "explanation": "Buying more tablets only increases cost, so test y = 2x. Then the cost is 600x + 500x = 1100x ≤ 9000 gives x ≤ 8.18. With x = 8, y = 16 costs £8800 and 24 devices. x = 9 would need y = 18 and cost £9900.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The corners of a feasible region are (0, 0), (20, 0), (10, 20) and (0, 30). The profit on chairs rises so the objective is now P = 30x + 40y. Where is the maximum profit now, and what is it?",
+    "options": [
+     "(10, 20) with profit 1100",
+     "(0, 30) with profit 1200",
+     "(20, 0) with profit 600",
+     "(10, 20) with profit 700"
+    ],
+    "answer": 1,
+    "explanation": "Evaluate: (0, 0) gives 0, (20, 0) gives 600, (10, 20) gives 300 + 800 = 1100, and (0, 30) gives 1200. A change in the objective can move the optimum to a different corner.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "With x + y ≤ 30 and 2x + y ≤ 40, the maximum of P = 30x + 20y is 700. The oven is upgraded so the second constraint becomes 2x + y ≤ 50. What is the new maximum profit?",
+    "options": [
+     "700",
+     "750",
+     "900",
+     "800"
+    ],
+    "answer": 3,
+    "explanation": "The new corners are (0, 0), (25, 0), (20, 10) and (0, 30), where x = 20, y = 10 comes from x + y = 30 and 2x + y = 50. P values are 0, 750, 800 and 600. The maximum is 800.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Turning words into inequalities\nLinear programming is a way to find the best choice (the most profit or the least cost) when there are limits on what you can do. First, define your variables, for example x = number of cakes and y = number of loaves. Then write each limit as an inequality.\n- \"At most\", \"no more than\", \"up to\": use ≤.\n- \"At least\", \"no fewer than\", \"a minimum of\": use ≥.\n- \"At least twice as many y as x\": y ≥ 2x.\n- Quantities cannot be negative, so x ≥ 0 and y ≥ 0 are almost always needed.\n\n## Drawing the feasible region\nFor each inequality, draw the boundary line (replace the inequality sign with =). Find two points, usually the axis intercepts. For 2x + y ≤ 40, set y = 0 to get x = 20 and set x = 0 to get y = 40. Use a solid line for ≤ or ≥, and a dashed line for < or >. Then test a point, such as (0, 0), to decide which side to shade. If it satisfies the inequality, shade the side containing it. The feasible region is where all the shaded conditions overlap. Every point inside it satisfies all the constraints.\n\n## The objective function\nThe objective function is the quantity you want to optimise, such as profit P = 30x + 20y. A key fact is that, for a linear objective, the maximum or minimum always occurs at a corner (vertex) of the feasible region. So the method is:\n- Find the coordinates of every corner, by reading from the graph or solving two boundary equations together.\n- Substitute each corner into the objective function.\n- Choose the largest value for a maximum, or the smallest for a minimum.\n\nWorked example: with x + y ≤ 30 and 2x + y ≤ 40, the corners are (0, 0), (20, 0), (10, 20) and (0, 30). The point (10, 20) comes from solving x + y = 30 and 2x + y = 40 (subtract to get x = 10, then y = 20). Profit values are 0, 600, 700 and 600. The best plan is x = 10 and y = 20 with a profit of 700.\n\n## Profit lines\nAll lines P = 30x + 20y are parallel, with gradient −3/2. Sliding such a line away from the origin shows which corner is touched last. It also shows why a change in the profit per item, for example P = 30x + 40y, can move the best corner.\n\n## Whole numbers\nIf the items cannot be split, the answer must be whole numbers. The best corner may have a fraction, such as (12.5, 15). Then you must check the whole-number points near it that still obey every constraint. Rounding up can break a constraint, so test each one.\n\n## Common mistakes\n- Reversing the coefficients, such as writing x + 2y when cakes need 2 hours.\n- Using ≥ when the words say \"at most\".\n- Forgetting x ≥ 0 and y ≥ 0.\n- Reading a corner from a graph without checking it in both equations.\n- Giving the profit but not the plan, or the plan but not the profit.\n\n## How this is examined\nQuestions give a context, for example a bakery, a school budget or a workshop, with the limits in words and numbers. You must form the inequalities, represent the region, find the corners and state the best plan. Extended tasks ask you to state assumptions (such as all items sell, or prices stay constant), check whether answers must be whole numbers, and judge how the plan changes if a limit changes.\n\nExam tip: Always finish with a sentence in context, such as \"The bakery should make 10 batches of cakes and 20 batches of loaves for a maximum profit of 700.\" Check your corner by substituting it into every constraint.",
+  "flashcards": [
+   {
+    "front": "At most / no more than",
+    "back": "Means ≤. For example, at most 40 boxes: x ≤ 40."
+   },
+   {
+    "front": "At least / a minimum of",
+    "back": "Means ≥. For example, at least 5 sold: p ≥ 5."
+   },
+   {
+    "front": "Constraint",
+    "back": "An inequality that limits the variables, such as 2x + y ≤ 40."
+   },
+   {
+    "front": "Feasible region",
+    "back": "The set of points that satisfy all the constraints at once."
+   },
+   {
+    "front": "Objective function",
+    "back": "The expression to maximise or minimise, such as profit P = 30x + 20y."
+   },
+   {
+    "front": "Where is the optimum?",
+    "back": "At a corner (vertex) of the feasible region, for a linear objective function."
+   },
+   {
+    "front": "Method of corners",
+    "back": "Find all corners, substitute each into the objective function, and pick the largest or smallest."
+   },
+   {
+    "front": "Solid or dashed line?",
+    "back": "Solid for ≤ or ≥ (boundary included); dashed for < or > (boundary not included)."
+   },
+   {
+    "front": "Whole-number answers",
+    "back": "If items cannot be split, check whole-number points near the best corner that still satisfy every constraint."
+   }
+  ]
+ }
+]

@@ -1,0 +1,265 @@
+[
+ {
+  "subject": "chemistry",
+  "grade": 5,
+  "topic": "Chemistry in Everyday Life",
+  "subTopic": "Food Chemistry: Fats, Sugars and Proteins",
+  "questions": [
+   {
+    "content": "A drop of iodine solution turns blue-black on a food sample. Which nutrient is present?",
+    "options": [
+     "Protein",
+     "Starch",
+     "Fat",
+     "Vitamin C"
+    ],
+    "answer": 1,
+    "explanation": "Iodine solution is orange-brown but turns blue-black with starch.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What are the monomers (building blocks) of proteins?",
+    "options": [
+     "Glucose molecules",
+     "Fatty acids",
+     "Amino acids",
+     "Glycerol molecules"
+    ],
+    "answer": 2,
+    "explanation": "Proteins are long chains of amino acids joined by peptide bonds.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which nutrient releases the most energy per gram when eaten?",
+    "options": [
+     "Fat",
+     "Carbohydrate",
+     "Protein",
+     "Water"
+    ],
+    "answer": 0,
+    "explanation": "Fat gives about 37 kJ per gram, roughly double the energy of carbohydrate or protein.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A positive Benedict's test on warming gives which colour?",
+    "options": [
+     "Blue",
+     "Purple",
+     "Brick-red or orange",
+     "Blue-black"
+    ],
+    "answer": 2,
+    "explanation": "Benedict's solution starts blue and turns green, yellow, orange then brick-red with reducing sugars.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A positive biuret test for protein gives which colour?",
+    "options": [
+     "Orange",
+     "Purple or violet",
+     "Brick-red",
+     "Blue-black"
+    ],
+    "answer": 1,
+    "explanation": "Sodium hydroxide and copper sulfate turn from blue to purple with protein.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A fat or oil molecule is made from which parts?",
+    "options": [
+     "One glycerol and three fatty acids",
+     "Three glycerols and one fatty acid",
+     "Many amino acids",
+     "Many glucose units"
+    ],
+    "answer": 0,
+    "explanation": "Fats are triglycerides: an ester of glycerol with three fatty acid chains.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What makes a fat saturated?",
+    "options": [
+     "Its fatty acid chains contain only single carbon-carbon bonds",
+     "It contains water",
+     "Its chains contain C=C double bonds",
+     "It has no carbon atoms"
+    ],
+    "answer": 0,
+    "explanation": "Saturated fatty acids have no C=C bonds. Unsaturated ones have one or more.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Equal volumes of oils X and Y are tested. X needs 3 drops of bromine water before the orange colour stays, and Y needs 12 drops. What can you conclude?",
+    "options": [
+     "X is more unsaturated than Y",
+     "Y is more unsaturated than X",
+     "X and Y are identical",
+     "X contains starch"
+    ],
+    "answer": 1,
+    "explanation": "Unsaturated oils react with bromine at C=C bonds, so the oil that uses more bromine has more double bonds. Y used more, so Y is more unsaturated.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Vegetable oil is hydrogenated using nickel at about 60 °C to make margarine. What is the main change?",
+    "options": [
+     "Hydrogen adds across C=C bonds, making the fat firmer",
+     "Water is removed",
+     "Oxygen is added",
+     "C-C bonds break"
+    ],
+    "answer": 0,
+    "explanation": "Hydrogenation turns C=C into C-C, giving a more saturated fat with a higher melting point.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What forms when two amino acids join to make a peptide bond?",
+    "options": [
+     "A water molecule is released",
+     "Carbon dioxide is released",
+     "Oxygen is released",
+     "Nothing is released"
+    ],
+    "answer": 0,
+    "explanation": "Amino acids join by condensation, losing one water molecule for each peptide bond.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A food sample gives a blue Benedict's test. It is boiled with dilute hydrochloric acid, neutralised and tested again. This time it turns brick-red. What does this suggest?",
+    "options": [
+     "It contains a non-reducing sugar such as sucrose",
+     "It contains starch only",
+     "It contains only fat",
+     "It contains no carbohydrate"
+    ],
+    "answer": 0,
+    "explanation": "Sucrose is a non-reducing sugar. Acid breaks it into glucose and fructose, which are reducing sugars.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "100 g of water is heated by burning 0.5 g of a snack and its temperature rises by 20 °C. Using 4.2 J per g per °C, how much energy per gram does the snack release?",
+    "options": [
+     "8.4 kJ/g",
+     "16.8 kJ/g",
+     "42 kJ/g",
+     "4.2 kJ/g"
+    ],
+    "answer": 1,
+    "explanation": "Energy = 100 × 4.2 × 20 = 8400 J = 8.4 kJ. Per gram = 8.4 ÷ 0.5 = 16.8 kJ/g.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which pairing of food test and nutrient is INCORRECT?",
+    "options": [
+     "Biuret: protein",
+     "Iodine: starch",
+     "Ethanol emulsion test: fat",
+     "Benedict's: fat"
+    ],
+    "answer": 3,
+    "explanation": "Benedict's solution detects reducing sugars, not fat. Fat is tested using the ethanol emulsion test (cloudy white emulsion).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student measures 12 kJ per gram for a nut in a calorimetry experiment, but the label says 25 kJ per gram. What is the most likely reason for the low value?",
+    "options": [
+     "Heat was lost to the surroundings and burning may be incomplete",
+     "Water absorbs extra energy",
+     "Nuts contain no fat",
+     "The thermometer was too accurate"
+    ],
+    "answer": 0,
+    "explanation": "In simple calorimetry much of the heat escapes into the air and the flask, so the water gains less energy than the food releases.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Per 100 g, food P has 20 g fat, 10 g carbohydrate and 5 g protein. Using 37, 17 and 17 kJ per gram, what is the energy content?",
+    "options": [
+     "745 kJ",
+     "995 kJ",
+     "1295 kJ",
+     "1500 kJ"
+    ],
+    "answer": 1,
+    "explanation": "Fat: 20 × 37 = 740. Carbohydrate: 10 × 17 = 170. Protein: 5 × 17 = 85. Total = 995 kJ.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Why are unsaturated oils usually liquid at room temperature, while saturated fats are solid?",
+    "options": [
+     "C=C bonds put kinks in chains, so molecules pack less closely and have weaker forces",
+     "Unsaturated oils are heavier",
+     "Unsaturated oils contain water",
+     "Saturated fats have double bonds"
+    ],
+    "answer": 0,
+    "explanation": "Kinked chains cannot pack tightly, so less energy is needed to separate the molecules.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which statement correctly describes digestion of protein?",
+    "options": [
+     "Enzymes add water to break peptide bonds, producing amino acids",
+     "Enzymes remove water to form amino acids",
+     "Acid turns protein into glucose",
+     "Protein is changed into fat"
+    ],
+    "answer": 0,
+    "explanation": "Digestion is hydrolysis: protease enzymes use water to split peptide bonds into amino acids.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Three oils are compared for unsaturation. Equal volumes of oil are shaken with bromine water, added drop by drop until the orange colour stays. Which result shows the MOST unsaturated oil?",
+    "options": [
+     "The oil needing the most drops",
+     "The oil needing the fewest drops",
+     "The oil with the darkest colour",
+     "The oil that floats highest"
+    ],
+    "answer": 0,
+    "explanation": "More C=C bonds react with more bromine, so more drops are needed before excess bromine stays orange. The oil volume must be kept equal to keep the test fair.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Food is a mixture of chemicals, and three big groups provide energy and building material: fats (lipids), carbohydrates such as sugars and starch, and proteins. Understanding their structures explains why foods behave differently and how we can test for them.\n\n## Fats and oils\nA fat or oil is a triglyceride: one **glycerol** molecule joined to three **fatty acid** chains by ester links. Fatty acids can be:\n- **Saturated**: only single carbon-carbon bonds, so the chains are straight, pack closely and the fat is usually solid at room temperature (butter, lard).\n- **Unsaturated**: one or more C=C double bonds. Double bonds put kinks in the chain, so the molecules pack less well and the oil is usually liquid (olive oil, sunflower oil).\n\nUnsaturated oils decolourise bromine water because bromine adds across C=C. The more double bonds, the more bromine is used. In industry, vegetable oils can be hardened by **hydrogenation**: hydrogen is added at about 60 °C with a nickel catalyst, turning C=C into C-C and producing margarine. Fat releases about 37 kJ of energy per gram, more than carbohydrate or protein.\n\n## Carbohydrates\nSugars such as glucose (C₆H₁₂O₆) are small carbohydrates. Starch is a long polymer made of many glucose units. Carbohydrates release about 17 kJ per gram. Two tests are important:\n- **Iodine**: orange-brown to blue-black means starch is present.\n- **Benedict's**: warm the sample with the blue solution. Reducing sugars such as glucose give green, yellow, orange then brick-red. Sucrose is non-reducing, so it stays blue until it has been broken down by boiling with dilute acid.\n\n## Proteins\nProteins are polymers of amino acids. Each amino acid has an amine group (-NH₂) and a carboxyl group (-COOH). Neighbouring amino acids join by **peptide bonds**, a condensation reaction that releases a water molecule each time. Protein releases about 17 kJ per gram. The **biuret test** (sodium hydroxide plus copper sulfate) turns from blue to purple when protein is present. During digestion, enzymes split peptide bonds using water (hydrolysis) to make amino acids.\n\n## Fat test\nMix the sample with ethanol, then pour into water. A cloudy white emulsion shows fat or oil.\n\n## Energy from food\nYou can estimate the energy in a food by burning it under a container of water. Energy transferred = mass of water × 4.2 × temperature rise (in J). Example: 100 g of water rises by 20 °C. Energy = 100 × 4.2 × 20 = 8400 J, or 8.4 kJ. If 0.5 g of food was burnt, the energy is 16.8 kJ per gram. Your result is usually lower than data-book values because heat is lost to the air and burning may be incomplete. To improve it, shield the flame, insulate the container and keep the flame close.\n\n## Common mistakes\n- Saying unsaturated means \"contains no saturated fat\". It means C=C bonds are present.\n- Mixing up the tests: iodine is for starch, Benedict's for reducing sugars, biuret for protein.\n- Forgetting to heat Benedict's solution.\n\n## How this is examined\nA typical task describes a student comparing breakfast cereals or oils. You may need to interpret test results, calculate energy values, name control variables, evaluate the accuracy of calorimetry and suggest improvements. Command terms: state, explain, calculate, evaluate.\n\nExam tip: In experiment questions always name the independent, dependent and control variables, and when a measured energy value is lower than expected, give a specific cause such as heat loss rather than just \"human error\".",
+  "flashcards": [
+   {
+    "front": "Structure of a fat or oil",
+    "back": "A triglyceride: one glycerol molecule joined to three fatty acid chains by ester bonds."
+   },
+   {
+    "front": "Saturated vs unsaturated fat",
+    "back": "Saturated: only C-C single bonds, usually solid. Unsaturated: at least one C=C bond, usually liquid."
+   },
+   {
+    "front": "Hydrogenation of oils",
+    "back": "Hydrogen added to C=C using a nickel catalyst at about 60 °C, giving a firmer, more saturated fat (margarine)."
+   },
+   {
+    "front": "Test for starch",
+    "back": "Add iodine solution: orange-brown turns blue-black."
+   },
+   {
+    "front": "Test for reducing sugars",
+    "back": "Warm with Benedict's solution: blue turns green, yellow, orange then brick-red."
+   },
+   {
+    "front": "Test for protein",
+    "back": "Biuret test: sodium hydroxide and copper sulfate turn from blue to purple."
+   },
+   {
+    "front": "What is a peptide bond?",
+    "back": "The bond that joins amino acids in a protein, formed by condensation with loss of water."
+   },
+   {
+    "front": "Energy in food from calorimetry",
+    "back": "Energy (J) = mass of water × 4.2 × temperature rise. Divide by mass of food for J per g."
+   },
+   {
+    "front": "Approximate energy values",
+    "back": "Fat about 37 kJ/g; carbohydrate and protein about 17 kJ/g."
+   }
+  ]
+ }
+]

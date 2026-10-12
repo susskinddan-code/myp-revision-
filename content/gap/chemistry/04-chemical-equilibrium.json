@@ -1,0 +1,528 @@
+[
+ {
+  "subject": "chemistry",
+  "grade": 5,
+  "topic": "Chemical Equilibrium",
+  "subTopic": "Reversible Reactions and Dynamic Equilibrium",
+  "questions": [
+   {
+    "content": "Which symbol shows that a reaction is reversible?",
+    "options": [
+     "→",
+     "⇌",
+     "=",
+     "↑"
+    ],
+    "answer": 1,
+    "explanation": "The double arrow ⇌ shows that the reaction can go both forwards and backwards.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Hydrated copper(II) sulfate is heated until it turns white. What colour was it at the start?",
+    "options": [
+     "Green",
+     "Blue",
+     "Black",
+     "Yellow"
+    ],
+    "answer": 1,
+    "explanation": "Hydrated copper(II) sulfate is blue. Heating drives off water to leave white anhydrous copper(II) sulfate.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Water is added to white anhydrous copper(II) sulfate. What do you see?",
+    "options": [
+     "It turns blue",
+     "It stays white",
+     "It turns black",
+     "It turns pink"
+    ],
+    "answer": 0,
+    "explanation": "The reaction reverses and hydrated blue crystals form. This is a test for water.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is true about the rates of the forward and reverse reactions at dynamic equilibrium?",
+    "options": [
+     "They are equal",
+     "The forward rate is zero",
+     "The reverse rate is zero",
+     "The forward rate is always larger"
+    ],
+    "answer": 0,
+    "explanation": "At equilibrium the two rates are equal, so there is no overall change in amounts.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is needed for a reversible reaction to reach equilibrium?",
+    "options": [
+     "A closed system",
+     "An open container",
+     "A catalyst",
+     "High pressure"
+    ],
+    "answer": 0,
+    "explanation": "If substances can escape, the system cannot settle at equilibrium.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "At equilibrium, the concentrations of reactants and products are...",
+    "options": [
+     "Constant",
+     "Equal",
+     "Zero for the reactants",
+     "Increasing"
+    ],
+    "answer": 0,
+    "explanation": "Concentrations stay constant. They are not necessarily equal.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "CaCO₃ ⇌ CaO + CO₂ is heated in an open test tube. Why does it not reach equilibrium?",
+    "options": [
+     "CO₂ escapes so the reverse reaction cannot happen",
+     "Calcium carbonate is a liquid",
+     "The reaction needs oxygen",
+     "The temperature is too low"
+    ],
+    "answer": 0,
+    "explanation": "Equilibrium needs a closed system. In an open tube the gas escapes and the reaction goes to completion.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "N₂O₄ (colourless) ⇌ 2NO₂ (brown) is sealed in a tube. At equilibrium the brown colour stops changing. Which statement explains this?",
+    "options": [
+     "Both reactions continue at the same rate",
+     "Both reactions have stopped",
+     "Only the forward reaction continues",
+     "Only the reverse reaction continues"
+    ],
+    "answer": 0,
+    "explanation": "Equilibrium is dynamic. The colour is constant because NO₂ is formed as fast as it is used.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The concentration of ammonia (mol/dm³) at times 0, 2, 4, 6, 8, 10 min is 0.0, 0.3, 0.5, 0.6, 0.6, 0.6. When is equilibrium reached?",
+    "options": [
+     "After 2 min",
+     "After 4 min",
+     "After 6 min",
+     "After 10 min"
+    ],
+    "answer": 2,
+    "explanation": "The concentration stops changing from 6 minutes onward, so equilibrium is reached at about 6 minutes.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which change is easily reversible?",
+    "options": [
+     "Burning a piece of paper",
+     "Heating hydrated copper(II) sulfate",
+     "Frying an egg",
+     "Rusting of iron"
+    ],
+    "answer": 1,
+    "explanation": "Hydrated copper(II) sulfate loses water on heating and regains it when water is added. The others are irreversible.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Ammonium chloride is heated in a test tube and white solid forms again near the cool top of the tube. What happens?",
+    "options": [
+     "Ammonia and hydrogen chloride recombine on cooling",
+     "The solid melts",
+     "Water condenses",
+     "Carbon dioxide forms"
+    ],
+    "answer": 0,
+    "explanation": "NH₄Cl ⇌ NH₃ + HCl. The gases recombine into solid ammonium chloride where it is cooler.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A reaction starts with only reactants. Which describes the rates as equilibrium is approached?",
+    "options": [
+     "Forward rate falls and reverse rate rises until equal",
+     "Both rates rise",
+     "Both rates fall to zero",
+     "Forward rate rises and reverse falls"
+    ],
+    "answer": 0,
+    "explanation": "Reactants are used up so the forward rate falls, while the products build up, so the reverse rate rises.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student says that at equilibrium the reaction has stopped. What is the best correction?",
+    "options": [
+     "Reactions continue in both directions at equal rates",
+     "Reactions are faster",
+     "The system is open",
+     "Equilibrium means 100% product"
+    ],
+    "answer": 0,
+    "explanation": "The macroscopic properties are constant, but molecules keep reacting in both directions.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "1.0 mol of N₂O₄ is sealed in a vessel. At equilibrium 0.60 mol of N₂O₄ remains. What amount of NO₂ is present? (N₂O₄ ⇌ 2NO₂)",
+    "options": [
+     "0.40 mol",
+     "0.60 mol",
+     "0.80 mol",
+     "1.2 mol"
+    ],
+    "answer": 2,
+    "explanation": "0.40 mol N₂O₄ reacted. The ratio is 1 : 2, so 0.80 mol NO₂ formed.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A small amount of labelled N₂O₄ is added to an equilibrium mixture. Later labelled NO₂ is found. What does this show?",
+    "options": [
+     "Both reactions are still happening",
+     "The reaction has stopped",
+     "The reaction is irreversible",
+     "The system is open"
+    ],
+    "answer": 0,
+    "explanation": "Labelled atoms moving between N₂O₄ and NO₂ show that the forward and reverse reactions continue.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "At equilibrium a mixture has [A] = 0.2 mol/dm³ and [B] = 0.8 mol/dm³ for A ⇌ B. Which conclusion is correct?",
+    "options": [
+     "Equilibrium lies mainly towards B",
+     "The reaction has not started",
+     "Equilibrium lies towards A",
+     "Concentrations must be equal"
+    ],
+    "answer": 0,
+    "explanation": "There is more B than A at equilibrium, so the position lies towards B. Equilibrium does not require equal amounts.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Bromine liquid and vapour are in a sealed flask. The colour of the vapour and the level of liquid stay constant. Which statement is correct?",
+    "options": [
+     "Br₂(l) ⇌ Br₂(g) is in dynamic equilibrium, with evaporation and condensation equal in rate",
+     "Evaporation has stopped",
+     "Condensation has stopped",
+     "The flask must be open"
+    ],
+    "answer": 0,
+    "explanation": "Physical changes can also reach equilibrium in a closed system.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A catalyst is added to a system at equilibrium. What happens?",
+    "options": [
+     "Both rates increase equally and the position is unchanged",
+     "Only the forward rate increases",
+     "The equilibrium shifts to products",
+     "The system becomes open"
+    ],
+    "answer": 0,
+    "explanation": "A catalyst speeds up both reactions equally, so equilibrium is reached faster but the position does not change.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Many reactions go only one way: when you burn a piece of paper you cannot turn the ash back into paper. Others are **reversible**, meaning the products can react to re-form the reactants. We show this with the symbol ⇌.\n\n## Reversible reactions\nA classic example is hydrated copper(II) sulfate. Heating the blue crystals drives off the water and leaves a white powder. Adding water to the white powder turns it blue again and gives out heat. We can write this as hydrated copper(II) sulfate ⇌ anhydrous copper(II) sulfate + water. This is the basis of a simple test for water. Another example is ammonium chloride: NH₄Cl ⇌ NH₃ + HCl. When heated, the solid breaks down into two gases, but on the cooler part of the tube they recombine and white solid appears again.\n\n## Dynamic equilibrium\nIf a reversible reaction takes place in a **closed system** (nothing can enter or escape), the mixture eventually reaches **dynamic equilibrium**. At this point:\n- The rate of the forward reaction equals the rate of the reverse reaction.\n- The concentrations of reactants and products are constant. They are not usually equal.\n- The reactions have not stopped. Molecules keep reacting in both directions, which is why we call it dynamic.\n- Macroscopic properties such as colour, pressure and density stay constant.\n\nThink of a busy escalator with equal numbers of people going up and down. The number on each floor stays the same even though people are moving all the time.\n\n## What happens in a graph\nStart with only reactants. At first the forward rate is high because the reactant concentration is high, and the reverse rate is zero. As reactants are used up, the forward rate falls. As products build up, the reverse rate rises. Eventually the two rates are equal. On a concentration-time graph both lines level off. If the concentration of ammonia is 0.0, 0.3, 0.5, 0.6, 0.6, 0.6 mol/dm³ at 0, 2, 4, 6, 8 and 10 minutes, equilibrium is reached at about 6 minutes.\n\n## Position of equilibrium\nWhere the equilibrium lies depends on the reaction. If there is much more product than reactant, we say it lies to the right. If there is more reactant, it lies to the left.\n\nWorked example: N₂O₄ ⇌ 2NO₂. Start with 1.0 mol N₂O₄. At equilibrium 0.60 mol remains. Amount reacted = 0.40 mol. Because of the 1 : 2 ratio, NO₂ formed = 0.80 mol.\n\n## Open and closed systems\nIn an open container, a gas can escape and the system cannot reach equilibrium. Heating calcium carbonate in an open tube produces CO₂ that escapes, so the reaction goes to completion. In a sealed vessel the same reaction would reach equilibrium.\n\n## Catalysts\nA catalyst speeds up both the forward and the reverse reactions equally. It helps the system reach equilibrium faster but does not change the position of equilibrium.\n\n## Common mistakes\n- Saying the reaction has stopped at equilibrium.\n- Saying that the concentrations are equal. They are constant, not necessarily equal.\n- Forgetting that equilibrium needs a closed system.\n\n## How this is examined\nQuestions give data such as a concentration-time table or a colour change in a sealed tube. You may be asked to identify when equilibrium is reached, explain why the colour stops changing, calculate amounts using the equation, and justify why an open system is different from a closed one.\n\nExam tip: When explaining equilibrium, always mention three things: closed system, equal rates of forward and reverse reactions, and constant concentrations.",
+  "flashcards": [
+   {
+    "front": "Reversible reaction",
+    "back": "A reaction in which products can react to form the reactants again, shown by ⇌."
+   },
+   {
+    "front": "Dynamic equilibrium",
+    "back": "Forward and reverse reactions continue at equal rates in a closed system, so concentrations stay constant."
+   },
+   {
+    "front": "Must concentrations be equal at equilibrium?",
+    "back": "No. They are constant, not necessarily equal."
+   },
+   {
+    "front": "Why is a closed system needed?",
+    "back": "If substances can escape, the reverse reaction cannot keep pace and equilibrium is not reached."
+   },
+   {
+    "front": "Hydrated copper(II) sulfate reaction",
+    "back": "Blue hydrated crystals ⇌ white anhydrous powder + water. Used as a test for water."
+   },
+   {
+    "front": "N₂O₄ ⇌ 2NO₂",
+    "back": "Colourless N₂O₄ and brown NO₂ form an equilibrium in a sealed tube; the colour becomes constant."
+   },
+   {
+    "front": "Rates as equilibrium is approached",
+    "back": "Forward rate falls, reverse rate rises until they are equal."
+   },
+   {
+    "front": "Effect of a catalyst on equilibrium",
+    "back": "Speeds up both reactions equally. Equilibrium is reached faster but the position does not change."
+   },
+   {
+    "front": "Does reaction stop at equilibrium?",
+    "back": "No. Both reactions continue; there is no overall change."
+   }
+  ]
+ },
+ {
+  "subject": "chemistry",
+  "grade": 5,
+  "topic": "Chemical Equilibrium",
+  "subTopic": "Changing Conditions and the Haber Process",
+  "questions": [
+   {
+    "content": "Which two gases are the reactants in the Haber process?",
+    "options": [
+     "Nitrogen and hydrogen",
+     "Nitrogen and oxygen",
+     "Hydrogen and oxygen",
+     "Ammonia and hydrogen"
+    ],
+    "answer": 0,
+    "explanation": "N₂ + 3H₂ ⇌ 2NH₃.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which catalyst is used in the Haber process?",
+    "options": [
+     "Iron",
+     "Nickel",
+     "Platinum",
+     "Vanadium(V) oxide"
+    ],
+    "answer": 0,
+    "explanation": "An iron catalyst is used. Nickel is used for hydrogenating oils.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the main use of the ammonia made by the Haber process?",
+    "options": [
+     "Making fertilisers",
+     "Making plastics",
+     "Making fuels",
+     "Making glass"
+    ],
+    "answer": 0,
+    "explanation": "Most ammonia is converted into nitrogen fertilisers that help feed the world's population.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Where does the nitrogen for the Haber process come from?",
+    "options": [
+     "The air",
+     "Crude oil",
+     "Water",
+     "Limestone"
+    ],
+    "answer": 0,
+    "explanation": "Air is about 78% nitrogen.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What effect does a catalyst have on the yield of ammonia at equilibrium?",
+    "options": [
+     "None, it only speeds up the rate",
+     "It increases the yield",
+     "It reduces the yield",
+     "It stops the reaction"
+    ],
+    "answer": 0,
+    "explanation": "A catalyst speeds up both reactions equally and does not change the position of equilibrium.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The Haber process is N₂ + 3H₂ ⇌ 2NH₃. What happens to the yield of ammonia when pressure is increased?",
+    "options": [
+     "It increases",
+     "It decreases",
+     "It stays the same",
+     "It becomes zero"
+    ],
+    "answer": 0,
+    "explanation": "There are 4 moles of gas on the left and 2 on the right, so higher pressure favours the right side.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is a very low temperature NOT used in the Haber process?",
+    "options": [
+     "The rate would be too slow",
+     "Ammonia would decompose",
+     "The catalyst would melt",
+     "The gases would escape"
+    ],
+    "answer": 0,
+    "explanation": "The forward reaction is exothermic so low temperature favours yield, but the rate is too low to be economic.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which set of conditions is typical for the Haber process?",
+    "options": [
+     "About 450 °C, 200 atm, iron catalyst",
+     "About 100 °C, 1 atm, no catalyst",
+     "About 1000 °C, 1 atm, nickel",
+     "About 25 °C, 500 atm, iron"
+    ],
+    "answer": 0,
+    "explanation": "This is a compromise that balances yield, rate and cost.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In the Haber process, ammonia is cooled to a liquid and removed, and unreacted gases are recycled. Why does this improve the process?",
+    "options": [
+     "It shifts equilibrium to the right and reduces waste",
+     "It slows the reaction",
+     "It uses more energy",
+     "It destroys the catalyst"
+    ],
+    "answer": 0,
+    "explanation": "Removing product makes the system form more ammonia, and recycling reactants uses them rather than wasting them.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The forward reaction in the Haber process is exothermic. What happens when the temperature is raised and the system is allowed to reach a new equilibrium?",
+    "options": [
+     "Yield decreases",
+     "Yield increases",
+     "Yield stays the same",
+     "The reaction stops"
+    ],
+    "answer": 0,
+    "explanation": "Raising temperature favours the endothermic (reverse) direction, so less ammonia is at equilibrium.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Yield of ammonia at 200 atm (approximate): 300 °C: 66%, 400 °C: 36%, 500 °C: 18%. What conclusion fits the data?",
+    "options": [
+     "Higher temperature gives lower yield",
+     "Higher temperature gives higher yield",
+     "Temperature has no effect",
+     "The reaction is endothermic"
+    ],
+    "answer": 0,
+    "explanation": "Yield falls as temperature rises, which supports an exothermic forward reaction.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "N₂O₄ (colourless) ⇌ 2NO₂ (brown). The forward reaction is endothermic. What do you observe when the sealed tube is heated?",
+    "options": [
+     "The mixture becomes darker brown",
+     "The mixture becomes paler",
+     "No colour change",
+     "It becomes blue"
+    ],
+    "answer": 0,
+    "explanation": "Heating favours the endothermic forward reaction, producing more NO₂.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "More nitrogen is added to the Haber equilibrium mixture at constant temperature. What happens?",
+    "options": [
+     "More ammonia forms",
+     "Less ammonia forms",
+     "Nothing changes",
+     "Hydrogen increases"
+    ],
+    "answer": 0,
+    "explanation": "Adding reactant shifts the equilibrium to the right to use some of it.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is pressure in the Haber process not raised as high as possible?",
+    "options": [
+     "High pressure is expensive and hazardous because equipment must be very strong",
+     "High pressure lowers the yield",
+     "High pressure kills the catalyst",
+     "High pressure stops the reaction"
+    ],
+    "answer": 0,
+    "explanation": "Higher pressures cost more in equipment and energy and are more dangerous, so a compromise of about 200 atm is used.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "At the same temperature and pressure, 60 dm³ of nitrogen reacts completely with excess hydrogen. What is the maximum volume of ammonia?",
+    "options": [
+     "60 dm³",
+     "90 dm³",
+     "120 dm³",
+     "180 dm³"
+    ],
+    "answer": 2,
+    "explanation": "The equation gives 1 volume N₂ to 2 volumes NH₃, so the volume is 2 × 60 = 120 dm³.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Theoretical yield of ammonia from 28 g of nitrogen is 34 g. A plant obtains 6.8 g. What is the percentage yield?",
+    "options": [
+     "6.8%",
+     "20%",
+     "50%",
+     "80%"
+    ],
+    "answer": 1,
+    "explanation": "Percentage yield = 6.8 ÷ 34 × 100 = 20%.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which combination of conditions is the best compromise for ammonia manufacture?",
+    "options": [
+     "Moderate temperature, high pressure, iron catalyst",
+     "Very low temperature, low pressure, no catalyst",
+     "Very high temperature, low pressure, iron catalyst",
+     "Very low temperature, very high pressure, no catalyst"
+    ],
+    "answer": 0,
+    "explanation": "A moderate temperature gives a reasonable rate and yield, high pressure raises yield, and a catalyst speeds up the reaction.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Only about 15% of the gases form ammonia on each pass through the reactor, yet the plant converts nearly all the nitrogen and hydrogen to ammonia overall. Why?",
+    "options": [
+     "Ammonia is removed and unreacted gases are recycled back to the reactor",
+     "The catalyst changes the equilibrium",
+     "The temperature is lowered",
+     "The reaction is irreversible"
+    ],
+    "answer": 0,
+    "explanation": "Recycling gives unreacted nitrogen and hydrogen further chances to react, so overall conversion is high.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "When a system at equilibrium is disturbed, it responds in a way that reduces the effect of the change. This idea, often called Le Chatelier's principle, lets us predict what happens to the amount of product when we change concentration, pressure or temperature. It is used in industry to design the Haber process, which makes ammonia.\n\n## Changing conditions\n- **Concentration**: adding more of a reactant moves the equilibrium to the right to use some of it. Removing a product also moves it to the right to replace it.\n- **Pressure** (for gases): increasing pressure favours the side with fewer gas molecules. Decreasing pressure favours the side with more.\n- **Temperature**: raising the temperature favours the endothermic direction. Lowering it favours the exothermic direction.\n- **Catalyst**: speeds up the forward and reverse reactions equally. It does not change the position or yield, but equilibrium is reached sooner.\n\nExample: N₂O₄ (colourless) ⇌ 2NO₂ (brown) is endothermic in the forward direction. Heating a sealed tube makes the mixture darker, and cooling makes it paler.\n\n## The Haber process\nThe equation is N₂ + 3H₂ ⇌ 2NH₃ and the forward reaction is exothermic. Nitrogen comes from the air and hydrogen is made from natural gas and steam. The gases are compressed and passed over an iron catalyst. Ammonia is cooled until it is a liquid and removed, and unreacted nitrogen and hydrogen are recycled.\n\nWhy the conditions are a compromise:\n- **Pressure**: there are 4 gas molecules on the left and 2 on the right, so high pressure increases the yield. About 200 atmospheres is used. Even higher pressures would cost too much and be dangerous.\n- **Temperature**: low temperature gives a better yield because the forward reaction is exothermic, but the rate would be far too slow. A temperature of about 450 °C gives a reasonable rate and acceptable yield.\n- **Catalyst**: iron speeds up the reaction, so the lower temperature can be used, saving energy.\n\nUnder these conditions, only about 15% of the gas mixture is converted to ammonia each time it passes through the reactor, but recycling makes the overall conversion much higher.\n\n## Calculations\nGas volumes at the same temperature and pressure follow the equation ratio. 60 dm³ of nitrogen reacts completely to give 120 dm³ of ammonia.\nPercentage yield = actual yield ÷ theoretical yield × 100. If the theoretical yield is 34 g and 6.8 g is obtained, percentage yield = 6.8 ÷ 34 × 100 = 20%.\n\n## Sustainability and impact\nAmmonia fertilisers have greatly increased food production, but making them uses a lot of energy, mostly from fossil fuels, and releases carbon dioxide. Fertiliser run-off causes eutrophication in rivers and lakes. Evaluating the process means weighing food security against environmental costs.\n\n## Common mistakes\n- Saying a catalyst increases the yield. It does not.\n- Forgetting to count only gas molecules when predicting the effect of pressure.\n- Mixing up exothermic and endothermic when predicting the effect of temperature.\n- Saying the best conditions are the ones with the highest yield, rather than a compromise with rate and cost.\n\n## How this is examined\nTypical tasks present a table of yields at different temperatures and pressures and ask you to describe trends, explain them using the idea of equilibrium, choose and justify the best conditions, calculate yields, and evaluate the wider impact of fertiliser production.\n\nExam tip: Structure explanations in three parts: what happens to the position of equilibrium, what happens to the rate, and why the industrial conditions are a compromise.",
+  "flashcards": [
+   {
+    "front": "Haber process equation",
+    "back": "N₂ + 3H₂ ⇌ 2NH₃. The forward reaction is exothermic."
+   },
+   {
+    "front": "Haber process conditions",
+    "back": "About 450 °C, about 200 atmospheres, iron catalyst."
+   },
+   {
+    "front": "Effect of increasing pressure on the Haber equilibrium",
+    "back": "Yield rises, because there are 4 gas molecules on the left and only 2 on the right."
+   },
+   {
+    "front": "Effect of increasing temperature on the Haber equilibrium",
+    "back": "Yield falls because the forward reaction is exothermic, though the rate increases."
+   },
+   {
+    "front": "Why is 450 °C a compromise?",
+    "back": "Lower temperatures give a better yield but too slow a rate; higher temperatures give a faster rate but a lower yield."
+   },
+   {
+    "front": "Role of the iron catalyst",
+    "back": "Speeds up the reaction so equilibrium is reached faster at a lower temperature; it does not change the yield."
+   },
+   {
+    "front": "Why are unreacted gases recycled?",
+    "back": "Only about 15% reacts per pass; recycling uses the reactants and gives a high overall conversion."
+   },
+   {
+    "front": "Percentage yield formula",
+    "back": "Actual yield ÷ theoretical yield × 100."
+   },
+   {
+    "front": "Main use of ammonia",
+    "back": "Making fertilisers; the environmental cost includes energy use and run-off causing eutrophication."
+   }
+  ]
+ }
+]

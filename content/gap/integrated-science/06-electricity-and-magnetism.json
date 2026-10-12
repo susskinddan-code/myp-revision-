@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "integrated-science",
+  "grade": 5,
+  "topic": "Electricity and Magnetism",
+  "subTopic": "Circuits, Current and Resistance",
+  "questions": [
+   {
+    "content": "What is the SI unit of electric current?",
+    "options": [
+     "Volt (V)",
+     "Ampere (A)",
+     "Ohm (Ω)",
+     "Watt (W)"
+    ],
+    "answer": 1,
+    "explanation": "Current is measured in amperes. Volts measure potential difference and ohms measure resistance.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "How should an ammeter be connected to measure the current through a lamp?",
+    "options": [
+     "In series with the lamp",
+     "In parallel with the lamp",
+     "In parallel with the battery only",
+     "Either way gives the same reading"
+    ],
+    "answer": 0,
+    "explanation": "An ammeter has very low resistance, so it must be placed in the circuit in series so the current flows through it.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "How should a voltmeter be connected to measure the potential difference across a resistor?",
+    "options": [
+     "In series with the resistor",
+     "In series with the battery",
+     "Across the ammeter only",
+     "In parallel with the resistor"
+    ],
+    "answer": 3,
+    "explanation": "A voltmeter measures the difference between two points, so it is connected across the component.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the unit of resistance?",
+    "options": [
+     "Ampere (A)",
+     "Coulomb (C)",
+     "Ohm (Ω)",
+     "Joule (J)"
+    ],
+    "answer": 2,
+    "explanation": "Resistance is measured in ohms, defined by R = V ÷ I.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In a series circuit with a cell and three lamps, what is true about the current?",
+    "options": [
+     "It is greatest at the cell",
+     "It is the same at every point",
+     "It is shared out between the lamps",
+     "It decreases after each lamp"
+    ],
+    "answer": 1,
+    "explanation": "In a series circuit there is only one path, so the same current flows everywhere. Charge is not used up.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A current of 0.50 A flows through a 12 Ω resistor. What is the potential difference across it?",
+    "options": [
+     "6.0 V",
+     "24 V",
+     "0.042 V",
+     "11.5 V"
+    ],
+    "answer": 0,
+    "explanation": "V = I × R = 0.50 × 12 = 6.0 V.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Three resistors of 4 Ω, 6 Ω and 2 Ω are connected in series to a 12 V supply. What current flows?",
+    "options": [
+     "0.5 A",
+     "12 A",
+     "144 A",
+     "1.0 A"
+    ],
+    "answer": 3,
+    "explanation": "Total resistance = 4 + 6 + 2 = 12 Ω. I = V ÷ R = 12 ÷ 12 = 1.0 A.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Two 6 Ω resistors are connected in parallel. What is their combined resistance?",
+    "options": [
+     "12 Ω",
+     "6 Ω",
+     "3 Ω",
+     "1.5 Ω"
+    ],
+    "answer": 2,
+    "explanation": "For identical resistors in parallel, the total is the value divided by the number: 6 ÷ 2 = 3 Ω. Parallel combinations always have less resistance than the smallest branch.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A kettle rated 2000 W is switched on for 3.0 minutes. How much energy does it transfer?",
+    "options": [
+     "6000 J",
+     "360 000 J",
+     "2000 J",
+     "666 J"
+    ],
+    "answer": 1,
+    "explanation": "Energy = power × time = 2000 × 180 s = 360 000 J. Remember to convert minutes to seconds.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A current of 2.0 A flows through a wire for 30 s. How much charge flows past a point?",
+    "options": [
+     "60 C",
+     "15 C",
+     "32 C",
+     "0.067 C"
+    ],
+    "answer": 0,
+    "explanation": "Q = I × t = 2.0 × 30 = 60 C.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Four wires are made from the same metal. Which has the greatest resistance?",
+    "options": [
+     "Short and thin",
+     "Long and thick",
+     "Short and thick",
+     "Long and thin"
+    ],
+    "answer": 3,
+    "explanation": "Resistance increases with length and decreases with cross-sectional area.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What happens to the resistance of a light-dependent resistor (LDR) as the light gets brighter?",
+    "options": [
+     "It increases",
+     "It stays the same",
+     "It decreases",
+     "It becomes infinite"
+    ],
+    "answer": 2,
+    "explanation": "In bright light more charge carriers are freed, so the resistance of an LDR falls. This is used in automatic street lights.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A component gives these results. Potential difference (V): 1.0, 2.0, 3.0, 4.0. Current (A): 0.20, 0.40, 0.60, 0.80. What can you conclude?",
+    "options": [
+     "Its resistance increases as current increases",
+     "It is an ohmic conductor with a resistance of 5.0 Ω",
+     "It is a diode",
+     "It has a resistance of 0.20 Ω"
+    ],
+    "answer": 1,
+    "explanation": "V ÷ I = 5.0 Ω each time, so current is directly proportional to potential difference.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A 12 V supply is connected across two parallel branches. Branch X has a 4 Ω resistor and branch Y has a 6 Ω resistor. What current does the supply provide?",
+    "options": [
+     "5.0 A",
+     "1.2 A",
+     "2.0 A",
+     "3.0 A"
+    ],
+    "answer": 0,
+    "explanation": "Each branch has the full 12 V. IX = 12 ÷ 4 = 3.0 A and IY = 12 ÷ 6 = 2.0 A. Total current = 5.0 A.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A 6 Ω resistor is in series with a parallel pair of 6 Ω and 3 Ω resistors. The supply is 16 V. What is the potential difference across the parallel pair?",
+    "options": [
+     "8 V",
+     "12 V",
+     "16 V",
+     "4 V"
+    ],
+    "answer": 3,
+    "explanation": "The parallel pair has resistance (6 × 3) ÷ (6 + 3) = 2 Ω. Total resistance = 8 Ω, so I = 2 A. The parallel pair has V = 2 × 2 = 4 V.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student investigates how the length of nichrome wire affects its resistance. Which set of control variables is best?",
+    "options": [
+     "Same length and different materials",
+     "Same diameter and increasing current each time",
+     "Same material, same diameter and low current to avoid heating",
+     "Same temperature but different thickness"
+    ],
+    "answer": 2,
+    "explanation": "Only the length should vary. Material and diameter must be fixed, and a low current prevents the wire heating, which would change resistance.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A 3.0 kW heater runs for 2.0 hours. Electricity costs 30 p per kWh. What is the cost?",
+    "options": [
+     "£0.60",
+     "£1.80",
+     "£18.00",
+     "£0.18"
+    ],
+    "answer": 1,
+    "explanation": "Energy = 3.0 kW × 2.0 h = 6.0 kWh. Cost = 6.0 × 30 p = 180 p = £1.80.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The current-voltage graph of a filament lamp curves so that the gradient flattens at higher voltage. What is the best explanation?",
+    "options": [
+     "The filament gets hotter, so its resistance increases",
+     "The lamp loses charge",
+     "The potential difference falls",
+     "The metal becomes a better conductor when hot"
+    ],
+    "answer": 0,
+    "explanation": "A hotter filament has ions vibrating more, which collide with electrons more often, so resistance rises and current rises less quickly.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Charge, current and potential difference\nElectric **current** is the rate of flow of charge. In metals the charge carriers are electrons. Current is measured in amperes (A) with an ammeter connected in **series**. Charge (coulombs, C) is found with Q = I × t.\n**Potential difference** (voltage) is the energy transferred per unit charge between two points. It is measured in volts (V) with a voltmeter connected in **parallel**.\n**Resistance** is how much a component opposes current. It is measured in ohms (Ω).\n\n## Ohm's law\nV = I × R. Rearranged, I = V ÷ R and R = V ÷ I.\nWorked example: a 12 Ω resistor carries 0.50 A. The potential difference is 12 × 0.50 = 6.0 V.\nAn **ohmic conductor** such as a fixed resistor at constant temperature has a straight line through the origin on a current-voltage graph. A filament lamp curves because its resistance rises with temperature. A thermistor's resistance falls as temperature rises, and an LDR's resistance falls as light increases.\n\n## Series and parallel circuits\n- **Series**: one path. Current is the same everywhere, potential differences add up to the supply, and the total resistance is R₁ + R₂ + R₃.\n- **Parallel**: branches. The potential difference across each branch equals the supply, branch currents add up to the total current, and total resistance is less than the smallest branch. For two resistors, R = (R₁ × R₂) ÷ (R₁ + R₂).\nWorked example: 4 Ω and 6 Ω in parallel on 12 V. Currents are 3.0 A and 2.0 A, total 5.0 A. In a household, devices are wired in parallel so each gets the full mains voltage and works independently.\n\n## Factors affecting resistance of a wire\nResistance increases with length, decreases with thicker cross-section, and depends on the material and temperature. In an investigation into length, control material, diameter and temperature, and use a low current so the wire does not heat.\n\n## Power and energy\nPower is the rate of energy transfer: P = V × I, and energy E = P × t. In the home energy is billed in kilowatt-hours (kWh): kW × hours. A 3.0 kW heater for 2.0 hours uses 6.0 kWh. At 30 p per kWh it costs £1.80.\n\n## Common mistakes\n- Putting a voltmeter in series, or an ammeter in parallel.\n- Adding the resistances in parallel instead of using the parallel rule.\n- Forgetting to convert minutes to seconds in E = P × t.\n- Assuming current gets used up around a series circuit.\n\n## How this is examined\nPractical contexts are common: investigating resistance of a wire, comparing circuit designs for a street light or testing a component. You may be asked to draw or interpret a circuit, process data into V ÷ I, spot an anomaly, identify control variables and evaluate how reliable the method is. Criterion D tasks look at electricity use and energy efficiency in homes.\n\nExam tip: Write the formula, substitute with units, and label each answer with its unit. For parallel circuits, always check that the combined resistance is less than the smallest branch.",
+  "flashcards": [
+   {
+    "front": "Ohm's law",
+    "back": "V = I × R. Potential difference (V) = current (A) × resistance (Ω)."
+   },
+   {
+    "front": "Series circuit rules",
+    "back": "Same current everywhere; potential differences add to the supply; total resistance = R₁ + R₂ + ..."
+   },
+   {
+    "front": "Parallel circuit rules",
+    "back": "Same potential difference across each branch; branch currents add; total resistance is less than the smallest branch."
+   },
+   {
+    "front": "Charge formula",
+    "back": "Q = I × t. Charge (C) = current (A) × time (s)."
+   },
+   {
+    "front": "Electrical power",
+    "back": "P = V × I. Energy E = P × t. In kilowatt-hours: kW × hours."
+   },
+   {
+    "front": "Factors affecting wire resistance",
+    "back": "Longer wire: more resistance. Thicker wire: less resistance. Also depends on material and temperature."
+   },
+   {
+    "front": "How does an LDR behave?",
+    "back": "Its resistance decreases as light intensity increases. Used in automatic lights."
+   },
+   {
+    "front": "How does a thermistor behave?",
+    "back": "Its resistance decreases as temperature increases (NTC type). Used in temperature sensors."
+   },
+   {
+    "front": "Why does a filament lamp not obey Ohm's law?",
+    "back": "As current rises the filament heats and its resistance increases, so the I-V graph is a curve."
+   }
+  ]
+ },
+ {
+  "subject": "integrated-science",
+  "grade": 5,
+  "topic": "Electricity and Magnetism",
+  "subTopic": "Static Electricity and Electric Fields",
+  "questions": [
+   {
+    "content": "When a plastic rod is rubbed with a cloth, which particles are transferred?",
+    "options": [
+     "Protons",
+     "Electrons",
+     "Neutrons",
+     "Atoms"
+    ],
+    "answer": 1,
+    "explanation": "Only electrons are free to move between surfaces. The object that gains electrons becomes negative and the one that loses them becomes positive.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Two negatively charged balloons are brought close together. What happens?",
+    "options": [
+     "They repel each other",
+     "They attract each other",
+     "Nothing happens",
+     "They become neutral"
+    ],
+    "answer": 0,
+    "explanation": "Like charges repel and unlike charges attract.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A polythene rod becomes negatively charged when rubbed. What does this show?",
+    "options": [
+     "It has lost electrons",
+     "It has gained protons",
+     "It has lost protons",
+     "It has gained electrons"
+    ],
+    "answer": 3,
+    "explanation": "Negative charge means an excess of electrons.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which type of material can hold static charge on its surface?",
+    "options": [
+     "A metal wire",
+     "Salt water",
+     "An insulator",
+     "Graphite"
+    ],
+    "answer": 2,
+    "explanation": "Insulators do not let charge move through them, so charge stays where it is rubbed on.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the purpose of earthing a charged object?",
+    "options": [
+     "It creates more charge",
+     "It lets charge flow safely to the ground",
+     "It adds protons to the object",
+     "It stops all electrons moving"
+    ],
+    "answer": 1,
+    "explanation": "Earthing provides a path to the ground so extra charge flows away and the object becomes neutral.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "An acetate rod is rubbed with a cloth and becomes positively charged. What happens to the cloth?",
+    "options": [
+     "It becomes negatively charged because electrons move from the rod to the cloth",
+     "It becomes positively charged",
+     "It stays neutral",
+     "It becomes negative because protons move from the rod"
+    ],
+    "answer": 0,
+    "explanation": "Charge is conserved. The electrons lost by the rod are gained by the cloth.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A charged balloon sticks to a neutral wall. What is the best explanation?",
+    "options": [
+     "The balloon gives the wall a permanent charge",
+     "Gravity pulls the balloon towards the wall",
+     "The wall has a magnet inside",
+     "The balloon causes opposite charge to be induced on the wall surface nearest it, so they attract"
+    ],
+    "answer": 3,
+    "explanation": "Charges in the wall move slightly (induction), so the surface nearest the balloon has the opposite charge, which is attracted to it.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why are aircraft earthed while they are being refuelled?",
+    "options": [
+     "To increase the fuel pressure",
+     "To make the fuel flow faster",
+     "To prevent a build-up of static charge that could cause a spark",
+     "To reduce air resistance"
+    ],
+    "answer": 2,
+    "explanation": "Friction with fuel can charge the aircraft. A spark near fuel vapour could cause a fire, so the charge is conducted to ground.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the direction of an electric field line?",
+    "options": [
+     "From negative towards positive",
+     "From positive charge towards negative charge",
+     "Round the charge in circles",
+     "Parallel to the surface"
+    ],
+    "answer": 1,
+    "explanation": "Field lines show the direction of force on a small positive test charge.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Where is an electric field strongest?",
+    "options": [
+     "Where the field lines are closest together",
+     "Where the field lines are furthest apart",
+     "At the end of the line",
+     "Where the lines are parallel"
+    ],
+    "answer": 0,
+    "explanation": "Closer field lines mean a stronger force on a charge.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In electrostatic paint spraying the droplets are given the same charge and the object is given the opposite charge. Why?",
+    "options": [
+     "Droplets stick together to make a thicker layer",
+     "The object repels the paint to save paint",
+     "The droplets become neutral on reaching the object",
+     "Droplets repel each other, spreading out, and are attracted to the object, giving an even coat"
+    ],
+    "answer": 3,
+    "explanation": "Like charges on the droplets spread the spray; opposite charge on the object attracts them, so little paint is wasted.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A negatively charged rod is brought near the cap of an uncharged gold-leaf electroscope without touching it. What is seen?",
+    "options": [
+     "The leaf stays still",
+     "The leaf falls to the cap",
+     "The leaf rises because electrons are repelled down to the leaf",
+     "The leaf rises because protons move to the leaf"
+    ],
+    "answer": 2,
+    "explanation": "The rod repels electrons from the cap to the leaf and stem, which then have the same charge and repel each other.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What causes the charge build-up in a thundercloud before lightning?",
+    "options": [
+     "Chemical reactions between raindrops",
+     "Ice particles rubbing together transfer electrons, separating charge",
+     "Heat from the Sun splitting atoms",
+     "Wind removing protons from the cloud"
+    ],
+    "answer": 1,
+    "explanation": "Friction between ice particles moves electrons, so parts of the cloud become positively and negatively charged until a discharge occurs.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A neutral metal ball on an insulating stand has a negative rod held close. The ball is touched briefly with a finger, then the finger and then the rod are removed. What charge does the ball have?",
+    "options": [
+     "Positive",
+     "Negative",
+     "Neutral",
+     "It has no charge because it is a conductor"
+    ],
+    "answer": 0,
+    "explanation": "The rod repels electrons, which flow through the finger to earth. After removal the ball has lost electrons, so it is positive.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student wants to compare how well different cloths charge a polythene rod. The rod picks up small paper squares. Which is the dependent variable?",
+    "options": [
+     "The type of cloth",
+     "The mass of each paper square",
+     "The length of rubbing time",
+     "The number of paper squares picked up"
+    ],
+    "answer": 3,
+    "explanation": "The type of cloth is the independent variable. The number picked up is measured as the result. Time and paper mass should be controlled.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Sphere A has a charge of +6 nC and an identical sphere B has −2 nC. They touch and are then separated. What is the charge on each?",
+    "options": [
+     "+4 nC",
+     "+3 nC",
+     "+2 nC",
+     "−2 nC"
+    ],
+    "answer": 2,
+    "explanation": "Total charge = +6 + (−2) = +4 nC, shared equally by identical spheres = +2 nC each.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student says, \"Earthing a positively charged rod works because protons flow from the rod to the ground.\" What is the best evaluation?",
+    "options": [
+     "Correct: protons are free to move in metals",
+     "Incorrect: electrons flow from the ground to the rod",
+     "Incorrect: charge cannot flow to earth",
+     "Correct: positive charge only moves as neutrons"
+    ],
+    "answer": 1,
+    "explanation": "Protons are fixed in the nucleus. A positive rod has a shortage of electrons, which flow in from the ground to neutralise it.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The electric field around an isolated negative point charge is drawn. What do the lines look like?",
+    "options": [
+     "Straight lines pointing radially inwards",
+     "Straight lines pointing radially outwards",
+     "Circles around the charge",
+     "Parallel lines pointing downwards"
+    ],
+    "answer": 0,
+    "explanation": "A positive test charge would be attracted towards the negative charge, so field lines point inwards.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Charge and atoms\nAtoms contain positive protons, negative electrons and neutral neutrons. Normally an atom is neutral. Only electrons can move between objects. If an object gains electrons it becomes negatively charged; if it loses electrons it becomes positively charged. Charge is measured in coulombs (C), and the total charge is always conserved.\n\n## Charging by friction\nWhen two insulators are rubbed together, electrons transfer from one to the other. A polythene rod rubbed with a cloth gains electrons and becomes negative, while the cloth becomes positive. An acetate rod rubbed with a cloth loses electrons and becomes positive.\n- **Like charges repel; unlike charges attract.**\n- A charged object can attract a neutral one by **induction**: charges in the neutral object shift slightly, so the nearer surface has the opposite charge. That is why a rubbed balloon sticks to a wall.\n\n## Conductors, insulators and earthing\nMetals are conductors, so charge flows through them. Plastics are insulators, so charge stays on them. Earthing connects an object to the ground by a conductor so charge flows away. If a positive rod is earthed, electrons flow up from the ground to neutralise it. Protons never move.\nWorked example: a neutral metal ball on an insulating stand and a negative rod nearby. The rod repels electrons. Touch the ball with a finger: electrons flow to earth. Remove the finger, then the rod. The ball is left positive.\n\n## Electric fields\nAn **electric field** is the region where a charge feels a force. We draw field lines from positive to negative, showing the direction of the force on a small positive test charge. Lines close together mean a strong field. Around a positive point charge lines point outwards, around a negative point charge they point inwards, and between two oppositely charged parallel plates the field is uniform, with evenly spaced parallel lines.\n\n## Uses and dangers\n- Uses: photocopiers, inkjet printers, electrostatic paint spraying, dust precipitators in chimneys.\n- Dangers: sparks when refuelling vehicles or aircraft, lightning, damage to electronics, and shocks. Prevention includes earthing, antistatic mats and bonding wires.\nLightning forms when ice particles in clouds rub together, build up charge and then discharge to the ground or other clouds.\n\n## Common mistakes\n- Saying that protons move when something is charged.\n- Saying that insulators cannot be charged. They hold charge well.\n- Drawing field lines from negative to positive.\n- Thinking a neutral object has no charges at all. It has equal positive and negative charge.\n\n## How this is examined\nQuestions often describe an experiment such as charging rods and balloons, or an industrial process like spray painting. You explain what happens in terms of electron movement, draw field lines, design a fair test, and evaluate safety measures or the benefit and risk of static electricity in industry.\n\nExam tip: Always explain static effects in terms of electron transfer and say which object gains or loses electrons. Never say protons move.",
+  "flashcards": [
+   {
+    "front": "How does an object become charged?",
+    "back": "By gaining or losing electrons. Gaining electrons makes it negative; losing electrons makes it positive."
+   },
+   {
+    "front": "Rules of attraction",
+    "back": "Like charges repel; unlike charges attract. A charged object can also attract a neutral object by induction."
+   },
+   {
+    "front": "Why does a rubbed balloon stick to a wall?",
+    "back": "It induces an opposite charge on the nearby wall surface; the attraction between them holds the balloon."
+   },
+   {
+    "front": "What is earthing?",
+    "back": "Connecting an object to the ground so charge flows away safely. Electrons move, not protons."
+   },
+   {
+    "front": "Electric field",
+    "back": "A region where a charged particle feels a force. Field lines point away from positive and towards negative."
+   },
+   {
+    "front": "Field line spacing",
+    "back": "Close lines mean a strong field; widely spaced lines mean a weak field."
+   },
+   {
+    "front": "Uniform field",
+    "back": "The field between two oppositely charged parallel plates: evenly spaced, parallel lines."
+   },
+   {
+    "front": "Dangers of static electricity",
+    "back": "Sparks near fuel, lightning, shocks and damage to electronics. Reduced by earthing and bonding."
+   },
+   {
+    "front": "Uses of static electricity",
+    "back": "Photocopiers, electrostatic spray painting, inkjet printers and chimney dust precipitators."
+   }
+  ]
+ },
+ {
+  "subject": "integrated-science",
+  "grade": 5,
+  "topic": "Electricity and Magnetism",
+  "subTopic": "Magnetism, Motors and Generators",
+  "questions": [
+   {
+    "content": "What happens when two north poles of magnets are brought together?",
+    "options": [
+     "They attract",
+     "They repel",
+     "They become demagnetised",
+     "They swap poles"
+    ],
+    "answer": 1,
+    "explanation": "Like poles repel and unlike poles attract.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these metals is magnetic?",
+    "options": [
+     "Iron",
+     "Copper",
+     "Aluminium",
+     "Gold"
+    ],
+    "answer": 0,
+    "explanation": "Iron, nickel and cobalt (and steel) are magnetic materials.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Outside a bar magnet, which way do magnetic field lines point?",
+    "options": [
+     "From south to north",
+     "In circles round the centre",
+     "Away from both poles",
+     "From the north pole to the south pole"
+    ],
+    "answer": 3,
+    "explanation": "By convention field lines leave the north pole and enter the south pole.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "How is an electromagnet made?",
+    "options": [
+     "By rubbing iron with a cloth",
+     "By heating a magnet",
+     "By passing current through a coil of wire, usually round an iron core",
+     "By connecting two magnets in series"
+    ],
+    "answer": 2,
+    "explanation": "A current produces a magnetic field. A coil strengthens it and an iron core strengthens it further.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What energy change takes place in a generator?",
+    "options": [
+     "Electrical energy to kinetic energy",
+     "Kinetic energy to electrical energy",
+     "Chemical energy to electrical energy",
+     "Light energy to electrical energy"
+    ],
+    "answer": 1,
+    "explanation": "A generator is turned, for example by a turbine, and produces a voltage by electromagnetic induction.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which change would NOT make an electromagnet stronger?",
+    "options": [
+     "Reducing the number of turns of wire",
+     "Increasing the current",
+     "Adding an iron core",
+     "Adding more turns of wire"
+    ],
+    "answer": 0,
+    "explanation": "More turns, more current or an iron core strengthen an electromagnet. Fewer turns weaken it.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A wire carrying a current is placed in a magnetic field. What is the result?",
+    "options": [
+     "The wire becomes a permanent magnet",
+     "The current stops",
+     "The wire emits sound",
+     "The wire experiences a force"
+    ],
+    "answer": 3,
+    "explanation": "This is the motor effect. Reversing the current or the field reverses the direction of the force.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In Fleming's left-hand rule for the motor effect, what does the second finger represent?",
+    "options": [
+     "Force",
+     "Magnetic field",
+     "Current",
+     "Speed"
+    ],
+    "answer": 2,
+    "explanation": "Thumb is thrust (force), first finger is field and second finger is current.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A transformer has 200 turns on the primary coil and 50 turns on the secondary coil. The input is 240 V a.c. What is the output voltage?",
+    "options": [
+     "960 V",
+     "60 V",
+     "4 V",
+     "240 V"
+    ],
+    "answer": 1,
+    "explanation": "Vs ÷ Vp = Ns ÷ Np, so Vs = 240 × 50 ÷ 200 = 60 V. This is a step-down transformer.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is electricity transmitted at very high voltage in power lines?",
+    "options": [
+     "A high voltage means a low current, so less energy is wasted as heat in the cables",
+     "High voltage makes the cables thicker",
+     "High voltage is safer for people",
+     "High voltage increases the current and power"
+    ],
+    "answer": 0,
+    "explanation": "For the same power, P = V × I, so a higher voltage needs a smaller current and the heating loss I²R falls.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student turns the coil of a simple generator faster. What happens to the output?",
+    "options": [
+     "The voltage decreases",
+     "The voltage stays the same but the frequency rises",
+     "Only the frequency decreases",
+     "The voltage and the frequency increase"
+    ],
+    "answer": 3,
+    "explanation": "Faster rotation cuts the field more quickly, increasing induced voltage and the number of cycles per second.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A bar magnet is pushed into a coil connected to a sensitive meter. When does the meter show a reading?",
+    "options": [
+     "Whenever the magnet is inside the coil",
+     "Only when the magnet is still",
+     "Only while the magnet is moving",
+     "Only when the magnet is removed"
+    ],
+    "answer": 2,
+    "explanation": "A voltage is induced only when the magnetic field through the coil is changing.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why does the north pole of a compass needle point to the Earth's geographic north?",
+    "options": [
+     "The Earth has a magnetic north pole near the geographic north",
+     "The Earth has a magnetic south pole near the geographic north",
+     "Compass needles are attracted to the Sun",
+     "The needle is made from non-magnetic metal"
+    ],
+    "answer": 1,
+    "explanation": "The needle's north pole is attracted to a magnetic south pole, which lies near the geographic north.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An ideal transformer has an input of 12 V and 2.0 A. The output voltage is 240 V. What is the output current?",
+    "options": [
+     "0.10 A",
+     "40 A",
+     "2.0 A",
+     "0.0042 A"
+    ],
+    "answer": 0,
+    "explanation": "For an ideal transformer, power in = power out: 12 × 2.0 = 24 W. Output current = 24 ÷ 240 = 0.10 A.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A 100 kW supply is sent along cables of resistance 5.0 Ω at 10 000 V. How much power is lost as heat in the cables?",
+    "options": [
+     "50 000 W",
+     "5 W",
+     "100 000 W",
+     "500 W"
+    ],
+    "answer": 3,
+    "explanation": "I = P ÷ V = 100 000 ÷ 10 000 = 10 A. Power loss = I²R = 10² × 5.0 = 500 W.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "What is the job of the split-ring commutator in a d.c. motor?",
+    "options": [
+     "It reverses the magnetic field",
+     "It provides the magnetic field",
+     "It reverses the current in the coil every half turn so the coil keeps spinning the same way",
+     "It stops the coil moving too quickly"
+    ],
+    "answer": 2,
+    "explanation": "Without the commutator, the force would reverse after half a turn and the coil would just rock back and forth.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "How does an a.c. generator differ from a d.c. generator?",
+    "options": [
+     "An a.c. generator uses a battery",
+     "An a.c. generator uses slip rings; a d.c. generator uses a split-ring commutator",
+     "A d.c. generator has no magnet",
+     "An a.c. generator has a split-ring commutator"
+    ],
+    "answer": 1,
+    "explanation": "Slip rings keep each end connected to the same brush, so the output alternates. A commutator flips the connection every half turn to give d.c.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A class tests how the number of turns affects the number of paper clips an electromagnet picks up. Which change would make the test unfair?",
+    "options": [
+     "Using a different battery voltage for each coil",
+     "Using the same iron core",
+     "Using the same length of wire",
+     "Using clips of the same size"
+    ],
+    "answer": 0,
+    "explanation": "Number of turns is the independent variable. The current (set by the voltage) must stay constant, otherwise two things change at once.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Magnets and magnetic fields\nMagnets have a north pole and a south pole. Like poles repel and unlike poles attract. Only a few materials are magnetic: iron, steel, nickel and cobalt. A **magnetic field** is the region around a magnet where magnetic materials feel a force. Field lines run from north to south outside the magnet, and are closer together where the field is stronger. A plotting compass shows the direction of the field.\nThe Earth has its own magnetic field. A compass needle's north pole points to the geographic north because there is a magnetic south pole of the Earth near the geographic north.\n\n## Electromagnets\nA current in a wire creates a magnetic field. A coil of wire (a solenoid) gives a field like a bar magnet. To make an electromagnet stronger: increase the current, add more turns, or add a soft iron core. It can be switched on and off, which is used in cranes, relays and doorbells.\n\n## The motor effect\nA current-carrying wire in a magnetic field feels a force. Use Fleming's left-hand rule: thumb for thrust (force), first finger for field, second finger for current. The force is bigger with a stronger field, a larger current or a longer wire in the field. In a d.c. motor, a coil between magnets is turned by the forces on its two sides, and the **split-ring commutator** reverses the current every half turn so the rotation continues.\n\n## Electromagnetic induction and generators\nIf a magnet moves in or out of a coil (or the coil moves in a magnetic field), a voltage is induced while the magnetic field through the coil is changing. In a generator a coil spins in a magnetic field. The output voltage increases with a stronger magnet, more turns, a bigger coil or faster rotation. **Slip rings** give alternating current; a commutator gives direct current.\n\n## Transformers\nA transformer changes an alternating voltage using two coils on an iron core. The voltage ratio is Vs ÷ Vp = Ns ÷ Np. For an ideal transformer, power in = power out, so Vp × Ip = Vs × Is.\nWorked example: Np = 200, Ns = 50, Vp = 240 V. Vs = 240 × 50 ÷ 200 = 60 V (step-down). Step-up transformers raise voltage for transmission; step-down transformers lower it for homes.\nWhy high voltage? For the same power, a higher voltage means a lower current and less heating loss (I²R). For 100 kW at 10 000 V, I = 10 A, so with 5.0 Ω cable the loss is 10² × 5.0 = 500 W.\n\n## Common mistakes\n- Saying transformers work with d.c. They need a changing magnetic field, so a.c. is required.\n- Thinking a stationary magnet in a coil induces a voltage.\n- Mixing the primary and secondary coils in the ratio.\n- Confusing generators (motion → electricity) with motors (electricity → motion).\n\n## How this is examined\nTypical contexts are electricity transmission to a town, a wind turbine generator, a crane electromagnet or an investigation into electromagnet strength. You are asked to use the transformer equation, explain why high voltages are used, identify variables in a fair test, and evaluate energy supply choices for a community.\n\nExam tip: For induction explanations always mention a changing magnetic field. For transformer problems state the equation and which side is primary before substituting.",
+  "flashcards": [
+   {
+    "front": "Magnetic materials",
+    "back": "Iron, steel, nickel and cobalt are magnetic. Copper, aluminium and gold are not."
+   },
+   {
+    "front": "Ways to strengthen an electromagnet",
+    "back": "Increase the current, add more turns of wire, or add a soft iron core."
+   },
+   {
+    "front": "Motor effect",
+    "back": "A current-carrying wire in a magnetic field experiences a force. Direction found with Fleming's left-hand rule."
+   },
+   {
+    "front": "Fleming's left-hand rule",
+    "back": "Thumb: thrust (force). First finger: field. Second finger: current."
+   },
+   {
+    "front": "Electromagnetic induction",
+    "back": "A voltage is induced in a conductor when the magnetic field through it changes, for example a magnet moving in a coil."
+   },
+   {
+    "front": "Raising generator output",
+    "back": "Stronger magnet, more turns, larger coil area, or faster rotation."
+   },
+   {
+    "front": "Transformer equation",
+    "back": "Vs ÷ Vp = Ns ÷ Np. For an ideal transformer, Vp × Ip = Vs × Is."
+   },
+   {
+    "front": "Why transmit at high voltage?",
+    "back": "High voltage means low current for the same power, so less energy is lost as heat in cables (P = I²R)."
+   },
+   {
+    "front": "Commutator vs slip rings",
+    "back": "Split-ring commutator in a d.c. motor/generator reverses connections every half turn. Slip rings give a.c."
+   }
+  ]
+ }
+]

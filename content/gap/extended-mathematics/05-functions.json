@@ -1,0 +1,265 @@
+[
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Functions",
+  "subTopic": "Rational Functions and Asymptotes",
+  "questions": [
+   {
+    "content": "What is the vertical asymptote of y = 1/(x − 3)?",
+    "options": [
+     "x = −3",
+     "x = 3",
+     "y = 3",
+     "y = 0"
+    ],
+    "answer": 1,
+    "explanation": "The denominator is zero when x = 3, so the graph cannot cross or touch the line x = 3. The line y = 0 is the horizontal asymptote.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "For which value of x is y = 5/(x + 1) undefined?",
+    "options": [
+     "x = 1",
+     "x = 5",
+     "x = 0",
+     "x = −1"
+    ],
+    "answer": 3,
+    "explanation": "The function is undefined when the denominator is zero: x + 1 = 0 gives x = −1.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the horizontal asymptote of y = 1/x + 2?",
+    "options": [
+     "y = 2",
+     "y = 0",
+     "x = 2",
+     "y = 1"
+    ],
+    "answer": 0,
+    "explanation": "For large positive or negative x, 1/x is almost 0 so y is close to 2. The graph of y = 1/x is shifted up 2, so the horizontal asymptote moves from y = 0 to y = 2.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "For y = 6/x, when x = 3 the value of y is 2. What is y when x = 6?",
+    "options": [
+     "4",
+     "2",
+     "1",
+     "12"
+    ],
+    "answer": 2,
+    "explanation": "y = 6 ÷ 6 = 1. When x doubles, y halves, because y and x are inversely proportional.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The graph of y = 4/x has two separate curves. What are these curves called?",
+    "options": [
+     "Intercepts",
+     "Asymptotes",
+     "Tangents",
+     "Branches"
+    ],
+    "answer": 3,
+    "explanation": "A reciprocal graph is made of two branches, one in each of two opposite quadrants. They approach the asymptotes but never touch them.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What are the asymptotes of y = 3/(x + 4) − 1?",
+    "options": [
+     "x = 4 and y = 1",
+     "x = −4 and y = −1",
+     "x = −4 and y = 3",
+     "x = −1 and y = −4"
+    ],
+    "answer": 1,
+    "explanation": "The denominator x + 4 = 0 gives the vertical asymptote x = −4. The −1 shifts the graph down by 1, so the horizontal asymptote is y = −1.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What are the asymptotes of y = (2x + 1)/(x − 3)?",
+    "options": [
+     "x = −3 and y = 2",
+     "x = 3 and y = 1",
+     "x = 3 and y = 2",
+     "x = 3 and y = 0"
+    ],
+    "answer": 2,
+    "explanation": "The denominator is zero at x = 3. For large x, the +1 and −3 matter less, so y ≈ 2x/x = 2, the ratio of the coefficients of x.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Where does y = (2x + 1)/(x − 3) cross the axes?",
+    "options": [
+     "(0, −1/3) and (−1/2, 0)",
+     "(0, 1/3) and (1/2, 0)",
+     "(0, −3) and (−2, 0)",
+     "(0, 2) and (3, 0)"
+    ],
+    "answer": 0,
+    "explanation": "When x = 0, y = 1/(−3) = −1/3. When y = 0, the numerator is zero: 2x + 1 = 0 gives x = −1/2.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve 12/(x − 1) = 3.",
+    "options": [
+     "x = 4",
+     "x = 5",
+     "x = 13",
+     "x = 3"
+    ],
+    "answer": 1,
+    "explanation": "Multiply by (x − 1): 12 = 3(x − 1), so 12 = 3x − 3 and x = 5. Check: 12 ÷ 4 = 3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A 240 km journey at an average speed of v km/h takes t = 240/v hours. At 80 km/h it takes 3 hours. How long does it take if the average speed is 100 km/h?",
+    "options": [
+     "2 hours 40 minutes",
+     "2 hours 15 minutes",
+     "2 hours 4 minutes",
+     "2 hours 24 minutes"
+    ],
+    "answer": 3,
+    "explanation": "t = 240 ÷ 100 = 2.4 hours. 0.4 of an hour is 0.4 × 60 = 24 minutes, so the time is 2 h 24 min. Writing 2.4 hours as 2 h 40 min is a decimal-time mistake.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the range of y = 1/(x − 2) + 3?",
+    "options": [
+     "All real y except y = 3",
+     "All real y except y = 2",
+     "All real y except y = 0",
+     "All real y"
+    ],
+    "answer": 0,
+    "explanation": "The graph never reaches the horizontal asymptote y = 3, so y can be any real number except 3. The excluded value x = 2 is about the domain, not the range.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A graph has a vertical asymptote x = −1 and a horizontal asymptote y = 4. Which equation could it be?",
+    "options": [
+     "y = 1/(x − 1) + 4",
+     "y = 1/(x + 1) − 4",
+     "y = 1/(x + 1) + 4",
+     "y = 1/(x + 4) − 1"
+    ],
+    "answer": 2,
+    "explanation": "1/(x + 1) is undefined at x = −1, and the + 4 shifts the graph up so the horizontal asymptote is y = 4. Check each option against both asymptotes.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "For y = 8/x + 2, what happens as x becomes very large and positive?",
+    "options": [
+     "y gets closer to 0",
+     "y becomes very large",
+     "y becomes exactly 2",
+     "y gets closer to 2 from above but never equals 2"
+    ],
+    "answer": 3,
+    "explanation": "As x grows, 8/x gets smaller but stays positive, so y is slightly more than 2. It approaches the asymptote y = 2 without reaching it.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve (2x + 1)/(x − 3) = 5.",
+    "options": [
+     "x = 16",
+     "x = 16/3",
+     "x = 6",
+     "x = −2"
+    ],
+    "answer": 1,
+    "explanation": "Multiply by (x − 3): 2x + 1 = 5x − 15. Then 16 = 3x, so x = 16/3 ≈ 5.33. Check: (2 × 16/3 + 1) ÷ (16/3 − 3) = (35/3) ÷ (7/3) = 5.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A rational function has a vertical asymptote x = 2, a horizontal asymptote y = 3 and passes through (0, 4). Which equation fits?",
+    "options": [
+     "y = 2/(x − 2) + 3",
+     "y = 1/(x − 2) + 3",
+     "y = −2/(x − 2) + 3",
+     "y = −2/(x + 2) + 3"
+    ],
+    "answer": 2,
+    "explanation": "Use y = a/(x − 2) + 3. At x = 0: a/(−2) + 3 = 4, so a/(−2) = 1 and a = −2. Check: −2/(−2) + 3 = 4.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A group hires a hall for £120 plus £15 per person. For n people, the cost per person is C = (120 + 15n)/n. What is the smallest whole number of people that makes the cost per person £18 or less?",
+    "options": [
+     "40",
+     "24",
+     "8",
+     "120"
+    ],
+    "answer": 0,
+    "explanation": "C = 15 + 120/n. We need 120/n ≤ 3, so n ≥ 40. With 39 people, C = 15 + 120/39 ≈ £18.08, which is too high.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "For C = 15 + 120/n, what does the horizontal asymptote C = 15 mean in context?",
+    "options": [
+     "The cost per person is £15 for every group",
+     "The cost per person gets closer to £15 as the group grows, but is always above £15",
+     "The hall costs £15",
+     "The cost per person can be less than £15 for large groups"
+    ],
+    "answer": 1,
+    "explanation": "As n grows, 120/n tends to 0, so C approaches 15. Because 120/n is positive, C is always a little above 15. The £15 is the per-person charge once the hall fee is shared among very many people.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which expression is equal to (3x − 5)/(x − 2), and so shows its horizontal asymptote?",
+    "options": [
+     "3 − 1/(x − 2)",
+     "3 + 5/(x − 2)",
+     "3x − 5/(x − 2)",
+     "3 + 1/(x − 2)"
+    ],
+    "answer": 3,
+    "explanation": "Write 3x − 5 = 3(x − 2) + 1. Then (3(x − 2) + 1)/(x − 2) = 3 + 1/(x − 2). The horizontal asymptote is y = 3 and the vertical asymptote is x = 2.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Reciprocal functions\nA rational function has an algebraic fraction in which the variable appears in the denominator. The simplest example is y = k/x. Its graph has two branches. If k > 0 the branches lie in the first and third quadrants, and if k < 0 they lie in the second and fourth. The graph never touches either axis. These lines are asymptotes: lines that a graph gets closer and closer to without reaching. The value y = k/x also describes inverse proportion: when x doubles, y halves.\n\n## Vertical asymptotes\nA vertical asymptote occurs where the denominator is zero but the numerator is not, because you cannot divide by zero. For y = 1/(x − 3), x − 3 = 0 gives x = 3, so the vertical asymptote is x = 3, and x = 3 is excluded from the domain. Near the asymptote the graph shoots up or down very steeply.\n\n## Horizontal asymptotes\nA horizontal asymptote shows what happens to y when x is very large (positive or negative). In y = 1/x + 2, the 1/x part becomes almost 0, so y gets closer to 2, and the horizontal asymptote is y = 2. For a function of the form (ax + b)/(cx + d), the horizontal asymptote is y = a/c. For example, (2x + 1)/(x − 3) has horizontal asymptote y = 2, because the leading coefficients are 2 and 1. The range excludes this value.\n\n## Transformations\nThe graph of y = k/(x − p) + q is the graph of y = k/x translated p units right and q units up. Its asymptotes are x = p and y = q. So y = 3/(x + 4) − 1 has asymptotes x = −4 and y = −1.\n\n## Rewriting a fraction\nYou can rewrite (3x − 5)/(x − 2) by splitting the numerator: 3x − 5 = 3(x − 2) + 1. Then the fraction is 3 + 1/(x − 2). This shows the horizontal asymptote y = 3 and vertical asymptote x = 2 immediately.\n\n## Finding intercepts and solving\n- y-intercept: substitute x = 0.\n- x-intercept: set the numerator equal to 0 (the denominator must not also be 0).\n- To solve an equation such as (2x + 1)/(x − 3) = 5, multiply both sides by the denominator, solve, and then check your answer is not the excluded value. Here 2x + 1 = 5x − 15 gives x = 16/3.\n\n## Rational functions in real life\nMany real models are rational: time = distance ÷ speed (t = 240/v), and cost per person = total cost ÷ number of people (C = (120 + 15n)/n = 15 + 120/n). The asymptote has a meaning in context: the cost per person never falls below £15, however large the group. You should also state the sensible domain (for example n must be a positive whole number) and the limitations of the model.\n\n## Common mistakes\n- Writing the vertical asymptote with the wrong sign (x + 2 = 0 gives x = −2).\n- Confusing which asymptote is horizontal and which is vertical.\n- Saying a graph \"crosses\" its asymptote, or that y = 0 at the asymptote.\n- Forgetting to check that the solution is not the excluded value.\n\n## How this is examined\nYou may be given a real situation, such as a journey or a shared cost, and asked to form the function, state its domain, identify and explain the asymptotes in context, solve an equation and judge how reliable the model is. Extended tasks ask you to compare models or to explain why the model breaks down for extreme values.\n\nExam tip: When asked to interpret an asymptote, always use the context: say what the variable stands for and what the value means, for example \"the cost per person approaches but never goes below £15\".",
+  "flashcards": [
+   {
+    "front": "Reciprocal function",
+    "back": "y = k/x. It has two branches and the axes are the asymptotes. It models inverse proportion."
+   },
+   {
+    "front": "Asymptote",
+    "back": "A line that a graph gets closer and closer to without touching."
+   },
+   {
+    "front": "Vertical asymptote",
+    "back": "Found where the denominator = 0 (and the numerator is not 0). For y = 1/(x − 3) it is x = 3."
+   },
+   {
+    "front": "Horizontal asymptote of (ax + b)/(cx + d)",
+    "back": "y = a/c. For (2x + 1)/(x − 3) it is y = 2."
+   },
+   {
+    "front": "y = k/(x − p) + q",
+    "back": "The graph of y = k/x moved p right and q up. Asymptotes: x = p and y = q."
+   },
+   {
+    "front": "Finding intercepts",
+    "back": "y-intercept: put x = 0. x-intercept: numerator = 0."
+   },
+   {
+    "front": "Solving a rational equation",
+    "back": "Multiply both sides by the denominator, solve, then check the answer is not the excluded value."
+   },
+   {
+    "front": "Inverse proportion",
+    "back": "When x doubles, y halves. The product xy is constant."
+   },
+   {
+    "front": "Interpreting an asymptote",
+    "back": "Say what it means in context, such as a cost per person that gets close to a fixed amount but never below it."
+   }
+  ]
+ }
+]

@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "chemistry",
+  "grade": 5,
+  "topic": "Mixtures and Materials",
+  "subTopic": "Solutions, Suspensions and Emulsions",
+  "questions": [
+   {
+    "content": "In a solution of sugar in water, which substance is the solute?",
+    "options": [
+     "Water",
+     "Sugar",
+     "Both",
+     "Neither"
+    ],
+    "answer": 1,
+    "explanation": "The solute is the substance that dissolves. Water is the solvent.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a suspension?",
+    "options": [
+     "Salt dissolved in water",
+     "Muddy water",
+     "Clean air",
+     "Sugar in tea"
+    ],
+    "answer": 1,
+    "explanation": "Muddy water contains insoluble particles that eventually settle out.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is an emulsion?",
+    "options": [
+     "Milk",
+     "Sea water",
+     "Pure water",
+     "Brass"
+    ],
+    "answer": 0,
+    "explanation": "Milk is tiny fat droplets spread through water, so it is an emulsion.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A beam of light is shone through a liquid and its path is visible inside the liquid. What does this show?",
+    "options": [
+     "The liquid contains particles large enough to scatter light, such as a colloid",
+     "The liquid is a true solution",
+     "The liquid is pure water",
+     "The liquid is a metal"
+    ],
+    "answer": 0,
+    "explanation": "Light scattering (the Tyndall effect) occurs in colloids and suspensions, but not in true solutions.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which statement describes a true solution?",
+    "options": [
+     "Particles settle on standing",
+     "Particles are visible",
+     "Particles are dissolved evenly and do not settle",
+     "It is always cloudy"
+    ],
+    "answer": 2,
+    "explanation": "In a solution the solute particles are spread evenly at particle level and do not settle.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "20 g of salt is dissolved to make 500 cm³ of solution. What is the concentration in g/dm³?",
+    "options": [
+     "10",
+     "20",
+     "40",
+     "80"
+    ],
+    "answer": 2,
+    "explanation": "500 cm³ = 0.5 dm³. Concentration = 20 ÷ 0.5 = 40 g/dm³.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A mixture of chalk powder and water is left on a bench. The chalk settles, and the mixture can be separated using filter paper. What type of mixture is it?",
+    "options": [
+     "Solution",
+     "Suspension",
+     "Emulsion",
+     "Alloy"
+    ],
+    "answer": 1,
+    "explanation": "Insoluble solid particles that settle and can be filtered out make a suspension.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does an emulsifier do?",
+    "options": [
+     "Helps oil and water stay mixed because part of its molecule likes oil and part likes water",
+     "Dissolves the oil in water",
+     "Turns water into oil",
+     "Makes the mixture warmer"
+    ],
+    "answer": 0,
+    "explanation": "An emulsifier such as lecithin in egg yolk sits at the surface of droplets and stops them joining together.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Salt X solubility (g per 100 g water): 20 °C: 30, 40 °C: 45, 60 °C: 65, 80 °C: 90. What mass of X can dissolve in 50 g of water at 60 °C?",
+    "options": [
+     "22.5 g",
+     "32.5 g",
+     "45 g",
+     "65 g"
+    ],
+    "answer": 1,
+    "explanation": "50 g is half of 100 g, so half of 65 g dissolves: 32.5 g.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A bottle of fizzy drink is warmed and bubbles escape faster. What is the explanation?",
+    "options": [
+     "Gases are less soluble in warmer liquids",
+     "Gases are more soluble in warmer liquids",
+     "Warming makes more gas",
+     "The bottle gets heavier"
+    ],
+    "answer": 0,
+    "explanation": "Solubility of gases decreases with temperature, so carbon dioxide leaves the drink.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which method would recover the solid salt from a salt solution?",
+    "options": [
+     "Filtration",
+     "Evaporation or crystallisation",
+     "Sieving",
+     "Magnetism"
+    ],
+    "answer": 1,
+    "explanation": "Dissolved solute passes through filter paper. Evaporating the water leaves the salt behind.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why does milk look cloudy even though it passes through filter paper?",
+    "options": [
+     "Tiny droplets scatter light but are small enough to pass through",
+     "It has large lumps",
+     "It contains metals",
+     "Milk is a pure substance"
+    ],
+    "answer": 0,
+    "explanation": "Colloid droplets are too small to be filtered out, but large enough to scatter light.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A liquid passes through filter paper, does not settle in a week, and a beam of light is clearly visible going through it. Which description fits best?",
+    "options": [
+     "Suspension",
+     "True solution",
+     "Colloid",
+     "Pure element"
+    ],
+    "answer": 2,
+    "explanation": "Not settling and passing the filter rules out a suspension. Scattering the light rules out a true solution, so it is a colloid.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Using the solubility data for salt X (80 °C: 90 g per 100 g water; 20 °C: 30 g per 100 g water), what mass of crystals forms when a saturated solution containing 200 g of water at 80 °C is cooled to 20 °C?",
+    "options": [
+     "60 g",
+     "90 g",
+     "120 g",
+     "180 g"
+    ],
+    "answer": 2,
+    "explanation": "At 80 °C, 200 g water holds 180 g. At 20 °C it holds 60 g. Crystals = 180 − 60 = 120 g.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "At 40 °C, 100 g of water can dissolve 45 g of salt X. A solution contains 40 g X in 100 g water at 40 °C. A further 10 g of X is added and stirred. How much stays undissolved?",
+    "options": [
+     "0 g",
+     "5 g",
+     "10 g",
+     "45 g"
+    ],
+    "answer": 1,
+    "explanation": "The solution could hold 5 g more. Total 50 g added, 45 g dissolves, so 5 g stays undissolved.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Butter is a water-in-oil emulsion. Which description is correct?",
+    "options": [
+     "Oil forms the continuous phase with water droplets inside",
+     "Water forms the continuous phase with oil droplets inside",
+     "It has no continuous phase",
+     "It is a true solution"
+    ],
+    "answer": 0,
+    "explanation": "In water-in-oil emulsions the water droplets are spread through oil. Mayonnaise is the opposite, oil-in-water.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student wants to prove that a liquid is a true solution. Which results would support this?",
+    "options": [
+     "It passes through filter paper, does not settle, and does not scatter a light beam",
+     "It does not pass through filter paper",
+     "It settles in an hour",
+     "It scatters light strongly"
+    ],
+    "answer": 0,
+    "explanation": "All three tests together show particles are dissolved. Any one test alone is not enough to be sure.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "2.5 g of a solute dissolves in 250 cm³ of solution. What mass of solute is needed for 750 cm³ of solution with the same concentration?",
+    "options": [
+     "2.5 g",
+     "5.0 g",
+     "7.5 g",
+     "10 g"
+    ],
+    "answer": 2,
+    "explanation": "Concentration = 2.5 ÷ 0.25 = 10 g/dm³. For 0.75 dm³ you need 10 × 0.75 = 7.5 g.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Mixtures are made of two or more substances that are not chemically joined, and the way the particles are spread out decides what we call the mixture. At MYP 5 you need to tell solutions, suspensions, colloids and emulsions apart, calculate concentration and interpret solubility data.\n\n## Solutions\nA **solution** forms when a **solute** dissolves in a **solvent**. In a sugar solution the sugar is the solute and the water is the solvent. The solute particles are mixed in at particle level, so the mixture is clear (it may be coloured), the particles never settle, they pass through filter paper and they do not scatter light.\n\n## Suspensions\nA **suspension** contains larger insoluble particles spread through a liquid, such as chalk in water or muddy water. It looks cloudy, the particles slowly settle, they can be removed using filter paper, and the mixture scatters light.\n\n## Colloids and emulsions\nIn a **colloid** the particles are between the two sizes. They do not settle and pass through filter paper, but they are large enough to scatter a beam of light (the Tyndall effect). An **emulsion** is a colloid of one liquid spread as tiny droplets in another liquid that it does not mix with, such as milk or mayonnaise (oil droplets in water) or butter (water droplets in oil). Emulsions need an **emulsifier**, a substance with one end that likes water and one end that likes oil. It surrounds the droplets and stops them joining back together. Egg yolk contains lecithin, which is why it is used in mayonnaise.\n\n## Summary of tests\n- Does it settle? Suspension yes, colloid and solution no.\n- Does it pass through filter paper? Suspension no, colloid and solution yes.\n- Does it scatter light? Suspension and colloid yes, solution no.\n\n## Concentration\nConcentration in g/dm³ = mass of solute (g) ÷ volume of solution (dm³). Remember 1 dm³ = 1000 cm³. Worked example: 20 g of salt in 500 cm³ gives 20 ÷ 0.5 = 40 g/dm³.\n\n## Solubility\nSolubility is the maximum mass of solute that dissolves in 100 g of water at a certain temperature. A **saturated** solution holds that maximum. For most solids, solubility increases as the temperature rises. For gases it decreases, which is why a warm fizzy drink loses its fizz. Solubility curves can be used to predict how much solid crystallises on cooling.\n\nWorked example: solubility of salt X is 90 g per 100 g water at 80 °C and 30 g per 100 g at 20 °C. A saturated solution with 200 g of water at 80 °C holds 180 g. At 20 °C it holds only 60 g, so 120 g of crystals appear.\n\n## Common mistakes\n- Forgetting to convert cm³ into dm³ before calculating concentration.\n- Saying that a colloid will settle if left long enough. It does not.\n- Using the total mass of solution instead of the mass of water when reading solubility data.\n\n## How this is examined\nTasks often describe a food or cosmetics company testing a product, or a lab investigation with data. You may classify a mixture from test results, calculate concentration or crystals formed, and evaluate whether the test is fair and the conclusion justified.\n\nExam tip: When classifying a mixture use at least two observations, such as filtering and shining a light through it, and name the observation that rules out each of the other types.",
+  "flashcards": [
+   {
+    "front": "Solute, solvent, solution",
+    "back": "Solute dissolves in the solvent; together they make a solution."
+   },
+   {
+    "front": "Suspension",
+    "back": "Insoluble particles spread through a liquid. It looks cloudy, settles and can be filtered."
+   },
+   {
+    "front": "Colloid",
+    "back": "Small particles that do not settle or filter out, but scatter light (Tyndall effect)."
+   },
+   {
+    "front": "Emulsion",
+    "back": "A colloid of tiny droplets of one liquid in another liquid they do not mix with, e.g. milk."
+   },
+   {
+    "front": "Emulsifier",
+    "back": "A substance with a water-loving and an oil-loving part that keeps droplets from joining, e.g. lecithin."
+   },
+   {
+    "front": "Concentration formula",
+    "back": "Concentration (g/dm³) = mass of solute (g) ÷ volume of solution (dm³)."
+   },
+   {
+    "front": "Solubility",
+    "back": "The maximum mass of solute that dissolves in 100 g of water at a given temperature."
+   },
+   {
+    "front": "Effect of temperature on solubility",
+    "back": "Solids: usually more soluble when hotter. Gases: less soluble when hotter."
+   },
+   {
+    "front": "Saturated solution",
+    "back": "A solution that already holds the maximum solute at that temperature; any extra stays undissolved."
+   }
+  ]
+ },
+ {
+  "subject": "chemistry",
+  "grade": 5,
+  "topic": "Mixtures and Materials",
+  "subTopic": "Alloys and Properties of Metals",
+  "questions": [
+   {
+    "content": "What is an alloy?",
+    "options": [
+     "A mixture of a metal with at least one other element",
+     "A compound of two metals",
+     "A pure metal",
+     "A non-metal"
+    ],
+    "answer": 0,
+    "explanation": "Alloys are mixtures, usually of metals, made to improve properties.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Brass is an alloy of which two metals?",
+    "options": [
+     "Copper and zinc",
+     "Copper and tin",
+     "Iron and carbon",
+     "Aluminium and iron"
+    ],
+    "answer": 0,
+    "explanation": "Brass is copper and zinc. Bronze is copper and tin.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why can metals conduct electricity?",
+    "options": [
+     "They contain delocalised electrons that move",
+     "They contain ions that cannot move",
+     "They contain neutrons that carry charge",
+     "They contain molecules"
+    ],
+    "answer": 0,
+    "explanation": "Metals have a lattice of positive ions in a sea of delocalised electrons that carry charge.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Steel is mainly iron mixed with a small amount of which element?",
+    "options": [
+     "Carbon",
+     "Chlorine",
+     "Hydrogen",
+     "Helium"
+    ],
+    "answer": 0,
+    "explanation": "Steel is an alloy of iron and a small percentage of carbon.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does the term malleable mean?",
+    "options": [
+     "Can be hammered into shape",
+     "Can be stretched into wires",
+     "Shiny",
+     "Breaks easily"
+    ],
+    "answer": 0,
+    "explanation": "Malleable means it can be hammered or bent without shattering. Ductile means it can be drawn into wires.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why is an alloy usually harder than the pure metal it is made from?",
+    "options": [
+     "Atoms of different sizes disrupt the layers so they cannot slide easily",
+     "Alloys contain more electrons",
+     "Alloys have no bonds",
+     "Alloy atoms are the same size"
+    ],
+    "answer": 0,
+    "explanation": "In a pure metal, layers of same-size atoms slide easily. Different-sized atoms in an alloy block the layers.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What percentage of 18-carat gold is pure gold? (24 carat is pure gold)",
+    "options": [
+     "18%",
+     "50%",
+     "75%",
+     "90%"
+    ],
+    "answer": 2,
+    "explanation": "18 ÷ 24 = 0.75, so 75% gold.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is pure copper used for electrical wires?",
+    "options": [
+     "It is a good conductor and can be drawn into wires",
+     "It is a poor conductor but cheap",
+     "It is brittle",
+     "It is magnetic"
+    ],
+    "answer": 0,
+    "explanation": "Copper is an excellent conductor and ductile, so it is easily made into wires.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why are aluminium alloys used to build aircraft?",
+    "options": [
+     "Low density and strong",
+     "High density and strong",
+     "Easy to melt and weak",
+     "Magnetic and heavy"
+    ],
+    "answer": 0,
+    "explanation": "Aircraft need light but strong materials, which aluminium alloys provide.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the main advantage of stainless steel for cutlery?",
+    "options": [
+     "It resists rusting",
+     "It is a poor conductor of heat",
+     "It is a liquid",
+     "It is soft"
+    ],
+    "answer": 0,
+    "explanation": "Chromium in stainless steel forms a protective layer, so it does not rust easily.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of these is NOT an alloy?",
+    "options": [
+     "Bronze",
+     "Solder",
+     "Pure copper",
+     "Stainless steel"
+    ],
+    "answer": 2,
+    "explanation": "Pure copper is a single element. The others are mixtures.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A 12 g ring is made from 9-carat gold. What mass of gold does it contain? (24 carat is pure gold)",
+    "options": [
+     "3.0 g",
+     "4.5 g",
+     "6.0 g",
+     "9.0 g"
+    ],
+    "answer": 1,
+    "explanation": "9 ÷ 24 = 0.375. Gold = 0.375 × 12 = 4.5 g.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Hardness (arbitrary units) of iron: pure iron 4; iron with 0.2% carbon 6; iron with 0.8% carbon 8. What does the data suggest?",
+    "options": [
+     "Adding carbon makes iron harder",
+     "Adding carbon makes iron softer",
+     "Carbon has no effect",
+     "Pure iron is hardest"
+    ],
+    "answer": 0,
+    "explanation": "Hardness rises as carbon increases from 0 to 0.8%.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Pure copper conducts electricity better than brass. What is the best reason?",
+    "options": [
+     "Zinc atoms disturb the flow of delocalised electrons",
+     "Brass has no electrons",
+     "Copper has no ions",
+     "Brass is a compound"
+    ],
+    "answer": 0,
+    "explanation": "The different atoms in brass scatter the moving electrons and reduce conductivity.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An engineer needs a material for a ship's propeller that is strong, hard-wearing and resists corrosion in seawater. Which is the best choice?",
+    "options": [
+     "Pure copper",
+     "Bronze",
+     "Pure tin",
+     "Mild steel"
+    ],
+    "answer": 1,
+    "explanation": "Bronze is stronger and harder than copper and resists corrosion. Mild steel rusts and pure copper and tin are too soft.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "250 g of brass is 70% copper by mass. How much zinc does it contain?",
+    "options": [
+     "30 g",
+     "75 g",
+     "175 g",
+     "250 g"
+    ],
+    "answer": 1,
+    "explanation": "Copper = 0.70 × 250 = 175 g. Zinc = 250 − 175 = 75 g.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student says that brass is a compound because it contains two elements. Which response is correct?",
+    "options": [
+     "Brass is a mixture because the metals are not chemically bonded in fixed proportions",
+     "Brass is a compound because it has two elements",
+     "Brass is an element",
+     "Brass is a gas"
+    ],
+    "answer": 0,
+    "explanation": "Alloys are mixtures: the proportions can vary and no new chemical compound forms.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Pure tin melts at 232 °C. A lead-tin solder melts at about 183 °C. Why is the alloy useful for joining electronic parts?",
+    "options": [
+     "Lower melting point means less risk of heat damage to components",
+     "Higher melting point makes the joint stronger",
+     "It is a gas",
+     "It is magnetic"
+    ],
+    "answer": 0,
+    "explanation": "The alloy melts at a lower temperature than pure tin, so components are not damaged during soldering.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Metals are used in almost everything from phones to bridges. To choose the right metal for a job you need to know how metals are built, why they have their properties, and how mixing them into alloys can improve them.\n\n## Metallic bonding\nA metal is a regular lattice of positive ions surrounded by a sea of **delocalised electrons**. These free electrons are shared between all the ions and hold the structure together. This explains the common properties:\n- **Good electrical conductivity**: the delocalised electrons carry charge through the metal.\n- **Good thermal conductivity**: the electrons quickly pass on energy.\n- **High melting points**: a lot of energy is needed to overcome the strong attraction between ions and electrons.\n- **Malleable and ductile**: layers of ions can slide over each other, but the electrons keep holding them together, so the metal bends instead of shattering.\n- **Shiny when polished** and **sonorous** (rings when hit).\n\n## Why pure metals are often too soft\nIn a pure metal, all the atoms are the same size, so the layers slide easily. Pure iron, copper, gold and aluminium are soft and bend easily, which is not ideal for tools or buildings.\n\n## Alloys\nAn **alloy** is a mixture of a metal with at least one other element, usually another metal. The atoms of the added element are a different size. They distort the regular layers and stop them sliding, so alloys are usually **harder and stronger** than the pure metal. Alloys are made by mixing the molten metals and letting them cool. They are mixtures, not compounds, because no chemical reaction occurs and the proportions can vary.\n\nCommon alloys:\n- **Brass**: copper and zinc. Used in taps and musical instruments.\n- **Bronze**: copper and tin. Hard-wearing, used for statues and ship propellers.\n- **Steel**: iron with a small amount of carbon. Strong, used for construction.\n- **Stainless steel**: iron, chromium and nickel. Resists rust, used for cutlery and sinks.\n- **Solder**: tin-based alloy with a low melting point, used to join electronic parts.\n- **Aluminium alloys**: low density and strong, used for aircraft.\n- **Gold alloys**: pure gold is 24 carat. 18 carat gold is 18 out of 24 parts gold, or 75%.\n\nTrade-off: alloys are usually less good at conducting electricity than the pure metal because the different atoms disturb the flow of electrons. That is why pure copper is used for electrical wires.\n\n## Calculations\nWorked example: a 12 g ring is 9 carat. Fraction of gold = 9 ÷ 24 = 0.375. Mass of gold = 0.375 × 12 = 4.5 g.\nWorked example: 250 g of brass is 70% copper. Copper = 175 g, so zinc = 75 g.\n\n## Choosing materials\nReal design decisions weigh several properties: strength, density, resistance to corrosion, conductivity, cost and availability. For a bridge you need strength and low cost, so steel is common. For an aircraft you need low density as well, so aluminium alloys are used. State the property needed, then match it to the material.\n\n## Common mistakes\n- Calling an alloy a compound.\n- Saying alloys are harder because their bonds are stronger. The reason is that layers cannot slide.\n- Forgetting that pure metals are good conductors but alloys are usually worse.\n\n## How this is examined\nQuestions give a scenario, such as selecting a metal for a bike frame or a coin, with a data table of properties. You are asked to compare, explain using particle structure, calculate the composition of an alloy and justify a choice.\n\nExam tip: When explaining why an alloy is harder, mention that the atoms are different sizes, the layers are distorted and they cannot slide over each other easily.",
+  "flashcards": [
+   {
+    "front": "Metallic bonding",
+    "back": "A lattice of positive metal ions surrounded by a sea of delocalised electrons."
+   },
+   {
+    "front": "Why metals conduct electricity",
+    "back": "Delocalised electrons are free to move and carry charge through the metal."
+   },
+   {
+    "front": "Malleable vs ductile",
+    "back": "Malleable: can be hammered into shape. Ductile: can be drawn out into wires."
+   },
+   {
+    "front": "What is an alloy?",
+    "back": "A mixture of a metal with at least one other element, made to improve properties."
+   },
+   {
+    "front": "Why are alloys harder than pure metals?",
+    "back": "Atoms of different sizes distort the layers, so they cannot slide over each other easily."
+   },
+   {
+    "front": "Brass and bronze",
+    "back": "Brass is copper and zinc. Bronze is copper and tin."
+   },
+   {
+    "front": "Steel and stainless steel",
+    "back": "Steel: iron with a little carbon. Stainless steel: iron with chromium and nickel, resists rusting."
+   },
+   {
+    "front": "Carat of gold",
+    "back": "24 carat is pure gold. 18 carat is 18/24 = 75% gold."
+   },
+   {
+    "front": "Why use pure copper for wires?",
+    "back": "It is an excellent conductor and ductile. Alloys usually conduct less well."
+   }
+  ]
+ },
+ {
+  "subject": "chemistry",
+  "grade": 5,
+  "topic": "Mixtures and Materials",
+  "subTopic": "Metals and Non-metals Compared",
+  "questions": [
+   {
+    "content": "Which of these is a good conductor of electricity?",
+    "options": [
+     "Copper",
+     "Sulfur",
+     "Diamond",
+     "Oxygen"
+    ],
+    "answer": 0,
+    "explanation": "Copper is a metal with delocalised electrons.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which property is typical of a solid non-metal?",
+    "options": [
+     "Brittle",
+     "Malleable",
+     "Shiny",
+     "Ductile"
+    ],
+    "answer": 0,
+    "explanation": "Solid non-metals such as sulfur break or crumble when hit.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What type of ion do metal atoms usually form?",
+    "options": [
+     "Positive ions",
+     "Negative ions",
+     "No ions",
+     "Neutral molecules"
+    ],
+    "answer": 0,
+    "explanation": "Metals lose electrons to form positive ions.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "When a soluble metal oxide dissolves in water, the solution is usually...",
+    "options": [
+     "Alkaline",
+     "Acidic",
+     "Neutral",
+     "Orange"
+    ],
+    "answer": 0,
+    "explanation": "Metal oxides are basic, and soluble ones form alkaline hydroxide solutions.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which metal is liquid at room temperature (about 20 °C)?",
+    "options": [
+     "Mercury",
+     "Iron",
+     "Sodium",
+     "Aluminium"
+    ],
+    "answer": 0,
+    "explanation": "Mercury is the only common metal that is liquid at room temperature.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "An unknown solid is dull, brittle, melts at 115 °C and does not conduct electricity. What type of element is it most likely to be?",
+    "options": [
+     "Metal",
+     "Non-metal",
+     "Alloy",
+     "Noble metal"
+    ],
+    "answer": 1,
+    "explanation": "These properties match a non-metal such as sulfur.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Graphite is a non-metal that conducts electricity. What is the reason?",
+    "options": [
+     "It has delocalised electrons between its layers",
+     "It contains metal atoms",
+     "It has free ions",
+     "It has no electrons"
+    ],
+    "answer": 0,
+    "explanation": "Each carbon atom in graphite uses only three bonds, leaving a delocalised electron that can move.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Sulfur is burnt in air and the gas formed is dissolved in water. What is the pH of the solution likely to be?",
+    "options": [
+     "Less than 7",
+     "Exactly 7",
+     "Greater than 7",
+     "14"
+    ],
+    "answer": 0,
+    "explanation": "Sulfur dioxide is an acidic non-metal oxide and forms an acidic solution.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Magnesium is added to dilute hydrochloric acid. Which gas forms and how is it tested?",
+    "options": [
+     "Hydrogen, squeaky pop with a lit splint",
+     "Oxygen, relights a glowing splint",
+     "Carbon dioxide, limewater milky",
+     "Chlorine, bleaches litmus"
+    ],
+    "answer": 0,
+    "explanation": "Metals react with acids to make a salt and hydrogen. Hydrogen gives a squeaky pop.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Element W conducts, is malleable, melts at 1085 °C. Element X is brittle, melts at 115 °C, does not conduct. Which statement is correct?",
+    "options": [
+     "W is a metal and X is a non-metal",
+     "W is a non-metal and X is a metal",
+     "Both are metals",
+     "Both are non-metals"
+    ],
+    "answer": 0,
+    "explanation": "Conduction, malleability and a high melting point are metal properties, while brittleness and low melting point suggest a non-metal.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which pair is correctly matched with its type of bonding?",
+    "options": [
+     "Sodium chloride: ionic",
+     "Carbon dioxide: ionic",
+     "Sodium and chlorine atoms share electrons",
+     "Water: ionic"
+    ],
+    "answer": 0,
+    "explanation": "Metal plus non-metal gives ionic bonding. Two non-metals share electrons in covalent bonds.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which oxide would give an acidic solution in water?",
+    "options": [
+     "Sodium oxide",
+     "Calcium oxide",
+     "Carbon dioxide",
+     "Magnesium oxide"
+    ],
+    "answer": 2,
+    "explanation": "Carbon dioxide, a non-metal oxide, forms carbonic acid. The others are basic metal oxides.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Silicon is used in computer chips. Why is it called a metalloid?",
+    "options": [
+     "It has properties between metals and non-metals",
+     "It is a liquid metal",
+     "It is always a gas",
+     "It has no properties"
+    ],
+    "answer": 0,
+    "explanation": "Metalloids such as silicon are semiconductors and have mixed properties.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why are metals malleable but ionic compounds such as sodium chloride brittle?",
+    "options": [
+     "Sliding ionic layers bring like charges together so they repel and the crystal shatters, while metal layers slide with electrons still bonding",
+     "Ionic compounds are softer",
+     "Metals contain no ions",
+     "Ionic compounds do not have bonds"
+    ],
+    "answer": 0,
+    "explanation": "In a metal the electron sea holds the layers together as they slide. In an ionic crystal, a shift lines up like charges, which repel.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Element Q lights a bulb in a circuit. Its oxide dissolves in water to form a solution with pH 12. What is the best conclusion?",
+    "options": [
+     "Q is probably a metal",
+     "Q is probably a non-metal",
+     "Q is a noble gas",
+     "Q is a compound"
+    ],
+    "answer": 0,
+    "explanation": "Conducting electricity and forming a basic oxide are typical metal properties.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student says carbon is a metal because graphite conducts. What is the best evaluation?",
+    "options": [
+     "Wrong: carbon is a non-metal; graphite conducts by delocalised electrons, but carbon forms an acidic oxide",
+     "Right: all conductors are metals",
+     "Right: graphite is shiny",
+     "Wrong: graphite is a gas"
+    ],
+    "answer": 0,
+    "explanation": "One property is not enough. Carbon forms an acidic oxide (CO₂), is brittle and not malleable, so it is a non-metal.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which observation best shows that an oxide is basic?",
+    "options": [
+     "It reacts with dilute hydrochloric acid to make a salt and water",
+     "It is a gas",
+     "It is colourless",
+     "It dissolves in water to give pH 3"
+    ],
+    "answer": 0,
+    "explanation": "Basic oxides neutralise acids. This works even for oxides that do not dissolve in water.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Atom X has electron arrangement 2,8,2 and atom Y has 2,8,6. What compound would you predict them to form and why?",
+    "options": [
+     "XY, ionic: X loses 2 electrons and Y gains 2",
+     "XY, covalent: both share 2",
+     "X₂Y: X loses 1 electron",
+     "No compound forms"
+    ],
+    "answer": 0,
+    "explanation": "X is a metal that gives away 2 electrons (X²⁺), Y is a non-metal that gains 2 (Y²⁻). Charges balance in a 1 : 1 ratio.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Elements can be sorted into metals and non-metals using their physical and chemical properties and their position in the periodic table. Most elements are metals, found on the left and centre. Non-metals are on the right, with hydrogen as an exception that sits at the top.\n\n## Physical properties\nMetals:\n- Good conductors of heat and electricity\n- Shiny when polished\n- Malleable and ductile\n- High melting and boiling points (mercury is the exception, a liquid at room temperature)\n- High density, and sonorous\n\nNon-metals:\n- Poor conductors of heat and electricity (graphite is an exception)\n- Dull when solid\n- Brittle when solid\n- Low melting and boiling points; many are gases at room temperature\n- Low density\n\nMetalloids, such as silicon, have properties in between and are used as semiconductors.\n\n## Chemical properties\n- **Ions**: metals lose electrons to form positive ions (Na⁺, Mg²⁺). Non-metals gain electrons to form negative ions (Cl⁻, O²⁻) or share electrons in covalent bonds.\n- **Oxides**: metal oxides are basic, so they neutralise acids. Soluble ones form alkaline solutions, for example sodium oxide in water gives sodium hydroxide. Non-metal oxides are acidic, for example carbon dioxide and sulfur dioxide dissolve in water to form acidic solutions.\n- **Reaction with acids**: many metals react with dilute acids to give a salt and hydrogen, such as magnesium + hydrochloric acid → magnesium chloride + hydrogen. Hydrogen gives a squeaky pop. Non-metals do not usually react with dilute acids.\n- **Bonding**: a metal combined with a non-metal gives an ionic compound. Two non-metals form covalent molecules.\n\n## Predicting from electron arrangements\nThe number of electrons in the outer shell tells you a lot. An atom with the arrangement 2,8,2 has two outer electrons, so it is a metal that loses them to form a 2+ ion. An atom with 2,8,6 has six outer electrons and gains two to form a 2− ion, so it is a non-metal. They would form an ionic compound in a 1 : 1 ratio.\n\n## Special cases\n- Graphite is a non-metal that conducts electricity because each carbon atom has a delocalised electron.\n- Diamond is a non-metal that does not conduct and is very hard.\n- Mercury is a metal with a low melting point.\n- Metals vary: sodium is soft and reactive, while iron is hard and less reactive.\n\n## Common mistakes\n- Using one property as proof. Always use several properties.\n- Saying all non-metals are gases. Carbon, sulfur and iodine are solids, and bromine is a liquid.\n- Mixing up which oxides are acidic and basic: metal oxides are basic and non-metal oxides are acidic.\n\n## How this is examined\nQuestions often show a table of properties of four unknown elements or ask you to compare two materials for a purpose. You may need to classify elements, explain the evidence for your choice, predict ions and bonding, and evaluate an argument that uses only one property.\n\nExam tip: To classify an element, quote at least two pieces of evidence, such as electrical conductivity and the acidity of its oxide, and point out any exception like graphite.",
+  "flashcards": [
+   {
+    "front": "Typical physical properties of metals",
+    "back": "Shiny, malleable, ductile, good conductors, high melting points, high density, sonorous."
+   },
+   {
+    "front": "Typical physical properties of non-metals",
+    "back": "Dull, brittle if solid, poor conductors, low melting and boiling points, low density."
+   },
+   {
+    "front": "Ions formed by metals and non-metals",
+    "back": "Metals lose electrons to form positive ions. Non-metals gain electrons to form negative ions."
+   },
+   {
+    "front": "Metal oxides",
+    "back": "Basic: they react with acids and soluble ones form alkaline solutions."
+   },
+   {
+    "front": "Non-metal oxides",
+    "back": "Acidic: they dissolve in water to form acidic solutions, e.g. CO₂ and SO₂."
+   },
+   {
+    "front": "Metal + acid",
+    "back": "Gives a salt and hydrogen. Hydrogen gives a squeaky pop with a lit splint."
+   },
+   {
+    "front": "Why does graphite conduct?",
+    "back": "Each carbon has a delocalised electron between layers that can carry charge."
+   },
+   {
+    "front": "What is a metalloid?",
+    "back": "An element with properties between metals and non-metals, such as silicon, used as a semiconductor."
+   },
+   {
+    "front": "Bonding between metals and non-metals",
+    "back": "Ionic bonding, by transfer of electrons. Two non-metals share electrons in covalent bonds."
+   }
+  ]
+ }
+]

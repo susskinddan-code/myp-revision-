@@ -1,0 +1,528 @@
+[
+ {
+  "subject": "physics",
+  "grade": 5,
+  "topic": "Static Electricity and Fields",
+  "subTopic": "Static Electricity and Charge",
+  "questions": [
+   {
+    "content": "What happens when two objects with the same type of charge are brought near each other?",
+    "options": [
+     "They attract",
+     "They repel",
+     "They have no force",
+     "They become neutral"
+    ],
+    "answer": 1,
+    "explanation": "Like charges repel and unlike charges attract.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A polythene rod becomes negatively charged when rubbed with a cloth. Which particles moved?",
+    "options": [
+     "Electrons moved from the cloth to the rod",
+     "Protons moved from the cloth to the rod",
+     "Electrons moved from the rod to the cloth",
+     "Protons moved from the rod to the cloth"
+    ],
+    "answer": 0,
+    "explanation": "Only electrons can move. The rod gained electrons so it is negative, and the cloth lost electrons so it is positive.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these materials is an electrical conductor?",
+    "options": [
+     "Polythene",
+     "Dry wood",
+     "Rubber",
+     "Copper"
+    ],
+    "answer": 3,
+    "explanation": "Metals such as copper have free electrons, so charge can flow through them. Polythene and rubber are insulators.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the unit of electric charge?",
+    "options": [
+     "Ampere (A)",
+     "Volt (V)",
+     "Coulomb (C)",
+     "Ohm (Ω)"
+    ],
+    "answer": 2,
+    "explanation": "Charge is measured in coulombs. Current is measured in amperes.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does earthing a charged object do?",
+    "options": [
+     "It makes the object more charged",
+     "It lets charge flow to the ground, removing the charge",
+     "It makes the object a magnet",
+     "It changes protons into electrons"
+    ],
+    "answer": 1,
+    "explanation": "An earth wire gives a path for excess charge to flow safely away.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A balloon is rubbed on a jumper and sticks to a wall. Why does a charged balloon stick to an uncharged wall?",
+    "options": [
+     "It induces opposite charge on the wall surface, causing attraction",
+     "The wall has a permanent opposite charge",
+     "Protons move from the balloon to the wall",
+     "Gravity pulls the balloon to the wall"
+    ],
+    "answer": 0,
+    "explanation": "The charged balloon pushes electrons away on the nearer surface of the wall, leaving that surface with the opposite charge, so the balloon is attracted.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A charged rod is brought near the cap of a gold-leaf electroscope without touching it, and the leaf rises. What does this show?",
+    "options": [
+     "The leaf is being attracted by gravity",
+     "The rod has no charge",
+     "Electrons have been destroyed",
+     "Charges on the cap and leaf are repelling each other"
+    ],
+    "answer": 3,
+    "explanation": "Induction pushes charge down to the leaf and rod. The leaf and stem now have the same charge, so they repel.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A current of 0.50 mA flows onto a metal sphere for 4.0 s. How much charge is gained? (Q = I × t)",
+    "options": [
+     "2.0 C",
+     "8.0 × 10⁻⁴ C",
+     "2.0 × 10⁻³ C",
+     "0.125 C"
+    ],
+    "answer": 2,
+    "explanation": "0.50 mA = 5.0 × 10⁻⁴ A. Q = 5.0 × 10⁻⁴ × 4.0 = 2.0 × 10⁻³ C.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is it dangerous to refuel an aircraft without earthing it?",
+    "options": [
+     "The fuel becomes magnetic",
+     "Friction can build up charge, and a spark could ignite the fuel vapour",
+     "The plane becomes too heavy",
+     "The fuel evaporates faster"
+    ],
+    "answer": 1,
+    "explanation": "Fuel flowing through pipes can charge by friction. A spark when the charge discharges could cause a fire, so the equipment is earthed.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A positively charged rod attracts a small piece of foil hanging on a thread. Which conclusion is certain?",
+    "options": [
+     "The foil is either negatively charged or neutral",
+     "The foil is positively charged",
+     "The foil is a conductor with no charge",
+     "The foil has more protons than electrons"
+    ],
+    "answer": 0,
+    "explanation": "Opposites attract, but a charged rod also attracts a neutral object by induction. So repulsion is the only reliable test for charge.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In an electrostatic paint sprayer, the paint droplets are given the same charge and the object is given an opposite charge. What is the advantage?",
+    "options": [
+     "Droplets repel the object so less paint is used",
+     "The paint dries without air",
+     "The object becomes hot",
+     "Droplets are attracted to the object and spread evenly"
+    ],
+    "answer": 3,
+    "explanation": "Droplets with the same charge repel each other and spread out, while the oppositely charged object attracts them to give an even coat.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A glass rod loses electrons when rubbed with silk. Which statement about the rod is correct?",
+    "options": [
+     "It becomes negatively charged",
+     "It gains protons",
+     "It becomes positively charged",
+     "It remains neutral"
+    ],
+    "answer": 2,
+    "explanation": "Losing negatively charged electrons leaves more protons than electrons, so the rod is positive.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student rubs two different insulators together and finds each is charged. Rod X repels a negatively charged rod, and rod Y attracts it. What can be concluded?",
+    "options": [
+     "X is positive and Y is negative",
+     "X is negative and Y is positive",
+     "X and Y are both negative",
+     "X and Y are both positive"
+    ],
+    "answer": 1,
+    "explanation": "Repulsion with a negative rod means X has negative charge. Attraction suggests Y is positive (it could be neutral, but both rubbed objects are charged, and charges are opposite).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A sphere has a charge of −3.2 × 10⁻⁹ C. The charge of one electron is −1.6 × 10⁻¹⁹ C. How many extra electrons does the sphere have?",
+    "options": [
+     "2.0 × 10¹⁰",
+     "5.1 × 10²⁸",
+     "2.0 × 10⁻¹⁰",
+     "1.6 × 10⁻²⁸"
+    ],
+    "answer": 0,
+    "explanation": "Number = total charge ÷ charge of an electron = 3.2 × 10⁻⁹ ÷ 1.6 × 10⁻¹⁹ = 2.0 × 10¹⁰.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "During a thunderstorm, a cloud base becomes negatively charged. Which description of a lightning strike is most accurate?",
+    "options": [
+     "Protons flow from the ground to the cloud",
+     "Electrons flow from the ground to the cloud through the air",
+     "Neutral air carries the charge to the cloud",
+     "Electrons flow from the cloud to the ground through ionised air"
+    ],
+    "answer": 3,
+    "explanation": "Large charge builds up by friction between ice particles. When the potential difference is large enough, the air ionises and electrons flow from the negative cloud base to the ground.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A metal sphere on an insulating stand is charged positively. It is then touched briefly by an identical uncharged metal sphere on another insulating stand. What happens?",
+    "options": [
+     "Protons flow from the first sphere to the second",
+     "Electrons flow from the first sphere to the second and both end up positive",
+     "Electrons flow from the second sphere to the first and both end up positive",
+     "Nothing happens because both are metal"
+    ],
+    "answer": 2,
+    "explanation": "Electrons are attracted from the neutral sphere into the positive one. The charge is shared, so both end up with a smaller positive charge.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A dust-collecting chimney (electrostatic precipitator) charges smoke particles and passes them past oppositely charged plates. Which statement best explains why this reduces pollution?",
+    "options": [
+     "The particles are neutralised and burn up",
+     "Charged particles are attracted to the plates and removed from the gas",
+     "The plates heat the smoke so it condenses",
+     "The particles repel each other and escape faster"
+    ],
+    "answer": 1,
+    "explanation": "Charged ash particles are attracted to the oppositely charged plates and stick there, and they are later knocked off and collected.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A pupil claims: 'When a plastic ruler is charged by rubbing, new charge is created.' Which evaluation is best?",
+    "options": [
+     "Incorrect: charge is transferred, and total charge is conserved",
+     "Correct: friction creates electrons",
+     "Correct: friction creates protons",
+     "Incorrect: charge is destroyed in rubbing"
+    ],
+    "answer": 0,
+    "explanation": "Rubbing moves electrons from one object to the other. The total amount of charge is unchanged, which is the conservation of charge.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Charge and the atom\nAll matter contains charged particles. Protons are positive, electrons are negative and neutrons have no charge. Normally the number of protons equals the number of electrons, so objects are neutral. Only electrons can move from one object to another. **Charge** is measured in **coulombs (C)**. The charge on one electron is −1.6 × 10⁻¹⁹ C.\n\n## Charging by friction\nWhen two different insulating materials are rubbed together, electrons are transferred from one to the other.\n- The material that **gains** electrons becomes **negatively** charged.\n- The material that **loses** electrons becomes **positively** charged.\nFor example, rubbing a polythene rod with a cloth moves electrons from the cloth to the rod, so the rod is negative and the cloth is positive. A glass rod rubbed with silk loses electrons and becomes positive. The total charge stays the same, because charge is transferred, never created or destroyed.\n\n## Forces between charges\n- **Like charges repel** and **unlike charges attract**.\n- A charged object also attracts a neutral object. The charge on the charged object pushes or pulls electrons in the neutral object, so the nearest surface gets the opposite charge. This is called induction. It explains why a charged balloon sticks to a wall or picks up small pieces of paper.\nBecause attraction can happen with a neutral object, repulsion is the only certain test that an object is charged.\n\n## Conductors and insulators\nMetals are **conductors**: they have free electrons, so charge flows easily. Plastics, glass and rubber are **insulators**: charge stays where it is, so they can hold a static charge. A conductor can be charged only if it is on an insulating stand, otherwise the charge flows away.\n**Earthing** gives a path for charge to flow safely to the ground and removes excess charge.\n\n## Current and charge\nCharge flowing per second is the current: Q = I × t. Worked example: 0.50 mA for 4.0 s gives Q = 5.0 × 10⁻⁴ × 4.0 = 2.0 × 10⁻³ C. Number of electrons = total charge ÷ 1.6 × 10⁻¹⁹. For 3.2 × 10⁻⁹ C that is 2.0 × 10¹⁰ electrons.\n\n## Uses and dangers\n- **Uses**: photocopiers and laser printers, electrostatic paint spraying (droplets with the same charge spread out and are attracted to an oppositely charged object), and electrostatic precipitators in chimneys, which attract smoke particles to charged plates.\n- **Dangers**: sparks when refuelling aircraft and vehicles (equipment is earthed to avoid this), lightning, and electric shocks from charged clothes. In thunderclouds, friction between ice particles builds up charge. When the potential difference is large enough, air ionises and charge flows as lightning.\n\n## Common mistakes\n- Saying protons move when objects are charged. Only electrons move.\n- Using attraction as proof that an object is charged.\n- Saying friction creates charge. It transfers it.\n\n## How this is examined\nQuestions give a charging scenario and ask which way electrons move, predict attraction or repulsion, explain an application or hazard, and apply Q = I × t. Criterion D tasks might ask you to evaluate whether a safety procedure is effective.\n\nExam tip: When explaining charging, always say which object gains or loses electrons, and state the sign of charge that results.",
+  "flashcards": [
+   {
+    "front": "How do objects become charged by friction?",
+    "back": "Electrons are transferred. The object that gains electrons becomes negative and the one that loses them becomes positive."
+   },
+   {
+    "front": "Only particles that move when charging",
+    "back": "Electrons. Protons stay fixed in the nuclei."
+   },
+   {
+    "front": "Forces between charges",
+    "back": "Like charges repel, unlike charges attract."
+   },
+   {
+    "front": "Why does a charged balloon attract a neutral wall?",
+    "back": "Induction: electrons in the wall are repelled or attracted, so the nearer surface has the opposite charge."
+   },
+   {
+    "front": "Best test for whether an object is charged",
+    "back": "Repulsion. Attraction could also happen with a neutral object."
+   },
+   {
+    "front": "Conductor vs insulator",
+    "back": "A conductor has free electrons so charge flows. An insulator holds charge in place."
+   },
+   {
+    "front": "Earthing",
+    "back": "Connecting to the ground gives charge a safe path away, removing static charge and preventing sparks."
+   },
+   {
+    "front": "Charge formula",
+    "back": "Q = I × t. Charge in coulombs, current in amperes, time in seconds."
+   },
+   {
+    "front": "Charge on one electron",
+    "back": "−1.6 × 10⁻¹⁹ C."
+   }
+  ]
+ },
+ {
+  "subject": "physics",
+  "grade": 5,
+  "topic": "Static Electricity and Fields",
+  "subTopic": "Electric Fields",
+  "questions": [
+   {
+    "content": "What is an electric field?",
+    "options": [
+     "A region where only magnets have a force",
+     "A region where a charged object experiences a force",
+     "The area around a battery",
+     "A line of electrons"
+    ],
+    "answer": 1,
+    "explanation": "An electric field is a region of space in which a charged particle feels an electric force.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In which direction do electric field lines point?",
+    "options": [
+     "From positive to negative",
+     "From negative to positive",
+     "Always to the right",
+     "In a circle around the charge"
+    ],
+    "answer": 0,
+    "explanation": "By convention, field lines show the direction of the force on a small positive charge, so they go from positive to negative.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which diagram shows the field around a single positive point charge?",
+    "options": [
+     "Straight lines pointing radially inwards",
+     "Parallel lines",
+     "Closed loops",
+     "Straight lines pointing radially outwards"
+    ],
+    "answer": 3,
+    "explanation": "The force on a positive test charge near a positive charge is repulsion, so the lines point away from it in all directions.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does it mean if electric field lines are closer together?",
+    "options": [
+     "The field is weaker",
+     "The field is zero",
+     "The field is stronger",
+     "The charge is negative"
+    ],
+    "answer": 2,
+    "explanation": "Closer field lines show a stronger field, where the force on a charge is larger.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What type of field is found between two parallel charged metal plates?",
+    "options": [
+     "A radial field",
+     "A uniform field",
+     "No field",
+     "A magnetic field"
+    ],
+    "answer": 1,
+    "explanation": "Between parallel plates the field lines are parallel and equally spaced, so the field strength is the same everywhere.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A small positive charge is placed in a uniform field pointing to the right. In which direction is the force on it?",
+    "options": [
+     "To the right",
+     "To the left",
+     "Upwards",
+     "There is no force"
+    ],
+    "answer": 0,
+    "explanation": "The force on a positive charge is in the same direction as the field. On a negative charge it would be opposite.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An electron enters a uniform field between two plates, the top plate positive and the bottom plate negative. Which way is it deflected?",
+    "options": [
+     "Towards the negative (bottom) plate",
+     "It moves in a straight line",
+     "In a circle",
+     "Towards the positive (top) plate"
+    ],
+    "answer": 3,
+    "explanation": "Electrons are negative, so they are attracted to the positive plate and repelled from the negative plate.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A charge of 3.0 × 10⁻⁶ C experiences a force of 0.60 N in an electric field. What is the electric field strength? (E = F ÷ Q)",
+    "options": [
+     "1.8 × 10⁻⁶ N/C",
+     "5.0 × 10⁻⁶ N/C",
+     "2.0 × 10⁵ N/C",
+     "0.60 N/C"
+    ],
+    "answer": 2,
+    "explanation": "E = F ÷ Q = 0.60 ÷ 3.0 × 10⁻⁶ = 2.0 × 10⁵ N/C.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A uniform field has a strength of 4000 N/C. What force acts on a charge of 2.0 × 10⁻⁹ C? (F = Q × E)",
+    "options": [
+     "2.0 × 10⁶ N",
+     "8.0 × 10⁻⁶ N",
+     "5.0 × 10¹¹ N",
+     "8.0 × 10⁻¹² N"
+    ],
+    "answer": 1,
+    "explanation": "F = Q × E = 2.0 × 10⁻⁹ × 4000 = 8.0 × 10⁻⁶ N.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Two parallel plates are 0.040 m apart with a potential difference of 200 V between them. What is the field strength? (E = V ÷ d)",
+    "options": [
+     "5000 V/m",
+     "8.0 V/m",
+     "0.20 V/m",
+     "8000 V/m"
+    ],
+    "answer": 0,
+    "explanation": "E = V ÷ d = 200 ÷ 0.040 = 5000 V/m.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How does the field pattern between a positive and a negative point charge look?",
+    "options": [
+     "Lines run away from both",
+     "Lines are straight and parallel everywhere",
+     "Lines form circles around both",
+     "Lines curve from the positive charge to the negative charge"
+    ],
+    "answer": 3,
+    "explanation": "Field lines start on the positive and end on the negative, curving between them.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why do field lines never cross?",
+    "options": [
+     "Charges cannot be near each other",
+     "Lines would become hot",
+     "The field has only one direction at each point",
+     "They are made of electrons"
+    ],
+    "answer": 2,
+    "explanation": "If lines crossed there would be two directions of force at the same point, which is impossible.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a cathode-ray style tube, an electron beam passes between plates and bends towards the top plate. Which statement is correct?",
+    "options": [
+     "The top plate is negative",
+     "The top plate is positive",
+     "The plates are not charged",
+     "The field points upwards on electrons"
+    ],
+    "answer": 1,
+    "explanation": "Electrons are attracted to positive charge, so the top plate must be positive.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The plates in a uniform field are 0.030 m apart and the field strength is 3.0 × 10⁵ V/m. What is the potential difference across the plates?",
+    "options": [
+     "9000 V",
+     "1.0 × 10⁷ V",
+     "9.0 × 10⁻⁶ V",
+     "90 V"
+    ],
+    "answer": 0,
+    "explanation": "V = E × d = 3.0 × 10⁵ × 0.030 = 9000 V.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A dust particle with a charge of +6.0 nC is held at rest between horizontal plates by an upward electric force. Its weight is 1.2 × 10⁻⁶ N. What field strength is needed?",
+    "options": [
+     "7.2 × 10⁻¹⁵ N/C",
+     "2.0 × 10⁻³ N/C",
+     "5.0 × 10⁻³ N/C",
+     "2.0 × 10² N/C"
+    ],
+    "answer": 3,
+    "explanation": "The electric force must equal the weight: E = F ÷ Q = 1.2 × 10⁻⁶ ÷ 6.0 × 10⁻⁹ = 200 N/C.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An alpha particle (positive) and an electron fly into the same uniform field at right angles to it. Which statement is correct?",
+    "options": [
+     "They are deflected in the same direction",
+     "Neither is deflected",
+     "They are deflected in opposite directions",
+     "Only the electron is deflected"
+    ],
+    "answer": 2,
+    "explanation": "The force on a positive charge is along the field and on a negative charge is opposite, so they curve in opposite directions.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "In the gold foil experiment, alpha particles were scattered by gold nuclei. Which electric field idea best explains why a few were scattered by large angles?",
+    "options": [
+     "A uniform field exists across the whole foil",
+     "A strong field close to a small positive nucleus repels the alpha particles",
+     "The field of the electrons attracts them",
+     "Gold has no electric field"
+    ],
+    "answer": 1,
+    "explanation": "The field of a point charge is strongest very close to it. An alpha particle heading almost directly at the nucleus is strongly repelled.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student argues: 'If the plates are moved closer together with the same potential difference, the field strength between them decreases.' Which evaluation is correct?",
+    "options": [
+     "Incorrect: E = V ÷ d, so smaller d gives a larger field",
+     "Correct: smaller d gives a larger field, which means weaker",
+     "Correct: E is independent of d",
+     "Incorrect: the field becomes zero"
+    ],
+    "answer": 0,
+    "explanation": "With the same V, E = V ÷ d increases as the distance decreases. The field lines become more concentrated.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What is an electric field?\nAn **electric field** is a region where a charged object experiences a force. Charged objects create fields around them. You cannot see a field, but you can represent it using **field lines**.\n\n## Drawing field lines\n- Lines show the direction of the force on a small **positive** test charge.\n- They start on positive charges and end on negative charges.\n- They never cross.\n- The closer together the lines are, the stronger the field.\nThe main patterns are:\n- **A single positive point charge**: lines point radially outwards. For a negative point charge they point radially inwards.\n- **Two opposite charges**: lines curve from the positive to the negative charge.\n- **Two parallel charged plates**: straight, parallel, equally spaced lines between the plates give a **uniform field**, with the same strength everywhere in the gap. Near the edges the lines bend outwards.\n\n## Forces on charges in a field\nA positive charge is pushed **along** the field direction. A negative charge, such as an electron, is pushed **against** it. In a uniform field the force is constant, so a charged particle moving across the field is deflected along a curved path, like a ball thrown through gravity. An electron beam passing between a positive top plate and a negative bottom plate is bent upwards, towards the positive plate.\n\n## Field strength\n**Electric field strength** E is the force on each unit of charge: **E = F ÷ Q**, in newtons per coulomb (N/C). Rearranged, F = Q × E.\nWorked example: a charge of 2.0 × 10⁻⁹ C in a 4000 N/C field feels a force of 2.0 × 10⁻⁹ × 4000 = 8.0 × 10⁻⁶ N.\nFor a uniform field between plates, **E = V ÷ d**, where V is the potential difference across the plates and d is their separation, in volts per metre (V/m). Worked example: 200 V across plates 0.040 m apart gives E = 200 ÷ 0.040 = 5000 V/m. Moving the plates closer together with the same voltage makes the field stronger.\n\n## Balancing forces\nA charged droplet can hang still between horizontal plates if the electric force upwards equals its weight. Then Q × E = m × g. Using E = F ÷ Q, a weight of 1.2 × 10⁻⁶ N on a charge of 6.0 × 10⁻⁹ C needs E = 200 N/C.\n\n## Applications\n- Electron beams in older display tubes and oscilloscopes are deflected by electric fields.\n- Photocopiers, ink-jet printers and paint sprayers control charged droplets with fields.\n- The Rutherford scattering experiment: the strong field close to the nucleus repelled alpha particles that came near.\n\n## Common mistakes\n- Drawing field arrows into a positive charge. Lines leave positive charges.\n- Forgetting that electrons move opposite to the field lines.\n- Using centimetres without converting to metres in E = V ÷ d.\n- Thinking a closer plate separation weakens the field.\n\n## How this is examined\nLook for a diagram of plates or point charges where you sketch the field or deflection of a particle, calculations using E = F ÷ Q or E = V ÷ d, and a context such as a printer or air purifier where you explain how a field acts on charged particles. Criterion B tasks might ask you to plan how to investigate how the force on a charged sphere depends on the plate voltage.\n\nExam tip: For any particle in a field, first state its charge sign, then say whether the force is with or against the field direction, and then describe the direction of deflection.",
+  "flashcards": [
+   {
+    "front": "Electric field",
+    "back": "A region of space where a charged particle experiences a force."
+   },
+   {
+    "front": "Direction of field lines",
+    "back": "The direction of the force on a positive charge: from positive to negative."
+   },
+   {
+    "front": "Field around a positive point charge",
+    "back": "Straight lines pointing radially outwards. Lines point inwards for a negative charge."
+   },
+   {
+    "front": "Uniform field",
+    "back": "Parallel, equally spaced lines, as between two oppositely charged parallel plates. Same strength everywhere."
+   },
+   {
+    "front": "What do close field lines mean?",
+    "back": "A stronger field."
+   },
+   {
+    "front": "Force on charges in a field",
+    "back": "Positive charges are pushed along the field direction, negative charges (such as electrons) opposite to it."
+   },
+   {
+    "front": "Field strength formulas",
+    "back": "E = F ÷ Q (N/C), and in a uniform field E = V ÷ d (V/m)."
+   },
+   {
+    "front": "Effect of closer plates",
+    "back": "With the same potential difference, a smaller separation d gives a greater field strength E = V ÷ d."
+   },
+   {
+    "front": "Why do field lines never cross?",
+    "back": "The field has only one direction at each point, so lines cannot cross."
+   }
+  ]
+ }
+]

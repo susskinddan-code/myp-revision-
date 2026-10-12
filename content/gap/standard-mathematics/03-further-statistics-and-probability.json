@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Further Statistics and Probability",
+  "subTopic": "Cumulative Frequency, Box Plots and IQR",
+  "questions": [
+   {
+    "content": "What is the median of 3, 5, 7, 9, 11?",
+    "options": [
+     "7",
+     "5",
+     "9",
+     "35"
+    ],
+    "answer": 0,
+    "explanation": "With five ordered values the median is the middle (3rd) value: 7.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The smallest value in a data set is 4 and the largest is 19. What is the range?",
+    "options": [
+     "23",
+     "11.5",
+     "19",
+     "15"
+    ],
+    "answer": 3,
+    "explanation": "Range = largest − smallest = 19 − 4 = 15.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does the last value on a cumulative frequency table equal?",
+    "options": [
+     "The median",
+     "The largest class width",
+     "The total number of data values",
+     "The mean"
+    ],
+    "answer": 2,
+    "explanation": "Cumulative frequency adds up as you go, so the last entry is the total frequency.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which expression gives the interquartile range?",
+    "options": [
+     "Q3 + Q1",
+     "Q3 − Q1",
+     "Max − Min",
+     "Q2 − Q1"
+    ],
+    "answer": 1,
+    "explanation": "IQR is the spread of the middle 50% of data: upper quartile minus lower quartile.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "For n values, at which cumulative frequency value do you read the median from the curve?",
+    "options": [
+     "n/2",
+     "n/4",
+     "3n/4",
+     "n"
+    ],
+    "answer": 0,
+    "explanation": "The median is the middle value, which sits at the cumulative frequency n/2.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Data: 12, 15, 17, 18, 20, 22, 25, 28, 30, 35. Using the middle of each half, find the interquartile range.",
+    "options": [
+     "23",
+     "10.5",
+     "13",
+     "11"
+    ],
+    "answer": 3,
+    "explanation": "Lower half 12, 15, 17, 18, 20 gives Q1 = 17. Upper half 22, 25, 28, 30, 35 gives Q3 = 28. IQR = 28 − 17 = 11.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Test marks: 0–10: 4 students, 10–20: 9, 20–30: 15, 30–40: 12. In which class does the median lie?",
+    "options": [
+     "10–20",
+     "0–10",
+     "20–30",
+     "30–40"
+    ],
+    "answer": 2,
+    "explanation": "The cumulative frequencies are 4, 13, 28, 40. The median is around the 20th student, which falls in the 20–30 class because 13 < 20 ≤ 28.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "80 students sit a test. At which cumulative frequencies do you read the lower and upper quartiles from the curve?",
+    "options": [
+     "10 and 30",
+     "20 and 60",
+     "40 and 80",
+     "25 and 75"
+    ],
+    "answer": 1,
+    "explanation": "Q1 is at n/4 = 20 and Q3 is at 3n/4 = 60. The percentages 25 and 75 would be used on a percentage cumulative frequency axis.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Q1 = 20 and Q3 = 32. A value is an outlier if it is more than 1.5 × IQR above Q3. What is the upper boundary?",
+    "options": [
+     "50",
+     "38",
+     "44",
+     "68"
+    ],
+    "answer": 0,
+    "explanation": "IQR = 12 and 1.5 × 12 = 18. Upper boundary = 32 + 18 = 50.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Class A scores have median 62 and IQR 10. Class B has median 62 and IQR 22. What can you conclude?",
+    "options": [
+     "Class B did better overall",
+     "Class A's marks are more spread out",
+     "The classes have identical results",
+     "Class B's marks are more spread out"
+    ],
+    "answer": 3,
+    "explanation": "Equal medians show similar typical performance. The larger IQR means class B's middle 50% is more spread out.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "80 students were tested. A cumulative frequency curve shows that 52 students scored 30 marks or less. How many scored more than 30?",
+    "options": [
+     "52",
+     "30",
+     "28",
+     "132"
+    ],
+    "answer": 2,
+    "explanation": "Total minus cumulative frequency: 80 − 52 = 28.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A box plot has minimum 5, Q1 = 14, median 20, Q3 = 31 and maximum 48. What percentage of values lie between 14 and 31?",
+    "options": [
+     "25%",
+     "50%",
+     "75%",
+     "100%"
+    ],
+    "answer": 1,
+    "explanation": "Q1 to Q3 contains the middle half of the data. The IQR here is 17.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a bus company, route A journey times have median 24 min and IQR 6 min. Route B has median 26 min and IQR 14 min. Which route is more reliable and why?",
+    "options": [
+     "Route A: smaller IQR means times are more consistent",
+     "Route B: higher median",
+     "Route A: lower maximum",
+     "Route B: larger IQR means more consistent"
+    ],
+    "answer": 0,
+    "explanation": "A smaller IQR means the typical journey times vary less. Route A also has the lower median.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Using the table: 0–10: 4, 10–20: 9, 20–30: 15, 30–40: 12, estimate the median by linear interpolation to 1 decimal place.",
+    "options": [
+     "25.0",
+     "20.0",
+     "23.3",
+     "24.7"
+    ],
+    "answer": 3,
+    "explanation": "There are 40 values, so the median is the 20th. 13 values lie below 20, so we need 7 more from the 15 in the 20–30 class: 20 + (7/15) × 10 = 24.7.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The ordered data 4, 6, 8, 10, 12, 14, 16 gains a new value, 40. Which statistic is unchanged?",
+    "options": [
+     "The range",
+     "The median",
+     "The interquartile range",
+     "The mean"
+    ],
+    "answer": 2,
+    "explanation": "Before: Q1 = 6, Q3 = 14, IQR = 8. After adding 40 (n = 8): Q1 = 7, Q3 = 15, IQR = 8. The range jumps from 12 to 36, the median goes from 10 to 11, and the mean also changes.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Q1 = 34 and Q3 = 46. How many of the values 12, 20, 60 and 70 are outliers using the 1.5 × IQR rule?",
+    "options": [
+     "1",
+     "2",
+     "3",
+     "4"
+    ],
+    "answer": 1,
+    "explanation": "IQR = 12, so the fences are 34 − 18 = 16 and 46 + 18 = 64. 12 and 70 are beyond them; 20 and 60 are not.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "120 runners finish a race. Q1 = 42 minutes and Q3 = 58 minutes. How many runners finished between 42 and 58 minutes?",
+    "options": [
+     "60",
+     "30",
+     "16",
+     "90"
+    ],
+    "answer": 0,
+    "explanation": "Q1 is at the 30th runner and Q3 at the 90th. The runners between them are 90 − 30 = 60, which is half of 120.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A box plot has Q1 = 14, median = 20 and Q3 = 40. What does it suggest about the distribution?",
+    "options": [
+     "Symmetrical",
+     "Negatively skewed",
+     "All values equal",
+     "Positively skewed (longer upper tail)"
+    ],
+    "answer": 3,
+    "explanation": "The median is much closer to Q1 than to Q3, so the upper half is more spread out. This is positive skew.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Summarising spread\nAverages tell you the middle; **spread** tells you how consistent the data is. The **range** (max − min) uses only two values, so one extreme value can change it a lot. The **interquartile range (IQR)** measures the spread of the middle 50% and is not affected by outliers.\n\n## Quartiles\nOrder the data. The **median** (Q2) splits it in two halves. The **lower quartile** Q1 is the median of the lower half, and the **upper quartile** Q3 is the median of the upper half. For 12, 15, 17, 18, 20, 22, 25, 28, 30, 35: Q1 = 17, median = 21, Q3 = 28, and IQR = Q3 − Q1 = 11.\n\n## Cumulative frequency\nA cumulative frequency table adds frequencies as you go, so the last value is the total. Plot the cumulative frequency against the **upper class boundary** and join the points with a smooth curve.\nTo read values from the curve for n data values:\n- Median: read across at n/2.\n- Q1: read across at n/4.\n- Q3: read across at 3n/4.\nFor 80 students the readings are at 40, 20 and 60. To find how many scored more than 30 marks, read the cumulative frequency at 30 and subtract it from the total: 80 − 52 = 28.\nEstimate a median from a table by interpolation: with 40 values the median is the 20th. If 13 values lie below 20 and the class 20–30 holds 15, we move 7/15 of the way across: 20 + (7/15) × 10 = 24.7.\n\n## Box plots\nA box plot shows five numbers: minimum, Q1, median, Q3 and maximum. The box covers the middle 50% and the whiskers show the rest. Equal lengths either side of the median suggest a symmetrical distribution. If the median is closer to Q1 and the upper whisker is longer, the data is **positively skewed**.\n\n## Outliers\nA common rule marks a value as an outlier if it is more than 1.5 × IQR below Q1 or above Q3. With Q1 = 20 and Q3 = 32, IQR = 12, so the upper fence is 32 + 18 = 50. Outliers are plotted as separate crosses.\n\n## Comparing data sets\nCompare one measure of average (usually the median) and one measure of spread (usually the IQR). Example: Class A has median 62 and IQR 10, class B has median 62 and IQR 22. The typical marks are the same but class A is more consistent. Always write your comparison in context, for example \"route A is more reliable because its journey times vary less\".\n\n## Common mistakes\n- Plotting cumulative frequency at the class midpoint instead of the upper boundary.\n- Reading the median at the wrong height, such as at the total instead of half the total.\n- Treating IQR as Q1 + Q3, or the range between the whiskers.\n- Comparing only averages without a comment on spread.\n\n## How this is examined\nTasks show data in a context, such as waiting times, battery life, ages at a fair or heights of seedlings, and ask for a cumulative frequency curve and box plot. You compare two groups using median and IQR, decide whether a value is an outlier, and justify a recommendation.\n\nExam tip: Write the five-number summary down first. Then every later part, from IQR to outlier test to comparison, is quick, and your working is easy to follow.",
+  "flashcards": [
+   {
+    "front": "Interquartile range",
+    "back": "IQR = Q3 − Q1. The spread of the middle 50% of the data; not affected by outliers."
+   },
+   {
+    "front": "Reading a cumulative frequency curve",
+    "back": "For n values: median at n/2, Q1 at n/4, Q3 at 3n/4."
+   },
+   {
+    "front": "Plotting cumulative frequency",
+    "back": "Plot against the UPPER class boundary, then join with a smooth curve."
+   },
+   {
+    "front": "Five-number summary",
+    "back": "Minimum, Q1, median, Q3, maximum. These make a box plot."
+   },
+   {
+    "front": "Outlier rule",
+    "back": "Outlier if below Q1 − 1.5 × IQR or above Q3 + 1.5 × IQR."
+   },
+   {
+    "front": "Positive skew in a box plot",
+    "back": "Median close to Q1, longer upper whisker or box: the upper half is more spread out."
+   },
+   {
+    "front": "Comparing two data sets",
+    "back": "Compare one average (median) and one spread (IQR or range), and write in context."
+   },
+   {
+    "front": "Number of values above a reading",
+    "back": "Total frequency − cumulative frequency at that value."
+   },
+   {
+    "front": "Estimating a median from grouped data",
+    "back": "Interpolate: lower boundary + (needed ÷ class frequency) × class width."
+   }
+  ]
+ },
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Further Statistics and Probability",
+  "subTopic": "Histograms and Standard Deviation",
+  "questions": [
+   {
+    "content": "How is frequency density calculated?",
+    "options": [
+     "Frequency ÷ class width",
+     "Frequency × class width",
+     "Class width ÷ frequency",
+     "Frequency ÷ total"
+    ],
+    "answer": 0,
+    "explanation": "Frequency density = frequency ÷ class width. The area of a bar then equals the frequency.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In a histogram with unequal class widths, what represents the frequency of a class?",
+    "options": [
+     "The height of the bar",
+     "The width of the bar",
+     "The bar's position",
+     "The area of the bar"
+    ],
+    "answer": 3,
+    "explanation": "Because widths vary, the vertical axis shows frequency density, and the area (width × height) equals the frequency.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does the standard deviation measure?",
+    "options": [
+     "The most common value",
+     "The middle value",
+     "How spread out the data is around the mean",
+     "The total of all values"
+    ],
+    "answer": 2,
+    "explanation": "Standard deviation describes the typical distance of values from the mean.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Two data sets have the same mean. Set A has standard deviation 2 and set B has standard deviation 9. Which is more spread out?",
+    "options": [
+     "Set A",
+     "Set B",
+     "They are equally spread out",
+     "It cannot be said"
+    ],
+    "answer": 1,
+    "explanation": "A larger standard deviation means the values are more widely spread around the mean.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The class 10–20 has frequency 30. What is its frequency density?",
+    "options": [
+     "3",
+     "300",
+     "0.3",
+     "30"
+    ],
+    "answer": 0,
+    "explanation": "Class width = 10, so frequency density = 30 ÷ 10 = 3.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The class 20–40 has frequency 50. Find the frequency density.",
+    "options": [
+     "1000",
+     "0.4",
+     "30",
+     "2.5"
+    ],
+    "answer": 3,
+    "explanation": "Class width = 20, so 50 ÷ 20 = 2.5.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A histogram bar has frequency density 4 and class width 5. What is the frequency?",
+    "options": [
+     "0.8",
+     "9",
+     "20",
+     "1.25"
+    ],
+    "answer": 2,
+    "explanation": "Frequency = frequency density × class width = 4 × 5 = 20.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The data 2, 4, 4, 4, 5, 5, 7, 9 has mean 5. What is its standard deviation (population)?",
+    "options": [
+     "4",
+     "2",
+     "3.5",
+     "1.5"
+    ],
+    "answer": 1,
+    "explanation": "Squared deviations: 9, 1, 1, 1, 0, 0, 4, 16 total 32. Variance = 32 ÷ 8 = 4. Standard deviation = √4 = 2.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Find the standard deviation of 3, 5, 7 (population formula) to 2 decimal places.",
+    "options": [
+     "1.63",
+     "2.00",
+     "2.67",
+     "8.00"
+    ],
+    "answer": 0,
+    "explanation": "The mean is 5. Squared deviations 4, 0, 4 add to 8. Variance = 8 ÷ 3 = 2.67 and standard deviation = √2.67 = 1.63. The variance 2.67 is not the standard deviation.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A data set has standard deviation 4. Every value is increased by 10 and then multiplied by 3. What is the new standard deviation?",
+    "options": [
+     "42",
+     "16",
+     "4",
+     "12"
+    ],
+    "answer": 3,
+    "explanation": "Adding a constant does not change the spread. Multiplying by 3 multiplies the standard deviation by 3: 4 × 3 = 12.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Class A scores: mean 60, standard deviation 4. Class B scores: mean 60, standard deviation 12. What is a valid conclusion?",
+    "options": [
+     "Class B's scores are more consistent",
+     "Class A scored higher on average",
+     "Class A's scores are more consistent",
+     "Class B has a lower mean"
+    ],
+    "answer": 2,
+    "explanation": "The means are equal. The smaller standard deviation in class A shows its scores cluster closer to the mean.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a histogram, the class 10–30 has a bar of height 2.5 (frequency density). What is the frequency of this class?",
+    "options": [
+     "2.5",
+     "50",
+     "12.5",
+     "25"
+    ],
+    "answer": 1,
+    "explanation": "Width = 20. Frequency = 2.5 × 20 = 50.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Grouped data: 0–10: 4 values, 10–20: 6 values, 20–30: 10 values. Estimate the mean using class midpoints.",
+    "options": [
+     "18",
+     "20",
+     "15",
+     "12.5"
+    ],
+    "answer": 0,
+    "explanation": "Midpoints 5, 15, 25. Sum of f × midpoint = 20 + 90 + 250 = 360. Mean = 360 ÷ 20 = 18.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Find the standard deviation of 6, 8, 10, 12, 14 (population) to 2 decimal places.",
+    "options": [
+     "8.00",
+     "2.00",
+     "3.16",
+     "2.83"
+    ],
+    "answer": 3,
+    "explanation": "The mean is 10. Deviations squared: 16, 4, 0, 4, 16 total 40. Variance 8 and standard deviation √8 = 2.83. The variance 8 is not the standard deviation.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "In a histogram, the bar for 20–25 has frequency density 6 and the bar for 25–40 has frequency density 2. How many values are in the range 20–40 altogether?",
+    "options": [
+     "8",
+     "120",
+     "60",
+     "12"
+    ],
+    "answer": 2,
+    "explanation": "The 20–25 class has 6 × 5 = 30 values and 25–40 has 2 × 15 = 30 values. Total 60.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Test scores have mean 70 and standard deviation 5. Every score is multiplied by 1.1 and then 2 marks are added. What are the new mean and standard deviation?",
+    "options": [
+     "Mean 79, standard deviation 7.5",
+     "Mean 79, standard deviation 5.5",
+     "Mean 77, standard deviation 5",
+     "Mean 79, standard deviation 5"
+    ],
+    "answer": 1,
+    "explanation": "Mean: 70 × 1.1 + 2 = 79. Standard deviation: only the multiplication changes it, 5 × 1.1 = 5.5. Adding 2 has no effect.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student scored 82. The class mean is 70 and the standard deviation is 4. How many standard deviations above the mean is this score?",
+    "options": [
+     "3",
+     "12",
+     "0.33",
+     "18"
+    ],
+    "answer": 0,
+    "explanation": "(82 − 70) ÷ 4 = 3 standard deviations above the mean.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A histogram has bars: 0–5 with frequency density 2, 5–15 with frequency density 3, and 15–20 with frequency density 1. In which class does the median lie?",
+    "options": [
+     "0–5",
+     "15–20",
+     "It cannot be found",
+     "5–15"
+    ],
+    "answer": 3,
+    "explanation": "Frequencies: 10, 30 and 5, so the total is 45. The median is the 22.5th value. After 0–5 there are 10, after 5–15 there are 40, so the median is in 5–15.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Histograms with unequal class widths\nA bar chart for grouped data works fine when every class has the same width. When classes have **different widths**, you must draw a **histogram**, where the vertical axis is **frequency density** and the AREA of each bar is the frequency.\n- Frequency density = frequency ÷ class width\n- Frequency = frequency density × class width\nExample: class 20–40 has 50 values. Width 20, so density is 50 ÷ 20 = 2.5. A bar of height 2.5 over a width of 20 has area 50. If you plot raw frequency instead of density, wide classes look unfairly large.\nTo find the total from a histogram, work out each frequency (height × width) and add them. For bars of density 6 over width 5 and density 2 over width 15 the total is 30 + 30 = 60. To locate the median, find the total, halve it, and use the running total to see which class holds it.\n\n## Estimating the mean from grouped data\nYou do not know the actual values, so use the class midpoint. Mean ≈ Σ(f × midpoint) ÷ Σf. For classes 0–10, 10–20, 20–30 with frequencies 4, 6, 10 the midpoints are 5, 15, 25, so the estimate is (20 + 90 + 250) ÷ 20 = 18. It is only an estimate.\n\n## Standard deviation\nThe **standard deviation** (SD) tells you how far values typically lie from the mean. A small SD means the data is bunched up; a large SD means it is spread out.\nSteps for a small data set:\n1. Find the mean.\n2. Find each deviation (value − mean) and square it.\n3. Add the squares and divide by the number of values. This is the variance.\n4. Take the square root.\nExample: 3, 5, 7. Mean 5. Squared deviations 4, 0, 4. Variance 8 ÷ 3 = 2.67. SD = 1.63. Calculators have an SD function, so know how to find σ on yours (the population standard deviation).\n\n## What happens to SD when data changes\n- Adding the same number to every value: mean changes, SD stays the same.\n- Multiplying every value by k: mean and SD both multiply by k.\nThis is why SD measures spread, not position.\n\n## Interpreting SD\nCompare two data sets using mean and SD together. Two machines both fill bottles with mean 500 mL. If machine A has SD 2 mL and machine B has SD 7 mL, machine A is more reliable because its output varies less. You can also say how many SDs a value lies from the mean: a score of 82 with mean 70 and SD 4 is 3 SDs above the mean, which is unusually high.\n\n## Common mistakes\n- Plotting frequency on the vertical axis of a histogram with unequal widths.\n- Mixing up variance and standard deviation. SD is the square root of variance.\n- Forgetting to divide by the number of values.\n- Saying a larger SD means a higher mean.\n\n## How this is examined\nTasks give a table of grouped data such as ages, masses, times or lengths of manufactured parts. You calculate frequency densities, draw or read a histogram, estimate a mean, and compare two sets using SD. The top levels ask you to evaluate whether a machine or process is acceptable.\n\nExam tip: When a question gives bars with different widths, immediately add a column to your table for frequency density, and later add one for area. It prevents the most common error.",
+  "flashcards": [
+   {
+    "front": "Frequency density",
+    "back": "Frequency ÷ class width. It is the height of a histogram bar."
+   },
+   {
+    "front": "Area in a histogram",
+    "back": "The area of each bar = the frequency of that class (width × frequency density)."
+   },
+   {
+    "front": "Estimated mean from grouped data",
+    "back": "Σ(f × midpoint) ÷ Σf. It is an estimate because the exact values are unknown."
+   },
+   {
+    "front": "Standard deviation",
+    "back": "A measure of spread around the mean. Smaller SD = more consistent data."
+   },
+   {
+    "front": "Steps to find SD",
+    "back": "Mean → squared deviations → average them (variance) → square root."
+   },
+   {
+    "front": "Variance vs SD",
+    "back": "Variance = SD². Always take the square root at the end."
+   },
+   {
+    "front": "Effect of adding a constant",
+    "back": "Mean changes by the constant; standard deviation is unchanged."
+   },
+   {
+    "front": "Effect of multiplying by k",
+    "back": "Both the mean and the standard deviation are multiplied by k."
+   },
+   {
+    "front": "Comparing two data sets",
+    "back": "Use a mean (or median) for average and SD (or IQR) for spread, and refer to the context."
+   }
+  ]
+ },
+ {
+  "subject": "standard-mathematics",
+  "grade": 5,
+  "topic": "Further Statistics and Probability",
+  "subTopic": "Conditional and Dependent Events",
+  "questions": [
+   {
+    "content": "A bag has 3 red and 5 blue counters. What is the probability of picking red?",
+    "options": [
+     "3/8",
+     "3/5",
+     "5/8",
+     "1/3"
+    ],
+    "answer": 0,
+    "explanation": "There are 3 + 5 = 8 counters in total and 3 are red: 3/8.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A fair coin is flipped and a fair die is rolled. What is P(head and a 6)?",
+    "options": [
+     "1/8",
+     "7/12",
+     "1/6",
+     "1/12"
+    ],
+    "answer": 3,
+    "explanation": "The events are independent, so multiply: 1/2 × 1/6 = 1/12.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Two sweets are taken from a bag one after another without replacement. The events are...",
+    "options": [
+     "Independent",
+     "Mutually exclusive",
+     "Dependent",
+     "Impossible"
+    ],
+    "answer": 2,
+    "explanation": "Taking the first sweet changes what is left, so the probability of the second depends on the first.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A bag has 4 red and 6 blue counters. One red counter is taken out and not replaced. What is the probability the next counter is red?",
+    "options": [
+     "2/5",
+     "1/3",
+     "4/10",
+     "3/10"
+    ],
+    "answer": 1,
+    "explanation": "There are now 3 red out of 9 counters: 3/9 = 1/3.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "P(A) = 0.35. What is P(not A)?",
+    "options": [
+     "0.65",
+     "0.35",
+     "0.7",
+     "−0.35"
+    ],
+    "answer": 0,
+    "explanation": "Probabilities of an event and its complement sum to 1, so 1 − 0.35 = 0.65.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A bag has 5 red and 3 blue counters. Two are drawn without replacement. Find the probability that both are red.",
+    "options": [
+     "25/64",
+     "5/16",
+     "5/8",
+     "5/14"
+    ],
+    "answer": 3,
+    "explanation": "P(first red) = 5/8, then P(second red) = 4/7: 5/8 × 4/7 = 20/56 = 5/14. Using 5/8 twice would assume replacement.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A bag has 5 red and 3 blue counters. Two are drawn without replacement. Find the probability of getting one of each colour.",
+    "options": [
+     "15/64",
+     "15/56",
+     "15/28",
+     "3/7"
+    ],
+    "answer": 2,
+    "explanation": "Red then blue: 5/8 × 3/7 = 15/56. Blue then red is also 15/56. Adding both orders gives 30/56 = 15/28.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Of 30 students, 18 play football, 12 play basketball and 5 play both. A student who plays football is chosen. What is the probability they also play basketball?",
+    "options": [
+     "5/12",
+     "5/18",
+     "5/30",
+     "12/30"
+    ],
+    "answer": 1,
+    "explanation": "P(basketball given football) = number who play both ÷ number who play football = 5/18.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "P(A ∩ B) = 0.12 and P(B) = 0.4. Find P(A | B).",
+    "options": [
+     "0.3",
+     "0.048",
+     "0.52",
+     "0.12"
+    ],
+    "answer": 0,
+    "explanation": "P(A | B) = P(A ∩ B) ÷ P(B) = 0.12 ÷ 0.4 = 0.3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Of 60 students, 32 are girls and 28 are boys. 18 of the girls and 10 of the boys walk to school. A girl is chosen at random. What is the probability she walks?",
+    "options": [
+     "28/60",
+     "18/60",
+     "18/28",
+     "9/16"
+    ],
+    "answer": 3,
+    "explanation": "Only girls are considered, so use 18 out of 32: 18/32 = 9/16.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A bag has 6 blue counters out of 10. Two counters are drawn WITH replacement. Find P(both blue).",
+    "options": [
+     "0.33",
+     "0.6",
+     "0.36",
+     "0.3"
+    ],
+    "answer": 2,
+    "explanation": "The draws are independent: 0.6 × 0.6 = 0.36. Without replacement it would be 6/10 × 5/9 = 1/3.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "P(rain) = 0.3. If it rains, P(late) = 0.4. If it does not rain, P(late) = 0.1. Find P(late).",
+    "options": [
+     "0.5",
+     "0.19",
+     "0.4",
+     "0.12"
+    ],
+    "answer": 1,
+    "explanation": "Add the two branches that end in late: 0.3 × 0.4 + 0.7 × 0.1 = 0.12 + 0.07 = 0.19.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "P(A) = 0.5, P(B) = 0.4 and P(A ∩ B) = 0.2. Which statement is correct?",
+    "options": [
+     "A and B are independent because 0.5 × 0.4 = 0.2",
+     "A and B are mutually exclusive",
+     "A and B are dependent because P(A ∩ B) ≠ 0",
+     "A and B are independent because P(A ∩ B) = 0.2"
+    ],
+    "answer": 0,
+    "explanation": "Independent events satisfy P(A ∩ B) = P(A) × P(B). Here 0.5 × 0.4 = 0.2. Mutually exclusive events would have P(A ∩ B) = 0.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A bag has 4 red, 3 green and 2 yellow counters. Two are drawn without replacement. Find P(same colour).",
+    "options": [
+     "29/81",
+     "1/3",
+     "4/9",
+     "5/18"
+    ],
+    "answer": 3,
+    "explanation": "RR: 4/9 × 3/8 = 12/72. GG: 3/9 × 2/8 = 6/72. YY: 2/9 × 1/8 = 2/72. Total 20/72 = 5/18.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A bag has 4 red and 5 other counters. Two are taken without replacement. Find the probability that at least one is red.",
+    "options": [
+     "16/81",
+     "5/18",
+     "13/18",
+     "4/9"
+    ],
+    "answer": 2,
+    "explanation": "Use the complement. P(no red) = 5/9 × 4/8 = 20/72 = 5/18. So P(at least one red) = 1 − 5/18 = 13/18.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Using P(rain) = 0.3, P(late | rain) = 0.4 and P(late | no rain) = 0.1, the overall P(late) is 0.19. Someone arrives late. Find the probability that it rained.",
+    "options": [
+     "0.4",
+     "12/19",
+     "0.3",
+     "7/19"
+    ],
+    "answer": 1,
+    "explanation": "P(rain | late) = P(rain and late) ÷ P(late) = 0.12 ÷ 0.19 = 12/19, which is about 0.63. This is bigger than 0.3 because rain makes lateness more likely.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "P(A) = 0.6, P(B) = 0.5 and P(A ∪ B) = 0.8. Find P(A | B).",
+    "options": [
+     "0.6",
+     "0.3",
+     "0.5",
+     "0.75"
+    ],
+    "answer": 0,
+    "explanation": "P(A ∩ B) = 0.6 + 0.5 − 0.8 = 0.3. Then P(A | B) = 0.3 ÷ 0.5 = 0.6, which also equals P(A), so the events are independent.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A box has 12 items, 3 of which are defective. An inspector takes 3 items without replacement. Find the probability that none is defective.",
+    "options": [
+     "27/64",
+     "1/4",
+     "9/55",
+     "21/55"
+    ],
+    "answer": 3,
+    "explanation": "9/12 × 8/11 × 7/10 = 504/1320 = 21/55. Each item taken reduces both the good items and the total by one.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Independent and dependent events\nTwo events are **independent** if one happening does not change the probability of the other. Flipping a coin and rolling a die are independent. For independent events: P(A and B) = P(A) × P(B).\nTwo events are **dependent** if the outcome of the first changes the chances of the second. Taking items from a bag **without replacement** gives dependent events because the contents change. Taking **with replacement** keeps the contents the same, so the events are independent.\n\n## Without replacement\nA bag has 5 red and 3 blue counters. Two are taken without replacement.\n- P(both red) = 5/8 × 4/7 = 5/14.\n- P(one of each colour) = (5/8 × 3/7) + (3/8 × 5/7) = 15/28.\nThe denominators drop by 1 each pick and the numerator for the colour taken also drops by 1.\n\"At least one\" questions are easiest by complement: P(at least one) = 1 − P(none).\n\n## Conditional probability\nThe probability of A given that B has happened is written P(A | B). Formula:\nP(A | B) = P(A ∩ B) ÷ P(B).\nThink \"restrict the sample space to B\". Example: of 30 students, 18 play football and 5 play both football and basketball. P(basketball | football) = 5/18. In a two-way table, use only the row or column named after \"given\". Of 32 girls, 18 walk to school, so P(walk | girl) = 18/32 = 9/16.\n\n## Tree diagrams\nDraw branches for each stage. Multiply along the branches for \"and\". Add the end results that satisfy the question for \"or\".\nExample: P(rain) = 0.3. If it rains, P(late) = 0.4. If not, P(late) = 0.1. P(late) = 0.3 × 0.4 + 0.7 × 0.1 = 0.19. Now reverse it: P(rain | late) = 0.12 ÷ 0.19 = 12/19. This is Bayes-style reasoning that appears in diagnosis or quality tests.\n\n## Testing independence\nA and B are independent if P(A ∩ B) = P(A) × P(B), or equivalently P(A | B) = P(A). If P(A) = 0.5, P(B) = 0.4 and P(A ∩ B) = 0.2, then they are independent. Do not confuse this with **mutually exclusive**, where P(A ∩ B) = 0.\n\n## Venn diagrams\nUse P(A ∪ B) = P(A) + P(B) − P(A ∩ B). Fill the middle of the Venn diagram first, then the rest.\n\n## Common mistakes\n- Using the same denominator for both picks when there is no replacement.\n- Dividing by the wrong total when finding a conditional probability.\n- Adding along branches instead of multiplying.\n- Believing independent means mutually exclusive.\n\n## How this is examined\nContexts include quality control, school survey tables, weather and medical screening. You complete a tree diagram, calculate joint and conditional probabilities, and judge whether the results fit a claim, such as \"the test is reliable\". Extended parts ask you to explain what an assumption of independence means.\n\nExam tip: Say the sample space out loud: \"given B means only B is possible\". Write the new total before you write a fraction.",
+  "flashcards": [
+   {
+    "front": "Independent events",
+    "back": "One does not affect the other. P(A and B) = P(A) × P(B)."
+   },
+   {
+    "front": "Dependent events",
+    "back": "The first outcome changes the probability of the second, as in picking without replacement."
+   },
+   {
+    "front": "Conditional probability formula",
+    "back": "P(A | B) = P(A ∩ B) ÷ P(B)."
+   },
+   {
+    "front": "Meaning of P(A | B)",
+    "back": "The probability of A happening, given that B has already happened."
+   },
+   {
+    "front": "Probability of 'at least one'",
+    "back": "1 − P(none). Often quicker than adding every case."
+   },
+   {
+    "front": "Tree diagram rules",
+    "back": "Multiply along branches for 'and'. Add the outcomes for 'or'."
+   },
+   {
+    "front": "Test for independence",
+    "back": "P(A ∩ B) = P(A) × P(B), or P(A | B) = P(A)."
+   },
+   {
+    "front": "Mutually exclusive",
+    "back": "Cannot happen together: P(A ∩ B) = 0. Not the same as independent."
+   },
+   {
+    "front": "Union formula",
+    "back": "P(A ∪ B) = P(A) + P(B) − P(A ∩ B)."
+   }
+  ]
+ }
+]

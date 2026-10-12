@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "integrated-science",
+  "grade": 5,
+  "topic": "Genetics, Evolution and Biotechnology",
+  "subTopic": "DNA, Inheritance and Variation",
+  "questions": [
+   {
+    "content": "In a human liver cell, where is most of the DNA found?",
+    "options": [
+     "In the cell membrane",
+     "In the cytoplasm only",
+     "In the nucleus",
+     "In the ribosomes"
+    ],
+    "answer": 2,
+    "explanation": "Most DNA is packed into chromosomes inside the nucleus. A very small amount is found in mitochondria.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In a DNA molecule, which base always pairs with adenine (A)?",
+    "options": [
+     "Cytosine (C)",
+     "Thymine (T)",
+     "Guanine (G)",
+     "Uracil (U)"
+    ],
+    "answer": 1,
+    "explanation": "Complementary base pairing: A pairs with T and C pairs with G. Uracil is found in RNA, not DNA.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is an allele?",
+    "options": [
+     "A different version of the same gene",
+     "A section of a cell membrane",
+     "A type of body cell",
+     "A single DNA base"
+    ],
+    "answer": 0,
+    "explanation": "A gene can exist in several forms called alleles, for example the alleles for tall or short pea plants.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "How many chromosomes are in a normal human sperm cell?",
+    "options": [
+     "46",
+     "92",
+     "12",
+     "23"
+    ],
+    "answer": 3,
+    "explanation": "Gametes are haploid, so they contain half the usual number. Body cells have 46 chromosomes, sperm and egg cells have 23.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does it mean if an allele is dominant?",
+    "options": [
+     "It only shows when two copies are present",
+     "It is always the more common allele",
+     "Its effect shows even when only one copy is present",
+     "It is found only on the X chromosome"
+    ],
+    "answer": 2,
+    "explanation": "A dominant allele is expressed in the phenotype whether the genotype is homozygous or heterozygous.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In pea plants, tall (T) is dominant to short (t). Two heterozygous tall plants are crossed. What is the probability that an offspring is short?",
+    "options": [
+     "1/2",
+     "1/4",
+     "3/4",
+     "0"
+    ],
+    "answer": 1,
+    "explanation": "Tt × Tt gives TT, Tt, Tt and tt in a 1:2:1 genotype ratio. Only tt is short, so the probability is 1/4.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A couple already has three sons. What is the probability that their fourth child is a girl?",
+    "options": [
+     "1/2",
+     "1/4",
+     "3/4",
+     "Less than 1/2 because they had boys"
+    ],
+    "answer": 0,
+    "explanation": "Each fertilisation is an independent event. The sperm carries X or Y with equal chance, so the probability stays 1/2 whatever happened before.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "One strand of a DNA section reads ATGCCA. What is the sequence of the complementary strand?",
+    "options": [
+     "UACGGU",
+     "TAGCCT",
+     "ATGCCA",
+     "TACGGT"
+    ],
+    "answer": 3,
+    "explanation": "Pair each base: A–T, T–A, G–C, C–G, C–G, A–T giving TACGGT. Uracil does not appear in DNA.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Cystic fibrosis is caused by a recessive allele. Two unaffected parents are both carriers. What is the chance that their child has cystic fibrosis?",
+    "options": [
+     "50%",
+     "75%",
+     "25%",
+     "0%"
+    ],
+    "answer": 2,
+    "explanation": "Carriers are Cc × Cc. One in four offspring is cc, which is 25%.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Identical twins are separated at birth. One grows 4 cm taller than the other. What is the best explanation?",
+    "options": [
+     "Different DNA sequences",
+     "Environmental differences such as diet",
+     "A mutation in one twin's gametes",
+     "The twins have different numbers of chromosomes"
+    ],
+    "answer": 1,
+    "explanation": "Identical twins share the same DNA, so differences between them come from the environment, such as diet and health.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student crosses two pea plants and counts 200 offspring: 152 purple flowers and 48 white flowers. Which statement best fits the data?",
+    "options": [
+     "It is close to a 3:1 ratio, suggesting both parents were heterozygous",
+     "It is a 1:1 ratio, so one parent was homozygous recessive",
+     "It is a 1:2:1 ratio, so the allele is codominant",
+     "All offspring should have been purple, so the data is wrong"
+    ],
+    "answer": 0,
+    "explanation": "152 : 48 is about 3.2 : 1, close to 3:1, which is what Aa × Aa produces. Real results rarely match the ratio exactly because fertilisation is random.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of the following is most likely to cause a mutation?",
+    "options": [
+     "Eating a high-protein diet",
+     "Exercising regularly",
+     "Drinking more water",
+     "Exposure to ultraviolet radiation"
+    ],
+    "answer": 3,
+    "explanation": "UV radiation, X-rays and some chemicals damage DNA and can change the base sequence. Diet and exercise do not alter DNA.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of these is an example of continuous variation in humans?",
+    "options": [
+     "Blood group",
+     "Ability to roll the tongue",
+     "Height",
+     "Having attached earlobes"
+    ],
+    "answer": 2,
+    "explanation": "Continuous variation shows a full range of values, like height. Blood group and tongue rolling fall into distinct categories.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Two unaffected parents have a child with a genetic disorder. Which conclusion is best supported?",
+    "options": [
+     "The disorder is dominant and both parents have it",
+     "The disorder is recessive and both parents are carriers",
+     "The disorder is caused by the environment only",
+     "The child must have had a new mutation, so the parents cannot be carriers"
+    ],
+    "answer": 1,
+    "explanation": "If a dominant allele were present in a parent they would be affected. So the allele is recessive and both parents carry one copy. A new mutation is possible but is not the best-supported conclusion.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A heterozygous tall plant (Tt) is crossed with a short plant (tt). If 40 seeds are grown, how many tall plants would you expect?",
+    "options": [
+     "20",
+     "10",
+     "30",
+     "40"
+    ],
+    "answer": 0,
+    "explanation": "Tt × tt gives Tt and tt in a 1:1 ratio. Half of 40 is 20 tall plants.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Colour blindness is caused by a recessive allele on the X chromosome. A carrier mother and a father with normal vision have a son. What is the probability the son is colour blind?",
+    "options": [
+     "25%",
+     "100%",
+     "0%",
+     "50%"
+    ],
+    "answer": 3,
+    "explanation": "The son receives his Y from the father and one of the mother's X chromosomes. Half of the mother's eggs carry the faulty allele, so 50%.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A woman has blood group AB (genotype IᴬIᴮ) and a man has group O (ii). Which groups are possible in their children?",
+    "options": [
+     "A, B, AB or O",
+     "AB only",
+     "A or B only",
+     "O only"
+    ],
+    "answer": 2,
+    "explanation": "Children receive Iᴬ or Iᴮ from the mother and i from the father, giving IᴬI (group A) or IᴮI (group B).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A gene section is 12 bases long and each three bases code for one amino acid. One base is deleted near the start. What is the most likely effect?",
+    "options": [
+     "Only one amino acid is changed",
+     "Most of the following amino acids are changed",
+     "No change, because DNA repairs itself every time",
+     "The protein is made faster"
+    ],
+    "answer": 1,
+    "explanation": "Deleting a base shifts the way the remaining bases are read in groups of three, so many later amino acids change. This is why deletions can be more harmful than some substitutions.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "DNA, or deoxyribonucleic acid, is the molecule that carries the instructions for building and running a living organism. In animal cells most DNA is found in the nucleus, wound into structures called chromosomes. Humans have 46 chromosomes in each body cell, arranged as 23 pairs. Gametes (egg and sperm) are made by meiosis and have only 23 chromosomes, so when they fuse at fertilisation the full 46 is restored.\n\n## DNA structure\nDNA is a double helix: two strands twisted together. Each strand is a chain of units called nucleotides. The strands are held together by pairs of bases. There are four bases, adenine (A), thymine (T), guanine (G) and cytosine (C). The pairing rule is **A with T** and **C with G**. This is called complementary base pairing. If one strand reads ATGC, the matching strand must read TACG.\n\n## Genes, alleles and proteins\n- A **gene** is a section of DNA that codes for a protein.\n- Each three bases in a row (a triplet) codes for one amino acid. Amino acids join in order to make a protein.\n- An **allele** is a version of a gene. You inherit one allele from each parent.\n- The **genotype** is the combination of alleles, for example Tt. The **phenotype** is the characteristic that shows, for example tall.\n- **Homozygous** means two identical alleles (TT or tt). **Heterozygous** means two different alleles (Tt).\n- A **dominant** allele shows in the phenotype if at least one copy is present. A **recessive** allele only shows when two copies are present.\n\n## Predicting inheritance\nA Punnett square shows the possible combinations of gametes. For Tt × Tt, the offspring are TT, Tt, Tt, tt, so the genotype ratio is 1:2:1 and the phenotype ratio is 3 tall to 1 short. A 3:1 ratio does not mean exactly three of every four offspring. Fertilisation is random, so a small sample such as 8 offspring may give 5:3, while a large sample such as 200 will be much closer to 3:1. Each child is an independent event, so a family with three sons still has a 1/2 chance of a girl next time.\n\nSex is decided by the sex chromosomes. Females are XX and males are XY. The father's sperm carries X or Y, so the chance of either sex is 1/2. Some alleles, such as the one for red-green colour blindness, are carried on the X chromosome and are recessive. Males have only one X, so one faulty allele is enough to make a son colour blind. Females need two faulty alleles, so many are carriers without showing the condition.\n\n## Variation\nDifferences between individuals of the same species are called variation. Variation can be caused by genes (inherited), by the environment (for example diet or sunlight) or by both. Height is affected by both. Identical twins have the same DNA, so differences between them come from the environment. Variation can be continuous (a range, like height) or discontinuous (clear categories, like blood group).\n\nA **mutation** is a change in the DNA base sequence. Mutations happen at random but are more likely after exposure to ultraviolet radiation, X-rays or certain chemicals. Most have no effect, some are harmful and a few are beneficial. Mutations in gametes can be passed on to offspring.\n\n## How this is examined\nQuestions give a short scenario, such as a pea plant cross with offspring counts or a family pedigree in words. You are asked to state the genotype, calculate a probability or ratio, and then evaluate whether the results support a prediction. Strong answers state the parental genotypes, show the Punnett square, give the ratio and then comment on sample size and random fertilisation.\n\n## Common mistakes\n- Saying a dominant allele is the most common allele. It is not.\n- Writing genotype ratios when the question asks for phenotype ratios.\n- Thinking previous children change the probability for the next.\n\nExam tip: Always write the parental genotypes, draw the Punnett square and give the answer as a probability or ratio with a short sentence. Remember that observed results will rarely match predictions exactly.",
+  "flashcards": [
+   {
+    "front": "Complementary base pairing",
+    "back": "In DNA, adenine pairs with thymine (A–T) and cytosine pairs with guanine (C–G)."
+   },
+   {
+    "front": "Gene",
+    "back": "A section of DNA that codes for a protein, which gives a characteristic."
+   },
+   {
+    "front": "Allele",
+    "back": "A different version of the same gene, for example the allele for tall or short."
+   },
+   {
+    "front": "Genotype vs phenotype",
+    "back": "Genotype is the combination of alleles (Tt). Phenotype is the observable characteristic (tall)."
+   },
+   {
+    "front": "Homozygous vs heterozygous",
+    "back": "Homozygous: two identical alleles (TT or tt). Heterozygous: two different alleles (Tt)."
+   },
+   {
+    "front": "Recessive allele",
+    "back": "Only shows in the phenotype when two copies are present (homozygous recessive)."
+   },
+   {
+    "front": "Tt × Tt offspring ratio",
+    "back": "Genotypes TT:Tt:tt = 1:2:1. Phenotypes 3 dominant : 1 recessive, a probability of 1/4 for the recessive phenotype."
+   },
+   {
+    "front": "Mutation",
+    "back": "A random change in the DNA base sequence. More likely after UV radiation, X-rays or some chemicals."
+   },
+   {
+    "front": "Human sex chromosomes",
+    "back": "Females XX, males XY. The chance of a boy or girl is 1/2 each time."
+   }
+  ]
+ },
+ {
+  "subject": "integrated-science",
+  "grade": 5,
+  "topic": "Genetics, Evolution and Biotechnology",
+  "subTopic": "Natural Selection and Evolution",
+  "questions": [
+   {
+    "content": "Which statement best describes natural selection?",
+    "options": [
+     "Organisms change their features during their lifetime to cope with the environment, and pass these on",
+     "The strongest individual always wins and survives",
+     "Mutations happen because the organism needs them",
+     "Individuals with advantageous features survive and reproduce more, passing on their alleles"
+    ],
+    "answer": 3,
+    "explanation": "Natural selection acts on existing variation. Better-adapted individuals are more likely to survive and reproduce, so their alleles become more common.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Who proposed the theory of evolution by natural selection, published in 1859 in On the Origin of Species?",
+    "options": [
+     "Gregor Mendel",
+     "Louis Pasteur",
+     "Charles Darwin",
+     "Isaac Newton"
+    ],
+    "answer": 2,
+    "explanation": "Charles Darwin published On the Origin of Species in 1859. Alfred Russel Wallace independently reached a similar idea.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a fossil?",
+    "options": [
+     "A living organism that has not changed for millions of years",
+     "The preserved remains or traces of an organism from long ago",
+     "A rock formed from volcanic lava",
+     "A type of bone found only in dinosaurs"
+    ],
+    "answer": 1,
+    "explanation": "Fossils are preserved remains or traces, such as bones, shells, footprints or imprints, usually found in sedimentary rock.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does it mean when a species becomes extinct?",
+    "options": [
+     "No individuals of the species remain alive",
+     "The species moves to a new habitat",
+     "The species has too few predators",
+     "The population has decreased slightly"
+    ],
+    "answer": 0,
+    "explanation": "Extinction means the whole species has died out. A population that is only smaller is not extinct.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of the following is needed for natural selection to occur?",
+    "options": [
+     "All individuals being identical",
+     "No competition for resources",
+     "A change within one individual's lifetime",
+     "Variation within a population"
+    ],
+    "answer": 3,
+    "explanation": "Without variation there would be nothing for selection to act on. Competition and differences in survival drive the process.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A population of moths has light and dark forms. After a nearby wood is covered with soot, the dark form becomes much more common. What is the best explanation?",
+    "options": [
+     "Light moths changed to dark to match the soot",
+     "Soot caused mutations that made moths dark",
+     "Dark moths were better camouflaged, so more survived and reproduced",
+     "Dark moths are naturally stronger"
+    ],
+    "answer": 2,
+    "explanation": "Predators ate more of the visible light moths. Dark moths survived and reproduced, passing on the allele for dark colour.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Bacteria are exposed to an antibiotic. A few resistant bacteria survive and reproduce. What is the best description of this process?",
+    "options": [
+     "Mutation caused by the antibiotic to help bacteria",
+     "Natural selection",
+     "Artificial selection",
+     "Acclimatisation"
+    ],
+    "answer": 1,
+    "explanation": "Resistant bacteria arose by random mutation. The antibiotic acts as the selection pressure, so resistant bacteria survive and reproduce.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which action best helps slow the spread of antibiotic-resistant bacteria?",
+    "options": [
+     "Finishing the full course of antibiotics and not using them for viral infections",
+     "Taking antibiotics at the first sign of any illness",
+     "Using weaker antibiotics for longer",
+     "Stopping the antibiotic as soon as you feel better"
+    ],
+    "answer": 0,
+    "explanation": "Using antibiotics only when needed and completing the course reduces the chance that resistant bacteria survive and multiply.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Farmers breed only the cows that produce the most milk, generation after generation. What is this called?",
+    "options": [
+     "Natural selection",
+     "Genetic modification",
+     "Cloning",
+     "Selective breeding"
+    ],
+    "answer": 3,
+    "explanation": "Selective breeding (artificial selection) is when humans choose which individuals breed. In natural selection the environment decides.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which piece of evidence supports evolution from a common ancestor?",
+    "options": [
+     "The fact that fish live in water",
+     "The fact that all plants make glucose",
+     "Similar bone structure in the forelimbs of bats, whales and humans",
+     "The existence of different habitats"
+    ],
+    "answer": 2,
+    "explanation": "Homologous structures such as the pentadactyl limb suggest shared ancestry despite different uses.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A population of 500 beetles contains green and brown forms. The brown form is easier for birds to see on green leaves. Over many generations, what is most likely to happen to the proportion of green beetles?",
+    "options": [
+     "It decreases",
+     "It increases",
+     "It stays exactly the same",
+     "It falls to zero within one generation"
+    ],
+    "answer": 1,
+    "explanation": "Green beetles are better camouflaged, so more survive and reproduce, and the proportion increases gradually.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The fossil record shows a gradual change in the shape of a horse's leg bones over millions of years. What does this suggest?",
+    "options": [
+     "Species change over long periods of time",
+     "Horses are only recently evolved",
+     "All species have stayed the same",
+     "Fossils are not reliable at all"
+    ],
+    "answer": 0,
+    "explanation": "A sequence of fossils in layers of different ages can show gradual change, supporting evolution.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement correctly describes the origin of new alleles?",
+    "options": [
+     "They are produced when an organism needs them",
+     "They are made by exercising",
+     "They are copied from other species deliberately",
+     "They arise by random mutation"
+    ],
+    "answer": 3,
+    "explanation": "New alleles arise from random mutations in DNA. Selection then determines whether they become more common.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A scientist records the following. Year 1: 10% of mosquitoes resistant to an insecticide. Year 4 after repeated spraying: 70% resistant. Which conclusion is best supported?",
+    "options": [
+     "The insecticide caused mosquitoes to adapt during their lives",
+     "Mosquitoes learned to avoid the insecticide",
+     "The insecticide has acted as a selection pressure",
+     "Resistance is not inherited"
+    ],
+    "answer": 2,
+    "explanation": "Repeated spraying killed more susceptible mosquitoes, so resistant ones bred more. The data shows a rise in the proportion of resistant mosquitoes, consistent with selection.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student says: 'The giraffe stretched its neck to reach leaves, and its offspring were born with longer necks.' What is wrong with this explanation?",
+    "options": [
+     "Giraffes cannot stretch their necks",
+     "Acquired features such as a stretched neck are not inherited",
+     "Offspring never resemble their parents",
+     "Leaves do not grow high enough"
+    ],
+    "answer": 1,
+    "explanation": "This is the Lamarckian idea. Changes during an individual's life do not alter its DNA. Natural selection acts on inherited variation.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Why is a population with very low genetic variation more at risk of extinction when a new disease appears?",
+    "options": [
+     "Few individuals may have alleles that give resistance",
+     "All individuals will immediately develop resistance",
+     "Variation has no effect on disease",
+     "Disease only affects large populations"
+    ],
+    "answer": 0,
+    "explanation": "With little variation, it is less likely that any individuals have a resistant allele, so the whole population may be affected.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Species A and species B are from the same genus. DNA analysis shows 98% similarity between A and B but only 91% between A and species C. What can be inferred?",
+    "options": [
+     "C is the ancestor of A",
+     "B is older than A",
+     "A and C are the same species",
+     "A and B probably share a more recent common ancestor"
+    ],
+    "answer": 3,
+    "explanation": "The greater the DNA similarity, the more recently the species probably diverged. A and B are more closely related than A and C.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which of these is the best definition of a species for MYP level?",
+    "options": [
+     "A group of organisms living in the same habitat",
+     "A group with similar colour",
+     "A group of organisms that can interbreed to produce fertile offspring",
+     "A group of organisms with the same diet"
+    ],
+    "answer": 2,
+    "explanation": "The biological species concept uses fertile offspring as the test. A horse and a donkey make a mule, which is sterile, so they are separate species.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Evolution is the gradual change in the inherited features of populations over many generations. Today's species have developed from earlier, simpler species over billions of years. Charles Darwin proposed the main mechanism, natural selection, in his 1859 book On the Origin of Species. Alfred Russel Wallace independently came to a similar idea at about the same time.\n\n## The steps of natural selection\nNatural selection can be explained in a clear sequence. Use these steps in written answers.\n- There is **variation** within a population, because of different alleles.\n- New alleles arise by random **mutation**.\n- More offspring are born than can survive, so there is **competition** for food, mates and space, and there are other pressures such as predators and disease.\n- Individuals with features that suit the environment are more likely to **survive and reproduce**.\n- They pass on the advantageous **alleles** to their offspring.\n- Over many generations, the proportion of the advantageous allele in the population increases.\n\nNotice that individuals do not change during their lives to meet a need, and that acquired features are not inherited. A giraffe that stretches its neck does not pass on a longer neck. Selection works on variation that already exists.\n\n## Worked example: peppered moths\nBefore industrial pollution, most peppered moths in some English woods were pale, which camouflaged them on lichen-covered bark. When soot darkened the trees, pale moths were easier for birds to see and eat. Dark moths survived more often, bred, and the dark allele became common. When air quality improved, pale moths became more common again. The environment acted as the selection pressure.\n\n## Antibiotic resistance\nBacteria reproduce quickly. A random mutation may give one bacterium resistance to an antibiotic. When the antibiotic is used, non-resistant bacteria die and resistant bacteria survive and multiply. The population becomes resistant. This is natural selection happening in real time. To slow it, doctors prescribe antibiotics only when needed, and patients should complete the full course.\n\n## Evidence for evolution\n- **Fossils** show how organisms have changed in layers of rock of different ages.\n- **Comparative anatomy**, for example the similar arrangement of bones in the limbs of a human, a bat and a whale, suggests a common ancestor.\n- **DNA comparison**: the more similar the DNA of two species, the more recently they probably shared a common ancestor.\n- Observed changes, such as pesticide resistance in insects.\n\n## Selective breeding and extinction\nIn **selective breeding**, humans choose which individuals breed, for example cows with high milk yield. This is artificial selection and is faster than natural selection. A species becomes **extinct** when no individuals remain. Causes include habitat loss, new predators or diseases, climate change and hunting. Low genetic variation makes a population more vulnerable.\n\n## How this is examined\nYou may be given a data set such as the percentage of resistant bacteria over several years, then asked to describe the trend, explain it using natural selection, and evaluate how reliable the conclusion is. Better answers link each step: variation, selection pressure, survival, reproduction, inheritance.\n\nExam tip: When explaining natural selection, always include variation, a selection pressure, differential survival and reproduction, and the passing on of alleles. Never say that organisms change because they need to.",
+  "flashcards": [
+   {
+    "front": "Natural selection",
+    "back": "Better-adapted individuals survive and reproduce more, passing on their alleles, so those alleles become more common over generations."
+   },
+   {
+    "front": "Steps of natural selection",
+    "back": "Variation, competition, survival of the better adapted, reproduction, inheritance of alleles, change in allele proportions."
+   },
+   {
+    "front": "Source of new alleles",
+    "back": "Random mutation in DNA."
+   },
+   {
+    "front": "Selection pressure",
+    "back": "An environmental factor, such as predation, disease or an antibiotic, that affects which individuals survive."
+   },
+   {
+    "front": "Antibiotic resistance",
+    "back": "Resistant bacteria survive treatment and reproduce, so resistance becomes common. Finish courses and avoid unnecessary antibiotics."
+   },
+   {
+    "front": "Selective breeding",
+    "back": "Humans choose which individuals breed to produce desired features, such as milk yield. Also called artificial selection."
+   },
+   {
+    "front": "Extinction",
+    "back": "The death of all individuals of a species. Causes include habitat loss, disease, new predators and climate change."
+   },
+   {
+    "front": "Evidence for evolution",
+    "back": "Fossil record, similar bone structures (homologous structures), DNA similarities, and observed changes such as pesticide resistance."
+   },
+   {
+    "front": "Acquired features",
+    "back": "Features gained during a lifetime, such as larger muscles. They are not inherited, because they do not change DNA in gametes."
+   }
+  ]
+ },
+ {
+  "subject": "integrated-science",
+  "grade": 5,
+  "topic": "Genetics, Evolution and Biotechnology",
+  "subTopic": "Genetic Engineering and Cloning",
+  "questions": [
+   {
+    "content": "What is genetic engineering?",
+    "options": [
+     "Breeding two organisms together",
+     "Growing plants in a greenhouse",
+     "Giving an organism vitamins",
+     "Changing an organism's DNA by adding, removing or altering genes"
+    ],
+    "answer": 3,
+    "explanation": "Genetic engineering is the direct modification of an organism's genome, usually by moving a gene from one organism to another.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a clone?",
+    "options": [
+     "A child with two different parents",
+     "A mutated organism",
+     "A genetically identical copy of an organism",
+     "A hybrid of two species"
+    ],
+    "answer": 2,
+    "explanation": "A clone has the same DNA as the organism it was copied from.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which cell type does a human insulin gene get inserted into so that bacteria can make insulin?",
+    "options": [
+     "Red blood cell",
+     "Bacterial cell",
+     "Human nerve cell",
+     "Plant root cell"
+    ],
+    "answer": 1,
+    "explanation": "The human gene for insulin is inserted into bacteria, which then make human insulin in fermenters.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of the following is an example of a genetically modified crop trait?",
+    "options": [
+     "Resistance to a pest insect",
+     "Being grown in rows",
+     "Being watered daily",
+     "Being picked by hand"
+    ],
+    "answer": 0,
+    "explanation": "Genetic modification can give crops traits such as pest resistance or enhanced vitamin content.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the name of the process used to produce Dolly the sheep in 1996?",
+    "options": [
+     "Gene therapy",
+     "Selective breeding",
+     "Mutation",
+     "Cloning by nuclear transfer"
+    ],
+    "answer": 3,
+    "explanation": "Dolly was produced by transferring the nucleus of an adult cell into an egg cell that had its own nucleus removed.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In genetic engineering, which enzymes cut DNA at specific places?",
+    "options": [
+     "Digestive enzymes",
+     "Lipase",
+     "Restriction enzymes",
+     "Amylase"
+    ],
+    "answer": 2,
+    "explanation": "Restriction enzymes cut DNA at particular sequences. Ligase enzymes then join DNA pieces together.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Put these steps of making human insulin in bacteria into the best order: 1 insert the plasmid into bacteria, 2 cut out the insulin gene, 3 join the gene into a plasmid, 4 grow the bacteria in a fermenter.",
+    "options": [
+     "1, 2, 3, 4",
+     "2, 3, 1, 4",
+     "3, 2, 4, 1",
+     "4, 1, 2, 3"
+    ],
+    "answer": 1,
+    "explanation": "First isolate the gene (2), join it into a plasmid (3), put the plasmid in bacteria (1), and finally grow them to make the product (4).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement about a cloned sheep made by nuclear transfer is correct?",
+    "options": [
+     "It has almost the same DNA as the sheep that donated the nucleus",
+     "It has DNA from the egg donor only",
+     "It has a mixture of DNA from two parents",
+     "It has no DNA"
+    ],
+    "answer": 0,
+    "explanation": "The nucleus holds nearly all of the DNA, so the clone is genetically almost identical to the nucleus donor.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A company develops rice with extra beta-carotene to help reduce vitamin A deficiency. Which is the strongest argument in favour?",
+    "options": [
+     "It will make the rice taste of carrots",
+     "It will stop all pests",
+     "It makes farming unnecessary",
+     "It could improve nutrition in areas where diets lack vitamin A"
+    ],
+    "answer": 3,
+    "explanation": "The potential benefit is better health through nutrition. Other statements make claims the technique does not support.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of these is a possible risk of growing GM crops?",
+    "options": [
+     "They always make less food",
+     "They cannot grow in soil",
+     "Modified genes might spread to wild relatives",
+     "They cause climate change by themselves"
+    ],
+    "answer": 2,
+    "explanation": "Gene flow to wild plants is a concern, along with effects on other organisms and ownership of seeds. Risk assessments are used to study them.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why are plant tissue culture clones useful for growers?",
+    "options": [
+     "They have more genetic variation",
+     "All plants are identical with the desired features",
+     "They need no light",
+     "They can be grown from any cell without a nutrient"
+    ],
+    "answer": 1,
+    "explanation": "Cloned plants keep the desired features of the parent. The downside is low variation, so all are vulnerable to the same disease.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A farmer grows 4000 cloned banana plants of one variety. Which is the greatest risk?",
+    "options": [
+     "A single disease could affect all plants",
+     "The plants will be too different",
+     "The plants will not produce fruit",
+     "The plants will not be able to photosynthesise"
+    ],
+    "answer": 0,
+    "explanation": "Clones are genetically identical, so if one is susceptible to a disease, all are.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A scientist suggests using gene therapy to treat cystic fibrosis by putting a working allele into lung cells. Why would the change not be passed to the patient's children?",
+    "options": [
+     "Lungs have no DNA",
+     "The new allele would be destroyed by oxygen",
+     "Children cannot inherit alleles",
+     "Only body cells would be changed, not the gametes"
+    ],
+    "answer": 3,
+    "explanation": "Changes to body (somatic) cells do not affect sperm or egg cells, so they are not inherited.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student evaluates a claim: 'GM crops are unsafe.' Which evidence would best test this claim?",
+    "options": [
+     "A single online post from an unnamed person",
+     "The opinion of the student's friend",
+     "Controlled long-term studies comparing GM and non-GM food on health",
+     "The price of GM seeds"
+    ],
+    "answer": 2,
+    "explanation": "Reliable evidence is from controlled, replicated, peer-reviewed studies. Unsupported opinions do not test the claim.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Dolly the sheep was cloned from a 6-year-old sheep and was found to age faster than normal. Which conclusion is best supported?",
+    "options": [
+     "Cloning always makes animals healthier",
+     "More research was needed on the long-term health of clones",
+     "The experiment proved that cloning never works",
+     "Dolly had no DNA"
+    ],
+    "answer": 1,
+    "explanation": "One animal does not prove a general rule, but it raised questions about the health of clones. Further research was needed.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Why is it ethically difficult to use embryos in research on stem cells?",
+    "options": [
+     "Some people believe an embryo has the same moral status as a human life",
+     "Embryos have no cells",
+     "Stem cells cannot divide",
+     "It is illegal in every country"
+    ],
+    "answer": 0,
+    "explanation": "Ethical debates centre on the status of the embryo. Laws differ between countries, so it is not illegal everywhere.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A researcher inserts a gene into a plant and 3 of 60 treated plants show the new trait. What is the success rate and is it enough to conclude the method is reliable?",
+    "options": [
+     "5%; yes, because some plants worked",
+     "50%; yes, because most worked",
+     "0.5%; the method failed completely",
+     "5%; no, the method needs improvement and repeated trials"
+    ],
+    "answer": 3,
+    "explanation": "3 ÷ 60 × 100 = 5%. This low rate suggests the method is not yet reliable, and repeats are needed.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which is the best reason that insulin made by genetically modified bacteria is preferred to insulin extracted from pig pancreases?",
+    "options": [
+     "Bacteria contain more insulin than pigs",
+     "Pig insulin cannot work in humans at all",
+     "It is identical to human insulin and can be produced in large quantities",
+     "It does not require any equipment"
+    ],
+    "answer": 2,
+    "explanation": "Bacterial insulin is human insulin, avoids animal sources and can be scaled up. Pig insulin does work, but it differs slightly from human insulin.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Genetic engineering is the deliberate changing of an organism's DNA by adding, removing or altering genes. The organism that results is called a **genetically modified (GM)** organism. Cloning is different: it produces genetically identical copies of an organism and does not change the DNA.\n\n## Making a GM organism\nA common method uses these steps.\n- **Isolate** the gene you want, for example the gene for human insulin, using restriction enzymes that cut DNA at specific sequences.\n- **Cut** a bacterial plasmid, which is a small ring of DNA, with the same enzyme.\n- **Join** the gene into the plasmid using ligase enzyme. The result is a recombinant plasmid.\n- **Insert** the plasmid into a host cell, such as a bacterium.\n- **Grow** the bacteria in a fermenter so that they multiply and make the protein, which is then collected and purified.\n\n## Examples and applications\n- **Medicine**: human insulin and growth hormone made by bacteria. Gene therapy aims to put working alleles into the body cells of patients with genetic disorders. Because only body cells are changed, the change is not usually passed on to children.\n- **Agriculture**: crops engineered to resist pests or herbicides, or to contain extra nutrients such as beta-carotene in rice to help reduce vitamin A deficiency.\n\n## Cloning\n- **Plants** are cloned by taking cuttings or by tissue culture in nutrient jelly. All the plants are identical copies of the parent, which is useful when the parent has desirable features.\n- **Animals** can be cloned by nuclear transfer. The nucleus of an adult body cell is placed in an egg cell whose nucleus has been removed. The egg is stimulated to divide and the embryo is placed in a surrogate mother. Dolly the sheep, born in 1996, was the first mammal cloned from an adult cell.\n- A major risk of cloning is **low genetic variation**. If a population is made of clones, one disease could affect all of them.\n\nStem cells are unspecialised cells that can divide and become different cell types. They are studied for treating diseases such as some types of paralysis and diabetes.\n\n## Benefits, risks and ethics\nBenefits include higher yields, healthier food, cheaper medicines and fewer pesticides. Concerns include possible effects on wild species if modified genes spread, long-term health effects (which scientists study with controlled trials), companies owning seeds and the cost to farmers. Ethical questions include whether it is acceptable to alter organisms, how embryos should be treated in stem cell research, and who should benefit. Decisions are made by governments, scientists and society together, so there is rarely a single correct answer. Good evaluations weigh evidence for and against and avoid sweeping statements such as all GM food is dangerous.\n\n## How this is examined\nTypically you will receive a short article or data about a GM crop or a cloned animal. You may need to identify the steps of a process, calculate a success rate (successful ÷ total × 100), and evaluate the reliability of the evidence and the ethical impact for different groups. Use the criteria: evidence, sample size, who gains, who might be harmed.\n\nExam tip: For discussion questions give at least one benefit and one risk, support each with a reason or evidence, and finish with a justified conclusion. Remember that cloning copies DNA, whereas genetic engineering changes it.",
+  "flashcards": [
+   {
+    "front": "Genetic engineering",
+    "back": "Altering an organism's DNA by adding, removing or changing genes, often by moving a gene from one species to another."
+   },
+   {
+    "front": "Restriction enzyme",
+    "back": "An enzyme that cuts DNA at specific base sequences."
+   },
+   {
+    "front": "Ligase",
+    "back": "An enzyme that joins pieces of DNA together, for example a gene into a plasmid."
+   },
+   {
+    "front": "Plasmid",
+    "back": "A small ring of DNA in bacteria, used as a vector to carry a gene into a host cell."
+   },
+   {
+    "front": "Steps to make human insulin in bacteria",
+    "back": "Isolate the gene, cut a plasmid, join the gene in, insert plasmid into bacteria, grow in a fermenter, collect the insulin."
+   },
+   {
+    "front": "Clone",
+    "back": "An organism that is genetically identical to its parent."
+   },
+   {
+    "front": "Nuclear transfer cloning",
+    "back": "A nucleus from an adult cell is placed in an egg with its nucleus removed. The embryo is placed in a surrogate. Dolly the sheep (1996)."
+   },
+   {
+    "front": "Risk of cloning",
+    "back": "Low genetic variation, so a single disease could affect the whole population."
+   },
+   {
+    "front": "Gene therapy",
+    "back": "Putting working alleles into body cells to treat a genetic disorder. Changes in body cells are not inherited by children."
+   }
+  ]
+ }
+]

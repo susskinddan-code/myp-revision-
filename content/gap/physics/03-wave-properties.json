@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "physics",
+  "grade": 5,
+  "topic": "Wave Properties",
+  "subTopic": "Transverse and Longitudinal Waves",
+  "questions": [
+   {
+    "content": "Which of these is a transverse wave?",
+    "options": [
+     "Sound in air",
+     "Light",
+     "A push along a spring",
+     "Ultrasound"
+    ],
+    "answer": 1,
+    "explanation": "In a transverse wave the vibrations are at right angles to the direction of travel. Light is a transverse wave, sound is longitudinal.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which type of wave has compressions and rarefactions?",
+    "options": [
+     "Longitudinal",
+     "Transverse",
+     "Electromagnetic",
+     "Water ripples"
+    ],
+    "answer": 0,
+    "explanation": "Longitudinal waves such as sound have regions where particles are squashed together (compressions) and spread out (rarefactions).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the amplitude of a wave?",
+    "options": [
+     "The distance between two crests",
+     "The number of waves per second",
+     "The time for one wave",
+     "The maximum displacement from the rest position"
+    ],
+    "answer": 3,
+    "explanation": "Amplitude is the greatest distance a point moves from its undisturbed position. It is linked to the energy of the wave.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the unit of frequency?",
+    "options": [
+     "Metre (m)",
+     "Second (s)",
+     "Hertz (Hz)",
+     "Newton (N)"
+    ],
+    "answer": 2,
+    "explanation": "Frequency is the number of waves per second, measured in hertz.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A wave travels across the sea to a beach. What does the wave transfer?",
+    "options": [
+     "Water particles from far away",
+     "Energy",
+     "Mass",
+     "Temperature only"
+    ],
+    "answer": 1,
+    "explanation": "Waves transfer energy from place to place without transferring matter. The water particles move up and down on the spot.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A loudspeaker produces sound of frequency 50 Hz with a wavelength of 6.8 m. What is the speed of the sound?",
+    "options": [
+     "340 m/s",
+     "0.15 m/s",
+     "57 m/s",
+     "3400 m/s"
+    ],
+    "answer": 0,
+    "explanation": "Speed = frequency × wavelength = 50 × 6.8 = 340 m/s.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A wave has a frequency of 25 Hz. What is its period?",
+    "options": [
+     "25 s",
+     "4.0 s",
+     "0.25 s",
+     "0.04 s"
+    ],
+    "answer": 3,
+    "explanation": "Period = 1 ÷ frequency = 1 ÷ 25 = 0.04 s.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student counts 5 complete waves passing a point on a rope in 2.0 s. Each wave is 0.80 m long. What is the speed of the wave?",
+    "options": [
+     "0.32 m/s",
+     "4.0 m/s",
+     "2.0 m/s",
+     "8.0 m/s"
+    ],
+    "answer": 2,
+    "explanation": "Frequency = 5 ÷ 2.0 = 2.5 Hz. Speed = 2.5 × 0.80 = 2.0 m/s.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a sound wave, what is a compression?",
+    "options": [
+     "A region where particles are further apart than normal",
+     "A region where particles are closer together than normal",
+     "The highest point of the wave",
+     "The point where particles stop vibrating"
+    ],
+    "answer": 1,
+    "explanation": "Compressions are high-pressure regions where the particles are bunched up. In rarefactions they are spread out.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A person shouts towards a cliff and hears the echo 0.40 s later. The speed of sound is 340 m/s. How far away is the cliff?",
+    "options": [
+     "68 m",
+     "136 m",
+     "34 m",
+     "850 m"
+    ],
+    "answer": 0,
+    "explanation": "The sound travels to the cliff and back: 340 × 0.40 = 136 m total. The cliff is half of that, 68 m.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why can sound not travel through a vacuum?",
+    "options": [
+     "It is too fast",
+     "It needs light to travel",
+     "It has too long a wavelength",
+     "It needs particles to vibrate"
+    ],
+    "answer": 3,
+    "explanation": "Sound is a longitudinal wave passed on by vibrating particles. With no particles, there is nothing to pass it on.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A louder sound of the same pitch is played. Which property of the wave has increased?",
+    "options": [
+     "Frequency",
+     "Wavelength",
+     "Amplitude",
+     "Speed"
+    ],
+    "answer": 2,
+    "explanation": "Loudness depends on amplitude, pitch depends on frequency.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "On a wave diagram, which distance represents one wavelength?",
+    "options": [
+     "From a crest to the next trough",
+     "From one crest to the next crest",
+     "From the rest line to a crest",
+     "From a trough to the rest line"
+    ],
+    "answer": 1,
+    "explanation": "Wavelength is the distance of one complete wave, for example crest to crest.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A ship uses sonar. A pulse of sound is sent down and its echo from the sea bed arrives 0.20 s later. Sound travels at 1500 m/s in water. What is the depth?",
+    "options": [
+     "150 m",
+     "300 m",
+     "75 m",
+     "7500 m"
+    ],
+    "answer": 0,
+    "explanation": "Total distance = 1500 × 0.20 = 300 m. This is down and back, so depth = 300 ÷ 2 = 150 m.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A wave on a string has a wavelength of 0.50 m and a period of 0.020 s. What is its speed?",
+    "options": [
+     "10 m/s",
+     "0.04 m/s",
+     "50 m/s",
+     "25 m/s"
+    ],
+    "answer": 3,
+    "explanation": "Frequency = 1 ÷ 0.020 = 50 Hz. Speed = 50 × 0.50 = 25 m/s.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Thunder is heard 4.0 s after a lightning flash is seen. The speed of sound is 340 m/s. Which is the best estimate of the distance to the lightning?",
+    "options": [
+     "85 m",
+     "340 m",
+     "1400 m",
+     "1.2 × 10⁸ m"
+    ],
+    "answer": 2,
+    "explanation": "Light arrives almost instantly, so the 4.0 s is the travel time for sound: 340 × 4.0 = 1360 m ≈ 1400 m.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A loudspeaker's frequency is doubled while the sound travels through the same air. What happens?",
+    "options": [
+     "The wavelength doubles and the speed stays the same",
+     "The wavelength halves and the speed stays the same",
+     "The speed doubles and the wavelength stays the same",
+     "Both the wavelength and speed halve"
+    ],
+    "answer": 1,
+    "explanation": "Speed in a given medium is fixed. Since v = fλ, doubling f means λ must halve.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Earthquake waves are detected on the other side of the Earth. P-waves (longitudinal) arrive but S-waves (transverse) do not. Which conclusion does this support?",
+    "options": [
+     "Part of the Earth's interior is liquid",
+     "The Earth is completely solid",
+     "S-waves travel faster than P-waves",
+     "Longitudinal waves cannot travel through rock"
+    ],
+    "answer": 0,
+    "explanation": "Transverse waves cannot travel through liquids, so the missing S-waves show that part of the interior (the outer core) is liquid.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What is a wave?\nA wave is a regular disturbance that transfers **energy** from one place to another without transferring matter. A cork on a water wave bobs up and down but does not travel along with the wave. Waves are described by the following quantities.\n- **Amplitude**: the maximum displacement from the rest position. A bigger amplitude means more energy (a louder sound, a brighter light).\n- **Wavelength (λ)**: the length of one complete wave, for example crest to crest, in metres.\n- **Frequency (f)**: the number of complete waves per second, in hertz (Hz).\n- **Period (T)**: the time for one complete wave, in seconds. T = 1 ÷ f.\n- **Wave speed (v)**: the distance travelled by the wave each second.\n\n## The wave equation\n**v = f × λ**\nWorked example: a sound wave has a frequency of 170 Hz. The speed of sound in air is about 340 m/s. Wavelength = v ÷ f = 340 ÷ 170 = 2.0 m.\nAnother: five complete waves pass a point in 2.0 s, and each wave is 0.80 m long. Frequency = 5 ÷ 2.0 = 2.5 Hz, so speed = 2.5 × 0.80 = 2.0 m/s.\nThe speed of a wave depends on the medium, not on its amplitude or frequency. If the frequency of a wave in a given medium goes up, the wavelength goes down.\n\n## Transverse waves\nIn **transverse** waves the vibrations are at right angles to the direction the wave travels. Examples are light and all other electromagnetic waves, water ripples, and waves on a rope or string. They have crests and troughs. Transverse waves can travel through a vacuum if they are electromagnetic, but sound cannot.\n\n## Longitudinal waves\nIn **longitudinal** waves the vibrations are parallel to the direction of travel. Sound is the main example, and so are pushes along a slinky spring. They have **compressions**, where particles are close together (high pressure), and **rarefactions**, where particles are further apart (low pressure). Sound needs a medium, so it cannot travel through a vacuum. It travels fastest in solids, slower in liquids and slowest in gases, because the particles are closest in solids. In air at room temperature it is about 340 m/s.\n\n## Echoes and distance\nUse distance = speed × time. For an echo or sonar, the sound travels there and back, so halve the total distance. If an echo returns after 0.40 s, the total path is 340 × 0.40 = 136 m, so the surface is 68 m away.\n\n## Seismic waves\nEarthquakes produce P-waves (longitudinal, faster) and S-waves (transverse, slower). S-waves cannot pass through liquid, which gave evidence that the Earth's outer core is liquid.\n\n## Common mistakes\n- Forgetting to halve the distance in an echo question.\n- Mixing up amplitude (height) and wavelength (length).\n- Saying that particles travel along with the wave. They only vibrate about a fixed position.\n- Saying a higher frequency means a faster wave. In the same medium, the speed stays the same.\n\n## How this is examined\nYou may be given a wave diagram or a data table and asked to read off the wavelength and amplitude, calculate frequency and speed, and explain a measurement such as an echo timing. Investigation questions may ask how to improve the accuracy of a speed-of-sound experiment, for example by timing many echoes.\n\nExam tip: Write the equation v = f × λ before you substitute, and check that frequency is in hertz and wavelength in metres so the answer comes out in m/s.",
+  "flashcards": [
+   {
+    "front": "Transverse wave",
+    "back": "Vibrations are at right angles to the direction of travel. Examples: light, water ripples, waves on a rope."
+   },
+   {
+    "front": "Longitudinal wave",
+    "back": "Vibrations are parallel to the direction of travel, with compressions and rarefactions. Example: sound."
+   },
+   {
+    "front": "Amplitude",
+    "back": "The maximum displacement of a wave from its rest position. Greater amplitude means more energy."
+   },
+   {
+    "front": "Wavelength",
+    "back": "The length of one complete wave, such as crest to crest. Measured in metres."
+   },
+   {
+    "front": "Frequency and period",
+    "back": "Frequency is waves per second (Hz). Period is the time for one wave, T = 1 ÷ f."
+   },
+   {
+    "front": "Wave equation",
+    "back": "Speed = frequency × wavelength (v = fλ)."
+   },
+   {
+    "front": "What do waves transfer?",
+    "back": "Energy, not matter. The medium's particles only vibrate about a fixed position."
+   },
+   {
+    "front": "Speed of sound in air",
+    "back": "About 340 m/s. Faster in liquids and fastest in solids. Cannot travel in a vacuum."
+   },
+   {
+    "front": "Echo distance",
+    "back": "Distance to the reflecting surface = (speed × time) ÷ 2, because the sound travels there and back."
+   }
+  ]
+ },
+ {
+  "subject": "physics",
+  "grade": 5,
+  "topic": "Wave Properties",
+  "subTopic": "Diffraction and Wave Behaviour",
+  "questions": [
+   {
+    "content": "What is reflection?",
+    "options": [
+     "A wave bending as it enters a new medium",
+     "A wave bouncing off a surface",
+     "A wave spreading out through a gap",
+     "A wave being absorbed"
+    ],
+    "answer": 1,
+    "explanation": "Reflection is when a wave bounces back from a boundary or surface.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is refraction?",
+    "options": [
+     "A change in direction of a wave as its speed changes",
+     "A wave bouncing off a mirror",
+     "A wave stopping completely",
+     "A wave being created"
+    ],
+    "answer": 0,
+    "explanation": "Refraction occurs when a wave passes into a medium where its speed is different.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is diffraction?",
+    "options": [
+     "The reflection of a wave from a flat surface",
+     "A wave becoming faster in a denser material",
+     "The absorption of a wave energy",
+     "The spreading out of a wave as it passes through a gap or around an edge"
+    ],
+    "answer": 3,
+    "explanation": "Waves spread out when they pass through a gap or round an obstacle.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A ray of light hits a plane mirror. The angle of incidence is 35°. What is the angle of reflection?",
+    "options": [
+     "55°",
+     "70°",
+     "35°",
+     "145°"
+    ],
+    "answer": 2,
+    "explanation": "The law of reflection says angle of incidence = angle of reflection, both measured from the normal.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the normal in a ray diagram?",
+    "options": [
+     "A line along the surface",
+     "A line at right angles to the surface",
+     "The reflected ray",
+     "The incident ray"
+    ],
+    "answer": 1,
+    "explanation": "The normal is drawn at 90° to the surface at the point where the ray hits. Angles are measured from it.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Light passes from air into glass at an angle. What happens to its direction?",
+    "options": [
+     "It bends towards the normal",
+     "It bends away from the normal",
+     "It does not change direction",
+     "It reflects entirely"
+    ],
+    "answer": 0,
+    "explanation": "Light slows down in glass, a denser medium, so it bends towards the normal.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "When a water wave moves from deep to shallow water, which quantity does NOT change?",
+    "options": [
+     "Wavelength",
+     "Speed",
+     "Direction (if hitting at an angle)",
+     "Frequency"
+    ],
+    "answer": 3,
+    "explanation": "The frequency is set by the source. Speed and wavelength both decrease in shallow water.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a ripple tank, waves of frequency 6.0 Hz travel at 0.30 m/s in deep water. What is the wavelength?",
+    "options": [
+     "1.8 m",
+     "20 m",
+     "0.050 m",
+     "0.20 m"
+    ],
+    "answer": 2,
+    "explanation": "Wavelength = speed ÷ frequency = 0.30 ÷ 6.0 = 0.050 m.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The same waves (6.0 Hz) move into shallower water where their speed is 0.18 m/s. What is the new wavelength?",
+    "options": [
+     "0.050 m",
+     "0.030 m",
+     "1.1 m",
+     "0.108 m"
+    ],
+    "answer": 1,
+    "explanation": "The frequency stays at 6.0 Hz, so wavelength = 0.18 ÷ 6.0 = 0.030 m. The waves become closer together.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "For which gap width will a wave of wavelength 2 cm diffract most?",
+    "options": [
+     "2 cm",
+     "20 cm",
+     "1 m",
+     "Diffraction is the same for all gaps"
+    ],
+    "answer": 0,
+    "explanation": "Diffraction is greatest when the gap is about the same size as the wavelength.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why can you hear someone talking around a corner even when you cannot see them?",
+    "options": [
+     "Sound travels faster than light",
+     "Light cannot travel through walls",
+     "Sound is a transverse wave",
+     "Sound waves have a longer wavelength and diffract around the corner"
+    ],
+    "answer": 3,
+    "explanation": "Sound wavelengths (roughly a metre for speech) are similar to doorway sizes, so sound diffracts a lot. Visible light wavelengths are far too small to diffract noticeably.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A light ray enters a glass block with an angle of incidence of 45° and an angle of refraction of 28°. The refractive index n = sin i ÷ sin r. What is n?",
+    "options": [
+     "0.62",
+     "1.6 × 10¹",
+     "1.5",
+     "1.0"
+    ],
+    "answer": 2,
+    "explanation": "sin 45° = 0.7071 and sin 28° = 0.4695. n = 0.7071 ÷ 0.4695 = 1.5.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of these shows total internal reflection being useful?",
+    "options": [
+     "A plane mirror",
+     "Light travelling along an optical fibre",
+     "A magnifying glass",
+     "A shadow"
+    ],
+    "answer": 1,
+    "explanation": "In an optical fibre, light hits the boundary at angles greater than the critical angle, so it reflects entirely and stays inside.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Long-wave radio signals (wavelength about 1500 m) can be received behind hills, but television signals (wavelength about 0.5 m) often cannot. What is the best explanation?",
+    "options": [
+     "Longer wavelengths diffract more around large obstacles",
+     "Television waves travel more slowly",
+     "Radio waves are longitudinal",
+     "Hills absorb only television waves"
+    ],
+    "answer": 0,
+    "explanation": "Diffraction is greater when the wavelength is comparable to the obstacle or gap size. 1500 m waves bend around hills, 0.5 m waves do not.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Water waves with wavelength 0.040 m pass through a gap in a barrier. For which gap will the waves spread out into almost circular wavefronts?",
+    "options": [
+     "0.4 m",
+     "4 m",
+     "The gap makes no difference",
+     "0.04 m"
+    ],
+    "answer": 3,
+    "explanation": "When the gap is equal to the wavelength, diffraction is greatest and the wavefronts become almost semicircular.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student is investigating refraction and measures the angles of incidence and refraction for a glass block, plotting sin i against sin r. The points form a straight line through the origin with gradient 1.5. Which statement is best supported?",
+    "options": [
+     "The angle of refraction is always 1.5 times the angle of incidence",
+     "The glass has a speed of 1.5 m/s",
+     "The ratio sin i ÷ sin r is constant, so the refractive index is 1.5",
+     "Light speeds up in the glass by a factor of 1.5"
+    ],
+    "answer": 2,
+    "explanation": "A constant gradient shows sin i ÷ sin r is constant for that material, which is the refractive index, 1.5. The straight line is for sines, not angles.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A wave passes into a medium where it travels more slowly. Which description is correct?",
+    "options": [
+     "Frequency increased, wavelength unchanged, bends away from the normal",
+     "Frequency unchanged, wavelength shorter, bends towards the normal",
+     "Frequency unchanged, wavelength longer, bends towards the normal",
+     "Frequency decreased, wavelength shorter, bends away from the normal"
+    ],
+    "answer": 1,
+    "explanation": "The source sets the frequency. v = fλ so smaller v means shorter λ. Slower speed makes the wave bend towards the normal.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A wave of wavelength 0.020 m meets a gap of width 0.20 m and then a gap of width 0.020 m. How do the diffraction patterns compare?",
+    "options": [
+     "Little spreading through the wide gap and much more through the narrow gap",
+     "Same amount of spreading in both",
+     "More spreading through the wide gap",
+     "No waves pass through the narrow gap"
+    ],
+    "answer": 0,
+    "explanation": "Diffraction is most noticeable when the gap is about the same size as the wavelength. Ten times larger leads to little spreading.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Reflection\nWhen a wave hits a surface it can bounce back. This is **reflection**. The **normal** is a line drawn at 90° to the surface. The **law of reflection** states that the angle of incidence equals the angle of reflection, both measured from the normal. A rough surface scatters light in many directions (diffuse reflection) while a smooth surface such as a mirror gives a clear image. Echoes are reflected sound waves.\n\n## Refraction\n**Refraction** is the change of direction of a wave when it passes from one medium to another, caused by a change in speed. When light goes from air into glass or water it slows down and bends **towards the normal**. When it goes from glass back to air it speeds up and bends **away from the normal**. If a wave hits the boundary at 90° (along the normal) it does not change direction but its speed still changes.\n- The **frequency does not change** because it is set by the source.\n- Since v = f × λ, slower speed means a shorter wavelength.\nWorked example: in a ripple tank, deep-water waves with f = 6.0 Hz and v = 0.30 m/s have a wavelength 0.30 ÷ 6.0 = 0.050 m. In shallow water v = 0.18 m/s, so wavelength = 0.18 ÷ 6.0 = 0.030 m.\nThe **refractive index** of a material is n = sin i ÷ sin r. For i = 45° and r = 28°, n = 0.7071 ÷ 0.4695 = 1.5, which is typical for glass.\n\n## Total internal reflection\nWhen light inside glass hits the boundary with air at an angle bigger than the **critical angle**, all of it is reflected. This is **total internal reflection**. It makes optical fibres work: the light bounces along inside the fibre and carries data, and it is also used in some prisms and reflectors.\n\n## Diffraction\n**Diffraction** is the spreading out of waves as they pass through a gap or around the edge of an obstacle. The wavelength and frequency stay the same.\n- The effect is greatest when the gap is **about the same size as the wavelength**.\n- A gap much wider than the wavelength gives little spreading, and straight waves pass through.\nThis explains why you can hear around a corner (sound wavelength is roughly a metre for speech, similar to a doorway) but not see around it (the wavelength of light is about 500 nm). It also explains why long-wave radio signals can be received behind hills, while shorter-wavelength television signals are more easily blocked.\n\n## Common mistakes\n- Measuring angles from the surface instead of from the normal.\n- Saying the frequency changes during refraction. It does not.\n- Believing that the wavelength changes in diffraction. It stays the same.\n- Saying a wider gap diffracts more. Spreading is greatest for a gap close to the wavelength.\n\n## How this is examined\nTypical tasks are ray diagrams, ripple tank data, calculations with v = fλ in two media, explaining a real situation (hearing around a corner, optical fibres) and planning an investigation into refraction, for example plotting sin i against sin r and checking it is a straight line.\n\nExam tip: In explanations, name the property that changes (speed), say what stays the same (frequency), and link both to the outcome (wavelength or direction).",
+  "flashcards": [
+   {
+    "front": "Law of reflection",
+    "back": "Angle of incidence = angle of reflection, both measured from the normal."
+   },
+   {
+    "front": "Normal",
+    "back": "An imaginary line at 90° to the surface at the point where the ray meets it. All angles are measured from it."
+   },
+   {
+    "front": "Refraction",
+    "back": "A change in direction of a wave when its speed changes on entering a different medium."
+   },
+   {
+    "front": "Light from air into glass",
+    "back": "It slows down and bends towards the normal. Leaving glass into air it bends away from the normal."
+   },
+   {
+    "front": "What stays the same in refraction?",
+    "back": "The frequency. Speed and wavelength change together (v = fλ)."
+   },
+   {
+    "front": "Refractive index",
+    "back": "n = sin i ÷ sin r, where i is the angle of incidence in air and r the angle of refraction in the material."
+   },
+   {
+    "front": "Total internal reflection",
+    "back": "All light is reflected inside a denser medium when the angle of incidence exceeds the critical angle. Used in optical fibres."
+   },
+   {
+    "front": "Diffraction",
+    "back": "Waves spread out as they pass through a gap or round an edge. Wavelength and frequency do not change."
+   },
+   {
+    "front": "When is diffraction greatest?",
+    "back": "When the gap width is about the same as the wavelength."
+   }
+  ]
+ },
+ {
+  "subject": "physics",
+  "grade": 5,
+  "topic": "Wave Properties",
+  "subTopic": "Electromagnetic Waves and Their Applications",
+  "questions": [
+   {
+    "content": "Which electromagnetic wave has the longest wavelength?",
+    "options": [
+     "Gamma rays",
+     "Radio waves",
+     "X-rays",
+     "Visible light"
+    ],
+    "answer": 1,
+    "explanation": "The spectrum from longest to shortest wavelength is radio, microwave, infrared, visible, ultraviolet, X-ray, gamma.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which type of electromagnetic radiation is used to cook food in a microwave oven?",
+    "options": [
+     "Microwaves",
+     "Infrared",
+     "Ultraviolet",
+     "Radio waves"
+    ],
+    "answer": 0,
+    "explanation": "Microwaves are absorbed by water molecules in food, which heats it.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What do all electromagnetic waves have in common?",
+    "options": [
+     "They have the same wavelength",
+     "They have the same frequency",
+     "They are all visible",
+     "They travel at the same speed in a vacuum"
+    ],
+    "answer": 3,
+    "explanation": "All electromagnetic waves travel at 3.0 × 10⁸ m/s in a vacuum (and almost this in air).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which radiation is used in TV remote controls?",
+    "options": [
+     "Ultraviolet",
+     "X-rays",
+     "Infrared",
+     "Gamma rays"
+    ],
+    "answer": 2,
+    "explanation": "Infrared pulses carry signals from a remote control to a sensor on the television.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which type of electromagnetic wave is used to see broken bones?",
+    "options": [
+     "Radio waves",
+     "X-rays",
+     "Microwaves",
+     "Infrared"
+    ],
+    "answer": 1,
+    "explanation": "X-rays pass through soft tissue but are absorbed by dense bone, giving an image.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which list shows the electromagnetic waves in order of increasing frequency?",
+    "options": [
+     "Radio, microwave, infrared, visible, ultraviolet, X-ray, gamma",
+     "Gamma, X-ray, ultraviolet, visible, infrared, microwave, radio",
+     "Radio, infrared, microwave, visible, ultraviolet, X-ray, gamma",
+     "Visible, infrared, microwave, radio, ultraviolet, X-ray, gamma"
+    ],
+    "answer": 0,
+    "explanation": "Frequency rises as wavelength falls, going from radio waves to gamma rays.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A radio station broadcasts at a frequency of 100 MHz. The speed of radio waves is 3.0 × 10⁸ m/s. What is the wavelength?",
+    "options": [
+     "0.33 m",
+     "3.0 × 10⁶ m",
+     "30 m",
+     "3.0 m"
+    ],
+    "answer": 3,
+    "explanation": "Wavelength = speed ÷ frequency = 3.0 × 10⁸ ÷ 1.0 × 10⁸ = 3.0 m.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A microwave oven uses waves of frequency 2.45 GHz. What is the wavelength? (c = 3.0 × 10⁸ m/s)",
+    "options": [
+     "8.2 m",
+     "1.2 × 10¹⁸ m",
+     "0.12 m",
+     "0.82 m"
+    ],
+    "answer": 2,
+    "explanation": "2.45 GHz = 2.45 × 10⁹ Hz. Wavelength = 3.0 × 10⁸ ÷ 2.45 × 10⁹ ≈ 0.12 m.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why should people limit their exposure to ultraviolet radiation from the Sun?",
+    "options": [
+     "It makes the body too cold",
+     "It can damage skin cells and cause skin cancer",
+     "It causes radio interference",
+     "It is not absorbed by skin"
+    ],
+    "answer": 1,
+    "explanation": "UV carries enough energy to damage DNA and can cause sunburn, eye damage and skin cancer.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which radiation is used to sterilise medical equipment and to treat cancer?",
+    "options": [
+     "Gamma rays",
+     "Radio waves",
+     "Microwaves",
+     "Visible light"
+    ],
+    "answer": 0,
+    "explanation": "Gamma rays are highly penetrating and ionising. They kill microbes and cancer cells.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Thermal imaging cameras detect which radiation?",
+    "options": [
+     "Ultraviolet",
+     "X-rays",
+     "Radio waves",
+     "Infrared"
+    ],
+    "answer": 3,
+    "explanation": "All objects emit infrared radiation, and hotter objects emit more, so a camera can build an image from temperature differences.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Optical fibres for telephone and internet signals carry which type of radiation?",
+    "options": [
+     "Gamma rays",
+     "X-rays",
+     "Infrared or visible light",
+     "Radio waves"
+    ],
+    "answer": 2,
+    "explanation": "Pulses of infrared or visible light travel along fibres by total internal reflection.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which electromagnetic radiation is used for satellite TV links and mobile phone signals?",
+    "options": [
+     "Gamma rays",
+     "Microwaves",
+     "X-rays",
+     "Ultraviolet"
+    ],
+    "answer": 1,
+    "explanation": "Microwaves pass through the atmosphere and can be sent in narrow beams, so they are used for satellites and mobile phones.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Visible light has a wavelength of 500 nm in air. What is its frequency? (c = 3.0 × 10⁸ m/s, 1 nm = 1 × 10⁻⁹ m)",
+    "options": [
+     "6.0 × 10¹⁴ Hz",
+     "1.5 × 10¹⁶ Hz",
+     "6.0 × 10⁻¹⁶ Hz",
+     "1.7 × 10⁶ Hz"
+    ],
+    "answer": 0,
+    "explanation": "Frequency = speed ÷ wavelength = 3.0 × 10⁸ ÷ 5.0 × 10⁻⁷ = 6.0 × 10¹⁴ Hz.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A radar pulse is sent to an aircraft and the reflection returns 2.0 ms later (1 ms = 0.001 s). The speed of the wave is 3.0 × 10⁸ m/s. How far away is the aircraft?",
+    "options": [
+     "6.0 × 10⁵ m",
+     "1.5 × 10⁵ m",
+     "3.0 × 10⁸ m",
+     "3.0 × 10⁵ m"
+    ],
+    "answer": 3,
+    "explanation": "The pulse travels there and back: 3.0 × 10⁸ × 0.002 = 6.0 × 10⁵ m. The aircraft is half of this, 3.0 × 10⁵ m.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which is the best explanation of why X-rays and gamma rays are more dangerous than radio waves?",
+    "options": [
+     "They travel faster than radio waves",
+     "They are longitudinal waves",
+     "They have much higher frequency and energy, so they can ionise atoms and damage DNA",
+     "They have a longer wavelength"
+    ],
+    "answer": 2,
+    "explanation": "All electromagnetic waves travel at the same speed. Higher frequency means more energy per photon, and X-rays and gamma rays have enough to ionise.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two engineers argue: one says mobile phone microwaves are as dangerous as X-rays because both are electromagnetic. Which evaluation is best?",
+    "options": [
+     "Correct: all electromagnetic waves are equally harmful",
+     "Incorrect: microwaves have much lower energy and are non-ionising, though they can cause heating",
+     "Incorrect: microwaves are ionising but at lower speeds",
+     "Correct: they have the same frequency"
+    ],
+    "answer": 1,
+    "explanation": "Danger depends on the energy carried. Mobile microwaves cannot ionise atoms. Their main effect is slight heating of tissue, which is why exposure limits exist.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A company wants to detect forged banknotes by checking invisible markings that glow under a light source. Which radiation is most suitable?",
+    "options": [
+     "Ultraviolet",
+     "Gamma rays",
+     "Microwaves",
+     "Radio waves"
+    ],
+    "answer": 0,
+    "explanation": "Fluorescent security inks absorb ultraviolet radiation and re-emit it as visible light. UV is also much safer than gamma at these levels.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## The electromagnetic spectrum\nElectromagnetic (EM) waves are a family of **transverse** waves that carry energy. In order of **increasing frequency** (and decreasing wavelength) they are: radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, gamma rays. A useful way to remember the order is to learn it by heart, then check using the rule that as frequency rises, wavelength falls.\nAll EM waves:\n- travel at the same speed in a vacuum, **3.0 × 10⁸ m/s**;\n- are transverse waves, and can travel through a vacuum;\n- transfer energy, and can be reflected, refracted and diffracted;\n- obey v = f × λ.\nHigher-frequency waves carry more energy, so they are more dangerous.\n\n## Calculations\nWorked example 1: a radio station broadcasts at 100 MHz = 1.0 × 10⁸ Hz. Wavelength = 3.0 × 10⁸ ÷ 1.0 × 10⁸ = 3.0 m.\nWorked example 2: green light has a wavelength of 500 nm = 5.0 × 10⁻⁷ m. Frequency = 3.0 × 10⁸ ÷ 5.0 × 10⁻⁷ = 6.0 × 10¹⁴ Hz.\nRadar and echo-type questions use distance = speed × time. The signal goes there and back, so halve the total distance.\n\n## Uses of each type\n- **Radio waves**: broadcasting TV and radio, communications. Long wavelengths diffract around hills.\n- **Microwaves**: satellite communications, mobile phones, Wi-Fi, and cooking in microwave ovens (water in food absorbs the waves and heats up). Microwave ovens use about 2.45 GHz, a wavelength of about 0.12 m.\n- **Infrared**: remote controls, thermal imaging, electric heaters, grills, and optical fibre communications.\n- **Visible light**: seeing, photography, optical fibres.\n- **Ultraviolet**: security markings, sterilising water, fluorescent lamps, sun tanning.\n- **X-rays**: medical imaging of bones, and airport baggage scanners. Dense bone absorbs more, so shows up on the image.\n- **Gamma rays**: sterilising medical equipment and food, and treating cancer.\n\n## Hazards\n- **Microwaves**: internal heating of body tissue. Mobile phone use is regulated, but there is no strong evidence of harm at permitted levels.\n- **Infrared**: skin burns.\n- **Ultraviolet**: sunburn, eye damage and skin cancer, so use sunscreen and eye protection.\n- **X-rays and gamma rays**: ionising, which can damage cells and cause cancer. Doses are kept low and the exposure time as short as possible, with shielding such as lead aprons.\n\n## Common mistakes\n- Thinking higher-frequency waves travel faster. They all travel at the same speed in a vacuum.\n- Forgetting to convert prefixes such as MHz, GHz and nm.\n- Saying all EM radiation is ionising. Only UV (higher part), X-rays and gamma are.\n- Mixing up the order. Learn it as a set from radio to gamma.\n\n## How this is examined\nExpect a table of the spectrum with missing entries, a wave-equation calculation using standard form, and a short evaluation of the benefits and risks of a technology, for example whether to use X-rays or ultrasound for a medical scan. Criterion D questions reward weighing risks and benefits and giving a judgement.\n\nExam tip: To explain a use, link the property of the wave to the job, for example \"microwaves are absorbed by water, so they heat food\" or \"X-rays are absorbed by bone but pass through soft tissue\".",
+  "flashcards": [
+   {
+    "front": "Order of the EM spectrum (low to high frequency)",
+    "back": "Radio, microwave, infrared, visible, ultraviolet, X-ray, gamma."
+   },
+   {
+    "front": "Speed of all EM waves in a vacuum",
+    "back": "3.0 × 10⁸ m/s."
+   },
+   {
+    "front": "What changes along the EM spectrum?",
+    "back": "Frequency and energy increase, wavelength decreases, from radio waves to gamma rays."
+   },
+   {
+    "front": "Uses of microwaves",
+    "back": "Satellite and mobile phone communications, Wi-Fi, and cooking (water absorbs them)."
+   },
+   {
+    "front": "Uses of infrared",
+    "back": "Remote controls, thermal imaging, heaters and grills, short-range data and optical fibres."
+   },
+   {
+    "front": "Uses of ultraviolet",
+    "back": "Security markings, fluorescent lamps, sterilising water. Dangers: skin cancer and eye damage."
+   },
+   {
+    "front": "Uses of X-rays",
+    "back": "Imaging bones and checking baggage. Absorbed by dense materials such as bone. Ionising."
+   },
+   {
+    "front": "Uses of gamma rays",
+    "back": "Sterilising medical equipment and food, and treating cancer. Highly penetrating and ionising."
+   },
+   {
+    "front": "Wave equation for EM waves",
+    "back": "c = f × λ, where c = 3.0 × 10⁸ m/s. Convert MHz, GHz and nm to standard form first."
+   }
+  ]
+ }
+]

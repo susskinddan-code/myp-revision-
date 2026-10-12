@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "integrated-science",
+  "grade": 5,
+  "topic": "Energy and Heat",
+  "subTopic": "Energy Stores, Transfers and Efficiency",
+  "questions": [
+   {
+    "content": "What does the principle of conservation of energy state?",
+    "options": [
+     "Energy is used up when work is done",
+     "Energy cannot be created or destroyed, only transferred or dissipated",
+     "Energy is created in power stations",
+     "Energy disappears as heat"
+    ],
+    "answer": 1,
+    "explanation": "The total energy before and after a change is the same.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In which store is energy kept in a stretched spring?",
+    "options": [
+     "Kinetic",
+     "Thermal",
+     "Nuclear",
+     "Elastic potential"
+    ],
+    "answer": 3,
+    "explanation": "Stretching or compressing an object stores elastic potential energy.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a chemical energy store?",
+    "options": [
+     "Food or fuel",
+     "A moving car",
+     "A hot cup of tea",
+     "A stretched elastic band"
+    ],
+    "answer": 0,
+    "explanation": "Chemical energy is released in reactions such as respiration and combustion.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A filament lamp transfers electrical energy. Which output is the useful energy?",
+    "options": [
+     "Heat",
+     "Sound",
+     "Light",
+     "Chemical energy"
+    ],
+    "answer": 2,
+    "explanation": "The lamp is meant to produce light. Most of the energy goes to the surroundings as heat.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which equation defines efficiency?",
+    "options": [
+     "Total energy input ÷ useful energy output",
+     "Wasted energy ÷ useful energy",
+     "Useful energy output ÷ total energy input",
+     "Useful power × time"
+    ],
+    "answer": 2,
+    "explanation": "Efficiency compares the useful output with the total input and cannot exceed 100%.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A device takes in 500 J and transfers 400 J usefully. What is its efficiency?",
+    "options": [
+     "80%",
+     "125%",
+     "20%",
+     "8%"
+    ],
+    "answer": 0,
+    "explanation": "400 ÷ 500 = 0.80, which is 80%.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A motor is supplied with 2000 J and wastes 500 J as heat and sound. What is its efficiency?",
+    "options": [
+     "25%",
+     "80%",
+     "33%",
+     "75%"
+    ],
+    "answer": 3,
+    "explanation": "Useful output = 2000 − 500 = 1500 J. 1500 ÷ 2000 = 75%.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a Sankey diagram, what does a wider arrow show?",
+    "options": [
+     "More time",
+     "More energy",
+     "Higher temperature",
+     "A faster device"
+    ],
+    "answer": 1,
+    "explanation": "The width of each arrow is drawn in proportion to the amount of energy.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is wasted energy described as 'dissipated'?",
+    "options": [
+     "It is destroyed",
+     "It is stored in the device",
+     "It turns into mass",
+     "It spreads out into the surroundings and is hard to use again"
+    ],
+    "answer": 3,
+    "explanation": "The total energy is conserved but spread out as thermal energy in the surroundings.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A 60 W filament lamp gives out 6 W as light. What is its efficiency?",
+    "options": [
+     "90%",
+     "10%",
+     "1%",
+     "66%"
+    ],
+    "answer": 1,
+    "explanation": "6 ÷ 60 = 0.10, which is 10%. The other 54 W is wasted as heat.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which describes the energy transfers in a battery-powered toy car moving along?",
+    "options": [
+     "Chemical → electrical → kinetic (with some wasted as heat and sound)",
+     "Kinetic → chemical → electrical",
+     "Thermal → chemical → kinetic",
+     "Electrical → chemical → gravitational"
+    ],
+    "answer": 0,
+    "explanation": "The battery's chemical store drives a current, which makes the motor turn.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How does lubricating a machine increase its efficiency?",
+    "options": [
+     "It increases the input energy",
+     "It makes the machine heavier",
+     "It reduces friction, so less energy is wasted as heat",
+     "It increases the useful power by creating energy"
+    ],
+    "answer": 2,
+    "explanation": "Less friction means less energy is dissipated as heat and sound.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A 2 kW electric heater runs for 3 hours. Electricity costs 30p per kWh. What is the cost?",
+    "options": [
+     "£1.80",
+     "£0.60",
+     "£18.00",
+     "£6.00"
+    ],
+    "answer": 0,
+    "explanation": "Energy = 2 × 3 = 6 kWh. Cost = 6 × 30p = 180p = £1.80.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Appliance A takes in 800 J and gives 600 J useful output. Appliance B takes in 500 J and gives 350 J. Which is more efficient?",
+    "options": [
+     "B, with 70% against 60%",
+     "A, with 60% against 70%",
+     "A, with 75% against 70%",
+     "They are equally efficient"
+    ],
+    "answer": 2,
+    "explanation": "A: 600 ÷ 800 = 75%. B: 350 ÷ 500 = 70%. B transfers less energy in total, but that is not the same as efficiency.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A company claims that its new engine is 120% efficient. What is the best evaluation?",
+    "options": [
+     "Possible if it is well lubricated",
+     "Impossible, because it would produce more energy than it was given",
+     "Possible if it is very large",
+     "Possible but only in cold weather"
+    ],
+    "answer": 1,
+    "explanation": "Efficiency cannot exceed 100% because energy cannot be created.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A motor lifts a 2 kg load through 1.5 m using 50 J of electrical energy. Taking g = 10 N/kg, what is the efficiency?",
+    "options": [
+     "30%",
+     "83%",
+     "40%",
+     "60%"
+    ],
+    "answer": 3,
+    "explanation": "Useful GPE = 2 × 10 × 1.5 = 30 J. 30 ÷ 50 = 60%.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An LED bulb uses 10 W and a filament bulb uses 60 W for the same light. Both are used for 1000 hours per year and electricity costs 30p per kWh. What is the yearly saving from using the LED?",
+    "options": [
+     "£3",
+     "£15",
+     "£18",
+     "£150"
+    ],
+    "answer": 1,
+    "explanation": "Power saved = 50 W = 0.05 kW. Energy saved = 0.05 × 1000 = 50 kWh. Cost saved = 50 × 0.30 = £15.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "1000 kg of water falls 50 m through a hydroelectric turbine. Taking g = 10 N/kg and a generator efficiency of 80%, how much electrical energy is produced?",
+    "options": [
+     "500 000 J",
+     "625 000 J",
+     "400 000 J",
+     "40 000 J"
+    ],
+    "answer": 2,
+    "explanation": "GPE = 1000 × 10 × 50 = 500 000 J. 80% of this is 400 000 J.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Energy stores and transfers\nEnergy is measured in joules (J). We think of energy as being held in stores. The main stores are:\n- **Kinetic**: movement.\n- **Gravitational potential**: height above the ground.\n- **Elastic potential**: stretched or squashed objects.\n- **Chemical**: fuels, food and batteries.\n- **Thermal**: the random motion of particles in a hot object.\n- **Nuclear**: the nucleus of atoms.\n\nEnergy is moved between stores by transfers such as mechanical work, electrical current, heating and radiation (light and sound). A battery-powered toy car transfers chemical energy to electrical energy and then to kinetic energy, with some energy wasted as heat and sound.\n\n## Conservation of energy\nEnergy is never created or destroyed, only transferred. In every transfer some energy is usually **wasted** or **dissipated**. This means it spreads out into the surroundings as thermal energy and cannot easily be used again. The total energy stays the same, but the useful energy decreases.\n\n## Efficiency\nEfficiency tells us how good a device is at transferring input energy into useful output energy:\n\nefficiency = useful energy output ÷ total energy input (× 100% for a percentage)\n\nWorked example: a motor takes in 2000 J and wastes 500 J. Useful output is 1500 J, so efficiency = 1500 ÷ 2000 = 0.75 or 75%. Efficiency can never be over 100%, because that would mean creating energy. A filament lamp that gives 6 W of light from 60 W is only 10% efficient. An LED lamp is much more efficient.\n\n## Sankey diagrams\nA Sankey diagram shows the energy flow with arrows. The width of the arrow is proportional to the amount of energy. The input arrow splits into a useful arrow and a wasted arrow, and the widths add up to the input.\n\n## Reducing waste\n- Lubrication reduces friction.\n- Insulation reduces unwanted heat transfer.\n- Using more efficient devices, such as LED lamps, saves energy and money.\n\n## Energy costs\nThe kilowatt-hour (kWh) is a unit of energy: energy (kWh) = power (kW) × time (h). A 2 kW heater used for 3 hours uses 6 kWh. At 30p per kWh this costs £1.80. For a lamp comparison, replacing a 60 W filament lamp with a 10 W LED lamp saves 50 W. Over 1000 hours that is 50 kWh, which is £15 at 30p per kWh. Even though the LED costs more to buy, it can repay its cost quickly.\n\n## Common mistakes\n- Saying energy is \"used up\" or \"lost\". Say it is transferred or dissipated.\n- Calculating efficiency the wrong way round.\n- Forgetting to convert W to kW and minutes to hours when using kWh.\n\n## How this is examined\nIn the eAssessment you could be given a Sankey diagram, a table of appliance data or a household electricity bill. You calculate efficiency and cost, compare devices, and evaluate sustainability. Criterion D tasks ask you to weigh the cost, the efficiency and the environmental effect, and to state assumptions such as hours of use.\n\nExam tip: In explanations, name the energy stores at the start and end of the transfer and say where the wasted energy goes. Show units for every step of a calculation.",
+  "flashcards": [
+   {
+    "front": "Conservation of energy",
+    "back": "Energy cannot be created or destroyed, only transferred between stores or dissipated into the surroundings."
+   },
+   {
+    "front": "Dissipated energy",
+    "back": "Wasted energy that spreads out into the surroundings, usually as thermal energy, and is hard to reuse."
+   },
+   {
+    "front": "Efficiency formula",
+    "back": "Efficiency = useful energy output ÷ total energy input (× 100% for a percentage). It can never exceed 100%."
+   },
+   {
+    "front": "Name six energy stores",
+    "back": "Kinetic, gravitational potential, elastic potential, chemical, thermal and nuclear."
+   },
+   {
+    "front": "Sankey diagram",
+    "back": "A diagram showing energy transfers. Arrow width is proportional to the amount of energy; useful and wasted arrows add up to the input."
+   },
+   {
+    "front": "Kilowatt-hour",
+    "back": "Energy (kWh) = power (kW) × time (h). Cost = kWh × price per kWh."
+   },
+   {
+    "front": "How to increase efficiency",
+    "back": "Reduce friction (lubricate), use insulation, and choose devices that waste less energy, such as LEDs."
+   },
+   {
+    "front": "Example of energy transfers in a hydroelectric station",
+    "back": "Gravitational potential → kinetic → electrical (with some wasted as heat and sound)."
+   },
+   {
+    "front": "Why can efficiency not be more than 100%?",
+    "back": "That would mean getting out more useful energy than was put in, which would create energy."
+   }
+  ]
+ },
+ {
+  "subject": "integrated-science",
+  "grade": 5,
+  "topic": "Energy and Heat",
+  "subTopic": "Heat Transfer and Thermal Physics",
+  "questions": [
+   {
+    "content": "How does heat travel through a solid metal rod?",
+    "options": [
+     "By convection",
+     "By conduction",
+     "By radiation only",
+     "By evaporation"
+    ],
+    "answer": 1,
+    "explanation": "Particles vibrate and pass on energy, and in metals free electrons help.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In which type of material does convection happen?",
+    "options": [
+     "Solids only",
+     "A vacuum",
+     "Metals only",
+     "Liquids and gases"
+    ],
+    "answer": 3,
+    "explanation": "Convection needs particles that can flow, so it happens in fluids.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which method of heat transfer can travel through a vacuum?",
+    "options": [
+     "Radiation",
+     "Conduction",
+     "Convection",
+     "Evaporation"
+    ],
+    "answer": 0,
+    "explanation": "Infrared radiation is an electromagnetic wave and needs no particles.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a good thermal insulator?",
+    "options": [
+     "Copper",
+     "Iron",
+     "Wool or trapped air",
+     "Aluminium"
+    ],
+    "answer": 2,
+    "explanation": "Poor conductors with trapped air slow heat transfer.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In which unit is the thermal energy transferred measured?",
+    "options": [
+     "Degree Celsius (°C)",
+     "Newton (N)",
+     "Joule (J)",
+     "Watt (W)"
+    ],
+    "answer": 2,
+    "explanation": "Temperature is in °C. Energy is in joules.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why are metals good conductors of heat?",
+    "options": [
+     "They contain free electrons that carry energy through the metal",
+     "They have no particles",
+     "They contain lots of trapped air",
+     "Their particles never vibrate"
+    ],
+    "answer": 0,
+    "explanation": "Free electrons move quickly and transfer energy quickly.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why does a heated fluid rise?",
+    "options": [
+     "It becomes heavier",
+     "Its particles stop moving",
+     "It becomes a solid",
+     "It expands and becomes less dense than the surrounding fluid"
+    ],
+    "answer": 3,
+    "explanation": "Warm fluid is less dense so it floats up, and cooler fluid sinks to replace it, forming a convection current.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which surface is the best absorber and emitter of infrared radiation?",
+    "options": [
+     "Shiny white",
+     "Dull black",
+     "Shiny silver",
+     "Dull white"
+    ],
+    "answer": 1,
+    "explanation": "Dark, matt surfaces absorb and emit radiation well. Shiny surfaces reflect it.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How much energy is needed to raise the temperature of 2 kg of water by 10 °C? (specific heat capacity 4200 J/kg°C)",
+    "options": [
+     "8400 J",
+     "840 J",
+     "42 000 J",
+     "84 000 J"
+    ],
+    "answer": 3,
+    "explanation": "Q = m × c × ΔT = 2 × 4200 × 10 = 84 000 J.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A 2000 W kettle with no energy losses heats 1.0 kg of water from 20 °C to 100 °C (c = 4200 J/kg°C). How long does it take?",
+    "options": [
+     "80 s",
+     "168 s",
+     "336 s",
+     "8.4 s"
+    ],
+    "answer": 1,
+    "explanation": "Q = 1.0 × 4200 × 80 = 336 000 J. Time = 336 000 ÷ 2000 = 168 s.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A vacuum flask has a double-walled glass bottle with a vacuum and silvered surfaces. What does the vacuum do?",
+    "options": [
+     "It stops conduction and convection between the walls",
+     "It stops radiation only",
+     "It makes the glass thicker",
+     "It heats the liquid inside"
+    ],
+    "answer": 0,
+    "explanation": "With no particles between the walls, conduction and convection cannot occur. The silver reflects radiation.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why does loft insulation reduce heating costs?",
+    "options": [
+     "It creates heat",
+     "It reflects sound",
+     "It traps air, which is a poor conductor and cannot circulate",
+     "It conducts heat away"
+    ],
+    "answer": 2,
+    "explanation": "Trapped air reduces conduction and convection so heat escapes more slowly.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A metal spoon and a wooden spoon in a cold room are at the same temperature. Why does the metal one feel colder?",
+    "options": [
+     "Metal conducts heat away from the hand faster",
+     "Metal is at a lower temperature",
+     "Wood is a better conductor",
+     "Wood has more thermal energy"
+    ],
+    "answer": 0,
+    "explanation": "The feeling of cold depends on the rate of heat transfer from the hand.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Four identical beakers of hot water are wrapped in different materials. After 10 min the temperature falls are: no wrap 30 °C, foam 12 °C, newspaper 18 °C and foil 25 °C. Which conclusion is best supported?",
+    "options": [
+     "Foil is the best insulator",
+     "Newspaper is the best insulator",
+     "Foam is the best insulator of those tested",
+     "All wrappings are equally good"
+    ],
+    "answer": 2,
+    "explanation": "The smallest drop in temperature means the least heat transfer. The variables to control include starting temperature, volume of water and wrapping thickness.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "At the seaside, during a sunny day, a breeze blows from the sea to the land. Which is the best explanation?",
+    "options": [
+     "Sea heats faster than land, so air above the sea rises",
+     "Land heats faster than the sea, so air above the land rises and cooler air moves in from the sea",
+     "The sea is always colder",
+     "Wind is created by waves"
+    ],
+    "answer": 1,
+    "explanation": "Water has a high specific heat capacity, so the sea warms slowly. Warm air over land rises and creates a convection current.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "0.50 kg of copper (c = 390 J/kg°C) cools from 100 °C to 20 °C. How much energy does it release?",
+    "options": [
+     "19 500 J",
+     "3900 J",
+     "156 000 J",
+     "15 600 J"
+    ],
+    "answer": 3,
+    "explanation": "Q = 0.50 × 390 × 80 = 15 600 J.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Students find the specific heat capacity of a metal block using an electric heater but do not insulate it. Their value is higher than the data-book value. What explains this?",
+    "options": [
+     "The block gained more energy than supplied",
+     "Some energy was lost to the surroundings, so the block gained less than the energy supplied",
+     "The thermometer measured mass",
+     "The heater created extra energy"
+    ],
+    "answer": 1,
+    "explanation": "Using too much energy in the calculation (energy supplied, not energy gained) makes c = Q ÷ (m × ΔT) too large. Insulating the block would improve the experiment.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Why does a gas conduct heat much worse than a solid?",
+    "options": [
+     "Gas particles do not move",
+     "Gas particles have no energy",
+     "Its particles are far apart so they collide less often to pass on energy",
+     "Gas particles are always heavier"
+    ],
+    "answer": 2,
+    "explanation": "Conduction depends on collisions or vibrations passing energy between neighbouring particles. In a gas they are widely spaced.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Temperature and thermal energy\nTemperature tells us how hot something is. It measures the average kinetic energy of the particles. Thermal energy (heat) is the total energy of the moving particles and is measured in joules. A bath of warm water holds more thermal energy than a cup of boiling water, though the cup has a higher temperature. Energy always flows from hot to cold.\n\n## Conduction\nConduction is the transfer of energy through a solid. Hot particles vibrate more strongly and pass energy to their neighbours. In metals, free electrons move through the metal carrying energy fast, so metals are good conductors. Non-metals, liquids and gases are poor conductors. Gases are the worst because their particles are far apart and collide less often. Materials that trap air, such as wool or foam, are good insulators. A metal spoon feels colder than a wooden one at the same temperature because metal draws heat from your hand faster.\n\n## Convection\nConvection happens in liquids and gases. When a fluid is heated, the particles move apart, so the fluid becomes less dense and rises. Cooler, denser fluid sinks to replace it, setting up a convection current. This explains radiators heating a room, sea breezes and why a freezer compartment is at the top of some fridges. Convection cannot happen in solids or a vacuum.\n\n## Radiation\nAll objects emit infrared radiation, and hotter objects emit more. Radiation is an electromagnetic wave, so it can travel through a vacuum, which is how the Sun's energy reaches Earth. Dull, black surfaces are the best absorbers and emitters. Shiny, white surfaces reflect radiation and are poor emitters.\n\n## Reducing heat transfer\nA vacuum flask has a vacuum between two walls to stop conduction and convection and silvered surfaces to reflect radiation. Houses use loft insulation, cavity wall insulation and double glazing, all of which trap air to reduce conduction and prevent convection.\n\n## Specific heat capacity\nThe energy needed to change the temperature of a substance is Q = m × c × ΔT, where c is the specific heat capacity in J/kg°C. For water c = 4200 J/kg°C. Heating 2 kg of water by 10 °C takes 2 × 4200 × 10 = 84 000 J. A 2000 W kettle needs 336 000 ÷ 2000 = 168 s to heat 1.0 kg of water from 20 °C to 100 °C, if there is no heat loss. Water has a high specific heat capacity, so the sea warms and cools more slowly than land, which causes sea breezes. In experiments, unwanted heat loss makes the measured c too large, so insulation is used.\n\n## Common mistakes\n- Confusing temperature and thermal energy.\n- Saying that insulators \"stop\" heat. They only slow transfer.\n- Saying that cold flows into a warm object.\n- Using the final temperature instead of the temperature change.\n\n## How this is examined\nTypical contexts are keeping a drink hot, insulating a house, solar water heaters or sea breezes. You analyse cooling data, name the method of transfer, calculate energy using Q = mcΔT, and evaluate a method by identifying sources of error.\n\nExam tip: Always name the method of heat transfer and the particle behaviour, for example \"free electrons carry energy in the metal\". Use the temperature change, not the final temperature, in calculations.",
+  "flashcards": [
+   {
+    "front": "Conduction",
+    "back": "Transfer of energy through a solid by particle vibrations and, in metals, by free electrons."
+   },
+   {
+    "front": "Convection",
+    "back": "Energy transfer in fluids: warmer, less dense fluid rises and cooler, denser fluid sinks, forming a convection current."
+   },
+   {
+    "front": "Radiation",
+    "back": "Transfer by infrared electromagnetic waves; needs no particles, so it can travel through a vacuum."
+   },
+   {
+    "front": "Best absorbers and emitters of radiation",
+    "back": "Dull, black surfaces. Shiny, light surfaces reflect radiation and emit poorly."
+   },
+   {
+    "front": "How does a vacuum flask work?",
+    "back": "Vacuum stops conduction and convection, silvered walls reflect radiation, and the stopper reduces heat loss."
+   },
+   {
+    "front": "Specific heat capacity equation",
+    "back": "Q = m × c × ΔT. Q in joules, m in kg, c in J/kg°C, ΔT is the temperature change in °C."
+   },
+   {
+    "front": "Specific heat capacity of water",
+    "back": "About 4200 J/kg°C: water needs a lot of energy to warm up and releases a lot as it cools."
+   },
+   {
+    "front": "Why do metals conduct heat well?",
+    "back": "Free electrons carry energy rapidly through the metal."
+   },
+   {
+    "front": "Why is trapped air a good insulator?",
+    "back": "Gases are poor conductors, and trapped air cannot form convection currents."
+   }
+  ]
+ },
+ {
+  "subject": "integrated-science",
+  "grade": 5,
+  "topic": "Energy and Heat",
+  "subTopic": "Energy Resources and Sustainability",
+  "questions": [
+   {
+    "content": "Which of these is a renewable energy resource?",
+    "options": [
+     "Coal",
+     "Wind",
+     "Natural gas",
+     "Oil"
+    ],
+    "answer": 1,
+    "explanation": "Renewable resources are replaced naturally as fast as they are used.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a non-renewable energy resource?",
+    "options": [
+     "Solar",
+     "Tidal",
+     "Wind",
+     "Natural gas"
+    ],
+    "answer": 3,
+    "explanation": "Fossil fuels take millions of years to form.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which gas released by burning fossil fuels contributes to global warming?",
+    "options": [
+     "Carbon dioxide",
+     "Oxygen",
+     "Nitrogen",
+     "Helium"
+    ],
+    "answer": 0,
+    "explanation": "CO₂ traps infrared radiation in the atmosphere.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What energy transfer does a wind turbine make?",
+    "options": [
+     "Chemical to electrical",
+     "Nuclear to kinetic",
+     "Kinetic energy of the wind to electrical energy",
+     "Thermal to chemical"
+    ],
+    "answer": 2,
+    "explanation": "Moving air turns the blades, which turn a generator.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does sustainable mean in the context of energy?",
+    "options": [
+     "Using energy as fast as possible",
+     "Using only coal",
+     "Meeting present needs without harming future generations' ability to meet theirs",
+     "Using one resource only"
+    ],
+    "answer": 2,
+    "explanation": "Sustainable use balances current benefits with long-term environmental, social and economic effects.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a main disadvantage of solar power?",
+    "options": [
+     "Output depends on sunlight and varies with weather and time of day",
+     "It releases large amounts of CO₂ when used",
+     "It uses up fuel quickly",
+     "It cannot be used in any country"
+    ],
+    "answer": 0,
+    "explanation": "Solar cells produce no emissions while running but are intermittent.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is a major advantage and a major disadvantage of nuclear power?",
+    "options": [
+     "No waste; uses fossil fuel",
+     "Cheap to build; unreliable",
+     "Renewable; causes acid rain",
+     "Very low CO₂ emissions in operation; radioactive waste"
+    ],
+    "answer": 3,
+    "explanation": "Nuclear power stations release little CO₂ but need long-term storage for radioactive waste and have high building costs.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is a main disadvantage of hydroelectric power?",
+    "options": [
+     "It releases a lot of CO₂ when running",
+     "Dams can flood habitats and displace people",
+     "It only works at night",
+     "It needs coal"
+    ],
+    "answer": 1,
+    "explanation": "Hydro is reliable and low-carbon in operation but changes ecosystems.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which sequence describes energy transfers in a coal-fired power station?",
+    "options": [
+     "Nuclear → chemical → electrical",
+     "Kinetic → chemical → thermal",
+     "Electrical → thermal → chemical",
+     "Chemical → thermal → kinetic → electrical"
+    ],
+    "answer": 3,
+    "explanation": "Coal burns to heat water into steam, the steam turns turbines, and generators produce electricity.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A wind farm has 10 turbines each rated at 2 MW but on average produces 30% of its rated output. What is the average power output of the farm?",
+    "options": [
+     "20 MW",
+     "6 MW",
+     "0.6 MW",
+     "60 MW"
+    ],
+    "answer": 1,
+    "explanation": "Total rated power = 20 MW. 30% of 20 = 6 MW.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How does carbon dioxide cause the greenhouse effect to increase?",
+    "options": [
+     "It absorbs infrared radiation from Earth and re-emits it, warming the atmosphere",
+     "It reflects all sunlight",
+     "It makes the atmosphere thinner",
+     "It absorbs ultraviolet only"
+    ],
+    "answer": 0,
+    "explanation": "More CO₂ traps more energy near the surface.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why might biofuels be called low-carbon, and what is one issue?",
+    "options": [
+     "They release no CO₂ at all; they are cheaper",
+     "They are non-renewable; they are clean",
+     "Plants absorb CO₂ as they grow; but growing them can take land from food crops",
+     "They are made by nuclear reactions; they last forever"
+    ],
+    "answer": 2,
+    "explanation": "The CO₂ released when burning was taken in earlier, but land use, fertilisers and transport add to the impact.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is geothermal energy?",
+    "options": [
+     "Using thermal energy from hot rocks underground",
+     "Using tides to turn turbines",
+     "Using wind to heat water",
+     "Using sunlight for photosynthesis"
+    ],
+    "answer": 0,
+    "explanation": "Hot rock heats water into steam that can turn turbines or heat buildings.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a hypothetical comparison, source X releases 0.90 kg of CO₂ per kWh and source Z releases 0.01 kg per kWh. How much CO₂ would be avoided by supplying 1000 kWh from Z instead of X?",
+    "options": [
+     "900 kg",
+     "10 kg",
+     "890 kg",
+     "91 kg"
+    ],
+    "answer": 2,
+    "explanation": "1000 × (0.90 − 0.01) = 890 kg.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Wind farms sometimes produce more electricity than needed. A planner proposes pumped storage. Why is it useful?",
+    "options": [
+     "It makes wind blow more often",
+     "Surplus electricity pumps water uphill so the stored GPE can generate electricity when wind is low",
+     "It removes the need for turbines",
+     "It creates energy from nothing"
+    ],
+    "answer": 1,
+    "explanation": "Storage helps cope with intermittent supply by saving energy for when it is needed.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A solar panel produces 300 kWh each year and replaces electricity from a grid that releases 0.4 kg of CO₂ per kWh. Over 20 years how much CO₂ is avoided?",
+    "options": [
+     "120 kg",
+     "6000 kg",
+     "24 000 kg",
+     "2400 kg"
+    ],
+    "answer": 3,
+    "explanation": "300 × 20 = 6000 kWh. 6000 × 0.4 = 2400 kg.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A newspaper says 'electric cars produce zero emissions'. Which is the best evaluation?",
+    "options": [
+     "It is true because electricity is clean",
+     "They have no exhaust emissions, but the total effect depends on how the electricity and batteries are produced",
+     "It is false because electric cars burn fuel",
+     "It is true because batteries are made from nothing"
+    ],
+    "answer": 1,
+    "explanation": "A fair evaluation considers the whole life cycle and the electricity mix.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A household uses 4000 kWh a year. A solar system produces 3600 kWh a year but mainly in daytime. Which is the best evaluation?",
+    "options": [
+     "It meets 100% of demand at all times",
+     "It meets 10% of the demand",
+     "It meets about 90% of annual demand in total but cannot supply night-time needs without storage or the grid",
+     "It is useless because it only works in summer"
+    ],
+    "answer": 2,
+    "explanation": "3600 ÷ 4000 = 90% on an annual basis. Matching supply with demand at different times is a limitation.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Energy resources\nEnergy resources are used to generate electricity, heat buildings and fuel transport. They can be **non-renewable** (they will run out) or **renewable** (naturally replaced).\n\n**Non-renewable**: coal, oil and natural gas (fossil fuels) and nuclear fuels (uranium). Fossil fuels release carbon dioxide when burned, which strengthens the greenhouse effect and contributes to global warming. Burning coal and oil also releases sulfur dioxide, which causes acid rain. Nuclear power stations produce almost no CO₂ in operation, but they produce radioactive waste that needs safe storage for a long time, and they are expensive to build and decommission.\n\n**Renewable**: solar, wind, hydroelectric, tidal, geothermal and biofuels.\n- **Solar**: no emissions while running but depends on sunlight and the weather.\n- **Wind**: no fuel needed, but depends on wind and can affect landscapes and birds.\n- **Hydroelectric**: reliable and fast to start, but dams can flood habitats and move people.\n- **Tidal**: very predictable, but barrages affect estuaries and cost a lot.\n- **Geothermal**: uses heat from hot rocks, only available in some locations.\n- **Biofuels**: made from plants. They are considered low-carbon since plants absorb CO₂ as they grow, but land use, fertilisers and transport add emissions.\n\n## The greenhouse effect\nGreenhouse gases such as carbon dioxide and methane absorb infrared radiation emitted by Earth and re-emit it, which keeps Earth warm. Increasing the amount of these gases traps more energy and raises average temperatures.\n\n## Calculating and comparing\nPower stations transfer energy through stages such as chemical to thermal to kinetic to electrical. Each stage wastes energy.\n\nCapacity and output: a wind farm with 10 turbines each rated at 2 MW has a rated power of 20 MW. If the farm produces on average 30% of its rated power, the average output is 6 MW. Carbon savings: if a solar system produces 300 kWh a year and the grid emits 0.4 kg of CO₂ per kWh, it avoids 300 × 0.4 = 120 kg per year, or 2400 kg over 20 years.\n\n## Sustainability\nA sustainable choice meets present needs without damaging the ability of future generations to meet theirs. When evaluating, consider cost, reliability, emissions, land use, waste and who is affected. No energy source is perfect. Energy storage, such as pumped storage hydro or batteries, helps manage the intermittent supply from wind and solar. Saving energy through insulation and efficient devices is often the cheapest way to cut emissions.\n\n## Common mistakes\n- Saying that renewable sources have no impact at all.\n- Saying that nuclear power causes global warming from its operation, or that it is renewable.\n- Mixing up the greenhouse effect with the ozone layer.\n- Giving only advantages or only disadvantages in a \"discuss\" or \"evaluate\" answer.\n\n## How this is examined\nIn criterion D contexts you may read about a town choosing between a wind farm, a solar farm and a gas station. You use data tables for cost and emissions, calculate savings, state assumptions, and judge which option is most sustainable, considering different stakeholders.\n\nExam tip: For \"evaluate\" or \"discuss\" questions give at least one advantage and one disadvantage, support them with data from the stimulus, and reach a justified conclusion.",
+  "flashcards": [
+   {
+    "front": "Renewable energy resource",
+    "back": "A resource that is naturally replaced at the rate it is used, e.g. wind, solar, hydroelectric, tidal, geothermal, biofuels."
+   },
+   {
+    "front": "Non-renewable energy resource",
+    "back": "A resource that will run out, e.g. coal, oil, natural gas and nuclear fuel."
+   },
+   {
+    "front": "Why do fossil fuels cause global warming?",
+    "back": "Burning them releases carbon dioxide, a greenhouse gas that absorbs infrared radiation and traps energy."
+   },
+   {
+    "front": "Main problem with nuclear power",
+    "back": "It produces radioactive waste that must be stored safely for a long time; it is expensive to build and decommission."
+   },
+   {
+    "front": "Main problem with wind and solar",
+    "back": "They are intermittent: the output depends on the wind or sunlight, so storage or backup is needed."
+   },
+   {
+    "front": "Sustainability",
+    "back": "Meeting present needs without reducing the ability of future generations to meet their own needs."
+   },
+   {
+    "front": "Pumped storage",
+    "back": "Surplus electricity pumps water uphill; the water's GPE can be released through turbines to generate electricity when demand is high."
+   },
+   {
+    "front": "Average power of a wind farm",
+    "back": "Rated power × proportion of time/output achieved, e.g. 20 MW × 30% = 6 MW."
+   },
+   {
+    "front": "Greenhouse effect",
+    "back": "Gases such as CO₂ and methane absorb infrared radiation from Earth and re-emit it, warming the atmosphere."
+   }
+  ]
+ }
+]

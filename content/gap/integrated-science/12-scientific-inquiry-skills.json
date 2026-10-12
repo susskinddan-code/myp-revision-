@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "integrated-science",
+  "grade": 5,
+  "topic": "Scientific Inquiry Skills",
+  "subTopic": "Designing Fair Investigations",
+  "questions": [
+   {
+    "content": "In an investigation, what is the independent variable?",
+    "options": [
+     "The variable that is measured",
+     "The variable that the investigator changes",
+     "The variable kept the same",
+     "The result that is predicted"
+    ],
+    "answer": 1,
+    "explanation": "The independent variable is deliberately changed. The dependent variable is measured, and control variables are kept constant.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In an investigation on how temperature affects the rate of an enzyme reaction, what is the dependent variable?",
+    "options": [
+     "The rate of reaction",
+     "The temperature",
+     "The type of enzyme",
+     "The volume of solution"
+    ],
+    "answer": 0,
+    "explanation": "The rate is what you measure to see the effect of changing temperature.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why should an experiment be repeated several times?",
+    "options": [
+     "To change the independent variable",
+     "To prove the hypothesis is true",
+     "To make the experiment more dangerous",
+     "To identify anomalies and improve reliability"
+    ],
+    "answer": 3,
+    "explanation": "Repeats allow a mean to be calculated, anomalies to be spotted and random errors to be reduced.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a testable hypothesis?",
+    "options": [
+     "Hot water is nicer",
+     "Sugar is sweet",
+     "If the temperature of water increases, then sugar will dissolve faster",
+     "Scientists like experiments"
+    ],
+    "answer": 2,
+    "explanation": "A testable hypothesis states a relationship between variables that can be measured, ideally with a reason.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a control variable?",
+    "options": [
+     "The variable that is measured",
+     "A factor kept the same so the test is fair",
+     "The variable that is changed",
+     "The final conclusion"
+    ],
+    "answer": 1,
+    "explanation": "Control variables are kept constant so that only the independent variable affects the dependent variable.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A student tests how the mass of a trolley affects its speed down a ramp. Which is a control variable?",
+    "options": [
+     "The height of the ramp",
+     "The mass of the trolley",
+     "The speed",
+     "The student's name"
+    ],
+    "answer": 0,
+    "explanation": "The ramp height must stay the same. Mass is the independent variable and speed is the dependent variable.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student investigates how light intensity affects plant growth. One group of plants is placed in a bright room that is also warmer than the dark room. What is the main problem?",
+    "options": [
+     "The plants should be larger",
+     "Light cannot affect growth",
+     "The experiment has too many repeats",
+     "Temperature is a second variable that is not controlled"
+    ],
+    "answer": 3,
+    "explanation": "Temperature differs along with light, so any difference in growth could be due to either. This makes the test unfair.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is a control group used in a drug trial?",
+    "options": [
+     "To give all patients the drug",
+     "To make the trial cheaper",
+     "To compare with the group receiving the treatment",
+     "To avoid repeating the trial"
+    ],
+    "answer": 2,
+    "explanation": "A control group (often given a placebo) shows what happens without the treatment, so the effect of the drug can be isolated.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "To measure 5 cm³ of acid accurately, which is the best choice?",
+    "options": [
+     "A 250 cm³ beaker",
+     "A 10 cm³ measuring cylinder",
+     "A 1000 cm³ measuring cylinder",
+     "A 100 cm³ measuring cylinder"
+    ],
+    "answer": 1,
+    "explanation": "A smaller measuring instrument has a finer scale, giving a smaller percentage uncertainty for a small volume.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student plans to test the effect of temperature on dissolving using 0°C, 20°C, 40°C, 60°C and 80°C. Why is this a good choice of values?",
+    "options": [
+     "It covers a wide range with equal intervals",
+     "It uses only one temperature",
+     "It has an uneven spacing",
+     "It tests only the extremes"
+    ],
+    "answer": 0,
+    "explanation": "A wide range with equal intervals helps show the pattern clearly and allows a graph to be drawn.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is the best safety precaution when heating a liquid in a test tube?",
+    "options": [
+     "Heat the test tube while looking into it",
+     "Seal the test tube with a stopper",
+     "Touch the tube to check its temperature",
+     "Wear eye protection and point the tube away from people"
+    ],
+    "answer": 3,
+    "explanation": "Wear eye protection, use a holder, and point the tube away from yourself and others. Never seal a heated tube.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A hypothesis says: 'If concentration of salt increases, the mass of a potato slice decreases, because water leaves by osmosis.' Which part is the scientific explanation?",
+    "options": [
+     "If concentration of salt increases",
+     "The mass decreases",
+     "Because water leaves by osmosis",
+     "A potato slice"
+    ],
+    "answer": 2,
+    "explanation": "The 'because' clause links the prediction to scientific knowledge.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student measures reaction time with a ruler drop test. She carries out three trials with each of 10 volunteers. Why are 10 volunteers better than 1?",
+    "options": [
+     "It makes the test faster",
+     "It reduces the effect of individual differences",
+     "It removes all errors",
+     "It makes the independent variable change"
+    ],
+    "answer": 1,
+    "explanation": "A larger sample is more representative and reduces the effect of one unusual individual.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student records the mass of a balance as 0.3 g when nothing is on it. What type of error is this, and what should she do?",
+    "options": [
+     "Systematic (zero) error; subtract 0.3 g from every reading",
+     "Random error; take more readings",
+     "Anomaly; ignore the balance",
+     "Human error; blame the teacher"
+    ],
+    "answer": 0,
+    "explanation": "A zero error shifts all readings by the same amount. Correct it by subtracting or by re-zeroing the balance.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which plan gives the fairest test of whether detergent type affects how well stains are removed?",
+    "options": [
+     "Different cloths and stains for each detergent",
+     "Hot water for one detergent and cold for another",
+     "Each detergent used on a different day by a different person",
+     "Same cloth, same stain, same temperature and volume, and only the detergent changes"
+    ],
+    "answer": 3,
+    "explanation": "Everything except the detergent is kept constant, so only the independent variable can explain differences.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student's results are close together but all about 2 cm lower than the true value. What best describes the results?",
+    "options": [
+     "Accurate but not precise",
+     "Both accurate and precise",
+     "Precise but not accurate",
+     "Neither precise nor repeatable"
+    ],
+    "answer": 2,
+    "explanation": "Results that agree with each other are precise. Results that are far from the true value are not accurate, which suggests a systematic error.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student wants to investigate whether caffeine affects heart rate in volunteers. Which is the most important ethical step?",
+    "options": [
+     "Hide the purpose from the participants and give them a large dose",
+     "Get informed consent and make sure that participants can withdraw",
+     "Test only on animals",
+     "Choose participants who cannot refuse"
+    ],
+    "answer": 1,
+    "explanation": "Human participants should agree freely after being told the risks and be allowed to stop at any time. Doses should be safe.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which change would most improve the validity of a test of how fertiliser affects plant growth?",
+    "options": [
+     "Using the same plant species, soil and light for all plants and measuring growth the same way",
+     "Measuring only the tallest plant",
+     "Using different plant species in each group",
+     "Giving different amounts of water to groups"
+    ],
+    "answer": 0,
+    "explanation": "Validity means the investigation measures what it claims to. Controlling other variables and measuring consistently makes the conclusion valid.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Science is about asking questions that can be tested and then collecting evidence. A good investigation is planned carefully so that the results can be trusted. This is the heart of the MYP sciences Criterion B (inquiring and designing).\n\n## From question to hypothesis\nStart with a focused research question, for example: How does temperature affect the rate at which an enzyme breaks down starch? A **hypothesis** is a testable prediction, ideally with a scientific explanation: If the temperature increases (up to the optimum), the rate of reaction will increase, because particles have more kinetic energy so more collisions occur.\n\n## Variables\n- **Independent variable**: the one you change (for example temperature).\n- **Dependent variable**: the one you measure (for example time for the starch to disappear).\n- **Control variables**: everything else you keep constant (volume, concentration, enzyme type, pH). Name them and say how each is controlled.\nIf more than one thing changes, you cannot tell which caused the result. This is why the test is not fair.\n\n## Choosing method and apparatus\n- Choose a **range** and sensible **intervals**, for example 20, 30, 40, 50 and 60°C, to see a pattern.\n- Choose equipment with suitable **resolution**. To measure 5 cm³, a 10 cm³ measuring cylinder gives a smaller percentage uncertainty than a 100 cm³ one.\n- Plan **repeats** (at least three) so you can calculate a mean and spot anomalies.\n- Use a large enough **sample** where living things are involved, because individuals vary.\n- Include a **control** (comparison) group when testing a treatment, such as a placebo in a drug trial.\n- Write numbered, clear steps that another person could follow.\n\n## Errors, accuracy and precision\n- **Random errors** vary from reading to reading, for example timing a reaction by eye. Repeats and averaging reduce them.\n- **Systematic errors** shift all readings in the same direction, for example a balance that reads 0.3 g with nothing on it. Check zero readings and calibrate equipment.\n- **Accurate** results are close to the true value. **Precise** results are close to each other. A set of results can be precise but not accurate if there is a systematic error.\n- **Reliable** results can be repeated and **valid** results measure what the question is asking.\n\n## Safety and ethics\nComplete a risk assessment: hazard, risk, precaution. For example, hot water scalds, so use a heatproof mat and tongs. Wear eye protection when heating liquids or using chemicals. When using people or animals in an investigation, get informed consent from people, minimise harm and have clear reasons for the work.\n\n## How this is examined\nYou may be given a short scenario, for example a student wanting to test whether temperature affects dissolving. You then identify the variables, point out a flaw in the method, improve the design and justify your choices. Use phrases such as \"to make the test fair\", \"to improve reliability\" and \"so that only the independent variable changes\".\n\n## Common mistakes\n- Naming variables vaguely (say \"volume of water in cm³\", not \"water\").\n- Saying \"repeat to make it accurate\". Repeats improve reliability.\n- Forgetting the units, or leaving out safety.\n\nExam tip: When asked to identify a flaw, say what was wrong, why it affects the results and how to fix it. When asked to design, state the three variable types, the range and intervals, the equipment with units and the number of repeats.",
+  "flashcards": [
+   {
+    "front": "Independent variable",
+    "back": "The variable you deliberately change in an investigation."
+   },
+   {
+    "front": "Dependent variable",
+    "back": "The variable you measure to see the effect of the change."
+   },
+   {
+    "front": "Control variables",
+    "back": "Factors kept constant so that the test is fair. Always say how each is controlled."
+   },
+   {
+    "front": "Hypothesis",
+    "back": "A testable prediction, ideally using if... then... because... with a scientific explanation."
+   },
+   {
+    "front": "Reliable vs valid",
+    "back": "Reliable: can be repeated with similar results. Valid: measures what it claims to and controls other variables."
+   },
+   {
+    "front": "Accurate vs precise",
+    "back": "Accurate: close to the true value. Precise: results close to each other."
+   },
+   {
+    "front": "Random vs systematic error",
+    "back": "Random: unpredictable variation, reduced by repeats. Systematic: same shift every time, such as a zero error."
+   },
+   {
+    "front": "Control group",
+    "back": "A group not given the treatment (or given a placebo) used for comparison."
+   },
+   {
+    "front": "Risk assessment",
+    "back": "Identify the hazard, the risk and the precaution, such as eye protection when heating liquids."
+   }
+  ]
+ },
+ {
+  "subject": "integrated-science",
+  "grade": 5,
+  "topic": "Scientific Inquiry Skills",
+  "subTopic": "Processing Data and Evaluating Conclusions",
+  "questions": [
+   {
+    "content": "How is the mean of a set of results calculated?",
+    "options": [
+     "Find the middle value",
+     "Find the most frequent value",
+     "Add all values and divide by the number of values",
+     "Subtract the smallest from the largest"
+    ],
+    "answer": 2,
+    "explanation": "Mean = total ÷ number of values. The middle value is the median and the most frequent is the mode.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A student measured the time for a ball to fall: 1.1 s, 1.2 s, 2.6 s, 1.1 s. Which result is an anomaly?",
+    "options": [
+     "1.1 s",
+     "2.6 s",
+     "1.2 s",
+     "None"
+    ],
+    "answer": 1,
+    "explanation": "2.6 s is far from the others and probably caused by a mistake, so it should be investigated and usually left out of the mean.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which type of graph is best for plotting temperature (a continuous variable) against time?",
+    "options": [
+     "Line graph",
+     "Pie chart",
+     "Bar chart of categories",
+     "Pictogram"
+    ],
+    "answer": 0,
+    "explanation": "Two continuous variables are shown on a line graph or scatter graph with a line of best fit.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "On a graph, which variable goes on the x-axis?",
+    "options": [
+     "The dependent variable",
+     "The control variable",
+     "The anomaly",
+     "The independent variable"
+    ],
+    "answer": 3,
+    "explanation": "The independent variable goes on the x-axis (horizontal) and the dependent variable on the y-axis.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the range of the results 34, 36, 35, 35, 40?",
+    "options": [
+     "36",
+     "40",
+     "6",
+     "5"
+    ],
+    "answer": 2,
+    "explanation": "Range = largest − smallest = 40 − 34 = 6.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A student measured the length of a spring four times: 12.1 cm, 12.3 cm, 15.8 cm, 12.2 cm. 15.8 cm is identified as an anomaly. What is the mean of the other results?",
+    "options": [
+     "13.1 cm",
+     "12.2 cm",
+     "12.3 cm",
+     "15.8 cm"
+    ],
+    "answer": 1,
+    "explanation": "(12.1 + 12.3 + 12.2) ÷ 3 = 12.2 cm. Including the anomaly would give 13.1 cm.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A plant grows from 8.0 cm to 10.0 cm over a week. What is the percentage increase?",
+    "options": [
+     "25%",
+     "20%",
+     "2%",
+     "80%"
+    ],
+    "answer": 0,
+    "explanation": "(10.0 − 8.0) ÷ 8.0 × 100 = 25%. Dividing by the final value would wrongly give 20%.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A gas syringe collects 24 cm³ of gas in 40 s. What is the mean rate of gas production?",
+    "options": [
+     "1.7 cm³/s",
+     "64 cm³/s",
+     "960 cm³/s",
+     "0.6 cm³/s"
+    ],
+    "answer": 3,
+    "explanation": "Rate = volume ÷ time = 24 ÷ 40 = 0.6 cm³/s.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student measures the acceleration due to gravity as 9.4 m/s². The accepted value is 9.8 m/s². What is the percentage error, to one decimal place?",
+    "options": [
+     "4.3%",
+     "0.4%",
+     "4.1%",
+     "41%"
+    ],
+    "answer": 2,
+    "explanation": "|9.4 − 9.8| ÷ 9.8 × 100 = 4.08%, which rounds to 4.1%.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A table shows the extension of a spring: load 1 N: 2.0 cm, 2 N: 4.1 cm, 3 N: 5.9 cm, 4 N: 8.0 cm. What is the best description of the pattern?",
+    "options": [
+     "Extension decreases as load increases",
+     "Extension is directly proportional to load",
+     "Extension is constant",
+     "There is no pattern"
+    ],
+    "answer": 1,
+    "explanation": "The extension per newton is about 2 cm each time, so the relationship is approximately directly proportional.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What does a line of best fit show?",
+    "options": [
+     "The general trend through the data",
+     "The exact path through every point",
+     "The anomaly",
+     "The mean of the x-values"
+    ],
+    "answer": 0,
+    "explanation": "A line of best fit shows the overall trend and does not need to pass through every point.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why should results be recorded to the same number of decimal places as the instrument's resolution?",
+    "options": [
+     "It makes the table look longer",
+     "It removes errors",
+     "It changes the units",
+     "It reflects the precision of the measurement"
+    ],
+    "answer": 3,
+    "explanation": "A ruler marked in mm should be read to the nearest mm. Extra digits would give a false impression of precision.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A graph of distance against time for a trolley is a straight line through the origin, passing through (8 s, 20 m). What is the speed?",
+    "options": [
+     "0.4 m/s",
+     "160 m/s",
+     "2.5 m/s",
+     "12 m/s"
+    ],
+    "answer": 2,
+    "explanation": "Gradient = 20 ÷ 8 = 2.5 m/s, and a straight line means constant speed.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student writes a conclusion: 'Plants given fertiliser grew taller (mean 22 cm versus 15 cm), so fertiliser causes growth.' Only 3 plants were used in each group. What is the best improvement?",
+    "options": [
+     "Remove the control group",
+     "Use more plants, repeat the investigation and control other variables",
+     "Use a different type of plant",
+     "Only measure the tallest plant"
+    ],
+    "answer": 1,
+    "explanation": "A larger sample and repeats increase reliability. Controlling other variables supports the claim of cause.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The percentage uncertainty of a measurement is (uncertainty ÷ measured value) × 100. A ruler has an uncertainty of ±0.5 mm. What is the percentage uncertainty when it is used to measure a 20 mm length, and what does it suggest?",
+    "options": [
+     "2.5%; a larger length would give a smaller percentage uncertainty",
+     "25%; the ruler is accurate",
+     "0.4%; the measurement is exact",
+     "2.5%; the uncertainty is independent of the length"
+    ],
+    "answer": 0,
+    "explanation": "0.5 ÷ 20 × 100 = 2.5%. Measuring a longer length reduces the percentage uncertainty.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Ice cream sales and drowning incidents both rise in summer. Which interpretation is best?",
+    "options": [
+     "Ice cream causes drowning",
+     "Drowning causes ice cream sales",
+     "There is no relationship at all",
+     "They are correlated, but a third factor (hot weather) probably explains both"
+    ],
+    "answer": 3,
+    "explanation": "A correlation does not prove causation. A common cause, warm weather, probably increases both.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Data on pulse rate (beats per minute) after exercise for 5 students: 110, 118, 114, 112, 116. Mean pulse is 114. A student claims 'exercise increases pulse rate'. What data is missing for a fair conclusion?",
+    "options": [
+     "The age of the teacher",
+     "The colour of the shoes",
+     "Resting pulse rates for comparison",
+     "The temperature of the sun"
+    ],
+    "answer": 2,
+    "explanation": "Without a baseline for comparison, we cannot say that exercise increased the pulse. Resting data gives the comparison.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An experiment on plant growth gives a mean of 6.0 cm for light group A and 5.9 cm for group B, each with a range of about 2 cm. What is the best conclusion?",
+    "options": [
+     "Group A is definitely better",
+     "The difference is small compared with the variation, so there is no clear evidence of an effect",
+     "Group B is definitely worse",
+     "The experiment proves the light has no effect on anything"
+    ],
+    "answer": 1,
+    "explanation": "A difference of 0.1 cm is much smaller than the spread of results, so the data does not clearly show a difference.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Collecting data is only half the job. The other half is processing and presenting it so that patterns become clear, then deciding whether your conclusion is justified. This is the MYP sciences Criterion C (processing and evaluating) in action.\n\n## Recording data\nUse a table with a clear title, headings and units in the heading (for example Time (s)). Record raw data to a consistent number of decimal places that matches the instrument. Include repeats in separate columns and then a mean.\n\n## Calculations\n- **Mean** = total of the values ÷ number of values. Worked example: 12.1, 12.3, 12.2 cm gives (12.1 + 12.3 + 12.2) ÷ 3 = 12.2 cm.\n- **Anomaly**: a result that does not fit the pattern, for example 15.8 cm in the set above. Check if it came from a mistake, and exclude it from the mean if justified, saying that you have done so.\n- **Range** = largest − smallest. A large range suggests the data are not very precise.\n- **Rate** = amount ÷ time. For 24 cm³ of gas in 40 s the rate is 0.6 cm³/s.\n- **Percentage change** = (new − old) ÷ old × 100. From 8.0 cm to 10.0 cm is a 25% increase.\n- **Percentage error** = |measured − accepted| ÷ accepted × 100. For 9.4 compared with 9.8 it is about 4.1%.\n- **Gradient** of a distance–time graph is speed. A line through (8 s, 20 m) has a gradient of 20 ÷ 8 = 2.5 m/s.\n\n## Graphs\n- Independent variable on the x-axis, dependent variable on the y-axis.\n- Choose a scale that uses at least half the grid, label both axes with quantities and units, and plot points accurately.\n- Draw a **line of best fit** (a smooth curve or a straight line, not dot-to-dot). It does not need to pass through every point.\n- Use a bar chart when one variable is a category (for example type of fuel), and a line graph when both variables are continuous.\n\n## Describing patterns\nSay what happens to the dependent variable as the independent variable changes, and use numbers: \"As the temperature rose from 20°C to 60°C, the rate of reaction increased from 0.2 to 1.0 cm³/s\". Terms include directly proportional (a straight line through the origin), inverse relationship, positive correlation and no correlation. Correlation does not prove causation. Two variables might both be affected by a third factor.\n\n## Evaluating a conclusion\n1. State whether the data support the hypothesis, using figures.\n2. Judge the reliability: sample size, repeats, range of results.\n3. Identify sources of error (random and systematic) and the effect each has.\n4. Suggest specific improvements, such as more repeats, a smaller interval, a digital probe or a larger sample.\n5. Suggest further investigations.\n\n## Limitations\nConclusions only apply to the range tested. If you tested 20–60°C you cannot predict the rate at 100°C. A small difference compared with the variation in the results does not show a real effect.\n\n## How this is examined\nExpect a data table or a short description of an experiment, then questions on calculating a mean, spotting an anomaly, finding a percentage error, describing a trend and evaluating whether a conclusion is justified. Longer questions ask you to suggest improvements and explain how each improves the results.\n\nExam tip: Quote numbers from the data in every description or conclusion. For evaluation, always pair a limitation with a specific improvement and say how the improvement helps.",
+  "flashcards": [
+   {
+    "front": "Mean",
+    "back": "Total of the values ÷ number of values. Exclude and justify any anomalies."
+   },
+   {
+    "front": "Anomaly",
+    "back": "A result that does not fit the pattern. Check for a mistake and say if it is excluded from the mean."
+   },
+   {
+    "front": "Range",
+    "back": "Largest value − smallest value."
+   },
+   {
+    "front": "Percentage change",
+    "back": "(New − old) ÷ old × 100."
+   },
+   {
+    "front": "Percentage error",
+    "back": "|Measured − accepted| ÷ accepted × 100."
+   },
+   {
+    "front": "Graph rules",
+    "back": "Independent variable on the x-axis, dependent on the y-axis, labelled axes with units, sensible scale, line of best fit."
+   },
+   {
+    "front": "Directly proportional",
+    "back": "A straight line through the origin: when one variable doubles, the other doubles."
+   },
+   {
+    "front": "Correlation and causation",
+    "back": "A correlation does not prove causation. A third factor may affect both variables."
+   },
+   {
+    "front": "Evaluating a conclusion",
+    "back": "Use data, comment on reliability (sample size, repeats), name errors, suggest specific improvements."
+   }
+  ]
+ },
+ {
+  "subject": "integrated-science",
+  "grade": 5,
+  "topic": "Scientific Inquiry Skills",
+  "subTopic": "Science, Society and Ethical Impact",
+  "questions": [
+   {
+    "content": "What is peer review?",
+    "options": [
+     "A teacher marking homework",
+     "A company advertising a product",
+     "A newspaper summarising a study",
+     "Experts checking a scientific report before it is published"
+    ],
+    "answer": 3,
+    "explanation": "Peer review is when independent experts evaluate methods, data and conclusions before publication.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a scientific model?",
+    "options": [
+     "A perfect copy of reality",
+     "A fixed fact that never changes",
+     "A representation used to explain or predict something",
+     "A type of experiment without data"
+    ],
+    "answer": 2,
+    "explanation": "Models simplify reality to help explain and predict. They are changed when new evidence appears.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is an example of technology based on scientific knowledge?",
+    "options": [
+     "A rock",
+     "An MRI scanner",
+     "A cloud",
+     "A mountain"
+    ],
+    "answer": 1,
+    "explanation": "Technology is the practical application of science, such as medical scanners, vaccines or solar panels.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a renewable energy resource?",
+    "options": [
+     "Wind",
+     "Coal",
+     "Oil",
+     "Natural gas"
+    ],
+    "answer": 0,
+    "explanation": "Wind is replaced naturally and does not run out. Fossil fuels are non-renewable.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why is it important to use more than one source when researching a scientific claim?",
+    "options": [
+     "To make the research longer",
+     "To avoid reading anything critically",
+     "To find the most popular opinion",
+     "To check whether independent sources agree"
+    ],
+    "answer": 3,
+    "explanation": "Cross-checking helps reveal bias or errors, and agreement from independent reliable sources strengthens a claim.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which source of information about a new medicine is likely to be most reliable?",
+    "options": [
+     "An advertisement by the manufacturer",
+     "A social media post by a celebrity",
+     "A peer-reviewed journal report of a large controlled trial",
+     "A friend's opinion"
+    ],
+    "answer": 2,
+    "explanation": "Peer-reviewed controlled trials are checked by independent experts. Adverts and personal opinions may be biased.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A clinical trial gives a new drug to one group and a placebo to another. Neither patients nor doctors know who gets which. What is this called?",
+    "options": [
+     "Single sample",
+     "Double-blind trial",
+     "Open trial",
+     "Observation only"
+    ],
+    "answer": 1,
+    "explanation": "In a double-blind trial neither the patients nor the researchers know who receives the treatment. This reduces bias.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A company that sells a sports drink pays for a study that concludes the drink improves performance. Which concern is most valid?",
+    "options": [
+     "The funding source may bias the study",
+     "The study must be correct since it was funded",
+     "Sports drinks cannot be studied",
+     "Performance cannot be measured"
+    ],
+    "answer": 0,
+    "explanation": "A conflict of interest does not make the study wrong, but its design and data should be checked carefully, ideally with independent replication.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A newspaper headline says 'Chocolate makes you cleverer!' based on a survey of 20 people that found a link. Which is the best response?",
+    "options": [
+     "The headline must be true because it is in print",
+     "Chocolate is proven to cause intelligence",
+     "The survey proves the opposite",
+     "The sample is small and the study shows a correlation only"
+    ],
+    "answer": 3,
+    "explanation": "A small sample and correlation do not show a cause. More controlled evidence is required.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement about the use of animals in medical research is the most balanced?",
+    "options": [
+     "It has no ethical issues",
+     "It should always be done without rules",
+     "It may lead to medical advances, but it raises ethical concerns, so the number and suffering should be minimised",
+     "It is never of any use"
+    ],
+    "answer": 2,
+    "explanation": "Ethical evaluation weighs benefits against harm. The 3Rs principle (replace, reduce, refine) is widely used to guide research.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A town replaces a coal power station with a wind farm. Which is the best example of an environmental benefit and a drawback?",
+    "options": [
+     "Benefit: no cost; drawback: none",
+     "Benefit: lower CO₂ emissions; drawback: possible effects on birds and the landscape",
+     "Benefit: more smoke; drawback: less wind",
+     "Benefit: more coal; drawback: more rain"
+    ],
+    "answer": 1,
+    "explanation": "Wind turbines do not release CO₂ in operation. Drawbacks include visual impact, effects on birds and variable output.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why can scientific knowledge change over time?",
+    "options": [
+     "New evidence and better technology can show earlier ideas to be incomplete",
+     "Scientists change their minds randomly",
+     "Old ideas are always false",
+     "Facts are decided by votes"
+    ],
+    "answer": 0,
+    "explanation": "Science is self-correcting. Theories are accepted because of evidence and revised when new evidence is found.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of these decisions needs scientific evidence AND an ethical or social judgement?",
+    "options": [
+     "The boiling point of water",
+     "The mass of an electron",
+     "The number of planets",
+     "Whether to allow genetically modified crops"
+    ],
+    "answer": 3,
+    "explanation": "Science supplies data on benefits and risks, but societies must also weigh values, costs and fairness.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A city plans to build a new incinerator for waste. Which group is MOST likely to be affected negatively?",
+    "options": [
+     "Everyone who visits the city once",
+     "People in a different continent",
+     "People who live next to the site",
+     "Scientists who study fish"
+    ],
+    "answer": 2,
+    "explanation": "Stakeholders who live close to the site experience the noise, traffic and air quality effects most directly. A full evaluation considers all stakeholders.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A report says a new pesticide reduces insect pests by 80%. Which additional information is most important before approving it?",
+    "options": [
+     "The colour of the bottle",
+     "Effects on beneficial insects, water and human health from independent tests",
+     "The price of other pesticides only",
+     "The name of the sales manager"
+    ],
+    "answer": 1,
+    "explanation": "Benefits must be weighed against risks. Independent environmental and health testing is needed.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Vaccination programmes protect vulnerable people by herd immunity. Which statement best shows a justified argument for vaccination?",
+    "options": [
+     "It reduces disease spread in the population, supported by evidence of lower infection rates",
+     "It must be right because doctors say so",
+     "It never has any side effects, so there is nothing to discuss",
+     "It is only useful for adults"
+    ],
+    "answer": 0,
+    "explanation": "A justified argument uses evidence (lower infection rates) and acknowledges that side effects are rare but monitored.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student must decide whether to recommend a hydroelectric dam. Which response shows the highest-quality evaluation?",
+    "options": [
+     "Lists only advantages",
+     "States an opinion without reasons",
+     "Says it is impossible to decide",
+     "Compares clean energy and flood control with habitat loss and displaced communities, using data, and reaches a justified conclusion"
+    ],
+    "answer": 3,
+    "explanation": "A strong evaluation balances ecological, economic and social impacts, uses evidence and gives a reasoned conclusion.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which statement about the precautionary approach is correct?",
+    "options": [
+     "It supports releasing any new technology at once",
+     "It requires proof that no risk exists",
+     "It supports limiting a new technology when evidence suggests possible serious harm, even if uncertain",
+     "It only applies to computers"
+    ],
+    "answer": 2,
+    "explanation": "The precautionary approach is to act to prevent possible serious harm when full certainty is not yet available, while research continues.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Science does not take place in isolation. Scientific discoveries lead to technologies that change how we live, and society influences which research is funded and how it is done. This is the focus of MYP sciences Criterion D (reflecting on the impacts of science), which asks you to discuss and evaluate the implications of science in real-world contexts.\n\n## How science works in society\nScientists collect evidence, publish their methods and results, and have them checked by other experts in **peer review**. Other scientists try to replicate the findings. Scientific theories and models are accepted because of the weight of evidence, and they are revised when new evidence appears. This is a strength of science, not a weakness. **Technology** is the application of scientific knowledge to solve practical problems, such as vaccines, MRI scanners, wind turbines and water purification.\n\n## Judging evidence and sources\nWhen you read a claim, ask these questions.\n- Who made the claim, and do they have expertise?\n- Was it **peer-reviewed**, or is it an advert, a social media post or an opinion?\n- Is there a **conflict of interest**, such as the study being funded by a company that sells the product? This does not make it wrong, but it means you should look at the methods and look for independent replication.\n- Is the **sample size** large enough, and was there a **control group**? In medical trials, a **placebo** and a **double-blind** design (neither patient nor researcher knows who has the treatment) reduce bias.\n- Does the evidence show a **correlation** only, or good evidence of cause?\n- Do independent sources agree?\n\n## Benefits, risks and ethics\nMost scientific developments have benefits and risks, and they affect people differently. Examples:\n- **Genetic modification**: higher yields and improved nutrition against concerns for biodiversity and ownership.\n- **Fossil fuels versus renewables**: reliable energy against greenhouse gas emissions; wind and solar have lower emissions but variable output and land use.\n- **Animal research**: possible medical advances against animal welfare. The 3Rs (replace, reduce, refine) aim to limit the harm.\n- **Vaccination**: protects individuals and the community through herd immunity; very rare side effects are monitored.\n- **Plastics**: useful and cheap, but cause waste and pollution.\nThe **precautionary approach** supports limiting a technology when there is a plausible risk of serious harm, even if the evidence is incomplete.\n\n## Stakeholders and global contexts\nStakeholders are the people or groups affected by a decision: residents, workers, businesses, governments, future generations and wildlife. A good answer names at least two stakeholders and explains how each is affected. Link your answer to a global context, for example scientific and technical innovation, globalization and sustainability, or fairness and development.\n\n## Writing a strong evaluation\n- State the issue and the options.\n- Give evidence for each side, with data where possible.\n- Compare short-term and long-term impacts, and local and global impacts.\n- Reach a justified conclusion and say what further evidence would help.\n\n## How this is examined\nYou may get a short article about, for example, a hydroelectric dam, with data. You are asked to summarise the scientific idea, explain the issue, discuss the implications for different groups and evaluate the reliability of the information.\n\nExam tip: Avoid one-sided answers. For every benefit give a limitation, name the stakeholder who is affected, use the evidence given and end with a clear, justified judgement.",
+  "flashcards": [
+   {
+    "front": "Peer review",
+    "back": "Independent experts check a study's methods and conclusions before it is published."
+   },
+   {
+    "front": "Technology",
+    "back": "The application of scientific knowledge to solve practical problems, such as vaccines and wind turbines."
+   },
+   {
+    "front": "Conflict of interest",
+    "back": "When the funder or author benefits from a particular result. It is a reason to check methods and look for independent replication."
+   },
+   {
+    "front": "Double-blind trial",
+    "back": "Neither the participants nor the researchers know who receives the treatment or placebo, which reduces bias."
+   },
+   {
+    "front": "Placebo",
+    "back": "A treatment with no active ingredient, given to the control group for comparison."
+   },
+   {
+    "front": "Stakeholder",
+    "back": "A person or group affected by a decision, such as residents, workers, businesses or future generations."
+   },
+   {
+    "front": "Precautionary approach",
+    "back": "Limit or delay a technology when there is a plausible risk of serious harm, even if evidence is incomplete."
+   },
+   {
+    "front": "The 3Rs",
+    "back": "Replace animals where possible, reduce numbers used, refine methods to reduce suffering."
+   },
+   {
+    "front": "Strong evaluation",
+    "back": "Give evidence for and against, compare short- and long-term effects and groups affected, then make a justified conclusion."
+   }
+  ]
+ }
+]

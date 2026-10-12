@@ -1,0 +1,265 @@
+[
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Data Analysis Extension",
+  "subTopic": "Standard Deviation and Comparing Data Sets",
+  "questions": [
+   {
+    "content": "What does the standard deviation of a data set measure?",
+    "options": [
+     "The most common value",
+     "How spread out the values are around the mean",
+     "The middle value when the data is ordered",
+     "The difference between the largest and smallest value"
+    ],
+    "answer": 1,
+    "explanation": "Standard deviation measures the typical distance of the values from the mean. The most common value is the mode, the middle is the median, and the largest minus smallest is the range.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the mean of the data set 2, 4, 4, 4, 5, 5, 7, 9?",
+    "options": [
+     "4",
+     "4.5",
+     "6",
+     "5"
+    ],
+    "answer": 3,
+    "explanation": "The sum is 40 and there are 8 values, so the mean is 40 ÷ 8 = 5. The median is 4.5, which is a different measure.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Two classes sit the same test. Class A has a standard deviation of 3 marks and Class B has a standard deviation of 9 marks. Which statement is correct?",
+    "options": [
+     "Class B's marks are more spread out",
+     "Class A's marks are more spread out",
+     "Class B has the higher mean",
+     "Class A has the higher mean"
+    ],
+    "answer": 0,
+    "explanation": "A larger standard deviation means more spread. Standard deviation says nothing about which mean is higher.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the standard deviation of the data set 7, 7, 7, 7?",
+    "options": [
+     "7",
+     "1",
+     "0",
+     "28"
+    ],
+    "answer": 2,
+    "explanation": "Every value equals the mean, so every deviation is 0 and the standard deviation is 0. There is no spread.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Every value in a data set has 10 added to it. What happens to the standard deviation?",
+    "options": [
+     "It increases by 10",
+     "It is multiplied by 10",
+     "It decreases by 10",
+     "It stays the same"
+    ],
+    "answer": 3,
+    "explanation": "Adding the same amount shifts the whole set but does not change how spread out it is. The mean increases by 10, but the standard deviation stays the same.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "For the data 2, 4, 4, 4, 5, 5, 7, 9 the mean is 5 and the sum of the squared deviations from the mean is 32. What is the population standard deviation (σ)?",
+    "options": [
+     "4",
+     "2",
+     "√32",
+     "3.2"
+    ],
+    "answer": 1,
+    "explanation": "Variance = 32 ÷ 8 = 4, and σ = √4 = 2. Forgetting to divide by 8 or forgetting to take the square root are the common mistakes.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Class X scored a mean of 62% with a standard deviation of 4. Class Y scored a mean of 62% with a standard deviation of 11. Which conclusion is best?",
+    "options": [
+     "Class Y performed better overall",
+     "The two classes performed the same, so they are the same",
+     "Class X's results are more consistent than Class Y's",
+     "Class X has the larger range of results"
+    ],
+    "answer": 2,
+    "explanation": "The means are equal, so the average performance is the same. The smaller standard deviation shows that Class X's marks are closer together, so they are more consistent.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Every value in a data set is multiplied by 3. The original standard deviation was 2. What is the new standard deviation?",
+    "options": [
+     "6",
+     "2",
+     "5",
+     "18"
+    ],
+    "answer": 0,
+    "explanation": "Multiplying all values by 3 stretches the spread by a factor of 3, so σ becomes 3 × 2 = 6. The variance would be multiplied by 9, not the standard deviation.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The ages of five people are 12, 15, 11, 18 and 14. What is the standard deviation, to 3 significant figures (treat the five people as the whole population)?",
+    "options": [
+     "6",
+     "2.45",
+     "2.74",
+     "14"
+    ],
+    "answer": 1,
+    "explanation": "The mean is 14. The squared deviations are 4, 1, 9, 16 and 0, which sum to 30. The variance is 30 ÷ 5 = 6 and σ = √6 = 2.45. The number 6 is the variance, not the standard deviation.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is the standard deviation usually a better measure of spread than the range?",
+    "options": [
+     "It is always larger than the range",
+     "It is easier to calculate by hand",
+     "It is not affected by extreme values at all",
+     "It uses every value in the data set, not just the largest and smallest"
+    ],
+    "answer": 3,
+    "explanation": "The range uses only two values, so one unusual value changes it a lot. The standard deviation uses every value, although a very extreme value still affects it.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Athlete A runs 100 m with a mean time of 11.2 s and a standard deviation of 0.1 s. Athlete B has a mean time of 11.0 s and a standard deviation of 0.4 s. Which statement is correct?",
+    "options": [
+     "B is faster on average, but A is more consistent",
+     "A is faster on average and more consistent",
+     "B is faster on average and more consistent",
+     "A is faster on average, but B is more consistent"
+    ],
+    "answer": 0,
+    "explanation": "A lower mean time is faster, so B is faster on average. A lower standard deviation shows more consistent times, which is A.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Scores are 1, 2 and 3 with frequencies 2, 5 and 3. The mean is 2.1. What is the standard deviation?",
+    "options": [
+     "0.49",
+     "0.84",
+     "0.7",
+     "1"
+    ],
+    "answer": 2,
+    "explanation": "The squared deviations weighted by frequency are 2(1.1²) + 5(0.1²) + 3(0.9²) = 2.42 + 0.05 + 2.43 = 4.9. Variance = 4.9 ÷ 10 = 0.49 and σ = 0.7. The value 0.49 is the variance.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A test has a mean of 50 and a standard deviation of 8. Which score is within one standard deviation of the mean?",
+    "options": [
+     "59",
+     "35",
+     "66",
+     "57"
+    ],
+    "answer": 3,
+    "explanation": "Within one standard deviation means between 50 − 8 = 42 and 50 + 8 = 58. Only 57 is in that interval.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Set P is 20, 22, 24, 26, 28 and Set Q is 14, 20, 24, 28, 34. Which statement is correct?",
+    "options": [
+     "Set P has the greater standard deviation",
+     "They have the same mean (24), but Set Q has the greater standard deviation",
+     "They have the same standard deviation because the means are equal",
+     "Set Q has the greater mean"
+    ],
+    "answer": 1,
+    "explanation": "Both sets have a mean of 24. Set P has σ = √8 ≈ 2.83 and Set Q has σ ≈ 6.81, because Q's values are further from the mean.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A data set has a mean of 5 and a standard deviation of 2. Each value x is changed to 2x − 5. What are the new mean and standard deviation?",
+    "options": [
+     "Mean 5 and standard deviation 2",
+     "Mean 5 and standard deviation −1",
+     "Mean 5 and standard deviation 4",
+     "Mean 10 and standard deviation 4"
+    ],
+    "answer": 2,
+    "explanation": "The mean follows the same rule: 2 × 5 − 5 = 5. The standard deviation is only multiplied by the 2 (not shifted by −5), giving 2 × 2 = 4.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The data 2, 4, 4, 4, 5, 5, 7, 9 has a mean of 5 and σ = 2. An extra value of 30 is added. Which statement is correct?",
+    "options": [
+     "The mean rises to about 7.78 and σ rises to about 8.08",
+     "The mean rises to 5 and σ rises to 2",
+     "The mean stays 5 but σ rises to about 8.08",
+     "The mean rises to about 7.78 and σ stays 2"
+    ],
+    "answer": 0,
+    "explanation": "The new sum is 70 for 9 values, so the mean is 7.78. The extreme value is far from the mean, which greatly increases the spread to about 8.08. This shows outliers affect both measures.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A factory must make rods of length 50 mm with a tolerance of ±1 mm (49 mm to 51 mm). Machine A has mean 50.0 mm and σ = 0.5 mm. Machine B has mean 50.4 mm and σ = 0.1 mm. Assuming bell-shaped data, which machine is more suitable and why?",
+    "options": [
+     "Machine A, because its mean is exactly on target",
+     "Machine B, because almost all its rods lie within 50.1 mm to 50.7 mm, inside the tolerance",
+     "Machine A, because a larger σ means more variety",
+     "Machine B, because its mean is higher"
+    ],
+    "answer": 1,
+    "explanation": "Machine A's tolerance is only ±2σ, so about 5% of rods fall outside. Machine B is slightly off target, but about 99.7% of its rods lie within 3σ (50.1 to 50.7), which is inside 49 to 51. B could be adjusted to be even better.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Six values have a mean of 8, and the sum of the squared deviations from 8 is 54. A seventh value equal to 8 is added. What is the new standard deviation, to 3 significant figures?",
+    "options": [
+     "3",
+     "2.57",
+     "2.65",
+     "2.78"
+    ],
+    "answer": 3,
+    "explanation": "Before: variance 54 ÷ 6 = 9 so σ = 3. Adding 8 keeps the mean at 8 and adds a deviation of 0, so the sum of squares is still 54 but there are 7 values. The new variance is 54 ÷ 7 = 7.714 and σ = 2.78.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why we need more than the mean\nThe mean tells you where the middle of a data set is, but not how spread out the values are. Two classes can both have a mean of 62%, yet one has marks that are tightly bunched and the other has marks that are far apart. A measure of spread is needed. The range (largest − smallest) is simple but uses only two values. The standard deviation uses every value.\n\n## Calculating the standard deviation\nThe standard deviation, written σ for a whole population, measures the typical distance from the mean. Follow these steps:\n- Find the mean.\n- Find each deviation (value − mean).\n- Square each deviation.\n- Add the squares, divide by the number of values to get the variance.\n- Take the square root of the variance.\n\nWorked example: 2, 4, 4, 4, 5, 5, 7, 9 has mean 5. The deviations are −3, −1, −1, −1, 0, 0, 2, 4. The squares are 9, 1, 1, 1, 0, 0, 4, 16, and they add to 32. Variance = 32 ÷ 8 = 4, so σ = 2. In an exam you will usually use the calculator's statistics mode, so make sure you know which key gives σ (the population standard deviation) and report it clearly. For a frequency table, enter the values and frequencies into the calculator in the same way.\n\n## What the value means\n- A small σ means the data is clustered close to the mean (consistent).\n- A large σ means the data is spread out (variable).\n- σ = 0 means every value is the same.\n- For bell-shaped data, about 68% of values lie within 1σ of the mean and about 95% within 2σ.\n\n## Effects of changing the data\n- Adding a constant to every value: the mean changes by that constant, σ is unchanged.\n- Multiplying every value by k: the mean is multiplied by k, σ is multiplied by |k|.\n- Adding an outlier: both the mean and σ can change a lot, and σ usually increases.\n- Adding a value equal to the mean keeps the mean but reduces σ.\n\n## Comparing data sets\nWhen comparing two sets, always comment on both a measure of average and a measure of spread, and write your answer in context. For example: \"Athlete B has a lower mean time, so is faster on average, but a higher standard deviation, so is less consistent.\" Never say that a high standard deviation is \"better\" without context. Sometimes consistency matters more than average, such as in manufacturing where parts must fit within a tolerance.\n\n## Common mistakes\n- Giving the variance when the question asks for the standard deviation.\n- Forgetting to square root, or dividing by the wrong number.\n- Saying a bigger σ means a bigger mean.\n- Comparing only the means.\n- Not writing a conclusion in context.\n\n## How this is examined\nQuestions give data in context, such as test marks, sprint times or factory measurements. You calculate the mean and standard deviation (often with technology), compare two sets in words, and justify a decision. Extended tasks ask you to consider assumptions (such as the data being bell-shaped), the effect of outliers and the reliability of conclusions.\n\nExam tip: Write one sentence about the average and one about the spread, each in context, and use comparative words such as \"higher\", \"more consistent\" or \"more varied\".",
+  "flashcards": [
+   {
+    "front": "Standard deviation (σ)",
+    "back": "A measure of how far values typically lie from the mean. It uses every value in the data set."
+   },
+   {
+    "front": "Steps to find σ",
+    "back": "Find the mean, find the deviations, square them, add and divide by n to get the variance, then take the square root."
+   },
+   {
+    "front": "Variance",
+    "back": "The mean of the squared deviations. The standard deviation is its square root."
+   },
+   {
+    "front": "Small vs large σ",
+    "back": "Small σ: values are close to the mean (consistent). Large σ: values are spread out (variable)."
+   },
+   {
+    "front": "σ = 0",
+    "back": "Every value in the data set is the same."
+   },
+   {
+    "front": "Adding k to every value",
+    "back": "The mean increases by k. The standard deviation is unchanged."
+   },
+   {
+    "front": "Multiplying every value by k",
+    "back": "The mean and the standard deviation are both multiplied by |k|."
+   },
+   {
+    "front": "Effect of an outlier",
+    "back": "An extreme value changes the mean and can increase σ a lot."
+   },
+   {
+    "front": "Comparing two data sets",
+    "back": "Comment on an average (mean) and on spread (σ), both in context, for example faster on average but less consistent."
+   }
+  ]
+ }
+]

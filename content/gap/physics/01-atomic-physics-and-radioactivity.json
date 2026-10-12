@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "physics",
+  "grade": 5,
+  "topic": "Atomic Physics and Radioactivity",
+  "subTopic": "Atomic Structure and Isotopes",
+  "questions": [
+   {
+    "content": "Which particle in an atom has a negative charge and a very small mass?",
+    "options": [
+     "Proton",
+     "Electron",
+     "Neutron",
+     "Nucleus"
+    ],
+    "answer": 1,
+    "explanation": "Electrons carry a charge of −1 and have a mass of about 1/1836 of a proton.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The atomic number of an element tells you the number of which particles in one atom?",
+    "options": [
+     "Protons",
+     "Neutrons",
+     "Protons plus neutrons",
+     "Neutrons plus electrons"
+    ],
+    "answer": 0,
+    "explanation": "Atomic number (proton number) is the number of protons, and it identifies the element.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A neutral atom of sodium-23 has atomic number 11. How many neutrons does it contain?",
+    "options": [
+     "11",
+     "23",
+     "34",
+     "12"
+    ],
+    "answer": 3,
+    "explanation": "Neutrons = mass number − atomic number = 23 − 11 = 12.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Isotopes of the same element always have the same number of …",
+    "options": [
+     "neutrons",
+     "nucleons",
+     "protons",
+     "mass number"
+    ],
+    "answer": 2,
+    "explanation": "Isotopes differ only in neutron number, so proton number (and element) stays the same.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In the gold foil experiment, most alpha particles passed straight through the foil. What does this show?",
+    "options": [
+     "The atom is a solid ball of positive charge",
+     "An atom is mostly empty space",
+     "Electrons are heavier than alpha particles",
+     "Gold atoms have no nucleus"
+    ],
+    "answer": 1,
+    "explanation": "If most particles pass undeflected, most of the atom must be empty space.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "An atom has 6 protons, 8 neutrons and 6 electrons. Which description is correct?",
+    "options": [
+     "Carbon-14, mass number 14",
+     "Carbon-12, mass number 12",
+     "Oxygen-14, mass number 14",
+     "Carbon-14, mass number 6"
+    ],
+    "answer": 0,
+    "explanation": "Six protons means carbon. Mass number = 6 + 8 = 14, so it is carbon-14.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A magnesium ion Mg²⁺ has 12 protons in its nucleus. How many electrons does it have?",
+    "options": [
+     "12",
+     "14",
+     "2",
+     "10"
+    ],
+    "answer": 3,
+    "explanation": "The 2+ charge means two more protons than electrons, so 12 − 2 = 10 electrons.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Chlorine-35 and chlorine-37 are isotopes. What is the difference between their atoms?",
+    "options": [
+     "Chlorine-37 has 2 more protons",
+     "Chlorine-37 has 2 more electrons",
+     "Chlorine-37 has 2 more neutrons",
+     "Chlorine-37 has 2 fewer neutrons"
+    ],
+    "answer": 2,
+    "explanation": "Both have 17 protons. Mass number differs by 2, so chlorine-37 has 20 neutrons and chlorine-35 has 18.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is a normal atom electrically neutral?",
+    "options": [
+     "It has equal numbers of protons and neutrons",
+     "It has equal numbers of protons and electrons",
+     "It has no charged particles",
+     "Neutrons cancel the protons"
+    ],
+    "answer": 1,
+    "explanation": "Positive charge of protons balances negative charge of electrons when their numbers are equal.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In the gold foil experiment a very small number of alpha particles bounced almost straight back. Which conclusion does this support?",
+    "options": [
+     "The nucleus is small, dense and positively charged",
+     "Electrons repel alpha particles strongly",
+     "The atom has a uniform positive charge",
+     "Alpha particles are absorbed by neutrons"
+    ],
+    "answer": 0,
+    "explanation": "Large deflections need a concentrated positive charge. Only a tiny nucleus could do that, which is why so few were deflected.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which two particles have approximately the same mass?",
+    "options": [
+     "Proton and electron",
+     "Neutron and electron",
+     "Electron and alpha particle",
+     "Proton and neutron"
+    ],
+    "answer": 3,
+    "explanation": "Protons and neutrons each have relative mass 1, while an electron is about 1/1836.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A uranium nuclide is written ²³⁸₉₂U. How many neutrons does it have?",
+    "options": [
+     "92",
+     "238",
+     "146",
+     "330"
+    ],
+    "answer": 2,
+    "explanation": "Neutrons = 238 − 92 = 146.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A fluoride ion is written ¹⁹₉F⁻. Which row gives its protons, neutrons and electrons?",
+    "options": [
+     "9, 10, 9",
+     "9, 10, 10",
+     "10, 9, 10",
+     "9, 19, 10"
+    ],
+    "answer": 1,
+    "explanation": "Protons = 9. Neutrons = 19 − 9 = 10. The ion has gained one electron so it has 10.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An atom has a diameter of about 1 × 10⁻¹⁰ m and its nucleus has a diameter of about 1 × 10⁻¹⁵ m. About how many times wider is the atom than the nucleus?",
+    "options": [
+     "100 000",
+     "1000",
+     "10 000 000",
+     "5"
+    ],
+    "answer": 0,
+    "explanation": "1 × 10⁻¹⁰ ÷ 1 × 10⁻¹⁵ = 1 × 10⁵ = 100 000. This shows the atom is mostly empty space.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Three particles are described. X: 17 protons, 18 neutrons, 18 electrons. Y: 17 protons, 20 neutrons, 17 electrons. Z: 18 protons, 22 neutrons, 18 electrons. Which statement is correct?",
+    "options": [
+     "X and Z are isotopes of the same element",
+     "Y and Z are isotopes of the same element",
+     "None of them are the same element",
+     "X and Y are isotopes of the same element"
+    ],
+    "answer": 3,
+    "explanation": "X and Y both have 17 protons so they are the same element with different neutron numbers. Z has 18 protons so it is a different element.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student says: 'Carbon-12 and carbon-14 must react differently because they have different masses.' Which evaluation is best?",
+    "options": [
+     "Correct: heavier atoms always react more slowly because of their mass",
+     "Incorrect: isotopes have different numbers of electrons",
+     "Incorrect: chemical behaviour depends on electron arrangement, which is the same for both",
+     "Correct: the extra neutrons change the charge on the nucleus"
+    ],
+    "answer": 2,
+    "explanation": "Chemical reactions involve electrons. Isotopes have the same proton and electron numbers, so they behave almost identically chemically.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Before 1909 the plum pudding model pictured a ball of positive charge with electrons embedded in it. Which observation could this model NOT explain?",
+    "options": [
+     "Most alpha particles passing through the foil",
+     "A few alpha particles deflected through angles over 90°",
+     "Atoms being electrically neutral",
+     "Electrons having a negative charge"
+    ],
+    "answer": 1,
+    "explanation": "A spread-out positive charge would only cause small deflections. Large-angle scattering showed a concentrated nucleus.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A sample of an element contains two isotopes: mass number 10 (20% of atoms) and mass number 11 (80% of atoms). What is the average mass number of its atoms?",
+    "options": [
+     "10.8",
+     "10.5",
+     "10.2",
+     "11.0"
+    ],
+    "answer": 0,
+    "explanation": "(0.20 × 10) + (0.80 × 11) = 2.0 + 8.8 = 10.8.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## The particles in an atom\nEvery atom has a tiny central nucleus made of protons and neutrons (together called nucleons) with electrons moving around it. You must know the relative mass and charge of each particle.\n- **Proton**: relative mass 1, charge +1, in the nucleus.\n- **Neutron**: relative mass 1, charge 0, in the nucleus.\n- **Electron**: relative mass about 1/1836 (so tiny it is treated as almost zero), charge −1, found outside the nucleus.\nA normal atom is neutral because it has the same number of protons and electrons.\n\n## Atomic number and mass number\n- **Atomic number (Z)** is the number of protons. It decides which element the atom is.\n- **Mass number (A)** is the number of protons plus neutrons.\n- Number of neutrons = A − Z.\nWe write a nuclide as ²³⁸₉₂U, with the mass number at the top and the atomic number at the bottom. For uranium-238 that gives 92 protons and 238 − 92 = 146 neutrons.\n\n## Isotopes\n**Isotopes** are atoms of the same element (same number of protons) with different numbers of neutrons. Carbon-12 has 6 protons and 6 neutrons. Carbon-14 has 6 protons and 8 neutrons. Their chemical behaviour is almost identical because chemistry depends on electrons, and both have 6. Their nuclei differ, so one isotope can be stable while another is radioactive.\n\n## Ions\nAn atom that gains or loses electrons becomes an **ion**. Losing electrons gives a positive ion, gaining electrons gives a negative ion. The nucleus does not change. For example Mg²⁺ has 12 protons but only 10 electrons.\n\n## How the model developed\nEarly on, the plum pudding model pictured a ball of positive charge with electrons embedded in it. In the gold foil experiment, alpha particles were fired at a very thin sheet of gold. Most went straight through, a small number were deflected, and a very few bounced almost straight back. This led to the nuclear model:\n- Most of the atom is empty space (most particles passed through).\n- The nucleus is small, dense and positively charged (a few were deflected, a very few came back).\nThe atom has a diameter of about 10⁻¹⁰ m while the nucleus is about 10⁻¹⁵ m across, around 100 000 times smaller.\n\n## Worked example\nAn atom is written ³⁵₁₇Cl. Protons = 17, electrons (neutral atom) = 17, neutrons = 35 − 17 = 18. The ion Cl⁻ has one extra electron, so 18 electrons, with 17 protons and 18 neutrons unchanged.\n\n## Common mistakes\n- Mixing up atomic number and mass number. Atomic number is always the smaller number.\n- Changing the number of protons when an ion forms. Only electrons change.\n- Saying isotopes have different numbers of electrons. They have the same number in a neutral atom.\n\n## How this is examined\nQuestions usually give a nuclide symbol or a table of particle numbers and ask you to find protons, neutrons or electrons, identify isotopes, or explain a result of the scattering experiment. Criterion D style tasks may ask you to evaluate how new evidence changed a scientific model.\n\nExam tip: Always show the subtraction when finding neutrons (mass number − atomic number) and, in a table question, check proton numbers first to decide which particles belong to the same element.",
+  "flashcards": [
+   {
+    "front": "Proton",
+    "back": "Relative mass 1, charge +1, found in the nucleus. Its number is the atomic number."
+   },
+   {
+    "front": "Neutron",
+    "back": "Relative mass 1, charge 0, found in the nucleus."
+   },
+   {
+    "front": "Electron",
+    "back": "Relative mass about 1/1836, charge −1, found outside the nucleus."
+   },
+   {
+    "front": "Mass number",
+    "back": "Number of protons plus neutrons (nucleons) in an atom's nucleus."
+   },
+   {
+    "front": "How do you find the number of neutrons?",
+    "back": "Neutrons = mass number − atomic number."
+   },
+   {
+    "front": "Isotopes",
+    "back": "Atoms of the same element with the same number of protons but different numbers of neutrons."
+   },
+   {
+    "front": "Ion",
+    "back": "An atom that has gained or lost electrons, so it has an overall charge."
+   },
+   {
+    "front": "What did the gold foil experiment show?",
+    "back": "Most alpha particles passed through, so the atom is mostly empty space. Few large deflections showed a small, dense, positively charged nucleus."
+   },
+   {
+    "front": "Size of atom vs nucleus",
+    "back": "Atom about 10⁻¹⁰ m across, nucleus about 10⁻¹⁵ m, so the atom is roughly 100 000 times wider."
+   }
+  ]
+ },
+ {
+  "subject": "physics",
+  "grade": 5,
+  "topic": "Atomic Physics and Radioactivity",
+  "subTopic": "Radioactive Decay and Half-life",
+  "questions": [
+   {
+    "content": "Which type of nuclear radiation is a helium nucleus?",
+    "options": [
+     "Beta",
+     "Alpha",
+     "Gamma",
+     "X-ray"
+    ],
+    "answer": 1,
+    "explanation": "An alpha particle is two protons and two neutrons, the same as a helium-4 nucleus.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which radiation is a form of electromagnetic wave with no mass or charge?",
+    "options": [
+     "Gamma",
+     "Alpha",
+     "Beta-minus",
+     "Neutron"
+    ],
+    "answer": 0,
+    "explanation": "Gamma rays are high-frequency electromagnetic radiation.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Radioactive decay is described as random. What does this mean?",
+    "options": [
+     "Decay only happens at night",
+     "All nuclei decay at the same moment",
+     "Decay depends on the temperature",
+     "We cannot predict when a particular nucleus will decay"
+    ],
+    "answer": 3,
+    "explanation": "For one nucleus the time of decay is unpredictable, though large samples follow a pattern.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is meant by the half-life of a radioactive isotope?",
+    "options": [
+     "The time for all the nuclei to decay",
+     "Half the time for the activity to reach zero",
+     "The time for half the nuclei in a sample to decay",
+     "The time for the mass of the sample to halve"
+    ],
+    "answer": 2,
+    "explanation": "Half-life is the average time for the number of undecayed nuclei (and the activity) to fall to half.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which instrument is used to detect and count radiation?",
+    "options": [
+     "Voltmeter",
+     "Geiger-Müller tube",
+     "Thermometer",
+     "Ammeter"
+    ],
+    "answer": 1,
+    "explanation": "A Geiger-Müller tube with a counter detects ionising radiation as counts per second or minute.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A sample has a half-life of 6 hours and an initial activity of 240 counts per second. What is its activity after 24 hours?",
+    "options": [
+     "15 counts per second",
+     "60 counts per second",
+     "30 counts per second",
+     "0 counts per second"
+    ],
+    "answer": 0,
+    "explanation": "24 hours is 4 half-lives. 240 → 120 → 60 → 30 → 15.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which row correctly ranks the penetrating power of the three radiations from least to most?",
+    "options": [
+     "Gamma, beta, alpha",
+     "Beta, alpha, gamma",
+     "Alpha, gamma, beta",
+     "Alpha, beta, gamma"
+    ],
+    "answer": 3,
+    "explanation": "Alpha is stopped by paper, beta by a few millimetres of aluminium, and gamma needs thick lead or concrete to reduce it.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Radium-226 (atomic number 88) decays by emitting an alpha particle. What are the mass number and atomic number of the new nucleus?",
+    "options": [
+     "222 and 88",
+     "226 and 90",
+     "222 and 86",
+     "230 and 90"
+    ],
+    "answer": 2,
+    "explanation": "Alpha emission removes 4 from the mass number and 2 from the atomic number: 226 − 4 = 222 and 88 − 2 = 86.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A nucleus undergoes beta-minus decay. What happens in the nucleus?",
+    "options": [
+     "A proton changes into a neutron",
+     "A neutron changes into a proton and an electron is emitted",
+     "Two protons and two neutrons are emitted",
+     "The nucleus loses energy only"
+    ],
+    "answer": 1,
+    "explanation": "In beta-minus decay a neutron becomes a proton, so atomic number rises by 1 while mass number stays the same.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Carbon-14 decays by beta-minus emission. Its nucleus has 6 protons and 8 neutrons. What does the daughter nucleus have?",
+    "options": [
+     "7 protons and 7 neutrons",
+     "5 protons and 9 neutrons",
+     "6 protons and 8 neutrons",
+     "8 protons and 6 neutrons"
+    ],
+    "answer": 0,
+    "explanation": "A neutron becomes a proton: protons 6 + 1 = 7, neutrons 8 − 1 = 7. The mass number is still 14 (nitrogen-14).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A radioactive source has a half-life of 3 days. What fraction of the original nuclei remain after 9 days?",
+    "options": [
+     "1/6",
+     "1/3",
+     "1/9",
+     "1/8"
+    ],
+    "answer": 3,
+    "explanation": "9 days is 3 half-lives, so (1/2)³ = 1/8.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The background count in a laboratory is 20 counts per minute. A source gives a total reading of 260 counts per minute. What is the count rate from the source alone?",
+    "options": [
+     "280 counts per minute",
+     "260 counts per minute",
+     "240 counts per minute",
+     "13 counts per minute"
+    ],
+    "answer": 2,
+    "explanation": "Subtract background radiation: 260 − 20 = 240 counts per minute.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of these is a source of background radiation?",
+    "options": [
+     "Visible light from a lamp",
+     "Radon gas from rocks",
+     "Sound waves",
+     "A battery"
+    ],
+    "answer": 1,
+    "explanation": "Natural sources include radon gas, rocks and soil, cosmic rays and food. Visible light, sound and batteries are not ionising radiation sources.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The count rate (corrected for background) from a sample falls from 800 to 100 counts per minute in 36 minutes. What is the half-life?",
+    "options": [
+     "12 minutes",
+     "9 minutes",
+     "18 minutes",
+     "36 minutes"
+    ],
+    "answer": 0,
+    "explanation": "800 → 400 → 200 → 100 is 3 halvings in 36 minutes, so the half-life is 36 ÷ 3 = 12 minutes.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Uranium-238 (atomic number 92) emits an alpha particle, and the new nucleus then emits a beta-minus particle. What is the final nucleus?",
+    "options": [
+     "Mass number 234, atomic number 90",
+     "Mass number 238, atomic number 91",
+     "Mass number 232, atomic number 90",
+     "Mass number 234, atomic number 91"
+    ],
+    "answer": 3,
+    "explanation": "After alpha: 234, 90. After beta-minus the mass number stays 234 and atomic number goes up by 1 to 91.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Student data: count rate corrected for background is 640 at 0 min, 320 at 5 min, 160 at 10 min, 80 at 15 min. Which statement is best supported?",
+    "options": [
+     "Half-life is 10 minutes because the rate fell to 160",
+     "The half-life increases as the sample gets smaller",
+     "Half-life is 5 minutes and it is constant for each interval",
+     "The sample will reach zero at 20 minutes"
+    ],
+    "answer": 2,
+    "explanation": "The rate halves every 5 minutes, which is the pattern for exponential decay. The sample never reaches exactly zero.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A source of half-life 2 hours has an activity of 960 counts per minute. A technician needs to know when it falls below 100 counts per minute. Which is the earliest time listed after which this is true?",
+    "options": [
+     "6 hours",
+     "8 hours",
+     "4 hours",
+     "2 hours"
+    ],
+    "answer": 1,
+    "explanation": "960 → 480 (2 h) → 240 (4 h) → 120 (6 h) → 60 (8 h). It is first below 100 at 8 hours.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Sample P has a half-life of 10 minutes. Sample Q has a half-life of 10 days. Both start with the same number of nuclei. Which statement is correct about their initial activities?",
+    "options": [
+     "P has the higher activity because its nuclei decay faster",
+     "Q has the higher activity because it lasts longer",
+     "They have the same activity because they have the same number of nuclei",
+     "Neither is radioactive"
+    ],
+    "answer": 0,
+    "explanation": "A short half-life means each nucleus is more likely to decay in a given time, so P has the higher initial activity but runs out sooner.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What is radioactive decay?\nSome nuclei are unstable because of the balance of protons and neutrons. They become more stable by emitting radiation. This is **radioactive decay**. It is **random**: you cannot say when one particular nucleus will decay, but in a large sample the overall pattern is predictable. It is also **spontaneous**, meaning it is not affected by temperature, pressure or chemical reactions.\n\n## Three types of radiation\n- **Alpha (α)**: two protons and two neutrons (a helium nucleus), charge +2. Strongly ionising, stopped by paper or a few centimetres of air.\n- **Beta-minus (β)**: a fast electron from the nucleus, charge −1. Moderately ionising, stopped by a few millimetres of aluminium.\n- **Gamma (γ)**: high-frequency electromagnetic radiation, no charge. Weakly ionising, reduced by thick lead or concrete.\nAlpha is the most ionising but the least penetrating. Gamma is the opposite.\n\n## Nuclear equations\nIn decay, mass number and atomic number must balance on both sides.\n- Alpha decay: mass number falls by 4, atomic number falls by 2. Radium-226 (88) becomes radon-222 (86).\n- Beta-minus decay: a neutron turns into a proton plus an electron. Mass number stays the same, atomic number rises by 1. Carbon-14 (6) becomes nitrogen-14 (7).\n- Gamma emission: no change in mass number or atomic number, the nucleus only loses energy.\n\n## Activity and half-life\n**Activity** is the number of nuclei decaying each second, measured in becquerel (Bq). The **half-life** is the time for the activity (or the number of undecayed nuclei) of a sample to fall to half. It is constant for a given isotope, from seconds to billions of years.\n\nWorked example: a sample has an activity of 800 Bq and a half-life of 4 hours. After 12 hours, that is 3 half-lives, the activity is 800 → 400 → 200 → 100 Bq.\n\nOn a graph of activity against time, the curve falls steeply at first, then more slowly, and never quite reaches zero. To find the half-life, read the time for the value to drop by half, and check it with a second halving to be sure.\n\n## Background radiation\nA Geiger-Müller tube always counts some radiation even with no source nearby. This comes from radon gas, rocks, cosmic rays and food. Always subtract the background count to find the count from the source.\n\n## Common mistakes\n- Thinking that after two half-lives everything has decayed. A quarter is left.\n- Forgetting that mass number does not change in beta decay.\n- Using the raw count without subtracting background.\n\n## How this is examined\nYou may be given a table of count rates over time and asked to draw a graph, determine the half-life, predict a later reading, and evaluate the reliability of the data (for example the effect of background radiation and random fluctuations). Nuclear equations are usually in a short calculation question.\n\nExam tip: For half-life problems, write out each halving step (800 → 400 → 200) so you can pick up method marks even if you miscount the number of half-lives.",
+  "flashcards": [
+   {
+    "front": "Alpha particle",
+    "back": "Two protons and two neutrons (a helium nucleus). Strongly ionising, stopped by paper."
+   },
+   {
+    "front": "Beta-minus particle",
+    "back": "A fast electron emitted when a neutron changes to a proton. Stopped by a few millimetres of aluminium."
+   },
+   {
+    "front": "Gamma ray",
+    "back": "High-frequency electromagnetic wave from the nucleus. Weakly ionising, needs thick lead or concrete to reduce it."
+   },
+   {
+    "front": "Alpha decay changes",
+    "back": "Mass number falls by 4 and atomic number falls by 2."
+   },
+   {
+    "front": "Beta-minus decay changes",
+    "back": "Mass number stays the same and atomic number rises by 1."
+   },
+   {
+    "front": "Half-life",
+    "back": "The time taken for half the undecayed nuclei, or the activity, of a radioactive sample to fall to half."
+   },
+   {
+    "front": "Activity",
+    "back": "The number of nuclei decaying per second, measured in becquerel (Bq)."
+   },
+   {
+    "front": "Why is decay random?",
+    "back": "It is impossible to predict when one given nucleus will decay, although the behaviour of a large sample is predictable."
+   },
+   {
+    "front": "Background radiation",
+    "back": "Radiation always present from radon gas, rocks, cosmic rays and food. Subtract it from the measured count."
+   }
+  ]
+ },
+ {
+  "subject": "physics",
+  "grade": 5,
+  "topic": "Atomic Physics and Radioactivity",
+  "subTopic": "Uses and Dangers of Radiation",
+  "questions": [
+   {
+    "content": "Which radioactive isotope is commonly used inside smoke detectors?",
+    "options": [
+     "Cobalt-60, a gamma emitter",
+     "Americium-241, an alpha emitter",
+     "Technetium-99m, a gamma emitter",
+     "Carbon-14, a beta emitter"
+    ],
+    "answer": 1,
+    "explanation": "Smoke detectors use an alpha source because alpha particles ionise air to make a small current, which smoke interrupts.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why is gamma radiation used to sterilise surgical instruments?",
+    "options": [
+     "It is penetrating and kills microorganisms",
+     "It makes instruments radioactive",
+     "It heats the instruments to 100 °C",
+     "It dissolves bacteria"
+    ],
+    "answer": 0,
+    "explanation": "Gamma passes through packaging and kills bacteria. The instruments do not become radioactive.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Ionising radiation is dangerous mainly because it can …",
+    "options": [
+     "make people magnetic",
+     "cool down body tissue",
+     "stop the heart immediately in all cases",
+     "damage or mutate cells in living things"
+    ],
+    "answer": 3,
+    "explanation": "Ionising radiation can damage DNA, causing cell death or mutations that may lead to cancer.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is the best way to reduce the dose from a gamma source?",
+    "options": [
+     "Hold it close with bare hands",
+     "Keep it in a plastic bag",
+     "Stand further away and use lead shielding",
+     "Warm the source"
+    ],
+    "answer": 2,
+    "explanation": "Dose falls with distance and with absorbers such as lead. Less time in exposure also helps.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a radioactive tracer?",
+    "options": [
+     "A device for measuring speed",
+     "A radioactive substance used to follow a process",
+     "A type of X-ray machine",
+     "A gas used in smoke alarms"
+    ],
+    "answer": 1,
+    "explanation": "Tracers are injected or added and then detected from outside to follow flow, leaks or organ function.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A hospital needs a tracer to inject into a patient for a scan. Which properties are best?",
+    "options": [
+     "Gamma emitter with a short half-life",
+     "Alpha emitter with a long half-life",
+     "Beta emitter with a long half-life",
+     "Alpha emitter with a short half-life"
+    ],
+    "answer": 0,
+    "explanation": "Gamma passes out of the body to be detected, and a short half-life means activity quickly falls, reducing dose.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A factory monitors the thickness of aluminium foil with a radiation source on one side and a detector on the other. Which source is most suitable?",
+    "options": [
+     "Alpha emitter",
+     "Gamma emitter",
+     "Visible light",
+     "Beta emitter"
+    ],
+    "answer": 3,
+    "explanation": "Alpha cannot get through the foil, and gamma passes through almost unaffected. Beta is partly absorbed, so the reading changes with thickness.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Radiotherapy uses beams of gamma rays from several directions that meet at a tumour. Why?",
+    "options": [
+     "To make the tumour radioactive",
+     "To heat the body evenly",
+     "To give a high dose to the tumour and a lower dose to healthy tissue",
+     "To avoid needing any shielding"
+    ],
+    "answer": 2,
+    "explanation": "Beams overlap only at the tumour, so healthy tissue along each path receives a smaller dose.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the difference between irradiation and contamination?",
+    "options": [
+     "Irradiation is for alpha only and contamination is for gamma only",
+     "Irradiation is exposure to radiation from outside, contamination is radioactive material getting on or in the body",
+     "They mean the same thing",
+     "Contamination is exposure through a lead shield"
+    ],
+    "answer": 1,
+    "explanation": "An irradiated object does not become radioactive. A contaminated object carries radioactive atoms that keep emitting.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is an alpha source more dangerous when swallowed than when held outside the body?",
+    "options": [
+     "Its radiation is strongly ionising and is absorbed by internal tissue",
+     "Alpha penetrates through the body to the detector",
+     "Alpha is weaker inside the body",
+     "It turns into gamma"
+    ],
+    "answer": 0,
+    "explanation": "Outside the body, skin and air stop alpha. Inside, all its energy is absorbed by living cells.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Carbon-14 has a half-life of 5730 years. A wooden object has one quarter of the carbon-14 activity of living wood. About how old is it?",
+    "options": [
+     "5730 years",
+     "22 920 years",
+     "2865 years",
+     "11 460 years"
+    ],
+    "answer": 3,
+    "explanation": "One quarter is two half-lives: 2 × 5730 = 11 460 years.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Workers who handle radioactive sources wear a film badge. What is its purpose?",
+    "options": [
+     "To block all radiation",
+     "To make the source safe",
+     "To measure how much radiation they have been exposed to",
+     "To detect smoke"
+    ],
+    "answer": 2,
+    "explanation": "A film badge darkens with radiation, which allows staff dose to be monitored.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which storage method is best for long-lived, highly radioactive nuclear waste?",
+    "options": [
+     "Dumped in a river",
+     "Sealed in shielded containers and buried deep underground",
+     "Burned in a normal furnace",
+     "Left in an open pit"
+    ],
+    "answer": 1,
+    "explanation": "Waste stays hazardous for thousands of years, so it must be isolated and shielded.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A technician must choose a tracer to check for a leak in an underground water pipe. Which choice is best?",
+    "options": [
+     "A gamma emitter with a half-life of a few hours",
+     "An alpha emitter with a half-life of 1000 years",
+     "A beta emitter with a half-life of 30 years",
+     "An alpha emitter with a half-life of a few hours"
+    ],
+    "answer": 0,
+    "explanation": "Gamma passes through soil to a detector at the surface. A few hours means it will not stay in the environment for long.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A source has a half-life of 8 days. A technician is allowed to work around it only when the activity is below 10% of its initial value. Which is the earliest time listed that is safe?",
+    "options": [
+     "16 days",
+     "24 days",
+     "8 days",
+     "32 days"
+    ],
+    "answer": 3,
+    "explanation": "After 3 half-lives the activity is 12.5%, after 4 it is 6.25%. So 4 × 8 = 32 days is the first listed time below 10%.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which argument best justifies using radiotherapy even though radiation is harmful?",
+    "options": [
+     "Radiation is completely safe in medical use",
+     "Gamma rays only affect cancer cells",
+     "The benefit of destroying the tumour can outweigh the risk, and the dose is controlled and targeted",
+     "The treatment makes the patient radioactive"
+    ],
+    "answer": 2,
+    "explanation": "Risks and benefits are weighed. Targeting and controlled dose reduce harm, but healthy tissue can still be damaged.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student suggests that a thick sheet of paper will protect them from a cobalt-60 gamma source. Which evaluation is correct?",
+    "options": [
+     "Correct: paper stops all radiation",
+     "Incorrect: gamma passes through paper and needs thick lead or concrete",
+     "Correct: gamma is the same as alpha",
+     "Incorrect: paper makes gamma more dangerous"
+    ],
+    "answer": 1,
+    "explanation": "Paper only stops alpha. Gamma is highly penetrating and is only reduced, not fully stopped, by dense shielding.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A sealed gamma source is used to sterilise food. Which statement about the food is correct?",
+    "options": [
+     "The food is not made radioactive because gamma only irradiates it",
+     "The food becomes radioactive because it absorbs gamma",
+     "The food becomes hot enough to cook",
+     "Only the packaging is sterilised"
+    ],
+    "answer": 0,
+    "explanation": "Irradiation exposes food to radiation, but does not transfer radioactive atoms, so the food does not become radioactive.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## Why radiation is useful\nDifferent radiations have different properties, so we choose the type, source and half-life to match the job. The main thing to think about is which radiation can reach the detector or the target, and how long the source stays active.\n\n## Medical uses\n- **Tracers**: a small amount of a gamma-emitting isotope, such as technetium-99m (half-life about 6 hours), is injected. A gamma camera outside the body detects where it goes, to check organs or blood flow. A short half-life means the patient's dose falls quickly.\n- **Radiotherapy**: narrow beams of gamma rays from several directions are focused on a tumour. This gives the tumour a high dose while each healthy area receives a smaller one.\n- **Sterilising equipment**: gamma kills bacteria on sealed surgical tools without heating them.\n\n## Industrial and other uses\n- **Smoke detectors** contain an alpha source (americium-241). Alpha particles ionise air to make a tiny current. When smoke enters, the current drops and the alarm sounds.\n- **Thickness gauges**: for paper, plastic or metal foil, a beta source on one side and a detector on the other. If the material gets thicker, fewer particles get through and the machine adjusts the rollers.\n- **Leak detection**: a gamma tracer in a pipe is detected above ground where it escapes.\n- **Radiocarbon dating**: living things take in carbon-14. After death, no more is taken in and the carbon-14 decays with a half-life of 5730 years. Comparing a sample's activity with living material gives its age. Example: one quarter of the original activity means 2 half-lives, 2 × 5730 = 11 460 years.\n- **Food irradiation**: gamma kills microbes so food lasts longer.\n\n## Dangers\nIonising radiation can remove electrons from atoms, damaging DNA in cells. High doses kill cells and cause radiation sickness. Lower doses can cause mutations and cancer later. Alpha is most dangerous inside the body, while gamma is dangerous from outside because it penetrates.\n\n**Irradiation** means being exposed to radiation from a source outside the body. The person does not become radioactive. **Contamination** means radioactive atoms get onto or into the body or an object, which keeps emitting until they decay or are removed.\n\n## Reducing the risk\n- Limit the time of exposure.\n- Increase the distance, using tongs to handle sources.\n- Use shielding such as lead or concrete.\n- Store sources in lead-lined containers and wear a film badge to measure the dose.\n- Dispose of nuclear waste in shielded containers, buried deep underground.\n\n## Weighing risks and benefits\nMany exam tasks ask you to evaluate. A good answer states the benefit (for example, treating cancer), the risk (damage to healthy cells), how the risk is controlled (targeting, limited dose) and a clear judgement.\n\n## How this is examined\nYou will often get a scenario and a table of sources (type of radiation, half-life) and have to choose the best one and justify it using penetration, half-life and safety.\n\nExam tip: When justifying a choice of source, link three things: the type of radiation (penetrating power), the half-life (how long it lasts) and the hazard (inside or outside the body).",
+  "flashcards": [
+   {
+    "front": "Smoke detector source",
+    "back": "Americium-241, an alpha emitter. Smoke reduces the small ionisation current in air and triggers the alarm."
+   },
+   {
+    "front": "Why is a medical tracer a gamma emitter with short half-life?",
+    "back": "Gamma leaves the body to be detected, and a short half-life means the activity (and dose to the patient) falls quickly."
+   },
+   {
+    "front": "Thickness gauge radiation",
+    "back": "Beta emitter: partly absorbed by foil, so the detected count changes with thickness. Alpha is stopped, gamma passes through."
+   },
+   {
+    "front": "Radiotherapy",
+    "back": "Gamma beams from several directions meet at the tumour, giving it a high dose while healthy tissue gets less."
+   },
+   {
+    "front": "Radiocarbon dating",
+    "back": "Carbon-14 (half-life 5730 years) decays after death. Comparing remaining activity with living material gives the age."
+   },
+   {
+    "front": "Irradiation",
+    "back": "Exposure to radiation from an outside source. The object or person does not become radioactive."
+   },
+   {
+    "front": "Contamination",
+    "back": "Radioactive material gets on or inside an object or person, so it keeps emitting radiation."
+   },
+   {
+    "front": "Ways to reduce exposure",
+    "back": "Reduce time, increase distance (use tongs), and use shielding such as lead or concrete."
+   },
+   {
+    "front": "Why is ionising radiation harmful?",
+    "back": "It can damage DNA in cells, causing cell death or mutation, which may lead to cancer."
+   }
+  ]
+ }
+]

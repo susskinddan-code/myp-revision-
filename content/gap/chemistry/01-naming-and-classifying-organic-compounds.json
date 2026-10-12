@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "chemistry",
+  "grade": 5,
+  "topic": "Naming and Classifying Organic Compounds",
+  "subTopic": "IUPAC Naming of Alkanes and Alkenes",
+  "questions": [
+   {
+    "content": "Which general formula represents the alkanes?",
+    "options": [
+     "CₙH₂ₙ",
+     "CₙH₂ₙ₊₂",
+     "CₙH₂ₙ₋₂",
+     "CₙHₙ"
+    ],
+    "answer": 1,
+    "explanation": "Alkanes are saturated hydrocarbons with the general formula CₙH₂ₙ₊₂. CₙH₂ₙ is the alkene formula.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the name of the hydrocarbon with the formula C₃H₈?",
+    "options": [
+     "Propene",
+     "Propane",
+     "Butane",
+     "Ethane"
+    ],
+    "answer": 1,
+    "explanation": "Three carbons gives the stem prop-, and C₃H₈ fits CₙH₂ₙ₊₂, so it is propane.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why are alkenes described as unsaturated?",
+    "options": [
+     "They contain a C=C double bond",
+     "They contain oxygen",
+     "They dissolve in water",
+     "They have no hydrogen atoms"
+    ],
+    "answer": 0,
+    "explanation": "Unsaturated means the molecule has at least one carbon-carbon double bond, so it holds fewer hydrogen atoms than the alkane with the same number of carbons.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A few drops of bromine water are shaken with an alkene. What do you observe?",
+    "options": [
+     "Orange to colourless",
+     "Colourless to orange",
+     "Orange to blue-black",
+     "No change at all"
+    ],
+    "answer": 0,
+    "explanation": "Alkenes add bromine across the double bond, so the orange colour disappears. Alkanes give no change in the dark.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which prefix in an organic name shows a chain of four carbon atoms?",
+    "options": [
+     "Prop-",
+     "Pent-",
+     "But-",
+     "Eth-"
+    ],
+    "answer": 2,
+    "explanation": "The stems are meth-, eth-, prop-, but-, pent-, hex- for 1 to 6 carbons.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the molecular formula of hexane?",
+    "options": [
+     "C₆H₁₂",
+     "C₆H₁₄",
+     "C₆H₁₀",
+     "C₅H₁₂"
+    ],
+    "answer": 1,
+    "explanation": "Hexane is an alkane with n = 6, so CₙH₂ₙ₊₂ gives C₆H₁₄.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the molecular formula of pentene?",
+    "options": [
+     "C₅H₁₂",
+     "C₅H₁₀",
+     "C₅H₈",
+     "C₄H₁₀"
+    ],
+    "answer": 1,
+    "explanation": "Pentene is an alkene with n = 5, so CₙH₂ₙ gives C₅H₁₀.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the name of CH₃CH₂CH=CH₂?",
+    "options": [
+     "But-1-ene",
+     "But-2-ene",
+     "Propene",
+     "Butane"
+    ],
+    "answer": 0,
+    "explanation": "There are four carbons so the stem is but-. The double bond starts at carbon 1 when numbering from the nearer end, giving but-1-ene.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the correct name of CH₃CH(CH₃)CH₃?",
+    "options": [
+     "Butane",
+     "Propane",
+     "2-methylpropane",
+     "1-methylpropane"
+    ],
+    "answer": 2,
+    "explanation": "The longest chain has three carbons (propane) with a methyl branch on carbon 2, so it is 2-methylpropane.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which products form when methane burns completely in plenty of oxygen?",
+    "options": [
+     "Carbon and water",
+     "Carbon monoxide and hydrogen",
+     "Carbon dioxide and water",
+     "Carbon dioxide and hydrogen"
+    ],
+    "answer": 2,
+    "explanation": "Complete combustion of any hydrocarbon gives carbon dioxide and water.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Ethene reacts with bromine water at room temperature but ethane does not. What is the best explanation?",
+    "options": [
+     "Ethene has a double bond that can open up and add atoms",
+     "Ethene is heavier than ethane",
+     "Ethane contains more carbon atoms",
+     "Ethene is a liquid"
+    ],
+    "answer": 0,
+    "explanation": "The C=C bond in ethene is reactive and can break to form two new single bonds. Ethane has only strong single bonds, so it does not add bromine.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Ethene reacts with bromine in an addition reaction. What is the product?",
+    "options": [
+     "Bromoethane",
+     "1,2-dibromoethane",
+     "Ethanol",
+     "Carbon dioxide"
+    ],
+    "answer": 1,
+    "explanation": "One bromine atom adds to each carbon of the double bond, giving 1,2-dibromoethane. Only one product forms in addition reactions.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A hydrocarbon has the formula C₇H₁₄ and turns bromine water from orange to colourless. Which type of compound is it most likely to be?",
+    "options": [
+     "An alkane",
+     "An alkene",
+     "A carboxylic acid",
+     "An alcohol"
+    ],
+    "answer": 1,
+    "explanation": "C₇H₁₄ fits CₙH₂ₙ and the bromine test is positive, so it is an alkene (heptene).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the name of CH₃CH₂CH(CH₃)CH₂CH₃?",
+    "options": [
+     "2-methylpentane",
+     "3-methylpentane",
+     "Hexane",
+     "2-ethylbutane"
+    ],
+    "answer": 1,
+    "explanation": "The longest chain is five carbons (pentane). Numbering from either end puts the methyl branch on carbon 3, so it is 3-methylpentane.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Decane (C₁₀H₂₂) is cracked into octane and one other product. What is the formula of the other product?",
+    "options": [
+     "C₂H₆",
+     "C₂H₄",
+     "C₂H₂",
+     "CH₄"
+    ],
+    "answer": 1,
+    "explanation": "Atoms must balance: C₁₀H₂₂ → C₈H₁₈ + C₂H₄. The product C₂H₄ is ethene, an alkene, which is why cracking makes alkenes.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student gives these names. Which one is NOT a correct IUPAC name?",
+    "options": [
+     "2-methylbutane",
+     "1-methylpropane",
+     "2,2-dimethylpropane",
+     "3-methylhexane"
+    ],
+    "answer": 1,
+    "explanation": "1-methylpropane is wrong because the chain would continue and the longest chain is four carbons, so the compound is really butane. A methyl group cannot sit on an end carbon.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Propane burns completely: C₃H₈ + 5O₂ → 3CO₂ + 4H₂O. What mass of carbon dioxide forms from 4.4 g of propane? (Mᵣ of propane = 44, Mᵣ of CO₂ = 44)",
+    "options": [
+     "4.4 g",
+     "8.8 g",
+     "13.2 g",
+     "17.6 g"
+    ],
+    "answer": 2,
+    "explanation": "4.4 g ÷ 44 = 0.1 mol of propane. The ratio is 1 : 3, so 0.3 mol CO₂ forms, and 0.3 × 44 = 13.2 g.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Ignoring cis-trans differences, how many different unbranched alkenes have the formula C₅H₁₀?",
+    "options": [
+     "1",
+     "2",
+     "3",
+     "4"
+    ],
+    "answer": 1,
+    "explanation": "The double bond can be in position 1 or 2 (pent-1-ene and pent-2-ene). Positions 3 and 4 just repeat the same molecules numbered from the other end.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Organic chemistry is the chemistry of carbon compounds, and hydrocarbons are the simplest family. A hydrocarbon contains only carbon and hydrogen. In MYP 5 you need to recognise two homologous series, the alkanes and the alkenes, and name them using the IUPAC system, the agreed international method that makes sure every chemist uses the same name for the same molecule.\n\n## The stems\nThe first part of a name tells you how many carbon atoms are in the longest continuous chain.\n- **meth-** (1 carbon)\n- **eth-** (2 carbons)\n- **prop-** (3 carbons)\n- **but-** (4 carbons)\n- **pent-** (5 carbons)\n- **hex-** (6 carbons)\n\n## Alkanes\nAlkanes are saturated: every carbon-carbon bond is a single bond. Their general formula is CₙH₂ₙ₊₂, so methane is CH₄, ethane is C₂H₆, propane is C₃H₈ and butane is C₄H₁₀. Names end in **-ane**. They are fairly unreactive, but they burn. In plenty of oxygen the products are carbon dioxide and water; in limited oxygen you can get carbon monoxide or carbon (soot).\n\n## Alkenes\nAlkenes are unsaturated: they contain at least one carbon-carbon double bond. Their general formula is CₙH₂ₙ and names end in **-ene**. Ethene is C₂H₄ and propene is C₃H₆. Because the double bond can open up, alkenes take part in addition reactions. The test for an alkene is bromine water: it changes from orange to colourless. Alkanes do not decolourise bromine water in the dark.\n\n## Branches and positions\nWhen the chain has a side group, follow these steps:\n- Find the longest continuous chain of carbon atoms and name it.\n- Number the chain from the end that gives the lowest numbers to the branches or the double bond.\n- Name each branch (a one-carbon branch is methyl, a two-carbon branch is ethyl) and put its number first.\n- Use di- or tri- if the same branch appears twice, such as 2,2-dimethylpropane.\n- For alkenes, give the position of the double bond: but-1-ene has the double bond between carbons 1 and 2, but-2-ene between carbons 2 and 3.\n\nWorked example: CH₃CH₂CH(CH₃)CH₂CH₃. The longest chain has five carbons, so the stem is pentane. The methyl group is on carbon 3 whichever end you count from, so the name is 3-methylpentane.\n\n## Cracking\nLarge alkanes from crude oil are broken into smaller, more useful molecules by cracking, using heat and a catalyst. Cracking always makes at least one alkene. For example C₁₀H₂₂ → C₈H₁₈ + C₂H₄. Check that atoms balance on both sides.\n\n## Common mistakes\n- Choosing a chain that is not the longest. Always look for the longest path, even if it bends on the page.\n- Numbering from the wrong end. Pick the direction that gives the smaller number.\n- Forgetting the number for the double bond in alkenes with four or more carbons.\n- Mixing up the formulae: alkanes CₙH₂ₙ₊₂, alkenes CₙH₂ₙ.\n\n## How this is examined\nQuestions usually place the compounds in a context, for example a fuel company comparing a gas cylinder with a petrol sample, or a lab report where bromine water was added to two unknown liquids. You may be asked to name a structure, write the formula from the name, state what a colour change shows, explain why a reaction occurs, and evaluate whether a conclusion from the data is justified. Command terms such as state, identify, explain and justify tell you how much detail is needed.\n\nExam tip: When asked to name a compound, write the longest chain first, check the numbering gives the lowest numbers, and count atoms with the general formula to make sure your name matches the formula given.",
+  "flashcards": [
+   {
+    "front": "Alkane general formula",
+    "back": "CₙH₂ₙ₊₂. Alkanes are saturated hydrocarbons with only single C-C bonds, for example C₄H₁₀."
+   },
+   {
+    "front": "Alkene general formula",
+    "back": "CₙH₂ₙ. Alkenes are unsaturated hydrocarbons containing a C=C double bond, for example C₃H₆."
+   },
+   {
+    "front": "Stems for 1 to 6 carbons",
+    "back": "meth-, eth-, prop-, but-, pent-, hex-."
+   },
+   {
+    "front": "Test for an alkene",
+    "back": "Shake with bromine water. Alkene: orange to colourless. Alkane: stays orange."
+   },
+   {
+    "front": "What does saturated mean?",
+    "back": "Every carbon-carbon bond is a single bond, so the molecule holds as many hydrogen atoms as possible."
+   },
+   {
+    "front": "Products of complete combustion of a hydrocarbon",
+    "back": "Carbon dioxide and water."
+   },
+   {
+    "front": "What is cracking?",
+    "back": "Breaking large alkanes into smaller alkanes and alkenes using heat and a catalyst."
+   },
+   {
+    "front": "How do you name a branched alkane?",
+    "back": "Find the longest chain, number from the end giving lowest numbers, then write branch number and name before the stem, e.g. 2-methylbutane."
+   },
+   {
+    "front": "What does but-2-ene tell you?",
+    "back": "Four carbons in the chain and the double bond starts at carbon 2."
+   }
+  ]
+ },
+ {
+  "subject": "chemistry",
+  "grade": 5,
+  "topic": "Naming and Classifying Organic Compounds",
+  "subTopic": "Alcohols, Carboxylic Acids and Esters",
+  "questions": [
+   {
+    "content": "Which functional group is present in all alcohols?",
+    "options": [
+     "-COOH",
+     "-OH",
+     "-COO-",
+     "C=C"
+    ],
+    "answer": 1,
+    "explanation": "Alcohols contain the hydroxyl group, -OH. -COOH is the carboxylic acid group.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the name of the alcohol with the formula C₂H₅OH?",
+    "options": [
+     "Methanol",
+     "Ethanol",
+     "Ethanoic acid",
+     "Propanol"
+    ],
+    "answer": 1,
+    "explanation": "Two carbons give eth-, and the -OH group gives the ending -ol, so the name is ethanol.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which functional group is present in carboxylic acids?",
+    "options": [
+     "-OH",
+     "-COOH",
+     "C=C",
+     "-COO-"
+    ],
+    "answer": 1,
+    "explanation": "The carboxyl group, -COOH, is the functional group of carboxylic acids such as ethanoic acid.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which property is typical of esters?",
+    "options": [
+     "Sweet, fruity smell",
+     "Strong smell of vinegar",
+     "Turn orange bromine water colourless",
+     "Strongly alkaline"
+    ],
+    "answer": 0,
+    "explanation": "Many esters have pleasant, fruity smells and are used in flavourings and perfumes.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which compound gives vinegar its sour taste?",
+    "options": [
+     "Ethanol",
+     "Ethanoic acid",
+     "Ethyl ethanoate",
+     "Ethene"
+    ],
+    "answer": 1,
+    "explanation": "Vinegar is a dilute solution of ethanoic acid.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the molecular formula of propan-1-ol?",
+    "options": [
+     "C₃H₆O",
+     "C₃H₈O",
+     "C₃H₇O₂",
+     "C₂H₆O"
+    ],
+    "answer": 1,
+    "explanation": "Propan-1-ol is CH₃CH₂CH₂OH, which has 3 carbon, 8 hydrogen and 1 oxygen atom: C₃H₈O.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Methanol reacts with ethanoic acid to make an ester. What is the name of the ester?",
+    "options": [
+     "Ethyl methanoate",
+     "Methyl ethanoate",
+     "Methyl methanoate",
+     "Ethyl ethanoate"
+    ],
+    "answer": 1,
+    "explanation": "The alkyl part comes from the alcohol (methyl) and the second part from the acid (ethanoate), giving methyl ethanoate.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An alcohol and a carboxylic acid are heated with a few drops of concentrated sulfuric acid. Which two products form?",
+    "options": [
+     "Ester and water",
+     "Ester and carbon dioxide",
+     "Alkene and water",
+     "Salt and hydrogen"
+    ],
+    "answer": 0,
+    "explanation": "Esterification is a condensation reaction that produces an ester and water. The sulfuric acid is a catalyst.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which set of conditions is used to make ethanol by fermentation of glucose?",
+    "options": [
+     "Yeast, about 30 °C, no oxygen",
+     "Nickel, 60 °C, hydrogen",
+     "Steam, 300 °C, catalyst",
+     "Yeast, 100 °C, plenty of air"
+    ],
+    "answer": 0,
+    "explanation": "Yeast enzymes work best at warm temperatures (about 25-35 °C) and in the absence of air. Too hot kills the enzymes, and air allows further oxidation.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Two colourless liquids are labelled ethanol and ethanoic acid. Sodium carbonate is added to each. What do you expect?",
+    "options": [
+     "Both fizz",
+     "Neither fizzes",
+     "Only ethanoic acid fizzes",
+     "Only ethanol fizzes"
+    ],
+    "answer": 2,
+    "explanation": "Carboxylic acids react with carbonates to give carbon dioxide, so they fizz. Alcohols do not.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Fermentation: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂. How many moles of ethanol form from 1 mole of glucose?",
+    "options": [
+     "1",
+     "2",
+     "4",
+     "6"
+    ],
+    "answer": 1,
+    "explanation": "The balanced equation shows a 1 : 2 ratio of glucose to ethanol, so 2 mol.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is ethanoic acid classed as a weak acid?",
+    "options": [
+     "It only partly ionises in water",
+     "It has a low molecular mass",
+     "It does not contain hydrogen",
+     "It reacts with nothing"
+    ],
+    "answer": 0,
+    "explanation": "A weak acid is only partially ionised in solution. Strength is about ionisation, not concentration.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the name of the ester CH₃CH₂COOCH₃?",
+    "options": [
+     "Ethyl ethanoate",
+     "Methyl propanoate",
+     "Propyl methanoate",
+     "Methyl ethanoate"
+    ],
+    "answer": 1,
+    "explanation": "The part with C=O (CH₃CH₂COO-) comes from propanoic acid, and the group on the oxygen is methyl. The name is methyl propanoate.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Propanoic acid is warmed with ethanol and a little concentrated sulfuric acid. What is the ester called?",
+    "options": [
+     "Propyl ethanoate",
+     "Ethyl propanoate",
+     "Ethyl ethanoate",
+     "Propyl propanoate"
+    ],
+    "answer": 1,
+    "explanation": "The alcohol (ethanol) gives ethyl, and the acid (propanoic acid) gives propanoate: ethyl propanoate.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "9.2 g of ethanol (Mᵣ = 46) is completely oxidised to ethanoic acid (Mᵣ = 60). What is the theoretical mass of ethanoic acid?",
+    "options": [
+     "6.0 g",
+     "9.2 g",
+     "12.0 g",
+     "18.4 g"
+    ],
+    "answer": 2,
+    "explanation": "9.2 ÷ 46 = 0.2 mol. The ratio is 1 : 1, so 0.2 mol acid forms and 0.2 × 60 = 12.0 g.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Liquid X has pH 3 and fizzes with sodium carbonate. Liquid Y has pH 7, does not fizz and burns with a clean flame. Which pair is correct?",
+    "options": [
+     "X ethanol, Y ethanoic acid",
+     "X ethanoic acid, Y ethanol",
+     "X ethanoic acid, Y ethyl ethanoate",
+     "Both are ethanol"
+    ],
+    "answer": 1,
+    "explanation": "A low pH and fizzing with carbonate show an acid. A neutral, flammable liquid fits ethanol.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Ethanol can be made by fermentation or by hydrating ethene with steam. Which statement is correct?",
+    "options": [
+     "Fermentation is continuous and gives pure ethanol",
+     "Hydration uses a non-renewable raw material but is fast and continuous",
+     "Fermentation uses crude oil",
+     "Hydration is slow and works in batches"
+    ],
+    "answer": 1,
+    "explanation": "Ethene comes from crude oil, which is finite, but hydration is rapid, continuous and gives pure ethanol. Fermentation uses renewable sugar but is slow, batch-based and makes a dilute mixture.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An ester is made by heating the reactants under reflux. What is the purpose of the reflux condenser?",
+    "options": [
+     "To remove water from the mixture",
+     "To stop volatile liquids escaping by condensing vapours back into the flask",
+     "To cool the flask so no reaction occurs",
+     "To collect the ester as soon as it forms"
+    ],
+    "answer": 1,
+    "explanation": "Alcohols, acids and esters are volatile and flammable. Reflux lets the mixture be heated for a long time without losing liquid or vapour.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Three families of carbon compounds are very common in everyday life: alcohols, carboxylic acids and esters. Each family has a functional group, the atom or group of atoms that decides how the molecule behaves. If you can spot the functional group you can predict the chemistry.\n\n## Alcohols\nAlcohols contain the **-OH** group and their names end in **-ol**. Methanol is CH₃OH, ethanol is C₂H₅OH and propanol is C₃H₇OH. Alcohols burn in air to give carbon dioxide and water, are used as fuels and solvents, and are neutral in solution (pH about 7).\n\nEthanol can be made in two main ways:\n- **Fermentation**: yeast breaks down glucose without oxygen at about 25-35 °C. C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂. It uses a renewable raw material, but is slow and gives a dilute mixture.\n- **Hydration of ethene**: ethene reacts with steam using a catalyst. It is fast and continuous and gives pure ethanol, but ethene comes from crude oil, which is finite.\n\n## Carboxylic acids\nCarboxylic acids contain the **-COOH** group and their names end in **-oic acid**. Methanoic acid is HCOOH, ethanoic acid is CH₃COOH and propanoic acid is CH₃CH₂COOH. Ethanoic acid is the acid in vinegar. These are weak acids because they only partly ionise in water, so their pH is around 3 rather than 1. They still behave like acids: they react with metals to give hydrogen, with bases to give salts, and with carbonates to give carbon dioxide (fizzing). The carbonate test is a quick way to tell a carboxylic acid from an alcohol.\n\nEthanol can be oxidised to ethanoic acid. This is why wine left open to the air turns sour: microbes oxidise the ethanol.\n\n## Esters\nEsters contain the **-COO-** group and often smell sweet and fruity. They are made when a carboxylic acid reacts with an alcohol, with a few drops of concentrated sulfuric acid as a catalyst and gentle heating. Water is also produced:\n\ncarboxylic acid + alcohol ⇌ ester + water\n\nTo name an ester, the first word comes from the alcohol (ethanol gives ethyl) and the second from the acid (ethanoic acid gives ethanoate). Ethanol and ethanoic acid make ethyl ethanoate. Methanol and propanoic acid make methyl propanoate.\n\nWhen making an ester in the lab, the mixture is heated under reflux. A condenser fitted vertically returns the vapours to the flask so that flammable liquids do not escape.\n\n## Worked example\nWhat mass of ethanoic acid forms when 4.6 g of ethanol (Mᵣ = 46) is fully oxidised? Moles of ethanol = 4.6 ÷ 46 = 0.10 mol. The ratio is 1 : 1, so 0.10 mol of acid forms. Mass = 0.10 × 60 = 6.0 g.\n\n## Common mistakes\n- Writing the acid part of an ester name first. The alcohol part comes first.\n- Thinking a weak acid means a dilute acid. Weak describes ionisation, not concentration.\n- Forgetting that water is produced in esterification.\n\n## How this is examined\nExpect a context such as a perfume maker, a brewery or a food lab. You may be asked to identify the functional group, name an ester from its parent compounds, describe a test to tell two liquids apart, or evaluate fermentation against hydration of ethene for sustainability and cost.\n\nExam tip: To tell the families apart, link each with its test: carboxylic acid fizzes with carbonate and has a pH below 7, alcohol does not fizz and is neutral, and an ester has a fruity smell.",
+  "flashcards": [
+   {
+    "front": "Functional group of alcohols",
+    "back": "-OH (hydroxyl). Names end in -ol, e.g. ethanol C₂H₅OH."
+   },
+   {
+    "front": "Functional group of carboxylic acids",
+    "back": "-COOH (carboxyl). Names end in -oic acid, e.g. ethanoic acid CH₃COOH."
+   },
+   {
+    "front": "Functional group of esters",
+    "back": "-COO-. Esters often have sweet, fruity smells."
+   },
+   {
+    "front": "How is an ester made?",
+    "back": "Carboxylic acid + alcohol, with concentrated sulfuric acid catalyst and heat, gives ester + water."
+   },
+   {
+    "front": "Name the ester from ethanol and ethanoic acid",
+    "back": "Ethyl ethanoate. The alcohol gives the first word, the acid gives the second."
+   },
+   {
+    "front": "Fermentation equation",
+    "back": "C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂, using yeast, about 25-35 °C, no oxygen."
+   },
+   {
+    "front": "Why is ethanoic acid a weak acid?",
+    "back": "It only partly ionises in water, so it has a pH of about 3 and fewer free H⁺ ions than a strong acid."
+   },
+   {
+    "front": "Test to tell ethanoic acid from ethanol",
+    "back": "Add sodium carbonate. The acid fizzes (CO₂ forms); ethanol does not."
+   },
+   {
+    "front": "What happens when ethanol is oxidised?",
+    "back": "It forms ethanoic acid, e.g. wine turning to vinegar."
+   }
+  ]
+ },
+ {
+  "subject": "chemistry",
+  "grade": 5,
+  "topic": "Naming and Classifying Organic Compounds",
+  "subTopic": "Structural Formulae and Isomers",
+  "questions": [
+   {
+    "content": "What are isomers?",
+    "options": [
+     "Compounds with the same molecular formula but different structures",
+     "Compounds with the same structure but different formulae",
+     "Atoms of the same element with different neutrons",
+     "Compounds in the same homologous series"
+    ],
+    "answer": 0,
+    "explanation": "Isomers share a molecular formula but have their atoms arranged differently.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does a displayed formula show?",
+    "options": [
+     "Only the number of each atom",
+     "All the atoms and all the bonds",
+     "Only the functional group",
+     "Only the carbon atoms"
+    ],
+    "answer": 1,
+    "explanation": "A displayed formula draws every atom and every bond.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the molecular formula of butane?",
+    "options": [
+     "C₄H₈",
+     "C₄H₁₀",
+     "C₃H₈",
+     "C₅H₁₂"
+    ],
+    "answer": 1,
+    "explanation": "Butane is an alkane with n = 4, so CₙH₂ₙ₊₂ gives C₄H₁₀.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which pair of compounds are isomers?",
+    "options": [
+     "Butane and 2-methylpropane",
+     "Ethane and ethene",
+     "Methane and methanol",
+     "Propane and butane"
+    ],
+    "answer": 0,
+    "explanation": "Both butane and 2-methylpropane have the formula C₄H₁₀ but different structures.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is the condensed formula of ethanol?",
+    "options": [
+     "CH₃CH₃",
+     "CH₃CH₂OH",
+     "CH₃COOH",
+     "CH₂CH₂"
+    ],
+    "answer": 1,
+    "explanation": "Ethanol has a CH₃ group, a CH₂ group and an OH group: CH₃CH₂OH.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "How many structural isomers does pentane (C₅H₁₂) have, including pentane itself?",
+    "options": [
+     "1",
+     "2",
+     "3",
+     "4"
+    ],
+    "answer": 2,
+    "explanation": "The isomers are pentane, 2-methylbutane and 2,2-dimethylpropane.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the molecular formula of 2-methylbutane?",
+    "options": [
+     "C₄H₁₀",
+     "C₅H₁₂",
+     "C₅H₁₀",
+     "C₆H₁₄"
+    ],
+    "answer": 1,
+    "explanation": "Four carbons in the main chain plus one methyl carbon is five carbons, and it is an alkane, so C₅H₁₂.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which compound is an isomer of hexane (C₆H₁₄)?",
+    "options": [
+     "Hex-1-ene",
+     "Cyclohexane",
+     "2-methylpentane",
+     "Heptane"
+    ],
+    "answer": 2,
+    "explanation": "2-methylpentane has the formula C₆H₁₄. Hex-1-ene is C₆H₁₂ and heptane is C₇H₁₆.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Butane boils at about −1 °C and 2-methylpropane at about −12 °C. What is the best explanation?",
+    "options": [
+     "The branched molecule has less surface contact, so weaker forces between molecules",
+     "The branched molecule has fewer atoms",
+     "The branched molecule has stronger covalent bonds",
+     "The branched molecule has a higher mass"
+    ],
+    "answer": 0,
+    "explanation": "Both have the same mass. The branched shape is more compact, giving weaker intermolecular forces, so less energy is needed to separate the molecules.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Ethanol and methoxymethane both have the formula C₂H₆O. What is true about them?",
+    "options": [
+     "They have the same molecular formula but different functional groups",
+     "They have the same functional group",
+     "They are the same compound",
+     "They have different molecular formulae"
+    ],
+    "answer": 0,
+    "explanation": "They are isomers: same atoms, different arrangement, so they behave differently.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Ignoring cis-trans forms, how many alkenes have the formula C₄H₈ with an open chain?",
+    "options": [
+     "1",
+     "2",
+     "3",
+     "4"
+    ],
+    "answer": 2,
+    "explanation": "They are but-1-ene, but-2-ene and 2-methylpropene.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which condensed formula represents 2-methylpropane?",
+    "options": [
+     "CH₃CH₂CH₂CH₃",
+     "CH₃CH(CH₃)CH₃",
+     "CH₃C(CH₃)₂CH₃",
+     "CH₃CH₂CH₃"
+    ],
+    "answer": 1,
+    "explanation": "Three carbons in the chain with a methyl on carbon 2 gives CH₃CH(CH₃)CH₃.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student draws two different-looking displayed structures for C₃H₈ and says they are isomers. Which comment is correct?",
+    "options": [
+     "Correct, because they look different",
+     "Incorrect, because there is only one way to arrange C₃H₈ so they are the same molecule",
+     "Incorrect, because C₃H₈ has no isomers and is a different formula",
+     "Correct, because they have different bond angles"
+    ],
+    "answer": 1,
+    "explanation": "Rotating or flipping a drawing does not make a new compound. Propane has no structural isomers.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Propanoic acid and methyl ethanoate both have the formula C₃H₆O₂. Which test would tell them apart?",
+    "options": [
+     "Add sodium carbonate: only the acid fizzes",
+     "Add bromine water: only the ester decolourises it",
+     "Measure their relative formula mass",
+     "Burn them: only the ester produces CO₂"
+    ],
+    "answer": 0,
+    "explanation": "Carboxylic acids react with carbonates to give carbon dioxide. Esters do not. Both have the same relative formula mass.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "How many alcohols have the molecular formula C₄H₉OH (structural isomers only)?",
+    "options": [
+     "2",
+     "3",
+     "4",
+     "5"
+    ],
+    "answer": 2,
+    "explanation": "They are butan-1-ol, butan-2-ol, 2-methylpropan-1-ol and 2-methylpropan-2-ol.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which pair of compounds are isomers of each other?",
+    "options": [
+     "Propane and propene",
+     "Ethanol and ethanoic acid",
+     "But-1-ene and but-2-ene",
+     "Methane and methanol"
+    ],
+    "answer": 2,
+    "explanation": "But-1-ene and but-2-ene are both C₄H₈, differing only in the position of the double bond.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Isomers of C₄H₁₀ each have a relative formula mass of 58. Which statement is correct?",
+    "options": [
+     "Isomers always have identical boiling points",
+     "Isomers have the same relative formula mass but can have different physical properties",
+     "Isomers have the same structure",
+     "Isomers have different relative formula masses"
+    ],
+    "answer": 1,
+    "explanation": "The relative formula mass depends only on the atoms present, which are identical in isomers, but their shapes affect physical properties such as boiling point.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Pentane boils at 36 °C, 2-methylbutane at 28 °C and 2,2-dimethylpropane at about 10 °C. What conclusion fits the data?",
+    "options": [
+     "More branching lowers the boiling point of isomers",
+     "More branching raises the boiling point",
+     "Boiling point is not linked to structure",
+     "The compounds have different formulae"
+    ],
+    "answer": 0,
+    "explanation": "All three are C₅H₁₂. As branching increases, molecules are more compact and have weaker intermolecular forces, so boiling points fall.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Two different compounds can have exactly the same atoms. Chemists call them **isomers**: molecules with the same molecular formula but different arrangements of atoms. Understanding isomers explains why a formula alone is not enough and why we need several ways of writing a structure.\n\n## Ways to show a molecule\n- **Molecular formula**: the number of each type of atom, such as C₄H₁₀. It says nothing about the arrangement.\n- **Displayed formula**: every atom and every bond is drawn. This is the clearest way to show structure.\n- **Condensed (structural) formula**: shows the groups in order without drawing every bond, for example CH₃CH₂CH₂CH₃ or CH₃CH(CH₃)CH₃.\n- **Skeletal-style drawing**: sometimes used for carbon chains where each corner is a carbon, but you should always be able to convert it to a displayed or condensed formula.\n\n## Types of structural isomers\nThere are three main ways the same atoms can be arranged differently.\n- **Chain isomers**: the carbon skeleton is branched differently. C₄H₁₀ can be butane (a straight chain) or 2-methylpropane (a branched chain). C₅H₁₂ has three isomers: pentane, 2-methylbutane and 2,2-dimethylpropane.\n- **Position isomers**: the same chain, but the functional group or double bond is in a different place. But-1-ene and but-2-ene are both C₄H₈. Propan-1-ol and propan-2-ol are both C₃H₈O.\n- **Functional-group isomers**: the same atoms form different families. Ethanol (an alcohol) and methoxymethane (an ether) are both C₂H₆O. Propanoic acid and methyl ethanoate are both C₃H₆O₂.\n\n## How isomers differ\nIsomers have the same relative formula mass, but their physical and chemical properties can differ. Within chain isomers, more branching means a more compact molecule with less surface contact between neighbours, so the intermolecular forces are weaker and the boiling point is lower. For example, pentane boils at about 36 °C while 2,2-dimethylpropane boils at about 10 °C. Functional-group isomers react differently because the functional group controls the chemistry: propanoic acid fizzes with sodium carbonate, but methyl ethanoate does not.\n\n## Finding isomers systematically\nTo find all isomers of a formula, work in order. Start with the longest straight chain. Then shorten the main chain by one carbon and place that carbon as a branch in every different position. Check each time that drawings are not the same molecule turned over or rotated. Count hydrogen atoms to confirm each one fits the formula.\n\nWorked example: C₄H₉OH. Straight chain: butan-1-ol and butan-2-ol. Branched chain: 2-methylpropan-1-ol and 2-methylpropan-2-ol. That makes four alcohol isomers.\n\n## Common mistakes\n- Counting a rotated or flipped drawing as a new isomer.\n- Assuming that a different name always means a different formula.\n- Forgetting that isomers need the same molecular formula, so pent-1-ene (C₅H₁₀) is not an isomer of pentane (C₅H₁₂).\n\n## How this is examined\nTypical contexts include fuel blending, where branched and straight-chain molecules burn differently, or a flavour chemist comparing an acid and an ester. Expect tasks to draw or name isomers, state why two structures are or are not isomers, predict how properties differ and justify your choice using the data.\n\nExam tip: Check every proposed isomer by counting the carbon and hydrogen atoms, then check for duplicates by testing whether you could get the drawing by turning another one over.",
+  "flashcards": [
+   {
+    "front": "Isomers",
+    "back": "Compounds with the same molecular formula but different arrangements of atoms."
+   },
+   {
+    "front": "Displayed formula",
+    "back": "A drawing that shows every atom and every bond in the molecule."
+   },
+   {
+    "front": "Condensed formula",
+    "back": "Shows groups of atoms in order, e.g. CH₃CH(CH₃)CH₃ for 2-methylpropane."
+   },
+   {
+    "front": "Chain isomers",
+    "back": "Same formula, different carbon skeleton, e.g. butane and 2-methylpropane (both C₄H₁₀)."
+   },
+   {
+    "front": "Position isomers",
+    "back": "Same chain, functional group or double bond in a different place, e.g. but-1-ene and but-2-ene."
+   },
+   {
+    "front": "Functional-group isomers",
+    "back": "Same formula, different family, e.g. ethanol and methoxymethane (both C₂H₆O)."
+   },
+   {
+    "front": "How many isomers has C₅H₁₂?",
+    "back": "Three: pentane, 2-methylbutane and 2,2-dimethylpropane."
+   },
+   {
+    "front": "Effect of branching on boiling point",
+    "back": "More branching gives a lower boiling point because molecules are more compact with weaker intermolecular forces."
+   },
+   {
+    "front": "Do isomers have the same relative formula mass?",
+    "back": "Yes, because they contain exactly the same atoms, but their physical properties can differ."
+   }
+  ]
+ }
+]

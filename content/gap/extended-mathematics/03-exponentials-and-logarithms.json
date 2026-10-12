@@ -1,0 +1,265 @@
+[
+ {
+  "subject": "extended-mathematics",
+  "grade": 5,
+  "topic": "Exponentials and Logarithms",
+  "subTopic": "Laws of Logarithms and Solving Exponential Equations",
+  "questions": [
+   {
+    "content": "What is the value of log₂ 8?",
+    "options": [
+     "4",
+     "3",
+     "8",
+     "16"
+    ],
+    "answer": 1,
+    "explanation": "log₂ 8 asks \"2 to what power gives 8?\". Since 2³ = 8, the answer is 3.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is log₁₀ 1000?",
+    "options": [
+     "2",
+     "10",
+     "100",
+     "3"
+    ],
+    "answer": 3,
+    "explanation": "10³ = 1000, so log₁₀ 1000 = 3. The logarithm is the power.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which logarithm statement is equivalent to 2⁵ = 32?",
+    "options": [
+     "log₂ 32 = 5",
+     "log₅ 32 = 2",
+     "log₃₂ 2 = 5",
+     "log₂ 5 = 32"
+    ],
+    "answer": 0,
+    "explanation": "If bˣ = N then log_b N = x. Here b = 2, x = 5 and N = 32, so log₂ 32 = 5.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is log 2 + log 5 (base 10) as a single number?",
+    "options": [
+     "7",
+     "log 7",
+     "1",
+     "10"
+    ],
+    "answer": 2,
+    "explanation": "Add logs by multiplying: log 2 + log 5 = log (2 × 5) = log 10 = 1.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Solve 2ˣ = 16.",
+    "options": [
+     "x = 8",
+     "x = 3",
+     "x = 32",
+     "x = 4"
+    ],
+    "answer": 3,
+    "explanation": "16 = 2⁴ so x = 4. Dividing 16 by 2 to get 8 is a common slip: the unknown is the power.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Simplify log₅ 25 + log₅ 5.",
+    "options": [
+     "2",
+     "3",
+     "log₅ 30",
+     "1"
+    ],
+    "answer": 1,
+    "explanation": "log₅ 25 = 2 and log₅ 5 = 1, so the sum is 3. Using the product law gives log₅ 125 = 3, which agrees. Adding the numbers inside the logs (30) is wrong.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is the value of log 40 − log 4 (base 10)?",
+    "options": [
+     "36",
+     "log 36",
+     "1",
+     "10"
+    ],
+    "answer": 2,
+    "explanation": "Subtract logs by dividing: log (40 ÷ 4) = log 10 = 1. Subtracting the numbers 40 − 4 inside the log is not allowed.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Write 2 log 3 + log 4 as a single logarithm.",
+    "options": [
+     "log 36",
+     "log 10",
+     "log 24",
+     "log 18"
+    ],
+    "answer": 0,
+    "explanation": "2 log 3 = log 3² = log 9. Then log 9 + log 4 = log (9 × 4) = log 36. The power law moves the 2 up as an exponent, not a multiplier.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve 3^(x + 1) = 81.",
+    "options": [
+     "x = 4",
+     "x = 3",
+     "x = 26",
+     "x = 80"
+    ],
+    "answer": 1,
+    "explanation": "81 = 3⁴, so x + 1 = 4 and x = 3. Subtracting 1 from 81 or dividing does not work for powers.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve 5ˣ = 40, giving your answer to 3 significant figures.",
+    "options": [
+     "x = 8",
+     "x = 2.30",
+     "x = 1.74",
+     "x = 2.29"
+    ],
+    "answer": 3,
+    "explanation": "Take logs: x = log 40 ÷ log 5 = 1.6021 ÷ 0.6990 = 2.292, which is 2.29 to 3 s.f. Dividing 40 by 5 gives 8, which is not a solution because 5⁸ is far larger than 40.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An account has £1200 and earns 5% compound interest each year. After how many whole years is the balance first more than £2400?",
+    "options": [
+     "15 years",
+     "14 years",
+     "20 years",
+     "24 years"
+    ],
+    "answer": 0,
+    "explanation": "Solve 1.05ⁿ > 2: n > log 2 ÷ log 1.05 = 14.2. After 14 years the balance is about £2376, which is less than £2400. After 15 years it is about £2495.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A car worth £18 000 loses 12% of its value each year. After how many whole years is it first worth less than £9000?",
+    "options": [
+     "5 years",
+     "8 years",
+     "6 years",
+     "12 years"
+    ],
+    "answer": 2,
+    "explanation": "Solve 0.88ⁿ < 0.5: n > log 0.5 ÷ log 0.88 = 5.42. After 5 years the car is worth 18 000 × 0.88⁵ ≈ £9499, and after 6 years about £8359.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which expression is equal to log_a (x²) for x > 0?",
+    "options": [
+     "(log_a x)²",
+     "log_a 2x",
+     "x log_a 2",
+     "2 log_a x"
+    ],
+    "answer": 3,
+    "explanation": "The power law says log_a (xⁿ) = n log_a x. The square on the argument becomes a multiplier of the whole logarithm. (log_a x)² is different.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Solve 4ˣ = 2^(x + 3).",
+    "options": [
+     "x = 1",
+     "x = 3",
+     "x = 6",
+     "x = 1.5"
+    ],
+    "answer": 1,
+    "explanation": "Write 4ˣ as (2²)ˣ = 2^(2x). Then 2x = x + 3 so x = 3. Check: 4³ = 64 and 2⁶ = 64.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Solve log₂ x + log₂ (x − 2) = 3, for x > 2.",
+    "options": [
+     "x = 5",
+     "x = −2",
+     "x = 4",
+     "x = 8"
+    ],
+    "answer": 2,
+    "explanation": "Combine: log₂ (x(x − 2)) = 3 so x² − 2x = 8, giving x² − 2x − 8 = 0, so (x − 4)(x + 2) = 0. The value x = −2 is rejected because x must be more than 2. Check: log₂ 4 + log₂ 2 = 2 + 1 = 3.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A culture starts with 200 bacteria and triples every hour, so N = 200 × 3ᵗ. At what time t, in hours to 3 significant figures, does N first reach 5000?",
+    "options": [
+     "2.93 hours",
+     "25 hours",
+     "1.46 hours",
+     "3.00 hours"
+    ],
+    "answer": 0,
+    "explanation": "Solve 3ᵗ = 25. Then t = log 25 ÷ log 3 = 2.930. At t = 3 the number is 5400, which is more than 5000, so 3.00 is not the first time.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The solution of 5ˣ = 40 is x ≈ 2.292. A student uses x = 2.3 to check, and calculates 5^2.3 ≈ 40.52. What is the percentage error in this value compared with 40, to 1 decimal place?",
+    "options": [
+     "0.5%",
+     "1.3%",
+     "8%",
+     "0.3%"
+    ],
+    "answer": 1,
+    "explanation": "Percentage error = (40.52 − 40) ÷ 40 × 100 ≈ 1.3%. Rounding the exponent to 2 d.p. has a bigger effect because small changes in a power make big changes in the result.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Town A has 50 000 people and grows 2% per year. Town B has 40 000 people and grows 4% per year. After how many whole years does Town B first have more people than Town A?",
+    "options": [
+     "11 years",
+     "10 years",
+     "6 years",
+     "12 years"
+    ],
+    "answer": 3,
+    "explanation": "Solve 40 000 × 1.04ⁿ > 50 000 × 1.02ⁿ, so (1.04 ÷ 1.02)ⁿ > 1.25 and n > log 1.25 ÷ log (1.0196) = 11.49. After 11 years B has about 61 578 and A about 62 169. After 12 years B has about 64 041 and A about 63 412.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "## What is a logarithm?\nA logarithm answers the question: \"What power do I need?\" If bˣ = N, then log_b N = x. For example, 2³ = 8, so log₂ 8 = 3. The number b is the base, and it must be positive and not equal to 1. When no base is written, a calculator log usually means base 10, so log 1000 = 3 because 10³ = 1000. Logs and exponentials are inverses: log_b (bˣ) = x and b^(log_b N) = N.\n\n## The laws of logarithms\nThese laws hold for the same base and for positive numbers:\n- **Product law**: log_b (m × n) = log_b m + log_b n\n- **Quotient law**: log_b (m ÷ n) = log_b m − log_b n\n- **Power law**: log_b (mᵏ) = k × log_b m\n- **Special values**: log_b 1 = 0 and log_b b = 1\n\nExample: log 2 + log 5 = log 10 = 1. Example: 2 log 3 + log 4 = log 9 + log 4 = log 36.\n\nBe careful: log (a + b) is not log a + log b, and (log a)² is not 2 log a. The laws only work for products, quotients and powers.\n\n## Solving exponential equations\nAn exponential equation has the unknown in the power.\n- **Method 1: same base.** Write both sides as powers of the same number, then equate the powers. For 3^(x+1) = 81, write 81 = 3⁴, so x + 1 = 4 and x = 3. For 4ˣ = 2^(x+3), write 4ˣ = 2^(2x), so 2x = x + 3 and x = 3.\n- **Method 2: take logs.** If the bases cannot be matched, take logs of both sides and use the power law. For 5ˣ = 40, x log 5 = log 40, so x = log 40 ÷ log 5 = 2.29 to 3 s.f.\n\n## Solving log equations\nCombine logs into one using the laws, convert to a power, solve, then check your answers. For log₂ x + log₂ (x − 2) = 3: log₂ (x(x − 2)) = 3, so x² − 2x = 8, giving x = 4 or x = −2. You must reject x = −2 because you cannot take the log of a negative number.\n\n## Using logs in real problems\nGrowth and decay models have the form A × rᵗ, where r = 1 + percentage/100 for growth, or r = 1 − percentage/100 for decay. To find when a target is reached, divide to isolate rᵗ and then take logs. Example: £1200 at 5% per year doubles when 1.05ⁿ > 2, so n > log 2 ÷ log 1.05 = 14.2, which means 15 whole years. Always check by substituting back, and decide whether to round up or down to answer in context.\n\n## Accuracy\nIf you round an answer early, errors can grow. Keep full calculator values and round only at the end. You can check accuracy with percentage error = |approximate − exact| ÷ exact × 100.\n\n## How this is examined\nTasks use realistic models, such as population, bacteria, depreciation or savings. You may be asked to write the model, solve for time, state assumptions (a constant rate that does not change), check accuracy using percentage error, and judge whether the model fits reality in the long term.\n\nExam tip: Show the step where you take logs or match bases, and always check that your final answer makes sense in context, for example a time in whole years.",
+  "flashcards": [
+   {
+    "front": "Meaning of log_b N = x",
+    "back": "It means bˣ = N. The logarithm is the power."
+   },
+   {
+    "front": "Product law",
+    "back": "log_b (mn) = log_b m + log_b n."
+   },
+   {
+    "front": "Quotient law",
+    "back": "log_b (m ÷ n) = log_b m − log_b n."
+   },
+   {
+    "front": "Power law",
+    "back": "log_b (mᵏ) = k log_b m."
+   },
+   {
+    "front": "Special values",
+    "back": "log_b 1 = 0 and log_b b = 1."
+   },
+   {
+    "front": "Solving by matching bases",
+    "back": "Write both sides as powers of the same base, then equate the powers. Example: 3^(x+1) = 81 gives x + 1 = 4."
+   },
+   {
+    "front": "Solving by taking logs",
+    "back": "For aˣ = N, take logs: x = log N ÷ log a."
+   },
+   {
+    "front": "Compound growth model",
+    "back": "A × rᵗ with r = 1 + p/100 for growth or 1 − p/100 for decay. Use logs to find the time t."
+   },
+   {
+    "front": "Common log mistake",
+    "back": "log (a + b) is not log a + log b. Reject log arguments that are zero or negative."
+   }
+  ]
+ }
+]

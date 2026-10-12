@@ -78,7 +78,10 @@ function EAssessmentHub() {
 
       <section className="mx-auto max-w-[1200px] px-6 pb-20 md:px-12">
         <div className="grid gap-4 md:grid-cols-2">
-          <div className="rounded-lg border border-border bg-card p-6 shadow-[var(--shadow-soft)]">
+          <Link
+            to="/dashboard"
+            className="card-lift block rounded-lg border border-border bg-card p-6 shadow-[var(--shadow-soft)]"
+          >
             <Target className="size-5 text-primary" />
             <h3 className="mt-3 font-display text-xl">Two scales, kept separate</h3>
             <p className="mt-2 text-sm text-muted-foreground">
@@ -86,8 +89,11 @@ function EAssessmentHub() {
               eAssessment itself reports one <strong>overall grade from 1 to 7</strong> for each
               exam. Every eAssessment-style result here shows both, clearly labelled.
             </p>
-          </div>
-          <div className="rounded-lg border border-border bg-card p-6 shadow-[var(--shadow-soft)]">
+          </Link>
+          <Link
+            to="/past-papers"
+            className="card-lift block rounded-lg border border-border bg-card p-6 shadow-[var(--shadow-soft)]"
+          >
             <Clock className="size-5 text-primary" />
             <h3 className="mt-3 font-display text-xl">Practice, not real papers</h3>
             <p className="mt-2 text-sm text-muted-foreground">
@@ -95,7 +101,7 @@ function EAssessmentHub() {
               and AI marked. The grade shown is an estimate: the IB sets its own grade boundaries
               each session.
             </p>
-          </div>
+          </Link>
         </div>
       </section>
     </div>

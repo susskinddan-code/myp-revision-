@@ -1,6 +1,6 @@
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import {
   fetchSubjectBySlug,
   fetchTopics,
@@ -14,16 +14,19 @@ import {
   MYP_LEVEL_LABELS,
   GRADES,
   GROUP_BG,
+  shuffle,
+  type Flashcard,
 } from "@/lib/myp";
 import { TopicStudy } from "@/components/study/TopicStudy";
 import { PaperRunner } from "@/components/study/PaperRunner";
+import { FlashcardDeck } from "@/components/study/FlashcardDeck";
 import { useAuth } from "@/hooks/use-auth";
 import { useMyGrade } from "@/lib/use-grade";
 import { masteryOf, STATUS_LABEL, type Mastery } from "@/lib/progress";
 import { ArrowRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
-const TABS = ["Overview", "Study", "All practice papers", "My progress"] as const;
+const TABS = ["Overview", "Study", "Flashcards", "All practice papers", "My progress"] as const;
 type Tab = (typeof TABS)[number];
 type SubjectSearch = { grade?: number; tab?: Tab; topic?: string };
 
@@ -291,13 +294,30 @@ function SubjectPage() {
                   suggestion.
                 </div>
               ) : untouchedCount ? (
-                <p className="sm:col-span-3 text-sm text-muted-foreground">
-                  {untouchedCount} of {topics?.length ?? 0} topics not started yet.
-                </p>
+                <button
+                  type="button"
+                  onClick={() => setTab("Study")}
+                  className="sm:col-span-3 text-left text-sm text-muted-foreground underline-offset-4 hover:text-foreground hover:underline"
+                >
+                  {untouchedCount} of {topics?.length ?? 0} topics not started yet. Start one
+                </button>
               ) : null}
-              <Stat label="Topics at MYP " value={`${topics?.length ?? 0}`} suffix={`${grade}`} />
-              <Stat label="Flashcards" value={`${cards?.length ?? 0}`} />
-              <Stat label="Practice papers" value={`${papers?.length ?? 0}`} />
+              <Stat
+                label="Topics at MYP "
+                value={`${topics?.length ?? 0}`}
+                suffix={`${grade}`}
+                onClick={() => setTab("Study")}
+              />
+              <Stat
+                label="Flashcards"
+                value={`${cards?.length ?? 0}`}
+                onClick={() => setTab("Flashcards")}
+              />
+              <Stat
+                label="Practice papers"
+                value={`${papers?.length ?? 0}`}
+                onClick={() => setTab("All practice papers")}
+              />
               <div className="sm:col-span-3 rounded-lg border border-border bg-card p-6 shadow-[var(--shadow-soft)]">
                 <h2 className="font-display text-xl">How to revise this subject</h2>
                 <p className="mt-2 text-sm text-muted-foreground">
@@ -306,6 +326,21 @@ function SubjectPage() {
                   Choose Whole topic to mix a full topic together, or All practice papers to sit a
                   full AI-marked paper. Check My progress for your MYP Level 1-8 estimate.
                 </p>
+                <div className="mt-4 flex flex-wrap gap-2">
+                  {(["Study", "Flashcards", "All practice papers", "My progress"] as const).map(
+                    (t) => (
+                      <Button
+                        key={t}
+                        variant="outline"
+                        size="sm"
+                        className="rounded-full"
+                        onClick={() => setTab(t)}
+                      >
+                        {t}
+                      </Button>
+                    ),
+                  )}
+                </div>
               </div>
             </div>
           ) : null}
@@ -361,6 +396,14 @@ function SubjectPage() {
             )
           ) : null}
 
+          {tab === "Flashcards" ? (
+            <FlashcardsTab
+              cards={cards ?? []}
+              topics={allTopics ?? []}
+              onStudy={() => setTab("Study")}
+            />
+          ) : null}
+
           {tab === "All practice papers" ? (
             activePaper ? (
               <PaperRunner
@@ -395,11 +438,20 @@ function SubjectPage() {
           {tab === "My progress" ? (
             user ? (
               <div className="grid gap-4 sm:grid-cols-3">
-                <Stat label="Questions answered" value={`${subjectAttempts.length}`} />
-                <Stat label="Accuracy" value={`${Math.round(accuracy * 100)}%`} />
+                <Stat
+                  label="Questions answered"
+                  value={`${subjectAttempts.length}`}
+                  onClick={() => setTab("Study")}
+                />
+                <Stat
+                  label="Accuracy"
+                  value={`${Math.round(accuracy * 100)}%`}
+                  onClick={() => (weakParent ? openTopic(weakParent.t.id) : setTab("Study"))}
+                />
                 <Stat
                   label={`MYP Level (of 8) — ${MYP_LEVEL_LABELS[level]}`}
                   value={`${subjectAttempts.length ? level : "—"}`}
+                  onClick={() => setTab("All practice papers")}
                 />
               </div>
             ) : (
@@ -412,14 +464,108 @@ function SubjectPage() {
   );
 }
 
-function Stat({ label, value, suffix }: { label: string; value: string; suffix?: string }) {
-  return (
-    <div className="rounded-lg border border-border bg-card p-6 shadow-[var(--shadow-soft)]">
+function Stat({
+  label,
+  value,
+  suffix,
+  onClick,
+}: {
+  label: string;
+  value: string;
+  suffix?: string;
+  onClick?: () => void;
+}) {
+  const body = (
+    <>
       <p className="font-display text-3xl">{value}</p>
       <p className="mt-1 text-sm text-muted-foreground">
         {label}
         {suffix}
       </p>
+    </>
+  );
+  const box = "rounded-lg border border-border bg-card p-6 shadow-[var(--shadow-soft)]";
+  return onClick ? (
+    <button type="button" onClick={onClick} className={`card-lift w-full text-left ${box}`}>
+      {body}
+      <ArrowRight className="mt-2 size-4 text-primary" />
+    </button>
+  ) : (
+    <div className={box}>{body}</div>
+  );
+}
+
+function FlashcardsTab({
+  cards,
+  topics,
+  onStudy,
+}: {
+  cards: Flashcard[];
+  topics: { id: string; name: string; parent_topic_id: string | null }[];
+  onStudy: () => void;
+}) {
+  const [filter, setFilter] = useState<string | null>(null);
+  const [round, setRound] = useState(0);
+  const parents = topics.filter((t) => !t.parent_topic_id);
+  const shown = useMemo(() => {
+    const ids = filter
+      ? new Set(
+          topics.filter((t) => t.id === filter || t.parent_topic_id === filter).map((t) => t.id),
+        )
+      : null;
+    const list = ids ? cards.filter((c) => c.topic_id && ids.has(c.topic_id)) : cards;
+    return shuffle(list);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [cards, topics, filter, round]);
+  if (!cards.length)
+    return (
+      <Empty text="No flashcards for this subject at this grade yet. Study notes and questions are in the Study tab." />
+    );
+  return (
+    <div>
+      <div className="mb-4 flex flex-wrap items-center gap-2">
+        <button
+          type="button"
+          onClick={() => setFilter(null)}
+          className={`rounded-full border px-3 py-1.5 text-sm ${
+            filter === null
+              ? "border-primary bg-primary text-primary-foreground"
+              : "border-border bg-card hover:bg-secondary"
+          }`}
+        >
+          All topics ({cards.length})
+        </button>
+        {parents.map((t) => (
+          <button
+            key={t.id}
+            type="button"
+            onClick={() => setFilter(t.id)}
+            className={`rounded-full border px-3 py-1.5 text-sm ${
+              filter === t.id
+                ? "border-primary bg-primary text-primary-foreground"
+                : "border-border bg-card hover:bg-secondary"
+            }`}
+          >
+            {t.name}
+          </button>
+        ))}
+        <Button
+          variant="ghost"
+          size="sm"
+          className="rounded-full"
+          onClick={() => setRound((r) => r + 1)}
+        >
+          Reshuffle
+        </Button>
+        <Button variant="ghost" size="sm" className="rounded-full" onClick={onStudy}>
+          Go to topics
+        </Button>
+      </div>
+      {shown.length ? (
+        <FlashcardDeck key={`${filter}-${round}`} cards={shown} />
+      ) : (
+        <Empty text="No flashcards for that topic yet." />
+      )}
     </div>
   );
 }

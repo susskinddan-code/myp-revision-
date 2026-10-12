@@ -95,6 +95,21 @@ function AreaPage() {
               <li key={l}>{l}</li>
             ))}
           </ul>
+          {area.slugs.length ? (
+            <div className="mt-4 flex flex-wrap gap-2">
+              {(["Timed paper", "Mixed test", "Build my exam", "Exam skills"] as const).map((t) => (
+                <Button
+                  key={t}
+                  variant="outline"
+                  size="sm"
+                  className="rounded-full"
+                  onClick={() => setTab(t)}
+                >
+                  {t}
+                </Button>
+              ))}
+            </div>
+          ) : null}
         </div>
 
         {area.slugs.length ? (

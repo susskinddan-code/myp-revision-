@@ -32,21 +32,25 @@ const FEATURES = [
   {
     icon: BookOpen,
     title: "Topic question banks",
+    to: "/subjects",
     body: "Multiple-choice sets built topic by topic, marked the moment you answer.",
   },
   {
     icon: Sparkles,
     title: "Feedback that explains",
+    to: "/daily",
     body: "Get it wrong and you get a short explanation written for your grade, not just a tick.",
   },
   {
     icon: Layers,
     title: "Flashcards",
+    to: "/subjects",
     body: "Flip-card decks per subject and grade for quick recall between sessions.",
   },
   {
     icon: LineChart,
     title: "Streaks, goals and levels",
+    to: "/dashboard",
     body: "A daily goal, a streak and an estimated MYP Level 1-8 keep you coming back.",
   },
 ];
@@ -86,17 +90,18 @@ function Home() {
 
       <section className="mx-auto max-w-[1200px] px-6 py-16 md:px-12">
         <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
-          {FEATURES.map(({ icon: Icon, title, body }) => (
-            <div
+          {FEATURES.map(({ icon: Icon, title, body, to }) => (
+            <Link
               key={title}
-              className="rounded-lg border border-border bg-card p-6 shadow-[var(--shadow-soft)]"
+              to={to}
+              className="card-lift block rounded-lg border border-border bg-card p-6 shadow-[var(--shadow-soft)]"
             >
               <span className="flex size-10 items-center justify-center rounded-full bg-secondary">
                 <Icon className="size-5 text-primary" />
               </span>
               <h2 className="mt-4 font-display text-lg">{title}</h2>
               <p className="mt-2 text-sm text-muted-foreground">{body}</p>
-            </div>
+            </Link>
           ))}
         </div>
       </section>

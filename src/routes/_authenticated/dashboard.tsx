@@ -112,7 +112,10 @@ function Dashboard() {
       <h1 className="text-4xl">{name}</h1>
 
       <section className="mt-8 grid gap-4 lg:grid-cols-3">
-        <div className="flex items-center gap-5 rounded-lg border border-border bg-card p-6 shadow-[var(--shadow-soft)]">
+        <Link
+          to="/daily"
+          className="card-lift flex items-center gap-5 rounded-lg border border-border bg-card p-6 shadow-[var(--shadow-soft)]"
+        >
           <svg viewBox="0 0 80 80" className="size-20 shrink-0 -rotate-90" aria-hidden="true">
             <circle
               cx="40"
@@ -147,9 +150,12 @@ function Dashboard() {
                 : `${DAILY_GOAL - today} more questions to hit today's goal`}
             </p>
           </div>
-        </div>
+        </Link>
 
-        <div className="rounded-lg border border-border bg-card p-6 shadow-[var(--shadow-soft)]">
+        <Link
+          to="/daily"
+          className="card-lift block rounded-lg border border-border bg-card p-6 shadow-[var(--shadow-soft)]"
+        >
           <p className="flex items-center gap-1.5 text-sm text-muted-foreground">
             <Flame className="size-4 text-accent" /> Streak
           </p>
@@ -174,9 +180,12 @@ function Dashboard() {
               </div>
             ))}
           </div>
-        </div>
+        </Link>
 
-        <div className="rounded-lg border border-border bg-card p-6 shadow-[var(--shadow-soft)]">
+        <a
+          href="#badges"
+          className="card-lift block rounded-lg border border-border bg-card p-6 shadow-[var(--shadow-soft)]"
+        >
           <p className="flex items-center gap-1.5 text-sm text-muted-foreground">
             <Zap className="size-4 text-accent" /> Level {lvl.index} · {lvl.name}
           </p>
@@ -190,7 +199,7 @@ function Dashboard() {
           <p className="mt-2 text-xs text-muted-foreground">
             {lvl.next ? `${lvl.toNext} XP to ${lvl.next.name}` : "Top level reached"}
           </p>
-        </div>
+        </a>
       </section>
 
       <section className="mt-4 grid gap-4 md:grid-cols-2">
@@ -253,9 +262,16 @@ function Dashboard() {
       </Link>
 
       <div className="mt-4 grid gap-4 sm:grid-cols-3">
-        <Stat value={`${total}`} label="Questions answered" />
-        <Stat value={`${Math.round(accuracy * 100)}%`} label="Accuracy" />
+        <Stat value={`${total}`} label="Questions answered" to="/subjects" />
         <Stat
+          value={`${Math.round(accuracy * 100)}%`}
+          label="Accuracy"
+          to="weak"
+          weakSlug={weakest[0] ? subjectOf(weakest[0][0])?.slug : undefined}
+          grade={profile?.grade ?? 5}
+        />
+        <Stat
+          to="/eassessment"
           value={total ? `${level}` : "—"}
           label={`MYP Level (of 8)${total ? ` — ${MYP_LEVEL_LABELS[level]}` : ""}`}
         />
@@ -269,22 +285,22 @@ function Dashboard() {
               {weakest.map(([id, v]) => {
                 const sub = subjectOf(id);
                 return (
-                  <li key={id} className="flex items-center justify-between gap-4">
+                  <li key={id}>
                     {sub ? (
                       <Link
                         to="/subjects/$slug"
                         params={{ slug: sub.slug }}
                         search={{ grade: profile?.grade ?? 5, tab: "Study" }}
-                        className="text-sm underline underline-offset-4"
+                        className="flex items-center justify-between gap-4 rounded-md px-2 py-1.5 text-sm hover:bg-secondary"
                       >
-                        {sub.name}
+                        <span className="underline underline-offset-4">{sub.name}</span>
+                        <span className="text-muted-foreground">
+                          {Math.round((v.correct / v.total) * 100)}% of {v.total}
+                        </span>
                       </Link>
                     ) : (
                       <span className="text-sm">{subjectName(id)}</span>
                     )}
-                    <span className="text-sm text-muted-foreground">
-                      {Math.round((v.correct / v.total) * 100)}% of {v.total}
-                    </span>
                   </li>
                 );
               })}
@@ -301,11 +317,27 @@ function Dashboard() {
           {list.length ? (
             <ul className="mt-4 flex flex-col gap-2 text-sm">
               {list.slice(0, 8).map((a) => (
-                <li key={a.id} className="flex items-center justify-between gap-4">
-                  <span>{subjectName(a.subject_id)}</span>
-                  <span className={a.correct ? "text-success" : "text-destructive"}>
-                    {a.correct ? "Correct" : "Incorrect"}
-                  </span>
+                <li key={a.id}>
+                  {subjectOf(a.subject_id)?.slug ? (
+                    <Link
+                      to="/subjects/$slug"
+                      params={{ slug: subjectOf(a.subject_id)!.slug }}
+                      search={{ grade: profile?.grade ?? 5, tab: "Study" }}
+                      className="flex items-center justify-between gap-4 rounded-md px-2 py-1 hover:bg-secondary"
+                    >
+                      <span>{subjectName(a.subject_id)}</span>
+                      <span className={a.correct ? "text-success" : "text-destructive"}>
+                        {a.correct ? "Correct" : "Incorrect"}
+                      </span>
+                    </Link>
+                  ) : (
+                    <div className="flex items-center justify-between gap-4 px-2 py-1">
+                      <span>{subjectName(a.subject_id)}</span>
+                      <span className={a.correct ? "text-success" : "text-destructive"}>
+                        {a.correct ? "Correct" : "Incorrect"}
+                      </span>
+                    </div>
+                  )}
                 </li>
               ))}
             </ul>
@@ -321,7 +353,7 @@ function Dashboard() {
         </div>
       </section>
 
-      <section className="mt-10">
+      <section id="badges" className="mt-10 scroll-mt-24">
         <h2 className="flex items-center gap-2 font-display text-2xl">
           <Award className="size-5 text-accent" /> Badges{" "}
           <span className="text-base text-muted-foreground">
@@ -330,29 +362,31 @@ function Dashboard() {
         </h2>
         <ul className="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
           {badges.map((b) => (
-            <li
-              key={b.key}
-              className={`rounded-lg border p-4 ${
-                b.earned ? "border-accent/50 bg-accent/10" : "border-border bg-card"
-              }`}
-            >
-              <p className="flex items-center gap-2 font-medium">
-                {b.earned ? (
-                  <Award className="size-4 text-accent" />
-                ) : (
-                  <Lock className="size-4 text-muted-foreground" />
-                )}
-                {b.name}
-              </p>
-              <p className="mt-1 text-xs text-muted-foreground">{b.hint}</p>
-              {!b.earned ? (
-                <div className="mt-2 h-1 overflow-hidden rounded-full bg-secondary">
-                  <div
-                    className="h-full rounded-full bg-primary"
-                    style={{ width: `${Math.round(b.progress * 100)}%` }}
-                  />
-                </div>
-              ) : null}
+            <li key={b.key}>
+              <Link
+                to={b.earned ? "/dashboard" : "/subjects"}
+                className={`card-lift block h-full rounded-lg border p-4 ${
+                  b.earned ? "border-accent/50 bg-accent/10" : "border-border bg-card"
+                }`}
+              >
+                <p className="flex items-center gap-2 font-medium">
+                  {b.earned ? (
+                    <Award className="size-4 text-accent" />
+                  ) : (
+                    <Lock className="size-4 text-muted-foreground" />
+                  )}
+                  {b.name}
+                </p>
+                <p className="mt-1 text-xs text-muted-foreground">{b.hint}</p>
+                {!b.earned ? (
+                  <div className="mt-2 h-1 overflow-hidden rounded-full bg-secondary">
+                    <div
+                      className="h-full rounded-full bg-primary"
+                      style={{ width: `${Math.round(b.progress * 100)}%` }}
+                    />
+                  </div>
+                ) : null}
+              </Link>
             </li>
           ))}
         </ul>
@@ -381,11 +415,42 @@ function Dashboard() {
   );
 }
 
-function Stat({ value, label }: { value: string; label: string }) {
-  return (
-    <div className="rounded-lg border border-border bg-card p-6 shadow-[var(--shadow-soft)]">
+function Stat({
+  value,
+  label,
+  to,
+  weakSlug,
+  grade,
+}: {
+  value: string;
+  label: string;
+  to: "/subjects" | "/eassessment" | "weak";
+  weakSlug?: string | undefined;
+  grade?: number;
+}) {
+  const cls =
+    "card-lift block rounded-lg border border-border bg-card p-6 shadow-[var(--shadow-soft)]";
+  const body = (
+    <>
       <p className="font-display text-3xl">{value}</p>
       <p className="mt-1 text-sm text-muted-foreground">{label}</p>
-    </div>
+      <ArrowRight className="mt-2 size-4 text-primary" />
+    </>
+  );
+  if (to === "weak" && weakSlug)
+    return (
+      <Link
+        to="/subjects/$slug"
+        params={{ slug: weakSlug }}
+        search={{ grade: grade ?? 5, tab: "Study" }}
+        className={cls}
+      >
+        {body}
+      </Link>
+    );
+  return (
+    <Link to={to === "weak" ? "/subjects" : to} className={cls}>
+      {body}
+    </Link>
   );
 }

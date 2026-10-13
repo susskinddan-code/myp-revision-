@@ -371,7 +371,7 @@ export const generateExamTasks = createServerFn({ method: "POST" })
     const seen = new Set((data.seenIds ?? []).map((x) => x.replace(/^gen-/, "")));
 
     // 1. Unseen tasks from the shared bank (about 70% of the paper when the bank is big enough).
-    let banked: BankedTask[] = [];
+    const banked: BankedTask[] = [];
     if (admin && data.subjectId) {
       const { data: rows } = await admin
         .from("generated_tasks")

@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Movement of Substances",
+  "subTopic": "Diffusion: Rates and Gradients",
+  "questions": [
+   {
+    "difficulty": "easy",
+    "content": "Name the process in which particles spread from a region of high concentration to a region of low concentration.",
+    "options": [
+     "Diffusion",
+     "Osmosis",
+     "Active transport",
+     "Respiration"
+    ],
+    "answer": 0,
+    "explanation": "Diffusion is the net movement of particles from where they are more concentrated to where they are less concentrated, down the concentration gradient."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the gas that diffuses into a leaf for photosynthesis.",
+    "options": [
+     "Oxygen",
+     "Carbon dioxide",
+     "Nitrogen",
+     "Hydrogen"
+    ],
+    "answer": 1,
+    "explanation": "Carbon dioxide is used up in photosynthesis, so its concentration is lower inside the leaf and it diffuses in through the stomata."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Diffusion needs no energy from the cell. What name is given to a process like this?",
+    "options": [
+     "Active",
+     "Aerobic",
+     "Passive",
+     "Anaerobic"
+    ],
+    "answer": 2,
+    "explanation": "A passive process does not need energy from respiration. The energy comes from the random movement of the particles themselves."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the difference in concentration between two regions that makes particles diffuse.",
+    "options": [
+     "Pressure barrier",
+     "Osmotic membrane",
+     "Energy store",
+     "Concentration gradient"
+    ],
+    "answer": 3,
+    "explanation": "A concentration gradient is a difference in concentration. The bigger the difference, the steeper the gradient."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the gas that diffuses from the air in the alveoli into the blood.",
+    "options": [
+     "Oxygen",
+     "Carbon dioxide",
+     "Hydrogen",
+     "Helium"
+    ],
+    "answer": 0,
+    "explanation": "The air in the alveoli has a higher oxygen concentration than the blood arriving from the body, so oxygen diffuses into the blood."
+   },
+   {
+    "difficulty": "medium",
+    "content": "How does raising the temperature affect the rate of diffusion?",
+    "options": [
+     "It decreases",
+     "It increases",
+     "It stays the same",
+     "It stops"
+    ],
+    "answer": 1,
+    "explanation": "At higher temperatures particles move faster, so they spread out more quickly and diffusion is faster."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name the type of energy that particles gain as the temperature rises, making them move faster.",
+    "options": [
+     "Chemical energy",
+     "Light energy",
+     "Kinetic energy",
+     "Nuclear energy"
+    ],
+    "answer": 2,
+    "explanation": "Kinetic energy is the energy of movement. Particles with more kinetic energy move and collide more, so they diffuse faster."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name the tiny air sacs in the lungs that provide a large surface area for gas exchange.",
+    "options": [
+     "Bronchi",
+     "Trachea",
+     "Diaphragm",
+     "Alveoli"
+    ],
+    "answer": 3,
+    "explanation": "Millions of alveoli give the lungs a very large surface area, so a lot of oxygen can diffuse into the blood at once."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A cube has sides of 2 cm. What is its surface area to volume ratio?",
+    "options": [
+     "3:1",
+     "6:1",
+     "1:3",
+     "4:1"
+    ],
+    "answer": 0,
+    "explanation": "Surface area = 6 x 2 x 2 = 24 cm squared. Volume = 2 x 2 x 2 = 8 cm cubed. Ratio = 24 : 8 = 3 : 1."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Why are the walls of the alveoli only one cell thick?",
+    "options": [
+     "Larger surface area",
+     "Short diffusion distance",
+     "Higher temperature",
+     "More energy needed"
+    ],
+    "answer": 1,
+    "explanation": "A very thin wall means oxygen and carbon dioxide have only a tiny distance to diffuse, which makes diffusion fast."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name the gas produced by photosynthesis that diffuses out of leaves.",
+    "options": [
+     "Carbon dioxide",
+     "Nitrogen",
+     "Oxygen",
+     "Hydrogen"
+    ],
+    "answer": 2,
+    "explanation": "Oxygen is a product of photosynthesis. It builds up inside the leaf, so it diffuses out through the stomata."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name the tiny pores on the underside of a leaf through which gases diffuse.",
+    "options": [
+     "Alveoli",
+     "Xylem vessels",
+     "Villi",
+     "Stomata"
+    ],
+    "answer": 3,
+    "explanation": "Stomata (singular: stoma) are pores that open and close. They let carbon dioxide in and oxygen and water vapour out."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A student puts crystals of potassium permanganate into water at 10, 20, 30 and 40 degrees Celsius and measures how far the colour spreads in 5 minutes. Name the independent variable.",
+    "options": [
+     "Temperature",
+     "Distance spread",
+     "Time",
+     "Mass of crystal"
+    ],
+    "answer": 0,
+    "explanation": "The independent variable is the one the student changes on purpose, which is temperature. The distance spread is the dependent variable, and time and crystal mass should be controlled."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A cube has sides of 3 cm. What is its surface area to volume ratio?",
+    "options": [
+     "6:1",
+     "2:1",
+     "3:1",
+     "1:2"
+    ],
+    "answer": 1,
+    "explanation": "Surface area = 6 x 3 x 3 = 54 cm squared. Volume = 3 x 3 x 3 = 27 cm cubed. Ratio = 54 : 27 = 2 : 1."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Why do large animals need specialised gas exchange surfaces such as lungs?",
+    "options": [
+     "High surface area to volume ratio",
+     "Low metabolic rate",
+     "Low surface area to volume ratio",
+     "Thin skin"
+    ],
+    "answer": 2,
+    "explanation": "As an organism gets bigger, its volume increases faster than its surface area. The body surface alone cannot supply enough oxygen, so lungs or gills are needed."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A cube doubles its side length from 1 cm to 2 cm. What happens to its surface area to volume ratio?",
+    "options": [
+     "It doubles",
+     "It stays the same",
+     "It quarters",
+     "It halves"
+    ],
+    "answer": 3,
+    "explanation": "The ratio of a 1 cm cube is 6:1 and of a 2 cm cube is 3:1, so it halves."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Deep breathing during exercise brings in more oxygen. What does this do to the oxygen concentration gradient between the alveoli and the blood?",
+    "options": [
+     "Makes it steeper",
+     "Makes it shallower",
+     "Removes it",
+     "Reverses it"
+    ],
+    "answer": 0,
+    "explanation": "Fresh air raises the oxygen concentration in the alveoli, while the blood has used oxygen, so the difference grows and diffusion is faster."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Carbon dioxide diffuses from respiring muscle cells into the blood. Where is the carbon dioxide concentration higher?",
+    "options": [
+     "In the blood",
+     "In the muscle cells",
+     "They are equal",
+     "In the alveoli"
+    ],
+    "answer": 1,
+    "explanation": "Diffusion is down the gradient, from high to low concentration. Muscle cells make carbon dioxide, so the concentration is highest there."
+   }
+  ],
+  "note": "Cells and organisms must exchange substances with their surroundings. Oxygen and glucose must get in, and carbon dioxide and other waste must get out. Many of these movements happen by diffusion.\n\n## What is diffusion?\nDiffusion is the net movement of particles from a region of higher concentration to a region of lower concentration. The particles move down the concentration gradient. They move randomly all the time, but more particles move from the crowded area to the empty one than the other way round, so there is a net movement. Diffusion is a passive process because it needs no energy from respiration. It happens in gases and in solutions.\n\nExamples in living things include oxygen moving from the alveoli into the blood, carbon dioxide moving into a leaf, and digested food moving from the small intestine into the blood.\n\n## Factors that affect the rate of diffusion\n- Concentration gradient: the steeper the gradient, the faster the diffusion.\n- Temperature: warmer particles have more kinetic energy and move faster, so diffusion is faster.\n- Surface area: a larger surface lets more particles cross at once.\n- Distance: a shorter distance means a faster rate.\n\n## Adaptations for diffusion\nThe lungs have millions of alveoli, which provide a large surface area. Their walls are one cell thick, which gives a short diffusion distance. They are surrounded by capillaries, and blood flow keeps removing oxygen and bringing carbon dioxide, which maintains a steep concentration gradient. Breathing refreshes the air in the alveoli for the same reason. In the small intestine, villi increase the surface area for absorbing food.\n\n## Surface area to volume ratio\nSmall organisms have a large surface area compared with their volume, so diffusion across the surface is enough. Large organisms have a small surface area to volume ratio, so they need special surfaces such as lungs and a transport system.\n\nFor a cube of side length L: surface area = 6 x L x L, and volume = L x L x L.\n- Side 1 cm: area 6, volume 1, ratio 6:1.\n- Side 2 cm: area 24, volume 8, ratio 3:1.\n- Side 3 cm: area 54, volume 27, ratio 2:1.\nAs the cube grows, the ratio falls.\n\n## Worked example\nAn investigation uses agar jelly cubes containing indicator. The cubes are placed in dilute acid and the time for the colour to disappear is measured. A 1 cm cube changes colour faster than a 2 cm cube. Explanation: the 1 cm cube has a larger surface area to volume ratio and a shorter distance for the acid to travel to the centre, so diffusion reaches all of it sooner.\n\n## Common mistakes\n- Saying particles \"want\" to move or that they stop when concentrations are equal. They keep moving, but there is no net movement.\n- Confusing diffusion with osmosis. Osmosis is only the diffusion of water across a partially permeable membrane.\n- Saying diffusion needs energy from respiration.\n- Describing a gradient as the \"amount\" and not the difference in concentration.\n- Forgetting to say \"net\" when describing movement.\n\n## Command terms\n- Define: give the precise meaning of diffusion.\n- Describe: say what happens, for example describe how oxygen reaches the blood.\n- Explain: give reasons, for example explain why the alveoli are efficient for gas exchange.\n- Predict: say what would happen, such as the effect of a higher temperature.\n- Calculate: work out the surface area to volume ratio.\n\nExam tip: in explanations use the phrase \"down the concentration gradient\" and link each adaptation to a factor: surface area, distance or gradient.",
+  "flashcards": [
+   {
+    "front": "Diffusion",
+    "back": "The net movement of particles from a region of higher concentration to a region of lower concentration."
+   },
+   {
+    "front": "Is diffusion active or passive?",
+    "back": "Passive. It needs no energy from respiration."
+   },
+   {
+    "front": "Concentration gradient",
+    "back": "The difference in concentration between two regions. A steeper gradient gives faster diffusion."
+   },
+   {
+    "front": "Four factors that affect diffusion rate",
+    "back": "Concentration gradient, temperature, surface area and diffusion distance."
+   },
+   {
+    "front": "Why does temperature affect diffusion?",
+    "back": "Warmer particles have more kinetic energy, move faster and spread more quickly."
+   },
+   {
+    "front": "How are alveoli adapted for gas exchange?",
+    "back": "Large surface area, walls one cell thick, a rich blood supply and ventilation to keep a steep concentration gradient."
+   },
+   {
+    "front": "Surface area of a cube",
+    "back": "6 x side x side. Volume is side x side x side."
+   },
+   {
+    "front": "Surface area to volume ratio and size",
+    "back": "As an organism gets larger, its surface area to volume ratio falls, so it needs specialised exchange surfaces."
+   },
+   {
+    "front": "Where do gases diffuse in and out of a leaf?",
+    "back": "Through the stomata. Carbon dioxide diffuses in and oxygen diffuses out during photosynthesis."
+   }
+  ]
+ },
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Movement of Substances",
+  "subTopic": "Osmosis in Plant and Animal Cells",
+  "questions": [
+   {
+    "difficulty": "easy",
+    "content": "Name the process in which water moves across a partially permeable membrane from a dilute solution to a more concentrated solution.",
+    "options": [
+     "Osmosis",
+     "Filtration",
+     "Active transport",
+     "Transpiration"
+    ],
+    "answer": 0,
+    "explanation": "Osmosis is the net movement of water across a partially permeable membrane, from a region of higher water concentration (dilute solution) to a region of lower water concentration (concentrated solution)."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the type of membrane that lets small molecules like water through but not larger solute molecules.",
+    "options": [
+     "Fully permeable",
+     "Partially permeable",
+     "Impermeable",
+     "Rigid"
+    ],
+    "answer": 1,
+    "explanation": "A partially permeable membrane lets some particles through and blocks others. Cell membranes are partially permeable."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the word for a plant cell that is firm because it is full of water.",
+    "options": [
+     "Flaccid",
+     "Plasmolysed",
+     "Turgid",
+     "Burst"
+    ],
+    "answer": 2,
+    "explanation": "A turgid cell has water pressing against its cell wall. Turgid cells help to support the plant."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Which substance moves in osmosis?",
+    "options": [
+     "Glucose",
+     "Oxygen",
+     "Salt",
+     "Water"
+    ],
+    "answer": 3,
+    "explanation": "Only water moves in osmosis. Solutes such as salt and sugar cannot cross a partially permeable membrane as easily."
+   },
+   {
+    "difficulty": "easy",
+    "content": "A cell is put in a very concentrated salt solution. In which direction does water move by osmosis?",
+    "options": [
+     "Out of the cell",
+     "Into the cell",
+     "Nowhere",
+     "Into the nucleus"
+    ],
+    "answer": 0,
+    "explanation": "The solution outside has a lower water concentration than the cell, so water moves out of the cell down its concentration gradient."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A potato cylinder is left in distilled water for an hour. What happens to its mass?",
+    "options": [
+     "It decreases",
+     "It increases",
+     "It stays the same",
+     "It doubles exactly"
+    ],
+    "answer": 1,
+    "explanation": "Distilled water has a higher water concentration than the potato cells, so water enters the potato by osmosis and the mass goes up."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A red blood cell is placed in pure water. What happens to it?",
+    "options": [
+     "It shrinks",
+     "It becomes turgid",
+     "It bursts",
+     "Nothing happens"
+    ],
+    "answer": 2,
+    "explanation": "Water enters by osmosis. An animal cell has no cell wall to resist the pressure, so the cell swells and bursts."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name the process in which the cell membrane of a plant cell pulls away from the cell wall in a concentrated solution.",
+    "options": [
+     "Turgor",
+     "Lysis",
+     "Diffusion",
+     "Plasmolysis"
+    ],
+    "answer": 3,
+    "explanation": "In a concentrated solution, water leaves the vacuole and cytoplasm. The cell shrinks away from the wall, which is called plasmolysis."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name the structure that stops a plant cell bursting when it takes in water.",
+    "options": [
+     "Cell wall",
+     "Cell membrane",
+     "Vacuole",
+     "Nucleus"
+    ],
+    "answer": 0,
+    "explanation": "The strong cellulose cell wall resists the pressure of the swelling cell, so the cell becomes turgid and does not burst."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A plant is short of water and its leaves droop. What state are the cells in?",
+    "options": [
+     "Turgid",
+     "Flaccid",
+     "Burst",
+     "Dividing"
+    ],
+    "answer": 1,
+    "explanation": "When water is short, cells lose water and their pressure falls. The cells become flaccid and the leaves wilt."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Cell A contains 10% sugar solution and cell B contains 20% sugar solution. They touch through a partially permeable membrane. Which way does water move?",
+    "options": [
+     "From cell B to cell A",
+     "It does not move",
+     "From cell A to cell B",
+     "Only by active transport"
+    ],
+    "answer": 2,
+    "explanation": "Cell A is more dilute, so it has the higher water concentration. Water moves by osmosis from A to the more concentrated B."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A potato cylinder has mass 4.0 g and gains 0.6 g in a solution. What is its percentage change in mass?",
+    "options": [
+     "13%",
+     "6%",
+     "60%",
+     "15%"
+    ],
+    "answer": 3,
+    "explanation": "Percentage change = change ÷ original x 100 = 0.6 ÷ 4.0 x 100 = 15%."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Why do scientists calculate percentage change in mass in potato osmosis investigations?",
+    "options": [
+     "To compare cylinders with different starting masses",
+     "To remove anomalies",
+     "To save time",
+     "To make the results larger"
+    ],
+    "answer": 0,
+    "explanation": "Cylinders never have exactly the same starting mass. A percentage change allows a fair comparison between them."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A potato cylinder shows no change in mass in a sugar solution. What does this tell you about the solution?",
+    "options": [
+     "More concentrated than the cell sap",
+     "Same concentration as the cell sap",
+     "More dilute than the cell sap",
+     "Pure water"
+    ],
+    "answer": 1,
+    "explanation": "With no net movement of water, the water concentration inside and outside the potato is equal, so the solution matches the concentration of the potato cell sap."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A graph of percentage change in mass of potato against sugar concentration crosses the x-axis at 0.25 mol/dm cubed. What does that value estimate?",
+    "options": [
+     "The boiling point of sugar",
+     "The rate of osmosis",
+     "Concentration of the potato cell sap",
+     "The pH of the potato"
+    ],
+    "answer": 2,
+    "explanation": "At the point where the change in mass is zero, there is no net osmosis, so the solution is the same concentration as the cell sap."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Boiled potato cylinders do not change mass in different sugar solutions. Why?",
+    "options": [
+     "They contain no water",
+     "Boiling removes their cell wall",
+     "They are too cold",
+     "Their membranes are damaged"
+    ],
+    "answer": 3,
+    "explanation": "Boiling destroys the partially permeable membranes, so the cells can no longer control water movement."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Why is it dangerous to inject pure water into the blood?",
+    "options": [
+     "Red blood cells would burst",
+     "Blood would clot",
+     "Blood would turn cold",
+     "White cells would shrink"
+    ],
+    "answer": 0,
+    "explanation": "Pure water has a higher water concentration than the blood cells, so water would enter red blood cells by osmosis until they burst."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Why does water move into root hair cells from the soil?",
+    "options": [
+     "Cell sap has a higher water concentration",
+     "Soil water has a higher water concentration",
+     "Active transport pumps it in",
+     "The cells are flaccid"
+    ],
+    "answer": 1,
+    "explanation": "Soil water is usually more dilute than the cell sap in root hair cells, so water moves into the cells by osmosis down its concentration gradient."
+   }
+  ],
+  "note": "Osmosis is a very important process because it controls how much water is inside cells. It explains why plants wilt, why potato chips go limp and soft in very salty water, and why red blood cells must be kept in the correct solution.\n\n## What is osmosis?\nOsmosis is the net movement of water molecules across a partially permeable membrane from a region of higher water concentration to a region of lower water concentration. A dilute solution has a high water concentration. A concentrated solution has a low water concentration. So water moves from the dilute solution to the concentrated solution. Osmosis is a type of diffusion and is passive.\n\nThe membrane is partially permeable: small water molecules pass through, but larger solute molecules, such as sugar, cannot easily cross.\n\n## Osmosis in plant cells\n- In a dilute solution or pure water, water enters the cell. The vacuole swells and pushes the cell membrane against the cell wall. The cell becomes turgid. The wall stops the cell bursting. Turgid cells support leaves and soft stems.\n- In a concentrated solution, water leaves the cell. The cell becomes flaccid. If it loses even more water, the membrane pulls away from the wall, which is called plasmolysis.\n- Wilting happens when many cells in a plant lose water and become flaccid.\n\n## Osmosis in animal cells\nAnimal cells have no cell wall. In pure water, a red blood cell takes in water and bursts. In a concentrated solution, it loses water and shrinks and becomes crinkled. This is why medical drips contain a solution with the same concentration as the blood.\n\n## Potato investigation\nPotato cylinders are cut with a cork borer, blotted dry, weighed and placed in different sugar solutions for a set time. They are blotted and weighed again.\n- Independent variable: the sugar concentration.\n- Dependent variable: the change in mass.\n- Control variables: the volume of solution, the temperature, the time, the type of potato and the length of the cylinder.\nPercentage change in mass = (final mass - starting mass) ÷ starting mass x 100.\n\nWorked example: A cylinder starts at 3.2 g and ends at 2.8 g. Change = -0.4 g. Percentage change = -0.4 ÷ 3.2 x 100 = -12.5%. The negative sign shows it lost water, so the solution was more concentrated than the potato cells.\n\nIf the graph of percentage change against concentration crosses zero at 0.3 mol/dm cubed, then at that concentration there is no net movement of water, and the cell sap is about the same concentration.\n\n## Common mistakes\n- Saying that \"water moves to where there is less water\" without mentioning concentration. Use \"from a higher to a lower water concentration\".\n- Saying that osmosis involves sugar moving. It does not.\n- Forgetting to blot the cylinders before weighing, which adds extra water mass.\n- Saying a plant cell bursts. The wall protects it.\n- Calculating a percentage change using the final mass instead of the starting mass.\n\n## Command terms\n- Define: give the exact meaning of osmosis.\n- Explain: link the change to water concentration and the membrane.\n- Predict: say what will happen to the mass of a cylinder in a concentrated solution.\n- Evaluate: judge how reliable the potato results are, for example by repeating and calculating a mean.\n\nExam tip: in osmosis explanations, always state the direction of water movement and mention the partially permeable membrane.",
+  "flashcards": [
+   {
+    "front": "Osmosis",
+    "back": "The net movement of water across a partially permeable membrane from a region of higher water concentration to a lower one."
+   },
+   {
+    "front": "Partially permeable membrane",
+    "back": "A membrane that lets some small particles, like water, pass but blocks larger solute molecules."
+   },
+   {
+    "front": "Turgid",
+    "back": "A plant cell full of water, pushing against its cell wall. It is firm and supports the plant."
+   },
+   {
+    "front": "Flaccid",
+    "back": "A plant cell that has lost water and is soft. Many flaccid cells cause wilting."
+   },
+   {
+    "front": "Plasmolysis",
+    "back": "When the membrane pulls away from the cell wall because the cell has lost a lot of water."
+   },
+   {
+    "front": "Why does a red blood cell burst in pure water?",
+    "back": "Water enters by osmosis and the animal cell has no cell wall to resist swelling."
+   },
+   {
+    "front": "Percentage change in mass",
+    "back": "(final mass - starting mass) ÷ starting mass x 100."
+   },
+   {
+    "front": "Variables in a potato osmosis experiment",
+    "back": "Independent: solution concentration. Dependent: change in mass. Control: volume, time, temperature, potato type and cylinder size."
+   },
+   {
+    "front": "No change in mass of a potato cylinder",
+    "back": "There is no net movement of water, so the solution has the same concentration as the potato cell sap."
+   }
+  ]
+ },
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Movement of Substances",
+  "subTopic": "Active Transport and Mineral Uptake",
+  "questions": [
+   {
+    "difficulty": "easy",
+    "content": "Name the process that uses energy to move substances from a low concentration to a high concentration.",
+    "options": [
+     "Active transport",
+     "Diffusion",
+     "Osmosis",
+     "Evaporation"
+    ],
+    "answer": 0,
+    "explanation": "Active transport moves particles against the concentration gradient and needs energy from respiration."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the process that supplies the energy for active transport.",
+    "options": [
+     "Photosynthesis",
+     "Respiration",
+     "Digestion",
+     "Osmosis"
+    ],
+    "answer": 1,
+    "explanation": "Cells release energy from glucose by respiration, and this energy is used to power active transport."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the cells in a plant that absorb water and mineral ions from the soil.",
+    "options": [
+     "Palisade cells",
+     "Guard cells",
+     "Root hair cells",
+     "Red blood cells"
+    ],
+    "answer": 2,
+    "explanation": "Root hair cells have long extensions that give a large surface area for absorbing water and minerals."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the mineral ion that plants absorb to make amino acids and proteins.",
+    "options": [
+     "Sodium",
+     "Chloride",
+     "Iodide",
+     "Nitrate"
+    ],
+    "answer": 3,
+    "explanation": "Plants combine nitrate from the soil with sugars to make amino acids, which are then built into proteins."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the mineral ion that plants need to make chlorophyll.",
+    "options": [
+     "Magnesium",
+     "Sodium",
+     "Iodide",
+     "Fluoride"
+    ],
+    "answer": 0,
+    "explanation": "Each chlorophyll molecule has a magnesium ion at its centre. Without magnesium, leaves turn yellow."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Active transport requires something that diffusion does not. What is it?",
+    "options": [
+     "Light",
+     "Energy",
+     "A concentration gradient",
+     "Water"
+    ],
+    "answer": 1,
+    "explanation": "Diffusion is passive, but active transport needs energy from respiration to move particles against the gradient."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Cells that carry out a lot of active transport contain many of which organelle?",
+    "options": [
+     "Chloroplasts",
+     "Cell walls",
+     "Mitochondria",
+     "Vacuoles"
+    ],
+    "answer": 2,
+    "explanation": "Mitochondria release energy in aerobic respiration, so cells that need a lot of energy for active transport have many of them."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Plants in waterlogged soil take up fewer minerals. Which process is reduced because there is little oxygen in the soil?",
+    "options": [
+     "Osmosis",
+     "Photosynthesis",
+     "Diffusion",
+     "Aerobic respiration"
+    ],
+    "answer": 3,
+    "explanation": "Roots need oxygen for aerobic respiration. With little oxygen, they release less energy, so active transport of minerals slows down."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name the part of the digestive system where glucose is absorbed into the blood by diffusion and active transport.",
+    "options": [
+     "Small intestine",
+     "Stomach",
+     "Large intestine",
+     "Oesophagus"
+    ],
+    "answer": 0,
+    "explanation": "The lining of the small intestine has villi and cells that can absorb glucose even when its concentration in the blood is higher than in the gut."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Why do root hair cells have long, thin extensions?",
+    "options": [
+     "To store starch",
+     "To increase surface area",
+     "To carry out photosynthesis",
+     "To hold the plant upright"
+    ],
+    "answer": 1,
+    "explanation": "A larger surface area allows more water and mineral ions to be absorbed in a given time."
+   },
+   {
+    "difficulty": "medium",
+    "content": "The nitrate concentration in a root hair cell is higher than in the soil. Name the process that moves nitrate ions into the cell.",
+    "options": [
+     "Diffusion",
+     "Osmosis",
+     "Active transport",
+     "Transpiration"
+    ],
+    "answer": 2,
+    "explanation": "Nitrate moves from the lower soil concentration to the higher concentration in the cell, against the gradient, so it needs active transport."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name the tissue that carries mineral ions upwards from the roots.",
+    "options": [
+     "Phloem",
+     "Stomata",
+     "Cuticle",
+     "Xylem"
+    ],
+    "answer": 3,
+    "explanation": "Xylem vessels carry water and dissolved mineral ions from the roots to the leaves. Phloem carries sugars."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Cyanide is a poison that stops respiration. What happens to active transport in cells exposed to it?",
+    "options": [
+     "It stops",
+     "It speeds up",
+     "It stays the same",
+     "It reverses"
+    ],
+    "answer": 0,
+    "explanation": "Active transport relies on energy from respiration. If respiration stops, no energy is available, so active transport stops."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Name the type of molecules in the cell membrane that bind to particles and carry them across during active transport.",
+    "options": [
+     "Cellulose fibres",
+     "Carrier proteins",
+     "Fat droplets",
+     "Chromosomes"
+    ],
+    "answer": 1,
+    "explanation": "Carrier proteins in the membrane pick up a specific particle, then use energy to change shape and release it on the other side."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Mineral uptake by roots rises as oxygen supply increases, but then levels off even with more oxygen. What is a likely reason?",
+    "options": [
+     "Oxygen is toxic",
+     "Roots stop respiring",
+     "Limited number of carrier proteins",
+     "Diffusion takes over"
+    ],
+    "answer": 2,
+    "explanation": "When all of the carrier proteins are working at their maximum speed, extra oxygen and energy cannot increase the rate any further."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Of active transport, osmosis, muscle contraction and protein synthesis, which needs no energy from respiration?",
+    "options": [
+     "Active transport",
+     "Muscle contraction",
+     "Protein synthesis",
+     "Osmosis"
+    ],
+    "answer": 3,
+    "explanation": "Osmosis is a passive process driven by the movement of water molecules. The other three all need energy released in respiration."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Why do the cells that absorb food from the small intestine have many mitochondria?",
+    "options": [
+     "To release energy for active transport",
+     "To digest food",
+     "To store starch",
+     "To make enzymes"
+    ],
+    "answer": 0,
+    "explanation": "Active transport of glucose and amino acids needs energy, which is released in the mitochondria by aerobic respiration."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A student compares nitrate uptake by roots with and without oxygen bubbled into the water. Name the independent variable.",
+    "options": [
+     "Nitrate uptake",
+     "Oxygen supply",
+     "Mass of the roots",
+     "Temperature"
+    ],
+    "answer": 1,
+    "explanation": "The independent variable is what the student deliberately changes, which is whether oxygen is supplied. Nitrate uptake is the dependent variable."
+   }
+  ],
+  "note": "Sometimes cells need to take in substances even though their concentration inside the cell is already higher than outside. Diffusion cannot do this because it only moves particles down the concentration gradient. In these cases cells use active transport.\n\n## What is active transport?\nActive transport is the movement of particles across a membrane from a region of lower concentration to a region of higher concentration, which is against the concentration gradient. It needs energy from respiration, and it uses carrier proteins in the cell membrane. A carrier protein picks up a specific particle on one side, changes shape using energy, and releases it on the other side.\n\n## Comparing diffusion, osmosis and active transport\n- Diffusion: from high to low concentration, passive, needs no energy.\n- Osmosis: only water, across a partially permeable membrane, from high to low water concentration, passive.\n- Active transport: from low to high concentration, needs energy, uses carrier proteins.\n\n## Active transport in plants\nMineral ions such as nitrate and magnesium are present in the soil in low concentrations. Root hair cells take them in against the gradient by active transport. This is important because:\n- Nitrate is used to make amino acids and then proteins. A shortage causes stunted growth and yellow older leaves.\n- Magnesium is needed to make chlorophyll. A shortage causes yellow leaves.\nThe ions then move upwards in the xylem.\n\nRoot hair cells are adapted for uptake. They have a very large surface area from their long extensions, a thin wall, and many mitochondria to supply energy.\n\nWaterlogged soil has little oxygen. Roots cannot respire aerobically, so they release less energy and take up fewer minerals. This is why plants in flooded fields can show signs of mineral deficiency.\n\n## Active transport in humans\nIn the small intestine, glucose is absorbed by diffusion when its concentration in the gut is high. When the concentration in the gut is lower than in the blood, glucose is absorbed by active transport. Cells in the lining have many mitochondria for this reason.\n\n## Worked example\nA student places roots in a nitrate solution. Roots with air bubbled through take up 12 units of nitrate per hour, and roots with no air take up 3 units per hour. Explain the difference. Answer: with air, there is more oxygen for aerobic respiration, so more energy is released, which allows more active transport of nitrate into the roots.\n\nA second example: if the nitrate concentration inside a root hair cell is 40 units and in the soil 10 units, diffusion would move the ion out of the root. Because the plant still takes it in, it must be active transport.\n\n## Common mistakes\n- Saying that active transport \"makes\" energy. It uses energy.\n- Saying that the particles move down the gradient.\n- Writing that plants take in minerals by osmosis. Osmosis is for water only.\n- Forgetting to mention respiration as the source of energy.\n- Mixing up xylem (water and minerals) and phloem (sugars).\n\n## Command terms\n- State: name the process or ion.\n- Describe: give features of active transport.\n- Compare: give similarities and differences of diffusion and active transport.\n- Suggest: use your knowledge to give a reason for a new situation, such as flooded fields.\n\nExam tip: to prove that a process is active transport, show two things: movement against the concentration gradient, and a need for energy from respiration.",
+  "flashcards": [
+   {
+    "front": "Active transport",
+    "back": "Movement of particles against the concentration gradient, from low to high concentration, using energy from respiration."
+   },
+   {
+    "front": "Carrier protein",
+    "back": "A protein in the cell membrane that binds a specific particle and moves it across during active transport."
+   },
+   {
+    "front": "Source of energy for active transport",
+    "back": "Respiration, which takes place in the mitochondria."
+   },
+   {
+    "front": "How are root hair cells adapted?",
+    "back": "Long extensions for a large surface area, a thin wall, and many mitochondria for active transport."
+   },
+   {
+    "front": "Why do plants need nitrate?",
+    "back": "To make amino acids and then proteins. A shortage causes poor growth."
+   },
+   {
+    "front": "Why do plants need magnesium?",
+    "back": "To make chlorophyll. A shortage causes yellow leaves."
+   },
+   {
+    "front": "Why does waterlogged soil reduce mineral uptake?",
+    "back": "Little oxygen means less aerobic respiration, so less energy is available for active transport."
+   },
+   {
+    "front": "Diffusion versus active transport",
+    "back": "Diffusion goes down the gradient and needs no energy. Active transport goes against the gradient and needs energy."
+   },
+   {
+    "front": "Where in humans does active transport absorb glucose?",
+    "back": "In the small intestine lining, when the glucose concentration in the gut is lower than in the blood."
+   }
+  ]
+ }
+]

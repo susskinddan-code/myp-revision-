@@ -1,0 +1,39 @@
+[
+ {
+  "subject": "history",
+  "grade": 5,
+  "format": "widget-practice",
+  "title": "History MYP 5 Interactive Practice 1 (4 tasks, 28 marks)",
+  "criterion": null,
+  "questions": [
+   {
+    "position": 1,
+    "marks": 7,
+    "criterion": "A",
+    "content": "[[Q 1 | A 5 | C 2]]\nThis task is about the causes of the First World War.\n(a) Match each date to the event that happened on it. (4 marks)\n{{drag|d1|28 June 1914,4 August 1914,11 November 1918,28 June 1919|Archduke Franz Ferdinand is assassinated in Sarajevo,Britain declares war on Germany,The armistice ends the fighting on the Western Front,The Treaty of Versailles is signed,The Tsar of Russia abdicates}}\n(b) The assassination in Sarajevo was the {{select|t1|long-term cause|trigger|consequence}} of the war. (1 mark)\n(c) State two long-term causes of the war. (2 marks)\n\nTotal for Question 1: 7 marks",
+    "mark_scheme": "(a) Interactive answer [d1]: 28 June 1914 = Archduke Franz Ferdinand is assassinated in Sarajevo [1]; 4 August 1914 = Britain declares war on Germany [1]; 11 November 1918 = the armistice ends the fighting on the Western Front [1]; 28 June 1919 = the Treaty of Versailles is signed [1]. 'The Tsar of Russia abdicates' is a distractor (it happened in 1917). (b) Interactive answer [t1] = trigger [1]. (c) Any two of: the alliance system, militarism and the arms race, imperial rivalry, nationalism [1] [1]."
+   },
+   {
+    "position": 2,
+    "marks": 7,
+    "criterion": "A",
+    "content": "[[Q 2 | A 4 | C 3]]\nThis task is about the Treaty of Versailles of 1919.\n(a) Match each theme to the term of the treaty. (3 marks)\n{{drag|v1|War guilt,Army,Territory|Germany accepted responsibility for causing the war,The German army was limited to 100 000 men,Alsace-Lorraine was returned to France,Germany became a member of the League of Nations in 1920}}\n(b) The League of Nations was created to {{select|l1|keep peace between countries|collect taxes|run schools}}. (1 mark)\n(c) Explain why many Germans resented the treaty. (3 marks)\n\nTotal for Question 2: 7 marks",
+    "mark_scheme": "(a) Interactive answer [v1]: War guilt = Germany accepted responsibility for causing the war [1]; Army = the German army was limited to 100 000 men [1]; Territory = Alsace-Lorraine was returned to France [1]. The League of Nations item is a distractor (Germany joined later, in 1926). (b) Interactive answer [l1] = keep peace between countries [1]. (c) Identifies a term Germans resented such as the war guilt clause, limits on the army, loss of territory or reparations [1]; develops with detail or an example [1]; explains the link to resentment, for example that Germany was not allowed to negotiate so the treaty was seen as dictated and humiliating [1]."
+   },
+   {
+    "position": 3,
+    "marks": 7,
+    "criterion": "B",
+    "content": "[[Q 3 | B 5 | C 2]]\nThe chart shows how many years after 1914 each event happened.\n{{chart|bar|Years after 1914 that each event happened|Event|Years|Russian Revolution:3,USA enters the war:3,Armistice:4,Treaty of Versailles:5,League first meets:6}}\n(a) Plot the five events from the chart as points on the grid, with the years after 1914 on the horizontal axis and the event number on the vertical axis (1 = Russian Revolution, 2 = USA enters the war, 3 = Armistice, 4 = Treaty of Versailles, 5 = League first meets). (1 mark)\n{{plot|y1|0,8,0,6|Years after 1914|Event number}}\n(b) Add 1914 to the number of years shown to complete the table. Write the event in the first column and the year in the second column for the Armistice, the Treaty of Versailles and the first meeting of the League of Nations. (3 marks)\n{{fill|y2|Event,Year|3}}\n(c) Explain why the entry of the USA into the war mattered to the Allies. (3 marks)\n\nTotal for Question 3: 7 marks",
+    "mark_scheme": "(a) Interactive answer [y1]: plotted (3, 1), (3, 2), (4, 3), (5, 4), (6, 5); all five correct [1] (the Russian Revolution and the USA entering the war both fall 3 years after 1914, which is 1917). (b) Interactive answer [y2] rows: (Armistice, 1918) [1]; (Treaty of Versailles, 1919) [1]; (League of Nations first meets, 1920) [1]. (c) Allied armies and economies were tired after years of fighting [1]; the USA brought fresh troops and supplies [1]; this shifted the balance of resources against Germany and helped lead to the armistice in 1918 [1]."
+   },
+   {
+    "position": 4,
+    "marks": 7,
+    "criterion": "D",
+    "content": "[[Q 4 | D 5 | C 2]]\nA student states: 'The assassination in Sarajevo was the only cause of the First World War.'\n(a) Choose the statement that best matches the view of most historians. The assassination was {{select|j1|the only cause|one of several causes}} of the war. (1 mark)\n(b) Evaluate the student's statement. Use at least three factors in your answer and reach a supported judgement. (6 marks)\n\nTotal for Question 4: 7 marks",
+    "mark_scheme": "(a) Interactive answer [j1] = one of several causes [1]. (b) Award marks for: the assassination on 28 June 1914 as the immediate trigger [1]; the alliance system pulling other powers into the conflict [1]; militarism or the arms race [1]; nationalism or imperial rivalry [1]; an explicit judgement that long-term tensions made the trigger so serious [1]; a justified conclusion, for example that without these tensions the assassination might have stayed a local crisis [1]."
+   }
+  ]
+ }
+]

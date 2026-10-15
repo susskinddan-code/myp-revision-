@@ -1,0 +1,39 @@
+[
+ {
+  "subject": "environmental-systems",
+  "grade": 5,
+  "format": "widget-practice",
+  "title": "Environmental Systems MYP 5 Interactive Practice 1 (4 tasks, 28 marks)",
+  "criterion": null,
+  "questions": [
+   {
+    "position": 1,
+    "marks": 7,
+    "criterion": "A",
+    "content": "[[Q 1 | A 5 | C 2]]\nA meadow food chain is grass, grasshopper, frog and snake. The chart shows the energy available at each trophic level.\n{{chart|bar|Energy at each trophic level (kJ)|Trophic level|Energy (kJ)|Producer:10000,Primary consumer:1000,Secondary consumer:100,Tertiary consumer:10}}\n(a) Match each organism to its trophic level. (2 marks)\n{{drag|e1|Producer,Primary consumer,Secondary consumer,Tertiary consumer|Grass,Grasshopper,Frog,Snake,Fungus}}\n(b) Calculate the percentage of energy transferred from the primary consumers to the secondary consumers and state what the chart shows about the other transfers. (2 marks)\n(c) Most of the energy lost between levels is released as {{select|l1|heat from respiration|light|sound}}. (1 mark)\n(d) Explain why food chains rarely have more than five trophic levels. (2 marks)\n\nTotal for Question 1: 7 marks",
+    "mark_scheme": "(a) Interactive answer [e1]: Producer = grass; Primary consumer = grasshopper; Secondary consumer = frog; Tertiary consumer = snake. Three correct [1]; all four correct [1]. Fungus is a distractor (a decomposer). (b) 100 / 1000 x 100 = 10% [1]; the other transfers are also 10% (1000 / 10000 and 10 / 100) [1]. (c) Interactive answer [l1] = heat from respiration [1]. (d) Only about 10% of energy passes to the next level, so energy decreases at each level [1]; by the fifth level too little energy remains to support another group of consumers [1]."
+   },
+   {
+    "position": 2,
+    "marks": 7,
+    "criterion": "C",
+    "content": "[[Q 2 | C 5 | D 2]]\nThe line graph shows carbon dioxide at a fictional monitoring site, Station M. The data are invented for practice.\n{{chart|line|Carbon dioxide at Station M (ppm)|Year|Carbon dioxide (ppm)|Year 1:380,Year 2:382,Year 3:384,Year 4:386,Year 5:388}}\n(a) Assume the trend continues. Complete the table to predict Years 6 and 7. Write the year number in the first column and the carbon dioxide in ppm in the second column. (2 marks)\n{{fill|c1|Year,Carbon dioxide (ppm)|2}}\n(b) Calculate the mean increase in carbon dioxide per year between Year 1 and Year 5. (2 marks)\n(c) Match each process to its effect on carbon dioxide. (3 marks)\n{{drag|k1|Photosynthesis,Respiration,Combustion|Carbon dioxide is taken from the air to make glucose,Carbon dioxide is released by living cells releasing energy,Carbon dioxide is released when fuels burn,Carbon dioxide is converted into oxygen by animals}}\n\nTotal for Question 2: 7 marks",
+    "mark_scheme": "(a) Interactive answer [c1] rows: (6, 390) [1]; (7, 392) [1]. (b) (388 - 380) / 4 [1] = 2 ppm per year [1]. (c) Interactive answer [k1]: Photosynthesis = carbon dioxide is taken from the air to make glucose [1]; Respiration = carbon dioxide is released by living cells releasing energy [1]; Combustion = carbon dioxide is released when fuels burn [1]. 'Carbon dioxide is converted into oxygen by animals' is a distractor."
+   },
+   {
+    "position": 3,
+    "marks": 7,
+    "criterion": "B",
+    "content": "[[Q 3 | B 5 | C 2]]\nA student estimates the number of daisies in a field of area 400 m2. She places ten 1 m2 quadrats at random positions and counts the daisies in each: 3, 5, 4, 6, 2, 4, 3, 5, 4, 4.\n(a) Calculate the mean number of daisies per quadrat. (1 mark)\n(b) Estimate the total number of daisies in the field. (2 marks)\n(c) Plot the frequency of each count on the grid, with the number of daisies per quadrat on the horizontal axis. (2 marks)\n{{plot|q1|0,8,0,6|Daisies per quadrat|Frequency}}\n(d) To make the estimate more reliable the student should use {{select|q2|more quadrats placed randomly|one quadrat in the best patch|quadrats only at the edge of the field}}. (1 mark)\n(e) State one reason the estimate may differ from the true number of daisies. (1 mark)\n\nTotal for Question 3: 7 marks",
+    "mark_scheme": "(a) 40 / 10 = 4 daisies per quadrat [1]. (b) 4 x 400 [1] = 1600 daisies [1]. (c) Interactive answer [q1]: plotted (2, 1), (3, 2), (4, 4), (5, 2), (6, 1). At least three points correct [1]; all five correct [1]. (d) Interactive answer [q2] = more quadrats placed randomly [1]. (e) Daisies may not be spread evenly, or the sample of ten quadrats is small, so it may not represent the whole field [1]."
+   },
+   {
+    "position": 4,
+    "marks": 7,
+    "criterion": "D",
+    "content": "[[Q 4 | D 5 | A 2]]\nThe pie chart shows the household waste of a fictional town, in tonnes per month.\n{{chart|pie|Household waste by type (tonnes per month)|||Food:175,Paper:100,Plastic:75,Glass:50,Other:100}}\n(a) Match each type of waste to a suitable way of managing it. (3 marks)\n{{drag|w1|Food waste,Glass,Paper|Compost or anaerobic digestion,Collect and melt to make new glass containers,Pulp and recycle into new paper products,Bury in landfill}}\n(b) Paper, plastic and glass can be recycled. Calculate the tonnes of recyclable waste per month and the percentage of the total waste this represents. (2 marks)\n(c) Landfill sites can cause pollution because rotting waste produces {{select|w2|methane gas and a polluted liquid called leachate|ozone and acid rain only}}. (1 mark)\n(d) Suggest one action the town council could take to reduce the waste sent to landfill. (1 mark)\n\nTotal for Question 4: 7 marks",
+    "mark_scheme": "(a) Interactive answer [w1]: Food waste = compost or anaerobic digestion [1]; Glass = collect and melt to make new glass containers [1]; Paper = pulp and recycle into new paper products [1]. 'Bury in landfill' is a distractor. (b) 100 + 75 + 50 = 225 tonnes [1]; 225 / 500 x 100 = 45% [1]. (c) Interactive answer [w2] = methane gas and a polluted liquid called leachate [1]. (d) A valid action such as kerbside recycling collections, food waste collection for composting, or a charge for non-recycled waste [1]."
+   }
+  ]
+ }
+]

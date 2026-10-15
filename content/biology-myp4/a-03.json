@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Enzymes and Nutrition",
+  "subTopic": "Enzyme Action and the Lock and Key Model",
+  "questions": [
+   {
+    "difficulty": "easy",
+    "content": "Enzymes are biological catalysts. Name the type of molecule that all enzymes are made of.",
+    "options": [
+     "Protein",
+     "Carbohydrate",
+     "Fat",
+     "Mineral"
+    ],
+    "answer": 0,
+    "explanation": "Enzymes are proteins. Their long chains fold into a specific three-dimensional shape that allows them to work."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the part of an enzyme where the substrate binds.",
+    "options": [
+     "Nucleus",
+     "Active site",
+     "Cell wall",
+     "Membrane"
+    ],
+    "answer": 1,
+    "explanation": "The active site is a small region with a particular shape. The substrate fits into it so the reaction can happen."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the substance that an enzyme acts on.",
+    "options": [
+     "Product",
+     "Catalyst",
+     "Substrate",
+     "Solvent"
+    ],
+    "answer": 2,
+    "explanation": "The substrate binds to the enzyme's active site and is changed into one or more products."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Enzymes are biological catalysts. What do they do to the rate of a reaction?",
+    "options": [
+     "Slow it down",
+     "Stop it",
+     "Reverse it",
+     "Speed it up"
+    ],
+    "answer": 3,
+    "explanation": "A catalyst increases the rate of a reaction without being used up. Without enzymes, reactions in cells would be too slow to keep us alive."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the enzyme in saliva that breaks down starch.",
+    "options": [
+     "Amylase",
+     "Protease",
+     "Lipase",
+     "Catalase"
+    ],
+    "answer": 0,
+    "explanation": "Amylase breaks down starch into the sugar maltose, starting digestion in the mouth."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name the type of enzyme that breaks down proteins into amino acids.",
+    "options": [
+     "Lipase",
+     "Protease",
+     "Amylase",
+     "Catalase"
+    ],
+    "answer": 1,
+    "explanation": "Proteases digest proteins. Pepsin in the stomach is one example."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Lipase breaks down fats. Name the two types of molecule it produces.",
+    "options": [
+     "Amino acids and glucose",
+     "Glucose and maltose",
+     "Fatty acids and glycerol",
+     "Starch and protein"
+    ],
+    "answer": 2,
+    "explanation": "Lipase breaks lipids (fats and oils) into three fatty acids and one glycerol molecule."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name the enzyme found in cells that breaks down toxic hydrogen peroxide into water and oxygen.",
+    "options": [
+     "Amylase",
+     "Protease",
+     "Lipase",
+     "Catalase"
+    ],
+    "answer": 3,
+    "explanation": "Catalase protects cells from hydrogen peroxide, which is a harmful waste product of some reactions."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Why does each enzyme work on only one type of substrate?",
+    "options": [
+     "Its active site has a matching shape",
+     "Enzymes are all the same shape",
+     "All substrates are alike",
+     "Enzymes are alive"
+    ],
+    "answer": 0,
+    "explanation": "The substrate fits the active site like a key in a lock. A substrate with a different shape will not fit, so that enzyme cannot act on it."
+   },
+   {
+    "difficulty": "medium",
+    "content": "What happens to an enzyme at the end of a reaction?",
+    "options": [
+     "It is used up",
+     "It is unchanged and can be reused",
+     "It becomes the product",
+     "It is digested"
+    ],
+    "answer": 1,
+    "explanation": "An enzyme is a catalyst, so it is not used up. It can bind to another substrate molecule straight away."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name the model of enzyme action in which the substrate fits the active site like a key fits a lock.",
+    "options": [
+     "Fluid mosaic model",
+     "Particle model",
+     "Lock and key model",
+     "Cell theory"
+    ],
+    "answer": 2,
+    "explanation": "In the lock and key model the shape of the active site is complementary to the shape of the substrate."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name the new substances formed when an enzyme breaks down a substrate.",
+    "options": [
+     "Reactants",
+     "Catalysts",
+     "Solutes",
+     "Products"
+    ],
+    "answer": 3,
+    "explanation": "The molecules produced by a reaction are called the products. In digestion, the products are small soluble molecules such as sugars."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name one organ other than the salivary glands that makes amylase.",
+    "options": [
+     "Pancreas",
+     "Liver",
+     "Stomach",
+     "Gall bladder"
+    ],
+    "answer": 0,
+    "explanation": "The pancreas makes amylase, protease and lipase and releases them into the small intestine. The liver makes bile, which is not an enzyme."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Name the term for an enzyme whose active site has permanently changed shape so the substrate no longer fits.",
+    "options": [
+     "Digested",
+     "Denatured",
+     "Dissolved",
+     "Respired"
+    ],
+    "answer": 1,
+    "explanation": "When an enzyme is denatured, its protein chain unfolds and the active site loses its shape. This change is usually permanent."
+   },
+   {
+    "difficulty": "hard",
+    "content": "The rate of an enzyme-controlled reaction levels off when more substrate is added. What is the most likely reason?",
+    "options": [
+     "The enzyme is denatured",
+     "The substrate is used up",
+     "All active sites are occupied",
+     "The temperature has fallen"
+    ],
+    "answer": 2,
+    "explanation": "When every enzyme molecule is busy with a substrate, adding more substrate cannot speed up the reaction, so the rate stops rising."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Amylase added to a mixture of starch and protein breaks down only the starch. Name the property of enzymes that this shows.",
+    "options": [
+     "Denaturation",
+     "Diffusion",
+     "Respiration",
+     "Specificity"
+    ],
+    "answer": 3,
+    "explanation": "Amylase has an active site that fits starch only, not protein. Each enzyme is specific to its substrate."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Name the protease enzyme made in the stomach.",
+    "options": [
+     "Pepsin",
+     "Amylase",
+     "Lipase",
+     "Maltase"
+    ],
+    "answer": 0,
+    "explanation": "Pepsin breaks down proteins into smaller chains of amino acids. It works best in the acidic conditions of the stomach."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A chemical with a similar shape to the substrate blocks the active site of an enzyme. What happens to the rate of the reaction?",
+    "options": [
+     "It increases",
+     "It decreases",
+     "It stays the same",
+     "It reverses"
+    ],
+    "answer": 1,
+    "explanation": "The chemical occupies the active site, so fewer substrate molecules can bind. The rate of reaction falls."
+   }
+  ],
+  "note": "Every second, thousands of chemical reactions take place in your cells. Most would be far too slow at body temperature without help. This help comes from enzymes.\n\n## What are enzymes?\nEnzymes are biological catalysts. A catalyst is a substance that speeds up a chemical reaction without being used up. Enzymes are proteins. The long chain of amino acids folds into a specific three-dimensional shape. Part of that shape is a small groove or pocket called the active site.\n\n## The lock and key model\nThe substance an enzyme works on is the substrate. The substrate has a shape that is complementary to the active site, in the same way that a key fits a lock. The substrate binds to the active site to form an enzyme-substrate complex. The reaction takes place, the products are released, and the enzyme is unchanged and free to work again.\n\nThis model explains why enzymes are specific. Only one substrate has the right shape to fit a given active site. Amylase will break down starch but will not break down protein.\n\n## Examples of digestive enzymes\n- Amylase breaks down starch into maltose. It is made in the salivary glands and the pancreas.\n- Protease, such as pepsin in the stomach, breaks down proteins into amino acids.\n- Lipase breaks down fats into fatty acids and glycerol.\nDigestive enzymes break large insoluble molecules into small soluble molecules that can be absorbed into the blood. Catalase is not a digestive enzyme. It works inside cells and breaks down hydrogen peroxide into water and oxygen.\n\n## Enzymes and conditions\nEnzymes work best at an optimum temperature and pH. If conditions are too extreme, the shape of the active site changes. The substrate no longer fits and the enzyme is denatured. This is covered further in the sub-topic on rate investigations.\n\n## Worked example 1\nA student mixes the enzyme lipase with milk containing fat. The pH falls. Explain why. Answer: lipase breaks down the fat into fatty acids and glycerol. The fatty acids lower the pH.\n\n## Worked example 2\nA scientist adds more and more substrate to a fixed amount of enzyme. The rate rises, then levels off. Explain the shape of the graph. Answer: at first more substrate means more enzyme-substrate collisions, so the rate rises. Eventually all of the active sites are occupied at once, so extra substrate cannot increase the rate. The enzyme concentration is now the limiting factor.\n\n## Common mistakes\n- Saying enzymes are \"used up\" or \"killed\". Enzymes are not alive, and they are not used up. They are denatured, not killed.\n- Saying the substrate is changed to fit the enzyme. In the lock and key model the shapes are already complementary.\n- Mixing up the substrate and the product.\n- Writing that amylase breaks down proteins.\n- Saying an enzyme \"makes\" the reaction happen. It only speeds up a reaction that is possible.\n\n## Command terms\n- Define: give the exact meaning of a catalyst.\n- Describe: say what happens, for example describe how the lock and key model works.\n- Explain: give reasons, such as why an enzyme is specific.\n- Sketch: draw a rough graph, for example rate against substrate concentration.\n\nExam tip: in an explanation about enzymes, use the words active site, substrate and complementary shape.",
+  "flashcards": [
+   {
+    "front": "Enzyme",
+    "back": "A biological catalyst made of protein. It speeds up a reaction and is not used up."
+   },
+   {
+    "front": "Catalyst",
+    "back": "A substance that increases the rate of a chemical reaction without being used up."
+   },
+   {
+    "front": "Substrate",
+    "back": "The substance that an enzyme acts on."
+   },
+   {
+    "front": "Active site",
+    "back": "The region of an enzyme with a shape that matches the substrate."
+   },
+   {
+    "front": "Lock and key model",
+    "back": "The substrate has a shape that fits the active site of its enzyme, like a key fits a lock."
+   },
+   {
+    "front": "Amylase",
+    "back": "An enzyme that breaks down starch into maltose. Made in the salivary glands and pancreas."
+   },
+   {
+    "front": "Protease",
+    "back": "An enzyme that breaks proteins down into amino acids. Pepsin is a protease in the stomach."
+   },
+   {
+    "front": "Lipase",
+    "back": "An enzyme that breaks down fats into fatty acids and glycerol."
+   },
+   {
+    "front": "Why are enzymes specific?",
+    "back": "Each enzyme has an active site with a shape that fits only one type of substrate."
+   }
+  ]
+ },
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Enzymes and Nutrition",
+  "subTopic": "Enzyme Rate Investigations",
+  "questions": [
+   {
+    "difficulty": "easy",
+    "content": "What is the optimum temperature for most human enzymes?",
+    "options": [
+     "37 degrees Celsius",
+     "20 degrees Celsius",
+     "50 degrees Celsius",
+     "100 degrees Celsius"
+    ],
+    "answer": 0,
+    "explanation": "Human enzymes work best at around 37 degrees Celsius, which is normal body temperature."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the conditions at which an enzyme works fastest.",
+    "options": [
+     "Minimum conditions",
+     "Optimum conditions",
+     "Maximum conditions",
+     "Neutral conditions"
+    ],
+    "answer": 1,
+    "explanation": "The optimum temperature and pH are the values at which the enzyme has the highest rate of reaction."
+   },
+   {
+    "difficulty": "easy",
+    "content": "What happens to an enzyme at a very high temperature, such as 80 degrees Celsius?",
+    "options": [
+     "It works faster",
+     "It is digested",
+     "It is denatured",
+     "It evaporates"
+    ],
+    "answer": 2,
+    "explanation": "High temperatures break the bonds holding the enzyme's shape, so the active site changes and the enzyme stops working."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the solution used to test for the presence of starch.",
+    "options": [
+     "Benedict's solution",
+     "Limewater",
+     "Biuret reagent",
+     "Iodine solution"
+    ],
+    "answer": 3,
+    "explanation": "Iodine solution turns from orange-brown to blue-black in the presence of starch."
+   },
+   {
+    "difficulty": "easy",
+    "content": "What colour does iodine solution turn when starch is present?",
+    "options": [
+     "Blue-black",
+     "Brick-red",
+     "Cloudy white",
+     "Colourless"
+    ],
+    "answer": 0,
+    "explanation": "Starch turns iodine solution blue-black. If starch is absent, the iodine stays orange-brown."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Pepsin works best in the stomach. What is the approximate optimum pH for pepsin?",
+    "options": [
+     "pH 7",
+     "pH 2",
+     "pH 9",
+     "pH 12"
+    ],
+    "answer": 1,
+    "explanation": "The stomach contains hydrochloric acid, which gives it a pH of about 2. Pepsin is adapted to work in these acidic conditions."
+   },
+   {
+    "difficulty": "medium",
+    "content": "What is the approximate optimum pH of amylase from saliva?",
+    "options": [
+     "pH 2",
+     "pH 11",
+     "pH 7",
+     "pH 14"
+    ],
+    "answer": 2,
+    "explanation": "Saliva is close to neutral, and salivary amylase works best at about pH 7."
+   },
+   {
+    "difficulty": "medium",
+    "content": "In an amylase and starch investigation, what colour of iodine shows that all the starch has been broken down?",
+    "options": [
+     "Blue-black",
+     "Green",
+     "Purple",
+     "Orange-brown"
+    ],
+    "answer": 3,
+    "explanation": "Iodine solution is orange-brown unless starch is present. If the colour stays orange-brown, there is no starch left."
+   },
+   {
+    "difficulty": "medium",
+    "content": "What happens to the rate of an enzyme-controlled reaction as the temperature rises from 0 to 37 degrees Celsius?",
+    "options": [
+     "It increases",
+     "It decreases",
+     "It stays the same",
+     "It stops"
+    ],
+    "answer": 0,
+    "explanation": "At higher temperatures, particles have more kinetic energy and collide more often and harder, so the reaction rate goes up."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name the piece of equipment used to keep the temperature of tubes steady in an enzyme investigation.",
+    "options": [
+     "Bunsen burner",
+     "Water bath",
+     "Balance",
+     "Measuring cylinder"
+    ],
+    "answer": 1,
+    "explanation": "A water bath keeps the contents of the tubes at a constant temperature. A Bunsen burner would heat unevenly."
+   },
+   {
+    "difficulty": "medium",
+    "content": "The volume of enzyme solution is kept the same in every tube. What kind of variable is this?",
+    "options": [
+     "Independent variable",
+     "Dependent variable",
+     "Control variable",
+     "Random variable"
+    ],
+    "answer": 2,
+    "explanation": "Variables that are kept the same so the test is fair are called control variables."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Starch disappears after 50 seconds. What is the rate of reaction, calculated as 1 divided by time?",
+    "options": [
+     "0.2 per second",
+     "50 per second",
+     "2 per second",
+     "0.02 per second"
+    ],
+    "answer": 3,
+    "explanation": "Rate = 1 ÷ time = 1 ÷ 50 = 0.02 per second."
+   },
+   {
+    "difficulty": "medium",
+    "content": "What should you do with an anomalous result when calculating a mean?",
+    "options": [
+     "Exclude it",
+     "Include it twice",
+     "Double it",
+     "Change it to match the others"
+    ],
+    "answer": 0,
+    "explanation": "An anomalous result does not fit the pattern, often because of a mistake. It is left out of the mean and mentioned in the evaluation."
+   },
+   {
+    "difficulty": "hard",
+    "content": "The rates of an enzyme at 10, 20, 30, 40, 50 and 60 degrees Celsius are 2, 4, 7, 9, 3 and 0. What is the best estimate of the optimum temperature?",
+    "options": [
+     "30 degrees Celsius",
+     "40 degrees Celsius",
+     "50 degrees Celsius",
+     "60 degrees Celsius"
+    ],
+    "answer": 1,
+    "explanation": "The highest rate is at 40 degrees Celsius. The rate then falls sharply as the enzyme begins to denature, and it is zero at 60 degrees Celsius."
+   },
+   {
+    "difficulty": "hard",
+    "content": "An enzyme heated to 70 degrees Celsius is cooled to 37 degrees Celsius but does not work again. What is the reason?",
+    "options": [
+     "The substrate has been used up",
+     "The enzyme has evaporated",
+     "Its active site has permanently changed shape",
+     "The pH has risen"
+    ],
+    "answer": 2,
+    "explanation": "Denaturation by high temperature is permanent, so cooling does not restore the shape of the active site."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Why does the rate of an enzyme-controlled reaction rise as the temperature increases below the optimum?",
+    "options": [
+     "The enzyme is denatured",
+     "The substrate changes shape",
+     "More enzyme is made",
+     "More frequent collisions between enzyme and substrate"
+    ],
+    "answer": 3,
+    "explanation": "Warmer particles move faster, so enzyme and substrate molecules collide more often and with more energy."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Pepsin leaves the stomach and enters the alkaline small intestine. Why does it stop working?",
+    "options": [
+     "The alkaline pH denatures it",
+     "It is too cold",
+     "It is digested by amylase",
+     "It runs out of substrate"
+    ],
+    "answer": 0,
+    "explanation": "Pepsin has an optimum of about pH 2. In the alkaline small intestine, its active site changes shape, so it is denatured."
+   },
+   {
+    "difficulty": "hard",
+    "content": "At 80 degrees Celsius a mixture of starch and amylase still turns iodine blue-black. What does this show?",
+    "options": [
+     "All the starch has been digested",
+     "The amylase has been denatured",
+     "The iodine has reacted with amylase",
+     "Amylase works best at 80 degrees Celsius"
+    ],
+    "answer": 1,
+    "explanation": "The starch is still present, so the amylase did not break it down. At 80 degrees Celsius amylase is denatured."
+   }
+  ],
+  "note": "Enzymes are sensitive to their surroundings. Two of the most important factors are temperature and pH. In this sub-topic you learn how to investigate these factors and how to interpret the results.\n\n## Temperature\nAt low temperatures, enzyme and substrate particles move slowly. They collide less often, so the reaction is slow. As the temperature rises, particles gain kinetic energy, collide more often and the rate increases. Every enzyme has an optimum temperature at which it works fastest. For human enzymes this is around 37 degrees Celsius. Above the optimum, the bonds that hold the enzyme in shape begin to break. The active site changes shape and the substrate no longer fits. The enzyme is denatured, and the rate falls rapidly. Denaturation is permanent, so cooling does not bring the enzyme back to life.\n\n## pH\nEach enzyme also has an optimum pH. Pepsin in the stomach works best at about pH 2. Salivary amylase works best at about pH 7. Enzymes in the small intestine work best in slightly alkaline conditions. If the pH is too far from the optimum, the enzyme is denatured.\n\n## A standard investigation: amylase and starch\n1. Mix starch solution and amylase in a test tube kept in a water bath at a chosen temperature.\n2. Every 30 seconds, take a drop of the mixture and add it to a drop of iodine solution on a spotting tile.\n3. Record when the iodine stops turning blue-black and stays orange-brown. This is the time at which all of the starch has been broken down.\n4. Repeat at several temperatures, or with buffer solutions of different pH.\nIndependent variable: temperature or pH. Dependent variable: the time taken for starch to disappear. Control variables: volume and concentration of starch, volume and concentration of amylase, and (when testing pH) the temperature.\n\nRate can be calculated as 1 ÷ time. A shorter time means a faster rate.\n\n## Worked example\nTime taken for the starch to disappear: 20 degrees Celsius = 200 s; 40 degrees Celsius = 50 s; 60 degrees Celsius = no change after 600 s.\nRate at 20 degrees Celsius = 1 ÷ 200 = 0.005 per second. Rate at 40 degrees Celsius = 1 ÷ 50 = 0.02 per second, four times faster. At 60 degrees Celsius, the rate is zero, because the amylase has been denatured. The optimum is likely to be near 40 degrees Celsius, although a narrower range of temperatures would be needed to find it more precisely.\n\n## Improving reliability and accuracy\n- Repeat each temperature at least three times and calculate a mean.\n- Exclude anomalous results from the mean and discuss them.\n- Use a water bath and a thermometer to keep temperatures steady.\n- Let the enzyme and starch reach the temperature separately before mixing.\n- Use a measuring syringe, not a beaker, to measure small volumes.\n\n## Common mistakes\n- Saying that enzymes are killed by heat. They are not alive, so say denatured.\n- Writing that low temperatures denature enzymes. Cold only slows them down, and they work again when warmed.\n- Describing the rate as \"the time\". A longer time means a slower rate.\n- Forgetting to control the temperature when investigating pH.\n- Drawing the graph with a smooth rise that ends flat. The rate drops sharply after the optimum.\n\n## Command terms\n- Plan: describe the equipment, variables and steps of an investigation.\n- Interpret: say what a graph or table shows about the enzyme.\n- Justify: give reasons for choosing the optimum from data.\n- Evaluate: comment on strengths and weaknesses of the method.\n\nExam tip: if asked to explain a rate change, mention collisions at low temperature and denaturation at high temperature, and never use the word \"killed\".",
+  "flashcards": [
+   {
+    "front": "Optimum temperature",
+    "back": "The temperature at which an enzyme works fastest. About 37 degrees Celsius for human enzymes."
+   },
+   {
+    "front": "Denatured enzyme",
+    "back": "An enzyme whose active site has permanently changed shape, usually by high temperature or extreme pH."
+   },
+   {
+    "front": "Why does the rate rise with temperature below the optimum?",
+    "back": "Particles have more kinetic energy, so enzyme and substrate collide more often."
+   },
+   {
+    "front": "Optimum pH of pepsin",
+    "back": "About pH 2, in the acidic stomach."
+   },
+   {
+    "front": "Optimum pH of salivary amylase",
+    "back": "About pH 7, close to neutral."
+   },
+   {
+    "front": "Iodine test for starch",
+    "back": "Orange-brown iodine turns blue-black when starch is present."
+   },
+   {
+    "front": "How to find rate from time",
+    "back": "Rate = 1 ÷ time. A shorter time means a faster rate."
+   },
+   {
+    "front": "Control variables in an amylase investigation",
+    "back": "Volume and concentration of starch and enzyme, temperature (when testing pH), and the timing method."
+   },
+   {
+    "front": "Why repeat the investigation?",
+    "back": "To calculate a mean, spot anomalous results and make the results more reliable."
+   }
+  ]
+ },
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Enzymes and Nutrition",
+  "subTopic": "Nutrients, Food Tests and Deficiencies",
+  "questions": [
+   {
+    "difficulty": "easy",
+    "content": "Name the nutrient needed for growth and repair of body tissues.",
+    "options": [
+     "Protein",
+     "Carbohydrate",
+     "Fibre",
+     "Water"
+    ],
+    "answer": 0,
+    "explanation": "Proteins are made of amino acids, which the body uses to build new cells and repair damaged ones."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the nutrient that is the main source of quick energy.",
+    "options": [
+     "Protein",
+     "Carbohydrate",
+     "Fibre",
+     "Vitamin D"
+    ],
+    "answer": 1,
+    "explanation": "Carbohydrates such as starch and sugars are broken down to glucose, which is used in respiration."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the solution used to test food for glucose.",
+    "options": [
+     "Iodine solution",
+     "Biuret reagent",
+     "Benedict's solution",
+     "Limewater"
+    ],
+    "answer": 2,
+    "explanation": "Benedict's solution is heated with the food sample in a water bath. Glucose and some other sugars change its colour."
+   },
+   {
+    "difficulty": "easy",
+    "content": "What colour does Benedict's solution turn with a high concentration of glucose after heating?",
+    "options": [
+     "Blue-black",
+     "Purple",
+     "Cloudy white",
+     "Brick-red"
+    ],
+    "answer": 3,
+    "explanation": "The colour change goes from blue through green, yellow and orange to brick-red as the concentration of sugar rises."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the disease caused by a lack of vitamin C.",
+    "options": [
+     "Scurvy",
+     "Rickets",
+     "Anaemia",
+     "Goitre"
+    ],
+    "answer": 0,
+    "explanation": "Vitamin C is needed to make healthy skin and gums. A lack causes scurvy, with bleeding gums and slow wound healing."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A lack of which vitamin causes rickets?",
+    "options": [
+     "Vitamin A",
+     "Vitamin D",
+     "Vitamin C",
+     "Vitamin K"
+    ],
+    "answer": 1,
+    "explanation": "Vitamin D helps the body absorb calcium. Without it, bones are soft and can bend, which is called rickets."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A lack of which mineral causes anaemia?",
+    "options": [
+     "Calcium",
+     "Iodine",
+     "Iron",
+     "Sodium"
+    ],
+    "answer": 2,
+    "explanation": "Iron is needed to make haemoglobin in red blood cells. Without enough iron, the blood carries less oxygen and the person feels tired and weak."
+   },
+   {
+    "difficulty": "medium",
+    "content": "What do you see in the ethanol emulsion test if fat is present?",
+    "options": [
+     "A blue-black colour",
+     "A brick-red precipitate",
+     "A purple colour",
+     "A cloudy white layer"
+    ],
+    "answer": 3,
+    "explanation": "Fat does not dissolve in water, so when the ethanol solution is added to water, fat forms a cloudy white emulsion."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Dietary fibre helps to prevent which digestive problem?",
+    "options": [
+     "Constipation",
+     "Scurvy",
+     "Rickets",
+     "Anaemia"
+    ],
+    "answer": 0,
+    "explanation": "Fibre adds bulk to the food and helps the muscles of the gut push it along, so it helps to prevent constipation."
+   },
+   {
+    "difficulty": "medium",
+    "content": "In which unit is the energy content of foods usually measured?",
+    "options": [
+     "Kilograms",
+     "Kilojoules",
+     "Kilopascals",
+     "Kilometres"
+    ],
+    "answer": 1,
+    "explanation": "Energy in food is measured in joules or kilojoules (kJ). Many labels also give kilocalories."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Eggs, fish and beans are good sources of which nutrient?",
+    "options": [
+     "Carbohydrate",
+     "Fibre",
+     "Protein",
+     "Vitamin C"
+    ],
+    "answer": 2,
+    "explanation": "These foods contain a lot of protein, which is used for growth and repair."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name the mineral needed for strong bones and teeth.",
+    "options": [
+     "Iron",
+     "Iodine",
+     "Sodium",
+     "Calcium"
+    ],
+    "answer": 3,
+    "explanation": "Calcium is a main component of bone and teeth. Milk and cheese are good sources."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Which vitamin is needed for good vision in dim light?",
+    "options": [
+     "Vitamin A",
+     "Vitamin C",
+     "Vitamin D",
+     "Vitamin K"
+    ],
+    "answer": 0,
+    "explanation": "Vitamin A is used to make a light-sensitive pigment in the eye. A lack causes night blindness."
+   },
+   {
+    "difficulty": "hard",
+    "content": "In a food-burning experiment, 1.0 g of food heats 20 g of water by 10 degrees Celsius. The specific heat capacity of water is 4.2 J per gram per degree Celsius. How much energy per gram of food was transferred to the water?",
+    "options": [
+     "84 J",
+     "840 J",
+     "8400 J",
+     "210 J"
+    ],
+    "answer": 1,
+    "explanation": "Energy = mass of water x 4.2 x temperature rise = 20 x 4.2 x 10 = 840 J for 1.0 g of food."
+   },
+   {
+    "difficulty": "hard",
+    "content": "One food sample gives a green colour with Benedict's solution and another gives brick-red. What does this show?",
+    "options": [
+     "The first has more sugar",
+     "Neither has any sugar",
+     "The second has more sugar",
+     "Both have equal sugar"
+    ],
+    "answer": 2,
+    "explanation": "The colour changes from blue to green, yellow, orange and then brick-red as the sugar concentration increases. Brick-red means the most sugar."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Egg white solution turns purple with biuret reagent and stays blue with heated Benedict's solution. What does it contain?",
+    "options": [
+     "Glucose but no protein",
+     "Starch and protein",
+     "Fat only",
+     "Protein but no glucose"
+    ],
+    "answer": 3,
+    "explanation": "Purple with biuret reagent shows protein is present. The blue colour with Benedict's solution shows there is no reducing sugar such as glucose."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A teenager needs 10,500 kJ per day. A meal provides 3,150 kJ. What percentage of the daily energy requirement is this?",
+    "options": [
+     "30%",
+     "33%",
+     "3.5%",
+     "70%"
+    ],
+    "answer": 0,
+    "explanation": "Percentage = 3,150 ÷ 10,500 x 100 = 30%."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Per 100 g, butter provides about 3000 kJ and bread about 1000 kJ. Which nutrient mainly explains the higher energy in butter?",
+    "options": [
+     "Fibre",
+     "Fat",
+     "Water",
+     "Vitamin C"
+    ],
+    "answer": 1,
+    "explanation": "Fat gives about 37 kJ per gram, more than twice the energy per gram from carbohydrate or protein (about 17 kJ per gram)."
+   }
+  ],
+  "note": "A balanced diet gives the body everything it needs to release energy, grow, repair tissue and stay healthy. The main nutrient groups are carbohydrates, proteins, fats (lipids), vitamins, minerals, fibre and water.\n\n## Nutrient groups and their jobs\n- Carbohydrates, such as starch and sugars, provide energy. They are digested into glucose.\n- Proteins are made of amino acids. They are used for growth and repair, and to make enzymes and hormones.\n- Fats (lipids) store energy and insulate the body. They give more energy per gram than the other nutrients: about 37 kJ per gram compared with about 17 kJ per gram for carbohydrate and protein.\n- Vitamins and minerals are needed in small amounts.\n- Fibre (cellulose) is not digested but keeps food moving through the gut.\n- Water is needed for all the chemical reactions and for transport in the blood.\n\n## Deficiency diseases\n- Vitamin C: lack causes scurvy (bleeding gums, slow healing). Found in citrus fruits.\n- Vitamin D: lack causes rickets (soft bones). The skin makes vitamin D in sunlight.\n- Vitamin A: lack causes poor vision in dim light.\n- Iron: lack causes anaemia, because haemoglobin cannot be made.\n- Calcium: needed for bones and teeth.\n- Iodine: needed for thyroid hormones. A lack causes a swollen thyroid called goitre.\n\n## Food tests\n- Starch: add iodine solution. Orange-brown changes to blue-black.\n- Glucose: add Benedict's solution and heat in a water bath. Blue changes to green, yellow, orange or brick-red, depending on the amount.\n- Protein: add biuret reagent (sodium hydroxide and copper sulfate). Blue changes to purple.\n- Fat: shake the food with ethanol, then pour the liquid into water. A cloudy white emulsion shows fat.\nFor the glucose test the colour change tells you roughly how much sugar there is, so it is semi-quantitative. Prepare the food as a solution by grinding it with water first.\n\n## Energy content of food\nTo measure energy in food, burn a known mass of the food under a boiling tube containing a known mass of water, and measure the temperature rise.\nEnergy transferred = mass of water x 4.2 x temperature rise.\nWorked example: 1.0 g of a nut heats 25 g of water by 20 degrees Celsius. Energy = 25 x 4.2 x 20 = 2,100 J, which is 2.1 kJ per gram. The real value is higher because much of the heat escapes to the air. Improve accuracy by using a draught shield, putting the flame close to the tube, and stirring the water.\n\n## Common mistakes\n- Saying a positive Benedict's test is \"red\" every time. The colour depends on concentration.\n- Forgetting to heat the Benedict's mixture.\n- Writing that fibre gives energy. It is not digested.\n- Confusing scurvy (vitamin C) and rickets (vitamin D).\n- Stating the energy value of food without including the units.\n\n## Command terms\n- State: name a nutrient or a disease.\n- Describe: give the steps and the colour changes of a food test.\n- Explain: link a deficiency to its cause, for example why a lack of iron causes tiredness.\n- Calculate: use the energy equation and show the working.\n- Evaluate: suggest why a food-burning result is lower or higher than the true value.\n\nExam tip: always give both the starting colour and the end colour in a food test answer.",
+  "flashcards": [
+   {
+    "front": "Carbohydrates",
+    "back": "Provide energy. Digested to glucose."
+   },
+   {
+    "front": "Proteins",
+    "back": "Made of amino acids. Used for growth, repair and making enzymes."
+   },
+   {
+    "front": "Fats (lipids)",
+    "back": "Store energy, insulate and protect organs. About 37 kJ per gram."
+   },
+   {
+    "front": "Scurvy",
+    "back": "Disease caused by a lack of vitamin C. Bleeding gums and slow wound healing."
+   },
+   {
+    "front": "Rickets",
+    "back": "Disease caused by a lack of vitamin D (and so poor calcium absorption). Soft, bent bones."
+   },
+   {
+    "front": "Anaemia",
+    "back": "A lack of iron means too little haemoglobin is made. The person is tired and pale."
+   },
+   {
+    "front": "Benedict's test for sugar",
+    "back": "Heat with Benedict's solution. Blue turns green, yellow, orange or brick-red depending on the amount of sugar."
+   },
+   {
+    "front": "Biuret test for protein",
+    "back": "Add biuret reagent. Blue turns purple if protein is present."
+   },
+   {
+    "front": "Energy in food equation",
+    "back": "Energy (J) = mass of water x 4.2 x temperature rise in degrees Celsius."
+   }
+  ]
+ }
+]

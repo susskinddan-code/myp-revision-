@@ -1,0 +1,39 @@
+[
+ {
+  "subject": "chemistry",
+  "grade": 5,
+  "format": "widget-practice",
+  "title": "Chemistry MYP 5 Interactive Practice (4 tasks, 27 marks)",
+  "criterion": null,
+  "questions": [
+   {
+    "position": 1,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 1 | A 8]]\nSodium and chlorine are in the third period of the periodic table.\n(a) Complete the table for a sodium-23 atom (11 protons) in row 1 and a chloride ion made from chlorine-35 (17 protons) in row 2. Write the number of protons, neutrons and electrons in the three columns. (3 marks)\n{{fill|t1|Protons,Neutrons,Electrons|2}}\n(b) Match each element to its group. (3 marks)\n{{drag|d1|Sodium,Chlorine,Neon|Group 1 alkali metal,Group 17 halogen,Group 18 noble gas,Group 2 alkaline earth metal}}\n(c) The electron arrangement of a sodium atom is {{select|e1|2,8,1|2,8,2|2,1}}. (1 mark)\n(d) Explain why sodium and chlorine form an ionic compound. (1 mark)\n\nTotal for Question 1: 8 marks",
+    "mark_scheme": "(a) Interactive answer [t1] rows: row 1 = 11, 12, 11 [1]; row 2 protons 17 and neutrons 18 [1]; row 2 electrons 18 [1]. (b) Interactive answer [d1]: Sodium = Group 1 alkali metal [1]; Chlorine = Group 17 halogen [1]; Neon = Group 18 noble gas [1]. Group 2 is a distractor. (c) [e1] = 2,8,1 [1]. (d) Sodium (a metal) transfers its outer electron to chlorine (a non-metal) forming oppositely charged ions held together by electrostatic attraction [1]."
+   },
+   {
+    "position": 2,
+    "marks": 7,
+    "criterion": "C",
+    "content": "[[Q 2 | A 1 | C 6]]\nA student measures the volume of gas produced when magnesium reacts with acid, every 10 seconds.\n{{chart|line|Gas produced|Time (s)|Volume (cm3)|0:0,10:16,20:27,30:34,40:38,50:40,60:40}}\n(a) State the total volume of gas collected. (1 mark)\n(b) The reaction stopped at {{select|s1|10 s|30 s|50 s|60 s}}. (1 mark)\n(c) Calculate the mean rate of reaction over the first 10 s, with units. (2 marks)\n(d) With a catalyst the volumes at 0, 10, 20 and 30 s are 0, 27, 37 and 40 cm3. Plot these points. (2 marks)\n{{plot|p1|0,40,0,40|Time (s)|Volume (cm3)}}\n(e) The catalyst makes the reaction faster because it {{select|c1|lowers the activation energy|increases the amount of acid|lowers the temperature}}. (1 mark)\n\nTotal for Question 2: 7 marks",
+    "mark_scheme": "(a) 40 cm3 [1]. (b) Interactive answer [s1] = 50 s [1] (the volume stops changing at 50 s). (c) 16 / 10 [1] = 1.6 cm3/s [1]. (d) Interactive answer [p1]: plotted (0, 0), (10, 27), (20, 37), (30, 40). Three points correct [1]; all four correct [1]. (e) Interactive answer [c1] = lowers the activation energy [1]."
+   },
+   {
+    "position": 3,
+    "marks": 6,
+    "criterion": "A",
+    "content": "[[Q 3 | A 6]]\nCalcium carbonate reacts with hydrochloric acid: CaCO3 + 2HCl -> CaCl2 + H2O + CO2.\n(a) Match each type of reaction to the products. (3 marks)\n{{drag|d1|Metal + acid,Metal carbonate + acid,Acid + alkali|salt + hydrogen,salt + water + carbon dioxide,salt + water,metal oxide + water}}\n(b) A student reacts 5.0 g of calcium carbonate (Ca = 40, C = 12, O = 16) with excess acid. One mole of gas occupies 24 dm3 at room temperature. Complete the table: relative formula mass of CaCO3, moles of CaCO3 in 5.0 g, and volume of carbon dioxide in dm3. (3 marks)\n{{fill|t3|Mr of CaCO3,Moles in 5.0 g,Volume of CO2 (dm3)|1}}\n\nTotal for Question 3: 6 marks",
+    "mark_scheme": "(a) Interactive answer [d1]: Metal + acid = salt + hydrogen [1]; Metal carbonate + acid = salt + water + carbon dioxide [1]; Acid + alkali = salt + water [1]. Metal oxide + water is a distractor. (b) Interactive answer [t3]: Mr = 40 + 12 + 3 x 16 = 100 [1]; moles = 5.0 / 100 = 0.05 [1]; volume = 0.05 x 24 = 1.2 dm3 [1]."
+   },
+   {
+    "position": 4,
+    "marks": 6,
+    "criterion": "D",
+    "content": "[[Q 4 | A 3 | D 3]]\nThe bar chart shows the pH of some common substances.\n{{chart|bar|pH of substances|Substance|pH|Lemon juice:2,Vinegar:3,Water:7,Baking soda solution:9,Bleach:13}}\n(a) Classify each substance. (3 marks)\n{{drag|d4|Vinegar,Water,Bleach|Acidic,Neutral,Alkaline}}\n(b) The most acidic substance is {{select|m1|lemon juice|vinegar|bleach}}. (1 mark)\n(c) Lemon juice (pH 2) has a hydrogen ion concentration {{select|c1|10 times|100 times|2 times}} greater than vinegar (pH 3). (1 mark)\n(d) Suggest why baking soda solution can be used to treat an acid spill. (1 mark)\n\nTotal for Question 4: 6 marks",
+    "mark_scheme": "(a) Interactive answer [d4]: Vinegar = Acidic [1]; Water = Neutral [1]; Bleach = Alkaline [1]. (b) [m1] = lemon juice [1]. (c) [c1] = 10 times [1] (each pH unit is a factor of 10). (d) It is alkaline (pH 9) so it neutralises the acid, giving a salt and water [1]."
+   }
+  ]
+ }
+]

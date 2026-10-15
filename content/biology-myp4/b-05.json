@@ -1,0 +1,791 @@
+[
+  {
+    "subject": "biology",
+    "grade": 4,
+    "topic": "Ecosystems and Human Impact",
+    "subTopic": "Trophic Levels and Energy in Food Webs",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "content": "What does an arrow in a food chain show?",
+        "options": [
+          "Energy flow",
+          "The direction the animal moves",
+          "Which animal is bigger",
+          "The number of organisms"
+        ],
+        "answer": 0,
+        "explanation": "The arrow points from the organism that is eaten to the organism that eats it, showing the direction of energy transfer."
+      },
+      {
+        "difficulty": "easy",
+        "content": "What are organisms that make their own food by photosynthesis called?",
+        "options": [
+          "Consumers",
+          "Producers",
+          "Decomposers",
+          "Predators"
+        ],
+        "answer": 1,
+        "explanation": "Producers, such as plants and algae, make food using light energy."
+      },
+      {
+        "difficulty": "easy",
+        "content": "What is an animal that eats only plants called?",
+        "options": [
+          "Decomposer",
+          "Carnivore",
+          "Omnivore",
+          "Herbivore"
+        ],
+        "answer": 3,
+        "explanation": "Herbivores are primary consumers because they eat producers."
+      },
+      {
+        "difficulty": "easy",
+        "content": "In the food chain grass, rabbit, fox, what trophic level is the rabbit?",
+        "options": [
+          "Primary consumer",
+          "Producer",
+          "Secondary consumer",
+          "Decomposer"
+        ],
+        "answer": 0,
+        "explanation": "The rabbit eats the producer, so it is the primary consumer."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Which organisms break down dead plants and animals?",
+        "options": [
+          "Herbivores",
+          "Producers",
+          "Predators",
+          "Decomposers"
+        ],
+        "answer": 3,
+        "explanation": "Decomposers such as bacteria and fungi break down dead material and return nutrients to the soil."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Approximately what percentage of the energy is passed on from one trophic level to the next?",
+        "options": [
+          "90%",
+          "10%",
+          "50%",
+          "1%"
+        ],
+        "answer": 1,
+        "explanation": "Only about 10% of the energy is transferred, because most is lost as heat, in waste and in parts that are not eaten."
+      },
+      {
+        "difficulty": "medium",
+        "content": "What is the original source of energy for most food chains?",
+        "options": [
+          "The Sun",
+          "Soil",
+          "Water",
+          "Decomposers"
+        ],
+        "answer": 0,
+        "explanation": "Producers capture light energy from the Sun in photosynthesis. All other organisms depend on this energy."
+      },
+      {
+        "difficulty": "medium",
+        "content": "In the food chain algae, water fleas, small fish, heron, which organism is the tertiary consumer?",
+        "options": [
+          "Water fleas",
+          "Small fish",
+          "Heron",
+          "Algae"
+        ],
+        "answer": 2,
+        "explanation": "Algae are producers, water fleas are primary consumers, small fish are secondary consumers and the heron is the tertiary consumer."
+      },
+      {
+        "difficulty": "medium",
+        "content": "All the snakes in a food web are removed. The snakes ate mice. What is the most likely short-term effect on the mice?",
+        "options": [
+          "They stay the same",
+          "They decrease in number",
+          "They increase in number",
+          "They become extinct"
+        ],
+        "answer": 2,
+        "explanation": "With the predator gone, fewer mice are eaten, so their population is likely to grow."
+      },
+      {
+        "difficulty": "medium",
+        "content": "What is one way that energy is lost between trophic levels?",
+        "options": [
+          "Used in photosynthesis",
+          "Lost as heat from respiration",
+          "Converted to more food",
+          "Absorbed by the soil"
+        ],
+        "answer": 1,
+        "explanation": "Organisms release energy by respiration, and much is lost as heat. Energy is also lost in faeces and in uneaten parts such as bones."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Producers contain 20 000 kJ of energy. If 10% passes to each trophic level, how much energy do the secondary consumers contain in kJ?",
+        "options": [
+          "20",
+          "2000",
+          "200",
+          "2"
+        ],
+        "answer": 2,
+        "explanation": "Primary consumers: 20 000 × 0.1 = 2000 kJ. Secondary consumers: 2000 × 0.1 = 200 kJ."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Why are food chains rarely longer than four or five links?",
+        "options": [
+          "Too little energy is left",
+          "Predators are too large",
+          "Producers run out of space",
+          "Decomposers eat top consumers"
+        ],
+        "answer": 0,
+        "explanation": "Energy is lost at every transfer, so very little remains for any higher trophic level."
+      },
+      {
+        "difficulty": "medium",
+        "content": "What does a pyramid of biomass show?",
+        "options": [
+          "Number of organisms at each level",
+          "Mass of living material at each trophic level",
+          "Energy lost as heat",
+          "Number of species"
+        ],
+        "answer": 1,
+        "explanation": "A biomass pyramid shows the dry mass of living material at each trophic level. It narrows towards the top."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Primary consumers receive 8000 kJ of energy and secondary consumers receive 640 kJ. What is the percentage energy transfer between these two levels?",
+        "options": [
+          "80%",
+          "12.5%",
+          "8%",
+          "0.8%"
+        ],
+        "answer": 2,
+        "explanation": "Transfer = 640 ÷ 8000 × 100 = 8%."
+      },
+      {
+        "difficulty": "hard",
+        "content": "A pyramid of numbers for one large oak tree and 5000 caterpillars is inverted. What is the explanation?",
+        "options": [
+          "The oak is a consumer",
+          "Caterpillars are the producers",
+          "Energy flows from the caterpillars to the oak",
+          "One large tree supports many small insects"
+        ],
+        "answer": 3,
+        "explanation": "The producer is a single huge organism, so the number of individuals is small even though its biomass is large."
+      },
+      {
+        "difficulty": "hard",
+        "content": "A disease kills most of the mice in an area. Mice eat grass and are eaten by snakes. What is the short-term effect on the grass and on the snakes?",
+        "options": [
+          "Both decrease",
+          "Grass decreases and snakes increase",
+          "Both increase",
+          "Grass increases and snakes decrease"
+        ],
+        "answer": 3,
+        "explanation": "Fewer mice eat the grass, so it increases. Fewer mice are available as prey for snakes, so the snakes decrease unless they have other food."
+      },
+      {
+        "difficulty": "hard",
+        "content": "A farm has 5000 kg of producer biomass. The secondary consumers have 50 kg of biomass. What percentage of the producer biomass is the secondary consumers' biomass?",
+        "options": [
+          "10%",
+          "1%",
+          "0.1%",
+          "100%"
+        ],
+        "answer": 1,
+        "explanation": "50 ÷ 5000 × 100 = 1%. This is the result of two transfers each of roughly 10%."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Why is it more energy-efficient for people to eat plants than to eat meat?",
+        "options": [
+          "Less energy is lost between producer and human",
+          "Plants have more protein than meat",
+          "Animals are poisonous",
+          "Humans cannot digest meat"
+        ],
+        "answer": 0,
+        "explanation": "Eating plants removes a trophic level. At each trophic level around 90% of energy is lost, so more of the energy from the Sun reaches people."
+      }
+    ],
+    "note": "An ecosystem is a community of living organisms interacting with each other and with their non-living environment. The feeding relationships between the organisms show how energy and matter move through the ecosystem.\n\n## Food chains and trophic levels\nA **food chain** shows what eats what. Each stage is called a **trophic level**. Arrows point from the organism being eaten to the organism that eats it, because they show the direction of energy flow.\n- **Producers** make food by photosynthesis, using energy from the Sun. They are the first trophic level.\n- **Primary consumers** are herbivores that eat producers.\n- **Secondary consumers** are carnivores that eat primary consumers.\n- **Tertiary consumers** eat secondary consumers. The consumer at the top of a chain is an apex predator.\n- **Decomposers** such as bacteria and fungi break down dead material and waste at every level, returning nutrients to the soil.\n\nA **food web** is a set of linked food chains. Most organisms eat more than one thing, so webs are more realistic. If one species changes in number, the effects spread through the web. For example, if a predator is removed, its prey may increase and then overgraze the producers.\n\n## Energy transfer\nOnly about **10%** of the energy in one trophic level is passed on to the next. The rest is lost.\n- Much is released as heat by respiration, which also provides energy for movement.\n- Some is lost in waste such as faeces and urine.\n- Some of the organism is not eaten, such as bones, roots or shells.\n\nThis is why food chains are short, usually with four or five trophic levels. It is also why there are fewer top predators than herbivores.\n\n## Pyramids\nA **pyramid of numbers** shows how many organisms there are at each level. A **pyramid of biomass** shows the mass of living material at each level and is usually pyramid-shaped. A pyramid of numbers can be inverted. For example, one oak tree supports thousands of caterpillars because the producer is very large.\n\n## Worked examples\n1. Producers contain 20 000 kJ. Primary consumers have 20 000 × 0.1 = 2000 kJ. Secondary consumers have 2000 × 0.1 = 200 kJ.\n2. Percentage transfer = energy gained ÷ energy available × 100. If primary consumers have 8000 kJ and secondary consumers gain 640 kJ, transfer = 640 ÷ 8000 × 100 = 8%.\n\n## Common mistakes\n- Pointing arrows the wrong way. Arrows point towards the consumer.\n- Saying energy is \"used up\" or \"destroyed\". Energy is transferred or lost as heat.\n- Forgetting that decomposers can feed on any level.\n- Saying that removing a predator always helps the prey in the long term. The prey may increase and then run out of food.\n\n## How this is examined\nTypical questions give a food web and ask you to identify trophic levels, to write food chains, or to predict the effect of removing one species. Calculations of energy transfer and percentage efficiency are also common. Criterion D tasks may ask you to evaluate the effect of overfishing on a marine food web.\n\nExam tip: when predicting what happens when a population changes, trace the effects one link at a time, and use words such as \"so\" and \"therefore\" to show each step.",
+    "flashcards": [
+      {
+        "front": "Trophic level",
+        "back": "A feeding level in a food chain: producer, primary consumer, secondary consumer, tertiary consumer."
+      },
+      {
+        "front": "Meaning of arrows in a food chain",
+        "back": "They show the direction of energy flow, from the organism that is eaten to the one that eats it."
+      },
+      {
+        "front": "Producer",
+        "back": "An organism that makes its own food by photosynthesis, using energy from the Sun."
+      },
+      {
+        "front": "Decomposer",
+        "back": "An organism, such as a bacterium or fungus, that breaks down dead material and returns nutrients to the soil."
+      },
+      {
+        "front": "Energy transfer between levels",
+        "back": "About 10% passes to the next level. The rest is lost as heat, in waste and in uneaten parts."
+      },
+      {
+        "front": "Why are food chains short?",
+        "back": "So much energy is lost at each stage that too little remains to support more levels."
+      },
+      {
+        "front": "Food web",
+        "back": "A network of interconnected food chains in an ecosystem."
+      },
+      {
+        "front": "Percentage energy transfer",
+        "back": "Energy gained by the next level ÷ energy available at the previous level × 100."
+      },
+      {
+        "front": "Pyramid of biomass",
+        "back": "Shows the mass of living material at each trophic level. It narrows towards the top."
+      }
+    ]
+  },
+  {
+    "subject": "biology",
+    "grade": 4,
+    "topic": "Ecosystems and Human Impact",
+    "subTopic": "Carbon and Nitrogen Cycles",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "content": "Which process removes carbon dioxide from the atmosphere?",
+        "options": [
+          "Respiration",
+          "Photosynthesis",
+          "Combustion",
+          "Decomposition"
+        ],
+        "answer": 1,
+        "explanation": "Plants and algae use carbon dioxide in photosynthesis to make glucose."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Which gas makes up about 78% of the air?",
+        "options": [
+          "Hydrogen",
+          "Oxygen",
+          "Carbon dioxide",
+          "Nitrogen"
+        ],
+        "answer": 3,
+        "explanation": "Nitrogen is the most abundant gas in air, but it is unreactive and most organisms cannot use it directly."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Which process releases carbon dioxide when wood or fossil fuels are burned?",
+        "options": [
+          "Digestion",
+          "Photosynthesis",
+          "Nitrogen fixation",
+          "Combustion"
+        ],
+        "answer": 3,
+        "explanation": "Combustion is burning. Carbon in the fuel combines with oxygen to form carbon dioxide."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Coal, oil and gas formed from what?",
+        "options": [
+          "Remains of dead organisms",
+          "Volcanic gas",
+          "Sea water",
+          "Sand"
+        ],
+        "answer": 0,
+        "explanation": "Fossil fuels formed over millions of years from the remains of dead plants and animals that were buried and compressed."
+      },
+      {
+        "difficulty": "easy",
+        "content": "In what form do plants take up nitrogen from the soil?",
+        "options": [
+          "Ammonia gas",
+          "Nitrogen gas",
+          "Nitrates",
+          "Urea"
+        ],
+        "answer": 2,
+        "explanation": "Plant roots absorb dissolved nitrate ions and use them to make amino acids and proteins."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Which process in living things returns carbon dioxide to the air?",
+        "options": [
+          "Photosynthesis",
+          "Respiration",
+          "Nitrogen fixation",
+          "Absorption"
+        ],
+        "answer": 1,
+        "explanation": "All living things, including plants, release carbon dioxide by respiration."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Which bacteria live in the root nodules of legumes and convert nitrogen gas into nitrogen compounds?",
+        "options": [
+          "Denitrifying bacteria",
+          "Nitrogen-fixing bacteria",
+          "Nitrifying bacteria",
+          "Photosynthetic bacteria"
+        ],
+        "answer": 1,
+        "explanation": "Nitrogen-fixing bacteria such as Rhizobium turn nitrogen gas into ammonia, which the plant can use."
+      },
+      {
+        "difficulty": "medium",
+        "content": "How does carbon pass from plants to animals in a food chain?",
+        "options": [
+          "Feeding",
+          "Photosynthesis",
+          "Combustion",
+          "Fixation"
+        ],
+        "answer": 0,
+        "explanation": "Animals eat plants and take in the carbon compounds, such as carbohydrates, proteins and fats."
+      },
+      {
+        "difficulty": "medium",
+        "content": "What is the name of the process in which bacteria in waterlogged soil convert nitrates into nitrogen gas?",
+        "options": [
+          "Denitrification",
+          "Nitrification",
+          "Nitrogen fixation",
+          "Decomposition"
+        ],
+        "answer": 0,
+        "explanation": "Denitrifying bacteria release nitrogen gas to the atmosphere. This reduces the nitrates available to plants."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Which human activity adds extra carbon dioxide to the atmosphere?",
+        "options": [
+          "Burning fossil fuels",
+          "Planting forests",
+          "Using solar panels",
+          "Building wetlands"
+        ],
+        "answer": 0,
+        "explanation": "Burning coal, oil and gas releases carbon that had been locked away for millions of years."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Which gas is released when decomposers break down proteins and urea?",
+        "options": [
+          "Oxygen",
+          "Ammonia",
+          "Hydrogen",
+          "Carbon monoxide"
+        ],
+        "answer": 1,
+        "explanation": "Decomposers release ammonia (ammonium ions), which nitrifying bacteria convert to nitrates."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Why do farmers plant legumes such as clover in a crop rotation?",
+        "options": [
+          "They add carbon dioxide",
+          "Their root bacteria fix nitrogen",
+          "They kill pathogens",
+          "They absorb ammonia"
+        ],
+        "answer": 1,
+        "explanation": "Legumes have bacteria in root nodules which fix nitrogen, so more nitrate is available for the next crop."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Atmospheric carbon dioxide rose from 280 ppm to 420 ppm. What is the percentage increase?",
+        "options": [
+          "140%",
+          "33%",
+          "50%",
+          "67%"
+        ],
+        "answer": 2,
+        "explanation": "Increase = 420 − 280 = 140 ppm. 140 ÷ 280 × 100 = 50%."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Why does deforestation increase the level of carbon dioxide in the atmosphere?",
+        "options": [
+          "Trees do not respire",
+          "Trees produce CO₂ by photosynthesis",
+          "Soil absorbs more CO₂",
+          "Fewer trees remove CO₂ by photosynthesis"
+        ],
+        "answer": 3,
+        "explanation": "Fewer trees means less CO₂ is removed from the air. Burning or decay of the cleared trees also releases CO₂."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Why do farmers add nitrate fertilisers to the soil?",
+        "options": [
+          "The soil has too much nitrogen gas",
+          "Crops add nitrates to the soil",
+          "Fertiliser replaces photosynthesis",
+          "Crops remove nitrates from the soil"
+        ],
+        "answer": 3,
+        "explanation": "When crops are harvested, the nitrogen compounds in them are removed. Fertilisers replace the nitrates so that the next crop can grow well."
+      },
+      {
+        "difficulty": "hard",
+        "content": "A field becomes waterlogged for several weeks. What is the likely effect on soil nitrate?",
+        "options": [
+          "No change",
+          "Nitrate level rises",
+          "Nitrate level falls",
+          "Plants convert it to protein faster"
+        ],
+        "answer": 2,
+        "explanation": "There is little oxygen in waterlogged soil, so denitrifying bacteria thrive. They convert nitrates to nitrogen gas, which is lost to the air."
+      },
+      {
+        "difficulty": "hard",
+        "content": "A forest takes in 12 tonnes of carbon dioxide per hectare each year through photosynthesis and releases 9 tonnes through respiration. What is the net carbon dioxide taken in, in tonnes?",
+        "options": [
+          "3",
+          "21",
+          "9",
+          "12"
+        ],
+        "answer": 0,
+        "explanation": "Net = 12 − 9 = 3 tonnes per hectare per year."
+      },
+      {
+        "difficulty": "hard",
+        "content": "How does lightning contribute to the nitrogen cycle?",
+        "options": [
+          "It makes carbon dioxide",
+          "It converts nitrates into nitrogen gas",
+          "It converts nitrogen gas into nitrates",
+          "It kills decomposers"
+        ],
+        "answer": 2,
+        "explanation": "The energy in lightning makes nitrogen and oxygen combine. The compounds dissolve in rain and enter the soil as nitrates."
+      }
+    ],
+    "note": "Elements such as carbon and nitrogen are not used up. They are recycled between the living and non-living parts of the environment in cycles. Decomposers are needed in every cycle.\n\n## The carbon cycle\nCarbon is the basis of all organic molecules. The main steps are:\n- **Photosynthesis**: producers take carbon dioxide from the air and use it to make glucose. This removes CO₂ from the atmosphere.\n- **Feeding**: carbon compounds pass from plants to herbivores and then to carnivores.\n- **Respiration**: all organisms, including plants and decomposers, release CO₂ as they respire.\n- **Decomposition**: decomposers break down dead organisms and waste, releasing CO₂ by respiration.\n- **Combustion**: burning wood and fossil fuels releases CO₂. Fossil fuels formed over millions of years from the remains of dead organisms.\n\nThe atmosphere contains about 0.04% carbon dioxide. Deforestation and burning fossil fuels have increased it from about 280 ppm before the industrial period to over 400 ppm now. This is a major cause of global warming.\n\n## The nitrogen cycle\nAir is about 78% nitrogen gas, but plants and animals cannot use it directly. Organisms need nitrogen to make proteins and DNA.\n- **Nitrogen fixation**: nitrogen-fixing bacteria, some in the root nodules of legumes such as peas, clover and beans, convert nitrogen gas into ammonia. Lightning also converts nitrogen into nitrates.\n- **Nitrification**: nitrifying bacteria in the soil convert ammonia (ammonium ions) into nitrates.\n- **Absorption**: plants absorb nitrates through their roots and use them to make amino acids and proteins.\n- **Feeding**: animals get nitrogen by eating plants or other animals.\n- **Decomposition**: decomposers break down dead organisms and waste such as urea, releasing ammonia.\n- **Denitrification**: denitrifying bacteria, which thrive in waterlogged soil with little oxygen, convert nitrates into nitrogen gas that returns to the air.\n\n## Human effects and farming\nCrops take nitrates out of the soil, and harvesting removes them from the field. Farmers replace them with fertilisers or by growing legumes in crop rotation. Excess fertiliser can run into rivers and cause problems that are discussed in the next topic.\n\n## Worked examples\n1. A forest absorbs 12 tonnes of CO₂ per hectare per year by photosynthesis and releases 9 tonnes by respiration. The net uptake is 12 − 9 = 3 tonnes.\n2. CO₂ rises from 280 ppm to 420 ppm. Percentage increase = (420 − 280) ÷ 280 × 100 = 50%.\n\n## Common mistakes\n- Saying plants only photosynthesise. They also respire all the time.\n- Saying that plants take in nitrogen gas. They absorb nitrates.\n- Mixing up nitrogen fixation (nitrogen gas to ammonia or nitrates) and denitrification (nitrates to nitrogen gas).\n- Forgetting the role of decomposers. Without them, nutrients stay locked in dead matter.\n\n## How this is examined\nQuestions show a cycle diagram with missing labels, or ask you to explain how an event, such as ploughing in a waterlogged field, changes the cycle. Criterion D questions may ask you to discuss ways to reduce atmospheric carbon dioxide.\n\nExam tip: name the process and the organism for each step in the cycle, such as \"denitrifying bacteria carry out denitrification\".",
+    "flashcards": [
+      {
+        "front": "Photosynthesis in the carbon cycle",
+        "back": "Removes CO₂ from the air and builds carbon compounds such as glucose in producers."
+      },
+      {
+        "front": "Processes that release CO₂",
+        "back": "Respiration, combustion of wood and fossil fuels, and decomposition by decomposers."
+      },
+      {
+        "front": "Fossil fuels",
+        "back": "Coal, oil and gas formed over millions of years from the remains of dead organisms. Burning them releases stored carbon as CO₂."
+      },
+      {
+        "front": "Nitrogen fixation",
+        "back": "Conversion of nitrogen gas into ammonia or nitrates by nitrogen-fixing bacteria (for example in legume root nodules) and by lightning."
+      },
+      {
+        "front": "Nitrification",
+        "back": "Nitrifying bacteria convert ammonia (ammonium) in the soil into nitrates."
+      },
+      {
+        "front": "Denitrification",
+        "back": "Denitrifying bacteria convert nitrates into nitrogen gas, mainly in waterlogged soil with little oxygen."
+      },
+      {
+        "front": "How do plants and animals get nitrogen?",
+        "back": "Plants absorb nitrates through their roots. Animals get nitrogen by eating plants or other animals."
+      },
+      {
+        "front": "Role of decomposers",
+        "back": "They break down dead organisms and waste. They release CO₂ and ammonia so the elements can be recycled."
+      },
+      {
+        "front": "Why plant legumes in crop rotation?",
+        "back": "Bacteria in their root nodules fix nitrogen, which adds nitrate to the soil for later crops."
+      }
+    ]
+  },
+  {
+    "subject": "biology",
+    "grade": 4,
+    "topic": "Ecosystems and Human Impact",
+    "subTopic": "Pollution, Habitat Loss and Conservation",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "content": "Which gas contributes most to the enhanced greenhouse effect?",
+        "options": [
+          "Carbon dioxide",
+          "Oxygen",
+          "Nitrogen",
+          "Argon"
+        ],
+        "answer": 0,
+        "explanation": "Carbon dioxide traps heat in the atmosphere. Burning fossil fuels has increased its concentration."
+      },
+      {
+        "difficulty": "easy",
+        "content": "What is the clearing of large areas of forest called?",
+        "options": [
+          "Deforestation",
+          "Afforestation",
+          "Eutrophication",
+          "Conservation"
+        ],
+        "answer": 0,
+        "explanation": "Deforestation removes trees for farmland, timber, mining or buildings."
+      },
+      {
+        "difficulty": "easy",
+        "content": "What is the variety of living things in an ecosystem called?",
+        "options": [
+          "Food web",
+          "Population",
+          "Habitat",
+          "Biodiversity"
+        ],
+        "answer": 3,
+        "explanation": "Biodiversity includes the number of species and the genetic variety within them."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Sulfur dioxide released by burning fossil fuels causes which environmental problem?",
+        "options": [
+          "Acid rain",
+          "Eutrophication",
+          "Overfishing",
+          "Soil erosion"
+        ],
+        "answer": 0,
+        "explanation": "Sulfur dioxide dissolves in rain water to form acid rain, which damages trees and lakes."
+      },
+      {
+        "difficulty": "easy",
+        "content": "What is the protection and management of species and habitats called?",
+        "options": [
+          "Conservation",
+          "Pollution",
+          "Deforestation",
+          "Extinction"
+        ],
+        "answer": 0,
+        "explanation": "Conservation aims to protect biodiversity and ecosystems."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Fertiliser runs into a lake and causes excess growth of algae. What is this called?",
+        "options": [
+          "Bioaccumulation",
+          "Acid rain",
+          "Deforestation",
+          "Eutrophication"
+        ],
+        "answer": 3,
+        "explanation": "Nitrates and phosphates act as nutrients, causing algae to multiply rapidly in an algal bloom."
+      },
+      {
+        "difficulty": "medium",
+        "content": "What happens to fish in a lake that has become eutrophic?",
+        "options": [
+          "They grow faster",
+          "They die from lack of oxygen",
+          "They get more food",
+          "They move onto land"
+        ],
+        "answer": 1,
+        "explanation": "Decomposers use up the oxygen as they break down dead algae and plants, so fish suffocate."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Which gas produced by cattle and in rice fields is a greenhouse gas?",
+        "options": [
+          "Nitrogen",
+          "Oxygen",
+          "Methane",
+          "Argon"
+        ],
+        "answer": 2,
+        "explanation": "Methane is a powerful greenhouse gas made by microorganisms in the guts of cattle and in waterlogged paddy fields."
+      },
+      {
+        "difficulty": "medium",
+        "content": "What increases when trees are removed from a hillside?",
+        "options": [
+          "Biodiversity",
+          "Soil fertility",
+          "Soil erosion",
+          "Oxygen in the soil"
+        ],
+        "answer": 2,
+        "explanation": "Roots hold soil together. Without them, rain washes soil away."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Toxic substances such as mercury become more concentrated in the bodies of organisms at higher levels of a food chain. What is this called?",
+        "options": [
+          "Biomagnification",
+          "Eutrophication",
+          "Decomposition",
+          "Photosynthesis"
+        ],
+        "answer": 0,
+        "explanation": "Toxins are not broken down or excreted, so they build up in each organism and become more concentrated at every higher level, because each consumer takes in the toxins from all of the prey it eats."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Which conservation method protects animals in their natural habitat?",
+        "options": [
+          "Zoo breeding programmes",
+          "National parks",
+          "Seed banks",
+          "Laboratory cloning"
+        ],
+        "answer": 1,
+        "explanation": "Protected areas such as national parks keep habitats safe, with laws that control hunting and building."
+      },
+      {
+        "difficulty": "medium",
+        "content": "What is the purpose of a seed bank?",
+        "options": [
+          "Remove carbon dioxide",
+          "Grow crops faster",
+          "Protect plant species from extinction",
+          "Feed animals"
+        ],
+        "answer": 2,
+        "explanation": "Seed banks store seeds from many species, which can be used to regrow populations if species are lost in the wild."
+      },
+      {
+        "difficulty": "medium",
+        "content": "A forest of 4000 hectares loses 5% of its area each year. How many hectares are lost in one year?",
+        "options": [
+          "20",
+          "200",
+          "800",
+          "2000"
+        ],
+        "answer": 1,
+        "explanation": "5% of 4000 = 0.05 × 4000 = 200 hectares."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Why does acid rain kill fish in some lakes?",
+        "options": [
+          "Rain washes in fertilisers",
+          "Lake water becomes too warm",
+          "Lake water becomes too acidic",
+          "Rain adds extra oxygen"
+        ],
+        "answer": 2,
+        "explanation": "A low pH damages the gills and eggs of fish, and releases toxic metals from the soil into the water."
+      },
+      {
+        "difficulty": "hard",
+        "content": "In eutrophication, what happens after an algal bloom forms on the surface of a lake?",
+        "options": [
+          "Oxygen levels rise",
+          "Plants below die because light is blocked",
+          "Fish numbers increase",
+          "Nitrate runs out immediately"
+        ],
+        "answer": 1,
+        "explanation": "The thick surface layer blocks light, so plants below cannot photosynthesise and die. Decomposers then use up the oxygen."
+      },
+      {
+        "difficulty": "hard",
+        "content": "A pesticide has a concentration of 0.04 ppm in plankton and 25 ppm in fish-eating birds. How many times more concentrated is it in the birds?",
+        "options": [
+          "25",
+          "625",
+          "6.25",
+          "1250"
+        ],
+        "answer": 1,
+        "explanation": "25 ÷ 0.04 = 625 times."
+      },
+      {
+        "difficulty": "hard",
+        "content": "A government introduces fishing quotas. What is the best argument in support of this?",
+        "options": [
+          "Fish no longer need food",
+          "Everyone can catch as many fish as they like",
+          "Fishing boats become cheaper",
+          "Fish stocks can recover for the future"
+        ],
+        "answer": 3,
+        "explanation": "Quotas limit the numbers caught, so fish can breed and populations are maintained. This is sustainable fishing."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Clearing a rainforest for farmland provides income now. Which is a long-term disadvantage?",
+        "options": [
+          "Cheaper food in the short term",
+          "Jobs for farmers",
+          "More crop land",
+          "Loss of habitats and biodiversity"
+        ],
+        "answer": 3,
+        "explanation": "Rainforest species may become extinct, and soils may lose fertility and wash away, so the benefits may not last."
+      }
+    ],
+    "note": "Human activities are changing ecosystems more quickly than ever before. The main impacts are pollution, habitat loss and loss of biodiversity. Conservation tries to reduce the damage.\n\n## Air pollution and climate\n- **Greenhouse effect and global warming**: gases such as carbon dioxide and methane trap heat in the atmosphere. Burning fossil fuels, deforestation and farming have increased their concentrations. Possible effects include melting ice, rising sea levels and changes in habitats.\n- **Acid rain**: sulfur dioxide and nitrogen oxides from burning fossil fuels dissolve in rain water. Acid rain damages trees and makes lakes too acidic for fish, as well as eroding buildings.\n\n## Water pollution\n- **Eutrophication**: fertilisers or sewage run into rivers and lakes. The extra nitrates and phosphates cause algae to grow quickly in an algal bloom. The algae block light, so plants below die. Decomposers breaking down the dead material use up oxygen, and fish and other animals suffocate.\n- **Bioaccumulation and biomagnification**: toxic chemicals such as pesticides and mercury are not broken down. They build up in the body of each organism (bioaccumulation) and become more concentrated at each higher trophic level (biomagnification), harming top predators.\n\n## Habitat loss\nHabitats are destroyed by deforestation, farming, building, mining and draining wetlands. Cutting trees also increases soil erosion and reduces the amount of carbon dioxide removed from the air. Habitat loss is the biggest cause of species becoming extinct, along with overhunting, overfishing and invasive species.\n\n## Conservation methods\n- **Protected areas** such as national parks and reserves, with laws about hunting and building.\n- **Captive breeding programmes** in zoos, followed by release.\n- **Seed banks** to store seeds of many species.\n- **Quotas and regulations** on fishing and hunting.\n- **Replanting forests** and managing them sustainably.\n- **Education and international agreements** to reduce trade in endangered species.\n\n## Evaluating solutions\nConservation often involves conflicts between people. A reserve may protect species but remove farmland from local people. Good solutions consider environmental, economic and social effects, and involve local communities.\n\n## Worked example\nA pesticide is 0.04 ppm in plankton and 25 ppm in fish-eating birds. The concentration in the birds is 25 ÷ 0.04 = 625 times greater. This shows biomagnification. A second example: a forest of 4000 hectares loses 5% each year, which is 0.05 × 4000 = 200 hectares.\n\n## Common mistakes\n- Mixing up the greenhouse effect (a natural process that keeps Earth warm) with the enhanced greenhouse effect (extra warming from human activity).\n- Saying that algae directly use up oxygen in eutrophication. It is the decomposers that use up the oxygen.\n- Confusing acid rain (sulfur dioxide, nitrogen oxides) with global warming (carbon dioxide, methane).\n- Writing only \"pollution is bad\". Name the pollutant, the process and the effect.\n\n## How this is examined\nCriterion D questions often give a case study, such as a lake affected by fertiliser runoff or a reserve in a developing country, and ask you to describe the impact, suggest solutions and evaluate them. You may be given data on pollutant levels or forest area and asked to calculate percentage change.\n\nExam tip: for evaluate questions, give at least one advantage and one limitation of a solution and finish with a justified judgement.",
+    "flashcards": [
+      {
+        "front": "Deforestation",
+        "back": "The clearing of large areas of forest. It reduces habitats, increases soil erosion and means less CO₂ is removed."
+      },
+      {
+        "front": "Enhanced greenhouse effect",
+        "back": "Extra warming caused by increased CO₂ and methane from human activities that trap more heat in the atmosphere."
+      },
+      {
+        "front": "Acid rain",
+        "back": "Rain made acidic by sulfur dioxide and nitrogen oxides from burning fossil fuels. It damages trees and kills life in lakes."
+      },
+      {
+        "front": "Eutrophication: sequence",
+        "back": "Fertiliser runoff, algal bloom, light blocked so plants die, decomposers use up oxygen, fish die."
+      },
+      {
+        "front": "Bioaccumulation and biomagnification",
+        "back": "Toxins such as mercury or pesticides build up in organisms (bioaccumulation) and become more concentrated at each higher trophic level (biomagnification)."
+      },
+      {
+        "front": "Biodiversity",
+        "back": "The variety of living things in a habitat or ecosystem, including the number of species."
+      },
+      {
+        "front": "Causes of extinction",
+        "back": "Habitat loss, overhunting and overfishing, pollution, invasive species and climate change."
+      },
+      {
+        "front": "Conservation methods",
+        "back": "National parks, captive breeding, seed banks, quotas, replanting and laws or agreements."
+      },
+      {
+        "front": "Sustainable fishing",
+        "back": "Using quotas and limits so fish can breed and populations recover, so fishing can continue in the future."
+      }
+    ]
+  }
+]

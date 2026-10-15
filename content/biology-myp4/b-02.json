@@ -1,0 +1,528 @@
+[
+  {
+    "subject": "biology",
+    "grade": 4,
+    "topic": "Gas Exchange and Excretion",
+    "subTopic": "Ventilation and Gas Exchange in the Lungs",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "content": "What are the tiny air sacs in the lungs, where gas exchange happens, called?",
+        "options": [
+          "Bronchioles",
+          "Bronchi",
+          "Alveoli",
+          "Trachea"
+        ],
+        "answer": 2,
+        "explanation": "Alveoli are the microscopic air sacs at the end of the bronchioles where oxygen and carbon dioxide are exchanged with the blood."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Which gas diffuses from the air in the alveoli into the blood?",
+        "options": [
+          "Carbon dioxide",
+          "Oxygen",
+          "Nitrogen",
+          "Hydrogen"
+        ],
+        "answer": 1,
+        "explanation": "Oxygen concentration is higher in the alveoli than in the blood, so oxygen diffuses into the blood."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Which large sheet of muscle below the lungs flattens during inhalation?",
+        "options": [
+          "Diaphragm",
+          "Stomach",
+          "Liver",
+          "Sternum"
+        ],
+        "answer": 0,
+        "explanation": "When the diaphragm contracts it flattens and moves down, which increases the volume of the chest cavity."
+      },
+      {
+        "difficulty": "easy",
+        "content": "What is the name of the windpipe?",
+        "options": [
+          "Larynx",
+          "Oesophagus",
+          "Bronchus",
+          "Trachea"
+        ],
+        "answer": 3,
+        "explanation": "The trachea carries air from the throat to the bronchi. It is kept open by rings of cartilage."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Which gas turns limewater milky?",
+        "options": [
+          "Carbon dioxide",
+          "Oxygen",
+          "Nitrogen",
+          "Hydrogen"
+        ],
+        "answer": 0,
+        "explanation": "Carbon dioxide reacts with limewater to form a cloudy white precipitate of calcium carbonate."
+      },
+      {
+        "difficulty": "medium",
+        "content": "What happens to the volume of the chest cavity during inhalation?",
+        "options": [
+          "It decreases",
+          "It increases",
+          "It stays the same",
+          "It halves"
+        ],
+        "answer": 1,
+        "explanation": "The ribs move up and out and the diaphragm flattens, so the chest volume increases and the air pressure inside falls below atmospheric pressure."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Which cells lining the trachea sweep mucus and trapped dirt up towards the throat?",
+        "options": [
+          "Sperm cells",
+          "Goblet cells",
+          "Palisade cells",
+          "Ciliated cells"
+        ],
+        "answer": 3,
+        "explanation": "Ciliated cells have hair-like cilia that beat in waves. Goblet cells make the mucus but do not move it."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Why is the wall of an alveolus only one cell thick?",
+        "options": [
+          "To give a short diffusion distance",
+          "To increase blood pressure",
+          "To trap dust",
+          "To store air"
+        ],
+        "answer": 0,
+        "explanation": "A very thin wall means gases have only a short distance to diffuse, so exchange is fast."
+      },
+      {
+        "difficulty": "medium",
+        "content": "What is the approximate percentage of oxygen in inhaled air?",
+        "options": [
+          "78%",
+          "21%",
+          "0.04%",
+          "4%"
+        ],
+        "answer": 1,
+        "explanation": "Air is about 78% nitrogen, 21% oxygen and 0.04% carbon dioxide."
+      },
+      {
+        "difficulty": "medium",
+        "content": "What is the approximate percentage of carbon dioxide in exhaled air?",
+        "options": [
+          "16%",
+          "0.04%",
+          "4%",
+          "21%"
+        ],
+        "answer": 2,
+        "explanation": "Exhaled air contains about 4% carbon dioxide, which is about 100 times more than inhaled air."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Which gas in cigarette smoke binds to haemoglobin and reduces the oxygen carried by the blood?",
+        "options": [
+          "Nitrogen",
+          "Carbon dioxide",
+          "Carbon monoxide",
+          "Methane"
+        ],
+        "answer": 2,
+        "explanation": "Carbon monoxide binds to haemoglobin much more strongly than oxygen does, so the blood carries less oxygen."
+      },
+      {
+        "difficulty": "medium",
+        "content": "A person breathes 15 times per minute with a tidal volume (volume of each breath) of 500 cm³. How much air do they breathe per minute in cm³?",
+        "options": [
+          "7500",
+          "515",
+          "750",
+          "33"
+        ],
+        "answer": 0,
+        "explanation": "15 × 500 = 7500 cm³ per minute."
+      },
+      {
+        "difficulty": "medium",
+        "content": "How does breathing change during vigorous exercise?",
+        "options": [
+          "There is no change",
+          "Slower and deeper",
+          "Faster and shallower",
+          "Faster and deeper"
+        ],
+        "answer": 3,
+        "explanation": "Muscles respire faster, so more carbon dioxide is made and more oxygen is needed. Both breathing rate and depth increase."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Smokers get more chest infections. Which is the best explanation?",
+        "options": [
+          "More oxygen reaches the alveoli",
+          "Mucus and microbes build up in the airways",
+          "The diaphragm stops moving",
+          "The alveoli walls become thicker"
+        ],
+        "answer": 1,
+        "explanation": "Tar damages and paralyses the cilia, so mucus containing microbes and dust is not moved out and stays in the airways."
+      },
+      {
+        "difficulty": "hard",
+        "content": "In emphysema the walls between alveoli break down. What is the main effect on gas exchange?",
+        "options": [
+          "Surface area for exchange decreases",
+          "Surface area for exchange increases",
+          "The diffusion distance decreases",
+          "More oxygen is made in the lungs"
+        ],
+        "answer": 0,
+        "explanation": "Fewer, larger air spaces mean a much smaller surface area, so less oxygen can diffuse into the blood."
+      },
+      {
+        "difficulty": "hard",
+        "content": "When the diaphragm contracts, how does the air pressure inside the lungs compare with the air pressure outside?",
+        "options": [
+          "The same",
+          "Higher",
+          "Lower",
+          "Zero"
+        ],
+        "answer": 2,
+        "explanation": "The volume of the chest increases, so the pressure inside falls below atmospheric pressure and air is pushed in."
+      },
+      {
+        "difficulty": "hard",
+        "content": "A person breathes in 6.0 dm³ of air per minute containing 21% oxygen. The exhaled air contains 16% oxygen in the same volume. How many dm³ of oxygen are taken up per minute?",
+        "options": [
+          "1.26",
+          "0.30",
+          "0.96",
+          "0.05"
+        ],
+        "answer": 1,
+        "explanation": "The difference is 21 − 16 = 5% of 6.0 dm³ = 0.05 × 6.0 = 0.30 dm³."
+      },
+      {
+        "difficulty": "hard",
+        "content": "What would happen if the air in the alveoli were never replaced by breathing?",
+        "options": [
+          "The diffusion distance would shrink",
+          "The concentration gradient would steepen",
+          "Blood flow would double",
+          "The concentration gradient would be lost"
+        ],
+        "answer": 3,
+        "explanation": "Oxygen would be used up and carbon dioxide would build up, so the gradients for diffusion would fall and gas exchange would stop."
+      }
+    ],
+    "note": "Gas exchange is the process by which an organism takes in oxygen and gets rid of carbon dioxide. In humans it happens in the lungs. Cells need oxygen for aerobic respiration and need to remove the carbon dioxide that respiration produces.\n\n## The breathing system\nAir enters through the nose or mouth and passes down the **trachea**. This is held open by rings of cartilage. The trachea divides into two **bronchi**, one for each lung, which branch into smaller **bronchioles**. Each bronchiole ends in a cluster of tiny air sacs called **alveoli**. The trachea and bronchi are lined with goblet cells that make mucus to trap dust and microbes, and ciliated cells whose cilia sweep the mucus upwards to be swallowed.\n\n## Ventilation\nVentilation is the movement of air in and out of the lungs. It keeps fresh air in the alveoli, which maintains a steep concentration gradient.\n- **Inhalation**: the intercostal muscles between the ribs contract and lift the ribs up and out. The diaphragm contracts and flattens. The volume of the chest increases, so the pressure falls below atmospheric pressure and air is pushed in.\n- **Exhalation**: the intercostal muscles and diaphragm relax. The ribs fall and the diaphragm domes upwards. The volume decreases, the pressure increases and air is forced out.\n\n## Gas exchange at the alveoli\nThe alveoli are adapted for fast diffusion. There are millions of them, so the surface area is huge. Their walls are one cell thick and are surrounded by a network of capillaries with walls one cell thick, so the diffusion distance is tiny. A thin film of moisture lets gases dissolve. The blood flow constantly carries oxygen away and brings carbon dioxide, which maintains steep gradients. Oxygen diffuses into the blood and joins haemoglobin. Carbon dioxide diffuses from the blood into the alveoli and is breathed out.\n\n## Inhaled and exhaled air\nInhaled air: about 21% oxygen and 0.04% carbon dioxide. Exhaled air: about 16% oxygen and 4% carbon dioxide. Exhaled air also contains more water vapour. Nitrogen is about 78% in both. Not all oxygen is removed, which is why mouth-to-mouth resuscitation can work. Limewater turns milky with carbon dioxide, and exhaled air makes it cloudy faster than inhaled air.\n\n## Smoking and exercise\nTar in cigarette smoke damages cilia and can cause lung cancer. Smoke irritates the lining and can destroy alveoli walls in emphysema, reducing surface area. Carbon monoxide binds to haemoglobin and cuts oxygen transport. Nicotine is addictive. During exercise breathing is faster and deeper, because the muscles need more oxygen and produce more carbon dioxide.\n\n## Worked example\nA person breathes 6.0 dm³ of air per minute. Oxygen in exhaled air is 5 percentage points lower. Oxygen taken up = 0.05 × 6.0 = 0.30 dm³ per minute.\n\n## Common mistakes\n- Saying that air is \"pulled\" by the lungs. The lungs have no muscles; changes in chest volume change pressure.\n- Saying we breathe in only oxygen and breathe out only carbon dioxide. Both gases are in both samples.\n- Mixing up breathing (ventilation) with respiration. Respiration is the chemical release of energy in cells.\n\n## How this is examined\nYou may be given a diagram of the thorax and asked to describe the changes in inhalation, or a table of air composition. Criterion B may ask for an investigation into the effect of exercise on breathing rate, including variables and a fair test. Criterion D can ask you to evaluate the impact of smoking.\n\nExam tip: for inhalation questions, write the chain: muscles contract, volume increases, pressure decreases, air moves in.",
+    "flashcards": [
+      {
+        "front": "Path of air into the lungs",
+        "back": "Nose or mouth, trachea, bronchi, bronchioles, alveoli."
+      },
+      {
+        "front": "Inhalation",
+        "back": "Intercostal muscles and diaphragm contract, the ribs move up and out, chest volume increases, pressure falls and air moves in."
+      },
+      {
+        "front": "Exhalation",
+        "back": "Intercostal muscles and diaphragm relax, chest volume decreases, pressure rises and air is pushed out."
+      },
+      {
+        "front": "Alveolus adaptations",
+        "back": "Huge numbers for a large surface area, wall one cell thick, moist lining, and a dense capillary network for a steep gradient."
+      },
+      {
+        "front": "Composition of inhaled air",
+        "back": "About 78% nitrogen, 21% oxygen and 0.04% carbon dioxide."
+      },
+      {
+        "front": "Composition of exhaled air",
+        "back": "About 78% nitrogen, 16% oxygen, 4% carbon dioxide and more water vapour."
+      },
+      {
+        "front": "Role of cilia and mucus",
+        "back": "Mucus traps dust and microbes. Cilia sweep the mucus up to the throat to be swallowed."
+      },
+      {
+        "front": "Effects of tar and carbon monoxide",
+        "back": "Tar paralyses cilia and can cause cancer. Carbon monoxide binds to haemoglobin so blood carries less oxygen."
+      },
+      {
+        "front": "Test for carbon dioxide",
+        "back": "Bubble the gas through limewater. If CO₂ is present, the limewater turns milky."
+      }
+    ]
+  },
+  {
+    "subject": "biology",
+    "grade": 4,
+    "topic": "Gas Exchange and Excretion",
+    "subTopic": "Kidneys, Urine and Waste Removal",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "content": "Which organ makes urea from excess amino acids?",
+        "options": [
+          "Pancreas",
+          "Kidney",
+          "Bladder",
+          "Liver"
+        ],
+        "answer": 3,
+        "explanation": "The liver breaks down excess amino acids and makes urea, which the blood carries to the kidneys."
+      },
+      {
+        "difficulty": "easy",
+        "content": "What is the removal of metabolic waste products from the body called?",
+        "options": [
+          "Excretion",
+          "Egestion",
+          "Ingestion",
+          "Digestion"
+        ],
+        "answer": 0,
+        "explanation": "Excretion removes waste made by the body's chemical reactions, such as urea and carbon dioxide."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Which organ filters the blood to make urine?",
+        "options": [
+          "Liver",
+          "Kidney",
+          "Bladder",
+          "Heart"
+        ],
+        "answer": 1,
+        "explanation": "The two kidneys filter blood and produce urine."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Where is urine stored before leaving the body?",
+        "options": [
+          "Ureter",
+          "Bladder",
+          "Urethra",
+          "Kidney"
+        ],
+        "answer": 1,
+        "explanation": "Urine passes along the ureters and is stored in the bladder until it is released through the urethra."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Which tube carries urine from the kidney to the bladder?",
+        "options": [
+          "Urethra",
+          "Ureter",
+          "Renal vein",
+          "Renal artery"
+        ],
+        "answer": 1,
+        "explanation": "There is one ureter from each kidney. The urethra carries urine from the bladder out of the body."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Which waste gas is excreted by the lungs?",
+        "options": [
+          "Carbon dioxide",
+          "Oxygen",
+          "Urea",
+          "Nitrogen"
+        ],
+        "answer": 0,
+        "explanation": "Carbon dioxide is a waste product of respiration and is excreted when we breathe out."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Which type of molecule is normally too large to be filtered out of the blood in the kidney?",
+        "options": [
+          "Glucose",
+          "Urea",
+          "Protein",
+          "Water"
+        ],
+        "answer": 2,
+        "explanation": "Filtration in the kidney lets small molecules such as water, glucose, urea and salts pass out, but proteins and blood cells stay in the blood."
+      },
+      {
+        "difficulty": "medium",
+        "content": "What happens to all of the glucose that is filtered out of the blood in a healthy kidney?",
+        "options": [
+          "It is changed into urea",
+          "It is excreted in the urine",
+          "It is reabsorbed into the blood",
+          "It is broken down in the bladder"
+        ],
+        "answer": 2,
+        "explanation": "Selective reabsorption returns all of the glucose to the blood, so healthy urine contains no glucose."
+      },
+      {
+        "difficulty": "medium",
+        "content": "A person's urine contains glucose. Which condition might this suggest?",
+        "options": [
+          "Diabetes",
+          "Anaemia",
+          "Asthma",
+          "Scurvy"
+        ],
+        "answer": 0,
+        "explanation": "In diabetes the blood glucose is so high that the kidney cannot reabsorb it all, so some is lost in the urine."
+      },
+      {
+        "difficulty": "medium",
+        "content": "In a dialysis machine, which waste substance moves from the patient's blood into the dialysis fluid?",
+        "options": [
+          "Urea",
+          "Glucose",
+          "Protein",
+          "Oxygen"
+        ],
+        "answer": 0,
+        "explanation": "Urea diffuses from the blood, where it is concentrated, into the dialysis fluid, which contains none."
+      },
+      {
+        "difficulty": "medium",
+        "content": "A person's urine contains 20 g of urea per dm³. They produce 1.5 dm³ of urine in a day. How many grams of urea are lost in a day?",
+        "options": [
+          "13.3",
+          "30",
+          "21.5",
+          "3"
+        ],
+        "answer": 1,
+        "explanation": "20 × 1.5 = 30 g of urea."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Which blood vessel brings blood to the kidney?",
+        "options": [
+          "Renal vein",
+          "Renal artery",
+          "Vena cava",
+          "Hepatic vein"
+        ],
+        "answer": 1,
+        "explanation": "The renal artery brings blood to be filtered and the renal vein carries filtered blood away."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Why does dialysis fluid contain no urea?",
+        "options": [
+          "To add urea to the blood",
+          "To stop glucose leaving the blood",
+          "To make the blood clot",
+          "To keep urea diffusing out of the blood"
+        ],
+        "answer": 3,
+        "explanation": "With no urea in the fluid, a steep concentration gradient is maintained all along the membrane."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Dialysis fluid contains glucose at the same concentration as normal blood. Why?",
+        "options": [
+          "So the patient makes more urea",
+          "So glucose diffuses out of the blood",
+          "So the blood cells burst",
+          "So glucose does not diffuse out of the blood"
+        ],
+        "answer": 3,
+        "explanation": "If there is no difference in concentration, there is no net movement of glucose. The patient keeps their glucose while urea is removed."
+      },
+      {
+        "difficulty": "hard",
+        "content": "In a healthy person, glucose is found in the fluid filtered from the blood, but not in the urine. Which process explains this?",
+        "options": [
+          "Selective reabsorption",
+          "Filtration",
+          "Evaporation",
+          "Egestion"
+        ],
+        "answer": 0,
+        "explanation": "Filtration is not selective. Later, the kidney tubule reabsorbs all the glucose, plus some water and salts."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Urea is at 0.3 g per dm³ in the filtrate and 20 g per dm³ in urine. How many times more concentrated is urea in the urine, to the nearest whole number?",
+        "options": [
+          "6",
+          "20",
+          "67",
+          "0.015"
+        ],
+        "answer": 2,
+        "explanation": "20 ÷ 0.3 = 66.7, which is 67 to the nearest whole number. Water reabsorption concentrates the urea."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Why can a kidney transplant be better for a patient than long-term dialysis?",
+        "options": [
+          "It cures every other disease",
+          "There is no risk of rejection",
+          "The donor kidney never needs matching",
+          "No regular machine sessions are needed"
+        ],
+        "answer": 3,
+        "explanation": "A working transplanted kidney does the job all the time, so the patient is not tied to a machine. The patient must still take drugs to reduce the risk of rejection."
+      },
+      {
+        "difficulty": "hard",
+        "content": "A patient's urine contains protein. What is the most likely explanation?",
+        "options": [
+          "The ureter is blocked",
+          "Too much protein is being reabsorbed",
+          "The filter in the kidney is damaged",
+          "The patient is dehydrated"
+        ],
+        "answer": 2,
+        "explanation": "Protein molecules are too big to pass through a healthy filter. Their presence in urine suggests that the filter in the kidney is damaged."
+      }
+    ],
+    "note": "Excretion is the removal of waste products made by the chemical reactions of metabolism. If these wastes build up they become toxic. Do not confuse it with egestion, which is the removal of undigested food.\n\n## Main excretory products and organs\n- **Carbon dioxide**: made by respiration and excreted by the lungs.\n- **Urea**: made in the liver when excess amino acids are broken down. It is carried in the blood plasma to the kidneys and excreted in urine.\n- **Water and salts**: lost in sweat from the skin and in urine. Sweat's main job is cooling, though it does remove some salts.\n\n## The urinary system\nBlood enters each kidney through the renal artery. The kidney filters the blood and the cleaned blood leaves through the renal vein. The liquid waste, urine, passes along the ureters to the bladder, where it is stored. It leaves the body through the urethra.\n\n## How the kidney makes urine\nEach kidney contains about a million tiny filtering units called nephrons. Two main stages are needed at MYP level.\n1. **Filtration**: blood is forced under pressure into a ball of capillaries. Small molecules such as water, glucose, urea and salts are squeezed out into the kidney tubule. Large molecules such as proteins and blood cells stay in the blood because they are too big.\n2. **Selective reabsorption**: as the filtrate moves along the tubule, useful substances are taken back into the blood. All of the glucose is reabsorbed, as well as some salts and as much water as the body needs. The remaining liquid, containing urea, extra salts and water, is urine.\n\nThe amount of water reabsorbed depends on how hydrated you are. When you are dehydrated, the kidney reabsorbs more water and the urine is small in volume and dark. When you drink a lot of water, urine is large in volume and pale.\n\n## Diagnosis from urine\nGlucose in urine can suggest diabetes. Protein in urine suggests that the kidney filter is damaged.\n\n## Kidney failure\nIf the kidneys stop working, urea and salts build up in the blood. There are two treatments.\n- **Dialysis**: the patient's blood passes through a machine with a partially permeable membrane. The dialysis fluid on the other side contains no urea and normal levels of glucose and salts. Urea diffuses out of the blood, while glucose and useful salts stay. Dialysis takes several hours, several times per week.\n- **Transplant**: a healthy kidney from a donor is placed in the patient. The kidney must be a close match and the patient takes drugs to reduce the risk of rejection, but there is no need for regular machine treatment.\n\n## Worked example\nUrine contains 20 g of urea per dm³. A person produces 1.5 dm³ in a day, so the mass of urea excreted is 20 × 1.5 = 30 g. Comparing concentrations: if filtrate has 0.3 g per dm³ of urea, urine is 20 ÷ 0.3 = 67 times more concentrated.\n\n## Common mistakes\n- Writing that urea is made in the kidney. It is made in the liver.\n- Saying that urine is made in the bladder. It is made in the kidney and stored in the bladder.\n- Saying glucose is filtered out and lost. It is filtered, then fully reabsorbed.\n- Mixing up the ureter (kidney to bladder) and the urethra (bladder to outside).\n\n## How this is examined\nExpect diagrams of the urinary system and data tables comparing blood, filtrate and urine. Criterion D tasks might ask you to evaluate dialysis against transplants for a patient.\n\nExam tip: when comparing concentrations in a table, name the substance, quote both values, and then say what process (filtration or reabsorption) explains the change.",
+    "flashcards": [
+      {
+        "front": "Excretion",
+        "back": "The removal of waste products of metabolism, such as carbon dioxide, urea and excess water and salts."
+      },
+      {
+        "front": "Where is urea made?",
+        "back": "In the liver, from excess amino acids. The blood carries it to the kidneys to be excreted in urine."
+      },
+      {
+        "front": "Path of urine",
+        "back": "Kidney, ureter, bladder (stored), urethra, out of the body."
+      },
+      {
+        "front": "Stage 1 in the kidney: filtration",
+        "back": "Small molecules (water, glucose, urea, salts) are forced out of the blood into the tubule. Proteins and blood cells stay in the blood."
+      },
+      {
+        "front": "Stage 2: selective reabsorption",
+        "back": "Useful substances return to the blood: all glucose, some salts and as much water as the body needs."
+      },
+      {
+        "front": "Glucose in urine",
+        "back": "May suggest diabetes: blood sugar is so high that the kidney cannot reabsorb all of it."
+      },
+      {
+        "front": "Protein in urine",
+        "back": "Suggests damage to the kidney filter, because healthy kidneys do not let protein through."
+      },
+      {
+        "front": "How dialysis works",
+        "back": "Blood passes by a partially permeable membrane. Urea diffuses into dialysis fluid that has no urea but normal glucose and salts."
+      },
+      {
+        "front": "Transplant vs dialysis",
+        "back": "A transplant works all the time and frees the patient from machines, but needs a matching donor and anti-rejection drugs."
+      }
+    ]
+  }
+]

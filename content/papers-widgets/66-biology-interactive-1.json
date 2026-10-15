@@ -1,0 +1,39 @@
+[
+ {
+  "subject": "biology",
+  "grade": 5,
+  "format": "widget-practice",
+  "title": "Biology MYP 5 Interactive Practice (4 tasks, 27 marks)",
+  "criterion": null,
+  "questions": [
+   {
+    "position": 1,
+    "marks": 8,
+    "criterion": "B",
+    "content": "[[Q 1 | A 3 | B 5]]\nA student models cells as cubes to investigate diffusion.\n(a) Complete the table for cubes of side 1 cm, 2 cm and 3 cm. Write the side, surface area, volume and surface area to volume ratio (as a single number) in the four columns. (3 marks)\n{{fill|t1|Side (cm),Surface area (cm2),Volume (cm3),SA:V ratio|3}}\n(b) As the cube gets bigger the surface area to volume ratio {{select|r1|decreases|increases|stays the same}}. (1 mark)\n(c) Plot the ratio against the side length. (2 marks)\n{{plot|p1|0,4,0,8|Side (cm)|SA:V ratio}}\n(d) Use your results to explain why large organisms need a transport system. (2 marks)\n\nTotal for Question 1: 8 marks",
+    "mark_scheme": "(a) Interactive answer [t1] rows: (1, 6, 1, 6), (2, 24, 8, 3), (3, 54, 27, 2). Surface areas correct [1]; volumes correct [1]; ratios correct [1]. (b) [r1] = decreases [1]. (c) Interactive answer [p1]: plotted (1, 6), (2, 3), (3, 2). Two points correct [1]; all three correct [1]. (d) As size increases the surface area to volume ratio falls so diffusion across the surface is too slow to supply all the cells [1]; a transport system (such as blood) carries oxygen and nutrients to cells deep inside the body [1]."
+   },
+   {
+    "position": 2,
+    "marks": 7,
+    "criterion": "B",
+    "content": "[[Q 2 | A 2 | B 3 | C 2]]\nA student measures the activity of an enzyme at different temperatures.\n{{chart|line|Enzyme activity|Temperature (C)|Rate (units)|10:2,20:5,30:9,40:14,50:6,60:0}}\n(a) The optimum temperature shown is {{select|o1|20 C|40 C|60 C}}. (1 mark)\n(b) Describe and explain the change in rate from 40 C to 60 C. (2 marks)\n(c) Match each temperature to the correct description. (3 marks)\n{{drag|d2|10 C,40 C,60 C|Little kinetic energy so few collisions,Rate is greatest,Enzyme is denatured,Substrate is used up}}\n(d) Calculate the increase in rate from 20 C to 40 C. (1 mark)\n\nTotal for Question 2: 7 marks",
+    "mark_scheme": "(a) Interactive answer [o1] = 40 C [1]. (b) The rate falls from 14 to 0 [1] because the high temperature changes the shape of the active site (denatures the enzyme) so substrate no longer fits [1]. (c) Interactive answer [d2]: 10 C = Little kinetic energy so few collisions [1]; 40 C = Rate is greatest [1]; 60 C = Enzyme is denatured [1]. Substrate is used up is a distractor. (d) 14 - 5 = 9 units [1]."
+   },
+   {
+    "position": 3,
+    "marks": 6,
+    "criterion": "A",
+    "content": "[[Q 3 | A 6]]\nIn humans brown eyes (B) are dominant to blue eyes (b). Two parents are both Bb.\n(a) Complete the Punnett square. Row 1 is the B gamete and row 2 is the b gamete. Write the gamete in the first column and the offspring genotypes in the next two columns. (3 marks)\n{{fill|t3|Gamete,B,b|2}}\n(b) The probability that a child has blue eyes is {{select|p1|1/4|1/2|3/4}}. (1 mark)\n(c) The couple have 80 children in a large study of similar families. Predict how many have blue eyes. (1 mark)\n(d) State the ratio of brown-eyed to blue-eyed children. (1 mark)\n\nTotal for Question 3: 6 marks",
+    "mark_scheme": "(a) Interactive answer [t3] rows: (B, BB, Bb) and (b, Bb, bb). Gametes B and b in first column [1]; BB and Bb in row 1 [1]; Bb and bb in row 2 [1]. (b) [p1] = 1/4 [1]. (c) 1/4 x 80 = 20 [1]. (d) 3 : 1 [1]."
+   },
+   {
+    "position": 4,
+    "marks": 6,
+    "criterion": "D",
+    "content": "[[Q 4 | A 2 | D 4]]\nA pond is sampled and 200 organisms are counted.\n{{chart|pie|Organisms in a pond sample|||Algae:120,Water snails:50,Perch:20,Heron:10}}\n(a) Place each organism in its position in the food chain. (4 marks)\n{{drag|f1|Producer,Primary consumer,Secondary consumer,Tertiary consumer|Algae,Water snail,Perch,Heron}}\n(b) Calculate the percentage of the organisms that are algae. (1 mark)\n(c) There are fewer organisms at higher levels because {{select|e1|energy is lost at each level|the herons are bigger and eat more|algae cannot be eaten}}. (1 mark)\n\nTotal for Question 4: 6 marks",
+    "mark_scheme": "(a) Interactive answer [f1]: Producer = Algae [1]; Primary consumer = Water snail [1]; Secondary consumer = Perch [1]; Tertiary consumer = Heron [1]. (b) 120 / 200 = 60% [1]. (c) Interactive answer [e1] = energy is lost at each level [1] (as heat, movement and waste), so less is available to support organisms higher up."
+   }
+  ]
+ }
+]

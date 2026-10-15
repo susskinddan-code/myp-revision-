@@ -1,11 +1,12 @@
 import { useState } from "react";
+import { Link, useRouterState } from "@tanstack/react-router";
 import { Check, X, Sparkles, Flame, Trophy } from "lucide-react";
 import { useServerFn } from "@tanstack/react-start";
 import { useQueryClient } from "@tanstack/react-query";
 import { Button } from "@/components/ui/button";
 import { QuestionVisual } from "@/components/diagrams/QuestionVisual";
 import { checkTypedAnswer, reportCachedCheck } from "@/lib/ai.functions";
-import { localCheck, localHint } from "@/lib/typed-answer";
+import { localCheck, stemNeedsOptions } from "@/lib/typed-answer";
 import { Input } from "@/components/ui/input";
 import { recordAttempt, type Question } from "@/lib/myp";
 import { encouragement } from "@/lib/progress";
@@ -34,7 +35,8 @@ export function QuestionRunner({
   nextStep,
   onFinish,
 }: Props) {
-  const { user } = useAuth();
+  const { user, loading: authLoading } = useAuth();
+  const href = useRouterState({ select: (s) => s.location.href });
   const queryClient = useQueryClient();
   const askCheck = useServerFn(checkTypedAnswer);
   const reportCheck = useServerFn(reportCachedCheck);
@@ -46,6 +48,9 @@ export function QuestionRunner({
   >([]);
   const [status, setStatus] = useState<"answering" | "solved" | "revealed">("answering");
   const [checking, setChecking] = useState(false);
+  // Set when the AI checker could not be reached: the try is not counted and nothing is marked wrong.
+  const [checkerDown, setCheckerDown] = useState(false);
+  const [needSignIn, setNeedSignIn] = useState(false);
   const checked = status !== "answering";
   const [score, setScore] = useState(0);
   const [inRow, setInRow] = useState(0);
@@ -69,6 +74,7 @@ export function QuestionRunner({
     setInput("");
     setHistory([]);
     setStatus("answering");
+    setCheckerDown(false);
   }
 
   if (finished) {
@@ -117,10 +123,7 @@ export function QuestionRunner({
   if (!question) return null;
   const options = (question.options as string[]) ?? [];
   const correctText = String(options[question.answer] ?? "");
-  const needsOptions =
-    /which of the following|which one of|which statement|select|choose|from the (list|options)/i.test(
-      question.content,
-    );
+  const needsOptions = stemNeedsOptions(question.content, correctText);
 
   function resolve(firstTry: boolean, how: "solved" | "revealed") {
     if (!question) return;
@@ -151,6 +154,11 @@ export function QuestionRunner({
   async function handleCheck() {
     const answer = input.trim();
     if (!answer || !question || checking) return;
+    // Attempts need an account: ask for sign-in at the first check instead of silently degrading.
+    if (!user) {
+      if (!authLoading) setNeedSignIn(true);
+      return;
+    }
     const attempt = history.length + 1;
     setChecking(true);
     let verdict: Verdict;
@@ -173,14 +181,18 @@ export function QuestionRunner({
       if (!res.check) throw new Error(res.error ?? "no check");
       verdict = res.check.verdict;
       feedback = res.check.feedback;
+      setCheckerDown(false);
     } catch {
-      // AI checker unavailable: fall back to a plain match and generic hints.
+      // AI checker unavailable. A plain match can still confirm a right answer, but a miss proves
+      // nothing: do not count it as an attempt or a wrong answer, keep the text, and say so.
       if (localCheck(answer, correctText)) {
         verdict = "correct";
-        feedback = "That's right.";
+        feedback = "That's right. (Checked locally because the answer checker is unavailable.)";
+        setCheckerDown(false);
       } else {
-        verdict = "wrong";
-        feedback = localHint(attempt, topicName, question.explanation);
+        setCheckerDown(true);
+        setChecking(false);
+        return;
       }
     }
     setHistory((h) => [...h, { answer, verdict, feedback }]);
@@ -232,6 +244,38 @@ export function QuestionRunner({
             <li key={i}>{o}</li>
           ))}
         </ul>
+      ) : null}
+
+      {needSignIn && !user ? (
+        <div
+          role="alert"
+          className="mt-4 rounded-md border border-accent/50 bg-accent/5 p-3 text-sm"
+        >
+          <p className="font-medium">Sign in to check your answers.</p>
+          <p className="mt-1 text-muted-foreground">
+            Practice attempts are saved to your account, so you need to be signed in. Your typed
+            answer stays here.
+          </p>
+          <Button asChild size="sm" className="mt-2 rounded-full">
+            <Link to="/auth" search={{ redirect: href }}>
+              Sign in or create an account
+            </Link>
+          </Button>
+        </div>
+      ) : null}
+
+      {checkerDown ? (
+        <div
+          role="status"
+          className="mt-4 rounded-md border border-accent/50 bg-accent/5 p-3 text-sm"
+        >
+          <p className="font-medium">The answer checker is unavailable right now.</p>
+          <p className="mt-1 text-muted-foreground">
+            Only an exact match could be checked on this device, and yours did not match. That does
+            not mean it is wrong, and it did not use up an attempt. Try again in a moment, or use
+            Show answer.
+          </p>
+        </div>
       ) : null}
 
       {history.length ? (
@@ -300,7 +344,8 @@ export function QuestionRunner({
             autoFocus
             onChange={(e) => setInput(e.target.value)}
             placeholder={history.length ? "Try again…" : "Type your answer"}
-            className="flex-1"
+            className="flex-1 break-words"
+            maxLength={400}
             disabled={checking}
           />
           <Button type="submit" className="rounded-full" disabled={!input.trim() || checking}>
@@ -327,8 +372,13 @@ export function QuestionRunner({
       )}
 
       <div className="mt-6 flex items-center justify-between">
-        {!checked && history.length >= 2 && lastTry?.verdict !== "correct" ? (
-          <Button variant="ghost" size="sm" onClick={() => resolve(false, "revealed")}>
+        {!checked && (checkerDown || (history.length >= 2 && lastTry?.verdict !== "correct")) ? (
+          <Button
+            variant="ghost"
+            size="sm"
+            disabled={checking}
+            onClick={() => resolve(false, "revealed")}
+          >
             Show answer
           </Button>
         ) : (

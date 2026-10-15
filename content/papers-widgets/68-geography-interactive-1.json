@@ -1,0 +1,39 @@
+[
+ {
+  "subject": "geography",
+  "grade": 5,
+  "format": "widget-practice",
+  "title": "Geography MYP 5 Interactive Practice 1 (4 tasks, 28 marks)",
+  "criterion": null,
+  "questions": [
+   {
+    "position": 1,
+    "marks": 7,
+    "criterion": "A",
+    "content": "[[Q 1 | A 5 | C 2]]\nThe bar chart shows the population of a fictional country, Country P, by age group, in millions.\n{{chart|bar|Population of Country P by age group (millions)|Age group|Millions|Aged 0 to 14:10,Aged 15 to 64:30,Aged 65 and over:10}}\n(a) Complete the table with the percentage of the total population in each age group. Write the age group in the first column and the percentage in the second column. (3 marks)\n{{fill|a1|Age group,Percentage|3}}\n(b) The dependency ratio is (young + old) / working-age x 100. Calculate the dependency ratio for Country P. Give your answer to 1 decimal place. (2 marks)\n(c) Because 20% of Country P's people are aged 65 and over, it has an {{select|b2|ageing|youthful}} population, so demand will increase for {{select|b3|healthcare|primary schools}}. (2 marks)\n\nTotal for Question 1: 7 marks",
+    "mark_scheme": "(a) Interactive answer [a1] rows: (Aged 0 to 14, 20), (Aged 15 to 64, 60), (Aged 65 and over, 20). Total 50 million. Each correct row [1] [1] [1]. (b) (10 + 10) / 30 x 100 [1] = 66.7 [1]. (c) Interactive answer [b2] = ageing [1]; [b3] = healthcare [1]."
+   },
+   {
+    "position": 2,
+    "marks": 7,
+    "criterion": "B",
+    "content": "[[Q 2 | B 5 | C 2]]\nA class measures a river at five sites downstream from its source. The widths are: 2 km: 3 m; 4 km: 6 m; 6 km: 8 m; 8 km: 12 m; 10 km: 15 m.\n(a) Plot the five widths on the grid, with distance from the source on the horizontal axis. (2 marks)\n{{plot|w1|0,12,0,20|Distance from source (km)|Width (m)}}\n(b) Match each measurement to the most suitable fieldwork method. (3 marks)\n{{drag|m1|River width,River depth,River velocity|Tape measure across the channel,Ruler placed at set points across the channel,Timing a float over a measured distance,Thermometer placed in the water}}\n(c) At one site a float travels 10 m in 8 s. Calculate the velocity of the river in m/s. (2 marks)\n\nTotal for Question 2: 7 marks",
+    "mark_scheme": "(a) Interactive answer [w1]: plotted (2, 3), (4, 6), (6, 8), (8, 12), (10, 15). At least three points correct [1]; all five correct [1]. (b) Interactive answer [m1]: River width = tape measure across the channel [1]; River depth = ruler placed at set points across the channel [1]; River velocity = timing a float over a measured distance [1]. The thermometer is a distractor. (c) 10 / 8 [1] = 1.25 m/s [1] (unit required)."
+   },
+   {
+    "position": 3,
+    "marks": 7,
+    "criterion": "A",
+    "content": "[[Q 3 | A 5 | C 2]]\nThe line graph shows the mean monthly temperature at Station K, which is in the northern hemisphere.\n{{chart|line|Mean monthly temperature at Station K (C)|Month|Temperature (C)|Jan:4,Feb:5,Mar:8,Apr:11,May:15,Jun:18,Jul:21,Aug:20,Sep:17,Oct:12,Nov:7,Dec:5}}\n(a) Calculate the annual temperature range. (1 mark)\n(b) The hottest month is {{select|c1|June|July|August}}. (1 mark)\n(c) Calculate the mean annual temperature, correct to 1 decimal place. (2 marks)\n(d) Explain why temperatures at Station K are higher in July than in January. (2 marks)\n(e) The annual temperature range near the equator is usually {{select|c3|smaller|larger}} than at Station K. (1 mark)\n\nTotal for Question 3: 7 marks",
+    "mark_scheme": "(a) 21 - 4 = 17 C [1]. (b) Interactive answer [c1] = July [1]. (c) Sum of the twelve monthly values = 143 [1]; 143 / 12 = 11.9 C [1]. (d) In July the northern hemisphere is tilted towards the Sun [1], so the Sun is higher in the sky and days are longer, giving more energy per unit area [1]. (e) Interactive answer [c3] = smaller [1]."
+   },
+   {
+    "position": 4,
+    "marks": 7,
+    "criterion": "D",
+    "content": "[[Q 4 | D 5 | A 2]]\nThe pie chart shows the employment of workers in a fictional country, Country Q, in percent.\n{{chart|pie|Employment in Country Q (percent)|||Agriculture:45,Industry:20,Services:35}}\n(a) Rural-urban migration is common in Country Q. Place one factor in each row of the table. (2 marks)\n{{drag|u1|Push factor from the countryside,Pull factor of the city|Farms are too small to support families,More jobs in factories and services,Cities have no hospitals}}\n(b) Calculate the percentage of workers who do not work in agriculture. (1 mark)\n(c) A high share of workers in agriculture is typical of a {{select|d1|lower income|higher income}} country. (1 mark)\n(d) Explain one environmental problem that rapid growth of cities can cause and suggest one way a city planner could reduce it. (3 marks)\n\nTotal for Question 4: 7 marks",
+    "mark_scheme": "(a) Interactive answer [u1]: Push factor = farms are too small to support families [1]; Pull factor = more jobs in factories and services [1]. 'Cities have no hospitals' is a distractor. (b) 100 - 45 = 55% [1]. (c) Interactive answer [d1] = lower income [1]. (d) Identifies a problem such as air pollution, waste, loss of green space or pressure on water supply [1]; explains how city growth causes it, for example more vehicles and factories or more people producing waste [1]; suggests a valid solution such as public transport, recycling schemes or protecting green belts [1]."
+   }
+  ]
+ }
+]

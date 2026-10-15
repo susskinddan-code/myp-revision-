@@ -1,0 +1,528 @@
+[
+  {
+    "subject": "biology",
+    "grade": 4,
+    "topic": "Variation, Natural Selection and Evolution",
+    "subTopic": "Causes of Variation and Mutations",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "content": "What are the differences between individuals of the same species called?",
+        "options": [
+          "Extinction",
+          "Evolution",
+          "Adaptation",
+          "Variation"
+        ],
+        "answer": 3,
+        "explanation": "Variation means that individuals of the same species are not identical."
+      },
+      {
+        "difficulty": "easy",
+        "content": "What is a random change in the DNA of an organism called?",
+        "options": [
+          "Digestion",
+          "Adaptation",
+          "Fertilisation",
+          "Mutation"
+        ],
+        "answer": 3,
+        "explanation": "A mutation is a change in the sequence of bases in DNA. It can alter a gene."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Which type of radiation from the Sun can cause mutations in skin cells?",
+        "options": [
+          "Ultraviolet radiation",
+          "Infrared radiation",
+          "Radio waves",
+          "Sound waves"
+        ],
+        "answer": 0,
+        "explanation": "UV radiation can damage DNA in skin cells, which may lead to skin cancer."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Which characteristic shows continuous variation?",
+        "options": [
+          "Attached earlobes",
+          "ABO blood group",
+          "Sex",
+          "Height"
+        ],
+        "answer": 3,
+        "explanation": "Height can take any value within a range, so it shows continuous variation."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Which characteristic is controlled only by genes?",
+        "options": [
+          "Body mass",
+          "ABO blood group",
+          "Suntan",
+          "Muscle size"
+        ],
+        "answer": 1,
+        "explanation": "Blood group is inherited and is not changed by diet or lifestyle. The other characteristics are affected by the environment."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Cuttings from the same parent plant are grown in different soils and reach different heights. What causes the variation?",
+        "options": [
+          "The environment",
+          "Mutation",
+          "Different alleles",
+          "Random fertilisation"
+        ],
+        "answer": 0,
+        "explanation": "Cuttings are clones, so they have the same alleles. The differences must be caused by the environment."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Which process in sexual reproduction gives gametes different combinations of alleles?",
+        "options": [
+          "Binary fission",
+          "Mitosis",
+          "Meiosis",
+          "Photosynthesis"
+        ],
+        "answer": 2,
+        "explanation": "In meiosis the chromosomes are shuffled, so each gamete is genetically different."
+      },
+      {
+        "difficulty": "medium",
+        "content": "The heights of 100 students are grouped into ranges of 5 cm. What is the best way to display this data?",
+        "options": [
+          "Histogram",
+          "Pie chart",
+          "Scatter graph",
+          "Pictogram"
+        ],
+        "answer": 0,
+        "explanation": "Continuous data are shown as a histogram, where the bars touch because the ranges are continuous."
+      },
+      {
+        "difficulty": "medium",
+        "content": "A mutation in which type of cell can be passed on to offspring?",
+        "options": [
+          "Skin cells",
+          "Gametes",
+          "Liver cells",
+          "Muscle cells"
+        ],
+        "answer": 1,
+        "explanation": "Only mutations in the gametes (sperm and egg cells) can be inherited by the next generation."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Chemicals in tobacco smoke increase the rate of mutation in body cells. What are such chemicals called?",
+        "options": [
+          "Mutagens",
+          "Antibodies",
+          "Enzymes",
+          "Hormones"
+        ],
+        "answer": 0,
+        "explanation": "A mutagen is a substance that increases the rate of mutation. Mutations in the cells of the lungs can cause cancer."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Sickle cell anaemia is caused by a mutation in the gene for which protein?",
+        "options": [
+          "Amylase",
+          "Insulin",
+          "Haemoglobin",
+          "Keratin"
+        ],
+        "answer": 2,
+        "explanation": "A change in one base alters the haemoglobin molecule, so red blood cells become sickle-shaped."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Five seedlings have heights of 12 cm, 15 cm, 11 cm, 14 cm and 13 cm. What is the range of heights in cm?",
+        "options": [
+          "13",
+          "4",
+          "15",
+          "11"
+        ],
+        "answer": 1,
+        "explanation": "Range = highest − lowest = 15 − 11 = 4 cm."
+      },
+      {
+        "difficulty": "medium",
+        "content": "What is the mean height of the five seedlings (12, 15, 11, 14 and 13 cm), in cm?",
+        "options": [
+          "4",
+          "13",
+          "14",
+          "65"
+        ],
+        "answer": 1,
+        "explanation": "Total = 12 + 15 + 11 + 14 + 13 = 65. Mean = 65 ÷ 5 = 13 cm."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Identical twins have different body masses as adults. What is the best explanation?",
+        "options": [
+          "They had different diets and lifestyles",
+          "They have different DNA sequences",
+          "A mutation at fertilisation",
+          "They have different numbers of chromosomes"
+        ],
+        "answer": 0,
+        "explanation": "Identical twins have the same genotype, so differences come from the environment, such as diet and exercise."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Most mutations have no effect on the phenotype. What is one reason?",
+        "options": [
+          "Mutations are always repaired",
+          "Mutations only occur in dead cells",
+          "Many do not change the protein that is made",
+          "Mutations always make new proteins"
+        ],
+        "answer": 2,
+        "explanation": "Many mutations occur in parts of DNA that do not code for a protein, or change the protein very little."
+      },
+      {
+        "difficulty": "hard",
+        "content": "People with one sickle cell allele are more resistant to malaria. Why is the allele common in regions where malaria is common?",
+        "options": [
+          "The allele protects against all diseases",
+          "Malaria causes the allele",
+          "Carriers are more likely to survive and pass on the allele",
+          "Everyone there has two copies"
+        ],
+        "answer": 2,
+        "explanation": "Carriers survive malaria better, so they reproduce more and the allele stays common even though two copies cause sickle cell anaemia."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Heights of 60 students: 150-154 cm, 3 students; 155-159 cm, 12; 160-164 cm, 21; 165-169 cm, 17; 170-174 cm, 7. Which is the modal class?",
+        "options": [
+          "150-154 cm",
+          "155-159 cm",
+          "165-169 cm",
+          "160-164 cm"
+        ],
+        "answer": 3,
+        "explanation": "The modal class is the group with the highest frequency, which is 21 students. The frequencies add to 60."
+      },
+      {
+        "difficulty": "hard",
+        "content": "A student says that a suntan will be inherited by her children. What is the best response?",
+        "options": [
+          "Yes, all characteristics are inherited",
+          "No, a tan is not in the DNA of her gametes",
+          "Yes, because UV changes all DNA",
+          "No, because children never inherit skin colour"
+        ],
+        "answer": 1,
+        "explanation": "A suntan is an acquired characteristic caused by the environment. Only changes in the DNA of gametes can be inherited."
+      }
+    ],
+    "note": "Variation means that the individuals of a species are not all identical. Even brothers and sisters differ, and so do the plants in a field. There are two causes: genes and the environment, and most characteristics are affected by both.\n\n## Genetic variation\n- **Different alleles**: individuals inherit different combinations of alleles from their parents.\n- **Meiosis**: when gametes are made, the chromosomes are shuffled, so every gamete is different.\n- **Random fertilisation**: any sperm may fertilise any egg, producing a new combination of alleles.\n- **Mutation**: a random change in DNA that produces a new allele. This is the only source of completely new alleles.\n\n## Environmental variation\nDifferences caused by surroundings include diet, exercise, sunlight, temperature, soil and accidents. A suntan, scars, a language and body mass are examples. These are acquired characteristics. They are not caused by changes to DNA in the gametes and cannot be inherited. Clones or identical twins have the same genes, so any differences are caused by the environment.\n\n## Continuous and discontinuous variation\n- **Continuous variation**: a characteristic can have any value in a range, such as height or mass. It is usually affected by many genes and the environment. Data are shown as a histogram, and often form a bell-shaped curve.\n- **Discontinuous variation**: there are a few distinct categories, such as ABO blood group. It is often controlled by one gene and not affected by the environment. Data are shown as a bar chart with gaps between the bars.\n\n## Mutations\nA mutation is a random change in the sequence of bases in a gene.\n- Causes: natural copying errors in DNA, **radiation** such as X-rays, gamma rays and ultraviolet light, and chemicals called **mutagens**, such as those in tobacco smoke.\n- Mutations in body cells can cause cancer, but are not inherited. Mutations in gametes can be inherited.\n- Most mutations are harmless or harmful. A few are beneficial, and these are the raw material for evolution.\n\n**Example: sickle cell anaemia.** A change in one base in the haemoglobin gene produces abnormal haemoglobin, so red blood cells become sickle-shaped and carry less oxygen. A person with two sickle alleles has the disease. A carrier with one sickle allele does not, and is more resistant to malaria. In regions where malaria is common, carriers survive better, so the allele remains common.\n\n## Worked examples\nFive seedlings have heights 12, 15, 11, 14 and 13 cm. Range = 15 − 11 = 4 cm. Mean = (12 + 15 + 11 + 14 + 13) ÷ 5 = 65 ÷ 5 = 13 cm. For grouped data, the modal class is the class with the highest frequency. With heights of 60 students, the group 160-164 cm has 21 students, which is the highest, so it is the modal class.\n\n## Common mistakes\n- Saying that mutations are always harmful. Many have no effect and some are beneficial.\n- Saying that mutations happen because an organism \"needs\" them. They are random.\n- Saying that acquired characteristics are inherited.\n- Using a bar chart with gaps for continuous data. Use a histogram.\n\n## How this is examined\nQuestions ask you to classify characteristics, to explain the cause of differences between clones or twins, or to process data such as mean, range and modal class. Criterion B tasks may ask you to design an investigation to find if the environment affects plant height, with clear controlled variables.\n\nExam tip: if you are asked whether a difference is genetic or environmental, check whether the individuals share the same genes. If they do, the difference must be environmental.",
+    "flashcards": [
+      {
+        "front": "Variation",
+        "back": "Differences between individuals of the same species, caused by genes, the environment or both."
+      },
+      {
+        "front": "Sources of genetic variation",
+        "back": "Different alleles, meiosis (shuffling of chromosomes), random fertilisation and mutation."
+      },
+      {
+        "front": "Environmental variation",
+        "back": "Differences caused by surroundings, such as diet, sunlight, climate and accidents. They are not inherited."
+      },
+      {
+        "front": "Continuous variation",
+        "back": "A characteristic with any value in a range, such as height. Shown on a histogram."
+      },
+      {
+        "front": "Discontinuous variation",
+        "back": "A characteristic with distinct categories, such as blood group. Shown on a bar chart."
+      },
+      {
+        "front": "Mutation",
+        "back": "A random change in the base sequence of DNA. It is the only source of new alleles."
+      },
+      {
+        "front": "Causes of mutation",
+        "back": "Copying errors, radiation such as UV light, X-rays and gamma rays, and chemical mutagens such as those in tobacco smoke."
+      },
+      {
+        "front": "Can a mutation be inherited?",
+        "back": "Only if it occurs in a gamete (sex cell). Mutations in body cells are not passed to offspring."
+      },
+      {
+        "front": "Sickle cell anaemia",
+        "back": "Caused by a mutation in the haemoglobin gene. Carriers with one allele are more resistant to malaria."
+      }
+    ]
+  },
+  {
+    "subject": "biology",
+    "grade": 4,
+    "topic": "Variation, Natural Selection and Evolution",
+    "subTopic": "Natural Selection and the Evidence for Evolution",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "content": "Who proposed the theory of evolution by natural selection, alongside Alfred Russel Wallace?",
+        "options": [
+          "Charles Darwin",
+          "Gregor Mendel",
+          "Louis Pasteur",
+          "Isaac Newton"
+        ],
+        "answer": 0,
+        "explanation": "Darwin and Wallace independently proposed that species change by natural selection. Darwin published On the Origin of Species in 1859."
+      },
+      {
+        "difficulty": "easy",
+        "content": "What are features that help an organism survive in its environment called?",
+        "options": [
+          "Adaptations",
+          "Mutations",
+          "Fossils",
+          "Habitats"
+        ],
+        "answer": 0,
+        "explanation": "An adaptation is a feature that increases the chance of survival and reproduction."
+      },
+      {
+        "difficulty": "easy",
+        "content": "What are the preserved remains of organisms found in rock called?",
+        "options": [
+          "Alleles",
+          "Genes",
+          "Fossils",
+          "Clones"
+        ],
+        "answer": 2,
+        "explanation": "Fossils show what organisms looked like in the past and give evidence for evolution."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Evolution is a change in the inherited characteristics of what over many generations?",
+        "options": [
+          "A food web",
+          "An individual",
+          "A single cell",
+          "A population"
+        ],
+        "answer": 3,
+        "explanation": "Individuals do not evolve in their lifetime. Populations change as the frequency of alleles changes over generations."
+      },
+      {
+        "difficulty": "easy",
+        "content": "What may happen to a species that cannot adapt to a change in its environment?",
+        "options": [
+          "Speciation",
+          "Extinction",
+          "Migration only",
+          "Mutation"
+        ],
+        "answer": 1,
+        "explanation": "If no individuals survive and reproduce, the species dies out."
+      },
+      {
+        "difficulty": "medium",
+        "content": "In natural selection, which individuals are more likely to survive and reproduce?",
+        "options": [
+          "Those best adapted to the environment",
+          "The largest individuals",
+          "The oldest individuals",
+          "Those that have mutated"
+        ],
+        "answer": 0,
+        "explanation": "Individuals with the advantageous alleles survive better, reproduce more and pass these alleles on."
+      },
+      {
+        "difficulty": "medium",
+        "content": "In polluted areas where tree trunks were blackened by soot, dark peppered moths became more common. Why?",
+        "options": [
+          "Dark moths ate more",
+          "Light moths ran out of food",
+          "Dark moths mutated because of pollution",
+          "They were better camouflaged from birds"
+        ],
+        "answer": 3,
+        "explanation": "Dark moths were harder to see, so birds ate fewer of them. They survived to reproduce and pass on the dark allele."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Which is an example of a behavioural adaptation?",
+        "options": [
+          "Sharp claws",
+          "Thick fur",
+          "Webbed feet",
+          "Bird migration"
+        ],
+        "answer": 3,
+        "explanation": "Behavioural adaptations are actions an organism takes, such as migration or hibernation. The others are structural."
+      },
+      {
+        "difficulty": "medium",
+        "content": "A polar bear's thick white fur is what type of adaptation?",
+        "options": [
+          "Behavioural",
+          "Structural",
+          "Learned",
+          "Accidental"
+        ],
+        "answer": 1,
+        "explanation": "A structural adaptation is a physical feature, here providing insulation and camouflage."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Forelimbs of a human, bat and whale have the same arrangement of bones, though they have different uses. What are such similar structures called?",
+        "options": [
+          "Vestigial organs",
+          "Homologous structures",
+          "Fossil records",
+          "Selective breeds"
+        ],
+        "answer": 1,
+        "explanation": "Homologous structures suggest that these animals evolved from a common ancestor."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Why do resistant bacteria become more common when antibiotics are overused?",
+        "options": [
+          "Non-resistant bacteria become resistant overnight",
+          "Bacteria choose to change",
+          "Antibiotics make all bacteria resistant",
+          "Resistant bacteria survive and reproduce"
+        ],
+        "answer": 3,
+        "explanation": "Antibiotics kill non-resistant bacteria. The few resistant bacteria survive, reproduce and pass on the resistance allele."
+      },
+      {
+        "difficulty": "medium",
+        "content": "A survey finds 150 dark moths in a sample of 200 moths. What percentage are dark?",
+        "options": [
+          "150%",
+          "25%",
+          "75%",
+          "50%"
+        ],
+        "answer": 2,
+        "explanation": "150 ÷ 200 × 100 = 75%."
+      },
+      {
+        "difficulty": "medium",
+        "content": "In undisturbed layers of sedimentary rock, where are the oldest fossils found?",
+        "options": [
+          "In the deepest layers",
+          "In the top layers",
+          "In the middle layers",
+          "In the surface soil"
+        ],
+        "answer": 0,
+        "explanation": "New layers are laid down on top of older ones, so the deepest layers contain the oldest fossils."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Which sequence correctly describes natural selection?",
+        "options": [
+          "Struggle to survive, alleles passed on, variation, best adapted reproduce",
+          "Best adapted reproduce, variation, alleles passed on, struggle to survive",
+          "Variation, struggle to survive, best adapted reproduce, alleles passed on",
+          "Alleles passed on, variation, best adapted reproduce, struggle to survive"
+        ],
+        "answer": 2,
+        "explanation": "Individuals vary, more offspring are born than survive, the best adapted survive and breed, and their alleles become more common in the next generation."
+      },
+      {
+        "difficulty": "hard",
+        "content": "A culture contains 1 000 000 bacteria. 0.01% of them are resistant to an antibiotic because of a mutation. How many resistant bacteria are there at the start?",
+        "options": [
+          "10000",
+          "100",
+          "1",
+          "10"
+        ],
+        "answer": 1,
+        "explanation": "0.01% of 1 000 000 = 0.0001 × 1 000 000 = 100. After treatment, the survivors are all resistant and they multiply."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Which statement best explains how giraffes evolved long necks?",
+        "options": [
+          "Giraffes stretched their necks and their offspring inherited the stretch",
+          "Giraffes with alleles for longer necks survived better and passed them on",
+          "Giraffes needed longer necks, so they grew them",
+          "Mutations happened because giraffes needed them"
+        ],
+        "answer": 1,
+        "explanation": "Stretching is an acquired characteristic and is not inherited. Mutations are random. Natural selection explains the change."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Humans and chimpanzees have more than 98% of their DNA in common. What does this suggest?",
+        "options": [
+          "Humans evolved from chimpanzees",
+          "Chimpanzees evolved from humans",
+          "They share a recent common ancestor",
+          "They are the same species"
+        ],
+        "answer": 2,
+        "explanation": "Similar DNA suggests that two species share a recent common ancestor. Neither species evolved from the other."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Beetles live on brown soil. Birds spot green beetles more easily than brown ones. What is the most likely change after many generations?",
+        "options": [
+          "Brown beetles become more common",
+          "Green beetles become more common",
+          "Individual green beetles turn brown",
+          "The population stays exactly the same"
+        ],
+        "answer": 0,
+        "explanation": "Brown beetles are eaten less, so more survive and breed, which increases the frequency of the allele for brown colour. Individuals do not change colour."
+      }
+    ],
+    "note": "Evolution is the change in the inherited characteristics of a population over many generations. Charles Darwin and Alfred Russel Wallace independently suggested that it happens by **natural selection**. Darwin published his ideas in On the Origin of Species in 1859.\n\n## How natural selection works\n1. **Variation**: individuals in a population differ, because of different alleles and mutations.\n2. **Struggle to survive**: more offspring are born than can survive. They compete for food, mates and space, and they face predators and disease.\n3. **Survival of the best adapted**: individuals with alleles that give an advantage are more likely to survive. This is sometimes called \"survival of the fittest\".\n4. **Reproduction**: the survivors breed and pass their advantageous alleles to their offspring.\n5. **Change over generations**: the frequency of the advantageous alleles increases in the population.\n\nIndividuals do not change during their lives to meet their needs, and mutations do not appear because an organism \"needs\" them. Mutations are random. The environment only selects which variants survive.\n\n## Examples\n- **Peppered moths**: before the Industrial Revolution most were pale, which camouflaged them on lichen-covered trees. As soot darkened tree trunks, pale moths were easier for birds to see, and dark moths became more common. After pollution laws reduced the soot, pale moths increased again.\n- **Antibiotic resistance**: a random mutation may make a bacterium resistant. When antibiotics are used, resistant bacteria survive and reproduce, so resistant strains such as MRSA become common. To slow this, antibiotics should not be overused.\n\n## Adaptations\nAn **adaptation** is a feature that helps an organism survive and reproduce. Structural adaptations are body features, such as the thick fur of a polar bear. Behavioural adaptations are actions, such as migration. Physiological adaptations are processes, such as venom production. If an environment changes faster than a species can adapt, the species may become **extinct**.\n\n## Evidence for evolution\n- **Fossils**: remains in rock show how species have changed. Older fossils are found in deeper rock layers. Gaps exist because few organisms become fossils.\n- **Comparative anatomy**: the forelimbs of humans, bats and whales have the same bones in the same pattern, though they are used differently. These homologous structures suggest a common ancestor.\n- **DNA**: related species have similar DNA. Humans and chimpanzees share more than 98% of their DNA, which suggests a recent common ancestor.\n- **Observed change**: antibiotic resistance in bacteria and pesticide resistance in insects are evolution seen within our lifetimes.\n\n## Worked example\nA culture of 1 000 000 bacteria contains 0.01% resistant cells. Number resistant = 0.0001 × 1 000 000 = 100. An antibiotic kills the other 999 900, and the 100 resistant bacteria then multiply, so the new population is mostly resistant.\n\n## Common mistakes\n- Saying that organisms \"try\" or \"need\" to adapt.\n- Saying that individuals evolve. Populations evolve.\n- Saying that humans evolved from chimpanzees. They share a common ancestor.\n- Using \"theory\" to mean \"guess\". A scientific theory is supported by a large body of evidence.\n\n## How this is examined\nExpect a scenario in which an environment changes, such as a new predator or a new pesticide, and a request to explain the change in the population step by step. Criterion D tasks may ask you to discuss the global impact of antibiotic resistance.\n\nExam tip: structure your explanation of natural selection in order: variation, selection pressure, survival and reproduction, alleles passed on, and a change in allele frequency.",
+    "flashcards": [
+      {
+        "front": "Evolution",
+        "back": "A change in the inherited characteristics of a population over many generations."
+      },
+      {
+        "front": "Natural selection",
+        "back": "Better-adapted individuals survive, reproduce and pass on their alleles, so those alleles become more common."
+      },
+      {
+        "front": "Steps of natural selection",
+        "back": "Variation, struggle to survive, survival of the best adapted, reproduction, and change in allele frequency."
+      },
+      {
+        "front": "Adaptation",
+        "back": "A feature that helps an organism survive and reproduce: structural, behavioural or physiological."
+      },
+      {
+        "front": "Peppered moth example",
+        "back": "Dark moths were better camouflaged on soot-darkened trees, survived bird predation and reproduced, so dark moths became more common."
+      },
+      {
+        "front": "Antibiotic resistance",
+        "back": "A mutation makes a bacterium resistant. Antibiotics kill the others, so resistant bacteria survive and multiply."
+      },
+      {
+        "front": "Evidence from fossils",
+        "back": "Fossils in rock layers show how organisms changed. Deeper layers hold older fossils."
+      },
+      {
+        "front": "Homologous structures",
+        "back": "Structures with the same bone pattern but different uses, such as the limbs of humans, bats and whales. They suggest a common ancestor."
+      },
+      {
+        "front": "Why does extinction happen?",
+        "back": "A species cannot adapt quickly enough to a change in its environment, so no individuals survive and reproduce."
+      }
+    ]
+  }
+]

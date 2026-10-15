@@ -1,7 +1,7 @@
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
 import { useServerFn } from "@tanstack/react-start";
-import { generateExamTasks, type GeneratedTask } from "@/lib/ai.functions";
+import { generateExamTasks, type BankedTask } from "@/lib/ai.functions";
 import { useEffect, useState } from "react";
 import { Clock, Lightbulb } from "lucide-react";
 import {
@@ -25,7 +25,7 @@ import {
   formulaSheetFor,
 } from "@/lib/eassessment";
 import { masteryOf, STATUS_LABEL } from "@/lib/progress";
-import { PaperRunner } from "@/components/study/PaperRunner";
+import { loadExamSession, PaperRunner, type ExamTask } from "@/components/study/PaperRunner";
 import { useAuth } from "@/hooks/use-auth";
 import { Button } from "@/components/ui/button";
 
@@ -70,6 +70,23 @@ function AreaPage() {
     queryFn: () => fetchSubjectsBySlugs(area.slugs, GRADE),
   });
   const subject = subjects?.find((s) => s.slug === slug) ?? subjects?.[0] ?? null;
+
+  // An exam saved in this browser tab (sessionStorage) that the student is not looking at: offer to resume it.
+  const [resume, setResume] = useState<{ tab: Tab; title: string } | null>(null);
+  const subjectIdForResume = subject?.id ?? null;
+  useEffect(() => {
+    if (!subjectIdForResume) return setResume(null);
+    const keys: [Tab, string][] = [
+      ["Timed paper", "timed"],
+      ["Mixed test", "mixed"],
+      ["Build my exam", "custom"],
+    ];
+    for (const [t, k] of keys) {
+      const sess = loadExamSession(`${subjectIdForResume}:${k}`);
+      if (sess && t !== tab) return setResume({ tab: t, title: sess.paper.title });
+    }
+    setResume(null);
+  }, [subjectIdForResume, tab]);
 
   return (
     <div className="page-fade">
@@ -132,6 +149,21 @@ function AreaPage() {
           </div>
         ) : null}
 
+        {resume ? (
+          <div
+            role="status"
+            className="mt-6 flex flex-wrap items-center justify-between gap-3 rounded-lg border border-primary/40 bg-primary/5 px-4 py-3 text-sm"
+          >
+            <span>
+              You have an exam in progress: <strong>{resume.title}</strong>. The clock is still
+              running.
+            </span>
+            <Button size="sm" className="rounded-full" onClick={() => setTab(resume.tab)}>
+              Resume exam
+            </Button>
+          </div>
+        ) : null}
+
         <div className="mt-6 flex flex-wrap gap-1 border-b border-border">
           {TABS.filter((t) => area.slugs.length || t === "Exam skills").map((t) => (
             <button
@@ -188,6 +220,34 @@ function AreaPage() {
     </div>
   );
 }
+
+/** Shown before a sitting starts when the student is signed out (marking needs an account). */
+function SignInPrompt() {
+  const { user, loading } = useAuth();
+  if (user || loading) return null;
+  const here =
+    typeof window === "undefined" ? "/" : window.location.pathname + window.location.search;
+  return (
+    <p
+      role="status"
+      className="mb-4 rounded-md border border-primary/40 bg-primary/5 px-3 py-2 text-sm"
+    >
+      Sign in before you start: marking needs an account, and signed-out sittings use saved tasks
+      only.{" "}
+      <a
+        href={`/auth?redirect=${encodeURIComponent(here)}`}
+        className="font-medium underline underline-offset-4"
+      >
+        Sign in
+      </a>
+    </p>
+  );
+}
+
+const fallbackNotice = (what: string, signedIn: boolean) =>
+  signedIn
+    ? `New-${what} writing is unavailable, so this uses saved tasks.`
+    : `Sign in to have new ${what}s written and your answers marked. This uses saved tasks.`;
 
 function Readiness({ subjectId, slug }: { subjectId: string; slug: string }) {
   const { user } = useAuth();
@@ -284,6 +344,20 @@ function TimedPapers({
   const [writing, setWriting] = useState(false);
   const [freshMsg, setFreshMsg] = useState<string | null>(null);
   const generate = useServerFn(generateExamTasks);
+  const { user } = useAuth();
+  const persistKey = `${subjectId}:timed`;
+
+  // Resume an exam that was in progress before a reload.
+  useEffect(() => {
+    const s = loadExamSession(persistKey);
+    if (!s || initialPaperId) return;
+    const exam = restoreExam(persistKey);
+    if (exam) {
+      setFresh(exam);
+      setFreshRun((r) => r + 1);
+    } else setPaperId(s.paper.id);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   async function writeNew() {
     setWriting(true);
@@ -291,8 +365,13 @@ function TimedPapers({
     try {
       const topics = await fetchAllTopics(subjectId, GRADE);
       const names = shuffle(topics.filter((t) => !t.parent_topic_id).map((t) => t.name));
-      const { tasks, fresh: ok } = await buildAiTasks({
+      const {
+        tasks,
+        fresh: ok,
+        minutes,
+      } = await buildAiTasks({
         generate,
+        signedIn: !!user,
         subjectId,
         subjectName,
         topicNames: names,
@@ -304,9 +383,14 @@ function TimedPapers({
           ),
       });
       if (!tasks.length) return setFreshMsg("No tasks available yet for this subject.");
-      if (!ok) setFreshMsg("New-paper writing is unavailable, so this paper uses saved tasks.");
       setFreshRun((r) => r + 1);
-      setFresh({ tasks, minutes: areaMinutes, title: `${subjectName} new practice paper` });
+      setFresh({
+        id: newExamId("fresh"),
+        tasks,
+        minutes,
+        title: `${subjectName} new practice paper`,
+        notice: ok ? null : fallbackNotice("paper", !!user),
+      });
     } catch {
       setFreshMsg("Could not write a paper right now. Try again.");
     } finally {
@@ -338,7 +422,9 @@ function TimedPapers({
     return (
       <PaperRunner
         key={freshRun}
-        paper={{ id: `fresh-${freshRun}`, title: fresh.title, grade: GRADE, criterion: null }}
+        paper={{ id: fresh.id, title: fresh.title, grade: GRADE, criterion: null }}
+        persistKey={persistKey}
+        notice={fresh.notice}
         tasks={fresh.tasks}
         subjectId={subjectId}
         subjectName={subjectName}
@@ -355,6 +441,7 @@ function TimedPapers({
         paper={paper}
         subjectId={subjectId}
         subjectName={subjectName}
+        persistKey={persistKey}
         exam={{ minutes: suggested(count, paper.title), formulas: formulaSheetFor(areaKey) }}
         onExit={() => setPaperId(null)}
       />
@@ -369,6 +456,7 @@ function TimedPapers({
     );
   return (
     <div>
+      <SignInPrompt />
       <p className="mb-4 text-sm text-muted-foreground">
         Sit it like the real thing: a countdown runs, you answer every question, and the AI marks it
         against the mark scheme. Results show your Level 1-8 and an estimated overall 1-7.
@@ -380,7 +468,9 @@ function TimedPapers({
           the {subjectName} course.
         </p>
         <Button className="mt-3 rounded-full" disabled={writing} onClick={writeNew}>
-          {writing ? "Writing your paper… up to a minute" : "Write me a new paper"}
+          {writing
+            ? "Writing your paper… this can take a couple of minutes"
+            : "Write me a new paper"}
         </Button>
         {freshMsg ? <p className="mt-2 text-sm text-destructive">{freshMsg}</p> : null}
       </div>
@@ -408,9 +498,28 @@ function TimedPapers({
   );
 }
 
-type CustomExam = { tasks: PaperTask[]; minutes: number; title: string };
+type CustomExam = {
+  id: string;
+  tasks: ExamTask[];
+  minutes: number;
+  title: string;
+  notice?: string | null;
+};
 
-const SEEN_KEY = "myp-seen-stems";
+/** Puts back an exam that was in progress before a reload or navigation (see PaperRunner persistence). */
+function restoreExam(key: string): CustomExam | null {
+  const s = loadExamSession(key);
+  if (!s?.tasks?.length) return null;
+  return {
+    id: s.paper.id,
+    tasks: s.tasks,
+    minutes: s.minutes ?? 60,
+    title: s.paper.title,
+    notice: s.notice ?? null,
+  };
+}
+const newExamId = (kind: string) => `${kind}-${Date.now().toString(36)}`;
+
 const SEEN_IDS_KEY = "myp-seen-task-ids";
 function readList(key: string, subjectId: string): string[] {
   try {
@@ -432,7 +541,8 @@ function writeList(key: string, subjectId: string, items: string[], keep: number
 
 /**
  * Builds a written exam: tasks the student has not seen come from the shared bank, the AI writes the
- * rest (and saves them to the bank). Falls back to the stored paper tasks if the AI is unavailable.
+ * rest (and saves them to the bank). Falls back to the stored paper tasks if the AI is unavailable
+ * or the student is signed out. The sitting time is always the honest 1.2 minutes per mark of the tasks returned.
  */
 async function buildAiTasks(opts: {
   generate: (a: {
@@ -442,63 +552,70 @@ async function buildAiTasks(opts: {
       grade: number;
       topics: string[];
       targetMarks: number;
-      seen?: string[];
       seenIds?: string[];
     };
   }) => Promise<{
-    tasks: (GeneratedTask & { id: string; fresh: boolean })[] | null;
+    tasks: BankedTask[] | null;
     error: string | null;
+    totalMarks?: number;
+    minutes?: number;
   }>;
+  signedIn: boolean;
   subjectId: string;
   subjectName: string;
   topicNames: string[];
   minutes: number;
   bankFallback: () => Promise<PaperTask[]>;
-}): Promise<{ tasks: PaperTask[]; fresh: boolean }> {
+}): Promise<{ tasks: ExamTask[]; fresh: boolean; minutes: number }> {
   const targetMarks = Math.min(110, Math.round(opts.minutes / 1.2));
   try {
-    const res = await opts.generate({
-      data: {
-        subject: opts.subjectName,
-        subjectId: opts.subjectId,
-        grade: GRADE,
-        topics: opts.topicNames,
-        targetMarks,
-        seen: readList(SEEN_KEY, opts.subjectId),
-        seenIds: readList(SEEN_IDS_KEY, opts.subjectId),
-      },
-    });
-    if (res.tasks?.length) {
-      writeList(
-        SEEN_KEY,
-        opts.subjectId,
-        res.tasks.map((t) => t.content.replace(/^\s*\[\[[^\]]*\]\]\s*/, "").slice(0, 90)),
-        15,
-      );
+    const res = opts.signedIn
+      ? await opts.generate({
+          data: {
+            subject: opts.subjectName,
+            subjectId: opts.subjectId,
+            grade: GRADE,
+            topics: opts.topicNames,
+            targetMarks,
+            seenIds: readList(SEEN_IDS_KEY, opts.subjectId).slice(0, 200),
+          },
+        })
+      : null;
+    if (res?.tasks?.length) {
       writeList(
         SEEN_IDS_KEY,
         opts.subjectId,
-        res.tasks.map((t) => t.id),
+        res.tasks.map((t) => t.id).filter((id) => !id.startsWith("gen-new-")),
         150,
       );
+      // Honest sitting time: what the server worked out from the marks it returned (1.2 min per mark).
+      const got = res.minutes && res.minutes > 0 ? res.minutes : opts.minutes;
       return {
         fresh: true,
+        minutes: Math.max(5, Math.min(Math.ceil(opts.minutes * 1.2), got)),
         tasks: res.tasks.map((t, i) => ({
           id: t.id,
           paper_id: "generated",
           position: i + 1,
           criterion: t.criterion,
-          content: t.content.replace(/^(\s*\[\[)\s*[^|\]]+?\s*(\||\]\])/, `$1Task ${i + 1} $2`),
+          content: t.content,
           mark_scheme: t.mark_scheme,
           options: [],
           answer: 0,
+          ...(t.sig ? { sig: t.sig } : {}),
         })),
       };
     }
   } catch {
     /* fall through to the stored bank */
   }
-  return { fresh: false, tasks: await opts.bankFallback() };
+  const tasks = await opts.bankFallback();
+  const marks = totalMarks(tasks);
+  return {
+    fresh: false,
+    tasks,
+    minutes: marks ? Math.max(5, Math.round(marks * 1.2)) : opts.minutes,
+  };
 }
 
 function totalMarks(tasks: PaperTask[]) {
@@ -519,6 +636,16 @@ function MixedTest({
   const [busy, setBusy] = useState(false);
   const [message, setMessage] = useState<string | null>(null);
   const generate = useServerFn(generateExamTasks);
+  const { user } = useAuth();
+  const persistKey = `${subjectId}:mixed`;
+
+  useEffect(() => {
+    const exam = restoreExam(persistKey);
+    if (exam) {
+      setExam(exam);
+      setRun((r) => r + 1);
+    }
+  }, [persistKey]);
 
   async function start(minutes: number) {
     setBusy(true);
@@ -526,8 +653,13 @@ function MixedTest({
     try {
       const topics = await fetchAllTopics(subjectId, GRADE);
       const names = shuffle(topics.filter((t) => !t.parent_topic_id).map((t) => t.name));
-      const { tasks, fresh } = await buildAiTasks({
+      const {
+        tasks,
+        fresh,
+        minutes: sitting,
+      } = await buildAiTasks({
         generate,
+        signedIn: !!user,
         subjectId,
         subjectName,
         topicNames: names,
@@ -542,9 +674,14 @@ function MixedTest({
         setMessage("No written tasks for this subject at MYP 5 yet.");
         return;
       }
-      if (!fresh) setMessage("New-question writing is unavailable, so this mix uses saved tasks.");
       setRun((r) => r + 1);
-      setExam({ tasks, minutes, title: `${subjectName} mixed test` });
+      setExam({
+        id: newExamId("mixed"),
+        tasks,
+        minutes: sitting,
+        title: `${subjectName} mixed test`,
+        notice: fresh ? null : fallbackNotice("question", !!user),
+      });
     } catch {
       setMessage("Could not build the test right now. Try again.");
     } finally {
@@ -556,7 +693,9 @@ function MixedTest({
     return (
       <PaperRunner
         key={run}
-        paper={{ id: `mixed-${run}`, title: exam.title, grade: GRADE, criterion: null }}
+        paper={{ id: exam.id, title: exam.title, grade: GRADE, criterion: null }}
+        persistKey={persistKey}
+        notice={exam.notice}
         tasks={exam.tasks}
         subjectId={subjectId}
         subjectName={subjectName}
@@ -568,6 +707,7 @@ function MixedTest({
   }
   return (
     <div>
+      <SignInPrompt />
       <p className="text-sm text-muted-foreground">
         Written tasks drawn from every topic in {subjectName}, in exam conditions: a countdown, no
         hints about which topic is coming, and AI marking against a mark scheme. Every test is
@@ -592,7 +732,7 @@ function MixedTest({
       </div>
       {busy ? (
         <p className="mt-4 text-sm text-muted-foreground">
-          Writing brand-new questions for you. This can take up to a minute.
+          Writing brand-new questions for you. This can take a couple of minutes.
         </p>
       ) : null}
       {message ? <p className="mt-4 text-sm text-destructive">{message}</p> : null}
@@ -620,6 +760,16 @@ function BuildExam({
   const [building, setBuilding] = useState(false);
   const [message, setMessage] = useState<string | null>(null);
   const generate = useServerFn(generateExamTasks);
+  const { user } = useAuth();
+  const persistKey = `${subjectId}:custom`;
+
+  useEffect(() => {
+    const exam = restoreExam(persistKey);
+    if (exam) {
+      setExam(exam);
+      setRun((r) => r + 1);
+    }
+  }, [persistKey]);
 
   if (isLoading) return <p className="text-sm text-muted-foreground">Loading topics…</p>;
   const parents = (topics ?? []).filter((t) => !t.parent_topic_id);
@@ -641,8 +791,13 @@ function BuildExam({
     setMessage(null);
     try {
       const names = parents.filter((p) => chosen.includes(p.id)).map((p) => p.name);
-      const { tasks, fresh } = await buildAiTasks({
+      const {
+        tasks,
+        fresh,
+        minutes: sitting,
+      } = await buildAiTasks({
         generate,
+        signedIn: !!user,
         subjectId,
         subjectName,
         topicNames: names,
@@ -663,9 +818,14 @@ function BuildExam({
         setMessage("No written tasks match those topics yet. Pick more topics.");
         return;
       }
-      if (!fresh) setMessage("New-question writing is unavailable, so this exam uses saved tasks.");
       setRun((r) => r + 1);
-      setExam({ tasks, minutes, title: `${subjectName} custom exam` });
+      setExam({
+        id: newExamId("custom"),
+        tasks,
+        minutes: sitting,
+        title: `${subjectName} custom exam`,
+        notice: fresh ? null : fallbackNotice("question", !!user),
+      });
     } catch {
       setMessage("Could not build the exam right now. Try again.");
     } finally {
@@ -677,7 +837,9 @@ function BuildExam({
     return (
       <PaperRunner
         key={run}
-        paper={{ id: `custom-${run}`, title: exam.title, grade: GRADE, criterion: null }}
+        paper={{ id: exam.id, title: exam.title, grade: GRADE, criterion: null }}
+        persistKey={persistKey}
+        notice={exam.notice}
         tasks={exam.tasks}
         subjectId={subjectId}
         subjectName={subjectName}
@@ -690,6 +852,7 @@ function BuildExam({
 
   return (
     <div className="max-w-2xl">
+      <SignInPrompt />
       <p className="text-sm text-muted-foreground">
         Pick the topics and how long you want to sit. We write a brand-new {subjectName} exam on
         them with AI, timed and AI marked, so it is never the same twice. Leave topics empty to
@@ -735,7 +898,7 @@ function BuildExam({
       </Button>
       {building ? (
         <p className="mt-3 text-sm text-muted-foreground">
-          Writing brand-new questions on your topics. This can take up to a minute.
+          Writing brand-new questions on your topics. This can take a couple of minutes.
         </p>
       ) : null}
     </div>

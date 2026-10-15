@@ -1,0 +1,39 @@
+[
+ {
+  "subject": "physics",
+  "grade": 5,
+  "format": "widget-practice",
+  "title": "Physics MYP 5 Interactive Practice (4 tasks, 27 marks)",
+  "criterion": null,
+  "questions": [
+   {
+    "position": 1,
+    "marks": 8,
+    "criterion": "C",
+    "content": "[[Q 1 | A 2 | C 6]]\nA trolley accelerates from rest. Its speed is recorded every 2 seconds.\n{{chart|line|Speed of a trolley|Time (s)|Speed (m/s)|0:0,2:4,4:8,6:12,8:12}}\n(a) Calculate the acceleration of the trolley during the first 6 s. (2 marks)\n(b) Between 6 s and 8 s the trolley moves with {{select|m1|constant speed|constant acceleration|zero speed}}. (1 mark)\n(c) Calculate the distance travelled in the first 6 s using the area under the graph. (2 marks)\n(d) Plot the distance travelled (in metres) at t = 0, 2, 4 and 6 s. Use the fact that the distance travelled is equal to t squared for this motion. (2 marks)\n{{plot|p1|0,8,0,40|Time (s)|Distance (m)}}\n(e) The shape of the distance-time graph for the first 6 s is {{select|m2|a curve|a straight line|horizontal}}. (1 mark)\n\nTotal for Question 1: 8 marks",
+    "mark_scheme": "(a) a = change in speed / time = 12 / 6 [1] = 2 m/s^2 [1]. (b) Interactive answer [m1] = constant speed [1]. (c) Area of triangle = 1/2 x 6 x 12 [1] = 36 m [1]. (d) Interactive answer [p1]: plotted (0, 0), (2, 4), (4, 16), (6, 36). Three points correct [1]; all four correct [1]. (e) [m2] = a curve [1]."
+   },
+   {
+    "position": 2,
+    "marks": 8,
+    "criterion": "A",
+    "content": "[[Q 2 | A 6 | C 2]]\nA roller coaster car of mass 500 kg starts from rest at the top of a hill 20 m high. Use g = 10 N/kg and assume there is no friction until the brakes are used.\n(a) Choose the main energy store at each point. (3 marks)\n{{drag|d1|Top of the hill,Bottom of the hill,After braking to a stop|Gravitational potential,Kinetic,Thermal,Chemical}}\n(b) Assuming no friction, the total mechanical energy of the car is {{select|e1|conserved|increased|destroyed}} as it rolls down. (1 mark)\n(c) Calculate the gravitational potential energy at the top of the hill. (2 marks)\n(d) Calculate the speed of the car at the bottom of the hill. (2 marks)\n\nTotal for Question 2: 8 marks",
+    "mark_scheme": "(a) Interactive answer [d1]: top = Gravitational potential [1]; bottom = Kinetic [1]; after braking = Thermal [1]. Chemical is a distractor. (b) Interactive answer [e1] = conserved [1]. (c) GPE = mgh = 500 x 10 x 20 [1] = 100 000 J (100 kJ) [1]. (d) 1/2 m v^2 = 100 000 so v^2 = 2 x 100 000 / 500 = 400 [1]; v = 20 m/s [1]."
+   },
+   {
+    "position": 3,
+    "marks": 6,
+    "criterion": "C",
+    "content": "[[Q 3 | A 1 | C 5]]\nA student investigates a 4 ohm resistor. The potential difference (p.d.) is changed and the current is measured.\np.d. (V): 0, 4, 8, 12. Current (A): 0, 1, 2, 3.\n(a) Plot the four points (p.d. on the x-axis, current on the y-axis). (2 marks)\n{{plot|p3|0,12,0,4|p.d. (V)|Current (A)}}\n(b) The graph is {{select|o1|a straight line through the origin|a curve|a horizontal line}} so the resistor obeys Ohm's law. (1 mark)\n(c) The 4 ohm resistor is connected in series with an 8 ohm resistor and a 12 V cell. Complete the table for the current in the circuit and the p.d. across the 4 ohm resistor. (2 marks)\n{{fill|t3|Current (A),p.d. across 4 ohm resistor (V)|1}}\n(d) State why the current in the 8 ohm resistor is the same as in the 4 ohm resistor. (1 mark)\n\nTotal for Question 3: 6 marks",
+    "mark_scheme": "(a) Interactive answer [p3]: plotted (0, 0), (4, 1), (8, 2), (12, 3). Three points correct [1]; all four correct [1]. (b) [o1] = a straight line through the origin [1]. (c) Interactive answer [t3]: current 1 A [1] (I = 12 / (4 + 8) = 1 A); p.d. 4 V [1] (V = 1 x 4). (d) In a series circuit there is only one path so the same current flows through every component [1]."
+   },
+   {
+    "position": 4,
+    "marks": 5,
+    "criterion": "D",
+    "content": "[[Q 4 | A 2 | D 3]]\nA town's electricity comes from five sources. The bar chart shows each source's share (%) of the electricity generated in one year.\n{{chart|bar|Electricity sources|Source|Share (%)|Gas:40,Wind:25,Nuclear:15,Solar:10,Coal:10}}\n(a) Calculate the percentage of electricity from wind and solar combined. (1 mark)\n(b) Classify each source. (3 marks)\n{{drag|c1|Wind,Gas,Nuclear|Renewable,Fossil fuel,Nuclear fuel}}\n(c) Suggest one environmental advantage of replacing coal with wind. (1 mark)\n\nTotal for Question 4: 5 marks",
+    "mark_scheme": "(a) 25 + 10 = 35% [1]. (b) Interactive answer [c1]: Wind = Renewable [1]; Gas = Fossil fuel [1]; Nuclear = Nuclear fuel [1]. (c) Wind produces no carbon dioxide while generating electricity, so it reduces greenhouse gas emissions and air pollution [1]."
+   }
+  ]
+ }
+]

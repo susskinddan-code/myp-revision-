@@ -1,0 +1,791 @@
+[
+  {
+    "subject": "biology",
+    "grade": 4,
+    "topic": "Reproduction and Inheritance",
+    "subTopic": "Asexual and Sexual Reproduction Compared",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "content": "How many parents are needed for asexual reproduction?",
+        "options": [
+          "Four",
+          "Two",
+          "Three",
+          "One"
+        ],
+        "answer": 3,
+        "explanation": "Asexual reproduction involves only one parent and no gametes."
+      },
+      {
+        "difficulty": "easy",
+        "content": "What are the sex cells, such as sperm and egg, called?",
+        "options": [
+          "Gametes",
+          "Zygotes",
+          "Spores",
+          "Clones"
+        ],
+        "answer": 0,
+        "explanation": "Gametes are the sex cells that fuse during fertilisation."
+      },
+      {
+        "difficulty": "easy",
+        "content": "What is the fusion of a male gamete and a female gamete called?",
+        "options": [
+          "Germination",
+          "Pollination",
+          "Fertilisation",
+          "Mitosis"
+        ],
+        "answer": 2,
+        "explanation": "Fertilisation forms a zygote, which then develops into an embryo."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Which male part of a flower produces pollen?",
+        "options": [
+          "Stigma",
+          "Anther",
+          "Ovary",
+          "Petal"
+        ],
+        "answer": 1,
+        "explanation": "The anther is at the top of the stamen and makes pollen grains containing the male gametes."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Offspring that are genetically identical to their single parent are called what?",
+        "options": [
+          "Mutants",
+          "Hybrids",
+          "Clones",
+          "Gametes"
+        ],
+        "answer": 2,
+        "explanation": "Asexual reproduction uses mitosis, so the offspring are clones of the parent."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Which type of cell division produces gametes?",
+        "options": [
+          "Binary fission",
+          "Mitosis",
+          "Meiosis",
+          "Budding"
+        ],
+        "answer": 2,
+        "explanation": "Meiosis halves the chromosome number, so gametes are haploid."
+      },
+      {
+        "difficulty": "medium",
+        "content": "What is the transfer of pollen from an anther to a stigma called?",
+        "options": [
+          "Germination",
+          "Fertilisation",
+          "Pollination",
+          "Dispersal"
+        ],
+        "answer": 2,
+        "explanation": "Pollination is the transfer of pollen. Fertilisation happens later, when the nuclei fuse."
+      },
+      {
+        "difficulty": "medium",
+        "content": "How many chromosomes are in a human egg cell?",
+        "options": [
+          "23",
+          "46",
+          "92",
+          "12"
+        ],
+        "answer": 0,
+        "explanation": "Gametes are haploid and have half the usual number of chromosomes, which is 23 in humans."
+      },
+      {
+        "difficulty": "medium",
+        "content": "What name is given to asexual reproduction in bacteria?",
+        "options": [
+          "Fertilisation",
+          "Budding",
+          "Pollination",
+          "Binary fission"
+        ],
+        "answer": 3,
+        "explanation": "A bacterium copies its DNA and then splits into two identical cells by binary fission."
+      },
+      {
+        "difficulty": "medium",
+        "content": "What is one advantage of asexual reproduction?",
+        "options": [
+          "It makes offspring different from the parent",
+          "It increases genetic variation",
+          "It needs two parents",
+          "No mate is needed"
+        ],
+        "answer": 3,
+        "explanation": "Asexual reproduction can be quick and only needs one parent. The offspring are identical, so it gives no variation."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Which feature is typical of a wind-pollinated flower?",
+        "options": [
+          "Brightly coloured petals",
+          "Large feathery stigmas",
+          "Scented nectar",
+          "Sticky spiky pollen"
+        ],
+        "answer": 1,
+        "explanation": "Feathery stigmas catch pollen from the air. Wind-pollinated flowers have small, dull petals and light, smooth pollen."
+      },
+      {
+        "difficulty": "medium",
+        "content": "One bacterium divides by binary fission every 20 minutes. How many bacteria are there after 2 hours?",
+        "options": [
+          "12",
+          "64",
+          "6",
+          "32"
+        ],
+        "answer": 1,
+        "explanation": "2 hours is 120 minutes, which is 6 divisions. 2⁶ = 64 bacteria."
+      },
+      {
+        "difficulty": "medium",
+        "content": "In which part of a flower does fertilisation take place?",
+        "options": [
+          "Ovule",
+          "Anther",
+          "Stigma",
+          "Petal"
+        ],
+        "answer": 0,
+        "explanation": "The male nucleus travels down the pollen tube and fuses with the female nucleus in the ovule. The fertilised ovule becomes a seed."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Why does sexual reproduction produce variation?",
+        "options": [
+          "Genes from two different parents are mixed",
+          "Mitosis copies DNA exactly",
+          "One parent gives all the genes",
+          "The offspring are clones"
+        ],
+        "answer": 0,
+        "explanation": "Gametes carry different combinations of alleles from each parent. Fertilisation is random, so each zygote has a new combination."
+      },
+      {
+        "difficulty": "hard",
+        "content": "What is a disadvantage of asexual reproduction in a wild population?",
+        "options": [
+          "Offspring cannot grow",
+          "The whole population is vulnerable to the same disease",
+          "It is slower than sexual reproduction",
+          "It needs a mate"
+        ],
+        "answer": 1,
+        "explanation": "Clones share the same alleles, so a disease or change in the environment that harms one individual can harm them all."
+      },
+      {
+        "difficulty": "hard",
+        "content": "A farmer grows strawberries by planting runners. Why is this useful?",
+        "options": [
+          "Offspring keep the same desirable traits",
+          "It increases variation",
+          "Seeds disperse further",
+          "It needs insects"
+        ],
+        "answer": 0,
+        "explanation": "Runners are asexual reproduction, so the new plants are clones of a parent that produced good fruit."
+      },
+      {
+        "difficulty": "hard",
+        "content": "What is the correct order of events in the sexual reproduction of a flowering plant?",
+        "options": [
+          "Pollination, seed formation, fertilisation",
+          "Fertilisation, pollination, seed formation",
+          "Seed formation, pollination, fertilisation",
+          "Pollination, fertilisation, seed formation"
+        ],
+        "answer": 3,
+        "explanation": "Pollen lands on the stigma, the pollen tube grows, the nuclei fuse and the fertilised ovule becomes a seed."
+      },
+      {
+        "difficulty": "hard",
+        "content": "A human zygote has 46 chromosomes. How many chromosomes are in each daughter cell after the zygote's first mitosis?",
+        "options": [
+          "23",
+          "46",
+          "92",
+          "69"
+        ],
+        "answer": 1,
+        "explanation": "Mitosis produces genetically identical cells with the same chromosome number as the parent cell."
+      }
+    ],
+    "note": "Reproduction produces new individuals of the same species. There are two types: asexual and sexual. They differ in the number of parents, how the offspring are made and how much variation there is.\n\n## Asexual reproduction\nOnly **one parent** is needed. No gametes are involved and no fertilisation takes place. The parent cell divides by **mitosis**, so the offspring are genetically identical to the parent. They are called **clones**. Examples:\n- **Bacteria** divide by binary fission.\n- **Strawberry plants** produce runners (stems that grow along the ground and form new plants).\n- **Potato plants** form tubers that grow into new plants.\n- **Yeast** makes buds that break off.\n\nAdvantages: it is quick, needs only one parent, does not need a mate and can produce many offspring in a short time. Disadvantages: no genetic variation, so a change in the environment or a new disease can affect the whole population.\n\n## Sexual reproduction\nTwo parents are involved. Each makes **gametes** by **meiosis**, which halves the number of chromosomes. Human gametes have 23 chromosomes (haploid) and body cells have 46 (diploid). Fertilisation, the fusion of the male and female gamete, makes a **zygote** with the full number of chromosomes. The zygote divides by mitosis to form an embryo. The offspring are not identical to either parent because they inherit a mix of alleles from both parents.\n\nAdvantages: variation means that some individuals may survive a change in environment or disease, which allows natural selection and evolution. Disadvantages: it needs two parents, it takes more time and energy, and fewer offspring are produced.\n\n## Sexual reproduction in flowering plants\n- The **anther** makes pollen, which contains the male gamete. The **ovary** contains ovules with female gametes. The **stigma** receives pollen.\n- **Pollination** is the transfer of pollen from the anther to the stigma. Insect-pollinated flowers have bright petals, scent and nectar, and sticky pollen. Wind-pollinated flowers have small dull petals and large feathery stigmas.\n- After pollination, a pollen tube grows down to the ovule and the male nucleus fuses with the female nucleus. This is **fertilisation**.\n- The fertilised ovule becomes a **seed** and the ovary becomes the fruit.\n\n## Worked example\nOne bacterium divides every 20 minutes. In 2 hours (120 minutes) there are 120 ÷ 20 = 6 divisions. Number of bacteria = 2⁶ = 64. This shows how fast asexual reproduction can increase a population.\n\n## Common mistakes\n- Mixing up pollination (moving pollen) with fertilisation (fusion of nuclei).\n- Writing that asexual reproduction uses meiosis. It uses mitosis.\n- Saying that sexual reproduction always involves two different individuals. Some plants can pollinate themselves, but the gametes are still produced by meiosis, so there is variation.\n- Saying clones are always identical in appearance. They have identical genes, but the environment can still change how they look.\n\n## How this is examined\nQuestions ask you to compare the two types in a table, to label flower diagrams or to explain which type of reproduction suits a farmer or a species in a changing environment. Criterion D tasks may ask you to evaluate the use of cloning to grow crops.\n\nExam tip: in comparison questions, use comparative words in every statement, such as \"asexual reproduction produces offspring faster, but sexual reproduction produces more variation\".",
+    "flashcards": [
+      {
+        "front": "Asexual reproduction",
+        "back": "One parent, no gametes, mitosis. The offspring are genetically identical clones."
+      },
+      {
+        "front": "Sexual reproduction",
+        "back": "Two parents make gametes by meiosis. Fertilisation produces offspring with a mixture of genes, so there is variation."
+      },
+      {
+        "front": "Gametes",
+        "back": "Sex cells (sperm, egg cell, and the male nucleus in a pollen grain). They are haploid: human gametes have 23 chromosomes."
+      },
+      {
+        "front": "Fertilisation",
+        "back": "The fusion of a male gamete nucleus with a female gamete nucleus to form a zygote."
+      },
+      {
+        "front": "Pollination",
+        "back": "The transfer of pollen from an anther to a stigma."
+      },
+      {
+        "front": "Advantage of sexual reproduction",
+        "back": "Variation. Some individuals may survive changes in the environment or a new disease."
+      },
+      {
+        "front": "Disadvantage of asexual reproduction",
+        "back": "No variation, so the whole population can be wiped out by the same disease or environmental change."
+      },
+      {
+        "front": "Examples of asexual reproduction",
+        "back": "Binary fission in bacteria, runners in strawberries, tubers in potatoes, budding in yeast."
+      },
+      {
+        "front": "Wind-pollinated flower features",
+        "back": "Small dull petals, no scent or nectar, large feathery stigmas, and light smooth pollen in large amounts."
+      }
+    ]
+  },
+  {
+    "subject": "biology",
+    "grade": 4,
+    "topic": "Reproduction and Inheritance",
+    "subTopic": "Alleles, Genotype and Phenotype",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "content": "What is a section of DNA that codes for a protein or characteristic called?",
+        "options": [
+          "Chromosome",
+          "Gene",
+          "Nucleus",
+          "Cell"
+        ],
+        "answer": 1,
+        "explanation": "A gene is a length of DNA that carries the instructions for making a protein, which affects a characteristic."
+      },
+      {
+        "difficulty": "easy",
+        "content": "In which part of a cell are chromosomes found?",
+        "options": [
+          "Ribosome",
+          "Cell wall",
+          "Nucleus",
+          "Vacuole"
+        ],
+        "answer": 2,
+        "explanation": "Chromosomes are made of DNA and are found in the nucleus of the cell."
+      },
+      {
+        "difficulty": "easy",
+        "content": "How many chromosomes are in a normal human body cell?",
+        "options": [
+          "23",
+          "46",
+          "44",
+          "92"
+        ],
+        "answer": 1,
+        "explanation": "Human body cells have 46 chromosomes, arranged in 23 pairs."
+      },
+      {
+        "difficulty": "easy",
+        "content": "What are different versions of the same gene called?",
+        "options": [
+          "Genomes",
+          "Alleles",
+          "Clones",
+          "Gametes"
+        ],
+        "answer": 1,
+        "explanation": "For example, the gene for pea plant height has an allele for tall and an allele for dwarf."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Which term describes the observable characteristics of an organism?",
+        "options": [
+          "Genome",
+          "Genotype",
+          "Allele",
+          "Phenotype"
+        ],
+        "answer": 3,
+        "explanation": "The phenotype is what you can observe, such as height or flower colour."
+      },
+      {
+        "difficulty": "medium",
+        "content": "What word describes an organism with two different alleles of a gene, such as Tt?",
+        "options": [
+          "Heterozygous",
+          "Homozygous dominant",
+          "Homozygous recessive",
+          "Haploid"
+        ],
+        "answer": 0,
+        "explanation": "Hetero means different. A heterozygous organism has two different alleles for a gene."
+      },
+      {
+        "difficulty": "medium",
+        "content": "In pea plants T is the dominant allele for tall and t is the recessive allele for dwarf. What is the phenotype of Tt?",
+        "options": [
+          "Tall",
+          "Dwarf",
+          "Medium height",
+          "Both tall and dwarf"
+        ],
+        "answer": 0,
+        "explanation": "The dominant allele T is expressed when it is present, so Tt is tall."
+      },
+      {
+        "difficulty": "medium",
+        "content": "How many copies of a recessive allele are needed for the recessive characteristic to show?",
+        "options": [
+          "Three",
+          "One",
+          "Two",
+          "None"
+        ],
+        "answer": 2,
+        "explanation": "A recessive allele is only expressed when there is no dominant allele, so both alleles must be recessive."
+      },
+      {
+        "difficulty": "medium",
+        "content": "What word describes the genotype TT?",
+        "options": [
+          "Haploid",
+          "Homozygous recessive",
+          "Heterozygous",
+          "Homozygous dominant"
+        ],
+        "answer": 3,
+        "explanation": "Homo means same. TT has two identical dominant alleles."
+      },
+      {
+        "difficulty": "medium",
+        "content": "A person has one normal allele and one cystic fibrosis allele, which is recessive, but has no symptoms. What is this person called?",
+        "options": [
+          "Carrier",
+          "Clone",
+          "Donor",
+          "Mutant"
+        ],
+        "answer": 0,
+        "explanation": "A carrier has the recessive allele but also has a dominant allele, so does not show the disorder but can pass it on."
+      },
+      {
+        "difficulty": "medium",
+        "content": "In DNA, which base pairs with adenine?",
+        "options": [
+          "Uracil",
+          "Guanine",
+          "Cytosine",
+          "Thymine"
+        ],
+        "answer": 3,
+        "explanation": "A pairs with T, and C pairs with G. Uracil replaces thymine in RNA."
+      },
+      {
+        "difficulty": "medium",
+        "content": "How many chromosomes are in a normal human gamete?",
+        "options": [
+          "22",
+          "46",
+          "23",
+          "92"
+        ],
+        "answer": 2,
+        "explanation": "Gametes are haploid. They have one chromosome from each of the 23 pairs."
+      },
+      {
+        "difficulty": "medium",
+        "content": "What is the shape of a DNA molecule?",
+        "options": [
+          "Single strand",
+          "Double helix",
+          "Sphere",
+          "Cube"
+        ],
+        "answer": 1,
+        "explanation": "DNA is two strands twisted around each other in a double helix, joined by pairs of bases."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Huntington's disease is caused by a dominant allele H. Which genotypes result in a person having the disease?",
+        "options": [
+          "Heterozygous or homozygous recessive (Hh or hh)",
+          "Homozygous dominant or heterozygous (HH or Hh)",
+          "Only HH (two dominant alleles)",
+          "Only hh (two recessive alleles)"
+        ],
+        "answer": 1,
+        "explanation": "One copy of a dominant allele is enough to show the characteristic, so HH and Hh both have the disease."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Two parents do not have cystic fibrosis, but their child does. The allele for cystic fibrosis is recessive (f). What are the parents' genotypes?",
+        "options": [
+          "Both Ff",
+          "Both FF (homozygous dominant)",
+          "One FF and one Ff",
+          "Both ff (affected)"
+        ],
+        "answer": 0,
+        "explanation": "The child must be ff, so each parent passed on an f allele. The parents are unaffected, so they must each carry a dominant F allele as well."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Two identical twins have the same genotype, but one is taller than the other. What is the best explanation?",
+        "options": [
+          "They have different genes",
+          "Their alleles are different",
+          "One has more chromosomes",
+          "The environment affects phenotype"
+        ],
+        "answer": 3,
+        "explanation": "Phenotype is determined by genotype and the environment, for example diet or illness during growth."
+      },
+      {
+        "difficulty": "hard",
+        "content": "A tall pea plant has a phenotype that does not show its genotype. Why?",
+        "options": [
+          "It could be TT or Tt",
+          "It must be TT (two dominant alleles)",
+          "It must be Tt (heterozygous)",
+          "It must be tt (two recessive alleles)"
+        ],
+        "answer": 0,
+        "explanation": "Both TT and Tt give a tall phenotype, so extra evidence from a cross is needed to find the genotype."
+      },
+      {
+        "difficulty": "hard",
+        "content": "In a double-stranded DNA molecule, 30% of the bases are adenine. What percentage of the bases are cytosine?",
+        "options": [
+          "40%",
+          "30%",
+          "20%",
+          "70%"
+        ],
+        "answer": 2,
+        "explanation": "A pairs with T, so T is also 30%. A + T = 60%, leaving 40% for C + G. C pairs with G, so cytosine is 20%."
+      }
+    ],
+    "note": "Inheritance is the passing of characteristics from parents to offspring. To understand how it works you need to know the meaning of several linked terms.\n\n## DNA, genes and chromosomes\n**DNA** is the molecule that carries genetic information. It has the shape of a double helix, two strands twisted around each other. The strands are joined by pairs of bases: adenine (A) always pairs with thymine (T), and cytosine (C) always pairs with guanine (G). A **gene** is a short section of DNA that codes for a particular protein, which helps to determine a characteristic. DNA is tightly coiled into structures called **chromosomes**, found in the nucleus. Human body cells have 46 chromosomes in 23 pairs. We get one chromosome of each pair from each parent. Gametes have 23 chromosomes, one from each pair.\n\n## Alleles\nGenes come in different versions called **alleles**. For example, the gene for height in pea plants has an allele for tall and an allele for dwarf. Because chromosomes come in pairs, a body cell has two alleles for each gene, one on each chromosome of the pair.\n- A **dominant allele** shows its effect even when there is only one copy. It is written with a capital letter, such as T.\n- A **recessive allele** only shows its effect when there are two copies. It is written with a lower-case letter, such as t.\n\n## Genotype and phenotype\nThe **genotype** is the combination of alleles an organism has, for example Tt. The **phenotype** is the characteristic that can be observed, for example tall. Phenotype is affected by genotype and also by the environment. For example, identical twins have the same genotype but can differ in height if one has a better diet.\n\n## Homozygous and heterozygous\n- **Homozygous**: two identical alleles (TT is homozygous dominant, tt is homozygous recessive).\n- **Heterozygous**: two different alleles (Tt).\n\nA heterozygous person who has a recessive allele for a disorder but does not show it is a **carrier**. For example, a person with the alleles Ff, where f is the cystic fibrosis allele, has no symptoms but can pass on the f allele.\n\n## Worked examples\n1. A pea plant with the genotype Tt has a tall phenotype. A tall plant could be TT or Tt, so its phenotype does not tell us its genotype.\n2. Two unaffected parents have a child with cystic fibrosis (ff). The child must have received an f from each parent, and as the parents are unaffected, both must be Ff.\n3. In a DNA molecule, 30% of bases are adenine. Thymine is 30% too (A pairs with T), so A + T = 60%. The remaining 40% is C + G, and C = G = 20%.\n\n## Common mistakes\n- Using \"gene\" and \"allele\" as if they mean the same. A gene is a section of DNA; an allele is a version of that gene.\n- Thinking dominant means more common. Dominant means expressed when present; some dominant disorders are rare.\n- Writing genotype in a question about phenotype.\n- Saying that gametes have 46 chromosomes. They have 23.\n\n## How this is examined\nYou may be asked to define the key terms, to read a genetic diagram, or to work out an unknown genotype from information about offspring. In Criterion A you should use the correct terms (genotype, phenotype, allele, dominant, recessive, homozygous, heterozygous) rather than general descriptions.\n\nExam tip: when you write alleles, choose a letter where the capital and lower-case forms look different, such as T and t, and state clearly what each allele stands for.",
+    "flashcards": [
+      {
+        "front": "Gene",
+        "back": "A section of DNA that codes for a protein, which helps determine a characteristic."
+      },
+      {
+        "front": "Allele",
+        "back": "A version of a gene. For example, the alleles for tall and dwarf in pea plants."
+      },
+      {
+        "front": "Chromosome",
+        "back": "A coiled structure of DNA in the nucleus. Human body cells have 46 (23 pairs)."
+      },
+      {
+        "front": "Dominant allele",
+        "back": "An allele that shows its effect even when only one copy is present. Written with a capital letter."
+      },
+      {
+        "front": "Recessive allele",
+        "back": "An allele that only shows its effect when two copies are present. Written with a lower-case letter."
+      },
+      {
+        "front": "Genotype vs phenotype",
+        "back": "Genotype is the combination of alleles (for example Tt). Phenotype is the observable characteristic (for example tall)."
+      },
+      {
+        "front": "Homozygous vs heterozygous",
+        "back": "Homozygous: two identical alleles (TT or tt). Heterozygous: two different alleles (Tt)."
+      },
+      {
+        "front": "Carrier",
+        "back": "A heterozygous person who has a recessive allele for a disorder but does not show the disorder."
+      },
+      {
+        "front": "Base pairing in DNA",
+        "back": "Adenine pairs with thymine (A-T). Cytosine pairs with guanine (C-G)."
+      }
+    ]
+  },
+  {
+    "subject": "biology",
+    "grade": 4,
+    "topic": "Reproduction and Inheritance",
+    "subTopic": "Monohybrid Crosses and Punnett Squares",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "content": "What is the probability that a baby is male?",
+        "options": [
+          "50%",
+          "25%",
+          "75%",
+          "100%"
+        ],
+        "answer": 0,
+        "explanation": "Half of sperm carry X and half carry Y, so the chance of a boy is about 50%."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Which sex chromosomes does a human male have?",
+        "options": [
+          "XO",
+          "XX",
+          "YY",
+          "XY"
+        ],
+        "answer": 3,
+        "explanation": "Males have one X and one Y chromosome. Females have two X chromosomes."
+      },
+      {
+        "difficulty": "easy",
+        "content": "What does a Punnett square show?",
+        "options": [
+          "The stages of a food chain",
+          "The order of bases in DNA",
+          "Possible allele combinations in offspring",
+          "The number of chromosomes in a cell"
+        ],
+        "answer": 2,
+        "explanation": "A Punnett square shows all the ways that the parent gametes can combine, and so the possible genotypes of offspring."
+      },
+      {
+        "difficulty": "easy",
+        "content": "In pea plants, TT is crossed with tt. What is the genotype of all the offspring?",
+        "options": [
+          "tt (all homozygous recessive)",
+          "TT (all homozygous dominant)",
+          "Tt",
+          "Half TT and half tt"
+        ],
+        "answer": 2,
+        "explanation": "Every offspring receives T from one parent and t from the other."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Which gametes can a parent with the genotype Tt produce?",
+        "options": [
+          "Only the dominant allele T",
+          "T and t",
+          "Only the recessive allele t",
+          "Tt together in each gamete"
+        ],
+        "answer": 1,
+        "explanation": "Gametes receive one allele from each pair, so half carry T and half carry t."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Two heterozygous pea plants (Tt × Tt) are crossed. What is the probability of a dwarf (tt) offspring?",
+        "options": [
+          "25%",
+          "50%",
+          "75%",
+          "100%"
+        ],
+        "answer": 0,
+        "explanation": "The offspring are TT, Tt, Tt and tt, so one out of four, or 25%, is tt."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Two heterozygous pea plants (Tt × Tt) are crossed. What is the expected ratio of tall to dwarf offspring?",
+        "options": [
+          "1 tall : 3 dwarf",
+          "1 tall : 1 dwarf",
+          "3 tall : 1 dwarf",
+          "All tall"
+        ],
+        "answer": 2,
+        "explanation": "TT, Tt and Tt are tall and tt is dwarf, giving 3 : 1."
+      },
+      {
+        "difficulty": "medium",
+        "content": "A cross Tt × tt is carried out. What is the expected ratio of tall to dwarf offspring?",
+        "options": [
+          "1 tall : 3 dwarf",
+          "3 tall : 1 dwarf",
+          "All tall",
+          "1 tall : 1 dwarf"
+        ],
+        "answer": 3,
+        "explanation": "Offspring are Tt, Tt, tt and tt, which is half tall and half dwarf."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Two carriers of cystic fibrosis (Ff × Ff) have a child. What is the probability that the child is a carrier?",
+        "options": [
+          "50%",
+          "25%",
+          "75%",
+          "100%"
+        ],
+        "answer": 0,
+        "explanation": "The offspring are FF, Ff, Ff and ff, so two out of four, or 50%, are carriers (Ff)."
+      },
+      {
+        "difficulty": "medium",
+        "content": "A couple who are both carriers (Ff) have a first child with cystic fibrosis. What is the probability that their second child also has it?",
+        "options": [
+          "12.5%",
+          "50%",
+          "25%",
+          "0%"
+        ],
+        "answer": 2,
+        "explanation": "Each fertilisation is an independent event, so the chance is 25% every time, regardless of earlier children."
+      },
+      {
+        "difficulty": "medium",
+        "content": "A cross between two Tt plants produces 1600 seeds. How many dwarf plants are expected?",
+        "options": [
+          "400",
+          "800",
+          "1200",
+          "100"
+        ],
+        "answer": 0,
+        "explanation": "One quarter are dwarf: 1600 × 0.25 = 400."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Which gamete determines the sex of a human baby?",
+        "options": [
+          "Placenta",
+          "Egg",
+          "Ovary",
+          "Sperm"
+        ],
+        "answer": 3,
+        "explanation": "All eggs carry an X chromosome, but sperm carry either X or Y, so the sperm determines the sex."
+      },
+      {
+        "difficulty": "medium",
+        "content": "A tall pea plant of unknown genotype is crossed with a dwarf plant (tt). Half of the offspring are dwarf. What is the genotype of the tall parent?",
+        "options": [
+          "Tt",
+          "TT (homozygous dominant)",
+          "tt (homozygous recessive)",
+          "It cannot be known"
+        ],
+        "answer": 0,
+        "explanation": "Dwarf offspring (tt) must have received a t from the tall parent, so it is Tt. If it were TT, all offspring would be tall."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Two unaffected parents have a daughter with a genetic disorder. What type of allele causes the disorder?",
+        "options": [
+          "Dominant",
+          "Recessive",
+          "An allele that only males carry",
+          "An allele caused by the environment"
+        ],
+        "answer": 1,
+        "explanation": "If the allele were dominant, one of the parents would have to have the disorder. The parents are unaffected carriers."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Two carriers of cystic fibrosis (Ff × Ff) have a child. What is the probability that the child does not have the disorder?",
+        "options": [
+          "100%",
+          "25%",
+          "50%",
+          "75%"
+        ],
+        "answer": 3,
+        "explanation": "Only ff is affected. FF, Ff and Ff are unaffected, which is three out of four, or 75%."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Both parents are Ff. What is the probability that two children are both ff?",
+        "options": [
+          "12.5%",
+          "6.25%",
+          "25%",
+          "50%"
+        ],
+        "answer": 1,
+        "explanation": "Each child has a probability of 0.25. The probability of both is 0.25 × 0.25 = 0.0625, or 6.25%."
+      },
+      {
+        "difficulty": "hard",
+        "content": "A father has Huntington's disease (Hh, where H is dominant). The mother does not have it (hh). What is the probability that a child has the disease?",
+        "options": [
+          "25%",
+          "50%",
+          "75%",
+          "100%"
+        ],
+        "answer": 1,
+        "explanation": "The cross Hh × hh gives Hh, Hh, hh and hh, so half of the children inherit the dominant allele."
+      },
+      {
+        "difficulty": "hard",
+        "content": "A cross between two pea plants gives 62 tall and 18 dwarf offspring. Which parental genotypes best explain this result?",
+        "options": [
+          "Homozygous dominant and homozygous recessive (TT × tt)",
+          "Both heterozygous (Tt × Tt)",
+          "Heterozygous and homozygous recessive (Tt × tt)",
+          "Homozygous dominant and heterozygous (TT × Tt)"
+        ],
+        "answer": 1,
+        "explanation": "The ratio of 62 : 18 is close to 3 : 1, which is expected from Tt × Tt. A Tt × tt cross would give about 1 : 1."
+      }
+    ],
+    "note": "A monohybrid cross follows the inheritance of a single gene with two alleles. A Punnett square is a diagram used to predict the genotypes and phenotypes of offspring.\n\n## Steps to complete a Punnett square\n1. Choose letters for the alleles. Use the capital letter for the dominant allele, for example T for tall and t for dwarf.\n2. Write the genotypes of the parents, for example Tt × Tt.\n3. Write the possible gametes of each parent. A gamete only carries one allele of each gene. Tt produces gametes T and t.\n4. Draw a grid. Put one parent's gametes along the top and the other parent's down the side.\n5. Fill in each box by combining the alleles from the row and the column.\n6. Count the genotypes and phenotypes. Give the ratio or probability, and state that this is only what is expected.\n\n## Worked example 1: Tt × Tt\nThe four boxes are TT, Tt, Tt and tt. The genotype ratio is 1 TT : 2 Tt : 1 tt. Three of the four are tall, so the phenotype ratio is 3 tall : 1 dwarf. The probability of a dwarf plant is 1 in 4, or 25%. If 1600 seeds are planted, we expect 400 dwarf plants (1600 × 0.25).\n\n## Worked example 2: Tt × tt\nThe boxes are Tt, Tt, tt and tt. Half the offspring are tall and half are dwarf, a ratio of 1 : 1. This cross can be used as a **test cross**: if a tall plant of unknown genotype is crossed with a dwarf (tt) plant, any dwarf offspring show that the tall parent is Tt, and if all offspring are tall the parent is probably TT.\n\n## Sex determination\nHuman females have two X chromosomes (XX) and males have X and Y (XY). All eggs carry an X. Sperm carry X or Y. A Punnett square for XX × XY gives XX, XX, XY and XY, so the chance of a boy or a girl is 50%.\n\n## Inherited disorders\nCystic fibrosis is caused by a recessive allele (f). Two carriers (Ff × Ff) have a 25% chance of an affected child (ff), a 50% chance of a carrier (Ff) and a 25% chance of a child with two normal alleles (FF). So 75% are unaffected. Huntington's disease is caused by a dominant allele (H). A person with Hh has the disease.\n\n## Probability reminders\nEach fertilisation is independent. If the first child has cystic fibrosis, the chance for the second child is still 25%. The ratios are expected, not guaranteed, because fertilisation is random. In a small sample, you might get different numbers. The larger the sample, the closer the results are to the expected ratio. For two independent events, multiply: the probability of two affected children is 0.25 × 0.25 = 0.0625, or 6.25%.\n\n## Common mistakes\n- Writing a gamete with two alleles of the same gene, such as Tt. A gamete has one allele.\n- Giving the genotype ratio when asked for the phenotype ratio.\n- Saying that after one affected child \"the next three will be healthy\". Each child has the same probability.\n- Forgetting a key that explains the letters used.\n\n## How this is examined\nExpect a pedigree chart or a short scenario, such as an inherited disorder in a family, and a Punnett square to complete. Criterion D tasks may ask you to discuss the ethical issues of genetic testing for inherited disorders.\n\nExam tip: always show the gametes, draw the square, and state both the genotype and the phenotype results as a ratio or probability.",
+    "flashcards": [
+      {
+        "front": "Monohybrid cross",
+        "back": "A cross that follows the inheritance of one gene with two alleles."
+      },
+      {
+        "front": "Tt × Tt results",
+        "back": "Genotypes 1 TT : 2 Tt : 1 tt. Phenotypes 3 dominant : 1 recessive. 25% chance of tt."
+      },
+      {
+        "front": "Tt × tt results",
+        "back": "Genotypes 1 Tt : 1 tt. Phenotypes 1 dominant : 1 recessive."
+      },
+      {
+        "front": "Steps to make a Punnett square",
+        "back": "Choose letters, write parent genotypes, write gametes, draw the grid, fill in the boxes, then give ratios or probabilities."
+      },
+      {
+        "front": "Human sex chromosomes",
+        "back": "Females are XX, males are XY. Sperm decide the sex, so there is a 50% chance of a boy or a girl."
+      },
+      {
+        "front": "Test cross",
+        "back": "Cross an organism of unknown dominant phenotype with a homozygous recessive one. Any recessive offspring show the parent was heterozygous."
+      },
+      {
+        "front": "Carrier × carrier (Ff × Ff)",
+        "back": "25% affected (ff), 50% carriers (Ff), 25% homozygous normal (FF). 75% are unaffected."
+      },
+      {
+        "front": "Are children's probabilities independent?",
+        "back": "Yes. Each fertilisation is a separate event, so the chance is the same for every child."
+      },
+      {
+        "front": "Cystic fibrosis vs Huntington's",
+        "back": "Cystic fibrosis is caused by a recessive allele (needs ff). Huntington's disease is caused by a dominant allele (HH or Hh)."
+      }
+    ]
+  }
+]

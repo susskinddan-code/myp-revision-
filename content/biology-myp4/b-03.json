@@ -1,0 +1,791 @@
+[
+  {
+    "subject": "biology",
+    "grade": 4,
+    "topic": "Coordination, Response and Homeostasis",
+    "subTopic": "Neurones, Reflex Arcs and Responses",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "content": "What is a change in the environment that is detected by a receptor called?",
+        "options": [
+          "Hormone",
+          "Response",
+          "Effector",
+          "Stimulus"
+        ],
+        "answer": 3,
+        "explanation": "A stimulus is any change in the environment, such as light, heat or pressure, that a receptor can detect."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Which two organs make up the central nervous system?",
+        "options": [
+          "Brain and spinal cord",
+          "Brain and heart",
+          "Spinal cord and muscles",
+          "Nerves and receptors"
+        ],
+        "answer": 0,
+        "explanation": "The central nervous system (CNS) is the brain and spinal cord. Nerves outside the CNS make up the peripheral system."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Which type of neurone carries impulses from receptors to the central nervous system?",
+        "options": [
+          "Sensory neurone",
+          "Motor neurone",
+          "Relay neurone",
+          "Synapse"
+        ],
+        "answer": 0,
+        "explanation": "Sensory neurones take information from receptors into the CNS."
+      },
+      {
+        "difficulty": "easy",
+        "content": "What is the name of the tiny gap between two neurones?",
+        "options": [
+          "Nucleus",
+          "Axon",
+          "Myelin sheath",
+          "Synapse"
+        ],
+        "answer": 3,
+        "explanation": "At a synapse, chemicals called neurotransmitters carry the signal across the gap."
+      },
+      {
+        "difficulty": "easy",
+        "content": "What name is given to a fast, automatic response that does not involve conscious thought?",
+        "options": [
+          "Voluntary action",
+          "Reflex",
+          "Hormone response",
+          "Growth"
+        ],
+        "answer": 1,
+        "explanation": "A reflex is automatic and protects the body, for example pulling a hand from a hot object."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Muscles and glands that carry out a response are called what?",
+        "options": [
+          "Receptors",
+          "Effectors",
+          "Coordinators",
+          "Stimuli"
+        ],
+        "answer": 1,
+        "explanation": "Effectors respond to nerve impulses: muscles contract and glands release substances."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Which type of neurone carries impulses from the central nervous system to an effector?",
+        "options": [
+          "Relay neurone",
+          "Sensory neurone",
+          "Motor neurone",
+          "Receptor neurone"
+        ],
+        "answer": 2,
+        "explanation": "Motor neurones carry instructions from the CNS to muscles or glands."
+      },
+      {
+        "difficulty": "medium",
+        "content": "How does a nerve impulse cross a synapse?",
+        "options": [
+          "By chemicals diffusing across the gap",
+          "By electric sparks jumping the gap",
+          "By hormones in the blood",
+          "By osmosis of water"
+        ],
+        "answer": 0,
+        "explanation": "The first neurone releases neurotransmitter, which diffuses across the gap and triggers an impulse in the next neurone."
+      },
+      {
+        "difficulty": "medium",
+        "content": "What name is given to the fatty layer that insulates some axons and speeds up impulses?",
+        "options": [
+          "Nucleus",
+          "Cell membrane",
+          "Synapse",
+          "Myelin sheath"
+        ],
+        "answer": 3,
+        "explanation": "The myelin sheath insulates the axon, so impulses travel much faster along it."
+      },
+      {
+        "difficulty": "medium",
+        "content": "What happens to the pupil of the eye in bright light?",
+        "options": [
+          "It becomes flat",
+          "It gets larger",
+          "It changes colour",
+          "It gets smaller"
+        ],
+        "answer": 3,
+        "explanation": "The pupil constricts to reduce the amount of light entering, which protects the retina."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Which part of the eye contains the light-sensitive receptor cells?",
+        "options": [
+          "Cornea",
+          "Retina",
+          "Lens",
+          "Iris"
+        ],
+        "answer": 1,
+        "explanation": "The retina contains rod and cone cells that detect light."
+      },
+      {
+        "difficulty": "medium",
+        "content": "In a ruler-drop test, a student catches the ruler after it falls 14 cm, 16 cm and 15 cm. What is the mean distance in cm?",
+        "options": [
+          "15",
+          "45",
+          "14.5",
+          "16"
+        ],
+        "answer": 0,
+        "explanation": "(14 + 16 + 15) ÷ 3 = 45 ÷ 3 = 15 cm. A shorter distance means a faster reaction."
+      },
+      {
+        "difficulty": "medium",
+        "content": "In a withdrawal reflex, which neurone is located inside the spinal cord?",
+        "options": [
+          "Motor neurone",
+          "Sensory neurone",
+          "Relay neurone",
+          "Receptor neurone"
+        ],
+        "answer": 2,
+        "explanation": "The relay neurone connects the sensory neurone to the motor neurone inside the spinal cord."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Why is a reflex response faster than a voluntary response?",
+        "options": [
+          "It avoids the conscious part of the brain",
+          "Impulses travel faster in reflex neurones",
+          "It uses hormones",
+          "It has more synapses"
+        ],
+        "answer": 0,
+        "explanation": "In a reflex, the impulse goes through the spinal cord without waiting for decisions in the brain, so fewer synapses are involved and the response is quicker."
+      },
+      {
+        "difficulty": "hard",
+        "content": "In a reflex arc, which structure comes directly after the relay neurone?",
+        "options": [
+          "Sensory neurone",
+          "Motor neurone",
+          "Receptor",
+          "Stimulus"
+        ],
+        "answer": 1,
+        "explanation": "The order is stimulus, receptor, sensory neurone, relay neurone, motor neurone, effector, response."
+      },
+      {
+        "difficulty": "hard",
+        "content": "In dim light the pupil gets bigger. Which muscles of the iris contract to cause this?",
+        "options": [
+          "Ciliary muscles",
+          "Circular muscles",
+          "Radial muscles",
+          "Cardiac muscles"
+        ],
+        "answer": 2,
+        "explanation": "Radial muscles pull the iris outwards and make the pupil larger. In bright light the circular muscles contract and make it smaller."
+      },
+      {
+        "difficulty": "hard",
+        "content": "An impulse travels 1.2 m along a nerve at 60 m/s. How long does it take in seconds?",
+        "options": [
+          "50",
+          "0.02",
+          "72",
+          "0.2"
+        ],
+        "answer": 1,
+        "explanation": "time = distance ÷ speed = 1.2 ÷ 60 = 0.02 s."
+      },
+      {
+        "difficulty": "hard",
+        "content": "After an accident, a person's motor neurones to the hand are cut but the sensory neurones are fine. What is the result?",
+        "options": [
+          "They can neither feel nor move it",
+          "They can move the hand but cannot feel it",
+          "They can feel the hand but cannot move it",
+          "Their reflexes become faster"
+        ],
+        "answer": 2,
+        "explanation": "Sensory neurones still carry impulses to the CNS, but without motor neurones the instruction to move cannot reach the muscles."
+      }
+    ],
+    "note": "Living things must detect changes in their surroundings and respond to them. In humans, this coordination is done by the nervous system. Its job is to send electrical impulses quickly from where a change is detected to where a response is needed.\n\n## Key terms\n- **Stimulus**: a change in the environment, such as light, sound, temperature or pressure.\n- **Receptor**: a cell or organ that detects a stimulus, for example the retina in the eye.\n- **Coordinator**: the central nervous system (CNS), made of the brain and the spinal cord. It processes information and decides on a response.\n- **Effector**: a muscle or gland that carries out the response.\n- **Response**: the action that results, such as muscle contraction or release of a substance.\n\n## Neurones\nA neurone, or nerve cell, is a long specialised cell that carries electrical impulses. There are three types.\n- **Sensory neurones** carry impulses from receptors to the CNS.\n- **Relay neurones** are in the CNS and connect sensory neurones to motor neurones.\n- **Motor neurones** carry impulses from the CNS to effectors.\n\nA neurone has a cell body, a long axon, and branched endings. Many axons are surrounded by a fatty myelin sheath that insulates the axon and speeds up the impulse. Two neurones do not touch. There is a tiny gap between them called a **synapse**. When an impulse reaches the end of one neurone it releases chemicals called neurotransmitters, which diffuse across the gap and start a new impulse in the next neurone. Synapses make sure that impulses only travel in one direction.\n\n## The reflex arc\nA reflex is a fast, automatic response. The path taken is the reflex arc: stimulus, receptor, sensory neurone, relay neurone (in the spinal cord), motor neurone, effector, response. For example, if you touch something hot, pain receptors in the skin send an impulse along a sensory neurone to the spinal cord. The relay neurone passes the impulse to a motor neurone, and the muscle in the arm contracts so the hand pulls away. The brain is informed afterwards. Reflexes are quick because the path is short with few synapses, and conscious decisions are not needed.\n\n## Reflexes in the eye\nThe iris controls how much light enters the pupil. In bright light, circular muscles contract and the pupil becomes smaller, which protects the retina. In dim light, radial muscles contract and the pupil becomes larger, so more light can enter.\n\n## Worked example\nA ruler-drop test measures reaction time. Three drops give 14 cm, 16 cm and 15 cm. Mean = (14 + 16 + 15) ÷ 3 = 15 cm. A smaller mean distance means a faster reaction. Speed example: an impulse travels 1.2 m at 60 m/s, so time = 1.2 ÷ 60 = 0.02 s.\n\n## Common mistakes\n- Saying that the brain is involved in every reflex. A reflex is processed in the spinal cord.\n- Mixing up the two neurones: sensory goes into the CNS, motor goes out of it.\n- Describing a synapse as a physical joining of two neurones. There is a gap.\n- Saying the pupil gets bigger in bright light.\n\n## How this is examined\nQuestions often label a reflex arc and ask you to name each part, or ask you to explain why reflexes are important. Criterion B may ask you to plan a fair-test investigation of reaction time, naming the independent variable, dependent variable and controlled variables, and repeating readings to find a mean.\n\nExam tip: when you describe a reflex arc, give the parts in order using the exact words stimulus, receptor, sensory neurone, relay neurone, motor neurone, effector, response.",
+    "flashcards": [
+      {
+        "front": "Reflex arc pathway",
+        "back": "Stimulus, receptor, sensory neurone, relay neurone, motor neurone, effector, response."
+      },
+      {
+        "front": "Sensory neurone",
+        "back": "Carries impulses from receptors to the central nervous system."
+      },
+      {
+        "front": "Motor neurone",
+        "back": "Carries impulses from the central nervous system to effectors (muscles or glands)."
+      },
+      {
+        "front": "Synapse",
+        "back": "A tiny gap between two neurones. Neurotransmitter chemicals diffuse across it and start a new impulse."
+      },
+      {
+        "front": "Central nervous system",
+        "back": "The brain and the spinal cord."
+      },
+      {
+        "front": "Effector",
+        "back": "A muscle or gland that carries out a response."
+      },
+      {
+        "front": "Why are reflexes important?",
+        "back": "They are fast and automatic, so they protect the body from harm before the brain has time to decide."
+      },
+      {
+        "front": "Pupil in bright light",
+        "back": "Circular muscles contract and the pupil gets smaller to protect the retina."
+      },
+      {
+        "front": "Function of the myelin sheath",
+        "back": "A fatty layer that insulates the axon and makes impulses travel faster."
+      }
+    ]
+  },
+  {
+    "subject": "biology",
+    "grade": 4,
+    "topic": "Coordination, Response and Homeostasis",
+    "subTopic": "Hormones and Blood Glucose Control",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "content": "Which organ makes the hormone insulin?",
+        "options": [
+          "Thyroid",
+          "Liver",
+          "Kidney",
+          "Pancreas"
+        ],
+        "answer": 3,
+        "explanation": "Insulin is made by cells in the pancreas and released into the blood."
+      },
+      {
+        "difficulty": "easy",
+        "content": "What do hormones travel in?",
+        "options": [
+          "Urine",
+          "Neurones",
+          "Bile",
+          "Blood"
+        ],
+        "answer": 3,
+        "explanation": "Hormones are chemical messengers released by glands straight into the blood, which carries them to target organs."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Which hormone is released in a frightening situation to prepare the body for action?",
+        "options": [
+          "Adrenaline",
+          "Insulin",
+          "Oestrogen",
+          "Thyroxine"
+        ],
+        "answer": 0,
+        "explanation": "Adrenaline increases heart rate and releases glucose so that the body is ready to fight or run away."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Which sugar in the blood has its level controlled by insulin and glucagon?",
+        "options": [
+          "Lactose",
+          "Sucrose",
+          "Glucose",
+          "Maltose"
+        ],
+        "answer": 2,
+        "explanation": "Insulin and glucagon keep the level of blood glucose within narrow limits."
+      },
+      {
+        "difficulty": "easy",
+        "content": "What name is given to a gland that releases hormones directly into the blood?",
+        "options": [
+          "Endocrine gland",
+          "Sweat gland",
+          "Salivary gland",
+          "Tear gland"
+        ],
+        "answer": 0,
+        "explanation": "Endocrine glands are ductless and release hormones straight into the bloodstream."
+      },
+      {
+        "difficulty": "medium",
+        "content": "In which organ is glucose converted to glycogen when insulin is released?",
+        "options": [
+          "Stomach",
+          "Pancreas",
+          "Kidney",
+          "Liver"
+        ],
+        "answer": 3,
+        "explanation": "Insulin causes the liver (and muscles) to take up glucose and store it as glycogen, which lowers blood glucose."
+      },
+      {
+        "difficulty": "medium",
+        "content": "What does glucagon cause the liver to do?",
+        "options": [
+          "Make more insulin",
+          "Release glucose from glycogen",
+          "Store glucose as glycogen",
+          "Make urea from glucose"
+        ],
+        "answer": 1,
+        "explanation": "Glucagon is released when blood glucose is low. It causes glycogen to be broken down to glucose."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Compared with nervous responses, hormone responses are usually what?",
+        "options": [
+          "Faster and longer lasting",
+          "Faster and shorter",
+          "Slower and longer lasting",
+          "Slower and shorter"
+        ],
+        "answer": 2,
+        "explanation": "Hormones travel in the blood, which takes longer than an electrical impulse, but their effects last for longer."
+      },
+      {
+        "difficulty": "medium",
+        "content": "A person's pancreas does not make enough insulin. What condition is this?",
+        "options": [
+          "Scurvy",
+          "Anaemia",
+          "Asthma",
+          "Diabetes"
+        ],
+        "answer": 3,
+        "explanation": "Without insulin, blood glucose rises too high. This is called type 1 diabetes."
+      },
+      {
+        "difficulty": "medium",
+        "content": "How is type 1 diabetes usually treated?",
+        "options": [
+          "Eating more sugar",
+          "Antibiotics",
+          "Insulin injections",
+          "Dialysis"
+        ],
+        "answer": 2,
+        "explanation": "People with type 1 diabetes inject insulin and monitor their diet and blood glucose."
+      },
+      {
+        "difficulty": "medium",
+        "content": "After a sugary meal blood glucose rises. Which hormone is released into the blood?",
+        "options": [
+          "Insulin",
+          "Glucagon",
+          "Adrenaline",
+          "Thyroxine"
+        ],
+        "answer": 0,
+        "explanation": "Insulin is released when blood glucose is high and lowers it again."
+      },
+      {
+        "difficulty": "medium",
+        "content": "What effect does adrenaline have on the heart?",
+        "options": [
+          "Stops the heart",
+          "Decreases heart rate",
+          "Increases heart rate",
+          "No effect"
+        ],
+        "answer": 2,
+        "explanation": "Adrenaline makes the heart beat faster, so more oxygen and glucose are delivered to the muscles."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Which gland in the neck makes thyroxine, which controls metabolic rate?",
+        "options": [
+          "Pituitary",
+          "Thyroid",
+          "Adrenal",
+          "Pancreas"
+        ],
+        "answer": 1,
+        "explanation": "Thyroxine from the thyroid gland controls how fast the body uses energy."
+      },
+      {
+        "difficulty": "hard",
+        "content": "A glucose tolerance test records blood glucose at 5.0 mmol/dm³ before a sugary drink, 9.5 after one hour and 8.8 after three hours. A healthy person returns to about 5.0. What does this suggest about the tested person?",
+        "options": [
+          "They are healthy",
+          "They may have diabetes",
+          "They have too much glucagon",
+          "They have low blood sugar"
+        ],
+        "answer": 1,
+        "explanation": "Their blood glucose stays high, so insulin is not working effectively. A doctor would run more tests."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Why is insulin injected rather than taken as a tablet?",
+        "options": [
+          "Enzymes in the gut would digest it",
+          "It is too small to be absorbed",
+          "It only works in muscles",
+          "It is absorbed too slowly"
+        ],
+        "answer": 0,
+        "explanation": "Insulin is a protein, so protease enzymes in the stomach and small intestine would break it down before it reached the blood."
+      },
+      {
+        "difficulty": "hard",
+        "content": "What name is given to a control system in which a change triggers a response that reverses the change?",
+        "options": [
+          "Positive feedback",
+          "Negative feedback",
+          "Reflex action",
+          "Osmosis"
+        ],
+        "answer": 1,
+        "explanation": "In blood glucose control a rise causes insulin release, which lowers glucose again. This reverses the change."
+      },
+      {
+        "difficulty": "hard",
+        "content": "In type 2 diabetes the blood contains plenty of insulin, but blood glucose is still high. What is the best explanation?",
+        "options": [
+          "The pancreas has been removed",
+          "Body cells respond poorly to insulin",
+          "Insulin is destroyed by phagocytes",
+          "Glucagon blocks the kidneys"
+        ],
+        "answer": 1,
+        "explanation": "In type 2 diabetes, target cells have a reduced response to insulin. It is linked to diet, obesity and lack of exercise."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Blood glucose readings are 4.8 mmol/dm³ before a meal and 8.9 at the peak. What is the percentage increase, to the nearest whole number?",
+        "options": [
+          "85%",
+          "46%",
+          "4.1%",
+          "185%"
+        ],
+        "answer": 0,
+        "explanation": "Increase = 8.9 − 4.8 = 4.1. Percentage increase = 4.1 ÷ 4.8 × 100 = 85%."
+      }
+    ],
+    "note": "Hormones are chemical messengers that coordinate processes in the body. They are made in endocrine glands, released directly into the blood and travel round the body. Each hormone affects only particular target organs, which have receptors for it.\n\n## Nervous and hormonal systems compared\n- Nervous system: electrical impulses along neurones, very fast, short-lived effects, usually affects one precise place.\n- Hormonal system: chemicals in the blood, slower, longer-lasting effects, can affect more than one organ.\n\n## Main endocrine glands\n- **Pituitary gland** (brain): makes many hormones that control other glands, and ADH, which controls water balance.\n- **Thyroid** (neck): makes thyroxine, which controls metabolic rate.\n- **Pancreas**: makes insulin and glucagon.\n- **Adrenal glands** (above the kidneys): make adrenaline.\n- **Ovaries** make oestrogen and **testes** make testosterone.\n\n## Adrenaline\nAdrenaline is released in stressful situations. It speeds the heart rate, widens the pupils, increases breathing rate and causes the liver to release glucose. This prepares the body for \"fight or flight\".\n\n## Controlling blood glucose\nThe level of glucose in the blood must stay within narrow limits so cells get enough energy and cells do not lose or gain too much water. The pancreas monitors the level.\n- **Blood glucose too high** (after a meal): the pancreas releases **insulin**. Insulin makes the liver and muscles take up glucose and store it as **glycogen**, and also makes cells use more glucose. Blood glucose falls.\n- **Blood glucose too low** (between meals or after exercise): the pancreas releases **glucagon**. This makes the liver break glycogen down into glucose, which enters the blood. Blood glucose rises.\n\nThis is a **negative feedback** system because the response reverses the original change.\n\n## Diabetes\n- **Type 1**: the pancreas does not make enough insulin. It is treated by injecting insulin, planning meals and monitoring blood glucose.\n- **Type 2**: body cells respond poorly to insulin. It is linked to obesity and an unhealthy diet, and is controlled by a diet low in sugar, exercise and sometimes drugs.\n\n## Worked example\nA glucose tolerance test records 4.8 mmol/dm³ before a drink and 8.9 at the peak. Increase = 8.9 − 4.8 = 4.1. Percentage increase = 4.1 ÷ 4.8 × 100 = 85%. A healthy person would return to around 4.8 within a couple of hours, so a person whose level stays high may have diabetes.\n\n## Common mistakes\n- Mixing up insulin (lowers glucose) with glucagon (raises glucose).\n- Mixing up glucose (a sugar), glycogen (the storage carbohydrate) and glucagon (a hormone).\n- Saying insulin is made in the liver. It is made in the pancreas.\n- Forgetting to say that hormones are carried in the blood.\n\n## How this is examined\nYou may be given a graph of blood glucose and insulin after a meal and asked to describe and explain the pattern, or a table of readings for a person with and without diabetes. Criterion D questions may ask you to discuss the impact of diet on type 2 diabetes in a population.\n\nExam tip: in graph questions, quote values from the graph with units, describe the trend, and then explain it using the hormone names.",
+    "flashcards": [
+      {
+        "front": "Hormone",
+        "back": "A chemical messenger made by an endocrine gland, carried in the blood to target organs."
+      },
+      {
+        "front": "Nerves vs hormones",
+        "back": "Nerves are fast and short-lived. Hormones are slower but longer lasting."
+      },
+      {
+        "front": "Insulin",
+        "back": "Made by the pancreas when blood glucose is high. It makes the liver and muscles store glucose as glycogen, so blood glucose falls."
+      },
+      {
+        "front": "Glucagon",
+        "back": "Made by the pancreas when blood glucose is low. It makes the liver break glycogen down into glucose, so blood glucose rises."
+      },
+      {
+        "front": "Negative feedback",
+        "back": "A change causes a response that reverses the change and returns the level to normal."
+      },
+      {
+        "front": "Adrenaline",
+        "back": "Released by the adrenal glands in danger. It increases heart rate and releases glucose for fight or flight."
+      },
+      {
+        "front": "Type 1 diabetes",
+        "back": "The pancreas makes too little insulin. Treated by insulin injections, diet and monitoring."
+      },
+      {
+        "front": "Type 2 diabetes",
+        "back": "Body cells respond poorly to insulin. Linked to diet and obesity and controlled with diet and exercise."
+      },
+      {
+        "front": "Thyroxine",
+        "back": "Made by the thyroid gland in the neck. It controls metabolic rate."
+      }
+    ]
+  },
+  {
+    "subject": "biology",
+    "grade": 4,
+    "topic": "Coordination, Response and Homeostasis",
+    "subTopic": "Temperature Regulation and Feedback",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "content": "What is the normal human core body temperature?",
+        "options": [
+          "40°C",
+          "30°C",
+          "37°C",
+          "25°C"
+        ],
+        "answer": 2,
+        "explanation": "Core body temperature is kept close to 37°C, the best temperature for enzymes in the body."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Which part of the brain monitors and controls body temperature?",
+        "options": [
+          "Cerebellum",
+          "Hypothalamus",
+          "Medulla",
+          "Retina"
+        ],
+        "answer": 1,
+        "explanation": "The hypothalamus contains receptors that monitor the temperature of the blood and receives information from receptors in the skin."
+      },
+      {
+        "difficulty": "easy",
+        "content": "What is the term for keeping a constant internal environment?",
+        "options": [
+          "Osmosis",
+          "Excretion",
+          "Respiration",
+          "Homeostasis"
+        ],
+        "answer": 3,
+        "explanation": "Homeostasis is the maintenance of constant internal conditions such as temperature, water and glucose."
+      },
+      {
+        "difficulty": "easy",
+        "content": "What do we produce on the skin that cools us as it evaporates?",
+        "options": [
+          "Bile",
+          "Mucus",
+          "Sweat",
+          "Urine"
+        ],
+        "answer": 2,
+        "explanation": "Sweat is mostly water and needs heat to evaporate. This takes heat from the skin."
+      },
+      {
+        "difficulty": "easy",
+        "content": "What name is given to the involuntary muscle shaking that releases heat in the cold?",
+        "options": [
+          "Sweating",
+          "Peristalsis",
+          "Shivering",
+          "Ventilation"
+        ],
+        "answer": 2,
+        "explanation": "Shivering makes the muscles respire faster, which releases heat energy."
+      },
+      {
+        "difficulty": "medium",
+        "content": "When the body is too hot, what happens to the arterioles in the skin?",
+        "options": [
+          "They disappear",
+          "They narrow",
+          "They close",
+          "They widen"
+        ],
+        "answer": 3,
+        "explanation": "Vasodilation lets more warm blood flow near the skin surface, so more heat is lost by radiation."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Why does sweating cool the body?",
+        "options": [
+          "Sweat is colder than the body",
+          "Heat is needed to evaporate the sweat",
+          "Sweat reflects radiation",
+          "Sweat blocks the pores"
+        ],
+        "answer": 1,
+        "explanation": "Evaporation requires energy, which is taken from the skin and the blood flowing near it."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Why does shivering warm the body?",
+        "options": [
+          "Muscle respiration releases heat",
+          "Muscles absorb heat",
+          "It stops blood flow",
+          "It makes sweat"
+        ],
+        "answer": 0,
+        "explanation": "Rapid contractions need energy, and some of the energy released by respiration appears as heat."
+      },
+      {
+        "difficulty": "medium",
+        "content": "In cold conditions the arterioles in the skin narrow. What is this process called?",
+        "options": [
+          "Vasoconstriction",
+          "Vasodilation",
+          "Osmosis",
+          "Egestion"
+        ],
+        "answer": 0,
+        "explanation": "Vasoconstriction reduces blood flow near the skin surface, which reduces heat loss."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Which type of receptor in the skin detects temperature changes?",
+        "options": [
+          "Thermoreceptors",
+          "Photoreceptors",
+          "Chemoreceptors",
+          "Pressure receptors"
+        ],
+        "answer": 0,
+        "explanation": "Thermoreceptors in the skin detect heat and cold, and send impulses to the brain."
+      },
+      {
+        "difficulty": "medium",
+        "content": "A runner's core temperature rises from 37.0°C to 38.4°C during a race. By how many °C does it rise?",
+        "options": [
+          "0.4",
+          "1.4",
+          "2.4",
+          "38.4"
+        ],
+        "answer": 1,
+        "explanation": "38.4 − 37.0 = 1.4°C."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Which hormone, released from the pituitary gland, causes the kidneys to reabsorb more water?",
+        "options": [
+          "ADH",
+          "Insulin",
+          "Glucagon",
+          "Thyroxine"
+        ],
+        "answer": 0,
+        "explanation": "ADH is released when the blood is too concentrated. It makes the kidneys reabsorb more water, so less is lost in urine."
+      },
+      {
+        "difficulty": "medium",
+        "content": "What are mammals that produce their own body heat called?",
+        "options": [
+          "Producers",
+          "Ectotherms",
+          "Herbivores",
+          "Endotherms"
+        ],
+        "answer": 3,
+        "explanation": "Endotherms keep a stable temperature by internal heat production, unlike ectotherms, which rely on external heat."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Why is body temperature control an example of negative feedback?",
+        "options": [
+          "The response increases the change",
+          "The response reverses the change",
+          "The change is ignored",
+          "It uses no nerves or hormones"
+        ],
+        "answer": 1,
+        "explanation": "If temperature rises, the response (sweating, vasodilation) cools the body, which reverses the change."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Which skin vessels widen and narrow to control heat loss?",
+        "options": [
+          "Capillaries",
+          "Arterioles",
+          "Veins",
+          "Venules"
+        ],
+        "answer": 1,
+        "explanation": "Arterioles have muscle in their walls and can widen or narrow. Capillaries have no muscle and cannot move. A common mistake is to say that capillaries move closer to the skin."
+      },
+      {
+        "difficulty": "hard",
+        "content": "In a cold room, which set of responses helps the body to conserve heat?",
+        "options": [
+          "Shivering, vasodilation, more sweating",
+          "Sweating, vasodilation, no shivering",
+          "Shivering, vasoconstriction, less sweating",
+          "No shivering, vasoconstriction, more sweating"
+        ],
+        "answer": 2,
+        "explanation": "Shivering produces heat, vasoconstriction reduces heat loss from skin, and less sweating reduces cooling."
+      },
+      {
+        "difficulty": "hard",
+        "content": "A person is dehydrated and the blood becomes more concentrated. What change is expected in their urine?",
+        "options": [
+          "Urine that contains glucose",
+          "More urine that is more dilute",
+          "No change",
+          "Less urine that is more concentrated"
+        ],
+        "answer": 3,
+        "explanation": "More ADH is released, so the kidneys reabsorb more water. Urine is smaller in volume and darker."
+      },
+      {
+        "difficulty": "hard",
+        "content": "A student places a hand in water at 10°C, 20°C, 30°C and 40°C and records skin temperature after 2 minutes. What is the independent variable?",
+        "options": [
+          "Water temperature",
+          "Skin temperature",
+          "Time in water",
+          "Size of the hand"
+        ],
+        "answer": 0,
+        "explanation": "The independent variable is the one the student changes on purpose, which is the water temperature. The skin temperature is the dependent variable."
+      }
+    ],
+    "note": "Humans keep their internal conditions steady, even when the world outside changes. This is **homeostasis**. Examples include body temperature, blood glucose and water content. Enzymes work best at around 37°C, so the body keeps its core temperature near this value. If it gets too hot, enzymes can be damaged. If it gets too cold, reactions slow down.\n\n## How temperature is controlled\nThe **hypothalamus** in the brain acts as the control centre. It contains receptors that monitor the temperature of the blood passing through it. Thermoreceptors in the skin also detect the temperature outside and send impulses to the hypothalamus. The hypothalamus then sends impulses to effectors such as the sweat glands, muscles and the blood vessels in the skin.\n\n## When the body is too hot\n- **Sweating**: sweat glands release sweat onto the skin. When it evaporates it takes heat energy from the skin, which cools the body.\n- **Vasodilation**: the arterioles that supply the skin capillaries widen, so more blood flows near the surface and more heat is lost by radiation.\n- Less shivering and muscle activity.\n\n## When the body is too cold\n- **Vasoconstriction**: the arterioles narrow, so less blood flows near the surface and less heat is lost.\n- **Shivering**: muscles contract rapidly. Respiration in the muscles releases heat.\n- Sweating stops. Hair erector muscles raise the hairs, which traps a layer of air, though this is not very effective in humans.\n\n## Negative feedback\nTemperature control is an example of **negative feedback**: a change away from the normal level causes a response that reverses the change and returns the level to normal. The cycle then repeats whenever the temperature moves away again. This is why body temperature varies only slightly around 37°C.\n\n## Water balance\nThe water content of the blood is also controlled. The pituitary gland releases **ADH** when the blood is too concentrated, for example during dehydration. ADH makes the kidneys reabsorb more water, so the urine is smaller in volume and darker. If the blood is too dilute, less ADH is released and the urine is larger in volume and paler. This is also negative feedback.\n\n## Worked example\nA runner's core temperature rises from 37.0°C to 38.4°C. Rise = 38.4 − 37.0 = 1.4°C. As the temperature rises, the hypothalamus triggers sweating and vasodilation. Heat loss increases, the temperature falls and the sweating gradually stops.\n\n## Common mistakes\n- Saying that blood vessels \"move closer to the skin\". The arterioles change width, they do not move.\n- Saying capillaries widen and narrow. Capillaries have no muscle; arterioles do.\n- Forgetting evaporation. Sweat only cools you when it evaporates.\n- Saying that the skin controls temperature. The skin is an effector; the hypothalamus is the control centre.\n\n## How this is examined\nQuestions give data on skin temperature or core temperature during exercise and ask you to describe and explain the changes. Criterion B tasks might ask for a method to compare how fast different materials cool a beaker of warm water as a model of insulation, with controlled variables.\n\nExam tip: always link a response to its effect, for example \"vasodilation increases blood flow near the skin, so more heat is lost by radiation\".",
+    "flashcards": [
+      {
+        "front": "Homeostasis",
+        "back": "Maintaining a constant internal environment, such as temperature, glucose and water content."
+      },
+      {
+        "front": "Control centre for temperature",
+        "back": "The hypothalamus in the brain, which monitors blood temperature and receives signals from skin thermoreceptors."
+      },
+      {
+        "front": "Responses when too hot",
+        "back": "Sweating, vasodilation of skin arterioles, and less shivering."
+      },
+      {
+        "front": "Responses when too cold",
+        "back": "Vasoconstriction, shivering, and no sweating."
+      },
+      {
+        "front": "Why does sweating cool us?",
+        "back": "Heat from the skin is needed to evaporate the sweat, so the skin loses heat."
+      },
+      {
+        "front": "Vasodilation vs vasoconstriction",
+        "back": "Dilation: arterioles widen and more heat is lost. Constriction: arterioles narrow and less heat is lost."
+      },
+      {
+        "front": "Negative feedback",
+        "back": "A change triggers a response that reverses the change and returns conditions to normal."
+      },
+      {
+        "front": "Role of ADH",
+        "back": "Released by the pituitary gland when blood is too concentrated. It makes the kidneys reabsorb more water."
+      },
+      {
+        "front": "Why is 37°C important?",
+        "back": "It is close to the optimum temperature of human enzymes, so reactions run efficiently."
+      }
+    ]
+  }
+]

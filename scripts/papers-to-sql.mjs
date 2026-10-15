@@ -20,9 +20,10 @@ function validate(p) {
   const errs = [];
   const qs = p.questions ?? [];
   if (!p.title?.trim()) errs.push("missing title");
+  const mini = p.format === "widget-practice"; // short interactive-widget papers: 3-10 tasks, 20-60 marks
   const full = p.format === "full-mock" || p.format === "structured-mock";
   const lowTotal = p.format === "structured-mock" ? 60 : 90;
-  if (qs.length < 5 || qs.length > 10) errs.push(`expected 5-10 questions, got ${qs.length}`);
+  if (qs.length < (mini ? 3 : 5) || qs.length > 10) errs.push(`expected 5-10 questions, got ${qs.length}`);
   let total = 0;
   qs.forEach((q, i) => {
     const tag = `q${i + 1}`;
@@ -37,8 +38,8 @@ function validate(p) {
     if (!/^[A-D]$/.test(q.criterion ?? "")) errs.push(`${tag}: criterion must be A-D`);
     total += q.marks ?? 0;
   });
-  if (full ? total < lowTotal || total > 130 : total < 30 || total > 60)
-    errs.push(`total marks ${total} (want ${full ? `${lowTotal}-130` : "30-60"})`);
+  const [lo, hi] = mini ? [20, 60] : full ? [lowTotal, 130] : [30, 60];
+  if (total < lo || total > hi) errs.push(`total marks ${total} (want ${lo}-${hi})`);
   const all = JSON.stringify(p);
   if (BAD_SCOPE.test(all)) errs.push("mentions Diploma/A-level scope");
   if (BAD_SCALE.test(all)) errs.push("mentions a 1-7 scale inside the paper");

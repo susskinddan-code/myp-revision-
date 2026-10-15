@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Respiration",
+  "subTopic": "Aerobic Respiration Explained",
+  "questions": [
+   {
+    "difficulty": "easy",
+    "content": "Name the organelle where most aerobic respiration takes place.",
+    "options": [
+     "Mitochondria",
+     "Chloroplasts",
+     "Ribosomes",
+     "Nucleus"
+    ],
+    "answer": 0,
+    "explanation": "Mitochondria contain the enzymes for aerobic respiration, which releases energy from glucose."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the gas that is needed for aerobic respiration.",
+    "options": [
+     "Carbon dioxide",
+     "Oxygen",
+     "Nitrogen",
+     "Hydrogen"
+    ],
+    "answer": 1,
+    "explanation": "Aerobic means 'with oxygen'. Oxygen is used to break down glucose completely."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the sugar that is broken down in respiration to release energy.",
+    "options": [
+     "Starch",
+     "Cellulose",
+     "Glucose",
+     "Sucrose"
+    ],
+    "answer": 2,
+    "explanation": "Glucose is the main fuel for respiration. Other nutrients are first changed to glucose or similar molecules."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the two substances produced by aerobic respiration, besides energy.",
+    "options": [
+     "Oxygen and glucose",
+     "Lactic acid and water",
+     "Ethanol and carbon dioxide",
+     "Carbon dioxide and water"
+    ],
+    "answer": 3,
+    "explanation": "Glucose + oxygen -> carbon dioxide + water. The carbon dioxide is breathed out and the water is lost or reused."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Respiration releases heat to the surroundings. What word describes a reaction that releases energy?",
+    "options": [
+     "Exothermic",
+     "Endothermic",
+     "Reversible",
+     "Neutral"
+    ],
+    "answer": 0,
+    "explanation": "An exothermic reaction transfers energy to the surroundings. Respiration is exothermic."
+   },
+   {
+    "difficulty": "medium",
+    "content": "How many molecules of oxygen react with one molecule of glucose in aerobic respiration?",
+    "options": [
+     "2",
+     "6",
+     "12",
+     "3"
+    ],
+    "answer": 1,
+    "explanation": "The balanced equation is C6H12O6 + 6O2 -> 6CO2 + 6H2O, so six oxygen molecules are used for each glucose."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Which organisms carry out respiration?",
+    "options": [
+     "Only animals",
+     "Only plants",
+     "All living organisms",
+     "Only organisms with lungs"
+    ],
+    "answer": 2,
+    "explanation": "Every living cell respires to release energy, including plants, animals, fungi and bacteria."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name the process of moving air in and out of the lungs.",
+    "options": [
+     "Respiration",
+     "Diffusion",
+     "Digestion",
+     "Breathing"
+    ],
+    "answer": 3,
+    "explanation": "Breathing, also called ventilation, moves air. Respiration is the chemical process in cells that releases energy."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Why does breathing rate increase during exercise?",
+    "options": [
+     "Muscles need more oxygen",
+     "Muscles need less energy",
+     "The body is cooling the lungs",
+     "The body is making more nitrogen"
+    ],
+    "answer": 0,
+    "explanation": "Active muscles respire faster, so they need more oxygen and produce more carbon dioxide. Faster breathing supplies and removes these gases."
+   },
+   {
+    "difficulty": "medium",
+    "content": "What happens to limewater when carbon dioxide is bubbled through it?",
+    "options": [
+     "It turns blue-black",
+     "It turns cloudy",
+     "It turns brick-red",
+     "It stays clear"
+    ],
+    "answer": 1,
+    "explanation": "Carbon dioxide reacts with limewater to form a white solid, which makes it cloudy."
+   },
+   {
+    "difficulty": "medium",
+    "content": "About what percentage of inhaled air is oxygen?",
+    "options": [
+     "78%",
+     "0.04%",
+     "21%",
+     "50%"
+    ],
+    "answer": 2,
+    "explanation": "Air is about 78% nitrogen, 21% oxygen and 0.04% carbon dioxide. Exhaled air has about 16% oxygen."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name the indicator that changes from red to yellow as the carbon dioxide concentration rises.",
+    "options": [
+     "Iodine solution",
+     "Benedict's solution",
+     "Biuret reagent",
+     "Hydrogencarbonate indicator"
+    ],
+    "answer": 3,
+    "explanation": "Hydrogencarbonate indicator is red in air, becomes yellow in higher carbon dioxide and purple in lower carbon dioxide."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Plants respire all the time. Name the process that uses energy from respiration to take minerals into root hair cells.",
+    "options": [
+     "Active transport",
+     "Osmosis",
+     "Diffusion",
+     "Transpiration"
+    ],
+    "answer": 0,
+    "explanation": "Active transport needs energy released in respiration to move mineral ions against their concentration gradient."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Why do piles of germinating seeds become warm?",
+    "options": [
+     "Photosynthesis releases heat",
+     "Respiration releases heat",
+     "Osmosis releases heat",
+     "Seeds absorb sunlight"
+    ],
+    "answer": 1,
+    "explanation": "Respiration is exothermic. A large number of seeds respire quickly as they germinate, and the heat released warms the pile."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Exhaled air contains about 4% carbon dioxide and inhaled air about 0.04%. How many times more carbon dioxide does exhaled air contain?",
+    "options": [
+     "10 times",
+     "4 times",
+     "100 times",
+     "400 times"
+    ],
+    "answer": 2,
+    "explanation": "4 ÷ 0.04 = 100, so exhaled air has about 100 times as much carbon dioxide."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A plant is sealed in a clear bag in the dark. What happens to the carbon dioxide concentration in the bag?",
+    "options": [
+     "It decreases",
+     "It stays the same",
+     "It disappears",
+     "It increases"
+    ],
+    "answer": 3,
+    "explanation": "In the dark there is no photosynthesis, but the plant still respires and releases carbon dioxide."
+   },
+   {
+    "difficulty": "hard",
+    "content": "At a certain light intensity a plant takes in no net carbon dioxide and gives out no net oxygen. What is happening?",
+    "options": [
+     "Photosynthesis rate equals respiration rate",
+     "Photosynthesis has stopped",
+     "Respiration has stopped",
+     "The stomata are closed"
+    ],
+    "answer": 0,
+    "explanation": "The carbon dioxide made by respiration is exactly used up by photosynthesis, and the oxygen made by photosynthesis is exactly used by respiration."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Cyanide stops the reactions of respiration in mitochondria. Why can this kill an animal quickly?",
+    "options": [
+     "Glucose is too concentrated",
+     "Cells cannot release energy",
+     "Oxygen leaves the lungs",
+     "Cells make too much carbon dioxide"
+    ],
+    "answer": 1,
+    "explanation": "Without respiration, cells cannot release the energy needed for movement, active transport and keeping the heart beating."
+   }
+  ],
+  "note": "Every living cell needs a continuous supply of energy. This energy is released from food molecules by respiration. Do not confuse respiration with breathing: breathing moves air in and out of the lungs, whereas respiration is a chemical process that takes place in every cell.\n\n## What is aerobic respiration?\nAerobic respiration is the release of energy from glucose using oxygen. It takes place in the mitochondria of cells (some of the early steps happen in the cytoplasm).\nWord equation: glucose + oxygen -> carbon dioxide + water (+ energy).\nSymbol equation: C6H12O6 + 6O2 -> 6CO2 + 6H2O.\nIt is an exothermic reaction: energy is released. Some is transferred to the surroundings as heat, which is why mammals and birds stay warm. The rest is captured in a molecule called ATP, which cells use to power processes such as muscle contraction, active transport, protein synthesis, cell division, and nerve impulses.\n\n## Where do the materials come from?\nGlucose comes from the digestion of carbohydrates and is carried by the blood. Oxygen enters the blood in the lungs by diffusion and is carried by red blood cells. The carbon dioxide made diffuses out of the cells into the blood and is breathed out. Plants respire too. They use glucose made in photosynthesis and take in oxygen through the stomata, day and night.\n\n## Inhaled and exhaled air\n- Inhaled air: about 21% oxygen, 0.04% carbon dioxide, 78% nitrogen.\n- Exhaled air: about 16% oxygen, 4% carbon dioxide, 78% nitrogen, with more water vapour.\nThe changes happen because cells use oxygen and produce carbon dioxide. You can show the extra carbon dioxide with limewater, which turns cloudy, or hydrogencarbonate indicator, which changes from red to yellow.\n\n## Worked example 1\nHow many molecules of carbon dioxide are released when 5 molecules of glucose are fully respired? One glucose gives 6 CO2, so 5 x 6 = 30.\n\n## Worked example 2\nCompare photosynthesis and respiration. Photosynthesis takes place in chloroplasts only in cells with chlorophyll and only in the light; it takes in carbon dioxide and water and releases oxygen; it stores energy; it is endothermic. Respiration takes place in all cells, all the time; it takes in oxygen and glucose and releases carbon dioxide and water; it releases energy; it is exothermic. During the day, a plant's photosynthesis is usually faster than its respiration. At night only respiration continues, so the carbon dioxide level near plants can rise.\n\n## Common mistakes\n- Saying respiration is breathing.\n- Saying that energy is \"made\" or \"produced\". Energy is released from glucose.\n- Saying only animals respire. Plants respire too, all of the time.\n- Writing the equation with the reactants and products the wrong way round, which is photosynthesis.\n- Saying that mitochondria are only in muscle cells. They are in nearly all cells, with the most in cells with a high energy demand.\n\n## Command terms\n- State: give the word equation.\n- Compare: give similarities and differences, for example of photosynthesis and respiration.\n- Explain: give the reason why breathing rate rises during exercise.\n- Predict: say what would happen to the carbon dioxide level in a closed bag with a plant in the dark.\n\nExam tip: always connect a bodily change in exercise to respiration: more energy needed, so more oxygen needed, so faster breathing and heart rate.",
+  "flashcards": [
+   {
+    "front": "Aerobic respiration",
+    "back": "The release of energy from glucose using oxygen. It takes place in mitochondria."
+   },
+   {
+    "front": "Word equation for aerobic respiration",
+    "back": "Glucose + oxygen -> carbon dioxide + water (+ energy)."
+   },
+   {
+    "front": "Symbol equation for aerobic respiration",
+    "back": "C6H12O6 + 6O2 -> 6CO2 + 6H2O"
+   },
+   {
+    "front": "Is respiration endothermic or exothermic?",
+    "back": "Exothermic. Energy is released, some of it as heat."
+   },
+   {
+    "front": "Respiration versus breathing",
+    "back": "Breathing moves air in and out of the lungs. Respiration is the chemical process in cells that releases energy."
+   },
+   {
+    "front": "Name three uses of energy from respiration",
+    "back": "Muscle contraction, active transport, making proteins (also growth and keeping warm)."
+   },
+   {
+    "front": "Limewater test",
+    "back": "Limewater turns cloudy when carbon dioxide is bubbled through it."
+   },
+   {
+    "front": "Hydrogencarbonate indicator",
+    "back": "Red in air. Turns yellow when carbon dioxide concentration rises and purple when it falls."
+   },
+   {
+    "front": "Do plants respire?",
+    "back": "Yes. All living cells respire, day and night."
+   }
+  ]
+ },
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Respiration",
+  "subTopic": "Anaerobic Respiration in Muscles and Yeast",
+  "questions": [
+   {
+    "difficulty": "easy",
+    "content": "Name the type of respiration that takes place without oxygen.",
+    "options": [
+     "Anaerobic respiration",
+     "Aerobic respiration",
+     "Photosynthesis",
+     "Digestion"
+    ],
+    "answer": 0,
+    "explanation": "Anaerobic means 'without oxygen'. It releases much less energy than aerobic respiration."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the substance produced in muscles during anaerobic respiration.",
+    "options": [
+     "Ethanol",
+     "Lactic acid",
+     "Glucose",
+     "Starch"
+    ],
+    "answer": 1,
+    "explanation": "In animals, glucose is partly broken down to lactic acid when there is too little oxygen."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the alcohol produced when yeast respires anaerobically.",
+    "options": [
+     "Methanol",
+     "Glycerol",
+     "Ethanol",
+     "Lactic acid"
+    ],
+    "answer": 2,
+    "explanation": "Yeast produces ethanol and carbon dioxide from glucose in the absence of oxygen."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the process by which yeast makes ethanol and carbon dioxide from sugar.",
+    "options": [
+     "Photosynthesis",
+     "Transpiration",
+     "Digestion",
+     "Fermentation"
+    ],
+    "answer": 3,
+    "explanation": "Fermentation is anaerobic respiration in yeast. It is used to make bread and alcoholic drinks."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the gas that makes bread dough rise.",
+    "options": [
+     "Carbon dioxide",
+     "Oxygen",
+     "Nitrogen",
+     "Hydrogen"
+    ],
+    "answer": 0,
+    "explanation": "The carbon dioxide from yeast respiration forms bubbles in the dough, which expand when baked."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Which type of respiration releases more energy from each glucose molecule?",
+    "options": [
+     "Anaerobic respiration",
+     "Aerobic respiration",
+     "They release equal amounts",
+     "Neither releases energy"
+    ],
+    "answer": 1,
+    "explanation": "Aerobic respiration breaks glucose down completely, so it releases much more energy than anaerobic respiration."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Why do muscles respire anaerobically during a sprint?",
+    "options": [
+     "Muscles do not need energy",
+     "Glucose has run out",
+     "Oxygen is not supplied fast enough",
+     "There is too much oxygen"
+    ],
+    "answer": 2,
+    "explanation": "During intense exercise, energy is needed faster than the blood can deliver oxygen, so muscles also respire anaerobically."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name the extra oxygen that must be taken in after exercise to break down lactic acid.",
+    "options": [
+     "Lactic cycle",
+     "Energy loss",
+     "Aerobic reserve",
+     "Oxygen debt"
+    ],
+    "answer": 3,
+    "explanation": "The oxygen debt is the extra oxygen needed after exercise to remove lactic acid. This is why you keep breathing heavily after stopping."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Complete the word equation for anaerobic respiration in muscles: glucose -> ?",
+    "options": [
+     "Lactic acid",
+     "Ethanol",
+     "Carbon dioxide and water",
+     "Starch"
+    ],
+    "answer": 0,
+    "explanation": "In muscles, glucose -> lactic acid (+ a small amount of energy). No carbon dioxide is produced."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Complete the word equation for anaerobic respiration in yeast: glucose -> ethanol + ?",
+    "options": [
+     "Oxygen",
+     "Carbon dioxide",
+     "Water",
+     "Lactic acid"
+    ],
+    "answer": 1,
+    "explanation": "Yeast produces ethanol and carbon dioxide: glucose -> ethanol + carbon dioxide."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name one food that is made using yeast fermentation.",
+    "options": [
+     "Cheese",
+     "Yoghurt",
+     "Bread",
+     "Butter"
+    ],
+    "answer": 2,
+    "explanation": "Bread uses yeast. Cheese and yoghurt are made with bacteria."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Why does bread dough rise?",
+    "options": [
+     "Oxygen forms bubbles",
+     "Water boils",
+     "Yeast swells with water",
+     "Carbon dioxide forms bubbles"
+    ],
+    "answer": 3,
+    "explanation": "Yeast produces carbon dioxide by fermentation, and the gas gets trapped in the dough as bubbles."
+   },
+   {
+    "difficulty": "medium",
+    "content": "What causes muscle fatigue during intense exercise?",
+    "options": [
+     "A build-up of lactic acid",
+     "A build-up of glucose",
+     "Too much oxygen",
+     "A loss of ethanol"
+    ],
+    "answer": 0,
+    "explanation": "Lactic acid builds up in muscles, which causes cramp and tiredness, so muscles stop contracting efficiently."
+   },
+   {
+    "difficulty": "hard",
+    "content": "After exercise, lactic acid is carried in the blood to the liver. What is used to break it down there?",
+    "options": [
+     "Glucose",
+     "Oxygen",
+     "Starch",
+     "Ethanol"
+    ],
+    "answer": 1,
+    "explanation": "The liver uses oxygen to convert lactic acid, so oxygen is used to repay the oxygen debt."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Why does anaerobic respiration release less energy than aerobic respiration?",
+    "options": [
+     "Glucose is not used",
+     "There is too much oxygen",
+     "Glucose is not fully broken down",
+     "Carbon dioxide is absorbed"
+    ],
+    "answer": 2,
+    "explanation": "In anaerobic respiration glucose is only partly broken down and the products (lactic acid or ethanol) still contain a lot of stored energy."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A layer of oil is poured over the sugar solution in a yeast fermentation experiment. Why?",
+    "options": [
+     "To add nutrients",
+     "To cool the yeast",
+     "To absorb carbon dioxide",
+     "To exclude oxygen"
+    ],
+    "answer": 3,
+    "explanation": "The oil stops air dissolving in the solution, so the yeast respires anaerobically."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Which activity depends most heavily on anaerobic respiration in muscles?",
+    "options": [
+     "100 metre sprint",
+     "Marathon",
+     "Gentle walk",
+     "Sleeping"
+    ],
+    "answer": 0,
+    "explanation": "A sprint needs a very rapid release of energy over a short time, so muscles rely on anaerobic respiration. In a gentle walk, aerobic respiration supplies enough energy."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A plant root in waterlogged soil has no oxygen and respires anaerobically. Which substance does it produce?",
+    "options": [
+     "Lactic acid",
+     "Ethanol",
+     "Oxygen",
+     "Starch"
+    ],
+    "answer": 1,
+    "explanation": "Plants and yeast produce ethanol and carbon dioxide in anaerobic respiration. Lactic acid is made in animals."
+   }
+  ],
+  "note": "Sometimes cells cannot get enough oxygen, or they live where there is none. They can still release some energy from glucose by anaerobic respiration. This is respiration without oxygen.\n\n## Anaerobic respiration in muscles\nDuring hard exercise, such as sprinting, muscles need energy faster than the blood can bring oxygen. The muscle cells then also respire anaerobically:\nglucose -> lactic acid (+ a small amount of energy).\nGlucose is only partly broken down, so much less energy is released than in aerobic respiration. No carbon dioxide is made. As lactic acid builds up, the muscles become tired and may cramp. This is muscle fatigue.\n\nAfter exercise, you keep breathing hard and your heart keeps beating fast. The lactic acid is carried by the blood to the liver, where it is broken down using oxygen. The extra oxygen needed is called the oxygen debt. When the debt is repaid, breathing and heart rate return to normal.\n\n## Anaerobic respiration in yeast\nYeast is a single-celled fungus. When it has no oxygen, it carries out fermentation:\nglucose -> ethanol + carbon dioxide (+ a small amount of energy).\nPlant cells can also do this, for example roots in waterlogged soil.\nFermentation is useful in industry:\n- Baking: carbon dioxide makes dough rise. The ethanol evaporates during baking.\n- Brewing: the ethanol is the alcohol in beer and wine.\n\n## Comparing aerobic and anaerobic respiration\n- Oxygen: aerobic needs it, anaerobic does not.\n- Products: aerobic gives carbon dioxide and water, anaerobic gives lactic acid (animals) or ethanol and carbon dioxide (yeast and plants).\n- Energy: aerobic releases a lot; anaerobic releases a little.\n- Where: aerobic in mitochondria, anaerobic in the cytoplasm.\n\n## Investigating yeast\nMix yeast with sugar solution in a flask. Add a layer of oil to exclude oxygen. Connect a delivery tube to a tube of limewater. If the limewater turns cloudy, carbon dioxide is being produced. You can also count the bubbles per minute at different temperatures: the rate increases up to about 40 degrees Celsius, and then the enzymes denature.\n\n## Worked example\nA marathon runner uses mostly aerobic respiration, because the activity is steady and the oxygen supply can keep up. A sprinter running 100 m finishes in 10 seconds. The sprinter's muscles respire both aerobically and anaerobically, and he continues to breathe heavily afterwards to repay the oxygen debt. Explanation: during the sprint, energy demand is higher than the oxygen supply, so lactic acid forms; the heavy breathing afterwards supplies oxygen to break the lactic acid down.\n\n## Common mistakes\n- Saying that anaerobic respiration releases no energy. It releases a small amount.\n- Saying that humans make ethanol. Muscles make lactic acid.\n- Writing that lactic acid is a waste product that has no further use. It is broken down later using oxygen.\n- Saying carbon dioxide is produced in muscle anaerobic respiration.\n- Confusing the bread-rising gas (carbon dioxide) with the alcohol (ethanol).\n\n## Command terms\n- Compare: give similarities and differences of aerobic and anaerobic respiration.\n- Describe: say what happens to a sprinter's breathing after a race.\n- Explain: give reasons for the oxygen debt.\n- Suggest: use ideas to explain what to expect in a new situation, such as a yeast experiment with oil on top.\n\nExam tip: always name the organism: lactic acid in animals, ethanol and carbon dioxide in yeast and plants.",
+  "flashcards": [
+   {
+    "front": "Anaerobic respiration",
+    "back": "Release of energy from glucose without oxygen. It releases much less energy than aerobic respiration."
+   },
+   {
+    "front": "Equation for anaerobic respiration in muscles",
+    "back": "Glucose -> lactic acid (+ energy). No carbon dioxide is made."
+   },
+   {
+    "front": "Equation for fermentation in yeast",
+    "back": "Glucose -> ethanol + carbon dioxide (+ energy)."
+   },
+   {
+    "front": "Why do muscles respire anaerobically in a sprint?",
+    "back": "Oxygen cannot be delivered as quickly as energy is needed."
+   },
+   {
+    "front": "Muscle fatigue",
+    "back": "Tiredness and cramp in muscles caused by a build-up of lactic acid."
+   },
+   {
+    "front": "Oxygen debt",
+    "back": "The extra oxygen needed after exercise to break down lactic acid, mainly in the liver."
+   },
+   {
+    "front": "Fermentation uses",
+    "back": "Baking, where carbon dioxide makes dough rise, and brewing, where the ethanol is the alcohol."
+   },
+   {
+    "front": "Why is anaerobic respiration less efficient?",
+    "back": "Glucose is only partly broken down, so most of the energy stays in lactic acid or ethanol."
+   },
+   {
+    "front": "Why add oil to a yeast experiment?",
+    "back": "To keep oxygen out so the yeast respires anaerobically."
+   }
+  ]
+ },
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Respiration",
+  "subTopic": "Measuring Respiration and the Effect of Exercise",
+  "questions": [
+   {
+    "difficulty": "easy",
+    "content": "In which unit is heart rate measured?",
+    "options": [
+     "Beats per minute",
+     "Litres per second",
+     "Metres per second",
+     "Breaths per hour"
+    ],
+    "answer": 0,
+    "explanation": "Heart rate is the number of heart beats in one minute, written as beats per minute (bpm)."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Pulse can be felt in which type of blood vessel?",
+    "options": [
+     "Vein",
+     "Artery",
+     "Capillary",
+     "Lymph vessel"
+    ],
+    "answer": 1,
+    "explanation": "Each heartbeat sends a surge of blood through the arteries, which can be felt as a pulse at the wrist or neck."
+   },
+   {
+    "difficulty": "easy",
+    "content": "What happens to your breathing rate during exercise?",
+    "options": [
+     "It decreases",
+     "It stays the same",
+     "It increases",
+     "It stops"
+    ],
+    "answer": 2,
+    "explanation": "Muscles respire faster during exercise, so breathing rate rises to supply more oxygen and remove carbon dioxide."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the time taken for heart rate to return to normal after exercise.",
+    "options": [
+     "Reaction time",
+     "Resting time",
+     "Rise time",
+     "Recovery time"
+    ],
+    "answer": 3,
+    "explanation": "Recovery time is a measure of fitness. A fitter person has a shorter recovery time."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the apparatus used to measure oxygen uptake by small living organisms such as germinating peas.",
+    "options": [
+     "Respirometer",
+     "Thermometer",
+     "Microscope",
+     "Calorimeter"
+    ],
+    "answer": 0,
+    "explanation": "A respirometer measures how quickly a small organism takes in oxygen, usually by watching a liquid move along a scale."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Why does heart rate increase during exercise?",
+    "options": [
+     "The heart needs to cool",
+     "Muscles need more oxygen and glucose",
+     "The body is removing water",
+     "The lungs need to fill"
+    ],
+    "answer": 1,
+    "explanation": "A faster heart rate pumps blood to the muscles more quickly, delivering more oxygen and glucose and removing carbon dioxide."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Soda lime is placed in a respirometer. Which gas does it absorb?",
+    "options": [
+     "Oxygen",
+     "Nitrogen",
+     "Carbon dioxide",
+     "Water vapour"
+    ],
+    "answer": 2,
+    "explanation": "Soda lime absorbs the carbon dioxide produced, so any change in gas volume is caused by oxygen being taken in."
+   },
+   {
+    "difficulty": "medium",
+    "content": "In a respirometer the coloured liquid moves towards the germinating peas. What causes this?",
+    "options": [
+     "Oxygen is produced",
+     "Carbon dioxide is added",
+     "Water is produced",
+     "Oxygen is used up"
+    ],
+    "answer": 3,
+    "explanation": "The peas use oxygen and the carbon dioxide is absorbed, so the gas volume falls and the liquid is drawn towards the peas."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Breathing rate rises from 15 to 30 breaths per minute during exercise. What is the percentage increase?",
+    "options": [
+     "100%",
+     "50%",
+     "15%",
+     "200%"
+    ],
+    "answer": 0,
+    "explanation": "Percentage increase = (30 - 15) ÷ 15 x 100 = 100%."
+   },
+   {
+    "difficulty": "medium",
+    "content": "The liquid in a respirometer moves 24 mm in 8 minutes. What is the rate?",
+    "options": [
+     "192 mm per minute",
+     "3 mm per minute",
+     "0.33 mm per minute",
+     "8 mm per minute"
+    ],
+    "answer": 1,
+    "explanation": "Rate = distance ÷ time = 24 ÷ 8 = 3 mm per minute."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A tube containing glass beads is set up alongside the tube of peas. What is its purpose?",
+    "options": [
+     "To produce carbon dioxide",
+     "To cool the peas",
+     "To act as a control",
+     "To absorb oxygen"
+    ],
+    "answer": 2,
+    "explanation": "The control tube has no living organisms, so it shows whether changes in pressure or temperature in the room affect the liquid."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Which organ stores glycogen, which can be turned into glucose when needed during exercise?",
+    "options": [
+     "Kidney",
+     "Stomach",
+     "Lung",
+     "Liver"
+    ],
+    "answer": 3,
+    "explanation": "The liver and the muscles store glycogen. The liver converts it back into glucose and releases it into the blood."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A fit athlete has a lower resting heart rate than a less fit person. What is the reason?",
+    "options": [
+     "The heart pumps more blood each beat",
+     "The heart is smaller",
+     "The blood is thicker",
+     "The lungs are smaller"
+    ],
+    "answer": 0,
+    "explanation": "Regular exercise strengthens the heart muscle, so each beat pushes out more blood and fewer beats are needed."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A student's heart rate is 72 beats per minute at rest and 148 immediately after exercise. What is the percentage increase, to the nearest whole number?",
+    "options": [
+     "51%",
+     "106%",
+     "76%",
+     "205%"
+    ],
+    "answer": 1,
+    "explanation": "Increase = 148 - 72 = 76. Percentage = 76 ÷ 72 x 100 = 105.6%, which is 106% to the nearest whole number."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Liquid in a respirometer moves 3, 6 and 12 mm in 10 minutes at 10, 20 and 30 degrees Celsius. What is the rate at 30 degrees Celsius?",
+    "options": [
+     "12 mm per minute",
+     "0.12 mm per minute",
+     "1.2 mm per minute",
+     "120 mm per minute"
+    ],
+    "answer": 2,
+    "explanation": "Rate = 12 mm ÷ 10 minutes = 1.2 mm per minute."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Why does the rate of respiration in peas rise as the temperature rises from 10 to 30 degrees Celsius?",
+    "options": [
+     "The peas make more oxygen",
+     "The soda lime absorbs more",
+     "The peas photosynthesise",
+     "The respiration enzymes work faster"
+    ],
+    "answer": 3,
+    "explanation": "Respiration is controlled by enzymes, which work faster as the temperature rises towards their optimum, so more oxygen is taken in."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A person breathes 15 times per minute, taking in 500 cm cubed with each breath. What volume of air is breathed per minute?",
+    "options": [
+     "7500 cm cubed",
+     "750 cm cubed",
+     "515 cm cubed",
+     "3750 cm cubed"
+    ],
+    "answer": 0,
+    "explanation": "Volume per minute = breathing rate x volume per breath = 15 x 500 = 7500 cm cubed."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Why does a person keep breathing fast after exercise has stopped?",
+    "options": [
+     "To make more lactic acid",
+     "To repay the oxygen debt",
+     "To cool the lungs",
+     "To digest food"
+    ],
+    "answer": 1,
+    "explanation": "After exercise the body still needs extra oxygen to break down lactic acid, so breathing stays fast until the debt is repaid."
+   }
+  ],
+  "note": "The effect of exercise on the body is a good way to see respiration in action. When muscles contract more, they need more energy, and this energy comes from respiration. There are therefore changes in the heart rate and breathing rate.\n\n## Changes during exercise\n- Muscles respire faster, using more glucose and oxygen and producing more carbon dioxide.\n- Breathing rate and depth increase to bring more oxygen into the blood and remove more carbon dioxide.\n- Heart rate increases to carry blood faster, delivering more oxygen and glucose and taking away carbon dioxide.\n- If oxygen cannot keep up, muscles respire anaerobically and lactic acid builds up.\nAfter exercise, the breathing rate and heart rate stay high for some time while the oxygen debt is repaid. The time taken for the heart rate to return to its resting value is the recovery time. A fit person has a lower resting heart rate, because their stronger heart pumps more blood per beat, and a shorter recovery time.\n\n## Investigation: exercise and pulse\nMeasure resting pulse for one minute (or 15 seconds x 4). Exercise for a fixed time, such as 2 minutes of step-ups. Measure the pulse immediately and then every minute until it returns to the resting value. Independent variable: type or length of exercise. Dependent variable: pulse rate and recovery time. Control: the same person, the same step height and the same method of counting. Repeat and calculate a mean, as heart rate varies between attempts.\n\n## Measuring respiration with a respirometer\nA respirometer is a sealed tube containing living organisms, such as germinating peas, and soda lime to absorb carbon dioxide. A tube with a scale and a drop of coloured liquid is attached. As the peas respire, they take in oxygen and the carbon dioxide is absorbed, so the gas volume falls and the liquid moves towards the peas. The distance moved in a certain time shows the rate of oxygen uptake. A control tube with glass beads or boiled peas shows whether changes in temperature or pressure are affecting the liquid. The experiment can be repeated at different temperatures.\n\n## Worked example 1\nThe liquid moves 18 mm in 6 minutes. Rate = 18 ÷ 6 = 3 mm per minute. If the temperature is raised and it moves 30 mm in 6 minutes, rate = 5 mm per minute. Percentage increase = (5 - 3) ÷ 3 x 100 = 67%.\n\n## Worked example 2\nResting heart rate: 70 bpm. After exercise: 140 bpm. Percentage increase = (140 - 70) ÷ 70 x 100 = 100%. Minute volume of breathing = breathing rate x volume per breath. With 12 breaths per minute and 500 cm cubed per breath, minute volume = 12 x 500 = 6,000 cm cubed per minute.\n\n## Common mistakes\n- Dividing by the new value instead of the original value when calculating percentage change.\n- Forgetting soda lime, which means carbon dioxide production hides the oxygen uptake.\n- Not allowing the respirometer to reach the water bath temperature before starting.\n- Taking only one measurement of pulse.\n- Saying that breathing is faster in exercise because the lungs \"need more air\". The correct reason is that the muscles need more oxygen for respiration.\n\n## Command terms\n- Calculate: percentage change or rate, with working.\n- Describe: how pulse rate changes during and after exercise.\n- Explain: why the changes happen, using respiration.\n- Evaluate: how well the respirometer controls other variables, and how it could be improved.\n- Suggest: how the investigation could be improved with data loggers or repeated trials.\n\nExam tip: link every change in heart or breathing rate to the demand of muscles for oxygen and glucose for respiration, and the need to remove carbon dioxide.",
+  "flashcards": [
+   {
+    "front": "Why does heart rate rise during exercise?",
+    "back": "To deliver more oxygen and glucose to the muscles and remove carbon dioxide faster."
+   },
+   {
+    "front": "Why does breathing rate rise during exercise?",
+    "back": "Muscles respire faster, so more oxygen is needed and more carbon dioxide must be removed."
+   },
+   {
+    "front": "Recovery time",
+    "back": "The time for heart rate to return to its resting value after exercise. Shorter in fitter people."
+   },
+   {
+    "front": "Respirometer",
+    "back": "Apparatus that measures oxygen uptake of small organisms by watching a liquid move along a scale."
+   },
+   {
+    "front": "Why use soda lime in a respirometer?",
+    "back": "It absorbs carbon dioxide, so the volume change is due to oxygen uptake only."
+   },
+   {
+    "front": "Why use a control tube in a respirometer?",
+    "back": "It has no living organism, so it shows whether temperature or pressure changes are moving the liquid."
+   },
+   {
+    "front": "Percentage change",
+    "back": "(new value - original value) ÷ original value x 100."
+   },
+   {
+    "front": "Rate of oxygen uptake",
+    "back": "Distance moved by liquid ÷ time, for example 24 mm in 8 minutes is 3 mm per minute."
+   },
+   {
+    "front": "Why does a fitter person have a lower resting heart rate?",
+    "back": "The heart muscle is stronger, so each beat pumps more blood."
+   }
+  ]
+ }
+]

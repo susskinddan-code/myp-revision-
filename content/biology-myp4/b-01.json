@@ -1,0 +1,791 @@
+[
+  {
+    "subject": "biology",
+    "grade": 4,
+    "topic": "Human Digestive and Circulatory Systems",
+    "subTopic": "Organs of the Alimentary Canal and Absorption",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "content": "What is the name for the waves of muscle contraction that push food along the oesophagus?",
+        "options": [
+          "Peristalsis",
+          "Diffusion",
+          "Egestion",
+          "Emulsification"
+        ],
+        "answer": 0,
+        "explanation": "Peristalsis is the rhythmic squeezing of circular and longitudinal muscles in the gut wall that moves food along."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Which organ of the alimentary canal absorbs most of the digested food into the blood?",
+        "options": [
+          "Large intestine",
+          "Stomach",
+          "Small intestine",
+          "Oesophagus"
+        ],
+        "answer": 2,
+        "explanation": "The small intestine is long, lined with villi and has a rich blood supply, so most absorption happens there."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Which organ stores bile until it is needed?",
+        "options": [
+          "Stomach",
+          "Liver",
+          "Pancreas",
+          "Gall bladder"
+        ],
+        "answer": 3,
+        "explanation": "Bile is made in the liver but stored in the gall bladder, then released into the small intestine."
+      },
+      {
+        "difficulty": "easy",
+        "content": "What is the term for removing undigested food from the body through the anus?",
+        "options": [
+          "Ingestion",
+          "Excretion",
+          "Egestion",
+          "Assimilation"
+        ],
+        "answer": 2,
+        "explanation": "Egestion is the removal of undigested material (faeces). Excretion is the removal of metabolic waste such as urea."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Which acid in the stomach kills many microorganisms in food?",
+        "options": [
+          "Hydrochloric acid",
+          "Sulfuric acid",
+          "Lactic acid",
+          "Carbonic acid"
+        ],
+        "answer": 0,
+        "explanation": "The stomach makes hydrochloric acid, which kills many pathogens and gives pepsin the acidic conditions it needs."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Which part of the alimentary canal absorbs the water that is left in undigested food, so that solid faeces form?",
+        "options": [
+          "Gall bladder",
+          "Stomach",
+          "Oesophagus",
+          "Large intestine"
+        ],
+        "answer": 3,
+        "explanation": "The large intestine absorbs water, leaving a more solid waste called faeces."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Which substance, made in the liver, breaks large fat droplets into many small droplets?",
+        "options": [
+          "Amylase",
+          "Bile",
+          "Lipase",
+          "Pepsin"
+        ],
+        "answer": 1,
+        "explanation": "Bile emulsifies fat, which gives lipase a larger surface area to work on. Bile itself is not an enzyme."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Which organ releases a juice containing amylase, protease and lipase into the small intestine?",
+        "options": [
+          "Liver",
+          "Pancreas",
+          "Gall bladder",
+          "Salivary gland"
+        ],
+        "answer": 1,
+        "explanation": "The pancreas makes pancreatic juice containing all three types of digestive enzyme."
+      },
+      {
+        "difficulty": "medium",
+        "content": "The wall of the small intestine is covered in villi. What do villi increase?",
+        "options": [
+          "Gut temperature",
+          "Surface area",
+          "Enzyme concentration",
+          "Speed of peristalsis"
+        ],
+        "answer": 1,
+        "explanation": "Villi greatly increase the surface area for absorption, so more nutrients can diffuse into the blood in a given time."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Each villus contains a small lymph vessel in the centre. What is it called?",
+        "options": [
+          "Capillary",
+          "Alveolus",
+          "Lacteal",
+          "Sphincter"
+        ],
+        "answer": 2,
+        "explanation": "The lacteal absorbs fatty acids and glycerol, which later enter the blood. Glucose and amino acids enter the blood capillaries."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Which products of fat digestion are absorbed along with glycerol?",
+        "options": [
+          "Amino acids",
+          "Fatty acids",
+          "Glucose",
+          "Maltose"
+        ],
+        "answer": 1,
+        "explanation": "Lipase breaks fats into fatty acids and glycerol, and both are absorbed into the lacteal."
+      },
+      {
+        "difficulty": "medium",
+        "content": "A disease flattens the villi in a person's small intestine. What is the main effect?",
+        "options": [
+          "More bile production",
+          "Faster stomach emptying",
+          "Less nutrient absorption",
+          "More water absorbed in the stomach"
+        ],
+        "answer": 2,
+        "explanation": "Flatter villi mean a much smaller surface area, so less digested food is absorbed and the person may lose weight."
+      },
+      {
+        "difficulty": "medium",
+        "content": "A model gut has an inner surface area of 400 cm². Villi increase this area 30 times. What is the new area in cm²?",
+        "options": [
+          "13",
+          "430",
+          "1200",
+          "12000"
+        ],
+        "answer": 3,
+        "explanation": "400 × 30 = 12 000 cm². Multiplying by the factor gives the new area."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Faeces leaving through the anus is called egestion rather than excretion. What is the reason?",
+        "options": [
+          "It is mostly urea",
+          "It was never part of cell metabolism",
+          "It is made in the liver cells",
+          "It is absorbed and then released by the kidneys"
+        ],
+        "answer": 1,
+        "explanation": "Excretion removes waste made by metabolic reactions inside cells. Faeces are mostly undigested food that never entered the body's cells."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Visking tubing containing starch and glucose solution is placed in water. After 20 minutes glucose is found in the water but starch is not. What does this show?",
+        "options": [
+          "Starch molecules are too large to pass through",
+          "Glucose molecules are too large to pass through",
+          "Starch dissolves faster than glucose",
+          "The tubing is fully permeable"
+        ],
+        "answer": 0,
+        "explanation": "Visking tubing models the gut wall. Small glucose molecules diffuse through its pores but large starch molecules cannot, which is why starch must be digested before absorption."
+      },
+      {
+        "difficulty": "hard",
+        "content": "After a person has their gall bladder removed, a very fatty meal is digested more slowly. What is the best explanation?",
+        "options": [
+          "Less bile reaches the small intestine at once",
+          "The liver no longer makes bile",
+          "Lipase can no longer be made",
+          "The villi stop absorbing fat"
+        ],
+        "answer": 0,
+        "explanation": "The liver still makes bile, but without storage it trickles in steadily instead of being released in a surge, so less emulsification occurs after a big fatty meal."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Blood carrying glucose from the small intestine travels first to which organ?",
+        "options": [
+          "Pancreas",
+          "Heart",
+          "Kidney",
+          "Liver"
+        ],
+        "answer": 3,
+        "explanation": "The hepatic portal vein carries absorbed nutrients to the liver, which regulates what enters the main circulation."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Why must stomach acid be neutralised when food enters the small intestine?",
+        "options": [
+          "Intestinal enzymes work best in alkaline conditions",
+          "Acid would be absorbed by the villi",
+          "Acid stops peristalsis",
+          "Bile only works in acid"
+        ],
+        "answer": 0,
+        "explanation": "Bile is alkaline and neutralises the acid. The enzymes of the small intestine have an optimum pH that is slightly alkaline, unlike pepsin, which prefers acid."
+      }
+    ],
+    "note": "The alimentary canal is a long muscular tube that runs from the mouth to the anus. Its job is to break food into small soluble molecules and to absorb them into the blood. Five processes happen in order: ingestion (taking food in), digestion (breaking food down), absorption (moving small molecules into the blood), assimilation (using the molecules in cells) and egestion (removing undigested material).\n\n## Journey of food\n- **Mouth**: teeth carry out mechanical digestion, cutting food into smaller pieces with a bigger surface area. Saliva contains amylase, which starts to digest starch.\n- **Oesophagus**: a muscular tube. Muscles squeeze behind the food in waves called **peristalsis**, so food moves even when you are lying down.\n- **Stomach**: churns food and mixes it with gastric juice. Hydrochloric acid kills many pathogens, and the enzyme pepsin digests protein.\n- **Small intestine**: the first part (duodenum) receives bile and pancreatic juice. The rest (ileum) is where most absorption occurs.\n- **Large intestine**: absorbs water from the remaining material.\n- **Rectum and anus**: store faeces and then egest them.\n\n## Helper organs\nThe **liver** makes bile and the **gall bladder** stores it. Bile is alkaline, so it neutralises acid from the stomach, and it emulsifies fats, breaking big droplets into many small ones. This does not digest the fat chemically, but it gives lipase a much larger surface area. The **pancreas** makes juice containing amylase, protease and lipase and releases it into the small intestine.\n\n## Absorption and villi\nThe wall of the small intestine is folded and covered in tiny finger-like villi. Each villus has a thin wall, only one cell thick, a rich supply of blood capillaries and a central lacteal. These features give a large surface area, a short diffusion distance and a steep concentration gradient, because blood carries absorbed molecules away. Glucose and amino acids enter the capillaries. Fatty acids and glycerol enter the lacteal. Blood from the small intestine flows through the hepatic portal vein to the liver before reaching the rest of the body.\n\n## Worked example\nA section of gut has an inner surface area of 400 cm² before folding. Folds and villi multiply the area by 30. New area = 400 × 30 = 12 000 cm². Explain: a larger area lets more molecules be absorbed every second.\n\n## Common mistakes\n- Saying bile is an enzyme. It is not; it emulsifies fat and neutralises acid.\n- Saying bile is made in the gall bladder. It is made in the liver and stored in the gall bladder.\n- Confusing egestion (undigested food) with excretion (metabolic waste such as urea).\n- Saying most water is absorbed in the stomach. Very little water is absorbed there. Most is absorbed in the small intestine, and the large intestine absorbs the water that is left in the undigested food.\n\n## How this is examined\nQuestions often give a diagram of the gut and ask you to name organs, then use a data table such as villus length or surface area. Criterion A tasks use command terms such as state, describe and explain. For explain questions, link the structure to its function, for example thin wall means short diffusion distance. Criterion C tasks may ask you to evaluate a model such as Visking tubing, noting that it does not have villi or blood flow.\n\nExam tip: when you explain an adaptation, always write structure, then function, then effect, for example \"villi give a large surface area, so absorption is faster\".",
+    "flashcards": [
+      {
+        "front": "Peristalsis",
+        "back": "Waves of muscle contraction in the gut wall that push food along the alimentary canal."
+      },
+      {
+        "front": "Function of bile",
+        "back": "Made in the liver, stored in the gall bladder. It neutralises stomach acid and emulsifies fat to give a larger surface area for lipase."
+      },
+      {
+        "front": "Where is most food absorbed?",
+        "back": "In the small intestine (ileum), which is long and lined with villi."
+      },
+      {
+        "front": "Adaptations of a villus",
+        "back": "Large surface area, thin one-cell wall, rich blood supply and a lacteal. All of these make absorption fast."
+      },
+      {
+        "front": "What is absorbed into the lacteal?",
+        "back": "Fatty acids and glycerol. Glucose and amino acids go into blood capillaries."
+      },
+      {
+        "front": "Role of the large intestine",
+        "back": "Absorbs water from undigested food, leaving faeces."
+      },
+      {
+        "front": "Egestion vs excretion",
+        "back": "Egestion removes undigested food (faeces). Excretion removes waste made by metabolism, such as urea and carbon dioxide."
+      },
+      {
+        "front": "Role of stomach acid",
+        "back": "Hydrochloric acid kills pathogens and gives pepsin its acidic optimum pH."
+      },
+      {
+        "front": "Five stages of nutrition in order",
+        "back": "Ingestion, digestion, absorption, assimilation, egestion."
+      }
+    ]
+  },
+  {
+    "subject": "biology",
+    "grade": 4,
+    "topic": "Human Digestive and Circulatory Systems",
+    "subTopic": "Heart Structure and the Double Circulation",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "content": "Which chamber of the heart pumps oxygenated blood around the whole body?",
+        "options": [
+          "Left ventricle",
+          "Right ventricle",
+          "Left atrium",
+          "Right atrium"
+        ],
+        "answer": 0,
+        "explanation": "The left ventricle pumps blood into the aorta at high pressure to supply the whole body."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Name the blood vessel that carries blood from the heart to the lungs.",
+        "options": [
+          "Pulmonary artery",
+          "Pulmonary vein",
+          "Aorta",
+          "Vena cava"
+        ],
+        "answer": 0,
+        "explanation": "The pulmonary artery carries deoxygenated blood from the right ventricle to the lungs."
+      },
+      {
+        "difficulty": "easy",
+        "content": "What is the job of the valves in the heart?",
+        "options": [
+          "Add oxygen to blood",
+          "Pump blood faster",
+          "Stop blood flowing backwards",
+          "Filter out bacteria"
+        ],
+        "answer": 2,
+        "explanation": "Valves open one way only, so blood moves in one direction through the heart."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Which vessels supply the heart muscle itself with oxygenated blood?",
+        "options": [
+          "Hepatic veins",
+          "Pulmonary veins",
+          "Vena cava",
+          "Coronary arteries"
+        ],
+        "answer": 3,
+        "explanation": "The coronary arteries run over the surface of the heart. If one is blocked, part of the heart muscle is starved of oxygen."
+      },
+      {
+        "difficulty": "easy",
+        "content": "How many chambers does the human heart have?",
+        "options": [
+          "4",
+          "2",
+          "3",
+          "6"
+        ],
+        "answer": 0,
+        "explanation": "There are two atria and two ventricles."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Which chamber receives oxygenated blood from the lungs?",
+        "options": [
+          "Right atrium",
+          "Left atrium",
+          "Left ventricle",
+          "Right ventricle"
+        ],
+        "answer": 1,
+        "explanation": "Pulmonary veins bring oxygenated blood from the lungs into the left atrium."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Why is the wall of the left ventricle thicker than the wall of the right ventricle?",
+        "options": [
+          "It receives blood from the body",
+          "It pumps blood at higher pressure",
+          "It holds the valves",
+          "It pumps deoxygenated blood"
+        ],
+        "answer": 1,
+        "explanation": "The left ventricle sends blood around the whole body, which needs more force than sending blood to the nearby lungs."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Blood passes through the heart twice in one complete circuit of the body. What is this called?",
+        "options": [
+          "Single circulation",
+          "Double circulation",
+          "Peristalsis",
+          "Ventilation"
+        ],
+        "answer": 1,
+        "explanation": "One loop goes heart to lungs to heart (pulmonary) and the other goes heart to body to heart (systemic)."
+      },
+      {
+        "difficulty": "medium",
+        "content": "What is the main function of the septum in the heart?",
+        "options": [
+          "Prevents backflow into the atria",
+          "Pumps blood into the aorta",
+          "Supplies oxygen to the heart muscle",
+          "Keeps oxygenated and deoxygenated blood apart"
+        ],
+        "answer": 3,
+        "explanation": "The septum is the wall between the left and right sides. Preventing backflow is the job of valves."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Cardiac output = stroke volume × heart rate. A person has a stroke volume of 70 cm³ and a heart rate of 72 beats per minute. What is the cardiac output in cm³ per minute?",
+        "options": [
+          "50400",
+          "142",
+          "504",
+          "5040"
+        ],
+        "answer": 3,
+        "explanation": "70 × 72 = 5040 cm³ per minute."
+      },
+      {
+        "difficulty": "medium",
+        "content": "A person's resting heart rate is 64 beats per minute and rises to 148 beats per minute during running. By how many beats per minute does it rise?",
+        "options": [
+          "212",
+          "84",
+          "94",
+          "74"
+        ],
+        "answer": 1,
+        "explanation": "148 − 64 = 84 beats per minute."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Which vessel returns deoxygenated blood from the body to the right atrium?",
+        "options": [
+          "Pulmonary vein",
+          "Aorta",
+          "Vena cava",
+          "Coronary artery"
+        ],
+        "answer": 2,
+        "explanation": "The vena cava is the large vein that carries blood from the body into the right atrium."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Why can a pulse be felt at the wrist?",
+        "options": [
+          "The bones vibrate with each beat",
+          "Veins contract at the wrist",
+          "Valves close in the capillaries",
+          "Surges of blood stretch the artery wall"
+        ],
+        "answer": 3,
+        "explanation": "Each contraction of the ventricles sends a pressure surge along the arteries, which makes the artery wall stretch and recoil."
+      },
+      {
+        "difficulty": "hard",
+        "content": "What is the advantage of a double circulation compared with a single circulation?",
+        "options": [
+          "Blood pressure is raised again after the lungs",
+          "Blood gains oxygen twice in the body",
+          "Deoxygenated blood skips the lungs",
+          "Blood travels a shorter distance"
+        ],
+        "answer": 0,
+        "explanation": "In a single circulation blood loses pressure in the gas exchange organ. In a double circulation the heart boosts the pressure again, so tissues are supplied faster."
+      },
+      {
+        "difficulty": "hard",
+        "content": "The valve between the left atrium and left ventricle is faulty and leaks. What is the likely effect?",
+        "options": [
+          "Blood flows from the aorta into the right ventricle",
+          "Blood cannot leave the right atrium",
+          "Some blood flows back into the left atrium",
+          "Blood stops entering the lungs"
+        ],
+        "answer": 2,
+        "explanation": "A leaking valve lets blood move backwards when the ventricle contracts, so less blood is pumped into the aorta with each beat."
+      },
+      {
+        "difficulty": "hard",
+        "content": "A baby is born with a hole in the septum between the two ventricles. What is the main problem this causes?",
+        "options": [
+          "The heart cannot beat",
+          "No blood reaches the lungs",
+          "Blood with different oxygen levels mixes",
+          "Blood flows only to the heart muscle"
+        ],
+        "answer": 2,
+        "explanation": "Mixing means the blood sent to the body is less well oxygenated, so tissues may get too little oxygen."
+      },
+      {
+        "difficulty": "hard",
+        "content": "A person's cardiac output is 6000 cm³ per minute with a stroke volume of 80 cm³ and heart rate of 75 beats per minute. After training, the stroke volume is 100 cm³ and cardiac output is unchanged. What is the new heart rate in beats per minute?",
+        "options": [
+          "75",
+          "60",
+          "80",
+          "48"
+        ],
+        "answer": 1,
+        "explanation": "Heart rate = 6000 ÷ 100 = 60 beats per minute. A bigger stroke volume lets the heart beat more slowly for the same output."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Trained athletes often have a lower resting heart rate than other people. What is the best explanation?",
+        "options": [
+          "Each beat pumps a larger volume of blood",
+          "Each beat pumps a smaller volume of blood",
+          "Their heart walls are thinner",
+          "They breathe more quickly at rest"
+        ],
+        "answer": 0,
+        "explanation": "Training strengthens heart muscle, which increases stroke volume, so fewer beats per minute supply the same amount of blood."
+      }
+    ],
+    "note": "The heart is a muscular pump that keeps blood flowing around the body. In humans it has four chambers: two upper atria that receive blood, and two lower ventricles that pump it out. A wall of muscle called the septum separates the left side from the right side, so oxygenated and deoxygenated blood never mix.\n\n## Following the blood\nDeoxygenated blood from the body enters the right atrium through the vena cava. It passes through a valve into the right ventricle, which pumps it through the pulmonary artery to the lungs. In the lungs the blood picks up oxygen and gives out carbon dioxide. Oxygenated blood returns through the pulmonary vein to the left atrium, passes through a valve into the left ventricle and is pumped out through the aorta to the body. Remember the useful rule: arteries carry blood away from the heart, and veins carry blood towards the heart. The pulmonary artery is unusual because it carries deoxygenated blood, and the pulmonary vein carries oxygenated blood.\n\n## Double circulation\nBlood travels through the heart twice on each full trip around the body. The pulmonary circuit goes heart, lungs, heart. The systemic circuit goes heart, body, heart. This is a double circulation. It lets the heart raise the pressure again after the blood has slowed down in the narrow lung capillaries, so oxygen reaches the body quickly. This supports the high metabolic rate of mammals.\n\n## Structures and their functions\n- **Valves**: open one way only and stop backflow. They are found between atria and ventricles and at the start of the arteries.\n- **Thick left ventricle wall**: the left ventricle pumps blood around the whole body at high pressure.\n- **Coronary arteries**: supply the heart muscle with oxygen and glucose. A blockage causes a heart attack.\n\n## Heart rate and cardiac output\nHeart rate is the number of beats per minute. Stroke volume is the volume of blood pumped by one ventricle in one beat. Cardiac output = stroke volume × heart rate. Worked example: stroke volume 70 cm³ and heart rate 72 beats per minute gives 70 × 72 = 5040 cm³ per minute. During exercise, muscles respire faster and need more oxygen, so heart rate increases and cardiac output rises. Regular training increases stroke volume, so the resting heart rate falls.\n\n## Common mistakes\n- Saying that arteries always carry oxygenated blood. The pulmonary artery does not.\n- Drawing the heart from your own point of view. The left side of a diagram is the patient's right side.\n- Saying that the right ventricle is thicker. The left ventricle has the thickest wall.\n- Saying that the heart gets oxygen from the blood inside its chambers. It is supplied by the coronary arteries.\n\n## How this is examined\nTypical items give a labelled heart diagram and ask you to name chambers, trace the flow of blood or explain wall thickness. Data tasks may give heart rates before and after exercise, asking you to calculate change or percentage change. Criterion C questions may ask you to evaluate evidence that exercise lowers resting heart rate.\n\nExam tip: when you describe the path of blood, name every chamber, valve and vessel in order, and always state whether the blood is oxygenated or deoxygenated.",
+    "flashcards": [
+      {
+        "front": "Four chambers of the heart",
+        "back": "Right atrium, right ventricle, left atrium and left ventricle. Atria receive blood and ventricles pump it out."
+      },
+      {
+        "front": "Path of blood from the body",
+        "back": "Vena cava, right atrium, right ventricle, pulmonary artery, lungs, pulmonary vein, left atrium, left ventricle, aorta."
+      },
+      {
+        "front": "Why is the left ventricle wall thicker?",
+        "back": "It pumps blood at high pressure around the whole body, not just to the nearby lungs."
+      },
+      {
+        "front": "Role of heart valves",
+        "back": "Stop blood flowing backwards, so it moves in one direction."
+      },
+      {
+        "front": "Double circulation",
+        "back": "Blood passes through the heart twice per full circuit: pulmonary (heart-lungs-heart) and systemic (heart-body-heart)."
+      },
+      {
+        "front": "Coronary arteries",
+        "back": "Supply the heart muscle with oxygen and glucose. A blockage can cause a heart attack."
+      },
+      {
+        "front": "Cardiac output formula",
+        "back": "Cardiac output = stroke volume × heart rate (for example 70 cm³ × 72 per minute = 5040 cm³ per minute)."
+      },
+      {
+        "front": "Role of the septum",
+        "back": "Separates the left and right sides so oxygenated and deoxygenated blood do not mix."
+      },
+      {
+        "front": "Why does exercise raise heart rate?",
+        "back": "Muscles respire faster and need more oxygen and glucose, and the blood removes carbon dioxide faster."
+      }
+    ]
+  },
+  {
+    "subject": "biology",
+    "grade": 4,
+    "topic": "Human Digestive and Circulatory Systems",
+    "subTopic": "Blood Vessels and Blood Components",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "content": "Which blood vessels carry blood away from the heart?",
+        "options": [
+          "Capillaries",
+          "Veins",
+          "Arteries",
+          "Venules"
+        ],
+        "answer": 2,
+        "explanation": "Arteries carry blood away from the heart at high pressure."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Which blood cells carry oxygen around the body?",
+        "options": [
+          "White blood cells",
+          "Red blood cells",
+          "Platelets",
+          "Plasma"
+        ],
+        "answer": 1,
+        "explanation": "Red blood cells contain haemoglobin, which binds oxygen."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Which pigment in red blood cells binds to oxygen?",
+        "options": [
+          "Keratin",
+          "Chlorophyll",
+          "Melanin",
+          "Haemoglobin"
+        ],
+        "answer": 3,
+        "explanation": "Haemoglobin combines with oxygen in the lungs to form oxyhaemoglobin."
+      },
+      {
+        "difficulty": "easy",
+        "content": "What is the liquid part of blood called?",
+        "options": [
+          "Haemoglobin",
+          "Cytoplasm",
+          "Platelets",
+          "Plasma"
+        ],
+        "answer": 3,
+        "explanation": "Plasma is a pale yellow liquid that carries blood cells and dissolved substances."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Which blood component helps blood to clot at a cut?",
+        "options": [
+          "Haemoglobin",
+          "Red blood cells",
+          "Phagocytes",
+          "Platelets"
+        ],
+        "answer": 3,
+        "explanation": "Platelets are cell fragments that help form a clot and seal wounds."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Which type of blood vessel contains valves?",
+        "options": [
+          "Arteries",
+          "Veins",
+          "Capillaries",
+          "Aorta"
+        ],
+        "answer": 1,
+        "explanation": "Blood in veins is at low pressure, so valves stop it flowing backwards."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Capillary walls are only one cell thick. What does this allow?",
+        "options": [
+          "High blood pressure",
+          "Fast diffusion of substances",
+          "Prevention of backflow",
+          "Blood clotting"
+        ],
+        "answer": 1,
+        "explanation": "A thin wall means a short diffusion distance, so oxygen, glucose and carbon dioxide can exchange quickly."
+      },
+      {
+        "difficulty": "medium",
+        "content": "What shape is a red blood cell?",
+        "options": [
+          "Biconcave disc",
+          "Sphere",
+          "Cuboid",
+          "Spiral"
+        ],
+        "answer": 0,
+        "explanation": "The biconcave shape gives a large surface area for taking up oxygen."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Which type of white blood cell engulfs pathogens?",
+        "options": [
+          "Phagocytes",
+          "Platelets",
+          "Red cells",
+          "Neurones"
+        ],
+        "answer": 0,
+        "explanation": "Phagocytes surround and digest pathogens by phagocytosis."
+      },
+      {
+        "difficulty": "medium",
+        "content": "A person has 5.0 dm³ of blood and 55% is plasma. What volume of plasma do they have in dm³?",
+        "options": [
+          "2.75",
+          "2.25",
+          "0.55",
+          "27.5"
+        ],
+        "answer": 0,
+        "explanation": "55% of 5.0 = 0.55 × 5.0 = 2.75 dm³."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Why do arteries have thick, elastic walls?",
+        "options": [
+          "To store oxygen",
+          "To let substances diffuse out",
+          "To withstand high pressure",
+          "To prevent backflow"
+        ],
+        "answer": 2,
+        "explanation": "Blood leaves the heart at high pressure. Thick muscle and elastic fibres stop the walls bursting and help to keep blood moving."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Which waste substance is carried dissolved in plasma to the kidneys?",
+        "options": [
+          "Starch",
+          "Haemoglobin",
+          "Urea",
+          "Fibrin"
+        ],
+        "answer": 2,
+        "explanation": "Urea is made in the liver from excess amino acids and travels in the plasma to the kidneys."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Why do mature red blood cells have no nucleus?",
+        "options": [
+          "More room for haemoglobin",
+          "So they can divide faster",
+          "So they can make antibodies",
+          "So they can digest bacteria"
+        ],
+        "answer": 0,
+        "explanation": "Without a nucleus there is more space inside the cell for haemoglobin, so each cell carries more oxygen."
+      },
+      {
+        "difficulty": "hard",
+        "content": "A person moves to live at high altitude, where the air has less oxygen. After some weeks, what change is expected in the blood?",
+        "options": [
+          "More platelets are made",
+          "More red blood cells are made",
+          "Fewer red blood cells are made",
+          "The plasma becomes thicker"
+        ],
+        "answer": 1,
+        "explanation": "The body responds to low oxygen by making more red blood cells, which increases the oxygen carried per dm³ of blood."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Blood in a leg vessel flows towards the heart at low pressure, helped by squeezing from nearby muscles. Which vessel is it?",
+        "options": [
+          "Capillary",
+          "Artery",
+          "Vein",
+          "Aorta"
+        ],
+        "answer": 2,
+        "explanation": "Veins have low pressure, wide lumens and valves, and rely on muscle squeezing to push blood back to the heart."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Which protein forms a mesh of threads that traps blood cells in a clot?",
+        "options": [
+          "Keratin",
+          "Haemoglobin",
+          "Amylase",
+          "Fibrin"
+        ],
+        "answer": 3,
+        "explanation": "Platelets release chemicals that convert soluble fibrinogen to insoluble fibrin threads, forming a clot."
+      },
+      {
+        "difficulty": "hard",
+        "content": "A centrifuged blood sample contains 45% red blood cells and 1% white cells and platelets. What percentage is plasma?",
+        "options": [
+          "54",
+          "55",
+          "46",
+          "44"
+        ],
+        "answer": 0,
+        "explanation": "Cells make up 45 + 1 = 46%. Plasma is 100 − 46 = 54%."
+      },
+      {
+        "difficulty": "hard",
+        "content": "People with anaemia have too little haemoglobin and often feel tired. What is the best explanation?",
+        "options": [
+          "Their blood clots too quickly",
+          "Their tissues receive less oxygen",
+          "They have too much plasma protein",
+          "Phagocytes attack their red cells"
+        ],
+        "answer": 1,
+        "explanation": "Less haemoglobin means less oxygen delivered to respiring cells, so less energy is released."
+      }
+    ],
+    "note": "Blood travels around the body in a closed system of tubes called blood vessels. There are three main types, and each is adapted to its job. The blood itself is a tissue made of a liquid, plasma, and several types of cell.\n\n## Types of blood vessel\n- **Arteries** carry blood away from the heart. The blood is at high pressure, so artery walls are thick, with muscle and elastic fibres, and the lumen (the space inside) is narrow. The elastic walls stretch and recoil, which creates the pulse.\n- **Veins** carry blood towards the heart. The pressure is low, so the walls are thinner and the lumen is wide. Veins have valves to stop backflow, and blood is also pushed along when nearby skeletal muscles squeeze the vein.\n- **Capillaries** are tiny vessels with walls only one cell thick. They link arteries to veins and pass very close to nearly every cell. The thin wall gives a short diffusion distance, so oxygen and glucose move out of the blood and carbon dioxide and urea move in.\n\n## Components of blood\nBlood is roughly 55% plasma and 45% cells by volume.\n- **Plasma**: mostly water. It carries dissolved glucose, amino acids, urea, hormones and carbon dioxide, and also distributes heat around the body.\n- **Red blood cells**: carry oxygen. They are biconcave discs, which gives a large surface area, and contain haemoglobin, a red pigment that combines with oxygen to form oxyhaemoglobin. Mature red cells have no nucleus, so there is more room for haemoglobin.\n- **White blood cells**: defend the body. Phagocytes engulf pathogens and lymphocytes make antibodies.\n- **Platelets**: small cell fragments that help blood to clot. At a wound they help to form a mesh of fibrin that traps cells, seals the cut and keeps pathogens out.\n\n## Worked example\nA person has 5.0 dm³ of blood. Plasma is 55% of this, so volume of plasma = 0.55 × 5.0 = 2.75 dm³. In a centrifuged sample with 45% red cells and 1% white cells and platelets, plasma = 100 − 46 = 54%.\n\n## Linking structure to function\nWhen you explain, link structure to function. Red cells have no nucleus, so they hold more haemoglobin. Capillaries are one cell thick, so substances diffuse quickly. Arteries are thick and elastic, so they cope with high pressure. A person with low haemoglobin (anaemia) feels tired because cells receive less oxygen and release less energy by aerobic respiration.\n\n## Common mistakes\n- Saying that veins carry deoxygenated blood only. The pulmonary vein carries oxygenated blood.\n- Saying that platelets are whole cells. They are fragments of cells.\n- Saying that red blood cells carry most of the carbon dioxide. Most carbon dioxide is carried in the plasma.\n- Describing thin artery walls as an advantage. Arteries need thick walls to cope with the pressure.\n\n## How this is examined\nQuestions often show a cross-section diagram of three vessels and ask you to identify them with reasons. Data questions use blood counts at different altitudes or after training. Explain and justify command terms need a structure, a function and a link.\n\nExam tip: when you identify a vessel, give at least two reasons from its structure, such as thick wall and narrow lumen for an artery.",
+    "flashcards": [
+      {
+        "front": "Artery structure",
+        "back": "Thick muscular and elastic wall, narrow lumen, high pressure. Carries blood away from the heart."
+      },
+      {
+        "front": "Vein structure",
+        "back": "Thinner wall, wide lumen, valves, low pressure. Carries blood towards the heart."
+      },
+      {
+        "front": "Capillary structure",
+        "back": "Wall one cell thick, which gives a short diffusion distance for exchange of substances."
+      },
+      {
+        "front": "Plasma",
+        "back": "Liquid part of blood (about 55%). Carries dissolved glucose, amino acids, urea, hormones and carbon dioxide, and heat."
+      },
+      {
+        "front": "Red blood cell adaptations",
+        "back": "Biconcave shape for a large surface area, no nucleus for more haemoglobin, and haemoglobin to carry oxygen."
+      },
+      {
+        "front": "Haemoglobin",
+        "back": "Red pigment in red blood cells that binds oxygen in the lungs to form oxyhaemoglobin."
+      },
+      {
+        "front": "Function of platelets",
+        "back": "Cell fragments that help blood clot by forming a fibrin mesh, sealing wounds and keeping pathogens out."
+      },
+      {
+        "front": "Function of white blood cells",
+        "back": "Defend against disease. Phagocytes engulf pathogens and lymphocytes make antibodies."
+      },
+      {
+        "front": "Why does anaemia cause tiredness?",
+        "back": "Too little haemoglobin means less oxygen is delivered, so cells release less energy by respiration."
+      }
+    ]
+  }
+]

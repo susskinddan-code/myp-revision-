@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Photosynthesis",
+  "subTopic": "The Photosynthesis Equation and Leaf Structure",
+  "questions": [
+   {
+    "difficulty": "easy",
+    "content": "Name the green pigment in chloroplasts that absorbs light.",
+    "options": [
+     "Chlorophyll",
+     "Haemoglobin",
+     "Cellulose",
+     "Melanin"
+    ],
+    "answer": 0,
+    "explanation": "Chlorophyll absorbs light energy so that it can be used to make glucose."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Photosynthesis takes in energy from light. What word describes a reaction that takes in energy?",
+    "options": [
+     "Exothermic",
+     "Endothermic",
+     "Combustion",
+     "Reversible"
+    ],
+    "answer": 1,
+    "explanation": "An endothermic reaction takes in energy from the surroundings. In photosynthesis the energy comes from light."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the gas that is released as a product of photosynthesis.",
+    "options": [
+     "Carbon dioxide",
+     "Nitrogen",
+     "Oxygen",
+     "Methane"
+    ],
+    "answer": 2,
+    "explanation": "Oxygen is made when water molecules are split during photosynthesis and it leaves the leaf through the stomata."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the form of energy that is absorbed by chlorophyll.",
+    "options": [
+     "Heat energy",
+     "Sound energy",
+     "Chemical energy",
+     "Light energy"
+    ],
+    "answer": 3,
+    "explanation": "Chlorophyll absorbs light energy and the plant stores it as chemical energy in glucose."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Besides carbon dioxide, name the raw material that plants take from the soil for photosynthesis.",
+    "options": [
+     "Water",
+     "Oxygen",
+     "Glucose",
+     "Nitrogen"
+    ],
+    "answer": 0,
+    "explanation": "Water is absorbed by the roots and carried to the leaves in the xylem. Carbon dioxide, the other reactant, enters through the stomata."
+   },
+   {
+    "difficulty": "medium",
+    "content": "In the balanced equation 6CO2 + 6H2O -> C6H12O6 + ?O2, what number goes before O2?",
+    "options": [
+     "2",
+     "6",
+     "12",
+     "3"
+    ],
+    "answer": 1,
+    "explanation": "There are 6 carbon atoms and 12 hydrogen atoms on each side. The oxygen atoms: 12 + 6 = 18 on the left, and 6 in glucose + 12 in 6O2 = 18 on the right."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name the layer of cells near the top of a leaf that contains the most chloroplasts.",
+    "options": [
+     "Spongy mesophyll",
+     "Lower epidermis",
+     "Palisade mesophyll",
+     "Xylem"
+    ],
+    "answer": 2,
+    "explanation": "Palisade cells are tall and packed with chloroplasts, and they are near the top of the leaf where the light is strongest."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name the pair of cells that open and close a stoma.",
+    "options": [
+     "Root hair cells",
+     "Palisade cells",
+     "Xylem vessels",
+     "Guard cells"
+    ],
+    "answer": 3,
+    "explanation": "Guard cells change shape to open or close the stoma. This controls gas exchange and water loss."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name the layer in the leaf that has large air spaces to let gases diffuse.",
+    "options": [
+     "Spongy mesophyll",
+     "Palisade mesophyll",
+     "Upper epidermis",
+     "Cuticle"
+    ],
+    "answer": 0,
+    "explanation": "Air spaces in the spongy mesophyll allow carbon dioxide to diffuse to the palisade cells and oxygen to diffuse out."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Why is the upper epidermis of a leaf transparent?",
+    "options": [
+     "To store starch",
+     "To let light through",
+     "To absorb water",
+     "To make glucose"
+    ],
+    "answer": 1,
+    "explanation": "Light must pass through the upper epidermis to reach the chloroplasts in the palisade cells below."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name the waxy layer on the surface of a leaf that reduces water loss.",
+    "options": [
+     "Phloem",
+     "Stomata",
+     "Cuticle",
+     "Xylem"
+    ],
+    "answer": 2,
+    "explanation": "The cuticle is waterproof, so it reduces evaporation from the leaf surface."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name the tissue that carries water into the leaf.",
+    "options": [
+     "Phloem",
+     "Epidermis",
+     "Cuticle",
+     "Xylem"
+    ],
+    "answer": 3,
+    "explanation": "Xylem vessels carry water and mineral ions from the roots to the leaves."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name the tissue that carries sugars away from the leaf to other parts of the plant.",
+    "options": [
+     "Phloem",
+     "Xylem",
+     "Cuticle",
+     "Guard cells"
+    ],
+    "answer": 0,
+    "explanation": "Phloem carries dissolved sugars (sucrose) from the leaves to growing parts and storage organs in a process called translocation."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Which two colours of light does chlorophyll absorb most strongly?",
+    "options": [
+     "Green and yellow",
+     "Red and blue",
+     "Red and green",
+     "Blue and yellow"
+    ],
+    "answer": 1,
+    "explanation": "Chlorophyll absorbs mainly red and blue light and reflects most green light, which is why leaves look green."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Why are the palisade cells found near the top of the leaf?",
+    "options": [
+     "To store water",
+     "To let gases in",
+     "To absorb the most light",
+     "To transport sugars"
+    ],
+    "answer": 2,
+    "explanation": "The top of the leaf receives the most light, so chloroplast-rich cells there carry out the most photosynthesis."
+   },
+   {
+    "difficulty": "hard",
+    "content": "The white part of a variegated leaf does not photosynthesise. Why?",
+    "options": [
+     "It has no cell wall",
+     "It has no water",
+     "It has no stomata",
+     "It has no chlorophyll"
+    ],
+    "answer": 3,
+    "explanation": "White areas have no chloroplasts and so no chlorophyll to absorb light. They cannot photosynthesise."
+   },
+   {
+    "difficulty": "hard",
+    "content": "How many molecules of oxygen are produced when a plant makes 3 molecules of glucose?",
+    "options": [
+     "18",
+     "6",
+     "3",
+     "9"
+    ],
+    "answer": 0,
+    "explanation": "The equation shows 6 molecules of oxygen for each glucose molecule. For 3 glucose molecules, 3 x 6 = 18."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Why is photosynthesis described as the basis of most food chains?",
+    "options": [
+     "It produces heat",
+     "It stores light energy in glucose",
+     "It makes carbon dioxide",
+     "It breaks down food"
+    ],
+    "answer": 1,
+    "explanation": "Photosynthesis changes light energy into chemical energy in glucose. Producers pass this energy on to the consumers that eat them."
+   }
+  ],
+  "note": "Photosynthesis is the process by which plants, algae and some bacteria make their own food. It is the way almost all the energy in food chains enters living things. Plants are called producers because they make glucose from simple substances.\n\n## The photosynthesis equations\nIn words: carbon dioxide + water -> glucose + oxygen, in the presence of light and chlorophyll.\nIn symbols: 6CO2 + 6H2O -> C6H12O6 + 6O2.\nPhotosynthesis is an endothermic reaction: it takes in energy from light. This energy is stored in the bonds of glucose as chemical energy. Chlorophyll, the green pigment in chloroplasts, absorbs the light. It absorbs red and blue light most strongly and reflects green light.\n\nCheck the balance: on the left there are 6 carbon, 12 hydrogen and 18 oxygen atoms. On the right glucose has 6 carbon, 12 hydrogen and 6 oxygen, and 6 O2 adds 12 more oxygen atoms, giving 18. Both sides match.\n\n## Where it happens: the leaf\nA leaf is adapted for photosynthesis:\n- The waxy cuticle reduces water loss.\n- The upper epidermis is thin and transparent, so light passes through.\n- The palisade mesophyll is just below it. The cells are tall, close together and packed with chloroplasts, so they absorb a lot of light.\n- The spongy mesophyll has air spaces, so carbon dioxide can diffuse to the palisade cells.\n- The lower epidermis contains stomata. These pores let carbon dioxide in and oxygen out. Each stoma is opened and closed by two guard cells.\n- Veins contain xylem, which brings water and minerals, and phloem, which carries away sugar.\nA leaf is also thin and broad. This gives a large surface area to absorb light and a short distance for gases to diffuse.\n\n## Worked example 1\nHow many molecules of carbon dioxide are needed to make 4 molecules of glucose? The equation shows 6 CO2 for each glucose. So 4 x 6 = 24 molecules.\n\n## Worked example 2\nA student is asked to explain why palisade cells are well adapted for photosynthesis. A good answer: they contain many chloroplasts with chlorophyll to absorb light; they are located near the top of the leaf, where most light arrives; and they are long and tall, so they fit many cells in a small area of leaf.\n\n## Common mistakes\n- Saying that plants only take in carbon dioxide and give out oxygen. They also respire all the time, taking in oxygen and giving out carbon dioxide.\n- Saying plants get their food from the soil. The soil provides water and minerals; the glucose is made in the leaf.\n- Writing the equation backwards. That is respiration.\n- Writing \"chlorophyll\" for the structure. Chloroplasts are the organelles; chlorophyll is the pigment within them.\n- Thinking stomata are only on the top of the leaf. They are usually on the underside.\n\n## Command terms\n- State: give the word equation.\n- Describe: say what happens to light, water and carbon dioxide.\n- Explain: link a leaf feature to its function, for example why the leaf is thin.\n- Label: add the names to a diagram of a leaf cross-section.\n\nExam tip: for adaptation questions, use the pattern feature, function, benefit, for example \"thin leaf, so a short diffusion distance, so carbon dioxide reaches the cells quickly\".",
+  "flashcards": [
+   {
+    "front": "Word equation for photosynthesis",
+    "back": "Carbon dioxide + water -> glucose + oxygen, using light energy absorbed by chlorophyll."
+   },
+   {
+    "front": "Symbol equation for photosynthesis",
+    "back": "6CO2 + 6H2O -> C6H12O6 + 6O2"
+   },
+   {
+    "front": "Chlorophyll",
+    "back": "The green pigment in chloroplasts that absorbs light, mainly red and blue."
+   },
+   {
+    "front": "Why is photosynthesis endothermic?",
+    "back": "It takes in energy from light and stores it as chemical energy in glucose."
+   },
+   {
+    "front": "Palisade mesophyll",
+    "back": "The layer of tall cells near the top of a leaf, packed with chloroplasts."
+   },
+   {
+    "front": "Spongy mesophyll",
+    "back": "The layer with air spaces that allows gases to diffuse through the leaf."
+   },
+   {
+    "front": "Stomata and guard cells",
+    "back": "Stomata are pores for gas exchange. Guard cells open and close them."
+   },
+   {
+    "front": "Xylem and phloem in a leaf",
+    "back": "Xylem brings water and minerals to the leaf. Phloem carries sugars away."
+   },
+   {
+    "front": "Why are leaves broad and thin?",
+    "back": "A large surface area absorbs more light and a short diffusion distance lets gases reach cells quickly."
+   }
+  ]
+ },
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Photosynthesis",
+  "subTopic": "Factors Affecting Photosynthesis Rate",
+  "questions": [
+   {
+    "difficulty": "easy",
+    "content": "Name the gas whose concentration can limit the rate of photosynthesis.",
+    "options": [
+     "Carbon dioxide",
+     "Nitrogen",
+     "Argon",
+     "Methane"
+    ],
+    "answer": 0,
+    "explanation": "Carbon dioxide is a reactant. If there is very little in the air, the rate of photosynthesis cannot be high."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the factor that is measured in units called lux.",
+    "options": [
+     "Temperature",
+     "Light intensity",
+     "Carbon dioxide concentration",
+     "Water volume"
+    ],
+    "answer": 1,
+    "explanation": "Light intensity is how bright the light is, and it can be measured in lux with a light meter."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the factor that is in shortest supply and limits the rate of photosynthesis.",
+    "options": [
+     "Control variable",
+     "Dependent variable",
+     "Limiting factor",
+     "Catalyst"
+    ],
+    "answer": 2,
+    "explanation": "The limiting factor is the one that is in shortest supply. Increasing it increases the rate, whereas increasing other factors does not."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Which factor limits photosynthesis at night?",
+    "options": [
+     "Carbon dioxide",
+     "Temperature",
+     "Water",
+     "Light"
+    ],
+    "answer": 3,
+    "explanation": "At night there is no light energy, so photosynthesis stops."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the gas given off as bubbles by pondweed in a photosynthesis investigation.",
+    "options": [
+     "Oxygen",
+     "Carbon dioxide",
+     "Hydrogen",
+     "Nitrogen"
+    ],
+    "answer": 0,
+    "explanation": "The bubbles are oxygen released as a product of photosynthesis. Counting them gives an estimate of the rate."
+   },
+   {
+    "difficulty": "medium",
+    "content": "What happens to the rate of photosynthesis as light intensity increases from a very low level?",
+    "options": [
+     "It decreases",
+     "It increases",
+     "It stays the same",
+     "It stops"
+    ],
+    "answer": 1,
+    "explanation": "More light gives more energy for the reaction, so at first the rate rises."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name the water plant commonly used in an investigation of photosynthesis where bubbles are counted.",
+    "options": [
+     "Moss",
+     "Cactus",
+     "Pondweed",
+     "Fern"
+    ],
+    "answer": 2,
+    "explanation": "Pondweed (Elodea or Cabomba) is a water plant that gives off visible bubbles of oxygen from cut stems."
+   },
+   {
+    "difficulty": "medium",
+    "content": "How can a student change the light intensity in a pondweed investigation?",
+    "options": [
+     "Add more water",
+     "Change the bubble size",
+     "Heat the beaker",
+     "Change the distance of the lamp"
+    ],
+    "answer": 3,
+    "explanation": "Moving the lamp closer increases the light intensity. Moving it further away decreases it."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Sodium hydrogencarbonate is added to the water in a pondweed investigation. What does it provide?",
+    "options": [
+     "Carbon dioxide",
+     "Oxygen",
+     "Light",
+     "Nitrogen"
+    ],
+    "answer": 0,
+    "explanation": "Sodium hydrogencarbonate dissolves and releases carbon dioxide, so the amount of carbon dioxide is not the limiting factor."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Why is a beaker of water placed between the lamp and the pondweed?",
+    "options": [
+     "To add oxygen",
+     "To absorb heat from the lamp",
+     "To make the light brighter",
+     "To provide carbon dioxide"
+    ],
+    "answer": 1,
+    "explanation": "The water absorbs heat, so the temperature of the pondweed does not change when the lamp is moved."
+   },
+   {
+    "difficulty": "medium",
+    "content": "The rate of photosynthesis stops increasing even though the light intensity is raised further. What is the most likely explanation?",
+    "options": [
+     "Light is not needed",
+     "The plant has died",
+     "Another factor is now limiting",
+     "Oxygen is used up"
+    ],
+    "answer": 2,
+    "explanation": "Once light is no longer the limiting factor, some other factor such as carbon dioxide or temperature is limiting."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name the type of molecule that controls the reactions of photosynthesis and can be denatured by heat.",
+    "options": [
+     "Hormones",
+     "Vitamins",
+     "Lipids",
+     "Enzymes"
+    ],
+    "answer": 3,
+    "explanation": "Many reactions in photosynthesis are controlled by enzymes. At high temperatures the enzymes denature and the rate falls."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Some greenhouse owners burn paraffin. What does this increase?",
+    "options": [
+     "Carbon dioxide concentration",
+     "Light brightness",
+     "Humidity only",
+     "Oxygen concentration"
+    ],
+    "answer": 0,
+    "explanation": "Burning paraffin releases carbon dioxide and heat, both of which can increase the rate of photosynthesis."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A pondweed gives 40 bubbles per minute at 10 cm from a lamp and 10 bubbles per minute at 20 cm. How many times faster is the rate at 10 cm?",
+    "options": [
+     "2 times",
+     "4 times",
+     "30 times",
+     "The same"
+    ],
+    "answer": 1,
+    "explanation": "The rate at 10 cm divided by the rate at 20 cm = 40 ÷ 10 = 4."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Four repeats of bubble counts are 12, 14, 30 and 13. The value 30 is anomalous. What is the mean of the other results?",
+    "options": [
+     "17.3",
+     "14",
+     "13",
+     "12.5"
+    ],
+    "answer": 2,
+    "explanation": "Mean of 12, 14 and 13 = (12 + 14 + 13) ÷ 3 = 39 ÷ 3 = 13."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A plant at 55 degrees Celsius photosynthesises very slowly. Why?",
+    "options": [
+     "Carbon dioxide is used up",
+     "There is too much light",
+     "Chlorophyll evaporates",
+     "Enzymes are denatured"
+    ],
+    "answer": 3,
+    "explanation": "At high temperatures the enzymes that control photosynthesis lose their shape, so the rate drops."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Light intensity is low but carbon dioxide and temperature are ideal. Which factor is limiting the rate?",
+    "options": [
+     "Light intensity",
+     "Carbon dioxide",
+     "Temperature",
+     "Water"
+    ],
+    "answer": 0,
+    "explanation": "The factor that is furthest from its ideal value is limiting. Here that is the light."
+   },
+   {
+    "difficulty": "hard",
+    "content": "In a pondweed investigation, moving the lamp closer also warms the water. What is the effect on the investigation?",
+    "options": [
+     "It is more accurate",
+     "It is not a fair test",
+     "Bubbles become larger",
+     "Light intensity decreases"
+    ],
+    "answer": 1,
+    "explanation": "Temperature is a second variable that changes, so the change in rate cannot be linked only to light intensity."
+   }
+  ],
+  "note": "The rate of photosynthesis is how fast a plant makes glucose. It is not constant. It depends on several factors, and understanding them helps farmers and gardeners grow more food.\n\n## The three main factors\n1. Light intensity: light provides the energy. As light intensity rises, the rate rises, until another factor becomes limiting.\n2. Carbon dioxide concentration: the air has about 0.04% carbon dioxide. This is low, so it often limits photosynthesis on bright days. Raising it increases the rate.\n3. Temperature: photosynthesis is controlled by enzymes. The rate rises with temperature up to an optimum, then falls quickly as enzymes denature. The optimum for many plants is around 25 to 35 degrees Celsius.\nWater is also needed, but a shortage usually causes the stomata to close, which cuts the supply of carbon dioxide.\n\n## Limiting factors\nA limiting factor is the factor that is in shortest supply and so stops the rate from rising. On a graph of rate against light intensity, the line rises and then flattens. In the rising part, light is limiting. In the flat part, light is no longer limiting and a different factor, such as carbon dioxide or temperature, is limiting. To increase the rate further, you must increase that other factor.\n\n## Investigating light intensity with pondweed\n1. Place a piece of pondweed in a beaker of water with sodium hydrogencarbonate, which provides carbon dioxide.\n2. Put a lamp at a measured distance from the beaker.\n3. Count the bubbles of oxygen given off in one minute.\n4. Repeat at several distances and repeat each three times.\nIndependent variable: distance of the lamp. Dependent variable: bubbles per minute. Control variables: temperature, carbon dioxide, same piece of pondweed and the time. A beaker of water between the lamp and the plant absorbs heat and keeps the temperature steady.\n\nLimitations of counting bubbles are that bubbles vary in size, and some oxygen dissolves. A more accurate method is to collect the gas in a capillary tube or gas syringe and measure its volume.\n\n## Worked example\nDistances and bubbles per minute: 10 cm gave 36, 20 cm gave 9, 40 cm gave 2. From 10 cm to 20 cm the distance doubles and the rate falls from 36 to 9, a fall to a quarter. This shows that the rate falls quickly as the light weakens. Mean of 12, 14 and 13 bubbles = 39 ÷ 3 = 13 bubbles per minute.\n\n## Using this in agriculture\nCommercial greenhouses can control the limiting factors: lamps provide light at night, heaters keep temperature near the optimum, and carbon dioxide can be released into the air. Growers must balance the costs against the extra crop.\n\n## Common mistakes\n- Saying that the rate keeps rising forever as one factor increases. It levels off.\n- Saying that high temperature \"kills\" the enzymes. They are denatured.\n- Not controlling temperature when changing the lamp distance.\n- Counting the bubbles and calling the bubbles \"carbon dioxide\".\n- Forgetting to repeat the readings and calculate a mean.\n\n## Command terms\n- Identify: say which factor is limiting at a point on a graph.\n- Interpret: explain the shape of a rate graph.\n- Suggest: propose how a grower could increase the yield.\n- Evaluate: judge the usefulness of bubble counting as a method.\n\nExam tip: when you describe a graph that levels off, say which factor limits the rate on the rising part, and that another factor limits it on the flat part.",
+  "flashcards": [
+   {
+    "front": "Limiting factor",
+    "back": "The factor in shortest supply that stops the rate of photosynthesis from increasing."
+   },
+   {
+    "front": "Three factors affecting photosynthesis",
+    "back": "Light intensity, carbon dioxide concentration and temperature."
+   },
+   {
+    "front": "Why does the rate fall at high temperature?",
+    "back": "Enzymes that control photosynthesis are denatured."
+   },
+   {
+    "front": "Why does a rate graph level off?",
+    "back": "Another factor, such as carbon dioxide or temperature, has become the limiting factor."
+   },
+   {
+    "front": "What gas do the bubbles from pondweed contain?",
+    "back": "Oxygen, a product of photosynthesis."
+   },
+   {
+    "front": "How to change light intensity in an investigation",
+    "back": "Move the lamp closer or further away from the plant."
+   },
+   {
+    "front": "Why add sodium hydrogencarbonate?",
+    "back": "It releases carbon dioxide, so carbon dioxide is not limiting."
+   },
+   {
+    "front": "Why put a beaker of water in front of the lamp?",
+    "back": "To absorb heat so the temperature stays constant."
+   },
+   {
+    "front": "How do greenhouses increase yield?",
+    "back": "By controlling light, temperature and carbon dioxide concentration."
+   }
+  ]
+ },
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Photosynthesis",
+  "subTopic": "Uses of Glucose and Plant Mineral Needs",
+  "questions": [
+   {
+    "difficulty": "easy",
+    "content": "Name the carbohydrate that plants use to store glucose.",
+    "options": [
+     "Starch",
+     "Cellulose",
+     "Glycogen",
+     "Sucrose"
+    ],
+    "answer": 0,
+    "explanation": "Starch is a large insoluble carbohydrate made from many glucose molecules. Plants store it in leaves, roots and seeds."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the liquid heated in a water bath to remove chlorophyll from a leaf before testing for starch.",
+    "options": [
+     "Water",
+     "Ethanol",
+     "Iodine",
+     "Acid"
+    ],
+    "answer": 1,
+    "explanation": "Hot ethanol dissolves chlorophyll so the leaf turns white, which makes the colour change with iodine easier to see."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the carbohydrate made from glucose that is used to build plant cell walls.",
+    "options": [
+     "Starch",
+     "Glycogen",
+     "Cellulose",
+     "Chitin"
+    ],
+    "answer": 2,
+    "explanation": "Cellulose forms strong fibres in the cell wall. It is made from many glucose molecules."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the soluble sugar in which glucose is transported in phloem.",
+    "options": [
+     "Starch",
+     "Cellulose",
+     "Maltose",
+     "Sucrose"
+    ],
+    "answer": 3,
+    "explanation": "Glucose is converted to sucrose, which is soluble and can be carried in the phloem to other parts of the plant."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the process in which cells release energy from glucose.",
+    "options": [
+     "Respiration",
+     "Photosynthesis",
+     "Digestion",
+     "Transpiration"
+    ],
+    "answer": 0,
+    "explanation": "Plants use some of their glucose in respiration to release energy for growth and active transport."
+   },
+   {
+    "difficulty": "medium",
+    "content": "In the starch test, why is the leaf first dipped in boiling water?",
+    "options": [
+     "To make more starch",
+     "To kill it and soften it",
+     "To remove oxygen",
+     "To add colour"
+    ],
+    "answer": 1,
+    "explanation": "Boiling water kills the leaf cells and breaks down the membranes. It also softens the leaf so that ethanol and iodine can enter."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Why is the leaf then placed in hot ethanol?",
+    "options": [
+     "To make starch",
+     "To kill bacteria",
+     "To remove the chlorophyll",
+     "To add iodine"
+    ],
+    "answer": 2,
+    "explanation": "Chlorophyll would hide the blue-black colour. Ethanol dissolves it, leaving the leaf pale."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Why is the ethanol heated in a water bath and not directly with a flame?",
+    "options": [
+     "Ethanol freezes",
+     "The flame destroys starch",
+     "A water bath is faster",
+     "Ethanol is flammable"
+    ],
+    "answer": 3,
+    "explanation": "Ethanol catches fire easily, so it is heated in a beaker of hot water and the flame is turned off."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Half of a destarched leaf is covered with foil and the plant is placed in the light. After testing with iodine, which half turns blue-black?",
+    "options": [
+     "The uncovered half",
+     "The covered half",
+     "Both halves",
+     "Neither half"
+    ],
+    "answer": 0,
+    "explanation": "Light reaches only the uncovered half, so only that half photosynthesises and stores starch."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name the mineral ion that plants combine with glucose to make proteins.",
+    "options": [
+     "Calcium",
+     "Nitrate",
+     "Sodium",
+     "Chloride"
+    ],
+    "answer": 1,
+    "explanation": "Plants absorb nitrate from the soil and use it with sugar to make amino acids, which form proteins."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A plant has yellow leaves because it lacks a mineral ion. Which ion is needed to make chlorophyll?",
+    "options": [
+     "Iodide",
+     "Sodium",
+     "Magnesium",
+     "Fluoride"
+    ],
+    "answer": 2,
+    "explanation": "Magnesium is part of the chlorophyll molecule. Without it, leaves cannot make enough chlorophyll and turn yellow."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A plant with poor root growth and purple-tinged leaves may be short of which mineral ion?",
+    "options": [
+     "Nitrate",
+     "Magnesium",
+     "Chloride",
+     "Phosphate"
+    ],
+    "answer": 3,
+    "explanation": "Phosphate is needed for making DNA, cell membranes and for energy transfer, and a lack of it limits growth, especially of roots."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Why do farmers add fertilisers to soil?",
+    "options": [
+     "To replace minerals removed by crops",
+     "To add water",
+     "To increase light",
+     "To lower the pH"
+    ],
+    "answer": 0,
+    "explanation": "Crops take minerals out of the soil. Fertilisers contain nitrate, phosphate and potassium to replace what has been lost."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Why is glucose converted to starch for storage?",
+    "options": [
+     "Starch is sweeter",
+     "Starch is insoluble",
+     "Starch is lighter",
+     "Starch dissolves quickly"
+    ],
+    "answer": 1,
+    "explanation": "Insoluble starch does not change the concentration of the cell sap, so it does not draw in water by osmosis. Glucose is soluble and would."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Potatoes store starch in underground tubers. Where was the glucose originally made?",
+    "options": [
+     "In the roots",
+     "In the tuber",
+     "In the leaves",
+     "In the flowers"
+    ],
+    "answer": 2,
+    "explanation": "Glucose is made by photosynthesis in the leaves. It is turned into sucrose, moved in the phloem and converted to starch in the tuber."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A plant lacking nitrate has stunted growth. Which type of molecule can it not make enough of?",
+    "options": [
+     "Starch",
+     "Cellulose",
+     "Sucrose",
+     "Proteins"
+    ],
+    "answer": 3,
+    "explanation": "Nitrate provides the nitrogen needed for amino acids. Without enough amino acids, the plant cannot make proteins for growth."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Before an investigation, a plant is kept in the dark for 48 hours. Why?",
+    "options": [
+     "To use up its existing starch",
+     "To make more chlorophyll",
+     "To kill bacteria",
+     "To increase water uptake"
+    ],
+    "answer": 0,
+    "explanation": "The plant uses its stored starch in respiration. Any starch found afterwards must have been made during the experiment."
+   },
+   {
+    "difficulty": "hard",
+    "content": "The white parts of a variegated leaf stay orange-brown with iodine after the plant has been in the light. What does this show?",
+    "options": [
+     "The leaf has no cell wall",
+     "No photosynthesis took place there",
+     "The leaf has starch there",
+     "The iodine was too weak"
+    ],
+    "answer": 1,
+    "explanation": "White areas have no chlorophyll, so no photosynthesis occurs and no starch is stored. Iodine stays orange-brown."
+   }
+  ],
+  "note": "Photosynthesis makes glucose, but a plant needs much more than glucose to survive. The glucose is used, changed and stored in several ways, and the plant must also take in mineral ions from the soil.\n\n## Uses of glucose\n1. Respiration: some glucose is used in respiration to release energy for growth, active transport and other cell activities.\n2. Making starch: glucose is converted to starch, an insoluble storage molecule. It is stored in leaves, roots, tubers and seeds. Because starch is insoluble, it does not affect the concentration of the cell and so does not draw water in by osmosis.\n3. Making cellulose: glucose is built into cellulose for cell walls.\n4. Making sucrose: sucrose is a soluble sugar that is transported in the phloem to all parts of the plant. Sugar is also stored in fruit.\n5. Making fats and oils: some glucose is used to make lipids stored in seeds, such as sunflower seeds, as an energy store.\n6. Making proteins: glucose is combined with nitrate ions from the soil to make amino acids, then proteins.\n\n## Mineral ions\n- Nitrate: for amino acids and proteins. A shortage causes stunted growth and yellowing of older leaves.\n- Magnesium: for making chlorophyll. A shortage causes yellow leaves.\n- Phosphate: for making DNA and cell membranes and for energy transfer. A shortage causes poor root growth and purple-tinged leaves.\nPlants take up these ions from the soil by active transport. Farmers use fertilisers to replace the minerals that harvested crops remove.\n\n## Testing a leaf for starch\n1. Dip the leaf in boiling water for about 30 seconds to kill it and soften it.\n2. Turn off the flame. Place the leaf in hot ethanol in a boiling tube standing in hot water, to remove the chlorophyll. The leaf turns white.\n3. Rinse the leaf in water to soften it again.\n4. Spread it on a white tile and add iodine solution.\nBlue-black shows starch is present; orange-brown shows it is absent.\n\n## Worked example: is light needed?\nTo test whether light is needed, destarch a plant by leaving it in the dark for 48 hours. Cover part of a leaf with foil, and leave the plant in bright light for some hours. Test the leaf for starch. Result: the covered part is orange-brown, while the uncovered part is blue-black. Conclusion: light is needed for photosynthesis, since starch was made only where light reached.\nA similar test uses a variegated leaf. The green parts turn blue-black and the white parts stay orange-brown, which shows that chlorophyll is needed.\n\n## Common mistakes\n- Saying plants get food from the soil. They get minerals, which are not food.\n- Saying that starch is the immediate product. Glucose is made first and is then converted to starch.\n- Heating the ethanol directly with a flame.\n- Forgetting to destarch the plant before the investigation.\n- Writing \"magnesium makes leaves green\". Magnesium is a part of chlorophyll, which makes them green.\n\n## Command terms\n- List: give several uses of glucose.\n- Explain: give the reason why starch is used for storage.\n- Describe: give the steps of the starch test with the result.\n- Conclude: state what the result of the investigation shows.\n- Justify: give a reason why a step, such as destarching, was needed.\n\nExam tip: in plant mineral questions, name the ion, say what the plant makes with it, and state the effect of a shortage.",
+  "flashcards": [
+   {
+    "front": "Starch",
+    "back": "An insoluble storage carbohydrate made from glucose in plants."
+   },
+   {
+    "front": "Cellulose",
+    "back": "A carbohydrate made from glucose that forms plant cell walls."
+   },
+   {
+    "front": "Sucrose",
+    "back": "A soluble sugar made from glucose that is transported in phloem."
+   },
+   {
+    "front": "Why store glucose as starch?",
+    "back": "Starch is insoluble, so it does not affect osmosis and is compact for storage."
+   },
+   {
+    "front": "Nitrate in plants",
+    "back": "Used with glucose to make amino acids and proteins. Lack causes stunted growth."
+   },
+   {
+    "front": "Magnesium in plants",
+    "back": "Needed to make chlorophyll. Lack causes yellow leaves."
+   },
+   {
+    "front": "Phosphate in plants",
+    "back": "Needed for DNA, cell membranes and energy transfer. Lack causes poor root growth and purple leaves."
+   },
+   {
+    "front": "Starch test for a leaf",
+    "back": "Boil, soften in hot ethanol to remove chlorophyll, rinse, add iodine. Blue-black means starch."
+   },
+   {
+    "front": "Why destarch a plant first?",
+    "back": "Keeping it in the dark uses up existing starch, so any starch found was made during the experiment."
+   }
+  ]
+ }
+]

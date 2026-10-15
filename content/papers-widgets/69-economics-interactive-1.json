@@ -1,0 +1,39 @@
+[
+ {
+  "subject": "economics",
+  "grade": 5,
+  "format": "widget-practice",
+  "title": "Economics MYP 5 Interactive Practice 1 (4 tasks, 28 marks)",
+  "criterion": null,
+  "questions": [
+   {
+    "position": 1,
+    "marks": 7,
+    "criterion": "A",
+    "content": "[[Q 1 | A 5 | C 2]]\nThe market for a type of notebook has a demand rule Qd = 10 - P and a supply rule Qs = P - 2, where P is the price in GBP and Q is the quantity in thousands of notebooks.\n(a) Complete the table for prices of 2, 4, 6 and 8 GBP. Write price, quantity demanded and quantity supplied in the three columns. (2 marks)\n{{fill|m1|Price (GBP),Quantity demanded,Quantity supplied|4}}\n(b) Plot the four demand points on the grid, with quantity on the horizontal axis and price on the vertical axis. (2 marks)\n{{plot|d1|0,10,0,10|Quantity (thousands)|Price (GBP)}}\n(c) The equilibrium price is {{select|e1|4|6|8}} GBP. (1 mark)\n(d) At a price of 8 GBP there is {{select|e2|excess supply|excess demand}}. Calculate its size, in thousands of notebooks. (2 marks)\n\nTotal for Question 1: 7 marks",
+    "mark_scheme": "(a) Interactive answer [m1] rows: (2, 8, 0), (4, 6, 2), (6, 4, 4), (8, 2, 6). Two rows correct [1]; all four correct [1]. (b) Interactive answer [d1]: plotted (8, 2), (6, 4), (4, 6), (2, 8) as (quantity, price). At least three points correct [1]; all four correct [1]. (c) Interactive answer [e1] = 6 [1] (10 - P = P - 2 gives P = 6 and Q = 4). (d) Interactive answer [e2] = excess supply [1]; quantity supplied 6 minus quantity demanded 2 = 4 thousand notebooks [1]."
+   },
+   {
+    "position": 2,
+    "marks": 7,
+    "criterion": "B",
+    "content": "[[Q 2 | B 5 | C 2]]\nThe bar chart shows the annual inflation rate in a fictional country, Country R.\n{{chart|bar|Annual inflation rate in Country R (percent)|Year|Percent|Year 1:2,Year 2:3,Year 3:6,Year 4:4,Year 5:2,Year 6:1}}\n(a) The year with the highest inflation was {{select|i1|Year 2|Year 3|Year 4}}. (1 mark)\n(b) Calculate the mean inflation rate over the six years. (2 marks)\n(c) At the start of Year 3 a bag of rice cost 50 GBP. Calculate its price after the Year 3 inflation rate is applied. (1 mark)\n(d) Match each term to its meaning. (2 marks)\n{{drag|t1|Inflation,Deflation|A general rise in prices over time,A general fall in prices over time,A rise in unemployment}}\n(e) Between Year 3 and Year 5 the inflation rate {{select|i2|rose|fell}}, but prices {{select|i3|still rose|fell}} overall. (1 mark)\n\nTotal for Question 2: 7 marks",
+    "mark_scheme": "(a) Interactive answer [i1] = Year 3 [1]. (b) (2 + 3 + 6 + 4 + 2 + 1) = 18 [1]; 18 / 6 = 3% [1]. (c) 50 x 1.06 = 53 GBP [1]. (d) Interactive answer [t1]: Inflation = a general rise in prices over time [1]; Deflation = a general fall in prices over time [1]. 'A rise in unemployment' is a distractor. (e) Interactive answers [i2] = fell and [i3] = still rose, both correct [1] (inflation of 2% in Year 5 is still positive, so prices are still rising)."
+   },
+   {
+    "position": 3,
+    "marks": 7,
+    "criterion": "C",
+    "content": "[[Q 3 | C 5 | D 2]]\nThe pie chart shows how a fictional government plans to spend 200 billion GBP.\n{{chart|pie|Government spending (billion GBP)|||Health:60,Education:50,Defence:30,Transport:20,Other:40}}\n(a) Complete the table with the percentage of total spending on health, education and defence. Write the area in the first column and the percentage in the second column. (2 marks)\n{{fill|g1|Area,Percentage|3}}\n(b) If the government spends more on transport, one opportunity cost could be {{select|o1|less money available for health or education|more tax revenue|lower unemployment}}. (1 mark)\n(c) The government increases transport spending from 20 billion GBP to 30 billion GBP. Calculate the percentage increase. (2 marks)\n(d) Explain why governments cannot spend unlimited amounts on every area. (2 marks)\n\nTotal for Question 3: 7 marks",
+    "mark_scheme": "(a) Interactive answer [g1] rows: (Health, 30), (Education, 25), (Defence, 15). Two rows correct [1]; all three correct [1]. (b) Interactive answer [o1] = less money available for health or education [1]. (c) (30 - 20) / 20 x 100 [1] = 50% [1]. (d) Resources and tax revenue are limited (scarcity) [1]; spending more in one area means choosing to spend less in another, so choices must be made (opportunity cost) [1]."
+   },
+   {
+    "position": 4,
+    "marks": 7,
+    "criterion": "D",
+    "content": "[[Q 4 | D 5 | B 2]]\nThe unemployment rate in a fictional country over six years was: Year 1: 5%, Year 2: 6%, Year 3: 8%, Year 4: 7%, Year 5: 5%, Year 6: 4%.\n(a) Plot the six unemployment rates on the grid. (2 marks)\n{{plot|u1|0,7,0,10|Year|Unemployment rate (percent)}}\n(b) Match each type of unemployment to its cause. (3 marks)\n{{drag|k1|Frictional unemployment,Structural unemployment,Cyclical unemployment|Workers are between jobs,A factory closes because machines replace workers,Total demand falls in a recession,Workers choose not to look for work}}\n(c) Calculate the fall in the unemployment rate, in percentage points, from Year 3 to Year 6. (1 mark)\n(d) Suggest one government policy to reduce structural unemployment. (1 mark)\n\nTotal for Question 4: 7 marks",
+    "mark_scheme": "(a) Interactive answer [u1]: plotted (1, 5), (2, 6), (3, 8), (4, 7), (5, 5), (6, 4). At least four points correct [1]; all six correct [1]. (b) Interactive answer [k1]: Frictional = workers are between jobs [1]; Structural = a factory closes because machines replace workers [1]; Cyclical = total demand falls in a recession [1]. 'Workers choose not to look for work' is a distractor. (c) 8 - 4 = 4 percentage points [1]. (d) A valid policy such as funding retraining programmes or education for new skills, or helping workers move to where jobs are [1]."
+   }
+  ]
+ }
+]

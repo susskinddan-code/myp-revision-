@@ -70,3 +70,13 @@ Done to flagship depth: Physics MYP 4 and Physics MYP 5 (55 sub-topics each). MY
 - `/my-files`: opens a local PDF (never uploaded) and keeps a localStorage links list
 - Tested end to end with Playwright against a fake PostgREST and fake Anthropic server (`ANTHROPIC_API_URL` override): typed answers (wrong, half right, correct), Mixed test widgets, marking, clickable stat blocks. NOT tested: the real Anthropic API, cache/bank writes with a real service-role key
 - Not built on purpose: free allowance and payments
+
+## Round 3-4 hardening and content (2026-10-15)
+
+- Server AI logic now lives in `src/lib/ai-core.server.ts` (public server functions unchanged in `ai.functions.ts`). `gradePaper` takes only task ids: question and mark scheme are loaded server-side (stored papers by id; AI-written tasks via `gen-<uuid>` bank rows or an HMAC-signed `gen-new-*` task). Client text is never trusted. Writer avoid-lists are built server-side; `safeToBank` filters before anything is shared
+- Migrations 0007 + 0008 (apply in SQL editor): service-role-only RPCs, per-user daily allowance (`AI_USER_DAILY_UNITS`) and global budget (`AI_DAILY_BUDGET_UNITS`), one report per user. They fail open (with a log) if not applied
+- `src/lib/safe-redirect.ts` guards `/auth?redirect=`; TanStack `validateSearch` must always return the key or the raw value survives
+- Saved exams live in sessionStorage (`myp-exam:*`), cleared on sign-out
+- 11 interactive-widget papers in `content/papers-widgets/` (load.sql); Biology MYP 4 in `content/biology-myp4/` (33 sub-topics, SQL in `sql/`); accuracy fixes in `content/fixes/` and `content/review/` — run order in `content/review/RUN-THESE-IN-ORDER.md`
+- Tests: `npx tsx scripts/test-*.mts`, `node scripts/validate-widget-papers.mjs`, `node scripts/check-paper-sizes.mjs`. QA reports in `content/review/QA-round*.md`. Lint ignores generated `src/integrations/supabase/**` and `src/components/ui/**`
+- Known open (Low): daily-quota exhaustion message wording, 60-min mix can run 65 min, tone-number pinyin rejected offline, dev-only React warning on direct /dashboard load

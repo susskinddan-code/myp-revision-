@@ -1,0 +1,528 @@
+[
+  {
+    "subject": "biology",
+    "grade": 4,
+    "topic": "Disease and Immunity",
+    "subTopic": "Pathogens and How Diseases Spread",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "content": "What is a microorganism that causes disease called?",
+        "options": [
+          "Vector",
+          "Antibody",
+          "Pathogen",
+          "Antigen"
+        ],
+        "answer": 2,
+        "explanation": "A pathogen is a microorganism, such as a bacterium, virus, fungus or protist, that causes disease."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Which type of pathogen causes malaria?",
+        "options": [
+          "Fungus",
+          "Bacterium",
+          "Virus",
+          "Protist"
+        ],
+        "answer": 3,
+        "explanation": "Malaria is caused by a single-celled protist called Plasmodium."
+      },
+      {
+        "difficulty": "easy",
+        "content": "What is a disease that can be passed from one person to another called?",
+        "options": [
+          "Non-communicable disease",
+          "Communicable disease",
+          "Genetic disease",
+          "Deficiency disease"
+        ],
+        "answer": 1,
+        "explanation": "Communicable (infectious) diseases are caused by pathogens that spread between hosts."
+      },
+      {
+        "difficulty": "easy",
+        "content": "What is an organism that carries a pathogen from one host to another without usually being harmed called?",
+        "options": [
+          "Antigen",
+          "Antibody",
+          "Vector",
+          "Producer"
+        ],
+        "answer": 2,
+        "explanation": "A vector such as a mosquito transmits a pathogen, but does not get the disease itself."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Which type of pathogen causes influenza?",
+        "options": [
+          "Bacterium",
+          "Virus",
+          "Fungus",
+          "Protist"
+        ],
+        "answer": 1,
+        "explanation": "Influenza (flu) is caused by an influenza virus."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Which animal is the vector for malaria?",
+        "options": [
+          "Mosquito",
+          "Housefly",
+          "Rat",
+          "Tick"
+        ],
+        "answer": 0,
+        "explanation": "Female Anopheles mosquitoes pick up the pathogen from infected people when they feed on blood and pass it to the next person they bite."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Antibiotics are used to treat infections caused by which type of pathogen?",
+        "options": [
+          "Cancer cells",
+          "Viruses",
+          "Bacteria",
+          "Human cells"
+        ],
+        "answer": 2,
+        "explanation": "Antibiotics kill bacteria or stop them growing. They do not work against viruses."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Cholera is usually spread by what?",
+        "options": [
+          "Contaminated water",
+          "Mosquito bites",
+          "Sexual contact",
+          "Droplets in the air"
+        ],
+        "answer": 0,
+        "explanation": "Cholera bacteria spread through drinking water or food contaminated with faeces from an infected person."
+      },
+      {
+        "difficulty": "medium",
+        "content": "How does influenza spread from person to person?",
+        "options": [
+          "Soil",
+          "Contaminated water",
+          "Mosquito bites",
+          "Droplets from coughs and sneezes"
+        ],
+        "answer": 3,
+        "explanation": "Tiny droplets containing the virus are breathed in or picked up on hands and surfaces."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Which measure helps to prevent food-borne diseases?",
+        "options": [
+          "Using mosquito nets",
+          "Cooking food thoroughly",
+          "Draining ponds",
+          "Vaccinating mosquitoes"
+        ],
+        "answer": 1,
+        "explanation": "Heat kills most bacteria in food. Washing hands and storing food correctly also help."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Why does draining pools of stagnant water help to reduce malaria?",
+        "options": [
+          "Mosquitoes breed in standing water",
+          "Mosquitoes drink the water",
+          "The pathogen lives in the water",
+          "Water carries the vaccine"
+        ],
+        "answer": 0,
+        "explanation": "Mosquito larvae develop in still water, so removing it reduces the number of mosquitoes."
+      },
+      {
+        "difficulty": "medium",
+        "content": "One bacterium divides every 30 minutes. How many bacteria are there after 4 hours?",
+        "options": [
+          "128",
+          "8",
+          "16",
+          "256"
+        ],
+        "answer": 3,
+        "explanation": "4 hours = 240 minutes = 8 divisions. 2⁸ = 256 bacteria."
+      },
+      {
+        "difficulty": "medium",
+        "content": "How do many bacteria make us ill?",
+        "options": [
+          "They release toxins",
+          "They make antibodies",
+          "They absorb all the oxygen",
+          "They are too large to digest"
+        ],
+        "answer": 0,
+        "explanation": "Bacteria can release toxins that damage tissues, as well as damaging cells directly."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Why are antibiotics not used to treat a cold?",
+        "options": [
+          "Colds are not infectious",
+          "Colds are caused by fungi",
+          "Antibiotics are too weak",
+          "Colds are caused by viruses"
+        ],
+        "answer": 3,
+        "explanation": "Antibiotics target bacteria. Viruses live inside host cells, and need to be treated in other ways, such as the immune system or antiviral drugs."
+      },
+      {
+        "difficulty": "hard",
+        "content": "After bed nets were provided in a region, malaria cases fell from 2400 to 1560 per year. What is the percentage decrease?",
+        "options": [
+          "35%",
+          "65%",
+          "54%",
+          "840%"
+        ],
+        "answer": 0,
+        "explanation": "Decrease = 2400 − 1560 = 840. 840 ÷ 2400 × 100 = 35%."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Why is controlling a vector often an effective way to control a disease?",
+        "options": [
+          "The vector makes antibodies",
+          "The pathogen cannot reach new hosts without it",
+          "The vector is the only host of the pathogen",
+          "Vectors cannot reproduce"
+        ],
+        "answer": 1,
+        "explanation": "Breaking the transmission cycle prevents new infections even when infected people are still present."
+      },
+      {
+        "difficulty": "hard",
+        "content": "A filter paper disc with an antibiotic placed on an agar plate of bacteria produces a circular clear zone of radius 10 mm. Using π = 3.14, what is the area of the clear zone in mm²?",
+        "options": [
+          "63",
+          "31.4",
+          "314",
+          "100"
+        ],
+        "answer": 2,
+        "explanation": "Area = πr² = 3.14 × 10 × 10 = 314 mm²."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Three antibiotic discs on the same bacteria give clear zones of diameter: A 12 mm, B 20 mm and C 8 mm. Which antibiotic is likely to be most effective against these bacteria?",
+        "options": [
+          "Antibiotic A",
+          "Antibiotic B",
+          "Antibiotic C",
+          "They are equally effective"
+        ],
+        "answer": 1,
+        "explanation": "The largest clear zone shows the antibiotic prevented bacterial growth over the greatest distance. The same size of disc, concentration and agar are needed for a fair test."
+      }
+    ],
+    "note": "A **pathogen** is a microorganism that causes disease. Diseases caused by pathogens that can pass from one organism to another are called **communicable** (infectious) diseases. Diseases that cannot be passed on, such as diabetes or heart disease, are non-communicable.\n\n## Types of pathogen\n- **Bacteria**: single-celled organisms with no nucleus. They reproduce quickly by binary fission and make you ill by releasing toxins and damaging cells. Examples: cholera, salmonella food poisoning, tuberculosis.\n- **Viruses**: tiny particles that are not cells. They can only reproduce inside the cells of a host, which they damage. Examples: influenza, measles, HIV, the common cold.\n- **Fungi**: for example athlete's foot, a skin infection.\n- **Protists**: single-celled organisms with a nucleus. Malaria is caused by the protist Plasmodium.\n\n## How pathogens spread\n- **Direct contact**: touching an infected person or surface, or exchanging body fluids. Athlete's foot and HIV can spread this way.\n- **Airborne droplets**: coughing and sneezing release droplets. Influenza and measles spread like this.\n- **Contaminated food and water**: cholera and salmonella spread when food or water contains the pathogen.\n- **Vectors**: organisms that carry pathogens. Female Anopheles mosquitoes carry the malaria protist from person to person.\n\n## Preventing the spread\n- Washing hands, covering coughs, and cooking food well.\n- Clean water and good sewage treatment, which stop cholera.\n- Controlling vectors: draining stagnant water, using insecticides and bed nets.\n- Isolating infected people and using vaccination (covered in the next sub-topic).\n- Using condoms to reduce the spread of HIV.\n\n## Treating infections\n**Antibiotics** such as penicillin kill bacteria but do not work against viruses, which live inside cells. Overusing antibiotics lets resistant bacteria survive and multiply, which is natural selection. For viruses, doctors may use antiviral drugs, rest and vaccination.\n\n## Testing antibiotics\nIn the lab, bacteria are spread on an agar plate and discs soaked in different antibiotics are placed on top. After incubation, a clear zone appears around a disc where bacteria could not grow. A larger clear zone means a more effective antibiotic. For a fair test the discs must have the same size and concentration, and the plates the same temperature and time. Area of a clear zone = πr². A zone of radius 10 mm has area 3.14 × 10 × 10 = 314 mm².\n\n## Worked example\nOne bacterium divides every 30 minutes. In 4 hours there are 240 ÷ 30 = 8 divisions, so there are 2⁸ = 256 bacteria. This shows why an infection can spread quickly once it begins. Percentage decrease: malaria cases fall from 2400 to 1560. Decrease = 840, and 840 ÷ 2400 × 100 = 35%.\n\n## Common mistakes\n- Saying that antibiotics kill viruses.\n- Saying that the mosquito \"gets\" malaria. It is a vector that carries the protist.\n- Calling all pathogens \"germs\" or \"bacteria\". Be specific.\n- Confusing \"contagious\" with \"caused by any microbe\". Many microbes are harmless or useful.\n\n## How this is examined\nExpect a table comparing the pathogens and routes of transmission, or a case study of an outbreak. Data tasks include percentage change in cases and bacterial growth. Criterion D tasks may ask you to evaluate different strategies to control malaria, such as bed nets, drugs and drainage.\n\nExam tip: name the pathogen type, the way it spreads, and the control measure, and make sure each control measure links to the way the disease spreads.",
+    "flashcards": [
+      {
+        "front": "Pathogen",
+        "back": "A microorganism that causes disease: bacteria, viruses, fungi and protists."
+      },
+      {
+        "front": "Communicable disease",
+        "back": "A disease caused by a pathogen that can be passed from one organism to another."
+      },
+      {
+        "front": "Bacteria vs viruses",
+        "back": "Bacteria are living cells that reproduce on their own and can be killed by antibiotics. Viruses are not cells and reproduce inside host cells."
+      },
+      {
+        "front": "Malaria",
+        "back": "Caused by the protist Plasmodium. It is spread by mosquitoes, which are the vector."
+      },
+      {
+        "front": "Four ways diseases spread",
+        "back": "Direct contact, airborne droplets, contaminated food or water, and vectors."
+      },
+      {
+        "front": "Vector",
+        "back": "An organism that transmits a pathogen between hosts, for example the Anopheles mosquito for malaria."
+      },
+      {
+        "front": "Prevention of cholera",
+        "back": "Clean drinking water and proper sewage treatment, as the bacteria spread through contaminated water."
+      },
+      {
+        "front": "Do antibiotics work on viruses?",
+        "back": "No. Antibiotics only kill bacteria. Viruses live inside host cells."
+      },
+      {
+        "front": "Clear zone on an agar plate",
+        "back": "The area around an antibiotic disc where bacteria cannot grow. A larger clear zone means a more effective antibiotic."
+      }
+    ]
+  },
+  {
+    "subject": "biology",
+    "grade": 4,
+    "topic": "Disease and Immunity",
+    "subTopic": "Defences, Antibodies and Vaccination",
+    "questions": [
+      {
+        "difficulty": "easy",
+        "content": "Which part of the body is the first barrier against pathogens?",
+        "options": [
+          "Kidney",
+          "Liver",
+          "Heart",
+          "Skin"
+        ],
+        "answer": 3,
+        "explanation": "Unbroken skin is a physical barrier that stops pathogens entering the body."
+      },
+      {
+        "difficulty": "easy",
+        "content": "Which white blood cells make antibodies?",
+        "options": [
+          "Lymphocytes",
+          "Phagocytes",
+          "Platelets",
+          "Red blood cells"
+        ],
+        "answer": 0,
+        "explanation": "Lymphocytes make antibodies that are specific to a particular antigen."
+      },
+      {
+        "difficulty": "easy",
+        "content": "What do phagocytes do to pathogens?",
+        "options": [
+          "Make antibodies for them",
+          "Engulf and digest them",
+          "Form clots around them",
+          "Release hormones"
+        ],
+        "answer": 1,
+        "explanation": "Phagocytes surround pathogens and digest them by phagocytosis."
+      },
+      {
+        "difficulty": "easy",
+        "content": "What is a harmless form of a pathogen put into the body to give immunity called?",
+        "options": [
+          "Antibiotic",
+          "Vaccine",
+          "Antibody",
+          "Antitoxin"
+        ],
+        "answer": 1,
+        "explanation": "A vaccine contains dead, weakened or part of a pathogen, so it triggers an immune response without causing illness."
+      },
+      {
+        "difficulty": "easy",
+        "content": "What sticky substance in the nose and trachea traps pathogens?",
+        "options": [
+          "Bile",
+          "Mucus",
+          "Plasma",
+          "Sweat"
+        ],
+        "answer": 1,
+        "explanation": "Mucus traps pathogens and dust, and cilia move it away from the lungs."
+      },
+      {
+        "difficulty": "medium",
+        "content": "What name is given to a molecule on the surface of a pathogen that triggers an immune response?",
+        "options": [
+          "Antigen",
+          "Antibody",
+          "Antibiotic",
+          "Antitoxin"
+        ],
+        "answer": 0,
+        "explanation": "Antigens are recognised by lymphocytes as foreign, and trigger antibody production."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Antibodies are specific. What does this mean?",
+        "options": [
+          "Each type matches only one antigen",
+          "They match any pathogen",
+          "They are only made by phagocytes",
+          "They can only work once"
+        ],
+        "answer": 0,
+        "explanation": "An antibody has a shape that fits one antigen, like a key in a lock."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Which cells stay in the blood after an infection and allow a faster response the next time?",
+        "options": [
+          "Red blood cells",
+          "Platelets",
+          "Memory cells",
+          "Phagocytes"
+        ],
+        "answer": 2,
+        "explanation": "Memory cells remember the antigen, so antibodies are made quickly if the same pathogen returns."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Who developed the first vaccine, against smallpox, in 1796?",
+        "options": [
+          "Louis Pasteur",
+          "Edward Jenner",
+          "Alexander Fleming",
+          "Charles Darwin"
+        ],
+        "answer": 1,
+        "explanation": "Edward Jenner showed that infection with cowpox protected people from smallpox."
+      },
+      {
+        "difficulty": "medium",
+        "content": "What is meant by herd immunity?",
+        "options": [
+          "Only children are vaccinated",
+          "Every person is immune to every disease",
+          "Enough people are immune to limit the spread",
+          "Animals are vaccinated against disease"
+        ],
+        "answer": 2,
+        "explanation": "If a large proportion of a population is immune, the pathogen finds it hard to spread, which protects those who are not immune."
+      },
+      {
+        "difficulty": "medium",
+        "content": "Why can a vaccine not cause the disease it protects against?",
+        "options": [
+          "It contains antibiotics",
+          "It contains antibodies",
+          "The pathogen in it is dead or weakened",
+          "It contains no antigens"
+        ],
+        "answer": 2,
+        "explanation": "Vaccines contain dead or weakened pathogens, or parts of them. They still contain antigens, so they trigger an immune response."
+      },
+      {
+        "difficulty": "medium",
+        "content": "How does the second immune response to a pathogen compare with the first?",
+        "options": [
+          "Faster and larger",
+          "Slower and smaller",
+          "The same speed",
+          "There is no response"
+        ],
+        "answer": 0,
+        "explanation": "Memory cells produce a higher concentration of antibodies more quickly the second time."
+      },
+      {
+        "difficulty": "medium",
+        "content": "In a trial, 1000 vaccinated children and 1000 unvaccinated children were followed. 20 vaccinated and 400 unvaccinated children caught the disease. What percentage of the vaccinated children caught the disease?",
+        "options": [
+          "40%",
+          "20%",
+          "2%",
+          "98%"
+        ],
+        "answer": 2,
+        "explanation": "20 ÷ 1000 × 100 = 2%. In the unvaccinated group the figure was 40%."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Why is a new flu vaccine needed almost every year?",
+        "options": [
+          "Flu is caused by a bacterium",
+          "Memory cells die within a week",
+          "Vaccines contain antibiotics that wear out",
+          "The flu virus mutates, so its antigens change"
+        ],
+        "answer": 3,
+        "explanation": "Mutations change the antigens on the virus, so antibodies made against the old form may not recognise the new one."
+      },
+      {
+        "difficulty": "hard",
+        "content": "After the first exposure to an antigen, the antibody level peaks at 10 units. After the second exposure it peaks at 80 units. How many times higher is the second peak?",
+        "options": [
+          "0.125",
+          "70",
+          "80",
+          "8"
+        ],
+        "answer": 3,
+        "explanation": "80 ÷ 10 = 8 times higher."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Why does a vaccine not cure someone who is already ill with the disease?",
+        "options": [
+          "Immune memory takes time to develop",
+          "Vaccines kill the patient's cells",
+          "Vaccines contain no antigens",
+          "Ill people cannot make antibodies"
+        ],
+        "answer": 0,
+        "explanation": "A vaccine prepares the immune system for future infection. The response takes days to build up, and the infection is already under way."
+      },
+      {
+        "difficulty": "hard",
+        "content": "A disease needs 95% of the population to be immune to achieve herd immunity. The population is 20 000. How many people must be immune?",
+        "options": [
+          "1000",
+          "19000",
+          "9500",
+          "19500"
+        ],
+        "answer": 1,
+        "explanation": "95% of 20 000 = 0.95 × 20 000 = 19 000."
+      },
+      {
+        "difficulty": "hard",
+        "content": "Some babies are too young to be vaccinated. Why does a high vaccination rate in the rest of the population protect them?",
+        "options": [
+          "Antibiotics are passed on",
+          "The babies make antibodies from the vaccine",
+          "The pathogen becomes extinct",
+          "It gives herd immunity"
+        ],
+        "answer": 3,
+        "explanation": "If few people can carry the pathogen, the babies are less likely to be exposed to it."
+      }
+    ],
+    "note": "The body has several lines of defence against pathogens. The first stops them getting in, and the second destroys any that do.\n\n## First line: barriers\n- **Skin**: a tough physical barrier. If it is cut, platelets form a clot to seal the wound.\n- **Mucus and cilia**: in the nose, trachea and bronchi, sticky mucus traps pathogens and cilia sweep it away.\n- **Stomach acid**: hydrochloric acid kills most pathogens in food and drink.\n\n## Second line: white blood cells\n- **Phagocytes** engulf pathogens and digest them. This is phagocytosis. Phagocytes are not specific, they attack anything that is foreign.\n- **Lymphocytes** produce **antibodies**. Each lymphocyte recognises one type of **antigen**, which is a molecule on the surface of a pathogen. When a lymphocyte meets its antigen, it divides to make many cells that produce large amounts of the matching antibody. The antibodies bind to pathogens, clump them together and mark them for destruction by phagocytes. Some lymphocytes also release antitoxins that neutralise toxins.\n- **Memory cells** stay in the blood after the infection. If the same antigen appears again, memory cells make the correct antibody much faster and in larger amounts. This second response often destroys the pathogen before you feel ill. This is immunity.\n\n## Vaccination\nA **vaccine** contains dead or weakened pathogens, or just their antigens. It cannot cause the disease, but the antigens trigger lymphocytes to make antibodies and memory cells. If the real pathogen arrives later, the immune response is fast and strong. Edward Jenner developed the first vaccine, for smallpox, in 1796. Smallpox has now been eradicated.\n\nSome vaccines need booster doses to maintain the level of memory cells. Viruses that mutate quickly, such as influenza, need new vaccines regularly because their antigens change.\n\n## Herd immunity\nWhen a high proportion of a population is vaccinated, the pathogen cannot spread easily, so people who cannot be vaccinated, such as very young babies or those with weak immune systems, are also protected. For a highly infectious disease such as measles, around 95% of the population needs to be immune. If 95% of 20 000 people are immune, that is 0.95 × 20 000 = 19 000 people.\n\n## Evaluating vaccines\nBenefits: prevent serious illness and death, can eradicate disease, protect others. Risks: minor side effects such as a sore arm or mild fever are common, and serious reactions are very rare. A vaccine does not cure an existing infection.\n\n## Worked example\nTrial results: 20 of 1000 vaccinated children caught the disease, compared with 400 of 1000 unvaccinated children. Percentage of vaccinated children = 20 ÷ 1000 × 100 = 2%. Percentage of unvaccinated children = 40%. The vaccine reduced the risk by a large amount.\n\n## Common mistakes\n- Saying that vaccines contain antibodies. They contain antigens.\n- Mixing up antigens (on the pathogen) and antibodies (made by lymphocytes).\n- Saying that antibiotics give immunity. Antibiotics are drugs that kill bacteria.\n- Saying that phagocytes make antibodies.\n\n## How this is examined\nYou may be given a graph of antibody concentration after a first and second exposure, a vaccination trial, or a vaccination coverage map. You are expected to describe the pattern using values, to explain it using memory cells and to evaluate vaccination programmes.\n\nExam tip: in graph questions, describe first, quoting values with units (for example \"the peak is 8 times higher\"), and then explain using the words antigen, antibody and memory cells.",
+    "flashcards": [
+      {
+        "front": "First line of defence",
+        "back": "Skin, mucus and cilia, and stomach acid stop pathogens entering the body."
+      },
+      {
+        "front": "Phagocyte",
+        "back": "A white blood cell that engulfs and digests pathogens (phagocytosis). It is not specific."
+      },
+      {
+        "front": "Lymphocyte",
+        "back": "A white blood cell that makes antibodies specific to one antigen."
+      },
+      {
+        "front": "Antigen vs antibody",
+        "back": "An antigen is a molecule on a pathogen. An antibody is a protein made by lymphocytes that fits one antigen."
+      },
+      {
+        "front": "Memory cells",
+        "back": "Stay in the blood after an infection and produce antibodies faster and in greater amounts if the pathogen returns."
+      },
+      {
+        "front": "How does a vaccine work?",
+        "back": "It contains dead or weakened pathogens or their antigens. They trigger lymphocytes to make antibodies and memory cells, without causing disease."
+      },
+      {
+        "front": "Herd immunity",
+        "back": "When enough of a population is immune that the pathogen cannot spread easily, which also protects people who are not immune."
+      },
+      {
+        "front": "Why does flu need a new vaccine each year?",
+        "back": "The flu virus mutates, so its antigens change and old antibodies may not recognise them."
+      },
+      {
+        "front": "Who developed the first vaccine?",
+        "back": "Edward Jenner developed the smallpox vaccine in 1796 using cowpox."
+      }
+    ]
+  }
+]

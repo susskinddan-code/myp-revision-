@@ -54,7 +54,7 @@ function validate(c) {
 }
 
 const d = (s) => `$mq$${String(s).trim()}$mq$`;
-const files = readdirSync(dir).filter((f) => f.endsWith(".json")).sort();
+const files = readdirSync(dir).filter((f) => f.endsWith(".json") && f !== "outline.json").sort();
 const items = files.flatMap((f) => JSON.parse(readFileSync(join(dir, f), "utf8")).map((x) => ({ ...x, _file: f })));
 // Spread the correct answer evenly over the four positions (deterministic), keeping the other options in order.
 for (const c of items) {

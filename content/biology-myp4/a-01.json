@@ -1,0 +1,791 @@
+[
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Cells and Microscopy",
+  "subTopic": "Organelles and Their Functions",
+  "questions": [
+   {
+    "difficulty": "easy",
+    "content": "Name the structure that contains the DNA and controls the activities of an animal cell.",
+    "options": [
+     "Nucleus",
+     "Vacuole",
+     "Cell membrane",
+     "Cytoplasm"
+    ],
+    "answer": 0,
+    "explanation": "The nucleus holds the cell's DNA and controls its activities. The cytoplasm is where reactions happen, and the membrane controls what moves in and out."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the organelle where aerobic respiration takes place.",
+    "options": [
+     "Chloroplasts",
+     "Mitochondria",
+     "Ribosomes",
+     "Nucleus"
+    ],
+    "answer": 1,
+    "explanation": "Mitochondria release energy from glucose using oxygen. Chloroplasts are for photosynthesis and ribosomes make proteins."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the organelle in plant cells where photosynthesis happens.",
+    "options": [
+     "Mitochondrion",
+     "Vacuole",
+     "Chloroplast",
+     "Nucleus"
+    ],
+    "answer": 2,
+    "explanation": "Chloroplasts contain the green pigment chlorophyll, which absorbs light energy for photosynthesis."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the strong outer layer of a plant cell that is made of cellulose.",
+    "options": [
+     "Cell membrane",
+     "Cytoplasm",
+     "Vacuole",
+     "Cell wall"
+    ],
+    "answer": 3,
+    "explanation": "The cell wall is made of cellulose. It supports the cell and stops it bursting. The membrane inside it is much thinner and controls what moves in and out."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the tiny organelles where proteins are made.",
+    "options": [
+     "Ribosomes",
+     "Mitochondria",
+     "Vacuoles",
+     "Chloroplasts"
+    ],
+    "answer": 0,
+    "explanation": "Ribosomes join amino acids together to make proteins. They are found in all living cells, in the cytoplasm."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name the thin layer around a cell that controls which substances enter and leave.",
+    "options": [
+     "Cell wall",
+     "Cell membrane",
+     "Nucleus",
+     "Cytoplasm"
+    ],
+    "answer": 1,
+    "explanation": "The cell membrane is partially permeable, so it controls which substances pass through. A plant cell wall is fully permeable and mainly gives support."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name the jelly-like substance in which most of a cell's chemical reactions take place.",
+    "options": [
+     "Cell sap",
+     "Chlorophyll",
+     "Cytoplasm",
+     "Cellulose"
+    ],
+    "answer": 2,
+    "explanation": "Cytoplasm is a watery jelly that fills the cell. Many reactions, such as the start of respiration, happen in it."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name the fluid-filled sac in a plant cell that contains cell sap and helps keep the cell firm.",
+    "options": [
+     "Chloroplast",
+     "Ribosome",
+     "Nucleus",
+     "Vacuole"
+    ],
+    "answer": 3,
+    "explanation": "The permanent vacuole stores cell sap. When it is full of water it pushes on the cell wall and keeps the cell firm (turgid)."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Muscle cells need a lot of energy. Name the organelle they have in very large numbers.",
+    "options": [
+     "Mitochondria",
+     "Chloroplasts",
+     "Cell walls",
+     "Large vacuoles"
+    ],
+    "answer": 0,
+    "explanation": "Mitochondria release energy by aerobic respiration, so cells with a high energy demand contain many of them."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Root hair cells are underground and do not photosynthesise. Name the organelle they do not contain, even though most other plant cells do.",
+    "options": [
+     "Nucleus",
+     "Chloroplasts",
+     "Cell wall",
+     "Vacuole"
+    ],
+    "answer": 1,
+    "explanation": "Chloroplasts need light, so cells in the roots do not have them. Root hair cells still have a nucleus, a cell wall and a vacuole."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A cell has a nucleus, membrane and cytoplasm, but no cell wall, chloroplasts or permanent vacuole. What type of cell is it?",
+    "options": [
+     "Plant cell",
+     "Bacterial cell",
+     "Animal cell",
+     "Fungal cell"
+    ],
+    "answer": 2,
+    "explanation": "Animal cells lack a cell wall, chloroplasts and a large permanent vacuole. Bacterial cells have no nucleus, and fungal cells have a cell wall."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name the green pigment in chloroplasts that absorbs light for photosynthesis.",
+    "options": [
+     "Cellulose",
+     "Haemoglobin",
+     "Glycogen",
+     "Chlorophyll"
+    ],
+    "answer": 3,
+    "explanation": "Chlorophyll absorbs light energy, mainly red and blue light, and reflects green light, which is why leaves look green. Haemoglobin is the red pigment in blood."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name the carbohydrate that plant cell walls are made of.",
+    "options": [
+     "Cellulose",
+     "Starch",
+     "Glycogen",
+     "Chitin"
+    ],
+    "answer": 0,
+    "explanation": "Plant cell walls are made of cellulose fibres. Starch is a storage carbohydrate, glycogen is stored by animals, and chitin is found in fungal cell walls."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Mature human red blood cells have no nucleus. What is the advantage of this?",
+    "options": [
+     "Faster cell division",
+     "More room for haemoglobin",
+     "More mitochondria",
+     "A stronger cell wall"
+    ],
+    "answer": 1,
+    "explanation": "Without a nucleus there is more space for haemoglobin, so more oxygen can be carried. The cell cannot divide, but that is a cost and not an advantage."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A leaf cell is kept in the dark for several days. Name the organelle that carries on releasing energy from glucose.",
+    "options": [
+     "Chloroplasts",
+     "Vacuole",
+     "Mitochondria",
+     "Cell wall"
+    ],
+    "answer": 2,
+    "explanation": "Plant cells respire all the time, day and night, in their mitochondria. Chloroplasts need light, so photosynthesis stops in the dark."
+   },
+   {
+    "difficulty": "hard",
+    "content": "If the mitochondria in a cell are damaged, which process is directly affected?",
+    "options": [
+     "Photosynthesis",
+     "Osmosis",
+     "Diffusion",
+     "Aerobic respiration"
+    ],
+    "answer": 3,
+    "explanation": "Aerobic respiration happens in the mitochondria. Osmosis and diffusion are passive and need no energy from the cell, and photosynthesis happens in chloroplasts."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A cell contains a green organelle, a large central vacuole and a cell wall. Which kingdom of living things does it come from?",
+    "options": [
+     "Plants",
+     "Animals",
+     "Bacteria",
+     "Viruses"
+    ],
+    "answer": 0,
+    "explanation": "Chloroplasts, a cell wall and a large vacuole are typical of plant cells. Viruses are not made of cells at all."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Yeast cells have a nucleus and a cell wall made of chitin. Are they prokaryotic or eukaryotic?",
+    "options": [
+     "Prokaryotic",
+     "Eukaryotic",
+     "Acellular",
+     "Non-living"
+    ],
+    "answer": 1,
+    "explanation": "Any cell with a nucleus is eukaryotic. Prokaryotic cells, such as bacteria, have their DNA free in the cytoplasm."
+   }
+  ],
+  "note": "Cells are the basic units of life, and each part inside a cell has a job. The small structures inside cells are called organelles. If you can link each organelle to its function, you can predict which cells will have lots of it.\n\n## Organelles in animal cells\n- The nucleus contains the cell's DNA, arranged in genes. It controls the activities of the cell, including which proteins are made.\n- The cytoplasm is a jelly-like liquid. Many chemical reactions take place in it.\n- The cell membrane is a thin, partially permeable layer around the cell. It controls which substances enter and leave.\n- Mitochondria are where aerobic respiration happens. They release energy from glucose using oxygen.\n- Ribosomes are tiny structures where amino acids are joined together to make proteins.\n\n## Extra structures in plant cells\nPlant cells have all of the above, plus three more:\n- A cell wall made of cellulose. It is outside the membrane, gives strength and support, and is fully permeable.\n- Chloroplasts, which contain chlorophyll and carry out photosynthesis.\n- A permanent vacuole filled with cell sap. When it is full, it pushes the cytoplasm against the cell wall and keeps the cell firm.\n\nNot every plant cell has chloroplasts. Cells in roots are underground, so they get no light and have none.\n\n## Matching structure to function\nCells are adapted for their jobs. A muscle cell needs a lot of energy, so it has many mitochondria. A cell that makes a lot of protein, such as one in a gland, has many ribosomes. A palisade cell in a leaf is packed with chloroplasts because it is the main site of photosynthesis. A mature red blood cell has no nucleus, which leaves more room for haemoglobin to carry oxygen.\n\n## Worked example\nA scientist counts the organelles in two cells. Cell A has 2,000 mitochondria. Cell B has 100 mitochondria. Which cell uses more energy? Cell A, because mitochondria release energy in respiration, so more mitochondria suggests a higher energy demand. If the question asks you to explain, always write the link: more mitochondria, more aerobic respiration, more energy released.\n\nA second example: a cell has a nucleus, a cell wall and a vacuole, but no chloroplasts. You can say it is a plant cell, probably from a part of the plant that is not exposed to light, such as a root.\n\n## Common mistakes\n- Saying the cell wall controls what enters and leaves. That is the membrane's job. The wall only supports the cell.\n- Saying mitochondria make energy. Energy cannot be made; mitochondria release it from glucose. Say \"release energy\".\n- Saying plant cells do not have mitochondria. They do, because plants respire too.\n- Writing \"mitochondria\" for the organelle in photosynthesis. The correct organelle is the chloroplast.\n- Believing that all plant cells have chloroplasts.\n\n## Eukaryotes and prokaryotes\nAnimal, plant and fungal cells are eukaryotic: their DNA is inside a nucleus. Bacteria are prokaryotic: they have no nucleus and their DNA lies free in the cytoplasm.\n\n## Command terms\n- State: give a short answer with no explanation, for example \"State the function of the nucleus.\"\n- Describe: give the main features, for example describe how a root hair cell differs from a palisade cell.\n- Explain: give reasons, using \"because\" or \"so that\". For example, explain why muscle cells contain many mitochondria.\n- Compare: give similarities and differences of plant and animal cells, using words such as \"whereas\" and \"both\".\n\nExam tip: when you explain why a cell has lots of one organelle, always name the process that organelle carries out and link it to what the cell needs.",
+  "flashcards": [
+   {
+    "front": "Nucleus",
+    "back": "Contains the DNA and controls the activities of the cell."
+   },
+   {
+    "front": "Mitochondria",
+    "back": "Organelles where aerobic respiration releases energy from glucose."
+   },
+   {
+    "front": "Ribosomes",
+    "back": "Tiny structures in the cytoplasm where proteins are made."
+   },
+   {
+    "front": "Cell membrane",
+    "back": "Thin partially permeable layer that controls which substances enter and leave the cell."
+   },
+   {
+    "front": "Cell wall",
+    "back": "Strong cellulose layer outside the membrane in plant cells. Gives support and shape."
+   },
+   {
+    "front": "Chloroplast",
+    "back": "Organelle containing chlorophyll where photosynthesis happens. Found in plant cells."
+   },
+   {
+    "front": "Permanent vacuole",
+    "back": "Sac filled with cell sap in plant cells. When full it keeps the cell firm."
+   },
+   {
+    "front": "Organelle",
+    "back": "A small structure inside a cell that carries out a particular job."
+   },
+   {
+    "front": "Eukaryotic vs prokaryotic cell",
+    "back": "Eukaryotic cells have a nucleus. Prokaryotic cells, such as bacteria, have no nucleus and their DNA is free in the cytoplasm."
+   }
+  ]
+ },
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Cells and Microscopy",
+  "subTopic": "Using a Light Microscope",
+  "questions": [
+   {
+    "difficulty": "easy",
+    "content": "Name the part of a light microscope that you look through.",
+    "options": [
+     "Eyepiece lens",
+     "Objective lens",
+     "Stage",
+     "Diaphragm"
+    ],
+    "answer": 0,
+    "explanation": "You look through the eyepiece lens. The objective lenses are on the nosepiece, close to the slide."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the flat platform of a microscope on which the slide is placed.",
+    "options": [
+     "Nosepiece",
+     "Stage",
+     "Eyepiece",
+     "Diaphragm"
+    ],
+    "answer": 1,
+    "explanation": "The slide sits on the stage, held by clips. The light shines up through a hole in the stage."
+   },
+   {
+    "difficulty": "easy",
+    "content": "When you first focus a slide, which objective lens should you use?",
+    "options": [
+     "Highest power",
+     "Medium power",
+     "Lowest power",
+     "Oil-immersion"
+    ],
+    "answer": 2,
+    "explanation": "Start with the lowest-power lens. It gives the widest field of view, makes the specimen easy to find, and is the safest for the slide."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the knob used to make the final small adjustments to sharpen an image.",
+    "options": [
+     "Coarse focus knob",
+     "Diaphragm",
+     "Stage clip",
+     "Fine focus knob"
+    ],
+    "answer": 3,
+    "explanation": "The fine focus knob moves the lens a very small distance, which gives a sharp image. The coarse knob moves it a large distance."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Name the brown liquid stain often used to show up the nuclei and cell walls of onion cells.",
+    "options": [
+     "Iodine solution",
+     "Universal indicator",
+     "Benedict's solution",
+     "Limewater"
+    ],
+    "answer": 0,
+    "explanation": "Iodine solution stains cell structures so they stand out against the background. The other liquids are used in different tests."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A microscope has a x10 eyepiece lens and a x40 objective lens. What is the total magnification?",
+    "options": [
+     "x50",
+     "x400",
+     "x4000",
+     "x30"
+    ],
+    "answer": 1,
+    "explanation": "Total magnification = eyepiece magnification x objective magnification = 10 x 40 = x400."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Why must a specimen on a light microscope slide be very thin?",
+    "options": [
+     "It stays alive longer",
+     "It magnifies more",
+     "Light must pass through it",
+     "It dries faster"
+    ],
+    "answer": 2,
+    "explanation": "A light microscope works by shining light through the specimen. If it is too thick, light cannot pass through and the image is dark."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name the thin piece of glass or plastic placed over a specimen on a slide.",
+    "options": [
+     "Stage clip",
+     "Diaphragm",
+     "Petri dish",
+     "Coverslip"
+    ],
+    "answer": 3,
+    "explanation": "The coverslip flattens the specimen, holds the liquid in place and protects the objective lens."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Why is a coverslip lowered onto the slide at an angle?",
+    "options": [
+     "To avoid trapping air bubbles",
+     "To warm the specimen",
+     "To increase magnification",
+     "To stop the stain evaporating"
+    ],
+    "answer": 0,
+    "explanation": "Lowering it gently at an angle pushes the air out in front. Air bubbles would look like dark circles and could be mistaken for cells."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Why should the high-power lens be focused only with the fine focus knob?",
+    "options": [
+     "To increase brightness",
+     "To avoid crushing the slide",
+     "To make the image smaller",
+     "To stain the cells"
+    ],
+    "answer": 1,
+    "explanation": "The high-power lens sits very close to the slide. Using the coarse knob could push the lens into the slide and break it."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name the part of the microscope that changes the amount of light passing through the specimen.",
+    "options": [
+     "Eyepiece lens",
+     "Stage",
+     "Diaphragm",
+     "Nosepiece"
+    ],
+    "answer": 2,
+    "explanation": "The diaphragm opens and closes to let in more or less light, which affects how clear the image is."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A x10 eyepiece is used with a x10 objective. What is the total magnification?",
+    "options": [
+     "x20",
+     "x1000",
+     "x10",
+     "x100"
+    ],
+    "answer": 3,
+    "explanation": "10 x 10 = x100."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Name the term for how clearly two objects close together can be seen as separate.",
+    "options": [
+     "Resolution",
+     "Magnification",
+     "Contrast",
+     "Field of view"
+    ],
+    "answer": 0,
+    "explanation": "Resolution is the ability to see two close points as separate. Magnification only makes the image bigger, which does not always show more detail."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A slide has the letter p written on it. How will the letter appear when viewed through the microscope?",
+    "options": [
+     "p",
+     "d",
+     "b",
+     "q"
+    ],
+    "answer": 1,
+    "explanation": "A light microscope turns the image upside down and reversed, which is a rotation of 180 degrees. A letter p therefore looks like a d."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A cell appears in the top-left of the field of view. Which way should you move the slide to bring it to the centre?",
+    "options": [
+     "Towards the bottom right",
+     "Towards the top right",
+     "Towards the top left",
+     "Towards the bottom left"
+    ],
+    "answer": 2,
+    "explanation": "The image is inverted, so the slide must be moved the opposite way to how you want the image to move. The image needs to go down and right, so the slide goes up and left, towards where the cell appears."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Name one structure that is too small to be seen with a school light microscope.",
+    "options": [
+     "Nucleus",
+     "Cell wall",
+     "Chloroplast",
+     "Ribosomes"
+    ],
+    "answer": 3,
+    "explanation": "Ribosomes are only about 25 nanometres across, far smaller than a light microscope can resolve. Nuclei, cell walls and chloroplasts can all be seen."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Besides a title and labels, what should be written on a biological drawing so that readers know its size relative to the specimen?",
+    "options": [
+     "Magnification",
+     "Stain colour",
+     "Shading",
+     "Date"
+    ],
+    "answer": 0,
+    "explanation": "The magnification, or a scale bar, tells the reader how much bigger the drawing is than the real specimen."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Stains are added to many specimens to increase which feature of the image?",
+    "options": [
+     "Magnification",
+     "Contrast",
+     "Field of view",
+     "Light intensity"
+    ],
+    "answer": 1,
+    "explanation": "Most cells are almost colourless and transparent. A stain makes some parts darker or coloured, so they stand out clearly, which is an increase in contrast."
+   }
+  ],
+  "note": "A light microscope uses lenses and light to make small objects look larger. Learning to use it correctly is a practical skill that is often tested.\n\n## Parts of the microscope\n- Eyepiece lens: you look through it. It is usually x10.\n- Objective lenses: mounted on a rotating nosepiece. Common powers are x4, x10 and x40.\n- Stage: the platform that holds the slide, usually with clips.\n- Light source (lamp or mirror): shines light up through the specimen.\n- Diaphragm: controls how much light reaches the specimen.\n- Coarse and fine focus knobs: move the lens or stage to bring the image into focus.\n\n## Total magnification\nTotal magnification = eyepiece magnification x objective magnification. A x10 eyepiece with a x40 objective gives x400. Higher magnification shows a smaller part of the specimen, which is called a smaller field of view.\n\nMagnification and resolution are different. Resolution is how well two close points can be told apart. A light microscope can resolve things down to about 200 nanometres, so very small structures such as ribosomes cannot be seen, however much the image is enlarged.\n\n## How to focus\n1. Turn the nosepiece so the lowest-power objective is over the slide.\n2. Use the coarse focus knob to bring the lens close to the slide, looking from the side, not through the eyepiece.\n3. Look through the eyepiece and turn the coarse focus knob until the image is almost sharp.\n4. Use the fine focus knob to sharpen the image.\n5. Move the slide to centre the part you want to study, then change to a higher-power lens if needed and use only the fine focus knob.\n\nThe image is upside down and reversed. If the cell is at the top left of what you see, the slide must be moved towards the top left to bring it to the middle.\n\n## Preparing a temporary slide\nPlace a thin piece of tissue, such as a layer of onion epidermis, in a drop of water on a slide. Add a drop of stain such as iodine solution. Lower a coverslip at an angle with a needle so that no air bubbles are trapped. Blot any extra liquid with paper towel. A stain increases contrast, because cells are mostly transparent.\n\n## Making a biological drawing\nUse a sharp pencil and draw single, clear lines. Do not use shading or colour. Draw only what you see and make the drawing large. Label with straight lines that do not cross, and give a title and the magnification.\n\n## Worked example\nA student looks at a slide with a x10 eyepiece and x4 objective. Total magnification = 10 x 4 = x40. She changes to the x40 objective. New total = 10 x 40 = x400. The cells now look ten times bigger, but fewer cells fit in the field of view.\n\n## Common mistakes\n- Mixing up magnification and resolution.\n- Adding the two magnifications instead of multiplying.\n- Using the coarse knob with a high-power objective, which can break the slide.\n- Moving the slide the wrong way because the image is inverted.\n- Drawing with shading, sketchy lines or without a title.\n\n## Command terms\n- Identify: name a part, such as the diaphragm.\n- Describe: give the steps of focusing in order.\n- Explain: give reasons, for example explain why the lowest power lens is used first.\n- Outline: give a brief summary of how to prepare a slide.\n\nExam tip: if asked why a step is carried out, give the reason in terms of the problem it prevents, such as air bubbles, a broken slide or a dark image.",
+  "flashcards": [
+   {
+    "front": "Total magnification",
+    "back": "Eyepiece magnification x objective magnification. A x10 eyepiece with a x40 objective gives x400."
+   },
+   {
+    "front": "Which objective do you start with?",
+    "back": "The lowest power. It gives the widest field of view and is the safest for the slide."
+   },
+   {
+    "front": "Function of the diaphragm",
+    "back": "Controls the amount of light passing through the specimen."
+   },
+   {
+    "front": "Why use a coverslip?",
+    "back": "It flattens the specimen, holds liquid in place and protects the objective lens."
+   },
+   {
+    "front": "Why lower a coverslip at an angle?",
+    "back": "To avoid trapping air bubbles, which could be mistaken for cells."
+   },
+   {
+    "front": "Why add a stain?",
+    "back": "To increase contrast so cell structures such as nuclei and cell walls can be seen."
+   },
+   {
+    "front": "Resolution",
+    "back": "The ability to see two close points as separate. Light microscopes cannot resolve very small structures such as ribosomes."
+   },
+   {
+    "front": "How does a microscope image appear?",
+    "back": "Upside down and reversed. The slide must be moved the opposite way to the movement wanted in the image."
+   },
+   {
+    "front": "Rules for a biological drawing",
+    "back": "Sharp pencil, single clear lines, no shading or colour, labels with straight lines, a title and the magnification."
+   }
+  ]
+ },
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Cells and Microscopy",
+  "subTopic": "Magnification and Scale Calculations",
+  "questions": [
+   {
+    "difficulty": "easy",
+    "content": "In the equation magnification = image size ÷ ?, what quantity goes in place of the question mark?",
+    "options": [
+     "Actual size",
+     "Field of view",
+     "Lens power",
+     "Eyepiece size"
+    ],
+    "answer": 0,
+    "explanation": "Magnification = image size ÷ actual size. Both sizes must be in the same units."
+   },
+   {
+    "difficulty": "easy",
+    "content": "How many micrometres are there in 1 millimetre?",
+    "options": [
+     "100",
+     "1000",
+     "10",
+     "10000"
+    ],
+    "answer": 1,
+    "explanation": "There are 1000 micrometres (µm) in 1 millimetre, so you multiply by 1000 to convert millimetres to micrometres."
+   },
+   {
+    "difficulty": "easy",
+    "content": "What does the symbol µm stand for?",
+    "options": [
+     "Millimetre",
+     "Nanometre",
+     "Micrometre",
+     "Centimetre"
+    ],
+    "answer": 2,
+    "explanation": "µm is the symbol for micrometre, which is one millionth of a metre. Most animal and plant cells are tens of micrometres across."
+   },
+   {
+    "difficulty": "easy",
+    "content": "A drawing of a cell is 50 mm wide. The real cell is 5 mm wide. What is the magnification?",
+    "options": [
+     "x45",
+     "x250",
+     "x0.1",
+     "x10"
+    ],
+    "answer": 3,
+    "explanation": "Magnification = 50 ÷ 5 = 10, so the drawing is x10."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Which unit is most suitable for measuring the width of a typical animal cell?",
+    "options": [
+     "Micrometres",
+     "Metres",
+     "Centimetres",
+     "Kilometres"
+    ],
+    "answer": 0,
+    "explanation": "Cells are very small, usually 10 to 100 micrometres across, so micrometres give sensible numbers."
+   },
+   {
+    "difficulty": "medium",
+    "content": "An image is 60 mm long and the magnification is x300. What is the actual length in mm?",
+    "options": [
+     "0.5 mm",
+     "0.2 mm",
+     "5 mm",
+     "18000 mm"
+    ],
+    "answer": 1,
+    "explanation": "Actual size = image size ÷ magnification = 60 ÷ 300 = 0.2 mm."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Convert 0.04 mm to micrometres.",
+    "options": [
+     "4 µm",
+     "400 µm",
+     "40 µm",
+     "0.4 µm"
+    ],
+    "answer": 2,
+    "explanation": "Multiply millimetres by 1000: 0.04 x 1000 = 40 µm."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A cell is drawn 45 mm long. Its actual length is 0.015 mm. What is the magnification?",
+    "options": [
+     "x300",
+     "x675",
+     "x30",
+     "x3000"
+    ],
+    "answer": 3,
+    "explanation": "Magnification = 45 ÷ 0.015 = 3000."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A cell is 25 µm wide and viewed with magnification x400. How wide is its image in mm?",
+    "options": [
+     "10 mm",
+     "1 mm",
+     "100 mm",
+     "0.1 mm"
+    ],
+    "answer": 0,
+    "explanation": "Image size = actual size x magnification = 25 x 400 = 10,000 µm. Dividing by 1000 gives 10 mm."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A photo shows a cell 12 mm wide at a magnification of x400. What is its actual width in µm?",
+    "options": [
+     "300 µm",
+     "30 µm",
+     "3 µm",
+     "4800 µm"
+    ],
+    "answer": 1,
+    "explanation": "Actual size = 12 ÷ 400 = 0.03 mm. Multiply by 1000 to get 30 µm."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A scale bar is 20 mm long and represents 50 µm. What is the magnification?",
+    "options": [
+     "x1000",
+     "x40",
+     "x400",
+     "x2.5"
+    ],
+    "answer": 2,
+    "explanation": "20 mm = 20,000 µm. Magnification = 20,000 ÷ 50 = 400."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Convert 3.5 mm to micrometres.",
+    "options": [
+     "350 µm",
+     "35 µm",
+     "35000 µm",
+     "3500 µm"
+    ],
+    "answer": 3,
+    "explanation": "Multiply by 1000: 3.5 x 1000 = 3500 µm."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A cell appears 5 mm wide in an image magnified x100. What is its actual width in µm?",
+    "options": [
+     "50 µm",
+     "500 µm",
+     "5 µm",
+     "20 µm"
+    ],
+    "answer": 0,
+    "explanation": "Actual size = 5 ÷ 100 = 0.05 mm = 50 µm."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A photo has a scale bar 15 mm long labelled 30 µm. A cell in the same photo is 45 mm long. What is its actual length?",
+    "options": [
+     "45 µm",
+     "90 µm",
+     "22.5 µm",
+     "135 µm"
+    ],
+    "answer": 1,
+    "explanation": "15 mm represents 30 µm, so 1 mm represents 2 µm. The cell is 45 mm, so its actual length is 45 x 2 = 90 µm."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A chloroplast is 6 µm long and its image is 3 cm long. What is the magnification?",
+    "options": [
+     "x500",
+     "x18",
+     "x5000",
+     "x50000"
+    ],
+    "answer": 2,
+    "explanation": "3 cm = 30 mm = 30,000 µm. Magnification = 30,000 ÷ 6 = 5000."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A microscope has a x10 eyepiece and gives a total magnification of x400. What is the power of the objective lens?",
+    "options": [
+     "x4",
+     "x10",
+     "x400",
+     "x40"
+    ],
+    "answer": 3,
+    "explanation": "Total = eyepiece x objective, so objective = 400 ÷ 10 = x40."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A cell is 50 µm across. How many of these cells would fit in a line across 1 mm?",
+    "options": [
+     "20",
+     "50",
+     "200",
+     "2"
+    ],
+    "answer": 0,
+    "explanation": "1 mm = 1000 µm. Number = 1000 ÷ 50 = 20."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A drawing of a cell is 36 mm long and the magnification is x240. What is the actual length in µm?",
+    "options": [
+     "15 µm",
+     "150 µm",
+     "1500 µm",
+     "8640 µm"
+    ],
+    "answer": 1,
+    "explanation": "Actual = 36 ÷ 240 = 0.15 mm. Multiply by 1000 to get 150 µm."
+   }
+  ],
+  "note": "Biologists often need to work out how big a cell really is from a drawing or a photograph, or to say how many times a specimen has been enlarged. This needs one equation, a few unit conversions and careful working.\n\n## The magnification equation\nMagnification = image size ÷ actual size\n\nThis can be rearranged:\n- Actual size = image size ÷ magnification\n- Image size = actual size x magnification\n\nA triangle with image size at the top and actual size and magnification at the bottom helps you remember the three versions. Magnification is a ratio, so it has no units, but it is written with an x, such as x400. The image size and actual size must be in the same units before you divide.\n\n## Units of length\n- 1 metre = 1000 millimetres (mm)\n- 1 mm = 1000 micrometres (µm)\n- 1 cm = 10 mm\n\nTo change millimetres to micrometres, multiply by 1000. To change micrometres to millimetres, divide by 1000. Most animal and plant cells are 10 to 100 µm across, which is why micrometres are the usual unit.\n\n## Using a scale bar\nMany photographs have a scale bar. Measure the bar with a ruler, then use the label to work out how much each millimetre of the photo represents. For example, if a 10 mm bar is labelled 20 µm, then 1 mm of photo is 2 µm of real length. A cell that measures 30 mm on the photo is then 60 µm long.\n\n## Worked example 1\nA drawing of a cell is 48 mm long. The student's microscope magnified the cell x200 in the field of view and the drawing was made at the same size as the image.\nActual size = 48 ÷ 200 = 0.24 mm. To convert, 0.24 x 1000 = 240 µm.\n\n## Worked example 2\nAn amoeba has a diameter of 0.25 mm. A photograph shows it with an image diameter of 75 mm.\nMagnification = 75 ÷ 0.25 = 300, so the photo is x300.\n\n## Worked example 3\nA chloroplast is 5 µm long and a textbook picture has a magnification of x2000. Image size = 5 x 2000 = 10,000 µm = 10 mm.\n\n## Good practice in calculations\n1. Write the equation first.\n2. Convert all lengths to the same unit before you substitute.\n3. Show each step of working.\n4. Give a unit with your final answer, except for magnification.\n5. Check the answer is sensible. If you calculate a cell width of 5 metres, you have made a unit error.\n\n## Common mistakes\n- Dividing the wrong way round, which gives magnifications less than 1 for an enlarged image.\n- Forgetting to convert mm and µm before calculating.\n- Dividing by 1000 when multiplying is needed, or the reverse.\n- Measuring the scale bar and the cell with different units.\n- Adding the eyepiece and objective magnifications, instead of multiplying them.\n- Writing the final answer without units.\n\n## Command terms\n- Calculate: work out a numerical answer and show your working.\n- Determine: use the data given to find the answer, such as measuring a scale bar.\n- State: give the unit or the answer only.\n- Estimate: give an approximate value, such as how many cells would fit across the field of view.\n\nExam tip: if you are marked on the working, write the equation, the substitution and the answer with its unit on separate lines.",
+  "flashcards": [
+   {
+    "front": "Magnification equation",
+    "back": "Magnification = image size ÷ actual size."
+   },
+   {
+    "front": "Actual size equation",
+    "back": "Actual size = image size ÷ magnification."
+   },
+   {
+    "front": "Image size equation",
+    "back": "Image size = actual size x magnification."
+   },
+   {
+    "front": "Millimetres to micrometres",
+    "back": "Multiply by 1000. For example 0.2 mm = 200 µm."
+   },
+   {
+    "front": "Micrometres to millimetres",
+    "back": "Divide by 1000. For example 50 µm = 0.05 mm."
+   },
+   {
+    "front": "What is a micrometre?",
+    "back": "A unit of length equal to one thousandth of a millimetre. Symbol µm. Cells are tens of micrometres across."
+   },
+   {
+    "front": "How to use a scale bar",
+    "back": "Measure the bar in mm, divide the real length it shows by that number to find what 1 mm represents, then measure the specimen and multiply."
+   },
+   {
+    "front": "Total magnification of a microscope",
+    "back": "Eyepiece magnification x objective magnification."
+   },
+   {
+    "front": "Common unit error",
+    "back": "Not converting to the same unit before using the equation. Convert mm and µm first."
+   }
+  ]
+ }
+]

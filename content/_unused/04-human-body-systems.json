@@ -1,0 +1,1317 @@
+[
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Human Body Systems",
+  "subTopic": "The Circulatory System",
+  "questions": [
+   {
+    "difficulty": "easy",
+    "content": "Which blood vessels carry blood away from the heart?",
+    "options": [
+     "Veins",
+     "Arteries",
+     "Capillaries",
+     "Valves"
+    ],
+    "answer": 1,
+    "explanation": "Arteries carry blood away from the heart at high pressure. Veins carry blood back to the heart."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Which part of the blood carries oxygen?",
+    "options": [
+     "White blood cells",
+     "Platelets",
+     "Plasma only",
+     "Red blood cells"
+    ],
+    "answer": 3,
+    "explanation": "Red blood cells contain haemoglobin, which binds to oxygen in the lungs and releases it in the tissues."
+   },
+   {
+    "difficulty": "easy",
+    "content": "How many chambers does the human heart have?",
+    "options": [
+     "Four",
+     "Two",
+     "Three",
+     "Six"
+    ],
+    "answer": 0,
+    "explanation": "The heart has two atria (upper) and two ventricles (lower)."
+   },
+   {
+    "difficulty": "easy",
+    "content": "What is the function of platelets?",
+    "options": [
+     "Carrying oxygen",
+     "Fighting bacteria",
+     "Helping the blood to clot",
+     "Carrying carbon dioxide"
+    ],
+    "answer": 2,
+    "explanation": "Platelets are cell fragments that help blood clot at a wound, sealing it and stopping bleeding."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Why do veins have valves?",
+    "options": [
+     "To make blood flow faster",
+     "To stop blood flowing backwards",
+     "To carry oxygen",
+     "To strengthen the walls"
+    ],
+    "answer": 1,
+    "explanation": "Blood in veins is at low pressure, so valves prevent backflow and keep blood moving towards the heart."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Which vessel carries oxygenated blood from the lungs to the heart?",
+    "options": [
+     "Pulmonary artery",
+     "Vena cava",
+     "Aorta",
+     "Pulmonary vein"
+    ],
+    "answer": 3,
+    "explanation": "The pulmonary vein carries oxygenated blood from the lungs to the left atrium. The pulmonary artery carries deoxygenated blood to the lungs."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Why is the wall of the left ventricle thicker than the right ventricle?",
+    "options": [
+     "It pumps blood around the whole body at higher pressure",
+     "It pumps blood to the lungs only",
+     "It stores more blood",
+     "It contains the valves"
+    ],
+    "answer": 0,
+    "explanation": "The left ventricle sends blood to the body through the aorta, which needs high pressure. The right pumps to the nearby lungs."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Why is the circulation in humans described as a double circulation?",
+    "options": [
+     "Blood passes through two hearts",
+     "Blood travels in two arteries",
+     "Blood passes through the heart twice in one complete circuit",
+     "Blood flows twice as fast"
+    ],
+    "answer": 2,
+    "explanation": "Blood goes from the heart to the lungs and back, then from the heart to the body and back, passing through the heart twice per circuit."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Which feature makes capillaries well suited to exchanging substances?",
+    "options": [
+     "Thick muscular walls",
+     "Walls only one cell thick",
+     "Valves along their length",
+     "Wide lumen"
+    ],
+    "answer": 1,
+    "explanation": "Thin walls give a short diffusion distance for oxygen, glucose and carbon dioxide between blood and cells."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A person's heart beats 72 times a minute and pumps 70 mL of blood with each beat. What is the volume pumped per minute?",
+    "options": [
+     "142 mL",
+     "504 mL",
+     "50 400 mL",
+     "5 040 mL"
+    ],
+    "answer": 3,
+    "explanation": "72 × 70 = 5 040 mL per minute."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Which cells are mainly responsible for making antibodies?",
+    "options": [
+     "Lymphocytes",
+     "Red blood cells",
+     "Platelets",
+     "Phagocytes"
+    ],
+    "answer": 0,
+    "explanation": "Lymphocytes are white blood cells that make antibodies. Phagocytes engulf and digest pathogens."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A student feels her pulse at the wrist at 80 beats per minute while resting and 130 after a run. What is the best explanation?",
+    "options": [
+     "The heart is getting smaller",
+     "Veins have lost their valves",
+     "Muscles need more oxygen and glucose, so the heart beats faster",
+     "There is less blood in the body"
+    ],
+    "answer": 2,
+    "explanation": "Exercise raises the energy demand, so heart rate rises to deliver more oxygen and glucose and remove carbon dioxide."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Which statement about arteries is correct?",
+    "options": [
+     "They have valves to stop backflow",
+     "They have thick elastic walls to withstand high pressure",
+     "They have walls one cell thick",
+     "They always carry oxygenated blood"
+    ],
+    "answer": 1,
+    "explanation": "Arteries have thick elastic and muscular walls. The pulmonary artery is an exception that carries deoxygenated blood."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A blocked coronary artery leads to a heart attack. Why does this damage the heart muscle?",
+    "options": [
+     "The blood has too many platelets",
+     "The heart muscle has too much oxygen",
+     "The valves leak",
+     "The muscle cells lose their oxygen and glucose supply and cannot respire"
+    ],
+    "answer": 3,
+    "explanation": "Coronary arteries supply the heart muscle itself. If blocked, the cells starve of oxygen and glucose and die."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A sprinter's resting heart rate is 60 beats per minute with a stroke volume of 90 mL. Calculate the cardiac output in mL per minute.",
+    "options": [
+     "5 400",
+     "150",
+     "1.5",
+     "540"
+    ],
+    "answer": 0,
+    "explanation": "Cardiac output = heart rate × stroke volume = 60 × 90 = 5 400 mL per minute."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Blood pressure is highest in arteries, lower in capillaries and lowest in veins. Which statement explains why valves are needed in veins but not arteries?",
+    "options": [
+     "Veins carry blood faster",
+     "Arteries carry blood slower",
+     "Blood in veins has low pressure so cannot be pushed back by the heart alone",
+     "Veins have thicker walls"
+    ],
+    "answer": 2,
+    "explanation": "Arterial blood is pushed on by the pulse from the heart, but vein blood relies on muscle squeezing, so valves stop backflow."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A patient has a hole between the left and right ventricles, so some oxygenated blood mixes with deoxygenated blood. What is the likely effect?",
+    "options": [
+     "More oxygen is delivered to the tissues",
+     "Less oxygen is delivered to the body tissues",
+     "No effect because the blood is the same",
+     "The lungs receive no blood"
+    ],
+    "answer": 1,
+    "explanation": "Mixing reduces the oxygen content of the blood sent around the body, so cells get less oxygen for respiration."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A doctor tests how well a drug lowers heart rate. Patients are given the drug and heart rates are measured before and after. What is the best way to make the results more reliable?",
+    "options": [
+     "Test only one patient",
+     "Measure only after",
+     "Give the drug to everyone and ignore other factors",
+     "Use a larger group and include a control group not given the drug"
+    ],
+    "answer": 3,
+    "explanation": "A larger sample reduces the effect of chance, and a control group lets the effect of the drug be separated from other causes."
+   }
+  ],
+  "note": "The circulatory system\nYour body is made of trillions of cells that need a constant supply of oxygen and glucose and a way to remove waste such as carbon dioxide. The circulatory system does this job. It has three main parts: the heart (the pump), the blood vessels (the pipes) and the blood (the transport fluid). Humans have a **double circulation**: blood passes through the heart twice on each complete circuit of the body. One loop goes to the lungs to pick up oxygen, and the other goes to the rest of the body.\n\n## The heart\nThe heart is made of cardiac muscle and has four chambers.\n- The **right atrium** receives deoxygenated blood from the body through the vena cava.\n- The **right ventricle** pumps it to the lungs through the pulmonary artery.\n- The **left atrium** receives oxygenated blood from the lungs through the pulmonary vein.\n- The **left ventricle** pumps it around the body through the aorta.\n\nThe left ventricle has a thicker muscular wall than the right because it pumps blood a long way at higher pressure. Valves between the atria and ventricles, and at the exits, keep the blood flowing in one direction. The heart muscle has its own blood supply from the **coronary arteries**. If one is blocked, the muscle is starved of oxygen and a heart attack may occur. Cardiac output is the volume pumped per minute: heart rate × stroke volume. For example, 72 beats per minute × 70 mL = 5 040 mL per minute.\n\n## Blood vessels\n- **Arteries** carry blood away from the heart at high pressure. They have thick, elastic, muscular walls and a narrow lumen.\n- **Veins** carry blood towards the heart at low pressure. They have thinner walls, a wider lumen and valves to prevent backflow.\n- **Capillaries** are tiny vessels with walls one cell thick. They form networks around the tissues, so substances can diffuse quickly between the blood and cells.\n\nA common trap is to say arteries always carry oxygenated blood. The pulmonary artery carries deoxygenated blood and the pulmonary vein carries oxygenated blood. The correct rule is: arteries away, veins towards.\n\n## Blood\nBlood has four main components:\n- **Plasma**: a pale yellow liquid that carries dissolved glucose, carbon dioxide, hormones, urea and heat.\n- **Red blood cells**: carry oxygen using haemoglobin. They are biconcave discs with no nucleus, giving a large surface area and more room for haemoglobin.\n- **White blood cells**: defend against disease. Phagocytes engulf pathogens and lymphocytes make antibodies.\n- **Platelets**: fragments of cells that help blood clot.\n\n## Heart rate and exercise\nDuring exercise muscle cells respire faster. The heart rate rises to deliver more oxygen and glucose and to remove carbon dioxide. Regular exercise strengthens the heart, so the resting heart rate is often lower. Diet, smoking and stress can affect heart health. Fatty deposits in the coronary arteries can narrow them and lead to coronary heart disease.\n\n## Common mistakes\n- Mixing up artery and vein. Remember: arteries carry blood Away.\n- Saying the left side of the heart is on the left of the page. In diagrams the heart is drawn as if seen from the front, so the left side appears on the right.\n- Saying blood is \"used up\". Blood circulates and is reused.\n\n## How this is examined\nYou may be given a diagram of the heart to label, a table of heart rates before and after exercise, or a scenario about a patient. Expect calculations (cardiac output, percentage change), explanations linking structure to function, and evaluations of how reliable an investigation is.\n\nExam tip: To explain a structure-and-function question, give the feature, then the effect, such as thick walls so that they withstand high pressure.",
+  "flashcards": [
+   {
+    "front": "Double circulation",
+    "back": "Blood passes through the heart twice per circuit: heart → lungs → heart → body."
+   },
+   {
+    "front": "Four chambers of the heart",
+    "back": "Right atrium, right ventricle, left atrium, left ventricle."
+   },
+   {
+    "front": "Artery vs vein",
+    "back": "Arteries carry blood away from the heart at high pressure; veins carry blood towards the heart at low pressure and have valves."
+   },
+   {
+    "front": "Capillary adaptation",
+    "back": "Walls one cell thick for quick diffusion of oxygen, glucose and carbon dioxide."
+   },
+   {
+    "front": "Function of red blood cells",
+    "back": "Carry oxygen using haemoglobin. Biconcave and no nucleus."
+   },
+   {
+    "front": "Function of white blood cells",
+    "back": "Phagocytes engulf pathogens; lymphocytes make antibodies."
+   },
+   {
+    "front": "Platelets",
+    "back": "Cell fragments that help blood clot."
+   },
+   {
+    "front": "Cardiac output",
+    "back": "Heart rate × stroke volume (volume pumped per minute)."
+   },
+   {
+    "front": "Coronary arteries",
+    "back": "Supply the heart muscle with oxygen and glucose. A blockage can cause a heart attack."
+   }
+  ]
+ },
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Human Body Systems",
+  "subTopic": "The Respiratory System",
+  "questions": [
+   {
+    "difficulty": "easy",
+    "content": "Which is the correct path of air into the lungs?",
+    "options": [
+     "Nose → bronchus → trachea → alveoli → bronchiole",
+     "Nose → trachea → bronchus → bronchiole → alveoli",
+     "Mouth → alveoli → bronchioles → trachea",
+     "Nose → bronchioles → bronchus → trachea"
+    ],
+    "answer": 1,
+    "explanation": "Air passes down the trachea, which divides into two bronchi, then into smaller bronchioles ending in alveoli."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Which muscle contracts and flattens during inhalation?",
+    "options": [
+     "Biceps",
+     "Heart",
+     "Stomach",
+     "Diaphragm"
+    ],
+    "answer": 3,
+    "explanation": "When the diaphragm contracts and flattens, the volume of the chest increases, drawing air in."
+   },
+   {
+    "difficulty": "easy",
+    "content": "What is the function of mucus in the airways?",
+    "options": [
+     "To trap dust and microbes",
+     "To carry oxygen",
+     "To make the lungs bigger",
+     "To warm the blood"
+    ],
+    "answer": 0,
+    "explanation": "Mucus traps particles and pathogens. Cilia then sweep it up towards the throat."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Which harmful substance in cigarette smoke is addictive?",
+    "options": [
+     "Carbon dioxide",
+     "Oxygen",
+     "Nicotine",
+     "Nitrogen"
+    ],
+    "answer": 2,
+    "explanation": "Nicotine is the addictive drug. Tar causes cancer and carbon monoxide reduces oxygen carried by the blood."
+   },
+   {
+    "difficulty": "easy",
+    "content": "What is the role of cilia in the trachea?",
+    "options": [
+     "To absorb oxygen",
+     "To move mucus and trapped particles up and away from the lungs",
+     "To push air into the lungs",
+     "To make mucus"
+    ],
+    "answer": 1,
+    "explanation": "Cilia are tiny hairs on cells that beat to sweep mucus upwards."
+   },
+   {
+    "difficulty": "medium",
+    "content": "During exhalation at rest, what happens to the ribcage and diaphragm?",
+    "options": [
+     "Ribs move up; diaphragm flattens",
+     "Ribs stay still; diaphragm flattens",
+     "Ribs move down; diaphragm contracts",
+     "Ribs move down and in; diaphragm relaxes and rises"
+    ],
+    "answer": 3,
+    "explanation": "Chest volume decreases, pressure increases above atmospheric pressure, and air is forced out."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A person takes 15 breaths per minute, each moving 500 mL of air. What volume of air moves per minute?",
+    "options": [
+     "7 500 mL",
+     "515 mL",
+     "750 mL",
+     "33 mL"
+    ],
+    "answer": 0,
+    "explanation": "15 × 500 = 7 500 mL per minute."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Which best describes what happens in an asthma attack?",
+    "options": [
+     "The alveoli fill with blood",
+     "The diaphragm stops working",
+     "Airway muscles contract and the lining swells, narrowing the airways",
+     "Cilia grow too long"
+    ],
+    "answer": 2,
+    "explanation": "In asthma, airways narrow due to muscle tightening, swelling and extra mucus, making breathing difficult. An inhaler relaxes the muscle."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Why does carbon monoxide in smoke reduce the oxygen carried by the blood?",
+    "options": [
+     "It destroys the alveoli directly",
+     "It binds to haemoglobin more strongly than oxygen",
+     "It makes red blood cells larger",
+     "It dissolves in plasma"
+    ],
+    "answer": 1,
+    "explanation": "Carbon monoxide combines with haemoglobin, so there is less haemoglobin free to carry oxygen."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A student measures her breathing rate sitting (14 breaths per minute) and after running (30 breaths per minute). By what percentage did it increase?",
+    "options": [
+     "53%",
+     "47%",
+     "214%",
+     "Approximately 114%"
+    ],
+    "answer": 3,
+    "explanation": "(30 − 14) ÷ 14 × 100 = 114.3%. Percentage change is the increase divided by the original value."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Which statement correctly compares inhaled and exhaled air?",
+    "options": [
+     "Exhaled air has less oxygen and more carbon dioxide",
+     "Exhaled air has no oxygen",
+     "Exhaled air has less carbon dioxide",
+     "Exhaled air has less nitrogen"
+    ],
+    "answer": 0,
+    "explanation": "Some oxygen is absorbed and carbon dioxide is added, but exhaled air still contains about 16% oxygen."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Why is it better to breathe in through the nose than the mouth?",
+    "options": [
+     "The nose absorbs oxygen",
+     "The nose makes air thinner",
+     "Hairs and mucus filter, warm and moisten the air",
+     "The mouth cannot reach the trachea"
+    ],
+    "answer": 2,
+    "explanation": "The nose has hairs and mucus that trap particles, and a good blood supply that warms the air."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Which gas exchange surface is damaged by emphysema, a disease linked to smoking?",
+    "options": [
+     "The trachea",
+     "The walls of alveoli",
+     "The diaphragm",
+     "The ribs"
+    ],
+    "answer": 1,
+    "explanation": "Emphysema breaks down the walls of alveoli, reducing surface area and so oxygen absorption."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Tidal volume is the amount of air in a normal breath. A student breathes 6 000 mL per minute at rest at 12 breaths per minute. What is her tidal volume?",
+    "options": [
+     "72 000 mL",
+     "50 mL",
+     "5 988 mL",
+     "500 mL"
+    ],
+    "answer": 3,
+    "explanation": "Tidal volume = volume per minute ÷ breaths per minute = 6 000 ÷ 12 = 500 mL."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A spirometer trace shows that after exercise training a person's breathing rate at rest has dropped but oxygen intake is unchanged. What is the most likely explanation?",
+    "options": [
+     "Each breath is deeper, so the same volume moves with fewer breaths",
+     "Respiration has stopped",
+     "Their lungs have shrunk",
+     "The diaphragm is weaker"
+    ],
+    "answer": 0,
+    "explanation": "If oxygen intake is the same and rate falls, then volume per breath must have risen. Training improves lung efficiency."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Smokers' cilia are damaged and paralysed. Why does this lead to a 'smoker's cough'?",
+    "options": [
+     "Cilia make too much mucus",
+     "The bronchi collapse",
+     "Mucus and trapped particles collect and must be coughed out",
+     "Oxygen cannot reach the nose"
+    ],
+    "answer": 2,
+    "explanation": "Without working cilia, mucus builds up in the airway, and coughing is the only way to clear it, which also increases the risk of infection."
+   },
+   {
+    "difficulty": "hard",
+    "content": "In a study, 1 000 smokers and 1 000 non-smokers were followed for 20 years. 90 smokers and 10 non-smokers developed lung cancer. Which conclusion is best supported?",
+    "options": [
+     "Smoking causes all lung cancer",
+     "Smoking is associated with a higher rate of lung cancer",
+     "Non-smokers never get lung cancer",
+     "The study proves nicotine causes cancer"
+    ],
+    "answer": 1,
+    "explanation": "9% of smokers and 1% of non-smokers developed lung cancer, so there is a strong association. The data alone cannot prove nicotine is the cause or that all cases are due to smoking."
+   },
+   {
+    "difficulty": "hard",
+    "content": "During a rise in altitude, a hiker's breathing rate and heart rate both increase after a few hours. Which explanation best links the two?",
+    "options": [
+     "The lungs have grown",
+     "Carbon dioxide has been used up",
+     "The blood has become thicker",
+     "Lower oxygen levels trigger a faster supply of oxygen to the tissues"
+    ],
+    "answer": 3,
+    "explanation": "Lower air pressure gives less oxygen per breath, so the body compensates by breathing faster and circulating blood faster."
+   }
+  ],
+  "note": "The respiratory system\nThe respiratory system brings oxygen into the body and removes carbon dioxide. It is made up of the airways and the lungs, plus the muscles that move air. Remember that **breathing** (ventilation) is the movement of air in and out of the lungs, whereas **respiration** is the chemical reaction in cells that releases energy. Breathing supports respiration by providing oxygen and removing carbon dioxide.\n\n## The structures\n- **Nose and mouth**: air enters. The nose has hairs and mucus to trap dust and a rich blood supply to warm the air.\n- **Trachea (windpipe)**: a tube held open by rings of cartilage. It is lined with ciliated cells and goblet cells that produce mucus.\n- **Bronchi**: two tubes (singular bronchus), one into each lung.\n- **Bronchioles**: smaller branching tubes.\n- **Alveoli**: tiny air sacs surrounded by capillaries, where gas exchange takes place.\n- **Ribcage, intercostal muscles and diaphragm**: move air in and out.\n\nThe lungs are protected by the ribcage and covered by moist pleural membranes that reduce friction as the lungs move.\n\n## How breathing works\nBreathing depends on changing the volume and pressure inside the chest (thorax).\n- Inhaling: the diaphragm contracts and flattens, and the external intercostal muscles raise the ribs. The chest volume increases, the pressure falls below the pressure of the air outside, and air flows in.\n- Exhaling at rest: the diaphragm relaxes and rises into a dome, and the ribs move down and in. The chest volume decreases, the pressure rises and air is forced out.\n\nNormal quiet breathing moves about 500 mL of air per breath (the tidal volume). Ventilation rate per minute = breaths per minute × volume per breath, for example 15 × 500 = 7 500 mL per minute. Exercise increases both the rate and the depth.\n\n## Keeping the airways clean\nThe airways are lined with mucus-producing cells and cells with cilia. Mucus traps dust, pollen and microbes. The cilia beat to sweep the mucus up to the throat, where it is swallowed or coughed out. This protects the delicate alveoli.\n\n## Problems of the respiratory system\n- **Asthma**: the airways become narrow because the muscle in their walls contracts, the lining swells and more mucus is produced. Triggers include pollen, dust, exercise and cold air. A reliever inhaler relaxes the muscles so the airways widen.\n- **Smoking**: tobacco smoke contains nicotine (addictive), tar (a sticky mixture that contains cancer-causing chemicals) and carbon monoxide (binds to haemoglobin and reduces oxygen transport). Smoking paralyses cilia, causes a smoker's cough and bronchitis, and can lead to emphysema (alveoli walls break down) and lung cancer. It also increases the risk of heart disease.\n- **Air pollution** such as smoke, traffic fumes and particles can irritate the airways and worsen asthma.\n\n## Interpreting data\nStudies on smoking often compare groups of smokers and non-smokers. If 9% of smokers develop a disease and 1% of non-smokers do, there is a strong association. Data like this show a link but good evaluation also considers sample size, how long the study lasted and other factors such as age or diet that might have an effect.\n\n## Common mistakes\n- Saying that we breathe in only oxygen and breathe out only carbon dioxide.\n- Saying the lungs push air in. In fact the lungs are passive, and the muscles change the chest volume.\n- Mixing up ribs \"up and out\" for inhaling with exhaling.\n\n## How this is examined\nYou may see a diagram of the airways, a table of breathing rates or a study of smokers and non-smokers. Expect questions on labelling, explaining how a structure helps, and evaluating evidence.\n\nExam tip: Describe breathing in order: muscles contract or relax, chest volume changes, pressure changes, then air moves.",
+  "flashcards": [
+   {
+    "front": "Path of air",
+    "back": "Nose/mouth → trachea → bronchi → bronchioles → alveoli."
+   },
+   {
+    "front": "Inhalation",
+    "back": "Diaphragm contracts and flattens, ribs up and out, volume up, pressure down, air flows in."
+   },
+   {
+    "front": "Exhalation (at rest)",
+    "back": "Diaphragm relaxes and rises, ribs down and in, volume down, pressure up, air flows out."
+   },
+   {
+    "front": "Role of cilia and mucus",
+    "back": "Mucus traps dust and microbes; cilia sweep it up and away from the lungs."
+   },
+   {
+    "front": "Ventilation rate formula",
+    "back": "Breaths per minute × volume per breath (tidal volume)."
+   },
+   {
+    "front": "Asthma",
+    "back": "Airways narrow because of muscle contraction, swelling and mucus. Relievers relax the muscle."
+   },
+   {
+    "front": "Three harmful substances in tobacco smoke",
+    "back": "Nicotine (addictive), tar (carcinogens), carbon monoxide (reduces oxygen carried)."
+   },
+   {
+    "front": "Emphysema",
+    "back": "Alveoli walls break down, reducing the surface area for gas exchange."
+   },
+   {
+    "front": "Breathing vs respiration",
+    "back": "Breathing moves air in and out of the lungs. Respiration is the release of energy from glucose in cells."
+   }
+  ]
+ },
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Human Body Systems",
+  "subTopic": "The Nervous System and Reflexes",
+  "questions": [
+   {
+    "difficulty": "easy",
+    "content": "Which two organs make up the central nervous system?",
+    "options": [
+     "Brain and heart",
+     "Brain and spinal cord",
+     "Spinal cord and nerves",
+     "Eyes and brain"
+    ],
+    "answer": 1,
+    "explanation": "The CNS is the brain and spinal cord. Nerves outside it form the peripheral nervous system."
+   },
+   {
+    "difficulty": "easy",
+    "content": "What is a reflex action?",
+    "options": [
+     "A slow, planned movement",
+     "A response controlled by hormones only",
+     "A learned skill",
+     "A fast, automatic response to a stimulus that does not involve conscious thought"
+    ],
+    "answer": 3,
+    "explanation": "Reflexes are rapid and automatic, which protects the body from danger."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Which type of neurone carries impulses from receptors to the CNS?",
+    "options": [
+     "Sensory neurone",
+     "Motor neurone",
+     "Relay neurone",
+     "Hormone neurone"
+    ],
+    "answer": 0,
+    "explanation": "Sensory neurones carry impulses from receptors to the CNS. Motor neurones carry them from the CNS to effectors."
+   },
+   {
+    "difficulty": "easy",
+    "content": "What is an effector?",
+    "options": [
+     "A cell that detects a stimulus",
+     "A nerve in the brain",
+     "A muscle or gland that responds to a stimulus",
+     "A hormone"
+    ],
+    "answer": 2,
+    "explanation": "Effectors are muscles (which contract) or glands (which release substances)."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Which part of the brain controls balance and coordination?",
+    "options": [
+     "Cerebrum",
+     "Cerebellum",
+     "Medulla",
+     "Pituitary"
+    ],
+    "answer": 1,
+    "explanation": "The cerebellum coordinates movement and balance. The medulla controls automatic actions like heart rate and breathing."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Put the reflex arc in the correct order.",
+    "options": [
+     "Stimulus → effector → relay neurone → receptor → response",
+     "Receptor → motor neurone → relay neurone → sensory neurone → effector",
+     "Stimulus → brain → muscle → receptor",
+     "Stimulus → receptor → sensory neurone → relay neurone → motor neurone → effector → response"
+    ],
+    "answer": 3,
+    "explanation": "The impulse passes from receptor via sensory, relay and motor neurones to the effector, which produces the response."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Why is a reflex faster than a voluntary action?",
+    "options": [
+     "The pathway is short and does not involve the conscious part of the brain",
+     "The impulses travel faster",
+     "The motor neurone is longer",
+     "Hormones are used"
+    ],
+    "answer": 0,
+    "explanation": "In a reflex, the relay neurone is in the spinal cord, so there is no delay for conscious decision-making."
+   },
+   {
+    "difficulty": "medium",
+    "content": "What is a synapse?",
+    "options": [
+     "A type of muscle",
+     "A part of the brain",
+     "A small gap between two neurones",
+     "A sensory receptor"
+    ],
+    "answer": 2,
+    "explanation": "At a synapse a chemical (neurotransmitter) diffuses across the gap and starts a new impulse in the next neurone."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A student drops a ruler and a partner catches it, 20 cm from the zero mark. Using time = √(2 × distance ÷ 9.8) with distance in metres, what is the reaction time?",
+    "options": [
+     "About 0.02 s",
+     "About 0.20 s",
+     "About 2.0 s",
+     "About 0.40 s"
+    ],
+    "answer": 1,
+    "explanation": "t = √(2 × 0.20 ÷ 9.8) = √0.0408 = 0.202 s."
+   },
+   {
+    "difficulty": "medium",
+    "content": "In the ruler drop test, repeat trials give catch distances of 18, 22, 20 and 20 cm. What is the mean distance?",
+    "options": [
+     "18 cm",
+     "22 cm",
+     "80 cm",
+     "20 cm"
+    ],
+    "answer": 3,
+    "explanation": "(18 + 22 + 20 + 20) ÷ 4 = 80 ÷ 4 = 20 cm."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Which structure carries a nerve impulse a long way, like a cable?",
+    "options": [
+     "Axon",
+     "Nucleus",
+     "Dendrite",
+     "Synapse"
+    ],
+    "answer": 0,
+    "explanation": "The axon is the long fibre of a neurone. Motor neurones have long axons covered by a fatty myelin sheath that speeds up impulses."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Why do the pupils of the eye get smaller in bright light?",
+    "options": [
+     "The pupil is controlled by thought",
+     "Sunlight shrinks the eye",
+     "A reflex protects the retina from damage",
+     "The retina sends hormones"
+    ],
+    "answer": 2,
+    "explanation": "The iris muscles contract in bright light to reduce the amount of light entering, an automatic reflex."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Which of these is a voluntary action?",
+    "options": [
+     "Blinking when dust enters the eye",
+     "Choosing to pick up a pen",
+     "Pupils narrowing in bright light",
+     "Pulling a hand from a hot object"
+    ],
+    "answer": 1,
+    "explanation": "Voluntary actions are controlled consciously by the brain. The other three are reflexes."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A person touches something hot and pulls their hand away before feeling pain. What explains this order of events?",
+    "options": [
+     "The pain impulses travel faster than reflex impulses",
+     "The brain sends the response before the stimulus",
+     "Hormones act before nerves",
+     "The reflex arc triggers the response before the impulse reaches the conscious brain"
+    ],
+    "answer": 3,
+    "explanation": "The reflex goes through the spinal cord, so the muscle responds first. Impulses also travel up to the brain, so pain is felt a moment later."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A patient has a damaged spinal cord and cannot feel their feet, but the knee-jerk reflex still works below the injury. What does this suggest?",
+    "options": [
+     "The reflex arc is intact because it does not need the brain",
+     "The reflex needs the brain",
+     "The sensory neurones are all destroyed",
+     "The knee has no receptors"
+    ],
+    "answer": 0,
+    "explanation": "The knee-jerk is a spinal reflex. Impulses to the brain are blocked by the injury, so sensation is lost, but the arc remains functional."
+   },
+   {
+    "difficulty": "hard",
+    "content": "In a reaction time experiment, a student's mean time is 0.25 s when alone but 0.40 s when also reading a text message. What is the percentage increase?",
+    "options": [
+     "37.5%",
+     "150%",
+     "60%",
+     "15%"
+    ],
+    "answer": 2,
+    "explanation": "(0.40 − 0.25) ÷ 0.25 × 100 = 60%. Distraction slows the reaction, which is important for road safety."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A drug blocks the receptors on the receiving neurone of a synapse. What is the most likely effect?",
+    "options": [
+     "Impulses travel faster",
+     "Impulses cannot pass across the synapse",
+     "The neurotransmitter is made faster",
+     "The impulse is reversed"
+    ],
+    "answer": 1,
+    "explanation": "Neurotransmitter molecules must bind to receptors to start a new impulse. If blocked, transmission stops."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A researcher tests whether caffeine affects reaction time using 5 volunteers, each tested once with a drink containing caffeine and once without. Which improvement would make the conclusions most reliable?",
+    "options": [
+     "Test only the fastest volunteer",
+     "Always give caffeine first",
+     "Measure once",
+     "Repeat each test several times with more volunteers and in random order"
+    ],
+    "answer": 3,
+    "explanation": "More participants and repeats reduce chance effects, and random order stops practice effects from affecting the results."
+   }
+  ],
+  "note": "The nervous system\nThe nervous system lets you detect changes in the world around you and respond quickly. It is made of the **central nervous system (CNS)**, the brain and the spinal cord, and the **peripheral nervous system**, the nerves that connect the CNS to the rest of the body. Information travels along nerve cells (neurones) as tiny electrical signals called **impulses**.\n\n## Neurones\nThere are three types of neurone.\n- **Sensory neurones** carry impulses from receptors to the CNS.\n- **Relay neurones** are in the CNS and connect sensory and motor neurones.\n- **Motor neurones** carry impulses from the CNS to effectors.\n\nA neurone has a cell body, branched dendrites that receive signals and a long **axon** that carries the impulse. Many axons are covered by a fatty myelin sheath, which speeds up impulses. Neurones do not touch. At a **synapse**, a tiny gap, the impulse triggers the release of a chemical neurotransmitter that diffuses across the gap and binds to receptors on the next neurone, starting a new impulse. Synapses make sure that impulses only travel in one direction.\n\n## Stimulus and response\nA **stimulus** is a change in the environment, such as heat, light or pressure. **Receptors** detect stimuli. The CNS is the coordinator, and **effectors**, which are muscles or glands, carry out the response. The general sequence is: stimulus → receptor → coordinator → effector → response.\n\n## Reflex actions\nA **reflex** is a fast, automatic, protective response that does not need conscious thought. Examples include pulling your hand away from a hot object, blinking and the pupil getting smaller in bright light. The reflex arc is:\nstimulus → receptor → sensory neurone → relay neurone (in the spinal cord) → motor neurone → effector → response.\nBecause the relay neurone is in the spinal cord, the message does not have to go to the conscious part of the brain, which saves time. Impulses also pass up to the brain, so you notice what happened a moment later.\n\n## The brain\n- **Cerebrum**: the largest part, responsible for thought, memory, language and conscious actions, and receiving information from the senses.\n- **Cerebellum**: coordinates movement and balance.\n- **Medulla**: controls automatic actions, such as heart rate and breathing.\n\n## Investigating reaction time\nA popular test is the ruler drop. One person holds a ruler vertically and the partner catches it. The distance dropped is converted into time using time = √(2 × distance ÷ 9.8), with distance in metres. For 20 cm (0.20 m) the time is about 0.20 s. Good practice: repeat several trials and take a mean, use the same hand, and test for factors such as caffeine, practice or distraction one at a time. A shorter distance caught means a faster reaction.\n\n## Common mistakes\n- Saying hormones control reflexes. Reflexes are nervous.\n- Mixing up sensory and motor neurones. Sensory = into the CNS; motor = out.\n- Saying reflexes bypass the brain entirely. The brain is bypassed for the response, but not for sensation.\n- Forgetting to mention the effector.\n\n## How this is examined\nExpect a reflex-arc flow chart, reaction time data with mean and percentage change, or a scenario involving injury, drugs or distraction. Evaluating fair tests and reliability is a regular feature.\n\nExam tip: When asked why a reflex is fast, mention a short pathway through the spinal cord, no conscious decision and a protective purpose.",
+  "flashcards": [
+   {
+    "front": "Central nervous system",
+    "back": "The brain and spinal cord."
+   },
+   {
+    "front": "Sensory, relay, motor neurones",
+    "back": "Sensory: receptor to CNS. Relay: inside CNS. Motor: CNS to effector."
+   },
+   {
+    "front": "Reflex arc order",
+    "back": "Stimulus → receptor → sensory neurone → relay neurone → motor neurone → effector → response."
+   },
+   {
+    "front": "Reflex action",
+    "back": "A fast, automatic, protective response without conscious thought."
+   },
+   {
+    "front": "Synapse",
+    "back": "A gap between neurones. A neurotransmitter diffuses across to start a new impulse."
+   },
+   {
+    "front": "Effector",
+    "back": "A muscle or a gland that carries out the response."
+   },
+   {
+    "front": "Cerebrum, cerebellum, medulla",
+    "back": "Cerebrum: thought and memory. Cerebellum: balance and coordination. Medulla: heart rate and breathing."
+   },
+   {
+    "front": "Examples of reflexes",
+    "back": "Pulling a hand from heat, blinking, pupil narrowing in bright light."
+   },
+   {
+    "front": "Reaction time from ruler drop",
+    "back": "time = √(2 × distance ÷ 9.8), distance in metres. 0.20 m gives about 0.20 s."
+   }
+  ]
+ },
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Human Body Systems",
+  "subTopic": "The Endocrine System and Homeostasis",
+  "questions": [
+   {
+    "difficulty": "easy",
+    "content": "What is a hormone?",
+    "options": [
+     "An electrical signal in a neurone",
+     "A chemical messenger made in a gland and carried in the blood",
+     "An enzyme in the stomach",
+     "A type of blood cell"
+    ],
+    "answer": 1,
+    "explanation": "Hormones are produced by endocrine glands, travel in the blood plasma and act on target organs."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Which gland is known as the 'master gland'?",
+    "options": [
+     "Thyroid gland",
+     "Adrenal gland",
+     "Pancreas",
+     "Pituitary gland"
+    ],
+    "answer": 3,
+    "explanation": "The pituitary gland, at the base of the brain, releases hormones that control other glands."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Which organ produces insulin?",
+    "options": [
+     "Pancreas",
+     "Liver",
+     "Kidney",
+     "Stomach"
+    ],
+    "answer": 0,
+    "explanation": "Insulin is made by the pancreas and lowers blood glucose concentration."
+   },
+   {
+    "difficulty": "easy",
+    "content": "What is homeostasis?",
+    "options": [
+     "Making hormones",
+     "Digesting food",
+     "Keeping the internal environment of the body stable",
+     "Moving the muscles"
+    ],
+    "answer": 2,
+    "explanation": "Homeostasis keeps conditions such as temperature, water and glucose level within narrow limits so cells work well."
+   },
+   {
+    "difficulty": "easy",
+    "content": "What is the normal core body temperature in humans?",
+    "options": [
+     "About 25 °C",
+     "About 37 °C",
+     "About 45 °C",
+     "About 30 °C"
+    ],
+    "answer": 1,
+    "explanation": "Human enzymes work best at about 37 °C."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Which hormone prepares the body for 'fight or flight'?",
+    "options": [
+     "Insulin",
+     "Thyroxine",
+     "Glucagon",
+     "Adrenaline"
+    ],
+    "answer": 3,
+    "explanation": "Adrenaline from the adrenal glands increases heart rate and breathing rate and sends more glucose to muscles."
+   },
+   {
+    "difficulty": "medium",
+    "content": "After a large meal, blood glucose rises. What happens next?",
+    "options": [
+     "Insulin is released, and the liver converts glucose into glycogen",
+     "Glucagon is released and glycogen is converted into glucose",
+     "Adrenaline is released and glycogen is made",
+     "Nothing happens until glucose falls"
+    ],
+    "answer": 0,
+    "explanation": "Insulin causes cells and the liver to take up glucose and the liver stores it as glycogen, lowering blood glucose."
+   },
+   {
+    "difficulty": "medium",
+    "content": "This system of keeping a factor within limits by reversing a change is called...",
+    "options": [
+     "positive feedback",
+     "hormone feedback",
+     "negative feedback",
+     "reflex feedback"
+    ],
+    "answer": 2,
+    "explanation": "In negative feedback, a change in a variable triggers a response that brings it back towards the set point."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Why do you shiver when your core temperature starts to fall?",
+    "options": [
+     "Muscles relax to save energy",
+     "Rapid muscle contractions release heat by respiration",
+     "Sweat glands release more sweat",
+     "Blood vessels widen"
+    ],
+    "answer": 1,
+    "explanation": "Shivering is a rapid muscle movement that increases respiration, so more heat is released to warm the body."
+   },
+   {
+    "difficulty": "medium",
+    "content": "On a hot day, which responses help to cool the body?",
+    "options": [
+     "Shivering and narrowing of skin blood vessels",
+     "Sweating and narrowing of skin blood vessels",
+     "Hair standing up and shivering",
+     "Sweating and widening of skin blood vessels (vasodilation)"
+    ],
+    "answer": 3,
+    "explanation": "Sweat evaporates, taking heat from the skin, and wider vessels let more blood flow near the surface to lose heat."
+   },
+   {
+    "difficulty": "medium",
+    "content": "How does type 1 diabetes differ from type 2 diabetes?",
+    "options": [
+     "In type 1 the pancreas does not make enough insulin; in type 2 cells respond poorly to insulin",
+     "Type 1 is caused by diet; type 2 is not",
+     "Type 1 affects the liver only",
+     "Type 2 has no effect on blood glucose"
+    ],
+    "answer": 0,
+    "explanation": "Type 1 is usually treated with insulin injections. Type 2 is linked to lifestyle and is managed by diet, exercise and sometimes medication."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Why are hormones slower to act than nerve impulses but often longer lasting?",
+    "options": [
+     "They travel in neurones",
+     "They only act on the brain",
+     "They travel in the blood and remain active for a while",
+     "They work using electricity"
+    ],
+    "answer": 2,
+    "explanation": "Blood transport takes longer than electrical impulses, and hormones can last for minutes to hours or longer."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Which hormone raises blood glucose when it is too low?",
+    "options": [
+     "Insulin",
+     "Glucagon",
+     "Thyroxine",
+     "Oestrogen"
+    ],
+    "answer": 1,
+    "explanation": "Glucagon from the pancreas causes the liver to convert glycogen into glucose and release it into the blood."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A person's blood glucose is measured every hour after a meal at 10:00. Results (mmol/dm³): 10:00 5.0, 11:00 8.0, 12:00 6.0, 13:00 5.0. What explains the fall between 11:00 and 13:00?",
+    "options": [
+     "Glucagon released by the pancreas reduced blood glucose",
+     "Adrenaline released by the pancreas reduced blood glucose",
+     "Blood glucose fell because no food was eaten",
+     "Insulin released by the pancreas reduced blood glucose"
+    ],
+    "answer": 3,
+    "explanation": "After the rise, negative feedback via insulin returned the level to about 5.0 mmol/dm³."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A diabetic person injects too much insulin and feels shaky and confused. What is the most likely cause?",
+    "options": [
+     "Blood glucose has fallen too low",
+     "Blood glucose has risen too high",
+     "Body temperature has risen",
+     "Blood pressure has risen"
+    ],
+    "answer": 0,
+    "explanation": "Too much insulin removes too much glucose from the blood, so cells such as brain cells get too little."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Which description best explains why a thermostat is a good model of body temperature control?",
+    "options": [
+     "It increases the change",
+     "It works without a sensor",
+     "A sensor detects a change and triggers a response that reverses it",
+     "It only heats"
+    ],
+    "answer": 2,
+    "explanation": "A thermostat and body temperature control both detect changes and switch on responses that return the value to the set point."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A student claims: 'Negative feedback means a bad outcome.' How would you evaluate this?",
+    "options": [
+     "Correct; negative feedback damages the body",
+     "Wrong; 'negative' means the response reverses the change, keeping conditions stable",
+     "Correct; it only happens in disease",
+     "Wrong; it makes the change bigger"
+    ],
+    "answer": 1,
+    "explanation": "Negative feedback is beneficial, because it keeps variables near their set point. Positive feedback increases the change."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Thyroxine from the thyroid gland controls metabolic rate. A patient has an underactive thyroid. Which set of symptoms is most likely?",
+    "options": [
+     "Weight loss, sweating and feeling hot",
+     "Fast heart rate and hyperactivity",
+     "High blood glucose",
+     "Tiredness, weight gain and feeling cold"
+    ],
+    "answer": 3,
+    "explanation": "Low thyroxine slows metabolic rate, so less energy is released: tiredness, weight gain and sensitivity to cold."
+   }
+  ],
+  "note": "Hormones and the endocrine system\nThe endocrine system is a set of glands that release **hormones** straight into the bloodstream. A hormone is a chemical messenger. It travels all around the body in the blood plasma, but only affects its **target organs**, which have the right receptors. Compared with the nervous system, hormones act more slowly but their effects usually last longer.\n\n## Main glands and hormones\n- **Pituitary gland** (base of the brain): the \"master gland\" that makes hormones that control other glands, and others such as growth hormone.\n- **Thyroid gland** (neck): thyroxine, which controls the metabolic rate.\n- **Adrenal glands** (above the kidneys): adrenaline, which prepares the body for \"fight or flight\" by increasing heart rate, breathing rate and blood glucose.\n- **Pancreas**: insulin and glucagon, which control blood glucose.\n- **Ovaries**: oestrogen. **Testes**: testosterone. These are sex hormones.\n\n## Homeostasis\n**Homeostasis** is the maintenance of a stable internal environment. Body temperature, blood glucose, water content and carbon dioxide levels are all controlled. If conditions drift too far, enzymes and cells stop working properly. Most of this uses **negative feedback**: a receptor detects a change away from the set point, a control centre processes it, and an effector produces a response that reverses the change.\n\n## Controlling blood glucose\n- After a meal, blood glucose rises. The pancreas releases **insulin**. Insulin makes liver and muscle cells take up glucose and the liver converts excess glucose into **glycogen** for storage. Blood glucose falls.\n- Between meals or during exercise, blood glucose falls. The pancreas releases **glucagon**. Glucagon makes the liver convert glycogen back into glucose and release it into the blood. Blood glucose rises.\n\nIn **type 1 diabetes**, the pancreas does not make enough insulin, so blood glucose can get too high. It is controlled by insulin injections, healthy eating and monitoring. In **type 2 diabetes**, body cells respond less well to insulin. It is linked to obesity and low activity and is controlled by diet, exercise and sometimes drugs. Too much insulin can lower glucose too far, which causes shakiness and confusion.\n\n## Controlling body temperature\nThe brain monitors the temperature of the blood and the skin has temperature receptors. The set point is about 37 °C.\n- **Too hot**: sweat glands release sweat, which evaporates and cools the skin; blood vessels near the skin widen (vasodilation) so more heat is lost.\n- **Too cold**: you shiver, so muscle contractions release heat; blood vessels near the skin narrow (vasoconstriction) so less heat is lost; hairs stand on end to trap an insulating layer of air.\n\n## Nerves compared with hormones\nNervous responses are very fast, short-lived and act on a precise target. Hormonal responses are slower, longer-lasting and may affect many organs.\n\n## Common mistakes\n- Saying that insulin raises blood glucose. It lowers it.\n- Confusing glucose and glycogen. Glucose is the sugar in blood; glycogen is the storage carbohydrate.\n- Saying that blood vessels \"move closer to the skin\" instead of widening or narrowing.\n- Thinking negative feedback is bad. It keeps things stable.\n\n## How this is examined\nExpect graphs of blood glucose after a meal, diagrams of feedback loops and questions about diabetes. You may need to describe a pattern, explain it using insulin and glucagon, and evaluate treatments.\n\nExam tip: For any homeostasis question, name the stimulus (change), the receptor, the effector response and show how the response reverses the change.",
+  "flashcards": [
+   {
+    "front": "Hormone",
+    "back": "A chemical messenger made by a gland and carried in the blood to target organs."
+   },
+   {
+    "front": "Homeostasis",
+    "back": "Keeping the internal environment (temperature, glucose, water) stable."
+   },
+   {
+    "front": "Negative feedback",
+    "back": "A change triggers a response that reverses it, returning the factor to its set point."
+   },
+   {
+    "front": "Insulin",
+    "back": "Made by the pancreas. Lowers blood glucose by moving glucose into cells and converting it to glycogen in the liver."
+   },
+   {
+    "front": "Glucagon",
+    "back": "Made by the pancreas. Raises blood glucose by converting glycogen to glucose in the liver."
+   },
+   {
+    "front": "Type 1 vs type 2 diabetes",
+    "back": "Type 1: pancreas does not make enough insulin. Type 2: body cells respond poorly to insulin."
+   },
+   {
+    "front": "Adrenaline",
+    "back": "Made by the adrenal glands. Prepares for 'fight or flight': faster heart and breathing, more glucose."
+   },
+   {
+    "front": "Responses when too hot",
+    "back": "Sweating, vasodilation (skin blood vessels widen)."
+   },
+   {
+    "front": "Responses when too cold",
+    "back": "Shivering, vasoconstriction (skin blood vessels narrow), hairs stand up."
+   }
+  ]
+ },
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Human Body Systems",
+  "subTopic": "The Skeletal and Muscular Systems",
+  "questions": [
+   {
+    "difficulty": "easy",
+    "content": "Which is NOT a function of the skeleton?",
+    "options": [
+     "Support",
+     "Digesting food",
+     "Protection of organs",
+     "Making blood cells"
+    ],
+    "answer": 1,
+    "explanation": "The skeleton supports the body, protects organs, allows movement with muscles and makes blood cells in bone marrow. Digestion is done by the digestive system."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Which part of the skeleton protects the brain?",
+    "options": [
+     "Ribcage",
+     "Pelvis",
+     "Spine",
+     "Skull"
+    ],
+    "answer": 3,
+    "explanation": "The skull (cranium) surrounds and protects the brain. The ribcage protects the heart and lungs."
+   },
+   {
+    "difficulty": "easy",
+    "content": "What joins muscles to bones?",
+    "options": [
+     "Tendons",
+     "Ligaments",
+     "Cartilage",
+     "Skin"
+    ],
+    "answer": 0,
+    "explanation": "Tendons attach muscle to bone. Ligaments attach bone to bone."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Which type of joint is the elbow?",
+    "options": [
+     "Ball and socket joint",
+     "Fixed joint",
+     "Hinge joint",
+     "Pivot joint"
+    ],
+    "answer": 2,
+    "explanation": "The elbow and knee are hinge joints that move mainly in one plane, like a door."
+   },
+   {
+    "difficulty": "easy",
+    "content": "What happens to a muscle when it contracts?",
+    "options": [
+     "It gets longer",
+     "It gets shorter and thicker",
+     "It stays the same",
+     "It turns into bone"
+    ],
+    "answer": 1,
+    "explanation": "Muscles can only pull by contracting. They cannot push."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Why are muscles arranged in antagonistic pairs?",
+    "options": [
+     "Each muscle works twice as hard",
+     "One muscle pushes and the other pulls",
+     "They keep bones from moving",
+     "Muscles can only pull, so one muscle is needed for each direction of movement"
+    ],
+    "answer": 3,
+    "explanation": "For example, when the biceps contracts, the triceps relaxes to bend the arm, and the reverse to straighten it."
+   },
+   {
+    "difficulty": "medium",
+    "content": "When you straighten your arm, which muscle contracts?",
+    "options": [
+     "Triceps",
+     "Biceps",
+     "Both relax",
+     "Deltoid only"
+    ],
+    "answer": 0,
+    "explanation": "The triceps contracts and the biceps relaxes to extend the arm."
+   },
+   {
+    "difficulty": "medium",
+    "content": "What is the function of ligaments?",
+    "options": [
+     "To join muscles to bones",
+     "To make blood cells",
+     "To hold bones together at a joint",
+     "To cushion the ends of bones"
+    ],
+    "answer": 2,
+    "explanation": "Ligaments are strong, slightly elastic fibres that join bone to bone and stabilise the joint."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Which feature of a synovial joint reduces friction?",
+    "options": [
+     "Tendons",
+     "Synovial fluid and cartilage",
+     "Bone marrow",
+     "Ligaments"
+    ],
+    "answer": 1,
+    "explanation": "Cartilage covers the ends of bones and synovial fluid lubricates the joint, allowing smooth movement."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Where in the skeleton are red blood cells made?",
+    "options": [
+     "Cartilage",
+     "Ligaments",
+     "Tendons",
+     "Bone marrow"
+    ],
+    "answer": 3,
+    "explanation": "Red blood cells, and most white blood cells, are made in the bone marrow of some bones such as the ribs and pelvis."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Which joint allows movement in all directions, such as the shoulder?",
+    "options": [
+     "Ball and socket joint",
+     "Hinge joint",
+     "Fixed joint",
+     "Gliding joint at the skull"
+    ],
+    "answer": 0,
+    "explanation": "A ball and socket joint allows rotation and movement in many directions. The hip is another example."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Why do muscle cells contain many mitochondria?",
+    "options": [
+     "They make hormones",
+     "They store calcium",
+     "They need a lot of energy from aerobic respiration",
+     "They make bone"
+    ],
+    "answer": 2,
+    "explanation": "Contraction needs a lot of energy, which is released by aerobic respiration in mitochondria."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Which nutrient pair is most important for strong bones?",
+    "options": [
+     "Iron and vitamin C",
+     "Calcium and vitamin D",
+     "Sodium and vitamin A",
+     "Protein and fibre only"
+    ],
+    "answer": 1,
+    "explanation": "Calcium makes bones hard, and vitamin D helps the body absorb calcium."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A person lifts a heavy box. The forearm is the lever, the elbow is the pivot and the biceps pulls on the forearm close to the elbow. What is the benefit of this arrangement?",
+    "options": [
+     "The hand moves a small distance with a large force",
+     "The force on the hand is greater than the force in the biceps",
+     "The biceps works without energy",
+     "A small contraction of the biceps moves the hand through a large distance"
+    ],
+    "answer": 3,
+    "explanation": "The muscle attaches close to the pivot, so a small shortening moves the hand a long way. The trade-off is that the muscle must exert a larger force than the load."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A physiotherapist explains that an injury that stretches a ligament in the knee can cause the knee to become unstable. Why?",
+    "options": [
+     "Ligaments hold the bones together at the joint",
+     "Ligaments make synovial fluid",
+     "Ligaments contract to move the leg",
+     "Ligaments are muscle"
+    ],
+    "answer": 0,
+    "explanation": "A stretched or torn ligament no longer holds the bones firmly, so the joint moves in abnormal ways."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Osteoporosis makes bones thinner and weaker. Which action is most likely to reduce the risk?",
+    "options": [
+     "Avoiding all exercise",
+     "Eating no dairy",
+     "Weight-bearing exercise and calcium in the diet",
+     "Spending all day sitting"
+    ],
+    "answer": 2,
+    "explanation": "Weight-bearing exercise stimulates bone to build more strongly and calcium is required to make bone tissue."
+   },
+   {
+    "difficulty": "hard",
+    "content": "During a long run, a muscle cell has a lot of lactic acid. The person rests. Which explains the aching muscle?",
+    "options": [
+     "Aerobic respiration made lactic acid",
+     "Anaerobic respiration made lactic acid when oxygen supply was too low",
+     "The muscle ran out of bone",
+     "Photosynthesis in the muscle stopped"
+    ],
+    "answer": 1,
+    "explanation": "When oxygen cannot be delivered quickly enough, muscle cells respire anaerobically, producing lactic acid. This builds up and causes fatigue."
+   },
+   {
+    "difficulty": "hard",
+    "content": "In an investigation, grip strength is measured for 30 students before and after four weeks of hand-exercise. The mean rises from 28.0 kg to 31.5 kg. What is the percentage increase?",
+    "options": [
+     "11.1%",
+     "3.5%",
+     "112.5%",
+     "12.5%"
+    ],
+    "answer": 3,
+    "explanation": "(31.5 − 28.0) ÷ 28.0 × 100 = 12.5%."
+   }
+  ],
+  "note": "The skeletal and muscular systems\nThe skeleton and muscles work together as the body's frame and engine. They support you, protect delicate organs and let you move. Understanding how they cooperate also explains common injuries and why exercise and diet matter for bone and muscle health.\n\n## Functions of the skeleton\n- **Support**: the skeleton gives the body its shape and holds up soft tissues.\n- **Protection**: the skull protects the brain, the ribcage protects the heart and lungs, and the backbone (vertebral column) protects the spinal cord.\n- **Movement**: bones act as levers, and muscles pull on them.\n- **Making blood cells**: red blood cells and many white blood cells are made in the bone marrow.\n- **Storage**: bones store minerals such as calcium and phosphate.\n\nBone is living tissue with a blood supply. It is hard because of calcium minerals, with some flexible protein fibres. Cartilage is a softer, more flexible tissue found at the ends of bones, in the nose and ears, and as discs between vertebrae.\n\n## Joints\nA joint is where two or more bones meet.\n- **Ball and socket joints** (hip, shoulder): movement in many directions.\n- **Hinge joints** (elbow, knee): movement mostly back and forth in one plane.\n- **Fixed joints** (skull): no movement, which protects the brain.\n\nIn a freely moving (synovial) joint, the ends of the bones are covered with smooth **cartilage**, which reduces friction and absorbs shock. **Synovial fluid** lubricates the joint. **Ligaments** join bone to bone and hold the joint in place. **Tendons** join muscle to bone.\n\n## Muscles and movement\nMuscles can only do one thing: contract (get shorter) and pull. They cannot push. This is why they work in **antagonistic pairs**, two muscles that act in opposite directions.\n- To bend the arm (flexion), the biceps contracts and the triceps relaxes.\n- To straighten it (extension), the triceps contracts and the biceps relaxes.\n\nThe tendon of the biceps is attached to the forearm very close to the elbow. This arrangement means a short contraction produces a large movement of the hand, though the muscle has to exert more force than the weight lifted.\n\nMuscle cells contain many mitochondria, because contracting needs a lot of energy from aerobic respiration. During intense exercise the oxygen supply may not keep up. The muscles then respire anaerobically and make lactic acid, which causes tiredness and aches.\n\n## Keeping bones and muscles healthy\n- A diet with calcium (dairy, leafy vegetables) and vitamin D (sunlight, oily fish) builds strong bones. Protein is needed to build and repair muscle.\n- Weight-bearing exercise such as walking, running and sport makes bones stronger and muscles bigger.\n- **Osteoporosis** is a condition where bones become thin and brittle, more common in older people. Exercise and calcium in the diet during life reduce the risk.\n- Warming up and stretching reduce the risk of sprains (stretched or torn ligaments) and strains (torn muscles or tendons).\n\n## Investigating muscle fitness\nTypical investigations measure grip strength, how many repetitions someone can do or recovery time of heart rate. Good practice: use the same equipment, test several people, repeat and calculate a mean. To find a percentage change, use (new − old) ÷ old × 100. For example, grip strength rising from 28.0 kg to 31.5 kg is an increase of 12.5%.\n\n## Common mistakes\n- Mixing up tendons and ligaments. A helpful phrase: tendons join muscle to bone; ligaments join bone to bone.\n- Saying muscles push. They only pull.\n- Saying the biceps and triceps contract together.\n- Forgetting that bones are living and can grow and repair.\n\n## How this is examined\nLook for diagrams of the arm or knee, data from fitness tests, and questions about diet or injuries. Marks are gained for linking each structure to its function and explaining antagonistic action.\n\nExam tip: When explaining arm movement, name both muscles and state which contracts and which relaxes, for each direction.",
+  "flashcards": [
+   {
+    "front": "Functions of the skeleton",
+    "back": "Support, protection, movement, making blood cells (bone marrow) and storing minerals."
+   },
+   {
+    "front": "Tendon vs ligament",
+    "back": "Tendons join muscle to bone. Ligaments join bone to bone."
+   },
+   {
+    "front": "Antagonistic pair",
+    "back": "Two muscles working in opposite directions, e.g. biceps and triceps. One contracts while the other relaxes."
+   },
+   {
+    "front": "Bending the arm",
+    "back": "Biceps contracts and triceps relaxes."
+   },
+   {
+    "front": "Hinge joint vs ball and socket",
+    "back": "Hinge (elbow, knee): back and forth. Ball and socket (hip, shoulder): many directions."
+   },
+   {
+    "front": "Role of cartilage and synovial fluid",
+    "back": "Cartilage reduces friction and absorbs shock; synovial fluid lubricates the joint."
+   },
+   {
+    "front": "Why can muscles only pull?",
+    "back": "Muscle fibres can only shorten when they contract, so two muscles are needed for opposite movements."
+   },
+   {
+    "front": "Osteoporosis",
+    "back": "Bones become thin and weak. Risk reduced by calcium, vitamin D and weight-bearing exercise."
+   },
+   {
+    "front": "Why do muscle cells have many mitochondria?",
+    "back": "Contraction needs lots of energy released by aerobic respiration."
+   }
+  ]
+ }
+]

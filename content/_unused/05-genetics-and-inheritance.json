@@ -1,0 +1,1327 @@
+[
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Genetics and Inheritance",
+  "parentPosition": 5,
+  "position": 1,
+  "subTopic": "DNA, Genes and Chromosomes",
+  "questions": [
+   {
+    "content": "Where in a human body cell is most of the DNA found?",
+    "options": [
+     "In the nucleus",
+     "In the cell membrane",
+     "In the cytoplasm only",
+     "In the cell wall"
+    ],
+    "answer": 0,
+    "explanation": "Most DNA is stored in the nucleus, packaged into chromosomes. Human cells have no cell wall.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What shape is a DNA molecule?",
+    "options": [
+     "A double helix",
+     "A single straight chain",
+     "A flat sheet",
+     "A hollow sphere"
+    ],
+    "answer": 0,
+    "explanation": "DNA is two strands twisted around each other to form a double helix.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "How many chromosomes are in a normal human body cell?",
+    "options": [
+     "46",
+     "23",
+     "44",
+     "92"
+    ],
+    "answer": 0,
+    "explanation": "Human body cells have 46 chromosomes, arranged as 23 pairs. Gametes have 23.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these best describes a gene?",
+    "options": [
+     "A section of DNA that codes for a protein",
+     "A whole chromosome",
+     "A type of cell",
+     "A single base"
+    ],
+    "answer": 0,
+    "explanation": "A gene is a length of DNA with the instructions for making one protein (or a related product). Chromosomes contain many genes.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which base pairs with adenine (A) in DNA?",
+    "options": [
+     "Thymine (T)",
+     "Cytosine (C)",
+     "Guanine (G)",
+     "Uracil (U)"
+    ],
+    "answer": 0,
+    "explanation": "Complementary base pairing in DNA is A with T, and C with G.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A scientist analyses a sample of DNA and finds that 30% of its bases are adenine. What percentage are cytosine?",
+    "options": [
+     "20%",
+     "30%",
+     "40%",
+     "70%"
+    ],
+    "answer": 0,
+    "explanation": "A pairs with T, so T is also 30%. A + T = 60%, leaving 40% for C + G, which are equal, so C = 20%.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student says: \"A chromosome and a gene are the same thing.\" Which reply is correct?",
+    "options": [
+     "A chromosome is a long coiled DNA molecule containing many genes",
+     "A gene is bigger and contains many chromosomes",
+     "They are the same but found in different cells",
+     "A gene is made of protein while a chromosome is made of DNA"
+    ],
+    "answer": 0,
+    "explanation": "Each chromosome is one very long DNA molecule carrying hundreds or thousands of genes. Genes are short sections of it.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What are the three parts of a single DNA nucleotide?",
+    "options": [
+     "A sugar, a phosphate group and a base",
+     "An amino acid, a sugar and a base",
+     "A phosphate group, a protein and a base",
+     "A sugar, a fatty acid and a base"
+    ],
+    "answer": 0,
+    "explanation": "Nucleotides are the building blocks of DNA: sugar, phosphate and one of four bases. Amino acids build proteins.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "One strand of DNA has the base sequence A T G C C A. What is the sequence on the complementary strand?",
+    "options": [
+     "T A C G G T",
+     "T A G C C T",
+     "A T G C C A",
+     "U A C G G U"
+    ],
+    "answer": 0,
+    "explanation": "Each base is swapped for its partner: A→T, T→A, G→C, C→G. Uracil is not found in DNA.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A human sperm cell contains how many chromosomes, and why?",
+    "options": [
+     "23, because gametes carry one chromosome from each pair",
+     "46, because all human cells have the same number",
+     "23, because it only contains half of every gene",
+     "92, because it contains two sets"
+    ],
+    "answer": 0,
+    "explanation": "Gametes are made by meiosis and have one chromosome of each pair, so 23. This makes 46 again after fertilisation.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement about the sex chromosomes in humans is correct?",
+    "options": [
+     "Females have XX and males have XY",
+     "Females have XY and males have XX",
+     "Both sexes have XX",
+     "Only males have sex chromosomes"
+    ],
+    "answer": 0,
+    "explanation": "The 23rd pair decides sex. XX gives a female, XY gives a male.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why can identical twins have DNA that is almost identical while siblings who are not twins differ?",
+    "options": [
+     "Identical twins come from one fertilised egg that splits",
+     "Identical twins have the same mother but different fathers",
+     "Identical twins make their DNA from the same food",
+     "Non-twin siblings have no DNA in common"
+    ],
+    "answer": 0,
+    "explanation": "Identical twins form from one zygote, so they share the same genes. Other siblings come from different gametes and a different combination of alleles.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "DNA from a crime scene is compared with a suspect. Which part of the DNA is compared?",
+    "options": [
+     "Sequences that vary a lot between people",
+     "The sugar-phosphate backbone",
+     "The base pairing rule",
+     "The number of chromosomes"
+    ],
+    "answer": 0,
+    "explanation": "The backbone and base-pairing rules are the same in everyone. Variable sequences give a pattern that is almost unique to each person (except identical twins).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A strand of DNA has 40 bases. How many nucleotides are in the whole double-stranded section, assuming the second strand is complete?",
+    "options": [
+     "80",
+     "40",
+     "20",
+     "160"
+    ],
+    "answer": 0,
+    "explanation": "Each base is part of one nucleotide. Two strands of 40 bases give 80 nucleotides, forming 40 base pairs.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A DNA sample is 22% thymine. Which line gives the correct percentages of the other three bases?",
+    "options": [
+     "A 22%, C 28%, G 28%",
+     "A 22%, C 22%, G 34%",
+     "A 28%, C 22%, G 28%",
+     "A 78%, C 11%, G 11%"
+    ],
+    "answer": 0,
+    "explanation": "A = T = 22%, so C + G = 56% and each is 28%. Percentages must add to 100%.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A mutation changes one base in the middle of a gene. A researcher finds the protein is now shorter and non-functional. Which is the best explanation?",
+    "options": [
+     "The change created a signal to stop building the protein early",
+     "The change moved the gene to another chromosome",
+     "The change made the cell stop having DNA",
+     "The change made all the other genes stop working"
+    ],
+    "answer": 0,
+    "explanation": "A changed base can alter the code so that it reads as a stop signal, ending the amino acid chain early. The change is local to that gene.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A cell has 46 chromosomes. Which is the best description of how many different types of chromosome it contains, and why?",
+    "options": [
+     "23 types, because chromosomes exist as matching pairs",
+     "46 types, because each is different",
+     "2 types, X and Y",
+     "1 type, because they are all DNA"
+    ],
+    "answer": 0,
+    "explanation": "Chromosomes come as homologous pairs; each pair carries the same genes in the same order (possibly different alleles). So there are 23 types.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which statement correctly explains why the order of bases in a gene matters?",
+    "options": [
+     "The order of bases determines the order of amino acids in a protein",
+     "The order of bases decides how many chromosomes a cell has",
+     "The order of bases decides which cell has the nucleus",
+     "The order of bases controls how fast DNA copies"
+    ],
+    "answer": 0,
+    "explanation": "Groups of three bases code for each amino acid. A different order makes a different protein, which can change a characteristic.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Almost every cell in your body contains a full set of instructions for building and running you. These instructions are written in a molecule called DNA, which stands for deoxyribonucleic acid.\n\n## The structure of DNA\nDNA is a double helix: two long strands twisted around each other like a spiral staircase. Each strand is made of small units called nucleotides. A nucleotide has three parts: a sugar, a phosphate group and a base. The sugars and phosphates join in a chain that forms the outside \"backbone\". The bases stick out inwards and join the two strands together.\n\nThere are four bases: adenine (A), thymine (T), cytosine (C) and guanine (G). They always pair in the same way. A pairs with T, and C pairs with G. This is called complementary base pairing. If you know the sequence on one strand you can work out the other. For example, A T G C on one strand must be T A C G on the other. The structure was worked out in 1953 by James Watson and Francis Crick, using X-ray images produced by Rosalind Franklin and Maurice Wilkins.\n\n## Genes, chromosomes and the genome\nA gene is a section of DNA that carries the instructions for making one protein. The order of the bases is the code. Every three bases in a row code for one amino acid, and a string of amino acids folds into a protein. Proteins do many jobs: enzymes, haemoglobin, the keratin in hair. So genes affect your characteristics by controlling which proteins you make.\n\nDNA is far too long to sit loosely in a cell, so it is coiled and packed into structures called chromosomes. Each chromosome is one very long DNA molecule carrying many genes. Chromosomes are found in the nucleus. The complete set of genetic material in an organism is its genome.\n\nHuman body cells have 46 chromosomes arranged in 23 pairs. One chromosome in each pair came from your mother and one from your father. The two chromosomes in a pair carry the same genes in the same order, but they may carry different versions of a gene. Different versions of the same gene are called alleles. The 23rd pair are the sex chromosomes: XX in females and XY in males. Sex cells (gametes) have only 23 chromosomes, one from each pair.\n\n## Worked example: base percentages\nA DNA sample contains 30% adenine. Because A pairs with T, thymine is also 30%. Together they make 60%, so the other 40% is cytosine and guanine. These are equal, so each is 20%.\n\n## DNA technology link\nMost of the DNA is the same in all humans, but some sequences vary a lot. Comparing these variable regions gives a DNA profile, which can be used to identify people or find family links. Identical twins have the same DNA because they come from one fertilised egg.\n\n## How this is examined\nQuestions often give a short scenario, such as a DNA sample or a diagram of a chromosome, and ask you to state, calculate or explain. You may need to use base-pairing rules, name the levels from base to gene to chromosome to genome, or explain how a change in a gene changes a protein.\n\n## Common mistakes\n- Mixing up gene and chromosome. A chromosome is made of DNA and contains many genes.\n- Saying humans have 23 chromosomes in body cells. It is 23 pairs, so 46.\n- Writing uracil in DNA. Uracil is not found in DNA.\n- Forgetting that percentages of all four bases must add up to 100.\n\nExam tip: When asked about base percentages, write A = T and C = G first, then subtract from 100 and share the remainder equally.",
+  "flashcards": [
+   {
+    "front": "What is DNA and where is it found in animal cells?",
+    "back": "A molecule that carries genetic instructions. Most of it is in the nucleus, packed into chromosomes."
+   },
+   {
+    "front": "What is a gene?",
+    "back": "A section of DNA that codes for a protein, so it controls a characteristic."
+   },
+   {
+    "front": "Base pairing rule in DNA",
+    "back": "A pairs with T, and C pairs with G (complementary base pairing)."
+   },
+   {
+    "front": "What are the three parts of a nucleotide?",
+    "back": "A sugar, a phosphate group and a base (A, T, C or G)."
+   },
+   {
+    "front": "How many chromosomes are in a human body cell and a gamete?",
+    "back": "Body cell: 46 (23 pairs). Gamete: 23."
+   },
+   {
+    "front": "What are alleles?",
+    "back": "Different versions of the same gene, for example for blue or brown eyes."
+   },
+   {
+    "front": "Which sex chromosomes do females and males have?",
+    "back": "Females: XX. Males: XY."
+   },
+   {
+    "front": "What is the genome?",
+    "back": "The complete set of genetic material (all the DNA) of an organism."
+   },
+   {
+    "front": "Who worked out the double helix structure in 1953?",
+    "back": "James Watson and Francis Crick, using X-ray images by Rosalind Franklin and Maurice Wilkins."
+   }
+  ]
+ },
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Genetics and Inheritance",
+  "parentPosition": 5,
+  "position": 2,
+  "subTopic": "Mitosis and Cell Division",
+  "questions": [
+   {
+    "content": "What type of cells does mitosis produce?",
+    "options": [
+     "Two genetically identical cells",
+     "Four genetically different cells",
+     "Two cells with half the chromosomes",
+     "Gametes"
+    ],
+    "answer": 0,
+    "explanation": "Mitosis makes two daughter cells identical to the parent cell, each with the full chromosome number.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a use of mitosis in the human body?",
+    "options": [
+     "Repairing damaged skin",
+     "Making sperm cells",
+     "Making egg cells",
+     "Producing variation between offspring"
+    ],
+    "answer": 0,
+    "explanation": "Mitosis is used for growth and repair. Gametes are made by meiosis.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "How many chromosomes are in each daughter cell after mitosis of a human skin cell?",
+    "options": [
+     "46",
+     "23",
+     "92",
+     "24"
+    ],
+    "answer": 0,
+    "explanation": "Mitosis keeps the chromosome number the same, so each daughter cell has 46.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What happens to the DNA before a cell starts to divide by mitosis?",
+    "options": [
+     "It is copied (replicated)",
+     "It is destroyed",
+     "It leaves the cell",
+     "It is halved"
+    ],
+    "answer": 0,
+    "explanation": "During interphase the DNA is copied so each daughter cell can receive a full set.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What name is given to uncontrolled cell division that forms a tumour?",
+    "options": [
+     "Cancer",
+     "Fertilisation",
+     "Meiosis",
+     "Digestion"
+    ],
+    "answer": 0,
+    "explanation": "Cancer cells divide when they should not, forming a lump called a tumour.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A culture starts with 1 cell and every cell divides once per cycle. How many cells are there after 5 cycles?",
+    "options": [
+     "32",
+     "10",
+     "25",
+     "16"
+    ],
+    "answer": 0,
+    "explanation": "The number doubles each cycle: 1, 2, 4, 8, 16, 32 so 2⁵ = 32.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "During which stage of mitosis do the chromosomes line up along the middle of the cell?",
+    "options": [
+     "Metaphase",
+     "Prophase",
+     "Anaphase",
+     "Telophase"
+    ],
+    "answer": 0,
+    "explanation": "In metaphase chromosomes line up at the equator. In anaphase they are pulled apart.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In which stage are the copied chromatids pulled to opposite ends of the cell?",
+    "options": [
+     "Anaphase",
+     "Metaphase",
+     "Interphase",
+     "Prophase"
+    ],
+    "answer": 0,
+    "explanation": "In anaphase the spindle fibres pull the chromatids apart towards opposite poles.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the main purpose of interphase in the cell cycle?",
+    "options": [
+     "The cell grows and copies its DNA",
+     "The cell divides its cytoplasm",
+     "The chromosomes line up",
+     "The nucleus disappears"
+    ],
+    "answer": 0,
+    "explanation": "Interphase is the long preparation stage. Cytokinesis, which divides the cytoplasm, comes after mitosis.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A sample of 200 onion root tip cells is examined. 170 are in interphase and 30 are dividing. What percentage are dividing?",
+    "options": [
+     "15%",
+     "30%",
+     "85%",
+     "17.6%"
+    ],
+    "answer": 0,
+    "explanation": "30 ÷ 200 × 100 = 15%. The root tip has many dividing cells because it is growing.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why are root tips used when students look at mitosis under a microscope?",
+    "options": [
+     "They contain many actively dividing cells",
+     "They contain no cell walls",
+     "They contain gametes",
+     "They have no nuclei"
+    ],
+    "answer": 0,
+    "explanation": "Root tips are a growth region, so many cells are in different stages of mitosis.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement correctly describes stem cells?",
+    "options": [
+     "They can divide by mitosis and become specialised cells",
+     "They only exist in plants",
+     "They cannot divide",
+     "They are all gametes"
+    ],
+    "answer": 0,
+    "explanation": "Stem cells divide by mitosis and can differentiate into specialised cell types, which is useful in growth and repair.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why must chromosomes be copied before mitosis?",
+    "options": [
+     "So each daughter cell gets a complete set",
+     "So the cell can stop growing",
+     "So the cell can become a gamete",
+     "So the chromosome number halves"
+    ],
+    "answer": 0,
+    "explanation": "If DNA were not copied, daughter cells would each get only half the genetic information.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A cell cycle in a culture lasts 20 hours. Examining 100 cells, 10 are in mitosis. Assuming cells are spread randomly through the cycle, about how long does mitosis last?",
+    "options": [
+     "2 hours",
+     "10 hours",
+     "0.2 hours",
+     "20 hours"
+    ],
+    "answer": 0,
+    "explanation": "The fraction in mitosis is 10/100 = 0.1, and 0.1 × 20 hours = 2 hours.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A cell with 8 chromosomes divides by mitosis. How many chromosomes (counting each chromosome as one) are in each daughter cell, and how many DNA copies exist just before division?",
+    "options": [
+     "8 per daughter cell; each chromosome has been copied",
+     "4 per daughter cell; no copying has happened",
+     "16 per daughter cell; each chromosome copied twice",
+     "8 per daughter cell; no copying has happened"
+    ],
+    "answer": 0,
+    "explanation": "Mitosis keeps the number at 8. DNA is copied in interphase, so before division each chromosome has two chromatids.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A doctor says a tumour is growing because its cells ignore the signals that tell them to stop dividing. Which conclusion fits this explanation?",
+    "options": [
+     "Cancer results from changes in genes that control the cell cycle",
+     "Cancer is caused by cells that cannot copy DNA",
+     "Cancer cells are all gametes",
+     "Cancer is a result of meiosis happening in body cells"
+    ],
+    "answer": 0,
+    "explanation": "Mutations in genes controlling division can lead to uncontrolled mitosis. Cancer cells do copy their DNA and divide, which is the problem.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Plants can be grown from cuttings, giving plants identical to the parent. Which process explains this?",
+    "options": [
+     "Mitosis, because it produces genetically identical cells",
+     "Meiosis, because it increases variation",
+     "Fertilisation, because it combines gametes",
+     "Mutation, because it changes DNA"
+    ],
+    "answer": 0,
+    "explanation": "Cuttings grow by mitosis, so the new plant is a clone of the parent. This is a form of asexual reproduction.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student suggests: \"Mitosis in a skin cell makes new skin cells with slightly different genes each time, so we all get variation.\" What is wrong with this statement?",
+    "options": [
+     "Mitosis makes identical cells; variation comes mainly from meiosis and fertilisation",
+     "Mitosis only happens in plants",
+     "Mitosis halves the number of chromosomes",
+     "Skin cells never divide"
+    ],
+    "answer": 0,
+    "explanation": "Daughter cells made by mitosis are genetically identical (barring rare mutations). Variation between offspring comes from gamete formation and fertilisation.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Your body began as a single cell. Today you have trillions of cells. Mitosis is the process that made them, and it keeps making new ones every day to replace those that wear out.\n\n## What is mitosis?\nMitosis is a type of cell division in which one parent cell divides to form two daughter cells that are genetically identical to it. Each daughter cell has the same number of chromosomes as the parent. In humans, a body cell has 46 chromosomes, so after mitosis both daughter cells have 46.\n\nMitosis is used for:\n- **Growth**: increasing the number of cells in an organism.\n- **Repair**: replacing damaged cells, such as when a cut heals.\n- **Replacement**: for example the lining of your gut and skin cells are constantly replaced.\n- **Asexual reproduction**: in some organisms, such as when a strawberry plant makes runners, the offspring are clones of the parent.\n\n## The cell cycle\nCells go through a repeating pattern called the cell cycle. Most of the time is spent in interphase. During interphase the cell grows, makes new organelles and copies its DNA. After copying, each chromosome consists of two identical chromatids joined at a point called the centromere.\n\nThen mitosis happens in four stages:\n- **Prophase**: the chromosomes become short and thick and visible. The nuclear membrane breaks down.\n- **Metaphase**: the chromosomes line up along the middle (equator) of the cell, attached to spindle fibres.\n- **Anaphase**: the spindle fibres pull the chromatids apart to opposite ends of the cell.\n- **Telophase**: new nuclear membranes form around each set of chromosomes.\n\nFinally, in cytokinesis the cytoplasm divides and two separate cells form. A helpful memory aid is PMAT, with I at the start for interphase.\n\n## Control of cell division and cancer\nCell division is controlled by genes. If these genes are damaged by mutations, a cell may divide again and again without stopping. This makes a lump called a tumour. Cancer is the disease where cells divide uncontrollably and may spread. Reducing exposure to harmful radiation and chemicals such as those in tobacco smoke lowers the risk of some cancers.\n\n## Stem cells\nStem cells are unspecialised cells that can divide by mitosis and then differentiate into specialised cells. In humans they are found in bone marrow and in embryos. They are researched for treating injuries and diseases.\n\n## Worked example\nIn a sample of 200 onion root tip cells, 30 are seen dividing. Percentage dividing = 30 ÷ 200 × 100 = 15%. If the whole cell cycle takes 20 hours, mitosis takes about 15% of 20 = 3 hours.\n\n## How this is examined\nYou may be given micrographs or diagrams and asked to name the stage, count cells, or calculate a percentage. Explain questions often ask why identical cells are important for growth and repair.\n\nCommon mistakes: saying mitosis halves the chromosome number (that is meiosis), and forgetting that DNA is copied before division starts.\n\nExam tip: If a question asks why a daughter cell has the same number of chromosomes as the parent, mention that DNA was copied in interphase and the copies were shared equally.",
+  "flashcards": [
+   {
+    "front": "Define mitosis",
+    "back": "Cell division producing two genetically identical diploid daughter cells."
+   },
+   {
+    "front": "Three uses of mitosis",
+    "back": "Growth, repair and replacement of cells, and asexual reproduction."
+   },
+   {
+    "front": "What happens in interphase?",
+    "back": "The cell grows, makes organelles and copies its DNA."
+   },
+   {
+    "front": "Order of mitosis stages",
+    "back": "Prophase, metaphase, anaphase, telophase (then cytokinesis)."
+   },
+   {
+    "front": "What happens in metaphase?",
+    "back": "Chromosomes line up along the equator of the cell."
+   },
+   {
+    "front": "What happens in anaphase?",
+    "back": "Spindle fibres pull chromatids to opposite ends of the cell."
+   },
+   {
+    "front": "What is a tumour?",
+    "back": "A lump of cells caused by uncontrolled cell division."
+   },
+   {
+    "front": "What is a stem cell?",
+    "back": "An unspecialised cell that can divide and differentiate into specialised cells."
+   },
+   {
+    "front": "Chromosome number after mitosis of a human cell",
+    "back": "Each daughter cell has 46 chromosomes, the same as the parent."
+   }
+  ]
+ },
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Genetics and Inheritance",
+  "parentPosition": 5,
+  "position": 3,
+  "subTopic": "Meiosis and Gametes",
+  "questions": [
+   {
+    "content": "What type of cell division produces gametes?",
+    "options": [
+     "Meiosis",
+     "Mitosis",
+     "Binary fission",
+     "Cytokinesis only"
+    ],
+    "answer": 0,
+    "explanation": "Meiosis in the ovaries and testes produces eggs and sperm.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "How many chromosomes are in a human egg cell?",
+    "options": [
+     "23",
+     "46",
+     "92",
+     "12"
+    ],
+    "answer": 0,
+    "explanation": "Gametes are haploid and have one chromosome from each pair, so 23.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is formed when a sperm fuses with an egg?",
+    "options": [
+     "A zygote",
+     "A gamete",
+     "A tumour",
+     "A stem cell line only"
+    ],
+    "answer": 0,
+    "explanation": "Fertilisation produces a zygote with 46 chromosomes. It then divides by mitosis to form an embryo.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Where are sperm cells made in humans?",
+    "options": [
+     "The testes",
+     "The ovaries",
+     "The uterus",
+     "The prostate gland only"
+    ],
+    "answer": 0,
+    "explanation": "Sperm are made in the testes. Eggs are produced in the ovaries.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "How many daughter cells are produced from one cell by meiosis?",
+    "options": [
+     "Four",
+     "Two",
+     "One",
+     "Eight"
+    ],
+    "answer": 0,
+    "explanation": "Meiosis involves two divisions and makes four cells.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which statement correctly compares meiosis with mitosis?",
+    "options": [
+     "Meiosis halves the chromosome number, mitosis keeps it the same",
+     "Both make identical cells",
+     "Mitosis makes four cells, meiosis makes two",
+     "Meiosis is used for repair"
+    ],
+    "answer": 0,
+    "explanation": "Meiosis makes four genetically different cells with half the chromosomes. Mitosis makes two identical cells with the full number.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why must gametes have half the normal number of chromosomes?",
+    "options": [
+     "So the zygote has the correct number after fertilisation",
+     "So the baby grows more slowly",
+     "So gametes can divide by mitosis",
+     "So every gamete is identical"
+    ],
+    "answer": 0,
+    "explanation": "If gametes had 46 each, the zygote would have 92, and the number would double every generation.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A cell in a fruit fly has 8 chromosomes. How many chromosomes are in each gamete?",
+    "options": [
+     "4",
+     "8",
+     "16",
+     "2"
+    ],
+    "answer": 0,
+    "explanation": "Gametes have half the number: 8 ÷ 2 = 4.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is a source of genetic variation in gametes?",
+    "options": [
+     "Chromosome pairs separating independently",
+     "DNA copying itself exactly",
+     "Mitosis in the ovary",
+     "Cytokinesis"
+    ],
+    "answer": 0,
+    "explanation": "Each pair separates independently, so each gamete gets a random mixture of maternal and paternal chromosomes.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is crossing over?",
+    "options": [
+     "Sections of DNA swap between chromosomes in a pair",
+     "Two sperm fuse with one egg",
+     "A gamete moves along the oviduct",
+     "Two cells fuse after mitosis"
+    ],
+    "answer": 0,
+    "explanation": "In meiosis, matching chromosomes exchange sections, creating new combinations of alleles.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why are sperm cells made in much larger numbers than egg cells?",
+    "options": [
+     "Only a tiny fraction will reach and fertilise an egg",
+     "Sperm cells cannot be stored",
+     "Sperm are produced by mitosis",
+     "Eggs are produced by meiosis"
+    ],
+    "answer": 0,
+    "explanation": "Many sperm die or fail to reach the egg, so large numbers increase the chance of fertilisation.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A gamete has 23 chromosomes. A zygote forms by fertilisation. How many chromosomes does the zygote have?",
+    "options": [
+     "46",
+     "23",
+     "69",
+     "92"
+    ],
+    "answer": 0,
+    "explanation": "23 from the egg plus 23 from the sperm = 46.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which feature of a sperm cell helps it reach the egg?",
+    "options": [
+     "A tail for swimming",
+     "Large food stores",
+     "A thick cell wall",
+     "A large cytoplasm"
+    ],
+    "answer": 0,
+    "explanation": "Sperm have a tail and many mitochondria for energy. Food stores are a feature of the egg.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Humans have 23 pairs of chromosomes. Ignoring crossing over, how many different combinations of chromosomes could one person make in their gametes?",
+    "options": [
+     "About 8.4 million (2²³)",
+     "23",
+     "46",
+     "About 529 (23²)"
+    ],
+    "answer": 0,
+    "explanation": "Each pair can separate in two ways, so combinations = 2²³ = 8 388 608. This is one reason siblings differ.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Explain why two children of the same parents usually look different.",
+    "options": [
+     "Each gamete has a different mix of alleles and the gametes that fuse are random",
+     "Their parents' DNA changes every day",
+     "Mitosis makes new genes in the children",
+     "Parents pass on only their dominant genes"
+    ],
+    "answer": 0,
+    "explanation": "Meiosis, crossing over and random fertilisation produce unique combinations. Parents do not pass on only dominant alleles.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A cell fails to divide properly in meiosis and a gamete has 24 chromosomes. What will the zygote have if it is fertilised by a normal sperm?",
+    "options": [
+     "47 chromosomes",
+     "46 chromosomes",
+     "48 chromosomes",
+     "23 chromosomes"
+    ],
+    "answer": 0,
+    "explanation": "The gamete (24) plus a normal gamete (23) gives 47, so there is one extra chromosome.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sentence correctly uses the terms haploid and diploid?",
+    "options": [
+     "Gametes are haploid and the zygote is diploid",
+     "Gametes are diploid and the zygote is haploid",
+     "Body cells are haploid and gametes are diploid",
+     "Both gametes and zygotes are haploid"
+    ],
+    "answer": 0,
+    "explanation": "Haploid means one set of chromosomes (23 in humans) and diploid means two sets (46). Fertilisation restores the diploid number.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Why does sexual reproduction give more variation than asexual reproduction by mitosis?",
+    "options": [
+     "It combines gametes with different alleles",
+     "It makes exact copies of DNA",
+     "It uses no chromosomes",
+     "It involves only one parent"
+    ],
+    "answer": 0,
+    "explanation": "Meiosis and fertilisation mix alleles from two parents, while mitosis gives clones. Variation helps populations survive change.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Making a new human requires two special cells, an egg and a sperm. These sex cells, called gametes, are made by a different type of cell division from the one used for growth. This type is called meiosis.\n\n## What is meiosis?\nMeiosis happens only in the reproductive organs: the ovaries in females and the testes in males. A cell with the full number of chromosomes (46 in humans) divides twice to make four gametes. Each gamete has only half the number of chromosomes (23). Cells with two sets of chromosomes are called diploid, and cells with one set are called haploid. Gametes are haploid.\n\nThe key difference from mitosis is that the four cells made by meiosis are genetically different from each other and from the parent cell.\n\n## Why halve the number?\nWhen a sperm fuses with an egg in fertilisation, their nuclei join to form a zygote. If each gamete carried 46 chromosomes, the zygote would have 92 and the number would double with each generation. Because gametes have 23, the zygote has 23 + 23 = 46 chromosomes, which is the normal diploid number. The zygote then divides by mitosis to grow into an embryo.\n\n## How meiosis creates variation\n- **Independent assortment**: the 23 pairs of chromosomes line up and separate randomly. Each gamete gets a mixture of chromosomes that came from the person's mother and father. With 23 pairs there are 2²³ = 8 388 608 possible combinations.\n- **Crossing over**: matching chromosomes swap sections of DNA, mixing alleles on the same chromosome.\n- **Random fertilisation**: any sperm could fuse with any egg, so the combinations multiply again.\n\nThis is why brothers and sisters from the same parents are alike but not identical. The only exception is identical twins, who come from one zygote that splits.\n\n## Gametes are adapted\nA sperm cell is small and has a tail to swim, a streamlined head containing the nucleus and many mitochondria to release energy. An egg cell is much larger, has a food store in its cytoplasm and a jelly-like coat that changes after one sperm enters to stop others.\n\n## Comparing mitosis and meiosis\n- Mitosis makes 2 cells, meiosis makes 4.\n- Mitosis cells are identical, meiosis cells are different.\n- Mitosis keeps 46 chromosomes, meiosis gives 23.\n- Mitosis is used for growth and repair, meiosis for gametes.\n\n## Worked example\nA fruit fly body cell has 8 chromosomes. Each gamete has 8 ÷ 2 = 4. After fertilisation the zygote has 4 + 4 = 8 again.\n\n## How this is examined\nYou may be given a diagram showing chromosome numbers and asked to complete it, or asked to explain why gametes are made by meiosis. Compare questions require both similarities and differences.\n\nCommon mistakes: saying meiosis makes identical cells, and saying gametes are made by mitosis.\n\nExam tip: For \"explain\" questions about variation, link each cause (independent assortment, crossing over, random fertilisation) to a result, such as a new mixture of alleles.",
+  "flashcards": [
+   {
+    "front": "Define meiosis",
+    "back": "Cell division in the ovaries or testes that makes four genetically different gametes with half the chromosome number."
+   },
+   {
+    "front": "Haploid vs diploid",
+    "back": "Haploid = one set of chromosomes (23 in humans, gametes). Diploid = two sets (46, body cells and zygote)."
+   },
+   {
+    "front": "What is a gamete?",
+    "back": "A sex cell: sperm in males, egg in females."
+   },
+   {
+    "front": "What is fertilisation?",
+    "back": "The fusion of a sperm and an egg nucleus to form a zygote."
+   },
+   {
+    "front": "How many cells and chromosomes result from meiosis in humans?",
+    "back": "Four cells, each with 23 chromosomes."
+   },
+   {
+    "front": "Name two sources of variation in gametes",
+    "back": "Independent assortment of chromosomes and crossing over (plus random fertilisation)."
+   },
+   {
+    "front": "What is crossing over?",
+    "back": "Matching chromosomes swapping sections of DNA during meiosis."
+   },
+   {
+    "front": "Two adaptations of a sperm cell",
+    "back": "A tail for swimming and many mitochondria for energy."
+   },
+   {
+    "front": "Why is meiosis needed?",
+    "back": "It halves the chromosome number so fertilisation restores 46 rather than doubling it each generation."
+   }
+  ]
+ },
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Genetics and Inheritance",
+  "parentPosition": 5,
+  "position": 4,
+  "subTopic": "Inheritance and Punnett Squares",
+  "questions": [
+   {
+    "content": "What is an allele?",
+    "options": [
+     "A different version of a gene",
+     "A type of chromosome",
+     "A sex cell",
+     "A protein"
+    ],
+    "answer": 0,
+    "explanation": "Alleles are alternative forms of the same gene, such as tall or dwarf in pea plants.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "An organism has the genotype Tt. What is this genotype called?",
+    "options": [
+     "Heterozygous",
+     "Homozygous dominant",
+     "Homozygous recessive",
+     "Haploid"
+    ],
+    "answer": 0,
+    "explanation": "Heterozygous means the two alleles are different.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does phenotype mean?",
+    "options": [
+     "The observable characteristic of an organism",
+     "The alleles an organism carries",
+     "The number of chromosomes",
+     "The type of gamete"
+    ],
+    "answer": 0,
+    "explanation": "Phenotype is what you can see or measure, such as flower colour. Genotype is the alleles.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In pea plants, tall (T) is dominant to dwarf (t). What is the phenotype of a plant with genotype Tt?",
+    "options": [
+     "Tall",
+     "Dwarf",
+     "Medium height",
+     "It cannot be known"
+    ],
+    "answer": 0,
+    "explanation": "The dominant allele T shows in the phenotype when present, so Tt is tall.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the chance of a baby being female if the parents are XX and XY?",
+    "options": [
+     "50%",
+     "25%",
+     "75%",
+     "100%"
+    ],
+    "answer": 0,
+    "explanation": "The mother always gives X. The father gives X or Y with equal chance, so 50% XX (female) and 50% XY (male).",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Two heterozygous parents (Bb × Bb) have a child. B is dominant. What is the probability of a child with genotype bb?",
+    "options": [
+     "25%",
+     "50%",
+     "75%",
+     "0%"
+    ],
+    "answer": 0,
+    "explanation": "The offspring genotypes are BB, Bb, Bb and bb in the Punnett square, so bb is 1 in 4 = 25%.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Two heterozygous brown-eyed parents (Bb × Bb) have 4 children. Which prediction is most reasonable?",
+    "options": [
+     "Three could have brown eyes and one blue eyes",
+     "All four will have brown eyes",
+     "Exactly two will have each colour",
+     "None will have blue eyes"
+    ],
+    "answer": 0,
+    "explanation": "The expected ratio is 3 brown : 1 blue. With only four children, results vary, but this is the expected pattern.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A cross between Tt and tt plants produces offspring. What ratio of tall to dwarf is expected?",
+    "options": [
+     "1 : 1",
+     "3 : 1",
+     "All tall",
+     "1 : 3"
+    ],
+    "answer": 0,
+    "explanation": "Tt × tt gives Tt, Tt, tt, tt in the Punnett square, so half are tall and half dwarf.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A black rabbit (dominant B) is crossed with a brown rabbit (bb). Some of the offspring are brown. What is the genotype of the black parent?",
+    "options": [
+     "Heterozygous, Bb",
+     "Homozygous dominant, BB",
+     "Homozygous recessive, bb",
+     "It cannot be worked out"
+    ],
+    "answer": 0,
+    "explanation": "A brown offspring must be bb, so it received a b from each parent. The black parent therefore carries a b allele and is Bb.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which parent genotypes can only produce offspring with the dominant phenotype?",
+    "options": [
+     "Homozygous dominant × homozygous recessive (BB × bb)",
+     "Two heterozygotes (Bb × Bb)",
+     "Heterozygote × homozygous recessive (Bb × bb)",
+     "Two homozygous recessives (bb × bb)"
+    ],
+    "answer": 0,
+    "explanation": "BB × bb gives all Bb offspring. All show the dominant phenotype.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A scientist counts 150 offspring from a monohybrid cross between two heterozygous parents. About how many are expected to show the recessive phenotype?",
+    "options": [
+     "About 38",
+     "About 75",
+     "About 112",
+     "About 150"
+    ],
+    "answer": 0,
+    "explanation": "The recessive proportion is 1/4, so 150 × 0.25 = 37.5, about 38.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why do actual results from a cross often differ from the Punnett square prediction?",
+    "options": [
+     "Fertilisation is random so results show chance variation",
+     "The Punnett square is always wrong",
+     "Dominant alleles change into recessive",
+     "Gametes have no alleles"
+    ],
+    "answer": 0,
+    "explanation": "Punnett squares give probabilities. Small samples vary from the expected ratio, and larger samples are closer.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A man and woman both have normal skin pigmentation but have a child with albinism, a recessive condition. What can you conclude?",
+    "options": [
+     "Both parents are carriers",
+     "Both parents have albinism",
+     "Only the father is a carrier",
+     "The condition is dominant"
+    ],
+    "answer": 0,
+    "explanation": "The child must have two recessive alleles, so each parent passed one on. Parents show the dominant phenotype, so each is heterozygous.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a cross Aa × Aa, what proportion of the offspring with the dominant phenotype are expected to be homozygous?",
+    "options": [
+     "1 in 3",
+     "1 in 4",
+     "1 in 2",
+     "3 in 4"
+    ],
+    "answer": 0,
+    "explanation": "Dominant phenotype offspring are AA, Aa and Aa (3 of 4). Only AA is homozygous, so 1 out of 3.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "In dogs, a gene has dominant allele B (black) and recessive allele b (brown). Two black dogs have 8 puppies: 6 black and 2 brown. A breeder says one parent must be BB. Is this correct?",
+    "options": [
+     "No, both parents could be Bb",
+     "Yes, because most puppies are black",
+     "Yes, because brown puppies are rare",
+     "No, because brown is dominant"
+    ],
+    "answer": 0,
+    "explanation": "The brown puppies (bb) show that both parents carry b, so both are Bb. The 6:2 ratio is close to 3:1.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Plant A is tall and its genotype is unknown. It is crossed with a dwarf (tt) plant. 20 offspring: 11 tall and 9 dwarf. What is the best conclusion?",
+    "options": [
+     "Plant A is heterozygous, Tt",
+     "Plant A is homozygous dominant, TT",
+     "Plant A is homozygous recessive, tt",
+     "Not enough data to say anything"
+    ],
+    "answer": 0,
+    "explanation": "Dwarf offspring need a t from plant A, so it is not TT. A near 1 : 1 ratio fits Tt × tt.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "The probability that a couple's first child is a girl is 0.5. They already have three girls. What is the probability their fourth child is a boy?",
+    "options": [
+     "0.5",
+     "0.25",
+     "0.75",
+     "0.125"
+    ],
+    "answer": 0,
+    "explanation": "Each fertilisation is independent. Previous children do not change the probability, which remains 0.5.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Cystic fibrosis is caused by a recessive allele. A couple are both carriers. What is the probability that their first child is a carrier but does not have the disease?",
+    "options": [
+     "50%",
+     "25%",
+     "75%",
+     "100%"
+    ],
+    "answer": 0,
+    "explanation": "The Punnett square for Cc × Cc gives CC, Cc, Cc, cc. Two of the four (50%) are carriers (Cc).",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Why do you have your mother's nose or your father's laugh? The answer lies in how genes are passed on. This sub-topic explains the key words and shows how to predict the outcome of genetic crosses.\n\n## Key vocabulary\n- **Gene**: a section of DNA that codes for a characteristic.\n- **Allele**: a version of a gene. For example, the gene for flower colour may have a purple allele and a white allele.\n- **Genotype**: the combination of alleles an organism has, written as letters such as Tt.\n- **Phenotype**: the observable characteristic, such as tall or purple.\n- **Dominant allele**: shows in the phenotype if at least one copy is present. It is written as a capital letter.\n- **Recessive allele**: only shows in the phenotype if there are two copies. It is written as a lower case letter.\n- **Homozygous**: two identical alleles (TT or tt).\n- **Heterozygous**: two different alleles (Tt).\n\n## Where alleles come from\nBody cells have two alleles for each gene because chromosomes come in pairs. When gametes are made by meiosis, each gamete receives only one allele of each gene. At fertilisation the alleles from the two gametes combine in the zygote. Gregor Mendel discovered these patterns by breeding pea plants in the 1800s.\n\n## Punnett squares\nA Punnett square is a grid used to predict the possible offspring of a cross. Here is how to complete one for two heterozygous tall pea plants (Tt × Tt):\n- Write the gametes of one parent along the top: T and t.\n- Write the gametes of the other parent down the side: T and t.\n- Fill in each box by combining the letters: TT, Tt, Tt, tt.\n\nThe results are 1 TT : 2 Tt : 1 tt. Three of the four boxes (75%) contain at least one T, so the phenotype ratio is 3 tall : 1 dwarf. The probability of a dwarf plant is 1 in 4, or 25%.\n\nIf you cross Tt × tt, the gametes are T, t and t, t. The boxes show Tt, Tt, tt, tt, a 1 : 1 ratio. This is often used as a test cross to find out whether a tall plant is TT or Tt: if any dwarf offspring appear, the tall plant is Tt.\n\n## Sex determination\nFemales have XX and males have XY. A Punnett square with X X on one side and X Y on the other shows that 50% of the babies are girls and 50% are boys. Each pregnancy is independent, so previous children do not change the odds.\n\n## Probabilities and real results\nA Punnett square gives probabilities, not guarantees. With small families you may not get an exact 3 : 1 ratio, but with hundreds of offspring the results get closer. For example, from 150 offspring of Tt × Tt, expect about 150 × 0.25 = 37.5 dwarf plants.\n\n## Worked example\nBrown eyes (B) are dominant to blue (b). Two brown-eyed parents have a blue-eyed child. The child is bb, so each parent must have given a b. Both parents are Bb. The chance of another blue-eyed child is 25%.\n\n## How this is examined\nYou will be asked to complete a Punnett square, give a genotype or phenotype ratio, calculate expected numbers, or explain why results differ from the prediction. Family tree questions need you to work backwards from the phenotypes.\n\nCommon mistakes: writing the two letters for each gamete in the same box, mixing up genotype with phenotype, and thinking a dominant allele is more common (it is not necessarily).\n\nExam tip: Always show the gametes around the outside of the Punnett square, then give your answer as a ratio and as a probability.",
+  "flashcards": [
+   {
+    "front": "Genotype vs phenotype",
+    "back": "Genotype = the alleles an organism has (Tt). Phenotype = the observable trait (tall)."
+   },
+   {
+    "front": "Dominant vs recessive allele",
+    "back": "Dominant shows if at least one copy is present. Recessive shows only when two copies are present."
+   },
+   {
+    "front": "Homozygous vs heterozygous",
+    "back": "Homozygous = two identical alleles (TT, tt). Heterozygous = two different alleles (Tt)."
+   },
+   {
+    "front": "What is an allele?",
+    "back": "A version of a gene."
+   },
+   {
+    "front": "Result of Tt × Tt",
+    "back": "1 TT : 2 Tt : 1 tt, so 3 dominant phenotype : 1 recessive (75% : 25%)."
+   },
+   {
+    "front": "Result of Tt × tt",
+    "back": "1 Tt : 1 tt, a 1 : 1 ratio (50% each)."
+   },
+   {
+    "front": "Chance a baby is a boy or girl",
+    "back": "50% each, because the father produces X and Y sperm in equal numbers. Each birth is independent."
+   },
+   {
+    "front": "What is a test cross?",
+    "back": "Crossing an unknown dominant-phenotype organism with a homozygous recessive one to find its genotype."
+   },
+   {
+    "front": "Who discovered the basic patterns of inheritance?",
+    "back": "Gregor Mendel, from breeding experiments with pea plants."
+   }
+  ]
+ },
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Genetics and Inheritance",
+  "parentPosition": 5,
+  "position": 5,
+  "subTopic": "Genetic Disorders and Technology",
+  "questions": [
+   {
+    "content": "Down syndrome is caused by which chromosome change?",
+    "options": [
+     "An extra copy of chromosome 21",
+     "A missing X chromosome",
+     "An extra Y chromosome only",
+     "A change to a single base"
+    ],
+    "answer": 0,
+    "explanation": "People with Down syndrome usually have 47 chromosomes because they have three copies of chromosome 21.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Cystic fibrosis is a genetic disorder caused by which type of allele?",
+    "options": [
+     "A recessive allele",
+     "A dominant allele",
+     "An allele on the Y chromosome",
+     "An allele found only in men"
+    ],
+    "answer": 0,
+    "explanation": "Cystic fibrosis only appears when a person inherits two copies of the faulty recessive allele.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a carrier of a recessive genetic disorder?",
+    "options": [
+     "A person with one faulty allele who does not have the disorder",
+     "A person with two faulty alleles",
+     "A person who has the disorder and passes it to everyone",
+     "A person with an extra chromosome"
+    ],
+    "answer": 0,
+    "explanation": "Carriers are heterozygous: they have one normal and one faulty allele, so they do not show the disorder but can pass the allele on.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is an example of using genetic technology?",
+    "options": [
+     "Making insulin using genetically modified bacteria",
+     "Exercising to build muscle",
+     "Eating a balanced diet",
+     "Washing hands to prevent infection"
+    ],
+    "answer": 0,
+    "explanation": "Human insulin genes can be inserted into bacteria, which then make insulin in large quantities.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does a genetic screening test look for?",
+    "options": [
+     "Alleles linked to a disorder",
+     "The person's blood group only",
+     "Infection by bacteria",
+     "The person's height"
+    ],
+    "answer": 0,
+    "explanation": "Genetic tests check a person's DNA for alleles that cause or increase the risk of an inherited disorder.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Two carriers of sickle cell disease (a recessive condition) have a child. What is the chance the child has the disease?",
+    "options": [
+     "25%",
+     "50%",
+     "75%",
+     "0%"
+    ],
+    "answer": 0,
+    "explanation": "Both parents are Ss. The Punnett square gives SS, Ss, Ss and ss, so 1 in 4 is ss.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Huntington's disease is caused by a dominant allele. One parent has the disease (Hh) and the other is healthy (hh). What is the chance a child inherits the disease?",
+    "options": [
+     "50%",
+     "25%",
+     "75%",
+     "100%"
+    ],
+    "answer": 0,
+    "explanation": "Hh × hh gives Hh, Hh, hh, hh, so half the children are expected to have the dominant allele and develop the disease.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why are sickle cell carriers more common in regions where malaria is widespread?",
+    "options": [
+     "Carriers are more resistant to malaria so the allele is passed on",
+     "Malaria causes the sickle cell mutation",
+     "Sickle cell disease protects against all diseases",
+     "The allele spreads by mosquito bites"
+    ],
+    "answer": 0,
+    "explanation": "Having one copy of the allele gives some protection against malaria, which is an advantage in those regions.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Red-green colour blindness is caused by a recessive allele on the X chromosome. Why is it more common in males than females?",
+    "options": [
+     "Males have only one X chromosome so one faulty allele causes it",
+     "Males have two X chromosomes",
+     "Females lack the gene",
+     "The Y chromosome carries the faulty allele"
+    ],
+    "answer": 0,
+    "explanation": "A male (XY) has no second X to mask the recessive allele. A female would need two faulty alleles.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A woman carries the colour blindness allele (X(B)X(b), where B is normal vision) and has children with a man with normal vision (X(B)Y). What proportion of their sons are expected to be colour blind?",
+    "options": [
+     "50%",
+     "0%",
+     "25%",
+     "100%"
+    ],
+    "answer": 0,
+    "explanation": "Sons receive Y from their father and one X from the mother, who gives X(B) or X(b) equally. So half the sons get X(b).",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is a possible benefit of embryo screening for a serious genetic disorder?",
+    "options": [
+     "Families can avoid passing on the disorder",
+     "It guarantees a perfect baby",
+     "It cures the parents",
+     "It changes the baby's DNA"
+    ],
+    "answer": 0,
+    "explanation": "Screening checks embryos for known alleles so parents can make informed decisions. It does not guarantee anything beyond the tested condition.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the aim of gene therapy?",
+    "options": [
+     "To replace or repair faulty genes in a person's cells",
+     "To make a person taller",
+     "To copy the whole body",
+     "To change the person's blood group"
+    ],
+    "answer": 0,
+    "explanation": "Gene therapy delivers working copies of a gene into cells to treat a genetic disorder. It is still experimental for many conditions.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which ethical concern is raised by the use of genetic testing by insurance companies?",
+    "options": [
+     "People might be treated unfairly because of their genes",
+     "Tests are too cheap",
+     "Genes are not made of DNA",
+     "The test changes the DNA"
+    ],
+    "answer": 0,
+    "explanation": "Privacy and discrimination are major concerns: people could be refused cover or charged more because of their DNA.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A couple, neither with cystic fibrosis, already have one child with the disease. What is the probability that their next child will be a carrier, but not have the disease?",
+    "options": [
+     "50%",
+     "25%",
+     "75%",
+     "100%"
+    ],
+    "answer": 0,
+    "explanation": "The parents must both be carriers (Cc). The Punnett square gives CC, Cc, Cc, cc, so Cc has a probability of 2 in 4 = 50%. Each child is independent.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A dominant disorder such as Huntington's often appears after age 35. Why does it cause particular difficulty for genetic counselling?",
+    "options": [
+     "People may have children before they know they carry the allele",
+     "The allele only affects children",
+     "The disease cannot be inherited",
+     "The allele disappears with age"
+    ],
+    "answer": 0,
+    "explanation": "Late onset means affected people may already have had children, passing the allele on, before symptoms start.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "In a family tree, two unaffected parents have an affected daughter. Which type of inheritance does this suggest?",
+    "options": [
+     "Autosomal recessive",
+     "Autosomal dominant",
+     "Y-linked",
+     "X-linked dominant"
+    ],
+    "answer": 0,
+    "explanation": "Unaffected parents with an affected daughter means both carry a hidden recessive allele, and it is not on the sex chromosomes (an unaffected father could not pass an affected X to her).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A haemophilia allele is recessive and carried on the X chromosome. A carrier woman and unaffected man have four children. Which prediction is most reasonable?",
+    "options": [
+     "No daughters will have haemophilia, and about half of the sons may",
+     "All sons will have haemophilia",
+     "All daughters will be carriers",
+     "Half of the daughters will have haemophilia"
+    ],
+    "answer": 0,
+    "explanation": "Daughters get a normal X from their father, so they cannot be affected, though half may be carriers. About half of the sons receive the affected X.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A company offers a cheap DNA test that estimates the risk of several diseases. Which statement best evaluates the technology?",
+    "options": [
+     "It can help people take preventive action but results are probabilities and may cause worry",
+     "Results are always certain so no further advice is needed",
+     "It is useless because genes do not affect health",
+     "It should be banned because DNA is always secret"
+    ],
+    "answer": 0,
+    "explanation": "Genetic risk estimates can guide lifestyle choices, but most conditions involve many genes and the environment, so results show likelihood, not certainty.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Some health conditions are caused by changes in genes or chromosomes and can be passed from parents to children. Understanding them helps doctors support families, and new technology is changing how these disorders are detected and treated.\n\n## Types of genetic disorder\n- **Recessive disorders** need two copies of the faulty allele. People with one copy are carriers: they have no symptoms but can pass the allele on. Examples are cystic fibrosis, which causes thick sticky mucus in the lungs and gut, and sickle cell disease, where red blood cells form an abnormal shape and carry oxygen less well.\n- **Dominant disorders** need only one copy. Huntington's disease damages the nervous system and usually begins in adult life, so people may have children before they know they have it.\n- **Chromosome disorders** happen when the number of chromosomes is wrong. In Down syndrome there is an extra copy of chromosome 21, so cells have 47 chromosomes.\n- **Sex-linked disorders** involve genes on the X chromosome. Red-green colour blindness and haemophilia are caused by recessive alleles on the X chromosome. Males (XY) have only one X, so one faulty allele causes the condition. Females (XX) usually need two, so females are more often carriers.\n\n## Predicting risk\nYou can use Punnett squares. If both parents are carriers of a recessive disorder (Cc × Cc), the chance of an affected child is 25%, a carrier child is 50% and an unaffected non-carrier child is 25%. If one parent has a dominant disorder and is heterozygous (Hh × hh), each child has a 50% chance of inheriting it. For a carrier mother and unaffected father with an X-linked recessive disorder, about half of the sons may be affected and none of the daughters, though half may be carriers.\n\nEach pregnancy is independent. Having one affected child does not change the chance for the next.\n\n## Genetic technology\n- **Genetic screening and testing**: DNA is tested for alleles linked to a disorder. Tests can be done on adults, on newborns, or on embryos created by IVF before they are placed in the uterus.\n- **Gene therapy**: working copies of a gene are put into a person's cells to replace the faulty gene. It is still being developed for many conditions.\n- **Genetic engineering**: genes are moved from one organism to another. Human insulin genes inserted into bacteria allow the bacteria to make insulin for people with diabetes.\n- **DNA profiling**: the variable parts of DNA are compared to identify people, for example in forensic investigations.\n\n## Benefits, risks and ethics\nBenefits include earlier treatment, informed family planning and new medicines. Concerns include privacy (who can see your genetic data), discrimination by employers or insurers, the cost of treatments and whether it is right to select embryos. Results are usually risks, not certainties, because many diseases depend on several genes and the environment.\n\n## How this is examined\nQuestions may give a family tree or a case study. You may be asked to calculate probabilities, name the type of inheritance, or evaluate a technology by weighing benefits against limits and ethics.\n\nCommon mistakes: saying carriers have the disease, treating probability as a guarantee, and assuming that a dominant disorder is common.\n\nExam tip: In evaluate questions, give at least one benefit, one limitation or risk, and a clear judgement supported by a reason.",
+  "flashcards": [
+   {
+    "front": "What is a carrier?",
+    "back": "A person with one faulty recessive allele who does not show the disorder but can pass it on."
+   },
+   {
+    "front": "Cause of Down syndrome",
+    "back": "An extra copy of chromosome 21, giving 47 chromosomes in each cell."
+   },
+   {
+    "front": "Cystic fibrosis: type of inheritance and effect",
+    "back": "Recessive. Thick sticky mucus affects the lungs and digestive system."
+   },
+   {
+    "front": "Chance of an affected child if both parents are carriers",
+    "back": "25% (1 in 4); 50% chance of a carrier child."
+   },
+   {
+    "front": "Why are X-linked recessive disorders more common in males?",
+    "back": "Males have only one X chromosome, so one faulty allele causes the disorder."
+   },
+   {
+    "front": "Huntington's disease",
+    "back": "A dominant disorder of the nervous system, usually appearing in adult life."
+   },
+   {
+    "front": "What is gene therapy?",
+    "back": "Replacing or repairing faulty genes in a person's cells to treat a disorder."
+   },
+   {
+    "front": "How is human insulin made?",
+    "back": "By inserting the human insulin gene into bacteria, which then produce insulin."
+   },
+   {
+    "front": "Two ethical concerns of genetic testing",
+    "back": "Privacy of genetic data and discrimination (for example by insurers or employers)."
+   }
+  ]
+ }
+]

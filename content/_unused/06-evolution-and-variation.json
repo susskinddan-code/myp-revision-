@@ -1,0 +1,1062 @@
+[
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Evolution and Variation",
+  "parentPosition": 6,
+  "position": 1,
+  "subTopic": "Variation and Mutation",
+  "questions": [
+   {
+    "content": "What is variation?",
+    "options": [
+     "Differences between individuals of the same species",
+     "Differences between species only",
+     "The process of cell division",
+     "A type of mutation only"
+    ],
+    "answer": 0,
+    "explanation": "Variation describes the differences within a species, such as height or eye colour.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is an example of continuous variation?",
+    "options": [
+     "Height",
+     "Blood group",
+     "Ability to roll the tongue",
+     "Having attached or free earlobes"
+    ],
+    "answer": 0,
+    "explanation": "Continuous variation shows a full range of values (height). Blood group has distinct categories.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a mutation?",
+    "options": [
+     "A random change in DNA",
+     "A type of cell",
+     "A change in diet",
+     "A type of chromosome"
+    ],
+    "answer": 0,
+    "explanation": "A mutation is a change in the sequence of DNA bases or in chromosome structure.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these can increase the rate of mutation?",
+    "options": [
+     "Ionising radiation such as X-rays",
+     "Drinking water",
+     "Sleeping",
+     "Eating fruit"
+    ],
+    "answer": 0,
+    "explanation": "Ionising radiation, ultraviolet light and some chemicals damage DNA and increase mutation rates.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these causes variation that is NOT inherited?",
+    "options": [
+     "Environment, such as the amount of sunlight",
+     "Alleles from parents",
+     "Meiosis",
+     "Mutations in gametes"
+    ],
+    "answer": 0,
+    "explanation": "Environmental effects, like a plant growing taller in sun, are not passed on through genes.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A student measures the heights of 5 plants grown in light: 152, 160, 155, 163 and 170 mm. What is the mean height?",
+    "options": [
+     "160 mm",
+     "155 mm",
+     "163 mm",
+     "152 mm"
+    ],
+    "answer": 0,
+    "explanation": "(152 + 160 + 155 + 163 + 170) ÷ 5 = 800 ÷ 5 = 160 mm.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Identical twins raised in different countries differ in mass. What is the best explanation?",
+    "options": [
+     "Environmental differences such as diet and activity",
+     "They have different genes",
+     "Mutations in each cell",
+     "They are not related"
+    ],
+    "answer": 0,
+    "explanation": "Identical twins have the same genes, so differences between them are caused by environmental factors.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which graph type is best for showing continuous variation in the heights of 100 students?",
+    "options": [
+     "A histogram",
+     "A bar chart with gaps",
+     "A pie chart",
+     "A pictogram"
+    ],
+    "answer": 0,
+    "explanation": "Histograms show the frequency of data grouped into continuous ranges. Bar charts with gaps suit categories such as blood group.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement describes the effect of most mutations?",
+    "options": [
+     "Most are harmful or have no effect",
+     "All are beneficial",
+     "All cause cancer",
+     "They always make new species"
+    ],
+    "answer": 0,
+    "explanation": "Most mutations are neutral or harmful. A few give an advantage in a particular environment.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A mutation happens in a skin cell of a person's arm. Why will it not be passed on to their children?",
+    "options": [
+     "It is not in the gametes",
+     "Skin cells have no DNA",
+     "Only dominant mutations are inherited",
+     "Mutations are never inherited"
+    ],
+    "answer": 0,
+    "explanation": "Only mutations in the cells that form gametes (sperm or eggs) can be inherited.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is the best description of discontinuous variation?",
+    "options": [
+     "Characteristics fall into distinct categories",
+     "Values form a smooth range",
+     "Characteristics are always caused only by the environment",
+     "Only found in plants"
+    ],
+    "answer": 0,
+    "explanation": "Discontinuous variation has clear categories, such as blood groups A, B, AB and O.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a population of insects, a mutation gives a few individuals resistance to a pesticide. What is the source of this variation?",
+    "options": [
+     "A random change in DNA",
+     "The pesticide caused the mutation on purpose",
+     "The insects chose to change",
+     "Their environment gave them genes"
+    ],
+    "answer": 0,
+    "explanation": "Mutations occur randomly. The pesticide does not cause resistance, it just makes the resistant insects more likely to survive.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Sickle cell disease results from a single base change in a gene. What type of change is this?",
+    "options": [
+     "A mutation",
+     "A chromosome pair",
+     "A tissue",
+     "A reflex"
+    ],
+    "answer": 0,
+    "explanation": "A change to one base in DNA is a mutation and results in an altered haemoglobin protein.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A scientist grows genetically identical plants in 3 different soils and measures height. Plants in soil A are taller on average. What does this show?",
+    "options": [
+     "Environment affects height",
+     "Genes caused the difference",
+     "Mutation caused the difference",
+     "Nothing, because plants are alike"
+    ],
+    "answer": 0,
+    "explanation": "As the genes are identical, the difference must be caused by the environment (the soil).",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which statement best explains why sexual reproduction produces more variation than asexual reproduction?",
+    "options": [
+     "Meiosis and fertilisation mix alleles from two parents",
+     "Gametes are exact copies of the parent",
+     "Asexual reproduction involves meiosis",
+     "Sexual reproduction produces clones"
+    ],
+    "answer": 0,
+    "explanation": "Meiosis shuffles alleles into new combinations and random fertilisation mixes them again. Asexual reproduction by mitosis produces clones.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Data are collected on height (cm) in a class: 140–149 (4 students), 150–159 (11), 160–169 (9), 170–179 (3). What is the modal class and the percentage of students in it?",
+    "options": [
+     "150–159, about 41%",
+     "160–169, about 33%",
+     "150–159, about 11%",
+     "160–169, about 9%"
+    ],
+    "answer": 0,
+    "explanation": "The highest frequency is 11 in 150–159. Total is 27. 11 ÷ 27 × 100 = 40.7%, about 41%.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A farmer notices that a field of crop plants shows variation in yield. Which investigation would best separate genetic from environmental causes?",
+    "options": [
+     "Grow the same variety in different conditions and different varieties in the same conditions",
+     "Grow one plant only",
+     "Measure the yield once",
+     "Use only the tallest plants"
+    ],
+    "answer": 0,
+    "explanation": "To separate causes you change one factor at a time: same genes in different environments, and different genes in the same environment.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "UV light damages DNA in skin cells. Which is the most accurate statement about the risk?",
+    "options": [
+     "Damage can lead to mutations that may cause skin cancer",
+     "UV light makes DNA stronger",
+     "UV light only affects hair",
+     "Mutations from UV are inherited by every child"
+    ],
+    "answer": 0,
+    "explanation": "Mutations in the genes that control cell division can lead to uncontrolled division. UV damage in skin cells is not passed to children.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Look around your classroom. No two people look exactly the same, even if they are related. Differences between individuals of the same species are called variation. Variation is important because it provides the raw material for evolution.\n\n## Causes of variation\nVariation can be caused by genes, by the environment, or by both together.\n- **Genetic variation**: different alleles inherited from parents. Examples are blood group, eye colour and whether you can roll your tongue.\n- **Environmental variation**: the effect of the surroundings, such as diet, sunlight, climate and accidents. A plant grown in shade may be thinner and paler than one grown in sunlight even if they have identical genes. A scar is an environmental effect and is not inherited.\n- **Combination**: many features such as height and body mass depend on both genes and environment.\n\nIdentical twins have the same genes, so differences between them are caused by the environment. This makes them useful for studying nature and nurture.\n\n## Continuous and discontinuous variation\n- **Continuous variation** shows a full range of values with no clear categories, such as height, mass or leaf length. Data are shown on a histogram and often make a bell shape, with most individuals near the average.\n- **Discontinuous variation** shows distinct categories with no in-between values, such as blood group or whether you have attached earlobes. Data are shown on a bar chart.\n\n## Where does genetic variation come from?\nSexual reproduction mixes alleles. Meiosis produces gametes with different combinations, and fertilisation is random, so each child has a new mixture. The original source of new alleles is mutation.\n\n## Mutation\nA mutation is a random change in the DNA, either a change to the bases in a gene or a change in the number or structure of chromosomes. Mutations happen naturally when DNA is copied, but the rate is increased by ionising radiation (X-rays, gamma rays), ultraviolet light and some chemicals, such as those in tobacco smoke, which are called mutagens.\n- Most mutations have no effect or are harmful, for example a changed protein that does not work.\n- A few mutations are beneficial, giving an advantage in the environment, such as an insect becoming resistant to a pesticide.\n- Mutations only pass to offspring if they occur in cells that form gametes. A mutation in a skin cell is not inherited, but may lead to cancer if it affects genes controlling cell division.\n\nA well-known example is sickle cell disease, caused by a single base change in the haemoglobin gene.\n\n## Worked example\nHeights (mm) of five seedlings: 152, 160, 155, 163, 170. Mean = (152 + 160 + 155 + 163 + 170) ÷ 5 = 800 ÷ 5 = 160 mm. Differences between seedlings could be genetic or environmental. To separate them, grow identical clones in different conditions.\n\n## How this is examined\nYou may be given a table or graph and asked to identify the type of variation, calculate a mean or percentage, or explain the cause. Investigation questions ask how to design a fair test.\n\nCommon mistakes: saying that mutations are always harmful, saying that the environment causes a mutation to be beneficial on purpose, and confusing an acquired feature with an inherited one.\n\nExam tip: When asked for the cause of variation, say whether it is genetic, environmental or both and give a piece of evidence from the question.",
+  "flashcards": [
+   {
+    "front": "Define variation",
+    "back": "Differences between individuals of the same species."
+   },
+   {
+    "front": "Continuous variation",
+    "back": "A full range of values with no categories, for example height. Shown on a histogram."
+   },
+   {
+    "front": "Discontinuous variation",
+    "back": "Distinct categories, for example blood group. Shown on a bar chart."
+   },
+   {
+    "front": "Two causes of variation",
+    "back": "Genetic (alleles inherited) and environmental (surroundings), often both together."
+   },
+   {
+    "front": "Define mutation",
+    "back": "A random change in the DNA base sequence or in chromosomes."
+   },
+   {
+    "front": "Name two mutagens",
+    "back": "Ionising radiation (for example X-rays), ultraviolet light and chemicals in tobacco smoke."
+   },
+   {
+    "front": "Are most mutations beneficial?",
+    "back": "No. Most are neutral or harmful. A few give an advantage in a particular environment."
+   },
+   {
+    "front": "When can a mutation be inherited?",
+    "back": "When it occurs in cells that make gametes (sperm or eggs)."
+   },
+   {
+    "front": "Why do identical twins help study variation?",
+    "back": "They have the same genes, so differences between them are caused by the environment."
+   }
+  ]
+ },
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Evolution and Variation",
+  "parentPosition": 6,
+  "position": 2,
+  "subTopic": "Natural Selection",
+  "questions": [
+   {
+    "content": "Who proposed the theory of evolution by natural selection in 1859 in his book On the Origin of Species?",
+    "options": [
+     "Charles Darwin",
+     "Gregor Mendel",
+     "Louis Pasteur",
+     "Isaac Newton"
+    ],
+    "answer": 0,
+    "explanation": "Charles Darwin published On the Origin of Species in 1859. Alfred Russel Wallace independently reached similar ideas.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does 'survival of the fittest' mean in natural selection?",
+    "options": [
+     "Individuals best suited to their environment are more likely to survive and reproduce",
+     "The strongest individual always wins",
+     "Individuals choose to adapt",
+     "The biggest animals survive"
+    ],
+    "answer": 0,
+    "explanation": "Fitness means how well adapted an organism is. It is about surviving and having offspring, not just strength.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What must be present in a population for natural selection to occur?",
+    "options": [
+     "Variation between individuals",
+     "Identical individuals",
+     "Only one species",
+     "No predators"
+    ],
+    "answer": 0,
+    "explanation": "Natural selection acts on variation. If all individuals were identical, there would be nothing to select.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is an example of natural selection?",
+    "options": [
+     "Bacteria becoming resistant to an antibiotic",
+     "A farmer breeding the biggest pigs",
+     "A person lifting weights",
+     "A dog learning a trick"
+    ],
+    "answer": 0,
+    "explanation": "Resistant bacteria survive treatment and reproduce, so resistance becomes common without human choice of mates.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "How are advantageous characteristics passed on in natural selection?",
+    "options": [
+     "Through alleles in the gametes",
+     "By practising the skill",
+     "By being copied from other animals",
+     "By eating particular food"
+    ],
+    "answer": 0,
+    "explanation": "Only genetic characteristics are inherited. Acquired characteristics are not passed on.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Put these steps of natural selection in the correct order: (1) survivors reproduce, (2) variation exists, (3) allele becomes more common, (4) some individuals survive better.",
+    "options": [
+     "2, 4, 1, 3",
+     "4, 2, 3, 1",
+     "1, 2, 3, 4",
+     "2, 1, 4, 3"
+    ],
+    "answer": 0,
+    "explanation": "There is variation, some survive better, they reproduce and pass on alleles, so those alleles become more common.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Before industrial pollution most peppered moths in Britain were pale. Later, in sooty cities, dark moths became more common. Which explanation is best?",
+    "options": [
+     "Dark moths were better camouflaged on dark trees so fewer were eaten by birds",
+     "The soot turned the moths dark",
+     "The moths decided to become dark",
+     "Pale moths moved away"
+    ],
+    "answer": 0,
+    "explanation": "Birds ate more of the moths that were easy to see. Dark moths survived to reproduce and passed on the dark allele.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A giraffe's ancestors had necks of different lengths. Which statement correctly explains long necks using natural selection?",
+    "options": [
+     "Longer-necked individuals reached more food, survived and reproduced more, passing on the alleles",
+     "Giraffes stretched their necks and their children inherited the stretch",
+     "Giraffes needed longer necks, so they grew",
+     "All giraffes were born with identical necks"
+    ],
+    "answer": 0,
+    "explanation": "Natural selection acts on existing variation. Stretching during a lifetime is an acquired characteristic and is not inherited.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a bacterial population of 1000, one bacterium is resistant to an antibiotic. The antibiotic kills all non-resistant ones. Why will the population recover?",
+    "options": [
+     "The resistant bacterium survives and reproduces",
+     "The antibiotic helps them grow",
+     "All bacteria were resistant already",
+     "Bacteria make new DNA on purpose"
+    ],
+    "answer": 0,
+    "explanation": "Survivors multiply and pass on the resistance allele, so the new population is mostly resistant.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A population has 20 dark moths and 80 pale moths on pale tree bark. After a year of selection 60 of 200 moths are dark. What can be concluded?",
+    "options": [
+     "The proportion of dark moths increased from 20% to 30%",
+     "The proportion of dark moths fell",
+     "Dark moths are extinct",
+     "The proportion did not change"
+    ],
+    "answer": 0,
+    "explanation": "20 ÷ 100 = 20% before and 60 ÷ 200 = 30% after, so dark moths became more common.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which difference between natural selection and selective breeding is correct?",
+    "options": [
+     "In selective breeding humans choose which individuals breed",
+     "In natural selection humans choose",
+     "Natural selection is much faster",
+     "Selective breeding has no variation"
+    ],
+    "answer": 0,
+    "explanation": "In selective breeding humans choose the characteristics. In natural selection the environment decides who survives.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What happens to the frequency of a beneficial allele over many generations in a population?",
+    "options": [
+     "It increases",
+     "It decreases",
+     "It stays exactly the same",
+     "It disappears"
+    ],
+    "answer": 0,
+    "explanation": "Individuals with the beneficial allele survive and reproduce more, so the allele becomes more common.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why do many offspring born in a wild population never reach adulthood?",
+    "options": [
+     "They compete for limited food, space and mates and are eaten or die of disease",
+     "Parents choose which offspring survive",
+     "They have no DNA",
+     "They are all identical"
+    ],
+    "answer": 0,
+    "explanation": "Resources are limited, so there is a struggle for existence. This is what creates selection pressure.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a study of 48 wild rabbits, 12 had thick fur and survived a cold winter, while the rest died. Over the next years, 75% of rabbits were thick-furred. Which conclusion is best supported?",
+    "options": [
+     "Thick fur was an advantage that was selected",
+     "The cold changed the rabbits' genes on purpose",
+     "Rabbits needed thicker fur so they grew it",
+     "Selection is random with no pattern"
+    ],
+    "answer": 0,
+    "explanation": "Survivors with thick fur passed on the advantageous allele, so it became common. The cold does not direct mutations.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A farmer sprays the same pesticide every year. Each year it kills fewer insects. Which explanation uses natural selection?",
+    "options": [
+     "Resistant insects survive and breed, so resistance alleles increase",
+     "The pesticide becomes weaker",
+     "Insects learn to avoid it",
+     "Insects mutate when they sense the chemical"
+    ],
+    "answer": 0,
+    "explanation": "The pesticide acts as a selection pressure. Resistance arises by random mutation and spreads because resistant insects survive.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which statement shows a common misconception about evolution?",
+    "options": [
+     "Individual organisms evolve during their lifetime to fit the environment",
+     "Populations change over generations",
+     "Mutations provide new alleles",
+     "Environment selects the advantageous alleles"
+    ],
+    "answer": 0,
+    "explanation": "Individuals do not evolve. Populations change over many generations as allele frequencies shift.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Hospital staff are told to complete a full course of antibiotics. Which reasoning links this advice to natural selection?",
+    "options": [
+     "Stopping early may leave the most resistant bacteria alive to multiply",
+     "Antibiotics are expensive",
+     "Bacteria cannot reproduce during treatment",
+     "The course makes bacteria mutate"
+    ],
+    "answer": 0,
+    "explanation": "Surviving bacteria are the ones that tolerate the drug best, so incomplete treatment can select for resistant strains.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A population of beetles lives on a dark volcanic island. Initially 90% are brown and 10% are green. Birds eat the visible beetles. After 5 generations, 98% are brown. What is the most likely reason?",
+    "options": [
+     "Brown beetles were harder for birds to see so more survived to breed",
+     "Green beetles mutated into brown beetles",
+     "Beetles on the island chose their colour",
+     "Birds prefer the taste of brown beetles"
+    ],
+    "answer": 0,
+    "explanation": "Camouflage gave brown beetles higher survival, so their alleles increased. Mutation and choice do not explain a directional change.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Why do rabbits in cold regions have thick fur, and why are some bacteria no longer killed by antibiotics? The answer is natural selection, the process Charles Darwin described in his 1859 book On the Origin of Species. Alfred Russel Wallace developed the same idea independently.\n\n## The main steps\nNatural selection can be explained as a chain of steps:\n- **Variation**: individuals of a species are not identical. Some of the differences are caused by differing alleles.\n- **Competition**: more offspring are born than can survive. They compete for food, space, mates and avoid predators and disease.\n- **Survival of the fittest**: individuals with characteristics that suit the environment are more likely to survive. Here \"fittest\" means best adapted, not the strongest.\n- **Reproduction**: survivors breed and pass on their alleles to their offspring.\n- **Change over time**: over many generations the advantageous alleles become more common in the population. A population can change in this way, which is part of evolution.\n\nWhere do new alleles come from? Random mutations. Most mutations are harmless or harmful, but now and then one is beneficial in a particular environment. The environment does not cause the mutation to happen. It selects which individuals survive.\n\n## Example: peppered moths\nPeppered moths rest on tree bark and birds eat the ones they can see. Before the Industrial Revolution most moths in Britain were pale, matching lichen-covered bark. As soot from factories blackened trees in industrial areas during the 1800s, dark moths were better camouflaged and survived more often. Dark moths became common. After pollution laws were introduced in the twentieth century, trees became cleaner and pale moths increased again.\n\n## Example: antibiotic resistance\nIn a population of bacteria, a random mutation may make one bacterium resistant to an antibiotic. When the antibiotic is used, non-resistant bacteria die and the resistant one survives and multiplies. Over time the infection is made of resistant bacteria. This is why antibiotics should only be used when needed and courses should be completed.\n\n## Natural and selective breeding\nIn selective breeding humans choose which individuals breed, for example cows with high milk yield. In natural selection the environment is the selecting force. Both rely on variation and inheritance.\n\n## Misconceptions to avoid\n- Individuals do not change their genes because they need to. Populations change over generations.\n- Characteristics that are acquired during life, like big muscles or scars, are not inherited.\n- Evolution has no goal. It does not produce \"perfect\" organisms.\n\n## Worked example\nA population has 20 dark moths out of 100 (20%). After selection there are 60 dark moths out of 200 (30%). The proportion of dark moths increased by 10 percentage points because they were better camouflaged.\n\n## How this is examined\nTypical questions give a scenario with data, and ask you to explain how the change occurred using the steps of natural selection, or to evaluate a claim.\n\nExam tip: Use the chain: variation, advantage, survival, reproduction, allele becomes more common. Name the selection pressure (for example predators or antibiotics) in your answer.",
+  "flashcards": [
+   {
+    "front": "Who published On the Origin of Species and when?",
+    "back": "Charles Darwin, in 1859. Alfred Russel Wallace independently proposed similar ideas."
+   },
+   {
+    "front": "Define natural selection",
+    "back": "The process where individuals best adapted to their environment survive and reproduce more, passing on their alleles."
+   },
+   {
+    "front": "Steps of natural selection",
+    "back": "Variation, competition, survival of the best adapted, reproduction, advantageous alleles become more common."
+   },
+   {
+    "front": "Source of new alleles",
+    "back": "Random mutation."
+   },
+   {
+    "front": "What does 'fittest' mean?",
+    "back": "Best adapted to the environment, so most likely to survive and reproduce. It does not mean strongest."
+   },
+   {
+    "front": "Peppered moth example",
+    "back": "Dark moths were camouflaged on sooty trees, survived more, and became common in polluted areas."
+   },
+   {
+    "front": "How does antibiotic resistance spread?",
+    "back": "A resistant bacterium survives the antibiotic, reproduces, and passes on the resistance allele."
+   },
+   {
+    "front": "Natural vs selective breeding",
+    "back": "Natural: the environment selects. Selective breeding: humans choose which organisms breed."
+   },
+   {
+    "front": "Do individuals evolve?",
+    "back": "No. Populations change over many generations as allele frequencies change. Acquired characteristics are not inherited."
+   }
+  ]
+ },
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Evolution and Variation",
+  "parentPosition": 6,
+  "position": 3,
+  "subTopic": "Adaptation",
+  "questions": [
+   {
+    "content": "What is an adaptation?",
+    "options": [
+     "A feature that helps an organism survive in its environment",
+     "A change in an individual during one day",
+     "A type of mutation only",
+     "A kind of habitat"
+    ],
+    "answer": 0,
+    "explanation": "An adaptation is an inherited feature (structural, behavioural or physiological) that helps survival and reproduction.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a structural adaptation of a polar bear?",
+    "options": [
+     "Thick layer of fat (blubber)",
+     "Hibernating in winter only",
+     "Migrating south",
+     "Sleeping at night"
+    ],
+    "answer": 0,
+    "explanation": "Blubber is a body structure that insulates the bear. It is a structural adaptation.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why do cacti have spines instead of broad leaves?",
+    "options": [
+     "To reduce water loss and protect from animals",
+     "To absorb more water from the air",
+     "To make more shade",
+     "To catch insects"
+    ],
+    "answer": 0,
+    "explanation": "Spines have a small surface area, so less water is lost by transpiration, and they deter animals.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which adaptation helps a camel survive in a desert?",
+    "options": [
+     "Fat stored in its hump",
+     "Webbed feet",
+     "Gills",
+     "A thick layer of blubber"
+    ],
+    "answer": 0,
+    "explanation": "The hump is a store of fat that can be used as an energy reserve when food is scarce.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A behavioural adaptation of some birds is to:",
+    "options": [
+     "Migrate to warmer areas in winter",
+     "Have feathers",
+     "Have hollow bones",
+     "Have a beak"
+    ],
+    "answer": 0,
+    "explanation": "Migration is something the animal does, so it is behavioural. Feathers, bones and beaks are structures.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Arctic foxes have small ears and desert foxes have large ears. Which explanation is best?",
+    "options": [
+     "Large ears have a large surface area to lose heat; small ears reduce heat loss",
+     "Large ears are for better swimming",
+     "Small ears are for eating",
+     "Arctic foxes never hear"
+    ],
+    "answer": 0,
+    "explanation": "In hot climates a large surface area helps lose heat. In cold climates a small area keeps heat in.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which calculation gives the surface area to volume ratio of a cube with sides of 2 cm?",
+    "options": [
+     "24 ÷ 8 = 3 : 1",
+     "6 ÷ 1 = 6 : 1",
+     "8 ÷ 24 = 1 : 3",
+     "12 ÷ 4 = 3 : 1"
+    ],
+    "answer": 0,
+    "explanation": "Surface area = 6 × 2 × 2 = 24 cm². Volume = 2 × 2 × 2 = 8 cm³. Ratio = 24 : 8 = 3 : 1.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "An animal living in a very cold climate is likely to have what ratio of surface area to volume?",
+    "options": [
+     "Small, because that reduces heat loss",
+     "Large, because that increases heat loss",
+     "It makes no difference",
+     "Zero"
+    ],
+    "answer": 0,
+    "explanation": "Large animals with compact shapes lose less heat for their volume, which helps in the cold.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Some desert plants have roots that spread widely near the surface. How is this an adaptation?",
+    "options": [
+     "It quickly absorbs rain water before it evaporates",
+     "It protects the plant from animals",
+     "It stores sugar",
+     "It allows the plant to photosynthesise"
+    ],
+    "answer": 0,
+    "explanation": "Rain in deserts is rare and brief, so shallow wide roots collect as much water as possible.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which feature is a physiological adaptation?",
+    "options": [
+     "Camels produce very concentrated urine to save water",
+     "Ducks have webbed feet",
+     "Cacti have spines",
+     "Owls have large eyes"
+    ],
+    "answer": 0,
+    "explanation": "Physiological adaptations involve processes inside the body, such as how urine is made.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A moth has patterns that resemble the eyes of a larger animal. How does this help it survive?",
+    "options": [
+     "It scares predators",
+     "It attracts a mate only",
+     "It improves its sense of smell",
+     "It stores water"
+    ],
+    "answer": 0,
+    "explanation": "Eye-like patterns can startle predators, giving the moth time to escape.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why do many desert animals, such as fennec foxes, hunt at night?",
+    "options": [
+     "It is cooler so they lose less water",
+     "They cannot see in daylight",
+     "There is more food in the day",
+     "Their prey sleeps at night"
+    ],
+    "answer": 0,
+    "explanation": "Nocturnal behaviour avoids the heat of the day, reducing water loss and overheating.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Fish have streamlined bodies and fins. How does streamlining help?",
+    "options": [
+     "It reduces water resistance so they swim efficiently",
+     "It helps them breathe air",
+     "It keeps them warm",
+     "It makes them heavier"
+    ],
+    "answer": 0,
+    "explanation": "A smooth shape lets water flow around the body, reducing drag.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Two seals of the same species live in different places. Seal X is in the Arctic and has a thick layer of blubber. Seal Y lives in warm waters and has little. What is the best explanation of this difference?",
+    "options": [
+     "Over many generations, individuals with the more suitable amount of blubber survived and reproduced",
+     "Each seal chose how much blubber to grow",
+     "Seals gain blubber only by exercise",
+     "The ocean changes the DNA of seals"
+    ],
+    "answer": 0,
+    "explanation": "Adaptations arise through natural selection acting on variation. Individuals do not choose or acquire them in life.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Cube A has sides of 1 cm and cube B has sides of 3 cm. By how much is the surface area to volume ratio of A larger than B?",
+    "options": [
+     "A is 6 : 1 and B is 2 : 1, so A is 3 times larger",
+     "A is 6 : 1 and B is 3 : 1, so A is 2 times larger",
+     "Both are 6 : 1",
+     "A is 1 : 6 and B is 1 : 2"
+    ],
+    "answer": 0,
+    "explanation": "A: 6 ÷ 1 = 6. B: surface area 54, volume 27, ratio 2 : 1. 6 ÷ 2 = 3 times larger.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Marram grass living on sand dunes has leaves that curl into a tube with hairs inside. What is the most likely purpose?",
+    "options": [
+     "To trap moist air and reduce water loss",
+     "To attract insects",
+     "To store fat",
+     "To absorb more sunlight"
+    ],
+    "answer": 0,
+    "explanation": "Curled leaves with hairs trap a humid layer of air around the stomata, reducing transpiration in a windy dry environment.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Scientists notice that a newly introduced predator is eating a species of lizard that is brightly coloured, while camouflaged lizards survive better. In the long term, what is the most likely outcome?",
+    "options": [
+     "Camouflage alleles become more common in the population",
+     "Brightly coloured lizards become more common",
+     "The lizards change colour to match",
+     "No change happens"
+    ],
+    "answer": 0,
+    "explanation": "Predation is the selection pressure. Camouflaged lizards survive and breed more, so those alleles increase over generations.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student claims: \"A giraffe's long neck is an adaptation because the giraffes tried hard to reach high leaves.\" Which response is best?",
+    "options": [
+     "The long neck arose through natural selection of inherited variation, not effort during life",
+     "The student is right",
+     "Giraffes inherit effort",
+     "Adaptations are caused by dreaming"
+    ],
+    "answer": 0,
+    "explanation": "Features acquired by effort are not inherited. Adaptations result from natural selection of inherited variation over generations.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "An adaptation is an inherited feature that helps an organism survive and reproduce in its habitat. Adaptations are the result of natural selection acting over many generations. Organisms with helpful features survived, bred and passed on the alleles.\n\n## Three kinds of adaptation\n- **Structural adaptations** are body features, such as the thick fur and blubber of a polar bear, the spines of a cactus or the streamlined body of a fish.\n- **Behavioural adaptations** are things an organism does, such as migrating, hibernating, hunting at night or building a nest.\n- **Physiological adaptations** are processes inside the body, such as producing very concentrated urine to save water (camel), venom production in snakes, or the ability to tolerate extreme salt levels.\n\n## Hot and dry environments\nDesert organisms must save water and avoid overheating.\n- Cacti have thick stems that store water, spines (small surface area, less water loss and protection from animals), a waxy coating and shallow roots that spread widely to catch rain.\n- Camels have a hump that stores fat, wide feet that spread weight on sand, long eyelashes to keep out sand, and can tolerate large water loss.\n- Many small animals are nocturnal, and some burrow to keep cool. Fennec foxes have large ears with a large surface area for losing heat.\n\n## Cold environments\nPolar bears have thick fur, a layer of blubber for insulation, white fur for camouflage, small ears and a small tail to reduce heat loss. Arctic foxes have small ears too. Some animals hibernate or migrate.\n\n## Surface area to volume ratio\nHeat is lost through the surface, but heat is made by the volume of the body. A cube with 1 cm sides has surface area 6 cm² and volume 1 cm³, a ratio of 6 : 1. A cube with 2 cm sides has surface area 24 cm² and volume 8 cm³, a ratio of 3 : 1. So bigger objects have a smaller ratio. Animals in cold climates tend to be larger and more compact with a lower ratio, so they lose less heat. Animals in hot climates may have large ears or thin limbs, a larger ratio, to lose heat.\n\n## Other examples\n- Camouflage helps predators and prey avoid being seen.\n- Warning colours, such as the black and yellow of wasps, tell predators the animal is dangerous.\n- Mimicry: harmless species look like harmful ones.\n- Streamlined shapes reduce resistance in water or air.\n- Extremophiles are microorganisms adapted to extreme conditions such as very hot springs.\n\n## How adaptations arise\nVariation exists in a population. Individuals with a useful feature survive and reproduce more. Over many generations the useful alleles become common. Individuals do not grow adaptations because they need them.\n\n## Worked example\nExplain why a desert plant has spines. Answer: spines have a small surface area compared with broad leaves, so less water evaporates; this helps the plant survive where water is scarce, so plants with spines survived and reproduced.\n\n## How this is examined\nQuestions give an organism and ask you to describe its adaptations and explain how each helps survival. You may calculate surface area to volume ratio or evaluate which organism is best suited to a habitat.\n\nExam tip: Use the three-part pattern: feature, how it works, why it helps survival in that habitat.",
+  "flashcards": [
+   {
+    "front": "Define adaptation",
+    "back": "An inherited feature that helps an organism survive and reproduce in its environment."
+   },
+   {
+    "front": "Three types of adaptation",
+    "back": "Structural (body features), behavioural (actions) and physiological (processes in the body)."
+   },
+   {
+    "front": "Surface area to volume ratio of a cube with 2 cm sides",
+    "back": "Surface area 24 cm², volume 8 cm³, so the ratio is 3 : 1."
+   },
+   {
+    "front": "Why do cold-climate animals have a lower SA:V ratio?",
+    "back": "Less surface area for their volume means less heat is lost."
+   },
+   {
+    "front": "Two desert plant adaptations",
+    "back": "Spines or reduced leaves (less water loss); thick stems storing water; wide shallow roots."
+   },
+   {
+    "front": "Two polar bear adaptations",
+    "back": "Thick fur and blubber for insulation; white fur for camouflage; small ears."
+   },
+   {
+    "front": "Camel adaptations",
+    "back": "Hump stores fat, wide feet, long eyelashes, very concentrated urine to save water."
+   },
+   {
+    "front": "What does warning colouration do?",
+    "back": "Advertises that an animal is dangerous or poisonous, so predators avoid it."
+   },
+   {
+    "front": "How do adaptations arise?",
+    "back": "Through natural selection of inherited variation over many generations, not by individuals trying or needing."
+   }
+  ]
+ },
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Evolution and Variation",
+  "parentPosition": 6,
+  "position": 4,
+  "subTopic": "Evidence for Evolution",
+  "questions": [
+   {
+    "content": "What are fossils?",
+    "options": [
+     "Preserved remains or traces of organisms from long ago",
+     "Living organisms in rocks",
+     "Modern bones",
+     "Man-made tools"
+    ],
+    "answer": 0,
+    "explanation": "Fossils are the remains or imprints of ancient organisms, often preserved in sedimentary rock.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In undisturbed layers of sedimentary rock, where are the oldest fossils usually found?",
+    "options": [
+     "In the deepest layers",
+     "In the top layer",
+     "In the middle layers only",
+     "They are in the same layer as the newest fossils"
+    ],
+    "answer": 0,
+    "explanation": "Layers are laid down one on top of the other, so the oldest are at the bottom if the rocks have not been disturbed.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which statement about the 'theory' of evolution is correct?",
+    "options": [
+     "In science a theory is a well-tested explanation supported by lots of evidence",
+     "A theory is just a guess",
+     "A theory has no evidence",
+     "A theory is a law of nature"
+    ],
+    "answer": 0,
+    "explanation": "A scientific theory explains many observations and has been tested repeatedly.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is meant by extinction?",
+    "options": [
+     "The permanent loss of a whole species",
+     "The loss of one animal",
+     "Migration to a new area",
+     "A species changing colour"
+    ],
+    "answer": 0,
+    "explanation": "A species is extinct when no living members remain.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why are fossils of soft-bodied organisms, such as jellyfish, rare?",
+    "options": [
+     "Soft tissue usually decays before it can fossilise",
+     "Jellyfish are not animals",
+     "They live too deep",
+     "They have no DNA"
+    ],
+    "answer": 0,
+    "explanation": "Hard parts like bones and shells fossilise more easily. Soft parts are usually eaten or decay.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "The forelimbs of a human, a whale, a bat and a bird have the same basic bone arrangement but different functions. What does this suggest?",
+    "options": [
+     "They share a common ancestor",
+     "They evolved from nothing",
+     "They are not related",
+     "The limbs are identical in function"
+    ],
+    "answer": 0,
+    "explanation": "Homologous structures have the same basic plan because they were inherited from a common ancestor, then adapted for different uses.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Archaeopteryx has feathers and wings like a bird and also teeth and a long bony tail like a reptile. Why is it important evidence for evolution?",
+    "options": [
+     "It shows features of two groups, suggesting a link between them",
+     "It proves birds never changed",
+     "It shows reptiles can fly today",
+     "It is a modern bird"
+    ],
+    "answer": 0,
+    "explanation": "A transitional fossil with features of both reptiles and birds supports the idea that birds evolved from reptile-like ancestors.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which observation provides evidence for evolution happening now?",
+    "options": [
+     "Bacteria becoming resistant to antibiotics",
+     "Rocks being laid down",
+     "The moon orbiting Earth",
+     "Plants growing towards light"
+    ],
+    "answer": 0,
+    "explanation": "Resistance evolves in populations within a few years or decades. This shows natural selection in action.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Comparing DNA, scientists find that humans and chimpanzees have a very high proportion of identical DNA, while humans and mice have less. What does this suggest?",
+    "options": [
+     "Humans are more closely related to chimpanzees than to mice",
+     "Humans and mice are more closely related",
+     "DNA is not related to ancestry",
+     "Chimpanzees evolved from humans"
+    ],
+    "answer": 0,
+    "explanation": "The more similar the DNA, the more recently the species shared a common ancestor.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student says: \"If humans evolved from monkeys, why are there still monkeys?\" What is the correct response?",
+    "options": [
+     "Humans and monkeys share a common ancestor, they did not evolve from one another",
+     "Monkeys are failed humans",
+     "Evolution has stopped",
+     "Humans and monkeys are unrelated"
+    ],
+    "answer": 0,
+    "explanation": "Species share ancestors that lived millions of years ago. Different populations evolved down different paths.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Fossils of the same species of marine animal are found in rocks in the mountains. What is the best explanation?",
+    "options": [
+     "The rock formed under the sea and was later pushed up",
+     "The animals climbed the mountain",
+     "The fossil is man-made",
+     "The animals lived on mountains"
+    ],
+    "answer": 0,
+    "explanation": "Earth movements can lift sea-floor sediments to form mountains, so marine fossils can appear on land.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is the fossil record incomplete?",
+    "options": [
+     "Many organisms did not fossilise and many fossils have not been found",
+     "Fossils are always perfect",
+     "Only plants fossilise",
+     "All fossils have been dug up"
+    ],
+    "answer": 0,
+    "explanation": "Conditions for fossilisation are rare, and rocks can be destroyed or hard to reach.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which evidence shows that organisms from different species have similar sequences of amino acids in a protein such as cytochrome c?",
+    "options": [
+     "Biochemical comparisons",
+     "Fossil layers only",
+     "Camouflage patterns",
+     "Migration records"
+    ],
+    "answer": 0,
+    "explanation": "Comparing proteins and DNA is a molecular method that shows how related species are.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A fossil series of horses shows teeth, legs and size changing gradually over millions of years in layers from deep to shallow rock. What does the pattern most strongly support?",
+    "options": [
+     "Gradual change in a lineage over time",
+     "Horses never changed",
+     "Horses appeared suddenly",
+     "Horses are older than rocks"
+    ],
+    "answer": 0,
+    "explanation": "The oldest fossils are small and many-toed, while younger ones show changes. This supports descent with modification.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Whale skeletons include small hip bones not attached to the backbone. What is the best interpretation?",
+    "options": [
+     "They are leftovers from land-living ancestors",
+     "They are used for walking",
+     "They are new features",
+     "They prove whales evolved from fish"
+    ],
+    "answer": 0,
+    "explanation": "Vestigial structures are reduced features that had a function in ancestors, supporting the idea whales evolved from land mammals.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which pair of observations best supports the claim that two species share a common ancestor?",
+    "options": [
+     "They have similar bone structures and similar DNA sequences",
+     "They live in the same habitat",
+     "They have similar names",
+     "They eat the same food"
+    ],
+    "answer": 0,
+    "explanation": "Two independent lines of evidence (anatomy and DNA) pointing the same way make a strong case. Living in the same place can be a coincidence.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Fossils of a species are found only in a rock layer dated at 200 million years old, not above it. What is the most reasonable conclusion?",
+    "options": [
+     "The species probably became extinct around then",
+     "The species is still alive",
+     "The species never existed",
+     "The rock is newer than the species"
+    ],
+    "answer": 0,
+    "explanation": "If no fossils are found in younger layers, the species likely disappeared. It might also be that the fossils are not preserved, so the conclusion is tentative.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which evaluation of fossil evidence is the most balanced?",
+    "options": [
+     "It shows change through time but has gaps because few organisms fossilise",
+     "It is complete and has no limits",
+     "It is useless because of gaps",
+     "It shows no change over time"
+    ],
+    "answer": 0,
+    "explanation": "Fossils give strong evidence, but the record is incomplete and must be combined with DNA, anatomy and direct observation.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "How do we know that living things have changed over time? Scientists build a case from several independent lines of evidence. When different kinds of evidence point to the same conclusion, confidence grows. In science, a \"theory\" is a well-tested explanation that is supported by lots of evidence, which is very different from a guess.\n\n## Fossils\nFossils are the preserved remains or traces of organisms that lived long ago. Most form when an organism is buried quickly in sediment, and hard parts such as bones, teeth and shells are slowly replaced by minerals. Footprints, burrows and imprints are also fossils. In undisturbed sedimentary rock the oldest fossils are in the lowest layers. Putting fossils in order shows how life has changed. For example, the fossil record of horses shows changes in size, leg bones and teeth over millions of years.\n\nSome fossils show features of two groups. Archaeopteryx has feathers like a bird but also teeth and a long bony tail like a reptile. Such transitional fossils suggest links between groups.\n\nThe fossil record is incomplete. Soft-bodied animals usually decay before they can fossilise, many fossils are destroyed by erosion or earth movements, and many have not been discovered. Scientists therefore treat fossil evidence as strong but not complete.\n\n## Extinction\nFossils show that many species that once lived are now extinct. Extinction can occur when the environment changes, new predators or competitors arrive, or diseases spread. Changes in the environment act as selection pressures.\n\n## Comparing anatomy\nHomologous structures are body parts with the same basic arrangement of bones but different uses. The forelimb of a human, whale, bat and bird has the same pattern of bones. The best explanation is that they were inherited from a common ancestor and adapted to different uses. Vestigial structures, such as the tiny hip bones in whales, are leftovers from ancestors that used them.\n\n## Comparing DNA and proteins\nAll living things use DNA, which suggests a shared origin. The more similar the DNA sequences or proteins of two species, the more recently they shared a common ancestor. Humans share a very high percentage of their DNA with chimpanzees and less with more distant relatives such as mice.\n\n## Evolution observed now\nNatural selection can be seen in action. Bacteria quickly evolve antibiotic resistance and insects evolve pesticide resistance. Peppered moth populations changed colour as pollution changed.\n\n## A common misunderstanding\nHumans did not evolve from modern monkeys or chimpanzees. Humans and chimpanzees share an ancestor from millions of years ago. The populations then followed different paths.\n\n## How this is examined\nYou may be given a table of fossil ages or DNA similarities and asked to interpret it, or asked to evaluate how strong a piece of evidence is. Good answers point out both what the evidence shows and its limits.\n\nExam tip: For an evaluate question, state what the evidence shows, give one limitation, and then say how other evidence (such as DNA) strengthens the conclusion.",
+  "flashcards": [
+   {
+    "front": "What is a fossil?",
+    "back": "The preserved remains or traces of an organism from long ago, often in sedimentary rock."
+   },
+   {
+    "front": "Why is the fossil record incomplete?",
+    "back": "Soft bodies decay, few organisms fossilise, some fossils are destroyed, and many are undiscovered."
+   },
+   {
+    "front": "What are homologous structures?",
+    "back": "Body parts with the same basic bone plan but different uses, showing common ancestry (for example limbs)."
+   },
+   {
+    "front": "What is a vestigial structure?",
+    "back": "A reduced feature that was useful in ancestors, such as small hip bones in whales."
+   },
+   {
+    "front": "Why is Archaeopteryx important?",
+    "back": "It has features of both reptiles (teeth, bony tail) and birds (feathers), suggesting a link between them."
+   },
+   {
+    "front": "What does DNA similarity show?",
+    "back": "The more similar the DNA of two species, the more recently they shared a common ancestor."
+   },
+   {
+    "front": "Where are the oldest fossils in undisturbed rock?",
+    "back": "In the lowest layers."
+   },
+   {
+    "front": "Give a modern example of evolution",
+    "back": "Bacteria evolving antibiotic resistance, or insects evolving pesticide resistance."
+   },
+   {
+    "front": "What is extinction?",
+    "back": "The permanent loss of a whole species, with no living members left."
+   }
+  ]
+ }
+]

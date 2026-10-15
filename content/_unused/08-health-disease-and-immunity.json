@@ -1,0 +1,1317 @@
+[
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Health, Disease and Immunity",
+  "subTopic": "Pathogens and disease",
+  "questions": [
+   {
+    "content": "What is a pathogen?",
+    "options": [
+     "A microorganism that causes disease",
+     "A white blood cell",
+     "A medicine that kills bacteria",
+     "A disease that cannot be passed on"
+    ],
+    "answer": 0,
+    "explanation": "Pathogens include bacteria, viruses, fungi and protists. They enter the body and cause harm.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which disease is caused by a virus?",
+    "options": [
+     "Cholera",
+     "Athlete's foot",
+     "Malaria",
+     "Influenza (flu)"
+    ],
+    "answer": 3,
+    "explanation": "Flu is caused by the influenza virus. Cholera is caused by bacteria, athlete's foot by a fungus and malaria by a protist.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a communicable disease?",
+    "options": [
+     "Type 2 diabetes",
+     "Scurvy",
+     "Measles",
+     "Lung cancer"
+    ],
+    "answer": 2,
+    "explanation": "Communicable diseases are caused by pathogens and can be passed from one person to another. Diabetes, scurvy and cancer are not.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "How does the TB (tuberculosis) bacterium mainly spread?",
+    "options": [
+     "By mosquito bites",
+     "In droplets when an infected person coughs",
+     "In undercooked rice only",
+     "Through shaking hands only"
+    ],
+    "answer": 1,
+    "explanation": "TB is an airborne disease. Droplets from coughs and sneezes carry the bacteria into other people's lungs.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which action helps to stop the spread of pathogens in a kitchen?",
+    "options": [
+     "Leaving food out overnight",
+     "Washing hands and surfaces regularly",
+     "Using the same board for raw meat and salad",
+     "Sneezing over the food"
+    ],
+    "answer": 1,
+    "explanation": "Hygiene removes or kills pathogens and prevents cross-contamination between foods.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Malaria is caused by a protist called Plasmodium. How is it passed to humans?",
+    "options": [
+     "Through the bite of an infected mosquito acting as a vector",
+     "By drinking dirty water",
+     "By touching infected surfaces",
+     "By breathing in droplets"
+    ],
+    "answer": 0,
+    "explanation": "A vector is an organism that carries a pathogen from one host to another. Female Anopheles mosquitoes carry the malaria parasite.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which method would MOST effectively reduce malaria in a village?",
+    "options": [
+     "Taking antibiotics each day",
+     "Washing hands before meals only",
+     "Wearing a face mask",
+     "Using bed nets and removing standing water where mosquitoes breed"
+    ],
+    "answer": 3,
+    "explanation": "Malaria is spread by mosquitoes, so controlling the vector and avoiding bites is key. Antibiotics do not kill the protist.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A person has a bacterial infection. Which medicine is suitable?",
+    "options": [
+     "An antiviral only",
+     "A painkiller to cure the cause",
+     "An antibiotic",
+     "An antihistamine"
+    ],
+    "answer": 2,
+    "explanation": "Antibiotics kill bacteria or stop them growing. They do not work on viruses. Painkillers relieve symptoms but do not cure.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why do antibiotics NOT work against the flu virus?",
+    "options": [
+     "Viruses are too big",
+     "Flu is not an infection",
+     "Viruses live inside host cells and are not killed by antibiotics",
+     "Antibiotics make viruses stronger"
+    ],
+    "answer": 2,
+    "explanation": "Antibiotics target bacterial structures or processes. Viruses are not living cells and have no such targets.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How does cholera usually spread?",
+    "options": [
+     "By mosquito bites",
+     "By drinking water contaminated with sewage containing the bacteria",
+     "By coughing",
+     "By sunlight"
+    ],
+    "answer": 1,
+    "explanation": "Cholera is a water-borne disease. Clean water and good sanitation are the best ways to prevent it.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of these pairs correctly matches a pathogen type with a disease?",
+    "options": [
+     "Fungus – athlete's foot",
+     "Virus – cholera",
+     "Bacterium – measles",
+     "Protist – tuberculosis"
+    ],
+    "answer": 0,
+    "explanation": "Athlete's foot is a fungal infection. Measles is viral, cholera and TB are bacterial, and malaria is caused by a protist.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "The body temperature of a patient with an infection goes up. What is the most likely reason?",
+    "options": [
+     "The pathogen produces heat so the patient cools down",
+     "The patient is respiring less",
+     "The skin has become thinner",
+     "The body raises its temperature as a defence because many pathogens grow less well when it is warm"
+    ],
+    "answer": 3,
+    "explanation": "A fever is part of the body's response to infection and it can slow pathogen growth.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is a way that HIV can be passed on?",
+    "options": [
+     "By coughing in a classroom",
+     "By sharing a swimming pool",
+     "By mosquito bites",
+     "Through contact with infected blood or other body fluids"
+    ],
+    "answer": 3,
+    "explanation": "HIV is spread by body fluids such as blood or via mother to baby. It is not spread by casual contact such as hugging or sharing cups.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a town, 200 people are infected on Monday. During the following week each of them passes the disease to 3 other people. How many NEW infections occur that week?",
+    "options": [
+     "200",
+     "800",
+     "600",
+     "1800"
+    ],
+    "answer": 2,
+    "explanation": "New infections = 200 × 3 = 600 in the first week. Adding the original 200 would give a total of 800, but the question asks only for new infections.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Data: a hospital tests a new antibiotic on a bacterium. Plate A has no antibiotic and a lawn of bacteria. Plate B has a disc with antibiotic and a clear ring around it of 12 mm. Plate C has a disc with a different antibiotic and a clear ring of 4 mm. Which conclusion is best?",
+    "options": [
+     "The antibiotic on plate C is more effective",
+     "The antibiotic on plate B is more effective than the one on plate C against this bacterium",
+     "Plate A shows antibiotic B is harmful to people",
+     "Both antibiotics work equally"
+    ],
+    "answer": 1,
+    "explanation": "A larger clear zone means more bacteria were killed or stopped from growing. Plate A is the control with no antibiotic.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A doctor says that antibiotic resistance is becoming a problem. Which sequence explains how resistance evolves?",
+    "options": [
+     "Random mutation gives a few bacteria resistance → antibiotic kills non-resistant bacteria → resistant bacteria survive and reproduce",
+     "Bacteria choose to become resistant → they pass it on",
+     "Antibiotics change the bacteria's DNA to protect them",
+     "The patient's body makes the bacteria resistant"
+    ],
+    "answer": 0,
+    "explanation": "Resistance arises by chance mutation and natural selection. Using antibiotics unnecessarily gives resistant bacteria an advantage.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which statement explains why a viral infection spreads quickly in a crowded school but slowly in a village of isolated farms?",
+    "options": [
+     "Close contact and shared air give the pathogen more opportunities to move between people",
+     "Viruses prefer large buildings",
+     "People in schools have weaker skin",
+     "Viruses only grow in children"
+    ],
+    "answer": 0,
+    "explanation": "Transmission depends on contact. More close contact increases the chance of droplets or touch passing the pathogen on.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A traveller develops fever and chills 10 days after returning from a region where mosquitoes are common. Which would be the most scientific first step?",
+    "options": [
+     "Take antibiotics immediately without a test",
+     "Assume it is just a cold and do nothing",
+     "Stay in the sun to raise body temperature",
+     "Seek medical testing for a mosquito-borne disease such as malaria and mention the travel history"
+    ],
+    "answer": 3,
+    "explanation": "Symptoms after travel in malaria areas need a test. Antibiotics are not effective against the protist, and delay can be dangerous.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "A **pathogen** is a microorganism that causes disease. A disease caused by a pathogen that can be passed from one organism to another is called a **communicable** (or infectious) disease. You need to know the main groups of pathogens, how they spread, what they do and how to stop them.\n\n## Types of pathogen\n- **Bacteria** are single-celled organisms. They reproduce quickly in the body and some produce toxins that make us ill. Examples: *Salmonella* (food poisoning), cholera, tuberculosis (TB). Bacterial infections can usually be treated with antibiotics.\n- **Viruses** are tiny particles that can only reproduce inside living host cells, damaging them. Examples: influenza, measles, the common cold and HIV. Antibiotics do not work on viruses.\n- **Fungi** include moulds and yeasts. Examples: athlete's foot and ringworm, which affect the skin.\n- **Protists** are single-celled organisms. The best-known disease-causing protist is *Plasmodium*, which causes malaria.\n\n## How pathogens spread\n- **Droplets**: tiny drops from coughs and sneezes carry pathogens, as in flu and TB.\n- **Direct contact**: touching an infected person or surface, as with athlete's foot.\n- **Contaminated food and water**: examples are salmonella and cholera.\n- **Body fluids**: blood and sexual contact can spread HIV.\n- **Vectors**: organisms that carry pathogens without usually being harmed. Mosquitoes carry the malaria protist from person to person.\n\n## Causes, symptoms and response\nPathogens reproduce in the body and may damage cells or release toxins. Symptoms such as a high temperature, rashes, vomiting or tiredness appear as the body fights back. A fever helps because many pathogens grow best at normal body temperature.\n\n## Preventing the spread\n- Wash hands and clean surfaces; cook and store food correctly.\n- Treat sewage and provide clean drinking water.\n- Control vectors with nets, insecticide and by removing standing water.\n- Isolate infected people and use masks and good ventilation.\n- Vaccination protects against many viral and bacterial diseases.\n\n## Treating infections\n**Antibiotics** such as penicillin kill bacteria or stop them growing, but have no effect on viruses. Painkillers only relieve symptoms. **Antibiotic resistance** happens when a few bacteria with a chance mutation survive treatment and multiply. Overusing antibiotics or not finishing a course helps resistant forms to spread, so antibiotics should be used only when needed.\n\n## Worked example\nA clear zone of 12 mm around antibiotic X and 4 mm around antibiotic Y on a bacterial plate shows that X is more effective, because more bacteria have been prevented from growing. Always include a control with no antibiotic.\n\n## Common mistakes\n- Saying antibiotics kill viruses.\n- Saying that all bacteria are harmful. Many are useful.\n- Forgetting that a vector is not itself the pathogen.\n- Writing that \"germs\" cause all diseases. Use the correct type of pathogen.\n\n## How this is examined\nQuestions give a case, for example an outbreak in a school, a traveller returning with a fever or a village with unsafe water. You identify the type of pathogen, explain how it spreads and suggest and justify control methods. Data from petri-dish tests or case numbers are common.\n\nExam tip: Give the pathogen type, the route of transmission and a specific control method that matches that route. Do not say antibiotics for viruses.",
+  "flashcards": [
+   {
+    "front": "Pathogen",
+    "back": "A microorganism that causes disease, such as a bacterium, virus, fungus or protist."
+   },
+   {
+    "front": "Communicable disease",
+    "back": "A disease caused by a pathogen that can be passed from one organism to another."
+   },
+   {
+    "front": "Four types of pathogen with an example of each",
+    "back": "Bacteria (cholera), virus (influenza), fungus (athlete's foot), protist (malaria)."
+   },
+   {
+    "front": "Vector",
+    "back": "An organism that carries a pathogen from one host to another. Example: the mosquito spreads malaria."
+   },
+   {
+    "front": "Ways pathogens spread",
+    "back": "Droplets in the air, direct contact, contaminated food or water, body fluids and vectors."
+   },
+   {
+    "front": "Antibiotics",
+    "back": "Medicines that kill bacteria or stop them growing. They do not work against viruses."
+   },
+   {
+    "front": "Antibiotic resistance",
+    "back": "When bacteria that have mutated survive antibiotic treatment and multiply, so the antibiotic stops working."
+   },
+   {
+    "front": "How is cholera prevented?",
+    "back": "Clean drinking water and safe disposal of sewage."
+   },
+   {
+    "front": "Why do fevers happen?",
+    "back": "The body raises its temperature as a defence; many pathogens grow less well at a higher temperature."
+   }
+  ]
+ },
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Health, Disease and Immunity",
+  "subTopic": "The immune system",
+  "questions": [
+   {
+    "content": "Which of these is a physical barrier that stops pathogens entering the body?",
+    "options": [
+     "The skin",
+     "Antibodies",
+     "Platelets",
+     "Red blood cells"
+    ],
+    "answer": 0,
+    "explanation": "Unbroken skin is a tough barrier. If it is cut, platelets help to form a clot and seal the wound.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What do white blood cells do?",
+    "options": [
+     "Carry oxygen",
+     "Clot the blood",
+     "Carry digested food",
+     "Defend the body against pathogens"
+    ],
+    "answer": 3,
+    "explanation": "White blood cells are part of the immune system. Red blood cells carry oxygen and platelets help clotting.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is an antibody?",
+    "options": [
+     "A type of bacterium",
+     "A medicine that kills viruses",
+     "A protein made by white blood cells that attaches to a specific antigen",
+     "A platelet"
+    ],
+    "answer": 2,
+    "explanation": "Antibodies are made by lymphocytes and have a shape that fits one antigen.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is an antigen?",
+    "options": [
+     "A cell that kills pathogens",
+     "A molecule on the surface of a pathogen that triggers an immune response",
+     "A protein that carries oxygen",
+     "A type of antibiotic"
+    ],
+    "answer": 1,
+    "explanation": "Antigens are markers on pathogens. The immune system detects them as foreign.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What substance in the stomach helps to kill pathogens in food?",
+    "options": [
+     "Insulin",
+     "Hydrochloric acid",
+     "Bile",
+     "Saliva"
+    ],
+    "answer": 1,
+    "explanation": "The stomach produces acid that kills many bacteria that enter with food.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which process is carried out by phagocytes?",
+    "options": [
+     "Engulfing and digesting pathogens",
+     "Making antibodies",
+     "Clotting blood",
+     "Carrying oxygen"
+    ],
+    "answer": 0,
+    "explanation": "A phagocyte surrounds a pathogen and digests it. This process is called phagocytosis and is non-specific.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How do lymphocytes help to destroy pathogens?",
+    "options": [
+     "They digest all pathogens without antibodies",
+     "They stop the heart beating",
+     "They make mucus",
+     "They produce antibodies that fit specific antigens"
+    ],
+    "answer": 3,
+    "explanation": "Each lymphocyte makes antibodies specific to one antigen. Antibodies can clump pathogens together or mark them for phagocytes.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is the antibody for the measles virus unable to protect against the flu virus?",
+    "options": [
+     "Flu is caused by bacteria",
+     "Antibodies only work in children",
+     "Antibodies are specific to the shape of one antigen",
+     "Antibodies destroy only bacteria"
+    ],
+    "answer": 2,
+    "explanation": "The shape of an antibody fits only the particular antigen it was made against.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How does mucus in the nose and airways help to protect the body?",
+    "options": [
+     "It digests pathogens",
+     "It makes antibodies",
+     "It traps pathogens and dust, and cilia move it away",
+     "It kills all viruses"
+    ],
+    "answer": 2,
+    "explanation": "Goblet cells produce sticky mucus. Cilia beat to move mucus to the throat, where it is swallowed and acid in the stomach kills most pathogens.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the role of memory cells?",
+    "options": [
+     "They kill pathogens by digesting them",
+     "They stay in the body and allow a faster response if the same pathogen returns",
+     "They make red blood cells",
+     "They carry antigens around the body"
+    ],
+    "answer": 1,
+    "explanation": "Memory lymphocytes remember an antigen. On a second infection antibodies are made quickly and in large amounts, so you may not get ill.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A person cuts their finger. Which cell fragments help to seal the wound and reduce entry of pathogens?",
+    "options": [
+     "Platelets",
+     "Phagocytes",
+     "Red blood cells",
+     "Lymphocytes"
+    ],
+    "answer": 0,
+    "explanation": "Platelets help blood to clot, forming a scab that blocks pathogens.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement correctly compares the primary and secondary immune responses?",
+    "options": [
+     "The primary response is faster",
+     "Both are identical",
+     "The secondary response produces fewer antibodies",
+     "The secondary response is faster and produces more antibodies"
+    ],
+    "answer": 3,
+    "explanation": "Memory cells formed in the first response allow a rapid and larger response when the same pathogen is met again.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of these is an example of a non-specific defence?",
+    "options": [
+     "Antibodies against measles virus",
+     "Memory cells for chickenpox",
+     "Antibodies against tetanus",
+     "Stomach acid killing bacteria"
+    ],
+    "answer": 3,
+    "explanation": "Non-specific defences work against all pathogens. Antibodies and memory cells are specific.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A graph shows antibody concentration after a first infection: it starts to rise on day 5, peaks at 20 units on day 12, then falls. After a second infection with the same pathogen on day 40, it begins rising on day 41 and reaches 120 units on day 45. What does this show?",
+    "options": [
+     "The pathogen has mutated",
+     "The first response was stronger",
+     "A faster and stronger secondary response due to memory cells",
+     "Antibodies were not specific"
+    ],
+    "answer": 2,
+    "explanation": "A quicker rise and a much higher peak (120 against 20 units) show that memory cells allowed a rapid secondary response.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Why can a person catch a cold many times but usually get measles only once?",
+    "options": [
+     "Cold viruses are bacteria",
+     "Many different cold viruses exist and change, but the measles virus has one stable antigen type that memory cells recognise",
+     "Memory cells only form after a cold",
+     "Measles is not caused by a pathogen"
+    ],
+    "answer": 1,
+    "explanation": "Colds are caused by many virus types, so memory cells for one do not match another. Measles has a stable antigen so immunity usually lasts.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Some people have a condition in which their immune system cannot make enough white blood cells. Which prediction is most reasonable?",
+    "options": [
+     "They are more likely to suffer serious infections",
+     "They will be unable to breathe",
+     "They will be immune to all diseases",
+     "They will have blood that does not clot"
+    ],
+    "answer": 0,
+    "explanation": "White blood cells defend against pathogens. With too few, infections are more frequent and severe.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A scientist adds white blood cells to a dish of bacteria. After one hour she sees some bacteria inside the cells and fewer outside. Which process has taken place?",
+    "options": [
+     "Phagocytosis",
+     "Antibody production",
+     "Clotting",
+     "Vaccination"
+    ],
+    "answer": 0,
+    "explanation": "The white blood cells (phagocytes) have engulfed the bacteria. It is a non-specific process.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student says, \"Antibodies are living cells that eat bacteria.\" Which correction is accurate?",
+    "options": [
+     "Antibodies are cells that make hormones",
+     "Antibodies are not made by the body",
+     "Antibodies are bacteria themselves",
+     "Antibodies are proteins, not cells; they bind to antigens and help destroy pathogens"
+    ],
+    "answer": 3,
+    "explanation": "Antibodies are protein molecules made by lymphocytes. Phagocytes are the cells that engulf pathogens.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Your body is constantly exposed to pathogens, but you do not get ill every time. This is because the body has several layers of defence. They are called the **immune system** and they work together to keep pathogens out and destroy those that get in.\n\n## Barriers: stopping entry\n- The **skin** is a tough, waterproof barrier. If it is cut, **platelets** help the blood to clot and form a scab.\n- **Mucus** in the nose and airways traps pathogens and dust, and tiny hairs called **cilia** sweep it upwards to the throat where it is swallowed.\n- **Stomach acid** (hydrochloric acid) kills most pathogens that are swallowed.\n- **Tears and saliva** contain enzymes, such as lysozyme, that kill bacteria.\n\nThese barriers are **non-specific**: they work against all pathogens.\n\n## White blood cells: destroying invaders\nIf a pathogen gets past the barriers, white blood cells deal with it.\n- **Phagocytes** engulf pathogens and digest them. This is called **phagocytosis** and it is a non-specific response.\n- **Lymphocytes** produce **antibodies**. Antibodies are proteins with a shape that fits one particular **antigen** on the surface of a pathogen. They can clump pathogens together, make them easy for phagocytes to find, or neutralise toxins (antitoxins).\n- **Memory cells** are lymphocytes that stay in the blood after an infection. If the same pathogen returns, they respond quickly.\n\n## Antigens and antibodies\nEach type of pathogen has its own antigens. The body must make antibodies that match the antigen exactly, like a key fitting a lock. That is why antibodies made against measles do not protect you against flu. This is a **specific** response.\n\n## Primary and secondary response\nThe first time you meet a pathogen, it takes several days for lymphocytes to make enough antibodies, so you may become ill. This is the **primary response**. If the same pathogen returns, memory cells produce antibodies much faster and in greater numbers. This is the **secondary response**. You destroy the pathogen before it makes you ill, so you are **immune**.\n\n## Worked example\nA graph shows antibody concentration rising slowly to 20 units after the first infection and rising rapidly to 120 units after the second. The secondary response is 120 ÷ 20 = 6 times larger and faster, which demonstrates the effect of memory cells.\n\n## Immune system problems\n- **HIV** is a virus that attacks and damages white blood cells, so the immune system becomes weak and the person is vulnerable to other infections.\n- **Allergies** happen when the immune system reacts to harmless substances such as pollen.\n- Some people are born with a poorly working immune system and are very prone to infections.\n\n## Common mistakes\n- Saying that antibodies are cells. They are proteins.\n- Saying white blood cells \"attack\" without naming the process. Use the correct term: engulf (phagocytosis) or produce antibodies.\n- Mixing up antigen and antibody. The **antigen** is on the pathogen; the **antibody** is made by the body.\n\n## How this is examined\nYou may be asked to label a diagram of a white blood cell engulfing bacteria, explain why a second infection is milder, or read a graph of antibody levels over time. Explain using specific terms.\n\nExam tip: Always link a fact to a function: lymphocytes → antibodies → specific antigen; memory cells → faster second response; phagocytes → engulf and digest. Use these linked chains in explain questions.",
+  "flashcards": [
+   {
+    "front": "Antigen",
+    "back": "A molecule on the surface of a pathogen that the immune system recognises as foreign."
+   },
+   {
+    "front": "Antibody",
+    "back": "A protein made by lymphocytes with a shape that fits one specific antigen."
+   },
+   {
+    "front": "Phagocyte",
+    "back": "A white blood cell that engulfs and digests pathogens (phagocytosis). It is a non-specific response."
+   },
+   {
+    "front": "Lymphocyte",
+    "back": "A white blood cell that makes antibodies against a particular antigen."
+   },
+   {
+    "front": "Memory cells",
+    "back": "Lymphocytes that remain after an infection so the body can respond quickly and strongly if the pathogen returns."
+   },
+   {
+    "front": "Primary vs secondary response",
+    "back": "Primary: slow, few antibodies. Secondary: fast and large because of memory cells."
+   },
+   {
+    "front": "Non-specific defences",
+    "back": "Skin, mucus and cilia, stomach acid, tears and phagocytes. They act against all pathogens."
+   },
+   {
+    "front": "Role of platelets",
+    "back": "Fragments of cells that help blood clot and form a scab, sealing wounds against pathogens."
+   },
+   {
+    "front": "How does HIV affect immunity?",
+    "back": "HIV infects and damages white blood cells, weakening the immune system so other infections can take hold."
+   }
+  ]
+ },
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Health, Disease and Immunity",
+  "subTopic": "Vaccination",
+  "questions": [
+   {
+    "content": "What is a vaccine?",
+    "options": [
+     "A preparation containing a harmless form of a pathogen or its antigens",
+     "A drug that kills bacteria",
+     "A type of white blood cell",
+     "A mixture of antibodies only"
+    ],
+    "answer": 0,
+    "explanation": "Vaccines contain dead, weakened or part of a pathogen so the immune system learns to recognise it without causing the disease.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does a vaccine make the body produce?",
+    "options": [
+     "Antibiotics",
+     "Red blood cells",
+     "Hormones",
+     "Antibodies and memory cells"
+    ],
+    "answer": 3,
+    "explanation": "The antigens in the vaccine trigger lymphocytes to make antibodies, and memory cells remain.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Who developed the first vaccine, using cowpox to protect against smallpox, in 1796?",
+    "options": [
+     "Alexander Fleming",
+     "Louis Pasteur",
+     "Edward Jenner",
+     "Marie Curie"
+    ],
+    "answer": 2,
+    "explanation": "Jenner noticed that milkmaids who had had cowpox seemed protected against smallpox and tested the idea on a boy, James Phipps.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What do we call the protection of a population when most people are vaccinated?",
+    "options": [
+     "Natural selection",
+     "Herd immunity",
+     "Antibiotic resistance",
+     "Pasteurisation"
+    ],
+    "answer": 1,
+    "explanation": "When enough people are immune, the pathogen finds it hard to spread, which protects those who cannot be vaccinated.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which is a reason that people receive booster vaccinations?",
+    "options": [
+     "To kill bacteria",
+     "To increase the level of immunity over time",
+     "To make the vaccine less safe",
+     "To treat symptoms of a disease"
+    ],
+    "answer": 1,
+    "explanation": "A booster dose re-stimulates memory cells to keep antibody levels high.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why does a person not usually become ill after a vaccination?",
+    "options": [
+     "The vaccine contains inactive or weakened pathogens, or only parts of them, that cannot cause the disease",
+     "The vaccine contains the antibodies already",
+     "The vaccine kills all the person's cells",
+     "The body ignores vaccines completely"
+    ],
+    "answer": 0,
+    "explanation": "Vaccines expose the immune system to antigens safely. Mild effects like a sore arm are signs of an immune response.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is vaccination better than waiting to get an infection naturally?",
+    "options": [
+     "It always works 100%",
+     "It is a treatment for people who are already ill",
+     "It kills the virus in the blood",
+     "It gives immunity without the risk of the full illness"
+    ],
+    "answer": 3,
+    "explanation": "Vaccines are preventive. Natural infection can cause serious illness or death before immunity develops.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why are some vaccines, such as the flu vaccine, needed every year?",
+    "options": [
+     "Memory cells are destroyed each winter",
+     "Flu is caused by bacteria",
+     "The flu virus mutates, so its antigens change over time",
+     "Antibodies are used up in summer"
+    ],
+    "answer": 2,
+    "explanation": "New strains have different antigens, so existing memory cells may not recognise them and the vaccine is updated.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A town has a vaccination rate of 60% for a disease that needs about 95% for herd immunity. What is the most likely result?",
+    "options": [
+     "No one can catch the disease",
+     "The disease disappears immediately",
+     "Outbreaks can still spread because too many people are unprotected",
+     "Vaccinated people will lose immunity"
+    ],
+    "answer": 2,
+    "explanation": "Below the threshold, the pathogen can find enough susceptible people to keep spreading.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which group benefits MOST from herd immunity?",
+    "options": [
+     "People who have already caught the disease and died",
+     "People who cannot be vaccinated, such as newborn babies or those with weak immune systems",
+     "Only people with strong immune systems",
+     "Doctors"
+    ],
+    "answer": 1,
+    "explanation": "If most people around them are immune, the chance of vulnerable people meeting the pathogen is small.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement about the smallpox vaccination campaign is correct?",
+    "options": [
+     "Worldwide vaccination led to smallpox being declared eradicated in 1980",
+     "Smallpox still causes millions of deaths each year",
+     "The vaccine was only used on animals",
+     "Eradication was achieved by antibiotics"
+    ],
+    "answer": 0,
+    "explanation": "The World Health Organization declared smallpox eradicated in 1980 after a global vaccination programme.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A measles outbreak occurs. Of 500 unvaccinated children, 100 caught measles. Of 500 vaccinated children, 5 caught it. Which statement is correct?",
+    "options": [
+     "The vaccine caused measles in 5 children",
+     "20% of vaccinated children were infected",
+     "The data shows that vaccination makes no difference",
+     "The vaccine reduced the chance of catching measles: 20% of unvaccinated and 1% of vaccinated children were infected"
+    ],
+    "answer": 3,
+    "explanation": "100 ÷ 500 = 20% unvaccinated. 5 ÷ 500 = 1% vaccinated. The big difference supports the effectiveness of the vaccine.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Some people refuse a vaccine because they fear side effects. Which is the best scientific response?",
+    "options": [
+     "Side effects never happen",
+     "Vaccines are never tested",
+     "Illness is never serious",
+     "Serious side effects are rare, and the risk from the disease is usually much greater"
+    ],
+    "answer": 3,
+    "explanation": "Vaccines are tested for safety and monitored. The balance of risks shows that vaccination protects far more people than it harms.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A disease has 10 000 susceptible people in a town. An outbreak spreads when each infected person infects 4 others. Using the idea that herd immunity is reached when 1 − 1/4 of people are immune, how many people must be immune?",
+    "options": [
+     "2500",
+     "4000",
+     "7500",
+     "10 000"
+    ],
+    "answer": 2,
+    "explanation": "1 − 1/4 = 3/4 = 75%. 75% of 10 000 = 7500.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Graph data for a country: in 2000, 90% of children were vaccinated against disease X and there were 50 cases. In 2010, 70% were vaccinated and there were 900 cases. Which conclusion is best supported?",
+    "options": [
+     "Vaccination coverage had no link to the number of cases",
+     "Lower vaccination coverage was associated with more cases, consistent with loss of herd immunity",
+     "Disease X is caused by vaccination",
+     "Cases cannot be linked to vaccination"
+    ],
+    "answer": 1,
+    "explanation": "The data show a strong link, but the claim should stay careful: it is an association supported by what we know about herd immunity.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A scientist develops a new vaccine. Which trial design provides the BEST evidence that it works?",
+    "options": [
+     "A large group randomly split into vaccine and placebo groups, comparing infection rates",
+     "Giving the vaccine only to people who volunteer and asking if they feel healthier",
+     "Testing on one person",
+     "Testing on mice only and publishing"
+    ],
+    "answer": 0,
+    "explanation": "Random groups with a placebo control and large numbers reduce bias and chance effects. Safety is checked first in earlier phases.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Why does vaccination NOT help someone already infected with a pathogen?",
+    "options": [
+     "The response takes days to build, so the pathogen may cause illness before antibodies are ready",
+     "Vaccines destroy all antibodies",
+     "Vaccines kill the host's cells",
+     "Antibodies cannot be made when someone is ill"
+    ],
+    "answer": 0,
+    "explanation": "Vaccines work by preparing the immune system in advance. Treatment of an existing infection needs medicine or the body's own response.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student claims: \"Antibiotics will protect me from flu if I get vaccinated.\" Which is the most accurate evaluation?",
+    "options": [
+     "Correct: antibiotics and vaccines are the same",
+     "Correct: vaccines contain antibiotics",
+     "Incorrect: vaccines contain live bacteria only",
+     "Incorrect: vaccination triggers immunity to the virus, whereas antibiotics are for bacteria and do not protect against viruses"
+    ],
+    "answer": 3,
+    "explanation": "Vaccines stimulate your own immune system. Antibiotics are chemicals that act on bacteria only.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Vaccination is one of the most important advances in medicine. It prevents millions of deaths every year and has completely removed smallpox from the world. This sub-topic explains how a vaccine works, why it protects whole communities and how scientists test and evaluate vaccines.\n\n## What is in a vaccine?\nA **vaccine** contains antigens from a pathogen, in a safe form. These can be:\n- a **dead or inactivated** pathogen;\n- a **weakened (attenuated)** pathogen that cannot cause the disease in healthy people;\n- a **piece of the pathogen**, such as a protein, which acts as the antigen.\n\nThe vaccine cannot make you seriously ill, but your immune system reacts as if it were an infection.\n\n## How a vaccine works\n1. The vaccine is injected (or taken by mouth or nose spray).\n2. Lymphocytes recognise the antigens as foreign.\n3. They produce antibodies. This is the primary response.\n4. **Memory cells** are formed and stay in the blood.\n5. If the real pathogen later enters the body, memory cells make large amounts of antibodies quickly. The pathogen is destroyed before it can cause illness. The person is **immune**.\n\nSome vaccines need **boosters** to remind the immune system and keep memory cells ready. Some, such as the flu vaccine, are redesigned each year because the virus **mutates** and its antigens change.\n\n## A short history\nIn 1796 Edward Jenner noticed that people who had caught cowpox, a mild disease, did not catch smallpox. He tested his idea by giving a boy, James Phipps, material from a cowpox sore and later exposing him to smallpox. The boy did not become ill. This led to the first vaccine. By 1980 the World Health Organization declared that smallpox had been eradicated worldwide thanks to a global vaccination campaign.\n\n## Herd immunity\nIf a high percentage of the population is vaccinated, the pathogen has few susceptible people to infect and spreads poorly. This is **herd immunity**. It protects people who cannot be vaccinated, for example babies or people with weak immune systems. The percentage needed depends on how infectious the disease is. For very infectious diseases like measles it is very high, around 95%.\n\nA simple model: if each infected person infects R others, herd immunity needs roughly 1 − 1/R of people to be immune. For R = 4 this is 1 − 0.25 = 0.75, or 75%.\n\n## Evaluating vaccines\n- **Benefits**: prevents illness, deaths, complications and healthcare costs; can eradicate diseases.\n- **Risks**: mild effects such as a sore arm or fever are common; serious reactions are very rare.\n- **Limits**: no vaccine is 100% effective, and some need boosters or yearly updates.\n- **Testing**: vaccines are tested for safety and effectiveness in stages. A good trial uses a large group, random allocation to a vaccine group or a **placebo** group and compares infection rates.\n\n## Common mistakes\n- Saying vaccines contain antibodies. They contain antigens.\n- Saying vaccines \"cure\" the disease.\n- Forgetting that vaccination also protects others by reducing spread.\n\n## How this is examined\nQuestions often present case-study data, such as outbreak numbers before and after a campaign or a graph of vaccination rates, and ask you to interpret it. You may be asked to explain how a vaccine works with the key words antigen, antibody and memory cells, and to discuss why some diseases need repeated vaccination.\n\nExam tip: When asked how a vaccine gives protection, always include the sequence: antigen → lymphocytes make antibodies → memory cells form → fast, large secondary response on real infection.",
+  "flashcards": [
+   {
+    "front": "Vaccine",
+    "back": "A safe form of a pathogen or its antigens that trains the immune system without causing the disease."
+   },
+   {
+    "front": "How does a vaccine give immunity?",
+    "back": "Antigens trigger lymphocytes to make antibodies and memory cells, which respond fast if the real pathogen invades."
+   },
+   {
+    "front": "Herd immunity",
+    "back": "When enough of a population is immune, the pathogen cannot spread easily, protecting those who are not immune."
+   },
+   {
+    "front": "Booster",
+    "back": "An extra dose of vaccine that re-stimulates memory cells to keep immunity strong."
+   },
+   {
+    "front": "Why is flu vaccine updated each year?",
+    "back": "Flu viruses mutate, so antigens change. Memory cells for old strains may not recognise new strains."
+   },
+   {
+    "front": "Edward Jenner",
+    "back": "In 1796 he used cowpox material to protect a boy, James Phipps, against smallpox. This was the first vaccine."
+   },
+   {
+    "front": "Smallpox eradication",
+    "back": "Declared eradicated by the World Health Organization in 1980 after a worldwide vaccination programme."
+   },
+   {
+    "front": "Placebo",
+    "back": "A harmless dummy treatment used in a trial so that the effect of the real vaccine can be compared fairly."
+   },
+   {
+    "front": "Herd immunity threshold (simple model)",
+    "back": "About 1 − 1/R of the population must be immune, where R is the number of people each case infects."
+   }
+  ]
+ },
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Health, Disease and Immunity",
+  "subTopic": "Lifestyle and non-communicable disease",
+  "questions": [
+   {
+    "content": "What is a non-communicable disease?",
+    "options": [
+     "A disease that cannot be passed from person to person",
+     "A disease caused by a virus",
+     "A disease spread by mosquitoes",
+     "A disease treated only with antibiotics"
+    ],
+    "answer": 0,
+    "explanation": "Non-communicable diseases, such as heart disease and type 2 diabetes, are not caused by pathogens.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a non-communicable disease?",
+    "options": [
+     "Measles",
+     "Cholera",
+     "Malaria",
+     "Coronary heart disease"
+    ],
+    "answer": 3,
+    "explanation": "Heart disease develops from factors such as diet, inactivity and smoking, not from infection.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which substance in cigarette smoke is addictive?",
+    "options": [
+     "Tar",
+     "Carbon monoxide",
+     "Nicotine",
+     "Oxygen"
+    ],
+    "answer": 2,
+    "explanation": "Nicotine causes dependence. Tar contains chemicals that cause cancer, and carbon monoxide reduces oxygen carried by blood.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which lifestyle choice reduces the risk of heart disease?",
+    "options": [
+     "Eating lots of saturated fat",
+     "Regular exercise and a balanced diet",
+     "Smoking",
+     "Never being active"
+    ],
+    "answer": 1,
+    "explanation": "Exercise strengthens the heart, helps control weight and lowers blood pressure.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is cancer?",
+    "options": [
+     "A disease caused by bacteria",
+     "Uncontrolled cell division that can form a tumour",
+     "A shortage of vitamins",
+     "A reaction to pollen"
+    ],
+    "answer": 1,
+    "explanation": "In cancer, cells divide without control. A malignant tumour can spread to other parts of the body.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "BMI is calculated as mass (kg) ÷ height² (m²). What is the BMI of a person of mass 70 kg and height 1.75 m?",
+    "options": [
+     "22.9",
+     "40.0",
+     "12.5",
+     "50.0"
+    ],
+    "answer": 0,
+    "explanation": "1.75² = 3.0625. 70 ÷ 3.0625 ≈ 22.9. A common mistake is dividing by the height without squaring it.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is a risk factor for type 2 diabetes?",
+    "options": [
+     "Regular exercise",
+     "Eating a lot of fibre",
+     "Being under 5 years old",
+     "Obesity"
+    ],
+    "answer": 3,
+    "explanation": "Excess body fat makes body cells less responsive to insulin, and blood glucose becomes harder to control.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How does carbon monoxide in cigarette smoke harm the body?",
+    "options": [
+     "It makes the blood too thick",
+     "It makes the lungs larger",
+     "It attaches to haemoglobin so less oxygen is carried by the blood",
+     "It kills the red blood cells instantly"
+    ],
+    "answer": 2,
+    "explanation": "Carbon monoxide combines with haemoglobin more strongly than oxygen. Cells receive less oxygen and the heart works harder.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why does a diet high in saturated fat increase the risk of coronary heart disease?",
+    "options": [
+     "It increases red blood cells",
+     "It makes the heart larger",
+     "Fat deposits can build up inside arteries and narrow them",
+     "It removes cholesterol from the blood"
+    ],
+    "answer": 2,
+    "explanation": "Fatty deposits narrow coronary arteries, so less blood reaches the heart muscle. A blockage can cause a heart attack.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the difference between type 1 and type 2 diabetes?",
+    "options": [
+     "Type 1 is caused by bacteria; type 2 by viruses",
+     "In type 1 the pancreas does not make enough insulin; in type 2 body cells stop responding well to insulin",
+     "Type 1 is caused by too much exercise",
+     "They are the same"
+    ],
+    "answer": 1,
+    "explanation": "Type 1 is treated with insulin. Type 2 is linked to lifestyle and is managed with diet, exercise and sometimes medicines.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A study finds that people who eat more processed food have higher rates of heart disease. Which statement is the best interpretation?",
+    "options": [
+     "There is a correlation, but other factors may contribute, so it does not prove processed food alone causes heart disease",
+     "It proves that processed food always causes heart disease",
+     "There is no link at all",
+     "Heart disease is caused by pathogens"
+    ],
+    "answer": 0,
+    "explanation": "A correlation shows a link. To show cause, scientists need controlled studies and a biological mechanism.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is a benign tumour?",
+    "options": [
+     "A tumour that spreads through the blood",
+     "A tumour caused by a virus only",
+     "A cluster of white blood cells",
+     "A lump of cells that grows but does not spread to other parts of the body"
+    ],
+    "answer": 3,
+    "explanation": "Malignant tumours invade other tissues and can form secondary tumours. Benign tumours stay in one place.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which action reduces the risk of skin cancer?",
+    "options": [
+     "Using sunbeds regularly",
+     "Staying in the sun at midday without cover",
+     "Ignoring changes in moles",
+     "Using sunscreen and avoiding sunburn"
+    ],
+    "answer": 3,
+    "explanation": "UV radiation can damage DNA in skin cells. Protection reduces the risk.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A table shows: smokers 1000 people, 120 developed lung cancer; non-smokers 1000 people, 10 developed lung cancer. How many times greater is the proportion in smokers?",
+    "options": [
+     "110 times",
+     "1.2 times",
+     "12 times",
+     "120 times"
+    ],
+    "answer": 2,
+    "explanation": "Smokers 120 ÷ 1000 = 12%; non-smokers 10 ÷ 1000 = 1%. 12% ÷ 1% = 12.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Two friends are the same height (1.60 m). Person A has a mass of 90 kg and person B has 58 kg. Which statement is correct about their BMI (to 1 decimal place)?",
+    "options": [
+     "A's BMI is 56.3 and B's is 36.3",
+     "A's BMI is 35.2 and B's is 22.7",
+     "A's BMI is 22.7 and B's is 35.2",
+     "Both have BMI of about 28"
+    ],
+    "answer": 1,
+    "explanation": "1.60² = 2.56. A: 90 ÷ 2.56 = 35.2. B: 58 ÷ 2.56 = 22.7.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A scientist wants to investigate whether regular exercise lowers blood pressure in teenagers. Which experiment is the best design?",
+    "options": [
+     "Two similar groups: one exercises regularly for 12 weeks and one does not, with blood pressure measured at the start and end under the same conditions",
+     "Ask one teenager to exercise and measure once",
+     "Compare adults and children",
+     "Only ask people how healthy they feel"
+    ],
+    "answer": 0,
+    "explanation": "A control group, similar participants, repeated measurements and controlled conditions make the results more valid.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A heart disease charity claims: \"Salt causes heart attacks.\" Which is the most accurate scientific statement?",
+    "options": [
+     "High salt intake raises blood pressure, which is a risk factor that increases the likelihood of heart disease",
+     "Salt is a pathogen that infects the heart",
+     "Eating salt always causes a heart attack",
+     "Salt has no effect on health"
+    ],
+    "answer": 0,
+    "explanation": "Diseases with several causes are better explained in terms of risk factors, not simple direct causes.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Between 1980 and 2020, the percentage of adults in a country who smoke fell from 40% to 15%, while deaths from lung cancer per 100 000 people fell later. Why might the fall in lung cancer deaths lag behind the fall in smoking?",
+    "options": [
+     "Lung cancer is caused by viruses",
+     "Smoking cannot cause cancer",
+     "People had no oxygen in 1980",
+     "Cancer takes many years to develop after exposure to the carcinogens"
+    ],
+    "answer": 3,
+    "explanation": "There is a delay between exposure to tar and the development of cancer, so changes in smoking rates take years to show in cancer figures.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Not all diseases are caused by pathogens. **Non-communicable diseases** (NCDs) cannot be passed from one person to another. They develop over time and are often linked to lifestyle, environment and genes. Examples include coronary heart disease, type 2 diabetes, many cancers and lung diseases. They are now among the biggest causes of ill health and death in the world.\n\n## Risk factors\nA **risk factor** is something that increases the chance of getting a disease. It does not guarantee you will get it. Most NCDs have several risk factors acting together.\n- **Diet**: too much saturated fat, sugar and salt, and too little fibre.\n- **Inactivity**: regular exercise strengthens the heart, helps control weight and improves mood.\n- **Smoking**: tobacco smoke contains nicotine (addictive), tar (contains carcinogens that cause cancer), carbon monoxide (reduces oxygen carried by blood) and many irritants.\n- **Alcohol**: too much can damage the liver and increase the risk of some cancers.\n- **Obesity**: being very overweight raises the risk of type 2 diabetes, heart disease and high blood pressure.\n- **Other**: genes, age, air pollution and exposure to UV radiation.\n\n## Body mass index\nBMI = mass (kg) ÷ height² (m²). For example, 70 kg and 1.75 m gives 70 ÷ 3.0625 ≈ 22.9. BMI is a useful screening tool for populations, but it does not measure fat directly. A muscular athlete may have a high BMI without carrying too much fat.\n\n## Coronary heart disease\nFatty deposits (including cholesterol) can build up inside the coronary arteries that supply the heart muscle. This narrows them and reduces blood flow. If a clot blocks the artery the heart muscle may be starved of oxygen, causing a heart attack. Prevention: a balanced diet low in saturated fat and salt, regular exercise, not smoking.\n\n## Diabetes\n- In **type 1** diabetes the pancreas does not make enough insulin, so blood glucose rises too high. It is usually treated with insulin injections.\n- In **type 2** diabetes body cells do not respond properly to insulin. It is strongly linked to obesity and inactivity and can often be managed with diet and exercise.\n\n## Cancer\nCancer is the result of uncontrolled cell division, which can form a lump called a tumour. A **benign** tumour stays in one place. A **malignant** tumour invades surrounding tissue and can spread to other parts of the body. Risk factors include smoking, UV radiation and some chemicals. Early detection improves outcomes.\n\n## Correlation and cause\nIf data show that two things happen together, such as smoking and lung cancer, this is a **correlation**. To decide whether it is a cause, scientists look at large studies, control other variables and find a biological mechanism. For smoking and lung cancer, the evidence is very strong. For many other claims, be careful and say \"is linked to\" or \"increases the risk of\".\n\n## Worked example\nIn a group of 1000 smokers, 120 developed lung cancer. In 1000 non-smokers, 10 did. The proportion is 12% against 1%, so smokers are 12 times as likely. This supports a link but does not by itself prove cause; the biological evidence about tar completes the case.\n\n## How this is examined\nQuestions give a table of health data, a BMI calculation or a lifestyle scenario. You may be asked to interpret the figures, evaluate a claim and suggest ways to reduce risk.\n\nExam tip: Use the phrase \"increases the risk of\" rather than \"causes\", give a mechanism (for example fatty deposits narrow arteries), and when calculating, show the formula and units.",
+  "flashcards": [
+   {
+    "front": "Non-communicable disease",
+    "back": "A disease that is not caused by a pathogen and cannot be passed from person to person, such as heart disease."
+   },
+   {
+    "front": "Risk factor",
+    "back": "Something that increases the chance of developing a disease but does not guarantee it."
+   },
+   {
+    "front": "BMI formula",
+    "back": "BMI = mass (kg) ÷ height² (m²)."
+   },
+   {
+    "front": "Harmful parts of tobacco smoke",
+    "back": "Nicotine (addictive), tar (carcinogens), carbon monoxide (reduces oxygen carried by blood)."
+   },
+   {
+    "front": "Coronary heart disease",
+    "back": "Fatty deposits narrow the coronary arteries, reducing blood flow to the heart muscle."
+   },
+   {
+    "front": "Type 1 vs type 2 diabetes",
+    "back": "Type 1: not enough insulin made. Type 2: cells respond poorly to insulin, linked to obesity."
+   },
+   {
+    "front": "Benign vs malignant tumour",
+    "back": "Benign: stays in one place. Malignant: invades nearby tissue and can spread to other parts of the body."
+   },
+   {
+    "front": "Correlation vs cause",
+    "back": "A correlation shows two things occur together. Cause needs more evidence, such as a mechanism and controlled studies."
+   },
+   {
+    "front": "How to reduce NCD risk",
+    "back": "Balanced diet, regular exercise, no smoking, limited alcohol, healthy weight and sun protection."
+   }
+  ]
+ },
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Health, Disease and Immunity",
+  "subTopic": "Drugs and their effects",
+  "questions": [
+   {
+    "content": "What is a drug?",
+    "options": [
+     "A substance that changes the way the body works",
+     "Any food that gives energy",
+     "A type of pathogen",
+     "A vitamin that the body makes"
+    ],
+    "answer": 0,
+    "explanation": "Drugs affect the body's chemistry or the nervous system. Some are medicines and some are harmful.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a medicinal drug?",
+    "options": [
+     "Nicotine",
+     "Alcohol",
+     "Heroin",
+     "Paracetamol"
+    ],
+    "answer": 3,
+    "explanation": "Paracetamol is a painkiller. Nicotine and alcohol are legal recreational drugs, and heroin is a harmful illegal drug.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which drug is found in tea, coffee and some energy drinks?",
+    "options": [
+     "Nicotine",
+     "Alcohol",
+     "Caffeine",
+     "Penicillin"
+    ],
+    "answer": 2,
+    "explanation": "Caffeine is a stimulant. It speeds up the nervous system and can make sleep harder.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does addiction mean?",
+    "options": [
+     "A feeling of being full",
+     "A strong need to keep taking a drug",
+     "A reaction to a vaccine",
+     "A short-term headache"
+    ],
+    "answer": 1,
+    "explanation": "An addicted person feels unable to stop using a drug, even when it causes harm.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which organ is most damaged by long-term heavy alcohol use?",
+    "options": [
+     "The skin",
+     "The liver",
+     "The kidney only",
+     "The thigh bone"
+    ],
+    "answer": 1,
+    "explanation": "The liver breaks down alcohol. Heavy drinking can lead to liver disease such as cirrhosis.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Alcohol is a depressant. What does this mean?",
+    "options": [
+     "It slows down the activity of the nervous system, including reaction times",
+     "It speeds up the heart",
+     "It makes the person happier permanently",
+     "It strengthens muscle"
+    ],
+    "answer": 0,
+    "explanation": "Depressants slow down brain function, causing slow reactions, poor judgement and poor coordination.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is driving after drinking alcohol dangerous?",
+    "options": [
+     "The car uses more fuel",
+     "Alcohol improves night vision",
+     "Alcohol increases concentration",
+     "Reaction times are slower and judgement is impaired"
+    ],
+    "answer": 3,
+    "explanation": "Slower reactions increase the risk of accidents. Alcohol also reduces attention and coordination.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement describes tolerance to a drug?",
+    "options": [
+     "The body can no longer absorb the drug",
+     "The drug becomes less addictive",
+     "The body needs larger doses to get the same effect",
+     "The person cannot feel any effect ever"
+    ],
+    "answer": 2,
+    "explanation": "With repeated use, the nervous system adapts so a person needs more of the drug for the same effect.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What are withdrawal symptoms?",
+    "options": [
+     "Pleasant effects after taking a drug",
+     "Allergic reactions to food",
+     "Unpleasant physical or mental effects when a person stops taking a drug they depend on",
+     "Normal growth in teenagers"
+    ],
+    "answer": 2,
+    "explanation": "Withdrawal symptoms such as shaking, anxiety or cravings happen when the body must adjust to the absence of the drug.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why can drinking alcohol during pregnancy harm a baby?",
+    "options": [
+     "Alcohol makes the baby grow too tall",
+     "Alcohol passes across the placenta and can affect the baby's development",
+     "Alcohol is used to feed the baby",
+     "Alcohol is destroyed in the placenta"
+    ],
+    "answer": 1,
+    "explanation": "Alcohol can cause foetal alcohol spectrum disorders, with growth and learning problems.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is a stimulant?",
+    "options": [
+     "Caffeine",
+     "Alcohol",
+     "Heroin",
+     "Ethanol"
+    ],
+    "answer": 0,
+    "explanation": "Stimulants increase activity in the nervous system. Alcohol and heroin are depressants.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Smoking during pregnancy is linked to a low birth mass. What is the best explanation?",
+    "options": [
+     "Nicotine increases the baby's mass",
+     "Smoke gives the baby extra food",
+     "Tar protects the baby's lungs",
+     "Carbon monoxide reduces the oxygen carried to the baby"
+    ],
+    "answer": 3,
+    "explanation": "Less oxygen and nutrients reach the foetus, which slows growth.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A person takes a painkiller for a headache. Which statement is correct?",
+    "options": [
+     "Painkillers kill all pathogens",
+     "Painkillers cure diabetes",
+     "Painkillers make antibodies",
+     "Painkillers relieve symptoms but do not cure the cause"
+    ],
+    "answer": 3,
+    "explanation": "Painkillers block pain signals. They do not treat infections or underlying disease.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Reaction times of a student were measured with a ruler drop test. Without alcohol: mean 0.22 s. After a drink: mean 0.31 s. What is the percentage increase in reaction time (to 1 decimal place)?",
+    "options": [
+     "29.0%",
+     "9.0%",
+     "40.9%",
+     "71.0%"
+    ],
+    "answer": 2,
+    "explanation": "Increase = 0.31 − 0.22 = 0.09 s. 0.09 ÷ 0.22 × 100 = 40.9%. Dividing by 0.31 would give 29.0%, which is the wrong base.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A graph shows that the number of cigarettes smoked per person in a country fell steadily from 2000 to 2020, while the number of people seeking help for nicotine dependence rose. Which explanation is MOST reasonable?",
+    "options": [
+     "Nicotine is not addictive",
+     "Awareness of risks made more people try to quit, and many sought help because nicotine is addictive",
+     "More cigarettes were sold",
+     "Smoking improved health in 2020"
+    ],
+    "answer": 1,
+    "explanation": "Falling smoking can be accompanied by more people seeking help, since addiction makes quitting hard.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A drug company tests a new painkiller. Group A takes the drug, group B takes a placebo, and neither the patients nor the doctors know which is which. Why is this design used?",
+    "options": [
+     "To avoid bias by making the comparison fair",
+     "To make sure everyone is cured",
+     "To test whether the drug is addictive in one day",
+     "To save money only"
+    ],
+    "answer": 0,
+    "explanation": "A double-blind, placebo-controlled trial prevents expectations from influencing the results.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Doctors want fewer antibiotics to be prescribed for viral infections. Which of the following is the best scientific reason?",
+    "options": [
+     "Unnecessary use helps resistant bacteria to survive and spread, and antibiotics do not work on viruses",
+     "Antibiotics cause viruses to grow",
+     "Antibiotics cure all coughs",
+     "Viruses need antibiotics to survive"
+    ],
+    "answer": 0,
+    "explanation": "Misuse increases selection pressure for resistant bacteria without helping the patient.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A health officer plans a school campaign about drug misuse. Which approach is likely to be MOST effective in reducing harm?",
+    "options": [
+     "Telling students that all drugs kill instantly",
+     "Banning discussion of drugs",
+     "Using only scary pictures with no facts",
+     "Giving accurate information about effects and risks, and teaching skills to say no and where to find help"
+    ],
+    "answer": 3,
+    "explanation": "Evidence-based education, supported by help services, works better than exaggeration or avoidance.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "A **drug** is a substance that changes the way the body works. Some drugs are useful medicines that treat disease, but others are harmful and can cause serious damage to health. This sub-topic describes the main kinds of drugs, how they affect the body and why misuse causes problems for individuals and society. It is written to help you understand biology, not to give medical advice. If you or someone you know is worried about drugs, talk to a trusted adult, a doctor or a school counsellor.\n\n## Types of drug\n- **Medicinal drugs** are used to treat or prevent illness. Examples: **antibiotics** for bacterial infections, **painkillers** such as paracetamol, and **antihistamines** for allergies. They should be used as directed.\n- **Recreational drugs** are taken for their effects on mood or behaviour. Some, such as alcohol, nicotine and caffeine, are legal for adults in many countries; others are illegal.\n- **Stimulants** speed up the nervous system. Examples: caffeine and nicotine.\n- **Depressants** slow down the nervous system. Examples: alcohol and heroin.\n- **Painkillers** block pain signals. Strong opioid painkillers, used under medical supervision, can be addictive.\n\n## How drugs affect the body\nMany drugs act on the **nervous system**. They change how nerve cells send signals, which affects mood, perception, reaction time and coordination. Others, like antibiotics, act on pathogens. Drugs are broken down by the **liver** and removed by the kidneys.\n\n## Addiction, tolerance and withdrawal\n- **Addiction** (dependence) is a strong need to keep using a drug.\n- **Tolerance** develops when the body adapts, so larger doses are needed for the same effect.\n- **Withdrawal symptoms** are unpleasant effects when a dependent person stops taking the drug, for example cravings, anxiety or shaking. They make quitting very difficult.\n\n## Alcohol\nAlcohol is a depressant. Short-term effects: slower reactions, poor judgement, reduced coordination and blurred vision, which increase the risk of accidents. Long-term effects: liver damage (such as cirrhosis), damage to the brain, high blood pressure and addiction. Drinking in pregnancy can harm the baby because alcohol crosses the placenta.\n\n## Tobacco and nicotine\nNicotine is addictive. Tar contains carcinogens that cause cancer, and carbon monoxide reduces oxygen carried by the blood. Smoking is linked to lung disease, heart disease and cancer. Smoking in pregnancy is linked to low birth mass.\n\n## Effects on society\nDrug misuse can lead to accidents, crime, health costs, family problems and lost work. This is why many countries have laws, health education and support services.\n\n## Worked example\nReaction time before alcohol = 0.22 s; after = 0.31 s. Increase = 0.09 s. Percentage increase = 0.09 ÷ 0.22 × 100 = 40.9%. A common mistake is to divide by the new value.\n\n## Testing drugs\nNew medicines are tested first in laboratories, then on volunteers. In a **double-blind trial**, one group gets the drug and one gets a **placebo**, and neither patients nor doctors know who gets which. This avoids bias.\n\n## Common mistakes\n- Using \"stimulant\" for alcohol. Alcohol is a depressant.\n- Saying painkillers cure disease.\n- Saying that antibiotics work on viruses.\n\n## How this is examined\nQuestions may give reaction-time data, a graph of alcohol use or a trial design. You might need to calculate a percentage change, identify a control, explain effects on the nervous system or evaluate a campaign.\n\nExam tip: Link each drug to its type (stimulant or depressant), its effect on the body and the resulting risk. For data questions, state the change as a percentage and compare to the control.",
+  "flashcards": [
+   {
+    "front": "Drug",
+    "back": "A substance that changes the way the body works, such as a medicine, caffeine, nicotine or alcohol."
+   },
+   {
+    "front": "Stimulant vs depressant",
+    "back": "Stimulants speed up the nervous system (caffeine, nicotine). Depressants slow it down (alcohol)."
+   },
+   {
+    "front": "Addiction",
+    "back": "A strong need to keep taking a drug, even when it causes harm."
+   },
+   {
+    "front": "Tolerance",
+    "back": "The body adapts so larger doses are needed to get the same effect."
+   },
+   {
+    "front": "Withdrawal symptoms",
+    "back": "Unpleasant effects experienced when a dependent person stops using a drug."
+   },
+   {
+    "front": "Effects of alcohol",
+    "back": "Slower reactions and poor judgement; long term, liver damage. It can harm a baby during pregnancy."
+   },
+   {
+    "front": "Painkillers vs antibiotics",
+    "back": "Painkillers relieve pain symptoms. Antibiotics kill bacteria but have no effect on viruses."
+   },
+   {
+    "front": "Placebo",
+    "back": "A dummy treatment given to a control group so the real drug can be compared fairly."
+   },
+   {
+    "front": "Double-blind trial",
+    "back": "A trial in which neither patients nor doctors know who gets the drug or the placebo, reducing bias."
+   }
+  ]
+ }
+]

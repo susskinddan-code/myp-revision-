@@ -1,0 +1,1058 @@
+[
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Cells and Organisation",
+  "subTopic": "Cell structure and microscopy",
+  "questions": [
+   {
+    "difficulty": "easy",
+    "content": "Which part of an animal cell contains the DNA and controls the cell's activities?",
+    "options": [
+     "Nucleus",
+     "Ribosome",
+     "Cell membrane",
+     "Cytoplasm"
+    ],
+    "answer": 0,
+    "explanation": "The nucleus holds the DNA, which carries the instructions that control what the cell does."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Which organelle is the site of aerobic respiration, releasing energy for the cell?",
+    "options": [
+     "Ribosome",
+     "Mitochondrion",
+     "Nucleus",
+     "Vacuole"
+    ],
+    "answer": 1,
+    "explanation": "Mitochondria (singular: mitochondrion) are where aerobic respiration releases energy from glucose."
+   },
+   {
+    "difficulty": "easy",
+    "content": "What is the main job of the cell membrane?",
+    "options": [
+     "To make proteins",
+     "To store DNA",
+     "To control what enters and leaves the cell",
+     "To release energy from food"
+    ],
+    "answer": 2,
+    "explanation": "The membrane is partially permeable, so it controls which substances move into and out of the cell."
+   },
+   {
+    "difficulty": "easy",
+    "content": "On a light microscope, which part do you look through to view the specimen?",
+    "options": [
+     "Stage",
+     "Objective lens",
+     "Mirror or lamp",
+     "Eyepiece lens"
+    ],
+    "answer": 3,
+    "explanation": "You look through the eyepiece lens. The objective lens sits just above the specimen."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Where do most of a cell's chemical reactions take place?",
+    "options": [
+     "Cytoplasm",
+     "Nucleus",
+     "Cell membrane",
+     "Mitochondrion only"
+    ],
+    "answer": 0,
+    "explanation": "The cytoplasm is a jelly-like liquid in which many chemical reactions of the cell happen."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A student uses an eyepiece lens of ×10 and an objective lens of ×40. What is the total magnification?",
+    "options": [
+     "×50",
+     "×30",
+     "×400",
+     "×4"
+    ],
+    "answer": 2,
+    "explanation": "Total magnification = eyepiece × objective = 10 × 40 = ×400."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A drawing of a cell is 30 mm long. The real cell is 0.06 mm long. What is the magnification of the drawing?",
+    "options": [
+     "×50",
+     "×500",
+     "×1800",
+     "×5000"
+    ],
+    "answer": 1,
+    "explanation": "Magnification = image size ÷ actual size = 30 ÷ 0.06 = 500, so ×500."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A cell is drawn 24 mm wide at ×400 magnification. What is the actual width of the cell?",
+    "options": [
+     "0.6 mm",
+     "9600 mm",
+     "0.06 mm (60 µm)",
+     "6 µm"
+    ],
+    "answer": 2,
+    "explanation": "Actual size = image size ÷ magnification = 24 ÷ 400 = 0.06 mm. Since 1 mm = 1000 µm, this is 60 µm."
+   },
+   {
+    "difficulty": "medium",
+    "content": "What is the function of ribosomes?",
+    "options": [
+     "Making proteins",
+     "Releasing energy",
+     "Storing DNA",
+     "Controlling entry to the cell"
+    ],
+    "answer": 0,
+    "explanation": "Ribosomes are tiny structures where amino acids are joined together to make proteins."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A student stains a thin layer of onion cells with iodine solution before looking at them. Why?",
+    "options": [
+     "To kill bacteria on the slide",
+     "To make the cells bigger",
+     "To make the structures show up more clearly",
+     "To make the cells move"
+    ],
+    "answer": 2,
+    "explanation": "Most cell structures are almost transparent. A stain gives contrast so that the nucleus and other parts can be seen."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A student always starts viewing a slide with the lowest-power objective lens. Which is the best reason?",
+    "options": [
+     "It has the highest resolution",
+     "It gives a wider field of view, so the specimen is easier to find",
+     "It makes the slide brighter",
+     "It stops the specimen from drying out"
+    ],
+    "answer": 1,
+    "explanation": "The low-power lens shows a larger area and sits further from the slide, so the specimen is found easily and the slide is less likely to be damaged."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A cell is 0.025 mm across. What is this in micrometres (µm)?",
+    "options": [
+     "0.25 µm",
+     "2.5 µm",
+     "250 µm",
+     "25 µm"
+    ],
+    "answer": 3,
+    "explanation": "1 mm = 1000 µm, so 0.025 × 1000 = 25 µm."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Why can a school light microscope not show ribosomes clearly, even at its highest magnification?",
+    "options": [
+     "Ribosomes are too heavy",
+     "Ribosomes are inside the nucleus",
+     "Its resolution is too low to separate such tiny structures",
+     "Light cannot pass through cytoplasm"
+    ],
+    "answer": 2,
+    "explanation": "Resolution is the ability to see two close points as separate. Light microscopes have limited resolution, so very small structures like ribosomes cannot be seen."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A diagram of a cell has a scale bar. The bar is 10 mm long and is labelled '20 µm'. The cell in the diagram is 45 mm wide. What is the real width of the cell?",
+    "options": [
+     "9 µm",
+     "45 µm",
+     "90 µm",
+     "900 µm"
+    ],
+    "answer": 2,
+    "explanation": "45 mm is 4.5 times the 10 mm bar, so the real width is 4.5 × 20 µm = 90 µm."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A student says: 'If I keep increasing the magnification of my light microscope, I will always see more detail.' Which statement evaluates this best?",
+    "options": [
+     "Correct, because higher magnification always increases detail",
+     "Incorrect, because beyond the limit of resolution the image only gets bigger and blurrier",
+     "Correct, as long as the lamp is brighter",
+     "Incorrect, because magnification makes the specimen smaller"
+    ],
+    "answer": 1,
+    "explanation": "Magnification makes the image larger, but detail depends on resolution. Past the resolution limit, enlarging the image just gives a bigger, blurry picture."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Cell X has about 1500 mitochondria and cell Y, of the same size, has about 50. Which is the most reasonable conclusion?",
+    "options": [
+     "Cell X is probably more active and needs more energy",
+     "Cell Y is probably more active and needs more energy",
+     "Cell X has no nucleus",
+     "Cell Y makes more protein than cell X"
+    ],
+    "answer": 0,
+    "explanation": "Mitochondria release energy by respiration. A cell with many of them is likely to use a lot of energy, such as a muscle cell."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A cell has an actual length of 30 µm and a student's drawing of it is 18 mm long. What is the magnification of the drawing?",
+    "options": [
+     "×60",
+     "×540",
+     "×600",
+     "×6000"
+    ],
+    "answer": 2,
+    "explanation": "Convert to the same units: 18 mm = 18 000 µm. Magnification = 18 000 ÷ 30 = 600, so ×600."
+   },
+   {
+    "difficulty": "hard",
+    "content": "An electron microscope shows mitochondria and ribosomes in great detail, but a light microscope does not. A student suggests that electron microscopes can only be used on dead specimens. Which statement is the best evaluation?",
+    "options": [
+     "Wrong: electron microscopes use living cells in water",
+     "Wrong: electron microscopes have lower resolution than light microscopes",
+     "Right: specimens are placed in a vacuum and prepared in ways that kill them, which is a limitation",
+     "Right: electron microscopes cannot show organelles"
+    ],
+    "answer": 2,
+    "explanation": "Electron microscopes give much higher resolution, but the specimen must be in a vacuum and specially prepared, so living cells cannot be viewed. This is a limitation despite the extra detail."
+   }
+  ],
+  "note": "Cells are the basic units of life. Every living thing is made of one or more cells, and all new cells come from existing cells. To study something this small we need a microscope, so this sub-topic covers both the parts of a cell and how to use and calculate with a microscope.\n\n## Parts of an animal cell\n- **Nucleus**: holds the DNA and controls the cell's activities.\n- **Cytoplasm**: a jelly-like liquid where many chemical reactions happen.\n- **Cell membrane**: a thin, partially permeable layer that controls what enters and leaves the cell.\n- **Mitochondria**: where aerobic respiration releases energy from glucose. Cells that use a lot of energy, such as muscle cells, have many of them.\n- **Ribosomes**: tiny structures where proteins are made.\n\nA useful way to remember these is to link each structure to its job. If you can say what a structure does, you can usually work out which type of cell will have lots of it.\n\n## Using a light microscope\nA light microscope uses lenses to enlarge a specimen. You look through the **eyepiece lens**, and the **objective lenses** sit on a rotating nosepiece above the **stage**, where the slide is placed. A lamp or mirror supplies light from below.\n\nGood technique matters:\n- Start with the lowest-power objective lens so that you get a wide field of view and can find the specimen.\n- Use the coarse focus knob first, then the fine focus knob to make the image sharp.\n- Switch to a higher-power lens only after the image is in focus.\n- Most cells are almost transparent, so a **stain** such as iodine is added to give contrast.\n\n## Magnification and units\nTotal magnification is the eyepiece magnification multiplied by the objective magnification. For example, ×10 eyepiece and ×40 objective give ×400.\n\nTo work out the magnification of a drawing or photograph use the formula triangle:\n\nmagnification = image size ÷ actual size\n\nRearranged, actual size = image size ÷ magnification, and image size = magnification × actual size.\n\nBiologists use small units. 1 mm = 1000 micrometres (µm). Always convert so both measurements are in the same unit before you divide.\n\n**Worked example:** a drawing of a cheek cell is 36 mm wide. The real cell is 60 µm wide. First convert 36 mm to 36 000 µm. Then magnification = 36 000 ÷ 60 = 600, so the drawing is ×600.\n\nA **scale bar** works the same way. If a 10 mm bar is labelled 20 µm, then every 10 mm on the picture stands for 20 µm in real life.\n\n## Magnification versus resolution\n**Magnification** is how many times bigger the image is than the real object. **Resolution** is how clearly two points close together can be told apart. A light microscope has limited resolution, so it can show nuclei but not ribosomes. An **electron microscope** has much higher resolution and shows tiny structures such as ribosomes and the inside of mitochondria, but the specimen must be dead and in a vacuum.\n\nA common mistake is thinking that higher magnification always means more detail. Beyond the limit of resolution, the image simply becomes bigger and blurrier.\n\n## How this is examined\nQuestions often give a short investigation, such as a student viewing cheek cells, with image and actual sizes. You are asked to calculate magnification or real size, convert units, and evaluate the method, for example by suggesting why a stain was needed or why an electron microscope would show more detail.\n\nExam tip: Write the formula first, convert everything to the same unit (usually µm), then calculate, and always include the unit or the × sign in your answer.",
+  "flashcards": [
+   {
+    "front": "Function of the nucleus",
+    "back": "Contains the DNA and controls the activities of the cell."
+   },
+   {
+    "front": "Function of mitochondria",
+    "back": "Site of aerobic respiration, releasing energy from glucose for the cell."
+   },
+   {
+    "front": "Function of ribosomes",
+    "back": "Tiny structures where amino acids are joined to make proteins."
+   },
+   {
+    "front": "Function of the cell membrane",
+    "back": "Partially permeable barrier that controls which substances enter and leave the cell."
+   },
+   {
+    "front": "Magnification formula",
+    "back": "Magnification = image size ÷ actual size. Rearrange to find actual size or image size."
+   },
+   {
+    "front": "Total magnification of a microscope",
+    "back": "Eyepiece magnification × objective magnification, e.g. ×10 × ×40 = ×400."
+   },
+   {
+    "front": "1 mm = ? µm",
+    "back": "1 mm = 1000 micrometres (µm). Convert both measurements to the same unit before calculating."
+   },
+   {
+    "front": "Magnification vs resolution",
+    "back": "Magnification = how much bigger the image is. Resolution = how clearly two close points are seen as separate."
+   },
+   {
+    "front": "Why use a stain on a slide?",
+    "back": "Cells are nearly transparent. A stain adds contrast so that structures such as the nucleus can be seen."
+   }
+  ],
+  "parentPosition": 1
+ },
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Cells and Organisation",
+  "subTopic": "Plant and animal cells compared",
+  "questions": [
+   {
+    "difficulty": "easy",
+    "content": "Which structure is found in plant cells but NOT in animal cells?",
+    "options": [
+     "Nucleus",
+     "Cell wall",
+     "Mitochondria",
+     "Cell membrane"
+    ],
+    "answer": 1,
+    "explanation": "Plant cells have a rigid cell wall outside the membrane. Animal cells have no cell wall."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Which part of a plant cell contains the green pigment chlorophyll?",
+    "options": [
+     "Chloroplast",
+     "Vacuole",
+     "Nucleus",
+     "Cell wall"
+    ],
+    "answer": 0,
+    "explanation": "Chlorophyll is found inside chloroplasts, where photosynthesis takes place."
+   },
+   {
+    "difficulty": "easy",
+    "content": "What is the cell wall of a plant cell made of?",
+    "options": [
+     "Protein",
+     "Starch",
+     "Cellulose",
+     "Fat"
+    ],
+    "answer": 2,
+    "explanation": "Plant cell walls are made of cellulose fibres, which give strength and support."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Which structure is found in BOTH plant and animal cells?",
+    "options": [
+     "Chloroplast",
+     "Permanent vacuole",
+     "Cellulose cell wall",
+     "Mitochondrion"
+    ],
+    "answer": 3,
+    "explanation": "Both types of cell have mitochondria for respiration. Chloroplasts, cellulose walls and large permanent vacuoles are typical of plant cells."
+   },
+   {
+    "difficulty": "easy",
+    "content": "What does the large permanent vacuole in a plant cell contain?",
+    "options": [
+     "Cell sap",
+     "DNA",
+     "Chlorophyll",
+     "Ribosomes"
+    ],
+    "answer": 0,
+    "explanation": "The permanent vacuole is filled with cell sap, a solution of sugars, salts and other substances. It helps keep the cell firm."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Plant cells photosynthesise but animal cells do not. Which structure explains this difference?",
+    "options": [
+     "Mitochondria",
+     "Chloroplasts",
+     "Ribosomes",
+     "Cell membrane"
+    ],
+    "answer": 1,
+    "explanation": "Photosynthesis happens in chloroplasts, which animal cells do not have."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A student views onion root cells and onion leaf cells under a microscope. The root cells have no chloroplasts. What is the best explanation?",
+    "options": [
+     "Onion roots have no nucleus",
+     "Roots are underground and receive no light for photosynthesis",
+     "Chloroplasts are only found in animal cells",
+     "The stain destroyed the chloroplasts"
+    ],
+    "answer": 1,
+    "explanation": "Chloroplasts are only needed where light reaches the cell. Root cells underground do not photosynthesise, so they do not have them."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Which description fits a typical animal cell seen under a light microscope?",
+    "options": [
+     "Regular box shape with a thick wall",
+     "Irregular or rounded shape with no cell wall",
+     "Large central vacuole and green chloroplasts",
+     "No nucleus visible"
+    ],
+    "answer": 1,
+    "explanation": "Animal cells have no cell wall, so their shape is usually rounded or irregular."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Which carbohydrate store is typically found in animal cells (especially liver and muscle) rather than as starch?",
+    "options": [
+     "Cellulose",
+     "Glycogen",
+     "Chlorophyll",
+     "Glucose crystals"
+    ],
+    "answer": 1,
+    "explanation": "Animals store carbohydrate as glycogen, while plants store it as starch."
+   },
+   {
+    "difficulty": "medium",
+    "content": "What is the main job of the plant cell wall?",
+    "options": [
+     "To control which substances enter the cell",
+     "To release energy",
+     "To support the cell and stop it bursting",
+     "To make proteins"
+    ],
+    "answer": 2,
+    "explanation": "The wall is strong and rigid, giving support and stopping the cell bursting when it takes in water. It is fully permeable, so the cell membrane, not the wall, controls what enters."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A student wrote that the cell membrane in a plant cell is 'the strong outer layer that gives the cell its shape'. What is wrong?",
+    "options": [
+     "Nothing, it is correct",
+     "That describes the cell wall, not the membrane",
+     "That describes the nucleus",
+     "That describes the vacuole"
+    ],
+    "answer": 1,
+    "explanation": "The strong outer layer that supports a plant cell is the cell wall. The membrane lies just inside it and is thin and flexible."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Which pair of structures could a student use to tell a plant cell from an animal cell under a light microscope?",
+    "options": [
+     "Nucleus and cytoplasm",
+     "Cell wall and large vacuole",
+     "Mitochondria and ribosomes",
+     "Membrane and nucleus"
+    ],
+    "answer": 1,
+    "explanation": "Cell wall and large permanent vacuole are clearly visible in plant cells. Nucleus and cytoplasm are in both, and mitochondria and ribosomes are too small to see well."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A cell is observed with a nucleus, a cell membrane, mitochondria and a cell wall, but no chloroplasts. Which is the most likely identification?",
+    "options": [
+     "A human cheek cell",
+     "A plant root cell",
+     "A leaf palisade cell",
+     "A red blood cell"
+    ],
+    "answer": 1,
+    "explanation": "A cell wall indicates a plant cell, and having no chloroplasts fits a root cell. Human cells have no walls."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A plant cell is placed in pure water and swells but does not burst, while an animal cell in pure water bursts. What best explains the difference?",
+    "options": [
+     "The plant cell has no membrane",
+     "The plant cell has a strong cellulose wall that resists the swelling",
+     "The animal cell has a vacuole",
+     "The plant cell has more mitochondria"
+    ],
+    "answer": 1,
+    "explanation": "Water enters both cells by osmosis. The rigid plant cell wall prevents the cell from bursting, while the animal cell has no wall to resist the swelling."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A student states: 'Plant cells do not need mitochondria because they get their energy from photosynthesis.' Which evaluation is correct?",
+    "options": [
+     "Correct, as chloroplasts release energy for all processes",
+     "Incorrect, because photosynthesis stores energy in glucose, and mitochondria release it by respiration",
+     "Correct, because plants do not respire",
+     "Incorrect, because plants only respire at night"
+    ],
+    "answer": 1,
+    "explanation": "Photosynthesis captures light energy in glucose but does not release it for the cell to use. All living cells, including plant cells, respire in mitochondria day and night."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A student's notes say: Cell P has chloroplasts and a vacuole; Cell Q has glycogen granules and no wall. Which statement is a valid conclusion?",
+    "options": [
+     "P is an animal cell and Q is a plant cell",
+     "P is a plant cell and Q is an animal cell",
+     "Both are plant cells",
+     "Both are animal cells"
+    ],
+    "answer": 1,
+    "explanation": "Chloroplasts and a large vacuole point to a plant cell. Glycogen granules and no cell wall point to an animal cell."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A model of a plant cell uses a plastic box (outer), a water balloon inside it, and a green bead. Which part of the model best represents the cell wall and which a chloroplast?",
+    "options": [
+     "Box = wall, bead = chloroplast",
+     "Balloon = wall, box = chloroplast",
+     "Bead = wall, balloon = chloroplast",
+     "Box = chloroplast, bead = wall"
+    ],
+    "answer": 0,
+    "explanation": "The rigid outer box is a good model for the strong cellulose wall, and the green bead stands for a chloroplast. A limitation is that the real wall is porous and flexes slightly."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Which statement correctly compares the permeability of the cell wall and cell membrane in a plant cell?",
+    "options": [
+     "Both are partially permeable",
+     "The wall is fully permeable; the membrane is partially permeable",
+     "The wall is partially permeable; the membrane is fully permeable",
+     "Neither lets water through"
+    ],
+    "answer": 1,
+    "explanation": "Water and dissolved substances pass freely through the cellulose wall. The membrane just inside it is partially permeable and controls what enters and leaves."
+   }
+  ],
+  "note": "Plant cells and animal cells are both **eukaryotic** cells, which means they have a nucleus and other membrane-bound structures. They share many features, but plant cells have extra structures that suit the way plants live: they make their own food by photosynthesis and need to stay firm without a skeleton.\n\n## Features found in both\n- **Nucleus**: contains DNA and controls the cell.\n- **Cytoplasm**: where many chemical reactions happen.\n- **Cell membrane**: controls what enters and leaves the cell.\n- **Mitochondria**: release energy by aerobic respiration.\n- **Ribosomes**: make proteins.\n\n## Features found only in plant cells\n- **Cell wall**: made of cellulose, it is rigid and strong. It supports the cell and stops it bursting if it takes in too much water. It is fully permeable, so it does not control what passes through.\n- **Chloroplasts**: contain the green pigment chlorophyll and are where photosynthesis takes place. They are found in the parts of a plant exposed to light, such as leaves, but not in root cells.\n- **Large permanent vacuole**: filled with cell sap, a solution of sugars, salts and other substances. It helps keep the cell firm and can store materials.\n\nAnimal cells may have small, temporary vacuoles, but never a large permanent one.\n\n## Other differences\n- **Shape**: plant cells tend to be regular, box-like shapes because of the cell wall. Animal cells are usually rounder or irregular because they have no wall.\n- **Food store**: plants store carbohydrate as **starch** (and sometimes oil). Animals store it as **glycogen**, mainly in the liver and muscles.\n- **Nutrition**: plant cells with chloroplasts make their own glucose. Animal cells must get glucose from food.\n\n## Common mistakes\n- Saying the cell wall controls what goes in and out. It is the membrane that does this.\n- Saying plant cells have no mitochondria. They respire all the time, so they need mitochondria in every living cell.\n- Thinking all plant cells have chloroplasts. Only cells that receive light do.\n- Mixing up cell wall (outside, rigid) and cell membrane (inside, thin and flexible).\n\n## Drawing and comparing\nWhen you draw cells from a microscope, use a sharp pencil, draw clear continuous lines, label with ruled lines that do not cross, and add the magnification. When you are asked to compare, always make it a direct comparison. A good sentence is: 'Plant cells have a cellulose cell wall, whereas animal cells do not.' A list of features of each cell separately does not compare.\n\nA simple summary: if a cell has a wall, chloroplasts or a large vacuole, it is a plant cell. If it has none of these, and perhaps has glycogen granules, it is an animal cell.\n\n## How this is examined\nExam questions often show a labelled diagram or describe cells from an investigation, such as onion epidermis and cheek cells viewed after staining. You identify which is plant and which is animal using observable features, explain the function of each structure, and sometimes explain why a plant cell does not burst in water.\n\nExam tip: When asked to compare, use a linking word such as 'whereas' or 'but' so that both cell types appear in the same sentence, and name the structure and its function.",
+  "flashcards": [
+   {
+    "front": "Structures in both plant and animal cells",
+    "back": "Nucleus, cytoplasm, cell membrane, mitochondria and ribosomes."
+   },
+   {
+    "front": "Structures only in plant cells",
+    "back": "Cellulose cell wall, chloroplasts and a large permanent vacuole."
+   },
+   {
+    "front": "Function of the cell wall",
+    "back": "Made of cellulose; supports the cell and stops it bursting. It is fully permeable."
+   },
+   {
+    "front": "Function of chloroplasts",
+    "back": "Contain chlorophyll and carry out photosynthesis, making glucose using light energy."
+   },
+   {
+    "front": "What is cell sap?",
+    "back": "The solution of sugars, salts and other substances inside the permanent vacuole of a plant cell."
+   },
+   {
+    "front": "Plant carbohydrate store vs animal carbohydrate store",
+    "back": "Plants store starch; animals store glycogen (in liver and muscles)."
+   },
+   {
+    "front": "Why don't root cells have chloroplasts?",
+    "back": "They are underground and receive no light, so they cannot photosynthesise."
+   },
+   {
+    "front": "Do plant cells have mitochondria?",
+    "back": "Yes. All living cells respire to release energy, so plant cells need mitochondria too."
+   },
+   {
+    "front": "Typical shape of plant vs animal cells",
+    "back": "Plant cells are regular and box-like because of the wall; animal cells are rounded or irregular."
+   }
+  ],
+  "parentPosition": 1
+ },
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Cells and Organisation",
+  "subTopic": "Specialised cells",
+  "questions": [
+   {
+    "difficulty": "easy",
+    "content": "What is a specialised cell?",
+    "options": [
+     "A cell that has no nucleus",
+     "A cell with a structure adapted to carry out a particular job",
+     "A cell that cannot divide",
+     "A cell found only in animals"
+    ],
+    "answer": 1,
+    "explanation": "A specialised cell has features, called adaptations, that suit it to its particular function."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Which cell carries oxygen around the body?",
+    "options": [
+     "Nerve cell",
+     "Red blood cell",
+     "Root hair cell",
+     "Sperm cell"
+    ],
+    "answer": 1,
+    "explanation": "Red blood cells contain haemoglobin, which binds to oxygen so that it can be carried to the tissues."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Which cell has a long tail to help it swim?",
+    "options": [
+     "Muscle cell",
+     "Palisade cell",
+     "Sperm cell",
+     "Egg cell"
+    ],
+    "answer": 2,
+    "explanation": "Sperm cells have a tail (flagellum) that moves them towards the egg."
+   },
+   {
+    "difficulty": "easy",
+    "content": "What is the main job of a nerve cell (neurone)?",
+    "options": [
+     "Carry electrical impulses",
+     "Carry oxygen",
+     "Absorb water",
+     "Make proteins for hair"
+    ],
+    "answer": 0,
+    "explanation": "Neurones carry electrical impulses from one part of the body to another."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Which cell in a plant absorbs water and mineral ions from the soil?",
+    "options": [
+     "Palisade cell",
+     "Guard cell",
+     "Root hair cell",
+     "Xylem cell"
+    ],
+    "answer": 2,
+    "explanation": "Root hair cells have a long thin extension that increases the surface area for absorbing water and minerals."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Which feature of a root hair cell makes it well adapted to absorb water?",
+    "options": [
+     "It contains many chloroplasts",
+     "Its long projection gives it a large surface area",
+     "It has a long tail",
+     "It has no cell membrane"
+    ],
+    "answer": 1,
+    "explanation": "The hair-like projection increases the surface area in contact with the soil water, so absorption is faster."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Muscle cells contain very large numbers of mitochondria. Why?",
+    "options": [
+     "To store food as starch",
+     "To release a lot of energy for contraction",
+     "To make the cell waterproof",
+     "To make proteins for the nucleus"
+    ],
+    "answer": 1,
+    "explanation": "Contraction needs energy. Mitochondria release energy by respiration, so muscle cells need many of them."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Red blood cells have no nucleus and a biconcave (dip in the middle) shape. What is the advantage?",
+    "options": [
+     "They can divide faster",
+     "More room for haemoglobin and a larger surface area for oxygen",
+     "They can move on their own",
+     "They can make antibodies"
+    ],
+    "answer": 1,
+    "explanation": "With no nucleus there is more space for haemoglobin, and the biconcave shape gives a large surface area for oxygen to be taken up."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Palisade cells in a leaf contain many chloroplasts. What is the function of palisade cells?",
+    "options": [
+     "To absorb water",
+     "To carry out most of the photosynthesis",
+     "To transport sugars",
+     "To open and close stomata"
+    ],
+    "answer": 1,
+    "explanation": "Palisade cells are packed with chloroplasts at the top of the leaf, so most photosynthesis takes place there."
+   },
+   {
+    "difficulty": "medium",
+    "content": "What process allows a cell to become specialised as an organism develops?",
+    "options": [
+     "Digestion",
+     "Differentiation",
+     "Respiration",
+     "Diffusion"
+    ],
+    "answer": 1,
+    "explanation": "Differentiation is the process by which a cell changes to become specialised for a specific job."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A neurone has a very long, thin extension called an axon. How does this help it?",
+    "options": [
+     "It can carry impulses over long distances",
+     "It can absorb more oxygen",
+     "It can store more glycogen",
+     "It can contract"
+    ],
+    "answer": 0,
+    "explanation": "The long axon allows the nerve impulse to travel long distances, for example from the spinal cord to the foot."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Which cell would you expect to have the MOST mitochondria?",
+    "options": [
+     "Fat storage cell",
+     "Sperm cell",
+     "Red blood cell",
+     "Xylem vessel"
+    ],
+    "answer": 1,
+    "explanation": "Sperm cells need a lot of energy to swim, so their middle section is packed with mitochondria. Red blood cells have none, and xylem vessels are dead."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Xylem vessels are dead, hollow tubes strengthened with a woody substance called lignin. Which statement explains why being dead helps them?",
+    "options": [
+     "Dead cells photosynthesise faster",
+     "Without cell contents, water can flow through the hollow tube easily",
+     "Dead cells make more sugar",
+     "Dead cells have more mitochondria"
+    ],
+    "answer": 1,
+    "explanation": "The cells have lost their contents and end walls, forming a continuous hollow tube that water can flow through easily. Lignin makes the walls strong."
+   },
+   {
+    "difficulty": "hard",
+    "content": "An egg cell is much larger than a sperm cell and has a thick, jelly-like outer layer. Which pair of explanations is most suitable?",
+    "options": [
+     "Large for movement; jelly for photosynthesis",
+     "Large to hold food reserves for the early embryo; jelly layer to stop more than one sperm entering",
+     "Large to carry oxygen; jelly to make proteins",
+     "Large for storing DNA only; jelly for energy"
+    ],
+    "answer": 1,
+    "explanation": "The egg has a large cytoplasm with nutrients to feed the early embryo. After fertilisation, the outer layer changes to block extra sperm."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A scientist compares two cells. Cell M is long and thin with branches at one end. Cell N is a flat disc with no nucleus. Which is the most reasonable identification?",
+    "options": [
+     "M is a nerve cell and N is a red blood cell",
+     "M is a red blood cell and N is a nerve cell",
+     "M is a root hair cell and N is a muscle cell",
+     "M is a sperm cell and N is a palisade cell"
+    ],
+    "answer": 0,
+    "explanation": "A long, thin cell with branched ends (dendrites) is typical of a neurone. A disc-shaped cell without a nucleus is a red blood cell."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A student says: 'Specialised cells have different DNA from each other because they do different jobs.' Which is the best evaluation?",
+    "options": [
+     "Correct, each type has unique genes",
+     "Incorrect, all body cells in an organism contain the same DNA but use (express) different genes",
+     "Correct, differentiation changes the DNA",
+     "Incorrect, specialised cells have no DNA"
+    ],
+    "answer": 1,
+    "explanation": "Almost all cells in an organism hold the same set of genes. Differentiation happens because different genes are switched on in different cells."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A cell has a very high number of mitochondria, a long tail and a pointed head that contains digestive enzymes. For which function is it adapted?",
+    "options": [
+     "Fertilising an egg",
+     "Carrying oxygen",
+     "Absorbing water from soil",
+     "Photosynthesis"
+    ],
+    "answer": 0,
+    "explanation": "These are features of a sperm cell: mitochondria for energy, a tail to swim, and enzymes in the head (acrosome) to break through the egg's outer layer."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Which statement about guard cells is correct?",
+    "options": [
+     "They carry impulses along the leaf",
+     "They change shape to open or close stomata",
+     "They make sugars for the phloem",
+     "They absorb water from the soil"
+    ],
+    "answer": 1,
+    "explanation": "Pairs of guard cells surround each stoma. They swell or shrink to open or close it, controlling gas exchange and water loss."
+   }
+  ],
+  "note": "In a multicellular organism, not all cells look alike or do the same job. Cells become **specialised**, which means they have structures called **adaptations** that suit them to a particular function. The process by which a cell becomes specialised is **differentiation**. In animals, most cells differentiate early in life and then stay the same. In plants, many cells can still differentiate throughout life.\n\nA useful exam skill is to link structure to function. Always say what the feature is and how it helps.\n\n## Animal examples\n- **Red blood cell**: carries oxygen. It is a biconcave disc with no nucleus, so there is more room for **haemoglobin**, the red pigment that binds oxygen. The shape gives a large surface area for taking up and releasing oxygen.\n- **Nerve cell (neurone)**: carries electrical impulses. It has a long **axon** to carry impulses over a distance and branched ends (**dendrites**) to connect with other nerve cells.\n- **Muscle cell**: contracts to cause movement. It contains protein fibres that slide to shorten the cell, and a lot of **mitochondria** to supply the energy needed.\n- **Sperm cell**: delivers the male DNA to the egg. It has a tail to swim, many mitochondria in the middle section for energy, and a head containing enzymes to break into the egg.\n- **Egg cell**: contains the female DNA. It is large, with a large cytoplasm that holds food reserves for the early embryo, and an outer layer that changes after fertilisation to block extra sperm.\n\n## Plant examples\n- **Root hair cell**: absorbs water and minerals. A long thin projection greatly increases the surface area.\n- **Palisade cell**: carries out photosynthesis. It is packed with chloroplasts and is found near the top of the leaf, where light is strongest.\n- **Xylem vessel**: transports water and mineral ions. It is dead, hollow and strengthened with **lignin**, which gives strength and allows water to flow through.\n- **Guard cell**: controls the opening of the stomata. Pairs of guard cells change shape to open or close the pore.\n\n## Key ideas\n- Almost every cell in your body has the same DNA. A cell becomes specialised because different genes are active in it.\n- More mitochondria means a higher energy need.\n- A larger surface area helps absorption or exchange.\n- Being specialised makes a cell very good at one job, but often unable to do others.\n\n## Common mistakes\n- Writing only 'it is long' without saying why that helps. Always add the function.\n- Thinking that red blood cells have a nucleus. Mature human red blood cells do not.\n- Thinking specialised cells have different DNA. The DNA is the same, but different genes are used.\n\n## How this is examined\nExam questions often present a diagram or description of an unfamiliar cell and ask you to work out its function from its adaptations, or to explain why a named cell is suited to its job. You may also compare two cell types or make a prediction, such as which cell has the most mitochondria.\n\nExam tip: Use the pattern 'feature, then function, then link', for example 'The root hair cell has a long projection, which increases the surface area, so it absorbs water faster.'",
+  "flashcards": [
+   {
+    "front": "Specialised cell",
+    "back": "A cell with adaptations (special features) that suit it to carry out a particular job."
+   },
+   {
+    "front": "Differentiation",
+    "back": "The process by which a cell changes to become specialised for a particular function."
+   },
+   {
+    "front": "Red blood cell adaptations",
+    "back": "Biconcave disc, no nucleus, contains haemoglobin: more room for oxygen and a large surface area."
+   },
+   {
+    "front": "Nerve cell adaptations",
+    "back": "Long axon carries impulses over distance; branched dendrites connect to other nerve cells."
+   },
+   {
+    "front": "Why do muscle cells have many mitochondria?",
+    "back": "Contraction needs a lot of energy, which mitochondria release by respiration."
+   },
+   {
+    "front": "Sperm cell adaptations",
+    "back": "Tail to swim, many mitochondria for energy, and enzymes in the head to penetrate the egg."
+   },
+   {
+    "front": "Root hair cell adaptation",
+    "back": "Long thin projection gives a large surface area to absorb water and minerals."
+   },
+   {
+    "front": "Xylem vessel adaptations",
+    "back": "Dead, hollow tube with no end walls, strengthened by lignin; transports water and minerals."
+   },
+   {
+    "front": "Do specialised cells have different DNA?",
+    "back": "No. They hold the same DNA, but different genes are switched on in different types of cell."
+   }
+  ],
+  "parentPosition": 1
+ },
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Cells and Organisation",
+  "subTopic": "Tissues, organs and organ systems",
+  "questions": [
+   {
+    "difficulty": "easy",
+    "content": "What is a tissue?",
+    "options": [
+     "A group of similar cells working together to do a job",
+     "A single specialised cell",
+     "A group of organs",
+     "A whole living organism"
+    ],
+    "answer": 0,
+    "explanation": "A tissue is a group of similar cells that work together to perform a particular function, such as muscle tissue."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Which of these correctly shows the levels of organisation from smallest to largest?",
+    "options": [
+     "Organ, tissue, cell, organ system",
+     "Cell, tissue, organ, organ system",
+     "Tissue, cell, organ system, organ",
+     "Cell, organ, tissue, organ system"
+    ],
+    "answer": 1,
+    "explanation": "Cells make up tissues, tissues make up organs, and organs working together form an organ system."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Which of these is an organ?",
+    "options": [
+     "Heart",
+     "Red blood cell",
+     "Muscle tissue",
+     "Nucleus"
+    ],
+    "answer": 0,
+    "explanation": "The heart is an organ: a structure made of several different tissues that work together to do a job."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Which organ system includes the brain, spinal cord and nerves?",
+    "options": [
+     "Digestive system",
+     "Nervous system",
+     "Circulatory system",
+     "Skeletal system"
+    ],
+    "answer": 1,
+    "explanation": "The nervous system detects stimuli and coordinates responses using electrical impulses."
+   },
+   {
+    "difficulty": "easy",
+    "content": "Which organ system is responsible for breaking down food into small soluble molecules?",
+    "options": [
+     "Respiratory system",
+     "Excretory system",
+     "Digestive system",
+     "Circulatory system"
+    ],
+    "answer": 2,
+    "explanation": "The digestive system breaks food down so that nutrients can be absorbed into the blood."
+   },
+   {
+    "difficulty": "medium",
+    "content": "The stomach wall contains muscle tissue, glandular tissue and epithelial tissue. Why is the stomach an organ?",
+    "options": [
+     "It is made of a single type of cell",
+     "It contains several tissues working together to do a job",
+     "It is found in every animal",
+     "It is the largest part of the body"
+    ],
+    "answer": 1,
+    "explanation": "An organ is made of different tissues that work together. In the stomach, muscle churns food, glands make juices and epithelial tissue covers surfaces."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Which of the following is an example of an organ system?",
+    "options": [
+     "Lungs",
+     "Windpipe, lungs and diaphragm working together for gas exchange",
+     "Alveolus",
+     "Bronchus"
+    ],
+    "answer": 1,
+    "explanation": "An organ system is a group of organs that work together to carry out a major function, such as the respiratory system."
+   },
+   {
+    "difficulty": "medium",
+    "content": "What does the glandular tissue in the stomach do?",
+    "options": [
+     "Churns food",
+     "Produces digestive juices containing enzymes and acid",
+     "Covers the inside of the heart",
+     "Carries impulses"
+    ],
+    "answer": 1,
+    "explanation": "Glandular tissue makes and secretes substances such as enzymes and hydrochloric acid."
+   },
+   {
+    "difficulty": "medium",
+    "content": "The leaf of a plant is an organ. Which of these tissues is found in a leaf?",
+    "options": [
+     "Palisade mesophyll",
+     "Bone",
+     "Cartilage",
+     "Glandular tissue of the pancreas"
+    ],
+    "answer": 0,
+    "explanation": "Leaves contain palisade mesophyll, spongy mesophyll, epidermis and xylem and phloem in the veins. Bone and cartilage are animal tissues."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Which pair of organs belong to the digestive system?",
+    "options": [
+     "Heart and lungs",
+     "Stomach and small intestine",
+     "Kidneys and bladder",
+     "Brain and spinal cord"
+    ],
+    "answer": 1,
+    "explanation": "The stomach and small intestine are part of the digestive system. The heart and lungs belong to the circulatory and respiratory systems, and the kidneys and bladder to the excretory system."
+   },
+   {
+    "difficulty": "medium",
+    "content": "Which organs are mainly part of the excretory (urinary) system?",
+    "options": [
+     "Kidneys and bladder",
+     "Liver and pancreas only",
+     "Heart and arteries",
+     "Oesophagus and stomach"
+    ],
+    "answer": 0,
+    "explanation": "The kidneys filter the blood to make urine, which is stored in the bladder before it is released."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A single-celled amoeba can exchange substances directly with its surroundings, but a human cannot. What is the best explanation?",
+    "options": [
+     "Humans have more DNA",
+     "The amoeba has a large surface area compared with its volume, so substances reach all parts quickly",
+     "Humans have no cell membranes",
+     "The amoeba has organs"
+    ],
+    "answer": 1,
+    "explanation": "Very small organisms have a large surface area to volume ratio, so diffusion is enough. Large organisms need transport and exchange systems."
+   },
+   {
+    "difficulty": "medium",
+    "content": "A student says: 'The pancreas is a tissue because it makes enzymes.' Which statement corrects this best?",
+    "options": [
+     "It is correct because enzymes are made by tissues",
+     "The pancreas is an organ because it contains several tissues, such as glandular tissue, working together",
+     "The pancreas is a cell because it makes proteins",
+     "The pancreas is an organ system because it makes insulin"
+    ],
+    "answer": 1,
+    "explanation": "The pancreas is made of glandular tissue and other tissues such as blood vessels and connective tissue, so it is an organ. It is part of the digestive and endocrine systems."
+   },
+   {
+    "difficulty": "hard",
+    "content": "The liver is considered part of the digestive system even though food never passes through it. Which is the best reason?",
+    "options": [
+     "It stores food in the form of fat only",
+     "It makes bile, which helps digest fat in the small intestine",
+     "It absorbs water from food",
+     "It produces saliva"
+    ],
+    "answer": 1,
+    "explanation": "The liver makes bile, which is stored in the gall bladder and released into the small intestine to help break down fats. Food does not pass through it, but it is still part of the system."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Which list correctly places these structures in order from the smallest level of organisation to the largest: lung, alveolus cell, respiratory system, lung epithelial tissue?",
+    "options": [
+     "Alveolus cell, lung epithelial tissue, lung, respiratory system",
+     "Lung epithelial tissue, alveolus cell, respiratory system, lung",
+     "Alveolus cell, lung, lung epithelial tissue, respiratory system",
+     "Respiratory system, lung, alveolus cell, lung epithelial tissue"
+    ],
+    "answer": 0,
+    "explanation": "Cell, then tissue, then organ, then organ system: alveolus cell, lung epithelial tissue, lung, respiratory system."
+   },
+   {
+    "difficulty": "hard",
+    "content": "A person has a damaged circulatory system. Which of the following problems is most directly expected?",
+    "options": [
+     "Oxygen and nutrients are not delivered efficiently to cells",
+     "The stomach cannot make any acid",
+     "Reflexes are completely lost",
+     "Bones become hollow"
+    ],
+    "answer": 0,
+    "explanation": "The circulatory system transports blood carrying oxygen, nutrients and waste. If it is damaged, delivery and removal around the body suffer."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Scientists grow a sheet of skin cells in the laboratory. Which statement about it is most accurate?",
+    "options": [
+     "It is a tissue, because it is a group of similar cells with one function",
+     "It is an organ, because it has a cell wall",
+     "It is an organ system, because it is alive",
+     "It is a single cell, because it is grown in a dish"
+    ],
+    "answer": 0,
+    "explanation": "A sheet of similar cells doing one job is a tissue. Skin as a complete organ also contains several tissues, such as nerve tissue, blood vessels and glands."
+   },
+   {
+    "difficulty": "hard",
+    "content": "Which statement best explains why multicellular organisms need organ systems?",
+    "options": [
+     "Their cells are all identical",
+     "As organisms get bigger, their surface area to volume ratio falls, so specialised exchange and transport systems are needed",
+     "Large organisms do not use oxygen",
+     "Organ systems make cells smaller"
+    ],
+    "answer": 1,
+    "explanation": "A large body has a small surface area compared with its volume, so diffusion across the surface is too slow. Organ systems such as the lungs and circulation provide exchange and transport."
+   }
+  ],
+  "note": "A single cell can do a lot, but a large organism needs its cells to work as a team. Living things are organised in levels, and each level is built from the one before.\n\n## The levels of organisation\n- **Cell**: the basic unit of life. Many are specialised for a job.\n- **Tissue**: a group of similar cells that work together to do one job, for example muscular tissue, which contracts.\n- **Organ**: a structure made of several different tissues that work together to do a job, for example the stomach or heart.\n- **Organ system**: a group of organs that work together to carry out a major function, for example the digestive system.\n- **Organism**: a whole living thing made of several organ systems working together.\n\nThe order is cell, tissue, organ, organ system, organism. A good way to remember it is that each level has a bigger job than the one before.\n\n## Example: the stomach\nThe stomach is an organ because it contains different tissues:\n- **Muscular tissue** squeezes and churns the food.\n- **Glandular tissue** makes digestive juices, including enzymes and hydrochloric acid.\n- **Epithelial tissue** covers the inner and outer surfaces.\n\nThe stomach is part of the digestive system, along with the mouth, oesophagus, small intestine, large intestine, liver, pancreas and salivary glands. Together they digest food, absorb nutrients and remove the waste that is not absorbed. Notice that organs such as the liver and pancreas do not have food passing through them, but they make substances such as bile and enzymes that help digestion.\n\n## Other organ systems\n- **Circulatory system**: the heart, blood and blood vessels carry oxygen, nutrients and wastes.\n- **Respiratory system**: the airways and lungs take oxygen into the blood and remove carbon dioxide.\n- **Nervous system**: the brain, spinal cord and nerves carry impulses and coordinate responses.\n- **Excretory system**: kidneys, ureters and bladder remove urea and excess water.\n- **Skeletal and muscular systems**: support, protect and allow movement.\n- **Reproductive system**: produces gametes and allows reproduction.\n\n## Plants too\nPlants have organs and organ systems as well. A leaf is an organ made of tissues such as the epidermis (a protective layer), palisade mesophyll (photosynthesis), spongy mesophyll (gas exchange) and xylem and phloem (transport). The roots, stem and leaves are organs, and together they form the shoot system and root system.\n\n## Why do we need organ systems?\nSmall organisms such as an amoeba can exchange gases and nutrients across their surface. As an organism gets bigger, its surface area compared with its volume gets smaller, so diffusion alone is too slow to reach every cell. That is why large organisms have lungs, a circulatory system and a digestive system.\n\n## Common mistakes\n- Mixing up tissue and organ. If it has several kinds of tissue, it is an organ.\n- Calling a single organ a system. The lungs are organs. The respiratory system includes the trachea, bronchi, lungs and diaphragm.\n- Forgetting that organs can belong to more than one system, such as the pancreas, which is both digestive and endocrine.\n\n## How this is examined\nQuestions usually give a labelled diagram or a short description, such as the structure of the stomach, and ask you to classify each part as cell, tissue, organ or organ system. Others ask you to explain what would happen if a system stopped working.\n\nExam tip: Check how many different tissues are involved. One type of tissue means a tissue, several types working together means an organ, and several organs means an organ system.",
+  "flashcards": [
+   {
+    "front": "Levels of organisation",
+    "back": "Cell, tissue, organ, organ system, organism."
+   },
+   {
+    "front": "Tissue",
+    "back": "A group of similar cells that work together to do a particular job, e.g. muscular tissue."
+   },
+   {
+    "front": "Organ",
+    "back": "A structure made of several different tissues that work together to do a job, e.g. the stomach."
+   },
+   {
+    "front": "Organ system",
+    "back": "A group of organs working together to carry out a major function, e.g. the digestive system."
+   },
+   {
+    "front": "Three tissues in the stomach",
+    "back": "Muscular tissue (churns food), glandular tissue (makes juices) and epithelial tissue (covers surfaces)."
+   },
+   {
+    "front": "Role of the digestive system",
+    "back": "Breaks down food into small soluble molecules, absorbs them into the blood and removes undigested waste."
+   },
+   {
+    "front": "Role of the circulatory system",
+    "back": "Heart, blood and vessels transport oxygen, nutrients, carbon dioxide and other wastes around the body."
+   },
+   {
+    "front": "Tissues in a leaf",
+    "back": "Epidermis, palisade mesophyll, spongy mesophyll, and xylem and phloem in the veins."
+   },
+   {
+    "front": "Why do large organisms need organ systems?",
+    "back": "Their surface area to volume ratio is small, so diffusion alone is too slow; they need exchange and transport systems."
+   }
+  ],
+  "parentPosition": 1
+ }
+]

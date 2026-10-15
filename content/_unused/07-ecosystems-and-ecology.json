@@ -1,0 +1,1054 @@
+[
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Ecosystems and Ecology",
+  "subTopic": "Food chains and webs",
+  "questions": [
+   {
+    "content": "In a food chain, which organism is the producer?",
+    "options": [
+     "The plant that makes food by photosynthesis",
+     "The animal at the top of the chain",
+     "The bacterium that breaks down dead matter",
+     "The animal that eats the most food"
+    ],
+    "answer": 0,
+    "explanation": "Producers, usually green plants or algae, make their own food using light energy. Every food chain starts with a producer.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "In the food chain grass → rabbit → fox, what does the arrow from grass to rabbit show?",
+    "options": [
+     "The rabbit gives energy to the grass",
+     "The grass is a predator of the rabbit",
+     "The rabbit and grass compete for food",
+     "Energy and nutrients pass from the grass to the rabbit"
+    ],
+    "answer": 3,
+    "explanation": "Arrows show the direction of energy transfer, pointing from the organism that is eaten to the organism that eats it.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What name is given to an animal that eats only plants?",
+    "options": [
+     "Carnivore",
+     "Omnivore",
+     "Herbivore",
+     "Decomposer"
+    ],
+    "answer": 2,
+    "explanation": "Herbivores eat only plant material. Carnivores eat animals, and omnivores eat both.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is the original source of energy for almost all food chains on Earth?",
+    "options": [
+     "The soil",
+     "The Sun",
+     "Water",
+     "Oxygen in the air"
+    ],
+    "answer": 1,
+    "explanation": "Plants capture light energy from the Sun in photosynthesis and store it in food molecules. All consumers rely on this stored energy.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these organisms are decomposers?",
+    "options": [
+     "Lions and eagles",
+     "Fungi and bacteria",
+     "Grass and algae",
+     "Rabbits and deer"
+    ],
+    "answer": 1,
+    "explanation": "Decomposers such as fungi and bacteria break down dead organisms and waste, returning nutrients to the soil.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Look at this food chain: grass → grasshopper → frog → snake → hawk. Which organism is the secondary consumer?",
+    "options": [
+     "Frog",
+     "Grasshopper",
+     "Snake",
+     "Hawk"
+    ],
+    "answer": 0,
+    "explanation": "The grasshopper is the primary consumer (eats the producer), so the frog, which eats the grasshopper, is the secondary consumer.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a pond web, small fish eat water fleas, and water fleas are the only food of the small fish. A disease kills most of the water fleas. What is the most likely immediate effect on the small fish?",
+    "options": [
+     "Their numbers rise because they have less competition",
+     "Nothing changes because fish can eat anything",
+     "They become producers",
+     "Their numbers fall because they have less food"
+    ],
+    "answer": 3,
+    "explanation": "If the only food source is lost, the animals that depend on it will starve or move away, so their numbers fall.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Grass in a field stores 20 000 kJ of energy. Only about 10% of the energy passes to the next level at each step. How much energy reaches the secondary consumer in grass → rabbit → fox?",
+    "options": [
+     "2000 kJ",
+     "20 kJ",
+     "200 kJ",
+     "2 kJ"
+    ],
+    "answer": 2,
+    "explanation": "Grass to rabbit: 10% of 20 000 = 2000 kJ. Rabbit to fox: 10% of 2000 = 200 kJ. The fox is the second consumer, so two transfers occur.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why do food chains rarely have more than four or five links?",
+    "options": [
+     "Predators refuse to eat other predators",
+     "Plants cannot support more than five animals",
+     "Energy is lost at each step, so too little remains for more levels",
+     "Nutrients run out in the soil"
+    ],
+    "answer": 2,
+    "explanation": "Only about 10% of energy passes on at each level. After four or five levels there is not enough energy left to support another group of organisms.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of these is NOT a way that energy is lost between trophic levels?",
+    "options": [
+     "Heat released in respiration",
+     "Energy is destroyed completely",
+     "Parts of the organism that are not eaten, such as bones",
+     "Energy in faeces and waste"
+    ],
+    "answer": 1,
+    "explanation": "Energy is never destroyed. It is transferred to the surroundings as heat, left in uneaten parts, or lost in waste.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A pyramid of numbers for one large oak tree, 500 caterpillars and 5 birds has an unusual shape: a narrow base. Why?",
+    "options": [
+     "One large producer supports many smaller consumers",
+     "The oak tree is a consumer",
+     "Caterpillars are producers",
+     "Birds eat the oak tree"
+    ],
+    "answer": 0,
+    "explanation": "Pyramids of numbers count organisms, not size. One big tree can feed hundreds of caterpillars, so the base is narrow.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is a pyramid of biomass often a better description of a food chain than a pyramid of numbers?",
+    "options": [
+     "It shows how fast organisms move",
+     "It counts only the carnivores",
+     "It shows the temperature of each level",
+     "It takes the mass of the organisms into account, not just how many there are"
+    ],
+    "answer": 3,
+    "explanation": "Biomass measures the dry mass of living material at each level, so one huge tree and one tiny plant are not treated as equal.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A hawk eats both snakes and mice, and mice eat seeds while snakes eat mice. Which statement about the hawk is correct?",
+    "options": [
+     "It is a producer",
+     "It is only a secondary consumer",
+     "It is a decomposer",
+     "It is at more than one trophic level"
+    ],
+    "answer": 3,
+    "explanation": "The hawk feeds on mice (so it is a secondary consumer) and on snakes (so it is a tertiary consumer). Feeding at several levels is common in food webs.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A producer in a lake contains 8000 kJ of energy. The primary consumers that eat it contain 900 kJ. What percentage of the energy was passed on?",
+    "options": [
+     "8.9%",
+     "88.9%",
+     "11.25%",
+     "7100%"
+    ],
+    "answer": 2,
+    "explanation": "Efficiency = 900 ÷ 8000 × 100 = 11.25%. Dividing the other way round (8000 ÷ 900) is a common mistake.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A lake has a pesticide at 0.002 parts per million (ppm) in the water, 0.04 ppm in plankton, 0.5 ppm in small fish and 25 ppm in herons. What best explains the pattern?",
+    "options": [
+     "Herons make the pesticide in their bodies",
+     "The pesticide is not broken down, so it builds up as each consumer eats many organisms from the level below",
+     "Plankton remove the pesticide from the water and destroy it",
+     "Small fish produce less waste than herons"
+    ],
+    "answer": 1,
+    "explanation": "This is bioaccumulation. Poisons that are not excreted or broken down get more concentrated at each trophic level, so top predators are most at risk.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Sea otters eat sea urchins, and sea urchins eat kelp. Hunters remove most of the sea otters from a coast. What is the most likely long-term result?",
+    "options": [
+     "Sea urchins increase and the kelp forest shrinks",
+     "Kelp increases because urchins have more food",
+     "Sea urchins decrease because there are fewer otters",
+     "Nothing changes because otters do not eat kelp"
+    ],
+    "answer": 0,
+    "explanation": "Removing the predator allows urchins to increase, and more urchins overgraze the kelp. Removing one species can affect organisms it does not eat directly.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student claims that a pyramid of energy can be upside down, like some pyramids of numbers. Which reply is correct?",
+    "options": [
+     "It cannot, because energy is lost at every transfer so each level has less than the one below",
+     "It can, if the top predator is very large",
+     "It can, if there are many decomposers",
+     "It cannot, because the Sun adds energy at each level"
+    ],
+    "answer": 0,
+    "explanation": "Each level receives only a fraction of the energy of the level below, so the energy pyramid is always wider at the bottom.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A producer level holds 5000 kJ. Assuming 10% transfer at each step, how much energy reaches a tertiary consumer in a chain with producer → primary → secondary → tertiary?",
+    "options": [
+     "50 kJ",
+     "500 kJ",
+     "0.5 kJ",
+     "5 kJ"
+    ],
+    "answer": 3,
+    "explanation": "There are three transfers: 5000 → 500 → 50 → 5 kJ. Each step multiplies by 0.1. Counting only two transfers would give 50 kJ.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "A food chain shows how energy and nutrients pass from one living thing to the next when one organism eats another. Understanding food chains and food webs helps us predict what will happen in an ecosystem when something changes.\n\n## The parts of a food chain\n- **Producers** make their own food by photosynthesis. They are usually green plants or algae and they start every food chain. They capture light energy from the Sun and store it in sugars.\n- **Consumers** cannot make their own food, so they eat other organisms. A **primary consumer** eats producers, a **secondary consumer** eats primary consumers, and a **tertiary consumer** eats secondary consumers.\n- **Herbivores** eat only plants, **carnivores** eat only animals, and **omnivores** eat both.\n- **Decomposers** such as fungi and bacteria break down dead organisms and waste, returning nutrients to the soil.\n- A **predator** hunts and eats another animal, called its **prey**.\n\nEach step in a food chain is called a **trophic level**. In the chain grass → grasshopper → frog → snake, grass is level 1, the grasshopper level 2, the frog level 3 and the snake level 4. The arrows point in the direction energy flows, from the food to the feeder. A very common mistake is to draw the arrow the wrong way round, so always ask yourself: where does the energy go?\n\n## Food webs\nA single food chain is too simple. Most animals eat several things and are eaten by several predators. A **food web** joins many food chains together to show these feeding relationships. If one organism is removed or added, the change can spread through the web. For example, if a disease kills the frogs, the grasshoppers may increase because fewer are eaten, while snakes may starve or switch to eating other prey. When you answer a food web question, trace each arrow carefully and think about both the direct and the indirect effects.\n\n## Energy transfer\nOnly about **10%** of the energy in one trophic level is passed to the next. The rest is lost as heat from respiration, in movement, in waste such as faeces, and in parts that are not eaten such as bones or roots. This is why:\n- food chains rarely have more than four or five links;\n- there are far fewer top predators than herbivores;\n- eating plants directly is more energy efficient than eating animals.\n\nWorked example: grass contains 10 000 kJ. Energy reaching the rabbit = 10% of 10 000 = 1000 kJ. Energy reaching the fox = 10% of 1000 = 100 kJ. Energy efficiency can be found with: (energy passed on ÷ energy available) × 100.\n\n## Pyramids\nA **pyramid of numbers** shows how many organisms are at each level, a **pyramid of biomass** shows the mass of living material, and a **pyramid of energy** shows the energy at each level. Pyramids of numbers can look odd, for example one tree supporting hundreds of insects, so biomass is often more useful. Pyramids of energy are always wide at the bottom because energy is lost at every step.\n\n## Poisons in food chains\nSome chemicals, such as certain pesticides and heavy metals, are not broken down or excreted. They build up in an organism's body, and because a predator eats many prey, the concentration increases at each level. This is **bioaccumulation**, and it is why top predators such as birds of prey are often the first to be harmed.\n\n## How this is examined\nQuestions usually give you a short food web or a table of energy values in a context such as a lake, a farm or a coral reef. You may be asked to name the trophic level of an organism, to calculate the percentage of energy transferred, to predict the effect of removing a species, and to explain your prediction using ideas about energy loss. Higher-scoring answers use words like trophic level, producer and energy transfer correctly, and give a reason, not just a result.\n\nExam tip: When predicting the effect of removing an organism, name what it eats and what eats it, then follow the arrows both ways and give a reason for each change.",
+  "flashcards": [
+   {
+    "front": "Producer",
+    "back": "An organism that makes its own food by photosynthesis, such as a plant or alga. It starts every food chain."
+   },
+   {
+    "front": "Primary consumer",
+    "back": "An organism that eats producers. It is a herbivore, such as a rabbit or grasshopper."
+   },
+   {
+    "front": "What does an arrow in a food chain mean?",
+    "back": "It shows the direction of energy transfer, from the organism eaten to the organism that eats it."
+   },
+   {
+    "front": "Trophic level",
+    "back": "The feeding position of an organism in a food chain, for example producer, primary consumer or secondary consumer."
+   },
+   {
+    "front": "Food web",
+    "back": "A diagram of many linked food chains showing the feeding relationships in an ecosystem."
+   },
+   {
+    "front": "Typical energy transfer between trophic levels",
+    "back": "About 10%. The rest is lost as heat, waste and uneaten parts."
+   },
+   {
+    "front": "Why are there few top predators?",
+    "back": "Energy is lost at each level, so little remains at the top to support large numbers."
+   },
+   {
+    "front": "Decomposer",
+    "back": "An organism, such as a fungus or bacterium, that breaks down dead matter and waste and returns nutrients to the soil."
+   },
+   {
+    "front": "Bioaccumulation",
+    "back": "The build-up of a chemical that is not broken down, such as a pesticide, with higher concentrations at each higher trophic level."
+   }
+  ]
+ },
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Ecosystems and Ecology",
+  "subTopic": "Population and sampling methods",
+  "questions": [
+   {
+    "content": "What is a population in ecology?",
+    "options": [
+     "All the individuals of one species living in an area at the same time",
+     "All the living things in an area",
+     "All the species in a habitat",
+     "The number of predators in an area"
+    ],
+    "answer": 0,
+    "explanation": "A population contains one species only. All the populations living and interacting in an area make up a community.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which piece of equipment is used to count plants in a small, measured area of a field?",
+    "options": [
+     "A pooter",
+     "A thermometer",
+     "A pitfall trap",
+     "A quadrat"
+    ],
+    "answer": 3,
+    "explanation": "A quadrat is a square frame placed on the ground. The organisms inside it are counted or their cover estimated.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which method would be best for collecting beetles that walk on the soil surface?",
+    "options": [
+     "A quadrat",
+     "A transect through water",
+     "A pitfall trap",
+     "A net held in the air"
+    ],
+    "answer": 2,
+    "explanation": "A pitfall trap is a pot sunk into the ground so that ground-dwelling invertebrates fall in and can be counted.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Why should an ecologist take many samples rather than one?",
+    "options": [
+     "To make the investigation quicker",
+     "To make the results more reliable and representative",
+     "To find only the largest organisms",
+     "To avoid using a quadrat"
+    ],
+    "answer": 1,
+    "explanation": "One sample could be unusual. Many samples give a mean value that better represents the whole area.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is a transect?",
+    "options": [
+     "A type of animal trap",
+     "A line along which organisms are sampled to show how they change across an area",
+     "The mass of an organism",
+     "A formula for population size"
+    ],
+    "answer": 1,
+    "explanation": "A transect is a line, often a tape measure, with samples taken at regular intervals along it, for example from the sea to the top of a shore.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "A student places 10 quadrats, each 1 m², in a field of area 2000 m². The counts of daisies are 4, 5, 3, 6, 5, 4, 4, 5, 5, 4. What is the estimated total number of daisies in the field?",
+    "options": [
+     "9000",
+     "45",
+     "4500",
+     "90 000"
+    ],
+    "answer": 0,
+    "explanation": "Total = 45, mean = 4.5 per m². Population estimate = 4.5 × 2000 = 9000.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why should quadrats be placed using random numbers for coordinates?",
+    "options": [
+     "To make sure every quadrat has the most plants",
+     "To save time walking across the field",
+     "To make the quadrats overlap",
+     "To avoid bias in where the samples are taken"
+    ],
+    "answer": 3,
+    "explanation": "If a person chooses the positions, they may unconsciously pick places that look interesting. Random placement gives every position an equal chance.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which investigation needs a transect rather than random quadrats?",
+    "options": [
+     "The total number of daisies in an even lawn",
+     "The mass of one tree",
+     "How the number of lichens changes with distance from a busy road",
+     "The number of birds in a tree"
+    ],
+    "answer": 2,
+    "explanation": "A transect is used when conditions change gradually in one direction, such as with distance from a road.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "In a mark-release-recapture study, 40 mice are caught, marked and released. A second sample has 30 mice, of which 5 are marked. What is the estimated population size?",
+    "options": [
+     "120",
+     "8",
+     "240",
+     "1200"
+    ],
+    "answer": 2,
+    "explanation": "Population = (marked in first sample × total in second sample) ÷ marked in second sample = (40 × 30) ÷ 5 = 240.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which assumption must be true for the mark-release-recapture method to give a good estimate?",
+    "options": [
+     "All animals in the area are caught the first time",
+     "Marked animals mix back evenly into the population and the marking does not harm them",
+     "Marked animals stay together in one place",
+     "No animals are ever caught twice"
+    ],
+    "answer": 1,
+    "explanation": "The method assumes marked animals spread randomly and are not made more or less likely to be caught, and that there is no major migration, birth or death between samples.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A quadrat count has these results: 3, 5, 0, 4, 8. What is the mean number per quadrat?",
+    "options": [
+     "4",
+     "5",
+     "3",
+     "20"
+    ],
+    "answer": 0,
+    "explanation": "The total is 20 and there are 5 quadrats, so the mean is 20 ÷ 5 = 4. Do not forget to include the 0.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A student chooses to put quadrats only where the clover looks thick. What is the problem?",
+    "options": [
+     "The results will be too accurate",
+     "The quadrats will be too small",
+     "The results will underestimate the population",
+     "The results will be biased and overestimate the population"
+    ],
+    "answer": 3,
+    "explanation": "Selecting dense areas means the sample is not representative, so the estimated population will be too high.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A quadrat is 0.5 m × 0.5 m. What is its area?",
+    "options": [
+     "1 m²",
+     "0.5 m²",
+     "2.5 m²",
+     "0.25 m²"
+    ],
+    "answer": 3,
+    "explanation": "Area = 0.5 × 0.5 = 0.25 m². A common mistake is to double the side length instead of multiplying.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A field measures 50 m by 30 m. The mean count in 0.25 m² quadrats is 6 plants. What is the best estimate for the whole field?",
+    "options": [
+     "9000",
+     "9",
+     "36 000",
+     "1500"
+    ],
+    "answer": 2,
+    "explanation": "Density = 6 ÷ 0.25 = 24 plants per m². Area of field = 50 × 30 = 1500 m². Estimate = 24 × 1500 = 36 000.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "In a snail study, the marking paint makes snails easier for birds to spot. How will this affect the estimated population?",
+    "options": [
+     "It will be underestimated because more marked snails are recaptured",
+     "It will be overestimated because fewer marked snails are recaptured",
+     "It will not be affected",
+     "It will be exactly correct because paint is permanent"
+    ],
+    "answer": 1,
+    "explanation": "If marked snails are eaten, fewer appear in the second sample. The marked count in the formula is smaller, so the estimate (M × n ÷ m) becomes too large.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Student A uses 5 quadrats and gets a mean of 12 plants. Student B uses 50 randomly placed quadrats and gets a mean of 15. Which statement is the best evaluation?",
+    "options": [
+     "Student B's value is probably more reliable because the sample is larger and random",
+     "Student A's value is more reliable because it is smaller",
+     "Both values must be wrong",
+     "The values prove the field is uneven"
+    ],
+    "answer": 0,
+    "explanation": "A larger random sample reduces the effect of unusual quadrats. It does not guarantee accuracy, but it is more representative.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A scientist catches 60 fish, marks them and releases them. Two weeks later 45 fish are caught, 9 of them marked. Many fish were born and many others migrated into the lake in those two weeks. Which statement is correct?",
+    "options": [
+     "The estimate of 300 is unreliable because the population changed between samples",
+     "The estimate of 300 is reliable because 9 fish were recaptured",
+     "The estimate is 12 because 60 ÷ 45 × 9",
+     "The estimate cannot be calculated at all"
+    ],
+    "answer": 0,
+    "explanation": "The calculation gives (60 × 45) ÷ 9 = 300, but the method assumes a stable population. Births and migration break that assumption, so the figure should be treated with caution.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "An ecologist wants to estimate the number of oak trees in a large forest. Which approach is the most sensible?",
+    "options": [
+     "Mark every tree with paint and recapture them",
+     "Count only trees next to the road",
+     "Count one tree and multiply by the area",
+     "Use large randomly placed quadrats, count the trees, find the mean per area and scale up"
+    ],
+    "answer": 3,
+    "explanation": "Trees do not move, so mark-recapture is unsuitable. Random sampling with a mean scaled to the forest area is the standard method.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Ecologists often want to know how many organisms live in an area, but counting every single one is usually impossible. Instead they take samples and use them to estimate the whole population. Good sampling methods give results that are reliable and representative.\n\n## Key terms\n- A **population** is all the individuals of one species in an area at the same time.\n- A **community** is all the populations of different species living together in an area.\n- A **habitat** is the place where an organism lives.\n- A **sample** is a small part of the area that is studied. The results from the sample are used to estimate what is happening in the whole area.\n\n## Sampling plants and slow animals: quadrats\nA **quadrat** is a square frame, often 0.5 m × 0.5 m or 1 m × 1 m. It is placed on the ground and the organisms inside are counted. You can also record the **percentage cover**, which is the part of the quadrat covered by a plant such as grass or moss.\n\nTo avoid bias, quadrats should be placed **randomly**, for example by using random numbers as coordinates on a measured grid. Taking many quadrats and finding a mean makes the estimate more reliable.\n\nWorked example: a field has an area of 800 m². Ten quadrats, each 1 m², have a total count of 60 daisies. Mean = 60 ÷ 10 = 6 per m². Estimated population = 6 × 800 = 4800 daisies.\n\nIf the quadrat is not 1 m², first work out the area. A 0.5 m × 0.5 m quadrat has area 0.25 m². The density is the mean count divided by the quadrat area.\n\n## Sampling across a changing environment: transects\nA **transect** is a line, such as a tape measure, laid across the habitat. Quadrats are placed at regular intervals along the line. This is ideal when conditions change gradually, for example from the sea up a rocky shore, from the edge of a path into a woodland, or from a busy road into a park. The results show a pattern in how species are distributed along the gradient.\n\n## Sampling animals\n- **Pitfall traps** catch ground-living invertebrates such as beetles.\n- **Pooters** suck small insects into a jar.\n- **Sweep nets** are used in long grass and **beating trays** catch insects shaken from branches.\n- **Kick sampling** in streams dislodges animals into a net.\n\n## Mark-release-recapture\nMoving animals cannot be sampled with quadrats. Instead, a first sample is caught, marked harmlessly and released. After time to mix, a second sample is caught. The population is estimated using:\n\nPopulation = (number marked in first sample × total in second sample) ÷ number of marked in second sample.\n\nFor example, 40 mice are marked. The second sample has 30 mice, 5 of them marked. Population = (40 × 30) ÷ 5 = 240.\n\nThis method assumes that marked animals mix freely, that marking does not harm them or make them easier to catch, and that no big changes from births, deaths, immigration or emigration occur between samples. If these assumptions are false, the estimate is unreliable.\n\n## Making it a fair test\nUse the same size quadrat, sample at the same time of day and season, and repeat to find a mean. Look out for anomalies and think about the limits of your method.\n\n## How this is examined\nTypical questions describe a field investigation, perhaps a school playing field or a shoreline, and give counts or a set of mark-recapture figures. You may need to calculate a mean, scale it up using area, justify random sampling, or evaluate the reliability of a result. Command terms such as calculate, suggest and evaluate appear often.\n\nExam tip: When asked why a result might be unreliable, name a specific cause such as a small sample size, non-random placement of quadrats or a broken assumption in the mark-recapture method, and explain what effect it would have.",
+  "flashcards": [
+   {
+    "front": "Population",
+    "back": "All the individuals of one species living in an area at the same time."
+   },
+   {
+    "front": "Quadrat",
+    "back": "A square frame used to sample plants and slow-moving animals in a known area."
+   },
+   {
+    "front": "Why use random sampling?",
+    "back": "To avoid bias so that the sample represents the whole area."
+   },
+   {
+    "front": "Transect",
+    "back": "A line along which samples are taken at regular intervals to show how organisms change across a gradient, such as a shore."
+   },
+   {
+    "front": "Population estimate using quadrats",
+    "back": "Mean number per quadrat area × total area of the habitat, using the same units for both."
+   },
+   {
+    "front": "Mark-release-recapture formula",
+    "back": "Population = (number marked first × total in second sample) ÷ number marked in second sample."
+   },
+   {
+    "front": "Assumptions of mark-recapture",
+    "back": "Marked animals mix randomly, are not harmed, and the population does not change by births, deaths or migration."
+   },
+   {
+    "front": "Pitfall trap",
+    "back": "A pot buried in the ground to catch ground-living invertebrates such as beetles."
+   },
+   {
+    "front": "Why take many samples?",
+    "back": "Larger samples give a mean that is more reliable and reduce the effect of anomalies."
+   }
+  ]
+ },
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Ecosystems and Ecology",
+  "subTopic": "Nutrient cycles",
+  "questions": [
+   {
+    "content": "Which process removes carbon dioxide from the atmosphere?",
+    "options": [
+     "Photosynthesis",
+     "Respiration",
+     "Combustion",
+     "Decomposition"
+    ],
+    "answer": 0,
+    "explanation": "Plants and algae take in CO₂ and use it to make glucose. Respiration, burning and decomposition all release CO₂.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which gas makes up about 78% of the air?",
+    "options": [
+     "Oxygen",
+     "Carbon dioxide",
+     "Argon",
+     "Nitrogen"
+    ],
+    "answer": 3,
+    "explanation": "Nitrogen is the most common gas in air, but most organisms cannot use it directly.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What do we call the process in which water changes from liquid to vapour at the surface of the sea or a lake?",
+    "options": [
+     "Condensation",
+     "Precipitation",
+     "Evaporation",
+     "Runoff"
+    ],
+    "answer": 2,
+    "explanation": "Heat from the Sun causes liquid water to evaporate. Condensation is the opposite change, from vapour to liquid.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which organisms break down dead plants and animals, releasing carbon dioxide and ammonia?",
+    "options": [
+     "Producers",
+     "Decomposers",
+     "Herbivores",
+     "Predators"
+    ],
+    "answer": 1,
+    "explanation": "Bacteria and fungi decompose dead matter. Their respiration releases CO₂, and they release ammonia from proteins.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a fossil fuel?",
+    "options": [
+     "Wood from a living tree",
+     "Coal",
+     "Soil",
+     "Limestone rock"
+    ],
+    "answer": 1,
+    "explanation": "Coal, oil and natural gas formed over millions of years from the remains of living things. Burning them releases stored carbon as CO₂.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which list contains only processes that RELEASE carbon dioxide into the air?",
+    "options": [
+     "Respiration, combustion and decomposition",
+     "Photosynthesis, respiration and combustion",
+     "Photosynthesis and decomposition",
+     "Combustion and photosynthesis"
+    ],
+    "answer": 0,
+    "explanation": "Respiration in living things, burning fuels and decay by microbes all release CO₂. Photosynthesis takes it in.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is the role of nitrogen-fixing bacteria in root nodules of legumes such as peas and clover?",
+    "options": [
+     "They break down dead plants into carbon dioxide",
+     "They turn nitrates into nitrogen gas",
+     "They absorb water for the roots",
+     "They convert nitrogen gas from the air into nitrogen compounds that the plant can use"
+    ],
+    "answer": 3,
+    "explanation": "Nitrogen fixation turns unreactive N₂ into compounds such as ammonium and nitrates. The plant gets nitrogen and the bacteria get sugars.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why do plants need nitrates from the soil?",
+    "options": [
+     "To make starch",
+     "To make cellulose",
+     "To make proteins",
+     "To carry out photosynthesis directly"
+    ],
+    "answer": 2,
+    "explanation": "Proteins contain nitrogen. Plants absorb nitrates through their roots and combine them with sugars to build amino acids and proteins.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which process is carried out by denitrifying bacteria?",
+    "options": [
+     "Converting nitrogen gas into nitrates",
+     "Converting ammonia into proteins",
+     "Converting nitrates in the soil into nitrogen gas",
+     "Converting carbon dioxide into sugar"
+    ],
+    "answer": 2,
+    "explanation": "Denitrification returns nitrogen to the air and reduces the nitrates available to plants. It is most common in waterlogged soil with little oxygen.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A farmer ploughs a field and drains a very wet area. What is the likely effect on the nitrate content of the soil?",
+    "options": [
+     "It will decrease because nitrifying bacteria die",
+     "It will increase because denitrifying bacteria become less active in well-aerated soil",
+     "It will not change",
+     "It will become carbon dioxide"
+    ],
+    "answer": 1,
+    "explanation": "Denitrifying bacteria work best in oxygen-poor, waterlogged soil. Draining and ploughing adds air and cuts nitrate loss.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "What is transpiration?",
+    "options": [
+     "Loss of water vapour from the leaves of plants",
+     "Falling of rain from clouds",
+     "Flow of water over the ground",
+     "Freezing of water in the soil"
+    ],
+    "answer": 0,
+    "explanation": "Water is taken up by roots, moves through the plant and leaves through stomata as vapour. Transpiration returns water to the atmosphere.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which statement about the carbon cycle is correct?",
+    "options": [
+     "Carbon is made by animals and used up by plants",
+     "Carbon leaves the Earth when organisms die",
+     "Carbon moves only in the sea",
+     "Carbon passes from the air to plants, then to animals, and returns to the air through respiration and decay"
+    ],
+    "answer": 3,
+    "explanation": "Carbon is recycled. It is not created or destroyed, but moves between the air, organisms, the soil and fossil fuels.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is crop rotation, where clover is grown one year and wheat the next, useful?",
+    "options": [
+     "Clover removes all pests from the soil",
+     "Wheat fixes nitrogen for clover",
+     "The soil needs a rest from all bacteria",
+     "Clover adds nitrogen compounds to the soil for the wheat"
+    ],
+    "answer": 3,
+    "explanation": "Legumes have nitrogen-fixing bacteria in their root nodules, so the soil is richer in nitrogen compounds for the following crop.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Between 1900 and 2000 the level of atmospheric CO₂ rose faster than in earlier centuries. Which pair of changes best explains this?",
+    "options": [
+     "More photosynthesis by crops and fewer cars",
+     "More decomposition of rocks and more rain",
+     "More burning of fossil fuels and large-scale clearing of forests",
+     "Fewer animals respiring and more oceans"
+    ],
+    "answer": 2,
+    "explanation": "Fossil fuel burning releases carbon stored for millions of years, and deforestation reduces the removal of CO₂ by photosynthesis.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Waterlogged soil has very little oxygen. Which statement correctly describes what happens to the nitrogen in this soil?",
+    "options": [
+     "More nitrogen gas is fixed into nitrate",
+     "More nitrate is converted to nitrogen gas, so less is available to plants",
+     "Plants take up more nitrates",
+     "Ammonia is rapidly turned into carbon dioxide"
+    ],
+    "answer": 1,
+    "explanation": "Denitrifying bacteria thrive without oxygen and convert nitrates into nitrogen gas, so waterlogged fields can lose nitrate and have poorer crops.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which sequence correctly shows how nitrogen in a dead animal can become nitrogen in a plant?",
+    "options": [
+     "Proteins → ammonia (decomposers) → nitrite and nitrate (nitrifying bacteria) → absorbed by roots",
+     "Proteins → nitrogen gas → absorbed by leaves",
+     "Nitrate → ammonia → nitrogen gas → proteins",
+     "Ammonia → carbon dioxide → nitrates → starch"
+    ],
+    "answer": 0,
+    "explanation": "Decomposers release ammonia from the proteins, nitrifying bacteria turn ammonium into nitrites and then nitrates, and plants absorb the nitrates.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A student says, \"The carbon in the CO₂ I breathe out was once in the sugars of a plant.\" Which is the best evaluation of this statement?",
+    "options": [
+     "Correct, because respiration breaks down food that originally came from photosynthesis",
+     "Incorrect, because carbon in breath comes from air only",
+     "Incorrect, because plants contain no carbon",
+     "Correct, because plants breathe out carbon directly into humans"
+    ],
+    "answer": 0,
+    "explanation": "The glucose we respire comes from food, which is ultimately made from CO₂ by photosynthesis. Carbon is recycled through organisms.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "In a sealed jar ecosystem containing a plant, soil and snail, the jar is placed in a dark cupboard for two weeks. What is the most likely change in the jar?",
+    "options": [
+     "CO₂ concentration falls because respiration stops",
+     "Oxygen increases because the plant photosynthesises faster",
+     "Nothing changes because the jar is sealed",
+     "CO₂ concentration rises because respiration continues but photosynthesis stops"
+    ],
+    "answer": 3,
+    "explanation": "In the dark, photosynthesis cannot occur but all the organisms still respire, so CO₂ builds up and oxygen falls. Light energy is needed to keep the cycle balanced.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Atoms such as carbon and nitrogen are not used up in an ecosystem. They are recycled over and over again. Unlike energy, which flows through an ecosystem and is eventually lost as heat, nutrients move in **cycles** between the air, the soil, water and living things. You need to know the carbon cycle, the nitrogen cycle and the water cycle.\n\n## The carbon cycle\nCarbon is the key element of all organic molecules, such as sugars, fats and proteins.\n- **Photosynthesis** removes carbon dioxide (CO₂) from the air. Plants and algae use it to make glucose, so the carbon becomes part of the plant.\n- **Feeding** passes the carbon along food chains as animals eat plants and each other.\n- **Respiration** in plants, animals and microbes releases CO₂ back into the air.\n- **Decomposition** by fungi and bacteria releases CO₂ from dead organisms and waste.\n- **Combustion** (burning) of wood and fossil fuels releases CO₂ quickly.\n- **Fossil fuels** such as coal, oil and gas formed over millions of years from the remains of living things, so they are a store of carbon taken out of the cycle. When we burn them we put that carbon back into the air much faster than natural processes remove it, which contributes to climate change.\n\nA good answer to a carbon cycle question uses the exact words above and always says which direction the carbon is moving.\n\n## The nitrogen cycle\nAbout 78% of the air is nitrogen gas (N₂), but plants and animals cannot use it directly. Plants need nitrates to make proteins and other nitrogen-containing molecules. Animals get their nitrogen by eating plants or other animals.\n- **Nitrogen fixation** turns nitrogen gas into usable compounds. It is carried out by bacteria, some living in nodules on the roots of legumes such as peas, beans and clover, and some living freely in the soil. Lightning also fixes small amounts of nitrogen.\n- **Decomposition (ammonification)**: decomposers break down proteins and urea in dead matter and waste, releasing ammonia.\n- **Nitrification**: nitrifying bacteria convert ammonium compounds into nitrites and then nitrates.\n- **Uptake**: plants absorb nitrates through their roots.\n- **Denitrification**: denitrifying bacteria convert nitrates back into nitrogen gas. They are most active in waterlogged soils with little oxygen.\n\nFarmers use this knowledge. They may grow legumes in rotation with other crops so nitrogen compounds are added to the soil, add fertilisers containing nitrates, and drain and plough heavy soil to reduce denitrification.\n\n## The water cycle\nWater moves between the oceans, air, land and living things.\n- **Evaporation** from oceans, lakes and soil, and **transpiration** from plant leaves, put water vapour into the air.\n- **Condensation** forms clouds as vapour cools into tiny droplets.\n- **Precipitation** (rain, snow, hail) brings water to the ground.\n- **Runoff** and **infiltration** move water over and through the land back to rivers, lakes and the sea.\n\n## Worked example\nA bean plant grows in nitrate-poor soil but stays healthy. Why? The nodules on its roots contain nitrogen-fixing bacteria that supply nitrogen compounds, so the plant can make proteins even though the soil nitrate level is low.\n\n## Common mistakes\n- Saying plants take in nitrogen gas. They take in nitrates.\n- Mixing up nitrogen fixation (gas to compounds) with denitrification (nitrates to gas).\n- Saying that burning \"uses up\" carbon. It only changes its form and location.\n\n## How this is examined\nQuestions often show a cycle diagram with missing labels, or ask you to explain what would happen to a nutrient if something changes, such as a field is flooded or forests are cut down. You may also interpret data on CO₂ levels over time. Use the key words and say where each substance goes.\n\nExam tip: In a cycle question, name the process, the organisms involved and the form of the element (for example CO₂, nitrate or ammonia) at each stage, and always state the direction of movement.",
+  "flashcards": [
+   {
+    "front": "Carbon cycle: processes that remove CO₂",
+    "back": "Photosynthesis removes CO₂ from the air. Plants and algae use it to make glucose."
+   },
+   {
+    "front": "Carbon cycle: processes that add CO₂",
+    "back": "Respiration, decomposition and combustion release CO₂ into the atmosphere."
+   },
+   {
+    "front": "Fossil fuels",
+    "back": "Coal, oil and gas formed from ancient living things. Burning them releases stored carbon as CO₂."
+   },
+   {
+    "front": "Nitrogen fixation",
+    "back": "Conversion of nitrogen gas into usable nitrogen compounds by bacteria (for example in legume root nodules) and by lightning."
+   },
+   {
+    "front": "Nitrification",
+    "back": "Nitrifying bacteria convert ammonium compounds into nitrites and then nitrates."
+   },
+   {
+    "front": "Denitrification",
+    "back": "Denitrifying bacteria convert nitrates into nitrogen gas, mainly in waterlogged, low-oxygen soil."
+   },
+   {
+    "front": "Why do plants need nitrates?",
+    "back": "To make amino acids and proteins, which contain nitrogen."
+   },
+   {
+    "front": "Transpiration",
+    "back": "The loss of water vapour from the leaves of plants, mainly through stomata."
+   },
+   {
+    "front": "Water cycle stages",
+    "back": "Evaporation and transpiration, condensation, precipitation, then runoff and infiltration back to rivers and the sea."
+   }
+  ]
+ },
+ {
+  "subject": "biology",
+  "grade": 4,
+  "topic": "Ecosystems and Ecology",
+  "subTopic": "Human impact and conservation",
+  "questions": [
+   {
+    "content": "What is deforestation?",
+    "options": [
+     "The clearing of forests, usually permanently",
+     "The planting of new forests",
+     "The burning of coal",
+     "The overgrowth of weeds"
+    ],
+    "answer": 0,
+    "explanation": "Deforestation removes large areas of trees, for example for farming, building or timber.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of these is a greenhouse gas released by human activity?",
+    "options": [
+     "Nitrogen",
+     "Oxygen",
+     "Argon",
+     "Carbon dioxide"
+    ],
+    "answer": 3,
+    "explanation": "CO₂ from burning fossil fuels traps heat in the atmosphere, as do methane and nitrous oxide.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What does conservation mean?",
+    "options": [
+     "Using up resources as fast as possible",
+     "Moving all animals to zoos",
+     "Protecting and managing species and habitats so they are not lost",
+     "Building new cities in forests"
+    ],
+    "answer": 2,
+    "explanation": "Conservation aims to protect biodiversity and manage resources sustainably.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "What is an endangered species?",
+    "options": [
+     "A species that is extinct",
+     "A species at risk of becoming extinct",
+     "A species that lives in only one country",
+     "A species that is a predator"
+    ],
+    "answer": 1,
+    "explanation": "Endangered species have very low or falling numbers and may die out unless they are protected.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which activity is an example of overfishing?",
+    "options": [
+     "Catching only adult fish",
+     "Catching fish faster than they can breed to replace themselves",
+     "Releasing young fish back",
+     "Fishing in a lake once a year"
+    ],
+    "answer": 1,
+    "explanation": "Overfishing leaves too few fish to reproduce, so the population falls.",
+    "difficulty": "easy"
+   },
+   {
+    "content": "Which of the following is a direct result of deforestation?",
+    "options": [
+     "Loss of habitat for many species",
+     "More carbon dioxide taken in",
+     "Increase in biodiversity",
+     "Colder temperatures everywhere"
+    ],
+    "answer": 0,
+    "explanation": "Trees provide food and shelter for many species. Removing them destroys habitats and reduces biodiversity.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Farmers spread fertiliser containing nitrates on a field next to a river. Heavy rain washes some of it into the river. Which process describes the damage that may follow?",
+    "options": [
+     "Photosynthesis",
+     "Condensation",
+     "Nitrogen fixation",
+     "Eutrophication"
+    ],
+    "answer": 3,
+    "explanation": "Extra nutrients in water cause algae to grow rapidly, which can lead to oxygen depletion and the death of fish.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which is the correct sequence for eutrophication?",
+    "options": [
+     "Algal bloom → fertiliser runoff → fish die → more oxygen",
+     "Oxygen increases → fish increase → algae die",
+     "Fertiliser runoff → algal bloom → light blocked and plants die → decomposers use oxygen → fish die",
+     "Fertiliser runoff → plants grow better → more oxygen → fish increase"
+    ],
+    "answer": 2,
+    "explanation": "After the bloom, dead algae and plants are decomposed by bacteria that respire and use up the dissolved oxygen.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "How does burning fossil fuels contribute to the enhanced greenhouse effect?",
+    "options": [
+     "It removes ozone from the air",
+     "It reduces the amount of light from the Sun",
+     "It releases extra CO₂ that traps more heat in the atmosphere",
+     "It adds nitrogen to the sea"
+    ],
+    "answer": 2,
+    "explanation": "Greenhouse gases absorb and re-emit thermal radiation. More of them means more heat is retained, causing global warming.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which conservation method involves storing seeds at low temperature for the future?",
+    "options": [
+     "A captive breeding programme",
+     "A seed bank",
+     "A national park",
+     "A fishing quota"
+    ],
+    "answer": 1,
+    "explanation": "Seed banks keep seeds safe from extinction, disease and disaster so they can be grown again.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "A nature reserve is created around a forest where rare orangutans live. Which benefit is MOST direct?",
+    "options": [
+     "The habitat is protected so the population has space and food",
+     "The orangutans can be sold",
+     "The forest can be cleared for farms",
+     "The soil becomes more fertile"
+    ],
+    "answer": 0,
+    "explanation": "Protected areas limit hunting, logging and building, which gives species a safe habitat.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Which of these is an example of an invasive species causing harm?",
+    "options": [
+     "A native bird eating seeds",
+     "A native bee pollinating flowers",
+     "A tree growing in its natural forest",
+     "A non-native rabbit that eats native plants and has no natural predators"
+    ],
+    "answer": 3,
+    "explanation": "Invasive species spread quickly outside their native range, compete with local species and can cause extinctions.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Why is a fishing quota used?",
+    "options": [
+     "To encourage catching more fish",
+     "To make fish more expensive",
+     "To protect the boats",
+     "To limit the number or mass of fish that can be caught so stocks can recover"
+    ],
+    "answer": 3,
+    "explanation": "Quotas set a maximum catch per boat or country. Together with net-size rules, they help to keep fish populations sustainable.",
+    "difficulty": "medium"
+   },
+   {
+    "content": "Over 20 years, a rainforest of 10 000 km² loses 2% of its area each year. Which statement is correct about the area remaining after 20 years if the same area is lost each year (2% of the original)?",
+    "options": [
+     "9600 km²",
+     "7000 km²",
+     "6000 km²",
+     "4000 km²"
+    ],
+    "answer": 2,
+    "explanation": "2% of 10 000 = 200 km² per year. Over 20 years, 200 × 20 = 4000 km² is lost, leaving 10 000 − 4000 = 6000 km².",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A lake receives sewage rich in nitrates. Scientists record: Year 1 oxygen 9 mg/L, algae low; Year 3 oxygen 4 mg/L, algae very high; Year 5 oxygen 1 mg/L, no fish. Which conclusion is best supported?",
+    "options": [
+     "Fish caused the increase in algae",
+     "The nutrient input caused algal growth, and later decomposition used up the oxygen",
+     "Oxygen rose because algae photosynthesise at night",
+     "The nitrates were removed by fish"
+    ],
+    "answer": 1,
+    "explanation": "The data link rising algae to falling oxygen. Dead algae are decomposed by microbes that use oxygen, so fish die. It is a correlation supported by the known mechanism.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A company says it plants one tree for every tree it cuts, so it is sustainable. Which is the strongest criticism?",
+    "options": [
+     "A young plantation of one species supports far fewer species than the original forest and takes decades to grow",
+     "Trees do not take in carbon dioxide",
+     "Planting trees increases deforestation",
+     "Replanting always lowers biodiversity to zero"
+    ],
+    "answer": 0,
+    "explanation": "Replanting helps, but a plantation usually has lower biodiversity and takes time to absorb as much CO₂ as mature forest.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "Which combination best shows how overfishing could cause a food web to collapse?",
+    "options": [
+     "Removal of a top predator fish allows its prey to increase and overgraze the producers",
+     "Removal of fish increases the number of fish",
+     "Overfishing adds nutrients to the sea",
+     "Overfishing makes plankton produce less oxygen directly"
+    ],
+    "answer": 0,
+    "explanation": "Because species are linked, removing a predator can change prey numbers and affect producers further down the web.",
+    "difficulty": "hard"
+   },
+   {
+    "content": "A government wants to reduce its country's contribution to global warming. Which option would be MOST effective in the long term?",
+    "options": [
+     "Plant a few trees in a city park only",
+     "Make cars bigger",
+     "Switch off street lights at noon",
+     "Move from fossil fuels to renewable energy and protect existing forests"
+    ],
+    "answer": 3,
+    "explanation": "Cutting emissions at source and keeping carbon stores intact have the biggest long-term effect. Small actions help but are not enough alone.",
+    "difficulty": "hard"
+   }
+  ],
+  "note": "Humans have changed the Earth more than any other species. As the human population has grown, we have used more land, water, food and energy. Many of these changes harm other living things and the environments they depend on. In MYP Biology you need to understand the main impacts, why they matter and how people try to reduce the damage through conservation.\n\n## Major human impacts\n- **Habitat destruction** means clearing land for farming, housing, roads, mines and timber. **Deforestation** removes trees that shelter animals, store carbon, hold soil in place and release water vapour. Habitat loss is the biggest cause of species decline.\n- **Pollution**:\n  - Air pollution from burning fossil fuels releases carbon dioxide, sulfur dioxide and other gases.\n  - Water pollution from sewage, fertilisers and chemicals harms aquatic life.\n  - Land pollution from waste and plastics can last for hundreds of years.\n- **Overexploitation** such as **overfishing** and hunting removes organisms faster than they can reproduce.\n- **Invasive species** are non-native organisms introduced by people. They may outcompete or eat local species and have no natural predators.\n- **Climate change**: burning fossil fuels and deforestation raise CO₂ in the air. Greenhouse gases such as carbon dioxide and methane absorb heat radiated from the Earth, strengthening the natural greenhouse effect, so average global temperatures rise. This changes weather patterns, melts ice, raises sea levels and forces species to move or die.\n\n## Eutrophication\nFertilisers and sewage contain nitrates and phosphates. When they are washed into rivers and lakes the following happens:\n1. Algae grow very quickly, forming an algal bloom.\n2. The bloom blocks light so plants below die.\n3. Dead algae and plants are decomposed by bacteria.\n4. The bacteria use up dissolved oxygen in respiration.\n5. Fish and other animals suffocate.\n\n## Bioaccumulation\nToxic chemicals such as certain pesticides are not broken down and build up as they pass along food chains. Top predators receive the highest doses.\n\n## Conservation methods\nConservation is the protection and management of species and ecosystems. Methods include:\n- **Protected areas** such as national parks and marine reserves.\n- **Captive breeding** in zoos, then reintroducing animals to the wild.\n- **Seed banks** that store seeds of many plants at low temperature.\n- **Laws and quotas** to limit hunting, fishing, logging and trade in endangered species.\n- **Education and ecotourism**, which gives local people a reason to protect wildlife.\n- **Restoration and reforestation** to repair damaged habitats.\n- **Sustainable development**, using resources so future generations can also meet their needs.\n\n## Worked example\nA forest of 8000 km² loses 1.5% of its area each year for 10 years (1.5% of the original each year). Loss per year = 0.015 × 8000 = 120 km². After 10 years = 1200 km² lost, so 6800 km² remains.\n\n## Evaluating conservation\nA good answer weighs benefits against limitations. A national park protects habitat but needs money and enforcement. Captive breeding can save a species but needs a suitable habitat to return to. Solutions often work best together.\n\n## How this is examined\nExpect a case study about a rainforest, coral reef or lake, often with a graph or table. You may need to describe a trend, link a human activity to an environmental effect with scientific reasoning, and evaluate a proposed solution.\n\nExam tip: When asked to explain an impact, link three steps: the human activity, the change in the environment, and the effect on organisms. When asked to evaluate a solution, give at least one advantage and one limitation.",
+  "flashcards": [
+   {
+    "front": "Deforestation",
+    "back": "The clearing of large areas of forest, which destroys habitats, reduces biodiversity and removes a store of carbon."
+   },
+   {
+    "front": "Greenhouse gases",
+    "back": "Gases such as carbon dioxide and methane that absorb heat radiated from Earth and keep the atmosphere warmer."
+   },
+   {
+    "front": "Eutrophication",
+    "back": "Excess nutrients in water cause an algal bloom. Decomposers then use up oxygen and fish die."
+   },
+   {
+    "front": "Bioaccumulation",
+    "back": "The build-up of a persistent chemical in organisms, with higher concentrations in organisms higher up the food chain."
+   },
+   {
+    "front": "Invasive species",
+    "back": "A non-native species introduced by people that spreads and harms native species."
+   },
+   {
+    "front": "Overfishing",
+    "back": "Catching fish faster than they can reproduce, so stocks fall."
+   },
+   {
+    "front": "Fishing quota",
+    "back": "A limit on how much fish can be caught, helping stocks recover."
+   },
+   {
+    "front": "Captive breeding",
+    "back": "Breeding endangered animals in zoos or reserves, often to release them into the wild later."
+   },
+   {
+    "front": "Sustainable development",
+    "back": "Using resources in a way that meets present needs without harming the ability of future generations to meet theirs."
+   }
+  ]
+ }
+]

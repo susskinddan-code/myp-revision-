@@ -80,3 +80,10 @@ Done to flagship depth: Physics MYP 4 and Physics MYP 5 (55 sub-topics each). MY
 - 11 interactive-widget papers in `content/papers-widgets/` (load.sql); Biology MYP 4 in `content/biology-myp4/` (33 sub-topics, SQL in `sql/`); accuracy fixes in `content/fixes/` and `content/review/` — run order in `content/review/RUN-THESE-IN-ORDER.md`
 - Tests: `npx tsx scripts/test-*.mts`, `node scripts/validate-widget-papers.mjs`, `node scripts/check-paper-sizes.mjs`. QA reports in `content/review/QA-round*.md`. Lint ignores generated `src/integrations/supabase/**` and `src/components/ui/**`
 - Known open (Low): daily-quota exhaustion message wording, 60-min mix can run 65 min, tone-number pinyin rejected offline, dev-only React warning on direct /dashboard load
+
+## eAssessment completion (2026-10-16)
+
+- Interactive widget papers 61-79 (19) cover every eAssessment area (`content/papers-widgets/`, load with `load.sql`, regenerate via `node scripts/papers-to-sql.mjs content/papers-widgets > content/papers-widgets/load.sql`). Language/IDL papers verified (`content/review/widget-papers-72-79-verification.md`); a native-speaker skim of French/Spanish/Mandarin is still advisable
+- Area copy in `src/lib/eassessment.ts` corrected from IB sources (`content/review/eassessment-format-research.md`): Language acquisition 120 min; formula sheet is a revision aid; no listening/audio, no on-screen graphing calculator, no multi-extract L&L view yet
+- Migration 0009: separate AI allowance buckets (`check` vs `exam`), apply after 0008. Stated exam minutes are a hard cap (`src/lib/exam-fit.ts`). Subject and tab are in the URL for /eassessment/$area; saved exams (sessionStorage) resume across subjects
+- QA reports `content/review/QA-round5-report.md`; migrations 0006-0009 were run clean twice in PGlite

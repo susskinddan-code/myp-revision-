@@ -1,0 +1,39 @@
+[
+ {
+  "subject": "french-ab-initio",
+  "grade": 5,
+  "format": "widget-practice",
+  "title": "French ab initio MYP 5 Interactive Practice 1 (4 tasks, 28 marks)",
+  "criterion": null,
+  "questions": [
+   {
+    "marks": 7,
+    "criterion": "B",
+    "content": "[[Q 1 | B 7]]\nTâche 1 : Lire un message (Task 1: reading a message). Lis le message de Léa (Read Léa's message), puis réponds (then answer).\n\nSalut Tom !\nSamedi, c'est mon anniversaire : j'ai quatorze ans ! Je fais une fête chez moi à quatre heures. J'habite au 12, rue des Fleurs, près du parc. Mon frère Lucas prépare un gâteau au chocolat. Tu peux venir ? Apporte ta guitare, s'il te plaît !\nÀ bientôt,\nLéa\n\nChoisis la bonne réponse (Choose the correct answer).\n(a) La fête est {{select|a1|vendredi|samedi|dimanche}}. (1 mark)\n(b) La fête commence à {{select|a2|trois heures|quatre heures|cinq heures}}. (1 mark)\n(c) Léa habite {{select|a3|près du parc|près de l'école|près du cinéma}}. (1 mark)\n(d) Qui prépare le gâteau ? {{select|a4|Lucas|Tom|Léa}} (1 mark)\n(e) « Léa a quinze ans. » Vrai ou faux ? {{select|a5|Vrai|Faux}} (1 mark)\n(f) What does Léa ask Tom to bring? Answer in English. (1 mark)\n(g) Find the French word in the message that means \"party\". Write it. (1 mark)\n\nTotal for Question 1: 7 marks",
+    "mark_scheme": "(a) Interactive answer [a1] = samedi [1]. (b) [a2] = quatre heures [1]. (c) [a3] = près du parc [1]. (d) [a4] = Lucas [1]. (e) [a5] = Faux [1] (Léa is fourteen: quatorze ans). (f) His guitar [1]. (g) fête [1] (accept 'une fête' or 'la fête'; do not accept 'anniversaire', which means birthday).",
+    "position": 1
+   },
+   {
+    "marks": 7,
+    "criterion": "B",
+    "content": "[[Q 2 | B 5 | C 2]]\nTâche 2 : Un sondage (Task 2: a survey). Dans la classe de 3B, on pose la question : « Quel est ton passe-temps préféré ? » (In class 3B the question is: What is your favourite pastime?)\n\n{{chart|bar|Le passe-temps préféré des élèves de 3B|Passe-temps|Nombre d'élèves|les jeux vidéo:11,le foot:9,le cinéma:7,la musique:6,la lecture:4}}\n\n(a) Complète le tableau (Complete the table). Écris le passe-temps dans la première colonne et le nombre d'élèves dans la deuxième colonne, pour les trois passe-temps les plus populaires, du plus populaire au moins populaire. (3 marks)\n{{fill|h1|Passe-temps,Nombre d'élèves|3}}\n(b) Le passe-temps le moins populaire est {{select|h2|la lecture|la musique|le cinéma}}. (1 mark)\n(c) Six élèves préfèrent {{select|h3|la musique|le foot|la lecture}}. (1 mark)\n(d) Écris une phrase en français : quel est ton passe-temps préféré ? (Write one sentence in French about your favourite pastime.) Par exemple : « J'aime nager. » (2 marks)\n\nTotal for Question 2: 7 marks",
+    "mark_scheme": "(a) Interactive answer [h1] rows in order: (les jeux vidéo, 11), (le foot, 9), (le cinéma, 7). Accept the hobby with or without its article, 'football' for 'le foot', and 'jeux vidéo' or 'jeux video'. One mark for each correct row [1] [1] [1]. (b) Interactive answer [h2] = la lecture [1] (4 students). (c) [h3] = la musique [1] (6 students). (d) A clear sentence about a pastime, with a subject and verb or a structure such as 'Mon passe-temps préféré, c'est ...' [1]; correct spelling, article or verb form for the hobby chosen, for example 'J'aime le tennis' or 'Je joue au tennis' [1]. Accept any real hobby; do not reward a copy of the example alone.",
+    "position": 2
+   },
+   {
+    "marks": 7,
+    "criterion": "C",
+    "content": "[[Q 3 | B 3 | C 4]]\nTâche 3 : Les mots et la grammaire (Task 3: words and grammar).\n\n(a) Associe chaque mot français à son sens en anglais (Match each French word to its English meaning). Un sens en anglais est en trop (One English meaning is not needed). (3 marks)\n{{drag|m1|le fromage,la pomme,le pain|cheese,apple,bread,meat}}\n\n(b) Complète les phrases avec la bonne forme (Complete the sentences with the correct form). (4 marks)\n1. Je {{select|g1|mange|manges|mangent}} un sandwich.\n2. Nous {{select|g2|buvons|boit|boivent}} de l'eau.\n3. Ma sœur {{select|g3|est|ai|a}} douze ans.\n4. Tu veux {{select|g4|un|une|des}} salade ?\n\nTotal for Question 3: 7 marks",
+    "mark_scheme": "(a) Interactive answer [m1]: le fromage = cheese [1]; la pomme = apple [1]; le pain = bread [1]. 'meat' is a distractor. (b) Interactive answers [g1] = mange [1] (je takes the -e form); [g2] = buvons [1] (nous form of boire); [g3] = a [1] (avoir is used for age: elle a douze ans); [g4] = une [1] (salade is feminine).",
+    "position": 3
+   },
+   {
+    "marks": 7,
+    "criterion": "C",
+    "content": "[[Q 4 | C 7]]\nTâche 4 : Écrire un message (Task 4: writing a message). Tu réponds au message de Léa de la Tâche 1 (You are replying to Léa's message from Task 1).\n\n(a) Choisis la bonne formule pour commencer ton message (Choose the correct way to begin your message). {{select|w1|Chère Léa|Cher Léa|Chers Léa}} (1 mark)\n\n(b) Écris ta réponse en français, environ 30 à 40 mots (Write your reply in French, about 30 to 40 words). Dans ton message : (6 marks)\n- remercie Léa pour l'invitation (thank Léa for the invitation) ;\n- dis si tu peux venir samedi (say if you can come on Saturday) ;\n- dis ce que tu apportes (say what you will bring) ;\n- pose une question à Léa (ask Léa a question).\n\nTotal for Question 4: 7 marks",
+    "mark_scheme": "(a) Interactive answer [w1] = Chère Léa [1] (Léa is a girl, so the adjective is feminine singular). (b) Communication of the four points: thanks, whether you can come, what you bring, a question to Léa: all four clear [2]; two or three clear earns 1 mark instead. Vocabulary: appropriate words for the topic (for example merci, venir, apporter, gâteau, cadeau, quand, où) used correctly [1]. Language accuracy: verb forms and agreements are mostly correct in simple sentences (for example je peux venir, j'apporte) [2]; some correct forms with frequent errors earns 1 mark instead. Spelling, accents, capital letters, punctuation and a closing formula such as 'À bientôt' [1]. Maximum 6 marks for part (b). If the reply is under 15 words, award no more than 3 marks in total for part (b).",
+    "position": 4
+   }
+  ]
+ }
+]

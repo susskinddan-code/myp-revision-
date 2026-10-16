@@ -1,0 +1,39 @@
+[
+  {
+    "subject": "interdisciplinary-learning",
+    "grade": 5,
+    "format": "widget-practice",
+    "title": "Interdisciplinary Learning MYP 5 Interactive Practice 1 (4 tasks, 28 marks)",
+    "criterion": null,
+    "questions": [
+      {
+        "position": 1,
+        "marks": 7,
+        "criterion": "A",
+        "content": "[[Q 1 | A 7]]\nTHEME: Selmer Bay, a coast under pressure (Sciences and Individuals and societies)\nSelmer Bay is a fictional village of 900 people on a cliff of clay and sand. The bar chart shows how far the cliff edge moved back each year. At the start of 2024 the coast road is 24 m from the cliff edge.\n{{chart|bar|Cliff retreat at Selmer Bay (m per year)|Year|Retreat (m)|2019:0.8,2020:1.1,2021:1.0,2022:1.6,2023:1.5}}\n(a) Calculate the mean retreat per year from 2019 to 2023. (2 marks)\n(b) Assume the mean retreat continues. Plot the distance from the cliff edge to the road at 0, 5, 10, 15 and 20 years after the start of 2024. (2 marks)\n{{plot|p1|0,20,0,24|Years after start of 2024|Distance to road (m)}}\n(c) The two fastest years, 2022 and 2023, followed winters with many storms. Use ideas about waves and about clay to explain why storms speed up cliff retreat. (2 marks)\n(d) At the mean rate the road is reached after {{select|a1|15|20|25}} years. (1 mark)\n\nTotal for Question 1: 7 marks",
+        "mark_scheme": "(a) Sum 0.8 + 1.1 + 1.0 + 1.6 + 1.5 = 6.0 [1]; 6.0 / 5 = 1.2 m per year [1]. (b) Interactive answer [p1]: points (0, 24), (5, 18), (10, 12), (15, 6), (20, 0) (distance falls 6 m every 5 years). At least three points correct [1]; all five correct [1]. (c) Storm waves are higher and carry more energy, so they erode the cliff base faster (hydraulic action, abrasion) and undercut the cliff so the top collapses [1]. Heavy rain fills the spaces between clay particles, which adds weight and makes the clay weaker and slippery, so it slumps [1]. (d) Interactive answer [a1] = 20 (24 / 1.2) [1]."
+      },
+      {
+        "position": 2,
+        "marks": 7,
+        "criterion": "A",
+        "content": "[[Q 2 | A 7]]\nThe council gathered different kinds of evidence. (a) For each statement choose the subject group that mainly supplies that idea or evidence. (4 marks)\n1. Waves with more energy remove more material from the cliff base: {{select|s1|Sciences|Individuals and societies}}\n2. Many residents are over 65 and could not afford to move if their homes were lost: {{select|s2|Sciences|Individuals and societies}}\n3. Wet clay becomes heavy and weak, so it slumps: {{select|s3|Sciences|Individuals and societies}}\n4. Residents disagree about whether the council or homeowners should pay for defences: {{select|s4|Sciences|Individuals and societies}}\n(b) Match each stakeholder to the concern they are most likely to raise about building defences. (3 marks)\n{{drag|m1|Cliff-top homeowner,Harbour boat owner,Nature reserve warden|Fear of losing a home before compensation is agreed,Silting of the harbour mouth if sand movement is blocked,Loss of nesting sites on the cliff face and beach,Cheaper bus fares to town}}\n\nTotal for Question 2: 7 marks",
+        "mark_scheme": "(a) Interactive answers: [s1] = Sciences [1]; [s2] = Individuals and societies [1]; [s3] = Sciences [1]; [s4] = Individuals and societies [1]. (b) Interactive answer [m1]: Cliff-top homeowner = fear of losing a home before compensation is agreed [1]; Harbour boat owner = silting of the harbour mouth if sand movement is blocked [1]; Nature reserve warden = loss of nesting sites on the cliff face and beach [1]. 'Cheaper bus fares to town' is a distractor."
+      },
+      {
+        "position": 3,
+        "marks": 7,
+        "criterion": "B",
+        "content": "[[Q 3 | A 3 | B 4]]\nThe council can protect the 600 m of cliff with one of three options.\nRock armour: large boulders at the cliff base absorb wave energy. Cost 2 400 000 pounds; lasts 40 years.\nBeach nourishment: pumped sand makes a wider beach that absorbs waves, but waves carry the sand away, so it is repeated every 3 years. Cost 450 000 pounds each time.\nTimber groynes: wooden barriers across the beach trap sand moving along the shore (longshore drift). Cost 900 000 pounds; last 30 years. Beaches further along the coast then receive less sand and may erode faster.\n(a) Complete the table with the cost per year of each option, in pounds. (3 marks)\n{{fill|f1|Option,Cost per year (pounds)|3}}\n(b) Recommend one option. Justify it using one scientific idea AND one idea about people or money. (4 marks)\n\nTotal for Question 3: 7 marks",
+        "mark_scheme": "(a) Interactive answer [f1] rows: (Rock armour, 60 000), (Beach nourishment, 150 000), (Timber groynes, 30 000). Working: 2 400 000 / 40; 450 000 / 3; 900 000 / 30. Each correct row [1] [1] [1]. (b) Any option is acceptable if the reasoning is sound. Accurate scientific idea, for example boulders absorb wave energy, sand absorbs energy but is moved away, or groynes trap sediment carried by longshore drift [1]; links that idea to stopping cliff retreat or to a side effect [1]; accurate idea about people or money, for example cost per year, who pays, homes protected, or neighbours downdrift [1]; combines both into a decision that weighs one drawback [1]."
+      },
+      {
+        "position": 4,
+        "marks": 7,
+        "criterion": "D",
+        "content": "[[Q 4 | D 5 | C 2]]\n(a) Measurements of cliff retreat alone cannot tell the council which option to choose because {{select|d1|they cannot show whose losses matter most|they are always inaccurate|waves cannot be measured}}. (1 mark)\n(b) Explain one limit of planning the defences using only the views of residents. (2 marks)\n(c) Describe one thing you understood better by combining Sciences and Individuals and societies than by using either one alone. (2 marks)\n(d) Write a notice of no more than 40 words for villagers that states the option you recommend and one reason, in clear plain language. (2 marks)\n\nTotal for Question 4: 7 marks",
+        "mark_scheme": "(a) Interactive answer [d1] = they cannot show whose losses matter most [1]. (b) Residents' views cannot show how fast the cliff retreats or how well a defence will work [1]; views may be shaped by self-interest or limited information, so they need measurements to test them [1]. (c) A specific gain, for example the retreat data showed when the road is at risk while the stakeholder views showed who would be hurt and what would be accepted [1]; explains how the two together gave a better understanding than either alone [1]. (d) Names the recommended option and gives one reason [1]; plain, clear, within about 40 words and suitable for villagers [1]."
+      }
+    ]
+  }
+]

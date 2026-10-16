@@ -238,7 +238,7 @@ function Dashboard() {
         >
           <span>
             <span className="flex items-center gap-1.5 text-xs uppercase tracking-wide text-muted-foreground">
-              <CalendarDays className="size-3.5" /> {daysToMaySession()} days to 1 May
+              <CalendarDays className="size-3.5" /> {daysToMaySession()} days to May
             </span>
             <span className="mt-1 block font-display text-xl">Practise your eAssessment</span>
           </span>

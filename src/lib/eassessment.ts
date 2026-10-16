@@ -1,9 +1,14 @@
 import { accuracyToMypLevel } from "@/lib/myp";
 
 /**
- * MYP eAssessment (on-screen exams, sat at the end of MYP 5 / Grade 10).
- * Durations follow the IB's published session format; the IB sets the exact
- * date, session and boundaries each session, so those are always labelled as such.
+ * MYP eAssessment (on-screen exams, sat in the final year of the MYP / MYP 5 / Grade 10).
+ * Facts here follow the IB's public pages (ibo.org "On-screen examinations", the MYP subject
+ * briefs and the MYP awards brief); see content/review/eassessment-format-research.md for
+ * sources. The IB publicly states "2-hour" on-screen exams in one place and "between 1 hour
+ * 45 minutes and 2 hours" in another, so every area uses 120 minutes as the safe full length.
+ * Sessions run in May or November (school's choice). The IB sets the exact dates and grade
+ * boundaries each session, so those are always labelled as such. Task structures below are
+ * taken from the IB's published blueprints and can change, so wording stays cautious.
  */
 export type EArea = {
   key: string;
@@ -27,11 +32,12 @@ export const EASSESSMENT_AREAS: EArea[] = [
       "french-language-and-literature",
       "spanish-language-and-literature",
     ],
-    blurb: "Read unseen texts, analyse how writers create meaning, and write a response.",
+    blurb:
+      "Analyse and compare text extracts shown on screen, then write a piece of your own. Criteria: analysing, organizing, producing text, using language.",
     looksLike: [
-      "Unseen texts are shown on screen and you answer in your own words",
-      "Questions target analysing texts, organising ideas, producing text and using language",
-      "Command terms such as analyse, explain and discuss decide how deep to go",
+      "A 2-hour on-screen exam, usually in two tasks: an analysis task on two extracts, then a longer creative writing task (the analysis task carries fewer marks than the writing task)",
+      "Criteria assessed: A Analysing, B Organizing, C Producing text, D Using language",
+      "You type your answers. Accuracy of language and clear organisation are marked in both tasks",
     ],
     bg: "bg-language-literature",
   },
@@ -40,11 +46,12 @@ export const EASSESSMENT_AREAS: EArea[] = [
     name: "Individuals & Societies",
     minutes: 120,
     slugs: ["history", "geography", "economics"],
-    blurb: "Work with sources and data, explain causes and effects, and build an argument.",
+    blurb:
+      "Work with written and rich-media sources, answer investigation questions, then write an extended response in History, Geography or Integrated humanities.",
     looksLike: [
-      "Source-based and case-study questions in your chosen discipline",
-      "Questions target knowing and understanding, investigating, communicating and thinking critically",
-      "Evidence matters: name a source, quote or figure, then explain it",
+      "A 2-hour on-screen exam, usually in three tasks: engaging with sources, an investigation with structured questions, and an extended response (the extended response is worth the most marks)",
+      "Criteria assessed: A Knowing and understanding, B Investigating, C Communicating, D Thinking critically",
+      "Source tasks reward judging origin, purpose, value and limitations, and spotting counter-claims. Name the source, then explain it",
     ],
     bg: "bg-individuals-societies",
   },
@@ -53,11 +60,12 @@ export const EASSESSMENT_AREAS: EArea[] = [
     name: "Sciences",
     minutes: 120,
     slugs: ["physics", "chemistry", "biology", "integrated-science", "environmental-systems"],
-    blurb: "Apply scientific knowledge, read data and experiments, and explain what is happening.",
+    blurb:
+      "Show scientific knowledge, plan and evaluate investigations with data, and apply science to real-life issues.",
     looksLike: [
-      "Questions on knowledge, experiment design, data and evaluating methods",
-      "Questions target knowing and understanding, inquiring and designing, processing and evaluating",
-      "Units, labelled graphs and 'explain why' answers pick up the marks",
+      "A 2-hour on-screen exam in three tasks: knowing and understanding (about a quarter of the marks), investigation skills (about half) and applying science (about a quarter)",
+      "Criteria assessed: A Knowing and understanding, B Inquiring and designing, C Processing and evaluating, D Reflecting on the impacts of science",
+      "Investigation tasks ask you to form hypotheses, plan methods, handle and interpret data and evaluate. Units, labelled graphs and 'explain why' answers pick up marks",
     ],
     bg: "bg-sciences",
   },
@@ -66,24 +74,26 @@ export const EASSESSMENT_AREAS: EArea[] = [
     name: "Mathematics",
     minutes: 120,
     slugs: ["standard-mathematics", "extended-mathematics"],
-    blurb: "Number, algebra, geometry, statistics and probability, in standard or extended form.",
+    blurb:
+      "Know and use methods, investigate patterns, and apply mathematics to real-life situations, in standard or extended form.",
     looksLike: [
-      "Calculation and problem-solving questions, with and without context",
-      "Questions target knowing and understanding, investigating patterns, communicating and real-world application",
-      "Show every step, because method marks are real marks",
+      "A 2-hour on-screen exam in three tasks: knowing and understanding, investigating patterns, and applying mathematics in real-life contexts (each task is worth roughly a third of the marks)",
+      "Criteria assessed: A Knowing and understanding, B Investigating patterns, C Communicating, D Applying mathematics in real-life contexts. Communicating is marked across all three tasks",
+      "The IB lists an on-screen graphing calculator among the exam tools. Show every step and state your reasoning, because communication is marked throughout",
     ],
     bg: "bg-mathematics",
   },
   {
     key: "language-acquisition",
     name: "Language Acquisition",
-    minutes: 105,
+    minutes: 120,
     slugs: ["french-ab-initio", "spanish-ab-initio", "mandarin-ab-initio"],
-    blurb: "Reading and listening comprehension, plus writing, in your additional language.",
+    blurb:
+      "Listening, reading and writing tasks on multimedia texts in your additional language. Speaking is assessed separately by your teacher.",
     looksLike: [
-      "Shorter on-screen exam: 1 hour 45 minutes",
-      "A separate teacher-run speaking assessment sits alongside it",
-      "Read the whole task first, then answer in full sentences in the target language",
+      "An on-screen exam of up to 2 hours (the IB gives a range of 1 hour 45 minutes to 2 hours), usually in three tasks: listening, reading and writing",
+      "Criteria: A Listening, B Reading, D Writing are in the on-screen exam. C Speaking is a separate interactive task marked by your teacher and moderated by the IB",
+      "The IB offers on-screen Language Acquisition exams for certain phases and levels only, so check with your school which one applies to you. The ab initio practice on this site mirrors the format: read the whole task first, then answer in full sentences in the target language",
     ],
     bg: "bg-language-acquisition",
   },
@@ -92,11 +102,12 @@ export const EASSESSMENT_AREAS: EArea[] = [
     name: "Interdisciplinary Learning",
     minutes: 120,
     slugs: ["interdisciplinary-learning"],
-    blurb: "Connect ideas from two subject groups to explain a real-world issue.",
+    blurb:
+      "Use stimulus material to evaluate and synthesise ideas from two subject groups about a real-world issue.",
     looksLike: [
-      "Case-study style tasks that need ideas from two subject groups",
-      "Questions reward disciplinary grounding, synthesising and communicating",
-      "Practise with topic questions, mixed tests and timed papers before the real task",
+      "A 2-hour on-screen exam in two tasks, using stimulus such as infographics, data, videos and articles",
+      "Two disciplines are chosen from Language and literature, Individuals and societies, Mathematics and Sciences",
+      "Criteria assessed: A Evaluating, B Synthesizing, C Reflecting. It is reported separately from your subject grades",
     ],
     bg: "bg-tertiary",
   },
@@ -117,8 +128,9 @@ export function formatDuration(minutes: number) {
 
 /**
  * Rough 1-7 estimate for the overall subject grade from a practice percentage.
- * Uses the standard MYP 32-point conversion (sum of four criteria, each 0-8).
- * The IB sets the real eAssessment boundaries every session, so this is only a guide.
+ * Uses the standard MYP 32-point conversion (sum of four criteria, each 0-8), the same scale
+ * schools use for internal assessment. The IB says on-screen exam boundaries are set from
+ * raw marks each session, so this is only a guide and is never a prediction.
  */
 const BOUNDARIES: [number, number][] = [
   [28, 7],
@@ -144,7 +156,10 @@ export function describeResult(fraction: number) {
   };
 }
 
-/** First of May 2027 is used only as the start of the exam window for the countdown. */
+/**
+ * 1 May is used only as a rough start of the May window for the countdown. Sessions run in
+ * May or November (the school chooses) and the IB sets exact dates, so check with your coordinator.
+ */
 export function daysToMaySession(now = new Date()): number {
   let year = now.getFullYear();
   let target = new Date(year, 4, 1);
@@ -186,7 +201,7 @@ export const EXAM_TIPS: { title: string; body: string }[] = [
   },
   {
     title: "Spend time by marks, not by mood",
-    body: "Roughly one minute per mark is a safe pace. If a 2-mark question is eating five minutes, flag it and come back.",
+    body: "Plan on about one to one and a quarter minutes per mark (a guide, not an IB rule). If a 2-mark question is eating five minutes, flag it and come back.",
   },
   {
     title: "Use evidence in every longer answer",
@@ -198,7 +213,7 @@ export const EXAM_TIPS: { title: string; body: string }[] = [
   },
   {
     title: "On-screen exam habits",
-    body: "Practise typing longer answers and using on-screen tools, because you will not be writing by hand. Get comfortable with the timer on this site.",
+    body: "The IB exam is taken on a computer. Practise typing longer answers and using on-screen tools such as drag and drop, copy and paste, graph plotting and drawing, an on-screen graphing calculator in maths, and play, pause and replay for video. Get comfortable with the timer on this site.",
   },
 ];
 

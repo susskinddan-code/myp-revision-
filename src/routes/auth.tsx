@@ -29,7 +29,10 @@ export const Route = createFileRoute("/auth")({
   validateSearch: (s: Record<string, unknown>): { redirect?: string | undefined } => {
     // Always return the key: if a rejected value were left out, TanStack would merge the raw search
     // string back in and the attacker's URL would still reach Route.useSearch().
-    return { redirect: safeRedirect(s["redirect"]) };
+    // An unencoded "+" in a hand-typed link ("?tab=Mixed+test") arrives as a space; paths never contain a
+    // raw space, so read it back as the "+" it was.
+    const raw = s["redirect"];
+    return { redirect: safeRedirect(typeof raw === "string" ? raw.replace(/ /g, "+") : raw) };
   },
   component: AuthPage,
 });
@@ -125,6 +128,31 @@ function AuthPage() {
     }
   }
 
+  // A failed email link comes back as "#error=...&error_code=..." in the address. Read it once after load
+  // (the server render cannot see the hash), then remove it so a refresh does not repeat the message.
+  const [linkProblem, setLinkProblem] = useState<"expired" | "other" | null>(null);
+  useEffect(() => {
+    const hash = window.location.hash;
+    if (!/[#&]error(=|_code=|_description=)/.test(hash)) return;
+    const p = new URLSearchParams(hash.replace(/^#/, ""));
+    const code = p.get("error_code");
+    const err = p.get("error");
+    setLinkProblem(
+      code === "otp_expired" || err === "access_denied" || code === "access_denied"
+        ? "expired"
+        : "other",
+    );
+    try {
+      window.history.replaceState(
+        window.history.state,
+        "",
+        window.location.pathname + window.location.search,
+      );
+    } catch {
+      /* address bar untouched */
+    }
+  }, []);
+
   return (
     <div className="page-fade mx-auto flex max-w-md flex-col gap-6 px-6 py-16">
       <div className="text-center">
@@ -141,6 +169,17 @@ function AuthPage() {
           Your answers, streak and weak topics are saved to your account.
         </p>
       </div>
+
+      {linkProblem && !recovering ? (
+        <p
+          role="alert"
+          className="rounded-md border border-destructive/40 bg-destructive/10 p-3 text-sm text-destructive"
+        >
+          {linkProblem === "expired"
+            ? 'This link is invalid or has expired. Use "Forgot password" to get a new one.'
+            : 'We could not complete sign-in from that link. Please try again, or use "Forgot password" to get a new link.'}
+        </p>
+      ) : null}
 
       {recovering ? (
         <div className="rounded-lg border border-border bg-card p-6 shadow-[var(--shadow-soft)]">

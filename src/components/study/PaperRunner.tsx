@@ -110,6 +110,8 @@ type Props = {
   persistKey?: string;
   /** Shown as a banner inside the exam, e.g. "new questions unavailable, saved tasks used". */
   notice?: string | null | undefined;
+  /** "Keep the earlier exam" in the session-conflict panel: open the saved exam itself (default: just exit). */
+  onKeepEarlier?: ((earlier: ExamSession) => void) | undefined;
 };
 
 export function PaperRunner({
@@ -122,6 +124,7 @@ export function PaperRunner({
   exitLabel,
   persistKey,
   notice,
+  onKeepEarlier,
 }: Props) {
   const { user, loading: authLoading } = useAuth();
   const mark = useServerFn(gradePaper);
@@ -139,6 +142,7 @@ export function PaperRunner({
   const [marks, setMarks] = useState<PaperMark[] | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [needsSignIn, setNeedsSignIn] = useState(false);
+  const [quotaHit, setQuotaHit] = useState(false);
   // Another paper's sitting is already saved under this key: ask before replacing it.
   const [conflict, setConflict] = useState<ExamSession | null>(() => {
     if (!persistKey || saved) return null;
@@ -289,6 +293,7 @@ export function PaperRunner({
         return result.marks;
       }
       setError(result.error);
+      setQuotaHit(result.errorCode === "quota");
       return null;
     } catch (e) {
       const d = describeError(e);
@@ -305,6 +310,7 @@ export function PaperRunner({
     setConfirmBlank(false);
     setError(null);
     setNeedsSignIn(false);
+    setQuotaHit(false);
     // A completely blank paper scores 0 without spending an AI call.
     if (questions.every((q) => fullResponse(q.position).length === 0)) {
       setMarks(
@@ -346,7 +352,7 @@ export function PaperRunner({
         <h2 className="font-display text-xl">You already have an exam in progress</h2>
         <p className="mt-2 text-sm text-muted-foreground">
           "{conflict.paper.title}" is saved on this device for this subject. Starting "{paper.title}
-          " will discard it. To carry on with the earlier one, go back and open this tab again.
+          " will discard it. To carry on with the earlier one, choose "Keep the earlier exam".
         </p>
         <div className="mt-4 flex flex-wrap gap-2">
           <Button
@@ -359,7 +365,11 @@ export function PaperRunner({
           >
             Discard it and start this one
           </Button>
-          <Button variant="outline" className="rounded-full" onClick={onExit}>
+          <Button
+            variant="outline"
+            className="rounded-full"
+            onClick={() => (onKeepEarlier ? onKeepEarlier(conflict) : onExit())}
+          >
             Keep the earlier exam
           </Button>
         </div>
@@ -484,7 +494,7 @@ export function PaperRunner({
                     onClick={() => setShowFormulas((v) => !v)}
                   >
                     <Sigma className="mr-1 size-4" />
-                    {showFormulas ? "Hide formulas" : "Formulas"}
+                    {showFormulas ? "Hide formulas" : "Formulas (revision aid)"}
                   </Button>
                 ) : null}
               </div>
@@ -698,6 +708,9 @@ export function PaperRunner({
       {error ? (
         <p className="mt-4 text-sm text-destructive" role="alert">
           {error}
+          {quotaHit
+            ? " Your answers are kept in this tab. Come back after the allowance resets and press Submit again, or copy them somewhere safe."
+            : null}
           {needsSignIn ? (
             <>
               {" "}

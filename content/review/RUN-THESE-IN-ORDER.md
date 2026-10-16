@@ -3,13 +3,14 @@
 All are safe to re-run. Paste each file into the SQL editor and press Run.
 
 1. `drizzle/migrations/0007_ai_hardening.sql` (cache counters, RPC lock-down)
-2. `drizzle/migrations/0008_rate_limits.sql` (daily AI allowance, report de-dup, revokes anon access to the cache tables)
+2. `drizzle/migrations/0008_rate_limits.sql` (run once; never re-run after 0009), then `drizzle/migrations/0009_ai_usage_buckets.sql` (separate daily allowances for typed checks vs exam marking)
+   (old item 2:) `0008_rate_limits.sql` (daily AI allowance, report de-dup, revokes anon access to the cache tables)
 3. `content/fixes/humanities-fixes.sql`  (expect 23 x UPDATE 1)
 4. `content/review/humanities-fixes.sql` (19 x UPDATE 1, 1 x UPDATE 2)
 5. `content/fixes/language-fixes.sql`    (42 x UPDATE 1)
 6. `content/review/languages-fixes.sql`  (10 x UPDATE 1)
 7. `content/review/language-fixes.sql`   (11 x UPDATE 1)
-8. `content/papers-widgets/load.sql`     (11 interactive-widget papers)
+8. `content/papers-widgets/load.sql`     (19 interactive-widget papers: maths, sciences, humanities, L&L, ab initio languages, interdisciplinary)
 9. `content/biology-myp4/sql/part-01-of-06.sql` ... `part-06-of-06.sql` (Biology MYP 4, 33 sub-topics). Check first that no MYP 4 Biology top-level topic has the same name as one of the new sub-topics.
 
 If a fix file reports UPDATE 0 for a whole subject, check that subject's slug in the `subjects` table.

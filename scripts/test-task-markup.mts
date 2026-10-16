@@ -11,6 +11,7 @@ import {
   niceScale,
   parseTaskBody,
   truncateLabel,
+  wrapLabel,
   widgetIds,
 } from "../src/lib/task-markup.ts";
 
@@ -151,7 +152,13 @@ bad("unknown kind", "{{video|v|x}}");
   assert.equal(formatNumber(0.00020000000001), "0.0002");
   assert.equal(truncateLabel("short"), "short");
   assert.equal(truncateLabel("a very long axis label"), "a very long…");
-  passed += 9;
+  // Axis labels are wrapped in full, never cut mid-word (null = rotate instead)
+  assert.deepEqual(wrapLabel("les jeux vidéo", 8), ["les jeux", "vidéo"]);
+  assert.deepEqual(wrapLabel("short", 8), ["short"]);
+  assert.equal(wrapLabel("Utiliser le téléphone", 4), null);
+  assert.equal(wrapLabel("one two three four five six", 7, 2), null);
+  assert.equal(wrapLabel("los videojuegos", 14)?.join(" "), "los videojuegos");
+  passed += 14;
 }
 
 // --- N2/M5: saved widget answers restore exactly (restore round trip)

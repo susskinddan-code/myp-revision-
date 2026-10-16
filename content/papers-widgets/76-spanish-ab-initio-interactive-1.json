@@ -1,0 +1,39 @@
+[
+ {
+  "subject": "spanish-ab-initio",
+  "grade": 5,
+  "format": "widget-practice",
+  "title": "Spanish ab initio MYP 5 Interactive Practice 1 (4 tasks, 28 marks)",
+  "criterion": null,
+  "questions": [
+   {
+    "marks": 7,
+    "criterion": "B",
+    "content": "[[Q 1 | B 7]]\nTarea 1: Leer un horario (Task 1: reading a timetable). Lee el horario y la nota de Clara (Read Clara's timetable and note), y contesta (and answer).\n\nHorario de Clara (martes)\n8:30 Matemáticas\n9:30 Inglés\n10:30 Recreo\n11:00 Ciencias\n12:00 Educación física\n13:00 Comida en la cafetería\n14:00 Arte\n\nNota de Clara: Mi asignatura favorita es el arte porque la profesora es muy simpática. No me gustan las ciencias porque son difíciles.\n\nElige la respuesta correcta (Choose the correct answer).\n(a) La primera clase es {{select|a1|matemáticas|inglés|arte}}. (1 mark)\n(b) El recreo es a las {{select|a2|nueve y media|diez y media|once}}. (1 mark)\n(c) Clara come a {{select|a3|la una|las dos|las tres}}. (1 mark)\n(d) Educación física es a las {{select|a4|doce|dos|ocho y media}}. (1 mark)\n(e) « Las ciencias son fáciles. » ¿Verdadero o falso? {{select|a5|Verdadero|Falso}} (1 mark)\n(f) What is Clara's favourite subject, and why? Answer in English. (2 marks)\n\nTotal for Question 1: 7 marks",
+    "mark_scheme": "(a) Interactive answer [a1] = matemáticas [1]. (b) [a2] = diez y media [1] (10:30). (c) [a3] = la una [1] (13:00). (d) [a4] = doce [1]. (e) [a5] = Falso [1] (Clara says they are difficult). (f) Art [1]; because the teacher is very nice / friendly [1].",
+    "position": 1
+   },
+   {
+    "marks": 7,
+    "criterion": "B",
+    "content": "[[Q 2 | B 5 | C 2]]\nTarea 2: Una encuesta (Task 2: a survey). En la clase de 3B se pregunta: « ¿Cuál es tu pasatiempo favorito? » (In class 3B the question is: What is your favourite pastime?)\n\n{{chart|bar|El pasatiempo favorito de los alumnos de 3B|Pasatiempo|Número de alumnos|el fútbol:10,los videojuegos:8,la música:7,el cine:5,la lectura:3}}\n\n(a) Completa la tabla (Complete the table). Escribe el pasatiempo en la primera columna y el número de alumnos en la segunda columna, para los tres pasatiempos más populares, del más popular al menos popular. (3 marks)\n{{fill|h1|Pasatiempo,Número de alumnos|3}}\n(b) El pasatiempo menos popular es {{select|h2|la lectura|el cine|la música}}. (1 mark)\n(c) Siete alumnos prefieren {{select|h3|los videojuegos|la música|el cine}}. (1 mark)\n(d) Escribe una frase en español: ¿cuál es tu pasatiempo favorito? (Write one sentence in Spanish about your favourite pastime.) Por ejemplo: « Me gusta nadar. » (2 marks)\n\nTotal for Question 2: 7 marks",
+    "mark_scheme": "(a) Interactive answer [h1] rows in order: (el fútbol, 10), (los videojuegos, 8), (la música, 7). Accept the hobby with or without its article, 'futbol' without the accent, and 'videojuegos'. One mark for each correct row [1] [1] [1]. (b) Interactive answer [h2] = la lectura [1] (3 students). (c) [h3] = la música [1] (7 students). (d) A clear sentence about a pastime with a verb or structure such as 'Me gusta ...' or 'Mi pasatiempo favorito es ...' [1]; correct spelling, article or verb form for the hobby chosen, for example 'Me gusta el tenis' or 'Juego al tenis' [1]. Accept any real hobby; do not reward a copy of the example alone.",
+    "position": 2
+   },
+   {
+    "marks": 7,
+    "criterion": "C",
+    "content": "[[Q 3 | B 3 | C 4]]\nTarea 3: Las palabras y la gramática (Task 3: words and grammar).\n\n(a) Relaciona cada lugar con su significado en inglés (Match each place to its English meaning). Un significado en inglés sobra (One English meaning is not needed). (3 marks)\n{{drag|m1|la biblioteca,el mercado,la estación|library,market,station,hospital}}\n\n(b) Completa las frases con la forma correcta (Complete the sentences with the correct form). (4 marks)\n1. Yo {{select|g1|como|comes|comen}} un bocadillo.\n2. Nosotros {{select|g2|bebemos|bebe|beben}} agua.\n3. Mi hermana {{select|g3|es|tiene|tienes}} doce años.\n4. ¿Quieres {{select|g4|un|una|unos}} ensalada?\n\nTotal for Question 3: 7 marks",
+    "mark_scheme": "(a) Interactive answer [m1]: la biblioteca = library [1]; el mercado = market [1]; la estación = station [1]. 'hospital' is a distractor. (b) Interactive answers [g1] = como [1] (yo form of comer); [g2] = bebemos [1] (nosotros form of beber); [g3] = tiene [1] (tener is used for age: tiene doce años); [g4] = una [1] (ensalada is feminine).",
+    "position": 3
+   },
+   {
+    "marks": 7,
+    "criterion": "C",
+    "content": "[[Q 4 | C 7]]\nTarea 4: Escribir un correo (Task 4: writing an email). Pablo, un chico español, te escribe (Pablo, a Spanish boy, writes to you).\n\n« Hola. Soy Pablo y vivo en Madrid. ¿Cómo es tu colegio? ¿Cuál es tu asignatura favorita? ¿Qué haces los fines de semana? Un saludo, Pablo »\n\n(a) Elige la forma correcta para empezar tu respuesta (Choose the correct way to begin your reply). {{select|w1|Querido Pablo|Querida Pablo|Queridos Pablo}} (1 mark)\n\n(b) Escribe tu respuesta en español, unas 30 a 40 palabras (Write your reply in Spanish, about 30 to 40 words). En tu correo: (6 marks)\n- describe tu colegio (describe your school);\n- di cuál es tu asignatura favorita (say your favourite subject);\n- di qué haces los fines de semana (say what you do at weekends);\n- haz una pregunta a Pablo (ask Pablo a question).\n\nTotal for Question 4: 7 marks",
+    "mark_scheme": "(a) Interactive answer [w1] = Querido Pablo [1] (Pablo is male, so the adjective is masculine singular). (b) Communication of the four points: school, favourite subject, weekend activities, a question to Pablo: all four clear [2]; two or three clear earns 1 mark instead. Vocabulary: appropriate words for the topic (for example colegio, grande, asignatura, me gusta, los sábados, ¿y tú?) used correctly [1]. Language accuracy: verb forms and agreements are mostly correct in simple sentences (for example mi colegio es grande, juego al fútbol) [2]; some correct forms with frequent errors earns 1 mark instead. Spelling, accents, inverted question marks, capital letters and a closing formula such as 'Un saludo' [1]. Maximum 6 marks for part (b). If the reply is under 15 words, award no more than 3 marks in total for part (b).",
+    "position": 4
+   }
+  ]
+ }
+]

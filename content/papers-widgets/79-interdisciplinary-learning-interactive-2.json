@@ -1,0 +1,39 @@
+[
+  {
+    "subject": "interdisciplinary-learning",
+    "grade": 5,
+    "format": "widget-practice",
+    "title": "Interdisciplinary Learning MYP 5 Interactive Practice 2 (4 tasks, 28 marks)",
+    "criterion": null,
+    "questions": [
+      {
+        "position": 1,
+        "marks": 7,
+        "criterion": "A",
+        "content": "[[Q 1 | A 7]]\nTHEME: Harlow Park School energy audit (Mathematics and Design)\nHarlow Park is a fictional school. A student team measured the electricity used in one typical week. The pie chart shows kWh used by each area.\n{{chart|pie|Electricity used in one week (kWh)|||Lighting:400,Computers:240,Kitchen:320,Heating pumps:480,Other:160}}\n(a) Calculate the total electricity used in the week, in kWh. (1 mark)\n(b) Complete the table with the percentage of the total used by each area. (3 marks)\n{{fill|t1|Area,Percentage|3}}\nFill in the rows for Lighting, Computers and Kitchen.\n(c) New LED lights would cut lighting use by 50%. Calculate the weekly saving and the new weekly total. (2 marks)\n(d) The area with the largest share of use is {{select|b1|Heating pumps|Lighting|Kitchen}}. (1 mark)\n\nTotal for Question 1: 7 marks",
+        "mark_scheme": "(a) 400 + 240 + 320 + 480 + 160 = 1600 kWh [1]. (b) Interactive answer [t1] rows: (Lighting, 25), (Computers, 15), (Kitchen, 20). Working 400/1600, 240/1600, 320/1600. Each correct row [1] [1] [1]; accept with or without the % sign. (c) 50% of 400 = 200 kWh saved per week [1]; new total 1600 - 200 = 1400 kWh [1]. (d) Interactive answer [b1] = Heating pumps (30%) [1]."
+      },
+      {
+        "position": 2,
+        "marks": 7,
+        "criterion": "A",
+        "content": "[[Q 2 | A 7]]\nThe team uses ideas from Mathematics and Design. (a) For each activity choose the subject that mainly supplies it. (4 marks)\n1. Showing that a 50% cut in lighting saves 200 kWh a week: {{select|s1|Mathematics|Design}}\n2. Deciding the colours and layout of a reminder sign so that staff will notice it: {{select|s2|Mathematics|Design}}\n3. Writing a design specification that states what a switch-off sign must do: {{select|s3|Mathematics|Design}}\n4. Using a graph to show when savings repay a cost: {{select|s4|Mathematics|Design}}\n(b) Match each stage of the design cycle to one action by the team. (3 marks)\n{{drag|c1|Inquiring and analysing,Developing ideas,Creating the solution|Interviewing staff about when lights are left on,Sketching three sign layouts and choosing one against the specification,Building the sign from a plan and recording changes,Testing the finished sign with users and suggesting improvements}}\n\nTotal for Question 2: 7 marks",
+        "mark_scheme": "(a) Interactive answers: [s1] = Mathematics [1]; [s2] = Design [1]; [s3] = Design [1]; [s4] = Mathematics [1]. (b) Interactive answer [c1]: Inquiring and analysing = interviewing staff about when lights are left on [1]; Developing ideas = sketching three sign layouts and choosing one against the specification [1]; Creating the solution = building the sign from a plan and recording changes [1]. 'Testing the finished sign...' belongs to the Evaluating stage, which is not in the table, so it is a distractor."
+      },
+      {
+        "position": 3,
+        "marks": 7,
+        "criterion": "B",
+        "content": "[[Q 3 | A 3 | B 4]]\nThe school can fit LED lights that cut lighting use by 50%. The fitting costs 5000 pounds. Electricity costs 0.25 pounds per kWh. The lights are used for 40 weeks each year, and the weekly saving is 200 kWh.\n(a) Calculate the saving in pounds in one year. (2 marks)\n(b) Plot the total saving after 1, 2, 3 and 4 years. The vertical axis is in thousands of pounds. (2 marks)\n{{plot|g1|0,5,0,10|Years|Total saving (thousand pounds)}}\n(c) The total saving reaches the 5000 pound fitting cost after {{select|g2|2|2.5|3}} years. (1 mark)\n(d) A design student adds motion sensors that switch lights off in empty rooms. Explain one way this could raise the saving above the 50% cut, and say what data the team should record to check it. (2 marks)\n\nTotal for Question 3: 7 marks",
+        "mark_scheme": "(a) 200 x 40 = 8000 kWh [1]; 8000 x 0.25 = 2000 pounds [1]. (b) Interactive answer [g1]: points (1, 2), (2, 4), (3, 6), (4, 8). At least three correct [1]; all four correct [1]. (c) Interactive answer [g2] = 2.5 (5000 / 2000) [1]. (d) Sensors stop lights being left on in empty rooms, which reduces hours of use and so uses less energy [1]; records weekly kWh for lighting before and after, or hours of use per room, and compares them [1]."
+      },
+      {
+        "position": 4,
+        "marks": 7,
+        "criterion": "D",
+        "content": "[[Q 4 | D 5 | C 2]]\n(a) Complete the table: for each subject, state one thing it could not show on its own about the plan. (2 marks)\n{{fill|e1|Subject,One thing it could not show on its own|2}}\nUse the rows Mathematics and Design.\n(b) The payback time of 2.5 years assumes that {{select|d1|the price of electricity and the hours of use stay the same|the LEDs never need replacing and cost nothing|every teacher agrees}}. (1 mark)\n(c) Explain what the team gained by combining Mathematics and Design rather than using one alone. (2 marks)\n(d) Write a message of no more than 40 words for the staff noticeboard that uses one figure from your calculations and asks for one clear action. (2 marks)\n\nTotal for Question 4: 7 marks",
+        "mark_scheme": "(a) Interactive answer [e1] rows. Mathematics: could not show whether staff would notice or follow a sign, or what the sign should look like [1]. Design: could not show how much energy or money is saved, or when the cost is repaid [1]. Accept equivalent valid limits. (b) Interactive answer [d1] = the price of electricity and the hours of use stay the same [1]. (c) A specific gain: calculations showed where the energy goes and how large the saving is, while design work turned this into a sign or feature people would use [1]; explains that together they give a solution that is both measurable and practical [1]. (d) Uses one accurate figure, for example 200 kWh a week or 2000 pounds a year, and one clear action [1]; clear, suitable for staff and within about 40 words [1]."
+      }
+    ]
+  }
+]

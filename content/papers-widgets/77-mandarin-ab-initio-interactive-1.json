@@ -1,0 +1,39 @@
+[
+ {
+  "subject": "mandarin-ab-initio",
+  "grade": 5,
+  "format": "widget-practice",
+  "title": "Mandarin ab initio MYP 5 Interactive Practice 1 (4 tasks, 28 marks)",
+  "criterion": null,
+  "questions": [
+   {
+    "marks": 7,
+    "criterion": "B",
+    "content": "[[Q 1 | B 7]]\n任务一：看菜单 (Rènwù yī: kàn càidān) Task 1: reading a menu. 请看菜单，然后回答问题 (Qǐng kàn càidān, ránhòu huídá wèntí). Read the menu, then answer.\n\n菜单 (Càidān)\n炒饭 (chǎofàn) 十二块 (shí'èr kuài)\n面条 (miàntiáo) 十块 (shí kuài)\n饺子 (jiǎozi) 十五块 (shíwǔ kuài)\n茶 (chá) 三块 (sān kuài)\n水 (shuǐ) 一块 (yí kuài)\n\n小明想吃饺子，也想喝茶。(Xiǎo Míng xiǎng chī jiǎozi, yě xiǎng hē chá.)\n\n请选择 (Qǐng xuǎnzé) Choose the correct answer.\n(a) 面条 (miàntiáo) 多少钱 (duōshao qián)? {{select|a1|十块 shí kuài|十二块 shí'èr kuài|十五块 shíwǔ kuài}} (1 mark)\n(b) 水 (shuǐ) 多少钱? {{select|a2|一块 yí kuài|三块 sān kuài|十块 shí kuài}} (1 mark)\n(c) 小明一共要付多少钱 (Xiǎo Míng yígòng yào fù duōshao qián)? How much will Xiǎo Míng pay in total? {{select|a3|十五块 shíwǔ kuài|十八块 shíbā kuài|二十块 èrshí kuài}} (1 mark)\n(d) 炒饭十五块。(Chǎofàn shíwǔ kuài.) {{select|a4|对 duì|不对 búduì}} (1 mark)\n(e) 菜单上最便宜的东西是 (Càidān shàng zuì piányi de dōngxi shì) the cheapest item on the menu is: {{select|a5|茶 chá|水 shuǐ|面条 miàntiáo}} (1 mark)\n(f) Write the Chinese word for \"dumplings\" from the menu. Characters or pinyin with tone marks. (1 mark)\n(g) How much is the tea? Answer in English. (1 mark)\n\nTotal for Question 1: 7 marks",
+    "mark_scheme": "(a) Interactive answer [a1] = 十块 shí kuài [1]. (b) [a2] = 一块 yí kuài [1]. (c) [a3] = 十八块 shíbā kuài [1] (饺子 15 + 茶 3 = 18). (d) [a4] = 不对 búduì [1] (炒饭 is 12 kuai). (e) [a5] = 水 shuǐ [1] (1 kuai). (f) 饺子 or jiǎozi [1] (accept jiaozi without tone marks). (g) 3 kuai / 3 yuan [1].",
+    "position": 1
+   },
+   {
+    "marks": 7,
+    "criterion": "B",
+    "content": "[[Q 2 | B 5 | C 2]]\n任务二：调查 (Rènwù èr: diàochá) Task 2: a survey. 三班的同学回答：“你最喜欢做什么？” (Sān bān de tóngxué huídá: \"Nǐ zuì xǐhuan zuò shénme?\") Class 3's students answer: What do you like doing best?\n\n爱好 (àihào) hobbies: 踢足球 (tī zúqiú), 玩游戏 (wán yóuxì), 听音乐 (tīng yīnyuè), 看电影 (kàn diànyǐng), 看书 (kàn shū)\n\n{{chart|bar|三班同学最喜欢的爱好|爱好|人数|踢足球:10,玩游戏:8,听音乐:7,看电影:5,看书:3}}\n\n(a) Complete the table. Write the hobby (characters, or pinyin with tone marks) in the first column and the number of students (digits) in the second column, for the three most popular hobbies, from most to least popular. (3 marks)\n{{fill|h1|爱好,人数|3}}\n(b) 哪个爱好的人数最少 (Nǎge àihào de rénshù zuì shǎo)? Which hobby has the fewest students? {{select|h2|看书 kàn shū|看电影 kàn diànyǐng|听音乐 tīng yīnyuè}} (1 mark)\n(c) 七个同学喜欢 (Qī ge tóngxué xǐhuan) seven students like: {{select|h3|玩游戏 wán yóuxì|听音乐 tīng yīnyuè|看电影 kàn diànyǐng}} (1 mark)\n(d) 请写一个句子 (Qǐng xiě yí ge jùzi): write one sentence in Chinese about your own hobby, for example 我喜欢游泳。(Wǒ xǐhuan yóuyǒng.) Characters are best; add pinyin with tone marks if you are unsure. (2 marks)\n\nTotal for Question 2: 7 marks",
+    "mark_scheme": "(a) Interactive answer [h1] rows in order: (踢足球, 10), (玩游戏, 8), (听音乐, 7). Accept the hobby in characters or in pinyin with tone marks (tī zúqiú, wán yóuxì, tīng yīnyuè); do not penalise a missing tone mark. One mark for each correct row [1] [1] [1]. (b) Interactive answer [h2] = 看书 kàn shū [1] (3 students). (c) [h3] = 听音乐 tīng yīnyuè [1] (7 students). (d) A clear sentence about a hobby with a subject and a verb such as 我喜欢 (wǒ xǐhuan) or 我爱 (wǒ ài) [1]; correct characters or pinyin and word order for the hobby chosen, for example 我喜欢打篮球 [1]. Accept any real hobby; do not reward a copy of the example alone.",
+    "position": 2
+   },
+   {
+    "marks": 7,
+    "criterion": "C",
+    "content": "[[Q 3 | B 3 | C 4]]\n任务三：词语和语法 (Rènwù sān: cíyǔ hé yǔfǎ) Task 3: words and grammar.\n\n(a) 请连线 (Qǐng liánxiàn) Match each place to its English meaning. One English meaning is not needed. (3 marks)\n{{drag|m1|图书馆 túshūguǎn,商店 shāngdiàn,火车站 huǒchēzhàn|library,shop,railway station,hospital}}\n\n(b) 请选择正确的词 (Qǐng xuǎnzé zhèngquè de cí) Choose the correct word. (4 marks)\n1. 我 {{select|g1|喝|吃|看}} 水。(Wǒ ___ shuǐ.)\n2. 我有两 {{select|g2|本|只|杯}} 书。(Wǒ yǒu liǎng ___ shū.)\n3. 我们 {{select|g3|坐|吃|喝}} 公共汽车去学校。(Wǒmen ___ gōnggòng qìchē qù xuéxiào.)\n4. 我 {{select|g4|不|没|别}} 喜欢鱼。(Wǒ ___ xǐhuan yú.)\n\nTotal for Question 3: 7 marks",
+    "mark_scheme": "(a) Interactive answer [m1]: 图书馆 túshūguǎn = library [1]; 商店 shāngdiàn = shop [1]; 火车站 huǒchēzhàn = railway station [1]. 'hospital' is a distractor. (b) Interactive answers [g1] = 喝 [1] (hē, drink water); [g2] = 本 [1] (běn, the measure word for books); [g3] = 坐 [1] (zuò, take a bus); [g4] = 不 [1] (bù, the usual negative before 喜欢).",
+    "position": 3
+   },
+   {
+    "marks": 7,
+    "criterion": "C",
+    "content": "[[Q 4 | C 7]]\n任务四：写短信 (Rènwù sì: xiě duǎnxìn) Task 4: writing a short message. 中国朋友小丽给你写信 (Zhōngguó péngyou Xiǎolì gěi nǐ xiě xìn). Your Chinese friend Xiǎolì writes to you.\n\n“你好！我叫小丽，我十四岁，我住在上海。你叫什么名字？你喜欢做什么？”\n(“Nǐ hǎo! Wǒ jiào Xiǎolì, wǒ shísì suì, wǒ zhù zài Shànghǎi. Nǐ jiào shénme míngzi? Nǐ xǐhuan zuò shénme?”)\n\n(a) 回信的开头应该写 (Huíxìn de kāitóu yīnggāi xiě) The best way to begin your reply is: {{select|w1|你好 Nǐ hǎo|再见 zàijiàn|谢谢 xièxie}} (1 mark)\n\n(b) Write your reply in Chinese, about 30 to 40 characters. Use characters if you can; add pinyin with tone marks if you are unsure. In your message: (6 marks)\n- say hello and say your name (你叫什么名字？);\n- say how old you are;\n- say what you like doing;\n- ask Xiǎolì a question.\n\nTotal for Question 4: 7 marks",
+    "mark_scheme": "(a) Interactive answer [w1] = 你好 Nǐ hǎo [1] (a greeting to begin a message). (b) Communication of the four points: name, age, what you like doing, a question to Xiǎolì: all four clear [2]; two or three clear earns 1 mark instead. Vocabulary: appropriate words for the topic (for example 我叫, 岁, 喜欢, 你呢, 你住在哪儿) used correctly [1]. Language accuracy: simple sentences with correct word order and measure words, for example 我十三岁, 我喜欢踢足球 [2]; some correct sentences with frequent errors earns 1 mark instead. Characters or pinyin are recognisable, with tone marks where pinyin is used, and sensible punctuation [1]. Maximum 6 marks for part (b). Accept pinyin with tone marks for any word the student cannot write in characters. If the reply is under 15 characters, award no more than 3 marks in total for part (b).",
+    "position": 4
+   }
+  ]
+ }
+]

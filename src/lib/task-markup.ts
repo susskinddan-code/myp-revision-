@@ -308,3 +308,25 @@ export function formatNumber(v: number): string {
 export function truncateLabel(s: string, max = 12): string {
   return s.length > max ? `${s.slice(0, max - 1)}…` : s;
 }
+
+/**
+ * Splits an axis label over at most `maxLines` lines of about `perLine` characters, breaking on spaces.
+ * Returns null when it cannot be done without cutting a word (the caller then rotates the label instead).
+ */
+export function wrapLabel(s: string, perLine: number, maxLines = 3): string[] | null {
+  const words = s.trim().split(/\s+/).filter(Boolean);
+  if (!words.length) return [""];
+  if (words.some((w) => w.length > perLine)) return null;
+  const lines: string[] = [];
+  let cur = "";
+  for (const w of words) {
+    if (!cur) cur = w;
+    else if (cur.length + 1 + w.length <= perLine) cur += ` ${w}`;
+    else {
+      lines.push(cur);
+      cur = w;
+    }
+  }
+  lines.push(cur);
+  return lines.length > maxLines ? null : lines;
+}

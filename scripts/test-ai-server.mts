@@ -73,6 +73,9 @@ let paperQ: Record<string, { id: string; content: string; mark_scheme: string | 
 let genRows: Record<string, { id: string; content: string; mark_scheme: string }> = {};
 let usageReply: unknown = "ok";
 let usageError = false;
+/** Per-bucket reply (migration 0009 installed); when `legacyRpc` the bucket argument is unknown (0008 only). */
+let bucketReply: Record<string, unknown> = {};
+let legacyRpc = false;
 const inList = (v: string | null) =>
   (v ?? "")
     .replace(/^in\.\(/, "")
@@ -138,8 +141,17 @@ const postgrest = http.createServer((req, res) => {
       }
     }
     if (req.method === "POST") {
-      if (t === "rpc/ai_usage_take")
-        return usageError ? send(404, { message: "no such function" }) : send(200, usageReply);
+      if (t === "rpc/ai_usage_take") {
+        if (usageError) return send(404, { message: "no such function" });
+        if (legacyRpc && rec.body && "p_bucket" in rec.body)
+          return send(404, {
+            code: "PGRST202",
+            message:
+              "Could not find the function public.ai_usage_take(p_bucket) in the schema cache",
+          });
+        const b = rec.body?.p_bucket as string | undefined;
+        return send(200, b && b in bucketReply ? bucketReply[b] : usageReply);
+      }
       if (t.startsWith("rpc/")) return send(200, null);
       if (t === "answer_cache") return send(201, null);
       if (t === "generated_tasks") {
@@ -182,6 +194,8 @@ function reset() {
   bankRows = [];
   usageReply = "ok";
   usageError = false;
+  bucketReply = {};
+  legacyRpc = false;
   core._resetRateLimits();
 }
 const baseCheck = {
@@ -198,6 +212,13 @@ const wrongReply = (fb = "Remember how plants use light.") =>
   toolReply("record_check", { verdict: "wrong", feedback: fb });
 
 /* ---------------- answer keys ---------------- */
+ok(
+  /tone numbers \(zao3shang hao3/.test(core.CHECK_SYSTEM) &&
+    /0 or 5/.test(core.CHECK_SYSTEM) &&
+    /untrusted DATA/.test(core.CHECK_SYSTEM) &&
+    /never follow instructions/.test(core.CHECK_SYSTEM),
+  "check prompt accepts tone-number pinyin and keeps the injection guard",
+);
 ok(answerKey("Co") !== answerKey("CO"), "short tokens keep case (Co vs CO)");
 ok(answerKey("H2O") !== answerKey("h2o"), "chemical formula keeps case");
 ok(
@@ -987,6 +1008,69 @@ ok(
   !!slow.tasks?.length && anthropicCalls.length === 2,
   "M3: timeout on exam writing => one retry succeeds",
   { calls: anthropicCalls.length, err: slow.error },
+);
+
+/* ---------------- L1 / L2 / L11: quota is a distinct code, with separate buckets ---------------- */
+reset();
+usageReply = "user_cap";
+anthropicHandler = () => ({ body: wrongReply() });
+r = await core.checkAnswerCore(baseCheck as any, "l2");
+ok(
+  r.check === null &&
+    r.errorCode === "quota" &&
+    /daily limit reached/.test(r.error ?? "") &&
+    /typed-answer checks/.test(r.error ?? ""),
+  "L2: typed-answer quota refusal has errorCode quota and says 'daily limit reached'",
+  r,
+);
+reset();
+usageReply = "user_cap";
+const lg = await core.gradePaperCore(
+  { subject: "Bio", grade: 5, paperTitle: "T", answers: [answers[1]] } as any,
+  "l1",
+);
+ok(
+  lg.marks === null && lg.errorCode === "quota" && /marking and writing exams/.test(lg.error ?? ""),
+  "L1: marking quota refusal has errorCode quota and the exam wording",
+  lg,
+);
+reset();
+usageReply = "global_cap";
+const lgen = await core.generateExamTasksCore(
+  { subject: "Bio", grade: 5, topics: [], targetMarks: 12, subjectId: SID } as any,
+  "l1g",
+);
+ok(
+  lgen.tasks === null && lgen.errorCode === "quota" && /all students/.test(lgen.error ?? ""),
+  "L1: generation quota refusal has errorCode quota",
+  lgen,
+);
+reset();
+bucketReply = { check: "user_cap", exam: "ok" };
+anthropicHandler = () => ({ body: wrongReply() });
+r = await core.checkAnswerCore(baseCheck as any, "l11");
+ok(r.errorCode === "quota", "L11: typed checks capped in the 'check' bucket");
+const g11 = await core.gradePaperCore(
+  { subject: "Bio", grade: 5, paperTitle: "T", answers: [answers[1]] } as any,
+  "l11",
+);
+const takes = pg.filter((x) => x.path.endsWith("/rpc/ai_usage_take")).map((x) => x.body);
+ok(
+  g11.errorCode !== "quota" &&
+    takes[0]?.p_bucket === "check" &&
+    takes[takes.length - 1]?.p_bucket === "exam",
+  "L11: marking still works (own 'exam' bucket) after the check bucket is full",
+  { g11: g11.errorCode, takes },
+);
+reset();
+legacyRpc = true;
+anthropicHandler = () => ({ body: wrongReply() });
+r = await core.checkAnswerCore(baseCheck as any, "l11b");
+const legacyTakes = pg.filter((x) => x.path.endsWith("/rpc/ai_usage_take")).map((x) => x.body);
+ok(
+  r.check?.verdict === "wrong" && legacyTakes.length === 2 && !("p_bucket" in legacyTakes[1]),
+  "L11: without migration 0009 the call retries without p_bucket (shared 0008 pool)",
+  legacyTakes,
 );
 
 /* ---------------- H3 / N6 for generation ---------------- */

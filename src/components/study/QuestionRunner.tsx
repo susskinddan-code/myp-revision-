@@ -49,7 +49,11 @@ export function QuestionRunner({
   const [status, setStatus] = useState<"answering" | "solved" | "revealed">("answering");
   const [checking, setChecking] = useState(false);
   // Set when the AI checker could not be reached: the try is not counted and nothing is marked wrong.
-  const [checkerDown, setCheckerDown] = useState(false);
+  // Why the AI checker could not be used: not available, daily allowance used up, or too many checks at once.
+  const [checkerDown, setCheckerDown] = useState<null | {
+    kind: "down" | "quota" | "busy";
+    text: string;
+  }>(null);
   const [needSignIn, setNeedSignIn] = useState(false);
   const checked = status !== "answering";
   const [score, setScore] = useState(0);
@@ -74,7 +78,7 @@ export function QuestionRunner({
     setInput("");
     setHistory([]);
     setStatus("answering");
-    setCheckerDown(false);
+    setCheckerDown(null);
   }
 
   if (finished) {
@@ -163,6 +167,7 @@ export function QuestionRunner({
     setChecking(true);
     let verdict: Verdict;
     let feedback: string;
+    let failure: { kind: "down" | "quota" | "busy"; text: string } = { kind: "down", text: "" };
     try {
       const res = await askCheck({
         data: {
@@ -178,19 +183,30 @@ export function QuestionRunner({
           history: history.map((h) => ({ answer: h.answer, feedback: h.feedback })),
         },
       });
-      if (!res.check) throw new Error(res.error ?? "no check");
+      if (!res.check) {
+        failure = {
+          kind:
+            res.errorCode === "quota"
+              ? "quota"
+              : res.error && /too quickly/i.test(res.error)
+                ? "busy"
+                : "down",
+          text: res.error ?? "",
+        };
+        throw new Error(res.error ?? "no check");
+      }
       verdict = res.check.verdict;
       feedback = res.check.feedback;
-      setCheckerDown(false);
+      setCheckerDown(null);
     } catch {
       // AI checker unavailable. A plain match can still confirm a right answer, but a miss proves
       // nothing: do not count it as an attempt or a wrong answer, keep the text, and say so.
       if (localCheck(answer, correctText)) {
         verdict = "correct";
         feedback = "That's right. (Checked locally because the answer checker is unavailable.)";
-        setCheckerDown(false);
+        setCheckerDown(null);
       } else {
-        setCheckerDown(true);
+        setCheckerDown(failure);
         setChecking(false);
         return;
       }
@@ -269,12 +285,34 @@ export function QuestionRunner({
           role="status"
           className="mt-4 rounded-md border border-accent/50 bg-accent/5 p-3 text-sm"
         >
-          <p className="font-medium">The answer checker is unavailable right now.</p>
-          <p className="mt-1 text-muted-foreground">
-            Only an exact match could be checked on this device, and yours did not match. That does
-            not mean it is wrong, and it did not use up an attempt. Try again in a moment, or use
-            Show answer.
-          </p>
+          {checkerDown.kind === "quota" ? (
+            <>
+              <p className="font-medium">Daily limit reached.</p>
+              <p className="mt-1 text-muted-foreground">
+                {checkerDown.text ||
+                  "You have used today's allowance of typed-answer checks. It resets tomorrow."}{" "}
+                Only an exact match can be checked on this device until then. Your answer did not
+                use up an attempt, and you can use Show answer.
+              </p>
+            </>
+          ) : checkerDown.kind === "busy" ? (
+            <>
+              <p className="font-medium">Slow down a little.</p>
+              <p className="mt-1 text-muted-foreground">
+                You are checking answers faster than the checker allows. Wait a few seconds and
+                press Check answer again. It did not use up an attempt.
+              </p>
+            </>
+          ) : (
+            <>
+              <p className="font-medium">The answer checker is unavailable right now.</p>
+              <p className="mt-1 text-muted-foreground">
+                Only an exact match could be checked on this device, and yours did not match. That
+                does not mean it is wrong, and it did not use up an attempt. Try again in a moment,
+                or use Show answer.
+              </p>
+            </>
+          )}
         </div>
       ) : null}
 

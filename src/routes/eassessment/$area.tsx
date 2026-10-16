@@ -1,7 +1,8 @@
-import { createFileRoute, Link, notFound } from "@tanstack/react-router";
+import { createFileRoute, Link, notFound, useNavigate } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
 import { useServerFn } from "@tanstack/react-start";
 import { generateExamTasks, type BankedTask } from "@/lib/ai.functions";
+import { fitToMinutes, minutesFor } from "@/lib/exam-fit";
 import { useEffect, useState } from "react";
 import { Clock, Lightbulb } from "lucide-react";
 import {
@@ -13,7 +14,6 @@ import {
   assembleWrittenExam,
   topicKeywords,
   shuffle,
-  marksOf,
   type PaperTask,
 } from "@/lib/myp";
 import {
@@ -25,7 +25,12 @@ import {
   formulaSheetFor,
 } from "@/lib/eassessment";
 import { masteryOf, STATUS_LABEL } from "@/lib/progress";
-import { loadExamSession, PaperRunner, type ExamTask } from "@/components/study/PaperRunner";
+import {
+  loadExamSession,
+  PaperRunner,
+  type ExamSession,
+  type ExamTask,
+} from "@/components/study/PaperRunner";
 import { useAuth } from "@/hooks/use-auth";
 import { Button } from "@/components/ui/button";
 
@@ -63,30 +68,87 @@ function AreaPage() {
   const [tab, setTab] = useState<Tab>(
     search.tab ?? (area.slugs.length ? "Readiness" : "Exam skills"),
   );
-  const [slug, setSlug] = useState<string | null>(search.subject ?? null);
+  const [slug, setSlugState] = useState<string | null>(search.subject ?? null);
+  const navigate = useNavigate({ from: Route.fullPath });
+  // Subject and tab live in the address bar too, so a reload (or a shared link) comes back to the same place
+  // and finds the exam saved for that subject.
+  const syncUrl = (next: { subject?: string | null; tab?: Tab }) =>
+    void navigate({
+      search: (prev: AreaSearch) => {
+        const out: AreaSearch = {};
+        const subj = next.subject === undefined ? (slug ?? prev.subject) : next.subject;
+        if (subj) out.subject = subj;
+        out.tab = next.tab ?? tab;
+        return out;
+      },
+      replace: true,
+      resetScroll: false,
+    });
+  const setSlug = (v: string) => {
+    setSlugState(v);
+    syncUrl({ subject: v });
+  };
+  const setTabAndUrl = (t: Tab) => {
+    setTab(t);
+    syncUrl({ tab: t });
+  };
 
-  const { data: subjects } = useQuery({
+  const { user: viewer } = useAuth();
+  const {
+    data: subjects,
+    isLoading: subjectsLoading,
+    isError: subjectsError,
+    refetch: refetchSubjects,
+  } = useQuery({
     queryKey: ["ea-subjects", area.key],
     queryFn: () => fetchSubjectsBySlugs(area.slugs, GRADE),
+    enabled: area.slugs.length > 0,
   });
   const subject = subjects?.find((s) => s.slug === slug) ?? subjects?.[0] ?? null;
+  // The student's answers, so each subject chip can show how ready they are (shared with the Readiness tab).
+  const { data: allAttempts } = useQuery({
+    queryKey: ["attempts", viewer?.id],
+    queryFn: () => fetchAttempts(viewer!.id),
+    enabled: !!viewer,
+  });
+  const readinessOf = (subjectId: string) => {
+    const own = (allAttempts ?? []).filter((a) => a.subject_id === subjectId);
+    return masteryOf(own.length, own.filter((a) => a.correct).length);
+  };
 
   // An exam saved in this browser tab (sessionStorage) that the student is not looking at: offer to resume it.
-  const [resume, setResume] = useState<{ tab: Tab; title: string } | null>(null);
+  // Every subject of the area is checked, not only the one on screen.
+  const [resume, setResume] = useState<{
+    tab: Tab;
+    slug: string;
+    title: string;
+    expired: boolean;
+  } | null>(null);
   const subjectIdForResume = subject?.id ?? null;
   useEffect(() => {
-    if (!subjectIdForResume) return setResume(null);
+    if (!subjectIdForResume || !subjects) return setResume(null);
     const keys: [Tab, string][] = [
       ["Timed paper", "timed"],
       ["Mixed test", "mixed"],
       ["Build my exam", "custom"],
     ];
-    for (const [t, k] of keys) {
-      const sess = loadExamSession(`${subjectIdForResume}:${k}`);
-      if (sess && t !== tab) return setResume({ tab: t, title: sess.paper.title });
-    }
+    const ordered = [
+      ...subjects.filter((s) => s.id === subjectIdForResume),
+      ...subjects.filter((s) => s.id !== subjectIdForResume),
+    ];
+    for (const sub of ordered)
+      for (const [t, k] of keys) {
+        const sess = loadExamSession(`${sub.id}:${k}`);
+        if (sess && (sub.id !== subjectIdForResume || t !== tab))
+          return setResume({
+            tab: t,
+            slug: sub.slug,
+            title: sess.paper.title,
+            expired: sess.endAt !== null && sess.endAt <= Date.now(),
+          });
+      }
     setResume(null);
-  }, [subjectIdForResume, tab]);
+  }, [subjectIdForResume, subjects, tab]);
 
   return (
     <div className="page-fade">
@@ -120,7 +182,7 @@ function AreaPage() {
                   variant="outline"
                   size="sm"
                   className="rounded-full"
-                  onClick={() => setTab(t)}
+                  onClick={() => setTabAndUrl(t)}
                 >
                   {t}
                 </Button>
@@ -144,6 +206,13 @@ function AreaPage() {
                 }`}
               >
                 {s.name}
+                {viewer && allAttempts ? (
+                  <span className="ml-2 text-xs opacity-80">
+                    {readinessOf(s.id).total
+                      ? `${Math.round(readinessOf(s.id).pct * 100)}%`
+                      : "new"}
+                  </span>
+                ) : null}
               </button>
             ))}
           </div>
@@ -155,11 +224,28 @@ function AreaPage() {
             className="mt-6 flex flex-wrap items-center justify-between gap-3 rounded-lg border border-primary/40 bg-primary/5 px-4 py-3 text-sm"
           >
             <span>
-              You have an exam in progress: <strong>{resume.title}</strong>. The clock is still
-              running.
+              {resume.expired ? (
+                <>
+                  Time ran out on <strong>{resume.title}</strong>. Your answers are saved and ready
+                  to be marked.
+                </>
+              ) : (
+                <>
+                  You have an exam in progress: <strong>{resume.title}</strong>. The clock is still
+                  running.
+                </>
+              )}
             </span>
-            <Button size="sm" className="rounded-full" onClick={() => setTab(resume.tab)}>
-              Resume exam
+            <Button
+              size="sm"
+              className="rounded-full"
+              onClick={() => {
+                setSlugState(resume.slug);
+                setTab(resume.tab);
+                syncUrl({ subject: resume.slug, tab: resume.tab });
+              }}
+            >
+              {resume.expired ? "Mark my answers" : "Resume exam"}
             </Button>
           </div>
         ) : null}
@@ -169,7 +255,7 @@ function AreaPage() {
             <button
               key={t}
               type="button"
-              onClick={() => setTab(t)}
+              onClick={() => setTabAndUrl(t)}
               className={`-mb-px border-b-2 px-4 py-2 text-sm transition-colors ${
                 tab === t
                   ? "border-primary font-medium text-foreground"
@@ -183,7 +269,12 @@ function AreaPage() {
 
         <div className="mt-8">
           {tab === "Readiness" && subject ? (
-            <Readiness subjectId={subject.id} slug={subject.slug} />
+            <Readiness
+              subjectId={subject.id}
+              slug={subject.slug}
+              subjectName={subject.name}
+              onGo={setTabAndUrl}
+            />
           ) : null}
           {tab === "Timed paper" && subject ? (
             <TimedPapers
@@ -211,9 +302,31 @@ function AreaPage() {
               areaKey={area.key}
             />
           ) : null}
-          {tab === "Exam skills" ? <ExamSkills /> : null}
-          {area.slugs.length && !subjects?.length && tab !== "Exam skills" ? (
-            <Empty text="No subjects in this area are available at MYP 5 yet." />
+          {tab === "Exam skills" ? (
+            <ExamSkills onGo={area.slugs.length ? setTabAndUrl : undefined} />
+          ) : null}
+          {area.slugs.length && subjectsLoading && tab !== "Exam skills" ? (
+            <p className="text-sm text-muted-foreground">Loading subjects…</p>
+          ) : null}
+          {area.slugs.length && subjectsError && tab !== "Exam skills" ? (
+            <div className="rounded-lg border border-dashed border-border bg-card p-10 text-center">
+              <p className="text-muted-foreground">
+                Could not load the subjects. Check your connection.
+              </p>
+              <Button className="mt-3 rounded-full" onClick={() => refetchSubjects()}>
+                Try again
+              </Button>
+            </div>
+          ) : null}
+          {area.slugs.length &&
+          !subjectsLoading &&
+          !subjectsError &&
+          !subjects?.length &&
+          tab !== "Exam skills" ? (
+            <Empty
+              text="No subjects in this area are available at MYP 5 yet."
+              action={{ to: "/subjects", label: "Browse all subjects" }}
+            />
           ) : null}
         </div>
       </div>
@@ -244,27 +357,103 @@ function SignInPrompt() {
   );
 }
 
-const fallbackNotice = (what: string, signedIn: boolean) =>
-  signedIn
-    ? `New-${what} writing is unavailable, so this uses saved tasks.`
-    : `Sign in to have new ${what}s written and your answers marked. This uses saved tasks.`;
+/** Banner shown inside an exam that could not be written fresh. `what` is the plural: "questions" or "papers". */
+const fallbackNotice = (what: string, signedIn: boolean, quotaText?: string | null) =>
+  quotaText
+    ? `${quotaText} This uses saved tasks, and it cannot be marked until your allowance resets.`
+    : signedIn
+      ? `Writing new ${what} is unavailable right now, so this uses saved tasks.`
+      : `Sign in to have new ${what} written and your answers marked. This uses saved tasks.`;
 
-function Readiness({ subjectId, slug }: { subjectId: string; slug: string }) {
+/** Saved tasks are fitted into the minutes asked for; offer extra candidates so the fit can fill them. */
+const FALLBACK_SLACK_MARKS = 40;
+
+/** Honest length when the saved tasks add up to clearly less than the minutes the button promised. */
+const lengthNote = (requested: number, sitting: number) =>
+  sitting < requested - 4
+    ? ` It runs ${sitting} minutes, not the ${requested} you asked for, because the saved tasks only add up to that.`
+    : "";
+
+type QuotaState = { text: string; minutes: number } | null;
+
+/** Shown instead of starting an exam that could only fail at Submit: the AI allowance is used up. */
+function QuotaPanel({
+  text,
+  busy,
+  onSitAnyway,
+  onLater,
+}: {
+  text: string;
+  busy: boolean;
+  onSitAnyway: () => void;
+  onLater: () => void;
+}) {
+  return (
+    <div role="alert" className="mt-4 rounded-lg border border-destructive/40 bg-destructive/5 p-4">
+      <p className="font-medium">Your AI allowance is used up for today</p>
+      <p className="mt-1 text-sm text-muted-foreground">{text}</p>
+      <p className="mt-2 text-sm text-muted-foreground">
+        Marking needs the AI, so an exam started now cannot be marked until the allowance resets
+        (tomorrow). You can still sit it with saved tasks and keep your answers in this tab, or come
+        back later for a fresh, marked exam. Your choices here are kept.
+      </p>
+      <div className="mt-3 flex flex-wrap gap-2">
+        <Button variant="outline" className="rounded-full" disabled={busy} onClick={onSitAnyway}>
+          {busy ? "Getting saved tasks…" : "Sit it anyway with saved tasks"}
+        </Button>
+        <Button className="rounded-full" onClick={onLater}>
+          Try later
+        </Button>
+      </div>
+    </div>
+  );
+}
+
+function Readiness({
+  subjectId,
+  slug,
+  subjectName,
+  onGo,
+}: {
+  subjectId: string;
+  slug: string;
+  subjectName: string;
+  onGo: (t: Tab) => void;
+}) {
   const { user } = useAuth();
-  const { data: topics, isLoading } = useQuery({
+  const {
+    data: topics,
+    isLoading,
+    isError,
+    refetch,
+  } = useQuery({
     queryKey: ["ea-topics", subjectId],
     queryFn: () => fetchAllTopics(subjectId, GRADE),
   });
-  const { data: attempts } = useQuery({
+  const { data: attempts, isLoading: attemptsLoading } = useQuery({
     queryKey: ["attempts", user?.id],
     queryFn: () => fetchAttempts(user!.id),
     enabled: !!user,
   });
 
   if (isLoading) return <p className="text-sm text-muted-foreground">Loading topics…</p>;
+  if (isError)
+    return (
+      <div className="rounded-lg border border-dashed border-border bg-card p-10 text-center">
+        <p className="text-muted-foreground">Could not load the topics. Check your connection.</p>
+        <Button className="mt-3 rounded-full" onClick={() => refetch()}>
+          Try again
+        </Button>
+      </div>
+    );
   const parents = (topics ?? []).filter((t) => !t.parent_topic_id);
   if (!parents.length)
-    return <Empty text="Topics for this subject at MYP 5 are still being built." />;
+    return (
+      <Empty
+        text="Topics for this subject at MYP 5 are still being built."
+        action={{ to: "/subjects/$slug", params: { slug }, label: `Open ${subjectName}` }}
+      />
+    );
 
   const own = (attempts ?? []).filter((a) => a.subject_id === subjectId);
   const rows = parents.map((p) => {
@@ -277,7 +466,14 @@ function Readiness({ subjectId, slug }: { subjectId: string; slug: string }) {
   });
   const started = rows.filter((r) => r.m.status !== "new").length;
   const order = { "needs-work": 0, new: 1, "getting-there": 2, strong: 3 } as const;
-  rows.sort((a, b) => order[a.m.status] - order[b.m.status]);
+  // Weakest first: by status bucket, then the lowest percentage (equal percentages keep their order).
+  rows.sort((a, b) => order[a.m.status] - order[b.m.status] || a.m.pct - b.m.pct);
+  // The headline counts exactly the answers the topic rows count (practice-paper answers have no topic).
+  const topicIds = new Set((topics ?? []).map((t) => t.id));
+  const topicOwn = own.filter((a) => a.topic_id && topicIds.has(a.topic_id));
+  const overall = masteryOf(topicOwn.length, topicOwn.filter((a) => a.correct).length);
+  const paperAnswers = own.length - topicOwn.length;
+  const weakest = rows.find((r) => r.m.status === "needs-work") ?? null;
 
   const tone = {
     new: "bg-secondary text-muted-foreground",
@@ -288,10 +484,84 @@ function Readiness({ subjectId, slug }: { subjectId: string; slug: string }) {
 
   return (
     <div>
-      <p className="text-sm text-muted-foreground">
+      <div className="rounded-lg border border-border bg-card p-5 shadow-[var(--shadow-soft)]">
+        <h2 className="font-display text-lg">{subjectName}: how ready are you?</h2>
+        {!user ? (
+          <p className="mt-2 text-sm text-muted-foreground">
+            Sign in and your readiness for each topic builds up as you answer questions.{" "}
+            <a
+              href={`/auth?redirect=${encodeURIComponent(
+                typeof window === "undefined"
+                  ? "/"
+                  : window.location.pathname + window.location.search,
+              )}`}
+              className="font-medium underline underline-offset-4"
+            >
+              Sign in
+            </a>
+          </p>
+        ) : attemptsLoading ? (
+          <p className="mt-2 text-sm text-muted-foreground">Loading your answers…</p>
+        ) : overall.total ? (
+          <>
+            <p className="mt-2 text-sm text-muted-foreground">
+              <strong className="text-foreground">{Math.round(overall.pct * 100)}%</strong> correct
+              from {overall.total} topic answers in {subjectName} ({STATUS_LABEL[overall.status]}).{" "}
+              {started} of {rows.length} topics started.
+              {paperAnswers > 0
+                ? ` Another ${paperAnswers} practice-paper answer${paperAnswers === 1 ? " is" : "s are"} not counted here.`
+                : ""}
+            </p>
+            {weakest ? (
+              <p className="mt-1 text-sm text-muted-foreground">
+                Spend your next hour on{" "}
+                <Link
+                  to="/subjects/$slug"
+                  params={{ slug }}
+                  search={{ grade: GRADE, tab: "Study", topic: weakest.topic.id }}
+                  className="font-medium text-foreground underline underline-offset-4"
+                >
+                  {weakest.topic.name}
+                </Link>
+                .
+              </p>
+            ) : null}
+          </>
+        ) : (
+          <p className="mt-2 text-sm text-muted-foreground">
+            No topic answers in {subjectName} yet. Answer a few questions in a topic below and your
+            readiness appears here.
+            {paperAnswers > 0
+              ? ` Your ${paperAnswers} practice-paper answer${paperAnswers === 1 ? " is" : "s are"} not counted in topic readiness.`
+              : ""}
+          </p>
+        )}
+        <div className="mt-3 flex flex-wrap gap-2">
+          <Button size="sm" className="rounded-full" onClick={() => onGo("Mixed test")}>
+            Sit a mixed test
+          </Button>
+          <Button
+            size="sm"
+            variant="outline"
+            className="rounded-full"
+            onClick={() => onGo("Timed paper")}
+          >
+            Timed paper
+          </Button>
+          <Button
+            size="sm"
+            variant="outline"
+            className="rounded-full"
+            onClick={() => onGo("Build my exam")}
+          >
+            Build my exam
+          </Button>
+        </div>
+      </div>
+      <p className="mt-6 text-sm text-muted-foreground">
         {user
-          ? `${started} of ${rows.length} topics started. Weakest first, so you know where to spend your next hour.`
-          : "Sign in and your readiness for each topic builds up as you answer questions."}
+          ? `Topics, weakest first. Open one to revise its notes and questions.`
+          : "Topics in this subject. Open one to revise its notes and questions."}
       </p>
       <ul className="mt-4 grid gap-3 md:grid-cols-2">
         {rows.map(({ topic, m }) => (
@@ -343,9 +613,35 @@ function TimedPapers({
   const [freshRun, setFreshRun] = useState(0);
   const [writing, setWriting] = useState(false);
   const [freshMsg, setFreshMsg] = useState<string | null>(null);
+  const [quota, setQuota] = useState<QuotaState>(null);
   const generate = useServerFn(generateExamTasks);
   const { user } = useAuth();
   const persistKey = `${subjectId}:timed`;
+
+  // A deep link (?paper=...) is used once: drop it from the address so a reload resumes the saved
+  // exam instead of restarting or re-asking, and leaving the exam does not bring it back.
+  useEffect(() => {
+    if (!initialPaperId) return;
+    try {
+      const url = new URL(window.location.href);
+      if (url.searchParams.has("paper")) {
+        url.searchParams.delete("paper");
+        window.history.replaceState(window.history.state, "", url.pathname + url.search + url.hash);
+      }
+    } catch {
+      /* address bar untouched */
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  // "Keep the earlier exam" in the session-conflict panel: open that earlier exam itself.
+  function keepEarlier(earlier: ExamSession) {
+    const exam = restoreExam(persistKey);
+    if (exam) {
+      setFresh(exam);
+      setFreshRun((r) => r + 1);
+    } else setPaperId(earlier.paper.id);
+  }
 
   // Resume an exam that was in progress before a reload.
   useEffect(() => {
@@ -359,9 +655,10 @@ function TimedPapers({
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
-  async function writeNew() {
+  async function writeNew(skipAi = false) {
     setWriting(true);
     setFreshMsg(null);
+    if (!skipAi) setQuota(null);
     try {
       const topics = await fetchAllTopics(subjectId, GRADE);
       const names = shuffle(topics.filter((t) => !t.parent_topic_id).map((t) => t.name));
@@ -369,9 +666,11 @@ function TimedPapers({
         tasks,
         fresh: ok,
         minutes,
+        quota: quotaText,
       } = await buildAiTasks({
         generate,
         signedIn: !!user,
+        skipAi,
         subjectId,
         subjectName,
         topicNames: names,
@@ -379,9 +678,10 @@ function TimedPapers({
         bankFallback: async () =>
           assembleWrittenExam(
             await fetchSubjectPaperTasks(subjectId, GRADE),
-            Math.round(areaMinutes / 1.2),
+            Math.round(areaMinutes / 1.2) + FALLBACK_SLACK_MARKS,
           ),
       });
+      if (quotaText) return setQuota({ text: quotaText, minutes: areaMinutes });
       if (!tasks.length) return setFreshMsg("No tasks available yet for this subject.");
       setFreshRun((r) => r + 1);
       setFresh({
@@ -389,7 +689,13 @@ function TimedPapers({
         tasks,
         minutes,
         title: `${subjectName} new practice paper`,
-        notice: ok ? null : fallbackNotice("paper", !!user),
+        notice: ok
+          ? null
+          : fallbackNotice(
+              "papers",
+              !!user,
+              skipAi ? (quota?.text ?? "Your AI allowance is used up.") : null,
+            ) + lengthNote(areaMinutes, minutes),
       });
     } catch {
       setFreshMsg("Could not write a paper right now. Try again.");
@@ -431,6 +737,7 @@ function TimedPapers({
         exam={{ minutes: fresh.minutes, formulas: formulaSheetFor(areaKey) }}
         exitLabel="All practice papers"
         onExit={() => setFresh(null)}
+        onKeepEarlier={keepEarlier}
       />
     );
   }
@@ -438,12 +745,14 @@ function TimedPapers({
     const count = paper.paper_questions?.[0]?.count ?? 0;
     return (
       <PaperRunner
+        key={paper.id}
         paper={paper}
         subjectId={subjectId}
         subjectName={subjectName}
         persistKey={persistKey}
         exam={{ minutes: suggested(count, paper.title), formulas: formulaSheetFor(areaKey) }}
         onExit={() => setPaperId(null)}
+        onKeepEarlier={keepEarlier}
       />
     );
   }
@@ -467,12 +776,20 @@ function TimedPapers({
           Full length, {areaMinutes} minutes, never seen before. AI writes every task fresh across
           the {subjectName} course.
         </p>
-        <Button className="mt-3 rounded-full" disabled={writing} onClick={writeNew}>
+        <Button className="mt-3 rounded-full" disabled={writing} onClick={() => writeNew()}>
           {writing
             ? "Writing your paper… this can take a couple of minutes"
             : "Write me a new paper"}
         </Button>
         {freshMsg ? <p className="mt-2 text-sm text-destructive">{freshMsg}</p> : null}
+        {quota ? (
+          <QuotaPanel
+            text={quota.text}
+            busy={writing}
+            onSitAnyway={() => writeNew(true)}
+            onLater={() => setQuota(null)}
+          />
+        ) : null}
       </div>
       <ul className="flex flex-col gap-3">
         {sortedPapers.map((p) => {
@@ -487,7 +804,9 @@ function TimedPapers({
                 <h3 className="font-display text-lg">{p.title}</h3>
                 <p className="text-sm text-muted-foreground">
                   {isMock(p.title) ? "Full-length mock · " : ""}
-                  {count} questions · {suggested(count, p.title)} minutes · AI marked
+                  {count} questions · {suggested(count, p.title)} minutes
+                  {isMock(p.title) && !marksInTitle(p.title) ? " (the real exam length)" : ""} · AI
+                  marked
                 </p>
               </button>
             </li>
@@ -557,6 +876,7 @@ async function buildAiTasks(opts: {
   }) => Promise<{
     tasks: BankedTask[] | null;
     error: string | null;
+    errorCode?: string;
     totalMarks?: number;
     minutes?: number;
   }>;
@@ -566,21 +886,32 @@ async function buildAiTasks(opts: {
   topicNames: string[];
   minutes: number;
   bankFallback: () => Promise<PaperTask[]>;
-}): Promise<{ tasks: ExamTask[]; fresh: boolean; minutes: number }> {
+  /** Skip the AI and use the stored tasks (the student chose to sit without marking). */
+  skipAi?: boolean;
+}): Promise<{ tasks: ExamTask[]; fresh: boolean; minutes: number; quota?: string }> {
   const targetMarks = Math.min(110, Math.round(opts.minutes / 1.2));
   try {
-    const res = opts.signedIn
-      ? await opts.generate({
-          data: {
-            subject: opts.subjectName,
-            subjectId: opts.subjectId,
-            grade: GRADE,
-            topics: opts.topicNames,
-            targetMarks,
-            seenIds: readList(SEEN_IDS_KEY, opts.subjectId).slice(0, 200),
-          },
-        })
-      : null;
+    const res =
+      opts.signedIn && !opts.skipAi
+        ? await opts.generate({
+            data: {
+              subject: opts.subjectName,
+              subjectId: opts.subjectId,
+              grade: GRADE,
+              topics: opts.topicNames,
+              targetMarks,
+              seenIds: readList(SEEN_IDS_KEY, opts.subjectId).slice(0, 200),
+            },
+          })
+        : null;
+    // The daily allowance is used up: tell the student now, before they invest time in an exam that cannot be marked.
+    if (res?.errorCode === "quota")
+      return {
+        tasks: [],
+        fresh: false,
+        minutes: opts.minutes,
+        quota: res.error ?? "You have used today's AI allowance. It resets tomorrow.",
+      };
     if (res?.tasks?.length) {
       writeList(
         SEEN_IDS_KEY,
@@ -588,12 +919,9 @@ async function buildAiTasks(opts: {
         res.tasks.map((t) => t.id).filter((id) => !id.startsWith("gen-new-")),
         150,
       );
-      // Honest sitting time: what the server worked out from the marks it returned (1.2 min per mark).
-      const got = res.minutes && res.minutes > 0 ? res.minutes : opts.minutes;
-      return {
-        fresh: true,
-        minutes: Math.max(5, Math.min(Math.ceil(opts.minutes * 1.2), got)),
-        tasks: res.tasks.map((t, i) => ({
+      // The stated minutes are a cap: trim tasks until the honest 1.2 min per mark fits inside them.
+      const tasks = fitToMinutes(
+        res.tasks.map((t, i) => ({
           id: t.id,
           paper_id: "generated",
           position: i + 1,
@@ -603,23 +931,25 @@ async function buildAiTasks(opts: {
           options: [],
           answer: 0,
           ...(t.sig ? { sig: t.sig } : {}),
-        })),
+        })) as ExamTask[],
+        opts.minutes,
+      );
+      return {
+        fresh: true,
+        minutes: Math.min(opts.minutes, minutesFor(tasks) || opts.minutes),
+        tasks,
       };
     }
   } catch {
     /* fall through to the stored bank */
   }
-  const tasks = await opts.bankFallback();
-  const marks = totalMarks(tasks);
+  const tasks = fitToMinutes(await opts.bankFallback(), opts.minutes);
+  const sitting = minutesFor(tasks);
   return {
     fresh: false,
     tasks,
-    minutes: marks ? Math.max(5, Math.round(marks * 1.2)) : opts.minutes,
+    minutes: sitting ? Math.min(opts.minutes, sitting) : opts.minutes,
   };
-}
-
-function totalMarks(tasks: PaperTask[]) {
-  return tasks.reduce((t, q) => t + marksOf(q.mark_scheme), 0);
 }
 
 function MixedTest({
@@ -635,6 +965,7 @@ function MixedTest({
   const [run, setRun] = useState(0);
   const [busy, setBusy] = useState(false);
   const [message, setMessage] = useState<string | null>(null);
+  const [quota, setQuota] = useState<QuotaState>(null);
   const generate = useServerFn(generateExamTasks);
   const { user } = useAuth();
   const persistKey = `${subjectId}:mixed`;
@@ -647,9 +978,10 @@ function MixedTest({
     }
   }, [persistKey]);
 
-  async function start(minutes: number) {
+  async function start(minutes: number, skipAi = false) {
     setBusy(true);
     setMessage(null);
+    if (!skipAi) setQuota(null);
     try {
       const topics = await fetchAllTopics(subjectId, GRADE);
       const names = shuffle(topics.filter((t) => !t.parent_topic_id).map((t) => t.name));
@@ -657,9 +989,11 @@ function MixedTest({
         tasks,
         fresh,
         minutes: sitting,
+        quota: quotaText,
       } = await buildAiTasks({
         generate,
         signedIn: !!user,
+        skipAi,
         subjectId,
         subjectName,
         topicNames: names,
@@ -667,9 +1001,13 @@ function MixedTest({
         bankFallback: async () =>
           assembleWrittenExam(
             await fetchSubjectPaperTasks(subjectId, GRADE),
-            Math.round(minutes / 1.2),
+            Math.round(minutes / 1.2) + FALLBACK_SLACK_MARKS,
           ),
       });
+      if (quotaText) {
+        setQuota({ text: quotaText, minutes });
+        return;
+      }
       if (!tasks.length) {
         setMessage("No written tasks for this subject at MYP 5 yet.");
         return;
@@ -680,7 +1018,13 @@ function MixedTest({
         tasks,
         minutes: sitting,
         title: `${subjectName} mixed test`,
-        notice: fresh ? null : fallbackNotice("question", !!user),
+        notice: fresh
+          ? null
+          : fallbackNotice(
+              "questions",
+              !!user,
+              skipAi ? (quota?.text ?? "Your AI allowance is used up.") : null,
+            ) + lengthNote(minutes, sitting),
       });
     } catch {
       setMessage("Could not build the test right now. Try again.");
@@ -717,7 +1061,7 @@ function MixedTest({
         {[
           { m: 30, l: "Short · 30 min" },
           { m: 60, l: "Half paper · 60 min" },
-          { m: 105, l: "Full length · 105 min" },
+          { m: 120, l: "Full length · 120 min" },
         ].map((o) => (
           <Button
             key={o.m}
@@ -736,6 +1080,14 @@ function MixedTest({
         </p>
       ) : null}
       {message ? <p className="mt-4 text-sm text-destructive">{message}</p> : null}
+      {quota ? (
+        <QuotaPanel
+          text={quota.text}
+          busy={busy}
+          onSitAnyway={() => start(quota.minutes, true)}
+          onLater={() => setQuota(null)}
+        />
+      ) : null}
     </div>
   );
 }
@@ -759,6 +1111,7 @@ function BuildExam({
   const [run, setRun] = useState(0);
   const [building, setBuilding] = useState(false);
   const [message, setMessage] = useState<string | null>(null);
+  const [quota, setQuota] = useState<QuotaState>(null);
   const generate = useServerFn(generateExamTasks);
   const { user } = useAuth();
   const persistKey = `${subjectId}:custom`;
@@ -779,7 +1132,8 @@ function BuildExam({
   const toggle = (list: string[], id: string) =>
     list.includes(id) ? list.filter((x) => x !== id) : [...list, id];
 
-  async function build() {
+  async function build(skipAi = false) {
+    if (!skipAi) setQuota(null);
     const chosen = picked.length ? picked : parents.map((p) => p.id);
     const words = new Set<string>();
     for (const id of chosen) {
@@ -795,9 +1149,11 @@ function BuildExam({
         tasks,
         fresh,
         minutes: sitting,
+        quota: quotaText,
       } = await buildAiTasks({
         generate,
         signedIn: !!user,
+        skipAi,
         subjectId,
         subjectName,
         topicNames: names,
@@ -811,9 +1167,13 @@ function BuildExam({
             return n;
           };
           const pool = picked.length ? all.filter((q) => hits(q) >= 2) : all;
-          return assembleWrittenExam(pool, Math.round(minutes / 1.2), hits);
+          return assembleWrittenExam(pool, Math.round(minutes / 1.2) + FALLBACK_SLACK_MARKS, hits);
         },
       });
+      if (quotaText) {
+        setQuota({ text: quotaText, minutes });
+        return;
+      }
       if (!tasks.length) {
         setMessage("No written tasks match those topics yet. Pick more topics.");
         return;
@@ -824,7 +1184,13 @@ function BuildExam({
         tasks,
         minutes: sitting,
         title: `${subjectName} custom exam`,
-        notice: fresh ? null : fallbackNotice("question", !!user),
+        notice: fresh
+          ? null
+          : fallbackNotice(
+              "questions",
+              !!user,
+              skipAi ? (quota?.text ?? "Your AI allowance is used up.") : null,
+            ) + lengthNote(minutes, sitting),
       });
     } catch {
       setMessage("Could not build the exam right now. Try again.");
@@ -877,7 +1243,7 @@ function BuildExam({
       </div>
       <h3 className="mt-5 font-display text-lg">Length</h3>
       <div className="mt-2 flex flex-wrap gap-2">
-        {[30, 60, 90, 105].map((n) => (
+        {[30, 60, 90, 120].map((n) => (
           <button
             key={n}
             type="button"
@@ -893,9 +1259,17 @@ function BuildExam({
         ))}
       </div>
       {message ? <p className="mt-4 text-sm text-destructive">{message}</p> : null}
-      <Button className="mt-6 rounded-full" disabled={building} onClick={build}>
+      <Button className="mt-6 rounded-full" disabled={building} onClick={() => build()}>
         {building ? "Writing your exam…" : "Build my exam"}
       </Button>
+      {quota ? (
+        <QuotaPanel
+          text={quota.text}
+          busy={building}
+          onSitAnyway={() => build(true)}
+          onLater={() => setQuota(null)}
+        />
+      ) : null}
       {building ? (
         <p className="mt-3 text-sm text-muted-foreground">
           Writing brand-new questions on your topics. This can take a couple of minutes.
@@ -905,45 +1279,82 @@ function BuildExam({
   );
 }
 
-function ExamSkills() {
+function ExamSkills({ onGo }: { onGo?: ((t: Tab) => void) | undefined }) {
   return (
-    <div className="grid gap-8 lg:grid-cols-2">
-      <section>
-        <h2 className="font-display text-2xl">Command terms</h2>
-        <p className="mt-1 text-sm text-muted-foreground">
-          The first word of a question tells you how much to write.
-        </p>
-        <dl className="mt-4 divide-y divide-border rounded-lg border border-border bg-card">
-          {COMMAND_TERMS.map((c) => (
-            <div key={c.term} className="grid gap-1 p-4 sm:grid-cols-[10rem_1fr]">
-              <dt className="font-medium">{c.term}</dt>
-              <dd className="text-sm text-muted-foreground">{c.meaning}</dd>
-            </div>
+    <div>
+      {onGo ? (
+        <div className="mb-6 flex flex-wrap items-center gap-2">
+          <span className="text-sm text-muted-foreground">Put it into practice</span>
+          {(["Timed paper", "Mixed test", "Build my exam"] as const).map((t) => (
+            <Button
+              key={t}
+              size="sm"
+              variant="outline"
+              className="rounded-full"
+              onClick={() => onGo(t)}
+            >
+              {t}
+            </Button>
           ))}
-        </dl>
-      </section>
-      <section>
-        <h2 className="font-display text-2xl">Exam technique</h2>
-        <ul className="mt-4 flex flex-col gap-3">
-          {EXAM_TIPS.map((t) => (
-            <li key={t.title} className="rounded-lg border border-border bg-card p-4">
-              <p className="flex items-center gap-2 font-medium">
-                <Lightbulb className="size-4 text-accent" />
-                {t.title}
-              </p>
-              <p className="mt-1 text-sm text-muted-foreground">{t.body}</p>
-            </li>
-          ))}
-        </ul>
-      </section>
+        </div>
+      ) : null}
+      <div className="grid gap-8 lg:grid-cols-2">
+        <section>
+          <h2 className="font-display text-2xl">Command terms</h2>
+          <p className="mt-1 text-sm text-muted-foreground">
+            The first word of a question tells you how much to write.
+          </p>
+          <dl className="mt-4 divide-y divide-border rounded-lg border border-border bg-card">
+            {COMMAND_TERMS.map((c) => (
+              <div key={c.term} className="grid gap-1 p-4 sm:grid-cols-[10rem_1fr]">
+                <dt className="font-medium">{c.term}</dt>
+                <dd className="text-sm text-muted-foreground">{c.meaning}</dd>
+              </div>
+            ))}
+          </dl>
+        </section>
+        <section>
+          <h2 className="font-display text-2xl">Exam technique</h2>
+          <ul className="mt-4 flex flex-col gap-3">
+            {EXAM_TIPS.map((t) => (
+              <li key={t.title} className="rounded-lg border border-border bg-card p-4">
+                <p className="flex items-center gap-2 font-medium">
+                  <Lightbulb className="size-4 text-accent" />
+                  {t.title}
+                </p>
+                <p className="mt-1 text-sm text-muted-foreground">{t.body}</p>
+              </li>
+            ))}
+          </ul>
+        </section>
+      </div>
     </div>
   );
 }
 
-function Empty({ text }: { text: string }) {
+function Empty({
+  text,
+  action,
+}: {
+  text: string;
+  action?:
+    | { to: "/subjects"; label: string }
+    | { to: "/subjects/$slug"; params: { slug: string }; label: string };
+}) {
   return (
     <div className="rounded-lg border border-dashed border-border bg-card p-10 text-center">
       <p className="text-muted-foreground">{text}</p>
+      {action ? (
+        <Button asChild variant="outline" className="mt-3 rounded-full">
+          {action.to === "/subjects" ? (
+            <Link to="/subjects">{action.label}</Link>
+          ) : (
+            <Link to="/subjects/$slug" params={action.params}>
+              {action.label}
+            </Link>
+          )}
+        </Button>
+      ) : null}
     </div>
   );
 }

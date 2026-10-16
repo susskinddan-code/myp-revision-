@@ -149,6 +149,17 @@ function langLoose(s: string): string {
     .replace(/['\s-]/g, "");
 }
 
+/**
+ * Tone-number pinyin as typed on a plain keyboard ("ni3 hao3", "shi2'er4", "lv4", "ma5") reduced to letters,
+ * so it can be compared with the accented stored form after accents are dropped.
+ */
+function toneNumbersOff(s: string): string {
+  return s
+    .normalize("NFKC")
+    .replace(/v(?=[0-5])/gi, "u")
+    .replace(/([a-z])[0-5](?!\d)/gi, "$1");
+}
+
 /** Forms the stored answer can be typed as: the whole text, the text without a gloss, and the gloss alone. */
 function answerForms(correct: string): string[] {
   const forms = [correct];
@@ -174,9 +185,11 @@ export function localCheck(student: string, correct: string): boolean {
   const forms = answerForms(correct);
   const sN = langNorm(student);
   const sL = langLoose(student);
+  const sT = /[a-z][0-5](?!\d)/i.test(student) ? langLoose(toneNumbersOff(student)) : "";
   if (sL) {
     for (const f of forms) {
       if (sN === langNorm(f) || sL === langLoose(f)) return true;
+      if (sT && sT === langLoose(f)) return true;
     }
     // Both parts typed in either order ("十二 shí'èr" / "shí'èr 十二").
     if (forms.length > 1) {
@@ -184,7 +197,7 @@ export function localCheck(student: string, correct: string): boolean {
       if (parts.length >= 2) {
         const [p0 = "", p1 = ""] = parts;
         const joined = [p0 + p1, p1 + p0];
-        if (joined.includes(sL)) return true;
+        if (joined.includes(sL) || (sT && joined.includes(sT))) return true;
       }
     }
   }

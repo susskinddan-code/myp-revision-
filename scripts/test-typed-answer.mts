@@ -1,6 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { localCheck, stemNeedsOptions } from "../src/lib/typed-answer.ts";
+import { fitToMinutes, minutesFor } from "../src/lib/exam-fit.ts";
 
 const cases: [string, string, boolean][] = [
   ["5 cm", "5 m", false],
@@ -28,6 +29,15 @@ const cases: [string, string, boolean][] = [
   ["shí'èr", "十二 (shí'èr)", true],
   ["shier", "十二 (shí'èr)", true],
   ["shi'er", "十二 (shí'èr)", true],
+  // Tone-number pinyin (L10)
+  ["ni3 hao3", "你好 (nǐ hǎo)", true],
+  ["ni3hao3", "你好 (nǐ hǎo)", true],
+  ["你好 ni3 hao3", "你好 (nǐ hǎo)", true],
+  ["shi2'er4", "十二 (shí'èr)", true],
+  ["lv4", "绿 (lǜ)", true],
+  ["ni3 hao4", "你好 (nǐ hǎo)", true],
+  ["xie4xie5", "谢谢 (xièxie)", true],
+  ["ni3 hao3 ma5", "你好 (nǐ hǎo)", false],
   ["十二 shí'èr", "十二 (shí'èr)", true],
   ["shí'èr 十二", "十二 (shí'èr)", true],
   ["十二（shí'èr）", "十二 (shí'èr)", true],
@@ -174,6 +184,46 @@ if (process.env.DUMP) {
   const pick = (a: string[]) => a.sort(() => Math.random() - 0.5).slice(0, 40);
   console.log("--- SHOWN ---\n" + pick(shownList).join("\n"));
   console.log("--- HIDDEN ---\n" + pick(hiddenList).join("\n"));
+}
+/* L9: the stated minutes are a cap on the sitting */
+{
+  const mk = (marks: number, i: number) => ({
+    content: `[[Q ${i} | A ${marks}]] question ${i}`,
+    mark_scheme: `Answer [${marks}]`,
+    position: i,
+  });
+  const pool = Array.from({ length: 30 }, (_, i) => mk(5 + (i % 4) * 2, i + 1));
+  for (const cap of [30, 60, 105, 120]) {
+    const fitted = fitToMinutes(pool, cap);
+    const mins = minutesFor(fitted);
+    const okFit = mins > 0 && mins <= cap && mins >= cap * 0.8;
+    if (!okFit) {
+      bad++;
+      console.log(`FAIL L9 cap ${cap}: ${mins} min from ${fitted.length} tasks`);
+    }
+    const nums = fitted.map((t) => t.position).join();
+    if (nums !== fitted.map((_, i) => i + 1).join()) {
+      bad++;
+      console.log("FAIL L9 renumber", nums);
+    }
+    if (!/^\[\[Task 1 /.test(fitted[0]!.content)) {
+      bad++;
+      console.log("FAIL L9 header", fitted[0]!.content);
+    }
+  }
+  // 127 minutes of stored tasks against a stated 105 => trimmed to <= 105
+  const big = Array.from({ length: 9 }, (_, i) => mk(12, i + 1)); // 108 marks = 130 min
+  if (minutesFor(big) <= 105 || minutesFor(fitToMinutes(big, 105)) > 105) {
+    bad++;
+    console.log(
+      "FAIL L9 stored-paper overshoot",
+      minutesFor(big),
+      minutesFor(fitToMinutes(big, 105)),
+    );
+  }
+  if (minutesFor(fitToMinutes(pool, 60)) > 60) bad++;
+  if (fitToMinutes([], 30).length !== 0) bad++;
+  if (fitToMinutes([mk(40, 1)], 30).length !== 1) bad++; // never returns an empty paper
 }
 console.log(
   bad ? `${bad} failed` : `all ${cases.length + stems.length + withAnswer.length} passed`,

@@ -11,6 +11,7 @@ import {
   niceScale,
   parseTaskBody,
   truncateLabel,
+  wrapLabel,
   type Widget,
 } from "@/lib/task-markup";
 
@@ -583,10 +584,15 @@ function Chart({ widget }: { widget: Extract<Widget, { kind: "chart" }> }) {
   const left = Math.max(40, Math.max(...tickText.map((t) => t.length)) * 6 + 20);
   const right = 10;
   const bw = (W - left - right) / n;
-  const labels = widget.data.map((d) => truncateLabel(d.label));
+  // Category names are shown in full: wrapped over up to 3 lines when they fit, otherwise rotated
+  // (and only then shortened, at 24 characters). The data table under the chart always has the full text.
+  const perLine = Math.max(3, Math.floor((bw * 0.95) / 5.6));
+  const wrapped = widget.data.map((d) => wrapLabel(d.label, perLine));
+  const rotate = wrapped.some((w) => w === null);
+  const labels = widget.data.map((d) => truncateLabel(d.label, 24));
   const maxLen = Math.max(...labels.map((l) => l.length));
-  const rotate = maxLen * 5.6 > bw * 0.95;
-  const labelExtent = rotate ? Math.ceil(maxLen * 5.6 * 0.58) + 6 : 12;
+  const maxLines = Math.max(...wrapped.map((w) => w?.length ?? 1));
+  const labelExtent = rotate ? Math.ceil(maxLen * 5.6 * 0.58) + 6 : 12 * maxLines;
   const bottom = H - 26 - labelExtent;
   const top = 14;
   const sy = (v: number) => bottom - ((v - lo) / (hi - lo)) * (bottom - top);
@@ -607,9 +613,29 @@ function Chart({ widget }: { widget: Extract<Widget, { kind: "chart" }> }) {
     ) : (
       <text x={cx(i)} y={bottom + 14} fontSize="10" textAnchor="middle" fill="var(--foreground)">
         <title>{widget.data[i]!.label}</title>
-        {labels[i]}
+        {(wrapped[i] ?? [labels[i]!]).map((line, k) => (
+          <tspan key={k} x={cx(i)} dy={k === 0 ? 0 : 12}>
+            {line}
+          </tspan>
+        ))}
       </text>
     );
+  const valueLabel = (i: number) => {
+    const v = widget.data[i]!.value;
+    const below = v < 0;
+    return (
+      <text
+        x={cx(i)}
+        y={below ? sy(v) + 11 : sy(v) - 4}
+        fontSize="10"
+        fontWeight="600"
+        textAnchor="middle"
+        fill="var(--foreground)"
+      >
+        {formatNumber(v)}
+      </text>
+    );
+  };
   return (
     <figure className="my-3 font-normal">
       <svg
@@ -648,6 +674,7 @@ function Chart({ widget }: { widget: Extract<Widget, { kind: "chart" }> }) {
                 height={Math.abs(sy(0) - sy(d.value))}
                 fill="var(--primary)"
               />
+              {valueLabel(i)}
               {xLabel(i)}
             </g>
           ))
@@ -662,6 +689,7 @@ function Chart({ widget }: { widget: Extract<Widget, { kind: "chart" }> }) {
             {widget.data.map((d, i) => (
               <g key={i}>
                 <circle cx={cx(i)} cy={sy(d.value)} r="3.5" fill="var(--primary)" />
+                {valueLabel(i)}
                 {xLabel(i)}
               </g>
             ))}
@@ -687,6 +715,21 @@ function Chart({ widget }: { widget: Extract<Widget, { kind: "chart" }> }) {
           {widget.yl}
         </text>
       </svg>
+      <table className="mt-1 w-full max-w-md border-collapse text-xs">
+        <caption className="sr-only">{widget.title || "Chart"}: exact values</caption>
+        <tbody>
+          {widget.data.map((d, i) => (
+            <tr key={i} className="border-t border-border">
+              <th scope="row" className="py-0.5 pr-3 text-left font-normal break-words">
+                {d.label}
+              </th>
+              <td className="py-0.5 text-right font-medium tabular-nums">
+                {formatNumber(d.value)}
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
       {widget.title ? (
         <figcaption className="text-xs text-muted-foreground">{widget.title}</figcaption>
       ) : null}
